@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,054 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,083 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Desocupa](https://open.spotify.com/track/473DqaeIno75pBbp0bNrkT) | [Matheus Vargas](https://open.spotify.com/artist/61Y0yB7JKvkyHQ5g4Neirl), [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Altas Modas](https://open.spotify.com/album/59doVfwiWIHdhD7lKWpwGh) | 2:30 |
 | 50 | [Mentes Tão Bem \(Mientes Tan Bien\)](https://open.spotify.com/track/1VEyDlRdDIKopb4YRgbCFe) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Country Sessions 2](https://open.spotify.com/album/68OY0mYlWfoIDE30464mi6) | 3:40 |
 
-Snapshot ID: `MMejKAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MMjv+AAAAAAAAAAAAAAAAAAAAAAAAGVu`

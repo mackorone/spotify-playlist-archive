@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Leozin
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,257 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,248 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 50 | [Pisca Duas Vezes](https://open.spotify.com/track/6mLPEdGqvEtQ3gKZ7lQAX1) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [AnjO 005](https://open.spotify.com/artist/4JNDTzpVfxrzffzbK2qVn3), [Agostinhx](https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL), [sONTH](https://open.spotify.com/artist/1d0DvzCeLWFfznOsLNvjL9) | [É Disso Que Eu Me Alimento](https://open.spotify.com/album/3c3KwsgclCMiakrOkw4mUg) | 2:20 |
 | 51 | [como ela não me quer?](https://open.spotify.com/track/3JTIJFR3EVud1Rah0HPRbA) | [Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An), [MHRAP](https://open.spotify.com/artist/7w4W5Yr7oTBAqhglv0IP87) | [?](https://open.spotify.com/album/74rfsx02SO5X8bbsGv08dA) | 2:25 |
 | 52 | [zaza](https://open.spotify.com/track/6Asc5kP4mYUpUXaAqYJV3x) | [offshino](https://open.spotify.com/artist/4N4kqyYIGUt0KAQQFpanfK), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [Tuti](https://open.spotify.com/artist/3Ff18fP2gp1bup70cxOaYM), [NovaChance](https://open.spotify.com/artist/7gQSUv8yp5lKdxra1Dvk9L) | [zaza](https://open.spotify.com/album/5sUfmDmImKYdl78AbCODyj) | 2:12 |
-| 53 | [Mateus](https://open.spotify.com/track/6LtWq7rM3IONd50BsahTMg) | [Barsi](https://open.spotify.com/artist/4VH0ZVjaSqnZbzFV08uWJV) | [PRESENTE](https://open.spotify.com/album/0ZiX8NTHIEDj8jqy3TFhNr) | 2:45 |
+| 53 | [Mateus](https://open.spotify.com/track/6LtWq7rM3IONd50BsahTMg) | [Barsi](https://open.spotify.com/artist/4VH0ZVjaSqnZbzFV08uWJV), [Nocap Ent](https://open.spotify.com/artist/1b1KQSy5t4DqmoWNaa3yoe) | [PRESENTE](https://open.spotify.com/album/0ZiX8NTHIEDj8jqy3TFhNr) | 2:45 |
 | 54 | [James Harden](https://open.spotify.com/track/0dlDz5kY2g6j0CO5i7WZjN) | [Polak](https://open.spotify.com/artist/3NEjoRUzpt9KTMIUrCvpTT), [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [zakkkog](https://open.spotify.com/artist/4VSkETexmQnNThNCjKFQ0O), [kt](https://open.spotify.com/artist/2HM52o6e3bXX1DvVtAA3EP) | [James Harden](https://open.spotify.com/album/5NOzlkFHVKx2LC2O9okI2a) | 3:28 |
 | 55 | [5 ESTRELAS](https://open.spotify.com/track/4nA4q1FTksRKfUQDPHcRuF) | [SAN](https://open.spotify.com/artist/6Qq7MNNQgP4ibTXxuQ40Iq), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo) | [5 ESTRELAS](https://open.spotify.com/album/6Sp3wVlRV0RjuEJVUmQ7R4) | 1:44 |
 | 56 | [MEU PROPÓSITO](https://open.spotify.com/track/1qYcPVKqpYbVZnXjCY6B5d) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB) | [PROPÓSITO](https://open.spotify.com/album/2kgc7P8CYgDu4n0yO5WEd2) | 2:25 |

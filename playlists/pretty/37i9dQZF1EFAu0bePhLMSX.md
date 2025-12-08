@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 668 likes - 163 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 669 likes - 163 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,8 +153,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 143 | [Young Free and Happy](https://open.spotify.com/track/6JqPpvs0GiNDkEM9Gciawx) | [Girl Thing](https://open.spotify.com/artist/6u7Xu6msBBuSXGyl60BuQF) | [Girl Thing](https://open.spotify.com/album/6rQuZ9mCt1q6y9n71tIk08) | 4:07 |
 | 144 | [Lovers Rock](https://open.spotify.com/track/7mhej3Ia2MCc70ezcZdYuB) | [ABS](https://open.spotify.com/artist/2T3J7n1kgrAa4ujlAiFzcQ) | [Abstract Theory](https://open.spotify.com/album/0MnIIyrXuXQCRtdNurf8Zp) | 4:29 |
 | 145 | [We've Come to Mambo](https://open.spotify.com/track/2uACes9D0g1UTWKuc5uLBy) | [Girl Thing](https://open.spotify.com/artist/6u7Xu6msBBuSXGyl60BuQF) | [Girl Thing](https://open.spotify.com/album/6rQuZ9mCt1q6y9n71tIk08) | 3:11 |
-| 146 | [Sparks](https://open.spotify.com/track/2l5Erct877PPZUx7Iy3HUD) | [Matt Cardle](https://open.spotify.com/artist/3906URNmNa1VCXEeiJ3DSH) | [Sparks](https://open.spotify.com/album/58NN8n8lTv4Xn4xtKjWWE5) | 4:09 |
-| 147 | [The Heat](https://open.spotify.com/track/1ZRcGc6x4HMkjCbXgXIduO) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [From The Archives](https://open.spotify.com/album/2AQwQAsBmi96TuYOO7j81g) | 3:09 |
+| 146 | [The Heat](https://open.spotify.com/track/1ZRcGc6x4HMkjCbXgXIduO) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [From The Archives](https://open.spotify.com/album/2AQwQAsBmi96TuYOO7j81g) | 3:09 |
+| 147 | [Sparks](https://open.spotify.com/track/2l5Erct877PPZUx7Iy3HUD) | [Matt Cardle](https://open.spotify.com/artist/3906URNmNa1VCXEeiJ3DSH) | [Sparks](https://open.spotify.com/album/58NN8n8lTv4Xn4xtKjWWE5) | 4:09 |
 | 148 | [Don't Weigh Me Down](https://open.spotify.com/track/2S2GEzXQjblhoGmUN5TEB4) | [Joana Zimmer](https://open.spotify.com/artist/340O8IdnPypHteCD0Z5DPL) | [The Voice In Me](https://open.spotify.com/album/6c3SCdN0M0AlbxxxlGduQk) | 4:10 |
 | 149 | [Angel](https://open.spotify.com/track/4lzbo0gNN4eLddXQxxnKoQ) | [ABS](https://open.spotify.com/artist/2T3J7n1kgrAa4ujlAiFzcQ) | [Abstract Theory](https://open.spotify.com/album/0MnIIyrXuXQCRtdNurf8Zp) | 4:41 |
 | 150 | [Apology](https://open.spotify.com/track/1mK9J5z2FT4V3Tac9igAf6) | [Ant & Dec](https://open.spotify.com/artist/2gmeFH5Iz8UEA7K0OHDePQ), [PJ & Duncan](https://open.spotify.com/artist/6x9DlX8BIJFFXMLScv0KDB) | [The Cult Of Ant & Dec](https://open.spotify.com/album/5m8lVfGTkYBRt07g9HUEH7) | 13:14 |
@@ -166,10 +166,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 156 | [Don't Let Me Down](https://open.spotify.com/track/17my6iBMd8qwYN2AZkTM5B) | [PJ & Duncan](https://open.spotify.com/artist/6x9DlX8BIJFFXMLScv0KDB), [Ant & Dec](https://open.spotify.com/artist/2gmeFH5Iz8UEA7K0OHDePQ) | [B Sides](https://open.spotify.com/album/6t4FKATeqkOSX5p6CKz7gX) | 4:17 |
 | 157 | [If You're Not the One](https://open.spotify.com/track/7cUGCNaBv1VyT5PBcscbQI) | [ELLE](https://open.spotify.com/artist/5Vd00Fe9ZNC4S7ataOQg32) | [If You're Not the One](https://open.spotify.com/album/4N2XwCs5NLHmBwtm6wPQq4) | 3:40 |
 | 158 | [Ready or Not](https://open.spotify.com/track/1W9kMx5nVlaEkwthVPRsHU) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On \(Bonus Tracks\)](https://open.spotify.com/album/6CikpwBZ9d6duiV4Tu3yMs) | 3:49 |
-| 159 | [Cry](https://open.spotify.com/track/5lrF6CM7EclW9KFIkGVycm) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Friday's Child \(Bonus Tracks\)](https://open.spotify.com/album/7EatTXBEeO444ceZAAH7pw) | 4:22 |
-| 160 | [Nothing to Lose](https://open.spotify.com/track/5M5JzAbGN9Q6dRVJM6Mq9a) | [Russell Small](https://open.spotify.com/artist/0vL4qy0qYMzmuhPAs9Tf16), [DNO P](https://open.spotify.com/artist/1nuEitOh4LULWX8yZS216o), [Katherine Ellis](https://open.spotify.com/artist/0lfJrTVCYNYwajS1I6G96p) | [Earworm](https://open.spotify.com/album/4GAyxaCk4NAHBy394qMsfN) | 4:46 |
+| 159 | [Nothing to Lose](https://open.spotify.com/track/5M5JzAbGN9Q6dRVJM6Mq9a) | [Russell Small](https://open.spotify.com/artist/0vL4qy0qYMzmuhPAs9Tf16), [DNO P](https://open.spotify.com/artist/1nuEitOh4LULWX8yZS216o), [Katherine Ellis](https://open.spotify.com/artist/0lfJrTVCYNYwajS1I6G96p) | [Earworm](https://open.spotify.com/album/4GAyxaCk4NAHBy394qMsfN) | 4:46 |
+| 160 | [Cry](https://open.spotify.com/track/5lrF6CM7EclW9KFIkGVycm) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Friday's Child \(Bonus Tracks\)](https://open.spotify.com/album/7EatTXBEeO444ceZAAH7pw) | 4:22 |
 | 161 | [Gonna Get It This Time](https://open.spotify.com/track/4GhrAsUbo4HmTZvXYlxSke) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Let It Go \(Bonus Tracks\)](https://open.spotify.com/album/2ubU9zi8NfQ1qXRNGkLIoi) | 4:03 |
 | 162 | [Rettungsschwimmer](https://open.spotify.com/track/20n7znKJtjth2aRVoTD3OS) | [Kinderfete](https://open.spotify.com/artist/3T6CmDs4rszGZqlL7PClxC) | [Kinderfetenhits \(Die Kinder Fetenhits\)](https://open.spotify.com/album/2DZgdqZL5j6x3JpTbV07E5) | 2:45 |
 | 163 | [Never Give Up](https://open.spotify.com/track/1nlGXptwifSiUIrInybCae) | [Jason L\. Smith](https://open.spotify.com/artist/73ynyjKxPklTyMqh11aMog) | [British Dance Invasion, Vol\. 1](https://open.spotify.com/album/23emBcbDlbBqg2sSzXpmNN) | 4:16 |
 
-Snapshot ID: `AcDiGgAAAAAAwZkmK4Z9Qw/coxZ62utJ`
+Snapshot ID: `AcDnfgAAAADBjc/EakOMImaNt0RhVm8h`

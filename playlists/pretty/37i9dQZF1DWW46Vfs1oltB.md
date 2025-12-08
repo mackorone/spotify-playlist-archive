@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: UNEDUCATED KID\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,411 likes - 122 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,294 likes - 122 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

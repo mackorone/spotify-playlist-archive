@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax 🎷\. Los Rieleros del Norte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,194 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,210 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 99 | [Te Metiste en Mi Cama](https://open.spotify.com/track/0ZEYOuktxSxpmJrKeqBRbt) | [Alfonzin García "Dj Alfonzin"](https://open.spotify.com/artist/2rP6Wti41KNNkh6iVyL6Wf), [Angel Fresnillo](https://open.spotify.com/artist/0dtptikafKpAGHpTs0iS9R), [La Inspiración Norteña](https://open.spotify.com/artist/2bDa5OoR8RxoP9sVhkNYon) | [Te Metiste en Mi Cama](https://open.spotify.com/album/21suFpZJ5iQnk2u5RksYD9) | 3:42 |
 | 100 | [Impulso](https://open.spotify.com/track/4xqcKxTHMWUI2maPYUmGzZ) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Impulso](https://open.spotify.com/album/13cqSrjDPulIf7dUyuDwAS) | 2:20 |
 
-Snapshot ID: `AAAAAPtoIUfC9PzP/hMYY21SVxUlMAXw`
+Snapshot ID: `AAAAAFH/7V6URArZxWcH4Tpj1WviuCtp`

@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-443 songs - 23 hr 5 min
+445 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Fall Out Of Love](https://open.spotify.com/track/18zswD6b04CXw6UgOBeK4j) | [Junior Pitt](https://open.spotify.com/artist/3dS7hjv6EJtZ122qSzkX7E) | [Fall out of love](https://open.spotify.com/album/42jOto0R9n87lkNdTRl9Sg) | 2:56 | 2025-11-04 |  |
 | [Fantasy](https://open.spotify.com/track/4KIcjICZDgeRmLtJ37Ezyu) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Seeko](https://open.spotify.com/artist/6CE5ddAC32B4XKW6y0bbR3), [Danii Dee](https://open.spotify.com/artist/26hHacionHpjqCqFj8DX43) | [Fantasy](https://open.spotify.com/album/6pOTUKyF8Tvv2FHhJBkPUL) | 2:11 | 2025-11-28 |  |
 | [FATTI SENT!RE](https://open.spotify.com/track/6tGI2UefueT9Ozh6sXAUGd) | [Makaine](https://open.spotify.com/artist/65RasmNLWEaP03oVTkdA0m) | [FATTI SENT!RE](https://open.spotify.com/album/43EQlztHvrFkN2Yu5Rre9C) | 2:44 | 2025-09-23 |  |
+| [Feel It All](https://open.spotify.com/track/3N7gg7XImFXdYWrXmCCLco) | [Jeremy Voltz](https://open.spotify.com/artist/1Zu7L8siS7ugY35pTS6Wgw) | [Feel It All](https://open.spotify.com/album/4pQAtTSmCMEe7yYblXY5qN) | 2:38 | 2025-12-07 |  |
 | [Feel Me](https://open.spotify.com/track/3Zs2inBgCajD2zzJ8w6Kvp) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Feel Me](https://open.spotify.com/album/7MX1LQul8Ft3xJkvhVcbhk) | 2:46 | 2025-09-29 |  |
 | [Find My Way](https://open.spotify.com/track/340jiElKH6YP4H36KtXdep) | [Ceytn](https://open.spotify.com/artist/7zFxLF4mGHfWE0yI5J0YSn) | [Find My Way](https://open.spotify.com/album/7K5hWfhwZgsXsWHe9b6fMQ) | 3:41 | 2025-10-06 |  |
 | [Finish the Work](https://open.spotify.com/track/1wDyx84zeRQqdvOZ3j4VYL) | [Kiss the Son](https://open.spotify.com/artist/7ipaFwC0xqwmD5j3XBU0lQ) | [Finish the Work](https://open.spotify.com/album/3yybB2JTcHkDoMQOuihs9Z) | 4:40 | 2025-10-23 |  |
@@ -309,6 +310,7 @@
 | [Rumore l'Amore](https://open.spotify.com/track/4kF8lwOoEwFZ3Aj0vE9jAZ) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Rumore l'Amore](https://open.spotify.com/album/4aXdBaQT4oCD4V3klbz5kL) | 3:35 | 2025-08-29 |  |
 | [Running Out Of Time](https://open.spotify.com/track/7rEooxr79e4gKbrv6OKwEQ) | [Robin Noppen](https://open.spotify.com/artist/79TYFwKopdXzEX3wJRsoi9) | [Running Out Of Time](https://open.spotify.com/album/3OtgNKhgSyJE5PtdPZ5VR4) | 2:26 | 2025-09-28 |  |
 | [Rush](https://open.spotify.com/track/4vxpL87i6ktp1mYgjVNrwX) | [Spirits Of Saturn](https://open.spotify.com/artist/6HbiJHNYwz2jnVwCuMNl3I) | [Rush](https://open.spotify.com/album/5uYAVDK8zwU0MwvkTQWG7q) | 4:22 | 2025-07-23 |  |
+| [Safari](https://open.spotify.com/track/1Ih75RntdEoaQG18r9eJpt) | [ELO](https://open.spotify.com/artist/1qoApE9HzNbP2RiogZkE89) | [Safari](https://open.spotify.com/album/43HJdpscmPxiFgFv4Xb0em) | 1:31 | 2025-12-07 |  |
 | [Samba De Ativista](https://open.spotify.com/track/79C2hVCrkabIB1IiZGSDVJ) | [Jorge E.](https://open.spotify.com/artist/37roptVeBcyuYAwO67zshx) | [Samba De Ativista](https://open.spotify.com/album/0M3z7C4qvUKuhWQ2Jecp4D) | 3:35 | 2025-11-02 |  |
 | [Save a Prayer \(Cover\)](https://open.spotify.com/track/2CVN6xuvfqWv49YjiCOwJD) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Save a Prayer](https://open.spotify.com/album/4fhwVPU30qsmq0cmyNUZg0) | 3:59 | 2025-10-20 |  |
 | [Say My Name](https://open.spotify.com/track/4ZtgUxmeadfj9Ez8BEnfvf) | [Sierra Gee](https://open.spotify.com/artist/5lmF5OKeeKtyoMQtwyEeli) | [Say My Name](https://open.spotify.com/album/19pm5ux5AuXH6qLsn6AIfq) | 2:31 | 2025-10-19 |  |

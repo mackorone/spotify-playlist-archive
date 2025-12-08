@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 
 > 🍾
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,334 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,321 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 | 59 | [Les hommes c'est pas des mecs bien](https://open.spotify.com/track/7eF1VjQV9FtZee90SKf66W) | [Synapson](https://open.spotify.com/artist/5EGOerlVYxwqxaTLEWumBR), [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [Les hommes c'est pas des mecs bien](https://open.spotify.com/album/5EVuL399BeC3xOKLZr1Yl5) | 3:17 |
 | 60 | [Christina](https://open.spotify.com/track/28fyydFU1TH9vOTjqIy442) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Christina](https://open.spotify.com/album/3vFZrJPu5TyF8fZmMhQPsK) | 2:31 |
 
-Snapshot ID: `AAAAANxVHIsz+PGw93nDU1YfYiCpKxZa`
+Snapshot ID: `AAAAANPHVCwvntqHyxwzRbrEumGDATAE`

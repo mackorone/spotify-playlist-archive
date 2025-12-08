@@ -1,6 +1,6 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 160834,
+  "num_followers": 160910,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
+        "name": "Sue\u00f1os de Colombia",
+        "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 317760,
+      "name": "Entregame Tu Amor",
+      "url": "https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
         "name": "Alto Voltaje",
         "url": "https://open.spotify.com/album/3XrDzVJBrwbiwJ0uBZQIEB"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 246726,
       "name": "Infiel",
       "url": "https://open.spotify.com/track/2DKXcgSqDp14reKcA0sURL"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/5lzjNaRHLgxs4Q5IgLlH3B"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 306040,
-      "name": "Mi Dulce Amor",
-      "url": "https://open.spotify.com/track/57rekXZeqI5FEQ9sfJAJvX"
     },
     {
       "added_at": "2024-05-28 19:20:48",

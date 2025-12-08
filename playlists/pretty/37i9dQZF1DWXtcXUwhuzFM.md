@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Portion Boys..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,376 likes - 109 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,370 likes - 109 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 32 | [Images of Love \(with Dominic Fike\)](https://open.spotify.com/track/1Vj11Vm95STtBEL7hSB5Sh) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Images of Love \(with Dominic Fike\)](https://open.spotify.com/album/2Fwe7dJvmbzU3m2gJKXn2D) | 3:29 |
 | 33 | [Golem](https://open.spotify.com/track/2pSkn8VIgHvxedTGWX7Adz) | [Stam1na](https://open.spotify.com/artist/41nB823nb3wxEI25UeGHqG) | [Golem](https://open.spotify.com/album/3NTnBuhpil6JtNbuAN0OhQ) | 3:41 |
 | 34 | [Joulu, tuo meidät yhteen](https://open.spotify.com/track/6XHrlOymyq1HOWpNrR1AR9) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Joulu, tuo meidät yhteen](https://open.spotify.com/album/5F88RnIpBSexXV7Jzdo53V) | 3:44 |
-| 35 | [SADE \(HHH\)](https://open.spotify.com/track/0azLSjbVpGHymQ3Pb8YYFc) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ) | [CASHPOP](https://open.spotify.com/album/0cZ3dVbCTI6bBOKjFIRrOc) | 2:08 |
+| 35 | [SADE \(HHH\)](https://open.spotify.com/track/0azLSjbVpGHymQ3Pb8YYFc) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ) | [CASHPOP EP](https://open.spotify.com/album/0cZ3dVbCTI6bBOKjFIRrOc) | 2:08 |
 | 36 | [Jouluvalot](https://open.spotify.com/track/1LmcwPzv0doj7b2waPtZvF) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Jouluvalot](https://open.spotify.com/album/3u62lMJdbCasLuYWFl38dp) | 4:01 |
 | 37 | [SAME THING](https://open.spotify.com/track/0OhG5z9MuEu083kbndZ8BF) | [Tom Cooper](https://open.spotify.com/artist/2F33DzU28njVglipBm65gf) | [SAME THING](https://open.spotify.com/album/3ZPRMnrJ7PoKzaAFKfalut) | 1:45 |
 | 38 | [Damn Good Life](https://open.spotify.com/track/74rRUsYZOY6MPKdt5kQMzG) | [Chris James](https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp) | [Chrono Drift](https://open.spotify.com/album/04YqsNBDbAWVQFmEii8Scr) | 3:17 |

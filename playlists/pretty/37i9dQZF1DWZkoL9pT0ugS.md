@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkoL9pT0ugS.md) - [plain]
 
 > Our editors' picks for the best songs from The Rock List in 2025\. Cover: Sleep Token
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,344 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,383 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

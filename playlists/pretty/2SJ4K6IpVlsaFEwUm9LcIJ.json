@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to nov-dec 2025",
-  "num_followers": 23613,
+  "num_followers": 23611,
   "original_name": "ten years in one room",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAANfyJ8i4XMIgjgvB1csA2hDxu+xwCX",
+  "snapshot_id": "AAANgWZAfQld8BWm/sMOAMvDnghfZBO8",
   "tracks": [
     {
       "added_at": "2025-11-14 22:45:12",
@@ -523,6 +523,38 @@
       "duration_ms": 251637,
       "name": "Nausica\u00e4 (Love Will Be Revealed)",
       "url": "https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N"
+    },
+    {
+      "added_at": "2025-12-07 03:16:07",
+      "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
+      },
+      "artists": [
+        {
+          "name": "Cameron Winter",
+          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+        }
+      ],
+      "duration_ms": 167326,
+      "name": "We're Thinking the Same Thing",
+      "url": "https://open.spotify.com/track/3zaztO9QEefcS7MBZNs9vP"
+    },
+    {
+      "added_at": "2025-12-07 03:16:10",
+      "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
+      },
+      "artists": [
+        {
+          "name": "Cameron Winter",
+          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+        }
+      ],
+      "duration_ms": 352354,
+      "name": "Nina + Field of Cops",
+      "url": "https://open.spotify.com/track/78ugJH8q6W3kiGLwM2K7Lg"
     }
   ],
   "unique_name": "ten years in one room",

@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 196054,
+  "num_followers": 196077,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTIggAAAAACGIIBQ1s2gW8P7QNI7YWE2",
+  "snapshot_id": "aTNyAAAAAACk9zocBr827xMZkRPUveDB",
   "tracks": [
     {
       "added_at": null,
@@ -887,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Satchmo In Style (Expanded Edition)",
-        "url": "https://open.spotify.com/album/39pZKbuS93KkNXwLsYCmQ7"
+        "name": "The Great Reunion",
+        "url": "https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz"
       },
       "artists": [
         {
@@ -896,13 +896,13 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         },
         {
-          "name": "Gordon Jenkins & His Orchestra",
-          "url": "https://open.spotify.com/artist/2zxOdG2ascAD3oLdP03mYU"
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
         }
       ],
-      "duration_ms": 156333,
-      "name": "Spooks",
-      "url": "https://open.spotify.com/track/5WJ0I8oaf1XYrxwVr0Fp7j"
+      "duration_ms": 240040,
+      "name": "It Don't Mean a Thing (If It Ain't Got That Swing)",
+      "url": "https://open.spotify.com/track/4M5Mnz9ORqaMMUAgKtv3bI"
     }
   ],
   "unique_name": "This Is Louis Armstrong",

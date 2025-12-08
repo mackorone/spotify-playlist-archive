@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by RØZ, Ozuna & Beéle, Carla Morrison & Pablo Alborán, Micro TDH and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,249 likes - 51 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,255 likes - 51 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

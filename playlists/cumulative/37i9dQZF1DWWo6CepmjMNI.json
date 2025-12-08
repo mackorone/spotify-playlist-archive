@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: loserpop",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: CURS",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 237241,
       "name": "Call me",
       "url": "https://open.spotify.com/track/3oY2opO1jwxQgXl89OqUMz"
@@ -440,6 +440,24 @@
       "duration_ms": 240821,
       "name": "Lost.",
       "url": "https://open.spotify.com/track/0FDl3MhupeY2ZypBTGiOie"
+    },
+    {
+      "album": {
+        "name": "Love U Dearly",
+        "url": "https://open.spotify.com/album/6OreUfAx6FxN9GbRGwYbrx"
+      },
+      "artists": [
+        {
+          "name": "rubberstamp",
+          "url": "https://open.spotify.com/artist/0fhLQtdb7qygZd7WCl3oY0"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190752,
+      "name": "Love U Dearly",
+      "url": "https://open.spotify.com/track/4dz0eqdlpvW0tP7yXt3FWH"
     },
     {
       "album": {
@@ -820,6 +838,24 @@
       "duration_ms": 220799,
       "name": "Summer",
       "url": "https://open.spotify.com/track/3xiQdmur1QcU1ZV52A0QTc"
+    },
+    {
+      "album": {
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/3q9PG8rxgAO6FjZppgXbFW"
+      },
+      "artists": [
+        {
+          "name": "Dumb.Rong",
+          "url": "https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285421,
+      "name": "SUNRISE",
+      "url": "https://open.spotify.com/track/01f30vzvsz4vEvv6d1PiVD"
     },
     {
       "album": {
@@ -1381,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33\u0e2d\u0e31\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01",
+        "url": "https://open.spotify.com/album/0upzWgOieLMGBtPzIfp2jE"
+      },
+      "artists": [
+        {
+          "name": "Something Sweet",
+          "url": "https://open.spotify.com/artist/23jeOBgBz08Ew2A3bfGnKX"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255125,
+      "name": "\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33\u0e2d\u0e31\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01",
+      "url": "https://open.spotify.com/track/0OXeiSXQbQdJ50fn1nHutE"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e27\u0e32\u0e21\u0e17\u0e23\u0e07\u0e08\u0e33\u0e41\u0e25\u0e30\u0e01\u0e32\u0e25\u0e40\u0e27\u0e25\u0e32",
         "url": "https://open.spotify.com/album/0YBTEplsEGWcdzIul9m5gT"
       },
@@ -1583,6 +1637,24 @@
     },
     {
       "album": {
+        "name": "\u0e08\u0e30\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e43\u0e0a\u0e48\u0e44\u0e2b\u0e21 (Childish)",
+        "url": "https://open.spotify.com/album/5vaYFcgmYuiwo8n6kQ5srY"
+      },
+      "artists": [
+        {
+          "name": "CURS",
+          "url": "https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218821,
+      "name": "\u0e08\u0e30\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e43\u0e0a\u0e48\u0e44\u0e2b\u0e21 (Childish)",
+      "url": "https://open.spotify.com/track/66GaGy5M98QcerWdWBDrZF"
+    },
+    {
+      "album": {
         "name": "\u0e08\u0e31\u0e1a\u0e21\u0e37\u0e2d\u0e09\u0e31\u0e19\u0e43\u0e19\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e42\u0e25\u0e01\u0e41\u0e15\u0e01\u0e2a\u0e25\u0e32\u0e22",
         "url": "https://open.spotify.com/album/4shgJhtV2pJQQ2HIgylbhL"
       },
@@ -1666,7 +1738,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 267750,
       "name": "\u0e08\u0e32\u0e01\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e19 (present)",
       "url": "https://open.spotify.com/track/22NejFlrIPRARMMKZRke5A"
@@ -3010,7 +3082,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 212000,
       "name": "\u0e22\u0e32\u0e21\u0e27\u0e34\u0e01\u0e32\u0e25",
       "url": "https://open.spotify.com/track/45IU7fMOqqtQOBzRqYiq9e"
@@ -3331,6 +3403,24 @@
     },
     {
       "album": {
+        "name": "\u0e27\u0e34\u0e18\u0e35\u0e43\u0e14 (Don't know how)",
+        "url": "https://open.spotify.com/album/6ICvqhL8pIObDoRPsR1B8n"
+      },
+      "artists": [
+        {
+          "name": "lostbeans",
+          "url": "https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281142,
+      "name": "\u0e27\u0e34\u0e18\u0e35\u0e43\u0e14 (Don't know how)",
+      "url": "https://open.spotify.com/track/1iCtJ8isZT0K7ih1M6Dqet"
+    },
+    {
+      "album": {
         "name": "\u0e27\u0e34\u0e27\u0e32(\u0e17\u0e4c) - Single",
         "url": "https://open.spotify.com/album/3N9k496GsV3jsN1SsaNJzk"
       },
@@ -3421,6 +3511,24 @@
     },
     {
       "album": {
+        "name": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e09\u0e31\u0e19 (Allergy-Drinks)",
+        "url": "https://open.spotify.com/album/6m1eyBH8wQbzLNTDjtYtFc"
+      },
+      "artists": [
+        {
+          "name": "Vaals",
+          "url": "https://open.spotify.com/artist/1W4ji89xxXpuCdX4YhMS5u"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188613,
+      "name": "\u0e2a\u0e33\u0e2b\u0e23\u0e31\u0e1a\u0e09\u0e31\u0e19 (Allergy-Drinks)",
+      "url": "https://open.spotify.com/track/39gUtXus8zaLBwNM0hETg7"
+    },
+    {
+      "album": {
         "name": "\u0e2a\u0e34\u0e48\u0e07\u0e21\u0e2b\u0e31\u0e28\u0e08\u0e23\u0e23\u0e22\u0e4c\u0e2d\u0e31\u0e19\u0e14\u0e31\u0e1a\u0e2b\u0e19\u0e36\u0e48\u0e07",
         "url": "https://open.spotify.com/album/4SvTTGi0gRbZq894bmYzCz"
       },
@@ -3472,7 +3580,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 284702,
       "name": "\u0e2b\u0e19\u0e35 (run again)",
       "url": "https://open.spotify.com/track/13GHCppwVLxFsNZKu0bcjh"
@@ -3958,7 +4066,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 225681,
       "name": "\u0e40\u0e08\u0e47\u0e1a\u0e40\u0e01\u0e48\u0e07",
       "url": "https://open.spotify.com/track/2m91Zioo3qjub8B5TpO8DC"
@@ -4286,7 +4394,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 259337,
       "name": "\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e41\u0e15\u0e48\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e39\u0e48",
       "url": "https://open.spotify.com/track/1XGFVfMc25U3YoK2rsOuxR"
@@ -4600,6 +4708,24 @@
       "duration_ms": 221917,
       "name": "\u0e42\u0e17\u0e23\u0e1b\u0e25\u0e38\u0e01\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/3t0UIgHDKNd4xuaBQ2ZUFh"
+    },
+    {
+      "album": {
+        "name": "\u0e42\u0e25\u0e01\u0e17\u0e35\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b (Peterpan)",
+        "url": "https://open.spotify.com/album/0tyTMZ04amdX9wY8nOrQow"
+      },
+      "artists": [
+        {
+          "name": "YODSARUN",
+          "url": "https://open.spotify.com/artist/7w7BVYWmNFduUbjjqUuFb7"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180824,
+      "name": "\u0e42\u0e25\u0e01\u0e17\u0e35\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b (Peterpan)",
+      "url": "https://open.spotify.com/track/1xzKou9sMjlZ1N6BuS0H77"
     },
     {
       "album": {
@@ -4920,7 +5046,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 228643,
       "name": "\u0e44\u0e14\u0e49\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32? (Crush)",
       "url": "https://open.spotify.com/track/4le5G5RlMj1YWygXTinvRx"

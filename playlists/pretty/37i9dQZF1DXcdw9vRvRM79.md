@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdw9vRvRM79.md) - [plain]
 
 > Gentle music and soft rain sounds to help calm you down and settle in for relaxing sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,572 likes - 208 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,666 likes - 208 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

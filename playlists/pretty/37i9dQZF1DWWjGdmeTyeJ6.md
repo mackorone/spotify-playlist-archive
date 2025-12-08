@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Cover: Dove Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,225,639 likes - 164 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,225,569 likes - 164 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

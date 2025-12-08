@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqJd35zS5k3.md) - [plain]
 
 > Disfruta de la Navidad con los villancicos de siempre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,880 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,150 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

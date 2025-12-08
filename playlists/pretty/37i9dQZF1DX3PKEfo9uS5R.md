@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 
 > Chill house tracks to power your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,043 likes - 211 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,060 likes - 211 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -220,4 +220,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 210 | [Valencia Morning](https://open.spotify.com/track/2mziKTawLRhhnMbyQSQeRv) | [Hotel Plaza](https://open.spotify.com/artist/4NOvvsl3lAjFsZVFyetMMB) | [Midnight Salute](https://open.spotify.com/album/5FAu2PHY3zq0vnFTmG06VU) | 2:58 |
 | 211 | [Beatin' Hearts](https://open.spotify.com/track/0pIdMLYe4ptCYafCMIeSjS) | [David Kuro](https://open.spotify.com/artist/0QRp71KIOsY5GrXpOw3JMj) | [Beatin' Hearts](https://open.spotify.com/album/2Ik5fCmCS3OX6MdOBD7Ciw) | 2:28 |
 
-Snapshot ID: `AAAAAMDvVpux3l+zAWovaJAjCZE5opnk`
+Snapshot ID: `AAAAANITpPlLW60kx3p1NRaH2MrLNgUT`

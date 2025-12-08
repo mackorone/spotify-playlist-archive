@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: The Terrys
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,485 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,483 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [Sober \(For The Second Time\)](https://open.spotify.com/track/7E1VuGpzUqBnTu8JRK2F53) | [The Sooks](https://open.spotify.com/artist/7AJRbMEkOOcr3YRQqR75tj) | [Sober \(For The Second Time\)](https://open.spotify.com/album/4zl1pdPZ97gvGFELUzwPnd) | 2:44 |
 | 100 | [Where's Your Head?](https://open.spotify.com/track/7KADUovayMciSbvRdWpnfU) | [Your Personal Chef](https://open.spotify.com/artist/0b8l6VFKzDwwzj7l3MzOPn) | [Where's Your Head?](https://open.spotify.com/album/7nXlEehQ9ccgfiKYx0f2bL) | 3:39 |
 
-Snapshot ID: `AAAAANRg3iICy8uA7yVPd68IvQk22+Go`
+Snapshot ID: `AAAAAJtmJnkP47ihzpuX5cslBGjYx2F8`

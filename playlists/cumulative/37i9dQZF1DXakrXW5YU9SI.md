@@ -4,7 +4,7 @@
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-749 songs - 1 day 17 hr 53 min
+750 songs - 1 day 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -658,6 +658,7 @@
 | [Trucizna](https://open.spotify.com/track/3wuZirKsS6ZXKDIUSV7jN4) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Trucizna](https://open.spotify.com/album/2enTHSbeI3bG1hvvOIoXeU) | 2:38 | 2024-09-20 | 2024-10-08 |
 | [Tsunami](https://open.spotify.com/track/1CN4xpeOZDn1Q1sdZjNHE6) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg), [Wiktor Dyduła](https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs) | [Tsunami](https://open.spotify.com/album/0noxWwMrDt0phcOdH3oYP1) | 3:22 | 2025-01-17 | 2025-02-22 |
 | [Tulipany](https://open.spotify.com/track/0QCLgFafJmfLB7WIQO6da6) | [Magda Bereda](https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d), [Anka](https://open.spotify.com/artist/0F9Klcgxyze6XioVBZtX9G) | [piosenki z 3 słów](https://open.spotify.com/album/52A5HXySV66AA6eiiBP9wX) | 3:06 | 2024-11-21 | 2025-01-11 |
+| [TV](https://open.spotify.com/track/2BzZWVP6UJF5eKl9T8fSvL) | [ALZZY](https://open.spotify.com/artist/7AO0PhHfvJgyp71cMqusc7) | [TV](https://open.spotify.com/album/26ngT168TbWrmMyiumtu3R) | 2:43 | 2025-12-05 |  |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-28 | 2025-09-16 |
 | [Twoja miłość](https://open.spotify.com/track/0bjUX2Fm71AMebqvRUZPZd) | [Rubens](https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7) | [Twoja miłość](https://open.spotify.com/album/2z8O7BShTaFW41KoGRW7KH) | 3:41 | 2024-09-12 | 2024-09-14 |
 | [Ty się nie bój](https://open.spotify.com/track/3LhNpdJsMZmKKzs3l6Ab6k) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [Ty się nie bój](https://open.spotify.com/album/0AoKj5Xk3Qh1wZWVOKCXih) | 3:05 | 2024-10-14 | 2024-10-26 |
@@ -723,7 +724,7 @@
 | [Wyjmij mnie](https://open.spotify.com/track/0FUOOxJ6kydMmzJeoqfUqc) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Wyjmij mnie](https://open.spotify.com/album/5jm4PXSEak02Eknn9Iimfj) | 3:18 | 2025-09-19 | 2025-09-27 |
 | [Wynalazek Filipa Golarza](https://open.spotify.com/track/2PrnvpGByWnjgt5jEk7XqG) | [Kleks](https://open.spotify.com/artist/2Qk1uZpDnwDozHdxmB0dDx), [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Wynalazek Filipa Golarza](https://open.spotify.com/album/3Q19KxzahiApKSwqFb1CGz) | 3:48 | 2024-11-08 | 2025-03-01 |
 | [własnym](https://open.spotify.com/track/34A2BlBu3xL4Se6sBSANZC) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [DOMINIKA DANIELA](https://open.spotify.com/album/1XDk6ptjiofedB6LTtRKOK) | 2:33 | 2024-11-21 | 2024-12-01 |
-| [Yeyeye](https://open.spotify.com/track/27JgqGnbH9hfTF1hy7GOCl) | [Sonbird](https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A) | [Yeyeye](https://open.spotify.com/album/7Gi09hgQl5l2CoHBaa8oW7) | 3:02 | 2025-12-05 |  |
+| [Yeyeye](https://open.spotify.com/track/27JgqGnbH9hfTF1hy7GOCl) | [Sonbird](https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A) | [Yeyeye](https://open.spotify.com/album/7Gi09hgQl5l2CoHBaa8oW7) | 3:02 | 2025-12-05 | 2025-12-08 |
 | [You \(feat\. Hermanos Gutiérrez\)](https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [You](https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd) | 3:26 | 2024-09-12 | 2024-11-22 |
 | [You \(Show Me Where My Days Went\)](https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [You \(Show Me Where My Days Went\)](https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs) | 2:47 | 2024-06-28 | 2024-07-14 |
 | [You And I](https://open.spotify.com/track/248XJMcsowzZrF1APvILhF) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love](https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE) | 5:00 | 2024-09-12 | 2024-11-22 |

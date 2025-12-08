@@ -9175,6 +9175,24 @@
     },
     {
       "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
+      },
+      "artists": [
+        {
+          "name": "Cameron Winter",
+          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352354,
+      "name": "Nina + Field of Cops",
+      "url": "https://open.spotify.com/track/78ugJH8q6W3kiGLwM2K7Lg"
+    },
+    {
+      "album": {
         "name": "Death is a Dream",
         "url": "https://open.spotify.com/album/2FhhWX9iOrnmC4o5NCQLRf"
       },
@@ -14318,6 +14336,24 @@
       "duration_ms": 272058,
       "name": "We Share The Same Breath",
       "url": "https://open.spotify.com/track/1SlN5pwqGU5M8DECxEamCt"
+    },
+    {
+      "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
+      },
+      "artists": [
+        {
+          "name": "Cameron Winter",
+          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167326,
+      "name": "We're Thinking the Same Thing",
+      "url": "https://open.spotify.com/track/3zaztO9QEefcS7MBZNs9vP"
     },
     {
       "album": {

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of indie, dreampop and lofi vibes\. Updated every week, save your favorites 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,526 likes - 333 songs - 18 hr 17 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,531 likes - 333 songs - 18 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:55 |
-| 2 | [Sinner](https://open.spotify.com/track/4qwSHwCU31Of1Bs6vYeMCr) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [Sinner](https://open.spotify.com/album/4axMZXb2TGodLS2WBfTrAP) | 3:57 |
-| 3 | [Nobody's Bored Anymore](https://open.spotify.com/track/5JWrcgIzEcbTfgckcsoDzt) | [Peter The Human Boy](https://open.spotify.com/artist/45nVGQ6yYctA4eKMTj5YPw) | [Nobody's Bored Anymore](https://open.spotify.com/album/4BHGL7XcEm50Vey9sEl14H) | 3:54 |
+| 1 | [Nobody's Bored Anymore](https://open.spotify.com/track/5JWrcgIzEcbTfgckcsoDzt) | [Peter The Human Boy](https://open.spotify.com/artist/45nVGQ6yYctA4eKMTj5YPw) | [Nobody's Bored Anymore](https://open.spotify.com/album/4BHGL7XcEm50Vey9sEl14H) | 3:54 |
+| 2 | [Preacher](https://open.spotify.com/track/4PiOcOwysCeODx3d5oOHTK) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Preacher](https://open.spotify.com/album/44zFgUMiKVZ4OQgSlFR0ew) | 2:55 |
+| 3 | [Sinner](https://open.spotify.com/track/4qwSHwCU31Of1Bs6vYeMCr) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [Sinner](https://open.spotify.com/album/4axMZXb2TGodLS2WBfTrAP) | 3:57 |
 | 4 | [Unwound](https://open.spotify.com/track/20ER1ZITjn4YAZ5y0vkzmM) | [Launder](https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh) | [Happening](https://open.spotify.com/album/1AFBK10RHCuXnHXaTgyonQ) | 3:56 |
 | 5 | [Illusion](https://open.spotify.com/track/7xIn7IVilAeRAgZWMjwYif) | [cistern](https://open.spotify.com/artist/7sM22Nl4JNA6Ct0Egne7TM) | [Rhizome](https://open.spotify.com/album/56SmD1wh8ax8ry0xUq192u) | 2:50 |
 | 6 | [Stacy](https://open.spotify.com/track/5GDA3g0TS18E9FSVMxqLDY) | [Fiona Fiasco](https://open.spotify.com/artist/77Sy5Zgnd5KHzbsqKW6few) | [Stacy](https://open.spotify.com/album/5XVCxxHO3IGtYEnBZbFjpM) | 2:53 |
@@ -342,4 +342,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 332 | [greaser \(panda bear version\)](https://open.spotify.com/track/7Dx2ZULFEpBUNU1hlSzNu7) | [The Crying Nudes](https://open.spotify.com/artist/3tM7dj8ztmzKcugbIVMxy0), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [greaser \(panda bear version\)](https://open.spotify.com/album/0eoyY6G0EsIzP1cyQ0sDnk) | 2:24 |
 | 333 | [Chasm Keeper](https://open.spotify.com/track/0zccFOS4RVSOpyaoAnkQtG) | [Run It Still](https://open.spotify.com/artist/43CIMMw7qY2b52634bjPOy) | [Chasm Keeper](https://open.spotify.com/album/1wqpOHUP4cA2k7S2LjblyT) | 2:45 |
 
-Snapshot ID: `AAApwMCO57XKnoUvTOdkf8Dv4asumSVp`
+Snapshot ID: `AAApwUNKON6rIU1llvvPFDbKobgJCZeR`

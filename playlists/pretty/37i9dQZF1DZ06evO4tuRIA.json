@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 100367,
+  "num_followers": 100395,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTIggAAAAADDV1e8ZRNvGJMgJWQ4a4vh",
+  "snapshot_id": "aTNyAAAAAADkKtCTSxEkyZdW2wp+XP/v",
   "tracks": [
     {
       "added_at": null,
@@ -690,15 +690,11 @@
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 178368,
-      "name": "HASHERO",
-      "url": "https://open.spotify.com/track/2itgCntKyhMM31SnQnUg2G"
+      "duration_ms": 175680,
+      "name": "UN WOODCITO",
+      "url": "https://open.spotify.com/track/53TUjlPBTgpsuNxesGx6Gs"
     },
     {
       "added_at": null,
@@ -770,31 +766,15 @@
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 175680,
-      "name": "UN WOODCITO",
-      "url": "https://open.spotify.com/track/53TUjlPBTgpsuNxesGx6Gs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Niveleando Cuh II",
-        "url": "https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07"
-      },
-      "artists": [
-        {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
         },
         {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 164790,
-      "name": "De Bajo Perfil",
-      "url": "https://open.spotify.com/track/0HdjNLqCcm0weqqmH8sYNu"
+      "duration_ms": 178368,
+      "name": "HASHERO",
+      "url": "https://open.spotify.com/track/2itgCntKyhMM31SnQnUg2G"
     },
     {
       "added_at": null,
@@ -819,6 +799,26 @@
       "duration_ms": 191652,
       "name": "SOLDADO BLANCO - En Vivo desde Los \u00c1ngeles",
       "url": "https://open.spotify.com/track/3r2kOgyTJ7ECwh6zr62BVL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Niveleando Cuh II",
+        "url": "https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07"
+      },
+      "artists": [
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 164790,
+      "name": "De Bajo Perfil",
+      "url": "https://open.spotify.com/track/0HdjNLqCcm0weqqmH8sYNu"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 241 likes - 3,711 songs - 8 day 4 hr 48 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 241 likes - 3,712 songs - 8 day 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3719,5 +3719,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3709 | [goblins](https://open.spotify.com/track/5LX38WOdERwGOvdUqeyJDU) | [dredge](https://open.spotify.com/artist/2a5NdT9HMrYzElE44JJ59W) | [goblins](https://open.spotify.com/album/2y5FWPfNexTfC3vRjFLwC9) | 4:20 |
 | 3710 | [Я згорів, щоб тебе зігріти](https://open.spotify.com/track/35Vv5yOjjimzEAynwV6vfN) | [PORIZ](https://open.spotify.com/artist/678dV6YnJWIFFHEJ5slNcA) | [Живе Поєднання Божевілля](https://open.spotify.com/album/6lVIy1eQ6zbAWDWizdfi4P) | 3:28 |
 | 3711 | [Daleko jestem](https://open.spotify.com/track/2ACJYr7ap1zxHzsIkmVdag) | [D.Bańka](https://open.spotify.com/artist/2WMp1BJzsAJk0uGu6owxtv) | [Daleko jestem](https://open.spotify.com/album/7zSEIyptdy5xgHPLWQFhrr) | 3:17 |
+| 3712 | [Point Blank](https://open.spotify.com/track/5dfzwXpEpeeM6szvocxFBR) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Point Blank](https://open.spotify.com/album/4dERb041ujbOvXGUJurgez) | 3:07 |
 
-Snapshot ID: `AAAGMuxoX9iI3V1SqUK2Dzd+wZBq01++`
+Snapshot ID: `AAAGM0W+RHcIqnVNMIcU4sbWycKrBuDw`

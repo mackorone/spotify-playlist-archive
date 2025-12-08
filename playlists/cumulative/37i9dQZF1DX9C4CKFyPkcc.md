@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-388 songs - 22 hr 35 min
+389 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Just A Breath Away \(Noel\) \- Radio Version](https://open.spotify.com/track/1UGK7thDiNRQA7P4rQVOrd) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [Just A Breath Away \(Noel\) \[Radio Version\]](https://open.spotify.com/album/2BIt2v8Y5YJ3o1gzZy8i7B) | 3:10 | 2021-12-24 | 2024-05-22 |
 | [Keep The Fire On](https://open.spotify.com/track/5UOCErQ8T4ZD7fKnmBtgXJ) | [AO1 Collective](https://open.spotify.com/artist/7B1PFNIplX3KFKPizcl8e5), [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi), [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h) | [Keep The Fire On](https://open.spotify.com/album/1chKbzdQ4Jdn9ZUKVnwdek) | 2:40 | 2022-12-11 | 2024-07-30 |
 | [King Of Glory](https://open.spotify.com/track/4i29NqYXWDce8dhnT1PLTB) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [King Of Glory](https://open.spotify.com/album/6EBKn3EDTvm6QJfcUtpmPX) | 3:20 | 2022-11-26 | 2024-07-30 |
+| [King Of Glory](https://open.spotify.com/track/0PY75pHIWpk2hbBYMA4de7) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Christmassy](https://open.spotify.com/album/1pSwM6AgM5svFoacMh9WY1) | 2:23 | 2025-12-07 |  |
 | [King Of Glory \- Remix](https://open.spotify.com/track/0Ql5f3zAUFKARSvD3ycge0) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Janet Manyowa](https://open.spotify.com/artist/2V1T3MYbswPUiHMy02slMH) | [King Of Glory](https://open.spotify.com/album/7qKoP26vIeLv1Ebb4TahGd) | 3:39 | 2024-12-08 | 2025-11-16 |
 | [King Of Heaven \- Live Rehearsal Demo](https://open.spotify.com/track/0o1a9ZzvvlFQBfGiDw16Xs) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [King Of Heaven \(Live Rehearsal Demo\)](https://open.spotify.com/album/2N0bmSOL15oq6vaHdls8q0) | 4:21 | 2023-11-03 | 2023-11-27 |
 | [Let It Be Christmas](https://open.spotify.com/track/70OrTBlb0RLKNfxWE6fZZM) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Let It Be Christmas](https://open.spotify.com/album/1IwTlARBAG1aVi9uIBmZqm) | 4:11 | 2021-12-24 | 2024-07-30 |
@@ -323,7 +324,7 @@
 | [The Christmas Waltz](https://open.spotify.com/track/7Fkoq2pfSTpN6Slh05dYYN) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Christmas Waltz](https://open.spotify.com/album/6naVRYaRVpdsD9IUJDJcGF) | 3:16 | 2022-12-11 | 2024-09-13 |
 | [The First Noel](https://open.spotify.com/track/57gAliJz7TiUxAmdNA5juk) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [The First Noel](https://open.spotify.com/album/3cszSYyCFlDPrCdcuN2nSe) | 3:23 | 2022-12-11 |  |
 | [The First Noel](https://open.spotify.com/track/3OB4YP9W1TVGdShdRKKaba) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [The First Noel](https://open.spotify.com/album/5Hgm1Azgur0Q98EWKry8VB) | 2:47 | 2024-12-08 |  |
-| [The First Noel](https://open.spotify.com/track/1jKORq0awoj9ZLvP7z8R5j) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [The First Noel](https://open.spotify.com/album/0gwUzsFLnpWbXBXPuSVJ6z) | 4:08 | 2023-12-15 |  |
+| [The First Noel](https://open.spotify.com/track/1jKORq0awoj9ZLvP7z8R5j) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [The First Noel](https://open.spotify.com/album/0gwUzsFLnpWbXBXPuSVJ6z) | 4:08 | 2023-12-15 | 2025-12-08 |
 | [The First Noel](https://open.spotify.com/track/2GRgDkptG53UQ91lwukxYv) | [Nonoy Peña](https://open.spotify.com/artist/1dSMhdi4YmecHoyFcSzpaA) | [The First Noel](https://open.spotify.com/album/3czRYtaKj5ogLBo6hND5UV) | 3:08 | 2022-11-26 | 2023-10-25 |
 | [The First Noel](https://open.spotify.com/track/6LKNeprjWU0oP4TcrdNl1s) | [Nonoy Peña](https://open.spotify.com/artist/1dSMhdi4YmecHoyFcSzpaA) | [The First Noel](https://open.spotify.com/album/4SIaHnyHIfpeBqHnMT23vh) | 3:08 | 2022-12-11 | 2024-04-19 |
 | [The First Noel](https://open.spotify.com/track/2MQYkvXbOoqnym1nRSLBRa) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [The First Noel](https://open.spotify.com/album/0a4mMQCuG7be9wNRgbtuZl) | 3:30 | 2023-12-15 | 2023-12-27 |

@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12455,
+  "num_followers": 12457,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTIggAAAAAARgZJ1ZhSWuvPFqmLfSpne",
+  "snapshot_id": "aTNyAAAAAAAMAXkbXn1opI/iLH3d12N8",
   "tracks": [
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "holiday szn",
+        "url": "https://open.spotify.com/album/2a9Re5YephRD9LvoySDKcs"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 167352,
+      "name": "holiday szn",
+      "url": "https://open.spotify.com/track/0bpRZSjPHbZ3zl5iRszVwi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "i hope u see this (deluxe)",
         "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
@@ -663,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "mood ring",
-        "url": "https://open.spotify.com/album/6hon78tr9upFF2OvLelBNq"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 176123,
-      "name": "mood ring",
-      "url": "https://open.spotify.com/track/6K2XtWOGBJJLttE8NFNw0o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "don't miss me too much",
         "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
       },
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "holiday szn",
-        "url": "https://open.spotify.com/album/2a9Re5YephRD9LvoySDKcs"
+        "name": "mood ring",
+        "url": "https://open.spotify.com/album/6hon78tr9upFF2OvLelBNq"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 167352,
-      "name": "holiday szn",
-      "url": "https://open.spotify.com/track/0bpRZSjPHbZ3zl5iRszVwi"
+      "duration_ms": 176123,
+      "name": "mood ring",
+      "url": "https://open.spotify.com/track/6K2XtWOGBJJLttE8NFNw0o"
     },
     {
       "added_at": null,

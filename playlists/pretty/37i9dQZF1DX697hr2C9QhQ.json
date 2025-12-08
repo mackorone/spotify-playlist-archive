@@ -1,6 +1,6 @@
 {
   "description": "Rock legends from Ireland. Cover: Sin\u00e9ad O'Connor",
-  "num_followers": 58612,
+  "num_followers": 58637,
   "original_name": "Irish Rock Classics",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "Twenty Fifth Anniversary Collection",
-        "url": "https://open.spotify.com/album/2OwFueJdLMczXLH0WDptqq"
-      },
-      "artists": [
-        {
-          "name": "Bagatelle",
-          "url": "https://open.spotify.com/artist/4NlVFd1K2l7eDURUGjXxde"
-        }
-      ],
-      "duration_ms": 294506,
-      "name": "Summer in Dublin",
-      "url": "https://open.spotify.com/track/7mY1GSHaJplKRF8yJOf8iO"
-    },
-    {
-      "added_at": "2022-03-17 10:54:32",
-      "album": {
         "name": "The Snake",
         "url": "https://open.spotify.com/album/5IUy3DAYY40WTZFSbi5j5u"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 251826,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/1T1ufH3jSP7uAYKoie68KI"
+    },
+    {
+      "added_at": "2022-03-17 10:54:32",
+      "album": {
+        "name": "Twenty Fifth Anniversary Collection",
+        "url": "https://open.spotify.com/album/2OwFueJdLMczXLH0WDptqq"
+      },
+      "artists": [
+        {
+          "name": "Bagatelle",
+          "url": "https://open.spotify.com/artist/4NlVFd1K2l7eDURUGjXxde"
+        }
+      ],
+      "duration_ms": 294506,
+      "name": "Summer in Dublin",
+      "url": "https://open.spotify.com/track/7mY1GSHaJplKRF8yJOf8iO"
     },
     {
       "added_at": "2022-03-17 10:54:32",

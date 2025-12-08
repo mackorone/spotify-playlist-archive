@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 114285,
+  "num_followers": 114408,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/41pcUIAFrsou8ikyNIN8Kn"
       },
@@ -219,38 +235,26 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Fall",
-        "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
+        "name": "Funds (feat. ODUMODUBLVCK & Chike)",
+        "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
       },
       "artists": [
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Piece of My Heart (feat. Brent Faiyaz)",
-        "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
         }
       ],
-      "duration_ms": 259354,
-      "name": "Piece of My Heart (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
+      "duration_ms": 206948,
+      "name": "Funds (feat. ODUMODUBLVCK & Chike)",
+      "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -303,6 +307,26 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Piece of My Heart (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 259354,
+      "name": "Piece of My Heart (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Unintentional",
         "url": "https://open.spotify.com/album/3xFZSjfSHift08OC7MImAb"
       },
@@ -351,30 +375,6 @@
       "duration_ms": 137962,
       "name": "Could This Be Love",
       "url": "https://open.spotify.com/track/2825Zwd0EnzzDxFOhDsRQC"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Funds (feat. ODUMODUBLVCK & Chike)",
-        "url": "https://open.spotify.com/album/5xU7RFIfd0tCDXt3iu0NET"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 206948,
-      "name": "Funds (feat. ODUMODUBLVCK & Chike)",
-      "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Buyelekhaya",
-        "url": "https://open.spotify.com/album/45R6SFqOW3G7OREgneLaZ1"
-      },
-      "artists": [
-        {
-          "name": "Nathi",
-          "url": "https://open.spotify.com/artist/4fc9zCrEmJuCfb2Bu1eA2l"
-        }
-      ],
-      "duration_ms": 277760,
-      "name": "Nomvula",
-      "url": "https://open.spotify.com/track/3ZxyJpVtUVsiSwsY5W1U1L"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Oscillations",
         "url": "https://open.spotify.com/album/6w31zPupHsVoFPOBuzIzts"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 306040,
       "name": "Fairytale",
       "url": "https://open.spotify.com/track/7zncVVnJFQgqpQh0zwX3MR"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Buyelekhaya",
+        "url": "https://open.spotify.com/album/45R6SFqOW3G7OREgneLaZ1"
+      },
+      "artists": [
+        {
+          "name": "Nathi",
+          "url": "https://open.spotify.com/artist/4fc9zCrEmJuCfb2Bu1eA2l"
+        }
+      ],
+      "duration_ms": 277760,
+      "name": "Nomvula",
+      "url": "https://open.spotify.com/track/3ZxyJpVtUVsiSwsY5W1U1L"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -607,6 +607,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Alusa Why Are You Topless?",
+        "url": "https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 281860,
+      "name": "Chikwere",
+      "url": "https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Ogechi",
         "url": "https://open.spotify.com/album/3RrnJMe8E4SmVIzo393sLg"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 152133,
       "name": "Ogechi",
       "url": "https://open.spotify.com/track/6YYnBEMEaj960IX1evcTun"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Alusa Why Are You Topless?",
-        "url": "https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 281860,
-      "name": "Chikwere",
-      "url": "https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -679,26 +679,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Princess of House (Easy to Love)",
-        "url": "https://open.spotify.com/album/5iGGJm7wvIQpCbDWMahdcR"
-      },
-      "artists": [
-        {
-          "name": "Bucie",
-          "url": "https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG"
-        },
-        {
-          "name": "Heavy-K",
-          "url": "https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts"
-        }
-      ],
-      "duration_ms": 335466,
-      "name": "Easy to Love",
-      "url": "https://open.spotify.com/track/2SHcPk6yW3WbS1tJGH2h8v"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Grass 2 Grace",
         "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 269733,
       "name": "If Love Is A Crime",
       "url": "https://open.spotify.com/track/1imfHroOMdTqspOIGnVtOs"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Princess of House (Easy to Love)",
+        "url": "https://open.spotify.com/album/5iGGJm7wvIQpCbDWMahdcR"
+      },
+      "artists": [
+        {
+          "name": "Bucie",
+          "url": "https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG"
+        },
+        {
+          "name": "Heavy-K",
+          "url": "https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts"
+        }
+      ],
+      "duration_ms": 335466,
+      "name": "Easy to Love",
+      "url": "https://open.spotify.com/track/2SHcPk6yW3WbS1tJGH2h8v"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -867,6 +867,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
+      },
+      "artists": [
+        {
+          "name": "Malaika",
+          "url": "https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM"
+        }
+      ],
+      "duration_ms": 442533,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "Naninina",
         "url": "https://open.spotify.com/album/1VYIVNFWjLSvT8MhCqdstk"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 198905,
       "name": "Ubuhle Bakho",
       "url": "https://open.spotify.com/track/4mkfmHDntAJNnfZG033D6O"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Malaika",
-        "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
-      },
-      "artists": [
-        {
-          "name": "Malaika",
-          "url": "https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM"
-        }
-      ],
-      "duration_ms": 442533,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Break Through",
-        "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
-      },
-      "artists": [
-        {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
-        }
-      ],
-      "duration_ms": 246884,
-      "name": "Mansa",
-      "url": "https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Nitangoja",
         "url": "https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 158479,
       "name": "Nitangoja",
       "url": "https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Break Through",
+        "url": "https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "duration_ms": 246884,
+      "name": "Mansa",
+      "url": "https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Sunday Blues",
-        "url": "https://open.spotify.com/album/47lwfbRB4zO2oJVLXo1zKq"
-      },
-      "artists": [
-        {
-          "name": "Langa Mavuso",
-          "url": "https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop"
-        }
-      ],
-      "duration_ms": 225382,
-      "name": "Sunday Blues",
-      "url": "https://open.spotify.com/track/4zWRI4TEkznVoLrwpJFNX6"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "Live From Nkrumah Krom Vol II: Home Run",
         "url": "https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 213360,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Sunday Blues",
+        "url": "https://open.spotify.com/album/47lwfbRB4zO2oJVLXo1zKq"
+      },
+      "artists": [
+        {
+          "name": "Langa Mavuso",
+          "url": "https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop"
+        }
+      ],
+      "duration_ms": 225382,
+      "name": "Sunday Blues",
+      "url": "https://open.spotify.com/track/4zWRI4TEkznVoLrwpJFNX6"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
-        "name": "Songs in The Key of Love",
-        "url": "https://open.spotify.com/album/2U2yQrvQtQFSCabDSxl8mK"
-      },
-      "artists": [
-        {
-          "name": "Berita",
-          "url": "https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Ndicel'ikiss",
-      "url": "https://open.spotify.com/track/6xLM23LrQKss6kiLNUK9vE"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
         "name": "More Of You",
         "url": "https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic"
       },
@@ -1759,6 +1743,22 @@
     {
       "added_at": "2025-07-11 08:09:25",
       "album": {
+        "name": "Songs in The Key of Love",
+        "url": "https://open.spotify.com/album/2U2yQrvQtQFSCabDSxl8mK"
+      },
+      "artists": [
+        {
+          "name": "Berita",
+          "url": "https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Ndicel'ikiss",
+      "url": "https://open.spotify.com/track/6xLM23LrQKss6kiLNUK9vE"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
         "name": "In The Building",
         "url": "https://open.spotify.com/album/2qOPYIXCVcL7fx0eTXx3yI"
       },
@@ -1771,6 +1771,22 @@
       "duration_ms": 173617,
       "name": "Chargie",
       "url": "https://open.spotify.com/track/3rcXrrfhDOe3kShu3uekeC"
+    },
+    {
+      "added_at": "2025-07-11 08:09:25",
+      "album": {
+        "name": "Nkwagala",
+        "url": "https://open.spotify.com/album/5rJT6clbZn0dbA5oLVfBwo"
+      },
+      "artists": [
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        }
+      ],
+      "duration_ms": 190122,
+      "name": "Nkwagala",
+      "url": "https://open.spotify.com/track/531luMexKodEekscAlLyVu"
     },
     {
       "added_at": "2025-07-11 08:09:25",
@@ -1795,22 +1811,6 @@
       "duration_ms": 205691,
       "name": "Loyalty (feat. Marioo & Nandy)",
       "url": "https://open.spotify.com/track/0fAXdxnOMYH45IkwEF22eC"
-    },
-    {
-      "added_at": "2025-07-11 08:09:25",
-      "album": {
-        "name": "Nkwagala",
-        "url": "https://open.spotify.com/album/5rJT6clbZn0dbA5oLVfBwo"
-      },
-      "artists": [
-        {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
-        }
-      ],
-      "duration_ms": 190122,
-      "name": "Nkwagala",
-      "url": "https://open.spotify.com/track/531luMexKodEekscAlLyVu"
     },
     {
       "added_at": "2025-07-11 08:09:25",

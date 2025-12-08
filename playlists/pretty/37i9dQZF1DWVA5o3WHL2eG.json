@@ -1,6 +1,6 @@
 {
   "description": "This year's best new music by women artists chosen by our editors. Cover: Zs\u00e1 Zs\u00e1",
-  "num_followers": 41342,
+  "num_followers": 41384,
   "original_name": "Best of EQUAL GSA 2025",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2025-12-03 12:15:27",
       "album": {
+        "name": "Glas",
+        "url": "https://open.spotify.com/album/3gXDz8Fp3f8tIW7Ct4EquA"
+      },
+      "artists": [
+        {
+          "name": "Hava",
+          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
+        }
+      ],
+      "duration_ms": 142390,
+      "name": "Glas",
+      "url": "https://open.spotify.com/track/1vKIOaBO4P6KYvED7wTgw1"
+    },
+    {
+      "added_at": "2025-12-03 12:15:27",
+      "album": {
         "name": "Kleines M\u00e4dchen gro\u00dfe Tr\u00e4ume",
         "url": "https://open.spotify.com/album/39d8JB3Nil2U7iAPqQcMLd"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 131880,
       "name": "Kleines M\u00e4dchen gro\u00dfe Tr\u00e4ume",
       "url": "https://open.spotify.com/track/34y5yuvWwxO93Ws1Ng0PVw"
-    },
-    {
-      "added_at": "2025-12-03 12:15:27",
-      "album": {
-        "name": "Glas",
-        "url": "https://open.spotify.com/album/3gXDz8Fp3f8tIW7Ct4EquA"
-      },
-      "artists": [
-        {
-          "name": "Hava",
-          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
-        }
-      ],
-      "duration_ms": 142390,
-      "name": "Glas",
-      "url": "https://open.spotify.com/track/1vKIOaBO4P6KYvED7wTgw1"
     },
     {
       "added_at": "2025-12-03 12:15:27",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-12-03 12:15:27",
       "album": {
-        "name": "Erst wenn die Sterne",
-        "url": "https://open.spotify.com/album/2S14O3ETclu1djAEUQsUTe"
-      },
-      "artists": [
-        {
-          "name": "SOPHIA",
-          "url": "https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "Regen",
-      "url": "https://open.spotify.com/track/2l2wNPaYwGqjysr0E7XJPY"
-    },
-    {
-      "added_at": "2025-12-03 12:15:27",
-      "album": {
         "name": "Uhh Ahh",
         "url": "https://open.spotify.com/album/0PwENhXpJY5ZGYSujgaByL"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 154591,
       "name": "Uhh Ahh",
       "url": "https://open.spotify.com/track/1eS4lsbmSq1oCqIO5IVks3"
+    },
+    {
+      "added_at": "2025-12-03 12:15:27",
+      "album": {
+        "name": "Erst wenn die Sterne",
+        "url": "https://open.spotify.com/album/2S14O3ETclu1djAEUQsUTe"
+      },
+      "artists": [
+        {
+          "name": "SOPHIA",
+          "url": "https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "Regen",
+      "url": "https://open.spotify.com/track/2l2wNPaYwGqjysr0E7XJPY"
     },
     {
       "added_at": "2025-12-03 12:15:27",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-12-03 12:15:27",
       "album": {
-        "name": "1jahr ep",
-        "url": "https://open.spotify.com/album/7tVwgdD9G6VItWdXY3OiU8"
-      },
-      "artists": [
-        {
-          "name": "elimako",
-          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
-        }
-      ],
-      "duration_ms": 146881,
-      "name": "ariadne",
-      "url": "https://open.spotify.com/track/77g2kugdY7tdQzUNgMio2N"
-    },
-    {
-      "added_at": "2025-12-03 12:15:27",
-      "album": {
         "name": "Girl With A Gun, Angry",
         "url": "https://open.spotify.com/album/7425eZpGDF8LYZfUsVbmrq"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 146938,
       "name": "Girl With A Gun, Angry",
       "url": "https://open.spotify.com/track/60ZpuNRzuxKvgC7Dsi0mUa"
+    },
+    {
+      "added_at": "2025-12-03 12:15:27",
+      "album": {
+        "name": "1jahr ep",
+        "url": "https://open.spotify.com/album/7tVwgdD9G6VItWdXY3OiU8"
+      },
+      "artists": [
+        {
+          "name": "elimako",
+          "url": "https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0"
+        }
+      ],
+      "duration_ms": 146881,
+      "name": "ariadne",
+      "url": "https://open.spotify.com/track/77g2kugdY7tdQzUNgMio2N"
     },
     {
       "added_at": "2025-12-03 12:15:27",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-12-03 12:15:27",
       "album": {
-        "name": "AUTO",
-        "url": "https://open.spotify.com/album/66KrOYM5q4DWdEO0Lxk8vq"
-      },
-      "artists": [
-        {
-          "name": "Sofie Royer",
-          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
-        }
-      ],
-      "duration_ms": 171968,
-      "name": "AUTO",
-      "url": "https://open.spotify.com/track/6e0cofC3xE1aU6n9kueTGE"
-    },
-    {
-      "added_at": "2025-12-03 12:15:27",
-      "album": {
         "name": "Doppel H",
         "url": "https://open.spotify.com/album/1d9ixH32tOX4xPAfHN2dfN"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 105405,
       "name": "Doppel H",
       "url": "https://open.spotify.com/track/5OGpkbJvl6TBhLRfHjSzF7"
+    },
+    {
+      "added_at": "2025-12-03 12:15:27",
+      "album": {
+        "name": "AUTO",
+        "url": "https://open.spotify.com/album/66KrOYM5q4DWdEO0Lxk8vq"
+      },
+      "artists": [
+        {
+          "name": "Sofie Royer",
+          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
+        }
+      ],
+      "duration_ms": 171968,
+      "name": "AUTO",
+      "url": "https://open.spotify.com/track/6e0cofC3xE1aU6n9kueTGE"
     },
     {
       "added_at": "2025-12-03 12:15:27",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-12-03 12:15:27",
       "album": {
+        "name": "Loup Garou",
+        "url": "https://open.spotify.com/album/2Peslf5kduT4RFrCZZBhRM"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        }
+      ],
+      "duration_ms": 179348,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/4eBcSz15E4pg0EAEsOdWYR"
+    },
+    {
+      "added_at": "2025-12-03 12:15:27",
+      "album": {
         "name": "Seltsame Welt",
         "url": "https://open.spotify.com/album/0KqRCqU3oh9vL6nBrxPIWU"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 162727,
       "name": "Seltsame Welt",
       "url": "https://open.spotify.com/track/6pKeiH8i03FKfwTPfPi2F6"
-    },
-    {
-      "added_at": "2025-12-03 12:15:27",
-      "album": {
-        "name": "Loup Garou",
-        "url": "https://open.spotify.com/album/2Peslf5kduT4RFrCZZBhRM"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
-        }
-      ],
-      "duration_ms": 179348,
-      "name": "Voyage",
-      "url": "https://open.spotify.com/track/4eBcSz15E4pg0EAEsOdWYR"
     },
     {
       "added_at": "2025-12-03 12:15:27",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-12-03 12:15:27",
       "album": {
-        "name": "Hearts Lust",
-        "url": "https://open.spotify.com/album/2TDqdAcDobWRHzGeisJQyj"
-      },
-      "artists": [
-        {
-          "name": "Milune",
-          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
-        }
-      ],
-      "duration_ms": 193294,
-      "name": "kissing you at midnight",
-      "url": "https://open.spotify.com/track/0qvfeApV15jDpsmvacOiH9"
-    },
-    {
-      "added_at": "2025-12-03 12:15:27",
-      "album": {
         "name": "If You Wanna Scream",
         "url": "https://open.spotify.com/album/1BCR9EGD8PONhIkaKp9xul"
       },
@@ -843,6 +827,22 @@
     {
       "added_at": "2025-12-03 12:15:27",
       "album": {
+        "name": "Hearts Lust",
+        "url": "https://open.spotify.com/album/2TDqdAcDobWRHzGeisJQyj"
+      },
+      "artists": [
+        {
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+        }
+      ],
+      "duration_ms": 193294,
+      "name": "kissing you at midnight",
+      "url": "https://open.spotify.com/track/0qvfeApV15jDpsmvacOiH9"
+    },
+    {
+      "added_at": "2025-12-03 12:15:27",
+      "album": {
         "name": "Scherben",
         "url": "https://open.spotify.com/album/3n7LyUXg6kAu4qOzhxgbXK"
       },
@@ -855,22 +855,6 @@
       "duration_ms": 204853,
       "name": "Scherben",
       "url": "https://open.spotify.com/track/08EqzaIXwVBF7bkaSNpPaz"
-    },
-    {
-      "added_at": "2025-12-03 12:15:27",
-      "album": {
-        "name": "du k\u00fcsst jetzt jemand anderen :/",
-        "url": "https://open.spotify.com/album/00qt21e2vgTWtDs69djSBe"
-      },
-      "artists": [
-        {
-          "name": "Dani Lia",
-          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
-        }
-      ],
-      "duration_ms": 151229,
-      "name": "seele ber\u00fchrst",
-      "url": "https://open.spotify.com/track/4CPrh62klaqHBEU7yAKheE"
     },
     {
       "added_at": "2025-12-03 12:15:27",
@@ -903,6 +887,22 @@
       "duration_ms": 143694,
       "name": "Unsichtbar",
       "url": "https://open.spotify.com/track/7Kh3FVsFuXKVurHWgUW5Fb"
+    },
+    {
+      "added_at": "2025-12-03 12:15:27",
+      "album": {
+        "name": "du k\u00fcsst jetzt jemand anderen :/",
+        "url": "https://open.spotify.com/album/00qt21e2vgTWtDs69djSBe"
+      },
+      "artists": [
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "duration_ms": 151229,
+      "name": "seele ber\u00fchrst",
+      "url": "https://open.spotify.com/track/4CPrh62klaqHBEU7yAKheE"
     },
     {
       "added_at": "2025-12-03 12:15:27",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-12-03 12:15:27",
       "album": {
-        "name": "Wenn die Stadt schl\u00e4ft",
-        "url": "https://open.spotify.com/album/2E09awpdLFO7HmWG5IT6Nx"
-      },
-      "artists": [
-        {
-          "name": "tosha",
-          "url": "https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ"
-        }
-      ],
-      "duration_ms": 159659,
-      "name": "Wenn die Stadt schl\u00e4ft",
-      "url": "https://open.spotify.com/track/6HElf5HIlS9c644BJLPMoG"
-    },
-    {
-      "added_at": "2025-12-03 12:15:27",
-      "album": {
         "name": "No Room For Two",
         "url": "https://open.spotify.com/album/6fE8mUVWPj7tO5e8O2lrId"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 185624,
       "name": "i love you don't worry xx",
       "url": "https://open.spotify.com/track/5EA6isOGU7VqSlVzOuvTmT"
+    },
+    {
+      "added_at": "2025-12-03 12:15:27",
+      "album": {
+        "name": "Wenn die Stadt schl\u00e4ft",
+        "url": "https://open.spotify.com/album/2E09awpdLFO7HmWG5IT6Nx"
+      },
+      "artists": [
+        {
+          "name": "tosha",
+          "url": "https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ"
+        }
+      ],
+      "duration_ms": 159659,
+      "name": "Wenn die Stadt schl\u00e4ft",
+      "url": "https://open.spotify.com/track/6HElf5HIlS9c644BJLPMoG"
     },
     {
       "added_at": "2025-12-03 12:15:27",

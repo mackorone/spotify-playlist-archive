@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 61937,
+  "num_followers": 61947,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2025-10-28 15:00:03",
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f Knights",
+        "url": "https://open.spotify.com/album/3qcoVnc807jEOc4SJJqYHP"
+      },
+      "artists": [
+        {
+          "name": "\u6731\u685c \u53f8(CV.\u571f\u7530 \u73b2\u592e)",
+          "url": "https://open.spotify.com/artist/1r0MP4iYcIJegetAIgXlrd"
+        }
+      ],
+      "duration_ms": 269706,
+      "name": "Shall we dance?",
+      "url": "https://open.spotify.com/track/4RwhihlovRBGCCFfdVbSHq"
+    },
+    {
+      "added_at": "2025-10-28 15:00:03",
+      "album": {
         "name": "\u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u300f8th Anniversary song\u300cOne with One\u300d (2023 Ver.)",
         "url": "https://open.spotify.com/album/36KMa5R5FWUtwpI8wC1EEb"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 262533,
       "name": "SURF ON SMILE",
       "url": "https://open.spotify.com/track/4sNWvz279Vm4JVCYIg0cW3"
-    },
-    {
-      "added_at": "2025-10-28 15:00:03",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season1 \u7d05\u6708",
-        "url": "https://open.spotify.com/album/08DeJWSPdQrq06WLeyYHZ8"
-      },
-      "artists": [
-        {
-          "name": "\u7d05\u6708/\u84ee\u5df3\u656c\u4eba(CV.\u6885\u539f\u88d5\u4e00\u90ce)\u3001\u9b3c\u9f8d\u7d05\u90ce(CV.\u795e\u5c3e\u664b\u4e00\u90ce)\u3001\u795e\u5d0e\u98af\u99ac(CV.\u795e\u6c38\u572d\u4f51)",
-          "url": "https://open.spotify.com/artist/2uqHLjgXdyv3XJhoeAespG"
-        }
-      ],
-      "duration_ms": 248680,
-      "name": "\u7d05\u6708\u3044\u308d\u306f\u5504",
-      "url": "https://open.spotify.com/track/3XnOOzHzcKiJ2rsvoNYd0X"
     }
   ],
   "unique_name": "ENSEMBLE STARS!!",

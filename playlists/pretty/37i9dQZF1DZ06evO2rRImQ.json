@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Los Recoditos. The essential tracks, all in one playlist.",
-  "num_followers": 203102,
+  "num_followers": 203111,
   "original_name": "This Is Banda Los Recoditos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTIggAAAAACDS3kcDOIOcLt3tObe7JkM",
+  "snapshot_id": "aTNyAAAAAAAMzGwK0F8cRPbO+mcXsYDE",
   "tracks": [
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 208293,
-      "name": "No Te Quiero Perder",
-      "url": "https://open.spotify.com/track/7hncTibNAY3HQCQOr3N5Ou"
+      "duration_ms": 125746,
+      "name": "La Escuelita",
+      "url": "https://open.spotify.com/track/1TiPjfuaAbA3KgxzzweqIn"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 125746,
-      "name": "La Escuelita",
-      "url": "https://open.spotify.com/track/1TiPjfuaAbA3KgxzzweqIn"
+      "duration_ms": 208293,
+      "name": "No Te Quiero Perder",
+      "url": "https://open.spotify.com/track/7hncTibNAY3HQCQOr3N5Ou"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Esta Me Levanto",
-        "url": "https://open.spotify.com/album/3iqO0fCP37DdULocCXjxFA"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 158096,
-      "name": "De Esta Me Levanto",
-      "url": "https://open.spotify.com/track/75JwYbM8rNyGTzYtYIfRRd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 200800,
       "name": "Esta Va Por Ti",
       "url": "https://open.spotify.com/track/1bkcIokOXvuIoKK9YNIx0m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Esta Me Levanto",
+        "url": "https://open.spotify.com/album/3iqO0fCP37DdULocCXjxFA"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 158096,
+      "name": "De Esta Me Levanto",
+      "url": "https://open.spotify.com/track/75JwYbM8rNyGTzYtYIfRRd"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivir La Vida",
-        "url": "https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 177133,
-      "name": "Vivir La Vida",
-      "url": "https://open.spotify.com/track/5vELhlTajEjglTEwGp8WAI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Superlameando",
         "url": "https://open.spotify.com/album/0TKECyVYZcM0RIYQGFzr1y"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 220866,
       "name": "Yo Quiero Chupar",
       "url": "https://open.spotify.com/track/0NiQtVu6jYIqQjCKVlqjX5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivir La Vida",
+        "url": "https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 177133,
+      "name": "Vivir La Vida",
+      "url": "https://open.spotify.com/track/5vELhlTajEjglTEwGp8WAI"
     },
     {
       "added_at": null,

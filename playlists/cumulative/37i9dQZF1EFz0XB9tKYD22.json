@@ -7461,6 +7461,24 @@
     },
     {
       "album": {
+        "name": "Whiskey and Water",
+        "url": "https://open.spotify.com/album/7bWBIhSORAl6lwF48LgaaY"
+      },
+      "artists": [
+        {
+          "name": "Rose Falcon",
+          "url": "https://open.spotify.com/artist/3M2ei8oRgZ3TwTo6F6votj"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224602,
+      "name": "Whiskey and Water",
+      "url": "https://open.spotify.com/track/4tDj7Nlfn1OfOFfXpvrm6g"
+    },
+    {
+      "album": {
         "name": "Horseback",
         "url": "https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP"
       },

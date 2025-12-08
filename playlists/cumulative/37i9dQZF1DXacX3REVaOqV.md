@@ -4,7 +4,7 @@
 
 > The best in house music
 
-716 songs - 1 day 22 hr 39 min
+717 songs - 1 day 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,6 +416,7 @@
 | [Marvins Touch](https://open.spotify.com/track/2AuKpfuRP1UYeKsXLXr6no) | [T.Markakis](https://open.spotify.com/artist/5hmp0NIkvK7MBXw4lHNCZu) | [Marvins Touch](https://open.spotify.com/album/63nZDkAJQqNz41aHF9d4CD) | 5:33 | 2022-04-14 | 2024-03-01 |
 | [Mary Go Wild! \- Franky Rizardo ‘97 Remix](https://open.spotify.com/track/5mGHkOssoHmrdtZ4GX81HP) | [Grooveyard](https://open.spotify.com/artist/3LThgBIEhmkTZCJ6q7Jkzf), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Mary Go Wild! \(Franky Rizardo ‘97 Remix\)](https://open.spotify.com/album/4ivSKW54tIzIIoRClK6QrM) | 3:35 | 2022-07-21 | 2024-08-31 |
 | [Me & U](https://open.spotify.com/track/66CevqpUKEplNsJBuHIqlb) | [Albert Harvey](https://open.spotify.com/artist/5OEDPvGsA5L54lRrdqi8Aj), [Nathalie Blue](https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt) | [ME & U](https://open.spotify.com/album/5KdzO0y6PM3DTTykeaBQNU) | 2:34 | 2025-06-27 | 2025-09-02 |
+| [Medellin](https://open.spotify.com/track/1mR45Dp6MAsfKiSOtkOacS) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3), [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Realismo Sucio](https://open.spotify.com/artist/21swBpGjFRwaDqFoaFw27f) | [Medellin](https://open.spotify.com/album/3KWejwbJUbXcTNSm0ro4di) | 3:15 | 2025-12-04 |  |
 | [Medicine](https://open.spotify.com/track/2jzmiQmmiO9M1uudbgdSM1) | [Marcus Cito](https://open.spotify.com/artist/3r26IN2ktuEyJs4hUoOlzC) | [Medicine](https://open.spotify.com/album/4PdC05N3eKyTqAsG3NGybb) | 2:35 | 2022-04-14 | 2024-03-01 |
 | [Mi Casa](https://open.spotify.com/track/43TMaeqLiJnxTzWjlU6sLW) | [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Kilian Viera](https://open.spotify.com/artist/4zyLmvoAbCvtkAY2efG4Em) | [Mi Casa](https://open.spotify.com/album/0XYcKUadr4cTE8pMu7UcVC) | 3:33 | 2022-07-07 | 2022-07-25 |
 | [Mi Vida](https://open.spotify.com/track/7GNcodiCQICWsRT99AZ3ib) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5) | [Mi Vida EP](https://open.spotify.com/album/0qVltBVJYcyhhhdKhQapPI) | 2:32 | 2025-09-15 | 2025-12-04 |
@@ -550,7 +551,7 @@
 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2024-06-06 | 2025-06-06 |
 | [Shine](https://open.spotify.com/track/1u3AbZvelg9GqMrp5jbikq) | [Dissolut](https://open.spotify.com/artist/00qEejZyY0fO6WFTRtuCVO), [Tony Sherman](https://open.spotify.com/artist/5PGrx2urmHR1xmOvSMAK3l) | [Shine](https://open.spotify.com/album/6FLrwXbfRWy300VRhrqygC) | 3:00 | 2022-04-14 | 2022-07-29 |
 | [Shining \- Fouk Remix](https://open.spotify.com/track/5PhPGBd8BKjLTrOJYeCzpo) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f), [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe) | [Shining \(Fouk Remix\)](https://open.spotify.com/album/6x7mSjuD3O8YTja6MxmOqH) | 3:48 | 2023-12-28 | 2024-10-31 |
-| [shock](https://open.spotify.com/track/5UbdWP5ehVyJsAxLFrKOSi) | [Matrefakt](https://open.spotify.com/artist/6RkLsuBe0imAJH9uZrWgNI) | [shock ep](https://open.spotify.com/album/7bxENLl4AI8mhwuoDzbJI6) | 2:57 | 2025-10-09 |  |
+| [shock](https://open.spotify.com/track/5UbdWP5ehVyJsAxLFrKOSi) | [Matrefakt](https://open.spotify.com/artist/6RkLsuBe0imAJH9uZrWgNI) | [shock ep](https://open.spotify.com/album/7bxENLl4AI8mhwuoDzbJI6) | 2:57 | 2025-10-09 | 2025-12-08 |
 | [Shooting Star](https://open.spotify.com/track/1iD1Apn0i05NWYwOaSaRcb) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Constellations \(Expanded\)](https://open.spotify.com/album/6lIisbumiVx5fHO6e8ybLb) | 2:25 | 2024-02-29 | 2024-09-13 |
 | [Show Me \- Waajeed's Black Messiah Remix](https://open.spotify.com/track/5v1I1uIfemjG5Eq2Vnhuvq) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC), [Waajeed](https://open.spotify.com/artist/4dXRZcf1AdzvwZ9AiRIsmT) | [Show Me \(Waajeed's Black Messiah Remix\)](https://open.spotify.com/album/5vnQM2ODuWCPxwJGbm4irH) | 6:04 | 2022-04-14 | 2022-07-26 |
 | [Show My Love](https://open.spotify.com/track/075WtAJrh7uEbnInJVxjYj) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Show My Love](https://open.spotify.com/album/7riKp1e3NEWpgkevFL5v4U) | 2:43 | 2023-02-02 | 2023-07-15 |

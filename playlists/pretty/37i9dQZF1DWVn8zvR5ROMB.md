@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Zac Brown Band, Luke Combs, Tucker Wetmore and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,654 likes - 91 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,693 likes - 91 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

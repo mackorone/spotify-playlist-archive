@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 182759,
+  "num_followers": 182799,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTIggAAAAAAgCFhDn0kpBOvfoTf3MZir",
+  "snapshot_id": "aTNyAAAAAACFR0Rmd/c4R0iEi/1YyzHB",
   "tracks": [
     {
       "added_at": null,
@@ -179,26 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 306640,
-      "name": "Ausencia",
-      "url": "https://open.spotify.com/track/1r6oqZhRYStrYWSeGKuCFP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Juicio",
         "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 227280,
       "name": "Ah-Ah / O-No",
       "url": "https://open.spotify.com/track/5OmWm4rnwYwHAxWePNqaoK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 306640,
+      "name": "Ausencia",
+      "url": "https://open.spotify.com/track/1r6oqZhRYStrYWSeGKuCFP"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cantante De Los Cantantes",
-        "url": "https://open.spotify.com/album/59Gjxm9FfL1UXDJ78QsoA8"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 327666,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/1dAeAenj3NKCoqDPT0FIpf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Juicio",
         "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 369120,
       "name": "Aguanile",
       "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Cantante De Los Cantantes",
+        "url": "https://open.spotify.com/album/59Gjxm9FfL1UXDJ78QsoA8"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 327666,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/1dAeAenj3NKCoqDPT0FIpf"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Man And His Music: La Voz",
-        "url": "https://open.spotify.com/album/1cjhnTRit0iS1HViiGeK8H"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 459880,
-      "name": "Vamos A Re\u00edr Un Poco",
-      "url": "https://open.spotify.com/track/1RVtt5na5nhNTNOhJJawL4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "49 Minutes",
         "url": "https://open.spotify.com/album/1T4b8OHo82V9mr8UdMTJ72"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 497640,
       "name": "Timbalero",
       "url": "https://open.spotify.com/track/52Bo07jYDz6FkKnOL07x3Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Man And His Music: La Voz",
+        "url": "https://open.spotify.com/album/1cjhnTRit0iS1HViiGeK8H"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 459880,
+      "name": "Vamos A Re\u00edr Un Poco",
+      "url": "https://open.spotify.com/track/1RVtt5na5nhNTNOhJJawL4"
     },
     {
       "added_at": null,
@@ -775,18 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Salsa Pa'l Que Sabe, Vol. 2",
-        "url": "https://open.spotify.com/album/5tV7liWaZI0cpQn7NS0Dlx"
+        "name": "OG: Original Gangster",
+        "url": "https://open.spotify.com/album/1qixO7wcV8yfii33bZj46T"
       },
       "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
         {
           "name": "H\u00e9ctor Lavoe",
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 401693,
-      "name": "Periodico De Ayer",
-      "url": "https://open.spotify.com/track/1RQwHnFHsLVlJmgEk9kmmR"
+      "duration_ms": 336120,
+      "name": "Barrunto",
+      "url": "https://open.spotify.com/track/5qxGS2O7i5bQXHu0MyM9c8"
     },
     {
       "added_at": null,
@@ -807,22 +811,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "OG: Original Gangster",
-        "url": "https://open.spotify.com/album/1qixO7wcV8yfii33bZj46T"
+        "name": "Salsa Pa'l Que Sabe, Vol. 2",
+        "url": "https://open.spotify.com/album/5tV7liWaZI0cpQn7NS0Dlx"
       },
       "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
         {
           "name": "H\u00e9ctor Lavoe",
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 336120,
-      "name": "Barrunto",
-      "url": "https://open.spotify.com/track/5qxGS2O7i5bQXHu0MyM9c8"
+      "duration_ms": 401693,
+      "name": "Periodico De Ayer",
+      "url": "https://open.spotify.com/track/1RQwHnFHsLVlJmgEk9kmmR"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belarus.
 
-2,115 songs - 4 day 0 hr 25 min
+2,116 songs - 4 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,7 @@
 | [Drugs You Should Try It](https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 3:28 | 2024-08-26 | 2024-09-04 |
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-21 | 2025-02-19 |
 | [DUBTSOVA](https://open.spotify.com/track/260wUp5DqP8RtsUVFK5EJn) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [Меньше чем три](https://open.spotify.com/album/4Tmr1Q9NKJ6EIhgP2beV8k) | 2:42 | 2024-12-14 | 2024-12-22 |
-| [Dying To Love](https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Dying To Love](https://open.spotify.com/album/46UaOs7CHiOPGGdxUtWvcj) | 4:16 | 2025-11-11 |  |
+| [Dying To Love](https://open.spotify.com/track/1TPdMmb92BoWvDFQlCuVl0) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Dying To Love](https://open.spotify.com/album/46UaOs7CHiOPGGdxUtWvcj) | 4:16 | 2025-11-11 | 2025-12-08 |
 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-03-07 | 2024-03-18 |
 | [ECOS DO ABISMO \- Super Slowed](https://open.spotify.com/track/0lZSad8ojli0h9SAwcyIS5) | [Flame Runner](https://open.spotify.com/artist/5bePP411ITzZyWf1QZ2SX4), [ZIMXN](https://open.spotify.com/artist/579T3JNtybsWlkIdSVumAF) | [ECOS DO ABISMO](https://open.spotify.com/album/3pgc55s9tArxCTxSv5GQgO) | 2:06 | 2025-03-01 | 2025-03-03 |
 | [EDM](https://open.spotify.com/track/1LZ8P7gjRdjwgDBOFnUS5B) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [PEEKABOO](https://open.spotify.com/album/7LP4dCklRhdTncqIYesDqi) | 2:43 | 2024-07-16 | 2024-07-31 |
@@ -1110,6 +1110,7 @@
 | [Tom Tom](https://open.spotify.com/track/3aMIgXaB04SzL68n4lMWLL) | [Holy Fuck](https://open.spotify.com/artist/6Q0gMZJNIebNFFaJeonc11) | [Congrats](https://open.spotify.com/album/2gXD1M54nEGHLVZZea22Rv) | 3:47 | 2025-03-14 | 2025-04-21 |
 | [Tongue](https://open.spotify.com/track/38oHqKpGqxHkl6jR5CTqVT) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [GFOTYBUCKS](https://open.spotify.com/album/2k5HlmocImUDMDh80YXFXH) | 2:41 | 2025-10-20 | 2025-10-23 |
 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 | 2025-03-11 | 2025-04-02 |
+| [Took Her To The O](https://open.spotify.com/track/7fEoXCZTZFosUFvFQg1BmW) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp) | [Levon James](https://open.spotify.com/album/1ZRAeQ6zsPJ5W1K3DvpRpP) | 3:16 | 2025-12-07 |  |
 | [Top Dawg](https://open.spotify.com/track/10PhhJwLrsPxEZThat4V3x) | [ALBLAK 52](https://open.spotify.com/artist/0tkZJURRnsezR78T9uHDjq), [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [QUATTRO: La Famiglia](https://open.spotify.com/album/6UfdZh3lDmENHY9IOMHW67) | 2:27 | 2025-12-02 |  |
 | [Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 5:26 | 2025-04-18 | 2025-05-12 |
 | [TRALALERO TRALALA FUNK](https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1) | [DJ Raulipues](https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG), [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee), [MRR](https://open.spotify.com/artist/3g3GaoGiDhAeavQUhxWMmM) | [TRALALERO TRALALA FUNK](https://open.spotify.com/album/3ByS7pZG6sOgHIZVBTj9v4) | 1:57 | 2025-03-04 | 2025-04-02 |
@@ -1118,8 +1119,8 @@
 | [TRUE](https://open.spotify.com/track/2oAmC0f5DWBDyXqsKO00ov) | [YOARI](https://open.spotify.com/artist/4ZkANOMMrOlj63PVZszKme) | [YOARI X MY DEMON](https://open.spotify.com/album/2XyMN12w6Lb9Ion8UdRCkf) | 3:12 | 2024-01-29 | 2024-02-02 |
 | [TRUE LOVE](https://open.spotify.com/track/3WbuQIjkR1mIKdwSNlgqpp) | [DONDA](https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [DONDA 2](https://open.spotify.com/album/1ZkGNUz1un0b3Z7EsJl3ci) | 2:17 | 2025-06-11 | 2025-06-17 |
 | [TRUE LOVE](https://open.spotify.com/track/6ZbMNLri5DvUHPFi632iy3) | [DONDA](https://open.spotify.com/artist/1t9YWEQIh5ciiliO2C8Mew), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [DONDA 2](https://open.spotify.com/album/1hyxD3HtzCTIUUAZl26f4b) | 2:17 | 2025-06-10 | 2025-06-12 |
-| [Trust Me](https://open.spotify.com/track/1iUdrNKh0GaFuyHgVVDwfi) | [Pandora](https://open.spotify.com/artist/3X8tqA34H3odz1gCCHxrzc) | [One Of A Kind](https://open.spotify.com/album/3y7BEC8JPOLH7ZMkuVDjvM) | 3:26 | 2025-11-23 |  |
-| [Trust Me](https://open.spotify.com/track/5dmlhN9mfOnlCBP8TQ0ulr) | [Pandora](https://open.spotify.com/artist/3X8tqA34H3odz1gCCHxrzc) | [One of a Kind](https://open.spotify.com/album/7GE8SJwurE8t4TZFrXmMpd) | 3:26 | 2025-11-21 | 2025-12-07 |
+| [Trust Me](https://open.spotify.com/track/1iUdrNKh0GaFuyHgVVDwfi) | [Pandora](https://open.spotify.com/artist/3X8tqA34H3odz1gCCHxrzc) | [One Of A Kind](https://open.spotify.com/album/3y7BEC8JPOLH7ZMkuVDjvM) | 3:26 | 2025-11-23 | 2025-12-08 |
+| [Trust Me](https://open.spotify.com/track/5dmlhN9mfOnlCBP8TQ0ulr) | [Pandora](https://open.spotify.com/artist/3X8tqA34H3odz1gCCHxrzc) | [One of a Kind](https://open.spotify.com/album/7GE8SJwurE8t4TZFrXmMpd) | 3:26 | 2025-11-21 |  |
 | [TryToFriend](https://open.spotify.com/track/7vD6fJg66dEzbYXVvEyQCh) | [FORTUNA 812](https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH) | [TryToFriend](https://open.spotify.com/album/6MqxxhntIjn3kDZCctIMrN) | 1:52 | 2024-01-29 | 2024-03-12 |
 | [Turbo \(Majestic\)](https://open.spotify.com/track/6rOHlBLsBXzJx2k9ZROzEq) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [Turbo \(Majestic\)](https://open.spotify.com/album/2ylTYTAiP5GF0otrh1VdU3) | 2:55 | 2024-08-27 | 2024-09-18 |
 | [Turn The Lights Off \(feat\. Jon\)](https://open.spotify.com/track/3ssyED50WJpisKCW7n6rND) | [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Discolized 2.0](https://open.spotify.com/album/72HUUTyi7aESZugkM40BKf) | 2:56 | 2025-10-19 | 2025-10-21 |

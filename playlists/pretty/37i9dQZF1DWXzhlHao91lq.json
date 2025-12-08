@@ -1,6 +1,6 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 73539,
+  "num_followers": 73535,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-11-23 16:00:26",
       "album": {
-        "name": "Hard To Be Human",
-        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 170414,
-      "name": "Hard To Be Human",
-      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
-    },
-    {
-      "added_at": "2025-11-23 16:00:26",
-      "album": {
         "name": "You Can't Make Old Friends",
         "url": "https://open.spotify.com/album/1cAujZxQJDEhqXK0EBBNtr"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2025-11-23 16:00:26",
       "album": {
-        "name": "Chasing Cars",
-        "url": "https://open.spotify.com/album/09dM9UZeA5l3Hyd5cGe6Td"
+        "name": "Hard To Be Human",
+        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
       },
       "artists": [
         {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
         }
       ],
-      "duration_ms": 240426,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/2EDYchd8hhwAOWKGQxJoro"
+      "duration_ms": 170414,
+      "name": "Hard To Be Human",
+      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
     },
     {
       "added_at": "2025-11-23 16:00:26",
@@ -735,6 +719,22 @@
       "duration_ms": 154920,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/6N6am7ams0uGyk3nncGHvd"
+    },
+    {
+      "added_at": "2025-11-23 16:00:26",
+      "album": {
+        "name": "Chasing Cars",
+        "url": "https://open.spotify.com/album/09dM9UZeA5l3Hyd5cGe6Td"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "duration_ms": 240426,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/2EDYchd8hhwAOWKGQxJoro"
     },
     {
       "added_at": "2025-11-23 16:00:26",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-11-23 16:00:26",
       "album": {
-        "name": "Mission Bell",
-        "url": "https://open.spotify.com/album/07HizW0Hwz3rDY9aDtoLXS"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 318840,
-      "name": "Violin",
-      "url": "https://open.spotify.com/track/7eRDTkDUO5UVWgla9Max4h"
-    },
-    {
-      "added_at": "2025-11-23 16:00:26",
-      "album": {
         "name": "Best Part",
         "url": "https://open.spotify.com/album/1Eew1PSbKc6DM7pD99NiIc"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 280987,
       "name": "Best Part",
       "url": "https://open.spotify.com/track/2HttK3TYhnumj8xWjKCYem"
+    },
+    {
+      "added_at": "2025-11-23 16:00:26",
+      "album": {
+        "name": "Mission Bell",
+        "url": "https://open.spotify.com/album/07HizW0Hwz3rDY9aDtoLXS"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 318840,
+      "name": "Violin",
+      "url": "https://open.spotify.com/track/7eRDTkDUO5UVWgla9Max4h"
     },
     {
       "added_at": "2025-11-23 16:00:26",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-11-23 16:00:26",
       "album": {
-        "name": "Darling",
-        "url": "https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 210650,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM"
-    },
-    {
-      "added_at": "2025-11-23 16:00:26",
-      "album": {
         "name": "hungover sunday",
         "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
       },
@@ -1047,6 +1031,38 @@
       "duration_ms": 259665,
       "name": "Someday",
       "url": "https://open.spotify.com/track/6sl4KzZ9PRb8xTzjYIrHAP"
+    },
+    {
+      "added_at": "2025-11-23 16:00:26",
+      "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 210650,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM"
+    },
+    {
+      "added_at": "2025-11-23 16:00:26",
+      "album": {
+        "name": "Alone, Together",
+        "url": "https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pearson",
+          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
+        }
+      ],
+      "duration_ms": 180994,
+      "name": "Come Back Around",
+      "url": "https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr"
     },
     {
       "added_at": "2025-11-23 16:00:26",
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2025-11-23 16:00:26",
       "album": {
-        "name": "Alone, Together",
-        "url": "https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Pearson",
-          "url": "https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm"
-        }
-      ],
-      "duration_ms": 180994,
-      "name": "Come Back Around",
-      "url": "https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr"
-    },
-    {
-      "added_at": "2025-11-23 16:00:26",
-      "album": {
         "name": "Two Punks In Love",
         "url": "https://open.spotify.com/album/3koAGDxVGllCXSbgS4mI9U"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-11-23 16:00:26",
       "album": {
-        "name": "beautiful disaster",
-        "url": "https://open.spotify.com/album/5p10dXl0Ydb49Yb5VnsqId"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 204583,
-      "name": "beautiful disaster",
-      "url": "https://open.spotify.com/track/1LMYoMkISpBuySn4NCwmCO"
-    },
-    {
-      "added_at": "2025-11-23 16:00:26",
-      "album": {
         "name": "Always On My Mind",
         "url": "https://open.spotify.com/album/6fEji3YIRWFLPtBM8UCULk"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 193779,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/3VeCrupHghYMiLQNhsIeCn"
+    },
+    {
+      "added_at": "2025-11-23 16:00:26",
+      "album": {
+        "name": "beautiful disaster",
+        "url": "https://open.spotify.com/album/5p10dXl0Ydb49Yb5VnsqId"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 204583,
+      "name": "beautiful disaster",
+      "url": "https://open.spotify.com/track/1LMYoMkISpBuySn4NCwmCO"
     },
     {
       "added_at": "2025-11-23 16:00:26",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-11-23 16:00:26",
       "album": {
-        "name": "The Stray Birds",
-        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
-      },
-      "artists": [
-        {
-          "name": "The Stray Birds",
-          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "Dream in Blue",
-      "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
-    },
-    {
-      "added_at": "2025-11-23 16:00:26",
-      "album": {
         "name": "dinner in bed",
         "url": "https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 197855,
       "name": "dinner in bed",
       "url": "https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM"
+    },
+    {
+      "added_at": "2025-11-23 16:00:26",
+      "album": {
+        "name": "The Stray Birds",
+        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
+      },
+      "artists": [
+        {
+          "name": "The Stray Birds",
+          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "Dream in Blue",
+      "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
     },
     {
       "added_at": "2025-11-23 16:00:26",

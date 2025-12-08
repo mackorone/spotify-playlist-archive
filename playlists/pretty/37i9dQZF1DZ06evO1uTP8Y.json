@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 9465,
+  "num_followers": 9483,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTIggAAAAAAWjxxdvzBfK6iKkVCsik7e",
+  "snapshot_id": "aTNyAAAAAABerk3P0O0rdSQ39cZMghq1",
   "tracks": [
     {
       "added_at": null,
@@ -202,11 +202,15 @@
         {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Elijah Fox",
+          "url": "https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh"
         }
       ],
-      "duration_ms": 121120,
-      "name": "Blur",
-      "url": "https://open.spotify.com/track/26dCraicO5lIpioBMnO2dg"
+      "duration_ms": 187013,
+      "name": "Reason (feat. Elijah Fox)",
+      "url": "https://open.spotify.com/track/1r8ojhEE2Kyo4vHCumpcwl"
     },
     {
       "added_at": null,
@@ -266,15 +270,11 @@
         {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Elijah Fox",
-          "url": "https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh"
         }
       ],
-      "duration_ms": 187013,
-      "name": "Reason (feat. Elijah Fox)",
-      "url": "https://open.spotify.com/track/1r8ojhEE2Kyo4vHCumpcwl"
+      "duration_ms": 121120,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/26dCraicO5lIpioBMnO2dg"
     },
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Repercussions",
-        "url": "https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu"
+        "name": "The Summer That Saved Me",
+        "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 180714,
-      "name": "Repercussions",
-      "url": "https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH"
+      "duration_ms": 176493,
+      "name": "Obi's Interlude",
+      "url": "https://open.spotify.com/track/0ezr3Dznf70W0Ug1NJ4cyf"
     },
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Summer That Saved Me",
-        "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
+        "name": "Repercussions",
+        "url": "https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 176493,
-      "name": "Obi's Interlude",
-      "url": "https://open.spotify.com/track/0ezr3Dznf70W0Ug1NJ4cyf"
+      "duration_ms": 180714,
+      "name": "Repercussions",
+      "url": "https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH"
     },
     {
       "added_at": null,

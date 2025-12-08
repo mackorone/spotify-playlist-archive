@@ -1,12 +1,12 @@
 {
   "description": "Nieuwe tracks elke week!",
-  "num_followers": 159902,
+  "num_followers": 159889,
   "original_name": "Fresh Flows",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOxpj/8j6kC237Et5eqJBjhJ6sFP",
+  "snapshot_id": "AAAAAG7BTDYHpo4G6JbdOgixOY9rmk7o",
   "tracks": [
     {
       "added_at": "2025-12-05 09:49:42",
@@ -23,6 +23,62 @@
       "duration_ms": 135750,
       "name": "Mij Niet Stoorn",
       "url": "https://open.spotify.com/track/00E47XLbfaECEWD8U3LUti"
+    },
+    {
+      "added_at": "2025-12-05 09:49:42",
+      "album": {
+        "name": "Shinen",
+        "url": "https://open.spotify.com/album/3gQ29L8H6mRoCMS7j1Xpnv"
+      },
+      "artists": [
+        {
+          "name": "Bailey KBC",
+          "url": "https://open.spotify.com/artist/3Cf9anMB3CrNzdcOgeLVC4"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "Shinen",
+      "url": "https://open.spotify.com/track/6jvfVmpaSEvckOrktLyw4k"
+    },
+    {
+      "added_at": "2025-12-05 09:49:42",
+      "album": {
+        "name": "SD Kaart",
+        "url": "https://open.spotify.com/album/4t1CBylzLDMvg5Bpa6YZ57"
+      },
+      "artists": [
+        {
+          "name": "JOJO AIR",
+          "url": "https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF"
+        },
+        {
+          "name": "BFLQuatro",
+          "url": "https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl"
+        },
+        {
+          "name": "Fredobeats",
+          "url": "https://open.spotify.com/artist/11mF7q71d6HxKR4uZR4DWX"
+        }
+      ],
+      "duration_ms": 171669,
+      "name": "SD Kaart",
+      "url": "https://open.spotify.com/track/3TcRryQZXHTrBXtA1ffgMk"
+    },
+    {
+      "added_at": "2025-12-05 09:49:42",
+      "album": {
+        "name": "Gaan Naar",
+        "url": "https://open.spotify.com/album/5XyQHJpWboYhuVlGO3okZn"
+      },
+      "artists": [
+        {
+          "name": "BTJE",
+          "url": "https://open.spotify.com/artist/4wN3vVis2oYJbTCbrFdHdV"
+        }
+      ],
+      "duration_ms": 145193,
+      "name": "Gaan Naar",
+      "url": "https://open.spotify.com/track/3UyT6U96QsbcbyxMqx79n7"
     },
     {
       "added_at": "2025-12-05 09:49:42",
@@ -59,46 +115,6 @@
     {
       "added_at": "2025-12-05 09:49:42",
       "album": {
-        "name": "SD Kaart",
-        "url": "https://open.spotify.com/album/4t1CBylzLDMvg5Bpa6YZ57"
-      },
-      "artists": [
-        {
-          "name": "JOJO AIR",
-          "url": "https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF"
-        },
-        {
-          "name": "BFLQuatro",
-          "url": "https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl"
-        },
-        {
-          "name": "Fredobeats",
-          "url": "https://open.spotify.com/artist/11mF7q71d6HxKR4uZR4DWX"
-        }
-      ],
-      "duration_ms": 171669,
-      "name": "SD Kaart",
-      "url": "https://open.spotify.com/track/3TcRryQZXHTrBXtA1ffgMk"
-    },
-    {
-      "added_at": "2025-12-05 09:49:42",
-      "album": {
-        "name": "Shinen",
-        "url": "https://open.spotify.com/album/3gQ29L8H6mRoCMS7j1Xpnv"
-      },
-      "artists": [
-        {
-          "name": "Bailey KBC",
-          "url": "https://open.spotify.com/artist/3Cf9anMB3CrNzdcOgeLVC4"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "Shinen",
-      "url": "https://open.spotify.com/track/6jvfVmpaSEvckOrktLyw4k"
-    },
-    {
-      "added_at": "2025-12-05 09:49:42",
-      "album": {
         "name": "NOG \u00c9\u00c9N",
         "url": "https://open.spotify.com/album/6i7HBBfBSJ97ZUcCpvnmdl"
       },
@@ -115,6 +131,22 @@
       "duration_ms": 143255,
       "name": "NOG \u00c9\u00c9N",
       "url": "https://open.spotify.com/track/5Z3O0TR1wYmQLj8WBmmJXc"
+    },
+    {
+      "added_at": "2025-12-05 09:49:42",
+      "album": {
+        "name": "Autobahn",
+        "url": "https://open.spotify.com/album/3aYorkRQQxXS0BS7a376Wz"
+      },
+      "artists": [
+        {
+          "name": "Shah",
+          "url": "https://open.spotify.com/artist/7lPPiwLIuHV5fPlN6jLi13"
+        }
+      ],
+      "duration_ms": 132727,
+      "name": "Autobahn",
+      "url": "https://open.spotify.com/track/1mFHtqK38sGeOiX3Yaufs5"
     },
     {
       "added_at": "2025-12-05 09:49:42",
@@ -175,22 +207,6 @@
     {
       "added_at": "2025-12-05 09:49:42",
       "album": {
-        "name": "Gaan Naar",
-        "url": "https://open.spotify.com/album/5XyQHJpWboYhuVlGO3okZn"
-      },
-      "artists": [
-        {
-          "name": "BTJE",
-          "url": "https://open.spotify.com/artist/4wN3vVis2oYJbTCbrFdHdV"
-        }
-      ],
-      "duration_ms": 145193,
-      "name": "Gaan Naar",
-      "url": "https://open.spotify.com/track/3UyT6U96QsbcbyxMqx79n7"
-    },
-    {
-      "added_at": "2025-12-05 09:49:42",
-      "album": {
         "name": "3x Raden",
         "url": "https://open.spotify.com/album/1BtaGM0eTKVkAoWChTJoPj"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 147096,
       "name": "Snotneus",
       "url": "https://open.spotify.com/track/6PkauAK5MnF4dRpbV8YdLl"
-    },
-    {
-      "added_at": "2025-12-05 09:49:42",
-      "album": {
-        "name": "Autobahn",
-        "url": "https://open.spotify.com/album/3aYorkRQQxXS0BS7a376Wz"
-      },
-      "artists": [
-        {
-          "name": "Shah",
-          "url": "https://open.spotify.com/artist/7lPPiwLIuHV5fPlN6jLi13"
-        }
-      ],
-      "duration_ms": 132727,
-      "name": "Autobahn",
-      "url": "https://open.spotify.com/track/1mFHtqK38sGeOiX3Yaufs5"
     },
     {
       "added_at": "2025-12-05 09:49:42",

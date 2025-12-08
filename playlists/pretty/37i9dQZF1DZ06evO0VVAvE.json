@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 7685,
+  "num_followers": 7754,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTIggAAAAABddNsRC7mIfZH6sOV7jnpv",
+  "snapshot_id": "aTNyAAAAAABbOGadxAYUmgppD05AFtR9",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El-Chapo",
+        "url": "https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Feel Free",
+      "url": "https://open.spotify.com/track/5i3makGa6P8FFuqoJC6N1l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Major",
         "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 132856,
       "name": "Kilo",
       "url": "https://open.spotify.com/track/1CtTVV922T15I2JV6h5jgy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El-Chapo",
-        "url": "https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Feel Free",
-      "url": "https://open.spotify.com/track/5i3makGa6P8FFuqoJC6N1l"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fresh Prince Of Lagos",
-        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 133773,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/5oMNkVjx1SEKvSUhL9It75"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El-Chapo",
         "url": "https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 172035,
       "name": "Porsche",
       "url": "https://open.spotify.com/track/6sSKIXaucNYEKH3dmcixm8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fresh Prince Of Lagos",
+        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 133773,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/5oMNkVjx1SEKvSUhL9It75"
     },
     {
       "added_at": null,

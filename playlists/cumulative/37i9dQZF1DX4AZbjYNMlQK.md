@@ -4,7 +4,7 @@
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Camilo & Evaluna Montaner
 
-213 songs - 11 hr 24 min
+214 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Feliz Navidad](https://open.spotify.com/track/3ERzzgIgx84qcS8RtUrjRO) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Feliz Navidad](https://open.spotify.com/album/0RmTfZy4N0l2q7EAzrbXH9) | 3:41 | 2021-12-15 | 2022-12-19 |
 | [Feliz Navidad \(feat\. Mon Laferte\)](https://open.spotify.com/track/4NyRyGgAdWJdovsFZUY9Fd) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [You Make It Feel Like Christmas \(Deluxe Edition \- 2020\)](https://open.spotify.com/album/0xXKtxOYqLBTjcefyh8Oz8) | 2:42 | 2023-11-21 |  |
 | [Feliz Navidad \(with The Simpsons\)](https://open.spotify.com/track/4xBS1p60I9p8TxbBVcTrOQ) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX), [The Simpsons](https://open.spotify.com/artist/7r0Otd9dEStSVIxJ02ml5a) | [Feliz Navidad \(with The Simpsons\)](https://open.spotify.com/album/0ZcvS854Zujt3tuVmKzEUY) | 2:02 | 2022-12-19 | 2023-12-02 |
+| [Gracias](https://open.spotify.com/track/6JEM41cUizPxyKVgQLIc6z) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Gracias](https://open.spotify.com/album/35D3oPRezyNeU9ion9E40U) | 3:24 | 2025-12-05 |  |
 | [gracias navidad](https://open.spotify.com/track/2mbxn4DJb1jn7xFLY0VFs7) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [NEON16](https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8) | [gracias navidad](https://open.spotify.com/album/1PYtTDrXh3rQ1GE3GVBtWW) | 4:11 | 2023-12-01 |  |
 | [Hallelujah](https://open.spotify.com/track/2MLT6aAsx8jTeb3vi2LTYo) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [El Mix\-Tape De Santa](https://open.spotify.com/album/5cXWewANUJiwlRh5q9TD6a) | 3:22 | 2022-12-19 |  |
 | [Happy Xmas \(War is over\)](https://open.spotify.com/track/7ytkpCgYnwyw7cxY4Lw9qD) | [Patricia Zavala](https://open.spotify.com/artist/6phtBAYwDEdv1xOcaVCbus) | [Navidad Con Patricia Zavala](https://open.spotify.com/album/6pUaeARKcdhghxLav0jzMU) | 2:54 | 2025-11-21 | 2025-11-30 |
@@ -196,7 +197,7 @@
 | [Todo Lo Que Quiero Eres Tu](https://open.spotify.com/track/60kNOlbfCafJ24kztVrLzV) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [Navidad 2021: Villancicos](https://open.spotify.com/album/0VXF7FHz8tmLwVXPHCPBMO) | 3:31 | 2021-12-15 | 2022-11-09 |
 | [Todo Lo Que Quiero Eres Tu](https://open.spotify.com/track/7b6feyyH5HsJUSBwtlcYrW) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [Rolitas navideñas](https://open.spotify.com/album/1e2Tzt6ON6y9NTiizI5RYk) | 3:31 | 2022-12-18 | 2022-12-20 |
 | [Toxic Christmas](https://open.spotify.com/track/1hOWbWdAfANHLUMuRP182E) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Toxic Christmas](https://open.spotify.com/album/2MlzzwIgcXCSdENIrErvgD) | 3:19 | 2023-11-24 |  |
-| [triste navidad](https://open.spotify.com/track/4jqg6EpmCWFrBMxlamseYv) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [triste navidad](https://open.spotify.com/album/1MarJFeivJhtymWJdzQs6z) | 3:15 | 2024-12-20 |  |
+| [triste navidad](https://open.spotify.com/track/4jqg6EpmCWFrBMxlamseYv) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [triste navidad](https://open.spotify.com/album/1MarJFeivJhtymWJdzQs6z) | 3:15 | 2024-12-20 | 2025-12-08 |
 | [Triste Navidad \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/track/2JIBylKkq8Fan9Ode61X7D) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Navidad \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/album/1uTAF8ztXofqNCTzUY6kg8) | 3:27 | 2022-11-25 |  |
 | [Tu Adiós Es Mi Navidad](https://open.spotify.com/track/0GA7enjACq1tLPVnJ9pDI1) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Dios Me Señaló](https://open.spotify.com/album/2wpm5727wmmFOtmmmtjf3N) | 2:28 | 2021-12-15 | 2022-12-20 |
 | [Un Año Más](https://open.spotify.com/track/1gKfAZ4WauownlJdL5CM8q) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP), [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Nuestra Navidad](https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4) | 3:56 | 2022-12-19 |  |

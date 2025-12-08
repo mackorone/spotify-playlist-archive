@@ -1,12 +1,12 @@
 {
   "description": "This is Tassia Reis. The essential tracks, all in one playlist.",
-  "num_followers": 2284,
+  "num_followers": 2286,
   "original_name": "This Is Tassia Reis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTIggAAAAAD9Kf5DgMWxnEBI86Igikjd",
+  "snapshot_id": "aTNyAAAAAABf5c/G2MsiSu27vlE0UGyg",
   "tracks": [
     {
       "added_at": null,
@@ -255,18 +255,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bem Longe do Fim",
-        "url": "https://open.spotify.com/album/6AzwnRF53cPihnLKlame5v"
+        "name": "Pr\u00f3spera D+",
+        "url": "https://open.spotify.com/album/5pcU4dZfYddVzcBrWsP6mz"
       },
       "artists": [
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        },
+        {
+          "name": "Theo Zagrae",
+          "url": "https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Vida de Atriz",
-      "url": "https://open.spotify.com/track/732QVXOOu5EZjyWstNa6VS"
+      "duration_ms": 163275,
+      "name": "Dia Bom",
+      "url": "https://open.spotify.com/track/6snhNAP0C8cAau4y8aXSUe"
     },
     {
       "added_at": null,
@@ -307,26 +315,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pr\u00f3spera D+",
-        "url": "https://open.spotify.com/album/5pcU4dZfYddVzcBrWsP6mz"
+        "name": "Bem Longe do Fim",
+        "url": "https://open.spotify.com/album/6AzwnRF53cPihnLKlame5v"
       },
       "artists": [
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
-        },
-        {
-          "name": "Theo Zagrae",
-          "url": "https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z"
         }
       ],
-      "duration_ms": 163275,
-      "name": "Dia Bom",
-      "url": "https://open.spotify.com/track/6snhNAP0C8cAau4y8aXSUe"
+      "duration_ms": 168000,
+      "name": "Vida de Atriz",
+      "url": "https://open.spotify.com/track/732QVXOOu5EZjyWstNa6VS"
     },
     {
       "added_at": null,
@@ -347,38 +347,6 @@
       "duration_ms": 189716,
       "name": "Perfeito \u00c9 o Mar",
       "url": "https://open.spotify.com/track/6KLaWP1J5jjCHYCdVaLm7R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bem Longe do Fim",
-        "url": "https://open.spotify.com/album/6AzwnRF53cPihnLKlame5v"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 213088,
-      "name": "Bem Longe do Fim",
-      "url": "https://open.spotify.com/track/1AGA8E3UOc4M2uD0Fixc81"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Topo da Minha Cabe\u00e7a",
-        "url": "https://open.spotify.com/album/0VotJU4WlPWWZRsb1Vmo3C"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 223829,
-      "name": "N\u00f3s Vestimos Branco",
-      "url": "https://open.spotify.com/track/6MbeupBG9xub6Qj74Dg6Y2"
     },
     {
       "added_at": null,
@@ -411,30 +379,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remonta",
-        "url": "https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH"
+        "name": "Topo da Minha Cabe\u00e7a",
+        "url": "https://open.spotify.com/album/0VotJU4WlPWWZRsb1Vmo3C"
       },
       "artists": [
         {
-          "name": "Liniker e os Caramelows",
-          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
-        },
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 223829,
+      "name": "N\u00f3s Vestimos Branco",
+      "url": "https://open.spotify.com/track/6MbeupBG9xub6Qj74Dg6Y2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bem Longe do Fim",
+        "url": "https://open.spotify.com/album/6AzwnRF53cPihnLKlame5v"
+      },
+      "artists": [
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        },
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 213088,
+      "name": "Bem Longe do Fim",
+      "url": "https://open.spotify.com/track/1AGA8E3UOc4M2uD0Fixc81"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girl from Bahia",
+        "url": "https://open.spotify.com/album/3NRwcRgNBM5gtT6LM9BAON"
+      },
+      "artists": [
         {
-          "name": "Caramelows",
-          "url": "https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi"
+          "name": "Jevon",
+          "url": "https://open.spotify.com/artist/1cwNKCIuq12wLqAAsC1Zyi"
         },
         {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
         }
       ],
-      "duration_ms": 350906,
-      "name": "Tua",
-      "url": "https://open.spotify.com/track/1oke7Jkp9afNQzTUD5iHZZ"
+      "duration_ms": 202197,
+      "name": "Girl from Bahia",
+      "url": "https://open.spotify.com/track/5iLPuAregh2acj2I2rrWOF"
     },
     {
       "added_at": null,
@@ -483,6 +475,34 @@
       "duration_ms": 224511,
       "name": "S\u00f3 um Tempo",
       "url": "https://open.spotify.com/track/7BCjDIt35oEvhueyt6W26C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remonta",
+        "url": "https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH"
+      },
+      "artists": [
+        {
+          "name": "Liniker e os Caramelows",
+          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        },
+        {
+          "name": "Caramelows",
+          "url": "https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 350906,
+      "name": "Tua",
+      "url": "https://open.spotify.com/track/1oke7Jkp9afNQzTUD5iHZZ"
     },
     {
       "added_at": null,

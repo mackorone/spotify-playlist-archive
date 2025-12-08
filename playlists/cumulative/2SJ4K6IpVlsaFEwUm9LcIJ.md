@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-821 songs - 2 day 0 hr 22 min
+823 songs - 2 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,6 +505,7 @@
 | [New Power](https://open.spotify.com/track/4jss2X2iCZjOU7zAUjc3zW) | [Cindy](https://open.spotify.com/artist/3vUqg3VWCLmEA1es1T4nGn) | [I'm Cindy](https://open.spotify.com/album/3obhwQ6jhn7Yy3ZGL6jwYt) | 3:16 | 2025-04-13 | 2025-05-09 |
 | [News from Verona](https://open.spotify.com/track/3x0QNpUibTxG8ImfedZkZ3) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Knee\-Deep In the North Sea](https://open.spotify.com/album/2A8c5znvmslp2I77dTBV1K) | 4:21 | 2025-06-12 | 2025-07-04 |
 | [Night\-Time Intermission](https://open.spotify.com/track/54bD0lIobLZhybCV06eCTw) | [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [5:55 \(Nouvelle Edition\)](https://open.spotify.com/album/6VbkZXFdiFyEbwY240h672) | 2:43 | 2025-10-29 | 2025-11-15 |
+| [Nina + Field of Cops](https://open.spotify.com/track/78ugJH8q6W3kiGLwM2K7Lg) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 5:52 | 2025-12-07 |  |
 | [No Big Thing](https://open.spotify.com/track/03iua1rLzMCB9JhFrv5WX4) | [HTRK](https://open.spotify.com/artist/06sdJwlggq0PKOe4LPZWCg) | [Death is a Dream](https://open.spotify.com/album/2FhhWX9iOrnmC4o5NCQLRf) | 2:59 | 2025-02-10 | 2025-03-02 |
 | [No Ideology](https://open.spotify.com/track/09CnarDkzHTMaxk2CEBr8k) | [Yoshika Colwell](https://open.spotify.com/artist/3UjZDptt2aZDIw2gKixdkM), [The Vernon Spring](https://open.spotify.com/artist/2gzcB4vMIStEDZiQlvywGm) | [This Weather](https://open.spotify.com/album/3lD6HDsjczWFXeQzUYCqQt) | 3:49 | 2024-12-10 | 2025-01-12 |
 | [No Reply at All \- 2007 Remaster](https://open.spotify.com/track/0aeUuMypcIbr5y2oQUKyBV) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Abacab \(2007 Remaster\)](https://open.spotify.com/album/6KSLVAuJx6hWsYEk005uZj) | 4:33 | 2024-04-13 | 2024-05-16 |
@@ -782,6 +783,7 @@
 | [Water in Motion \- 2006 Remaster](https://open.spotify.com/track/2PnTIpGlHPY1FZkwDMlsnr) | [Judie Tzuke](https://open.spotify.com/artist/7eo4Kn4hJuwXKCD6nOl2Kh) | [Shoot the Moon \(2006 Remaster\)](https://open.spotify.com/album/1KhMx9peEp1gHJE8uSNsxN) | 3:41 | 2025-08-26 | 2025-09-11 |
 | [Water Table](https://open.spotify.com/track/5KLMheJDladX9Rt5gNULKh) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Deep in View](https://open.spotify.com/album/6xCiTaBETJXjbRP68e7g0P) | 4:03 | 2024-01-10 | 2024-03-10 |
 | [We Share The Same Breath](https://open.spotify.com/track/1SlN5pwqGU5M8DECxEamCt) | [Torus](https://open.spotify.com/artist/4YlNFCrxoTfxFtZwPoGjLW) | [Summer of Love](https://open.spotify.com/album/5Ye7qabYgs7yFnHTzFsptN) | 4:32 | 2025-10-01 | 2025-11-15 |
+| [We're Thinking the Same Thing](https://open.spotify.com/track/3zaztO9QEefcS7MBZNs9vP) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 2:47 | 2025-12-07 |  |
 | [Welcome to My World](https://open.spotify.com/track/1GWNIRq2QFmVuIpwVONWhY) | [Curly Chalker](https://open.spotify.com/artist/4KBTL6pJ0paCrhVG3kUxM7) | [Big Hits on Big Steel](https://open.spotify.com/album/2ASp6kSw8vM2bwg9lazZZU) | 2:30 | 2025-06-16 | 2025-07-04 |
 | [Well I Know You're Shy](https://open.spotify.com/track/2t1PBeyHtPyGaHvxh3lLoY) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 3:29 | 2025-02-16 | 2025-03-02 |
 | [West Of Samoa](https://open.spotify.com/track/6UtAZWcMKQdehuKLql1Xh8) | [Speedy West](https://open.spotify.com/artist/5O6DkdFuZFvISHeiYAQAVZ) | [Steel Guitar](https://open.spotify.com/album/5Gv5lcvdHr08tZDp80EKl7) | 2:33 | 2025-07-17 | 2025-09-11 |

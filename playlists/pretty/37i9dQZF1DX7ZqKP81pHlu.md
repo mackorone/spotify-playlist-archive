@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 
 > Les hits du moment en Algérie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,232 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,265 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 37 | [Bizzare](https://open.spotify.com/track/3zl8vzFlNwDsMemEDuScwW) | [Trap King](https://open.spotify.com/artist/7FyFexQUGbmAuOBz975Ieu), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Bizzare](https://open.spotify.com/album/6UJwGPS5BcNWbSbSn6lul1) | 3:46 |
 | 38 | [Elissa fel good](https://open.spotify.com/track/5C9lvIZ8QZaCP39a69D3uf) | [Djamel Milano](https://open.spotify.com/artist/7AYCOTouVoJVDngBBo37We), [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Elissa fel good](https://open.spotify.com/album/7yYPwBJl01qJLCMSKw2wi6) | 5:07 |
 | 39 | [Imagine](https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Imagine](https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6) | 2:45 |
-| 40 | [Khelli Zman Ydor](https://open.spotify.com/track/3L1NjI3i3X05kI7tVYW8B3) | [Djam](https://open.spotify.com/artist/4MRARYtjkmg8TZRdtpLdPD), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [TiMoh](https://open.spotify.com/artist/6JNGCSHJaCLiX8rKpS5kF2) | [Khelli Zman Ydor](https://open.spotify.com/album/2LC4cNOjWjLkMPuzeDPoee) | 3:30 |
+| 40 | [Khelli Zman Ydor](https://open.spotify.com/track/3L1NjI3i3X05kI7tVYW8B3) | [TiMoh](https://open.spotify.com/artist/6JNGCSHJaCLiX8rKpS5kF2), [Djam](https://open.spotify.com/artist/4MRARYtjkmg8TZRdtpLdPD), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Khelli Zman Ydor](https://open.spotify.com/album/2LC4cNOjWjLkMPuzeDPoee) | 3:30 |
 | 41 | [NANANI NANANA](https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [APOCALYPSE](https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9) | 3:37 |
 | 42 | [Allo Omri](https://open.spotify.com/track/4PYVjUQ8cxuYF07PCfYn4a) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj), [Tchikou 22](https://open.spotify.com/artist/1PQR1mOLesI2wPJDXcyl7H) | [Allo Omri](https://open.spotify.com/album/1RNhljk2TfYLj3Q1aNNnKO) | 4:53 |
 | 43 | [Saroukh Style Manini](https://open.spotify.com/track/1f2AKogp0N5Yy5iA41xNIm) | [Smaug](https://open.spotify.com/artist/1fIraGNUIufBhLMYTiXs6n), [Dj Mourad](https://open.spotify.com/artist/5pYsi7UuQoyP3HdXYjpAPz) | [Saroukh Style Manini](https://open.spotify.com/album/4njF2Gxylwy7QZsb9Mo57s) | 3:03 |

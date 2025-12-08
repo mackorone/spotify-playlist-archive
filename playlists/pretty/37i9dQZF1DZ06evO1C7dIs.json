@@ -1,12 +1,12 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 262392,
+  "num_followers": 262390,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTIggAAAAABcHchffNMz3oK/14+coMJ5",
+  "snapshot_id": "aTNyAAAAAACw1x2P1RBnhH4Ip8PutCqC",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yesterwynde",
+        "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 566433,
+      "name": "An Ocean Of Strange Islands",
+      "url": "https://open.spotify.com/track/548ttPqK3JM7dmIuP5VZ6p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dark Passion Play",
         "url": "https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 301853,
       "name": "Escapist",
       "url": "https://open.spotify.com/track/66X2i4bMFJB9zGgff9gyzq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yesterwynde",
-        "url": "https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 566433,
-      "name": "An Ocean Of Strange Islands",
-      "url": "https://open.spotify.com/track/548ttPqK3JM7dmIuP5VZ6p"
     },
     {
       "added_at": null,

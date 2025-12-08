@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 
 > Instrumentals from the North Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,608 likes - 50 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,617 likes - 50 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QsiGlwQqfw.md) - [plain]
 | 35 | [Purvi \- Alap & Vilambit](https://open.spotify.com/track/4YWDiGHsCcdW1OjfVDY84w) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 16:51 |
 | 36 | [Dynamic Tabla Solo \- Excerpts From Live Solo in 11 Beats](https://open.spotify.com/track/64aLobbdqbUORxgYEZLssW) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Timeless Tabla](https://open.spotify.com/album/51tTT1nhtvQ7y5Tfw90ECL) | 4:20 |
 | 37 | [Rag Marwa, Part 1](https://open.spotify.com/track/5oVsZLthQbDaAeWWyLfDhB) | [Ali Akbar Khan](https://open.spotify.com/artist/2GUxWjR8cNgljddVLEp72u) | [Signature Series, Vol\. 3](https://open.spotify.com/album/0xOx85Xa1RQn5XuEmGFLVH) | 21:25 |
-| 38 | [Peace & Harmony](https://open.spotify.com/track/6bMM8EO0e92d4E0XshNrB7) | [Rahul Sharma](https://open.spotify.com/artist/3BAOzRjHe8qlURUC3fDSTf) | [Ethereal \- Splendour of Mewar](https://open.spotify.com/album/4psBgEkC4mOMoWnoxUZPAn) | 2:43 |
-| 39 | [Raag Jhinjhoti 7.5 beats](https://open.spotify.com/track/0nY3sZQ0seYfr64U0YWWw7) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ) | [Raag Jhinjhoti by Ronu Majumdar](https://open.spotify.com/album/7l5QepzzzRX79oT2Yu4qWI) | 21:24 |
+| 38 | [Raag Jhinjhoti 7.5 beats](https://open.spotify.com/track/0nY3sZQ0seYfr64U0YWWw7) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ) | [Raag Jhinjhoti by Ronu Majumdar](https://open.spotify.com/album/7l5QepzzzRX79oT2Yu4qWI) | 21:24 |
+| 39 | [Peace & Harmony](https://open.spotify.com/track/6bMM8EO0e92d4E0XshNrB7) | [Rahul Sharma](https://open.spotify.com/artist/3BAOzRjHe8qlURUC3fDSTf) | [Ethereal \- Splendour of Mewar](https://open.spotify.com/album/4psBgEkC4mOMoWnoxUZPAn) | 2:43 |
 | 40 | [Tilak Kamod](https://open.spotify.com/track/1B9Y1TJJYIqtdCZcMXIEv0) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 20:36 |
 | 41 | [Raga Ahir Bhairi](https://open.spotify.com/track/3DBmWeg0kH6tbRj0gkWwY8) | [Paritosh Seal](https://open.spotify.com/artist/6KIhLoUJnoRfom1hguUXgk) | [How the River Ganges Flows: Sublime Masterpieces of Indian Violin, 1933\-1952](https://open.spotify.com/album/1hls0BSNqZ0iEVl8jyUi10) | 3:20 |
 | 42 | [Alaap Jor Jhala \- Raga Basant Mukhari](https://open.spotify.com/track/5SFyfC5KvyCzRzYwfVrMnt) | [Pandit Shivkumar Sharma](https://open.spotify.com/artist/3ehCEIDusX13qf207bFKGS) | [Golden Raaga Collection II \- Pandit Shiv Kumar Sharma](https://open.spotify.com/album/1BI4juHcCUet9XCpTKZCJV) | 17:50 |

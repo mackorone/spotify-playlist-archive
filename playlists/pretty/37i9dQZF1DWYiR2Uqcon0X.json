@@ -1,6 +1,6 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 735834,
+  "num_followers": 735820,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-08-21 15:35:38",
       "album": {
-        "name": "Back to You",
-        "url": "https://open.spotify.com/album/6oKON9XPW9sB4CBnrQL3rs"
-      },
-      "artists": [
-        {
-          "name": "Jedd Hughes",
-          "url": "https://open.spotify.com/artist/6aZmqT6ycUdRsm7fF7ndwH"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/5tXygo2KgUWVhpvYW7r0I5"
-    },
-    {
-      "added_at": "2025-08-21 15:35:38",
-      "album": {
         "name": "Crystal Eyes",
         "url": "https://open.spotify.com/album/1jQ2IrQ8tqYquBkQz0LJ4Y"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2025-08-21 15:35:38",
       "album": {
-        "name": "firstborn",
-        "url": "https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe"
+        "name": "Back to You",
+        "url": "https://open.spotify.com/album/6oKON9XPW9sB4CBnrQL3rs"
       },
       "artists": [
         {
-          "name": "Nicolle Galyon",
-          "url": "https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn"
+          "name": "Jedd Hughes",
+          "url": "https://open.spotify.com/artist/6aZmqT6ycUdRsm7fF7ndwH"
         }
       ],
-      "duration_ms": 213340,
-      "name": "sunflower.",
-      "url": "https://open.spotify.com/track/3jVjq0O6ZpfQVGhRR6JTOZ"
+      "duration_ms": 224626,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/5tXygo2KgUWVhpvYW7r0I5"
     },
     {
       "added_at": "2025-08-21 15:35:38",
@@ -1019,6 +1003,22 @@
       "duration_ms": 212435,
       "name": "Yearbook",
       "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
+    },
+    {
+      "added_at": "2025-08-21 15:35:38",
+      "album": {
+        "name": "firstborn",
+        "url": "https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe"
+      },
+      "artists": [
+        {
+          "name": "Nicolle Galyon",
+          "url": "https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn"
+        }
+      ],
+      "duration_ms": 213340,
+      "name": "sunflower.",
+      "url": "https://open.spotify.com/track/3jVjq0O6ZpfQVGhRR6JTOZ"
     },
     {
       "added_at": "2025-08-21 15:35:38",

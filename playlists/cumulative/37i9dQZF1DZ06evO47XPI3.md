@@ -4,7 +4,7 @@
 
 > This is The Delfonics\. The essential tracks, all in one playlist.
 
-110 songs - 5 hr 53 min
+111 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [You Are Gone](https://open.spotify.com/track/3AkrMid9xl55qnGMlkIXUX) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You](https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR) | 2:36 | 2022-06-02 | 2024-05-28 |
 | [You Can't Be Loving Him \- Remastered](https://open.spotify.com/track/0h1s4cBBH62Ho08qY9Qdey) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 2:02 | 2022-05-28 | 2023-03-22 |
 | [You've Been Untrue](https://open.spotify.com/track/4CbNwQ6eB1Zokn6c2JWLBB) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Cameo Parkway 1957\-1967](https://open.spotify.com/album/6TiKOg5gJsYMPYkc42HXvo) | 2:42 | 2022-05-25 |  |
-| [You've Got Yours and I'll Get Mine](https://open.spotify.com/track/1kv28lKIdRA2aydk5ZYtW2) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Essential Delfonics](https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ) | 3:16 | 2022-05-25 |  |
+| [You've Got Yours and I'll Get Mine](https://open.spotify.com/track/1kv28lKIdRA2aydk5ZYtW2) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Essential Delfonics](https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ) | 3:16 | 2022-05-25 | 2025-12-08 |
+| [You've Got Yours And I'll Get Mine \- Digitally Remastered 1997](https://open.spotify.com/track/6MZfXzTL12sm7dqFn1m1jl) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Very Best Of](https://open.spotify.com/album/1wpMIDLFtpz8xrm37qY5MG) | 3:16 | 2025-12-08 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

@@ -5147,6 +5147,28 @@
     },
     {
       "album": {
+        "name": "A\u0165 je klid",
+        "url": "https://open.spotify.com/album/6P6f3ThMW0xwWW1C4OsjCI"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        },
+        {
+          "name": "Ewa Farna",
+          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167191,
+      "name": "A\u0165 je klid",
+      "url": "https://open.spotify.com/track/43iLUibjKqDJBq4rCGF49n"
+    },
+    {
+      "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/6q3dUM9Wv4fHo7ACGXgSNC"
       },
@@ -15372,7 +15394,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 133670,
       "name": "Demo",
       "url": "https://open.spotify.com/track/4FRW1aDiN6Im16fHPA64ww"
@@ -16534,7 +16556,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 181294,
       "name": "DMG (feat. Ohan B)",
       "url": "https://open.spotify.com/track/3U7STcrcDjPQGj4wqNJqSA"
@@ -21086,7 +21108,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 268519,
       "name": "FEAR",
       "url": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz"
@@ -26384,6 +26406,28 @@
       "duration_ms": 141994,
       "name": "HAPPY MEAL",
       "url": "https://open.spotify.com/track/5zANdrALvG2nZ7YwzxSLcm"
+    },
+    {
+      "album": {
+        "name": "KLOBUK DOLE",
+        "url": "https://open.spotify.com/album/7b56ZH9yi124GaiHyjGUIe"
+      },
+      "artists": [
+        {
+          "name": "Zayo",
+          "url": "https://open.spotify.com/artist/0lf8LVkrjg9GudchoppC5q"
+        },
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142663,
+      "name": "HAPPY MEAL",
+      "url": "https://open.spotify.com/track/2nYfquEwFRhAV5ZofFdLeq"
     },
     {
       "album": {
@@ -41860,7 +41904,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 105437,
       "name": "mirrors demo",
       "url": "https://open.spotify.com/track/5Jh7Gc5aF6leolD64pNRD5"
@@ -73612,7 +73656,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 224853,
       "name": "We Are Charlie Kirk",
       "url": "https://open.spotify.com/track/6JY2x6cvjNZjqdQFnEltcP"
@@ -78368,7 +78412,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 179064,
       "name": "\u0414\u042b\u041a \u041a\u042b\u041d \u0414\u042b\u0428",
       "url": "https://open.spotify.com/track/36dnmiNjuafl3H4ZFqOqkA"

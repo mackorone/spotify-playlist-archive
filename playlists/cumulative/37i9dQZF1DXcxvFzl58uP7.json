@@ -14967,6 +14967,24 @@
     },
     {
       "album": {
+        "name": "Splinter",
+        "url": "https://open.spotify.com/album/5xQJYeIxVY2xJngtdtGz11"
+      },
+      "artists": [
+        {
+          "name": "FIG",
+          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167131,
+      "name": "Splinter",
+      "url": "https://open.spotify.com/track/4iKfmaKGc59LZXQNK7nAgf"
+    },
+    {
+      "album": {
         "name": "Angel Youth",
         "url": "https://open.spotify.com/album/3Zqe5icElI6gNEM9v3UpXN"
       },
@@ -15896,7 +15914,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 127409,
       "name": "TEETH",
       "url": "https://open.spotify.com/track/0d9cDvF8ndx6AoZcxSEWdU"

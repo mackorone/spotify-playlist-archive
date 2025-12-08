@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from JADE, Sam Fender, Elmiene and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,980 likes - 95 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,969 likes - 95 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,6 +102,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 92 | [Look at Miss Ohio](https://open.spotify.com/track/1iPdSHhgwq6KtuYmyuWe4A) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [This Hotel Room / Look at Miss Ohio](https://open.spotify.com/album/6JxiCUKIMEKMH4JH9Pz1wf) | 3:35 |
 | 93 | [Mistakes](https://open.spotify.com/track/2r3OmINnuBrxP5VXuIlUeR) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Mistakes](https://open.spotify.com/album/0Hwfl9l8bI0CPBLxU8H5AT) | 3:35 |
 | 94 | [silent treatment](https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [silent treatment](https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt) | 2:22 |
-| 95 | [Ouuu](https://open.spotify.com/track/1SmNvAcTXvn6ddh6wvDnvY) | [Ghoulish](https://open.spotify.com/artist/4m1NhStbUaIZkgfbnnIQeK) | [Ouuu](https://open.spotify.com/album/1OdV7ZvnAA1NPIAb24z7Pn) | 3:35 |
+| 95 | [Ouuu](https://open.spotify.com/track/1SmNvAcTXvn6ddh6wvDnvY) | [Ghoulish](https://open.spotify.com/artist/4m1NhStbUaIZkgfbnnIQeK), [C3 Boogie](https://open.spotify.com/artist/0UIkrFK5ssF3C6RtFOSVNV) | [Ouuu](https://open.spotify.com/album/1OdV7ZvnAA1NPIAb24z7Pn) | 3:35 |
 
 Snapshot ID: `AAAAAPwUqZFuzjVCGGfnfSAts2K0G1Hc`

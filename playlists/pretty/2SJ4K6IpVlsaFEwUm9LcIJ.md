@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,613 likes - 31 songs - 1 hr 57 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,611 likes - 33 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,5 +39,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 29 | [Si, Paloma](https://open.spotify.com/track/7tu29mHOe4iY2sINKAXWCR) | [Sun Kil Moon](https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9) | [Ghosts of the Great Highway](https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ) | 5:32 |
 | 30 | [Streets of Mine](https://open.spotify.com/track/3U4SPwYCuRGgwaASbGWi2o) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Jessica Pratt](https://open.spotify.com/album/0iO91QmtRa5h2wRZ0CNAzS) | 2:43 |
 | 31 | [Nausicaä \(Love Will Be Revealed\)](https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 4:11 |
+| 32 | [We're Thinking the Same Thing](https://open.spotify.com/track/3zaztO9QEefcS7MBZNs9vP) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 2:47 |
+| 33 | [Nina + Field of Cops](https://open.spotify.com/track/78ugJH8q6W3kiGLwM2K7Lg) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 5:52 |
 
-Snapshot ID: `AAANfyJ8i4XMIgjgvB1csA2hDxu+xwCX`
+Snapshot ID: `AAANgWZAfQld8BWm/sMOAMvDnghfZBO8`

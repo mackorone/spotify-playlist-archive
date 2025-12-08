@@ -4,7 +4,7 @@
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-129 songs - 7 hr 56 min
+130 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Beautiful](https://open.spotify.com/track/1GLx5tpDdwEFiA7KaikvX2) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 5:12 | 2023-08-13 |  |
 | [Belly Dancer \(Bananza\) \- Remix](https://open.spotify.com/track/46PqPlhhW6MAk21IDFNLnx) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:27 | 2021-12-28 | 2022-10-22 |
 | [Big Flexa \- Remix](https://open.spotify.com/track/2jChM16kMAUFRXYzknPP26) | [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Ma Gang Official](https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB), [Alfa Kat](https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup) | [Big Flexa \(Remix\)](https://open.spotify.com/album/4VmypkfJhvqIHVUJrNlOm5) | 4:53 | 2023-03-28 | 2023-03-30 |
-| [Blown Away](https://open.spotify.com/track/3nFQ4HligCOvCmaowewlLM) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 3:29 | 2022-06-28 |  |
+| [Blown Away](https://open.spotify.com/track/3nFQ4HligCOvCmaowewlLM) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 3:29 | 2022-06-28 | 2025-12-08 |
 | [Body On Me](https://open.spotify.com/track/2IyL2CyHoenwQLds5jSuqK) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Declaration](https://open.spotify.com/album/23d3EfXK0OEtfOB61bBz9d) | 3:20 | 2021-12-28 |  |
 | [Boom Body](https://open.spotify.com/track/1atpCysr9qowW7g0DDZDYE) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Boom Body](https://open.spotify.com/album/5TbciqP7OQzdHpJoF5ozDN) | 3:05 | 2025-11-16 |  |
 | [Boss' Life](https://open.spotify.com/track/4UprL40OVADveANAtCNrIa) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI) | 3:22 | 2022-09-18 | 2024-10-11 |
@@ -89,6 +89,7 @@
 | [Loco](https://open.spotify.com/track/1hlsiFaPUGNDXcKfTYf0Ol) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Afro Freak](https://open.spotify.com/album/0LvpoifF1Oo1WUC77xzl1B) | 2:37 | 2023-10-01 | 2023-11-11 |
 | [Lonely](https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:55 | 2021-12-28 |  |
 | [Lonely \- MTG Remix](https://open.spotify.com/track/2GU2UiCjZ7tKxfCJHg6TgU) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Trouble: The MTG Remixes](https://open.spotify.com/album/0f7ff2GMRuXVvqOtrvHloI) | 3:08 | 2025-02-07 | 2025-04-27 |
+| [Ma p'tite prison](https://open.spotify.com/track/1ajuXHjr4xLmr0h73GCuf1) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TP sur TP](https://open.spotify.com/album/0QVdVUGfsa967bG0cU6Xfo) | 3:53 | 2025-12-08 |  |
 | [Moonshine](https://open.spotify.com/track/71Flk3ZlAs3lLCLbxMKpcu) | [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Moonshine](https://open.spotify.com/album/4RGNV1d5LVskVxfjhIapsb) | 5:03 | 2022-10-26 | 2022-11-02 |
 | [More Than That \- Afro Remix](https://open.spotify.com/track/0jkgud5L47jRzVpGljRfES) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [AMIRROR](https://open.spotify.com/artist/1A5W3vIrct237pEN1UfFqD) | [Afro Freak](https://open.spotify.com/album/0LvpoifF1Oo1WUC77xzl1B) | 3:12 | 2023-10-04 | 2023-10-11 |
 | [Nadie Como Tú](https://open.spotify.com/track/3g8QriMzqwzXjAPCuZ8LFA) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Nadie Como Tú](https://open.spotify.com/album/4qSb1bGgD0IixbTo1HpquI) | 3:06 | 2022-11-09 | 2023-03-10 |

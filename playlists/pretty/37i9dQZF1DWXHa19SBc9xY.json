@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 119857,
+  "num_followers": 119907,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2025-11-25 18:55:35",
       "album": {
+        "name": "Flora - EP",
+        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Vem conversar",
+      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
+    },
+    {
+      "added_at": "2025-11-25 18:55:35",
+      "album": {
         "name": "AS PALAVRAS, VOL. 1 & 2",
         "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 223765,
       "name": "Gr\u00e3o de Areia",
       "url": "https://open.spotify.com/track/0MEQNyNQA8huagTIfAnqGC"
-    },
-    {
-      "added_at": "2025-11-25 18:55:35",
-      "album": {
-        "name": "Flora - EP",
-        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Vem conversar",
-      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
     },
     {
       "added_at": "2025-11-25 18:55:35",
@@ -507,6 +507,22 @@
     {
       "added_at": "2025-11-25 18:55:35",
       "album": {
+        "name": "amores v\u00eam e v\u00e3o",
+        "url": "https://open.spotify.com/album/2XF4xVFMqUIkz0bAtmrhBf"
+      },
+      "artists": [
+        {
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+        }
+      ],
+      "duration_ms": 236640,
+      "name": "amores v\u00eam e v\u00e3o",
+      "url": "https://open.spotify.com/track/6EJT6JMDqVAlxBkCsMhBFi"
+    },
+    {
+      "added_at": "2025-11-25 18:55:35",
+      "album": {
         "name": "Ana",
         "url": "https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX"
       },
@@ -551,22 +567,6 @@
     {
       "added_at": "2025-11-25 18:55:35",
       "album": {
-        "name": "amores v\u00eam e v\u00e3o",
-        "url": "https://open.spotify.com/album/2XF4xVFMqUIkz0bAtmrhBf"
-      },
-      "artists": [
-        {
-          "name": "Amanda Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
-        }
-      ],
-      "duration_ms": 236640,
-      "name": "amores v\u00eam e v\u00e3o",
-      "url": "https://open.spotify.com/track/6EJT6JMDqVAlxBkCsMhBFi"
-    },
-    {
-      "added_at": "2025-11-25 18:55:35",
-      "album": {
         "name": "Rua Tr\u00eas",
         "url": "https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C"
       },
@@ -599,8 +599,8 @@
     {
       "added_at": "2025-11-25 18:55:35",
       "album": {
-        "name": "Somos Instantes (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd"
+        "name": "Fiz Esse Som Pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/3toYATEN96msGnJ34emqb5"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         }
       ],
-      "duration_ms": 224687,
-      "name": "Somos Instantes - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87"
+      "duration_ms": 209339,
+      "name": "Fiz Esse Som Pra Voc\u00ea - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0vJbHJ7RP01MIAmKhLCXg7"
     },
     {
       "added_at": "2025-11-25 18:55:35",
@@ -687,8 +687,8 @@
     {
       "added_at": "2025-11-25 18:55:35",
       "album": {
-        "name": "Fiz Esse Som Pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/3toYATEN96msGnJ34emqb5"
+        "name": "Somos Instantes (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         }
       ],
-      "duration_ms": 209339,
-      "name": "Fiz Esse Som Pra Voc\u00ea - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/0vJbHJ7RP01MIAmKhLCXg7"
+      "duration_ms": 224687,
+      "name": "Somos Instantes - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87"
     },
     {
       "added_at": "2025-11-25 18:55:35",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-11-25 18:55:35",
       "album": {
-        "name": "Ju\u00edzo e Responsabilidade",
-        "url": "https://open.spotify.com/album/08CY5RDd32Yyd92rOA4uVa"
-      },
-      "artists": [
-        {
-          "name": "Flerte Flamingo",
-          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
-        }
-      ],
-      "duration_ms": 157511,
-      "name": "Ju\u00edzo e Responsabilidade",
-      "url": "https://open.spotify.com/track/7p01taFUjX5boi9yIiOgEK"
-    },
-    {
-      "added_at": "2025-11-25 18:55:35",
-      "album": {
         "name": "Pode Acreditar",
         "url": "https://open.spotify.com/album/5esE23Donw6EIj3knQeGhf"
       },
@@ -1015,22 +999,18 @@
     {
       "added_at": "2025-11-25 18:55:35",
       "album": {
-        "name": "Dend\u00ea",
-        "url": "https://open.spotify.com/album/3U8bBYe8mDobP6FKeSyERH"
+        "name": "Ju\u00edzo e Responsabilidade",
+        "url": "https://open.spotify.com/album/08CY5RDd32Yyd92rOA4uVa"
       },
       "artists": [
         {
-          "name": "Matheus de Bezerra",
-          "url": "https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm"
-        },
-        {
-          "name": "Tin\u00e9",
-          "url": "https://open.spotify.com/artist/5JrbMsFnbJZdlS07y7p4Yz"
+          "name": "Flerte Flamingo",
+          "url": "https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih"
         }
       ],
-      "duration_ms": 286320,
-      "name": "Dend\u00ea",
-      "url": "https://open.spotify.com/track/6GHnfVzr6EV7kiT9VK4imY"
+      "duration_ms": 157511,
+      "name": "Ju\u00edzo e Responsabilidade",
+      "url": "https://open.spotify.com/track/7p01taFUjX5boi9yIiOgEK"
     },
     {
       "added_at": "2025-11-25 18:55:35",
@@ -1091,6 +1071,26 @@
     {
       "added_at": "2025-11-25 18:55:35",
       "album": {
+        "name": "Dend\u00ea",
+        "url": "https://open.spotify.com/album/3U8bBYe8mDobP6FKeSyERH"
+      },
+      "artists": [
+        {
+          "name": "Matheus de Bezerra",
+          "url": "https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm"
+        },
+        {
+          "name": "Tin\u00e9",
+          "url": "https://open.spotify.com/artist/5JrbMsFnbJZdlS07y7p4Yz"
+        }
+      ],
+      "duration_ms": 286320,
+      "name": "Dend\u00ea",
+      "url": "https://open.spotify.com/track/6GHnfVzr6EV7kiT9VK4imY"
+    },
+    {
+      "added_at": "2025-11-25 18:55:35",
+      "album": {
         "name": "PREAMAR",
         "url": "https://open.spotify.com/album/46P8ssX2MolOO2NNGcGoeA"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-11-25 18:55:35",
       "album": {
-        "name": "Praia do Flamengo",
-        "url": "https://open.spotify.com/album/3oZNokSA98ACGWJkOhZnb9"
-      },
-      "artists": [
-        {
-          "name": "Rafael Pond\u00e9",
-          "url": "https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc"
-        }
-      ],
-      "duration_ms": 271728,
-      "name": "Praia do Flamengo",
-      "url": "https://open.spotify.com/track/42Buyq4Ae5XDO7LHv8IHGV"
-    },
-    {
-      "added_at": "2025-11-25 18:55:35",
-      "album": {
         "name": "Vou Me Banhar",
         "url": "https://open.spotify.com/album/145K2alwT2soP1E7ioZr1M"
       },
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2025-11-25 18:55:35",
       "album": {
-        "name": "Sou Daqui",
-        "url": "https://open.spotify.com/album/6dlqVfrdENu9wZsrj38w0O"
+        "name": "Praia do Flamengo",
+        "url": "https://open.spotify.com/album/3oZNokSA98ACGWJkOhZnb9"
       },
       "artists": [
         {
-          "name": "Lucas Felix",
-          "url": "https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV"
+          "name": "Rafael Pond\u00e9",
+          "url": "https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc"
         }
       ],
-      "duration_ms": 208906,
-      "name": "Sou Daqui",
-      "url": "https://open.spotify.com/track/3eUTsCeVdnA68g6PJ9kXQd"
+      "duration_ms": 271728,
+      "name": "Praia do Flamengo",
+      "url": "https://open.spotify.com/track/42Buyq4Ae5XDO7LHv8IHGV"
     },
     {
       "added_at": "2025-11-25 18:55:35",
@@ -1187,6 +1171,22 @@
       "duration_ms": 180110,
       "name": "Alucina",
       "url": "https://open.spotify.com/track/1lEkEES23vMGV2MLvpCu0e"
+    },
+    {
+      "added_at": "2025-11-25 18:55:35",
+      "album": {
+        "name": "Sou Daqui",
+        "url": "https://open.spotify.com/album/6dlqVfrdENu9wZsrj38w0O"
+      },
+      "artists": [
+        {
+          "name": "Lucas Felix",
+          "url": "https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Sou Daqui",
+      "url": "https://open.spotify.com/track/3eUTsCeVdnA68g6PJ9kXQd"
     },
     {
       "added_at": "2025-11-25 18:55:35",

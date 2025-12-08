@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 74542,
+  "num_followers": 74545,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTIggAAAAAB/hAsWO2aJS9JhMK7jv8PM",
+  "snapshot_id": "aTNyAAAAAAAx0Psmwf0yWS4rmDVoUQXB",
   "tracks": [
     {
       "added_at": null,
@@ -599,18 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pachanga",
-        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+        "name": "Muchachos",
+        "url": "https://open.spotify.com/album/35cgI9kKr9N6pZfTmWdakM"
       },
       "artists": [
+        {
+          "name": "La Mosca",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 350712,
-      "name": "Demasiado Tarde",
-      "url": "https://open.spotify.com/track/5Oa1k1gOxhP018PPRw1Sys"
+      "duration_ms": 229469,
+      "name": "Te Quiero Comer la Boca",
+      "url": "https://open.spotify.com/track/0jOcYlFjCBNSq1cXACI1D3"
     },
     {
       "added_at": null,
@@ -631,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muchachos",
-        "url": "https://open.spotify.com/album/35cgI9kKr9N6pZfTmWdakM"
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
       },
       "artists": [
-        {
-          "name": "La Mosca",
-          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
-        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 229469,
-      "name": "Te Quiero Comer la Boca",
-      "url": "https://open.spotify.com/track/0jOcYlFjCBNSq1cXACI1D3"
+      "duration_ms": 350712,
+      "name": "Demasiado Tarde",
+      "url": "https://open.spotify.com/track/5Oa1k1gOxhP018PPRw1Sys"
     },
     {
       "added_at": null,
@@ -799,18 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agarrate Fuerte",
-        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
+        "name": "Psic\u00f3tico",
+        "url": "https://open.spotify.com/album/5Nb3kbLr4Y6I7SX25Xwzkc"
       },
       "artists": [
+        {
+          "name": "EL\u00cdAS",
+          "url": "https://open.spotify.com/artist/1OO4dbmG9Fvz897JRIWiys"
+        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 180706,
-      "name": "Animales Sueltos",
-      "url": "https://open.spotify.com/track/65uSLDV4MyXnumIlLGSauj"
+      "duration_ms": 201596,
+      "name": "Psic\u00f3tico",
+      "url": "https://open.spotify.com/track/6PuU2HHnLqiaUf1bKUMuHT"
     },
     {
       "added_at": null,
@@ -824,9 +828,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 198160,
-      "name": "Centurion",
-      "url": "https://open.spotify.com/track/4CGt19vmFmyEKmWTnTXDcs"
+      "duration_ms": 226157,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/194MLmAfHkno0HDVHbdM1m"
     }
   ],
   "unique_name": "This Is Vilma Palma e Vampiros",

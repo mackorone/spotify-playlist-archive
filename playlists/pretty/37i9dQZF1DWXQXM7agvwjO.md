@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Lucid Express \(Hong Kong\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,709 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,697 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,16 +76,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 66 | [Sudah, Biar Kami Yang Pergi](https://open.spotify.com/track/2rgjEURaxA4FMVfn7oIblC) | [Hursa](https://open.spotify.com/artist/1h9rmVUlTld8HUdnsALwZa) | [Sudah, Biar Kami Yang Pergi](https://open.spotify.com/album/68BUqWGccsagd2gzovdA7O) | 3:35 |
 | 67 | [Green Car](https://open.spotify.com/track/3IAYRWhwoMwi7CUCDLEX1f) | [Nadia Kadek](https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw) | [Green Car](https://open.spotify.com/album/6F4ZNnHNbuNMUFLV3yduKD) | 3:15 |
 | 68 | [走馬灯](https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [走馬灯](https://open.spotify.com/album/4D62Xo6sbsBymHPAQ5v0fV) | 5:14 |
-| 69 | [Gundah](https://open.spotify.com/track/4HnqpF35LfKlnyy8DVusVY) | [The Cottons](https://open.spotify.com/artist/4q6wWCZAcdPF5cjP3AhOBy), [Aprilia Apsari](https://open.spotify.com/artist/3gb1atdHSWaGdhg0hUsu1B) | [Gundah](https://open.spotify.com/album/6sqYFyxoaGufTtVMAYS71Z) | 4:46 |
-| 70 | [Relapse](https://open.spotify.com/track/7kzbzi1LYrwRLyfynDnRDs) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [Relapse](https://open.spotify.com/album/6NdbN7a1rHRikiaCORR40S) | 3:32 |
-| 71 | [MENUJU 25](https://open.spotify.com/track/11dSMueUv8UwTKSlv5CDIJ) | [Jugo Djarot](https://open.spotify.com/artist/1rhx590gsjFYd8c2vhW6J3) | [MENUJU 25](https://open.spotify.com/album/5Z9YSUCs3uZ4siSUEWSDP3) | 2:17 |
-| 72 | [You Really Got Punk!](https://open.spotify.com/track/2tav3gnwPL5JiTJEYTWoIk) | [GYMV](https://open.spotify.com/artist/5xOJz1R1Gcm16mg0V8iukc) | [You Really Got Punk!](https://open.spotify.com/album/30lDeLRgTA1q1Hbd6cZVyb) | 2:33 |
-| 73 | [touch](https://open.spotify.com/track/1nEczAnjXD3Jvbau01ee0x) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [touch](https://open.spotify.com/album/62CpwDDgZotecv71VLERpm) | 2:42 |
-| 74 | [Beautiful Complex](https://open.spotify.com/track/77PpVzVdCxstWlSYXOE9xu) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [i love your complex](https://open.spotify.com/album/1b7KIjcXrhfSDsuS8l9Ngo) | 3:42 |
-| 75 | [Lord, I Gotta Move On](https://open.spotify.com/track/35Ky17HnxZjFZHUMfLpfI3) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) | [Lord, I Gotta Move On](https://open.spotify.com/album/3ECHxnDLbul4yyuDNkSM4x) | 3:36 |
-| 76 | [Fever](https://open.spotify.com/track/1IDbSbx3oVWxJWMgfEvrVF) | [brkfstblend](https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ) | [Fever](https://open.spotify.com/album/3igdXi7jszTM3PMnm19PGp) | 4:33 |
-| 77 | [back to you \(you're the reason\)](https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [back to you \(you're the reason\)](https://open.spotify.com/album/1zGWULZWndg7c8f0adeU5M) | 4:00 |
-| 78 | [Bluebird](https://open.spotify.com/track/3jgZYDYIEthcx7BrDOzPCl) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [QUIT QUIETLY](https://open.spotify.com/album/09vb3SEUS4LSx8sh8TKAxg) | 3:37 |
+| 69 | [Relapse](https://open.spotify.com/track/7kzbzi1LYrwRLyfynDnRDs) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [Relapse](https://open.spotify.com/album/6NdbN7a1rHRikiaCORR40S) | 3:32 |
+| 70 | [MENUJU 25](https://open.spotify.com/track/11dSMueUv8UwTKSlv5CDIJ) | [Jugo Djarot](https://open.spotify.com/artist/1rhx590gsjFYd8c2vhW6J3) | [MENUJU 25](https://open.spotify.com/album/5Z9YSUCs3uZ4siSUEWSDP3) | 2:17 |
+| 71 | [You Really Got Punk!](https://open.spotify.com/track/2tav3gnwPL5JiTJEYTWoIk) | [GYMV](https://open.spotify.com/artist/5xOJz1R1Gcm16mg0V8iukc) | [You Really Got Punk!](https://open.spotify.com/album/30lDeLRgTA1q1Hbd6cZVyb) | 2:33 |
+| 72 | [touch](https://open.spotify.com/track/1nEczAnjXD3Jvbau01ee0x) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [touch](https://open.spotify.com/album/62CpwDDgZotecv71VLERpm) | 2:42 |
+| 73 | [Beautiful Complex](https://open.spotify.com/track/77PpVzVdCxstWlSYXOE9xu) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [i love your complex](https://open.spotify.com/album/1b7KIjcXrhfSDsuS8l9Ngo) | 3:42 |
+| 74 | [Lord, I Gotta Move On](https://open.spotify.com/track/35Ky17HnxZjFZHUMfLpfI3) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) | [Lord, I Gotta Move On](https://open.spotify.com/album/3ECHxnDLbul4yyuDNkSM4x) | 3:36 |
+| 75 | [Fever](https://open.spotify.com/track/1IDbSbx3oVWxJWMgfEvrVF) | [brkfstblend](https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ) | [Fever](https://open.spotify.com/album/3igdXi7jszTM3PMnm19PGp) | 4:33 |
+| 76 | [back to you \(you're the reason\)](https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN) | [satellite.](https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn) | [back to you \(you're the reason\)](https://open.spotify.com/album/1zGWULZWndg7c8f0adeU5M) | 4:00 |
+| 77 | [Bluebird](https://open.spotify.com/track/3jgZYDYIEthcx7BrDOzPCl) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [QUIT QUIETLY](https://open.spotify.com/album/09vb3SEUS4LSx8sh8TKAxg) | 3:37 |
+| 78 | [雪國](https://open.spotify.com/track/2ycEK1Haz9TXjNNwYs2Hgm) | [Uchu Yurei](https://open.spotify.com/artist/12qOUG1SCqsMtXNPbng8rl) | [雪國](https://open.spotify.com/album/1b13uhgn8jw8PvLw2Pr3NY) | 9:04 |
 | 79 | [Watch Your Step!](https://open.spotify.com/track/0cEtJDb1SG3VqfkYwVEiwb) | [gny](https://open.spotify.com/artist/3TkW2R9Gxxh01XyuyrmqcJ), [Joseph Gregory](https://open.spotify.com/artist/5ijWl8UUStJQBnHDsuN1VA) | [Watch Your Step!](https://open.spotify.com/album/2xRbBYeJC0Sl6CZiYMYk4y) | 2:58 |
 | 80 | [我不用問](https://open.spotify.com/track/6lH3RIIRaKOpyvAk8HX7DW) | [deca joins](https://open.spotify.com/artist/5wbF4yfjaOjTSkrnucKA77) | [我不用問](https://open.spotify.com/album/3msPLSdyWwAAg4YjMiTKZG) | 3:58 |
 | 81 | [meguri](https://open.spotify.com/track/7wOKndjlwI1ncnmDjyvsq8) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [meguri](https://open.spotify.com/album/57kKkfhgya6bHYqoFzlnb3) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [Either Way](https://open.spotify.com/track/4wg1vffvKufwoe02eB6N10) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Either Way](https://open.spotify.com/album/5hEuteioYm1DYSQDFpzVXU) | 3:36 |
 | 100 | [NamgungFEFERE \(feat\. Japanese Breakfast\)](https://open.spotify.com/track/29sI2nRMCyKqmmpWZ6WJsi) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn), [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [NamgungFEFERE](https://open.spotify.com/album/1ymy46awOlT3qoFofw8r94) | 3:48 |
 
-Snapshot ID: `AAAAAFcXJbYVnnpGQjGbjhBjS6uCgCmg`
+Snapshot ID: `AAAAAH1nbmqWCIeX6rqnZngs/ho8caNP`

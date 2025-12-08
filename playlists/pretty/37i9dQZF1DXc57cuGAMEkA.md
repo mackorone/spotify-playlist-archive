@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Alex Warren & Gigi Perez, HANA, Fred Again.., Disclosure, 新しい学校のリーダーズ and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,575 likes - 84 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,562 likes - 84 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

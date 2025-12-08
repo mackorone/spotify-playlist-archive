@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 330923,
+  "num_followers": 330967,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTIggAAAAACpZxjg51d0EkUMEdmZVroo",
+  "snapshot_id": "aTNyAAAAAACnfWA5QqAqeuSk4e32ffyg",
   "tracks": [
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 187126,
-      "name": "Heatwave (feat. Akon)",
-      "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tha Blue Carpet Treatment",
         "url": "https://open.spotify.com/album/5Q1K1mEiR2F9MHzMbdBX3i"
       },
@@ -795,22 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghetto Story",
-        "url": "https://open.spotify.com/album/66QH23u1I6L6g5BFRRDqNa"
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
       },
       "artists": [
         {
-          "name": "Cham",
-          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         },
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 262933,
-      "name": "Ghetto Story Chapter 3 (feat. Akon)",
-      "url": "https://open.spotify.com/track/10MKqZA8S3kvSrYsqbM4r6"
+      "duration_ms": 187126,
+      "name": "Heatwave (feat. Akon)",
+      "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
     },
     {
       "added_at": null,
@@ -831,6 +811,26 @@
       "duration_ms": 200880,
       "name": "Who Dat Girl (feat. Akon)",
       "url": "https://open.spotify.com/track/7z73ehYAn9O1XP9XlCqVtd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ghetto Story",
+        "url": "https://open.spotify.com/album/66QH23u1I6L6g5BFRRDqNa"
+      },
+      "artists": [
+        {
+          "name": "Cham",
+          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 262933,
+      "name": "Ghetto Story Chapter 3 (feat. Akon)",
+      "url": "https://open.spotify.com/track/10MKqZA8S3kvSrYsqbM4r6"
     },
     {
       "added_at": null,
@@ -939,18 +939,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Right Now (Na Na Na)",
-        "url": "https://open.spotify.com/album/2Gv0lXUOkmvH7yK44lxmqy"
+        "name": "TP sur TP",
+        "url": "https://open.spotify.com/album/0QVdVUGfsa967bG0cU6Xfo"
       },
       "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 310733,
-      "name": "Clap Again",
-      "url": "https://open.spotify.com/track/23Ry2Uwy68rkHdZx0GwfML"
+      "duration_ms": 233440,
+      "name": "Ma p'tite prison",
+      "url": "https://open.spotify.com/track/1ajuXHjr4xLmr0h73GCuf1"
     },
     {
       "added_at": null,
@@ -979,6 +983,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Right Now (Na Na Na)",
+        "url": "https://open.spotify.com/album/2Gv0lXUOkmvH7yK44lxmqy"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 310733,
+      "name": "Clap Again",
+      "url": "https://open.spotify.com/track/23Ry2Uwy68rkHdZx0GwfML"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Second Rounds On Me",
         "url": "https://open.spotify.com/album/7liAJFeMLT5QihsB9MhAh5"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 241253,
       "name": "Snitch",
       "url": "https://open.spotify.com/track/02rlDATSROFtjqmvs1dBKr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Konvicted",
-        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Styles P",
-          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
-        }
-      ],
-      "duration_ms": 209013,
-      "name": "Blown Away",
-      "url": "https://open.spotify.com/track/3nFQ4HligCOvCmaowewlLM"
     }
   ],
   "unique_name": "This Is Akon",

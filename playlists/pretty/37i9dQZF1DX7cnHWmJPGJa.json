@@ -1,6 +1,6 @@
 {
   "description": "Glasgow's finest. Here we, here we... Cover: SOPHIE",
-  "num_followers": 17829,
+  "num_followers": 17830,
   "original_name": "We Are Glasgow",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,22 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 273349,
+      "name": "Acid Eyes",
+      "url": "https://open.spotify.com/track/6LTQO44rCg2mNQckEJdrSF"
+    },
+    {
+      "added_at": "2024-12-03 14:53:37",
+      "album": {
         "name": "OIL OF EVERY PEARL'S UN-INSIDES",
         "url": "https://open.spotify.com/album/23lnmHhZwyercCJhmyPXYN"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 203628,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/6i5RonwR52WwcSmVcyzhsy"
-    },
-    {
-      "added_at": "2024-12-03 14:53:37",
-      "album": {
-        "name": "Last Night In The Bittersweet",
-        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 273349,
-      "name": "Acid Eyes",
-      "url": "https://open.spotify.com/track/6LTQO44rCg2mNQckEJdrSF"
     },
     {
       "added_at": "2024-12-03 14:53:37",
@@ -279,6 +279,38 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 262871,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
+    },
+    {
+      "added_at": "2024-12-03 14:53:37",
+      "album": {
+        "name": "Bad With Names",
+        "url": "https://open.spotify.com/album/62MpaARdfMHnZEXL1Lsqt3"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        }
+      ],
+      "duration_ms": 175148,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/26r5hoIx5hDUY9b4tDisHx"
+    },
+    {
+      "added_at": "2024-12-03 14:53:37",
+      "album": {
         "name": "OIL OF EVERY PEARL'S UN-INSIDES",
         "url": "https://open.spotify.com/album/23lnmHhZwyercCJhmyPXYN"
       },
@@ -311,22 +343,6 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
-        "name": "Bad With Names",
-        "url": "https://open.spotify.com/album/62MpaARdfMHnZEXL1Lsqt3"
-      },
-      "artists": [
-        {
-          "name": "corto.alto",
-          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
-        }
-      ],
-      "duration_ms": 175148,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/26r5hoIx5hDUY9b4tDisHx"
-    },
-    {
-      "added_at": "2024-12-03 14:53:37",
-      "album": {
         "name": "Freie Interpreten",
         "url": "https://open.spotify.com/album/0GxzTRCZAElVZlWSlrVBJu"
       },
@@ -339,6 +355,38 @@
       "duration_ms": 229262,
       "name": "State of Blue",
       "url": "https://open.spotify.com/track/7pQnb7FuDx3MRKPFFR5C0F"
+    },
+    {
+      "added_at": "2024-12-03 14:53:37",
+      "album": {
+        "name": "Millennials",
+        "url": "https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 246029,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/2Wr5ZcuK4MXLZu49rl2djK"
+    },
+    {
+      "added_at": "2024-12-03 14:53:37",
+      "album": {
+        "name": "Lovin\u2019",
+        "url": "https://open.spotify.com/album/5w0UI6JxUcLKcOCRhT1nEE"
+      },
+      "artists": [
+        {
+          "name": "Cara Rose",
+          "url": "https://open.spotify.com/artist/3sFRw2rNSs7K5ZS842Idr5"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "Lovin\u2019",
+      "url": "https://open.spotify.com/track/7JEJPatRWaV5WxLBGvbDX5"
     },
     {
       "added_at": "2024-12-03 14:53:37",
@@ -368,25 +416,9 @@
           "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
         }
       ],
-      "duration_ms": 262871,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
-    },
-    {
-      "added_at": "2024-12-03 14:53:37",
-      "album": {
-        "name": "Lovin\u2019",
-        "url": "https://open.spotify.com/album/5w0UI6JxUcLKcOCRhT1nEE"
-      },
-      "artists": [
-        {
-          "name": "Cara Rose",
-          "url": "https://open.spotify.com/artist/3sFRw2rNSs7K5ZS842Idr5"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "Lovin\u2019",
-      "url": "https://open.spotify.com/track/7JEJPatRWaV5WxLBGvbDX5"
+      "duration_ms": 330672,
+      "name": "Lose It",
+      "url": "https://open.spotify.com/track/5kXJylHJ1Ov1Su94vbzxfQ"
     },
     {
       "added_at": "2024-12-03 14:53:37",
@@ -407,22 +439,6 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
-        "name": "Millennials",
-        "url": "https://open.spotify.com/album/4WdHo1NsTm5soMAmpKfiiF"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 246029,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/2Wr5ZcuK4MXLZu49rl2djK"
-    },
-    {
-      "added_at": "2024-12-03 14:53:37",
-      "album": {
         "name": "The Heat",
         "url": "https://open.spotify.com/album/4O1m3mETlK0lRMplIfbcDe"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 136087,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/1so4GFCujGNaWimi1IDUk4"
-    },
-    {
-      "added_at": "2024-12-03 14:53:37",
-      "album": {
-        "name": "Last Night In The Bittersweet",
-        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 330672,
-      "name": "Lose It",
-      "url": "https://open.spotify.com/track/5kXJylHJ1Ov1Su94vbzxfQ"
     },
     {
       "added_at": "2024-12-03 14:53:37",
@@ -471,8 +471,8 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
-        "name": "I EXIST",
-        "url": "https://open.spotify.com/album/278scJHsCyBRWl94O0C0d5"
+        "name": "MERCY KILL",
+        "url": "https://open.spotify.com/album/0XzfAfWHhZlL7WSL6acUnx"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
         }
       ],
-      "duration_ms": 269666,
-      "name": "I EXIST",
-      "url": "https://open.spotify.com/track/3eI62ZWWxkl4LUaBqXvA6Y"
+      "duration_ms": 186341,
+      "name": "MERCY KILL",
+      "url": "https://open.spotify.com/track/2vX1GxoaaomoYsbRy5VjK6"
     },
     {
       "added_at": "2024-12-03 14:53:37",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
+        "name": "I EXIST",
+        "url": "https://open.spotify.com/album/278scJHsCyBRWl94O0C0d5"
+      },
+      "artists": [
+        {
+          "name": "VUKOVI",
+          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
+        }
+      ],
+      "duration_ms": 269666,
+      "name": "I EXIST",
+      "url": "https://open.spotify.com/track/3eI62ZWWxkl4LUaBqXvA6Y"
+    },
+    {
+      "added_at": "2024-12-03 14:53:37",
+      "album": {
         "name": "Feel The Fire",
         "url": "https://open.spotify.com/album/3I65mO7Dtea7Wy73gmUjze"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 177272,
       "name": "Community Service",
       "url": "https://open.spotify.com/track/2LJru2jR7vQmrwRHLkBW0W"
-    },
-    {
-      "added_at": "2024-12-03 14:53:37",
-      "album": {
-        "name": "MERCY KILL",
-        "url": "https://open.spotify.com/album/0XzfAfWHhZlL7WSL6acUnx"
-      },
-      "artists": [
-        {
-          "name": "VUKOVI",
-          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
-        }
-      ],
-      "duration_ms": 186341,
-      "name": "MERCY KILL",
-      "url": "https://open.spotify.com/track/2vX1GxoaaomoYsbRy5VjK6"
     },
     {
       "added_at": "2024-12-03 14:53:37",
@@ -711,18 +711,18 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
-        "name": "Disgrace",
-        "url": "https://open.spotify.com/album/7sD1Y8nY3yn1Y2UZQdTjIg"
+        "name": "CREEP HEAT",
+        "url": "https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5"
       },
       "artists": [
         {
-          "name": "SOAPBOX",
-          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
+          "name": "VUKOVI",
+          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
         }
       ],
-      "duration_ms": 124943,
-      "name": "Disgrace",
-      "url": "https://open.spotify.com/track/7dxPMyC1Xqyf5729lsQyba"
+      "duration_ms": 205962,
+      "name": "CREEP HEAT",
+      "url": "https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ"
     },
     {
       "added_at": "2024-12-03 14:53:37",
@@ -743,18 +743,18 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
-        "name": "If I Didn't Laugh",
-        "url": "https://open.spotify.com/album/2AgTr43Z3Bw1QHjibkb3cG"
+        "name": "Disgrace",
+        "url": "https://open.spotify.com/album/7sD1Y8nY3yn1Y2UZQdTjIg"
       },
       "artists": [
         {
-          "name": "Dylan John Thomas",
-          "url": "https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb"
+          "name": "SOAPBOX",
+          "url": "https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO"
         }
       ],
-      "duration_ms": 166535,
-      "name": "If I Didn't Laugh",
-      "url": "https://open.spotify.com/track/1gOqY11AJTTzkvlNcZijIj"
+      "duration_ms": 124943,
+      "name": "Disgrace",
+      "url": "https://open.spotify.com/track/7dxPMyC1Xqyf5729lsQyba"
     },
     {
       "added_at": "2024-12-03 14:53:37",
@@ -791,18 +791,18 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
-        "name": "CREEP HEAT",
-        "url": "https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5"
+        "name": "If I Didn't Laugh",
+        "url": "https://open.spotify.com/album/2AgTr43Z3Bw1QHjibkb3cG"
       },
       "artists": [
         {
-          "name": "VUKOVI",
-          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
+          "name": "Dylan John Thomas",
+          "url": "https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb"
         }
       ],
-      "duration_ms": 205962,
-      "name": "CREEP HEAT",
-      "url": "https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ"
+      "duration_ms": 166535,
+      "name": "If I Didn't Laugh",
+      "url": "https://open.spotify.com/track/1gOqY11AJTTzkvlNcZijIj"
     },
     {
       "added_at": "2024-12-03 14:53:37",

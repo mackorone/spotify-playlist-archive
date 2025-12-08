@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Daphni
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,747 likes - 104 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,752 likes - 104 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 21 | [Voices](https://open.spotify.com/track/34MI5P1Rh1VTlQjHbvg0j6) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [HUMANiSE](https://open.spotify.com/album/0iIR2PTnqaYmsfIadlObCe) | 5:38 |
 | 22 | [Limit](https://open.spotify.com/track/2jg70sPuQZJdNZHeRuSkVD) | [NIGHT manoeuvres](https://open.spotify.com/artist/2CanvvhMZkqCFDFEOvcdNE), [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh), [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h) | [Work It Out EP](https://open.spotify.com/album/4TveIFfr3WfrxsGobRpGkq) | 4:55 |
 | 23 | [UNCONDITIONAL](https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [UNCONDITIONAL](https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R) | 3:01 |
-| 24 | [Ouuu](https://open.spotify.com/track/1SmNvAcTXvn6ddh6wvDnvY) | [Ghoulish](https://open.spotify.com/artist/4m1NhStbUaIZkgfbnnIQeK) | [Ouuu](https://open.spotify.com/album/1OdV7ZvnAA1NPIAb24z7Pn) | 3:35 |
+| 24 | [Ouuu](https://open.spotify.com/track/1SmNvAcTXvn6ddh6wvDnvY) | [Ghoulish](https://open.spotify.com/artist/4m1NhStbUaIZkgfbnnIQeK), [C3 Boogie](https://open.spotify.com/artist/0UIkrFK5ssF3C6RtFOSVNV) | [Ouuu](https://open.spotify.com/album/1OdV7ZvnAA1NPIAb24z7Pn) | 3:35 |
 | 25 | [Love Who You Love](https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Love Who You Love](https://open.spotify.com/album/6RdhCbS2KuedWjsjuecMuY) | 3:59 |
 | 26 | [Veil \- Edit](https://open.spotify.com/track/1R0ufKhSTgKWhsEAVFoJMJ) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Veil \(Edit\)](https://open.spotify.com/album/3pWxCWfzuFQgi2Wx5s1ELv) | 3:37 |
 | 27 | [IN/ESSENCE](https://open.spotify.com/track/4dpwYuqzEY1JORYmGtooBI) | [Just Geo](https://open.spotify.com/artist/085BrKDuP4Jht2a6wwdLE5) | [IN/HARMONY](https://open.spotify.com/album/3eiy7sPhgWqCul3MWJKOph) | 2:16 |

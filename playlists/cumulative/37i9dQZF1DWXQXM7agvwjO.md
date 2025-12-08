@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: Lucid Express \(Hong Kong\)
 
-2,330 songs - 5 day 21 hr 7 min
+2,331 songs - 5 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -731,7 +731,7 @@
 | [grey matter](https://open.spotify.com/track/1EGjwu8X5Y7tCeGCj9UaYd) | [buko boys](https://open.spotify.com/artist/3PTYbD85yltYmaEDe45nSa) | [Float](https://open.spotify.com/album/1aMKyNS3natZanyhwjJkEY) | 3:18 | 2025-06-26 | 2025-08-29 |
 | [GRIPPIN’THEGREEN](https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:24 | 2022-06-02 | 2022-07-15 |
 | [Grocery Store](https://open.spotify.com/track/54UL1uHVV9xnr6hd8CtmK1) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [Grocery Store](https://open.spotify.com/album/74LtPk1nTf4JvxwibkD7Zm) | 3:12 | 2023-02-16 | 2023-04-14 |
-| [Gundah](https://open.spotify.com/track/4HnqpF35LfKlnyy8DVusVY) | [The Cottons](https://open.spotify.com/artist/4q6wWCZAcdPF5cjP3AhOBy), [Aprilia Apsari](https://open.spotify.com/artist/3gb1atdHSWaGdhg0hUsu1B) | [Gundah](https://open.spotify.com/album/6sqYFyxoaGufTtVMAYS71Z) | 4:46 | 2025-09-19 |  |
+| [Gundah](https://open.spotify.com/track/4HnqpF35LfKlnyy8DVusVY) | [The Cottons](https://open.spotify.com/artist/4q6wWCZAcdPF5cjP3AhOBy), [Aprilia Apsari](https://open.spotify.com/artist/3gb1atdHSWaGdhg0hUsu1B) | [Gundah](https://open.spotify.com/album/6sqYFyxoaGufTtVMAYS71Z) | 4:46 | 2025-09-19 | 2025-12-08 |
 | [H.U.R.T](https://open.spotify.com/track/4lIUgLFPKfROZHQuQxBfNb) | [Nunegashi](https://open.spotify.com/artist/1kLxHUQM6o1e0dmfmt9Y2P) | [H.U.R.T](https://open.spotify.com/album/1sGGR5zhJevRBZlTv5VW42) | 3:46 | 2025-10-03 | 2025-11-08 |
 | [h4u](https://open.spotify.com/track/4IsC4LblFA9uks36MV5iGG) | [DAiJOBU](https://open.spotify.com/artist/2Z6nJBqKT2Dr796hyDcgV4) | [h4u](https://open.spotify.com/album/0NgVgqxV3BcTNL2hhj5PJ6) | 2:39 | 2025-07-10 | 2025-08-29 |
 | [Halaman Ekstra](https://open.spotify.com/track/2ziE1Vp0PKTN9NKfdz706P) | [White Shoes & The Couples Company](https://open.spotify.com/artist/5wm369wshLgPTaW2TDwkus) | [2020](https://open.spotify.com/album/6oVnItDSmy4W10euf7GRPM) | 4:31 | 2024-06-06 | 2024-06-28 |
@@ -2326,6 +2326,7 @@
 | [長夜賽跑 Nights](https://open.spotify.com/track/0DTfdzLVkHO4Mjv8IiF7xs) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [shhh, it's under my bed](https://open.spotify.com/album/58L0TIIk2t14KKVSxgjyB2) | 3:56 | 2024-10-24 | 2024-11-16 |
 | [門](https://open.spotify.com/track/5fXbJBMOQWcjPyMTQJnevE) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [關掉 / 打開](https://open.spotify.com/album/4lNhQsVRJOBvSgBpdb6sXN) | 4:45 | 2022-04-28 | 2022-05-07 |
 | [離岸 Au large](https://open.spotify.com/track/6cwbPYiNaj2hDD8hg1yKih) | [荒山茉莉 Molly in Mountain](https://open.spotify.com/artist/5D8hVSWaIaFmwFpC5y6asU) | [離岸 Au large](https://open.spotify.com/album/2RHqx0jvKQlwhJThxdTvQM) | 4:26 | 2025-03-13 | 2025-03-21 |
+| [雪國](https://open.spotify.com/track/2ycEK1Haz9TXjNNwYs2Hgm) | [Uchu Yurei](https://open.spotify.com/artist/12qOUG1SCqsMtXNPbng8rl) | [雪國](https://open.spotify.com/album/1b13uhgn8jw8PvLw2Pr3NY) | 9:04 | 2025-12-07 |  |
 | [風を吹かせて](https://open.spotify.com/track/6kS5JgGmvobfA6QT9B5hyg) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [ありがとう](https://open.spotify.com/album/3yvG3IQ4OQwzw9rxoYzceV) | 5:09 | 2023-06-22 | 2023-08-04 |
 | [飛咯](https://open.spotify.com/track/43hf98nAQmYNuX3i2l6ius) | [Leah Dou](https://open.spotify.com/artist/7mShFo2eYgVBQFZBCilhtl) | [空中飛人](https://open.spotify.com/album/5T6ErFoPoKV9UEmrLePRp5) | 4:25 | 2024-09-12 | 2024-12-07 |
 | [飛鳥 \- Live](https://open.spotify.com/track/5r9nAwvDhTuyboRkHCSVNP) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [飛鳥 \(Live\)](https://open.spotify.com/album/0bWiaz8dwYuv2mO6cnWHZg) | 4:27 | 2025-06-26 | 2025-09-05 |

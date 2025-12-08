@@ -4,7 +4,7 @@
 
 > 
 
-293 songs - 11 hr 31 min
+298 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [04:00](https://open.spotify.com/track/41Mmsc8xrT6MX30lEBwm0A) | [m3wk4](https://open.spotify.com/artist/0Lk2pvY0XMdrG1w09xMsRe) | [04:00](https://open.spotify.com/album/26IKkSYC1DYrS0wJ8krXHX) | 1:17 | 2025-04-17 | 2025-04-22 |
 | [04:03](https://open.spotify.com/track/7Cf1svuoRdJeBE31TGnQdg) | [m3wk4](https://open.spotify.com/artist/0Lk2pvY0XMdrG1w09xMsRe) | [04:03](https://open.spotify.com/album/5excPWx4CCg5XvOiqmEK6w) | 2:19 | 2025-04-17 | 2025-04-22 |
 | [1000000₽](https://open.spotify.com/track/2iqXJeFj27ZuRrJvieUpP2) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C), [VERi RERi](https://open.spotify.com/artist/3bVvrbMo8AcqPG7lrJfopQ) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:34 | 2025-08-11 |  |
+| [2007](https://open.spotify.com/track/07cum2wxyGkgFFsbhD3t9L) | [SPARKLEWOLF RADIO](https://open.spotify.com/artist/1qIh3IaG7woULdhZ919jL0) | [2007](https://open.spotify.com/album/18IiJChC01Sa8fwXvTnsKC) | 2:37 | 2025-12-07 |  |
 | [24\-7!](https://open.spotify.com/track/7MceGNdwAbMbpqibENFlwB) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [24\-7!](https://open.spotify.com/album/6xprDMhS4ZCy2yNcmKE2yn) | 1:57 | 2024-12-08 |  |
 | [2RAD!](https://open.spotify.com/track/0ISfL8bvPAlioAsmmQOxQ2) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 1:29 | 2024-12-08 |  |
 | [50К Котлы](https://open.spotify.com/track/7eZN4lWwhVGUCoULjyZHOn) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y), [Polyana](https://open.spotify.com/artist/2Nu8ejfvmO9ZF3gebkCPnz), [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [Ойкумена 2](https://open.spotify.com/album/4oeC1cZjOVsYTIculXA5kn) | 2:58 | 2025-08-12 | 2025-08-14 |
@@ -22,6 +23,7 @@
 | [:3](https://open.spotify.com/track/1etmzWh7Q85LfSxth8NJuk) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [:3](https://open.spotify.com/album/50HL3HFWueMUpafaawJux4) | 1:42 | 2025-01-08 |  |
 | [ACID SPIT!](https://open.spotify.com/track/5aD2klS056YPdLDoPPkiAf) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [ACID SPIT!](https://open.spotify.com/album/2uqkZChtv7ou30EmY9xDW6) | 2:04 | 2024-12-25 |  |
 | [ACT RIGHT](https://open.spotify.com/track/2sVjF25Z4JTJxi9BXm5GtJ) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [ACT RIGHT](https://open.spotify.com/album/4GHFjmhUZkJfE6kuIJWQuk) | 2:24 | 2025-03-06 |  |
+| [adhd music for FURRIES!!!](https://open.spotify.com/track/1VZAXgKpDuJoMVcWHvp1HM) | [SPARKLEWOLF RADIO](https://open.spotify.com/artist/1qIh3IaG7woULdhZ919jL0) | [adhd music for FURRIES!!!](https://open.spotify.com/album/0XfTGfD8AAHNlb8SMQ7iuf) | 3:12 | 2025-12-07 |  |
 | [AGITATED!](https://open.spotify.com/track/4qP4cU2lF8gQrPV5sJPaqF) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [AGITATED!](https://open.spotify.com/album/3fe68t7HXoAWM9UXBEuLvW) | 2:21 | 2025-01-31 | 2025-04-10 |
 | [All Eyez On Me](https://open.spotify.com/track/3Ml1RetK8lfUZ1kBzMhvNf) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [All Eyez On Me](https://open.spotify.com/album/73ltZParXtux9ydXMo4qo5) | 1:24 | 2024-12-31 |  |
 | [AMERICAN WASTELAND](https://open.spotify.com/track/6BB5mSsRYtOILdHMYZKmRz) | [nascar aloe](https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv) | [AMERICAN WASTELAND](https://open.spotify.com/album/6AWs0Ua0ne6bblYs9EajUP) | 1:30 | 2025-02-18 | 2025-04-10 |
@@ -64,6 +66,7 @@
 | [DON’T MAKE ME LAUGH!](https://open.spotify.com/track/0ABN1KoOlUNUVkM1yIdsl2) | [KARMAMØB](https://open.spotify.com/artist/0v29jVkGQdZAkJkcLwnOo3), [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [DON’T MAKE ME LAUGH!](https://open.spotify.com/album/1PPVBkJvUe2EQMEaYhUlJy) | 1:48 | 2025-01-11 |  |
 | [Downswing](https://open.spotify.com/track/46VR6QaKbWDH3mCoxu8yPU) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 3:40 | 2025-05-17 |  |
 | [drip!](https://open.spotify.com/track/3CvcUcRVdmcP5Y3ouMG0kW) | [CapzLock](https://open.spotify.com/artist/4g3JG556dlxAQVKpqTbedB) | [drip!](https://open.spotify.com/album/1UjH6VYt8fNHQthMWjs0Un) | 1:14 | 2025-05-28 |  |
+| [EAT YOU UP](https://open.spotify.com/track/0MKnQvS2nCL3AC6Acd4NLY) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RAVEPOP](https://open.spotify.com/album/1mLzn3i4NwDW4cOg2wJsig) | 2:00 | 2025-12-07 |  |
 | [ENVIOUS](https://open.spotify.com/track/0ozFkd2YKntNYcqufvdNtY) | [†w!n](https://open.spotify.com/artist/2bsv2IjuvKNhdxsDk6bKed) | [ENVIOUS](https://open.spotify.com/album/2RLLSDJtqJckVek9Q5S4aQ) | 1:16 | 2025-04-11 |  |
 | [ETHEREAL OG!](https://open.spotify.com/track/7rQJxLDrS1VWbs7RGF1S8a) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [ETHEREAL OG!](https://open.spotify.com/album/6fKokpXQ4OvbaMbbwg9sex) | 1:59 | 2024-12-08 |  |
 | [FABULOUS!](https://open.spotify.com/track/11OseKlNdhnZ09NNvuIpFA) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [RAWRXD!](https://open.spotify.com/album/6RLyOnlpXfUlTDOQYpY73K) | 1:30 | 2024-12-11 |  |
@@ -129,11 +132,12 @@
 | [iwalkwhenitalk</3](https://open.spotify.com/track/03CRk2KMH20SAWv6OOQ9er) | [vnmpire](https://open.spotify.com/artist/0QsNA8omL2RFyNoHlWwlio) | [iwalkwhenitalk</3](https://open.spotify.com/album/3nc5FjDOeuHvzmM1NirYeA) | 1:38 | 2025-04-09 |  |
 | [JAMS!](https://open.spotify.com/track/3k7D5oH5H3W6he2Eah9Xc5) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [JAMS!](https://open.spotify.com/album/0LP2fZJno04gAR9bhraoZ6) | 1:44 | 2025-03-27 | 2025-04-10 |
 | [JERK!](https://open.spotify.com/track/6FRiFD0r9Mnv9VFnW4A7wB) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [JERK!](https://open.spotify.com/album/2aN5HgEHkTi0DR0g0AkWHc) | 2:11 | 2025-07-12 |  |
+| [Just Be Competent](https://open.spotify.com/track/2q5JF3bRPDeAS8EO8KIjEH) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [Just Be Competent](https://open.spotify.com/album/1y1d8qRhQtD3UkkUFHsJOS) | 2:36 | 2025-12-07 |  |
 | [KATAMARI](https://open.spotify.com/track/5iAE3uBqaZm9aHUx9yy6a0) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [KATAMARI](https://open.spotify.com/album/4qfXJdKTc2dvIfdlqytd2E) | 2:38 | 2025-03-05 |  |
 | [KEEP UP](https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [KEEP UP // FROSTBITE](https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY) | 2:13 | 2025-04-11 | 2025-04-17 |
 | [KILL YOURSELF](https://open.spotify.com/track/13rSC7PiWGDR15lZxgrxtw) | [Operation Sodasteal](https://open.spotify.com/artist/23eeNX6dS8S89HHUSEPVZ6), [Kaj Strife](https://open.spotify.com/artist/0wywVUxVDUc9Z45Xzq6k2w), [slaneyinfamous](https://open.spotify.com/artist/68DUtGydtnSsqVgAKvMSsu) | [SLANEY VS SODASTEAL](https://open.spotify.com/album/6oscn67zVVf4v7GjZibGxd) | 2:44 | 2025-04-30 |  |
 | [king](https://open.spotify.com/track/6lQJQI7UN4743fPR9vQjOI) | [clvrr!](https://open.spotify.com/artist/31YpVSTwYuizIoEyBJ8Yh9), [800pts](https://open.spotify.com/artist/36b2HS4EqRatnoeOwu1IeN), [sin](https://open.spotify.com/artist/4QxfUP9WMDIvnZ4UK2Osiu) | [November](https://open.spotify.com/album/7z65e4o5xTjfq1SUFQxAf6) | 2:22 | 2025-02-15 | 2025-05-27 |
-| [Kiss Me Again](https://open.spotify.com/track/73BkKox43ibPpfKkZzy5r9) | [Flixzz](https://open.spotify.com/artist/1rtfMkd2YFdLne5lrFgE4B), [Frozen Frog](https://open.spotify.com/artist/0Ll7CTWwdduEkbHQPaZBZw) | [Kiss Me Again](https://open.spotify.com/album/1rawjQQEixsYFK3ohzL9DA) | 2:30 | 2025-10-19 |  |
+| [Kiss Me Again](https://open.spotify.com/track/73BkKox43ibPpfKkZzy5r9) | [Flixzz](https://open.spotify.com/artist/1rtfMkd2YFdLne5lrFgE4B), [Frozen Frog](https://open.spotify.com/artist/0Ll7CTWwdduEkbHQPaZBZw) | [Kiss Me Again](https://open.spotify.com/album/1rawjQQEixsYFK3ohzL9DA) | 2:30 | 2025-10-19 | 2025-12-08 |
 | [kms.](https://open.spotify.com/track/0p6SOaPNDKyUGIBKzfqHaS) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20.](https://open.spotify.com/album/3o6oXZHeHkBfpky4WgA4hn) | 2:39 | 2025-04-04 |  |
 | [Kroxxxxroad](https://open.spotify.com/track/2GFE1Ukk6NS03ZpPihDtvB) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [Kroxxxxroad](https://open.spotify.com/album/5ZensT6l0BKw6k2pQ9m9R5) | 1:13 | 2025-04-10 | 2025-04-12 |
 | [Kurxxed Emeraldz](https://open.spotify.com/track/01aBUgzGC5798sm3oPqhVs) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [Kurxxed Emeraldz](https://open.spotify.com/album/5GIlXalyhmqE6evZFuVazy) | 1:01 | 2024-12-31 |  |
@@ -190,6 +194,7 @@
 | [Ransom](https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 2:11 | 2025-07-05 |  |
 | [rap music](https://open.spotify.com/track/3Zz4BKWJamsN9Cq8NekyfM) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [THIS DOES NOT EXIST](https://open.spotify.com/album/7E20ajEl0ijvnZOunpjbCd) | 3:17 | 2025-05-06 | 2025-05-22 |
 | [Rapp Snitch Knishes](https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Mr\. Fantastik](https://open.spotify.com/artist/7hpzx6fecRavN1B1YMxpOb) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 2:52 | 2025-03-21 |  |
+| [RATIO + FURRY](https://open.spotify.com/track/6OaFfKvOgoy96oVrMSPpvt) | [SPARKLEWOLF RADIO](https://open.spotify.com/artist/1qIh3IaG7woULdhZ919jL0) | [RATIO + FURRY](https://open.spotify.com/album/7y8JcYrMqxGeFbq9kpQtqJ) | 1:36 | 2025-12-07 |  |
 | [Reaching For You](https://open.spotify.com/track/1PDDQglBZhCGfMA4TYxYKB) | [Midrift](https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E) | [Reaching For You](https://open.spotify.com/album/3kuz0ZtZguMNGCvHAGRLFA) | 3:23 | 2025-05-20 |  |
 | [reassurance.](https://open.spotify.com/track/6NAy2TcjgLjcJiVgdL8flR) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [fuck.](https://open.spotify.com/album/7lgnsSkcTlrp1FULCYmM0z) | 1:52 | 2025-02-23 |  |
 | [renai circulation pluggnb \(恋愛サーキュレーション\)](https://open.spotify.com/track/0SZenVPubqt5p0Q1z7rAr7) | [cadenkala](https://open.spotify.com/artist/2rzk5yjCatuGzQLDawKsXe) | [renai circulation pluggnb \(恋愛サーキュレーション\)](https://open.spotify.com/album/6J4DQPCbKfypIIGPT1PaYH) | 2:12 | 2025-06-08 |  |

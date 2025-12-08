@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Sinach
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,640 likes - 99 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,668 likes - 99 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 46 | [Victory Bells](https://open.spotify.com/track/0f0fIWLZC0jIvIzU3ZC18h) | [Ifé harmony](https://open.spotify.com/artist/6S2C1f1dlnpZrc2NhkZsLU), [Gospel boys](https://open.spotify.com/artist/453mSEjGTGcO9idPrxSCkS) | [Christmas Joy](https://open.spotify.com/album/65cEMsHJXIfpW2pOyFLBvW) | 2:18 |
 | 47 | [Worship Medley 18](https://open.spotify.com/track/7dujAJFndCx2gL5BBoZk9a) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Worship Medley 18](https://open.spotify.com/album/0vWIGLNruGE9OhXDjcIx1J) | 14:15 |
 | 48 | [Ifẹ Ayemi My Love](https://open.spotify.com/track/1yIAvaGkTeDH9wPPn40Vku) | [Olohunloye Agba](https://open.spotify.com/artist/0GYEp8LQnYw1bHWl5pIhn8), [Saoty Arewa](https://open.spotify.com/artist/3TmUFsPj3pNLsEikpWfsUX), [Olotu Yusuf Olamide](https://open.spotify.com/artist/6hEf6rkXztbGFC3CdyU11M), [Peller](https://open.spotify.com/artist/15XozhfjHU6UR9zImk8znI), [Jarvis](https://open.spotify.com/artist/4BvXgMZivMjnhMMXnalFhI) | [Ifẹ Ayemi My Love](https://open.spotify.com/album/7wA6WR1oTQxLG3pkd3HcQZ) | 4:10 |
-| 49 | [The God Of All Fresh](https://open.spotify.com/track/5GJGe2oMM9ERv49OVh0nhn) | [One Hallelujah](https://open.spotify.com/artist/2tZCHWBTGE4ykAuqBBIzW3), [Moses Onofeghara](https://open.spotify.com/artist/5kGx50WZX5gqEa706mmOqT), [Sammy King](https://open.spotify.com/artist/3eedtf2uYeaEmHPWpQ0LsE), [Faith Child](https://open.spotify.com/artist/0FMlGMImrFqeOL7ykcYdZy) | [The God Of All Fresh](https://open.spotify.com/album/74lWQRDRoEwCBMo8EhPGQs) | 3:03 |
+| 49 | [The God Of All Flesh](https://open.spotify.com/track/5GJGe2oMM9ERv49OVh0nhn) | [One Hallelujah](https://open.spotify.com/artist/2tZCHWBTGE4ykAuqBBIzW3), [Moses Onofeghara](https://open.spotify.com/artist/5kGx50WZX5gqEa706mmOqT), [Sammy King](https://open.spotify.com/artist/3eedtf2uYeaEmHPWpQ0LsE), [Faith Child](https://open.spotify.com/artist/0FMlGMImrFqeOL7ykcYdZy) | [The God Of All Flesh](https://open.spotify.com/album/74lWQRDRoEwCBMo8EhPGQs) | 3:03 |
 | 50 | [ODUN](https://open.spotify.com/track/4DNLFGxzVoYon9SoSJWpni) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [ODUN](https://open.spotify.com/album/4mKF7Vj5W6tvivakZ4lWjH) | 2:14 |
 | 51 | [JOY EVERYWHERE \(Christmas In Lagos\)](https://open.spotify.com/track/4tznTM59yGj8sztmMFEGds) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [Philipiano](https://open.spotify.com/artist/1pvl20igVaAnDLUWxrpoTl) | [JOY EVERYWHERE \(Christmas In Lagos\)](https://open.spotify.com/album/56XsaWzjeTg3oJvaok7kz7) | 2:15 |
 | 52 | [Emmanuel](https://open.spotify.com/track/4UiEyp39x8rvLbHVOfSc3M) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [Emmanuel](https://open.spotify.com/album/23X75o9mCW3LExt2rhRJU4) | 4:50 |

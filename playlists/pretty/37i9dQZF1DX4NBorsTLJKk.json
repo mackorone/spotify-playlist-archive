@@ -447,22 +447,6 @@
     {
       "added_at": "2025-10-09 16:05:38",
       "album": {
-        "name": "\u53ca\u6642\u96e8",
-        "url": "https://open.spotify.com/album/0DuU7EnkbqIhnXe8CiJsup"
-      },
-      "artists": [
-        {
-          "name": "Control T",
-          "url": "https://open.spotify.com/artist/6KZPYI3NDCfL1Z3Uxp3Sge"
-        }
-      ],
-      "duration_ms": 219487,
-      "name": "\u53ca\u6642\u96e8",
-      "url": "https://open.spotify.com/track/4NWujfXKRiGLv3fPRr4YQo"
-    },
-    {
-      "added_at": "2025-10-09 16:05:38",
-      "album": {
         "name": "\u4e0b\u96e8\u7684\u665a\u4e0a",
         "url": "https://open.spotify.com/album/4zHBCvRy2ZJRmT25RCXAeS"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 294729,
       "name": "\u4e0b\u96e8\u7684\u665a\u4e0a",
       "url": "https://open.spotify.com/track/65o7zOY79D5vqOJJNm1l3T"
+    },
+    {
+      "added_at": "2025-10-09 16:05:38",
+      "album": {
+        "name": "\u53ca\u6642\u96e8",
+        "url": "https://open.spotify.com/album/0DuU7EnkbqIhnXe8CiJsup"
+      },
+      "artists": [
+        {
+          "name": "Control T",
+          "url": "https://open.spotify.com/artist/6KZPYI3NDCfL1Z3Uxp3Sge"
+        }
+      ],
+      "duration_ms": 219487,
+      "name": "\u53ca\u6642\u96e8",
+      "url": "https://open.spotify.com/track/4NWujfXKRiGLv3fPRr4YQo"
     },
     {
       "added_at": "2025-10-09 16:05:38",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-10-09 16:05:38",
       "album": {
-        "name": "\u773c\u6dda\u535a\u7269\u9928",
-        "url": "https://open.spotify.com/album/7zYdHfR3NHfp43ULyFHQGK"
-      },
-      "artists": [
-        {
-          "name": "\u912d\u8208",
-          "url": "https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE"
-        }
-      ],
-      "duration_ms": 272099,
-      "name": "\u96e8\u5b63\u4e0d\u518d\u4f86",
-      "url": "https://open.spotify.com/track/30oVE79TbVinAaY20uM4VC"
-    },
-    {
-      "added_at": "2025-10-09 16:05:38",
-      "album": {
         "name": "\u5c0f\u5b87\u5b99",
         "url": "https://open.spotify.com/album/2yhTPiBJRuRjofOIEDLJGw"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 258720,
       "name": "\u88ab\u96e8\u56f0\u4f4f\u7684\u57ce\u5e02",
       "url": "https://open.spotify.com/track/4PdRKbD69HOOSTsB5Q76wk"
+    },
+    {
+      "added_at": "2025-10-09 16:05:38",
+      "album": {
+        "name": "\u773c\u6dda\u535a\u7269\u9928",
+        "url": "https://open.spotify.com/album/7zYdHfR3NHfp43ULyFHQGK"
+      },
+      "artists": [
+        {
+          "name": "\u912d\u8208",
+          "url": "https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE"
+        }
+      ],
+      "duration_ms": 272099,
+      "name": "\u96e8\u5b63\u4e0d\u518d\u4f86",
+      "url": "https://open.spotify.com/track/30oVE79TbVinAaY20uM4VC"
     },
     {
       "added_at": "2025-10-09 16:05:38",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-10-09 16:05:38",
       "album": {
-        "name": "\u611b\u60c5\u591a\u60f1\u6cb3",
-        "url": "https://open.spotify.com/album/3Xme6uZQDSAC2YprsffzLB"
-      },
-      "artists": [
-        {
-          "name": "\u718a\u5929\u5e73",
-          "url": "https://open.spotify.com/artist/3tRKt5aIEIJqlHYnePOgc0"
-        }
-      ],
-      "duration_ms": 356520,
-      "name": "\u9031\u672b\u4e0b\u96e8",
-      "url": "https://open.spotify.com/track/5iYoWmLl00G3DRufnvzCGN"
-    },
-    {
-      "added_at": "2025-10-09 16:05:38",
-      "album": {
         "name": "\u8d85\u7d1a\u91d1\u66f2\u7cbe\u9078",
         "url": "https://open.spotify.com/album/40pCAFEe7nt7pprKfsmAbd"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 250040,
       "name": "\u9ed1\u96e8",
       "url": "https://open.spotify.com/track/27UwokRpBnCYqDsNDr9DZ1"
+    },
+    {
+      "added_at": "2025-10-09 16:05:38",
+      "album": {
+        "name": "\u611b\u60c5\u591a\u60f1\u6cb3",
+        "url": "https://open.spotify.com/album/3Xme6uZQDSAC2YprsffzLB"
+      },
+      "artists": [
+        {
+          "name": "\u718a\u5929\u5e73",
+          "url": "https://open.spotify.com/artist/3tRKt5aIEIJqlHYnePOgc0"
+        }
+      ],
+      "duration_ms": 356520,
+      "name": "\u9031\u672b\u4e0b\u96e8",
+      "url": "https://open.spotify.com/track/5iYoWmLl00G3DRufnvzCGN"
     },
     {
       "added_at": "2025-10-09 16:05:38",

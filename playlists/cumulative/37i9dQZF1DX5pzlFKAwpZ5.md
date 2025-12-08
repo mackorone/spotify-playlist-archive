@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. yanaco on cover.
 
-349 songs - 1 day 1 hr 29 min
+350 songs - 1 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Leaving](https://open.spotify.com/track/2VsCSKol8i9vHyc9S1kI7y) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Leaving](https://open.spotify.com/album/1DyDhZGMs0ta4AFDPgJGTT) | 3:43 | 2023-10-13 | 2024-03-08 |
 | [les cinquième alternées](https://open.spotify.com/track/0QPPyF3YNaFcsAgr3TXm68) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Hideyuki Mochizuki](https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv) | [northern wind](https://open.spotify.com/album/4VtWQBNxhE2xkgiaznyrgD) | 2:59 | 2025-03-21 |  |
 | [Liberty](https://open.spotify.com/track/2pv4n0WhR3f0IayyG0lc4z) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Envision](https://open.spotify.com/album/2lnwd16ApEAAJ0GNqH7SNq) | 2:39 | 2022-01-07 | 2025-03-30 |
+| [LICHT](https://open.spotify.com/track/6b9ISqw8KlXu4tbG2bLuqV) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [LICHT](https://open.spotify.com/album/2wUjZqdRflZRYB3kE1YXUM) | 3:22 | 2025-12-02 |  |
 | [Life, Life](https://open.spotify.com/track/63MjNIL7Jsz6uqqE39YCFr) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/55BwNuGPkSSKOCBkTSCQWA) | 4:23 | 2022-01-07 | 2024-08-09 |
 | [LIFE, LIFE](https://open.spotify.com/track/7npQjukEKQQYiqSWtqeCvW) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 4:23 | 2022-07-22 | 2024-04-19 |
 | [light seeing 3\-3](https://open.spotify.com/track/4g075PjQ7O0idXks99Z64A) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [hikari umi](https://open.spotify.com/album/6vUZxXuYMmuQrTHYr1tViF) | 3:14 | 2024-05-23 |  |
@@ -190,7 +191,7 @@
 | [My Hollow](https://open.spotify.com/track/68RWlY6gBK3J1NFurEycvo) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [My Hollow](https://open.spotify.com/album/6ESXEEXvWLhOEjeUedlzAQ) | 4:08 | 2024-09-06 | 2025-01-14 |
 | [Nagi / 凪](https://open.spotify.com/track/3sk3rWrfcaTdIdUc7b0w8I) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [Josefina Tai](https://open.spotify.com/artist/60116chQIOZvd4OldPJJw0) | [Nagi / 凪](https://open.spotify.com/album/4wip9sNlPO0kWQ5h4rDyxN) | 4:57 | 2025-07-03 |  |
 | [Nami](https://open.spotify.com/track/45m8T6QIgYoCZnUNxYeyml) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:56 | 2025-12-02 |  |
-| [Nature Morte](https://open.spotify.com/track/1BJh0hlduwUNWwsRqCDoRY) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Nature Morte](https://open.spotify.com/album/3jLoX9HzMViUkvhvBDCvNN) | 3:32 | 2025-11-11 |  |
+| [Nature Morte](https://open.spotify.com/track/1BJh0hlduwUNWwsRqCDoRY) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Nature Morte](https://open.spotify.com/album/3jLoX9HzMViUkvhvBDCvNN) | 3:32 | 2025-11-11 | 2025-12-08 |
 | [New Age](https://open.spotify.com/track/6Ibgsk6qCE5rUn0jMA4KxA) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 1:58 | 2024-09-25 | 2025-05-23 |
 | [New Van Dyke Parks](https://open.spotify.com/track/1qWjVkwBVhZzWEovby6QZa) | [ワールドスタンダード](https://open.spotify.com/artist/5RptDaZ5MAjH5IYykyt3DI) | [World Standard II \(2021 Remastered\)](https://open.spotify.com/album/5bfEOTKHIu0ECorUAIog9D) | 2:04 | 2023-03-03 | 2023-08-19 |
 | [Night](https://open.spotify.com/track/45Dxx50STJXoWCaDQkr6kx) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Night](https://open.spotify.com/album/59qt7thlZ8bYAd4B22QeZ1) | 3:36 | 2023-09-08 | 2024-04-19 |

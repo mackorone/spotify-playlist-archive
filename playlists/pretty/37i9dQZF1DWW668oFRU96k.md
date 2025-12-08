@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alan Walker x Steve Aoki
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,534 likes - 91 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,556 likes - 91 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

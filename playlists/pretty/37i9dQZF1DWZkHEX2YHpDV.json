@@ -1,6 +1,6 @@
 {
   "description": "pop punk, alt, emo, post-hardcore & more. Cover: Yellowcard",
-  "num_followers": 446361,
+  "num_followers": 446312,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,38 @@
     {
       "added_at": "2025-11-14 05:00:21",
       "album": {
+        "name": "blindfolded",
+        "url": "https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 199240,
+      "name": "blindfolded",
+      "url": "https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr"
+    },
+    {
+      "added_at": "2025-11-14 05:00:21",
+      "album": {
+        "name": "Warmer Weather",
+        "url": "https://open.spotify.com/album/5hASWchtGCsYdHkKCuMy2x"
+      },
+      "artists": [
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        }
+      ],
+      "duration_ms": 196400,
+      "name": "Fly Move (The Whole Time)",
+      "url": "https://open.spotify.com/track/2nBj53PP47e79QmEXnTzKs"
+    },
+    {
+      "added_at": "2025-11-14 05:00:21",
+      "album": {
         "name": "Red Velvet (with Ari Abdul)",
         "url": "https://open.spotify.com/album/5OmgLcynomYwAYCDK7wa4Q"
       },
@@ -631,22 +663,6 @@
     {
       "added_at": "2025-11-14 05:00:21",
       "album": {
-        "name": "blindfolded",
-        "url": "https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i"
-      },
-      "artists": [
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        }
-      ],
-      "duration_ms": 199240,
-      "name": "blindfolded",
-      "url": "https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr"
-    },
-    {
-      "added_at": "2025-11-14 05:00:21",
-      "album": {
         "name": "Oh No!",
         "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 193166,
       "name": "Oh No!",
       "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
-    },
-    {
-      "added_at": "2025-11-14 05:00:21",
-      "album": {
-        "name": "Warmer Weather",
-        "url": "https://open.spotify.com/album/5hASWchtGCsYdHkKCuMy2x"
-      },
-      "artists": [
-        {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
-        }
-      ],
-      "duration_ms": 196400,
-      "name": "Fly Move (The Whole Time)",
-      "url": "https://open.spotify.com/track/2nBj53PP47e79QmEXnTzKs"
     },
     {
       "added_at": "2025-11-14 05:00:21",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-11-14 05:00:21",
       "album": {
-        "name": "WHERE DID ALL THE BUTTERFLIES GO?",
-        "url": "https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM"
-      },
-      "artists": [
-        {
-          "name": "BEAUTY SCHOOL DROPOUT",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
-        }
-      ],
-      "duration_ms": 181866,
-      "name": "HEART AWAY",
-      "url": "https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA"
-    },
-    {
-      "added_at": "2025-11-14 05:00:21",
-      "album": {
         "name": "NSFW",
         "url": "https://open.spotify.com/album/3bOpeEfsrkWun8uj5DMrJc"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 152685,
       "name": "The End",
       "url": "https://open.spotify.com/track/2vcOh6XjFzf5CZY7ppIzzK"
+    },
+    {
+      "added_at": "2025-11-14 05:00:21",
+      "album": {
+        "name": "WHERE DID ALL THE BUTTERFLIES GO?",
+        "url": "https://open.spotify.com/album/5QHizl5QpeIBCs5D8OD4pM"
+      },
+      "artists": [
+        {
+          "name": "BEAUTY SCHOOL DROPOUT",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        }
+      ],
+      "duration_ms": 181866,
+      "name": "HEART AWAY",
+      "url": "https://open.spotify.com/track/0gunLQiKGXjbVUTrzKllcA"
     },
     {
       "added_at": "2025-11-14 05:00:21",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-11-14 05:00:21",
       "album": {
-        "name": "Hangman",
-        "url": "https://open.spotify.com/album/4O0Qhuvq81QyLuM1lwQmjz"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 180114,
-      "name": "Hangman",
-      "url": "https://open.spotify.com/track/7vzKoO0kUTgtlz8JZAW3EB"
-    },
-    {
-      "added_at": "2025-11-14 05:00:21",
-      "album": {
         "name": "The Hart",
         "url": "https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 191000,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/0pZQgBw5kzzVFmNlY1oGA2"
+    },
+    {
+      "added_at": "2025-11-14 05:00:21",
+      "album": {
+        "name": "Hangman",
+        "url": "https://open.spotify.com/album/4O0Qhuvq81QyLuM1lwQmjz"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 180114,
+      "name": "Hangman",
+      "url": "https://open.spotify.com/track/7vzKoO0kUTgtlz8JZAW3EB"
     },
     {
       "added_at": "2025-11-14 05:00:21",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2025-11-14 05:00:21",
       "album": {
-        "name": "When in Love",
-        "url": "https://open.spotify.com/album/1JnrM00cVPFBxrZc8EgdYw"
-      },
-      "artists": [
-        {
-          "name": "A Lot Like Birds",
-          "url": "https://open.spotify.com/artist/4tGd3HHlV4RVOdlBc5LAW3"
-        },
-        {
-          "name": "Geoff Rickly",
-          "url": "https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX"
-        }
-      ],
-      "duration_ms": 265748,
-      "name": "When in Love",
-      "url": "https://open.spotify.com/track/5tjKNBax9WFNbrpruOumHS"
-    },
-    {
-      "added_at": "2025-11-14 05:00:21",
-      "album": {
         "name": "Where Does The Light Get In?",
         "url": "https://open.spotify.com/album/5iN0xqyvImRpLehFSWZhbx"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 222317,
       "name": "You",
       "url": "https://open.spotify.com/track/2hZsXCd4yjv04usMf4chII"
+    },
+    {
+      "added_at": "2025-11-14 05:00:21",
+      "album": {
+        "name": "When in Love",
+        "url": "https://open.spotify.com/album/1JnrM00cVPFBxrZc8EgdYw"
+      },
+      "artists": [
+        {
+          "name": "A Lot Like Birds",
+          "url": "https://open.spotify.com/artist/4tGd3HHlV4RVOdlBc5LAW3"
+        },
+        {
+          "name": "Geoff Rickly",
+          "url": "https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX"
+        }
+      ],
+      "duration_ms": 265748,
+      "name": "When in Love",
+      "url": "https://open.spotify.com/track/5tjKNBax9WFNbrpruOumHS"
     },
     {
       "added_at": "2025-11-14 05:00:21",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-11-14 05:00:21",
       "album": {
-        "name": "Dark Magic",
-        "url": "https://open.spotify.com/album/4febs9NRsULttX3cSN4Oev"
-      },
-      "artists": [
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Pity Party",
-      "url": "https://open.spotify.com/track/0Latl06o13TA9mQV7SBUpx"
-    },
-    {
-      "added_at": "2025-11-14 05:00:21",
-      "album": {
         "name": "Forget",
         "url": "https://open.spotify.com/album/2Orndc0Xnp9yWgVhRdCQ7o"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 153133,
       "name": "Forget",
       "url": "https://open.spotify.com/track/2BI2OuANKzF2YhheQSwO57"
+    },
+    {
+      "added_at": "2025-11-14 05:00:21",
+      "album": {
+        "name": "Dark Magic",
+        "url": "https://open.spotify.com/album/4febs9NRsULttX3cSN4Oev"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Pity Party",
+      "url": "https://open.spotify.com/track/0Latl06o13TA9mQV7SBUpx"
     },
     {
       "added_at": "2025-11-14 05:00:21",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-11-14 05:00:21",
       "album": {
-        "name": "Straight Up (Needy)",
-        "url": "https://open.spotify.com/album/5v86kcSPCvOGArewLHf9qX"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 194273,
-      "name": "Straight Up (Needy)",
-      "url": "https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96"
-    },
-    {
-      "added_at": "2025-11-14 05:00:21",
-      "album": {
         "name": "Wreck My Life (feat. PUP)",
         "url": "https://open.spotify.com/album/7D634spauV9sF64ndg5NgF"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 118786,
       "name": "Wreck My Life (feat. PUP)",
       "url": "https://open.spotify.com/track/5PLmlMi5vvoL9pvR8E8UOo"
+    },
+    {
+      "added_at": "2025-11-14 05:00:21",
+      "album": {
+        "name": "Straight Up (Needy)",
+        "url": "https://open.spotify.com/album/5v86kcSPCvOGArewLHf9qX"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 194273,
+      "name": "Straight Up (Needy)",
+      "url": "https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96"
     },
     {
       "added_at": "2025-11-14 05:00:21",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2025-11-14 05:00:21",
       "album": {
+        "name": "Liminal",
+        "url": "https://open.spotify.com/album/0WrtmOTnb3dLugmxuXWIrk"
+      },
+      "artists": [
+        {
+          "name": "Belmont",
+          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
+        }
+      ],
+      "duration_ms": 224888,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/6qMrFgWAV9zpSyhdTM0tBl"
+    },
+    {
+      "added_at": "2025-11-14 05:00:21",
+      "album": {
         "name": "FEVER",
         "url": "https://open.spotify.com/album/0TE9DjZPAVT9LFtpjUhi6F"
       },
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2025-11-14 05:00:21",
       "album": {
-        "name": "Liminal",
-        "url": "https://open.spotify.com/album/0WrtmOTnb3dLugmxuXWIrk"
-      },
-      "artists": [
-        {
-          "name": "Belmont",
-          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
-        }
-      ],
-      "duration_ms": 224888,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/6qMrFgWAV9zpSyhdTM0tBl"
-    },
-    {
-      "added_at": "2025-11-14 05:00:21",
-      "album": {
         "name": "only overnight",
         "url": "https://open.spotify.com/album/23bCI6XgLFrRQVQEORNP0R"
       },
@@ -1619,6 +1619,22 @@
       "duration_ms": 182454,
       "name": "only overnight",
       "url": "https://open.spotify.com/track/1LR0zEve8HCcu3voGG076M"
+    },
+    {
+      "added_at": "2025-11-14 05:00:21",
+      "album": {
+        "name": "American Psycho",
+        "url": "https://open.spotify.com/album/2ILkMKiZC1vs6dtRKB3HvA"
+      },
+      "artists": [
+        {
+          "name": "Savings",
+          "url": "https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb"
+        }
+      ],
+      "duration_ms": 185873,
+      "name": "American Psycho",
+      "url": "https://open.spotify.com/track/3oQkPjn9TE19bRxPPpWp08"
     },
     {
       "added_at": "2025-11-14 05:00:21",
@@ -1643,18 +1659,18 @@
     {
       "added_at": "2025-11-14 05:00:21",
       "album": {
-        "name": "American Psycho",
-        "url": "https://open.spotify.com/album/2ILkMKiZC1vs6dtRKB3HvA"
+        "name": "Don't Let Me Get Too Low",
+        "url": "https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af"
       },
       "artists": [
         {
-          "name": "Savings",
-          "url": "https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb"
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
         }
       ],
-      "duration_ms": 185873,
-      "name": "American Psycho",
-      "url": "https://open.spotify.com/track/3oQkPjn9TE19bRxPPpWp08"
+      "duration_ms": 158999,
+      "name": "Don't Let Me Get Too Low",
+      "url": "https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh"
     },
     {
       "added_at": "2025-11-14 05:00:21",
@@ -1671,22 +1687,6 @@
       "duration_ms": 272668,
       "name": "PIN-EYE",
       "url": "https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU"
-    },
-    {
-      "added_at": "2025-11-14 05:00:21",
-      "album": {
-        "name": "Don't Let Me Get Too Low",
-        "url": "https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 158999,
-      "name": "Don't Let Me Get Too Low",
-      "url": "https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh"
     },
     {
       "added_at": "2025-11-14 05:00:21",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2025-11-14 05:00:21",
       "album": {
-        "name": "saturate",
-        "url": "https://open.spotify.com/album/3LiCWQLym789U7V1Rdz5eE"
-      },
-      "artists": [
-        {
-          "name": "sace6",
-          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
-        }
-      ],
-      "duration_ms": 194896,
-      "name": "saturate",
-      "url": "https://open.spotify.com/track/4MghRJacieQHH2nUO5eZb9"
-    },
-    {
-      "added_at": "2025-11-14 05:00:21",
-      "album": {
         "name": "I really am feeling better",
         "url": "https://open.spotify.com/album/1C6nIy0zYyRMnEOMBRmh7C"
       },
@@ -1739,6 +1723,26 @@
       "duration_ms": 124416,
       "name": "I really am feeling better",
       "url": "https://open.spotify.com/track/2EmYu5EQnSpb2I0nW6hIlw"
+    },
+    {
+      "added_at": "2025-11-14 05:00:21",
+      "album": {
+        "name": "Final Nail (with Charlotte Sands)",
+        "url": "https://open.spotify.com/album/41yGbbLZbhBJqjSBuoOoG4"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 150404,
+      "name": "Final Nail (with Charlotte Sands)",
+      "url": "https://open.spotify.com/track/6kG3qEXGFZCC4OfGCRBW15"
     }
   ],
   "unique_name": "The Scene",

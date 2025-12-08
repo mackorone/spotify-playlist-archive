@@ -1007,6 +1007,24 @@
     },
     {
       "album": {
+        "name": "I Am Flawed",
+        "url": "https://open.spotify.com/album/20ZRfSRKjTMNCYtRXmWI36"
+      },
+      "artists": [
+        {
+          "name": "not equal to",
+          "url": "https://open.spotify.com/artist/0ULpVOsLdkHOUlA3006rnz"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196153,
+      "name": "I Am Flawed",
+      "url": "https://open.spotify.com/track/3oYFTvvRrZ9KSMq7hbuaOo"
+    },
+    {
+      "album": {
         "name": "When the Leaves Fall + I Don't Believe in Anything",
         "url": "https://open.spotify.com/album/6JVe5hfVRUPjwhPOsM8wma"
       },

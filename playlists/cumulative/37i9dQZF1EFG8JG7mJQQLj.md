@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-595 songs - 1 day 9 hr 36 min
+596 songs - 1 day 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,8 @@
 | [Halo](https://open.spotify.com/track/2CvOqDpQIMw69cCzWqr5yr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE \- Platinum Edition](https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9) | 4:21 | 2024-01-29 |  |
 | [Halo / Walking On Sunshine](https://open.spotify.com/track/0XZsKn1Ic8ODCYxcSEOyEu) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee Orgulho LGBTQIA+](https://open.spotify.com/album/3JltLkM5HazRh3bHH2H280) | 2:05 | 2025-06-25 |  |
 | [Halo / Walking On Sunshine](https://open.spotify.com/track/12yh28UqX6hrOcu8YO0cH6) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee LGBTQIA+ Pride](https://open.spotify.com/album/6ndWxNXkozcZLcsCAVBctE) | 2:05 | 2024-01-29 | 2025-06-26 |
-| [Happier](https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:27 | 2024-01-29 |  |
+| [Happier](https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:27 | 2024-01-29 | 2025-12-08 |
+| [Happier](https://open.spotify.com/track/63Gb6d3wW0J6BwWiaeQKDp) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+\-=÷× \(Tour Collection: Live\)](https://open.spotify.com/album/06Frlgl1cZOIKxNVSYrxTO) | 3:27 | 2025-12-07 |  |
 | [Happy](https://open.spotify.com/track/6VWrzY9iVC8LzHgzz7g1XS) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Happy](https://open.spotify.com/album/1rqy2Qr39NKMQIER49iIju) | 3:57 | 2024-01-29 | 2024-02-01 |
 | [Happy](https://open.spotify.com/track/55whSVkLeOcEhLaU91DQ8Q) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Echo](https://open.spotify.com/album/3KMc2Ey1t8gv4r9VfYgqbH) | 4:02 | 2024-01-31 |  |
 | [Hate 2 Love Her](https://open.spotify.com/track/7HO97Tkus29Qalorknomh3) | [Blake Lewis](https://open.spotify.com/artist/4H6tLRh1nuIuVxHtXo68ZE) | [Audio Day Dream](https://open.spotify.com/album/2DNbIvMrY2HPcgBkJtiY6W) | 4:14 | 2024-01-29 |  |

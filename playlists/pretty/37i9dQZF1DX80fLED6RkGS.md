@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: Mad G
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,656 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,660 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 | 69 | [Moshi Mbili](https://open.spotify.com/track/6MeI0Z34L1qBm0KkuPFnJj) | [Soundkraft](https://open.spotify.com/artist/7q6x6F9d2R2skEPjnllspk), [SEAN MMG](https://open.spotify.com/artist/3XNm5VibIYc1xUEDURP1kw), [YBW Smith](https://open.spotify.com/artist/68U6AVEqnL3frYT7udHvYo), [Gody Tennor](https://open.spotify.com/artist/0zDvYiEj0OwqizX4YYVsbB) | [Moshi Mbili](https://open.spotify.com/album/4s6c7ZS4bfVCRZZdT9w1PJ) | 2:55 |
 | 70 | [Denge](https://open.spotify.com/track/38ehxoJfxjfkQb3mw21hq5) | [Daney B](https://open.spotify.com/artist/6epD1176qeIbTNiB4Tx3dG) | [Denge](https://open.spotify.com/album/4ZNebXdmXCqH2Xy0KxB65N) | 2:22 |
 
-Snapshot ID: `AAAAAPzKHKShvGXoLzTFeP5X+8pUIxuv`
+Snapshot ID: `AAAAAPsB7HAUO72sLuJUNkzRdZTVITjf`

@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 199309,
+  "num_followers": 199314,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTIggAAAAABA/E8uAzs6ThsEwS6XOWvv",
+  "snapshot_id": "aTNyAAAAAABWksE2YmCOXqI6zs+b41LI",
   "tracks": [
     {
       "added_at": null,
@@ -443,18 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking Heads '77",
-        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
+        "name": "Talking Heads: 77 (Super Deluxe Edition) [2024 Remaster]",
+        "url": "https://open.spotify.com/album/4r5Y05sv2a63SQizB3hgan"
       },
       "artists": [
         {
           "name": "Talking Heads",
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        },
+        {
+          "name": "Arthur Russell",
+          "url": "https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj"
         }
       ],
-      "duration_ms": 189266,
-      "name": "New Feeling",
-      "url": "https://open.spotify.com/track/4FrDdv5Hnsg93UuYKqvX3R"
+      "duration_ms": 257685,
+      "name": "Psycho Killer (Acoustic Version) [feat. Arthur Russell] - 2024 Remaster",
+      "url": "https://open.spotify.com/track/6KrIQLaIYptiYdB9GwAlpv"
     },
     {
       "added_at": null,
@@ -516,29 +520,25 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 180400,
-      "name": "Don't Worry About the Government",
-      "url": "https://open.spotify.com/track/7pAAeToDaCaFROvuu8pZ92"
+      "duration_ms": 189266,
+      "name": "New Feeling",
+      "url": "https://open.spotify.com/track/4FrDdv5Hnsg93UuYKqvX3R"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Psycho Killer (The Cube Guys Remix)",
-        "url": "https://open.spotify.com/album/10L4h7qD5ddFWr47SjTu3i"
+        "name": "The Best of Talking Heads",
+        "url": "https://open.spotify.com/album/1UIoS9WbxcNNmvUGkWlfzU"
       },
       "artists": [
         {
           "name": "Talking Heads",
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        },
-        {
-          "name": "The Cube Guys",
-          "url": "https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg"
         }
       ],
-      "duration_ms": 181693,
-      "name": "Psycho Killer - The Cube Guys Remix Radio Edit",
-      "url": "https://open.spotify.com/track/190TqRrcEJsodhL7MukpEF"
+      "duration_ms": 178000,
+      "name": "Love \u2192 Building on Fire - 2004 Remaster",
+      "url": "https://open.spotify.com/track/6io3AG4PaHu5Ksx41r4zHw"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best of Talking Heads",
-        "url": "https://open.spotify.com/album/1UIoS9WbxcNNmvUGkWlfzU"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Love \u2192 Building on Fire - 2004 Remaster",
-      "url": "https://open.spotify.com/track/6io3AG4PaHu5Ksx41r4zHw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Talking Heads '77",
         "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
       },
@@ -600,9 +584,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 250066,
-      "name": "The Book I Read",
-      "url": "https://open.spotify.com/track/4OT7Ndu29Z7JfhwRS2iCJX"
+      "duration_ms": 180400,
+      "name": "Don't Worry About the Government",
+      "url": "https://open.spotify.com/track/7pAAeToDaCaFROvuu8pZ92"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fear of Music (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 188973,
+      "name": "I Zimbra - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stop Making Sense (Live)",
         "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
@@ -639,6 +639,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Talking Heads '77",
+        "url": "https://open.spotify.com/album/0r7o2FeARRr23EZ0TJ0a8S"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 250066,
+      "name": "The Book I Read",
+      "url": "https://open.spotify.com/track/4OT7Ndu29Z7JfhwRS2iCJX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Creatures",
+        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 267333,
+      "name": "Perfect World - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6e7IrptCjEXaRcKrVaEgO1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fear of Music (Deluxe Version)",
         "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
       },
@@ -648,9 +680,25 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 188973,
-      "name": "I Zimbra - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D"
+      "duration_ms": 252040,
+      "name": "Mind - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5VMTSLp2WX3dsnsVWiVGB7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Songs About Buildings and Food",
+        "url": "https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 183760,
+      "name": "The Good Thing",
+      "url": "https://open.spotify.com/track/0DO7AUeYAx9oUG7gyrbdTD"
     },
     {
       "added_at": null,
@@ -680,25 +728,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 267333,
-      "name": "Perfect World - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6e7IrptCjEXaRcKrVaEgO1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Songs About Buildings and Food",
-        "url": "https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 183760,
-      "name": "The Good Thing",
-      "url": "https://open.spotify.com/track/0DO7AUeYAx9oUG7gyrbdTD"
+      "duration_ms": 255800,
+      "name": "Creatures of Love - 2005 Remaster",
+      "url": "https://open.spotify.com/track/3FaH21ikbgUKt21GMqC5DI"
     },
     {
       "added_at": null,
@@ -712,41 +744,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 252040,
-      "name": "Mind - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5VMTSLp2WX3dsnsVWiVGB7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fear of Music",
-        "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 159426,
-      "name": "Paper",
-      "url": "https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Little Creatures",
-        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Creatures of Love - 2005 Remaster",
-      "url": "https://open.spotify.com/track/3FaH21ikbgUKt21GMqC5DI"
+      "duration_ms": 210013,
+      "name": "Memories Can't Wait - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4Gw9ACmKi3O2vP8UwJqF0M"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear of Music (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+        "name": "Fear of Music",
+        "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 210013,
-      "name": "Memories Can't Wait - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4Gw9ACmKi3O2vP8UwJqF0M"
+      "duration_ms": 159426,
+      "name": "Paper",
+      "url": "https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U"
     },
     {
       "added_at": null,

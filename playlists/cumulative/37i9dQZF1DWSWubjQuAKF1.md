@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: metro
 
-668 songs - 1 day 8 hr 37 min
+669 songs - 1 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,7 @@
 | [Movie Scene](https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Movie Scene](https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J) | 3:00 | 2025-02-20 | 2025-04-18 |
 | [my](https://open.spotify.com/track/19dHt2hh8aaWNCDC3ReLZY) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [my](https://open.spotify.com/album/19GsnIluYB9d42QHswzfej) | 3:36 | 2024-07-11 | 2024-11-08 |
 | [Myślę o Tobie przed snem](https://open.spotify.com/track/3rOeJECNSOOU8LZCXhyu0X) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Myślę o Tobie przed snem](https://open.spotify.com/album/6Hkegvu8DbNmV8KfVkZsbd) | 2:52 | 2024-10-18 | 2025-01-24 |
-| [Mów mi tak](https://open.spotify.com/track/2cZTeWBBqX1hjVquW7Vxio) | [Blu](https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K) | [Mów mi tak](https://open.spotify.com/album/5sKcjO9l9MrrNtwXkx3zJu) | 2:37 | 2025-09-30 |  |
+| [Mów mi tak](https://open.spotify.com/track/2cZTeWBBqX1hjVquW7Vxio) | [Blu](https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K) | [Mów mi tak](https://open.spotify.com/album/5sKcjO9l9MrrNtwXkx3zJu) | 2:37 | 2025-09-30 | 2025-12-08 |
 | [Na chwilę](https://open.spotify.com/track/2cqTnKnKnYKeS91hpSI2d4) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Na chwilę](https://open.spotify.com/album/2GaFjPRnUXkjFSVfKDy3uI) | 2:30 | 2025-07-17 | 2025-09-17 |
 | [Na części pierwsze](https://open.spotify.com/track/3B63eSVNQC2AOYjWR5vWwV) | [Mateusz Gędek](https://open.spotify.com/artist/1cfpfsSRiNBDnteA7s1hQD) | [PO FAKCIE](https://open.spotify.com/album/4JecW1pAXfshamrTxIvlv6) | 3:06 | 2025-05-08 | 2025-09-17 |
 | [Na dno](https://open.spotify.com/track/7dnUcwrc4eZkAAHfU4DxRS) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Na dno](https://open.spotify.com/album/78fK0P2m4ktGeSPSbSX9bs) | 3:40 | 2025-08-26 |  |
@@ -641,6 +641,7 @@
 | [Your Villain](https://open.spotify.com/track/4wVC94cEh7rER1zuzFeOsx) | [Molly Millington](https://open.spotify.com/artist/52GBEgAVGUOB8bXQQ4s9aF) | [Your Villain](https://open.spotify.com/album/6tOuaYl7fi4PzgCq5ehTaJ) | 2:45 | 2025-07-10 | 2025-08-20 |
 | [Za daleko](https://open.spotify.com/track/09y1MRKKZngQBDAwL7oOSJ) | [Klaudia Kowalik](https://open.spotify.com/artist/48xj6VTZJbWGgs2Pt1Slkj) | [Za daleko](https://open.spotify.com/album/4anrcjnwoyQWD8zh6Lhh1x) | 3:21 | 2024-09-06 | 2025-01-17 |
 | [Za długo](https://open.spotify.com/track/7At9ZJ0GOf2yuOp5HUOU4q) | [Paulina Mikuła](https://open.spotify.com/artist/5O09f7lRMXJMUMAdzrepht) | [Za długo](https://open.spotify.com/album/4WoYlU65QF1PxwD4Rykoin) | 3:37 | 2025-07-17 |  |
+| [Za kulisami](https://open.spotify.com/track/1tlywl3igNTLsJGdZ1pTJf) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [Umiem kochać Cię tak całkiem na poważnie](https://open.spotify.com/album/3hSt7QkmnsUPgl8zkr9Pom) | 2:41 | 2025-12-05 |  |
 | [Za późno](https://open.spotify.com/track/1Y2dOi6L9PGNzRTbX9HYtB) | [Ola Kędra](https://open.spotify.com/artist/50siyyCfKQBFMSprzxxS15) | [Za późno](https://open.spotify.com/album/17EBVVMzPBjUBBVj2KoX3T) | 2:53 | 2025-02-20 | 2025-06-29 |
 | [Zabawy Sercem](https://open.spotify.com/track/7ivio4VD40tDP5UsiGNnOJ) | [Maja Krzyżewska](https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL) | [Zabawy Sercem](https://open.spotify.com/album/2Ibp0DGPnQfUmvTmpd1hsm) | 2:36 | 2024-06-28 | 2024-08-23 |
 | [zabierz mnie nad morze](https://open.spotify.com/track/7F2Gq8jGLgZen4XgLCKWaP) | [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [zabierz mnie nad morze](https://open.spotify.com/album/59UiYzMBzRGieC5egH19Ck) | 2:51 | 2024-06-28 | 2024-09-20 |

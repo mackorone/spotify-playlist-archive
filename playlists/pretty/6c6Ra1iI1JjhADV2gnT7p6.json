@@ -1,13 +1,29 @@
 {
   "description": "A weekly rotation of indie, dreampop and lofi vibes. Updated every week, save your favorites \ud83d\udc9c",
-  "num_followers": 59526,
+  "num_followers": 59531,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAApwMCO57XKnoUvTOdkf8Dv4asumSVp",
+  "snapshot_id": "AAApwUNKON6rIU1llvvPFDbKobgJCZeR",
   "tracks": [
+    {
+      "added_at": "2025-11-30 12:06:44",
+      "album": {
+        "name": "Nobody's Bored Anymore",
+        "url": "https://open.spotify.com/album/4BHGL7XcEm50Vey9sEl14H"
+      },
+      "artists": [
+        {
+          "name": "Peter The Human Boy",
+          "url": "https://open.spotify.com/artist/45nVGQ6yYctA4eKMTj5YPw"
+        }
+      ],
+      "duration_ms": 234575,
+      "name": "Nobody's Bored Anymore",
+      "url": "https://open.spotify.com/track/5JWrcgIzEcbTfgckcsoDzt"
+    },
     {
       "added_at": "2025-11-30 12:06:44",
       "album": {
@@ -39,22 +55,6 @@
       "duration_ms": 237676,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4qwSHwCU31Of1Bs6vYeMCr"
-    },
-    {
-      "added_at": "2025-11-30 12:06:44",
-      "album": {
-        "name": "Nobody's Bored Anymore",
-        "url": "https://open.spotify.com/album/4BHGL7XcEm50Vey9sEl14H"
-      },
-      "artists": [
-        {
-          "name": "Peter The Human Boy",
-          "url": "https://open.spotify.com/artist/45nVGQ6yYctA4eKMTj5YPw"
-        }
-      ],
-      "duration_ms": 234575,
-      "name": "Nobody's Bored Anymore",
-      "url": "https://open.spotify.com/track/5JWrcgIzEcbTfgckcsoDzt"
     },
     {
       "added_at": "2025-11-30 12:06:44",

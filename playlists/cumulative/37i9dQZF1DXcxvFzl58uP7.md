@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Men I Trust
 
-1,012 songs - 2 day 4 hr 31 min
+1,013 songs - 2 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -815,6 +815,7 @@
 | [Spin](https://open.spotify.com/track/4dkszdiuRSiCj34twbJfT8) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Spin](https://open.spotify.com/album/1fj0ZE8UczqCmDhmBmS1kX) | 3:32 | 2022-04-29 | 2022-07-29 |
 | [Spinning](https://open.spotify.com/track/0R6pHybIu4aJA6gJEJgRbc) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Spinning](https://open.spotify.com/album/6dKyD7dQTcNnSYSoedettQ) | 3:08 | 2021-05-03 | 2021-08-22 |
 | [Spiracle](https://open.spotify.com/track/6k7HtWuprjQmulpo4OpieI) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [The Shark in Your Water](https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7) | 2:59 | 2022-06-14 | 2023-08-26 |
+| [Splinter](https://open.spotify.com/track/4iKfmaKGc59LZXQNK7nAgf) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Splinter](https://open.spotify.com/album/5xQJYeIxVY2xJngtdtGz11) | 2:47 | 2025-11-20 |  |
 | [Star Catcher](https://open.spotify.com/track/5gpMP9txiN63xsNlBWNBRX) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY), [Chester Watson](https://open.spotify.com/artist/1vmLIa1VRY38hZoar8AyYS) | [Angel Youth](https://open.spotify.com/album/3Zqe5icElI6gNEM9v3UpXN) | 3:19 | 2019-07-31 | 2021-05-27 |
 | [Start The Show](https://open.spotify.com/track/6F9S6CMJZU8utXfjoV7vAX) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8), [Liltrxptendo](https://open.spotify.com/artist/3WFlOP0dm0rDBwjiMNbfsP) | [The Fluke](https://open.spotify.com/album/0MgeachBtgPXXt00RWv5Yd) | 3:08 | 2021-02-28 | 2021-05-27 |
 | [Still Beating](https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR) | 3:01 | 2019-07-30\* | 2022-07-29 |
@@ -864,7 +865,7 @@
 | [Tapioca Cheeks](https://open.spotify.com/track/7EMcNr05ag5jaDsDggc0MM) | [Banoffee](https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A) | [Tapioca Cheeks](https://open.spotify.com/album/4mGejbMP3AOGXEfavrv0su) | 3:07 | 2021-11-19 | 2022-04-20 |
 | [tdbn](https://open.spotify.com/track/3fLmwbhdw0dgBYYSTvT3v5) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/6bdoqQybs5gW8m92VMwVPJ) | 3:19 | 2021-04-29 | 2021-05-28 |
 | [Teeth](https://open.spotify.com/track/4xgXivGYKauPmdv8YoBWbp) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Teeth](https://open.spotify.com/album/22La1ks9s5n2pNQgEhW0Xj) | 3:09 | 2022-03-04 | 2022-07-29 |
-| [TEETH](https://open.spotify.com/track/0d9cDvF8ndx6AoZcxSEWdU) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3) | [Fuji](https://open.spotify.com/album/0ezHtVNvhQlLsZgqm2Wrvj) | 2:07 | 2024-11-25 |  |
+| [TEETH](https://open.spotify.com/track/0d9cDvF8ndx6AoZcxSEWdU) | [Merges](https://open.spotify.com/artist/4kxopTxmOJYaWkOAbcB7x3) | [Fuji](https://open.spotify.com/album/0ezHtVNvhQlLsZgqm2Wrvj) | 2:07 | 2024-11-25 | 2025-12-08 |
 | [Telephone](https://open.spotify.com/track/6xJSVfI6xi51iJrbm9KjXb) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3), [Sonia Gadhia](https://open.spotify.com/artist/3bjxtDdZiByIKfHFEK96zB) | [Telephone](https://open.spotify.com/album/4cRS0UJnh5r0Mj96l70Twb) | 3:29 | 2019-08-02 | 2022-06-26 |
 | [tell me if u do?](https://open.spotify.com/track/6SXO5cq6fRTrz9KEjPVbhk) | [okayceci](https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P) | [tell me if u do?](https://open.spotify.com/album/4UTfnlpUUdcVkBcFsTyo5E) | 2:48 | 2021-10-29 | 2022-04-17 |
 | [Tell U](https://open.spotify.com/track/7HS1Y5Gzc99GhFA09SRuUM) | [Couch Prints](https://open.spotify.com/artist/19kbFuDgyFDHHOjKPaNTNi) | [Tell U](https://open.spotify.com/album/2Wg1Uo2sNibOAqvKHrXDQZ) | 4:15 | 2019-07-30\* | 2019-11-19 |

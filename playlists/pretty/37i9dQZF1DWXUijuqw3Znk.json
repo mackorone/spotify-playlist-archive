@@ -1,6 +1,6 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 117,
+  "num_followers": 119,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,34 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "Show Me The Money 9 Episode 3",
+        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
+      },
+      "artists": [
+        {
+          "name": "Layone",
+          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
+        },
+        {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "Mask On (Feat. Paloalto & Coogie) (Prod. CODE KUNST)",
+      "url": "https://open.spotify.com/track/0jbjJFQsatcRCswxTl9X7J"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/6p3oAwCl0uDTqxzTxDFMgb"
       },
@@ -927,34 +955,6 @@
       "duration_ms": 242970,
       "name": "My Side (feat. oceanfromtheblue, ASH ISLAND, BRADYSTREET, Wonstein)",
       "url": "https://open.spotify.com/track/0Xo1PD12y7qZ13S3UAENqN"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "Show Me The Money 9 Episode 3",
-        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
-      },
-      "artists": [
-        {
-          "name": "Layone",
-          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
-        },
-        {
-          "name": "CODE KUNST",
-          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
-        },
-        {
-          "name": "Paloalto",
-          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
-        },
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "Mask On (Feat. Paloalto & Coogie) (Prod. CODE KUNST)",
-      "url": "https://open.spotify.com/track/0jbjJFQsatcRCswxTl9X7J"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "PAID IN SEOUL",
-        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
-      },
-      "artists": [
-        {
-          "name": "DON MALIK",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        }
-      ],
-      "duration_ms": 121425,
-      "name": "Be a pro",
-      "url": "https://open.spotify.com/track/6dyW3iGX7qLP4fiejy6gWy"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "natural high",
         "url": "https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 140411,
       "name": "dreamin'",
       "url": "https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "PAID IN SEOUL",
+        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
+      },
+      "artists": [
+        {
+          "name": "DON MALIK",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "duration_ms": 121425,
+      "name": "Be a pro",
+      "url": "https://open.spotify.com/track/6dyW3iGX7qLP4fiejy6gWy"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1767,38 +1767,18 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "It's Your Turn (Feat. Futuristic Swaver)",
-        "url": "https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt"
+        "name": "BREATHE",
+        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
       },
       "artists": [
         {
-          "name": "JAEHA",
-          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
-        },
-        {
-          "name": "Futuristic Swaver",
-          "url": "https://open.spotify.com/artist/1IoxcWz8vPDGOJBQNCGEvF"
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
         }
       ],
-      "duration_ms": 193174,
-      "name": "It's Your Turn (Feat. Futuristic Swaver)",
-      "url": "https://open.spotify.com/track/37gsND37Afaqykeo0forwU"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV"
-      },
-      "artists": [
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        }
-      ],
-      "duration_ms": 199456,
-      "name": "Hiphop Lover",
-      "url": "https://open.spotify.com/track/7hV1vaZ28WhjzfaMHUvKju"
+      "duration_ms": 188232,
+      "name": "FEELING",
+      "url": "https://open.spotify.com/track/2G0mGZLZs5R82BED7hwCEV"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1819,18 +1799,38 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "BREATHE",
-        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV"
       },
       "artists": [
         {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
         }
       ],
-      "duration_ms": 188232,
-      "name": "FEELING",
-      "url": "https://open.spotify.com/track/2G0mGZLZs5R82BED7hwCEV"
+      "duration_ms": 199456,
+      "name": "Hiphop Lover",
+      "url": "https://open.spotify.com/track/7hV1vaZ28WhjzfaMHUvKju"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "It's Your Turn (Feat. Futuristic Swaver)",
+        "url": "https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt"
+      },
+      "artists": [
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        },
+        {
+          "name": "Futuristic Swaver",
+          "url": "https://open.spotify.com/artist/1IoxcWz8vPDGOJBQNCGEvF"
+        }
+      ],
+      "duration_ms": 193174,
+      "name": "It's Your Turn (Feat. Futuristic Swaver)",
+      "url": "https://open.spotify.com/track/37gsND37Afaqykeo0forwU"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1851,22 +1851,6 @@
       "duration_ms": 222232,
       "name": "Look What I Did (Feat. The Quiett)",
       "url": "https://open.spotify.com/track/3XfRuy2gF1hU0KHzlcgilo"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/2GQ0hzRmV4NZ3GF4KFGnBX"
-      },
-      "artists": [
-        {
-          "name": "JAEHA",
-          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
-        }
-      ],
-      "duration_ms": 161557,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/7A9AhTLKa87hQcFhS4jb7P"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1923,6 +1907,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/2GQ0hzRmV4NZ3GF4KFGnBX"
+      },
+      "artists": [
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        }
+      ],
+      "duration_ms": 161557,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/7A9AhTLKa87hQcFhS4jb7P"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "END OF PUBERTY",
         "url": "https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj"
       },
@@ -1935,30 +1935,6 @@
       "duration_ms": 203693,
       "name": "APOLOGY",
       "url": "https://open.spotify.com/track/1G2XUrrMjf9DNuFWMBMpPA"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "unorthodox",
-        "url": "https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd"
-      },
-      "artists": [
-        {
-          "name": "Devine Channel",
-          "url": "https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw"
-        },
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        },
-        {
-          "name": "Roh Yun Ha",
-          "url": "https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy"
-        }
-      ],
-      "duration_ms": 244186,
-      "name": "Naked (Feat. SINCE, Roh Yun Ha)",
-      "url": "https://open.spotify.com/track/20SnjTFsnEWVYtqUEB7EYx"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1991,6 +1967,30 @@
       "duration_ms": 207097,
       "name": "Green Ideology",
       "url": "https://open.spotify.com/track/2TEZ1dTfRIgsWYWOa3Ibf8"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "unorthodox",
+        "url": "https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd"
+      },
+      "artists": [
+        {
+          "name": "Devine Channel",
+          "url": "https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw"
+        },
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        },
+        {
+          "name": "Roh Yun Ha",
+          "url": "https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy"
+        }
+      ],
+      "duration_ms": 244186,
+      "name": "Naked (Feat. SINCE, Roh Yun Ha)",
+      "url": "https://open.spotify.com/track/20SnjTFsnEWVYtqUEB7EYx"
     },
     {
       "added_at": "2025-11-10 09:53:18",

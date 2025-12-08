@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 107655,
+  "num_followers": 107665,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTIggAAAAABpd4i9gPxDb6VqbYbiNMaN",
+  "snapshot_id": "aTNyAAAAAACBc/ob5lMrnQJOtxArPBcS",
   "tracks": [
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Hazes 100",
+        "url": "https://open.spotify.com/album/06eur57GeYWvei9L0hlduF"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 264146,
+      "name": "Zo Heb Ik Het Nooit Bedoeld",
+      "url": "https://open.spotify.com/track/1xDJChqZ4KB7aWFBrOvfLT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sorry (Holland Zingt Hazes)",
         "url": "https://open.spotify.com/album/1FsuMZG5aE2KXOyN1MNIcu"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 220879,
       "name": "Sorry - Holland Zingt Hazes",
       "url": "https://open.spotify.com/track/3xLUNiJfFVfD9GEop7w8TW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Hazes 100",
-        "url": "https://open.spotify.com/album/06eur57GeYWvei9L0hlduF"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 264146,
-      "name": "Zo Heb Ik Het Nooit Bedoeld",
-      "url": "https://open.spotify.com/track/1xDJChqZ4KB7aWFBrOvfLT"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Innamorato",
-        "url": "https://open.spotify.com/album/7nNeE8tvYt6Ut7PrxYVwAD"
+        "name": "Op De Schoorsteen Staat Een Foto",
+        "url": "https://open.spotify.com/album/0Nk4GNiqWreg8WsiAqO3xF"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 220093,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/4QEPyEkLKDiqlhiLaeCUFI"
+      "duration_ms": 190853,
+      "name": "Op De Schoorsteen Staat Een Foto",
+      "url": "https://open.spotify.com/track/5ewmVlEnJYVa0iNGQ522vn"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Op De Schoorsteen Staat Een Foto",
-        "url": "https://open.spotify.com/album/0Nk4GNiqWreg8WsiAqO3xF"
+        "name": "Innamorato",
+        "url": "https://open.spotify.com/album/7nNeE8tvYt6Ut7PrxYVwAD"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 190853,
-      "name": "Op De Schoorsteen Staat Een Foto",
-      "url": "https://open.spotify.com/track/5ewmVlEnJYVa0iNGQ522vn"
+      "duration_ms": 220093,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/4QEPyEkLKDiqlhiLaeCUFI"
     },
     {
       "added_at": null,

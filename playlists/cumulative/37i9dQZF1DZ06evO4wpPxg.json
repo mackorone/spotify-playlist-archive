@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-23",
+      "date_removed": null,
       "duration_ms": 216533,
       "name": "Bad Company Brought Me Here",
       "url": "https://open.spotify.com/track/23pc5z695dfH4exrOdpIDp"
@@ -2104,7 +2104,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-21",
+      "date_removed": null,
       "duration_ms": 180560,
       "name": "I Saw The Light",
       "url": "https://open.spotify.com/track/71NqbkntAkVQVQ1tWKRuFT"
@@ -2183,6 +2183,24 @@
     },
     {
       "album": {
+        "name": "The Finest Southern Blues",
+        "url": "https://open.spotify.com/album/3jQGq3lUuNk3wR5qPADQN4"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222173,
+      "name": "I Won't Be Back No More - Live",
+      "url": "https://open.spotify.com/track/3vjjTQ4AafGyvrg4swVTma"
+    },
+    {
+      "album": {
         "name": "At Newport",
         "url": "https://open.spotify.com/album/0hzGNlXzRtBOgcDaaricsc"
       },
@@ -2194,7 +2212,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 222173,
       "name": "I Won't Be Back No More - Live At The Newport Folk Festival 1959 - 1964",
       "url": "https://open.spotify.com/track/2m8xe2l7ZV7KJuYO5EMaj8"
@@ -2716,7 +2734,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 208133,
       "name": "Jesus Is Everywhere",
       "url": "https://open.spotify.com/track/5s3G7vg9fn00WXquapA6OF"
@@ -3310,7 +3328,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 274800,
       "name": "Lovin' Spoonful",
       "url": "https://open.spotify.com/track/0ip6BefXd5LbaNsSwTLRZj"
@@ -3544,7 +3562,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 286666,
       "name": "Moon Goes Down",
       "url": "https://open.spotify.com/track/1YztbRfyrwv1o07T4dnCwp"
@@ -3634,7 +3652,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 128560,
       "name": "My Heart is Fixed",
       "url": "https://open.spotify.com/track/5wi4Jf8NkHH77X1Wla5UiT"
@@ -3670,7 +3688,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 218933,
       "name": "No One Can Do Me Like Jesus",
       "url": "https://open.spotify.com/track/1xpURbfnpOACV0IT7Ydgqy"
@@ -5380,7 +5398,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 193666,
       "name": "There's A Bright Side Somewhere",
       "url": "https://open.spotify.com/track/3BsgSIICiGyLR3niypMiOt"

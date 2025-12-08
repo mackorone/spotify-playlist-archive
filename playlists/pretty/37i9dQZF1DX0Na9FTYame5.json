@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: PA Sports, Kauta",
-  "num_followers": 579556,
+  "num_followers": 579540,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -191,42 +191,6 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
-        "name": "21 Gramm",
-        "url": "https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        }
-      ],
-      "duration_ms": 181778,
-      "name": "Ein Lied f\u00fcr dich",
-      "url": "https://open.spotify.com/track/3awCCyQfwNbQdf3lL5EL7C"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
-        "name": "Sch\u00f6n, dass du da warst",
-        "url": "https://open.spotify.com/album/2CvzWoK3kqqymwMHNL6A30"
-      },
-      "artists": [
-        {
-          "name": "Chapo102",
-          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
-        },
-        {
-          "name": "102 Boyz",
-          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
-        }
-      ],
-      "duration_ms": 167847,
-      "name": "Sch\u00f6n, dass du da warst",
-      "url": "https://open.spotify.com/track/4VeJoK6YHCecZTsJS1clMq"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
         "name": "Geboren um zu leben",
         "url": "https://open.spotify.com/album/4ouPGR0UfyUeDqb56e4ray"
       },
@@ -243,6 +207,22 @@
       "duration_ms": 168727,
       "name": "Geboren um zu leben",
       "url": "https://open.spotify.com/track/0KHSvFopZcVxNuAB7oQPDv"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
+        "name": "21 Gramm",
+        "url": "https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "duration_ms": 181778,
+      "name": "Ein Lied f\u00fcr dich",
+      "url": "https://open.spotify.com/track/3awCCyQfwNbQdf3lL5EL7C"
     },
     {
       "added_at": "2025-11-27 23:00:11",
@@ -267,6 +247,26 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
+        "name": "Sch\u00f6n, dass du da warst",
+        "url": "https://open.spotify.com/album/2CvzWoK3kqqymwMHNL6A30"
+      },
+      "artists": [
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
+        }
+      ],
+      "duration_ms": 167847,
+      "name": "Sch\u00f6n, dass du da warst",
+      "url": "https://open.spotify.com/track/4VeJoK6YHCecZTsJS1clMq"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/63mqkFwL6GiyvqXAweVeHT"
       },
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
-        "name": "Simpel",
-        "url": "https://open.spotify.com/album/6wDfuAJ9aaOhaATIhnsQpL"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        }
-      ],
-      "duration_ms": 163306,
-      "name": "Simpel",
-      "url": "https://open.spotify.com/track/1pE1hkxS5CWxcSgayoBXK8"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
         "name": "pass auf mein herz auf",
         "url": "https://open.spotify.com/album/1Cyp8PDZmddPo100wHR09j"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 156143,
       "name": "mit dir ist es anders",
       "url": "https://open.spotify.com/track/5pYwlWa3wwKlTEyt4jvWvS"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
+        "name": "Simpel",
+        "url": "https://open.spotify.com/album/6wDfuAJ9aaOhaATIhnsQpL"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "duration_ms": 163306,
+      "name": "Simpel",
+      "url": "https://open.spotify.com/track/1pE1hkxS5CWxcSgayoBXK8"
     },
     {
       "added_at": "2025-11-27 23:00:11",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
-        "name": "CATCH ME IF YOU CAN",
-        "url": "https://open.spotify.com/album/0wqQ5avF8r5DKkQKSYb5bm"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "Visionen",
-      "url": "https://open.spotify.com/track/4LZdzSQTP4TvK9B5Boag2G"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
         "name": "Ich lieb mich, ich lieb mich nicht",
         "url": "https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf"
       },
@@ -439,18 +423,18 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
-        "name": "Augen tr\u00e4umen Herzen sehen",
-        "url": "https://open.spotify.com/album/1ARwY4w7bNbAcVL2ngxk2l"
+        "name": "CATCH ME IF YOU CAN",
+        "url": "https://open.spotify.com/album/0wqQ5avF8r5DKkQKSYb5bm"
       },
       "artists": [
         {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
         }
       ],
-      "duration_ms": 177254,
-      "name": "Das Gl\u00fcck",
-      "url": "https://open.spotify.com/track/3uLOR8AtwJR8yy9sRXqD78"
+      "duration_ms": 202800,
+      "name": "Visionen",
+      "url": "https://open.spotify.com/track/4LZdzSQTP4TvK9B5Boag2G"
     },
     {
       "added_at": "2025-11-27 23:00:11",
@@ -495,6 +479,22 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
+        "name": "Augen tr\u00e4umen Herzen sehen",
+        "url": "https://open.spotify.com/album/1ARwY4w7bNbAcVL2ngxk2l"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "duration_ms": 177254,
+      "name": "Das Gl\u00fcck",
+      "url": "https://open.spotify.com/track/3uLOR8AtwJR8yy9sRXqD78"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
         "name": "K\u00f6nig ohne Krone",
         "url": "https://open.spotify.com/album/7hJsFyludKH0zSJ8vCEM2t"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 159724,
       "name": "Beende mich",
       "url": "https://open.spotify.com/track/6mADkpiLqKtVzjQzenXhS4"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
-        "name": "SOBER",
-        "url": "https://open.spotify.com/album/0nn8m4ddH5tpuGjeKJC5Df"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "SOBER",
-      "url": "https://open.spotify.com/track/4DS7x1IsUr58dfiahx3O7B"
     },
     {
       "added_at": "2025-11-27 23:00:11",
@@ -551,6 +535,22 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
+        "name": "SOBER",
+        "url": "https://open.spotify.com/album/0nn8m4ddH5tpuGjeKJC5Df"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "SOBER",
+      "url": "https://open.spotify.com/track/4DS7x1IsUr58dfiahx3O7B"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
         "name": "Keine Homies",
         "url": "https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
-        "name": "GETRENNTE SOMMERNACHT",
-        "url": "https://open.spotify.com/album/2lM8bDgDSMbLeUaMGT1Rrl"
-      },
-      "artists": [
-        {
-          "name": "OMAR",
-          "url": "https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3"
-        }
-      ],
-      "duration_ms": 161642,
-      "name": "GETRENNTE SOMMERNACHT",
-      "url": "https://open.spotify.com/track/1TRFYbhEcFndwa9b9zdrSh"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
         "name": "Loser",
         "url": "https://open.spotify.com/album/4q6XOYZLyDrLOexWA8wEWu"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 216201,
       "name": "Loser",
       "url": "https://open.spotify.com/track/5f3DCz8dOQdTLxzh8QQuvV"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
+        "name": "GETRENNTE SOMMERNACHT",
+        "url": "https://open.spotify.com/album/2lM8bDgDSMbLeUaMGT1Rrl"
+      },
+      "artists": [
+        {
+          "name": "OMAR",
+          "url": "https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3"
+        }
+      ],
+      "duration_ms": 161642,
+      "name": "GETRENNTE SOMMERNACHT",
+      "url": "https://open.spotify.com/track/1TRFYbhEcFndwa9b9zdrSh"
     },
     {
       "added_at": "2025-11-27 23:00:11",
@@ -759,6 +759,26 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "Passion (feat. Paula Hartmann)",
+      "url": "https://open.spotify.com/track/0npHflJzLWZ6svbq5Abnfo"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
         "name": "orange (Deluxe Version)",
         "url": "https://open.spotify.com/album/3FbK9vwNoNAQttEOQFWpZZ"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 141230,
       "name": "Baltimore (feat. Trettmann)",
       "url": "https://open.spotify.com/track/1lvlYhCmRTUZc8oad9sflb"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
-        "name": "Majestic",
-        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
-      },
-      "artists": [
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        },
-        {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
-        }
-      ],
-      "duration_ms": 160226,
-      "name": "Passion (feat. Paula Hartmann)",
-      "url": "https://open.spotify.com/track/0npHflJzLWZ6svbq5Abnfo"
     },
     {
       "added_at": "2025-11-27 23:00:11",
@@ -851,22 +851,6 @@
       "duration_ms": 142502,
       "name": "Dieses eine Lied",
       "url": "https://open.spotify.com/track/4eqjuxCylVKJykllp83972"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
-        "name": "Meilen",
-        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
-      },
-      "artists": [
-        {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
-        }
-      ],
-      "duration_ms": 139920,
-      "name": "Meilen",
-      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
     },
     {
       "added_at": "2025-11-27 23:00:11",
@@ -927,6 +911,22 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
+        "name": "Meilen",
+        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "duration_ms": 139920,
+      "name": "Meilen",
+      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
         "name": "Gesegnet",
         "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
       },
@@ -959,22 +959,6 @@
       "duration_ms": 129705,
       "name": "L\u00e4cheln (Wenn ich wein)",
       "url": "https://open.spotify.com/track/6og1RW6aAL3yvikwDZry2s"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
-        "name": "Lifestyle",
-        "url": "https://open.spotify.com/album/2g3gtj9Zs0c7NV6XQTJpnO"
-      },
-      "artists": [
-        {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
-        }
-      ],
-      "duration_ms": 196453,
-      "name": "Lifestyle",
-      "url": "https://open.spotify.com/track/7IMWZb1BzYwsekwpdWU4BC"
     },
     {
       "added_at": "2025-11-27 23:00:11",
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
+        "name": "Lifestyle",
+        "url": "https://open.spotify.com/album/2g3gtj9Zs0c7NV6XQTJpnO"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "duration_ms": 196453,
+      "name": "Lifestyle",
+      "url": "https://open.spotify.com/track/7IMWZb1BzYwsekwpdWU4BC"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
         "name": "Gesegnet",
         "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
       },
@@ -1071,90 +1071,18 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
-        "name": "Frieden",
-        "url": "https://open.spotify.com/album/6KChMYkGsRpK2xmq24Eiut"
-      },
-      "artists": [
-        {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
-        }
-      ],
-      "duration_ms": 217800,
-      "name": "Frieden",
-      "url": "https://open.spotify.com/track/2O8k1wqMQ0HlfYUO8c4HQR"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
-        "name": "Song 4 ft Ansu",
-        "url": "https://open.spotify.com/album/7fu1RpJ4xkrAaKQs3BX0mI"
-      },
-      "artists": [
-        {
-          "name": "$OHO BANI",
-          "url": "https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf"
-        },
-        {
-          "name": "Ansu",
-          "url": "https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS"
-        }
-      ],
-      "duration_ms": 175370,
-      "name": "Song 4 ft Ansu",
-      "url": "https://open.spotify.com/track/2u9aJAojnjrhQfMtyjDv7v"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
-        "name": "wie du manchmal fehlst",
-        "url": "https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As"
-      },
-      "artists": [
-        {
-          "name": "Zartmann",
-          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
-        },
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        },
-        {
-          "name": "Dauner",
-          "url": "https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb"
-        }
-      ],
-      "duration_ms": 131773,
-      "name": "wie du manchmal fehlst",
-      "url": "https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
-        "name": "Ich liebe.... (feat. MAJAN)",
-        "url": "https://open.spotify.com/album/6AjZsOYjpu97IWWLJrXOzj"
+        "name": "EIN TEIL VON MIR",
+        "url": "https://open.spotify.com/album/04NdFbXkgiLxxemKACJIHd"
       },
       "artists": [
         {
           "name": "badchieff",
           "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
-        },
-        {
-          "name": "Edo Saiya",
-          "url": "https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F"
-        },
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        },
-        {
-          "name": "MAJAN",
-          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
         }
       ],
-      "duration_ms": 237250,
-      "name": "Ich liebe.... (feat. MAJAN)",
-      "url": "https://open.spotify.com/track/3ki3YXx0OtIjOZ0Plcj6KW"
+      "duration_ms": 165960,
+      "name": "EIN TEIL VON MIR",
+      "url": "https://open.spotify.com/track/0JtDPZDAIEIZbE1y7aSjTB"
     },
     {
       "added_at": "2025-11-27 23:00:11",
@@ -1187,18 +1115,46 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
-        "name": "21 Gramm",
-        "url": "https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK"
+        "name": "wie du manchmal fehlst",
+        "url": "https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As"
       },
       "artists": [
         {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Dauner",
+          "url": "https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb"
         }
       ],
-      "duration_ms": 190654,
-      "name": "Porsche 911",
-      "url": "https://open.spotify.com/track/1vP18y049pwS2OWUrvDjIE"
+      "duration_ms": 131773,
+      "name": "wie du manchmal fehlst",
+      "url": "https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
+        "name": "Song 4 ft Ansu",
+        "url": "https://open.spotify.com/album/7fu1RpJ4xkrAaKQs3BX0mI"
+      },
+      "artists": [
+        {
+          "name": "$OHO BANI",
+          "url": "https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf"
+        },
+        {
+          "name": "Ansu",
+          "url": "https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS"
+        }
+      ],
+      "duration_ms": 175370,
+      "name": "Song 4 ft Ansu",
+      "url": "https://open.spotify.com/track/2u9aJAojnjrhQfMtyjDv7v"
     },
     {
       "added_at": "2025-11-27 23:00:11",
@@ -1243,6 +1199,38 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
+        "name": "21 Gramm",
+        "url": "https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "duration_ms": 190654,
+      "name": "Porsche 911",
+      "url": "https://open.spotify.com/track/1vP18y049pwS2OWUrvDjIE"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
+        "name": "Frieden",
+        "url": "https://open.spotify.com/album/6KChMYkGsRpK2xmq24Eiut"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "duration_ms": 217800,
+      "name": "Frieden",
+      "url": "https://open.spotify.com/track/2O8k1wqMQ0HlfYUO8c4HQR"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
         "name": "Mach die Augen auf",
         "url": "https://open.spotify.com/album/6LUAQItFCJarUpFHnzMjtH"
       },
@@ -1279,6 +1267,34 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
+        "name": "Ich liebe.... (feat. MAJAN)",
+        "url": "https://open.spotify.com/album/6AjZsOYjpu97IWWLJrXOzj"
+      },
+      "artists": [
+        {
+          "name": "badchieff",
+          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
+        },
+        {
+          "name": "Edo Saiya",
+          "url": "https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F"
+        },
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        },
+        {
+          "name": "MAJAN",
+          "url": "https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U"
+        }
+      ],
+      "duration_ms": 237250,
+      "name": "Ich liebe.... (feat. MAJAN)",
+      "url": "https://open.spotify.com/track/3ki3YXx0OtIjOZ0Plcj6KW"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
         "name": "Mein Type",
         "url": "https://open.spotify.com/album/7gOI3Tzkyi6cytldUFot2J"
       },
@@ -1311,6 +1327,22 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
+        "name": "Dunya",
+        "url": "https://open.spotify.com/album/3mezg6HiQGDdMHcRFylrDz"
+      },
+      "artists": [
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "duration_ms": 174745,
+      "name": "Dunya",
+      "url": "https://open.spotify.com/track/68xgjHBnky2pp6joybU9rO"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
         "name": "LASS MICH NICHT LOS",
         "url": "https://open.spotify.com/album/0ZfaOo0ihI1eNdOLpiDbDT"
       },
@@ -1327,18 +1359,18 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
-        "name": "EIN TEIL VON MIR",
-        "url": "https://open.spotify.com/album/04NdFbXkgiLxxemKACJIHd"
+        "name": "1995",
+        "url": "https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK"
       },
       "artists": [
         {
-          "name": "badchieff",
-          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
         }
       ],
-      "duration_ms": 165960,
-      "name": "EIN TEIL VON MIR",
-      "url": "https://open.spotify.com/track/0JtDPZDAIEIZbE1y7aSjTB"
+      "duration_ms": 166748,
+      "name": "1995",
+      "url": "https://open.spotify.com/track/4AdhQGPnOKrH0EJWXc2EEM"
     },
     {
       "added_at": "2025-11-27 23:00:11",
@@ -1359,38 +1391,6 @@
       "duration_ms": 114705,
       "name": "Garten vorm Haus",
       "url": "https://open.spotify.com/track/6NOtUjLWOJdXLqB08t62uI"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
-        "name": "Dunya",
-        "url": "https://open.spotify.com/album/3mezg6HiQGDdMHcRFylrDz"
-      },
-      "artists": [
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
-        }
-      ],
-      "duration_ms": 174745,
-      "name": "Dunya",
-      "url": "https://open.spotify.com/track/68xgjHBnky2pp6joybU9rO"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK"
-      },
-      "artists": [
-        {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        }
-      ],
-      "duration_ms": 166748,
-      "name": "1995",
-      "url": "https://open.spotify.com/track/4AdhQGPnOKrH0EJWXc2EEM"
     },
     {
       "added_at": "2025-11-27 23:00:11",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
-        "name": "Endorphine",
-        "url": "https://open.spotify.com/album/3GAHfpsReZrt8QYIeEtuE6"
-      },
-      "artists": [
-        {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
-        }
-      ],
-      "duration_ms": 128804,
-      "name": "Endorphine",
-      "url": "https://open.spotify.com/track/7enu8G9wzACrCOSsGrzXWA"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
         "name": "Ruf mich an",
         "url": "https://open.spotify.com/album/6TM3R2oTalQXhQ4PovMvhK"
       },
@@ -1511,22 +1495,6 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
-        "name": "Weisse Orchideen",
-        "url": "https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2"
-      },
-      "artists": [
-        {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        }
-      ],
-      "duration_ms": 177208,
-      "name": "Weisse Orchideen",
-      "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
         "name": "Chat GPT",
         "url": "https://open.spotify.com/album/7wzvLGAY31cAsIowxkhqkp"
       },
@@ -1543,6 +1511,22 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
+        "name": "Endorphine",
+        "url": "https://open.spotify.com/album/3GAHfpsReZrt8QYIeEtuE6"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "duration_ms": 128804,
+      "name": "Endorphine",
+      "url": "https://open.spotify.com/track/7enu8G9wzACrCOSsGrzXWA"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
         "name": "CUT",
         "url": "https://open.spotify.com/album/39wN3wYWAh5oxIsoqBauPe"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 151399,
       "name": "CUT",
       "url": "https://open.spotify.com/track/1s5qFD7akbvD7Urf8iAwqY"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
+        "name": "Weisse Orchideen",
+        "url": "https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "duration_ms": 177208,
+      "name": "Weisse Orchideen",
+      "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
     },
     {
       "added_at": "2025-11-27 23:00:11",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
-        "name": "Zwischenphase",
-        "url": "https://open.spotify.com/album/191TZlivZyXydwrNA3vl04"
-      },
-      "artists": [
-        {
-          "name": "Jonny Mahoro",
-          "url": "https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98"
-        }
-      ],
-      "duration_ms": 150217,
-      "name": "Zwischenphase",
-      "url": "https://open.spotify.com/track/5svicODBSeMb67wuBeqW5T"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
         "name": "Mit dir",
         "url": "https://open.spotify.com/album/6jHUlaT6ZIf8F1SMk7rf8V"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 153500,
       "name": "Mit dir",
       "url": "https://open.spotify.com/track/4yABFkdkOPeHMDsXMBcwra"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
+        "name": "Zwischenphase",
+        "url": "https://open.spotify.com/album/191TZlivZyXydwrNA3vl04"
+      },
+      "artists": [
+        {
+          "name": "Jonny Mahoro",
+          "url": "https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98"
+        }
+      ],
+      "duration_ms": 150217,
+      "name": "Zwischenphase",
+      "url": "https://open.spotify.com/track/5svicODBSeMb67wuBeqW5T"
     },
     {
       "added_at": "2025-11-27 23:00:11",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2025-11-27 23:00:11",
       "album": {
-        "name": "SANTOS",
-        "url": "https://open.spotify.com/album/340mhMLU57SVVGqZ9SMVUP"
-      },
-      "artists": [
-        {
-          "name": "SANTOS",
-          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
-        },
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        }
-      ],
-      "duration_ms": 124093,
-      "name": "Heartbreaks",
-      "url": "https://open.spotify.com/track/3NC8Zs1B4RZijkvFzXEMAa"
-    },
-    {
-      "added_at": "2025-11-27 23:00:11",
-      "album": {
         "name": "RED CUPS (feat. Paula Hartmann)",
         "url": "https://open.spotify.com/album/5w6vzpDKAOE0zEihBK6DYT"
       },
@@ -1843,6 +1823,26 @@
       "duration_ms": 150870,
       "name": "Ma Baby 2",
       "url": "https://open.spotify.com/track/5CFKi3p7VdAdaUa60gahNh"
+    },
+    {
+      "added_at": "2025-11-27 23:00:11",
+      "album": {
+        "name": "SANTOS",
+        "url": "https://open.spotify.com/album/340mhMLU57SVVGqZ9SMVUP"
+      },
+      "artists": [
+        {
+          "name": "SANTOS",
+          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
+        },
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "duration_ms": 124093,
+      "name": "Heartbreaks",
+      "url": "https://open.spotify.com/track/3NC8Zs1B4RZijkvFzXEMAa"
     }
   ],
   "unique_name": "Rap in deep",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Estelle Fly
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,115 likes - 97 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,114 likes - 97 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

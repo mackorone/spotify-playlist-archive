@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Dein Deutschpop\. Deine Welt\. Deine Playlist\. Cover: Ivo Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,765 likes - 91 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,694 likes - 91 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

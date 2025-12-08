@@ -1,12 +1,12 @@
 {
   "description": "This is BAYLI. The essential tracks, all in one playlist.",
-  "num_followers": 182,
+  "num_followers": 183,
   "original_name": "This Is BAYLI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTIggAAAAAAblD31vrYHk9FU5XDLQDzD",
+  "snapshot_id": "aTNyAAAAAACU9A5nr1Qwtf/CBwTLaEx/",
   "tracks": [
     {
       "added_at": null,
@@ -226,15 +226,11 @@
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        },
-        {
-          "name": "Kevin Aviance",
-          "url": "https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ"
         }
       ],
-      "duration_ms": 134968,
-      "name": "Gospel",
-      "url": "https://open.spotify.com/track/7JWK1ujyuUTJnPauiLYpzK"
+      "duration_ms": 121423,
+      "name": "SUGARCOAT",
+      "url": "https://open.spotify.com/track/0OUDA18X0UoB1VJRXZiI9Z"
     },
     {
       "added_at": null,
@@ -271,38 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 120400,
-      "name": "ur mine",
-      "url": "https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO RE-ENTRY",
-        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 121423,
-      "name": "SUGARCOAT",
-      "url": "https://open.spotify.com/track/0OUDA18X0UoB1VJRXZiI9Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "think of drugs",
         "url": "https://open.spotify.com/album/1hYQK0w6tzNVFnmKLGqdSF"
       },
@@ -315,6 +279,26 @@
       "duration_ms": 185365,
       "name": "think of drugs",
       "url": "https://open.spotify.com/track/79a2DNm20mkZ2OYIrNPIiH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO RE-ENTRY",
+        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        },
+        {
+          "name": "Kevin Aviance",
+          "url": "https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ"
+        }
+      ],
+      "duration_ms": 134968,
+      "name": "Gospel",
+      "url": "https://open.spotify.com/track/7JWK1ujyuUTJnPauiLYpzK"
     },
     {
       "added_at": null,
@@ -356,25 +340,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 142142,
-      "name": "into me",
-      "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO RE-ENTRY",
-        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 129264,
-      "name": "all of that",
-      "url": "https://open.spotify.com/track/1uX94wwKxWLmMZX3MIgiIg"
+      "duration_ms": 120400,
+      "name": "ur mine",
+      "url": "https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql"
     },
     {
       "added_at": null,
@@ -403,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NO RE-ENTRY",
+        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 129264,
+      "name": "all of that",
+      "url": "https://open.spotify.com/track/1uX94wwKxWLmMZX3MIgiIg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ethical Plum",
         "url": "https://open.spotify.com/album/1mue0bRSOvTGisXjsFGNAz"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 166929,
       "name": "Ethical Plum",
       "url": "https://open.spotify.com/track/6hsGhh9tQ5g3QteBK1n72Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 142142,
+      "name": "into me",
+      "url": "https://open.spotify.com/track/6kDJnfS1A7ZZTugc8JMkQt"
     },
     {
       "added_at": null,
@@ -619,6 +619,34 @@
       "duration_ms": 262928,
       "name": "Kissing Practise",
       "url": "https://open.spotify.com/track/0Fmj0CquXZqPHMpb8D8Ro7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fade on Back",
+        "url": "https://open.spotify.com/album/6QJiBMaU34dNLmiT9Qq7xH"
+      },
+      "artists": [
+        {
+          "name": "DAGR",
+          "url": "https://open.spotify.com/artist/6jDxyPx376PtDCCWzo7OJi"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        },
+        {
+          "name": "LYAM",
+          "url": "https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve"
+        },
+        {
+          "name": "Hanabii",
+          "url": "https://open.spotify.com/artist/50Zy4KYB0xQC80GNSJXN8m"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Mind Games",
+      "url": "https://open.spotify.com/track/62sJa0KNYdItPUkxyeRYzC"
     }
   ],
   "unique_name": "This Is BAYLI",

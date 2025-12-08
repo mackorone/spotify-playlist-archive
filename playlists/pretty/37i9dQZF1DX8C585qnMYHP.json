@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:2gSV6FsMxBBH01LLNgx6HU\">Babau</a> on cover. Artwork by Thami Nabil, photo by Stefania Zanetti",
-  "num_followers": 191968,
+  "num_followers": 191978,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "duration_ms": 192283,
+      "name": "Snapdragon",
+      "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
         "name": "Purity",
         "url": "https://open.spotify.com/album/0yD5XUsXIt11XZhTJH8xgG"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 82547,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/3B8ozK6655EMpVkiHtGMns"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
-      },
-      "artists": [
-        {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
-        }
-      ],
-      "duration_ms": 192283,
-      "name": "Snapdragon",
-      "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/7byI7mI77MAZYhuHyFt8Ag"
-      },
-      "artists": [
-        {
-          "name": "NTsKi",
-          "url": "https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9"
-        }
-      ],
-      "duration_ms": 255996,
-      "name": "K",
-      "url": "https://open.spotify.com/track/5YgBRARHa2TcMImdQ1eQI0"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Walks",
         "url": "https://open.spotify.com/album/1lvbdPNXbYZGyNmE4vu9xV"
       },
@@ -675,18 +659,18 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
-        "url": "https://open.spotify.com/album/6m01hmvzFV2dr8tZepEaD0"
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/7byI7mI77MAZYhuHyFt8Ag"
       },
       "artists": [
         {
-          "name": "moreru",
-          "url": "https://open.spotify.com/artist/6YbQDmSNnb9RxI3NMk4BN4"
+          "name": "NTsKi",
+          "url": "https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9"
         }
       ],
-      "duration_ms": 255154,
-      "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
-      "url": "https://open.spotify.com/track/2M3SZ8gwKEHwKCTvbHQ0fN"
+      "duration_ms": 255996,
+      "name": "K",
+      "url": "https://open.spotify.com/track/5YgBRARHa2TcMImdQ1eQI0"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -703,6 +687,22 @@
       "duration_ms": 273257,
       "name": "Maithuna",
       "url": "https://open.spotify.com/track/1B8nx9V9al92x816HiMTFC"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
+        "url": "https://open.spotify.com/album/6m01hmvzFV2dr8tZepEaD0"
+      },
+      "artists": [
+        {
+          "name": "moreru",
+          "url": "https://open.spotify.com/artist/6YbQDmSNnb9RxI3NMk4BN4"
+        }
+      ],
+      "duration_ms": 255154,
+      "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
+      "url": "https://open.spotify.com/track/2M3SZ8gwKEHwKCTvbHQ0fN"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Cosplayer (export per Guido)",
-        "url": "https://open.spotify.com/album/3vx7q5z7zSCyZt6ghyAYiO"
-      },
-      "artists": [
-        {
-          "name": "Mofw",
-          "url": "https://open.spotify.com/artist/0SEWdriPzbyDyT38BWWxiH"
-        }
-      ],
-      "duration_ms": 238652,
-      "name": "Cosplayer (export per Guido)",
-      "url": "https://open.spotify.com/track/0C0VnUtQ9OMDyp9pt1bZf3"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Blu",
         "url": "https://open.spotify.com/album/6XNMHgrmhvXaGiqRvoEjcp"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 221972,
       "name": "Blu",
       "url": "https://open.spotify.com/track/2djLnn2ySlFnrX6UBziUVC"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Cosplayer (export per Guido)",
+        "url": "https://open.spotify.com/album/3vx7q5z7zSCyZt6ghyAYiO"
+      },
+      "artists": [
+        {
+          "name": "Mofw",
+          "url": "https://open.spotify.com/artist/0SEWdriPzbyDyT38BWWxiH"
+        }
+      ],
+      "duration_ms": 238652,
+      "name": "Cosplayer (export per Guido)",
+      "url": "https://open.spotify.com/track/0C0VnUtQ9OMDyp9pt1bZf3"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -911,38 +911,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Corrosiv",
-        "url": "https://open.spotify.com/album/6AnnV6HvAH3UEaNrt5DP62"
-      },
-      "artists": [
-        {
-          "name": "Orchestroll",
-          "url": "https://open.spotify.com/artist/3fOsjG8YJ9MRntC4hcNybb"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Here Used To Be A Star",
-      "url": "https://open.spotify.com/track/2EKY34UonlN4JKcj2AfeWh"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/5RsTaOj3W65X1mAqlmcQYK"
-      },
-      "artists": [
-        {
-          "name": "Zola Blood",
-          "url": "https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ"
-        }
-      ],
-      "duration_ms": 243503,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/1L33G3aX9DHFQ7RonllbeA"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Summer Rain (Keep on Dancing Rework)",
         "url": "https://open.spotify.com/album/4LriIWQ4kyswqYNH54IPyW"
       },
@@ -955,6 +923,22 @@
       "duration_ms": 271701,
       "name": "Summer Rain - Keep on Dancing Rework",
       "url": "https://open.spotify.com/track/6RlCY03rdTbNWon5HNCBkq"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Corrosiv",
+        "url": "https://open.spotify.com/album/6AnnV6HvAH3UEaNrt5DP62"
+      },
+      "artists": [
+        {
+          "name": "Orchestroll",
+          "url": "https://open.spotify.com/artist/3fOsjG8YJ9MRntC4hcNybb"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Here Used To Be A Star",
+      "url": "https://open.spotify.com/track/2EKY34UonlN4JKcj2AfeWh"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -975,22 +959,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Rene",
-        "url": "https://open.spotify.com/album/2dWdK38RNNPb0Vw6kYI6Dl"
-      },
-      "artists": [
-        {
-          "name": "LOTUS FROM JAKARTA",
-          "url": "https://open.spotify.com/artist/41J5awaMlB8Jr9O3eLbrtG"
-        }
-      ],
-      "duration_ms": 239999,
-      "name": "Voy_Edit",
-      "url": "https://open.spotify.com/track/21gAmR7GvfXSu3jg7kJ3ua"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "TIDE/TIED",
         "url": "https://open.spotify.com/album/0E1b7Ob71SBCqDNq8QzKMO"
       },
@@ -1007,34 +975,34 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Windows",
-        "url": "https://open.spotify.com/album/0sMeW7EWTcCKtrbHmTdeFn"
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5RsTaOj3W65X1mAqlmcQYK"
       },
       "artists": [
         {
-          "name": "Scratching",
-          "url": "https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn"
+          "name": "Zola Blood",
+          "url": "https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ"
         }
       ],
-      "duration_ms": 221960,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/2dlInC7fYSDzTXKOVMlmLD"
+      "duration_ms": 243503,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/1L33G3aX9DHFQ7RonllbeA"
     },
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Rememberer",
-        "url": "https://open.spotify.com/album/3upV2lrm2jUWJUkEr0kKzd"
+        "name": "Rene",
+        "url": "https://open.spotify.com/album/2dWdK38RNNPb0Vw6kYI6Dl"
       },
       "artists": [
         {
-          "name": "Radio Anorak",
-          "url": "https://open.spotify.com/artist/7DI8lla9rOD2GxmKprt2yl"
+          "name": "LOTUS FROM JAKARTA",
+          "url": "https://open.spotify.com/artist/41J5awaMlB8Jr9O3eLbrtG"
         }
       ],
-      "duration_ms": 208917,
-      "name": "King of England",
-      "url": "https://open.spotify.com/track/6g7p4fERQRnAPHtfDfqbWL"
+      "duration_ms": 239999,
+      "name": "Voy_Edit",
+      "url": "https://open.spotify.com/track/21gAmR7GvfXSu3jg7kJ3ua"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1051,6 +1019,22 @@
       "duration_ms": 301606,
       "name": "Circle Of The Seasons",
       "url": "https://open.spotify.com/track/2tpiICm8dyCjY1j0HRsM4Z"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/0sMeW7EWTcCKtrbHmTdeFn"
+      },
+      "artists": [
+        {
+          "name": "Scratching",
+          "url": "https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn"
+        }
+      ],
+      "duration_ms": 221960,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/2dlInC7fYSDzTXKOVMlmLD"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1083,6 +1067,22 @@
       "duration_ms": 261818,
       "name": "Resistance",
       "url": "https://open.spotify.com/track/6G1mq9bIF75elODWirXe8f"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Rememberer",
+        "url": "https://open.spotify.com/album/3upV2lrm2jUWJUkEr0kKzd"
+      },
+      "artists": [
+        {
+          "name": "Radio Anorak",
+          "url": "https://open.spotify.com/artist/7DI8lla9rOD2GxmKprt2yl"
+        }
+      ],
+      "duration_ms": 208917,
+      "name": "King of England",
+      "url": "https://open.spotify.com/track/6g7p4fERQRnAPHtfDfqbWL"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
+        "name": "Sepia Rainbow",
+        "url": "https://open.spotify.com/album/20pM3fcLEbrNzpJX0Di4fR"
+      },
+      "artists": [
+        {
+          "name": "Apu Nanu",
+          "url": "https://open.spotify.com/artist/1Yekw9AAZgG05A8OeTnhaB"
+        }
+      ],
+      "duration_ms": 189500,
+      "name": "Sepia Rainbow",
+      "url": "https://open.spotify.com/track/51D821qFfWAtSIRGKhUPxF"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
         "name": "Spaces In Between",
         "url": "https://open.spotify.com/album/7B3xJoQ8nbAXpPJHXkCfW4"
       },
@@ -1315,18 +1331,18 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Sepia Rainbow",
-        "url": "https://open.spotify.com/album/20pM3fcLEbrNzpJX0Di4fR"
+        "name": "Noor-e Vojood",
+        "url": "https://open.spotify.com/album/3tEm5SjojNJ79ZrW5iTQ7R"
       },
       "artists": [
         {
-          "name": "Apu Nanu",
-          "url": "https://open.spotify.com/artist/1Yekw9AAZgG05A8OeTnhaB"
+          "name": "Mohammad Mostafa Heydarian",
+          "url": "https://open.spotify.com/artist/5gcN10J58SA82tyq6nScoa"
         }
       ],
-      "duration_ms": 189500,
-      "name": "Sepia Rainbow",
-      "url": "https://open.spotify.com/track/51D821qFfWAtSIRGKhUPxF"
+      "duration_ms": 254599,
+      "name": "B\u00e2rieh",
+      "url": "https://open.spotify.com/track/4twU0LMGHLqK4dtwDaDL5x"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Noor-e Vojood",
-        "url": "https://open.spotify.com/album/3tEm5SjojNJ79ZrW5iTQ7R"
-      },
-      "artists": [
-        {
-          "name": "Mohammad Mostafa Heydarian",
-          "url": "https://open.spotify.com/artist/5gcN10J58SA82tyq6nScoa"
-        }
-      ],
-      "duration_ms": 254599,
-      "name": "B\u00e2rieh",
-      "url": "https://open.spotify.com/track/4twU0LMGHLqK4dtwDaDL5x"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Body Roll",
         "url": "https://open.spotify.com/album/5BzvKV2NobLTNcy3b15VNl"
       },
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Altar",
-        "url": "https://open.spotify.com/album/2n4hkKpBjThYOsTp2RnZ9a"
-      },
-      "artists": [
-        {
-          "name": "Zutzut",
-          "url": "https://open.spotify.com/artist/0UGj9ZE04f5PZoP0ukud33"
-        }
-      ],
-      "duration_ms": 216287,
-      "name": "Altar",
-      "url": "https://open.spotify.com/track/3GFF6qIBsyzl6GJRM6irnj"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Wanted To Show You",
         "url": "https://open.spotify.com/album/7auwpvWqguoC2QAlebNpka"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 190738,
       "name": "Feeling Why Do You Follow",
       "url": "https://open.spotify.com/track/5MGeZ5lMzPlgdfcwVmVCzr"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/2n4hkKpBjThYOsTp2RnZ9a"
+      },
+      "artists": [
+        {
+          "name": "Zutzut",
+          "url": "https://open.spotify.com/artist/0UGj9ZE04f5PZoP0ukud33"
+        }
+      ],
+      "duration_ms": 216287,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/3GFF6qIBsyzl6GJRM6irnj"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1451,30 +1451,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "46\u00b027'29.6\"N 6\u00b051'03.4\"E",
-        "url": "https://open.spotify.com/album/6hm5M2Q7I1GJltggp6oclw"
-      },
-      "artists": [
-        {
-          "name": "Clay Kin",
-          "url": "https://open.spotify.com/artist/1LVrDV9Es1LZIA6KCMqAqD"
-        },
-        {
-          "name": "Dan Nicholls",
-          "url": "https://open.spotify.com/artist/3jPACp3hjJoZE4amLccrTW"
-        },
-        {
-          "name": "Julian Sartorius",
-          "url": "https://open.spotify.com/artist/6uZnp5qm39fcS98jofdiHz"
-        }
-      ],
-      "duration_ms": 238243,
-      "name": "46\u00b027'29.6\"N 6\u00b051'03.4\"E",
-      "url": "https://open.spotify.com/track/3xLkOgGI2B9IMb5SkdAZOn"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "63N3RD",
         "url": "https://open.spotify.com/album/6X206Ws0Yw2mpA6m7kagU4"
       },
@@ -1507,18 +1483,26 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "TIDE/TIED",
-        "url": "https://open.spotify.com/album/0E1b7Ob71SBCqDNq8QzKMO"
+        "name": "46\u00b027'29.6\"N 6\u00b051'03.4\"E",
+        "url": "https://open.spotify.com/album/6hm5M2Q7I1GJltggp6oclw"
       },
       "artists": [
         {
-          "name": "Thanya Iyer",
-          "url": "https://open.spotify.com/artist/5t5C8BHZ8ch5p0wvbcWh6P"
+          "name": "Clay Kin",
+          "url": "https://open.spotify.com/artist/1LVrDV9Es1LZIA6KCMqAqD"
+        },
+        {
+          "name": "Dan Nicholls",
+          "url": "https://open.spotify.com/artist/3jPACp3hjJoZE4amLccrTW"
+        },
+        {
+          "name": "Julian Sartorius",
+          "url": "https://open.spotify.com/artist/6uZnp5qm39fcS98jofdiHz"
         }
       ],
-      "duration_ms": 440269,
-      "name": "Waves/Hold/Tied",
-      "url": "https://open.spotify.com/track/4eKAKVci8MLFTLkuIJUja6"
+      "duration_ms": 238243,
+      "name": "46\u00b027'29.6\"N 6\u00b051'03.4\"E",
+      "url": "https://open.spotify.com/track/3xLkOgGI2B9IMb5SkdAZOn"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
+        "name": "TIDE/TIED",
+        "url": "https://open.spotify.com/album/0E1b7Ob71SBCqDNq8QzKMO"
+      },
+      "artists": [
+        {
+          "name": "Thanya Iyer",
+          "url": "https://open.spotify.com/artist/5t5C8BHZ8ch5p0wvbcWh6P"
+        }
+      ],
+      "duration_ms": 440269,
+      "name": "Waves/Hold/Tied",
+      "url": "https://open.spotify.com/track/4eKAKVci8MLFTLkuIJUja6"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
         "name": "Solvay Beach",
         "url": "https://open.spotify.com/album/6g3lLi3ROpgGsXNVxUWfsl"
       },
@@ -1555,6 +1555,22 @@
       "duration_ms": 554026,
       "name": "Solvay Beach",
       "url": "https://open.spotify.com/track/3Q62MpruGadQlTmN7LHtmu"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/2TpixP6RhxoNA0LtKm0p2z"
+      },
+      "artists": [
+        {
+          "name": "JASSS",
+          "url": "https://open.spotify.com/artist/4reMrexillTAvq1AQr6MzV"
+        }
+      ],
+      "duration_ms": 294250,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/4rhaL2Iy5N60QVkdRfBill"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1579,18 +1595,18 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/2TpixP6RhxoNA0LtKm0p2z"
+        "name": "A Room With A Door That Closes",
+        "url": "https://open.spotify.com/album/6TldVLNIBmMkanSL3ISkHV"
       },
       "artists": [
         {
-          "name": "JASSS",
-          "url": "https://open.spotify.com/artist/4reMrexillTAvq1AQr6MzV"
+          "name": "Maiya Blaney",
+          "url": "https://open.spotify.com/artist/0SdETlosHnWN9VNqJKpFGl"
         }
       ],
-      "duration_ms": 294250,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/4rhaL2Iy5N60QVkdRfBill"
+      "duration_ms": 143733,
+      "name": "Fumbled",
+      "url": "https://open.spotify.com/track/47UiRv5ieyeywP8O44K0xp"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1627,22 +1643,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "A Room With A Door That Closes",
-        "url": "https://open.spotify.com/album/6TldVLNIBmMkanSL3ISkHV"
-      },
-      "artists": [
-        {
-          "name": "Maiya Blaney",
-          "url": "https://open.spotify.com/artist/0SdETlosHnWN9VNqJKpFGl"
-        }
-      ],
-      "duration_ms": 143733,
-      "name": "Fumbled",
-      "url": "https://open.spotify.com/track/47UiRv5ieyeywP8O44K0xp"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Hold the Edges",
         "url": "https://open.spotify.com/album/6DLJ126k5YfhEzHp3uLM3c"
       },
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Tem",
-        "url": "https://open.spotify.com/album/6zuy2pmy5JqamvOJNlGe66"
-      },
-      "artists": [
-        {
-          "name": "Joe Westerlund",
-          "url": "https://open.spotify.com/artist/4GMTDgzWcWkPyF66d6lfVy"
-        }
-      ],
-      "duration_ms": 184226,
-      "name": "Tem",
-      "url": "https://open.spotify.com/track/1dCG1tEzjPzCQx0ij0dRh5"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "The Scrollkeeper",
         "url": "https://open.spotify.com/album/4KQRc2xhNQzRj05N2EPwKh"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 285738,
       "name": "The Scrollkeeper",
       "url": "https://open.spotify.com/track/108HXrZvKUAlXaWrozGj3L"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Tem",
+        "url": "https://open.spotify.com/album/6zuy2pmy5JqamvOJNlGe66"
+      },
+      "artists": [
+        {
+          "name": "Joe Westerlund",
+          "url": "https://open.spotify.com/artist/4GMTDgzWcWkPyF66d6lfVy"
+        }
+      ],
+      "duration_ms": 184226,
+      "name": "Tem",
+      "url": "https://open.spotify.com/track/1dCG1tEzjPzCQx0ij0dRh5"
     },
     {
       "added_at": "2025-11-19 10:21:55",

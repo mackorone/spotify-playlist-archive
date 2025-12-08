@@ -2655,6 +2655,28 @@
     },
     {
       "album": {
+        "name": "Disney AUX Throwback",
+        "url": "https://open.spotify.com/album/2sLK9qlYJIW7aux3hLYNid"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Santino Fontana",
+          "url": "https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127133,
+      "name": "Love Is an Open Door - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/5LclDFDyfbiCuBRNcKbM33"
+    },
+    {
+      "album": {
         "name": "Disney Summer Songs",
         "url": "https://open.spotify.com/album/6qykGE5x584duyLVYcnojE"
       },
@@ -2670,7 +2692,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 127133,
       "name": "Love Is an Open Door - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/5ufE60D3rxtqP7xLrL4AEL"

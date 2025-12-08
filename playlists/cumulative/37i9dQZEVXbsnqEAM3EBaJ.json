@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 64680,
       "name": "A Fiery Hand",
       "url": "https://open.spotify.com/track/3l9qjnrlBiPu1x8NC3wVuw"
@@ -4874,7 +4874,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 238182,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/1Ys7tQV4mNK3BbjLdZX18B"
@@ -14129,6 +14129,32 @@
     },
     {
       "album": {
+        "name": "Dream On",
+        "url": "https://open.spotify.com/album/3OPRoENiKX9PZFZJhVOBWb"
+      },
+      "artists": [
+        {
+          "name": "Songboy",
+          "url": "https://open.spotify.com/artist/0gtH2SOGkdmf5Gc6GEkViB"
+        },
+        {
+          "name": "Vangelis Solen",
+          "url": "https://open.spotify.com/artist/4FcFmEzHSbqBvalGdCO1LU"
+        },
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290120,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/2SVic8Gf6PDMyLaots5JYp"
+    },
+    {
+      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK"
       },
@@ -14764,7 +14790,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 270000,
       "name": "Echoes of Eternity",
       "url": "https://open.spotify.com/track/0Ln8XEkzb0VZYga1DmVv6E"
@@ -20458,6 +20484,28 @@
       "duration_ms": 177053,
       "name": "Golden",
       "url": "https://open.spotify.com/track/4pQ1tGNWPNf3W2flpyH55L"
+    },
+    {
+      "album": {
+        "name": "Forged in Chaos",
+        "url": "https://open.spotify.com/album/2pETvgUv0zfLUhJc8igYN0"
+      },
+      "artists": [
+        {
+          "name": "Harmony My Strength",
+          "url": "https://open.spotify.com/artist/5oynKjQSzQSvO0SzVPiSTG"
+        },
+        {
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65780,
+      "name": "Golden Flare",
+      "url": "https://open.spotify.com/track/7rZSIlfVAIVLSgCECh5Hu3"
     },
     {
       "album": {
@@ -36204,7 +36252,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 263180,
       "name": "Nothin'",
       "url": "https://open.spotify.com/track/49u9MlLKXc0NLg6m775ecd"

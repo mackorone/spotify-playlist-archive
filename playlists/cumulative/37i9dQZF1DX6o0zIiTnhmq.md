@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-186 songs - 1 day 19 hr 28 min
+187 songs - 1 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Bhairavi Vandana](https://open.spotify.com/track/2BPfuEhYccGXJe4nXCW9XT) | [Sounds of Isha](https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG) | [Triveni: Durga, Lakshmi, Saraswati](https://open.spotify.com/album/5339WvUHRv9qRGG4G0pmQv) | 5:15 | 2023-05-23 |  |
 | [Buddham Sharanam Gachhami \(Buddha Chants, Pt\. 4\)](https://open.spotify.com/track/1gxt3cazhB9VbauY2iEfoe) | [Amit Mishra](https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU), [Flipsyd](https://open.spotify.com/artist/0FLg7KXUSAjWEgpuU09Itb) | [Buddham Sharanam Gachhami \(Buddha Chants, Pt\. 4\)](https://open.spotify.com/album/7uLLOVFMzasRXNupYHQGtX) | 4:46 | 2025-03-25 | 2025-04-07 |
 | [Buddhist Music and Chants for Inner Peace](https://open.spotify.com/track/3QlsZg5tAQ8ZqKbFmkwCGo) | [Best Relaxing Music](https://open.spotify.com/artist/4Qp0NbeUNsiffzjGqkGhJD) | [Buddhist and Zen for Meditation Relaxation](https://open.spotify.com/album/3HGAhYIaLiRQY95JQuprwZ) | 8:29 | 2024-12-30 |  |
-| [Chandra Gayatri Mantra](https://open.spotify.com/track/49QY54TduPxYL8ZFxVuPxs) | [Saee Tembhekar](https://open.spotify.com/artist/3TJyCCTVwoTQo1FQ5xxuKm) | [Chandra Gayatri Mantra](https://open.spotify.com/album/4KxzohWYDc73VfAehZ4FhQ) | 24:24 | 2025-10-06 |  |
+| [Chandra Gayatri Mantra](https://open.spotify.com/track/49QY54TduPxYL8ZFxVuPxs) | [Saee Tembhekar](https://open.spotify.com/artist/3TJyCCTVwoTQo1FQ5xxuKm) | [Chandra Gayatri Mantra](https://open.spotify.com/album/4KxzohWYDc73VfAehZ4FhQ) | 24:24 | 2025-10-06 | 2025-12-08 |
 | [Durga Gayatri Mantra](https://open.spotify.com/track/57uiI5Y9LLVjmKuiJejENW) | [Abhilasha Chellam](https://open.spotify.com/artist/2HLKqxDX09Khj9728XJhdG) | [Durga Gayatri Mantra](https://open.spotify.com/album/1jH6sfc11zNlbXsIhiqoD6) | 6:30 | 2025-02-07 |  |
 | [Durga Mantra](https://open.spotify.com/track/0gJNEG3bWdslbqGOf8VOWj) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/2SyTtRLOHedCwGOBNiQcU4) | 43:59 | 2022-01-24 | 2023-05-05 |
 | [Durga Mantra](https://open.spotify.com/track/2M3U3LxFTNj3gKcYPSkM34) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Magical Mantras for Meditation \- Volume Two](https://open.spotify.com/album/6KusWndRTwoWKdMEKR7wde) | 43:59 | 2022-01-24 | 2022-07-29 |
@@ -120,6 +120,7 @@
 | [Om Namah Shivay 108 Times](https://open.spotify.com/track/0i5XJwIyF7IP1RBldqLBRm) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Om Namah Shivay 108 Times](https://open.spotify.com/album/1Pr7UMxfqZzw7fSaTsfC0L) | 12:44 | 2024-11-18 | 2025-10-18 |
 | [Om Namah Shivay Chanting 108 Times](https://open.spotify.com/track/5nXf3V0iA8FnxtqyuJYNO2) | [Prem Dhiman](https://open.spotify.com/artist/6cRb7fOsn2JbgHGpF0MLCJ), [TMC RECORDS](https://open.spotify.com/artist/665d2SHOpLoWMeo5oqoGZV) | [Om Namah Shivay Chanting 108 Times](https://open.spotify.com/album/7rf4Xz2c5f4IWEES3E40hn) | 6:13 | 2025-04-07 | 2025-05-28 |
 | [Om Namah Shivay Mantra](https://open.spotify.com/track/7ac2jKXhOfnNPHQQ2BBGBx) | [Palak Sharma](https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Om Namah Shivay Mantra](https://open.spotify.com/album/1q2387c87LOveOx3uBFIhJ) | 12:17 | 2023-08-28 |  |
+| [Om Namah Shivay Meditation 108 Times](https://open.spotify.com/track/53ZbuEXxgsJ7kSZOXMxeYk) | [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn) | [Om Namah Shivay Meditation 108 Times](https://open.spotify.com/album/2ucTid7wEP0FXmmhu4HUyv) | 1:05:25 | 2025-11-26 |  |
 | [Om Namo Bhagavate Vasudevaya \(Liberation\)](https://open.spotify.com/track/1uzmVgbFP4UsMnTP1RXfQ5) | [Deva Premal](https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF) | [Mantras for Precarious Times](https://open.spotify.com/album/1bSEZ4sgMJNKeP2sYyuwnX) | 9:29 | 2022-01-24 |  |
 | [Om Namo Bhagwate Vasudevaya](https://open.spotify.com/track/03QkE78keZ1qKX9FWZmwzh) | [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx), [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C) | [Om Namo Bhagwate Vasudevaya](https://open.spotify.com/album/499BhQxYN0mvcdEhDHCdRx) | 4:35 | 2023-12-11 | 2024-01-26 |
 | [Om Namo Bhagwate Vasudevaya](https://open.spotify.com/track/7Hno3cOsGoENNxMYEZTlM2) | [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx), [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C) | [Om Namo Bhagwate Vasudevaya](https://open.spotify.com/album/2YOBo7LwSkb1INLMw6Rh3H) | 4:35 | 2023-12-26 | 2024-03-01 |

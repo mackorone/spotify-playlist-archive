@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXs5bD9fOOY.md) - [plain]
 
 > 今年の冬にぴったりな、"ハッピー"なクリスマスソングをひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,386 likes - 71 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,578 likes - 71 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXs5bD9fOOY.md) - [plain]
 | 70 | [Underneath the Tree](https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 3:49 |
 | 71 | [Jingle Bell Rock](https://open.spotify.com/track/7wpk1O3efw6HMDQeyD45eY) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Pop Para Navidad](https://open.spotify.com/album/0sJKd292wKgIkn9cYD8Qje) | 2:15 |
 
-Snapshot ID: `AAAAAJpzv5OI+fkuKCKKAMlLu92gG63H`
+Snapshot ID: `AAAAAGKJI4jHCeIHWJLF4s6mN3/cIqcs`

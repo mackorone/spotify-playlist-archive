@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 
 > Where your new favourite bands are discovered\. Cover: Cardinals
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,080 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,081 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 | 49 | [Sit Awake](https://open.spotify.com/track/3yzxeoLhMMwXNe3xqy5Baw) | [Fuzz Lightyear](https://open.spotify.com/artist/24Eklv4Dvhk1c6iXuCFzoL) | [Sit Awake](https://open.spotify.com/album/1TkNN5PGB0SlU4ajSHWr0u) | 3:30 |
 | 50 | [Kitchen Song](https://open.spotify.com/track/5v1qYxzAEegcsv22GpmuTE) | [Opal Mag](https://open.spotify.com/artist/04DSTB4v2Gskr37xC4uaAD) | [Kitchen Song](https://open.spotify.com/album/4zmCzNoChmpYhDIfAfAe8k) | 2:34 |
 
-Snapshot ID: `AAAAAMX4dMfw46LLKPoufQXPFy5aNmf1`
+Snapshot ID: `AAAAAAcW0TJQ5TU6ByRXE83KfIn3Lzts`

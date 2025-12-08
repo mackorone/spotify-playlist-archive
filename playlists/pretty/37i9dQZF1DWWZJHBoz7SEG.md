@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Saquen las pre\-posadas yo pongo lo nuevo de RØZ y más rolitas finas 🪅
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,095,877 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,095,902 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

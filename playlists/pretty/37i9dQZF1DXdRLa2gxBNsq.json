@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Calero LDN.",
-  "num_followers": 113426,
+  "num_followers": 113431,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
+        "name": "Salve",
+        "url": "https://open.spotify.com/album/57AwljF0RpTwtEd5A1SzUP"
+      },
+      "artists": [
+        {
+          "name": "La Polla Records",
+          "url": "https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ"
+        }
+      ],
+      "duration_ms": 103000,
+      "name": "Txus",
+      "url": "https://open.spotify.com/track/19cTnpZXsoNpah6J4q13iP"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
         "name": "Demasiados Enemigos",
         "url": "https://open.spotify.com/album/06jJMaPtFcbDkuzuIeKywk"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 267038,
       "name": "Adios Reina Mia",
       "url": "https://open.spotify.com/track/52hHIF5rYiUi0AtPyvMrY2"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
-        "name": "Raska Y Pierde",
-        "url": "https://open.spotify.com/album/3hYROJXYVEmFZrDJEYAqmH"
-      },
-      "artists": [
-        {
-          "name": "Kaotiko",
-          "url": "https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S"
-        }
-      ],
-      "duration_ms": 210279,
-      "name": "Preso 2023",
-      "url": "https://open.spotify.com/track/6gnqolg2ERx8i5GAGlYb0w"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -215,34 +215,18 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "Salve",
-        "url": "https://open.spotify.com/album/57AwljF0RpTwtEd5A1SzUP"
+        "name": "Raska Y Pierde",
+        "url": "https://open.spotify.com/album/3hYROJXYVEmFZrDJEYAqmH"
       },
       "artists": [
         {
-          "name": "La Polla Records",
-          "url": "https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ"
+          "name": "Kaotiko",
+          "url": "https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S"
         }
       ],
-      "duration_ms": 103000,
-      "name": "Txus",
-      "url": "https://open.spotify.com/track/19cTnpZXsoNpah6J4q13iP"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
-        "name": "Impuesto Revolucionario",
-        "url": "https://open.spotify.com/album/7iA4YreHDh5ozVdpg4kZcm"
-      },
-      "artists": [
-        {
-          "name": "Eskorbuto",
-          "url": "https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Historia triste",
-      "url": "https://open.spotify.com/track/0DJLkaZlg6JbwAg9VZzbYq"
+      "duration_ms": 210279,
+      "name": "Preso 2023",
+      "url": "https://open.spotify.com/track/6gnqolg2ERx8i5GAGlYb0w"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -259,6 +243,22 @@
       "duration_ms": 192800,
       "name": "La \u00daltima Patada",
       "url": "https://open.spotify.com/track/0QobiDnqGnnbbW8Duu9j90"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
+        "name": "Inadaptados",
+        "url": "https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV"
+      },
+      "artists": [
+        {
+          "name": "Cicatriz",
+          "url": "https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz"
+        }
+      ],
+      "duration_ms": 158946,
+      "name": "Enemigo Publico",
+      "url": "https://open.spotify.com/track/2U79EanNfw7bRqC68Jnfgf"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -283,18 +283,18 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "Inadaptados",
-        "url": "https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV"
+        "name": "Impuesto Revolucionario",
+        "url": "https://open.spotify.com/album/7iA4YreHDh5ozVdpg4kZcm"
       },
       "artists": [
         {
-          "name": "Cicatriz",
-          "url": "https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz"
+          "name": "Eskorbuto",
+          "url": "https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb"
         }
       ],
-      "duration_ms": 158946,
-      "name": "Enemigo Publico",
-      "url": "https://open.spotify.com/track/2U79EanNfw7bRqC68Jnfgf"
+      "duration_ms": 187000,
+      "name": "Historia triste",
+      "url": "https://open.spotify.com/track/0DJLkaZlg6JbwAg9VZzbYq"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "D\u00edmelo a la Cara",
-        "url": "https://open.spotify.com/album/7bd1ysAXXkN3kE1Gi9rx8H"
-      },
-      "artists": [
-        {
-          "name": "RADIOCRIMEN",
-          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
-        }
-      ],
-      "duration_ms": 169415,
-      "name": "D\u00edmelo a la Cara",
-      "url": "https://open.spotify.com/track/3cBiSF13DvX2km6FbfJ1uK"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
         "name": "HARRERA LEKU BAT",
         "url": "https://open.spotify.com/album/0jxfXOaoffTj6hng0Uljip"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 179846,
       "name": "HARRERA LEKU BAT",
       "url": "https://open.spotify.com/track/1uApsPmvPTyzr4T4SBTHON"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
+        "name": "D\u00edmelo a la Cara",
+        "url": "https://open.spotify.com/album/7bd1ysAXXkN3kE1Gi9rx8H"
+      },
+      "artists": [
+        {
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+        }
+      ],
+      "duration_ms": 169415,
+      "name": "D\u00edmelo a la Cara",
+      "url": "https://open.spotify.com/track/3cBiSF13DvX2km6FbfJ1uK"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -995,26 +995,6 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "Hasta Alcanzar la Eternidad",
-        "url": "https://open.spotify.com/album/4Br6Uo20r4CA53ENlfU9uF"
-      },
-      "artists": [
-        {
-          "name": "Inkandescencia",
-          "url": "https://open.spotify.com/artist/6JkbwndQtzYnRH5hGbJx3l"
-        },
-        {
-          "name": "Laura Dsk",
-          "url": "https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB"
-        }
-      ],
-      "duration_ms": 190296,
-      "name": "Hasta Alcanzar la Eternidad",
-      "url": "https://open.spotify.com/track/1P6TdzApdSr9fiCLhrKLdL"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
         "name": "Camino hacia la ruina",
         "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
       },
@@ -1047,22 +1027,18 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "Vuelvo",
-        "url": "https://open.spotify.com/album/5nRDzsLm2kQBApYFP7miCf"
+        "name": "Ahora soy un punkarra",
+        "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
       },
       "artists": [
         {
-          "name": "Maldito Matas",
-          "url": "https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5"
-        },
-        {
-          "name": "RADIOCRIMEN",
-          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+          "name": "Desklate",
+          "url": "https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT"
         }
       ],
-      "duration_ms": 176481,
-      "name": "Vuelvo",
-      "url": "https://open.spotify.com/track/117c3qQUL3vBRVxEZs8RY0"
+      "duration_ms": 144944,
+      "name": "Ahora soy un punkarra",
+      "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -1083,18 +1059,42 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "Ahora soy un punkarra",
-        "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
+        "name": "Vuelvo",
+        "url": "https://open.spotify.com/album/5nRDzsLm2kQBApYFP7miCf"
       },
       "artists": [
         {
-          "name": "Desklate",
-          "url": "https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT"
+          "name": "Maldito Matas",
+          "url": "https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5"
+        },
+        {
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
         }
       ],
-      "duration_ms": 144944,
-      "name": "Ahora soy un punkarra",
-      "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
+      "duration_ms": 176481,
+      "name": "Vuelvo",
+      "url": "https://open.spotify.com/track/117c3qQUL3vBRVxEZs8RY0"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
+        "name": "Hasta Alcanzar la Eternidad",
+        "url": "https://open.spotify.com/album/4Br6Uo20r4CA53ENlfU9uF"
+      },
+      "artists": [
+        {
+          "name": "Inkandescencia",
+          "url": "https://open.spotify.com/artist/6JkbwndQtzYnRH5hGbJx3l"
+        },
+        {
+          "name": "Laura Dsk",
+          "url": "https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB"
+        }
+      ],
+      "duration_ms": 190296,
+      "name": "Hasta Alcanzar la Eternidad",
+      "url": "https://open.spotify.com/track/1P6TdzApdSr9fiCLhrKLdL"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "No Olvidamos, 3 de Marzo - Single",
-        "url": "https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE"
-      },
-      "artists": [
-        {
-          "name": "Soziedad Alkoholika",
-          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
-        }
-      ],
-      "duration_ms": 231593,
-      "name": "No Olvidamos, 3 de Marzo",
-      "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
         "name": "Antifascismo",
         "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
       },
@@ -1203,18 +1187,34 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "Del cel fins a l'infern",
-        "url": "https://open.spotify.com/album/6SL4ikunjRFVeCPpD0IAr9"
+        "name": "No Olvidamos, 3 de Marzo - Single",
+        "url": "https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE"
       },
       "artists": [
         {
-          "name": "Pilseners",
-          "url": "https://open.spotify.com/artist/5Q6RTmfU1ZLbAlyiUJCmbh"
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
         }
       ],
-      "duration_ms": 251562,
-      "name": "Del cel fins a l'infern",
-      "url": "https://open.spotify.com/track/47qN7W1aC2jBapfUqql2tE"
+      "duration_ms": 231593,
+      "name": "No Olvidamos, 3 de Marzo",
+      "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
+        "name": "Punk Latino Vol. 1",
+        "url": "https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN"
+      },
+      "artists": [
+        {
+          "name": "La Polla",
+          "url": "https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "Ellos Dicen Mierda (Live)",
+      "url": "https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "Punk Latino Vol. 1",
-        "url": "https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN"
+        "name": "Del cel fins a l'infern",
+        "url": "https://open.spotify.com/album/6SL4ikunjRFVeCPpD0IAr9"
       },
       "artists": [
         {
-          "name": "La Polla",
-          "url": "https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J"
+          "name": "Pilseners",
+          "url": "https://open.spotify.com/artist/5Q6RTmfU1ZLbAlyiUJCmbh"
         }
       ],
-      "duration_ms": 266733,
-      "name": "Ellos Dicen Mierda (Live)",
-      "url": "https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl"
+      "duration_ms": 251562,
+      "name": "Del cel fins a l'infern",
+      "url": "https://open.spotify.com/track/47qN7W1aC2jBapfUqql2tE"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "Versos de Rabia",
-        "url": "https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2"
-      },
-      "artists": [
-        {
-          "name": "Discordia",
-          "url": "https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG"
-        }
-      ],
-      "duration_ms": 217130,
-      "name": "Ke Felicidad!",
-      "url": "https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
         "name": "Soy un NiNi",
         "url": "https://open.spotify.com/album/6YkhUv4O9fiwOFP8w0QNnD"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 183100,
       "name": "Soy un NiNi",
       "url": "https://open.spotify.com/track/0nh9Rz7btDM3J4VptkpVoK"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
+        "name": "Versos de Rabia",
+        "url": "https://open.spotify.com/album/6CbReCJ1l2o2Mwu2Matrq2"
+      },
+      "artists": [
+        {
+          "name": "Discordia",
+          "url": "https://open.spotify.com/artist/6COIQdML2EH50MNUYjzcaG"
+        }
+      ],
+      "duration_ms": 217130,
+      "name": "Ke Felicidad!",
+      "url": "https://open.spotify.com/track/4Nx42MOIDpTxIqbik0zuCk"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/6rnuIfatgHJil8W5ruxzwg"
-      },
-      "artists": [
-        {
-          "name": "Las Tristes",
-          "url": "https://open.spotify.com/artist/3PZghesgUy9w58sbz5ZG6F"
-        }
-      ],
-      "duration_ms": 90250,
-      "name": "The Rally",
-      "url": "https://open.spotify.com/track/3yHXfZAw39WdfwPZNG32sB"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
         "name": "Molestar",
         "url": "https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 158074,
       "name": "Molestar",
       "url": "https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/6rnuIfatgHJil8W5ruxzwg"
+      },
+      "artists": [
+        {
+          "name": "Las Tristes",
+          "url": "https://open.spotify.com/artist/3PZghesgUy9w58sbz5ZG6F"
+        }
+      ],
+      "duration_ms": 90250,
+      "name": "The Rally",
+      "url": "https://open.spotify.com/track/3yHXfZAw39WdfwPZNG32sB"
     },
     {
       "added_at": "2025-12-05 13:00:12",

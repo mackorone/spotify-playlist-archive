@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Sam Deep, Shallipopi, Makhadzi and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,543 likes - 86 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,647 likes - 86 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

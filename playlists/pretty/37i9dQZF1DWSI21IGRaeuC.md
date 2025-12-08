@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️ <br/>with IDEMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,040 likes - 115 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,084 likes - 115 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 114 | [dEWdEWdEW](https://open.spotify.com/track/4woi40bLUnpUDiSqkQIm77) | [SLAMM](https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn) | [dEWdEWdEW EP](https://open.spotify.com/album/4ttNLCQcOkZKh1t9x3Sfws) | 4:29 |
 | 115 | [I Remember \- Tommy Phillips Remix](https://open.spotify.com/track/5qaBH4UBmWeidfGSQfnW51) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Tommy Phillips](https://open.spotify.com/artist/3Z1hS6haFjSDvQc8TORkIW) | [I Remember \(Tommy Phillips Remix\)](https://open.spotify.com/album/0jkSuitxQSLXjXAkFOJacT) | 3:32 |
 
-Snapshot ID: `AAAAAC5S1lC76CdWGKfsPozoZQN0M69O`
+Snapshot ID: `AAAAAK2mRjK7W/6Rz0BwrRbhxjd3R20j`

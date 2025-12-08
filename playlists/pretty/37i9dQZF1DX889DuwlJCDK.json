@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: 171",
-  "num_followers": 21331,
+  "num_followers": 21338,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-12-02 15:40:38",
       "album": {
-        "name": "\u30d0\u30fc\u30b9\u30c7\u30a4",
-        "url": "https://open.spotify.com/album/6cqJocSJ2QmCWHePaVbAUy"
-      },
-      "artists": [
-        {
-          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
-        }
-      ],
-      "duration_ms": 324484,
-      "name": "\u30d0\u30fc\u30b9\u30c7\u30a4",
-      "url": "https://open.spotify.com/track/0MUuGBksODh4qIiFK9kWHG"
-    },
-    {
-      "added_at": "2025-12-02 15:40:38",
-      "album": {
         "name": "\u30ca\u30c4\u30e1\u30b0",
         "url": "https://open.spotify.com/album/1gAxx7JgGph2JOxJ9SvU2s"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 199083,
       "name": "\u30ca\u30c4\u30e1\u30b0",
       "url": "https://open.spotify.com/track/5xDCfxc1ze0ECUDuCnzu50"
+    },
+    {
+      "added_at": "2025-12-02 15:40:38",
+      "album": {
+        "name": "\u30d0\u30fc\u30b9\u30c7\u30a4",
+        "url": "https://open.spotify.com/album/6cqJocSJ2QmCWHePaVbAUy"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "duration_ms": 324484,
+      "name": "\u30d0\u30fc\u30b9\u30c7\u30a4",
+      "url": "https://open.spotify.com/track/0MUuGBksODh4qIiFK9kWHG"
     },
     {
       "added_at": "2025-12-02 15:40:38",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-12-02 15:40:38",
       "album": {
-        "name": "\u6b20\u7247",
-        "url": "https://open.spotify.com/album/1cI7JtMgSvQktNUkqvdsZt"
-      },
-      "artists": [
-        {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
-        }
-      ],
-      "duration_ms": 160466,
-      "name": "\u6b20\u7247",
-      "url": "https://open.spotify.com/track/5mYTtXFq2DreBL25EK5bkF"
-    },
-    {
-      "added_at": "2025-12-02 15:40:38",
-      "album": {
         "name": "\u5171\u72af\u8005",
         "url": "https://open.spotify.com/album/0xqedXwS4p3NdG7NNS0n0i"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 150833,
       "name": "\u5171\u72af\u8005",
       "url": "https://open.spotify.com/track/3L02mPxuIbCb0HIT1ACVYF"
+    },
+    {
+      "added_at": "2025-12-02 15:40:38",
+      "album": {
+        "name": "\u6b20\u7247",
+        "url": "https://open.spotify.com/album/1cI7JtMgSvQktNUkqvdsZt"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "duration_ms": 160466,
+      "name": "\u6b20\u7247",
+      "url": "https://open.spotify.com/track/5mYTtXFq2DreBL25EK5bkF"
     },
     {
       "added_at": "2025-12-02 15:40:38",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2025-12-02 15:40:38",
       "album": {
-        "name": "\u7247\u60f3\u3044\u30c8\u30ea\u30c3\u30d7",
-        "url": "https://open.spotify.com/album/63Sxmw5ldkRVOk5yiRARBn"
+        "name": "Funky Lovely Girl",
+        "url": "https://open.spotify.com/album/7AjNWrJY5Psf79navIAE1p"
       },
       "artists": [
         {
-          "name": "berry meet",
-          "url": "https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m"
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
         }
       ],
-      "duration_ms": 176506,
-      "name": "\u7247\u60f3\u3044\u30c8\u30ea\u30c3\u30d7",
-      "url": "https://open.spotify.com/track/69ZuItVMLZ5SHpiYEW6Fca"
+      "duration_ms": 224509,
+      "name": "Funky Lovely Girl",
+      "url": "https://open.spotify.com/track/43J0Mmcg3wJ0NAXNXMRG84"
     },
     {
       "added_at": "2025-12-02 15:40:38",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2025-12-02 15:40:38",
       "album": {
+        "name": "\u7247\u60f3\u3044\u30c8\u30ea\u30c3\u30d7",
+        "url": "https://open.spotify.com/album/63Sxmw5ldkRVOk5yiRARBn"
+      },
+      "artists": [
+        {
+          "name": "berry meet",
+          "url": "https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "\u7247\u60f3\u3044\u30c8\u30ea\u30c3\u30d7",
+      "url": "https://open.spotify.com/track/69ZuItVMLZ5SHpiYEW6Fca"
+    },
+    {
+      "added_at": "2025-12-02 15:40:38",
+      "album": {
         "name": "NEBULA",
         "url": "https://open.spotify.com/album/35Q7g8tt4SpLNieBRmsziE"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 175193,
       "name": "\u30a4\u30f3\u30d9\u30a4\u30c0\u30fc",
       "url": "https://open.spotify.com/track/2WXOJAqPT1z0aWBErwBVXa"
-    },
-    {
-      "added_at": "2025-12-02 15:40:38",
-      "album": {
-        "name": "Funky Lovely Girl",
-        "url": "https://open.spotify.com/album/7AjNWrJY5Psf79navIAE1p"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 224509,
-      "name": "Funky Lovely Girl",
-      "url": "https://open.spotify.com/track/43J0Mmcg3wJ0NAXNXMRG84"
     },
     {
       "added_at": "2025-12-02 15:40:38",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-12-02 15:40:38",
       "album": {
-        "name": "Planetary",
-        "url": "https://open.spotify.com/album/08PXW0KjcLUccvIsZBvomW"
-      },
-      "artists": [
-        {
-          "name": "Penthouse",
-          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
-        }
-      ],
-      "duration_ms": 177489,
-      "name": "Planetary",
-      "url": "https://open.spotify.com/track/5v2bUbn70jpJcPkWL3EYwF"
-    },
-    {
-      "added_at": "2025-12-02 15:40:38",
-      "album": {
         "name": "\u661f\u306e\u4e0b",
         "url": "https://open.spotify.com/album/3PqW5RaycVsciS9BQhUSV6"
       },
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2025-12-02 15:40:38",
       "album": {
-        "name": "I hear a sound.",
-        "url": "https://open.spotify.com/album/6GMBykkVPW4hCSb3mVklc9"
+        "name": "Planetary",
+        "url": "https://open.spotify.com/album/08PXW0KjcLUccvIsZBvomW"
       },
       "artists": [
         {
-          "name": "CVLTE",
-          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
         }
       ],
-      "duration_ms": 216655,
-      "name": "I hear a sound.",
-      "url": "https://open.spotify.com/track/3eb4W8Fr1qFxK7TcUxJUBw"
+      "duration_ms": 177489,
+      "name": "Planetary",
+      "url": "https://open.spotify.com/track/5v2bUbn70jpJcPkWL3EYwF"
     },
     {
       "added_at": "2025-12-02 15:40:38",
@@ -1507,6 +1491,22 @@
       "duration_ms": 276705,
       "name": "\u7d76\u547d",
       "url": "https://open.spotify.com/track/2vVl8HMaKTH4iv3HD70JjP"
+    },
+    {
+      "added_at": "2025-12-02 15:40:38",
+      "album": {
+        "name": "I hear a sound.",
+        "url": "https://open.spotify.com/album/6GMBykkVPW4hCSb3mVklc9"
+      },
+      "artists": [
+        {
+          "name": "CVLTE",
+          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+        }
+      ],
+      "duration_ms": 216655,
+      "name": "I hear a sound.",
+      "url": "https://open.spotify.com/track/3eb4W8Fr1qFxK7TcUxJUBw"
     },
     {
       "added_at": "2025-12-02 15:40:38",

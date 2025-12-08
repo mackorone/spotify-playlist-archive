@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with the one & only Tiësto
 
-1,225 songs - 3 day 1 hr 25 min
+1,226 songs - 3 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,7 @@
 | [Euphoria](https://open.spotify.com/track/1NMLUxMIOdfH5ZwSJEVDMs) | [Marc Van Linden](https://open.spotify.com/artist/2bnp0PzMRKZX5ZuPcgL0P9), [Abstract Vision](https://open.spotify.com/artist/38ll04WO5aX23GmDvdneOr) | [Euphoria](https://open.spotify.com/album/7bw0YFMIT3N4iT3P093Caj) | 3:28 | 2023-12-08 | 2025-03-22 |
 | [Euphoria](https://open.spotify.com/track/3fdUNRWeXO5ZXYo4Txs6no) | [Paul Arcane](https://open.spotify.com/artist/4mX6KkWIws87dwZdorDOQA), [Scolario](https://open.spotify.com/artist/7nZo04ThBSLl6se0i5pxYx) | [Euphoria](https://open.spotify.com/album/28O6B1ua1KENELc9jh1otO) | 3:50 | 2021-12-17 | 2022-02-26 |
 | [Euphoria](https://open.spotify.com/track/02ZEl6E1qqrVAVfTlTwyGh) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Simon O'Shine](https://open.spotify.com/artist/6l9ShC8pyKkn4vKpKWs5FW) | [Euphoria](https://open.spotify.com/album/0NYaUH0anZg9VQN2vFkEWx) | 3:35 | 2021-12-17 | 2022-01-08 |
-| [Euphoria \- Club Mix](https://open.spotify.com/track/3SEvjUgBbbV02d5LIcIN6O) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Emilya Buchan](https://open.spotify.com/artist/51BgE8J8VoDwG5Ee8tt3D8) | [Euphoria \(Club Mix\)](https://open.spotify.com/album/5PzjnmJ6nwYHJKmZWuH93r) | 4:01 | 2024-10-25 |  |
+| [Euphoria \- Club Mix](https://open.spotify.com/track/3SEvjUgBbbV02d5LIcIN6O) | [Andrew Rayel](https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr), [Emilya Buchan](https://open.spotify.com/artist/51BgE8J8VoDwG5Ee8tt3D8) | [Euphoria \(Club Mix\)](https://open.spotify.com/album/5PzjnmJ6nwYHJKmZWuH93r) | 4:01 | 2024-10-25 | 2025-12-08 |
 | [Everafter \- Cubicore Remix](https://open.spotify.com/track/4P5Z97Jw98Islo4CcjluBm) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Cristina Soto](https://open.spotify.com/artist/5BKXCIdVnAwBQKUoGNqfZj), [Cubicore](https://open.spotify.com/artist/44APJiQpJhK4CWuLC9gGrx) | [Everafter \(Cubicore Remix\)](https://open.spotify.com/album/3lBxVXHzK6MqjQUkUFbNQK) | 3:27 | 2021-12-17 | 2022-01-15 |
 | [Everglow](https://open.spotify.com/track/2Z7CdIc6HIAP4QCKEvv0VO) | [Dj T.H.](https://open.spotify.com/artist/4ulezsrIi1ZZ4uUx1QqasZ), [André Visior](https://open.spotify.com/artist/4sGGiwnyvLlNDIQUGX9qJZ), [Linnea Schossow](https://open.spotify.com/artist/1TUCkGpyFIZj6BPEdW55VT) | [Everglow](https://open.spotify.com/album/3H5HOgKBenvkt1nArjEatq) | 3:08 | 2022-02-04 | 2023-02-25 |
 | [Everlasting](https://open.spotify.com/track/5aIAgC8rRdFe3DajwVP4RS) | [Driftmoon](https://open.spotify.com/artist/4iMFxtzAcgUfbsagyY3Vla), [Robert Nickson](https://open.spotify.com/artist/0dMK3g7XAApwIpLTyE7mqJ) | [Everlasting](https://open.spotify.com/album/4YpDkHDt0WplKdDKSGSHcB) | 3:14 | 2025-11-21 |  |
@@ -512,6 +512,7 @@
 | [I Don't Care](https://open.spotify.com/track/2UIKMsHPB8n4E0ci2wvftx) | [Mark Sixma](https://open.spotify.com/artist/3ePCIHipMKD4n8IBXBYWSm), [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka) | [Crash & Smile in Dada Land \- May](https://open.spotify.com/album/4PjuJ33WzlVy4RpcxLCKJ1) | 3:04 | 2023-05-26 | 2024-05-11 |
 | [I Don't Want You](https://open.spotify.com/track/06CzIM4VeYApGimQBFsK1O) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8) | [I Don't Want You](https://open.spotify.com/album/7rDv3GYKD6zs8tcQberZDv) | 3:48 | 2025-05-16 | 2025-09-27 |
 | [I Matter to You](https://open.spotify.com/track/05H8sjP3C42fwRV2gOPIaT) | [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf) | [I Matter to You](https://open.spotify.com/album/02CAyPkMh8g7hToVLUVROl) | 3:59 | 2021-12-17 | 2022-12-24 |
+| [I Miss You In The Nights](https://open.spotify.com/track/5YTkfc4qQWlxkpBo76L01I) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y), [Amber Revival](https://open.spotify.com/artist/247Rddo3rzBu5bAtYyvov0) | [I Miss You In The Nights](https://open.spotify.com/album/4qUYEaRKK6Xe1pWZovxdyr) | 3:08 | 2025-12-05 |  |
 | [I Need You](https://open.spotify.com/track/5uU8ZBRbxxw4LaGqfaIhOY) | [Dan Stone](https://open.spotify.com/artist/5AqacAhvN8JCsr00Qk9tb7) | [I Need You](https://open.spotify.com/album/79nHWf5V1TzCTh7qOujbUR) | 3:51 | 2022-05-20 | 2023-03-26 |
 | [I Never Want This To End](https://open.spotify.com/track/6UM6c1Ehi4AWYwJbuynuTe) | [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX) | [I Never Want This To End EP](https://open.spotify.com/album/1MUzPLuWVEHUBQo9O7i6Nw) | 2:58 | 2025-11-07 |  |
 | [I Remember](https://open.spotify.com/track/0OR1XuIrLuCF52kDXdhMPf) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Cari](https://open.spotify.com/artist/6UAL6sAn9OZc6VQGOOp3re) | [I Remember](https://open.spotify.com/album/5yvOyxvnn9VqWHarGS9JTA) | 3:48 | 2022-10-28 | 2023-01-14 |

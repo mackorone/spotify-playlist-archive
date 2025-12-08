@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 44048,
+  "num_followers": 44064,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTIggAAAAAC7GiIuFyTl3QHpRqkAQ74S",
+  "snapshot_id": "aTNyAAAAAAAI0cKfTrn7678MKvI0jmPW",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Teen Bean",
+        "url": "https://open.spotify.com/album/5khW9rcdd32i7nCJlTXzqB"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 119248,
+      "name": "Teen Bean",
+      "url": "https://open.spotify.com/track/4jx9GqqVMPacAOKHaFlsLb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UY SCUTI",
         "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 176578,
       "name": "Murda Musik (feat. Destroy Lonely)",
       "url": "https://open.spotify.com/track/6N0I4EqoaIHib3W1LFPMzC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teen Bean",
-        "url": "https://open.spotify.com/album/5khW9rcdd32i7nCJlTXzqB"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 119248,
-      "name": "Teen Bean",
-      "url": "https://open.spotify.com/track/4jx9GqqVMPacAOKHaFlsLb"
     },
     {
       "added_at": null,

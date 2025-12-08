@@ -4,7 +4,7 @@
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Pastor López
 
-362 songs - 22 hr 2 min
+363 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Aquí Está El Bobo](https://open.spotify.com/track/2B96lfFlbinfLS2HWweBYn) | [Hernan Dario Hernandez](https://open.spotify.com/artist/2XAs0PIadAYZYnt2TEa0Cs) | [Éxitos De Siempre](https://open.spotify.com/album/7F4oJEuDFeF0erkzERzihR) | 3:15 | 2023-11-15 | 2024-02-09 |
 | [Arbolito de Navidad](https://open.spotify.com/track/2eoR1IW9sS4saeRPlXlxW9) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Colección de Éxitos, Vol\. 1](https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP) | 2:46 | 2023-12-05 |  |
 | [Así Te Quiero Yo](https://open.spotify.com/track/0yRCIDuZfg6eXy3Tg9B7iU) | [La Gran Banda Caleña](https://open.spotify.com/artist/4mSjsAYIPvfiRHmNmNH8a2), [Jorge Solís](https://open.spotify.com/artist/1reY0a17u02VndROtflcB7) | [Picoteando por Ahí y Otros Éxitos](https://open.spotify.com/album/5QrcL2jTqliHd8O563vBbQ) | 3:48 | 2024-09-01 |  |
-| [Avé Pa Ve](https://open.spotify.com/track/1nleosTUpcplhNd730Ckjk) | [Gabriel Romero](https://open.spotify.com/artist/5X2f5xZkE0nn1b3gjKQH88) | [Éxitos Gabriel Romero](https://open.spotify.com/album/5Ex2svgkWOj06qx1mkoLAb) | 3:14 | 2023-12-20 |  |
+| [Avé Pa Ve](https://open.spotify.com/track/1nleosTUpcplhNd730Ckjk) | [Gabriel Romero](https://open.spotify.com/artist/5X2f5xZkE0nn1b3gjKQH88) | [Éxitos Gabriel Romero](https://open.spotify.com/album/5Ex2svgkWOj06qx1mkoLAb) | 3:14 | 2023-12-20 | 2025-12-08 |
 | [Ay Amor](https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:03 | 2023-11-09 |  |
 | [Año Nuevo](https://open.spotify.com/track/7GoNnWA8EMa7lm9CnrP1jJ) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Navidad Con Billo's](https://open.spotify.com/album/38GhuDPDhjNQrTWOxMmyvH) | 2:43 | 2025-09-09 | 2025-10-04 |
 | [Año Nuevo](https://open.spotify.com/track/32LOpPngSkY8V0sIVCVjPb) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Cheo Garcia](https://open.spotify.com/artist/4qmK4DVyKkbpKe2VRanvTR) | [Billos Caracas Boys Fin de Año](https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R) | 2:51 | 2023-11-09 | 2024-04-09 |
@@ -265,6 +265,7 @@
 | [Oiga, Mire, Vea](https://open.spotify.com/track/1rOQocblOsHSzOCZHbNVrQ) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Sentimental de Punta a Punta](https://open.spotify.com/album/6VqGJHlqk61fpfrCNQvKdV) | 5:23 | 2025-09-09 | 2025-10-04 |
 | [Ojitos Hechiceros](https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU) | 3:40 | 2023-12-20 |  |
 | [Ojitos Hechiceros \(Live\)](https://open.spotify.com/track/5ux1midcVSDCZCuOTlU5Uy) | [El Rey de los Diciembres](https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y) | [Grandes Exitos](https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6) | 3:40 | 2023-12-20 | 2024-02-29 |
+| [Olvidemos el Pasado](https://open.spotify.com/track/3GWfCPsJ0MwZkqS6Tw2IHJ) | [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [A Mover el Esqueleto Con 3 Grandes](https://open.spotify.com/album/0YWIrrISo3DyXAXsjKheUy) | 2:20 | 2025-11-20 |  |
 | [Oye](https://open.spotify.com/track/11r0RQ89XTJOkbZCnFYdqG) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Dinamitazos Tropicales de Siempre](https://open.spotify.com/album/2qBPvlvZqAqZ7oiGJYTpko) | 3:09 | 2023-12-20 | 2024-08-28 |
 | [Oye](https://open.spotify.com/track/2F1dL7782oRoPgM2whgY7m) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Colección Oro la Sonora Dinamita \(Vol\. 12\)](https://open.spotify.com/album/0mjJw7byRZZcflcrCEw72m) | 3:09 | 2024-09-01 |  |
 | [Oye \(Made Popular By La Sonora Dinamita\) \[Karaoke Version\]](https://open.spotify.com/track/2eTfL1xavot0ey3izNzT94) | [Party Tyme Karaoke](https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB) | [Party Tyme Karaoke \- Latin Tropical Hits 9](https://open.spotify.com/album/2Kad5QdqEJgphjREfG1p9I) | 3:08 | 2023-11-09 | 2024-04-19 |

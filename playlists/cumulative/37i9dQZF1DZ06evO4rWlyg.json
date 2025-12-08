@@ -266,7 +266,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 108316,
       "name": "Arpeggio - Live",
       "url": "https://open.spotify.com/track/27zZattt70hJZJjf5Rzc9s"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 608760,
       "name": "Black Lake",
       "url": "https://open.spotify.com/track/5qfJSItAIEndephCzfQ6Nu"
@@ -1845,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Selma Songs",
+        "url": "https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261826,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/2jUYg9usDopRe5GaicS8gn"
+    },
+    {
+      "album": {
         "name": "Mount Wittenberg Orca",
         "url": "https://open.spotify.com/album/0zm40o2MnYmpxcKKProN8U"
       },
@@ -2428,7 +2446,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 110319,
       "name": "Show Me Forgiveness - Live",
       "url": "https://open.spotify.com/track/6aUT7SsRiPfsTbwBreSujj"

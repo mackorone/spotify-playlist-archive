@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: RAYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,043,215 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,043,016 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 71 | [Lil Boo Thang \- Galantis Remix](https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Lil Boo Thang \(Galantis Remix\)](https://open.spotify.com/album/0xoWZgToO4LHIFq5HjSKt5) | 2:09 |
 | 72 | [Numb \- Alok Remix](https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Numb \(Alok Remix\)](https://open.spotify.com/album/3wtLFXAFurtpmgn1whn7Uf) | 2:52 |
 | 73 | [Whatever \(with Ava Max\) \- Tiësto Remix](https://open.spotify.com/track/2e0Lsi6FfpmjKtdKkaZHuO) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Whatever \(The Remixes\)](https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s) | 2:45 |
-| 74 | [Players \- DJ Smallz 732 \- Jersey Club Remix](https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Players](https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH) | 1:57 |
-| 75 | [Drive \(feat\. Wes Nelson\) \- Topic VIP Remix](https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Drive \(feat\. Wes Nelson\) \[Topic VIP Remix\]](https://open.spotify.com/album/0J2xC9k1rdXhGZL0H4NmIt) | 2:56 |
+| 74 | [Drive \(feat\. Wes Nelson\) \- Topic VIP Remix](https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Drive \(feat\. Wes Nelson\) \[Topic VIP Remix\]](https://open.spotify.com/album/0J2xC9k1rdXhGZL0H4NmIt) | 2:56 |
+| 75 | [Players \- DJ Smallz 732 \- Jersey Club Remix](https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Players](https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH) | 1:57 |
 
-Snapshot ID: `AAAAAPVXrtB6Bcd2B3jUf7QykiSICh4w`
+Snapshot ID: `AAAAABNFXH2ID2yXsbQR6RCMLjxpGkfl`

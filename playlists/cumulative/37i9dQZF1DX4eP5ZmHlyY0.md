@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: ALPHA DRIVE ONE
 
-821 songs - 1 day 21 hr 1 min
+822 songs - 1 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,7 @@
 | [I Feel Good](https://open.spotify.com/track/1klePVubVctBqhlKJvibil) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [No Genre](https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL) | 2:35 | 2025-05-13 | 2025-09-09 |
 | [I Got It](https://open.spotify.com/track/5yHvX9AFnONMXwBhDGwJ5R) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [I Got It](https://open.spotify.com/album/1OwQ3QCxyB8QwkSPzfo4sI) | 3:20 | 2023-12-07 | 2024-05-27 |
 | [I Know](https://open.spotify.com/track/1H6SLuE3e50BS0V8Na1XzQ) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [I Know](https://open.spotify.com/album/1UGkTP9bmeLABz5TIeLwiz) | 2:18 | 2025-07-31 |  |
-| [I Want You Back](https://open.spotify.com/track/735mGGdbUzNDUg9IHPaVaV) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [I Want You Back](https://open.spotify.com/album/6694Ri652nB0EFEsAQLjpB) | 2:49 | 2025-10-26 |  |
+| [I Want You Back](https://open.spotify.com/track/735mGGdbUzNDUg9IHPaVaV) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [I Want You Back](https://open.spotify.com/album/6694Ri652nB0EFEsAQLjpB) | 2:49 | 2025-10-26 | 2025-12-08 |
 | [I wonder](https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [I wonder](https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je) | 2:37 | 2024-04-16 | 2025-03-07 |
 | [I'mma Be](https://open.spotify.com/track/09B49mDd16vmAxbRKXdTfd) | [XLOV](https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC) | [I'mma Be](https://open.spotify.com/album/6LYn27paYoRtBYqML2Un27) | 3:21 | 2025-03-06 | 2025-04-05 |
 | [ICE](https://open.spotify.com/track/6zac62mblxAmbgVkqBQKCB) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96) | [Parade](https://open.spotify.com/album/43PcyZMcbxwUWOYzE9bg1P) | 3:12 | 2024-03-19 | 2024-07-10 |
@@ -818,6 +818,7 @@
 | [空、冬の曙 \- feat\. B.I.G.JOE](https://open.spotify.com/track/5u24JFPjw0JruDhYOj0NwG) | [SHO HENDRIX](https://open.spotify.com/artist/2lHnlMAxMtNovGYneMhyQh), [B.I.G\. JOE](https://open.spotify.com/artist/6MmLC4AtBTepgbIEv9n0GH) | [DOZEN ROSES](https://open.spotify.com/album/0ySLEnWBafEqbFuXaAwYTs) | 3:47 | 2023-11-23 | 2023-12-08 |
 | [花のように](https://open.spotify.com/track/3gmieCgCITvaVwrwbJBr7U) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [SAKU](https://open.spotify.com/album/3dnvRymeMXh17lqIYN9H75) | 4:03 | 2025-09-30 | 2025-10-25 |
 | [華麗な生活](https://open.spotify.com/track/7ez6wvi0htlWbvAWQSJADl) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [Endless Happy\-Ending](https://open.spotify.com/album/6dBgrtQcKpiwavwseEu6Su) | 3:15 | 2024-10-29 | 2024-11-06 |
+| [街灯](https://open.spotify.com/track/5M1nuhRqpXnrkAIltucV7I) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [街灯](https://open.spotify.com/album/50oUZXDnbeQHdQXPjmjnEn) | 3:30 | 2025-12-07 |  |
 | [質問](https://open.spotify.com/track/5AfYh0cCMZ1f5u4sOFGbQD) | [香取慎吾](https://open.spotify.com/artist/23aPUZaR8bESXN4UD3T2Sx) | [質問](https://open.spotify.com/album/1BMlh1yTh5NaqmMZgHfHFV) | 3:17 | 2024-02-15 | 2024-03-06 |
 | [踊れピエロ](https://open.spotify.com/track/7lFlPqGM6CajadNT5G1Qfh) | [DOBERMAN INFINITY](https://open.spotify.com/artist/25X0RB2EWCmj9u0Pnj1uW5) | [踊れピエロ](https://open.spotify.com/album/74wtkw5rmbTnyPFj30gVoQ) | 3:31 | 2024-04-23 | 2024-05-29 |
 | [運命なんて](https://open.spotify.com/track/2RWXEC5nKl9KjFJKC8LlWi) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [運命なんて](https://open.spotify.com/album/6IdVPsXy2Ae4WQVjY77o7L) | 3:40 | 2025-05-27 | 2025-07-07 |

@@ -4,7 +4,7 @@
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-269 songs - 19 hr 17 min
+270 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Angels We Have Heard On High / Glorious](https://open.spotify.com/track/2E06L2ThigpDMmzzt6AuoQ) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Angels We Have Heard On High / Glorious](https://open.spotify.com/album/4ZWsgM6j41sMElnfT3Fs0O) | 4:13 | 2024-11-29 | 2025-11-23 |
 | [Ave Maria](https://open.spotify.com/track/2tJ8Z1uvvrvxUC43OsVC8y) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Hymns: Advent](https://open.spotify.com/album/3roIp9N3qtpl6s82lBtC2d) | 2:16 | 2025-11-28 |  |
 | [Away In a Manger](https://open.spotify.com/track/6kqfTZO1rOY1M4Ilcc2noQ) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Comfort and Joy](https://open.spotify.com/album/6ln6oSxJB8fCXtTu4eezD9) | 3:20 | 2022-11-26 |  |
+| [Away In A Manger](https://open.spotify.com/track/0z1d4DCIBxL0udJtYT1WOJ) | [TaRanda Greene](https://open.spotify.com/artist/0GiC21e7l4XAl7IqGflein), [Charles Billingsley](https://open.spotify.com/artist/25rFinQrFA85UTkU88gC5d) | [Away In A Manger](https://open.spotify.com/album/08qPNH3YKzorHO6QE1mIjT) | 5:55 | 2025-12-07 |  |
 | [Away In A Manger \(Forever Amen\)](https://open.spotify.com/track/0AIIvSYZUvrURBcWTwhC7e) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Christmas](https://open.spotify.com/album/1TzI5wwnlBtglKMxIW0Bx7) | 3:14 | 2020-12-21 |  |
 | [Away In A Manger / O How I Love Jesus](https://open.spotify.com/track/54nHxqaUcALG0fKEazz5Wo) | [Journey Worship Co.](https://open.spotify.com/artist/2dRrLKTkXMeLvUcmyHaEco) | [Away In A Manger / O How I Love Jesus](https://open.spotify.com/album/0WveUxU6qElrojnWrTDLjG) | 2:55 | 2025-11-22 |  |
 | [Beautiful Savior](https://open.spotify.com/track/6hYbcuRkynCObesJ2q4NIv) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Anjin Teal](https://open.spotify.com/artist/2u4ZlEZudVyc62sqwYYTBc) | [Beautiful Savior](https://open.spotify.com/album/36YT5z12Tkm7OMpknzhEfX) | 3:43 | 2025-11-08 |  |
@@ -234,7 +235,7 @@
 | [Silent Night](https://open.spotify.com/track/4vgPZaZf6mZib4FO0KBsqY) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Cassia & Myrrh](https://open.spotify.com/artist/5gQZwYs3GNecx5mXkWEoV9) | [Silent Night](https://open.spotify.com/album/2Y8WECLIhD8EvAexL4STpB) | 3:17 | 2022-11-26 |  |
 | [Silent Night](https://open.spotify.com/track/1pL2y3rKA7iNQnaq8kbZle) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Silent Night](https://open.spotify.com/album/4heqRBLM0AmNnbJfclf5nD) | 3:03 | 2023-11-03 | 2025-11-23 |
 | [Silent Night](https://open.spotify.com/track/3cT2hOmmVCb9ng9eNFfDjH) | [Victory](https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr) | [Christmas Hymns](https://open.spotify.com/album/0l89jg9sYlmX8GqxrnDM8k) | 3:22 | 2025-11-16 |  |
-| [Silent Night](https://open.spotify.com/track/676tHI3mIYd8ZhJ8rxfcBH) | [Wavorly](https://open.spotify.com/artist/3RoZGUZ3okwI6E5ETlVCJv) | [Silent Night](https://open.spotify.com/album/3oLyg6F37yCYcHSi96Dv2f) | 4:09 | 2025-12-07 |  |
+| [Silent Night](https://open.spotify.com/track/676tHI3mIYd8ZhJ8rxfcBH) | [Wavorly](https://open.spotify.com/artist/3RoZGUZ3okwI6E5ETlVCJv) | [Silent Night](https://open.spotify.com/album/3oLyg6F37yCYcHSi96Dv2f) | 4:09 | 2025-12-07 | 2025-12-08 |
 | [Silent Night \(Arr\. Cleobury\) \[Orch\. Morgan/Pochin\]](https://open.spotify.com/track/4pytIuCRyDE2sdUx4EiGT6) | [Franz Xaver Gruber](https://open.spotify.com/artist/395Z91yDQ05pkMbRKik18y), [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Stephen Cleobury](https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC) | [Silent Night](https://open.spotify.com/album/5Pv2leclwlajfEww7XCTFm) | 2:36 | 2022-11-26 | 2023-12-03 |
 | [Silver Bells](https://open.spotify.com/track/2MpextDSUjiWKWBZIaqUpz) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [20th Century Masters \- The Best of Stevie Wonder: The Christmas Collection](https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw) | 2:22 | 2020-12-21 | 2022-11-27 |
 | [Silver Bells](https://open.spotify.com/track/5La4SN8BGxWRxGuXVdjZxL) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Christmas Music 2021](https://open.spotify.com/album/5pfk2todigsulOlBr1qn1Z) | 2:22 | 2020-12-21 | 2022-11-13 |

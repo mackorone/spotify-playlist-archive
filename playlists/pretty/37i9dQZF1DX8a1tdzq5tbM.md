@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,752,104 likes - 120 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,752,357 likes - 120 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,16 +84,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 74 | [Lola's Theme \- Radio Edit](https://open.spotify.com/track/5mAh5J4w6BEZkajB1M7XrB) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP) | [Lola's Theme](https://open.spotify.com/album/0thmU9CS6evNvZSso54yCU) | 3:27 |
 | 75 | [Changed the Way You Kiss Me \- Radio Edit](https://open.spotify.com/track/1PAYgOjp1c9rrZ2kVQg2vN) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [Playing In The Shadows](https://open.spotify.com/album/0oxZteBM3NJPbNnBMLjPhN) | 3:15 |
 | 76 | [Freed from Desire](https://open.spotify.com/track/5n56ImOTTDbUORTq3Eyong) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come into My Life \(10th Anniversary\)](https://open.spotify.com/album/4EMKH4lI4pyUYxCsPl4cag) | 3:33 |
-| 77 | [Call On Me \- Radio Edit](https://open.spotify.com/track/3uLSUZEmTY50H6Kw17lpfW) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call On Me](https://open.spotify.com/album/4FN8F3aiiUagVSBBGW5ULu) | 2:51 |
+| 77 | [Better Off Alone \- 1999 Original Hit Radio](https://open.spotify.com/track/48gBfTRel9fajeev7tmLpo) | [Alice DJ](https://open.spotify.com/artist/5w6UXY9OAeWPHxuLfSfmfl) | [Better Off Alone \(Laidback Luke Remix\)](https://open.spotify.com/album/1mujD0TLUx27MXlxune8nb) | 3:35 |
 | 78 | [Ready Steady Go \- Extended Mix](https://open.spotify.com/track/595nqFsvxhQ6CO2YG65W2D) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Ashley Walters](https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO) | [Bunkka](https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3) | 4:13 |
-| 79 | [Better Off Alone \- 1999 Original Hit Radio](https://open.spotify.com/track/48gBfTRel9fajeev7tmLpo) | [Alice DJ](https://open.spotify.com/artist/5w6UXY9OAeWPHxuLfSfmfl) | [Better Off Alone \(Laidback Luke Remix\)](https://open.spotify.com/album/1mujD0TLUx27MXlxune8nb) | 3:35 |
+| 79 | [Call On Me \- Radio Edit](https://open.spotify.com/track/3uLSUZEmTY50H6Kw17lpfW) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call On Me](https://open.spotify.com/album/4FN8F3aiiUagVSBBGW5ULu) | 2:51 |
 | 80 | [World, Hold On](https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [Western Dream](https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq) | 6:41 |
-| 81 | [In White Rooms](https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r) | 5:26 |
-| 82 | [Exploration of Space \- Radio Edit](https://open.spotify.com/track/4iLL2yVVG19TAJYssbMeBT) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Exploration of Space](https://open.spotify.com/album/5ibY1QH7VwnDLnye7mTzvx) | 3:36 |
+| 81 | [Exploration of Space \- Radio Edit](https://open.spotify.com/track/4iLL2yVVG19TAJYssbMeBT) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Exploration of Space](https://open.spotify.com/album/5ibY1QH7VwnDLnye7mTzvx) | 3:36 |
+| 82 | [In White Rooms](https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r) | 5:26 |
 | 83 | [Dance4Life \(feat\. Maxi Jazz\) \- Radio Edit](https://open.spotify.com/track/1uVeunZcBInXIQOwFWxSKL) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Maxi Jazz](https://open.spotify.com/artist/2GKn4JgqBrRxt1UK12D6Rq) | [Dance4Life \(feat\. Maxi Jazz\)](https://open.spotify.com/album/2rZSgNPIi2STnDDx6snIQ5) | 3:33 |
 | 84 | [Cry for You](https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb) | [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Cry for You](https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD) | 3:31 |
-| 85 | [Love Is Gone \- Fred Rister & Joachim Garraud Radio Edit Mix](https://open.spotify.com/track/4V9HEnprK5MfCGL8bHHy7y) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Pop Life](https://open.spotify.com/album/48hy8LYht8Gv9sOp1x7DyF) | 3:21 |
-| 86 | [Heartbroken \- Edit](https://open.spotify.com/track/3dhzZ068rKh2fRB2uitX18) | [T2](https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd) | [Heartbroken](https://open.spotify.com/album/64swz2DD6MbqPA2hXTvdru) | 2:58 |
+| 85 | [Heartbroken \- Edit](https://open.spotify.com/track/3dhzZ068rKh2fRB2uitX18) | [T2](https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd) | [Heartbroken](https://open.spotify.com/album/64swz2DD6MbqPA2hXTvdru) | 2:58 |
+| 86 | [Love Is Gone \- Fred Rister & Joachim Garraud Radio Edit Mix](https://open.spotify.com/track/4V9HEnprK5MfCGL8bHHy7y) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Pop Life](https://open.spotify.com/album/48hy8LYht8Gv9sOp1x7DyF) | 3:21 |
 | 87 | [Sun Is Up \- Play & Win Radio Edit](https://open.spotify.com/track/6eU60ONpRUQPIOiWaxfWOF) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [I Am The Club Rocker](https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6) | 3:44 |
 | 88 | [Traffic \- Radio Edit](https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Just Be](https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA) | 2:57 |
 | 89 | [Swoon](https://open.spotify.com/track/1xrr9bAS0zfjCXdLKpLJnA) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Further](https://open.spotify.com/album/5EOAvD6xmE1g9XV49wFzNG) | 6:05 |

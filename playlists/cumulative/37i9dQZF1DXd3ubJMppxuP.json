@@ -326,7 +326,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 165600,
       "name": "Crazy Mega Cool",
       "url": "https://open.spotify.com/track/251SfwRqsmsDvndBNUI3QQ"
@@ -813,6 +813,24 @@
     },
     {
       "album": {
+        "name": "Kabouterpost",
+        "url": "https://open.spotify.com/album/4XkGdLlZw5zZ7RlR7EwdG4"
+      },
+      "artists": [
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204374,
+      "name": "Kabouterpost",
+      "url": "https://open.spotify.com/track/4vHIS7O1OTNKZeb0rzuRG5"
+    },
+    {
+      "album": {
         "name": "Lam Zullen We Raven (Official Anthem)",
         "url": "https://open.spotify.com/album/5FLHD0ikZWfbh0Y9FDtvkS"
       },
@@ -954,10 +972,32 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 141831,
       "name": "Machinegeweer",
       "url": "https://open.spotify.com/track/4iYjA2bBL5PkdfkW2m6w5S"
+    },
+    {
+      "album": {
+        "name": "Meissie Meissie",
+        "url": "https://open.spotify.com/album/6kL1DOv6uEgd3RqmiWQRNK"
+      },
+      "artists": [
+        {
+          "name": "De Doelleazen",
+          "url": "https://open.spotify.com/artist/29eApvaIcT7cT6n4uEhwiN"
+        },
+        {
+          "name": "Henk Wijngaard",
+          "url": "https://open.spotify.com/artist/0EyzZUO2ycn0hLjKDFT7Hb"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161858,
+      "name": "Meissie Meissie",
+      "url": "https://open.spotify.com/track/4bEy8RQV0A08JPHXH6caE6"
     },
     {
       "album": {

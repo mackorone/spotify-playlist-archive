@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 197884,
+  "num_followers": 197914,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,26 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
+        "name": "Nur kurz gl\u00fccklich",
+        "url": "https://open.spotify.com/album/0Dhyj8T5W7jg0UzrjTuaf4"
+      },
+      "artists": [
+        {
+          "name": "Madeline Juno",
+          "url": "https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ"
+        },
+        {
+          "name": "Max Giesinger",
+          "url": "https://open.spotify.com/artist/224CDJhbm230iSo9ZomTWe"
+        }
+      ],
+      "duration_ms": 178386,
+      "name": "Nur kurz gl\u00fccklich",
+      "url": "https://open.spotify.com/track/1a7bPxp6P5vaLnBoO4hGXf"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
         "name": "Tanz Der Molek\u00fcle",
         "url": "https://open.spotify.com/album/4bicy8AMKXCjoRTxiETIs3"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 128571,
       "name": "F\u00fcr Immer",
       "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
-        "name": "Nur kurz gl\u00fccklich",
-        "url": "https://open.spotify.com/album/0Dhyj8T5W7jg0UzrjTuaf4"
-      },
-      "artists": [
-        {
-          "name": "Madeline Juno",
-          "url": "https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ"
-        },
-        {
-          "name": "Max Giesinger",
-          "url": "https://open.spotify.com/artist/224CDJhbm230iSo9ZomTWe"
-        }
-      ],
-      "duration_ms": 178386,
-      "name": "Nur kurz gl\u00fccklich",
-      "url": "https://open.spotify.com/track/1a7bPxp6P5vaLnBoO4hGXf"
     },
     {
       "added_at": "2025-03-26 13:54:44",

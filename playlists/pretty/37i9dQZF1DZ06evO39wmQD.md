@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39wmQD.md) - [plain]
 
 > This is Auli'i Cravalho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,262 likes - 34 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,265 likes - 34 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39wmQD.md) - [plain]
 | 16 | [Revenge Party](https://open.spotify.com/track/76IYmZf601sdCGQLokyrjW) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Jaquel Spivey](https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI), [Angourie Rice](https://open.spotify.com/artist/2WBxsfNZRSQriRDgDgWkTO), [Tim Meadows](https://open.spotify.com/artist/5ll9FhxzUEG7Bl9LAjPX4E), [Cast of Mean Girls](https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 4:45 |
 | 17 | [Part of Your World \(Reprise\) \- From "The Little Mermaid Live!"](https://open.spotify.com/track/2v7WfLSmtaP09kX74RPTNJ) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [The Little Mermaid Live!](https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc) | 2:12 |
 | 18 | [Someone Gets Hurt \- Reprise](https://open.spotify.com/track/1uElzTQ3ZDKimyoTeShKAv) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Mean Girls \(Music From The Motion Picture – Bonus Track Version\)](https://open.spotify.com/album/2VqGOWnMT8pJsYkRuEkqb7) | 0:50 |
-| 19 | [Scars To Your Beautiful \- Rise Cast Version](https://open.spotify.com/track/1rffHCBOEXWWl4FjSPToyE) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Scars To Your Beautiful \(Rise Cast Version\)](https://open.spotify.com/album/0ci1RPXgRO5v8Y1ngN5gq2) | 4:18 |
-| 20 | [Born for This](https://open.spotify.com/track/79ifABR18J1kNepjRhWeCh) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Hailey's On It! \(Original Soundtrack\)](https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF) | 2:47 |
+| 19 | [Born for This](https://open.spotify.com/track/79ifABR18J1kNepjRhWeCh) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Hailey's On It! \(Original Soundtrack\)](https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF) | 2:47 |
+| 20 | [Scars To Your Beautiful \- Rise Cast Version](https://open.spotify.com/track/1rffHCBOEXWWl4FjSPToyE) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Scars To Your Beautiful \(Rise Cast Version\)](https://open.spotify.com/album/0ci1RPXgRO5v8Y1ngN5gq2) | 4:18 |
 | 21 | [If Only \- From "The Little Mermaid Live!"](https://open.spotify.com/track/1WM0k6YUk7GwnxXjnDMNnC) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Graham Phillips](https://open.spotify.com/artist/7cx3SW07K49VaNuC71o4vj) | [The Little Mermaid Live!](https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc) | 2:56 |
 | 22 | [Good Morning, Beautiful You](https://open.spotify.com/track/3aqlTxMid4dpJoGjwS6TY8) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Lulu Is a Rhinoceros](https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8) | [Lulu Is a Rhinoceros \(Soundtrack from the Apple Original\)](https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg) | 2:55 |
 | 23 | [Glorious \- Rise Cast Version](https://open.spotify.com/track/0hasaAKHUsmlAVbeo6jBUt) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Damon J\. Gillespie](https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I) | [Glorious \(Rise Cast Version\)](https://open.spotify.com/album/0pegn0FfZZRbQKSHGaPbcb) | 2:27 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39wmQD.md) - [plain]
 | 33 | [Rhino Proof](https://open.spotify.com/track/5ustWk7KMW0rryXpJfYI2i) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Utkarsh Ambudkar](https://open.spotify.com/artist/3AXr1YNxrLplk3tRwOrLlN), [Lulu Is a Rhinoceros](https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8) | [Lulu Is a Rhinoceros \(Soundtrack from the Apple Original\)](https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg) | 2:28 |
 | 34 | [Happier](https://open.spotify.com/track/4Ixa8ZsjCWY6jDTejMUIOM) | [Paul Rust](https://open.spotify.com/artist/0vrIAUL2cMlP42YihJkBYY), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Lulu Is a Rhinoceros](https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8) | [Lulu Is a Rhinoceros \(Soundtrack from the Apple Original\)](https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg) | 3:04 |
 
-Snapshot ID: `aTIggAAAAADn8qAn33T+sSRr86R8RN/b`
+Snapshot ID: `aTNyAAAAAAA/lHCcy2SY18eAFBQjEeje`

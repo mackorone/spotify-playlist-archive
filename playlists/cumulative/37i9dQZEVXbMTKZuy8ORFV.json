@@ -13901,6 +13901,44 @@
     },
     {
       "album": {
+        "name": "Flaka",
+        "url": "https://open.spotify.com/album/3rjGjvLB8Kb3H2NGgZ3CrY"
+      },
+      "artists": [
+        {
+          "name": "The Prodigiez",
+          "url": "https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217059,
+      "name": "Flaka",
+      "url": "https://open.spotify.com/track/12iY3g6aGopgjMoDo0hb8H"
+    },
+    {
+      "album": {
         "name": "flashes",
         "url": "https://open.spotify.com/album/58nQ8Vzv9VqS4fXnZ1cZqk"
       },
@@ -14430,7 +14468,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 90834,
       "name": "From The Start - Funk Slowed",
       "url": "https://open.spotify.com/track/6t5IvlOCE6cOTdVWs971Lc"
@@ -18780,7 +18818,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 211239,
       "name": "La milla extra",
       "url": "https://open.spotify.com/track/0PEP61yLiv2SQoRlaxKGSc"
@@ -24485,6 +24523,24 @@
     },
     {
       "album": {
+        "name": "DUE\u00d1O DEL CIELO",
+        "url": "https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350488,
+      "name": "Morfina",
+      "url": "https://open.spotify.com/track/157wPeRYJa2mHLl3DxQA3k"
+    },
+    {
+      "album": {
         "name": "Morfina",
         "url": "https://open.spotify.com/album/3XA0Zax9bAGsnvMcElA16n"
       },
@@ -24496,7 +24552,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 350488,
       "name": "Morfina",
       "url": "https://open.spotify.com/track/7lYKq59aOgRnRlrjuTIvJv"
@@ -24658,7 +24714,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 143613,
       "name": "Mr. Sandman",
       "url": "https://open.spotify.com/track/5VbwM8nvvQLXcwsZUwgm9K"
@@ -24824,6 +24880,24 @@
       "duration_ms": 135659,
       "name": "MUEVELOU",
       "url": "https://open.spotify.com/track/27gcAFVOnixwd1Kd7q428C"
+    },
+    {
+      "album": {
+        "name": "MUEVELOU",
+        "url": "https://open.spotify.com/album/49aYEBdCCVXIj27Ark6pT8"
+      },
+      "artists": [
+        {
+          "name": "VAD BOYZ",
+          "url": "https://open.spotify.com/artist/6L9j8pEAo7qqQ9RqkdlN2W"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135659,
+      "name": "MUEVELOU",
+      "url": "https://open.spotify.com/track/5S1gXR7mkUHiucrXUPGbDb"
     },
     {
       "album": {
@@ -29786,7 +29860,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 158769,
       "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
       "url": "https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp"
@@ -32114,7 +32188,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 237056,
       "name": "Saulo",
       "url": "https://open.spotify.com/track/7BElqwdYdkTHeaabaEMgrG"
@@ -35526,7 +35600,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 168298,
       "name": "Supersexiboyss",
       "url": "https://open.spotify.com/track/7kZSxZMlFAp4mqhCTMifXL"
@@ -37704,7 +37778,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 153545,
       "name": "Tu Boda 3",
       "url": "https://open.spotify.com/track/6ea4nggeIREHFZHMhqo9WN"
@@ -37934,7 +38008,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 110495,
       "name": "TU VAS SIN (fav)",
       "url": "https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"

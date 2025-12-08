@@ -196,7 +196,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 150288,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/1BNY8FNX3c9FWRK7ua2FEw"
@@ -585,6 +585,24 @@
     },
     {
       "album": {
+        "name": "A to H",
+        "url": "https://open.spotify.com/album/5pUkSUz92gUxkgVsI79PmP"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85379,
+      "name": "Everything in Moderation (especially moderation)",
+      "url": "https://open.spotify.com/track/3gp244gB6i9iDx4HKYj77U"
+    },
+    {
+      "album": {
         "name": "Half Album",
         "url": "https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD"
       },
@@ -618,6 +636,24 @@
       "duration_ms": 153640,
       "name": "First Call",
       "url": "https://open.spotify.com/track/626xezshYGvfjC9tBG0xqz"
+    },
+    {
+      "album": {
+        "name": "A to H",
+        "url": "https://open.spotify.com/album/5pUkSUz92gUxkgVsI79PmP"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115878,
+      "name": "Fleas (live at MySpace)",
+      "url": "https://open.spotify.com/track/48JwnFyrURjrljZ7F1YrNC"
     },
     {
       "album": {
@@ -776,7 +812,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 48933,
       "name": "Hobophobic (Scared of Bums)",
       "url": "https://open.spotify.com/track/0t4H9RKqVSyD5OmX1V7GcH"

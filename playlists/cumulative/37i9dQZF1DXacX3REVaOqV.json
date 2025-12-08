@@ -8629,6 +8629,36 @@
     },
     {
       "album": {
+        "name": "Medellin",
+        "url": "https://open.spotify.com/album/3KWejwbJUbXcTNSm0ro4di"
+      },
+      "artists": [
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+        },
+        {
+          "name": "Tom Budin",
+          "url": "https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt"
+        },
+        {
+          "name": "Realismo Sucio",
+          "url": "https://open.spotify.com/artist/21swBpGjFRwaDqFoaFw27f"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195923,
+      "name": "Medellin",
+      "url": "https://open.spotify.com/track/1mR45Dp6MAsfKiSOtkOacS"
+    },
+    {
+      "album": {
         "name": "Medicine",
         "url": "https://open.spotify.com/album/4PdC05N3eKyTqAsG3NGybb"
       },
@@ -11512,7 +11542,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 177969,
       "name": "shock",
       "url": "https://open.spotify.com/track/5UbdWP5ehVyJsAxLFrKOSi"

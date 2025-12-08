@@ -970,7 +970,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 195345,
       "name": "5 AM",
       "url": "https://open.spotify.com/track/1JGntUi9e8Oe2N5lBdXYGU"
@@ -4966,7 +4966,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 191643,
       "name": "AUTOS",
       "url": "https://open.spotify.com/track/3K0brvOrbwMuHKswfdEzjd"
@@ -6464,7 +6464,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 188400,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/5j2qq0EBEAceOdff92l4qZ"
@@ -13366,7 +13366,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 138000,
       "name": "EGEFALIKO",
       "url": "https://open.spotify.com/track/6jhNVmFLWD5LPGrpLfCw67"
@@ -25377,6 +25377,28 @@
     },
     {
       "album": {
+        "name": "KSANTHIA",
+        "url": "https://open.spotify.com/album/2rqnONdnq9qrYU3FPSHRZH"
+      },
+      "artists": [
+        {
+          "name": "orsalios",
+          "url": "https://open.spotify.com/artist/1UYMry4sG98L2NMlq8nPsb"
+        },
+        {
+          "name": "IKSANTHIA",
+          "url": "https://open.spotify.com/artist/39dcjIgLZArSqskYFXJMi4"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112744,
+      "name": "KSANTHIA",
+      "url": "https://open.spotify.com/track/7xvPDojWymRUdPqQQsVEYC"
+    },
+    {
+      "album": {
         "name": "H MASKA",
         "url": "https://open.spotify.com/album/5sJyWYQHi5jamYY4XZY4cY"
       },
@@ -26464,7 +26486,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 129411,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/1US8gNjzFXw1bmUyvcbVdY"
@@ -26940,7 +26962,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 141935,
       "name": "LISTEIA",
       "url": "https://open.spotify.com/track/0Kx9GDeRcQyzaMQRqIk12j"
@@ -27952,7 +27974,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 172500,
       "name": "MA BELLA",
       "url": "https://open.spotify.com/track/6D5QFkJLHYuv5f7hvslZxz"
@@ -32006,7 +32028,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 212244,
       "name": "Mosca",
       "url": "https://open.spotify.com/track/6dX52uQdpwEDkgAcNjOwuI"
@@ -35090,7 +35112,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 174705,
       "name": "ONEIRA",
       "url": "https://open.spotify.com/track/2KRUCryj3ciUMoC88mgxZ9"
@@ -37386,7 +37408,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 155076,
       "name": "PELIGROSA",
       "url": "https://open.spotify.com/track/0ZUi3ZpCWC1DQnwW3bcFmH"
@@ -39562,7 +39584,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 144705,
       "name": "Provlimata",
       "url": "https://open.spotify.com/track/0SwDKWxXKHKGSKXrLtA0xH"
@@ -40924,7 +40946,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -42100,7 +42122,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 144466,
       "name": "SEIRA",
       "url": "https://open.spotify.com/track/1zT7YyT8AUaYIriXCN7nWY"
@@ -45510,7 +45532,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 149243,
       "name": "SYBANTIKO",
       "url": "https://open.spotify.com/track/4Dljmix9x2UQeruEvVYXkT"
@@ -46662,6 +46684,32 @@
       "duration_ms": 194165,
       "name": "Test Drive",
       "url": "https://open.spotify.com/track/0wsiImL75CS0bai0deZufP"
+    },
+    {
+      "album": {
+        "name": "Tetrada",
+        "url": "https://open.spotify.com/album/1QZfnnTwgXjkiny0LpiBeq"
+      },
+      "artists": [
+        {
+          "name": "Ntosko 101",
+          "url": "https://open.spotify.com/artist/2CgCoyfrKjhhlUsCQaKg8v"
+        },
+        {
+          "name": "Babu 101",
+          "url": "https://open.spotify.com/artist/3Dlf6mlkkiYpKAvN1JxL6H"
+        },
+        {
+          "name": "Bato Beats",
+          "url": "https://open.spotify.com/artist/25yMnp5ugk8qcJathuCw4n"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136200,
+      "name": "Tetrada",
+      "url": "https://open.spotify.com/track/5SlXa2m9Tk4Iv0wqNmIrdV"
     },
     {
       "album": {

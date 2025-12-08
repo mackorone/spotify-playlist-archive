@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1BkowoKkLINp2xB2EQKAKG">Dorothy Fields</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-65 songs - 3 hr 9 min
+66 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Roc\-A\-Fella Billionaires](https://open.spotify.com/track/2UcsiQ7VGbPDDXbVRjcug0) | [Freeway](https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Free At Last](https://open.spotify.com/album/6rXcz7FY8DhXLBcJycI93s) | 3:41 | 2024-07-26 |  |
 | [Seesaw](https://open.spotify.com/track/2tvOWBMAkzmVYjMZZwdB5j) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Seesaw \- Music By Cy Coleman; Lyrics By Dorothy Fields](https://open.spotify.com/album/1IKUwKTuLihCE8tFk8eJdp) | 3:03 | 2024-07-26 |  |
 | [Seesaw Ballet](https://open.spotify.com/track/0Da4VZcS0e7qOL1HSVmG0v) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Seesaw \- Music By Cy Coleman; Lyrics By Dorothy Fields](https://open.spotify.com/album/1IKUwKTuLihCE8tFk8eJdp) | 0:42 | 2024-07-26 |  |
-| [Shake, Rattle & Roll](https://open.spotify.com/track/2Wsg5tP0RsNf6O4HLwvpq6) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Flip, Flop And Fly 1951\-1955](https://open.spotify.com/album/1szAsaCnC4nemlMWdRoZm0) | 2:59 | 2025-12-06 |  |
+| [Shake, Rattle & Roll](https://open.spotify.com/track/2Wsg5tP0RsNf6O4HLwvpq6) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Flip, Flop And Fly 1951\-1955](https://open.spotify.com/album/1szAsaCnC4nemlMWdRoZm0) | 2:59 | 2025-12-06 | 2025-12-08 |
 | [Silent Night](https://open.spotify.com/track/2JwJqDEqC5IPl5bN3klNHD) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi) | [Swinging On A Star](https://open.spotify.com/album/64daTHvMlxupBzyGKJyb7g) | 2:36 | 2024-07-26 |  |
 | [Sometime When You're Lonely](https://open.spotify.com/track/0nO2UPVWaY3LA7BS8ALOzj) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Moments Like This](https://open.spotify.com/album/0ChWx4OomdNWCp0TiR6s9S) | 2:41 | 2024-07-26 |  |
 | [Spanglish](https://open.spotify.com/track/2VkzviVLzqGGJ2iPyYX0XK) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Seesaw \- Music By Cy Coleman; Lyrics By Dorothy Fields](https://open.spotify.com/album/1IKUwKTuLihCE8tFk8eJdp) | 3:10 | 2024-07-26 |  |
@@ -63,6 +63,7 @@
 | [Sweet Charity: If My Friends Could See Me Now](https://open.spotify.com/track/6BvDA2w6lVyrwbxuoFKEGw) | [Cy Coleman](https://open.spotify.com/artist/0RRSSYRHmBxQXRGj2KBO8L), [Gwen Verdon](https://open.spotify.com/artist/3SpX7m9UHjT203kNscqadg), [Sweet Charity Original Broadway Cast](https://open.spotify.com/artist/7po62BPOceXuAzRJO1DU92), [Fred Werner](https://open.spotify.com/artist/6t5ihB20at8H7BcacOU2Ys) | [Sweet Charity \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3iX704wj3QPuOXEDkGcCK9) | 3:29 | 2024-07-26 | 2024-10-02 |
 | [There's Gotta Be Something Better Than This](https://open.spotify.com/track/7t0x8tipQBFaC8WwaCzKI1) | [Cy Coleman](https://open.spotify.com/artist/0RRSSYRHmBxQXRGj2KBO8L) | [Sweet Charity \- New Broadway Cast](https://open.spotify.com/album/0gKy6xIZMpHkhFD7VhsHPq) | 2:26 | 2024-07-26 |  |
 | [Too Many Tomorrows](https://open.spotify.com/track/4kyUGNA2JElXWLJeAzbagS) | [John Keston](https://open.spotify.com/artist/1MgcSScnMMgpuMSGUR4sAp) | [Sweet Charity \(Original London Cast Recording\)](https://open.spotify.com/album/7JrTJd7SIwclbJDRosnVFm) | 2:59 | 2024-07-26 |  |
+| [Tweedle Dee](https://open.spotify.com/track/3KDBNDCjN9ogMkGn3vIUs2) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [LaVern Baker](https://open.spotify.com/album/4Wg7zulZEKDPrHvQJWOHLc) | 3:04 | 2025-12-07 |  |
 | [We've Got It](https://open.spotify.com/track/3Gn3mMFjZFufxlaJVZ9491) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Seesaw \- Music By Cy Coleman; Lyrics By Dorothy Fields](https://open.spotify.com/album/1IKUwKTuLihCE8tFk8eJdp) | 2:57 | 2024-07-26 |  |
 | [Welcome To Holiday Inn](https://open.spotify.com/track/4IJK6rlOd1NoLPPMSJBM7y) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Seesaw \- Music By Cy Coleman; Lyrics By Dorothy Fields](https://open.spotify.com/album/1IKUwKTuLihCE8tFk8eJdp) | 2:06 | 2024-07-26 |  |
 | [When Did You Know](https://open.spotify.com/track/3aSljBcDfbccnNVjhu1VrP) | [Skitch Henderson And His Orchestra](https://open.spotify.com/artist/5gSeSvP3kg6zA7rma5WhVX) | [Play Music from "Sweet Charity"](https://open.spotify.com/album/3U2cFufzgQ0A3TvUGMbZMx) | 3:27 | 2024-07-26 |  |

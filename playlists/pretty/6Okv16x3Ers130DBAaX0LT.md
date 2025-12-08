@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/6Okv16x3Ers130DBAaX0LT.md) - [plain]
 | 75 | [Ghost](https://open.spotify.com/track/0Dw3M1B14FRabDfVYr5pEX) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Alps](https://open.spotify.com/album/5cRKluB55Q4vy4LUfMVHki) | 3:44 |
 | 76 | [I Can Treat You Better \(feat\. Ariel Pink\)](https://open.spotify.com/track/0SYmjh1QhJ2P2AFCWgHl2A) | [Part Time](https://open.spotify.com/artist/5M0HAqHXyOh3q7WQnvce8o), [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN) | [Spell \#6](https://open.spotify.com/album/5AArms4shRnOt01HjUcnFq) | 4:34 |
 
-Snapshot ID: `AAAAo1JmxaORlCnNUfcVYpbCTs7DwzI9`
+Snapshot ID: `AAAApMR1VtGVaIL1+7+I2jpSa31p/adh`

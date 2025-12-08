@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-421 songs - 1 day 0 hr 46 min
+422 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [Where I Am](https://open.spotify.com/track/2rsQn9erNfV1U6z8XyLk1h) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [American Love](https://open.spotify.com/album/5gsWgFeHRxRkIXGXWPiOIW) | 3:44 | 2024-02-27 |  |
 | [Where I Belong](https://open.spotify.com/track/28xSt1u3oXNcyZ06LSPQbK) | [Rachel Proctor](https://open.spotify.com/artist/1p3WmosWl1NhjtnbHvQYxw) | [Where I Belong](https://open.spotify.com/album/3xQwDmEBXkw92JVGeorOal) | 3:53 | 2024-02-27 |  |
 | [Where She Ain't](https://open.spotify.com/track/4RBZJXeHXbDv3FuHJUaJyA) | [Jay Eric](https://open.spotify.com/artist/20TDsK5kszoMspfUAnHkDP) | [Where She Ain't](https://open.spotify.com/album/30SDw7sehRjooABsVHNlMW) | 3:39 | 2024-09-22 |  |
+| [Whiskey and Water](https://open.spotify.com/track/4tDj7Nlfn1OfOFfXpvrm6g) | [Rose Falcon](https://open.spotify.com/artist/3M2ei8oRgZ3TwTo6F6votj) | [Whiskey and Water](https://open.spotify.com/album/7bWBIhSORAl6lwF48LgaaY) | 3:44 | 2025-12-07 |  |
 | [Wild Is Her Favorite Color](https://open.spotify.com/track/6cdSWhFCGjOEJg0A2Rv8oC) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Horseback](https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP) | 4:06 | 2024-09-08 |  |
 | [Wild Is Her Favorite Color](https://open.spotify.com/track/7JATKNLC6c83UohqPyunhp) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Wild Is Her Favorite Color](https://open.spotify.com/album/4IHQZBoW3LnJ62LsGvx4FT) | 4:06 | 2024-06-16 | 2024-09-09 |
 | [WildHorse](https://open.spotify.com/track/3jA2ZjqyX7JuQ0Z8IwVxEw) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:20 | 2024-02-27 |  |

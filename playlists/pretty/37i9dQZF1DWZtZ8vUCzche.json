@@ -1,6 +1,6 @@
 {
   "description": "Put your speakers to the test with this eclectic collection of legendary tracks.",
-  "num_followers": 1504222,
+  "num_followers": 1504588,
   "original_name": "Songs to Test Speakers With",
   "owner": {
     "name": "Spotify",
@@ -307,26 +307,6 @@
     {
       "added_at": "2025-12-05 12:33:31",
       "album": {
-        "name": "Mezzanine",
-        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        },
-        {
-          "name": "Elizabeth Fraser",
-          "url": "https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx"
-        }
-      ],
-      "duration_ms": 330773,
-      "name": "Teardrop",
-      "url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ"
-    },
-    {
-      "added_at": "2025-12-05 12:33:31",
-      "album": {
         "name": "Actual Life (April 14 - December 17 2020)",
         "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 285375,
       "name": "Marea (we\u2019ve lost dancing)",
       "url": "https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f"
+    },
+    {
+      "added_at": "2025-12-05 12:33:31",
+      "album": {
+        "name": "Mezzanine",
+        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
+      },
+      "artists": [
+        {
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Elizabeth Fraser",
+          "url": "https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx"
+        }
+      ],
+      "duration_ms": 330773,
+      "name": "Teardrop",
+      "url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ"
     },
     {
       "added_at": "2025-12-05 12:33:31",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-12-05 12:33:31",
       "album": {
-        "name": "Dare!",
-        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 301826,
-      "name": "Love Action (I Believe In Love)",
-      "url": "https://open.spotify.com/track/5RBPXlIiZVrr8hab7LpRJB"
-    },
-    {
-      "added_at": "2025-12-05 12:33:31",
-      "album": {
         "name": "Lifetime",
         "url": "https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 147413,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon"
+    },
+    {
+      "added_at": "2025-12-05 12:33:31",
+      "album": {
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 301826,
+      "name": "Love Action (I Believe In Love)",
+      "url": "https://open.spotify.com/track/5RBPXlIiZVrr8hab7LpRJB"
     },
     {
       "added_at": "2025-12-05 12:33:31",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-12-05 12:33:31",
       "album": {
-        "name": "Flower of the soul",
-        "url": "https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U"
-      },
-      "artists": [
-        {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
-        }
-      ],
-      "duration_ms": 168218,
-      "name": "Orange-coloured day",
-      "url": "https://open.spotify.com/track/7cIzH5nBtAMGX7woHj0ubJ"
-    },
-    {
-      "added_at": "2025-12-05 12:33:31",
-      "album": {
         "name": "Curyman",
         "url": "https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 225826,
       "name": "Existe Uma Voz",
       "url": "https://open.spotify.com/track/5bGMMNxjvlledmzq9dItvf"
+    },
+    {
+      "added_at": "2025-12-05 12:33:31",
+      "album": {
+        "name": "Flower of the soul",
+        "url": "https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "duration_ms": 168218,
+      "name": "Orange-coloured day",
+      "url": "https://open.spotify.com/track/7cIzH5nBtAMGX7woHj0ubJ"
     },
     {
       "added_at": "2025-12-05 12:33:31",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2025-12-05 12:33:31",
       "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/2FpXNwmewH9F2bytZMevuS"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 324680,
+      "name": "Take Five",
+      "url": "https://open.spotify.com/track/1hVXZoSAkZ3P5Lp6fKOcgx"
+    },
+    {
+      "added_at": "2025-12-05 12:33:31",
+      "album": {
         "name": "The Road To Hell Is Paved With Good Intentions",
         "url": "https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 174579,
       "name": "Turn Me Inside",
       "url": "https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3"
-    },
-    {
-      "added_at": "2025-12-05 12:33:31",
-      "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/2FpXNwmewH9F2bytZMevuS"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 324680,
-      "name": "Take Five",
-      "url": "https://open.spotify.com/track/1hVXZoSAkZ3P5Lp6fKOcgx"
     },
     {
       "added_at": "2025-12-05 12:33:31",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-12-05 12:33:31",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 294266,
-      "name": "Justify My Love",
-      "url": "https://open.spotify.com/track/6BWRvw630R8z2vNMok6quI"
-    },
-    {
-      "added_at": "2025-12-05 12:33:31",
-      "album": {
         "name": "Jaco Pastorius",
         "url": "https://open.spotify.com/album/6SsT4Zyev0zS7eocL0B72m"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 142466,
       "name": "Portrait of Tracy",
       "url": "https://open.spotify.com/track/5NBAy2oiS9OIWyAZhklsH2"
+    },
+    {
+      "added_at": "2025-12-05 12:33:31",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 294266,
+      "name": "Justify My Love",
+      "url": "https://open.spotify.com/track/6BWRvw630R8z2vNMok6quI"
     },
     {
       "added_at": "2025-12-05 12:33:31",
@@ -2779,22 +2779,6 @@
     {
       "added_at": "2025-12-05 12:33:31",
       "album": {
-        "name": "Together & Apart",
-        "url": "https://open.spotify.com/album/1AC0Wj3fkdIK07vss8E0xx"
-      },
-      "artists": [
-        {
-          "name": "PicaPica",
-          "url": "https://open.spotify.com/artist/77a512qFKiDiTQlnbnbfqr"
-        }
-      ],
-      "duration_ms": 252093,
-      "name": "On the Wing",
-      "url": "https://open.spotify.com/track/4NzVkBIAEZH1Y0FzFaefbS"
-    },
-    {
-      "added_at": "2025-12-05 12:33:31",
-      "album": {
         "name": "Sings Ballads & Blues",
         "url": "https://open.spotify.com/album/4bA8oUUo9xbCzmBOsU8YwK"
       },
@@ -2807,6 +2791,22 @@
       "duration_ms": 307013,
       "name": "Easy Rider",
       "url": "https://open.spotify.com/track/2mL8BvRNhXQPvTjOB6CEkQ"
+    },
+    {
+      "added_at": "2025-12-05 12:33:31",
+      "album": {
+        "name": "Together & Apart",
+        "url": "https://open.spotify.com/album/1AC0Wj3fkdIK07vss8E0xx"
+      },
+      "artists": [
+        {
+          "name": "PicaPica",
+          "url": "https://open.spotify.com/artist/77a512qFKiDiTQlnbnbfqr"
+        }
+      ],
+      "duration_ms": 252093,
+      "name": "On the Wing",
+      "url": "https://open.spotify.com/track/4NzVkBIAEZH1Y0FzFaefbS"
     },
     {
       "added_at": "2025-12-05 12:33:31",
@@ -2947,22 +2947,6 @@
     {
       "added_at": "2025-12-05 12:33:31",
       "album": {
-        "name": "The Universe Smiles Upon You",
-        "url": "https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 159013,
-      "name": "People Everywhere (Still Alive)",
-      "url": "https://open.spotify.com/track/2OQ1V0e2O56AeIo4ywuYKF"
-    },
-    {
-      "added_at": "2025-12-05 12:33:31",
-      "album": {
         "name": "Veckatimest",
         "url": "https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk"
       },
@@ -2975,6 +2959,22 @@
       "duration_ms": 243160,
       "name": "Two Weeks",
       "url": "https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O"
+    },
+    {
+      "added_at": "2025-12-05 12:33:31",
+      "album": {
+        "name": "The Universe Smiles Upon You",
+        "url": "https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 159013,
+      "name": "People Everywhere (Still Alive)",
+      "url": "https://open.spotify.com/track/2OQ1V0e2O56AeIo4ywuYKF"
     },
     {
       "added_at": "2025-12-05 12:33:31",
@@ -3027,22 +3027,6 @@
     {
       "added_at": "2025-12-05 12:33:31",
       "album": {
-        "name": "Abattoir Blues / The Lyre of Orpheus",
-        "url": "https://open.spotify.com/album/4OrbNhWLOrWi6lb40T0IHM"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 411386,
-      "name": "O Children",
-      "url": "https://open.spotify.com/track/29FQEJUtBAnxWEkux39d7I"
-    },
-    {
-      "added_at": "2025-12-05 12:33:31",
-      "album": {
         "name": "Breakfast In America (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5UAy7rBQad6mSxklbtqUa8"
       },
@@ -3055,6 +3039,22 @@
       "duration_ms": 251253,
       "name": "The Logical Song - Remastered 2010",
       "url": "https://open.spotify.com/track/3T6R0ppqCnUW6iJhtUYhO3"
+    },
+    {
+      "added_at": "2025-12-05 12:33:31",
+      "album": {
+        "name": "Abattoir Blues / The Lyre of Orpheus",
+        "url": "https://open.spotify.com/album/4OrbNhWLOrWi6lb40T0IHM"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 411386,
+      "name": "O Children",
+      "url": "https://open.spotify.com/track/29FQEJUtBAnxWEkux39d7I"
     },
     {
       "added_at": "2025-12-05 12:33:31",
@@ -3115,22 +3115,6 @@
     {
       "added_at": "2025-12-05 12:33:31",
       "album": {
-        "name": "The Boatman's Call (2011 Remastered Version)",
-        "url": "https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 256120,
-      "name": "Into My Arms - 2011 Remastered Version",
-      "url": "https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj"
-    },
-    {
-      "added_at": "2025-12-05 12:33:31",
-      "album": {
         "name": "Adams: Shaker Loops / Wound Dresser / Short Ride in A Fast Machine",
         "url": "https://open.spotify.com/album/1Bc9x7mnZUSalh4Vml7nvc"
       },
@@ -3151,6 +3135,22 @@
       "duration_ms": 254400,
       "name": "Short Ride in a Fast Machine",
       "url": "https://open.spotify.com/track/39lN1yTJ5gz5AGypvQcq5D"
+    },
+    {
+      "added_at": "2025-12-05 12:33:31",
+      "album": {
+        "name": "The Boatman's Call (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 256120,
+      "name": "Into My Arms - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj"
     },
     {
       "added_at": "2025-12-05 12:33:31",
@@ -3203,22 +3203,6 @@
     {
       "added_at": "2025-12-05 12:33:31",
       "album": {
-        "name": "Digital & Rare, Vol. 1",
-        "url": "https://open.spotify.com/album/1kYon4xsRwKpbVTJDG1UFJ"
-      },
-      "artists": [
-        {
-          "name": "A Forest Mighty Black",
-          "url": "https://open.spotify.com/artist/4zPCP1wMTDpEWsMWtMvPv5"
-        }
-      ],
-      "duration_ms": 359773,
-      "name": "Sunday City Sequence",
-      "url": "https://open.spotify.com/track/1RdO4aqSgKXZtxtMuL32Xm"
-    },
-    {
-      "added_at": "2025-12-05 12:33:31",
-      "album": {
         "name": "Brothers In Arms (Remastered)",
         "url": "https://open.spotify.com/album/1NF8WUbdC632SIwixiWrLh"
       },
@@ -3247,6 +3231,22 @@
       "duration_ms": 413947,
       "name": "Time - 2011 Remastered Version",
       "url": "https://open.spotify.com/track/23W5DHu31ZLW9q0p2wQxfN"
+    },
+    {
+      "added_at": "2025-12-05 12:33:31",
+      "album": {
+        "name": "Digital & Rare, Vol. 1",
+        "url": "https://open.spotify.com/album/1kYon4xsRwKpbVTJDG1UFJ"
+      },
+      "artists": [
+        {
+          "name": "A Forest Mighty Black",
+          "url": "https://open.spotify.com/artist/4zPCP1wMTDpEWsMWtMvPv5"
+        }
+      ],
+      "duration_ms": 359773,
+      "name": "Sunday City Sequence",
+      "url": "https://open.spotify.com/track/1RdO4aqSgKXZtxtMuL32Xm"
     },
     {
       "added_at": "2025-12-05 12:33:31",
@@ -3283,6 +3283,22 @@
     {
       "added_at": "2025-12-05 12:33:31",
       "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/2nXJkqkS1tIKIyhBcFMmwz"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 160720,
+      "name": "Islands",
+      "url": "https://open.spotify.com/track/2SMn57cBVxoD4TArscpovk"
+    },
+    {
+      "added_at": "2025-12-05 12:33:31",
+      "album": {
         "name": "R-Kive",
         "url": "https://open.spotify.com/album/7Jigl7PJCgN4mAODbJYkFT"
       },
@@ -3311,22 +3327,6 @@
       "duration_ms": 251120,
       "name": "Daniel",
       "url": "https://open.spotify.com/track/5VvsZvy1mwx4teyvI7O9rs"
-    },
-    {
-      "added_at": "2025-12-05 12:33:31",
-      "album": {
-        "name": "xx",
-        "url": "https://open.spotify.com/album/2nXJkqkS1tIKIyhBcFMmwz"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 160720,
-      "name": "Islands",
-      "url": "https://open.spotify.com/track/2SMn57cBVxoD4TArscpovk"
     },
     {
       "added_at": "2025-12-05 12:33:31",

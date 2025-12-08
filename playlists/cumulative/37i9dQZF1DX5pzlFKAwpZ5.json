@@ -2833,6 +2833,24 @@
     },
     {
       "album": {
+        "name": "LICHT",
+        "url": "https://open.spotify.com/album/2wUjZqdRflZRYB3kE1YXUM"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202077,
+      "name": "LICHT",
+      "url": "https://open.spotify.com/track/6b9ISqw8KlXu4tbG2bLuqV"
+    },
+    {
+      "album": {
         "name": "async",
         "url": "https://open.spotify.com/album/55BwNuGPkSSKOCBkTSCQWA"
       },
@@ -3360,7 +3378,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 212481,
       "name": "Nature Morte",
       "url": "https://open.spotify.com/track/1BJh0hlduwUNWwsRqCDoRY"

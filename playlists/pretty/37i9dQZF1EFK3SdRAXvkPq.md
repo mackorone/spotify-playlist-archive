@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206 likes - 136 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 209 likes - 136 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 63 | [Dos Extraños](https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 3:17 |
 | 64 | [El Reggaetón](https://open.spotify.com/track/7ooWSUhPtPPJfBhhLdYjIn) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:36 |
 | 65 | [Bubble Gum \(with Yandel\)](https://open.spotify.com/track/0WPxLebZfb2ratPznK7iiT) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Bubble Gum \(with Yandel\)](https://open.spotify.com/album/622dtSTJDtnEiDdl9jhOe5) | 2:34 |
-| 66 | [Stoker](https://open.spotify.com/track/5v8WFJFQz3BTcjeOOppkIY) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Rayo](https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo) | 3:24 |
-| 67 | [Estas Ganas](https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Estas Ganas](https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO) | 2:46 |
+| 66 | [Estas Ganas](https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Estas Ganas](https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO) | 2:46 |
+| 67 | [Stoker](https://open.spotify.com/track/5v8WFJFQz3BTcjeOOppkIY) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Rayo](https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo) | 3:24 |
 | 68 | [Bebé no cambies tú](https://open.spotify.com/track/26OpmSF2NBuNokJhqrbQnE) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 2:51 |
 | 69 | [Soy un HP](https://open.spotify.com/track/70GjuOgd1NuiPTs82JBIUn) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Soy un HP](https://open.spotify.com/album/6tg2yjTAqpo2o8uInNcS4R) | 2:26 |
 | 70 | [Gracias](https://open.spotify.com/track/0CCaGohJXrtZaNyPB3xQxz) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 2:41 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 115 | [AMG \- Remix](https://open.spotify.com/track/2pWsP2b8BvGNTLKQ53IzTL) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [Debians](https://open.spotify.com/artist/09qVSIokv31IKHQGv7PkNd) | [LUV ALLERGIC RELOADED](https://open.spotify.com/album/6a9zlY2WK2J97xaLxSjrhc) | 4:15 |
 | 116 | [iNFiEL](https://open.spotify.com/track/5pAv7OG5axtYyFTgwRHoT4) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu), [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [iNFiEL](https://open.spotify.com/album/3ktRBDAce3gK8hOHxNrvxy) | 3:21 |
 | 117 | [Borrachita](https://open.spotify.com/track/3SX4yr2LJ6PYAoxu5JVZRB) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Borrachita](https://open.spotify.com/album/7s5lLiAVlmxu4SzCTMhnQk) | 2:32 |
-| 118 | [Oveja Negra](https://open.spotify.com/track/2iu4sVHpHaSWWuIzTbr0u2) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Fino](https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2) | 2:41 |
-| 119 | [Se Feliz](https://open.spotify.com/track/3OcKqMyb2Z2Yzl0exlQUtb) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Tonny Tun Tun](https://open.spotify.com/artist/4a0UP5sUQGKcn2QJnqMT0t), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [Poeta Herío](https://open.spotify.com/album/3e214gx6bbQgVykslGuK5F) | 3:22 |
+| 118 | [Se Feliz](https://open.spotify.com/track/3OcKqMyb2Z2Yzl0exlQUtb) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Tonny Tun Tun](https://open.spotify.com/artist/4a0UP5sUQGKcn2QJnqMT0t), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [Poeta Herío](https://open.spotify.com/album/3e214gx6bbQgVykslGuK5F) | 3:22 |
+| 119 | [Oveja Negra](https://open.spotify.com/track/2iu4sVHpHaSWWuIzTbr0u2) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Fino](https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2) | 2:41 |
 | 120 | [Sorry](https://open.spotify.com/track/0fjP3kUcpfiqpBhNY4ZivV) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Hana Fox](https://open.spotify.com/artist/2cCiU0BQAQIOgI2VgGFrg9) | [HAYABUSA](https://open.spotify.com/album/6HBOihZeCYtLVM3MiCt7QL) | 2:25 |
 | 121 | [LA MISMA SEMANA](https://open.spotify.com/track/1xwP2UggllQbPCzBPJ8Y27) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [2.1](https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay) | 2:32 |
 | 122 | [Besito De 3](https://open.spotify.com/track/18EYvHAcjYa6M06nwRmk2a) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU) | [De La Nada](https://open.spotify.com/album/4jKwM7c7M4nVravIlgM7im) | 2:08 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 135 | [Audemars](https://open.spotify.com/track/6TkkO0MSj5Fep5U4zEQYcF) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Audemars](https://open.spotify.com/album/4i1yJkIY6jlEeTxA2vjRY8) | 3:14 |
 | 136 | [Estrella Fugaz](https://open.spotify.com/track/4N0P7wQbTHpoZF69UYpr3V) | [Bryanne](https://open.spotify.com/artist/6R3sSAOL4rej4pFAAyMzWB) | [Estrella Fugaz](https://open.spotify.com/album/3lLj8bufRO2G5MtiFT5MNw) | 3:25 |
 
-Snapshot ID: `AcDh8gAAAAAIyomWppUFwoh0g/VrGbPZ`
+Snapshot ID: `AcDnkgAAAAB9Iq4JgMcPoMdzQymkIYEF`

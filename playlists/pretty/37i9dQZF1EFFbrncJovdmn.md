@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFbrncJovdmn.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Shivers](https://open.spotify.com/track/3xWGA8pa0IKFI7IMPri4P0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2) | 3:27 |
+| 1 | [Shivers](https://open.spotify.com/track/78AjaULHLHTUs2UhaTCM8N) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+\-=÷× \(Tour Collection: Live\)](https://open.spotify.com/album/06Frlgl1cZOIKxNVSYrxTO) | 3:27 |
 | 2 | [Shivers \(feat\. Jessi & SUNMI\)](https://open.spotify.com/track/1A3T3npKsrElQTjTEcr3LR) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Shivers \(feat\. Jessi & SUNMI\)](https://open.spotify.com/album/7HRCvQbIY5cRkgCkSM0vO3) | 3:27 |
 | 3 | [Shivers \(feat\. FEDUK & SLAVA MARLOW\)](https://open.spotify.com/track/64MeGCH5YppnMj0iNyaXvY) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [FEDUK](https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z), [SLAVA MARLOW](https://open.spotify.com/artist/55jryyk7RhvMbrvoF0ndBh) | [Shivers \(feat\. FEDUK & SLAVA MARLOW\)](https://open.spotify.com/album/6LRQlyFOrfJoUxJH1oE0kn) | 2:46 |
 | 4 | [Diversion](https://open.spotify.com/track/4dA7Ha7ojACVDMtPVsm5nO) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Diversion](https://open.spotify.com/album/1qmpNeGmGgnBYgCRttwEB5) | 2:42 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFbrncJovdmn.md) - [plain]
 | 28 | [Forgive Me](https://open.spotify.com/track/0UP8IaUpsVlQwT2gDY4jaw) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 4:09 |
 | 29 | [Saddest Song](https://open.spotify.com/track/1qCO1GKJevNPfKPm3vLPtk) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:24 |
 
-Snapshot ID: `AcDiGgAAAADcy0QxUmuLJvwtP6yA5kol`
+Snapshot ID: `AcDnfgAAAACgRENrIAjaBH0a9LjsF1Kr`

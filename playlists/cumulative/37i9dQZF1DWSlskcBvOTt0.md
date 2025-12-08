@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,040 songs - 3 day 14 hr 32 min
+1,041 songs - 3 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [ghost \(feat\. HUMAN\) \- Alex Wann Remix](https://open.spotify.com/track/37v3bXubm5YbjUKQKDJFAM) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj), [HUMAN](https://open.spotify.com/artist/4rje1ago7T6xEn8SABCTIY), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [ghost \(feat\. HUMAN\) \[Alex Wann Remix\]](https://open.spotify.com/album/72cnTA7svTEtPEVa081Ccf) | 3:52 | 2023-10-06 | 2024-08-30 |
 | [Ginger Me \(Alum\)](https://open.spotify.com/track/1VDNJ1igtPbzElQt5ERhud) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Ginger Me \(Alum\)](https://open.spotify.com/album/7KQT4pPtySGXLMof6sdWxt) | 2:15 | 2025-05-02 | 2025-07-25 |
 | [Give Back](https://open.spotify.com/track/4KNpbJUv1KQPODbcm5iy51) | [Artüria](https://open.spotify.com/artist/05wXpcU2A7ZeTjj0LLoQXs), [Solanca](https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM) | [Ways of Walking EP](https://open.spotify.com/album/4vdGHJExAj5bTrvbTNz6CD) | 6:33 | 2021-08-27 | 2022-07-28 |
+| [Give It All](https://open.spotify.com/track/1IPrjsTNfq2sMuMrDuiGBP) | [Emanuel Satie](https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij) | [Give It All](https://open.spotify.com/album/24RTvkSb3aoYar07Ix3I9d) | 2:59 | 2025-12-05 |  |
 | [Giza](https://open.spotify.com/track/13E7IeNnA8kgQ1Jcz1Cehf) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Giza](https://open.spotify.com/album/5X04fNVdcHNUNgqFFK1iPw) | 7:12 | 2021-04-21 | 2022-12-17 |
 | [God Gave Me Feet For Dancing \(Tasty Or Not Remix\)](https://open.spotify.com/track/5R7UMNIdotlpPC4HiAsVA1) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg), [Tasty Or Not](https://open.spotify.com/artist/3QYzuGjnQlMtraiz2fu6ad) | [God Gave Me Feet For Dancing \(Tasty Or Not Remix\)](https://open.spotify.com/album/75ZImLT7SMKG0mNQwL7IU8) | 4:02 | 2025-08-15 | 2025-11-08 |
 | [Golden Age](https://open.spotify.com/track/7AETVzErlvjYezA2SQTT8c) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Golden Age EP](https://open.spotify.com/album/7pwmhcdWEwj1oGhULsOWeB) | 3:52 | 2023-03-24 | 2023-04-07 |
@@ -874,7 +875,7 @@
 | [Surrender](https://open.spotify.com/track/71MpAo1R3xHEZkk50j5JU8) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [Surrender](https://open.spotify.com/album/5AKjyc73t13n0crY5Uy57T) | 3:34 | 2022-04-22 | 2022-07-27 |
 | [Sutra](https://open.spotify.com/track/4zE7xIXG4SAWsJJXIkRFYD) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Darmon](https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8) | [Sutra](https://open.spotify.com/album/1ZHiL8Pb2qKdQeDDevehMq) | 4:04 | 2024-04-19 | 2024-06-06 |
 | [Sweat](https://open.spotify.com/track/2KSyOw1xmLPbINlgSY6DsV) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Sweat](https://open.spotify.com/album/3QUQnOG82oidJv6LrMZAkH) | 3:24 | 2025-06-13 | 2025-09-25 |
-| [Sweet Boy](https://open.spotify.com/track/1SB3vBA3V37paKqQ4BfLVn) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [Sweet Boy](https://open.spotify.com/album/6B53fE8uMvCNbRTzD86ACl) | 3:37 | 2025-09-19 |  |
+| [Sweet Boy](https://open.spotify.com/track/1SB3vBA3V37paKqQ4BfLVn) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [Sweet Boy](https://open.spotify.com/album/6B53fE8uMvCNbRTzD86ACl) | 3:37 | 2025-09-19 | 2025-12-08 |
 | [Swim](https://open.spotify.com/track/1cBmC6LH5SAcNo4fEUH0sZ) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Swim / Surrounded](https://open.spotify.com/album/2dTHKAcKGZIvkrA17lwSMB) | 4:09 | 2025-10-17 | 2025-11-16 |
 | [Swing \- Solomun Remix](https://open.spotify.com/track/4uzb1HhlygWVTlH18TlUwM) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Swing \(Solomun Remix\)](https://open.spotify.com/album/6pMAtljFLCdqpVNVLY0iwB) | 4:06 | 2022-05-27 | 2022-07-29 |
 | [Symphonic Fantasy](https://open.spotify.com/track/0BZxv1E9EqjwWQneH7zFYQ) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [A Winter Sampler II](https://open.spotify.com/album/0m3OpCuqwyI3It73R2Gqwp) | 8:16 | 2021-04-21 | 2022-07-28 |

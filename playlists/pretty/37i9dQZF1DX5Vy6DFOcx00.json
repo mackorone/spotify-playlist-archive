@@ -1,13 +1,33 @@
 {
   "description": "iykyk",
-  "num_followers": 4159602,
+  "num_followers": 4158968,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADhCZSSj57O57V/lkXgtchi9jgVl",
+  "snapshot_id": "AAAAAFucVyJMGTEoy/m3AfapnFCNM94c",
   "tracks": [
+    {
+      "added_at": "2025-12-07 16:03:13",
+      "album": {
+        "name": "Discolized",
+        "url": "https://open.spotify.com/album/5ENOV7Wnbalw6341qhXp2f"
+      },
+      "artists": [
+        {
+          "name": "Kato",
+          "url": "https://open.spotify.com/artist/1udruffum7CorOphFUMB9A"
+        },
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
+        }
+      ],
+      "duration_ms": 177386,
+      "name": "Turn The Lights Off (feat. Jon)",
+      "url": "https://open.spotify.com/track/0wHayguZd1CeQDLYohXNMS"
+    },
     {
       "added_at": "2025-11-13 16:53:13",
       "album": {
@@ -1135,22 +1155,6 @@
       "duration_ms": 169214,
       "name": "House Tour",
       "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
-    },
-    {
-      "added_at": "2025-10-06 00:02:08",
-      "album": {
-        "name": "Claw Marks",
-        "url": "https://open.spotify.com/album/0gkwEpNLxaUH1EkJoLqjY0"
-      },
-      "artists": [
-        {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
-        }
-      ],
-      "duration_ms": 155528,
-      "name": "Claw Marks",
-      "url": "https://open.spotify.com/track/4MrQuHakNjwRhXBB9Rsdti"
     },
     {
       "added_at": "2025-09-11 17:54:10",

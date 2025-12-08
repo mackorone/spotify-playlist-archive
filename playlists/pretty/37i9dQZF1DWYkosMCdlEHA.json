@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 151066,
+  "num_followers": 151082,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2025-09-26 03:01:17",
       "album": {
+        "name": "S\u00f3 Pra Brilhar",
+        "url": "https://open.spotify.com/album/4dcwRYbS4okDFQiwPcEGuY"
+      },
+      "artists": [
+        {
+          "name": "Chimarruts",
+          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
+        }
+      ],
+      "duration_ms": 213653,
+      "name": "Roots Dance",
+      "url": "https://open.spotify.com/track/6fkjiRiUOO5UTUC5hPwqcB"
+    },
+    {
+      "added_at": "2025-09-26 03:01:17",
+      "album": {
         "name": "De Tanto Sol (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/0G9XFPE6847h3nRRL7Ct8n"
       },
@@ -487,22 +503,6 @@
     {
       "added_at": "2025-09-26 03:01:17",
       "album": {
-        "name": "S\u00f3 Pra Brilhar",
-        "url": "https://open.spotify.com/album/4dcwRYbS4okDFQiwPcEGuY"
-      },
-      "artists": [
-        {
-          "name": "Chimarruts",
-          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
-        }
-      ],
-      "duration_ms": 213653,
-      "name": "Roots Dance",
-      "url": "https://open.spotify.com/track/6fkjiRiUOO5UTUC5hPwqcB"
-    },
-    {
-      "added_at": "2025-09-26 03:01:17",
-      "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/6lmVZjhGk3WXhilmHHNbdR"
       },
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-09-26 03:01:17",
       "album": {
-        "name": "Serenou/Nosso Mundo (Acoustic Sessions)",
-        "url": "https://open.spotify.com/album/4SfiSAjkRpxELEOsOEskNJ"
-      },
-      "artists": [
-        {
-          "name": "Yeti Reggae Club",
-          "url": "https://open.spotify.com/artist/5VxPLGujYalBJdAOlU5bfs"
-        }
-      ],
-      "duration_ms": 221483,
-      "name": "Serenou/Nosso Mundo - Acoustic Sessions",
-      "url": "https://open.spotify.com/track/69VrPLeXiiQsIgZofFA7tn"
-    },
-    {
-      "added_at": "2025-09-26 03:01:17",
-      "album": {
         "name": "Bob Marley 75th Celebration (Pt.1) [Live]",
         "url": "https://open.spotify.com/album/4hcPkbsM5RqsxOym5uLzR6"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 292863,
       "name": "Roots, Rock, Reggae - Live",
       "url": "https://open.spotify.com/track/2AVcwdUR9479DrbWDRK07l"
+    },
+    {
+      "added_at": "2025-09-26 03:01:17",
+      "album": {
+        "name": "Serenou/Nosso Mundo (Acoustic Sessions)",
+        "url": "https://open.spotify.com/album/4SfiSAjkRpxELEOsOEskNJ"
+      },
+      "artists": [
+        {
+          "name": "Yeti Reggae Club",
+          "url": "https://open.spotify.com/artist/5VxPLGujYalBJdAOlU5bfs"
+        }
+      ],
+      "duration_ms": 221483,
+      "name": "Serenou/Nosso Mundo - Acoustic Sessions",
+      "url": "https://open.spotify.com/track/69VrPLeXiiQsIgZofFA7tn"
     },
     {
       "added_at": "2025-09-26 03:01:17",

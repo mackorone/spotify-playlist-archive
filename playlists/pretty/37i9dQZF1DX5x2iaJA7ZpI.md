@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x2iaJA7ZpI.md) - [plain]
 
 > Charli xcx & Troye Sivan present SWEAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,336 likes - 30 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,335 likes - 30 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 49897,
+  "num_followers": 49899,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTIggAAAAAC2+Lt7CLKqHEeIWQglOjDs",
+  "snapshot_id": "aTNyAAAAAAAYPbr4n/VlMRtLM13ArvGG",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sex & Death",
-        "url": "https://open.spotify.com/album/4tavJ3FRjrTqUHMs9wCKU2"
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
       },
       "artists": [
         {
           "name": "Rancid",
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        },
-        {
-          "name": "Killed By Deaf",
-          "url": "https://open.spotify.com/artist/6wGlLIhHRd6ipikm5x3EnB"
         }
       ],
-      "duration_ms": 124600,
-      "name": "Sex & Death",
-      "url": "https://open.spotify.com/track/4B5OpVsHLNEUSJJnCXetu0"
+      "duration_ms": 183640,
+      "name": "Tropical London",
+      "url": "https://open.spotify.com/track/02wrYv8k1VgsZI0WD1xh7r"
     },
     {
       "added_at": null,
@@ -419,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
+        "name": "Sex & Death",
+        "url": "https://open.spotify.com/album/4tavJ3FRjrTqUHMs9wCKU2"
       },
       "artists": [
         {
           "name": "Rancid",
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        },
+        {
+          "name": "Killed By Deaf",
+          "url": "https://open.spotify.com/artist/6wGlLIhHRd6ipikm5x3EnB"
         }
       ],
-      "duration_ms": 183640,
-      "name": "Tropical London",
-      "url": "https://open.spotify.com/track/02wrYv8k1VgsZI0WD1xh7r"
+      "duration_ms": 124600,
+      "name": "Sex & Death",
+      "url": "https://open.spotify.com/track/4B5OpVsHLNEUSJJnCXetu0"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Dominoes Fall (Expanded Version)",
-        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 160360,
-      "name": "Up To No Good",
-      "url": "https://open.spotify.com/track/1Ple8GjeW9SQDao6azBsHi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Indestructible",
         "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 89666,
       "name": "It's Quite Alright",
       "url": "https://open.spotify.com/track/0Mb9b1dko7GyYb2s6T7Ce1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let The Dominoes Fall (Expanded Version)",
+        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 160360,
+      "name": "Up To No Good",
+      "url": "https://open.spotify.com/track/1Ple8GjeW9SQDao6azBsHi"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 86133,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/30zaM8Jc0whvFCW0iPgxZS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rancid (5)",
         "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 35572,
       "name": "Don Giovanni",
       "url": "https://open.spotify.com/track/5B00fJjWmpmDwTN68ppL8e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/44FRRbDmIqioUuIKjua6MT"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 86133,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/30zaM8Jc0whvFCW0iPgxZS"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomorrow Never Comes",
-        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 81741,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/1nppgD5Ns9krMDqe8n0Jmj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rancid (5)",
         "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 78733,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5Yljkq4TrBgDpwPRZcMgh4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 81741,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/1nppgD5Ns9krMDqe8n0Jmj"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomorrow Never Comes",
-        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 58371,
-      "name": "Don't Make Me Do It",
-      "url": "https://open.spotify.com/track/3HNI0dwTStPSThqfEJW48M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rancid (5)",
         "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 193437,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/1aABR4wfyq8pESFDGUssSO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 58371,
+      "name": "Don't Make Me Do It",
+      "url": "https://open.spotify.com/track/3HNI0dwTStPSThqfEJW48M"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomorrow Never Comes",
-        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 157643,
-      "name": "New American",
-      "url": "https://open.spotify.com/track/0puOfy2IqL1fRF3wIFV09t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rancid",
         "url": "https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 144400,
       "name": "Detroit",
       "url": "https://open.spotify.com/track/06yrcI03mmIh5bNtGMn2k5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 157643,
+      "name": "New American",
+      "url": "https://open.spotify.com/track/0puOfy2IqL1fRF3wIFV09t"
     },
     {
       "added_at": null,

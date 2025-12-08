@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,998 likes - 50 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,021 likes - 50 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 19 | [And the Saturdays Continue](https://open.spotify.com/track/3rc8KPTtRqxIxjmGvR1VYj) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \(Original Background Score\)](https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0) | 3:28 |
 | 20 | [Mass Theme Of Pushpa](https://open.spotify.com/track/4kyFdoTanak2xGGLvxQE7u) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Pushpa The Rise \- OST](https://open.spotify.com/album/64Vs6t5DycA8LzjeIGDSHk) | 1:55 |
 | 21 | [REVEAL](https://open.spotify.com/track/26j1aLwumMRp6aofc7Yros) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Mangalavaaram \- OST](https://open.spotify.com/album/7HjFGBR2amY3WSJZXZt3o1) | 1:06 |
-| 22 | [Agni Skalana](https://open.spotify.com/track/547drAxnHv6qRwvJMceREO) | [M\. M\. Keeravaani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Mathangi](https://open.spotify.com/artist/1FLKLH0gwcm3HOkQopsn9t) | [Chatrapathi](https://open.spotify.com/album/5xvwlDPbWYpTSeWdBJf2oX) | 3:09 |
+| 22 | [Hero Intro](https://open.spotify.com/track/65OIg0LBpcYxyOCFs5Eknd) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Guntur Kaaram \- OST](https://open.spotify.com/album/7E749lMazRqe3OZNndFd6n) | 3:56 |
 | 23 | [Arjun & Nani’s Theme](https://open.spotify.com/track/3AxmlfbUYBjL2N7BRAAY8l) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jersey \(Original Background Score\)](https://open.spotify.com/album/44f9oPlMaeYuApesdVp658) | 2:19 |
-| 24 | [Hero Intro](https://open.spotify.com/track/65OIg0LBpcYxyOCFs5Eknd) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Guntur Kaaram \- OST](https://open.spotify.com/album/7E749lMazRqe3OZNndFd6n) | 3:56 |
+| 24 | [Agni Skalana](https://open.spotify.com/track/547drAxnHv6qRwvJMceREO) | [M\. M\. Keeravaani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Mathangi](https://open.spotify.com/artist/1FLKLH0gwcm3HOkQopsn9t) | [Chatrapathi](https://open.spotify.com/album/5xvwlDPbWYpTSeWdBJf2oX) | 3:09 |
 | 25 | [Waltair Veerayya \(Title Theme\) \[From "Waltair Veerayya"\]](https://open.spotify.com/track/07ilkGOCkZ9Biv0lfbhpgX) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Waltair Veerayya \(Title Theme\) \[From "Waltair Veerayya"\]](https://open.spotify.com/album/5pQSVnmsMDGzlOqrYguxmM) | 1:39 |
 | 26 | [Theme](https://open.spotify.com/track/4lTfaHVSJms1xZhnXMn6xB) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Goodachari](https://open.spotify.com/album/7kYmtBahBseaOVBiZQa7p5) | 5:15 |
 | 27 | [Dizzy Dance](https://open.spotify.com/track/58NdvwKBAX4Ml4DNnfUlEW) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \(Original Background Score\)](https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0) | 3:35 |

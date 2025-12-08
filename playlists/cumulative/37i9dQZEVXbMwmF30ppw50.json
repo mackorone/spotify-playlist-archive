@@ -806,7 +806,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 121526,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/67mgz7S5y7hnCE63YBjfO6"
@@ -824,7 +824,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 121526,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6rqn19AqjcM5wgI1hCYciJ"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/3it2BvJfyhPEWF3kD2TZJ1"
@@ -2308,7 +2308,7 @@
     {
       "album": {
         "name": "A Very Laufey Holiday",
-        "url": "https://open.spotify.com/album/32gqZfrZ51UMunez3CZDJZ"
+        "url": "https://open.spotify.com/album/0uQi9pGprBB8IEQgjkP1AS"
       },
       "artists": [
         {
@@ -2319,6 +2319,24 @@
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 132799,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/6eODMWDVi22dpEZJoqg5h7"
+    },
+    {
+      "album": {
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/32gqZfrZ51UMunez3CZDJZ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2025-12-08",
       "duration_ms": 132800,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/4MQOInul4Fa1ymK6ocq0jM"

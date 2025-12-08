@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 18090,
+  "num_followers": 18106,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTIggAAAAACHFofCdc8PlmGBtexskZOF",
+  "snapshot_id": "aTNyAAAAAADz27Kb2GgOGtWiw0eqmeYK",
   "tracks": [
     {
       "added_at": null,
@@ -127,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "abysskiss",
-        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/0X8MNN8so3P2o1ukHH6k6v"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 183040,
-      "name": "abyss kiss",
-      "url": "https://open.spotify.com/track/4ry8TnIKq7vP1cUqN7eq5n"
+      "duration_ms": 236586,
+      "name": "Snow Song",
+      "url": "https://open.spotify.com/track/1okJLT3cqXnzLnpthlxqkz"
     },
     {
       "added_at": null,
@@ -175,8 +175,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/0X8MNN8so3P2o1ukHH6k6v"
+        "name": "abysskiss",
+        "url": "https://open.spotify.com/album/50eixdXB4Z1CTZtu7wCfEA"
       },
       "artists": [
         {
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 236586,
-      "name": "Snow Song",
-      "url": "https://open.spotify.com/track/1okJLT3cqXnzLnpthlxqkz"
+      "duration_ms": 183040,
+      "name": "abyss kiss",
+      "url": "https://open.spotify.com/track/4ry8TnIKq7vP1cUqN7eq5n"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel Better",
-        "url": "https://open.spotify.com/album/0hc8g5I4hvtuD3GPYkK7he"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "Feel Better",
-      "url": "https://open.spotify.com/track/0uAjs9DbEIKI1uz0hIGaxm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "a-sides and b-sides",
         "url": "https://open.spotify.com/album/7ndirwTVASzvPDffHarAxg"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 171453,
       "name": "Kerina",
       "url": "https://open.spotify.com/track/7g8ItJSkkk3wX65yMUxEne"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feel Better",
+        "url": "https://open.spotify.com/album/0hc8g5I4hvtuD3GPYkK7he"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/0uAjs9DbEIKI1uz0hIGaxm"
     },
     {
       "added_at": null,

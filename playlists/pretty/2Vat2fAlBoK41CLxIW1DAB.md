@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,609 likes - 789 songs - 2 day 1 hr 29 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,608 likes - 789 songs - 2 day 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -793,7 +793,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 783 | [Midnight Witch](https://open.spotify.com/track/2GByP9nBSGlq6aw5K7A4Xi) | [Master Dy](https://open.spotify.com/artist/3lfScZWl1nVVmsYciBXKBu) | [Midnight Witch](https://open.spotify.com/album/0svfZnFDfYxdpIC0RM6nn3) | 4:25 |
 | 784 | [Nightmare \- Oblivion](https://open.spotify.com/track/7uDwF4ay0m4LGzwTLK270h) | [VortekLabel](https://open.spotify.com/artist/1gaOb7Zu3CL7o1goGPZPRh), [Hard Labs](https://open.spotify.com/artist/2ncvWngOisyimNgRkb11oj), [Hype Music](https://open.spotify.com/artist/4avpw1MN3Ub5BZV3xDCjUr), [eeymwnn](https://open.spotify.com/artist/6NeuQp2ZsVwSoNHujaup4u) | [Nightmare \- Oblivion](https://open.spotify.com/album/2pA1dvbjFaqEmTAzKnrdzQ) | 2:40 |
 | 785 | [Presente Imperfecto](https://open.spotify.com/track/0OHvFYxP5jCifoq7iDoixb) | [SONORAMiCOS](https://open.spotify.com/artist/5I0mPJBSGW6E9sbrwOfKCE) | [Presente Imperfecto](https://open.spotify.com/album/2UCecjJfkHXvzZDbt4vfbk) | 2:59 |
-| 786 | [My Song](https://open.spotify.com/track/0sE1TOUHEfOuMBdyZxLlhk) | [Lonewolves in Paradise](https://open.spotify.com/artist/4yjZvSYHEv1Esyl8Fwpe3O) | [My Song](https://open.spotify.com/album/50yKv8FDcE0UzMYXCohf8C) | 2:44 |
+| 786 | [MY SONG](https://open.spotify.com/track/0sE1TOUHEfOuMBdyZxLlhk) | [Lonewolves in Paradise](https://open.spotify.com/artist/4yjZvSYHEv1Esyl8Fwpe3O) | [MY SONG](https://open.spotify.com/album/50yKv8FDcE0UzMYXCohf8C) | 2:44 |
 | 787 | [Everything Going Well is a Bad Thing, Right?](https://open.spotify.com/track/5aiW08yblQAddo0F5Snn3O) | [All Systems Go](https://open.spotify.com/artist/3vUgiedsWyaAljWZL0MMCo) | [Everything Going Well is a Bad Thing, Right?](https://open.spotify.com/album/6bfqFc7um2xcUYApvma8KY) | 3:36 |
 | 788 | [Bubble Fight](https://open.spotify.com/track/5ZWVUGYwYbC2P1zzGi9D0B) | [Hard Softee](https://open.spotify.com/artist/4F1IzLLPomRL7g3IlrefEy) | [Bubble Fight](https://open.spotify.com/album/5JhSHliugRpGiEpKQXXwwr) | 3:26 |
 | 789 | [Make Love \(with Santa Claus\)](https://open.spotify.com/track/1SGIrtQEOHHZXTNRn80eEL) | [LOW/LATE](https://open.spotify.com/artist/7gWmJ9eJ1xHygxVUv8JpfD) | [Make Love \(with Santa Claus\)](https://open.spotify.com/album/2mb68wtdCCbUub5ad1idtp) | 2:38 |

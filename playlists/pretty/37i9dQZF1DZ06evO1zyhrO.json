@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 103783,
+  "num_followers": 103788,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTIggAAAAAAfh1nBWUh1fB6QNwG8DToI",
+  "snapshot_id": "aTNyAAAAAAAItkrYVFTrMPaHwisrfneX",
   "tracks": [
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/6effz36583EebaQcS3ZOrM"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 214884,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/7kY1WABmdU172DhChtsdAP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Following My Intuition (Expanded Edition)",
         "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 157653,
       "name": "Ain't Giving Up",
       "url": "https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/6effz36583EebaQcS3ZOrM"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 214884,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/7kY1WABmdU172DhChtsdAP"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Commitment",
-        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 178019,
-      "name": "Your Way",
-      "url": "https://open.spotify.com/track/2g7uNji2ayan37eqJEemka"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Commitment Pt. 2",
         "url": "https://open.spotify.com/album/2C5iXNp4MhtCRaWEDmETML"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 200403,
       "name": "Commitment Pt. 2",
       "url": "https://open.spotify.com/track/0bNdQX1YTnyXaZE03ndUJ1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 178019,
+      "name": "Your Way",
+      "url": "https://open.spotify.com/track/2g7uNji2ayan37eqJEemka"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "22 (Deluxe)",
-        "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "Obvious - feat. Muni Long",
-      "url": "https://open.spotify.com/track/5hIYTHpbKZp5Rq1amDLL9i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
         "url": "https://open.spotify.com/album/1AgWojXgktMU5PEnxJOivQ"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 167796,
       "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
       "url": "https://open.spotify.com/track/3zgJsdpKe6HTU2A7bZVvqE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "22 (Deluxe)",
+        "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "Obvious - feat. Muni Long",
+      "url": "https://open.spotify.com/track/5hIYTHpbKZp5Rq1amDLL9i"
     },
     {
       "added_at": null,
@@ -943,18 +943,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Every Neighbour Got Their Flava (Just Eat)",
-        "url": "https://open.spotify.com/album/2hdOMkeUEwT54EN0jnfHdD"
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
       },
       "artists": [
         {
           "name": "Craig David",
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Louisa Johnson",
+          "url": "https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq"
         }
       ],
-      "duration_ms": 60000,
-      "name": "Every Neighbour Got Their Flava (Just Eat)",
-      "url": "https://open.spotify.com/track/7BBF73cSuNulTag3pLOvVQ"
+      "duration_ms": 198340,
+      "name": "Leave The Light On",
+      "url": "https://open.spotify.com/track/4QKaDo33XTC0JumNtvBNXI"
     }
   ],
   "unique_name": "This Is Craig David",

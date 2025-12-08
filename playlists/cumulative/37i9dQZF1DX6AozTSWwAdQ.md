@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-477 songs - 1 day 1 hr 3 min
+478 songs - 1 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Friends With Benefits](https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Friends With Benefits](https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N) | 3:07 | 2023-03-06 | 2023-03-14 |
 | [Fuck It I Love You](https://open.spotify.com/track/7eU1oQcE89ZS7T8oVuMn4G) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Fuck It I Love You](https://open.spotify.com/album/52Ey7PJjy1ct2Qoygs7h8W) | 3:23 | 2022-06-13 | 2022-07-27 |
 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-11 |  |
+| [GETCHA! \(with Nic Cester, Jet & Chad Smith\) \- prod\. Tom Morello](https://open.spotify.com/track/6ObOQwjP7hycMhlYbSJuvk) | [Thomas Raggi](https://open.spotify.com/artist/7h78e3zJw6pDP7JzBqQUsN), [Nic Cester](https://open.spotify.com/artist/43e7l1zzucI3mcM69nNpYP), [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI), [Chad Smith](https://open.spotify.com/artist/4DW34vji6G9GgGY0k2mic7) | [MASQUERADE](https://open.spotify.com/album/382CgB4kYWoc4ksVQpHjBo) | 3:02 | 2025-12-07 |  |
 | [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/track/3MTm8eZ2wCEtpyZqqhP6Dn) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/album/43tasPwPisjAgGgde0yy7F) | 2:52 | 2022-07-25 | 2022-09-10 |
 | [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/track/4nvGIQPgLnWWJUJrnRsIOX) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 2:54 | 2022-10-10 | 2022-12-30 |
 | [Give Me a Kiss](https://open.spotify.com/track/0OXdfW3Q6VJGpg1k5Ik1SW) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Give Me a Kiss](https://open.spotify.com/album/0CafPkGhvLKbSwto8FQJq1) | 2:49 | 2022-11-14 | 2024-04-19 |
@@ -276,7 +277,7 @@
 | [Love Of Mine \- Night Visions Demo](https://open.spotify.com/track/4C20SN2nzLbsZbS6A4idoA) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Love Of Mine \(Night Visions Demo\)](https://open.spotify.com/album/3BAUn8SPQORLl49pDhR30l) | 4:09 | 2022-09-05 | 2022-11-13 |
 | [love race \(feat\. Kellin Quinn\)](https://open.spotify.com/track/1F9kEuwT29fgqlovIclu81) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [love race \(feat\. Kellin Quinn\)](https://open.spotify.com/album/3q4wUTOTsRASPClG5Fg3tk) | 3:08 | 2024-05-20 |  |
 | [MAMMAMIA](https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [MAMMAMIA](https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme) | 3:06 | 2022-07-25 |  |
-| [Man Enough](https://open.spotify.com/track/2MQ31Ktcia4SEFiVmTYOiF) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Man Enough](https://open.spotify.com/album/6x40hcu103z4BhmfzXTZGh) | 2:43 | 2025-11-30 |  |
+| [Man Enough](https://open.spotify.com/track/2MQ31Ktcia4SEFiVmTYOiF) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Man Enough](https://open.spotify.com/album/6x40hcu103z4BhmfzXTZGh) | 2:43 | 2025-11-30 | 2025-12-08 |
 | [Maniac](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:05 | 2022-07-25 | 2024-04-19 |
 | [Maniac](https://open.spotify.com/track/7hpJ9tATWb2vztlq99hERP) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Maniac](https://open.spotify.com/album/4x1U4pmSekLejbWCRI0SES) | 3:05 | 2022-06-06 | 2022-07-29 |
 | [Married In Vegas](https://open.spotify.com/track/1wRXZO2KeCbovrfaOFoMnz) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Married In Vegas](https://open.spotify.com/album/18WA8z5joXDcVLoB87mxBB) | 3:12 | 2022-06-27 | 2022-07-22 |

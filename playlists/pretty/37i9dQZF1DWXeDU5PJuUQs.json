@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 244940,
+  "num_followers": 245138,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,38 @@
     {
       "added_at": "2025-10-24 13:22:23",
       "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5P7VEteqUqUhaDje7L2UVf"
+      },
+      "artists": [
+        {
+          "name": "Carlos Montalvo",
+          "url": "https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M"
+        }
+      ],
+      "duration_ms": 148906,
+      "name": "Sin ti no se vivir",
+      "url": "https://open.spotify.com/track/7L9YJpt99uvrMBHpSfAUEC"
+    },
+    {
+      "added_at": "2025-10-24 13:22:23",
+      "album": {
+        "name": "Luna Park (En Vivo)",
+        "url": "https://open.spotify.com/album/1Oatu8AcJtDJsC24cEJr3r"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 198267,
+      "name": "Pa' la Selecci\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/6o74gO9Cc65yOph1pWnWmS"
+    },
+    {
+      "added_at": "2025-10-24 13:22:23",
+      "album": {
         "name": "Intento (En Vivo)",
         "url": "https://open.spotify.com/album/3UUuCRlQaX3HWZ1HkVuKpb"
       },
@@ -675,22 +707,6 @@
     {
       "added_at": "2025-10-24 13:22:23",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/5P7VEteqUqUhaDje7L2UVf"
-      },
-      "artists": [
-        {
-          "name": "Carlos Montalvo",
-          "url": "https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M"
-        }
-      ],
-      "duration_ms": 148906,
-      "name": "Sin ti no se vivir",
-      "url": "https://open.spotify.com/track/7L9YJpt99uvrMBHpSfAUEC"
-    },
-    {
-      "added_at": "2025-10-24 13:22:23",
-      "album": {
         "name": "Ella Dijo / Mil Horas",
         "url": "https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 199435,
       "name": "Ella Dijo / Mil Horas - En Vivo",
       "url": "https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl"
-    },
-    {
-      "added_at": "2025-10-24 13:22:23",
-      "album": {
-        "name": "Luna Park (En Vivo)",
-        "url": "https://open.spotify.com/album/1Oatu8AcJtDJsC24cEJr3r"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 198267,
-      "name": "Pa' la Selecci\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/6o74gO9Cc65yOph1pWnWmS"
     },
     {
       "added_at": "2025-10-24 13:22:23",
@@ -899,18 +899,18 @@
     {
       "added_at": "2025-10-24 13:22:23",
       "album": {
-        "name": "Que Vuelvas (En Vivo)",
-        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
       },
       "artists": [
         {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
         }
       ],
-      "duration_ms": 108129,
-      "name": "Que Vuelvas - En Vivo",
-      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
+      "duration_ms": 281234,
+      "name": "Si No Te Hubieras Ido - En Vivo",
+      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
     },
     {
       "added_at": "2025-10-24 13:22:23",
@@ -947,34 +947,38 @@
     {
       "added_at": "2025-10-24 13:22:23",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
+        "name": "Que Vuelvas (En Vivo)",
+        "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
       },
       "artists": [
         {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
         }
       ],
-      "duration_ms": 281234,
-      "name": "Si No Te Hubieras Ido - En Vivo",
-      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
+      "duration_ms": 108129,
+      "name": "Que Vuelvas - En Vivo",
+      "url": "https://open.spotify.com/track/0Z5bUqfLXTPT0DfX5gIa6f"
     },
     {
       "added_at": "2025-10-24 13:22:23",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
+        "name": "Luis Ornelas - Session #49 (Sin Miedo: Lado S)",
+        "url": "https://open.spotify.com/album/5ZIveP7Qu4aMutlybGeSgB"
       },
       "artists": [
         {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+          "name": "Sin Miedo",
+          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
+        },
+        {
+          "name": "Luis Ornelas y su Grupo",
+          "url": "https://open.spotify.com/artist/5ioaYiDl0Yc0tQHac96w44"
         }
       ],
-      "duration_ms": 221701,
-      "name": "Tu Sin Mi - En Vivo",
-      "url": "https://open.spotify.com/track/31jGueHW0i2xaGCtslbrdl"
+      "duration_ms": 111605,
+      "name": "Cumbia buena",
+      "url": "https://open.spotify.com/track/0QxYb3Kg7W2Ls5aAQncHJd"
     },
     {
       "added_at": "2025-10-24 13:22:23",
@@ -999,22 +1003,18 @@
     {
       "added_at": "2025-10-24 13:22:23",
       "album": {
-        "name": "Luis Ornelas - Session #49 (Sin Miedo: Lado S)",
-        "url": "https://open.spotify.com/album/5ZIveP7Qu4aMutlybGeSgB"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
       },
       "artists": [
         {
-          "name": "Sin Miedo",
-          "url": "https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY"
-        },
-        {
-          "name": "Luis Ornelas y su Grupo",
-          "url": "https://open.spotify.com/artist/5ioaYiDl0Yc0tQHac96w44"
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
         }
       ],
-      "duration_ms": 111605,
-      "name": "Cumbia buena",
-      "url": "https://open.spotify.com/track/0QxYb3Kg7W2Ls5aAQncHJd"
+      "duration_ms": 221701,
+      "name": "Tu Sin Mi - En Vivo",
+      "url": "https://open.spotify.com/track/31jGueHW0i2xaGCtslbrdl"
     },
     {
       "added_at": "2025-10-24 13:22:23",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-10-24 13:22:23",
       "album": {
-        "name": "En Vivo Movistar Arena, Sesi\u00f3n 1",
-        "url": "https://open.spotify.com/album/46VBUMLDQnPoR33QuXVJM7"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 145124,
-      "name": "Yo tomo licor - En Vivo",
-      "url": "https://open.spotify.com/track/4cJTVWpkGJa5G18egTwu2W"
-    },
-    {
-      "added_at": "2025-10-24 13:22:23",
-      "album": {
         "name": "Cochi Nini (Vivo En El Teatro, Opera / 2018)",
         "url": "https://open.spotify.com/album/5MMa4u2omJMxP80ax9Tbdi"
       },
@@ -1351,6 +1335,38 @@
       "duration_ms": 208613,
       "name": "Cochi Nini - Vivo En El Teatro, Opera / 2018",
       "url": "https://open.spotify.com/track/27kqJPeuxDc69unu3rG0Ov"
+    },
+    {
+      "added_at": "2025-10-24 13:22:23",
+      "album": {
+        "name": "En Vivo Movistar Arena, Sesi\u00f3n 1",
+        "url": "https://open.spotify.com/album/46VBUMLDQnPoR33QuXVJM7"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 145124,
+      "name": "Yo tomo licor - En Vivo",
+      "url": "https://open.spotify.com/track/4cJTVWpkGJa5G18egTwu2W"
+    },
+    {
+      "added_at": "2025-10-24 13:22:23",
+      "album": {
+        "name": "En Vivo Estadio Luna Park",
+        "url": "https://open.spotify.com/album/6xYnpeN2izdbOVKbEIJs1z"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 278811,
+      "name": "Amiga Traidora - En Vivo Estadio Luna Park",
+      "url": "https://open.spotify.com/track/6LFz8eGFPl3Wl7RGSS8HBc"
     },
     {
       "added_at": "2025-10-24 13:22:23",
@@ -1387,22 +1403,6 @@
       "duration_ms": 328000,
       "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor - En Vivo",
       "url": "https://open.spotify.com/track/5q17HklaySch2Jg73dYgto"
-    },
-    {
-      "added_at": "2025-10-24 13:22:23",
-      "album": {
-        "name": "En Vivo Estadio Luna Park",
-        "url": "https://open.spotify.com/album/6xYnpeN2izdbOVKbEIJs1z"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 278811,
-      "name": "Amiga Traidora - En Vivo Estadio Luna Park",
-      "url": "https://open.spotify.com/track/6LFz8eGFPl3Wl7RGSS8HBc"
     },
     {
       "added_at": "2025-10-24 13:22:23",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-10-24 13:22:23",
       "album": {
-        "name": "En Vivo Desde el Teatro Opera",
-        "url": "https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 433520,
-      "name": "Karma / Me Voy / Solita Me Voy - En Vivo",
-      "url": "https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm"
-    },
-    {
-      "added_at": "2025-10-24 13:22:23",
-      "album": {
         "name": "Ay, Amor (En Vivo)",
         "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 193000,
       "name": "Quiero Yo Saber (Donde Esta El Amor)",
       "url": "https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc"
+    },
+    {
+      "added_at": "2025-10-24 13:22:23",
+      "album": {
+        "name": "En Vivo Desde el Teatro Opera",
+        "url": "https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 433520,
+      "name": "Karma / Me Voy / Solita Me Voy - En Vivo",
+      "url": "https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm"
     },
     {
       "added_at": "2025-10-24 13:22:23",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-10-24 13:22:23",
       "album": {
-        "name": "Era Tranquila (En Vivo)",
-        "url": "https://open.spotify.com/album/6T9HaCMIJRLkxmzZPEMdNF"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 237098,
-      "name": "Era Tranquila - En Vivo",
-      "url": "https://open.spotify.com/track/0kHoDrq6IFIV5AAZRFOEQd"
-    },
-    {
-      "added_at": "2025-10-24 13:22:23",
-      "album": {
         "name": "Flor del Ba\u00f1ado (En Vivo)",
         "url": "https://open.spotify.com/album/48au1oyXaWr5hmbyKMIKzF"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2025-10-24 13:22:23",
       "album": {
-        "name": "En Vivo Movistar Arena, Sesi\u00f3n 6",
-        "url": "https://open.spotify.com/album/3UOFdd8nRoCnDXDD733Mcf"
+        "name": "Era Tranquila (En Vivo)",
+        "url": "https://open.spotify.com/album/6T9HaCMIJRLkxmzZPEMdNF"
       },
       "artists": [
         {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
         }
       ],
-      "duration_ms": 157750,
-      "name": "Cumbia Dile - En Vivo",
-      "url": "https://open.spotify.com/track/6OkKSac9tED1Pnxo16G9Ng"
+      "duration_ms": 237098,
+      "name": "Era Tranquila - En Vivo",
+      "url": "https://open.spotify.com/track/0kHoDrq6IFIV5AAZRFOEQd"
     },
     {
       "added_at": "2025-10-24 13:22:23",
@@ -1619,22 +1603,6 @@
     {
       "added_at": "2025-10-24 13:22:23",
       "album": {
-        "name": "P\u00e1jaro y Demonio (En Vivo en Estadio Ferro)",
-        "url": "https://open.spotify.com/album/5nvYMz3U7q2koCQ7NgJOun"
-      },
-      "artists": [
-        {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        }
-      ],
-      "duration_ms": 251223,
-      "name": "P\u00e1jaro y Demonio - En Vivo en Estadio Ferro",
-      "url": "https://open.spotify.com/track/2jCMZLVsoJVy2kXMVCo6WB"
-    },
-    {
-      "added_at": "2025-10-24 13:22:23",
-      "album": {
         "name": "En Vivo en el Teatro",
         "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
       },
@@ -1647,6 +1615,38 @@
       "duration_ms": 462272,
       "name": "Atrapado en Tus Redes / En Este Mundo / La Que Me Pudo Enamorar/ Amor, Amor",
       "url": "https://open.spotify.com/track/3CQTlvddBStyQqsChwzpvc"
+    },
+    {
+      "added_at": "2025-10-24 13:22:23",
+      "album": {
+        "name": "En Vivo Movistar Arena, Sesi\u00f3n 6",
+        "url": "https://open.spotify.com/album/3UOFdd8nRoCnDXDD733Mcf"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 157750,
+      "name": "Cumbia Dile - En Vivo",
+      "url": "https://open.spotify.com/track/6OkKSac9tED1Pnxo16G9Ng"
+    },
+    {
+      "added_at": "2025-10-24 13:22:23",
+      "album": {
+        "name": "P\u00e1jaro y Demonio (En Vivo en Estadio Ferro)",
+        "url": "https://open.spotify.com/album/5nvYMz3U7q2koCQ7NgJOun"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "duration_ms": 251223,
+      "name": "P\u00e1jaro y Demonio - En Vivo en Estadio Ferro",
+      "url": "https://open.spotify.com/track/2jCMZLVsoJVy2kXMVCo6WB"
     },
     {
       "added_at": "2025-10-24 13:22:23",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-10-24 13:22:23",
       "album": {
-        "name": "13 A\u00d1OS - 3ra Selecci\u00f3n (EN VIVO)",
-        "url": "https://open.spotify.com/album/54lpTpJjiDhOMiD2rSX9QS"
-      },
-      "artists": [
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
-        }
-      ],
-      "duration_ms": 199734,
-      "name": "BOMBONA / EL AMOR SE FUE / ME VA MEJOR CON EL ALCOHOL",
-      "url": "https://open.spotify.com/track/6azBqRlGa9SHE21z6SJVbP"
-    },
-    {
-      "added_at": "2025-10-24 13:22:23",
-      "album": {
         "name": "Una Copa de M\u00e1s (En Vivo)",
         "url": "https://open.spotify.com/album/7LlRV4bIsP2akGc5deG4sL"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 316182,
       "name": "Una Copa de M\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/0SwkOOtQpkKDTUFOSIijpr"
+    },
+    {
+      "added_at": "2025-10-24 13:22:23",
+      "album": {
+        "name": "13 A\u00d1OS - 3ra Selecci\u00f3n (EN VIVO)",
+        "url": "https://open.spotify.com/album/54lpTpJjiDhOMiD2rSX9QS"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        }
+      ],
+      "duration_ms": 199734,
+      "name": "BOMBONA / EL AMOR SE FUE / ME VA MEJOR CON EL ALCOHOL",
+      "url": "https://open.spotify.com/track/6azBqRlGa9SHE21z6SJVbP"
     },
     {
       "added_at": "2025-10-24 13:22:23",
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2025-10-24 13:22:23",
       "album": {
-        "name": "Artistas invitados, Pt. 3 (En Vivo)",
-        "url": "https://open.spotify.com/album/1zXO3nXZgTKRcxpAzPMcpk"
-      },
-      "artists": [
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        },
-        {
-          "name": "Los del bohio",
-          "url": "https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn"
-        }
-      ],
-      "duration_ms": 95108,
-      "name": "Vete - En Vivo",
-      "url": "https://open.spotify.com/track/5EkVGJzbtrFPoTpMIapgBu"
-    },
-    {
-      "added_at": "2025-10-24 13:22:23",
-      "album": {
         "name": "Me Olvide de Ti (En Vivo)",
         "url": "https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE"
       },
@@ -1795,6 +1775,22 @@
       "duration_ms": 128072,
       "name": "Me Olvide de Ti - En Vivo",
       "url": "https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ"
+    },
+    {
+      "added_at": "2025-10-24 13:22:23",
+      "album": {
+        "name": "Estuve Ah\u00ed",
+        "url": "https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        }
+      ],
+      "duration_ms": 194931,
+      "name": "Estuve Ah\u00ed",
+      "url": "https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb"
     }
   ],
   "unique_name": "Vivo de Cumbia",

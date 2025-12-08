@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,642 songs - 4 day 3 hr 47 min
+1,646 songs - 4 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Al Museo Egizio](https://open.spotify.com/track/077BPbzm2AK5VUgVe0Lh28) | [ARRIGO](https://open.spotify.com/artist/64PN4iC8jhWSx9XAk4Zi5g) | [Al Museo Egizio](https://open.spotify.com/album/4Q7wxhFE1WnLnoiD3wCoUe) | 4:05 | 2025-06-03 |  |
 | [AL NATURAL](https://open.spotify.com/track/2Hr2c6kxojvdyu5eJzq4NE) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [AL NATURAL](https://open.spotify.com/album/1BmvwEPLkAqdVOeW19LW4t) | 3:15 | 2025-10-19 |  |
 | [Alberto Balsalm](https://open.spotify.com/track/21Phj46KeUHOWyZW9A9b7P) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/0VG7XLJ8gSynEQDVnpHNNU) | 5:10 | 2025-05-28 |  |
+| [Algo Contigo](https://open.spotify.com/track/4dio9a7xk81pZX1WZuOh0J) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Algo Contigo](https://open.spotify.com/album/2PmZzeSRdNacwv3UjeLEBa) | 2:50 | 2025-12-07 |  |
 | [Alice e le creature selvagge](https://open.spotify.com/track/7GocVAL8CA2DchgaV5yltL) | [Giambo Riot](https://open.spotify.com/artist/3E2ouU0jc9SncJlUS3ZMYO) | [Alice e le creature selvagge](https://open.spotify.com/album/0Tg84jnFEr3eOMv60xFJ3E) | 2:39 | 2024-06-24 |  |
 | [Alive](https://open.spotify.com/track/6uHS8IQdVysaVEWbNWyH4p) | [Aki Mittoo](https://open.spotify.com/artist/0O38dWRxPpOcLZiN5EEjIh), [Shanti\-K](https://open.spotify.com/artist/3I7lnCSO69tEjEePSWpcud), [Sister Maki](https://open.spotify.com/artist/0fTqAE38kumHlbefsPeUDi), [Steve Fox](https://open.spotify.com/artist/5HieGYijqqAt5A5CYC3ubT) | [Alive](https://open.spotify.com/album/3lI7915rnBhQTRiVTWNTec) | 3:59 | 2025-02-21 |  |
 | [Alive Dub](https://open.spotify.com/track/5HttBfENE8LXuqOcaXUbIO) | [Aki Mittoo](https://open.spotify.com/artist/0O38dWRxPpOcLZiN5EEjIh), [Shanti\-K](https://open.spotify.com/artist/3I7lnCSO69tEjEePSWpcud), [Sister Maki](https://open.spotify.com/artist/0fTqAE38kumHlbefsPeUDi), [Steve Fox](https://open.spotify.com/artist/5HieGYijqqAt5A5CYC3ubT) | [Alive](https://open.spotify.com/album/3lI7915rnBhQTRiVTWNTec) | 4:04 | 2025-02-23 |  |
@@ -108,6 +109,7 @@
 | [Asteroid](https://open.spotify.com/track/2ZcZVHWbladB8xTuUZ2YFK) | [Dutch Gunderson](https://open.spotify.com/artist/5UAK417O73vLv1MOTDxhYx) | [Dutch Gunderson](https://open.spotify.com/album/1k3ynjVZhaPk2DFNIVERbW) | 3:47 | 2025-05-28 |  |
 | [At The Restaurant](https://open.spotify.com/track/7hf98kLVYzvl5eLrM8hL3D) | [caveau](https://open.spotify.com/artist/6nBYceEDCCiItPV56dIeVo) | [At The Restaurant](https://open.spotify.com/album/5BXD9EhfxsvVwrgdtAl3Ku) | 3:41 | 2025-11-15 |  |
 | [Attraction](https://open.spotify.com/track/6ZtwN8RKfWBC7SXAse5Myb) | [Ausvin King](https://open.spotify.com/artist/4K2gNf5IYG6wO4tadQ6z9k) | [Attraction](https://open.spotify.com/album/2h7LFTP3XolyekXifqhSAw) | 3:59 | 2025-09-03 |  |
+| [Autoblues](https://open.spotify.com/track/5la9je5kc5G5DAdG9y4SVm) | [David Garrido Guil](https://open.spotify.com/artist/2Jln0dQ7HTBiWDjaTAORO3), [María Barrio Insausti](https://open.spotify.com/artist/7iF1mujsOuDUJe0wUoJNU8), [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM), [Carlos Beceiro](https://open.spotify.com/artist/3u32J7uST7l92X909YikOy), [Joaquín Pardinilla](https://open.spotify.com/artist/1cWiX6hWca9tLhKQpatHzw) | [Autoblues](https://open.spotify.com/album/0ChR9vm2le1g7U7e4cdGai) | 3:53 | 2025-12-07 |  |
 | [Aximal \(Paddy Free Dub\)](https://open.spotify.com/track/6gKKmTNpk5NYVIibtimQTi) | [SUBSET](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl), [Paddy Free](https://open.spotify.com/artist/1HzvbQ5yDhONQmtd7ZQPC8) | [Decoded](https://open.spotify.com/album/4y6SuS8cQwkUhoojsG86RY) | 5:07 | 2024-03-17 |  |
 | [Aximal \(Tor.Ma in Dub Remix\)](https://open.spotify.com/track/3EfxhmnFM1A33SlckpHskP) | [SUBSET](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl), [Tor.Ma In DuB](https://open.spotify.com/artist/6hJVyOMMo1A3XN8yz8neiy) | [Uncoded](https://open.spotify.com/album/547dqtF5bXKhGC0Bgh6eu2) | 3:08 | 2024-10-04 |  |
 | [Açores](https://open.spotify.com/track/3EZxs3OD4ozC7wE0seaLGn) | [Golpe](https://open.spotify.com/artist/3kiKcCZ0XLmY2xmCbtsI9Y) | [Terroir](https://open.spotify.com/album/4VZtaKfMhyUOJmGPQ6sWnt) | 4:15 | 2024-02-06 |  |
@@ -614,6 +616,7 @@
 | [How Many Times](https://open.spotify.com/track/4Qo18boB7KWoKbt44RuZsW) | [Some Kyle](https://open.spotify.com/artist/5vuWRkuiuTHFeUBRyw8lCS) | [How Many Times](https://open.spotify.com/album/2Jh5liZAXhjj1t8Ak28gmm) | 3:51 | 2025-10-21 |  |
 | [How's Your Mom Doing?](https://open.spotify.com/track/23vzWwZSWjCHWJT6JBRFWt) | [Timothy Martini](https://open.spotify.com/artist/3HI3gZDtJ1EpDp3z9g7taU) | [How's Your Mom Doing?](https://open.spotify.com/album/0b9B1Ex9yH8ipBEXrfBWBv) | 4:20 | 2025-08-12 |  |
 | [Humble Lion](https://open.spotify.com/track/6tNfaOmlIRS883YMh31X9c) | [Menilek](https://open.spotify.com/artist/61KYnn1IwsxUzHIStwSabV) | [Son of Solomon](https://open.spotify.com/album/1rC5MlLVYNCEYTtHB2IzFL) | 6:39 | 2024-05-01 |  |
+| [Humo](https://open.spotify.com/track/0i6gOreYdFC33MZyCEi8Td) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Humo](https://open.spotify.com/album/3Xn8L2YufyPCYxxv1L8Xwy) | 3:02 | 2025-12-07 |  |
 | [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 | 2023-03-15 |  |
 | [hungry \(good boy\)](https://open.spotify.com/track/072wHHGstaOqWDzOv5TuB8) | [CerVon Campbell](https://open.spotify.com/artist/11BE68QWC1UePwPs7clKa5) | [i'll prosper regardless](https://open.spotify.com/album/7yseRfYBZexZlNNnHmie2Z) | 2:44 | 2025-08-20 |  |
 | [hush little darling](https://open.spotify.com/track/3EX2sdcaVioVWLqKJkepRE) | [mytinyhuman](https://open.spotify.com/artist/5wfP5o9j86nnpWHHr73I0V) | [sweet dreams](https://open.spotify.com/album/1LcvGNRU5PUiVam4xFJp9y) | 3:26 | 2025-10-28 |  |
@@ -1492,6 +1495,7 @@
 | [Trying](https://open.spotify.com/track/3AADaJc0V9aXGI7GI7oHfT) | [Ejunior EDM](https://open.spotify.com/artist/5ZXXytASfiohw5jSI47b7B), [Dimex OT](https://open.spotify.com/artist/4g5Xd4Umkm2uHmRSxMSqSY) | [Trying](https://open.spotify.com/album/24KWNQqsktZrSGxY6KzeKG) | 2:44 | 2025-09-21 |  |
 | [Tsunami Dub](https://open.spotify.com/track/3nZsRviwGz01cxVH4l9oSO) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [The Wing Chun Album](https://open.spotify.com/album/4Ev2WLIu3iZJp3rWGYVh5m) | 4:42 | 2024-03-25 |  |
 | [Tu Mirada](https://open.spotify.com/track/6MLXi2xmDabq9sWi0xzqLs) | [Jane Riascos](https://open.spotify.com/artist/5JTl6HjmqGYBPMsTzkn7On) | [Las Que No Iban a Salir](https://open.spotify.com/album/3lUyQwmKVxwfHv5Iay4Wv6) | 3:36 | 2025-10-19 |  |
+| [Tu Silencio \- Remastered](https://open.spotify.com/track/19ROBN6XmatCMeqWpaAhJe) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Tu Silencio](https://open.spotify.com/album/1JmsZxCxmvPl4Kssr3kYr5) | 2:54 | 2025-12-07 |  |
 | [TU Y YO </3](https://open.spotify.com/track/3WAdNltwhgApGZ97cjRIoQ) | [ADRELL](https://open.spotify.com/artist/0J8QEZG5IIqwLnS3gABCMt) | [TU Y YO </3](https://open.spotify.com/album/3PtR0uDlMQFLCeB40Jshv8) | 3:11 | 2025-05-11 |  |
 | [Tuff Gong](https://open.spotify.com/track/6xt3sdreRvXRzXovhSviaC) | [Creation Rockers](https://open.spotify.com/artist/16KpRRvWm3CeTm5myGSQbw) | [Let's Make Waves](https://open.spotify.com/album/78qlBiCnNPt9mZrvNTtJBT) | 4:01 | 2024-05-01 |  |
 | [Tunnel](https://open.spotify.com/track/4x4iU4zW6wNU6wcco5qerT) | [Giuseppe Luca Rossitto](https://open.spotify.com/artist/5QnhAqWKyLyvz2mVeyp1So) | [Tunnel](https://open.spotify.com/album/5G5i9EAbN7L0Pbw2vH2QTf) | 3:31 | 2024-10-25 |  |

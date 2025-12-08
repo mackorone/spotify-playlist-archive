@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 
 > Bollywood crooner's essential songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,213,559 likes - 53 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,213,753 likes - 53 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 | 37 | [Lutt Putt Gaya \(From "Dunki"\)](https://open.spotify.com/track/72Z2D7jpKevicRkyL45mbw) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG), [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz) | [Lutt Putt Gaya \(From "Dunki"\)](https://open.spotify.com/album/06griqizTDBczBxvgB91el) | 3:42 |
 | 38 | [Nashe Si Chadh Gayi](https://open.spotify.com/track/0biCSADTAblvLTLtJz4pXO) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1), [Jaideep Sahni](https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ) | [Befikre](https://open.spotify.com/album/2NdNeBKi8ctKgKRH5UGRbO) | 3:57 |
 | 39 | [Khairiyat](https://open.spotify.com/track/5O932cZmzOZGOGZz9RHx20) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Chhichhore](https://open.spotify.com/album/2Svje8vKEM4VCKxoRyAvA4) | 4:40 |
-| 40 | [Aabaad Barbaad](https://open.spotify.com/track/3jxNbVmugKWFFc3YAVl0sD) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ludo](https://open.spotify.com/album/6FoLUhYlbncGfVYckWTqLv) | 5:09 |
+| 40 | [Aabaad Barbaad](https://open.spotify.com/track/3jxNbVmugKWFFc3YAVl0sD) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sandeep Shrivastava](https://open.spotify.com/artist/7qATomOqJzoJiuEpAaxOXd) | [Ludo](https://open.spotify.com/album/6FoLUhYlbncGfVYckWTqLv) | 5:09 |
 | 41 | [Oonchi Oonchi Deewarein \(From "Yaariyan 2"\)](https://open.spotify.com/track/4EAxNKJQEIIcivG82cU5LM) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Oonchi Oonchi Deewarein \(From "Yaariyan 2"\)](https://open.spotify.com/album/4j3UkSRlAyWElz9VNf7toV) | 4:11 |
 | 42 | [Rait Zara Si \(From "Atrangi Re"\)](https://open.spotify.com/track/4uK0M8AI6gyFmyzUneQpbi) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Rait Zara Si \(From "Atrangi Re"\)](https://open.spotify.com/album/2L1otdfoUvp3MKdaT4knVK) | 4:51 |
 | 43 | [Tera Fitoor \- From "Genius"](https://open.spotify.com/track/68nqVf3mY2aReIVN6xXavH) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Tera Fitoor \(From "Genius"\)](https://open.spotify.com/album/4eF3oOh8jyVwUryRUsvODW) | 5:10 |

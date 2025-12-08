@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. A Carson Com\u00e1val k\u00f6z\u00f6sen \u00f6ssze\u00e1ll\u00edtott lej\u00e1tsz\u00e1si lista.",
-  "num_followers": 15848,
+  "num_followers": 15872,
   "original_name": "Nemazapop takeover by Carson Coma",
   "owner": {
     "name": "Spotify",
@@ -803,26 +803,6 @@
     {
       "added_at": "2025-12-04 23:00:15",
       "album": {
-        "name": "Sivatag",
-        "url": "https://open.spotify.com/album/0Z78ucckt1P6XNux1EoEBu"
-      },
-      "artists": [
-        {
-          "name": "Indigo",
-          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
-        },
-        {
-          "name": "Dan Pinto",
-          "url": "https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw"
-        }
-      ],
-      "duration_ms": 152658,
-      "name": "Sivatag",
-      "url": "https://open.spotify.com/track/5qaOxpSVzbHHSF4J7yyBKS"
-    },
-    {
-      "added_at": "2025-12-04 23:00:15",
-      "album": {
         "name": "Lobog",
         "url": "https://open.spotify.com/album/1eVdNYdWMyuBeksfdJa4V4"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 151846,
       "name": "Lobog",
       "url": "https://open.spotify.com/track/4uYodtawzMLvVcRSuIDbu0"
+    },
+    {
+      "added_at": "2025-12-04 23:00:15",
+      "album": {
+        "name": "Sivatag",
+        "url": "https://open.spotify.com/album/0Z78ucckt1P6XNux1EoEBu"
+      },
+      "artists": [
+        {
+          "name": "Indigo",
+          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
+        },
+        {
+          "name": "Dan Pinto",
+          "url": "https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw"
+        }
+      ],
+      "duration_ms": 152658,
+      "name": "Sivatag",
+      "url": "https://open.spotify.com/track/5qaOxpSVzbHHSF4J7yyBKS"
     },
     {
       "added_at": "2025-12-04 23:00:15",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-12-04 23:00:15",
       "album": {
+        "name": "Kontakthiba",
+        "url": "https://open.spotify.com/album/19y6cLO0OetFxyVBRngZjV"
+      },
+      "artists": [
+        {
+          "name": "laurie.",
+          "url": "https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Kontakthiba",
+      "url": "https://open.spotify.com/track/5MWMzP0Kx3aMcZXA8J0OTH"
+    },
+    {
+      "added_at": "2025-12-04 23:00:15",
+      "album": {
         "name": "Szeg\u00e9nyk\u00e9m",
         "url": "https://open.spotify.com/album/1G46zBdtFuMm0hPwFF9OYJ"
       },
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2025-12-04 23:00:15",
       "album": {
-        "name": "Kontakthiba",
-        "url": "https://open.spotify.com/album/19y6cLO0OetFxyVBRngZjV"
+        "name": "T\u00e9lbe \u00e1t",
+        "url": "https://open.spotify.com/album/1zXzbm4fRPft8o8rJBruSQ"
       },
       "artists": [
         {
-          "name": "laurie.",
-          "url": "https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET"
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
         }
       ],
-      "duration_ms": 181500,
-      "name": "Kontakthiba",
-      "url": "https://open.spotify.com/track/5MWMzP0Kx3aMcZXA8J0OTH"
+      "duration_ms": 161280,
+      "name": "T\u00e9lbe \u00e1t",
+      "url": "https://open.spotify.com/track/2yhLSp2tSxQsKdaYBJ1vNl"
     },
     {
       "added_at": "2025-12-04 23:00:15",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2025-12-04 23:00:15",
       "album": {
-        "name": "T\u00e9lbe \u00e1t",
-        "url": "https://open.spotify.com/album/1zXzbm4fRPft8o8rJBruSQ"
-      },
-      "artists": [
-        {
-          "name": "Kolibri",
-          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
-        }
-      ],
-      "duration_ms": 161280,
-      "name": "T\u00e9lbe \u00e1t",
-      "url": "https://open.spotify.com/track/2yhLSp2tSxQsKdaYBJ1vNl"
-    },
-    {
-      "added_at": "2025-12-04 23:00:15",
-      "album": {
         "name": "Sose halok meg",
         "url": "https://open.spotify.com/album/2jjL8YIaoo22mtpWKsq1jR"
       },
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-12-04 23:00:15",
       "album": {
+        "name": "Az a szerelem",
+        "url": "https://open.spotify.com/album/4Cm8J5Zn1umsJcHpUvYwnh"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 293888,
+      "name": "Az a szerelem",
+      "url": "https://open.spotify.com/track/1NjWjcJmIL9QMXes0R1nWz"
+    },
+    {
+      "added_at": "2025-12-04 23:00:15",
+      "album": {
         "name": "Tegnapr\u00f3l",
         "url": "https://open.spotify.com/album/3VzA5HgPg0K40vanfTIOCQ"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 179580,
       "name": "\u00dct\u00f6tt kopott",
       "url": "https://open.spotify.com/track/2iF0jIPxbWCe0KstpEYgt5"
-    },
-    {
-      "added_at": "2025-12-04 23:00:15",
-      "album": {
-        "name": "Az a szerelem",
-        "url": "https://open.spotify.com/album/4Cm8J5Zn1umsJcHpUvYwnh"
-      },
-      "artists": [
-        {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
-        }
-      ],
-      "duration_ms": 293888,
-      "name": "Az a szerelem",
-      "url": "https://open.spotify.com/track/1NjWjcJmIL9QMXes0R1nWz"
     },
     {
       "added_at": "2025-12-04 23:00:15",

@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1606056,
+  "num_followers": 1606107,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2025-12-05 05:00:14",
       "album": {
-        "name": "Are You With Me",
-        "url": "https://open.spotify.com/album/0y2BBGWLGFycNWWi69O400"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "Justin Jesso",
-          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "Are You With Me",
-      "url": "https://open.spotify.com/track/5AQUoPHBy8jbmg5f5jmq6t"
-    },
-    {
-      "added_at": "2025-12-05 05:00:14",
-      "album": {
         "name": "Live My Life",
         "url": "https://open.spotify.com/album/7C4dHLELP7ivO6HXeLltK3"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 241920,
       "name": "Live My Life",
       "url": "https://open.spotify.com/track/2a0Az8oSMkiZjOpWNzXICs"
+    },
+    {
+      "added_at": "2025-12-05 05:00:14",
+      "album": {
+        "name": "Are You With Me",
+        "url": "https://open.spotify.com/album/0y2BBGWLGFycNWWi69O400"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Are You With Me",
+      "url": "https://open.spotify.com/track/5AQUoPHBy8jbmg5f5jmq6t"
     },
     {
       "added_at": "2025-12-05 05:00:14",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2025-12-05 05:00:14",
       "album": {
+        "name": "Each Other",
+        "url": "https://open.spotify.com/album/47Rrq2YDYjBVgkEqvhsApv"
+      },
+      "artists": [
+        {
+          "name": "Amy Wiles",
+          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
+        }
+      ],
+      "duration_ms": 184737,
+      "name": "Each Other",
+      "url": "https://open.spotify.com/track/7L9XqPFJeHkl6g8fdjyHUA"
+    },
+    {
+      "added_at": "2025-12-05 05:00:14",
+      "album": {
         "name": "Cheating Heart",
         "url": "https://open.spotify.com/album/271Fs3TKtlAL9d7H5OMrtn"
       },
@@ -1835,42 +1851,6 @@
     {
       "added_at": "2025-12-05 05:00:14",
       "album": {
-        "name": "Coming Down",
-        "url": "https://open.spotify.com/album/63YuEPlpI89krdvctGytaa"
-      },
-      "artists": [
-        {
-          "name": "Solanca",
-          "url": "https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM"
-        },
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 214695,
-      "name": "Coming Down",
-      "url": "https://open.spotify.com/track/6pO7fWXv9FCOT79cJdWq6H"
-    },
-    {
-      "added_at": "2025-12-05 05:00:14",
-      "album": {
-        "name": "Each Other",
-        "url": "https://open.spotify.com/album/47Rrq2YDYjBVgkEqvhsApv"
-      },
-      "artists": [
-        {
-          "name": "Amy Wiles",
-          "url": "https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX"
-        }
-      ],
-      "duration_ms": 184737,
-      "name": "Each Other",
-      "url": "https://open.spotify.com/track/7L9XqPFJeHkl6g8fdjyHUA"
-    },
-    {
-      "added_at": "2025-12-05 05:00:14",
-      "album": {
         "name": "The Good Part",
         "url": "https://open.spotify.com/album/5b566QQbdtpFn1z7G6ONsL"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 191250,
       "name": "The Good Part",
       "url": "https://open.spotify.com/track/6kzR79ao3TNnigymnhJoGI"
+    },
+    {
+      "added_at": "2025-12-05 05:00:14",
+      "album": {
+        "name": "Coming Down",
+        "url": "https://open.spotify.com/album/63YuEPlpI89krdvctGytaa"
+      },
+      "artists": [
+        {
+          "name": "Solanca",
+          "url": "https://open.spotify.com/artist/0vzOfcck1SjuV7qVfBfXTM"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 214695,
+      "name": "Coming Down",
+      "url": "https://open.spotify.com/track/6pO7fWXv9FCOT79cJdWq6H"
     },
     {
       "added_at": "2025-12-05 05:00:14",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2025-12-05 05:00:14",
       "album": {
-        "name": "ReAnimation EP",
-        "url": "https://open.spotify.com/album/7s33cENsj5k8o0VHzID87K"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Arias",
-          "url": "https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ"
-        }
-      ],
-      "duration_ms": 260329,
-      "name": "ReAnimation",
-      "url": "https://open.spotify.com/track/43ofk81krK92e5sM12mfPC"
-    },
-    {
-      "added_at": "2025-12-05 05:00:14",
-      "album": {
         "name": "Only I",
         "url": "https://open.spotify.com/album/6GfqIy3LzvsBQ5fkrGAp5d"
       },
@@ -1963,6 +1947,30 @@
       "duration_ms": 228028,
       "name": "Only I",
       "url": "https://open.spotify.com/track/0vdrnfVsWCOtxOTO8z0vaV"
+    },
+    {
+      "added_at": "2025-12-05 05:00:14",
+      "album": {
+        "name": "Surrender Your Love (Progressive Edit)",
+        "url": "https://open.spotify.com/album/2EeOstsC8o495Fjb86li1Z"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Steerner",
+          "url": "https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz"
+        },
+        {
+          "name": "Sam Gray",
+          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
+        }
+      ],
+      "duration_ms": 185629,
+      "name": "Surrender Your Love - Progressive Edit",
+      "url": "https://open.spotify.com/track/2XI1oczyrtHmyZ5daThTwk"
     }
   ],
   "unique_name": "Night Rider",

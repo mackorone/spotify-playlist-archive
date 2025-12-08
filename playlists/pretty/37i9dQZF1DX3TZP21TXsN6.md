@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuwe tracks elke week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,902 likes - 62 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,889 likes - 62 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mij Niet Stoorn](https://open.spotify.com/track/00E47XLbfaECEWD8U3LUti) | [Shep500](https://open.spotify.com/artist/2L1iisFuoQkvqAxNv1RdpU) | [SHEPTEMBER PACK](https://open.spotify.com/album/5B1T3BvG0Sbw33WRYkCBCX) | 2:15 |
-| 2 | [Cafecito](https://open.spotify.com/track/5c38LpkB2hoXORgX0jldc3) | [VL Disappear](https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy) | [Cafecito](https://open.spotify.com/album/2Jh5e6smJoYXG1sCADJAcV) | 1:59 |
-| 3 | [Tell Me Please](https://open.spotify.com/track/6S73aKrnBlfOY804aKerOQ) | [BOKKI](https://open.spotify.com/artist/4ANqWVazc3lo9jYITK2Ceb) | [Tell Me Please](https://open.spotify.com/album/3rtJ4gojM6STU6iKNWJAzE) | 2:53 |
-| 4 | [SD Kaart](https://open.spotify.com/track/3TcRryQZXHTrBXtA1ffgMk) | [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF), [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl), [Fredobeats](https://open.spotify.com/artist/11mF7q71d6HxKR4uZR4DWX) | [SD Kaart](https://open.spotify.com/album/4t1CBylzLDMvg5Bpa6YZ57) | 2:51 |
-| 5 | [Shinen](https://open.spotify.com/track/6jvfVmpaSEvckOrktLyw4k) | [Bailey KBC](https://open.spotify.com/artist/3Cf9anMB3CrNzdcOgeLVC4) | [Shinen](https://open.spotify.com/album/3gQ29L8H6mRoCMS7j1Xpnv) | 2:27 |
-| 6 | [NOG ÉÉN](https://open.spotify.com/track/5Z3O0TR1wYmQLj8WBmmJXc) | [Drama](https://open.spotify.com/artist/1L17LCtpQzC9HQ712G7a7M), [MD](https://open.spotify.com/artist/0q6lC8NWR7SWAz6fuCQjwr) | [NOG ÉÉN](https://open.spotify.com/album/6i7HBBfBSJ97ZUcCpvnmdl) | 2:23 |
-| 7 | [KBS \- KING BATI SANKA](https://open.spotify.com/track/2qBFkO5KppgSa0nGr5Mmn2) | [D\-opss](https://open.spotify.com/artist/3ZDMIHGxzbwFWWhSMBKSHJ) | [KBS \(KING BATI SANKA\)](https://open.spotify.com/album/7MbPLTnnxp1qzlgTeh14s1) | 2:04 |
-| 8 | [Regenachtig](https://open.spotify.com/track/7ihfmtkF9vnN7kyY1yvgcQ) | [Inghostwetrust](https://open.spotify.com/artist/6cVBGSZEbA1TrH2b9zJfe7), [SG 34](https://open.spotify.com/artist/0x8CyMxW62CdkNIZziZK89) | [Regenachtig](https://open.spotify.com/album/2ddVBZPE3YM9XG63tjgpOV) | 2:20 |
-| 9 | [MEDELEVEN](https://open.spotify.com/track/4ZzXvZWQ7sPhwZbUzlAogd) | [SKO](https://open.spotify.com/artist/4dh374pyaeKLOTy5jnUcAS), [Ralla](https://open.spotify.com/artist/4mLMkl774zwxOVGWfCUxj6) | [MEDELEVEN](https://open.spotify.com/album/6lLkCvxGkJXQzdI3pKh7aa) | 3:08 |
-| 10 | [Gaan Naar](https://open.spotify.com/track/3UyT6U96QsbcbyxMqx79n7) | [BTJE](https://open.spotify.com/artist/4wN3vVis2oYJbTCbrFdHdV) | [Gaan Naar](https://open.spotify.com/album/5XyQHJpWboYhuVlGO3okZn) | 2:25 |
-| 11 | [3x Raden](https://open.spotify.com/track/60y9qgqwAevzgmPMOHAV8K) | [Jc](https://open.spotify.com/artist/2BI5TSwRkOvgTrXKTLVEwh) | [3x Raden](https://open.spotify.com/album/1BtaGM0eTKVkAoWChTJoPj) | 2:52 |
-| 12 | [Sfeerimpressie](https://open.spotify.com/track/5ABzhtEe5v62chsaeX2cAC) | [Vurr Flashy](https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh) | [Sfeerimpressie](https://open.spotify.com/album/12L45quyUG0gfNK2LWXZ96) | 1:46 |
-| 13 | [Snotneus](https://open.spotify.com/track/6PkauAK5MnF4dRpbV8YdLl) | [Flo](https://open.spotify.com/artist/6pgZfF7czWzdfjQMtUo3fy) | [Snotneus](https://open.spotify.com/album/4ocszAEfSeW9fUx37bI2ux) | 2:27 |
-| 14 | [Autobahn](https://open.spotify.com/track/1mFHtqK38sGeOiX3Yaufs5) | [Shah](https://open.spotify.com/artist/7lPPiwLIuHV5fPlN6jLi13) | [Autobahn](https://open.spotify.com/album/3aYorkRQQxXS0BS7a376Wz) | 2:12 |
+| 2 | [Shinen](https://open.spotify.com/track/6jvfVmpaSEvckOrktLyw4k) | [Bailey KBC](https://open.spotify.com/artist/3Cf9anMB3CrNzdcOgeLVC4) | [Shinen](https://open.spotify.com/album/3gQ29L8H6mRoCMS7j1Xpnv) | 2:27 |
+| 3 | [SD Kaart](https://open.spotify.com/track/3TcRryQZXHTrBXtA1ffgMk) | [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF), [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl), [Fredobeats](https://open.spotify.com/artist/11mF7q71d6HxKR4uZR4DWX) | [SD Kaart](https://open.spotify.com/album/4t1CBylzLDMvg5Bpa6YZ57) | 2:51 |
+| 4 | [Gaan Naar](https://open.spotify.com/track/3UyT6U96QsbcbyxMqx79n7) | [BTJE](https://open.spotify.com/artist/4wN3vVis2oYJbTCbrFdHdV) | [Gaan Naar](https://open.spotify.com/album/5XyQHJpWboYhuVlGO3okZn) | 2:25 |
+| 5 | [Cafecito](https://open.spotify.com/track/5c38LpkB2hoXORgX0jldc3) | [VL Disappear](https://open.spotify.com/artist/1AiUxaTFSMRD7ucqwi55uy) | [Cafecito](https://open.spotify.com/album/2Jh5e6smJoYXG1sCADJAcV) | 1:59 |
+| 6 | [Tell Me Please](https://open.spotify.com/track/6S73aKrnBlfOY804aKerOQ) | [BOKKI](https://open.spotify.com/artist/4ANqWVazc3lo9jYITK2Ceb) | [Tell Me Please](https://open.spotify.com/album/3rtJ4gojM6STU6iKNWJAzE) | 2:53 |
+| 7 | [NOG ÉÉN](https://open.spotify.com/track/5Z3O0TR1wYmQLj8WBmmJXc) | [Drama](https://open.spotify.com/artist/1L17LCtpQzC9HQ712G7a7M), [MD](https://open.spotify.com/artist/0q6lC8NWR7SWAz6fuCQjwr) | [NOG ÉÉN](https://open.spotify.com/album/6i7HBBfBSJ97ZUcCpvnmdl) | 2:23 |
+| 8 | [Autobahn](https://open.spotify.com/track/1mFHtqK38sGeOiX3Yaufs5) | [Shah](https://open.spotify.com/artist/7lPPiwLIuHV5fPlN6jLi13) | [Autobahn](https://open.spotify.com/album/3aYorkRQQxXS0BS7a376Wz) | 2:12 |
+| 9 | [KBS \- KING BATI SANKA](https://open.spotify.com/track/2qBFkO5KppgSa0nGr5Mmn2) | [D\-opss](https://open.spotify.com/artist/3ZDMIHGxzbwFWWhSMBKSHJ) | [KBS \(KING BATI SANKA\)](https://open.spotify.com/album/7MbPLTnnxp1qzlgTeh14s1) | 2:04 |
+| 10 | [Regenachtig](https://open.spotify.com/track/7ihfmtkF9vnN7kyY1yvgcQ) | [Inghostwetrust](https://open.spotify.com/artist/6cVBGSZEbA1TrH2b9zJfe7), [SG 34](https://open.spotify.com/artist/0x8CyMxW62CdkNIZziZK89) | [Regenachtig](https://open.spotify.com/album/2ddVBZPE3YM9XG63tjgpOV) | 2:20 |
+| 11 | [MEDELEVEN](https://open.spotify.com/track/4ZzXvZWQ7sPhwZbUzlAogd) | [SKO](https://open.spotify.com/artist/4dh374pyaeKLOTy5jnUcAS), [Ralla](https://open.spotify.com/artist/4mLMkl774zwxOVGWfCUxj6) | [MEDELEVEN](https://open.spotify.com/album/6lLkCvxGkJXQzdI3pKh7aa) | 3:08 |
+| 12 | [3x Raden](https://open.spotify.com/track/60y9qgqwAevzgmPMOHAV8K) | [Jc](https://open.spotify.com/artist/2BI5TSwRkOvgTrXKTLVEwh) | [3x Raden](https://open.spotify.com/album/1BtaGM0eTKVkAoWChTJoPj) | 2:52 |
+| 13 | [Sfeerimpressie](https://open.spotify.com/track/5ABzhtEe5v62chsaeX2cAC) | [Vurr Flashy](https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh) | [Sfeerimpressie](https://open.spotify.com/album/12L45quyUG0gfNK2LWXZ96) | 1:46 |
+| 14 | [Snotneus](https://open.spotify.com/track/6PkauAK5MnF4dRpbV8YdLl) | [Flo](https://open.spotify.com/artist/6pgZfF7czWzdfjQMtUo3fy) | [Snotneus](https://open.spotify.com/album/4ocszAEfSeW9fUx37bI2ux) | 2:27 |
 | 15 | [De Avond Is Van Mij](https://open.spotify.com/track/1gjZNt0dkLja62Qin0lKEe) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Idolen](https://open.spotify.com/album/4Uu7gSBUsHiZIy6EajKiXR) | 2:34 |
 | 16 | [Accepteren](https://open.spotify.com/track/0JbQOPFt4zdvDiphhWj1K4) | [HAYABUSA](https://open.spotify.com/artist/2qWVVGxTmT9ZQG2TXYuiVd), [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7), [HB The Plug](https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T) | [Accepteren](https://open.spotify.com/album/57pWzRngl1rtK5b1hCYSpf) | 3:01 |
 | 17 | [911](https://open.spotify.com/track/3gScqpZMP4Tj2tEdrA3ihs) | [Brasco](https://open.spotify.com/artist/1oF9VGP4yn9vVu1sPDLAyr) | [911](https://open.spotify.com/album/5ev7F3pomSoUQEdGdlimaE) | 1:29 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 61 | [FEEG LEGIJK](https://open.spotify.com/track/1Ls0ikzMsdLUrXF7DYYx52) | [YB YB](https://open.spotify.com/artist/0BTt9oHCLaKlU9bK5gBqiR) | [FEEG LEGIJK](https://open.spotify.com/album/3pMWuTcZXTHX6WxlIjunOU) | 2:02 |
 | 62 | [Masker](https://open.spotify.com/track/4QnTJ0vJD05J6omVqLY7F6) | [SURRI](https://open.spotify.com/artist/1CLP6paOGZXg1qIkYvyzHo), [Dario Santana](https://open.spotify.com/artist/0y14WanKsCSjfqVk18HoFk) | [Masker](https://open.spotify.com/album/57gguBCKl7WmC5ZiEiEKBt) | 2:26 |
 
-Snapshot ID: `AAAAAOxpj/8j6kC237Et5eqJBjhJ6sFP`
+Snapshot ID: `AAAAAG7BTDYHpo4G6JbdOgixOY9rmk7o`

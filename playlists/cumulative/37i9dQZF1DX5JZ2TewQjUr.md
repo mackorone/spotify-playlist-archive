@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Wantamnam 我地希望
 
-1,574 songs - 3 day 17 hr 2 min
+1,575 songs - 3 day 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1550,6 +1550,7 @@
 | [雙重標準](https://open.spotify.com/track/1OiklcoRnHkogk3CXZ5L5F) | [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [雙重標準](https://open.spotify.com/album/6zy9x4waP413cRXAGILBab) | 3:00 | 2022-10-06 | 2023-02-03 |
 | [雞蛋仔格仔餅](https://open.spotify.com/track/3shhAUfODtIk754wOX4drL) | [Ritchie Leong](https://open.spotify.com/artist/64Z9Y2gzSyj45yml0RNV4T), [Chit](https://open.spotify.com/artist/0zoxbSXMM8poZ2MOq4yKjs) | [雞蛋仔格仔餅](https://open.spotify.com/album/2nDRvEHuTF603Uv2flY5LK) | 3:35 | 2023-11-30 | 2024-01-05 |
 | [離開的感覺](https://open.spotify.com/track/2bzbEJY3xfGkFJdy509uRP) | [AP潘宇謙](https://open.spotify.com/artist/6KXppww2ejV1wfMVOkY3tZ) | [離開的感覺](https://open.spotify.com/album/3w8OUJKYhA2AAPhltni2QG) | 3:30 | 2022-10-27 | 2023-02-03 |
+| [雪國](https://open.spotify.com/track/2ycEK1Haz9TXjNNwYs2Hgm) | [Uchu Yurei](https://open.spotify.com/artist/12qOUG1SCqsMtXNPbng8rl) | [雪國](https://open.spotify.com/album/1b13uhgn8jw8PvLw2Pr3NY) | 9:04 | 2025-12-07 |  |
 | [雪白的愛](https://open.spotify.com/track/3gIemVYnj4E5tLWIrGf7Sw) | [kkisnotemo](https://open.spotify.com/artist/2aB7jLiCnCBpZyx897Vuls) | [雪白的愛](https://open.spotify.com/album/1qboE3FINCTo5AJvJeD76A) | 3:22 | 2023-02-16 | 2023-03-18 |
 | [雷公](https://open.spotify.com/track/0TEuWQfz9iMdjD6Q21PXRq) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT), [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [雷公](https://open.spotify.com/album/6JDauC0CXDtwXujYRschuK) | 2:06 | 2022-06-09 | 2022-07-29 |
 | [靈魂伴侶](https://open.spotify.com/track/3nDIImUmb9iIlKUVvof5HO) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [murmur](https://open.spotify.com/album/7JQzj25vVtOQu3GRPEDg6D) | 4:04 | 2025-06-26 | 2025-11-21 |

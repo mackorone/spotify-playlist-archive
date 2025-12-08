@@ -1,6 +1,6 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 469947,
+  "num_followers": 470021,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-12-02 15:56:52",
       "album": {
-        "name": "Under",
-        "url": "https://open.spotify.com/album/0tVEjAfGFPBdtvql2BUHKs"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Turn",
-      "url": "https://open.spotify.com/track/0y7I045qDUH1carkgTB2UG"
-    },
-    {
-      "added_at": "2025-12-02 15:56:52",
-      "album": {
         "name": "Air from Air",
         "url": "https://open.spotify.com/album/7H66SSCcsdRnEdhQxdan7r"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 199428,
       "name": "Air from Air",
       "url": "https://open.spotify.com/track/7jUgBIVfc6C2YfFqFmETxz"
+    },
+    {
+      "added_at": "2025-12-02 15:56:52",
+      "album": {
+        "name": "Under",
+        "url": "https://open.spotify.com/album/0tVEjAfGFPBdtvql2BUHKs"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Turn",
+      "url": "https://open.spotify.com/track/0y7I045qDUH1carkgTB2UG"
     },
     {
       "added_at": "2025-12-02 15:56:52",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-12-02 15:56:52",
       "album": {
-        "name": "Act Of Reconciling",
-        "url": "https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS"
-      },
-      "artists": [
-        {
-          "name": "Herbe Matin",
-          "url": "https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv"
-        }
-      ],
-      "duration_ms": 143400,
-      "name": "Act Of Reconciling",
-      "url": "https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss"
-    },
-    {
-      "added_at": "2025-12-02 15:56:52",
-      "album": {
         "name": "A Bad Dream That Will Pass Away",
         "url": "https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 176000,
       "name": "A Bad Dream That Will Pass Away",
       "url": "https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU"
+    },
+    {
+      "added_at": "2025-12-02 15:56:52",
+      "album": {
+        "name": "Act Of Reconciling",
+        "url": "https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS"
+      },
+      "artists": [
+        {
+          "name": "Herbe Matin",
+          "url": "https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv"
+        }
+      ],
+      "duration_ms": 143400,
+      "name": "Act Of Reconciling",
+      "url": "https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss"
     },
     {
       "added_at": "2025-12-02 15:56:52",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-12-02 15:56:52",
       "album": {
-        "name": "Symbios",
-        "url": "https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE"
-      },
-      "artists": [
-        {
-          "name": "Ever So Blue",
-          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
-        }
-      ],
-      "duration_ms": 173161,
-      "name": "Symbios",
-      "url": "https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0"
-    },
-    {
-      "added_at": "2025-12-02 15:56:52",
-      "album": {
         "name": "Wish Your Way",
         "url": "https://open.spotify.com/album/7IVtgJuuzuYcxmV8DlAqnE"
       },
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2025-12-02 15:56:52",
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN"
+        "name": "Symbios",
+        "url": "https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE"
       },
       "artists": [
         {
-          "name": "Adri\u00e1n \u00dalfur",
-          "url": "https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw"
+          "name": "Ever So Blue",
+          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
         }
       ],
-      "duration_ms": 155704,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX"
+      "duration_ms": 173161,
+      "name": "Symbios",
+      "url": "https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0"
     },
     {
       "added_at": "2025-12-02 15:56:52",
@@ -1507,6 +1491,22 @@
       "duration_ms": 130164,
       "name": "Glance Out A Casement Window",
       "url": "https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J"
+    },
+    {
+      "added_at": "2025-12-02 15:56:52",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n \u00dalfur",
+          "url": "https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw"
+        }
+      ],
+      "duration_ms": 155704,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX"
     },
     {
       "added_at": "2025-12-02 15:56:52",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-12-02 15:56:52",
       "album": {
-        "name": "En t'attendant",
-        "url": "https://open.spotify.com/album/4zojkjd8EnxhvBQAx1Nd4W"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9lanie Laurent",
-          "url": "https://open.spotify.com/artist/7HS5tD2CPw2AgG4AgWpxpN"
-        }
-      ],
-      "duration_ms": 160066,
-      "name": "D\u00e9but",
-      "url": "https://open.spotify.com/track/6YS1MXqso0zlmcL4OV1kXk"
-    },
-    {
-      "added_at": "2025-12-02 15:56:52",
-      "album": {
         "name": "Lupi",
         "url": "https://open.spotify.com/album/5NMoaa8SgFEwrCKK3gJN68"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 172482,
       "name": "Blue Skies Are Coming",
       "url": "https://open.spotify.com/track/29WaVQCJPqk7thJmKPNhQv"
+    },
+    {
+      "added_at": "2025-12-02 15:56:52",
+      "album": {
+        "name": "En t'attendant",
+        "url": "https://open.spotify.com/album/4zojkjd8EnxhvBQAx1Nd4W"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9lanie Laurent",
+          "url": "https://open.spotify.com/artist/7HS5tD2CPw2AgG4AgWpxpN"
+        }
+      ],
+      "duration_ms": 160066,
+      "name": "D\u00e9but",
+      "url": "https://open.spotify.com/track/6YS1MXqso0zlmcL4OV1kXk"
     },
     {
       "added_at": "2025-12-02 15:56:52",

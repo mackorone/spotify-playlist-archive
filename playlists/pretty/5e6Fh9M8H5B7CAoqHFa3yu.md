@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 245 likes - 1,706 songs - 4 day 7 hr 43 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 244 likes - 1,710 songs - 4 day 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1714,5 +1714,9 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1704 | [Things Ah Get Tuff](https://open.spotify.com/track/1ShVw6HorYpQ49D7EZtNVs) | [Makyo](https://open.spotify.com/artist/3FGI29SmDTzOZgdGtHkzku) | [Things Ah Get Tuff](https://open.spotify.com/album/17xUNLNDNREfl1W9dp4ABr) | 4:36 |
 | 1705 | [Things Ah Get Dub](https://open.spotify.com/track/7st8TCdQWeIMejQgbaojv4) | [Makyo](https://open.spotify.com/artist/3FGI29SmDTzOZgdGtHkzku) | [Things Ah Get Tuff](https://open.spotify.com/album/17xUNLNDNREfl1W9dp4ABr) | 4:34 |
 | 1706 | [Prosthetic](https://open.spotify.com/track/2qRfwaLyZW1jDyQoYhAahd) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [Prosthetic](https://open.spotify.com/album/7nWsdqylOgGTb4EBTmm4nM) | 3:41 |
+| 1707 | [Autoblues](https://open.spotify.com/track/5la9je5kc5G5DAdG9y4SVm) | [David Garrido Guil](https://open.spotify.com/artist/2Jln0dQ7HTBiWDjaTAORO3), [María Barrio Insausti](https://open.spotify.com/artist/7iF1mujsOuDUJe0wUoJNU8), [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM), [Carlos Beceiro](https://open.spotify.com/artist/3u32J7uST7l92X909YikOy), [Joaquín Pardinilla](https://open.spotify.com/artist/1cWiX6hWca9tLhKQpatHzw) | [Autoblues](https://open.spotify.com/album/0ChR9vm2le1g7U7e4cdGai) | 3:53 |
+| 1708 | [Tu Silencio \- Remastered](https://open.spotify.com/track/19ROBN6XmatCMeqWpaAhJe) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Tu Silencio](https://open.spotify.com/album/1JmsZxCxmvPl4Kssr3kYr5) | 2:54 |
+| 1709 | [Humo](https://open.spotify.com/track/0i6gOreYdFC33MZyCEi8Td) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Humo](https://open.spotify.com/album/3Xn8L2YufyPCYxxv1L8Xwy) | 3:02 |
+| 1710 | [Algo Contigo](https://open.spotify.com/track/4dio9a7xk81pZX1WZuOh0J) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Algo Contigo](https://open.spotify.com/album/2PmZzeSRdNacwv3UjeLEBa) | 2:50 |
 
-Snapshot ID: `AAAHgmQcsVRy6yBio/cLIVNlXj9x1Dsj`
+Snapshot ID: `AAAHhmMvYtfOoDCIAwmuts3bVnzJEwIq`

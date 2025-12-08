@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,448 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,437 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 10 | [Best For You](https://open.spotify.com/track/4K72fcQI2FQED0976NUlX2) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Best For You](https://open.spotify.com/album/0GgW3k1BAhcRQWPZXo03yJ) | 2:30 |
 | 11 | [Yksin tääl \(feat\. Lauri Haav\)](https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Yksin tääl \(feat\. Lauri Haav\)](https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC) | 2:24 |
 | 12 | [Made it](https://open.spotify.com/track/3x0Z2IBTRMOHEuEQYIHnhW) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Made it](https://open.spotify.com/album/7ofaH0AtjS8BYYfyoHMuzY) | 2:31 |
-| 13 | [SADE \(HHH\)](https://open.spotify.com/track/0azLSjbVpGHymQ3Pb8YYFc) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ) | [CASHPOP](https://open.spotify.com/album/0cZ3dVbCTI6bBOKjFIRrOc) | 2:08 |
+| 13 | [SADE \(HHH\)](https://open.spotify.com/track/0azLSjbVpGHymQ3Pb8YYFc) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ) | [CASHPOP EP](https://open.spotify.com/album/0cZ3dVbCTI6bBOKjFIRrOc) | 2:08 |
 | 14 | [Jos ei oo meit](https://open.spotify.com/track/1g4QizdrPAiOWXgRbePWSV) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Jos ei oo meit](https://open.spotify.com/album/3nhK0fT6U33xjicziaPRPd) | 2:18 |
 | 15 | [Mitä tänne jää \- Unitas Sigma](https://open.spotify.com/track/75dWqDgep17BGqjc4ZeRsn) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Cheek](https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO) | [Unitas Sigma](https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt) | 2:54 |
 | 16 | [Paremmin nyt](https://open.spotify.com/track/5Qk2r9VPCloxC7h0ufY1wb) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Pöydät kääntyy](https://open.spotify.com/album/4sCu5cSceK9VHwQKrbqART) | 2:28 |

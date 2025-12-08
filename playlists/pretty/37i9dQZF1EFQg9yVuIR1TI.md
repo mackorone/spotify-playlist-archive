@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQg9yVuIR1TI.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Shake, Rattle & Roll](https://open.spotify.com/track/2Wsg5tP0RsNf6O4HLwvpq6) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Flip, Flop And Fly 1951\-1955](https://open.spotify.com/album/1szAsaCnC4nemlMWdRoZm0) | 2:59 |
+| 1 | [Tweedle Dee](https://open.spotify.com/track/3KDBNDCjN9ogMkGn3vIUs2) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [LaVern Baker](https://open.spotify.com/album/4Wg7zulZEKDPrHvQJWOHLc) | 3:04 |
 | 2 | [Memories Are Made Of This](https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:18 |
 | 3 | [Rave On](https://open.spotify.com/track/33aYzW5ToRjiFOzkubeJ8H) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D), [The Crickets](https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR) | [Buddy Holly](https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP) | 1:49 |
 | 4 | [Silent Night](https://open.spotify.com/track/2JwJqDEqC5IPl5bN3klNHD) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi) | [Swinging On A Star](https://open.spotify.com/album/64daTHvMlxupBzyGKJyb7g) | 2:36 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQg9yVuIR1TI.md) - [plain]
 | 55 | [Pink Taffeta Sample Size 10](https://open.spotify.com/track/7xm3CNFW6dOfLdZIT8myJu) | [Sylvia Syms](https://open.spotify.com/artist/3U3Pzj2ZtG3hOSd4iDaqsT) | [Lovingly](https://open.spotify.com/album/4VppiWo9CeOdL26mEdsdHH) | 4:13 |
 | 56 | [When Did You Know](https://open.spotify.com/track/3aSljBcDfbccnNVjhu1VrP) | [Skitch Henderson And His Orchestra](https://open.spotify.com/artist/5gSeSvP3kg6zA7rma5WhVX) | [Play Music from "Sweet Charity"](https://open.spotify.com/album/3U2cFufzgQ0A3TvUGMbZMx) | 3:27 |
 
-Snapshot ID: `AcDiBgAAAAAIzDupl8tgfGz8vBvYYTGP`
+Snapshot ID: `AcDnpgAAAADAoHPFHnPb5jcXSE79/iYK`

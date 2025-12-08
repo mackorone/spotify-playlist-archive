@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Sinan Akçıl x Ece Mumay
 
-446 songs - 22 hr 23 min
+447 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [GECELERDE](https://open.spotify.com/track/2W1lqgFE5bW3RyLyilTfF2) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [GECELERDE](https://open.spotify.com/album/6GGM3YG5GEtvv0zrdNySxs) | 2:27 | 2025-05-29 |  |
 | [Geceleri Aldım Senden](https://open.spotify.com/track/5pCpGzPoGgkGyLSEk8EeZJ) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Geceleri Aldım Senden](https://open.spotify.com/album/79bx4sLIm1zNUvWLKI9n5C) | 3:31 | 2025-08-07 | 2025-10-26 |
 | [Gel](https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj), [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Gel](https://open.spotify.com/album/6laK7g3UFya62bl36AmMrq) | 2:44 | 2025-10-09 |  |
-| [Gelsen Ölür müsün?](https://open.spotify.com/track/0bsGav7YJae1SRnNKCOVxh) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B), [Hanao](https://open.spotify.com/artist/4GGm4WCSO8lXb4Z3YvoneL) | [Gelsen Ölür müsün?](https://open.spotify.com/album/7D2ZK58DhumOgvxo3pwIFV) | 3:23 | 2025-09-04 |  |
+| [Gelsen Ölür müsün?](https://open.spotify.com/track/0bsGav7YJae1SRnNKCOVxh) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B), [Hanao](https://open.spotify.com/artist/4GGm4WCSO8lXb4Z3YvoneL) | [Gelsen Ölür müsün?](https://open.spotify.com/album/7D2ZK58DhumOgvxo3pwIFV) | 3:23 | 2025-09-04 | 2025-12-08 |
 | [Gemiler \- Ozan Bayraşa](https://open.spotify.com/track/33Zta5czbTRQS8SIRu3vLN) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 2:57 | 2025-06-26 | 2025-10-24 |
 | [Geçiyor Zaman](https://open.spotify.com/track/3ma4Ef3Bnl3UBOV4ShiMLX) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:38 | 2024-08-08 | 2025-08-01 |
 | [Geçsin Yıllar](https://open.spotify.com/track/5CiycCVVt7vLJyMw1MVfzS) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i), [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Geçsin Yıllar](https://open.spotify.com/album/5vc7GUQqWQ2zZS3CffxRmx) | 3:27 | 2025-05-09 | 2025-08-01 |
@@ -328,6 +328,7 @@
 | [Sen Ağla](https://open.spotify.com/track/1QTxQQfJjNYzMcOpilX3Bf) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:06 | 2025-06-26 |  |
 | [Sen Kalp Ben](https://open.spotify.com/track/36yASDIlHQ3u2KjGPpIahi) | [Tuğba Özerk](https://open.spotify.com/artist/30Lb5Jijp6ynpodpRsrqIX) | [Sen Kalp Ben](https://open.spotify.com/album/2kUoBwwIZAQ3e85ILszLSB) | 2:29 | 2025-09-18 | 2025-09-26 |
 | [Sende De Benden Var](https://open.spotify.com/track/1UoOIt4oT3jLh4waq06wmG) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Sende De Benden Var](https://open.spotify.com/album/39zwVUxvdqEfPwW0JRg0KP) | 3:08 | 2025-09-25 | 2025-11-18 |
+| [senden başka](https://open.spotify.com/track/1VQU6ewApPAVS6wTtxF321) | [aisu](https://open.spotify.com/artist/6WCTGeTYQ71cApZr34u4er) | [senden başka](https://open.spotify.com/album/2e6ZwZkrFmawSOV7ivJep6) | 3:30 | 2025-12-04 |  |
 | [Seni Bana Vermediler](https://open.spotify.com/track/1RfKc1ILYZtgkD41gCpZRc) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Seni Bana Vermediler](https://open.spotify.com/album/7nkt6nd03wiPPZOjS1VKnj) | 2:55 | 2025-04-17 | 2025-05-09 |
 | [Seni Bulurum](https://open.spotify.com/track/4GsBmmqdQoKNNvFpgZ7zqd) | [Gülben Ergen](https://open.spotify.com/artist/6hypPYDPSsgioRRfBXve38), [Sinan Akçıl](https://open.spotify.com/artist/31czVneIywpUwJTNOVviJx) | [GLBN](https://open.spotify.com/album/0NIi4yROKd80eiExqo2eHG) | 2:59 | 2025-11-20 | 2025-12-02 |
 | [Seni Görmeden](https://open.spotify.com/track/3iI4EZW4zQ755c5hKPE5ab) | [Sezer Sarıgöz](https://open.spotify.com/artist/4itYEciRGKzdy6XwBQeaYl) | [Seni Görmeden](https://open.spotify.com/album/2lhuxO6JhzcQ0KEFcEY2eM) | 2:27 | 2025-07-24 | 2025-09-09 |

@@ -5039,6 +5039,28 @@
     },
     {
       "album": {
+        "name": "Death Grip",
+        "url": "https://open.spotify.com/album/6n1U087z2JRZ5jnMRzeUrI"
+      },
+      "artists": [
+        {
+          "name": "Lionheart",
+          "url": "https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3"
+        },
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105245,
+      "name": "Death Grip",
+      "url": "https://open.spotify.com/track/6iRBgknW6YEpv8CpP6LTrF"
+    },
+    {
+      "album": {
         "name": "Death of Me",
         "url": "https://open.spotify.com/album/7gZGPYadE5tXOLSI2U3puO"
       },
@@ -23424,7 +23446,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 194653,
       "name": "TOMBSTONE TOWN (feat. Slash)",
       "url": "https://open.spotify.com/track/5tAiaUVkYL86ZOaWwv0zLO"

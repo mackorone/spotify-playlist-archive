@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,643,839 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,643,928 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 99 | [Get Up](https://open.spotify.com/track/5o8U7JLG1JRqE4GRLIijEM) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [The Post Brothers](https://open.spotify.com/artist/7ltZPdxAvYDkb3dqstX4sn) | [Get Up](https://open.spotify.com/album/3FeWl6ywFsdfxcu5ndSgjr) | 4:30 |
 | 100 | [Torn Clouds](https://open.spotify.com/track/4yA3q8B64cpYT7M37RxKVu) | [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Weska](https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci) | [Torn Clouds](https://open.spotify.com/album/0N6QCUx6mnYk9fJmXavTek) | 4:01 |
 
-Snapshot ID: `AAAAABD8FwTJR+Lij/Bwlj0bYwsyrl6+`
+Snapshot ID: `AAAAANfxVzVWILDDgvVYm5Q06UeEubtc`

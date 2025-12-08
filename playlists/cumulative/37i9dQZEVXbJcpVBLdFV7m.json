@@ -1819,6 +1819,24 @@
     },
     {
       "album": {
+        "name": "american baddie",
+        "url": "https://open.spotify.com/album/4ZXkIcruW59fGdvVOEBaGt"
+      },
+      "artists": [
+        {
+          "name": "sayso",
+          "url": "https://open.spotify.com/artist/12Av8CCJTyPhv7Uk6yG5Lh"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131371,
+      "name": "american baddie",
+      "url": "https://open.spotify.com/track/4Z2sXKeE9DmBgrvF4pdSa4"
+    },
+    {
+      "album": {
         "name": "AMG Isteria",
         "url": "https://open.spotify.com/album/4ebshulAd9ZBuGeTaqk3ZL"
       },
@@ -5184,7 +5202,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 108307,
       "name": "Cali Man",
       "url": "https://open.spotify.com/track/2pPNAgcdgtRMwK9mPYMK7O"
@@ -8712,7 +8730,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 97324,
       "name": "Don't You Forget",
       "url": "https://open.spotify.com/track/6XYSYV2avqhOl9BRexar7S"
@@ -11000,7 +11018,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 268519,
       "name": "FEAR",
       "url": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz"
@@ -15170,10 +15188,28 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 169959,
       "name": "I'm Not What Happened To Me",
       "url": "https://open.spotify.com/track/4WoXZHKkobhjGboBGItvgU"
+    },
+    {
+      "album": {
+        "name": "I'm Not What Happened To Me",
+        "url": "https://open.spotify.com/album/4X0N7HzI7WsChgMRRPbw7a"
+      },
+      "artists": [
+        {
+          "name": "Good Vibes Tribe 11:11",
+          "url": "https://open.spotify.com/artist/7xkYlVMlHwFL6oVCs3xrCK"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169980,
+      "name": "I'm Not What Happened To Me",
+      "url": "https://open.spotify.com/track/04yTSkMAQ90fHY5JjtZW0j"
     },
     {
       "album": {
@@ -16202,7 +16238,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 216744,
       "name": "Join Me In Death",
       "url": "https://open.spotify.com/track/089jl361OtZ6VpYvhgPiTS"
@@ -22690,7 +22726,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 125480,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i"
@@ -24048,6 +24084,44 @@
       "duration_ms": 152500,
       "name": "Ome Robert",
       "url": "https://open.spotify.com/track/4hFLAgCvQdngAtIhb3KaVI"
+    },
+    {
+      "album": {
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Christian Borle",
+          "url": "https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG"
+        },
+        {
+          "name": "Joel Perez",
+          "url": "https://open.spotify.com/artist/1OFyMXmkzPqt8a5MZ1ue5h"
+        },
+        {
+          "name": "Lilli Cooper",
+          "url": "https://open.spotify.com/artist/61Im27379GhfbMD5LVDmlp"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119883,
+      "name": "Once We Get Up There",
+      "url": "https://open.spotify.com/track/66sO5P0JhejhELU35RYVKV"
     },
     {
       "album": {
@@ -25764,10 +25838,28 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 195409,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/491ca80N1C63tpoLvAsLKb"
+    },
+    {
+      "album": {
+        "name": "WE GO UP",
+        "url": "https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195409,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/7jp2VW62Yt2bDOaRas3hR6"
     },
     {
       "album": {
@@ -35582,7 +35674,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-08",
       "duration_ms": 224853,
       "name": "We Are Charlie Kirk",
       "url": "https://open.spotify.com/track/6JY2x6cvjNZjqdQFnEltcP"

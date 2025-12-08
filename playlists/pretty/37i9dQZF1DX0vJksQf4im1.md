@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vJksQf4im1.md) - [plain]
 
 > Mark實呢個歌單，就唔驚錯過香港hit 緊嘅Pop Songs 啦！Cover: JADE
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,598 likes - 106 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,597 likes - 106 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

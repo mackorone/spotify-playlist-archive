@@ -4,7 +4,7 @@
 
 > 
 
-61 songs - 4 hr 9 min
+62 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Wait for It](https://open.spotify.com/track/7EqpEBPOohgk7NnKvBGFWo) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 3:13 | 2025-10-21 |  |
 | [Watch What Happens](https://open.spotify.com/track/3fzJcLWDgzx4l1tTdkAxYd) | [Kara Lindsay](https://open.spotify.com/artist/4wwo2P1bzRnLwJwjHrbZnv) | [Newsies \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3hqYvu1aBkroLKzkGM5DSk) | 3:06 | 2025-11-15 |  |
 | [Wet Dreamz](https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 3:59 | 2025-07-22 | 2025-10-23 |
+| [Who Lives, Who Dies, Who Tells Your Story](https://open.spotify.com/track/7EsSVPxaYoAZjQwhspJBs2) | [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 3:37 | 2025-12-07 |  |
 | [Without a Tribe](https://open.spotify.com/track/1j6P0usrnbCDKNMvocxgxq) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [Without a Tribe](https://open.spotify.com/album/5PLBQ0CHYtWK82jCyquCvb) | 2:14 | 2025-11-05 |  |
 | [Without You \(4 Tonite\) \- Live](https://open.spotify.com/track/4Ymlnq6LskNxKfn5nCcPSp) | [Lucky Chops](https://open.spotify.com/artist/2b6gc4EVpO6OTlDvKrK852) | [Live at Virtue and Vice Studio](https://open.spotify.com/album/7hoM6KnToWUFhTU77wBgIa) | 4:27 | 2025-11-23 |  |
 | [Would You Fall in Love with Me Again](https://open.spotify.com/track/3iYeXCdD3d0zlex2v0CpVt) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Anna Lea](https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w) | [EPIC: The Ithaca Saga \(Official Concept Album\)](https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU) | 5:45 | 2025-03-17 |  |

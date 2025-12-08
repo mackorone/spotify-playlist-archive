@@ -2255,6 +2255,24 @@
     },
     {
       "album": {
+        "name": "Feel It All",
+        "url": "https://open.spotify.com/album/4pQAtTSmCMEe7yYblXY5qN"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Voltz",
+          "url": "https://open.spotify.com/artist/1Zu7L8siS7ugY35pTS6Wgw"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158279,
+      "name": "Feel It All",
+      "url": "https://open.spotify.com/track/3N7gg7XImFXdYWrXmCCLco"
+    },
+    {
+      "album": {
         "name": "Feel Me",
         "url": "https://open.spotify.com/album/7MX1LQul8Ft3xJkvhVcbhk"
       },
@@ -5808,6 +5826,24 @@
       "duration_ms": 262686,
       "name": "Rush",
       "url": "https://open.spotify.com/track/4vxpL87i6ktp1mYgjVNrwX"
+    },
+    {
+      "album": {
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/43HJdpscmPxiFgFv4Xb0em"
+      },
+      "artists": [
+        {
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/1qoApE9HzNbP2RiogZkE89"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91363,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/1Ih75RntdEoaQG18r9eJpt"
     },
     {
       "album": {

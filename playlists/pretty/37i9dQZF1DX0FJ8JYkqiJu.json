@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 413925,
+  "num_followers": 413941,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -603,26 +603,6 @@
     {
       "added_at": "2025-12-03 03:00:26",
       "album": {
-        "name": "State Of Mind",
-        "url": "https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        }
-      ],
-      "duration_ms": 279120,
-      "name": "State Of Mind",
-      "url": "https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y"
-    },
-    {
-      "added_at": "2025-12-03 03:00:26",
-      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 320533,
       "name": "Cmon",
       "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
+    },
+    {
+      "added_at": "2025-12-03 03:00:26",
+      "album": {
+        "name": "State Of Mind",
+        "url": "https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        }
+      ],
+      "duration_ms": 279120,
+      "name": "State Of Mind",
+      "url": "https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y"
     },
     {
       "added_at": "2025-12-03 03:00:26",
@@ -839,26 +839,6 @@
     {
       "added_at": "2025-12-03 03:00:26",
       "album": {
-        "name": "Anemoia",
-        "url": "https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Oliver Sim",
-          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
-        }
-      ],
-      "duration_ms": 242239,
-      "name": "Baby Blue (feat. Oliver Sim)",
-      "url": "https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv"
-    },
-    {
-      "added_at": "2025-12-03 03:00:26",
-      "album": {
         "name": "Weightless",
         "url": "https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 222701,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF"
+    },
+    {
+      "added_at": "2025-12-03 03:00:26",
+      "album": {
+        "name": "Anemoia",
+        "url": "https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Oliver Sim",
+          "url": "https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm"
+        }
+      ],
+      "duration_ms": 242239,
+      "name": "Baby Blue (feat. Oliver Sim)",
+      "url": "https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv"
     },
     {
       "added_at": "2025-12-03 03:00:26",
