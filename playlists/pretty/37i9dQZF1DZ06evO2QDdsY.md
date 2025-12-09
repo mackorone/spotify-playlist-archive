@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,523 likes - 45 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,526 likes - 45 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 44 | [Friendship \[Feat\. Carla Thomas, Stax Music Academy\]](https://open.spotify.com/track/65uCEtnZZyOJ9PUH3DGr8W) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj), [Stax Music Academy](https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K) | [Friendship \[Feat\. Carla Thomas and Stax Music Academy\]](https://open.spotify.com/album/5OcQ95byjeN44N1DAp3de3) | 3:39 |
 | 45 | [Big Dream](https://open.spotify.com/track/5Kpt9U5o9qDUkT5RyvOwmg) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [My Black Country: The Songs of Alice Randall](https://open.spotify.com/album/55YFzxmWdGxAUFSp9zh9sN) | 2:23 |
 
-Snapshot ID: `aTNyAAAAAABfnAF94Ioy0YkYiFlaIsYN`
+Snapshot ID: `aTTDgAAAAACnQGUsGQeibYf/nGJWI1Sa`

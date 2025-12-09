@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > afrobeats: best served chill
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,800 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,817 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 72 | [US](https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [US](https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X) | 2:19 |
 | 73 | [ecstasy](https://open.spotify.com/track/1hBvCXXnLsXwlS7Qx2xdAh) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:32 |
 | 74 | [Suns Out](https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Suns Out](https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy) | 2:31 |
-| 75 | [damn u](https://open.spotify.com/track/5XT1UyE4dVm8DsqVGir9PG) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [After Midnight](https://open.spotify.com/album/76fGDuks8oWP7yumsfunzL) | 2:57 |
-| 76 | [Intentions](https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Intentions](https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu) | 2:35 |
+| 75 | [Intentions](https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Intentions](https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu) | 2:35 |
+| 76 | [damn u](https://open.spotify.com/track/5XT1UyE4dVm8DsqVGir9PG) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [After Midnight](https://open.spotify.com/album/76fGDuks8oWP7yumsfunzL) | 2:57 |
 | 77 | [US III](https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [US III](https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO) | 2:36 |
 | 78 | [Yes I Do](https://open.spotify.com/track/5kwEDuHCYtqCyO9JisE3XA) | [Afrobeats Central](https://open.spotify.com/artist/5CnUroTELSGtd9HXmXOgaB), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Yes I Do](https://open.spotify.com/album/2FlaE855XAFjUwUhS36vox) | 2:53 |
 | 79 | [Verily](https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Verily](https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR) | 3:15 |

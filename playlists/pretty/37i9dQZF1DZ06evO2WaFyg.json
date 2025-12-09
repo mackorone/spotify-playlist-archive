@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 263388,
+  "num_followers": 263400,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAADp1rZVqZ3PIEUTvcLC5Bpq",
+  "snapshot_id": "aTTDgAAAAAB/ejluWqBYCbTSUIBaP+67",
   "tracks": [
     {
       "added_at": null,
@@ -387,30 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lifestyle",
-        "url": "https://open.spotify.com/album/4EZDdNda2DHRyqoDgTpS4l"
-      },
-      "artists": [
-        {
-          "name": "Rich Gang",
-          "url": "https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 269693,
-      "name": "Lifestyle",
-      "url": "https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHAM (Extended Version)",
         "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
       },
@@ -431,6 +407,30 @@
       "duration_ms": 227400,
       "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
       "url": "https://open.spotify.com/track/4IKvw1OdeTJIN3g4zWE38f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lifestyle",
+        "url": "https://open.spotify.com/album/4EZDdNda2DHRyqoDgTpS4l"
+      },
+      "artists": [
+        {
+          "name": "Rich Gang",
+          "url": "https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 269693,
+      "name": "Lifestyle",
+      "url": "https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl"
     },
     {
       "added_at": null,
@@ -1015,6 +1015,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Leaks",
+        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 192117,
+      "name": "Superman (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1t9dT5JBC9x5WaAJpQzU1I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hookah",
         "url": "https://open.spotify.com/album/18G8ZHAbJBrSwP9IwlNJMG"
       },
@@ -1079,22 +1099,6 @@
       "duration_ms": 201706,
       "name": "Chanel (Go Get It) [feat. Gunna & Lil Baby]",
       "url": "https://open.spotify.com/track/0kCBorRrKZkSztd9m0QI3r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beautiful Thugger Girls",
-        "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 208920,
-      "name": "Daddy's Birthday",
-      "url": "https://open.spotify.com/track/347hgqCHnL4GfgVX5hZfNv"
     }
   ],
   "unique_name": "This Is Young Thug",

@@ -1,12 +1,12 @@
 {
   "description": "This is Stefanie. The essential tracks, all in one playlist.",
-  "num_followers": 171,
+  "num_followers": 172,
   "original_name": "This Is Stefanie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAABLob3DdLX9YY5HaDYxAm9V",
+  "snapshot_id": "aTTDgAAAAADYuAG048tHowVkLiqnCC9L",
   "tracks": [
     {
       "added_at": null,
@@ -91,42 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Espelho",
-        "url": "https://open.spotify.com/album/0mr29hP4Qls88f2ImXd3s6"
-      },
-      "artists": [
-        {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 193800,
-      "name": "Espelho",
-      "url": "https://open.spotify.com/track/7b92fkV1fDdL8FdO9hgryf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BUNMI",
-        "url": "https://open.spotify.com/album/6sjV2tmRDy7Wql7El5rPPX"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 272002,
-      "name": "NADA PESSOAL",
-      "url": "https://open.spotify.com/track/2r5LTidg50c5PBrO1ehkHN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Non Ducor Duco",
         "url": "https://open.spotify.com/album/6hDIyQC1ljD1gmxWFTSTNG"
       },
@@ -155,6 +119,42 @@
       "duration_ms": 243400,
       "name": "Porque Eu Rimo",
       "url": "https://open.spotify.com/track/25xKAsnTAkwYSe2beEw3ns"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BUNMI",
+        "url": "https://open.spotify.com/album/6sjV2tmRDy7Wql7El5rPPX"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 272002,
+      "name": "NADA PESSOAL",
+      "url": "https://open.spotify.com/track/2r5LTidg50c5PBrO1ehkHN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Espelho",
+        "url": "https://open.spotify.com/album/0mr29hP4Qls88f2ImXd3s6"
+      },
+      "artists": [
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "Espelho",
+      "url": "https://open.spotify.com/track/7b92fkV1fDdL8FdO9hgryf"
     },
     {
       "added_at": null,
@@ -230,23 +230,11 @@
         {
           "name": "Stefanie",
           "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Daniel Ganjaman",
-          "url": "https://open.spotify.com/artist/3NlKFt1ZE1pkpH0CpYDDqK"
-        },
-        {
-          "name": "Grou",
-          "url": "https://open.spotify.com/artist/07DFKI84JMzC8YCkUdfDzV"
-        },
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
         }
       ],
-      "duration_ms": 176911,
-      "name": "N\u00c3O PIRAR",
-      "url": "https://open.spotify.com/track/72J7GBimJeoTkXjXbRqxCA"
+      "duration_ms": 218623,
+      "name": "DESCONFORTO",
+      "url": "https://open.spotify.com/track/29tBLOZpAyaXZgsNuGUC86"
     },
     {
       "added_at": null,
@@ -271,6 +259,74 @@
       "duration_ms": 223146,
       "name": "Rio Nilo",
       "url": "https://open.spotify.com/track/4HFDkgSNKq7XFuq3pDi9Zk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pelos Meus Amores",
+        "url": "https://open.spotify.com/album/3VafRcbvbzqwP9hPeXpPak"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Lino Krizz",
+          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
+        }
+      ],
+      "duration_ms": 227377,
+      "name": "Pelos Meus Amores",
+      "url": "https://open.spotify.com/track/43Gm484d6Vmkvhb3FutdT9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Movimento R\u00e1pido dos Olhos",
+        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 207071,
+      "name": "Na Entrada Do C\u00e9u",
+      "url": "https://open.spotify.com/track/2qyctDCiic8LglZE7NM2Hq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BUNMI",
+        "url": "https://open.spotify.com/album/6sjV2tmRDy7Wql7El5rPPX"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Daniel Ganjaman",
+          "url": "https://open.spotify.com/artist/3NlKFt1ZE1pkpH0CpYDDqK"
+        },
+        {
+          "name": "Grou",
+          "url": "https://open.spotify.com/artist/07DFKI84JMzC8YCkUdfDzV"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 176911,
+      "name": "N\u00c3O PIRAR",
+      "url": "https://open.spotify.com/track/72J7GBimJeoTkXjXbRqxCA"
     },
     {
       "added_at": null,
@@ -311,42 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pelos Meus Amores",
-        "url": "https://open.spotify.com/album/3VafRcbvbzqwP9hPeXpPak"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Lino Krizz",
-          "url": "https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg"
-        }
-      ],
-      "duration_ms": 227377,
-      "name": "Pelos Meus Amores",
-      "url": "https://open.spotify.com/track/43Gm484d6Vmkvhb3FutdT9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BUNMI",
-        "url": "https://open.spotify.com/album/6sjV2tmRDy7Wql7El5rPPX"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 218623,
-      "name": "DESCONFORTO",
-      "url": "https://open.spotify.com/track/29tBLOZpAyaXZgsNuGUC86"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mundo (Remix)",
         "url": "https://open.spotify.com/album/2b01sgh392nbjoeQSgKydA"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 239530,
       "name": "Cab\u00f4 - Remix",
       "url": "https://open.spotify.com/track/6G0XvhgmeRjJVZxN2KAiSt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Movimento R\u00e1pido dos Olhos",
-        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 207071,
-      "name": "Na Entrada Do C\u00e9u",
-      "url": "https://open.spotify.com/track/2qyctDCiic8LglZE7NM2Hq"
     },
     {
       "added_at": null,
@@ -451,34 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hip Hop Machine Temporada 2",
-        "url": "https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI"
-      },
-      "artists": [
-        {
-          "name": "Leo Gandelman",
-          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
-        },
-        {
-          "name": "Machine Series",
-          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 348314,
-      "name": "Raio De Sol",
-      "url": "https://open.spotify.com/track/1A60gepW790C5S9JKATGQB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Azz Veizz (Das Minas)",
         "url": "https://open.spotify.com/album/4xcSH0hD8XqnSecEJVAbPv"
       },
@@ -523,6 +495,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hip Hop Machine Temporada 2",
+        "url": "https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI"
+      },
+      "artists": [
+        {
+          "name": "Leo Gandelman",
+          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
+        },
+        {
+          "name": "Machine Series",
+          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 348314,
+      "name": "Raio De Sol",
+      "url": "https://open.spotify.com/track/1A60gepW790C5S9JKATGQB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BUNMI",
         "url": "https://open.spotify.com/album/6sjV2tmRDy7Wql7El5rPPX"
       },
@@ -535,34 +535,6 @@
       "duration_ms": 267630,
       "name": "PLENITUDE",
       "url": "https://open.spotify.com/track/26eOlSRp3baVOEsJCcrVNr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Rap \u00e9 PRETO! pt. 2",
-        "url": "https://open.spotify.com/album/49sXlIhtbRTaRDud1qZNR0"
-      },
-      "artists": [
-        {
-          "name": "Nego Max",
-          "url": "https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8"
-        },
-        {
-          "name": "Kamau",
-          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
-        },
-        {
-          "name": "Dropallien",
-          "url": "https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 247745,
-      "name": "O Rap \u00e9 PRETO! pt. 2",
-      "url": "https://open.spotify.com/track/5FmPre7XLYJ3U2nJJa8flw"
     },
     {
       "added_at": null,
@@ -595,6 +567,34 @@
       "duration_ms": 222142,
       "name": "Perto de Mim",
       "url": "https://open.spotify.com/track/5Rc2h0yW0OeHusr4gwwtt7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Rap \u00e9 PRETO! pt. 2",
+        "url": "https://open.spotify.com/album/49sXlIhtbRTaRDud1qZNR0"
+      },
+      "artists": [
+        {
+          "name": "Nego Max",
+          "url": "https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8"
+        },
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        },
+        {
+          "name": "Dropallien",
+          "url": "https://open.spotify.com/artist/59uO2uoCSPFwU4pZYhhqyD"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 247745,
+      "name": "O Rap \u00e9 PRETO! pt. 2",
+      "url": "https://open.spotify.com/track/5FmPre7XLYJ3U2nJJa8flw"
     },
     {
       "added_at": null,

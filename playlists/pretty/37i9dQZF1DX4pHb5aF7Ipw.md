@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Saabi Bhinder
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,294 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,309 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 37 | [Autobahn](https://open.spotify.com/track/4TEAN4lkqV5W3gkVsWuTXw) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Dishant](https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ) | [Autobahn](https://open.spotify.com/album/4GpHvgA5YP9YxjAMl1U7Ql) | 2:23 |
 | 38 | [Hammer](https://open.spotify.com/track/0AcTZKntdm80BEDqGTg5ZJ) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Fateh Shergill](https://open.spotify.com/artist/5RrNdku9cK7VRbaOxGPsPb), [Bull Music](https://open.spotify.com/artist/2MTEA52tqsE4Pke2kYjkL5) | [Hammer](https://open.spotify.com/album/73KLRC3DRuQLl3WMxgdVVm) | 2:42 |
 | 39 | [Shell Shock](https://open.spotify.com/track/3YxZCVkbXz5nxmHnnVmfE9) | [GAGG E](https://open.spotify.com/artist/1bLhM3jn76Q9wKJSF23x8R), [INSAAN](https://open.spotify.com/artist/5Lq5t22etD9OPflf7IJbXs) | [Shell Shock](https://open.spotify.com/album/74qUMxiJRLmKo00BTCoP8b) | 3:21 |
-| 40 | [Aish Full](https://open.spotify.com/track/1HmzvonXngsnWQkWmS3qf3) | [TEJI](https://open.spotify.com/artist/6uNvr9JWcntVyh4LBH1V15) | [Aish Full](https://open.spotify.com/album/4rY8wfXvi2Hj17DzBo69fY) | 2:59 |
+| 40 | [Aish Full](https://open.spotify.com/track/1HmzvonXngsnWQkWmS3qf3) | [TEJI](https://open.spotify.com/artist/6uNvr9JWcntVyh4LBH1V15), [Broski Music](https://open.spotify.com/artist/13gICLV3fgVGRH7bM6qT5U) | [Aish Full](https://open.spotify.com/album/4rY8wfXvi2Hj17DzBo69fY) | 2:59 |
 | 41 | [ABOVE ALL](https://open.spotify.com/track/5tn3v0dI1CUvR9szBbJHwO) | [JP47](https://open.spotify.com/artist/12ZFBwOMiEaUTRYUYfOUBw), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [No Exit](https://open.spotify.com/album/5Zx9lANizOS0cAD2ju3Xeu) | 2:14 |
 | 42 | [Nakhre](https://open.spotify.com/track/1hruMJYAPjn2PQCn1RyyyZ) | [Luck](https://open.spotify.com/artist/4kP9mgDRhhYLdxPjB0NdaO), [Aditya Dcruz](https://open.spotify.com/artist/2KTSnNXq1pMPqLK9W2iHFZ), [KASHOUT](https://open.spotify.com/artist/34JZzYk53Al2rwuZVCbNpr) | [Nakhre](https://open.spotify.com/album/0ZFygzIZdl9GrH6zyEwguI) | 3:07 |
 | 43 | [Kaun Ae Tu](https://open.spotify.com/track/29l8rXNoQUC4cIsKs8fVPz) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Kaun Ae Tu](https://open.spotify.com/album/6nodWdm3S6CZjt3SQWhMNu) | 2:41 |

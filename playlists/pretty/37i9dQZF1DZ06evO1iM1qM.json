@@ -1,12 +1,12 @@
 {
   "description": "This is John Coltrane. The essential tracks, all in one playlist.",
-  "num_followers": 218136,
+  "num_followers": 218164,
   "original_name": "This Is John Coltrane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAAB88V61muRHbW8CONfp7hFk",
+  "snapshot_id": "aTTDgAAAAAANDKmxiydZBOJ3oASGkpL+",
   "tracks": [
     {
       "added_at": null,
@@ -64,9 +64,25 @@
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 319733,
-      "name": "My Little Brown Book",
-      "url": "https://open.spotify.com/track/4rmCI9VWrwrJTJ8XQ80BMN"
+      "duration_ms": 255226,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Giant Steps (Mono)",
+        "url": "https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 265049,
+      "name": "Naima - Mono",
+      "url": "https://open.spotify.com/track/5cAwEKmadsW4nCYe9QUvgU"
     },
     {
       "added_at": null,
@@ -95,8 +111,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Giant Steps (Mono)",
-        "url": "https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t"
+        "name": "Coltrane Jazz",
+        "url": "https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX"
       },
       "artists": [
         {
@@ -104,9 +120,29 @@
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 265049,
-      "name": "Naima - Mono",
-      "url": "https://open.spotify.com/track/5cAwEKmadsW4nCYe9QUvgU"
+      "duration_ms": 206360,
+      "name": "I'll Wait and Pray",
+      "url": "https://open.spotify.com/track/1Rph9i0FWKDa9Aq9H4iiMx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duke Ellington & John Coltrane",
+        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 319733,
+      "name": "My Little Brown Book",
+      "url": "https://open.spotify.com/track/4rmCI9VWrwrJTJ8XQ80BMN"
     },
     {
       "added_at": null,
@@ -127,26 +163,6 @@
       "duration_ms": 336546,
       "name": "You Are Too Beautiful",
       "url": "https://open.spotify.com/track/4bA0Y5vHsRx2RH59lGkryb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duke Ellington & John Coltrane",
-        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 255226,
-      "name": "In A Sentimental Mood",
-      "url": "https://open.spotify.com/track/0E8q2Fx2XuzXCO2NSAppkR"
     },
     {
       "added_at": null,
@@ -175,22 +191,6 @@
       "duration_ms": 562640,
       "name": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
       "url": "https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coltrane Jazz",
-        "url": "https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "I'll Wait and Pray",
-      "url": "https://open.spotify.com/track/1Rph9i0FWKDa9Aq9H4iiMx"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kenny Burrell & John Coltrane",
-        "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 190573,
-      "name": "Why Was I Born? - Rudy Van Gelder Remaster 1958",
-      "url": "https://open.spotify.com/track/5LnChMpPDKhkyE6wJjVGn1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 542400,
       "name": "Someday My Prince Will Come (feat. John Coltrane, Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/0PHqHvmg4TIaANfbsvDMTR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kenny Burrell & John Coltrane",
+        "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 190573,
+      "name": "Why Was I Born? - Rudy Van Gelder Remaster 1958",
+      "url": "https://open.spotify.com/track/5LnChMpPDKhkyE6wJjVGn1"
     },
     {
       "added_at": null,

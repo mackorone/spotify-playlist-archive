@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Music that means it\. Cover: Tom A\. Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,596 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,584 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,11 +59,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 49 | [Something's Wrong](https://open.spotify.com/track/45afJugFs63B3KaDO3pcVa) | [James Marriott](https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL) | [Something's Wrong](https://open.spotify.com/album/1xuZIqxmZleNkPG8PonAp3) | 3:20 |
 | 50 | [Here's The Thing](https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Here's The Thing](https://open.spotify.com/album/63MATGJoOix8OypoCqnJga) | 2:43 |
 | 51 | [The Old Style Raiders](https://open.spotify.com/track/07wuA7wnqcAEi1pWm9hXYW) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [The Theory Of Whatever](https://open.spotify.com/album/5kyMgf8ogldA8iLY9ppyAV) | 3:55 |
-| 52 | [Yay! Saturday](https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Yay! Saturday](https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn) | 3:15 |
+| 52 | [Stay Up](https://open.spotify.com/track/7i2ZntdYyNmcGnptw8Dhbw) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Stay Up](https://open.spotify.com/album/5J7fJeUi0ouBt8y4QWJYyY) | 3:17 |
 | 53 | [Love & Money](https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Love & Money](https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8) | 3:49 |
-| 54 | [Stay Up](https://open.spotify.com/track/7i2ZntdYyNmcGnptw8Dhbw) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Stay Up](https://open.spotify.com/album/5J7fJeUi0ouBt8y4QWJYyY) | 3:17 |
-| 55 | [ASA](https://open.spotify.com/track/5BQOoA3LtXzmPWHtBoAeyw) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [ASA](https://open.spotify.com/album/6FDu9Qf4NbE4B64JrNF7yv) | 2:31 |
-| 56 | [Voice Of The Voiceless](https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Voice Of The Voiceless](https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU) | 3:13 |
+| 54 | [Yay! Saturday](https://open.spotify.com/track/3N5FdYa9x0qqLrWaBkCeBE) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Yay! Saturday](https://open.spotify.com/album/02OCZT8wTCERuqUzkhQfXn) | 3:15 |
+| 55 | [Voice Of The Voiceless](https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Voice Of The Voiceless](https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU) | 3:13 |
+| 56 | [ASA](https://open.spotify.com/track/5BQOoA3LtXzmPWHtBoAeyw) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [ASA](https://open.spotify.com/album/6FDu9Qf4NbE4B64JrNF7yv) | 2:31 |
 | 57 | [Hippodrome](https://open.spotify.com/track/3ouStb8Q4Tjgg6SdONuDIr) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Hippodrome](https://open.spotify.com/album/7jasBIPf9Yop4dyY9KOVqc) | 2:41 |
 | 58 | [You Change with the Seasons](https://open.spotify.com/track/0nAb06osEKEOyKJs0KBT4m) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [Get Away from the Feeling](https://open.spotify.com/album/1k5fYWqCnKmTd8KQlez9TC) | 3:50 |
 | 59 | [Do You Want It?](https://open.spotify.com/track/14Z6bWa5MGCXoRm8JCBxCs) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Do You Want It?](https://open.spotify.com/album/3r1POBHLDuWzGaIqxtpKL4) | 3:10 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 95 | [Cartwheels](https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Cartwheels](https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN) | 2:04 |
 | 96 | [Hole In My Home](https://open.spotify.com/track/39Dd3JAlz0IxRVtfB0mR3J) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [Western Approaches](https://open.spotify.com/album/4IVdAJ7RgzPAPhUh4FcJbq) | 3:32 |
 | 97 | [Let's Leave Together](https://open.spotify.com/track/28p6cPTSRglxJjKYZQeJVH) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Death & Love, Pt\. 1](https://open.spotify.com/album/2ZA4Mn83aCyCEa9Cz3UfgK) | 3:20 |
-| 98 | [Thinking About You](https://open.spotify.com/track/1eDkgAb10MpvfquvlvVxqW) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Smitten](https://open.spotify.com/album/20L5ONbidQxNKj0yMP1mWO) | 3:07 |
-| 99 | [Billy Flynn of Bethnal Green](https://open.spotify.com/track/3xbLLoMcP67h6fwYMB4kV7) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [Billy Flynn of Bethnal Green](https://open.spotify.com/album/1MFLk8zuA3pC7TxOG3rG6Q) | 4:48 |
+| 98 | [Billy Flynn of Bethnal Green](https://open.spotify.com/track/3xbLLoMcP67h6fwYMB4kV7) | [Louis Dunford](https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342) | [Billy Flynn of Bethnal Green](https://open.spotify.com/album/1MFLk8zuA3pC7TxOG3rG6Q) | 4:48 |
+| 99 | [Thinking About You](https://open.spotify.com/track/1eDkgAb10MpvfquvlvVxqW) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Smitten](https://open.spotify.com/album/20L5ONbidQxNKj0yMP1mWO) | 3:07 |
 | 100 | [Sertraline](https://open.spotify.com/track/590R8KUGLq2KhNDjccahYK) | [The Lottery Winners](https://open.spotify.com/artist/0LLilNa5TUAaUwJwLyOf2b) | [Anxiety Replacement Therapy](https://open.spotify.com/album/7IX8SVSpjtuU4qNukaXcZu) | 3:06 |
 
 Snapshot ID: `AAAAAO0cOtHoqGvJppbIh4vlx63Vn7bQ`

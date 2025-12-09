@@ -13670,7 +13670,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 202133,
       "name": "\u05d0\u05ea \u05dc\u05d0 \u05d9\u05d5\u05d3\u05e2\u05ea \u05db\u05de\u05d4 \u05e9\u05d0\u05e0\u05d9 \u05d0\u05d5\u05d4\u05d1 \u05d0\u05d5\u05ea\u05da",
       "url": "https://open.spotify.com/track/0sMyBmtyp4riKYNpDVNSH4"
@@ -14062,7 +14062,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 168960,
       "name": "\u05d1\u05d7\u05d5\u05e8\u05d5\u05ea \u05d8\u05d5\u05d1\u05d5\u05ea",
       "url": "https://open.spotify.com/track/14uCYjc3tEJmK61fWQl3KK"
@@ -17557,6 +17557,28 @@
     },
     {
       "album": {
+        "name": "\u05d9\u05e9 \u05de\u05d9\u05e9\u05d4\u05d5 \u05e9\u05e9\u05e8 \u05dc\u05da",
+        "url": "https://open.spotify.com/album/2DWJhuqWVgYf8kclsUINyA"
+      },
+      "artists": [
+        {
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        },
+        {
+          "name": "Aviv Geffen",
+          "url": "https://open.spotify.com/artist/73ieysHN7XpJYEnEAYsO3K"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213765,
+      "name": "\u05d9\u05e9 \u05de\u05d9\u05e9\u05d4\u05d5 \u05e9\u05e9\u05e8 \u05dc\u05da",
+      "url": "https://open.spotify.com/track/6Ix2MJMdzccf5gVosUYG0r"
+    },
+    {
+      "album": {
         "name": "\u05e2\u05d9\u05d3\u05df \u05e2\u05de\u05d3\u05d9",
         "url": "https://open.spotify.com/album/38ULaBgGevy5UhbI9yXAvg"
       },
@@ -19462,7 +19484,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "\u05de\u05d3\u05e2 \u05d1\u05d3\u05d9\u05d5\u05e0\u05d9",
       "url": "https://open.spotify.com/track/6YEcDPO0mxYoUOZx5cZleT"
@@ -21114,7 +21136,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 213720,
       "name": "\u05e0\u05ea\u05e8\u05d0\u05d4 \u05d1\u05d2\u05dc\u05d2\u05d5\u05dc \u05d4\u05d1\u05d0",
       "url": "https://open.spotify.com/track/1saT4tObMScARIwT4wTv0W"
@@ -23474,7 +23496,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 196458,
       "name": "\u05e7\u05e9\u05d4 \u05d1\u05db\u05d3\u05d5\u05e8 \u05d4\u05d0\u05e8\u05e5",
       "url": "https://open.spotify.com/track/1k91FYQpWr3WNuRfT3hI9N"

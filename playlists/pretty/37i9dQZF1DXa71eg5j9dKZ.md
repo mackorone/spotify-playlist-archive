@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Daphni
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,752 likes - 104 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,761 likes - 104 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

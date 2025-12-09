@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2018. Cover: The 1975",
-  "num_followers": 92106,
+  "num_followers": 92131,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Classic",
+        "url": "https://open.spotify.com/album/2gHoyHYnaGEctKR8kysOAU"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/47ed9eO66cBHvWteLlF7C0"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "Chiquito",
         "url": "https://open.spotify.com/album/6Bq9FHHUxCUZalaQ6YwGjy"
       },
@@ -1463,18 +1479,18 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Classic",
-        "url": "https://open.spotify.com/album/2gHoyHYnaGEctKR8kysOAU"
+        "name": "nightmares",
+        "url": "https://open.spotify.com/album/0y6NUCloXhKFoYGZ1m3P96"
       },
       "artists": [
         {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+          "name": "hard life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/47ed9eO66cBHvWteLlF7C0"
+      "duration_ms": 207003,
+      "name": "nightmares",
+      "url": "https://open.spotify.com/track/2hCOLHDVQhnu0qpLFV4ynj"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1491,6 +1507,38 @@
       "duration_ms": 184693,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/5L40lPxGOtkpCYfaakKJbq"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "In the Sky",
+        "url": "https://open.spotify.com/album/7oH5TTCFxugLk2JZIUReR2"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 217284,
+      "name": "Groceries",
+      "url": "https://open.spotify.com/track/706J9prVXY8vZHhp9VGiBE"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "summer depression",
+        "url": "https://open.spotify.com/album/3jlug1mMFqnp2rTBRV020r"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 151693,
+      "name": "summer depression",
+      "url": "https://open.spotify.com/track/2zPcVDSpYNVKQ5c7jR7MXj"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1515,38 +1563,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "nightmares",
-        "url": "https://open.spotify.com/album/0y6NUCloXhKFoYGZ1m3P96"
-      },
-      "artists": [
-        {
-          "name": "hard life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        }
-      ],
-      "duration_ms": 207003,
-      "name": "nightmares",
-      "url": "https://open.spotify.com/track/2hCOLHDVQhnu0qpLFV4ynj"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "In the Sky",
-        "url": "https://open.spotify.com/album/7oH5TTCFxugLk2JZIUReR2"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 217284,
-      "name": "Groceries",
-      "url": "https://open.spotify.com/track/706J9prVXY8vZHhp9VGiBE"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Be the Cowboy",
         "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 128198,
       "name": "Washing Machine Heart",
       "url": "https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "summer depression",
-        "url": "https://open.spotify.com/album/3jlug1mMFqnp2rTBRV020r"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 151693,
-      "name": "summer depression",
-      "url": "https://open.spotify.com/track/2zPcVDSpYNVKQ5c7jR7MXj"
     },
     {
       "added_at": "2024-03-18 13:22:22",

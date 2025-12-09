@@ -1,6 +1,6 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 120920,
+  "num_followers": 120944,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
@@ -791,18 +791,22 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Those Winter Sundays",
-        "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
+        "name": "Farewell, Stars (The American Dollar Rework)",
+        "url": "https://open.spotify.com/album/7MNXIkzZJo7oNOezVyDTXW"
       },
       "artists": [
         {
-          "name": "Have a Cigar",
-          "url": "https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H"
+          "name": "Message To Bears",
+          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
+        },
+        {
+          "name": "The American Dollar",
+          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
         }
       ],
-      "duration_ms": 229333,
-      "name": "Those Winter Sundays",
-      "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
+      "duration_ms": 228973,
+      "name": "Farewell, Stars - The American Dollar Rework",
+      "url": "https://open.spotify.com/track/7oEKxSpVRJo4SgBMl6DAhR"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -823,22 +827,18 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Farewell, Stars (The American Dollar Rework)",
-        "url": "https://open.spotify.com/album/7MNXIkzZJo7oNOezVyDTXW"
+        "name": "Those Winter Sundays",
+        "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
       },
       "artists": [
         {
-          "name": "Message To Bears",
-          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
-        },
-        {
-          "name": "The American Dollar",
-          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
+          "name": "Have a Cigar",
+          "url": "https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H"
         }
       ],
-      "duration_ms": 228973,
-      "name": "Farewell, Stars - The American Dollar Rework",
-      "url": "https://open.spotify.com/track/7oEKxSpVRJo4SgBMl6DAhR"
+      "duration_ms": 229333,
+      "name": "Those Winter Sundays",
+      "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
+        "name": "(not) alone",
+        "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
+      },
+      "artists": [
+        {
+          "name": "Johannes Baumer",
+          "url": "https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt"
+        }
+      ],
+      "duration_ms": 279197,
+      "name": "(not) alone",
+      "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
         "name": "The American Dollar",
         "url": "https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF"
       },
@@ -927,18 +943,18 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "(not) alone",
-        "url": "https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx"
+        "name": "Lakeshore",
+        "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
       },
       "artists": [
         {
-          "name": "Johannes Baumer",
-          "url": "https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt"
+          "name": "Lost Horse Mine",
+          "url": "https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV"
         }
       ],
-      "duration_ms": 279197,
-      "name": "(not) alone",
-      "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
+      "duration_ms": 164589,
+      "name": "Lakeshore",
+      "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -959,22 +975,6 @@
       "duration_ms": 360006,
       "name": "Love is a Shelter",
       "url": "https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
-        "name": "Lakeshore",
-        "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
-      },
-      "artists": [
-        {
-          "name": "Lost Horse Mine",
-          "url": "https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV"
-        }
-      ],
-      "duration_ms": 164589,
-      "name": "Lakeshore",
-      "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1127,8 +1127,8 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Songs to Disappear to",
-        "url": "https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz"
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
       },
       "artists": [
         {
@@ -1136,25 +1136,9 @@
           "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
         }
       ],
-      "duration_ms": 257568,
-      "name": "Old Moon",
-      "url": "https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
-        "name": "Pearldiving",
-        "url": "https://open.spotify.com/album/3qeHLQq8W62NOm4SH9Yya6"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        }
-      ],
-      "duration_ms": 152260,
-      "name": "Les Amourettes",
-      "url": "https://open.spotify.com/track/6eOmK8yn18IqGAHrNpXf9b"
+      "duration_ms": 420330,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1171,6 +1155,22 @@
       "duration_ms": 227975,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/4O7QRo5ZdHCSVbx6Nh4gLM"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Pearldiving",
+        "url": "https://open.spotify.com/album/3qeHLQq8W62NOm4SH9Yya6"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        }
+      ],
+      "duration_ms": 152260,
+      "name": "Les Amourettes",
+      "url": "https://open.spotify.com/track/6eOmK8yn18IqGAHrNpXf9b"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1207,8 +1207,8 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
+        "name": "Songs to Disappear to",
+        "url": "https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz"
       },
       "artists": [
         {
@@ -1216,9 +1216,9 @@
           "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
         }
       ],
-      "duration_ms": 420330,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
+      "duration_ms": 257568,
+      "name": "Old Moon",
+      "url": "https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "In a Sad Red Dusk, We Were Finally Leaving",
-        "url": "https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR"
-      },
-      "artists": [
-        {
-          "name": "Carlos Ferreira",
-          "url": "https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB"
-        },
-        {
-          "name": "deer meadow",
-          "url": "https://open.spotify.com/artist/7IjTtPufpIvS5zpffa9FXr"
-        }
-      ],
-      "duration_ms": 318240,
-      "name": "Secret Colours",
-      "url": "https://open.spotify.com/track/1NMCxRadb4KO7Kjosst5lA"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "A Dream to Call My Own (feat. Janell Rosa)",
         "url": "https://open.spotify.com/album/2VX4sX25BcOUOY7sofYgaq"
       },
@@ -1435,6 +1415,26 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
+        "name": "In a Sad Red Dusk, We Were Finally Leaving",
+        "url": "https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR"
+      },
+      "artists": [
+        {
+          "name": "Carlos Ferreira",
+          "url": "https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB"
+        },
+        {
+          "name": "deer meadow",
+          "url": "https://open.spotify.com/artist/7IjTtPufpIvS5zpffa9FXr"
+        }
+      ],
+      "duration_ms": 318240,
+      "name": "Secret Colours",
+      "url": "https://open.spotify.com/track/1NMCxRadb4KO7Kjosst5lA"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
         "name": "The Skyline EP",
         "url": "https://open.spotify.com/album/1ytb7WT8k3J4kNVlPWYtPB"
       },
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Translucent",
-        "url": "https://open.spotify.com/album/1gp8VXsI71AekAP145JVeB"
-      },
-      "artists": [
-        {
-          "name": "The Choir",
-          "url": "https://open.spotify.com/artist/34ZMg5ojlqNAPlWyeYxqcu"
-        }
-      ],
-      "duration_ms": 366000,
-      "name": "Watching Feathers Float",
-      "url": "https://open.spotify.com/track/5pod4sYGbicg7UDiH6wO1g"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Elsewhere",
         "url": "https://open.spotify.com/album/47Mee9RWknn6UKGAuWVC2c"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 234160,
       "name": "Elsewhere",
       "url": "https://open.spotify.com/track/06TdEir7zUwTTCerC8JB6J"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Translucent",
+        "url": "https://open.spotify.com/album/1gp8VXsI71AekAP145JVeB"
+      },
+      "artists": [
+        {
+          "name": "The Choir",
+          "url": "https://open.spotify.com/artist/34ZMg5ojlqNAPlWyeYxqcu"
+        }
+      ],
+      "duration_ms": 366000,
+      "name": "Watching Feathers Float",
+      "url": "https://open.spotify.com/track/5pod4sYGbicg7UDiH6wO1g"
     },
     {
       "added_at": "2025-09-25 12:08:17",

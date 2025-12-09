@@ -2,7 +2,7 @@
 
 ### [Liebeslieder](https://open.spotify.com/playlist/37i9dQZF1DX8Zl33If947W)
 
-> Die schönsten deutschsprachigen Liebeslieder in einer Playlist.
+> Deutschsprachige Liebeslieder, die mitten ins Herz gehen ♥️
 
 99 songs - 5 hr 19 min
 

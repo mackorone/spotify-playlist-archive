@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 
 > This is Nívea Soares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,338 likes - 50 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,336 likes - 50 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 29 | [Jireh](https://open.spotify.com/track/0kZhQrrPGE2UnjXebXZVFL) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Bruno Graça](https://open.spotify.com/artist/4XNkLWO4TBqVlmJSDQMZyx), [Coral Black To Black](https://open.spotify.com/artist/70l6zlqQSQ7ldQ5eoyLuEC) | [Jireh](https://open.spotify.com/album/4FiL7tytS8757LLp4SRIqq) | 9:35 |
 | 30 | [Maravilhado](https://open.spotify.com/track/6ztdqO8mEJr8no28Hr0gD3) | [Gateway Worship Português](https://open.spotify.com/artist/22De2olWYrU8vpToSBq0Xy), [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Gloria A Deus](https://open.spotify.com/album/2krT7tZVv5nde0MiKYOdvx) | 6:19 |
 | 31 | [Digno de Tudo + Te Exaltamos \- Ao Vivo](https://open.spotify.com/track/67DGEqcpxUXtZEtFFmsnQC) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Digno de Tudo + Te Exaltamos \(Ao Vivo\)](https://open.spotify.com/album/5cU4w3ateIMCsm8aFneNuB) | 9:06 |
-| 32 | [Medley Coração Igual ao Teu \- Ao Vivo](https://open.spotify.com/track/1o0XzYCjhPLMsQ9PXLwlNH) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Mariana Valadão](https://open.spotify.com/artist/4ABs1DvG7IqLjBpYvOQedm), [Helena Tannure](https://open.spotify.com/artist/7yilUzReOHGdRaqypuG7f5) | [Medley Coração Igual ao Teu \(Ao Vivo\)](https://open.spotify.com/album/5s1zqwFYmzOAVgMtG1n2PK) | 7:17 |
-| 33 | [Não Temerei Jamais \- Ao Vivo](https://open.spotify.com/track/7omZ8f0zmTS8ywEojfODq7) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Não Temerei Jamais \(Ao Vivo\)](https://open.spotify.com/album/1LvLWCZMmMLYFzMct7BmO7) | 5:52 |
+| 32 | [Não Temerei Jamais \- Ao Vivo](https://open.spotify.com/track/7omZ8f0zmTS8ywEojfODq7) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Não Temerei Jamais \(Ao Vivo\)](https://open.spotify.com/album/1LvLWCZMmMLYFzMct7BmO7) | 5:52 |
+| 33 | [Medley Coração Igual ao Teu \- Ao Vivo](https://open.spotify.com/track/1o0XzYCjhPLMsQ9PXLwlNH) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Mariana Valadão](https://open.spotify.com/artist/4ABs1DvG7IqLjBpYvOQedm), [Helena Tannure](https://open.spotify.com/artist/7yilUzReOHGdRaqypuG7f5) | [Medley Coração Igual ao Teu \(Ao Vivo\)](https://open.spotify.com/album/5s1zqwFYmzOAVgMtG1n2PK) | 7:17 |
 | 34 | [Meu Maior Amor \- Ao Vivo](https://open.spotify.com/track/6veb6mzP3bVBM2qe6O3MSS) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 4:51 |
 | 35 | [Eu Cantarei](https://open.spotify.com/track/6wirmUJ6XncGeFjSyIMGwx) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ao Rei](https://open.spotify.com/album/4Oy8ojNQkl0Q1Q6FWTlFnO) | 4:04 |
 | 36 | [Grande é o Senhor \- Ao Vivo](https://open.spotify.com/track/2mYzwAhfjxNkUu6pJvZyCJ) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Grande é o Senhor \(Ao Vivo\)](https://open.spotify.com/album/5oqDl5IyyhOejgBcl2pDv9) | 6:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 49 | [Ousado Amor](https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ousado Amor](https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE) | 13:46 |
 | 50 | [Incomparável \- Ao Vivo](https://open.spotify.com/track/2pN3oRT2BJyghB5vsljMuZ) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 5:31 |
 
-Snapshot ID: `aTNyAAAAAAAyFTQSwa8Gqn8QCjNVwmUa`
+Snapshot ID: `aTTDgAAAAABK2lsArYLMGIUka4nFDHbw`

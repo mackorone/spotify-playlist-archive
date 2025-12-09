@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 
 > Upbeat Latin songs to keep your heart rate up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,390,963 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,390,967 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 | 87 | [TENGO CELOS](https://open.spotify.com/track/5lwPKH5nmro0uXGs8PiAQq) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 3:31 |
 | 88 | [Che Che](https://open.spotify.com/track/7ESqP17DjGLx7j8fm0Gp2L) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Che Che](https://open.spotify.com/album/2nidUL9BkkQL6TsHN5JGwS) | 2:20 |
 | 89 | [La Historia](https://open.spotify.com/track/20RGQHWvqyyacpuxMBeLsZ) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [La Historia](https://open.spotify.com/album/4GFEbJYptlAq0R6GImm7oF) | 3:57 |
-| 90 | [Noventa \(with J Balvin\)](https://open.spotify.com/track/0QI0JAWUTBJhHq3b4QxeIp) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Noventa \(with J Balvin\)](https://open.spotify.com/album/3XQBkWFSD3odoEKkMpPrjZ) | 2:26 |
-| 91 | [MERCHO](https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO](https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj) | 2:41 |
+| 90 | [MERCHO](https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [MERCHO](https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj) | 2:41 |
+| 91 | [Noventa \(with J Balvin\)](https://open.spotify.com/track/0QI0JAWUTBJhHq3b4QxeIp) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Noventa \(with J Balvin\)](https://open.spotify.com/album/3XQBkWFSD3odoEKkMpPrjZ) | 2:26 |
 | 92 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 |
 | 93 | [noviogangsta <3](https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [noviogangsta <3](https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ) | 2:37 |
 | 94 | [HOLA PERDIDA REMIX](https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA REMIX](https://open.spotify.com/album/5s4gYQChmlp8YwoNj3Vwi2) | 3:21 |
 | 95 | [El Despertador](https://open.spotify.com/track/1WsorPwrFdjCt7toUE4P7i) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Despertador](https://open.spotify.com/album/2hqyIE8I3qQb4HQBiDhgip) | 2:51 |
 | 96 | [X TI](https://open.spotify.com/track/6jNMtUR4tNxTqP63yfdJTv) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [X TI](https://open.spotify.com/album/4HfQzOCpQrakm38l0HdS1V) | 3:35 |
 | 97 | [Sirenita](https://open.spotify.com/track/2nUWADb8oS9q6sa3cZn9zx) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Sirenita](https://open.spotify.com/album/368kxIiTLbrhAzdIq48WnJ) | 2:49 |
-| 98 | [SELEDA.](https://open.spotify.com/track/7kICLlxxuiH2Gzrs3XZdmO) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [SELEDA.](https://open.spotify.com/album/7IlEJO3GEKWGjN4gKIXaKq) | 2:11 |
+| 98 | [BANSHEE](https://open.spotify.com/track/2phA5dZJrWqOBrOHFAgrjQ) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [BANSHEE](https://open.spotify.com/album/3Ory0Dd1Nrslodb0Po92AN) | 3:07 |
 | 99 | [TENGO GANAS](https://open.spotify.com/track/2X3NWjkwnqCOfAS0TcUYOW) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [TENGO GANAS](https://open.spotify.com/album/3PZsmna1CzAkZndq3h0Krs) | 2:41 |
-| 100 | [BANSHEE](https://open.spotify.com/track/2phA5dZJrWqOBrOHFAgrjQ) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [BANSHEE](https://open.spotify.com/album/3Ory0Dd1Nrslodb0Po92AN) | 3:07 |
+| 100 | [SELEDA.](https://open.spotify.com/track/7kICLlxxuiH2Gzrs3XZdmO) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [SELEDA.](https://open.spotify.com/album/7IlEJO3GEKWGjN4gKIXaKq) | 2:11 |
 
 Snapshot ID: `AAAAAJiJKfdhu/ePtpdzgdmy3FSGPgdd`

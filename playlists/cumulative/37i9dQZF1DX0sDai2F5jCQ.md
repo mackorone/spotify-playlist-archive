@@ -4,7 +4,7 @@
 
 > Your shortcut to the best new Hip Hop\. Cover: EsDeeKid
 
-721 songs - 1 day 11 hr 2 min
+722 songs - 1 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -631,6 +631,7 @@
 | [Think U The Sh\*t \(Fart\)](https://open.spotify.com/track/5xcj5a0RKC2s5PIs1FcXOu) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Sh\*t \(Fart\)](https://open.spotify.com/album/6KHoc2lBi1kfzqifbY66V6) | 2:21 | 2024-01-26 | 2024-02-09 |
 | [Think U The Shit \(Fart\)](https://open.spotify.com/track/4w2Furap0ZzaiK4J14E9sR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Shit \(Fart\)](https://open.spotify.com/album/1NEBms3ay8CUHTUzD7wzHO) | 2:21 | 2024-02-08 | 2024-03-23 |
 | [This My Life \(with Lil Tecca, The Kid LAROI & Lil Skies\)](https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 2:49 | 2024-01-25 | 2024-04-19 |
+| [Thootie \(feat\. Tokischa\)](https://open.spotify.com/track/6mHIYI9coRzaIlqE6rPNN5) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Thootie \(feat\. Tokischa\)](https://open.spotify.com/album/0TodY9XIuBX1k3DUhigXuG) | 2:31 | 2025-12-08 |  |
 | [Thorns](https://open.spotify.com/track/1zUqoSVqUE2O5x3MJ0mHz9) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 2:10 | 2024-06-14 | 2024-11-22 |
 | [Thought I Was Dead](https://open.spotify.com/track/6MrNG4o8vyJ0xmfIFKG3kB) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Thought I Was Dead](https://open.spotify.com/album/4IUCrwXucmLoVO6geJ3Vjr) | 2:28 | 2024-11-14 | 2025-04-04 |
 | [Through The Storm](https://open.spotify.com/track/4AnY0oihG1lRUxSiTOcGdt) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB), [Bently](https://open.spotify.com/artist/34TF5E7gj7N1kbgPovpD2M) | [Through The Storm](https://open.spotify.com/album/5pACLCow7gGS6YJPyfbbGW) | 2:34 | 2024-01-11 | 2024-02-16 |

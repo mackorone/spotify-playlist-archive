@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Celebrating LGBTQIA+ artists with highlights from 2025 Cover: kwn
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,073,157 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,073,237 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 20 | [boyfriend](https://open.spotify.com/track/292KoLS4yud1QuOPNo5pWk) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [boyfriend](https://open.spotify.com/album/3a6KERMEr8uU8C4N70cUtz) | 3:21 |
 | 21 | [RIP KP](https://open.spotify.com/track/6w8kcJNEIaRjfvRYPHsmnk) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Girl Violence](https://open.spotify.com/album/4aAqSQJ69OruOHDlQ9B5ki) | 2:18 |
 | 22 | [MEDLEY DO NOVO FIM](https://open.spotify.com/track/6vsV6AFvJGnPj7QBnbKUZu) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Isma](https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z), [Vita](https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO) | [MEDLEY DO NOVO FIM](https://open.spotify.com/album/5o7pyICFvHpNysLA3IfHu5) | 6:24 |
-| 23 | [Betty](https://open.spotify.com/track/2HYYwJ6euMXxsMNryLJhSM) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Betty](https://open.spotify.com/album/1WtUItKWV5XkaUyLr5W5Nu) | 3:02 |
-| 24 | [Finish This Drink](https://open.spotify.com/track/2IXB8DfcrFeO75WfEmgu8O) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Finish This Drink](https://open.spotify.com/album/1kpQJrhQQtsiaoMvP0bY3t) | 2:59 |
+| 23 | [Finish This Drink](https://open.spotify.com/track/2IXB8DfcrFeO75WfEmgu8O) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Finish This Drink](https://open.spotify.com/album/1kpQJrhQQtsiaoMvP0bY3t) | 2:59 |
+| 24 | [Betty](https://open.spotify.com/track/2HYYwJ6euMXxsMNryLJhSM) | [August Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Betty](https://open.spotify.com/album/1WtUItKWV5XkaUyLr5W5Nu) | 3:02 |
 | 25 | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE), [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc) | 2:59 |
 | 26 | [Non Stop](https://open.spotify.com/track/5MbwPk0XgFvKF1meetPKEt) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Non Stop](https://open.spotify.com/album/74aGXEGGfL7xaLKEeWlcZz) | 2:36 |
 | 27 | [Twist The Knife](https://open.spotify.com/track/5WeuKxVrefRC2P9XiI3GOg) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 3:25 |
@@ -39,15 +39,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 29 | [KISSING IN PUBLIC](https://open.spotify.com/track/2tA9LObXZkn5oazvqyRkxY) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [KISSING IN PUBLIC](https://open.spotify.com/album/4OTvEacbBrVMCYo7bk6cQa) | 3:56 |
 | 30 | [God Save The Queens](https://open.spotify.com/track/6LjiRz2t73c0vK68fC7sK9) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [God Save The Queens \(Live from Lodge Room / 2024\)](https://open.spotify.com/album/6Jl9xg4VBu2th6BraYftyX) | 2:25 |
 | 31 | [Terrified](https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I Can See The Future](https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy) | 5:15 |
-| 32 | [Big Ol' Hammer](https://open.spotify.com/track/3GQ561SeANVLRpfM5va0bA) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Dream Ride](https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0) | 2:27 |
-| 33 | [Elton John](https://open.spotify.com/track/5HYN9duH7xFI9m46Rpjpxn) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Elton John](https://open.spotify.com/album/2Beb7c7tnAQY8hDQ1Ci1gm) | 3:12 |
+| 32 | [Elton John](https://open.spotify.com/track/5HYN9duH7xFI9m46Rpjpxn) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Elton John](https://open.spotify.com/album/2Beb7c7tnAQY8hDQ1Ci1gm) | 3:12 |
+| 33 | [Big Ol' Hammer](https://open.spotify.com/track/3GQ561SeANVLRpfM5va0bA) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Dream Ride](https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0) | 2:27 |
 | 34 | [God’s A Raver](https://open.spotify.com/track/5iYZvfyws18ttpfJFXkq83) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Arthouse](https://open.spotify.com/album/7II243HQI2I0gvCSOLsWN2) | 2:51 |
 | 35 | [Dearly Missed](https://open.spotify.com/track/1N5MjhXcJmjKuaeLsuFpA9) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Photograph of a Cyclone](https://open.spotify.com/album/1izRdreIuynbBHrzp9gS5u) | 6:00 |
 | 36 | [Drug Dealer](https://open.spotify.com/track/29DPlF67ReoJrdJCP6r0pL) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Drug Dealer](https://open.spotify.com/album/3HMDYUcXTyjloGkANiPxP5) | 3:58 |
 | 37 | [act right](https://open.spotify.com/track/2mA87b0gMS1pjCCp3gBhdZ) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX) | 2:53 |
 | 38 | [Let You Know When I Get There](https://open.spotify.com/track/0iUdJ2hWXQFiYSxKifgpCC) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [I Know What I Want](https://open.spotify.com/album/1Wvf60FOFXg3rFqtYX1r6C) | 3:11 |
-| 39 | [\(I'm here for the\) GIRLS](https://open.spotify.com/track/0tWBqJszp81AKVWtFj5kh1) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [\(I'm here for the\) GIRLS](https://open.spotify.com/album/1xOYGPYE3TldIw58vKq4tl) | 2:20 |
-| 40 | [lemons](https://open.spotify.com/track/4RAcbzQKnivPzbLcYkQNQn) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [lemons](https://open.spotify.com/album/1QTp2ZyRYYbVnpoxZMpek2) | 3:14 |
+| 39 | [lemons](https://open.spotify.com/track/4RAcbzQKnivPzbLcYkQNQn) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [lemons](https://open.spotify.com/album/1QTp2ZyRYYbVnpoxZMpek2) | 3:14 |
+| 40 | [\(I'm here for the\) GIRLS](https://open.spotify.com/track/0tWBqJszp81AKVWtFj5kh1) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [\(I'm here for the\) GIRLS](https://open.spotify.com/album/1xOYGPYE3TldIw58vKq4tl) | 2:20 |
 | 41 | [Urban Legend](https://open.spotify.com/track/11PgMaGaPDVfitNJqH5lzm) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Urban Legend](https://open.spotify.com/album/3CzL5fWwa4XO0rL3K6pU7w) | 2:56 |
 | 42 | [Girlfriend](https://open.spotify.com/track/2mii3Q0tuCBI5DNyt0pBqW) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Girlfriend](https://open.spotify.com/album/1QZMCyEf9XZB52oKGhkqZa) | 3:31 |
 | 43 | [Good Dream](https://open.spotify.com/track/4GsuTxzqtKbhEBb2gFYa3A) | [Mae Martin](https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn) | [I'm A TV](https://open.spotify.com/album/05BuE3SIGlbsHhGN1rBstS) | 3:03 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 47 | [Feel Good](https://open.spotify.com/track/3Cu6S9xHtU2XbwXBwyeZ0b) | [Ruthlss](https://open.spotify.com/artist/4j3gWUkv9UZeRdk4GNozpS) | [Feel Good](https://open.spotify.com/album/79xO4G1MdymjwFgHwSCEab) | 3:36 |
 | 48 | [Might](https://open.spotify.com/track/22TuYSlssJg05MtcMbGfkT) | [Bells Larsen](https://open.spotify.com/artist/57rcu4emHlYTTeVmmmLeIf) | [Blurring Time](https://open.spotify.com/album/7iHvF3IovjYiDrDyq1uTpw) | 4:20 |
 | 49 | [I wanna see my friends dicks](https://open.spotify.com/track/7gkORxtKiWPlD3A0PVCyaN) | [Jordan Firstman](https://open.spotify.com/artist/6wCisGdDbWqLKDYDPfXcPR) | [Secrets](https://open.spotify.com/album/1wWsebXRPJa6lVwYbSCns4) | 2:28 |
-| 50 | [RED](https://open.spotify.com/track/6zczxg1gPQ28v8yGjy6fq9) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [RED](https://open.spotify.com/album/4Fj5dzZtzeM2ihL1lsIVJq) | 2:41 |
+| 50 | [GIRLFRIEND](https://open.spotify.com/track/3f0xr2Q1nb2Doss9q8MF1j) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [A SWAN FROM GATORLAND](https://open.spotify.com/album/3MtjlQZORr4832STyNMX4e) | 3:24 |
 
 Snapshot ID: `AAAAALxnql7XQNg+nDxq8jH3n1ZePFMo`

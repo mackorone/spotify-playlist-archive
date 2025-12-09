@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 48096,
+  "num_followers": 48108,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/7rs02j1JLO1fZgOPrkuy0D"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "The Complete Verve Singles",
-        "url": "https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Smith",
-          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
-        }
-      ],
-      "duration_ms": 149560,
-      "name": "Funky Broadway",
-      "url": "https://open.spotify.com/track/2CAgx55oNmNRUjC1XKNDe4"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Nocturne",
@@ -715,6 +699,22 @@
       "duration_ms": 340893,
       "name": "Noche De Ronda",
       "url": "https://open.spotify.com/track/65KxxZPi752Fd6cqwiFzHx"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "The Complete Verve Singles",
+        "url": "https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Smith",
+          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
+        }
+      ],
+      "duration_ms": 149560,
+      "name": "Funky Broadway",
+      "url": "https://open.spotify.com/track/2CAgx55oNmNRUjC1XKNDe4"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -903,6 +903,26 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "Empathy",
+        "url": "https://open.spotify.com/album/3R0A51xf7JzlKCEm3RmleH"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Shelly Manne",
+          "url": "https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo"
+        }
+      ],
+      "duration_ms": 270666,
+      "name": "Let's Go Back To The Waltz",
+      "url": "https://open.spotify.com/track/2JJJzJ5E8wx3H5CwuxZO0f"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "Movin' Wes",
         "url": "https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 382773,
       "name": "April In Paris",
       "url": "https://open.spotify.com/track/2sTwe8pA0AnegYBPETYl54"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Empathy",
-        "url": "https://open.spotify.com/album/3R0A51xf7JzlKCEm3RmleH"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Shelly Manne",
-          "url": "https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo"
-        }
-      ],
-      "duration_ms": 270666,
-      "name": "Let's Go Back To The Waltz",
-      "url": "https://open.spotify.com/track/2JJJzJ5E8wx3H5CwuxZO0f"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1265,20 +1265,20 @@
       "url": "https://open.spotify.com/track/5Ms4U6Z2cDqkENFZ52VkTc"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
+      "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "The Betty Carter Album",
-        "url": "https://open.spotify.com/album/75nqEXwT3ivlItWbuxMApg"
+        "name": "Bashin' - The Unpredictable Jimmy Smith (Expanded Edition)",
+        "url": "https://open.spotify.com/album/34SD5R6dsyvxAzhohq2gxB"
       },
       "artists": [
         {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+          "name": "Jimmy Smith",
+          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
         }
       ],
-      "duration_ms": 237053,
-      "name": "You're A Sweetheart",
-      "url": "https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU"
+      "duration_ms": 373800,
+      "name": "Bashin'",
+      "url": "https://open.spotify.com/track/5B5QXJzYyyzp4NaqyiI4gI"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1301,20 +1301,20 @@
       "url": "https://open.spotify.com/track/5JEpa8eK5ohw3ZD8s9Gjer"
     },
     {
-      "added_at": "2019-10-04 16:01:14",
+      "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Bashin' - The Unpredictable Jimmy Smith (Expanded Edition)",
-        "url": "https://open.spotify.com/album/34SD5R6dsyvxAzhohq2gxB"
+        "name": "The Betty Carter Album",
+        "url": "https://open.spotify.com/album/75nqEXwT3ivlItWbuxMApg"
       },
       "artists": [
         {
-          "name": "Jimmy Smith",
-          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
         }
       ],
-      "duration_ms": 373800,
-      "name": "Bashin'",
-      "url": "https://open.spotify.com/track/5B5QXJzYyyzp4NaqyiI4gI"
+      "duration_ms": 237053,
+      "name": "You're A Sweetheart",
+      "url": "https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU"
     },
     {
       "added_at": "2019-10-04 16:01:14",

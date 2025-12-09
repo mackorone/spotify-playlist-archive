@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,290 likes - 135 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,344 likes - 135 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 30 | [Get Rhythm](https://open.spotify.com/track/2aq1oBnP7Q176mZw5P6eUk) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Greatest](https://open.spotify.com/album/1tfvwgjJHU9zYWy4qIHZsV) | 2:12 |
 | 31 | [Ain't That A Shame](https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Fats Domino Swings](https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf) | 2:32 |
 | 32 | [Dream Lover](https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [The Ultimate Bobby Darin](https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8) | 2:30 |
-| 33 | [Heartbreak Hotel](https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:10 |
-| 34 | [I Get A Kick Out Of You](https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra And Swingin' Brass](https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X) | 3:14 |
+| 33 | [I Get A Kick Out Of You](https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra And Swingin' Brass](https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X) | 3:14 |
+| 34 | [Heartbreak Hotel](https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:10 |
 | 35 | [I Wonder Why](https://open.spotify.com/track/7vAw4LLIms6X8ZHcbtoazz) | [Dion & The Belmonts](https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4) | [Presenting Dion And The Belmonts](https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el) | 2:21 |
 | 36 | [C’Mon Everybody](https://open.spotify.com/track/7ItZM6DMZE2m1X7yIaRxjq) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [12 Of His Biggest Hits](https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6) | 1:58 |
 | 37 | [Peggy Sue](https://open.spotify.com/track/2OARIMw1hpehr86Iwmv04c) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D), [The Crickets](https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR) | [Buddy Holly](https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP) | 2:30 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 90 | [I Need a Man](https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3) | [Barbara Pittman](https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2) | [I Need a Man / No Matter Who's to Blame](https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD) | 2:52 |
 | 91 | [Ten Cats Down](https://open.spotify.com/track/1xY56tgHwm7GfiafKPzB42) | [The Miller Sisters](https://open.spotify.com/artist/5mDm0RXoaz7swHBozhOguP) | [Ten Cats Down / Finders Keepers](https://open.spotify.com/album/3DgD0YDs9h067YI7qtzHZK) | 2:17 |
 | 92 | [Little Fine Healthy Thing](https://open.spotify.com/track/2eTOZn2Mn4ZswpMsbrihhm) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Something for Nothing / Little Fine Healthy Thing](https://open.spotify.com/album/681gmpIrqPEGuvIKwJ0CRR) | 2:33 |
-| 93 | [Good Lovin'](https://open.spotify.com/track/2vYfYvYvfxCxOoGLfs4N8d) | [Dickey Lee](https://open.spotify.com/artist/34Ym7wEA9olyXIQ5eRAZjq), [The Collegiates](https://open.spotify.com/artist/1dzodRpVST4Lz25hTJM2On) | [Memories Never Grow Old / Good Lovin'](https://open.spotify.com/album/1JfYQZ9G80fMf9DGtQqSac) | 2:52 |
-| 94 | [Give Me some Love \- Re\-Recorded Version](https://open.spotify.com/track/17trqhqpoIxXQc3Rkri0W7) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Rockabilly](https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B) | 2:01 |
+| 93 | [Give Me some Love \- Re\-Recorded Version](https://open.spotify.com/track/17trqhqpoIxXQc3Rkri0W7) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Rockabilly](https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B) | 2:01 |
+| 94 | [Good Lovin'](https://open.spotify.com/track/2vYfYvYvfxCxOoGLfs4N8d) | [Dickey Lee](https://open.spotify.com/artist/34Ym7wEA9olyXIQ5eRAZjq), [The Collegiates](https://open.spotify.com/artist/1dzodRpVST4Lz25hTJM2On) | [Memories Never Grow Old / Good Lovin'](https://open.spotify.com/album/1JfYQZ9G80fMf9DGtQqSac) | 2:52 |
 | 95 | [My Bucket's Got a Hole in It](https://open.spotify.com/track/7GdXKfnRmT2EXoMAiokieN) | [Sonny Burgess](https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT) | [My Bucket's Got a Hole in It / Sweet Misery](https://open.spotify.com/album/1rqgoIp9LPN8eZjlmu4GiS) | 2:18 |
 | 96 | [If You Love Me](https://open.spotify.com/track/0YxKuFIjpXQelVTKNqIj9d) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [If You Love Me / Alone and Blue](https://open.spotify.com/album/0JHPQ6s7moBE5G4dySdGgQ) | 2:30 |
 | 97 | [Sweetie Pie](https://open.spotify.com/track/15Z8moPRfShAyP9EkrKked) | [Tommy Blake](https://open.spotify.com/artist/2x9rXRL308BFyy1Ubrk9pS) | [I Dig You Baby / Sweetie Pie](https://open.spotify.com/album/36eFyxEy9tCTvlyZ4PeIJf) | 2:04 |

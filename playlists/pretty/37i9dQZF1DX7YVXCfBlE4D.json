@@ -1,6 +1,6 @@
 {
   "description": "Deja que tu coraz\u00f3n se rinda ante la m\u00fasica rom\u00e1ntica de anta\u00f1o.",
-  "num_followers": 624836,
+  "num_followers": 624932,
   "original_name": "Boleros",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Cuba: Bienvenido Granda",
-        "url": "https://open.spotify.com/album/3RxQinQEYdWBtAZkrMGfRt"
-      },
-      "artists": [
-        {
-          "name": "Bienvenido Granda",
-          "url": "https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4"
-        }
-      ],
-      "duration_ms": 170811,
-      "name": "En la orilla del mar (Bolero version)",
-      "url": "https://open.spotify.com/track/4ok44lUrhQgJEoyQq5Ot3N"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Serenatas",
         "url": "https://open.spotify.com/album/1oicodhgjKkt5YJ9KfLckQ"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 160853,
       "name": "Luna de octubre",
       "url": "https://open.spotify.com/track/4xlOFHiMUTWNYqUopID8fN"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Cuba: Bienvenido Granda",
+        "url": "https://open.spotify.com/album/3RxQinQEYdWBtAZkrMGfRt"
+      },
+      "artists": [
+        {
+          "name": "Bienvenido Granda",
+          "url": "https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4"
+        }
+      ],
+      "duration_ms": 170811,
+      "name": "En la orilla del mar (Bolero version)",
+      "url": "https://open.spotify.com/track/4ok44lUrhQgJEoyQq5Ot3N"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
         }
       ],
-      "duration_ms": 176906,
-      "name": "Sortilegio",
-      "url": "https://open.spotify.com/track/0MV5NacynjQkSro73OCLx8"
+      "duration_ms": 171973,
+      "name": "As de corazones",
+      "url": "https://open.spotify.com/track/2FDxVkfyoolaz19xOwCsW9"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1028,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
         }
       ],
-      "duration_ms": 171973,
-      "name": "As de corazones",
-      "url": "https://open.spotify.com/track/2FDxVkfyoolaz19xOwCsW9"
+      "duration_ms": 176906,
+      "name": "Sortilegio",
+      "url": "https://open.spotify.com/track/0MV5NacynjQkSro73OCLx8"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "15 \u00c9xitos de los Hermanos Mart\u00ednez Gil",
-        "url": "https://open.spotify.com/album/2AGN6O1CWUqpbYaxKSDjHf"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Martinez Gil",
-          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
-        }
-      ],
-      "duration_ms": 153666,
-      "name": "Est\u00fapido Cupido",
-      "url": "https://open.spotify.com/track/1KKhaB1D7IvsEq4VZoLauf"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Guitarras Latinas",
         "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 194931,
       "name": "Como Una Flor Bolero",
       "url": "https://open.spotify.com/track/7FneHnZxsT68NABvVsKVqE"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "15 \u00c9xitos de los Hermanos Mart\u00ednez Gil",
+        "url": "https://open.spotify.com/album/2AGN6O1CWUqpbYaxKSDjHf"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Martinez Gil",
+          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
+        }
+      ],
+      "duration_ms": 153666,
+      "name": "Est\u00fapido Cupido",
+      "url": "https://open.spotify.com/track/1KKhaB1D7IvsEq4VZoLauf"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Despierte Borincano",
-        "url": "https://open.spotify.com/album/0GEnvdTJ28AMxLg9KdePsL"
-      },
-      "artists": [
-        {
-          "name": "Bobby Capo",
-          "url": "https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "So\u00f1ando Con Puerto Rico",
-      "url": "https://open.spotify.com/track/5fJGJPo1HrdfZHgIYP1UTt"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Boleros Tr\u00edos, Vol. 1",
         "url": "https://open.spotify.com/album/7d1fCzlEthMIZlopfW6HcA"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Manzanillo (Remastered)",
-        "url": "https://open.spotify.com/album/7KAfIqpjfUZb3UiCQM3QiA"
+        "name": "Despierte Borincano",
+        "url": "https://open.spotify.com/album/0GEnvdTJ28AMxLg9KdePsL"
       },
       "artists": [
         {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+          "name": "Bobby Capo",
+          "url": "https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW"
         }
       ],
-      "duration_ms": 202307,
-      "name": "Manzanillo - Remastered",
-      "url": "https://open.spotify.com/track/0GQxBVqTTgrvSyzRhA25nT"
+      "duration_ms": 255133,
+      "name": "So\u00f1ando Con Puerto Rico",
+      "url": "https://open.spotify.com/track/5fJGJPo1HrdfZHgIYP1UTt"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1423,6 +1407,22 @@
       "duration_ms": 167857,
       "name": "Tomando T\u00e9",
       "url": "https://open.spotify.com/track/4f3hA3waUBOoC4gXmxRgfO"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Manzanillo (Remastered)",
+        "url": "https://open.spotify.com/album/7KAfIqpjfUZb3UiCQM3QiA"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 202307,
+      "name": "Manzanillo - Remastered",
+      "url": "https://open.spotify.com/track/0GQxBVqTTgrvSyzRhA25nT"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Pensamiento",
-        "url": "https://open.spotify.com/album/1uuYnEN87b3BkbQlQmbf0F"
-      },
-      "artists": [
-        {
-          "name": "Las Almas Nuevas",
-          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Pensamiento",
-      "url": "https://open.spotify.com/track/7GxIlqOjYpmh080KhtOrtE"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Boleros Tr\u00edos, Vol. 1",
         "url": "https://open.spotify.com/album/7d1fCzlEthMIZlopfW6HcA"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 188520,
       "name": "Guantanamera",
       "url": "https://open.spotify.com/track/2apgz0JhPuDcEslrWzbJ2F"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Pensamiento",
+        "url": "https://open.spotify.com/album/1uuYnEN87b3BkbQlQmbf0F"
+      },
+      "artists": [
+        {
+          "name": "Las Almas Nuevas",
+          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Pensamiento",
+      "url": "https://open.spotify.com/track/7GxIlqOjYpmh080KhtOrtE"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1623,8 +1623,8 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Guitarras Latinas",
-        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
+        "name": "Trios",
+        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
       },
       "artists": [
         {
@@ -1634,11 +1634,15 @@
         {
           "name": "Roberto Aguilar",
           "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 233525,
-      "name": "Traigo Canciones",
-      "url": "https://open.spotify.com/track/0d9mCnjvxkm1jwJDdTVQ4Q"
+      "duration_ms": 175000,
+      "name": "Cuando Me Lo Pidas",
+      "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1715,8 +1719,8 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Trios",
-        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
+        "name": "Guitarras Latinas",
+        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
       "artists": [
         {
@@ -1726,15 +1730,11 @@
         {
           "name": "Roberto Aguilar",
           "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Cuando Me Lo Pidas",
-      "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
+      "duration_ms": 233525,
+      "name": "Traigo Canciones",
+      "url": "https://open.spotify.com/track/0d9mCnjvxkm1jwJDdTVQ4Q"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Siempre Te Amare",
-        "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 149750,
-      "name": "Siempre Te Amare",
-      "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Hip\u00f3crita y Otros \u00c9xitos de Fernando Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/54UtU7kuWdd7kEb6VYl0SX"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 185146,
       "name": "Callejera",
       "url": "https://open.spotify.com/track/7rhOOvhCzR0Rc8n5Vs1grg"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Siempre Te Amare",
+        "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
+      },
+      "artists": [
+        {
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+        }
+      ],
+      "duration_ms": 149750,
+      "name": "Siempre Te Amare",
+      "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Lo Esencial de Don Pedro Vargas",
-        "url": "https://open.spotify.com/album/4IE1G3yv3JXu5cZY4tpNcZ"
-      },
-      "artists": [
-        {
-          "name": "Pedro Vargas",
-          "url": "https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Noches de Mazatl\u00e1n - Remasterizado",
-      "url": "https://open.spotify.com/track/7LuZKsgKH1PBqguxRqI5Ad"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Un Coraz\u00f3n y Otros \u00c9xitos Rom\u00e1nticos",
         "url": "https://open.spotify.com/album/4NGs9444ruo2dE1XG1t3xJ"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 197480,
       "name": "El Plebeyo",
       "url": "https://open.spotify.com/track/4UNgRsK7rnNcAHDMFsJt8M"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Lo Esencial de Don Pedro Vargas",
+        "url": "https://open.spotify.com/album/4IE1G3yv3JXu5cZY4tpNcZ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Vargas",
+          "url": "https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Noches de Mazatl\u00e1n - Remasterizado",
+      "url": "https://open.spotify.com/track/7LuZKsgKH1PBqguxRqI5Ad"
     },
     {
       "added_at": "2024-07-11 00:56:29",

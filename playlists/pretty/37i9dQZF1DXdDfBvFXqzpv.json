@@ -1,6 +1,6 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 105956,
+  "num_followers": 105948,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "seaside_demo",
-        "url": "https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT"
-      },
-      "artists": [
-        {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "seaside_demo",
-      "url": "https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Ignorance is Bliss",
         "url": "https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec"
       },
@@ -923,22 +907,6 @@
       "duration_ms": 200933,
       "name": "Same Old Story",
       "url": "https://open.spotify.com/track/6kh17zXl4MM4AzSeJP02hB"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Walk",
-        "url": "https://open.spotify.com/album/0BgqTlqcgaDljoUlVrOzwO"
-      },
-      "artists": [
-        {
-          "name": "Kwabs",
-          "url": "https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog"
-        }
-      ],
-      "duration_ms": 214149,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/2ZvsMMI4aOkMUo92MKQzFI"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -959,18 +927,34 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Oliver Twist",
-        "url": "https://open.spotify.com/album/6d8MlD2NJyzLtnRSprliO5"
+        "name": "Walk",
+        "url": "https://open.spotify.com/album/0BgqTlqcgaDljoUlVrOzwO"
       },
       "artists": [
         {
-          "name": "ArrDee",
-          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+          "name": "Kwabs",
+          "url": "https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog"
         }
       ],
-      "duration_ms": 174857,
-      "name": "Oliver Twist",
-      "url": "https://open.spotify.com/track/6mSzsSdu0CWIV70jEjWMhI"
+      "duration_ms": 214149,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/2ZvsMMI4aOkMUo92MKQzFI"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "seaside_demo",
+        "url": "https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "seaside_demo",
+      "url": "https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -991,6 +975,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Oliver Twist",
+        "url": "https://open.spotify.com/album/6d8MlD2NJyzLtnRSprliO5"
+      },
+      "artists": [
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Oliver Twist",
+      "url": "https://open.spotify.com/track/6mSzsSdu0CWIV70jEjWMhI"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Scissor Sisters",
         "url": "https://open.spotify.com/album/65Fllu4vQdZQOh6id0YwIM"
       },
@@ -1003,6 +1003,26 @@
       "duration_ms": 271906,
       "name": "Take Your Mama",
       "url": "https://open.spotify.com/track/0LAfANg75hYiV1IAEP3vY6"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "CAPRISONGS",
+        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "duration_ms": 220040,
+      "name": "papi bones (feat. shygirl)",
+      "url": "https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1039,26 +1059,6 @@
       "duration_ms": 168654,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "CAPRISONGS",
-        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        }
-      ],
-      "duration_ms": 220040,
-      "name": "papi bones (feat. shygirl)",
-      "url": "https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "RELAXER",
-        "url": "https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 231013,
-      "name": "Deadcrush",
-      "url": "https://open.spotify.com/track/7gn0MfkV4ZuMkqbPlmhIlx"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "C\u00e9u",
         "url": "https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Some Cities",
-        "url": "https://open.spotify.com/album/1b8wM8rrNJzdxHykdygy9V"
+        "name": "RELAXER",
+        "url": "https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP"
       },
       "artists": [
         {
-          "name": "Doves",
-          "url": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
         }
       ],
-      "duration_ms": 255413,
-      "name": "Black And White Town",
-      "url": "https://open.spotify.com/track/3KoJckjaWGPpqfyVLrLjVS"
+      "duration_ms": 231013,
+      "name": "Deadcrush",
+      "url": "https://open.spotify.com/track/7gn0MfkV4ZuMkqbPlmhIlx"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1331,6 +1315,22 @@
       "duration_ms": 146084,
       "name": "Wanna Stay (feat. Dear Sunday)",
       "url": "https://open.spotify.com/track/0fxPhCN2eRixZxxgzZzwiY"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Some Cities",
+        "url": "https://open.spotify.com/album/1b8wM8rrNJzdxHykdygy9V"
+      },
+      "artists": [
+        {
+          "name": "Doves",
+          "url": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+        }
+      ],
+      "duration_ms": 255413,
+      "name": "Black And White Town",
+      "url": "https://open.spotify.com/track/3KoJckjaWGPpqfyVLrLjVS"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Modus Vivendi",
+        "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 246626,
+      "name": "Morrow",
+      "url": "https://open.spotify.com/track/3sIoWQZbJqUKj5iELz8eTA"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Revolve",
         "url": "https://open.spotify.com/album/4BJEBuRutpTG0rW5OEg3iu"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 203758,
       "name": "Tiring Game",
       "url": "https://open.spotify.com/track/7eeg1G22Q386Zigie8qrpN"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Modus Vivendi",
-        "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU"
-      },
-      "artists": [
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 246626,
-      "name": "Morrow",
-      "url": "https://open.spotify.com/track/3sIoWQZbJqUKj5iELz8eTA"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Forbidden Feelingz",
-        "url": "https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW"
+        "name": "Rips in Jeans",
+        "url": "https://open.spotify.com/album/1hhHTkkClYXmZdIVzVfbX0"
       },
       "artists": [
         {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+          "name": "Niko B",
+          "url": "https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk"
         }
       ],
-      "duration_ms": 166356,
-      "name": "Forbidden Feelingz",
-      "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
+      "duration_ms": 163459,
+      "name": "Rips in Jeans",
+      "url": "https://open.spotify.com/track/7K0ga2R3IgiwDOZlk9SC9n"
     }
   ],
   "unique_name": "EA SPORTS FIFA Mix",

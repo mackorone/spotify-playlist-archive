@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-505 songs - 1 day 7 hr 26 min
+506 songs - 1 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [I Have Finished The Race](https://open.spotify.com/track/4iOycRDZBb0mkKy6EGqiEr) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s), [Francesca LaRosa](https://open.spotify.com/artist/2XaFV5Bz4k3oEFBfZSGVoQ) | [Wrapped In Peace](https://open.spotify.com/album/6b7u6tlbjgaS5AqG0jPCkN) | 4:08 | 2023-12-15 | 2024-08-02 |
 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/0wYCpHsrhPxrcpW3uSHqWv) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [I Heard the Bells on Christmas Day](https://open.spotify.com/album/2asbMuYvCs4qkQHIDuXAew) | 3:32 | 2024-08-01 | 2025-03-30 |
 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/6ZvGIWs3Vt4cmVkuycJaFM) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Peace On Earth](https://open.spotify.com/album/6AwF2s3lEGd6Mjvu1xy249) | 4:22 | 2021-12-24 | 2024-08-02 |
+| [I Heard the Bells on Christmas Day](https://open.spotify.com/track/3u7aseV74piywxb3SeFtWt) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Cindy Morgan](https://open.spotify.com/artist/5iZweZ1uY4DshuBUYN6Fn4) | [I Heard the Bells](https://open.spotify.com/album/3inmUzW5uliXu4hNQdpDUl) | 2:29 | 2025-12-07 |  |
 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/7na1fapYfpFSF7KQgOHUq6) | [The Guardians](https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo) | [Christmas with the Guardians](https://open.spotify.com/album/5K0KG3jwSTgzbO6BTRLXOV) | 3:15 | 2025-10-26 | 2025-11-23 |
 | [I Need Christmas \- Single Version](https://open.spotify.com/track/53vrHASNj6lk2i5JZcs1UK) | [Daniel Doss](https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC), [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R) | [I Need Christmas](https://open.spotify.com/album/3UCEH768QemPCXRhQ6xfeL) | 3:30 | 2021-12-24 | 2022-07-28 |
 | [I Pray On Christmas](https://open.spotify.com/track/3XpJQ4gAEQaqbSHTRhCcVN) | [Chris Blue](https://open.spotify.com/artist/4urap4WzzvxwW5cC12CBGv), [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Every Day Is Christmas](https://open.spotify.com/album/6HGktpqJ303aFmFJlRFOri) | 3:26 | 2025-10-26 |  |
@@ -315,7 +316,7 @@
 | [Miracle of Christmas](https://open.spotify.com/track/0gS3ThEdFsj0FygA8KeXHC) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Miracle of Christmas](https://open.spotify.com/album/6RnH3ZYftEzMIlU9vtFGU9) | 2:42 | 2021-12-24 | 2025-12-02 |
 | [Mistletoe Meltdown](https://open.spotify.com/track/6VYcqmoh8PqlsHQdvV4zAW) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54) | [Irwin's Christmas Collection](https://open.spotify.com/album/317Rb3ssDv1clHRsHvEuYZ) | 3:30 | 2021-12-24 | 2022-07-29 |
 | [Mother to a Savior and King](https://open.spotify.com/track/0EqNAggZnKPBlPAnQ3JbPm) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Mother to a Savior and King](https://open.spotify.com/album/6PmiyV2eTuehJSAJGGaAb2) | 3:26 | 2024-11-29 |  |
-| [My Heart Would Be Your Bethlehem](https://open.spotify.com/track/4osWMuu2sFE3mr50gO58Fp) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [My Heart Would Be Your Bethlehem](https://open.spotify.com/album/2ZQL0DkMbtKd3H0iMH1BZW) | 4:14 | 2024-08-01 |  |
+| [My Heart Would Be Your Bethlehem](https://open.spotify.com/track/4osWMuu2sFE3mr50gO58Fp) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [My Heart Would Be Your Bethlehem](https://open.spotify.com/album/2ZQL0DkMbtKd3H0iMH1BZW) | 4:14 | 2024-08-01 | 2025-12-09 |
 | [My Holiday \(Radio Edit\)](https://open.spotify.com/track/6xwmHmD49RDUibZI0YcQA2) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV) | [My Holiday \(Radio Edit\)](https://open.spotify.com/album/7BNyLMDviAjuBdTrJVPMZk) | 3:14 | 2024-11-29 | 2025-11-26 |
 | [Nativity](https://open.spotify.com/track/67qGatvyPERJqO7TW64g2v) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Nativity](https://open.spotify.com/album/175tnUay8CPOBeardAHMc3) | 3:33 | 2025-10-26 |  |
 | [No Place Like Home \(It's Christmas\)](https://open.spotify.com/track/3UolkTMBr42UzGt49GhHkE) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [No Place Like Home \(It's Christmas\)](https://open.spotify.com/album/7nOzfgwgwK8r75QMSVnTm0) | 2:51 | 2025-11-28 |  |

@@ -4,7 +4,7 @@
 
 > the deep & minimal side of house & tech ⛏️⛏️ <br/>with IDEMI
 
-900 songs - 2 day 16 hr 59 min
+901 songs - 2 day 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Attention](https://open.spotify.com/track/3vdAiq7mUr2vMFO3YVQqOL) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Can't Resist EP](https://open.spotify.com/album/1c2WIt22tmiyxyeXKxQofJ) | 3:06 | 2025-09-05 | 2025-11-29 |
 | [Azabache](https://open.spotify.com/track/36LpQ2oHZV2OHusDxCMUfC) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Azabache](https://open.spotify.com/album/4peWNj8D8DduNm5rdktO9Y) | 3:37 | 2023-11-10 | 2024-05-11 |
 | [Baby](https://open.spotify.com/track/5EGiYetIEeGwyxdgGq4cGA) | [Mason Talbot](https://open.spotify.com/artist/0impnXOKSt86UnIYtZ1hFA) | [Baby](https://open.spotify.com/album/0USWj9LRRuyoI7Ph9WvLIJ) | 3:30 | 2023-08-18 | 2023-09-09 |
-| [Back 2 Back](https://open.spotify.com/track/2uQYiMfRTsCnyQoNG638Av) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Back 2 Back EP](https://open.spotify.com/album/53WyFS0bhSNDZ3TrfAJzI9) | 2:45 | 2025-08-08 |  |
+| [Back 2 Back](https://open.spotify.com/track/2uQYiMfRTsCnyQoNG638Av) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Back 2 Back EP](https://open.spotify.com/album/53WyFS0bhSNDZ3TrfAJzI9) | 2:45 | 2025-08-08 | 2025-12-09 |
 | [Back At Ya](https://open.spotify.com/track/02evyVGKt4jjuBAlgHzag5) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Back At Ya](https://open.spotify.com/album/6aQho6eImpDXTxfC8zoVhI) | 3:54 | 2025-06-29 | 2025-09-20 |
 | [Back It Up](https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Back It Up](https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY) | 2:36 | 2025-03-21 | 2025-07-12 |
 | [Back To Me](https://open.spotify.com/track/5MG3KRa0R0cx25ZQF0JMaf) | [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [Back To Me](https://open.spotify.com/album/53jEoBJvKPpNoDrx1wwVfU) | 3:26 | 2022-08-19 | 2022-12-30 |
@@ -438,6 +438,7 @@
 | [Levitate](https://open.spotify.com/track/7c9ESsfSlv6kvfPMA92x1L) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Levitate](https://open.spotify.com/album/1LC5mQp7l4u253zu657uMX) | 2:45 | 2025-10-24 |  |
 | [Lezzgo](https://open.spotify.com/track/1NwKx6qj7QbWjFmQ7QlpkE) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [One Hundred](https://open.spotify.com/album/5VTEH3n6YgqcFL5EyxxHRQ) | 5:03 | 2024-04-12 | 2024-11-30 |
 | [Lick It](https://open.spotify.com/track/7F2eNxJ5ZrGAwd83sIhBud) | [J.K\. Rollin](https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ) | [Put Your Hands Up For Cologne](https://open.spotify.com/album/3M6t0CRcKMGlGVHYDoEKQT) | 6:48 | 2024-11-13 | 2025-09-20 |
+| [Lift Me Up](https://open.spotify.com/track/0b7PbH7jnPDx9cZ77nc6Fe) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Point Zero / Lift Me Up](https://open.spotify.com/album/49IPEHPL1alOTzFgXfVTl7) | 3:34 | 2025-12-08 |  |
 | [Lightspeed](https://open.spotify.com/track/36PkmbHlfH1JYwoFJS1S0q) | [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj), [GOUX](https://open.spotify.com/artist/1YANF2Clk0VpRNG3HPu5B1) | [Lightspeed](https://open.spotify.com/album/4NnuKQveWvoRFjl3A0IZqe) | 6:22 | 2022-06-24 | 2022-07-21 |
 | [Like Dat](https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Like Dat](https://open.spotify.com/album/2k6hw2VG0XdQLqmas3JQFf) | 3:44 | 2024-02-02 | 2024-06-21 |
 | [Like It Deep](https://open.spotify.com/track/3JYDWORVlXjHQWf5M92BiR) | [Braydon Terzo](https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq) | [Like It Deep](https://open.spotify.com/album/3T6ONNtu8CCBFrfGWpWs3W) | 3:23 | 2025-04-11 | 2025-08-30 |

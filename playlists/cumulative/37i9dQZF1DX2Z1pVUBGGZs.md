@@ -4,10 +4,11 @@
 
 > a playlist without boundaries, featuring AmiiFy 🌼
 
-763 songs - 1 day 14 hr 35 min
+763 songs - 1 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/5t5Y97MUjjhE5gKDTIfPVK) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3mKDWLSxPG9d0qGtXRlsKL) | 0:00 | 2025-10-10 |  |
 | [100 degrees](https://open.spotify.com/track/7aHHWISzIJkbIZdDHvnqtS) | [bodydrive](https://open.spotify.com/artist/5tnWqhwxkbOnWHzTObneAc) | [100 degrees](https://open.spotify.com/album/6oJ8zAqD2KcEj0ZnSqflAH) | 2:39 | 2025-09-18 | 2025-10-03 |
 | [100 Poems](https://open.spotify.com/track/2BmGRKmT7c6qi1agipq4su) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [100 Poems](https://open.spotify.com/album/3uFH4WDlR9vr7By3WuzmJj) | 3:18 | 2024-08-23 | 2024-11-01 |
 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 | 2025-08-14 | 2025-11-14 |
@@ -223,7 +224,6 @@
 | [face to face](https://open.spotify.com/track/1faZdE6q27lJH2GnhFuhBP) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [face to face](https://open.spotify.com/album/76lVUNdjwPIhsQTMJrzmMn) | 3:01 | 2024-08-23 | 2024-11-01 |
 | [Fairy Blue](https://open.spotify.com/track/1EwpGD2N709qjisxkaws7p) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [Fairy Blue](https://open.spotify.com/album/0gXU2w6968QtLCQfRP1khx) | 2:24 | 2024-10-10 | 2025-01-17 |
 | [Fall Out](https://open.spotify.com/track/4mUUW9VRax0XjJAOL5WFsa) | [aimei 媚](https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ) | [Fall Out](https://open.spotify.com/album/2pTiYUFcMce0j86I6n6gSE) | 2:56 | 2024-08-15 | 2025-01-03 |
-| [Famous Girl](https://open.spotify.com/track/5t5Y97MUjjhE5gKDTIfPVK) | [Beaux Neptune](https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj) | [Famous Girl](https://open.spotify.com/album/3mKDWLSxPG9d0qGtXRlsKL) | 3:20 | 2025-10-10 |  |
 | [father](https://open.spotify.com/track/0PQ33KiYJD1XPsP6oA1GYn) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [father](https://open.spotify.com/album/3fjGRYQv5YtTTyqviMYN3v) | 1:45 | 2025-02-28 | 2025-05-23 |
 | [feel again](https://open.spotify.com/track/0Mm5ubBeDFYdzH9DRWoNNv) | [Storm Henshaw](https://open.spotify.com/artist/3vn8pE5glXLXdNnTwRdjTs) | [feel again](https://open.spotify.com/album/6BeTd0G4G41eny0rUfn0T4) | 3:25 | 2025-07-10 | 2025-09-05 |
 | [Feel Anything](https://open.spotify.com/track/7Hwt6RJQ30Cm0JmOOZzCBg) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [Feel Anything](https://open.spotify.com/album/4yZpanowmJSlgmAawuX4mv) | 2:42 | 2024-11-22 | 2025-06-13 |

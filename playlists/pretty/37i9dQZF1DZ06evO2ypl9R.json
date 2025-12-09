@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAABRI7Doz4MtVVIs8PT/ffmZ",
+  "snapshot_id": "aTTDgAAAAAAQAc9FTpkczOBNogc/VaxS",
   "tracks": [
     {
       "added_at": null,
@@ -135,6 +135,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dedication EP",
+        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 232055,
+      "name": "Give Thanks",
+      "url": "https://open.spotify.com/track/1BIp43EWLRLfxydsnjeMrL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Osunlade presents Racially Charged",
         "url": "https://open.spotify.com/album/5kB8MxUqLacpzOeQo9PqpX"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 243511,
       "name": "The Sickness",
       "url": "https://open.spotify.com/track/53jWOPMHXJqQ0BBeHZgW0j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dedication EP",
-        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 232055,
-      "name": "Give Thanks",
-      "url": "https://open.spotify.com/track/1BIp43EWLRLfxydsnjeMrL"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INvite ONly",
-        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 258617,
-      "name": "Plantation Earth",
-      "url": "https://open.spotify.com/track/5ApNxXVJLVsCw6YFQmLJPm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MOSS",
         "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 200647,
       "name": "FLWN",
       "url": "https://open.spotify.com/track/2THRRSfffrl3W0PPz6nTol"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INvite ONly",
+        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 258617,
+      "name": "Plantation Earth",
+      "url": "https://open.spotify.com/track/5ApNxXVJLVsCw6YFQmLJPm"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 258604,
+      "name": "ELYODCIRE",
+      "url": "https://open.spotify.com/track/6n64nkwE2sepqPfHuQv1Q5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Same Thing",
         "url": "https://open.spotify.com/album/4XzyfgNQMIFnjvYOi8d6XP"
       },
@@ -459,18 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+        "name": "Human Beings (Remixes)",
+        "url": "https://open.spotify.com/album/0aXYi8WyRApE9RztbNlc1F"
       },
       "artists": [
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
         }
       ],
-      "duration_ms": 258604,
-      "name": "ELYODCIRE",
-      "url": "https://open.spotify.com/track/6n64nkwE2sepqPfHuQv1Q5"
+      "duration_ms": 414247,
+      "name": "Human Beings - Atjazz Remix",
+      "url": "https://open.spotify.com/track/3QvAiFAzy4TwUGyMtqblIH"
     },
     {
       "added_at": null,
@@ -499,22 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Human Beings (Remixes)",
-        "url": "https://open.spotify.com/album/0aXYi8WyRApE9RztbNlc1F"
+        "name": "Elements Beyond",
+        "url": "https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw"
       },
       "artists": [
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Atjazz",
-          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
         }
       ],
-      "duration_ms": 414247,
-      "name": "Human Beings - Atjazz Remix",
-      "url": "https://open.spotify.com/track/3QvAiFAzy4TwUGyMtqblIH"
+      "duration_ms": 470506,
+      "name": "April",
+      "url": "https://open.spotify.com/track/1eBNdAyCFuYbYy0TKRDd8A"
     },
     {
       "added_at": null,
@@ -547,22 +563,6 @@
       "duration_ms": 193560,
       "name": "Cosmic Signs",
       "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elements Beyond",
-        "url": "https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 470506,
-      "name": "April",
-      "url": "https://open.spotify.com/track/1eBNdAyCFuYbYy0TKRDd8A"
     },
     {
       "added_at": null,
@@ -659,6 +659,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let's Invade the Amazon (Yoruba Soul Mix)",
+        "url": "https://open.spotify.com/album/2zFcTO9Yd78diFJHqXE9DL"
+      },
+      "artists": [
+        {
+          "name": "Casbah 73",
+          "url": "https://open.spotify.com/artist/29lFQpdKkzFsFqdl3XRQ56"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 382274,
+      "name": "Let's Invade the Amazon - Yoruba Soul Mix",
+      "url": "https://open.spotify.com/track/6hROPCDD7DlEZxkbNgwAvc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cantos A Ochun et Oya [Juan Valentine ReEdit]",
         "url": "https://open.spotify.com/album/6k6ANYZCzmhF4KyKxUsPMx"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 425011,
       "name": "Cantos a Ochun et Oya - Juan Valentine Re-Edit",
       "url": "https://open.spotify.com/track/7CmRM4JiOswdLdF28NyajZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let's Invade the Amazon (Yoruba Soul Mix)",
-        "url": "https://open.spotify.com/album/2zFcTO9Yd78diFJHqXE9DL"
-      },
-      "artists": [
-        {
-          "name": "Casbah 73",
-          "url": "https://open.spotify.com/artist/29lFQpdKkzFsFqdl3XRQ56"
-        },
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 382274,
-      "name": "Let's Invade the Amazon - Yoruba Soul Mix",
-      "url": "https://open.spotify.com/track/6hROPCDD7DlEZxkbNgwAvc"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natives Tongue",
-        "url": "https://open.spotify.com/album/68kE4iE9bgRtb7psaoStUl"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 236303,
-      "name": "Natives Tongue",
-      "url": "https://open.spotify.com/track/2CEsYinJFRDJfX2f3eiqu8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Basic Sketches For Beginners",
         "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 590030,
       "name": "Auto Machine",
       "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Natives Tongue",
+        "url": "https://open.spotify.com/album/68kE4iE9bgRtb7psaoStUl"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 236303,
+      "name": "Natives Tongue",
+      "url": "https://open.spotify.com/track/2CEsYinJFRDJfX2f3eiqu8"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Quieter You Become, the More You Hear",
-        "url": "https://open.spotify.com/album/4wbEw7e3nKisTnmXUaVGEO"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 222321,
-      "name": "Syrundipetty",
-      "url": "https://open.spotify.com/track/1TCadeu1dkZ4kEnrHY2Ndn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ache'",
         "url": "https://open.spotify.com/album/2lvRr5UqUBPPiDr80JFZP4"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 281604,
       "name": "Comin' Around",
       "url": "https://open.spotify.com/track/2TLAATjDGstuELmuUKnfoW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Quieter You Become, the More You Hear",
+        "url": "https://open.spotify.com/album/4wbEw7e3nKisTnmXUaVGEO"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 222321,
+      "name": "Syrundipetty",
+      "url": "https://open.spotify.com/track/1TCadeu1dkZ4kEnrHY2Ndn"
     },
     {
       "added_at": null,

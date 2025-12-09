@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best tracks from Fresh Finds Canada in 2025\. Cover: Thelonious
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,357 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,364 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sunshine.](https://open.spotify.com/track/2ErztdSxaFFDRt6VaHNcRS) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [Sunshine.](https://open.spotify.com/album/6nlOfybYMHAcpb0kfceFY3) | 3:15 |
 | 2 | [Give Me One Reason](https://open.spotify.com/track/5VvT7bqOekxhMLbux3jJKD) | [Sarah Vanderzon](https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD) | [Give Me One Reason](https://open.spotify.com/album/4MtDxcaSPN6lGsBaq6yyNA) | 3:09 |
 | 3 | [2011 Caravan](https://open.spotify.com/track/2CjpfsZf02l6deAF2Bgbo3) | [DEAR\-GOD](https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO) | [Under The Table](https://open.spotify.com/album/7D4WeXPKCyZFnh8Fm4pC7x) | 2:40 |
-| 4 | [On Ice](https://open.spotify.com/track/2wo4wX6FwPQ0YWW9wUNYY0) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [On Ice](https://open.spotify.com/album/2Jx3m0Kchicr2FHzv9f0yQ) | 3:01 |
+| 4 | [ON ICE](https://open.spotify.com/track/2wo4wX6FwPQ0YWW9wUNYY0) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [ON ICE](https://open.spotify.com/album/2Jx3m0Kchicr2FHzv9f0yQ) | 3:01 |
 | 5 | [Lost My Mind](https://open.spotify.com/track/5zHDYAs0wMQ2vHRm1VWTOz) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Lost My Mind](https://open.spotify.com/album/1YkMartRY90wejqJtrO8v1) | 3:42 |
 | 6 | [Give You the World](https://open.spotify.com/track/45NLAZLAqdPBsc8gMkMCBJ) | [Cherrykim](https://open.spotify.com/artist/2oOKucHCVvvG0s9F2AdG8l) | [Something Sweet](https://open.spotify.com/album/7bffazVb0c6HFgmgTvulac) | 3:18 |
 | 7 | [The Less I Know](https://open.spotify.com/track/6XFkymbxz9TtaOufNpkFVt) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [Echo in the Dust](https://open.spotify.com/album/4PCEHUZluZ0qSRlEJUxrgG) | 3:09 |

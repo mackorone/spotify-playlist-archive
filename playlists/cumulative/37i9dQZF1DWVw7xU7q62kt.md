@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-713 songs - 1 day 6 hr 54 min
+714 songs - 1 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [2Am](https://open.spotify.com/track/6dUqAgH7Ea6fqQUWnaMOPE) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [2Am](https://open.spotify.com/album/3ZVitlJ8CbhRnGHcQpqxyy) | 2:29 | 2025-11-14 |  |
 | [360](https://open.spotify.com/track/4QGfdVijQI9cagDfWoJD5i) | [Intoku](https://open.spotify.com/artist/0Eoy1XlOfZ0xiHKayBoJbi) | [360](https://open.spotify.com/album/3Jz14bSCFU3f56kef6Oasy) | 2:33 | 2025-09-12 |  |
 | [4:16am \(45\)](https://open.spotify.com/track/5GYgzN1P8vDy7BoqPOeQAi) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [30/108](https://open.spotify.com/album/3AJCY0q66jb1ItviCx4wnQ) | 2:33 | 2024-08-23 | 2025-04-12 |
+| [4AM](https://open.spotify.com/track/1NfA2flJzq8n6OOyu1bBhY) | [Bomshi](https://open.spotify.com/artist/6s7sxozM3KaMc1b6MKjAWz), [minimog](https://open.spotify.com/artist/0fBNLX3OVz4zGbZNFuOiwf) | [4AM](https://open.spotify.com/album/2o4kD6y4DZEYZy2MgXHNRI) | 1:42 | 2025-12-05 |  |
 | [713](https://open.spotify.com/track/5EWPXmBa949HMMe3s611CW) | [James Francies](https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX) | [713](https://open.spotify.com/album/14TEvd0noEV6MVNlAmjbWf) | 5:21 | 2023-08-22 | 2024-09-07 |
 | [\[equalize\]](https://open.spotify.com/track/3SExiQeWUzRDhzIaoxV83u) | [Ari Burns](https://open.spotify.com/artist/3MTTXABYqnOSTc9sVrfDTo), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF), [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr) | [\[equalize\]](https://open.spotify.com/album/7upvnHeeeUJxRSekMcPhGF) | 2:22 | 2023-08-22 | 2025-04-12 |
 | [A Glimpse of Goodwill](https://open.spotify.com/track/2EVN6dxFOfbui7KB8wOp3Z) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [A Glimpse of Goodwill](https://open.spotify.com/album/6Cgu0Yp3uU9Q17gQCrOEiY) | 2:11 | 2025-06-20 | 2025-09-13 |
@@ -50,7 +51,7 @@
 | [Beat Brunch](https://open.spotify.com/track/2Xy4Cl8PGYRRzIBniRrVra) | [Bipeula](https://open.spotify.com/artist/5Kcv07Jj6RthywQndqvfh2), [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv) | [Beat Brunch](https://open.spotify.com/album/2HnId5ukRSiZ4AoKlgPfWX) | 2:13 | 2024-08-23 | 2025-09-13 |
 | [Beaujolais](https://open.spotify.com/track/7Gkd6kMDczipeBRu795NhH) | [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu), [Paxkalito](https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f), [PBdR](https://open.spotify.com/artist/2f4COA6IKZu722NBWix5od) | [Beaujolais](https://open.spotify.com/album/7Lwsyj1DmE5JYuuzNjX3fZ) | 2:18 | 2024-11-29 |  |
 | [Bebop](https://open.spotify.com/track/563RQEdL2To3aMcsFkvoBr) | [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Bebop](https://open.spotify.com/album/1WwiH2u1PxiFAzFAgDj5zY) | 2:06 | 2025-06-13 | 2025-09-13 |
-| [Behind The Moon](https://open.spotify.com/track/1WZNNiA67dO5mAUTWh1NWI) | [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lemon Kids](https://open.spotify.com/artist/5AUN0NmzPlINdLMmzCjvI6) | [Behind The Moon](https://open.spotify.com/album/3VxL9r8XIrHEvz4onMCKxk) | 2:05 | 2025-01-10 |  |
+| [Behind The Moon](https://open.spotify.com/track/1WZNNiA67dO5mAUTWh1NWI) | [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lemon Kids](https://open.spotify.com/artist/5AUN0NmzPlINdLMmzCjvI6) | [Behind The Moon](https://open.spotify.com/album/3VxL9r8XIrHEvz4onMCKxk) | 2:05 | 2025-01-10 | 2025-12-09 |
 | [BEING LOST \- Instrumental](https://open.spotify.com/track/7lq2ulYIlMEdj0z8dbV37q) | [New Fossils](https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm) | [Ecosphere B\-Sides](https://open.spotify.com/album/6TVeU2jaiqlXeNmJoAXlEw) | 3:43 | 2025-06-13 | 2025-07-05 |
 | [Bella Vista](https://open.spotify.com/track/2UrJHvGEOXDMY8jHgzGkwU) | [Unwind Project](https://open.spotify.com/artist/1pKbeFgKBZ7fk5UVIxo6mf), [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [aronsmith](https://open.spotify.com/artist/009g6snuAvcjh2QJHcmQCu), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX) | [Bella Vista](https://open.spotify.com/album/3CTkvlYkHej43Ha301QEQ5) | 2:30 | 2024-09-13 | 2025-05-10 |
 | [Best Time](https://open.spotify.com/track/3pZNpqJSgC6fKGk1Q7E9za) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Best Time](https://open.spotify.com/album/5zhTTfKgc60Gv2W04vTGjc) | 2:32 | 2023-12-20 | 2025-04-12 |

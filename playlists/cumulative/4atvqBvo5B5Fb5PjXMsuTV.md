@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 07 Dec 04:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 09 Dec 23:05 UTC.
 
-5,916 songs - 13 day 16 hr 42 min
+5,918 songs - 13 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,6 +433,7 @@
 | [BABYRINO](https://open.spotify.com/track/59ROR8sJpSxM16hqXtFUGU) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [BABYRINO](https://open.spotify.com/album/0x4lDg9zVDZth6nlP5Maar) | 2:12 | 2025-07-04 | 2025-07-13 |
 | [Bachata sin Pijama](https://open.spotify.com/track/07JIcb9YdwPMSdMCQOR5RM) | [LUNA KI](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Bachata sin Pijama](https://open.spotify.com/album/2ZfhC7pNzBkMp4XKbW23Wo) | 3:15 | 2024-12-20 | 2024-12-30 |
 | [Back 4 More](https://open.spotify.com/track/0ymDs2NQkgt5wJGjE3RVhg) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Back 4 More](https://open.spotify.com/album/3bGzO7VWcrzxFDoqX3vxVe) | 3:01 | 2024-09-11 | 2024-09-13 |
+| [Back Again](https://open.spotify.com/track/3Nx7XgfQt0xu8rD7Z125Ae) | [Miss Construction](https://open.spotify.com/artist/40m16kE896yRgrr1bVeDi9) | [Back Again](https://open.spotify.com/album/0CQhcO81jtsnS2AWWUEJTa) | 4:31 | 2025-12-08 |  |
 | [Back in the Game](https://open.spotify.com/track/0tPJ289BckiSSlIanTQnVa) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Back in the Game](https://open.spotify.com/album/2kBN9sDKSl5vfCnKMl0XtN) | 4:41 | 2025-02-13 | 2025-02-22 |
 | [Back In The Mix](https://open.spotify.com/track/1ijaIrjWWKFH5WlCcNUIvr) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Back In The Mix](https://open.spotify.com/album/76QLVPqGXHm146HMMTq3yR) | 2:28 | 2024-07-11 | 2024-07-13 |
 | [Back in the Saddle](https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Back in the Saddle](https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ) | 3:32 | 2025-07-26 | 2025-08-08 |
@@ -1448,7 +1449,7 @@
 | [Donk Jewel](https://open.spotify.com/track/1045RRwXHPzZdIVbnNb8V7) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Donk Jewel](https://open.spotify.com/album/41U2g9NogfSye2AhM5INee) | 2:23 | 2024-10-08 | 2024-10-11 |
 | [Doom](https://open.spotify.com/track/4tgqtgCqCBdBLnM7IZptGZ) | [Great Grandpa](https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6) | [Doom](https://open.spotify.com/album/6NNJuL3e85YHBdY7fbGBDC) | 4:30 | 2024-10-24 | 2024-10-26 |
 | [Doom + Gloom](https://open.spotify.com/track/6MI4QzIiJIfIZcdTSlDXnq) | [Set for Tomorrow](https://open.spotify.com/artist/38G81lySCkQhDVRchYGZzK) | [Doom + Gloom](https://open.spotify.com/album/7JosnS7Ttco0A7hMV5Ctp0) | 3:09 | 2024-08-15 | 2024-08-17 |
-| [Doomsday](https://open.spotify.com/track/3Vk3AcdGJRwzgtjnRQUcqQ) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Doomsday](https://open.spotify.com/album/4CaivjK6B36PMmfcBZxklC) | 3:32 | 2025-11-24 |  |
+| [Doomsday](https://open.spotify.com/track/3Vk3AcdGJRwzgtjnRQUcqQ) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Doomsday](https://open.spotify.com/album/4CaivjK6B36PMmfcBZxklC) | 3:32 | 2025-11-24 | 2025-12-09 |
 | [Doors Down](https://open.spotify.com/track/7sXSM87Kg9U4QFsVEklmaG) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab) | [Doors Down](https://open.spotify.com/album/1ZEpa9coRRjevJT1EOtDjC) | 3:26 | 2024-06-14 | 2024-06-19 |
 | [Dopamine](https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Dopamine](https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw) | 3:35 | 2025-11-12 | 2025-11-22 |
 | [Dopamine \- Jamie xx Remix](https://open.spotify.com/track/6BRSGk5zVklP8FRLTRm8Ar) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dopamine \(Jamie xx Remix\)](https://open.spotify.com/album/0Puqp5TzMtMN1ljd8Ecae9) | 5:02 | 2025-12-04 |  |
@@ -5605,7 +5606,7 @@
 | [What to raise \- Shin Kawasaki \(Temporary\)](https://open.spotify.com/track/4jgxQqykuLScJAmqUvpfaZ) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [What to raise \[Shin Kawasaki \(Temporary\)\]](https://open.spotify.com/album/1JQmy3IFC5OWpYdoz2Ncuy) | 3:08 | 2024-05-04 | 2024-05-08 |
 | [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-04-24 | 2025-05-03 |
 | [What we know](https://open.spotify.com/track/5aFdZBMU2W8jw1gPuVYLtf) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [What we know](https://open.spotify.com/album/6sdxlixknhEoA0qBwEoIGV) | 4:03 | 2025-04-02 | 2025-04-11 |
-| [What You Know You Know You Know](https://open.spotify.com/track/4QnsxVV6dskJ6OaUx1snAu) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [What You Know You Know You Know](https://open.spotify.com/album/3A0eLPS8eCXO2NjjtmSiRQ) | 7:21 | 2025-11-26 |  |
+| [What You Know You Know You Know](https://open.spotify.com/track/4QnsxVV6dskJ6OaUx1snAu) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [What You Know You Know You Know](https://open.spotify.com/album/3A0eLPS8eCXO2NjjtmSiRQ) | 7:21 | 2025-11-26 | 2025-12-09 |
 | [What You Want](https://open.spotify.com/track/3rAcN3CLeSrkhIZN8PHbwb) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [What You Want](https://open.spotify.com/album/6HQEHkwhLmwN0VTJSWgOgE) | 3:14 | 2025-08-19 | 2025-08-29 |
 | [What's Left Of Me](https://open.spotify.com/track/2KCHayVgv4Svp1ETPNsk7l) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [What's Left Of Me](https://open.spotify.com/album/58uReIHwOj5YOPkDjAEGPG) | 3:15 | 2024-09-18 | 2024-09-21 |
 | [What's Wrong?](https://open.spotify.com/track/5lq4X3bgERmY1ata9H3h9Y) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [What's Wrong?](https://open.spotify.com/album/6swybrrhYJrQHXKX726Vw2) | 3:21 | 2024-12-12 | 2024-12-17 |
@@ -5924,5 +5925,6 @@
 | [蜃気楼 \(MIRAGE\)](https://open.spotify.com/track/6twZMtzokxAdrLpZjD7s1l) | [NINE.i](https://open.spotify.com/artist/4e8UtPYfVPBzWO4PY8CZye) | [蜃気楼 \(MIRAGE\)](https://open.spotify.com/album/4ywV2AHGmwMc88uMusn5pK) | 3:03 | 2024-12-04 | 2024-12-07 |
 | [許婚っきゅん](https://open.spotify.com/track/6YLjq21cq39MrEGtGGQ7DU) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [許婚っきゅん](https://open.spotify.com/album/0CGQLcexvxE3lWTG4q0VOO) | 3:00 | 2024-10-09 | 2024-10-12 |
 | [青嵐 \(Aoarashi\)](https://open.spotify.com/track/0AOSmgHSkg9jH73jGy2QNG) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [青嵐 \(Aoarashi\)](https://open.spotify.com/album/4CKknn9azZeOb6sO1PmPJS) | 2:55 | 2024-08-07 | 2024-08-09 |
+| [黝堊の祈り \- Anima immortalis est.](https://open.spotify.com/track/2J21nXxsyATLoFcEF6AvwT) | [Imperial Circus Dead Decadence](https://open.spotify.com/artist/5bgW1AysTzHav20snaPkyp) | [黝堊の祈り \- Anima immortalis est.](https://open.spotify.com/album/3wxkAwHlNN6Zrs3acdstMY) | 7:52 | 2025-12-08 |  |
 
 \*This playlist was first scraped on 2024-04-26. Prior content cannot be recovered.

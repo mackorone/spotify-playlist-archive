@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: Nkosazana Daughter
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,994 likes - 70 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,015 likes - 70 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Khetha](https://open.spotify.com/track/55Ksyvd4sNgRarIlq1u9r6) | [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Essa Kay](https://open.spotify.com/artist/3trQ6ETzQzpc6EWLwIVLHh), [Skillz](https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf) | [Khetha](https://open.spotify.com/album/20qljRtdrfq1pY4UL7xI8Z) | 7:39 |
 | 2 | [Dali](https://open.spotify.com/track/736Meinsr22PyawijKHnrW) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Dali](https://open.spotify.com/album/0jWWd8O33jAFB46hCzNKJ4) | 7:22 |
-| 3 | [Awukwazi \(feat\. Dlala Thukzin\)](https://open.spotify.com/track/2GRQKhpmLc2gAwpNg2Vzmg) | [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [The Sisters](https://open.spotify.com/artist/53jYY2v3q7n3i0B3Alf8rt), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD) | [Awukwazi \(feat\. Dlala Thukzin\)](https://open.spotify.com/album/2s5jIqpDcNtVsHNC2jW6vK) | 5:13 |
+| 3 | [Awukwazi \(feat\. Dlala Thukzin\)](https://open.spotify.com/track/2GRQKhpmLc2gAwpNg2Vzmg) | [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [The Sisters](https://open.spotify.com/artist/54XKdmJkyJjdLMSA5h1rNE), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD) | [Awukwazi \(feat\. Dlala Thukzin\)](https://open.spotify.com/album/2s5jIqpDcNtVsHNC2jW6vK) | 5:13 |
 | 4 | [Uyankenteza](https://open.spotify.com/track/5yHF2bOclSpULpMqhMxd3G) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Afro Warriors](https://open.spotify.com/artist/22cqOfoALFWpzhK9V3hgzd), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Uyankenteza](https://open.spotify.com/album/218oP5D5LdMI6PVsNwLqeY) | 3:59 |
 | 5 | [Born A Miracle](https://open.spotify.com/track/7fSDwC0IoCnoclhdhlSanc) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [Born A Miracle](https://open.spotify.com/album/5XKrecqn2aExVdLZ8NIj6K) | 3:07 |
 | 6 | [Na Luki](https://open.spotify.com/track/2FOBFeadI0qRZHpU9OWty5) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Tony Afro](https://open.spotify.com/artist/2z8Lav1frQMLGIJkp1yX0H) | [33](https://open.spotify.com/album/3HF0INhH4RbXjFnMBHgyjI) | 2:04 |

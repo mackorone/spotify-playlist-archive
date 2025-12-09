@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>! Featuring Alison Wonderland
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,233 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,207 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 63 | [voltage \(see you again\)](https://open.spotify.com/track/2vfxj67f2qeZz4uofyoPvw) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f), [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [swedm®](https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [voltage \(see you again\)](https://open.spotify.com/album/4ecy3N3LBwEIJhLHPjEZ4J) | 3:20 |
 | 64 | [s.o.s](https://open.spotify.com/track/2gRcRlKTI8WSQhufYPlO1Z) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Tabi](https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn) | [s.o.s](https://open.spotify.com/album/4E0rIBD3vyXDoaynnfT5Av) | 2:09 |
 | 65 | [Sensory Session](https://open.spotify.com/track/0K6bM8wUaxWYW5OXmnL5Wf) | [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206) | [Sensory Session](https://open.spotify.com/album/1OHhoct3TJ1QmrW8SFHtxK) | 3:13 |
-| 66 | [Waiting 4 U \(Feat\. Natalie Jane\)](https://open.spotify.com/track/5Vojou9RHWw8neHwu9opT2) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Waiting 4 U \(Feat\. Natalie Jane\)](https://open.spotify.com/album/1QfoSaZBlsQl3J76OyATZc) | 2:53 |
-| 67 | [I Guess We're Not The Same](https://open.spotify.com/track/36nYS9AwMR06ph6imdjn7J) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [I Guess We’re Not The Same](https://open.spotify.com/album/2qcjJEhyv2SCJOphfOIGZ3) | 3:31 |
+| 66 | [I Guess We're Not The Same](https://open.spotify.com/track/36nYS9AwMR06ph6imdjn7J) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [I Guess We’re Not The Same](https://open.spotify.com/album/2qcjJEhyv2SCJOphfOIGZ3) | 3:31 |
+| 67 | [Waiting 4 U \(Feat\. Natalie Jane\)](https://open.spotify.com/track/5Vojou9RHWw8neHwu9opT2) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Waiting 4 U \(Feat\. Natalie Jane\)](https://open.spotify.com/album/1QfoSaZBlsQl3J76OyATZc) | 2:53 |
 | 68 | [PUT IT DOWN \- Jkyl & Hyde Remix](https://open.spotify.com/track/46WqNBxyjLaxbHMM4BKTA2) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr), [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206) | [PUT IT DOWN \(Jkyl & Hyde Remix\)](https://open.spotify.com/album/5DjMcPsSEQpWcECwAT0mKp) | 3:14 |
 | 69 | [BRIGHT](https://open.spotify.com/track/2OS5TP13pmupiTtVzOgsD0) | [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei), [Simona Shao](https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF) | [BRIGHT](https://open.spotify.com/album/5lFtP8xrqkckHAy92k7b2P) | 3:49 |
 | 70 | [Want It](https://open.spotify.com/track/6NzIiBuvtfwtcaAK6HzfMQ) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Want It](https://open.spotify.com/album/0TbKK880OLEKrDziuvCrtg) | 3:24 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 95 | [Match My Speed](https://open.spotify.com/track/0Jc3LSbd1KQaKpMC716iBX) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF), [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Match My Speed](https://open.spotify.com/album/5BZIFHtGU9M94e69CJS12P) | 1:57 |
 | 96 | [LOOK](https://open.spotify.com/track/4UKWtuFJqdCIRGjqAb8ykS) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [LOOK](https://open.spotify.com/album/3Ibc6SpZR74thhTgzNYmF3) | 2:39 |
 | 97 | [SOLD MY SOUL](https://open.spotify.com/track/2GxSge6HAH6nt64yT83zmA) | [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi) | [SOLD MY SOUL](https://open.spotify.com/album/61bHizZ5lcUniZrI15U7WW) | 3:19 |
-| 98 | [i feel ALIVE](https://open.spotify.com/track/4rqaLU3Lr8a1MBjD5sfi7g) | [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [i feel ALIVE](https://open.spotify.com/album/1AGpNxNX4Hn2531TwiN14L) | 2:40 |
-| 99 | [ONANON](https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [ONANON](https://open.spotify.com/album/5u25vyvBp9WqntAHMqGwPP) | 3:15 |
+| 98 | [ONANON](https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [ONANON](https://open.spotify.com/album/5u25vyvBp9WqntAHMqGwPP) | 3:15 |
+| 99 | [i feel ALIVE](https://open.spotify.com/track/4rqaLU3Lr8a1MBjD5sfi7g) | [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [i feel ALIVE](https://open.spotify.com/album/1AGpNxNX4Hn2531TwiN14L) | 2:40 |
 | 100 | [CHROMA 008 TANGZ](https://open.spotify.com/track/5CQ8kbCeDFZmASjXzp2I6b) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [CHROMA 008](https://open.spotify.com/album/5V70JZgrMpZ6oZowA3h8Yb) | 5:12 |
 
 Snapshot ID: `AAAAAIxbs9dcDqkCFsOwfOMfV0PdB3xX`

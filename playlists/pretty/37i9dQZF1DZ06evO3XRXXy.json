@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 150290,
+  "num_followers": 150308,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAACFt5pYau9825SrSam3JD8R",
+  "snapshot_id": "aTTDgAAAAAAFf/JRRkOWSYVrhbLetv4X",
   "tracks": [
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 256506,
-      "name": "Going Home - Edit",
-      "url": "https://open.spotify.com/track/7klcN1Hjle0xBe2KQsYGxY"
+      "duration_ms": 238426,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/5zW8p9nOndsKZnhes6PJtM"
     },
     {
       "added_at": null,
@@ -275,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 238426,
-      "name": "Innocence",
-      "url": "https://open.spotify.com/track/5zW8p9nOndsKZnhes6PJtM"
+      "duration_ms": 256506,
+      "name": "Going Home - Edit",
+      "url": "https://open.spotify.com/track/7klcN1Hjle0xBe2KQsYGxY"
     },
     {
       "added_at": null,

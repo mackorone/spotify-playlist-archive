@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 144320,
+  "num_followers": 144304,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-11-03 08:50:06",
       "album": {
+        "name": "By Default",
+        "url": "https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn"
+      },
+      "artists": [
+        {
+          "name": "Band Of Skulls",
+          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
+        }
+      ],
+      "duration_ms": 168936,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq"
+    },
+    {
+      "added_at": "2025-11-03 08:50:06",
+      "album": {
         "name": "To Lose My Life ...",
         "url": "https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 281066,
       "name": "Trick or Treatz",
       "url": "https://open.spotify.com/track/6IvJzqlKRjOaJwe85k4PHK"
-    },
-    {
-      "added_at": "2025-11-03 08:50:06",
-      "album": {
-        "name": "By Default",
-        "url": "https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn"
-      },
-      "artists": [
-        {
-          "name": "Band Of Skulls",
-          "url": "https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG"
-        }
-      ],
-      "duration_ms": 168936,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq"
     },
     {
       "added_at": "2025-11-03 08:50:06",

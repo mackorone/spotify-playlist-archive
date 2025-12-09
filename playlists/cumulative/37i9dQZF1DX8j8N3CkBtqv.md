@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Utsavi Jha, Parvaaz, and other exciting artists.
 
-1,257 songs - 2 day 20 hr 56 min
+1,258 songs - 2 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,7 +360,7 @@
 | [Ghabraye](https://open.spotify.com/track/4WaGtwSOWl5iECs36N27VC) | [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Ghabraye](https://open.spotify.com/album/6sK9etBZCPYGVMwI5puwSZ) | 2:20 | 2024-03-01 | 2024-04-06 |
 | [Ghanan](https://open.spotify.com/track/62y0vkPVjLKqcl03BPRClh) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Ghanan](https://open.spotify.com/album/2QnzLREoXTbjpSBCoe64Vu) | 3:06 | 2024-08-23 | 2024-10-19 |
 | [Ghar](https://open.spotify.com/track/2GQXTvZ5S5RcfqmD1SdAVy) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Ghar](https://open.spotify.com/album/5fyj5enOtY9sgh84Jc4kbP) | 2:57 | 2023-04-14 | 2023-06-30 |
-| [Ghar Hai Kahan](https://open.spotify.com/track/3G1iu3gijK2lJoyH3O5LHj) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Ghar Hai Kahan](https://open.spotify.com/album/0qoctH0Lu6LPN0j00OsfV2) | 2:57 | 2025-11-14 |  |
+| [Ghar Hai Kahan](https://open.spotify.com/track/3G1iu3gijK2lJoyH3O5LHj) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Ghar Hai Kahan](https://open.spotify.com/album/0qoctH0Lu6LPN0j00OsfV2) | 2:57 | 2025-11-14 | 2025-12-09 |
 | [Ghir Ghir Aayi](https://open.spotify.com/track/1kmabZtXNXA7YjcYnQlSTO) | [Sanghamitra Sarkar](https://open.spotify.com/artist/1z0k0hbPwz1UCBfaksTRVK), [Mahimma Bhardwaj](https://open.spotify.com/artist/6dAjKwptPcekFHZXyPPZ8j) | [Ghir Ghir Aayi](https://open.spotify.com/album/0VanDD41bdmpbVQ45Q9c3L) | 3:16 | 2024-06-07 | 2024-07-19 |
 | [Ghoome](https://open.spotify.com/track/2S8g6nlwCih4u4GAn14GqE) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Ghoome](https://open.spotify.com/album/4u73oMykwBdkhBuJ9ufJjT) | 2:49 | 2023-07-21 | 2023-08-25 |
 | [Ghulaam](https://open.spotify.com/track/5ZpXpqsmvcm6KTIuxRVEKg) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Maara](https://open.spotify.com/artist/5BJIYkah1s9lnE1a0OO2Vn) | [Ghulaam](https://open.spotify.com/album/0hb54jsDgeXIH0kvER8ezp) | 3:22 | 2023-08-18 | 2023-09-16 |
@@ -610,6 +610,7 @@
 | [Khuda Mere](https://open.spotify.com/track/3BUmgO49io7ug5znWhC2MA) | [Sahil Samuel](https://open.spotify.com/artist/50vevtkeWFKDY54ZjvulwN), [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Khuda Mere](https://open.spotify.com/album/4LK6qQ5vmUlKaSYPLPeMSQ) | 4:23 | 2023-07-21 | 2023-08-19 |
 | [Khudaya](https://open.spotify.com/track/4EnZhmCpz5cfWW2LnYG5LT) | [Judy on the run](https://open.spotify.com/artist/2Q40QosdAX9Ov9mlFO6oOB), [Sparsh Jain](https://open.spotify.com/artist/0vHTMw51bbuH1yYoiJ75PD) | [Khudaya](https://open.spotify.com/album/52ja2DUoz8k5BcPbUx0Swx) | 3:20 | 2023-11-10 | 2023-12-09 |
 | [Khul Ja](https://open.spotify.com/track/4wLE1GQIGPBZh9HRdJ1RZI) | [Zariya](https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1) | [Khul Ja](https://open.spotify.com/album/445KmsOofBfkjw2qO3FJQq) | 2:50 | 2024-01-19 | 2024-02-17 |
+| [Khurdura](https://open.spotify.com/track/5wA2waZXpKkoTkvyTdP9hm) | [Rahul Shah](https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Bhau](https://open.spotify.com/artist/74lKy2401dGEdFaTudLL7q) | [Khurdura](https://open.spotify.com/album/6HvwDlXAO5kFZSbfWNO9Ru) | 2:10 | 2025-12-05 |  |
 | [Khwaab](https://open.spotify.com/track/6QOda6PR8znCRv89uSyOr1) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK) | [Khwaab](https://open.spotify.com/album/1Q2W0Wh1meiaFywydsLZEJ) | 3:25 | 2025-09-12 | 2025-11-21 |
 | [Khwaabre](https://open.spotify.com/track/59mfcu2HSYSSFFopuUJmSY) | [Rishi Kumar](https://open.spotify.com/artist/3F5SVEzUMD5JVZ0K9Q4XZW), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Anshul Mathur](https://open.spotify.com/artist/6DU9rNtAevlHMYBNnkI2LX) | [Khwaabre](https://open.spotify.com/album/32anWLyKsIDiTjMFp4dV7a) | 3:01 | 2025-03-21 | 2025-04-05 |
 | [Khwab](https://open.spotify.com/track/59alvnjzlbX6LaHhXGDZYv) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Khwab](https://open.spotify.com/album/0ICe966bo3oNsHRIBp4aQ7) | 2:38 | 2023-04-14 | 2023-05-20 |

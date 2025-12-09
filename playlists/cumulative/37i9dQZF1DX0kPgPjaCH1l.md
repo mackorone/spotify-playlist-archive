@@ -4,7 +4,7 @@
 
 > Baba God, run am 🙏\. <br/>Cover:  tml vibes
 
-110 songs - 5 hr 11 min
+111 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [I Alone](https://open.spotify.com/track/6D09vfVjCFlRxOGdmja0yp) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:27 | 2025-07-04 |  |
 | [Id.Me](https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Id.Me](https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt) | 2:49 | 2025-06-20 |  |
 | [Imagine](https://open.spotify.com/track/6EtiudQ17HCJ0gLgrCo9Xi) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Intergalactic Dreams](https://open.spotify.com/album/3XlIAm2aT2MAfpmAuBjH5S) | 2:04 | 2025-06-20 |  |
-| [Imperfect](https://open.spotify.com/track/7J1qawxA1ewz7syweC0FqK) | [Obedo PF](https://open.spotify.com/artist/7k101dkUO2zeS4BDohLMvm) | [Hope for Ghetto Youth](https://open.spotify.com/album/40B4uYQBcRNEPGxwMFuSH9) | 2:25 | 2025-08-22 |  |
+| [Imperfect](https://open.spotify.com/track/7J1qawxA1ewz7syweC0FqK) | [Obedo PF](https://open.spotify.com/artist/7k101dkUO2zeS4BDohLMvm) | [Hope for Ghetto Youth](https://open.spotify.com/album/40B4uYQBcRNEPGxwMFuSH9) | 2:25 | 2025-08-22 | 2025-12-09 |
 | [Instagram](https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Instagram](https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S) | 2:20 | 2025-06-20 |  |
 | [Introduction](https://open.spotify.com/track/18Dqu7gVORIPeijXiugQnk) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Introduction](https://open.spotify.com/album/3rhPZe2525Jd9SO1A4FIFR) | 2:25 | 2025-06-20 |  |
 | [IQ](https://open.spotify.com/track/1rWP1UqheRM5iBaCZfqCGz) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby 2.0](https://open.spotify.com/album/0nXjP0DNJ8Cwd0e5ytg81G) | 3:16 | 2025-09-19 | 2025-12-08 |
@@ -117,6 +117,7 @@
 | [Wetin We Gain](https://open.spotify.com/track/5faqpitzDhJKv3huL8nJhp) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N) | [Wetin We Gain](https://open.spotify.com/album/6vHdAinF14WKw2vIpXDAiC) | 3:34 | 2025-06-20 |  |
 | [Where I’m from](https://open.spotify.com/track/1oFabnkoJ01ksmSmyjELDl) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Timileyin 2.0](https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a) | 2:39 | 2025-06-20 |  |
 | [who does that? \(feat\. Bella Shmurda\)](https://open.spotify.com/track/3ZR7IlqBPK8TrJyZYfFX9L) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [what a feeling](https://open.spotify.com/album/0NWBna7snlHKH0NJ2f3Skp) | 2:39 | 2025-06-20 |  |
+| [Ye](https://open.spotify.com/track/5Uk4XgT6I0lgBagWcrtCsT) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [A Street Kid's Diary](https://open.spotify.com/album/03CVM99wc5g02qpBGKgfYM) | 2:33 | 2025-12-05 |  |
 | [Young Again](https://open.spotify.com/track/19H1JRTGuLrogqrhhbyF3Q) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Peace by Piece](https://open.spotify.com/album/06dCmbV7kTlPBXLhGEEgqQ) | 2:41 | 2025-09-26 |  |
 
 \*This playlist was first scraped on 2025-06-24. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 > 신나는 트로트 멜로디를 즐겨보세요! \(커버: 손태진 \(Son Tae Jin\)\)<br/>Let's party with cheerful Korean trot medley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,827 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,830 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 15 | [Shall We Date?](https://open.spotify.com/track/40g4PM44kLcQSRxXnkaZCL) | [Park Seo Jin](https://open.spotify.com/artist/0mnHyTjHaxIAHVlAidU4tH) | [Shall We Date?](https://open.spotify.com/album/3XZg3OeRM3NiYsKSJROYGK) | 3:29 |
 | 16 | [Eternal Moment](https://open.spotify.com/track/2aSfmbpproCPOe2j01WT2a) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO 2](https://open.spotify.com/album/19z4SOpETLOt3bKKcJJ84O) | 3:28 |
 | 17 | [The mambo of love](https://open.spotify.com/track/1NqydJblIICpOuyLlDTqOQ) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [The mambo of love](https://open.spotify.com/album/3o3jKIqys0cN7tCJcMxTfh) | 3:19 |
-| 18 | [Easy Lover](https://open.spotify.com/track/2mMdTzr7Ys2xVdQXAUw9j6) | [JD1](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Easy Lover](https://open.spotify.com/album/1mahH2ErwTOnfud1pRHPxT) | 2:45 |
+| 18 | [](https://open.spotify.com/track/2mMdTzr7Ys2xVdQXAUw9j6) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1mahH2ErwTOnfud1pRHPxT) | 0:00 |
 | 19 | [Juicy Go \(Duet with Kim Yonja\)](https://open.spotify.com/track/6IicnvlkFBPB2vYnzxpByc) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [KIM YONJA](https://open.spotify.com/artist/5W5z8dxd1mi3fB8aHcv4MK) | [Juicy Go \(Duet with Kim Yonja\)](https://open.spotify.com/album/6buBgMl4YH6fLnbXnHogsp) | 2:53 |
 | 20 | [Always Been You](https://open.spotify.com/track/1kEoLjj5HbCFxbPVNgDZ18) | [Kim Yong Bin](https://open.spotify.com/artist/1LTzgzQlvBbJiZ7Er8xj2l) | [Always Been You](https://open.spotify.com/album/4BhDk1LpZ0SyidT4DTNHhM) | 3:30 |
 | 21 | [Song Of The Wind](https://open.spotify.com/track/0yCowo50C6zUlq89ZoKO4H) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [Eternally\-16](https://open.spotify.com/album/4oINCMFS4EkKQPiWp0zzXv) | 5:08 |

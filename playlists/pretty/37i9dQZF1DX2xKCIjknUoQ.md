@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Last Train
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,734 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,757 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [La vie est belle](https://open.spotify.com/track/42z3DqNB88hUKzbTQxklxR) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [13](https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo) | 5:27 |
-| 2 | [Le vent nous portera](https://open.spotify.com/track/2ZQVJD9I6GCqXmkmMuEoLa) | [Noir Désir](https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos) | [Des visages des figures](https://open.spotify.com/album/2GbW5WBU1BFSChvxtt6BBH) | 4:48 |
+| 1 | [Le vent nous portera](https://open.spotify.com/track/2ZQVJD9I6GCqXmkmMuEoLa) | [Noir Désir](https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos) | [Des visages des figures](https://open.spotify.com/album/2GbW5WBU1BFSChvxtt6BBH) | 4:48 |
+| 2 | [La vie est belle](https://open.spotify.com/track/42z3DqNB88hUKzbTQxklxR) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [13](https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo) | 5:27 |
 | 3 | [Le Graal](https://open.spotify.com/track/4hMsrR2JpxCeybyWN786qk) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [L'équilibre](https://open.spotify.com/album/4CkUoxJjBE1QLFMwJYcDwC) | 3:11 |
 | 4 | [I'm Picky](https://open.spotify.com/track/4LIN465EXxcZwgGsQsG0TC) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [The Geeks and the Jerkin' Socks](https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK) | 3:58 |
 | 5 | [Let’s Go](https://open.spotify.com/track/1XsN9Flu0VvZpXmrkBtZGt) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Pursuit](https://open.spotify.com/album/4ML88AyBHneIkmTHJunWCC) | 3:31 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 263076,
+  "num_followers": 263181,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Salsa Exitos",
-        "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
-      },
-      "artists": [
-        {
-          "name": "Pedro Conga",
-          "url": "https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y"
-        }
-      ],
-      "duration_ms": 311800,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/6JUOHyIgRFhZumikb2u1uA"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Nuestra Musica",
         "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 268106,
       "name": "No Hay Cama Pa' Tanta Gente",
       "url": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Salsa Exitos",
+        "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
+      },
+      "artists": [
+        {
+          "name": "Pedro Conga",
+          "url": "https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y"
+        }
+      ],
+      "duration_ms": 311800,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/6JUOHyIgRFhZumikb2u1uA"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "Nuestra Musica",
+        "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 235853,
+      "name": "La Fiesta de 'Pilito'",
+      "url": "https://open.spotify.com/track/1SHQcgo2PhZXaICEHholIC"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "Back To Work",
         "url": "https://open.spotify.com/album/2TrREv0DQ56tRg0CAqWvdg"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 311760,
       "name": "Seda",
       "url": "https://open.spotify.com/track/0nZHEMMycl40jkcaVzKsAF"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Nuestra Musica",
-        "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 235853,
-      "name": "La Fiesta de 'Pilito'",
-      "url": "https://open.spotify.com/track/1SHQcgo2PhZXaICEHholIC"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "De Costa a Costa",
-        "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
-      },
-      "artists": [
-        {
-          "name": "Mariano Civico",
-          "url": "https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q"
-        }
-      ],
-      "duration_ms": 309760,
-      "name": "Te Voy a Hacer Feliz",
-      "url": "https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Original",
         "url": "https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 265480,
       "name": "De Punta a Punta",
       "url": "https://open.spotify.com/track/1nB9ydATeeVCG3wrre1jcH"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "De Costa a Costa",
+        "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
+      },
+      "artists": [
+        {
+          "name": "Mariano Civico",
+          "url": "https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q"
+        }
+      ],
+      "duration_ms": 309760,
+      "name": "Te Voy a Hacer Feliz",
+      "url": "https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf"
     },
     {
       "added_at": "2024-07-11 00:51:42",

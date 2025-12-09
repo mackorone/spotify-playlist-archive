@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 
 > This is Joy Oladokun\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,149 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,148 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pbj8d.md) - [plain]
 | 45 | [AM I?](https://open.spotify.com/track/1J2prWTjfIrfjQBHa74RH4) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 3:16 |
 | 46 | [Fortune Favors The Bold](https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Tim Gent](https://open.spotify.com/artist/3zt7KD1sd6pwQ3PgWPZiln) | [Fortune Favors The Bold](https://open.spotify.com/album/6Z4nwjLYejRAzZo1HeyyPy) | 3:38 |
 | 47 | [Somewhere \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0iKgYHKMDci0gpwjRzfiPp) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [In Rhythm](https://open.spotify.com/album/1C2wi3G7Kcw4pWP4Ll8jzv) | 3:26 |
-| 48 | [brick by brick](https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB) | 3:33 |
+| 48 | [Memphis](https://open.spotify.com/track/1yeSznrghGszZVKvN5DZ2f) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Memphis](https://open.spotify.com/album/3Q4xfrse6fqosRqjAzqF7s) | 4:06 |
 | 49 | [DUST/DIVINITY](https://open.spotify.com/track/52PFBc2sSdQOcDxfjLZPNi) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [OBSERVATIONS FROM A CROWDED ROOM](https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV) | 3:43 |
-| 50 | [Memphis](https://open.spotify.com/track/1yeSznrghGszZVKvN5DZ2f) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Memphis](https://open.spotify.com/album/3Q4xfrse6fqosRqjAzqF7s) | 4:06 |
+| 50 | [brick by brick](https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB) | 3:33 |
 
-Snapshot ID: `aTNyAAAAAAB1g4O+t833aZChEP3foyAU`
+Snapshot ID: `aTTDgAAAAADQ49+lJ+1T7veVBQ8ytqYL`

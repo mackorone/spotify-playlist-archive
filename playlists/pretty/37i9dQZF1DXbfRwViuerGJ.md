@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfRwViuerGJ.md) - [plain]
 
 > Our picks for the best kids songs of 2025\. Cover: FYÜTCH & Aura V
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,794 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,800 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

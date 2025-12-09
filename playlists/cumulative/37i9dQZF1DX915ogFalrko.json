@@ -251,6 +251,28 @@
     },
     {
       "album": {
+        "name": "Gringa",
+        "url": "https://open.spotify.com/album/1FoTgNV9Gcim0DEPVoQBlX"
+      },
+      "artists": [
+        {
+          "name": "Bianca Costa",
+          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
+        },
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187762,
+      "name": "Belle \u00e2me",
+      "url": "https://open.spotify.com/track/0bu7lHmTzz2iBzqbT84olJ"
+    },
+    {
+      "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
       },
@@ -472,7 +494,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 194403,
       "name": "Creator",
       "url": "https://open.spotify.com/track/1ArcaROoVptChgQuUbsttl"

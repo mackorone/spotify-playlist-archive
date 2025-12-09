@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: emmanuellcortess\_
 
-[Spotify](https://open.spotify.com/user/spotify) - 716,455 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 716,467 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 12 | [No Llega El Olvido \(Banda\)](https://open.spotify.com/track/6Z38kXQPJiFfxow9b1NKam) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora \(Banda\)](https://open.spotify.com/album/2vpPlSBA12bNyT6cKenLvW) | 3:05 |
 | 13 | [SALI A BUSCARLE](https://open.spotify.com/track/4zaLk1MSnYHxIa75cW4TGr) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Desde El Rancho 3 Potrillos](https://open.spotify.com/album/77BfUELC9TBXT1mnI9QN6u) | 3:34 |
 | 14 | [Sin Foto de Perfil](https://open.spotify.com/track/3uNy8WkjMdL6TeLe7dLByX) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Sin Foto de Perfil](https://open.spotify.com/album/6IX29RWNUKozUlnnMZMgUF) | 2:51 |
-| 15 | [De Mexico Para El Mundo](https://open.spotify.com/track/2icmqXxY4Zo5MvgiIeHZ5O) | [Jesús Uriarte](https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [De Mexico Para El Mundo](https://open.spotify.com/album/20eOV7sZ0hZxn7mWeUmyCl) | 2:29 |
+| 15 | [De Mexico Para El Mundo](https://open.spotify.com/track/2icmqXxY4Zo5MvgiIeHZ5O) | [Jesús Uriarte](https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [De Mexico Para El Mundo](https://open.spotify.com/album/20eOV7sZ0hZxn7mWeUmyCl) | 2:28 |
 | 16 | [Sin Alma Y Sin Corazón](https://open.spotify.com/track/7EwpRdtqDKXw3uFCiCHqgB) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Cañonazos Pa Amanecer](https://open.spotify.com/album/4RKxmp1VGVzB8B6LMAlIWV) | 3:09 |
 | 17 | [El Amor No Se Vende \- En Vivo](https://open.spotify.com/track/5Tr2eIyQC5P19xCKb4heTb) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Rancheras Pa’ La Parranda \(En Vivo\)](https://open.spotify.com/album/6dE0HA1457iIubcP5WYtLb) | 2:53 |
 | 18 | [Hombre Decente](https://open.spotify.com/track/5wRxQtDtsLYUPIREISJVR5) | [JPL](https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd), [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Hombre Decente](https://open.spotify.com/album/75aVa81YjXuKSY7ClkweHO) | 2:44 |

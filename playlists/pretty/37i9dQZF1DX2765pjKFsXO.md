@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2765pjKFsXO.md) - [plain]
 
 > Największe polskie alternatywne kawałki w 2025 według naszej redakcji\. Cover: Dawid Podsiadło, Kaśka Sochacka
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,692 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,706 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

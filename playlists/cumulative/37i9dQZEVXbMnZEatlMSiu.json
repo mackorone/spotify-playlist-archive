@@ -4415,6 +4415,24 @@
     },
     {
       "album": {
+        "name": "OO-LI",
+        "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244986,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq"
+    },
+    {
+      "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/6tC3xfxVub5WUYcWlO7PG3"
       },
@@ -5246,7 +5264,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 180353,
       "name": "FAMOUS",
       "url": "https://open.spotify.com/track/40UVUuyy5RfpO0awclCttA"
@@ -8426,7 +8444,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 151573,
       "name": "IRIS OUT",
       "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
@@ -12394,7 +12412,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 195409,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/491ca80N1C63tpoLvAsLKb"
@@ -12412,7 +12430,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 195409,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/7jp2VW62Yt2bDOaRas3hR6"
@@ -16012,7 +16030,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 131097,
       "name": "THIS IS FOR",
       "url": "https://open.spotify.com/track/18AMT576rBlQFMzUTS7WBa"
@@ -16030,7 +16048,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 131097,
       "name": "THIS IS FOR",
       "url": "https://open.spotify.com/track/3598iBWrS4JhJqP5tHlpVK"
@@ -16866,7 +16884,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 186973,
       "name": "WE GO UP",
       "url": "https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl"
@@ -16884,7 +16902,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 186973,
       "name": "WE GO UP",
       "url": "https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z"
@@ -17000,7 +17018,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 208238,
       "name": "What is Love?",
       "url": "https://open.spotify.com/track/5Ek40FyMPprcvtyZDjqylX"
@@ -17018,7 +17036,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 208240,
       "name": "What is Love?",
       "url": "https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y"
@@ -17124,7 +17142,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-21",
+      "date_removed": null,
       "duration_ms": 194093,
       "name": "What You Want",
       "url": "https://open.spotify.com/track/3rAcN3CLeSrkhIZN8PHbwb"
@@ -20678,7 +20696,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 261000,
       "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
       "url": "https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh"
@@ -26912,7 +26930,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 209760,
       "name": "\u9047\u898b",
       "url": "https://open.spotify.com/track/3xJK8ywApYVEYIDhymYMC6"

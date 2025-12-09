@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sRMIzOmlb4.md) - [plain]
 
 > The biggest songs in Latin America in 2015\. Cover: Nicky Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,487 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,543 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sRMIzOmlb4.md) - [plain]
 | 21 | [Si Pudiera](https://open.spotify.com/track/5SqG2MEuRjwhxi1DcRR4V8) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 4:16 |
 | 22 | [La Mordidita \(feat\. Yotuel\)](https://open.spotify.com/track/00i0O74dXdaKKdCrqHnfXm) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [A Quien Quiera Escuchar \(Deluxe Edition\)](https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9) | 3:31 |
 | 23 | [Si No Te Quiere](https://open.spotify.com/track/5BHd0eLqg3c58QwyohoYga) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:46 |
-| 24 | [En Un Sólo Dia](https://open.spotify.com/track/2quYcQ34rPm5AtvpNCWDsg) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobre El Amor Y Sus Efectos Secundarios](https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz) | 3:22 |
-| 25 | [Sígueme Y Te Sigo](https://open.spotify.com/track/7F7kL3i6SDEIbDcoJZGiig) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Sígueme Y Te Sigo](https://open.spotify.com/album/0hi7qqQbGUV5Vm6OtUlE1J) | 3:29 |
+| 24 | [Sígueme Y Te Sigo](https://open.spotify.com/track/7F7kL3i6SDEIbDcoJZGiig) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Sígueme Y Te Sigo](https://open.spotify.com/album/0hi7qqQbGUV5Vm6OtUlE1J) | 3:29 |
+| 25 | [En Un Sólo Dia](https://open.spotify.com/track/2quYcQ34rPm5AtvpNCWDsg) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobre El Amor Y Sus Efectos Secundarios](https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz) | 3:22 |
 | 26 | [Picky](https://open.spotify.com/track/4tPL9PeVZY4c0jUPtSD5nx) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Picky Back To The Roots](https://open.spotify.com/album/5Y0jPLZZEf179dwwq4iEmN) | 3:02 |
 | 27 | [Me Voy Enamorando \- Remix](https://open.spotify.com/track/0SUukeNYkHMk8bxwgGQKJa) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arbise González](https://open.spotify.com/artist/15siq5yPjIUocpME8lz02m) | [Radio Universo](https://open.spotify.com/album/6JRDbgNUSL0I38UMocyBS1) | 3:35 |
-| 28 | [No soy una de esas \(feat\. Alejandro Sanz\)](https://open.spotify.com/track/3QjkcFDVHOB4Z43esP5A8N) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 3:30 |
-| 29 | [Nota de Amor \(feat\. Daddy Yankee\)](https://open.spotify.com/track/4YW2Fr25fHwUt6qgvM1iE1) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Los Vaqueros: La Trilogía](https://open.spotify.com/album/7vUJAdvDYXhjf1p0P2yIxh) | 3:52 |
+| 28 | [Nota de Amor \(feat\. Daddy Yankee\)](https://open.spotify.com/track/4YW2Fr25fHwUt6qgvM1iE1) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Los Vaqueros: La Trilogía](https://open.spotify.com/album/7vUJAdvDYXhjf1p0P2yIxh) | 3:52 |
+| 29 | [No soy una de esas \(feat\. Alejandro Sanz\)](https://open.spotify.com/track/3QjkcFDVHOB4Z43esP5A8N) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 3:30 |
 | 30 | [Pretextos \(feat\. Cosculluela\)](https://open.spotify.com/track/7HDOS7qOhBxmcsWTv29PSK) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:48 |
 | 31 | [Obsesionado](https://open.spotify.com/track/5Jt4zdXTd9y1zxihiNYQI1) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Visionary](https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX) | 3:31 |
 | 32 | [¿Cómo Pagarte?](https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:31 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sRMIzOmlb4.md) - [plain]
 | 47 | [Locuras contigo](https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [De Fiesta](https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf) | 2:11 |
 | 48 | [Nena](https://open.spotify.com/track/347TStOSY6IOqMB84Rpxwk) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Todo Comenzó Bailando](https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S) | 2:10 |
 | 49 | [Coincidir](https://open.spotify.com/track/2R4uUwgfrFjT1kMGcPq6mp) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Historias Tattooadas](https://open.spotify.com/album/0IySVSEp9VEDQMtaVd37HA) | 4:26 |
-| 50 | [Culpa al Corazón](https://open.spotify.com/track/0Kt035u0yJBkOnM1BYPpI6) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 3:42 |
+| 50 | [To My Love](https://open.spotify.com/track/6z1VtU0MCGo666iKiajfhp) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Amanecer](https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090) | 3:59 |
 
 Snapshot ID: `AAAAALyr1rZ4Cc69x7t3HCzcZt2HN6y1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 244 likes - 1,710 songs - 4 day 7 hr 56 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 244 likes - 1,711 songs - 4 day 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1718,5 +1718,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1708 | [Tu Silencio \- Remastered](https://open.spotify.com/track/19ROBN6XmatCMeqWpaAhJe) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Tu Silencio](https://open.spotify.com/album/1JmsZxCxmvPl4Kssr3kYr5) | 2:54 |
 | 1709 | [Humo](https://open.spotify.com/track/0i6gOreYdFC33MZyCEi8Td) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Humo](https://open.spotify.com/album/3Xn8L2YufyPCYxxv1L8Xwy) | 3:02 |
 | 1710 | [Algo Contigo](https://open.spotify.com/track/4dio9a7xk81pZX1WZuOh0J) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Algo Contigo](https://open.spotify.com/album/2PmZzeSRdNacwv3UjeLEBa) | 2:50 |
+| 1711 | [Snowlight Flow](https://open.spotify.com/track/7nYW3ZTYXEum4WFemqwzny) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Snowlight Flow](https://open.spotify.com/album/6WLJt8scSsjWpotB18RLkG) | 2:53 |
 
-Snapshot ID: `AAAHhmMvYtfOoDCIAwmuts3bVnzJEwIq`
+Snapshot ID: `AAAHhz4xQyxlPlC2/KlNYP29LTTh/TyG`

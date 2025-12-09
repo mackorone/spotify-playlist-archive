@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 
 > Groove to music from your Netflix Kids favorites! Cover: Spellbound
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,801 likes - 75 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,880 likes - 75 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

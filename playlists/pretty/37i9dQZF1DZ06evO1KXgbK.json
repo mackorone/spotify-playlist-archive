@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 254420,
+  "num_followers": 254412,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAABox/t1D+1bU2zn46s1D4sK",
+  "snapshot_id": "aTTDgAAAAAD7Gnuyv0hqoRu5kxeo/33f",
   "tracks": [
     {
       "added_at": null,
@@ -419,30 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trio II (2016 Remaster)",
-        "url": "https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 211586,
-      "name": "After the Gold Rush - 2015 Remaster",
-      "url": "https://open.spotify.com/track/22GKOoU7q9YGhaedUzhlpT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forever More (Love Songs, Hits & Duets)",
         "url": "https://open.spotify.com/album/6ZYynOoi9YEBlSCUPE5Dlg"
       },
@@ -479,6 +455,30 @@
       "duration_ms": 156160,
       "name": "The Last Thing On My Mind",
       "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trio II (2016 Remaster)",
+        "url": "https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 211586,
+      "name": "After the Gold Rush - 2015 Remaster",
+      "url": "https://open.spotify.com/track/22GKOoU7q9YGhaedUzhlpT"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Blue Ridge Mountain Boy",
-        "url": "https://open.spotify.com/album/54uwPrcHfWW7KVtZCfc6f7"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 170847,
-      "name": "In the Ghetto",
-      "url": "https://open.spotify.com/track/6GZ6O0bHsDndSAmqnxXMjn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Honky Tonk Angels",
         "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 138093,
       "name": "Lovesick Blues (with Patsy Cline)",
       "url": "https://open.spotify.com/track/4VX5F5jHoVO8g9SiEFzBTb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Blue Ridge Mountain Boy",
+        "url": "https://open.spotify.com/album/54uwPrcHfWW7KVtZCfc6f7"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 170847,
+      "name": "In the Ghetto",
+      "url": "https://open.spotify.com/track/6GZ6O0bHsDndSAmqnxXMjn"
     },
     {
       "added_at": null,
@@ -899,22 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If You Hadn\u2019t Been There",
-        "url": "https://open.spotify.com/album/2N09fTgE3daKnVujeFEyLD"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 208789,
-      "name": "If You Hadn\u2019t Been There",
-      "url": "https://open.spotify.com/track/5Tq0KrovwGWdApFORSRgN3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To All The Girls...",
         "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 241538,
       "name": "From Here to the Moon and Back (feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/1SG91Ocs6KjP8DQlPmITgU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If You Hadn\u2019t Been There",
+        "url": "https://open.spotify.com/album/2N09fTgE3daKnVujeFEyLD"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 208789,
+      "name": "If You Hadn\u2019t Been There",
+      "url": "https://open.spotify.com/track/5Tq0KrovwGWdApFORSRgN3"
     },
     {
       "added_at": null,

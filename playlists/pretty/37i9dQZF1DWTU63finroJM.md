@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Best of this year's RADAR class\. Cover: Gigi Perez
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,761 likes - 49 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,964 likes - 49 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 9 | [Echte Liefde Is Te Koop](https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop](https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR) | 2:32 |
 | 10 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
 | 11 | [IF I SAY, I LOVE YOU](https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [IF I SAY, I LOVE YOU](https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe) | 2:41 |
-| 12 | [MONEY \(feat\. Artie 5ive, Guè\)](https://open.spotify.com/track/3jkW1GQ8BYvue3Fh5Ec2bO) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [MONEY \(feat\. Artie 5ive, Guè\)](https://open.spotify.com/album/79UlYn63NrMs1CEvyN1zQS) | 3:29 |
-| 13 | [tâm trí lang thang](https://open.spotify.com/track/3W77mLoXjQEkNjxvYRifjG) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v) | [tâm trí lang thang](https://open.spotify.com/album/46Lf1gPNwYWk9eLS0vtzrc) | 3:57 |
+| 12 | [tâm trí lang thang](https://open.spotify.com/track/3W77mLoXjQEkNjxvYRifjG) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v) | [tâm trí lang thang](https://open.spotify.com/album/46Lf1gPNwYWk9eLS0vtzrc) | 3:57 |
+| 13 | [MONEY \(feat\. Artie 5ive, Guè\)](https://open.spotify.com/track/3jkW1GQ8BYvue3Fh5Ec2bO) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [MONEY \(feat\. Artie 5ive, Guè\)](https://open.spotify.com/album/79UlYn63NrMs1CEvyN1zQS) | 3:29 |
 | 14 | [So weit weg \(Molekül\)](https://open.spotify.com/track/159fuPmAvLhTE2YyDruzbP) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [So weit weg \(Molekül\)](https://open.spotify.com/album/1mhWLC9dyvkSkIJZPaEfsN) | 2:31 |
 | 15 | [Katakan Saja](https://open.spotify.com/track/3zZa1GXqVACm0gMxJxWmhZ) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Klise](https://open.spotify.com/album/3py2U2L6UzHMMEoVuu8cD6) | 3:56 |
 | 16 | [Quieres Autodestruirte Conmigo?](https://open.spotify.com/track/0ImJfk8NU4a1aMvclUyJT0) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [INFANCIA MAL CALIBRADA](https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1) | 3:07 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 33 | [Bila](https://open.spotify.com/track/3NoDf1xUib20i3OuyhW7Gp) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Cara Mencintai](https://open.spotify.com/album/7u5NCLGmm0CYfYA9XcGvZB) | 3:08 |
 | 34 | [No iPhone](https://open.spotify.com/track/38FBUVBFNken57Q25fQxPG) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [No iPhone](https://open.spotify.com/album/2U8fPsJLJGwykY38e1vfDG) | 2:16 |
 | 35 | [ดิ่งดาวน์ \(DOWN\)](https://open.spotify.com/track/4jhWTchEKltAokimVeYmL9) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [Angel Energy](https://open.spotify.com/album/2Rsqs9sglwPNsgP0pCJEnt) | 3:39 |
-| 36 | [When We Play](https://open.spotify.com/track/7bZzYTtOpjYtGi9fd4HFjc) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Xolani Guitars](https://open.spotify.com/artist/0fXj3KTK2tXbxUImfJEF9I) | [Gods window, Pt\. 1](https://open.spotify.com/album/2qDpWACZJ81rK6BJP8aoWD) | 8:33 |
-| 37 | [Feel Myself](https://open.spotify.com/track/6K3hoAk4h3m2y2sKh0LviZ) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 2:44 |
+| 36 | [Feel Myself](https://open.spotify.com/track/6K3hoAk4h3m2y2sKh0LviZ) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 2:44 |
+| 37 | [When We Play](https://open.spotify.com/track/7bZzYTtOpjYtGi9fd4HFjc) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Xolani Guitars](https://open.spotify.com/artist/0fXj3KTK2tXbxUImfJEF9I) | [Gods window, Pt\. 1](https://open.spotify.com/album/2qDpWACZJ81rK6BJP8aoWD) | 8:33 |
 | 38 | [Unknown Island](https://open.spotify.com/track/73r8oPLdOs4IzFpzoNyCVB) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Jupiter=](https://open.spotify.com/album/6ezMwJgOVFFHQYFy3YgZE2) | 4:16 |
 | 39 | [Malakas](https://open.spotify.com/track/5F2HTYUiHQIt4nVgsUwJaE) | [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [Malakas](https://open.spotify.com/album/3YwYxIwy1rItrhCOd56dW9) | 3:03 |
 | 40 | [BLACK N’ WHITE](https://open.spotify.com/track/463Qg3HAd8KjE1YrSHgm6X) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [BLACK N’ WHITE](https://open.spotify.com/album/5RgURAiikPG10alZtMwltX) | 3:16 |

@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-57 songs - 3 hr 31 min
+59 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,8 +18,10 @@
 | [Cherry Lipgloss](https://open.spotify.com/track/2RFrSB9j4Bijrz4YWiZWM3) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [SHY2K](https://open.spotify.com/album/5idFFAYK8aZ15scmZFtk9n) | 2:03 | 2025-11-17 | 2025-12-07 |
 | [Collide](https://open.spotify.com/track/4B0eMfnkjkpxoLaT5FCBCV) | [Moni Blue](https://open.spotify.com/artist/42Bo1OzDnIhT4uHboVPDz5) | [Collide](https://open.spotify.com/album/4xMd7ls1h0XjKzdev47H1h) | 3:08 | 2025-11-19 |  |
 | [Dakota](https://open.spotify.com/track/3qaSqrrevBrb84xl5JlptU) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Language.Sex.Violence.Other?](https://open.spotify.com/album/1DwcGY8AK9RS0IgmozyvyP) | 4:57 | 2021-03-29 |  |
+| [Diamond Heart](https://open.spotify.com/track/37KoS6sJSBBMFa5trmgnAB) | [Savannah Strand](https://open.spotify.com/artist/68FlWXB4GVJsD920sPw1Lv) | [Diamond Heart](https://open.spotify.com/album/4ujXStmyOUakTcn9XlXUVp) | 2:55 | 2025-12-08 |  |
 | [Distorted Light Beam](https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Distorted Light Beam](https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz) | 2:57 | 2021-07-26 |  |
 | [Don't Speak](https://open.spotify.com/track/6JGQ98So2ik5GVI9ydQ2Yh) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Singles Collection](https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2) | 4:22 | 2021-03-29 |  |
+| [DREAMPRINT](https://open.spotify.com/track/2zTYEsdtL8NBfuSFRXEX3h) | [NAMUT](https://open.spotify.com/artist/1kTGu1IKWqHRaCxx3RpzyH), [JULYX](https://open.spotify.com/artist/1uXd5rYQ8uoTxNEfwuvZX0) | [DREAMPRINT](https://open.spotify.com/album/0ishP3v2Lf1U7q7TFpD8jb) | 2:09 | 2025-12-08 |  |
 | [Dreams](https://open.spotify.com/track/2A94cKnGgmODcH9cQzoDoX) | [souhl](https://open.spotify.com/artist/4Ee5YS1tbDJz20cJocxN6y) | [Dreams](https://open.spotify.com/album/3h8Jt6ybUgccyBY0rSTC8J) | 3:28 | 2025-11-10 | 2025-11-27 |
 | [Endless Time](https://open.spotify.com/track/7iboyR2F62rpNt6hX4Z8Dq) | [Reminiscence](https://open.spotify.com/artist/2Mcl7mXh5xTr0cD3vmI0l0) | [Endless and Free](https://open.spotify.com/album/1pXbNpKvgqUtX924js0vhx) | 2:43 | 2025-11-13 | 2025-12-03 |
 | [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 6:12 | 2021-03-29 |  |

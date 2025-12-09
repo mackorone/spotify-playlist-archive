@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari con Manuel Turizo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,180,291 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,180,192 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 62 | [Café Con Canela](https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 4:18 |
 | 63 | [The Heaven](https://open.spotify.com/track/0dUEH1E7yUrXar2UZEERrg) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 2:52 |
 | 64 | [Emocionado](https://open.spotify.com/track/60hOEfoUTcFgStA5zRptSz) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Emocionado](https://open.spotify.com/album/7q8ymdQDmmTyEtDicLUL4b) | 3:24 |
-| 65 | [Vuela Alto](https://open.spotify.com/track/3k1c9kbmwpOcZGThO2grO7) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Vuela Alto](https://open.spotify.com/album/4mMY9nRV4r91O5yt3j7i44) | 3:47 |
+| 65 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 |
 | 66 | [Parece](https://open.spotify.com/track/3YuvAWG5bmTT0Uab0TrFWu) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:38 |
-| 67 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 |
+| 67 | [Vuela Alto](https://open.spotify.com/track/3k1c9kbmwpOcZGThO2grO7) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Vuela Alto](https://open.spotify.com/album/4mMY9nRV4r91O5yt3j7i44) | 3:47 |
 | 68 | [Bonito y Cruel](https://open.spotify.com/track/4KfIkIkLW0yAHff0o3oodx) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Oto Beats](https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68) | [Bonito y Cruel](https://open.spotify.com/album/2f3XnCTwhab107XAx7slip) | 3:40 |
 | 69 | [7 Vidas](https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS) | [La Zimbabwe](https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc), [Son del Arroyo](https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se) | [7 Vidas](https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B) | 3:21 |
 | 70 | [Mundo de Cristal](https://open.spotify.com/track/7MnI59X5e5oV3LqM0EjZ8d) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mundo de Cristal](https://open.spotify.com/album/1XpK1Zt3D6SLvFafcrlqGL) | 3:30 |
@@ -101,9 +101,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 91 | [Si Tú Me Quieres](https://open.spotify.com/track/1aGrwoxshC9Bfblm67C5oQ) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Si Tú Me Quieres](https://open.spotify.com/album/6Dwm2KnliEQQuefTWJnBnm) | 4:08 |
 | 92 | [Besos Para Ti](https://open.spotify.com/track/0AM2PfqCT9Qj7B47Zld57W) | [Los Afro Brothers](https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq) | [Dejando Huella](https://open.spotify.com/album/7EqfRs662QaBqWfpqYiWYa) | 3:03 |
 | 93 | [Hasta Que Me Olvides](https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Hasta Que Me Olvides](https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j) | 4:15 |
-| 94 | [Lo que piensen de mi](https://open.spotify.com/track/5rcTB3yayyjw5I1ZhpLHkp) | [Mistah Godeh](https://open.spotify.com/artist/5HM6HBJLoQMwsZCEC5Uu8L), [Andy Frenx](https://open.spotify.com/artist/34pd6mO7aMX2ty89nVgHIi), [Di BassBoss Musik](https://open.spotify.com/artist/0gBCxRx0JT3CtkD2UkMRqN) | [Lo que piensen de mi](https://open.spotify.com/album/6IVbC1LTF7lGNyVBNXdJkF) | 3:26 |
+| 94 | [Uma Brasileira](https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Uma Brasileira](https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC) | 3:18 |
 | 95 | [Long Time Ago](https://open.spotify.com/track/7lyuYzBOtv2lhark08WlTw) | [John Pollõn](https://open.spotify.com/artist/4fJie9zmEW6VmFoQKrx4Lh), [Lander](https://open.spotify.com/artist/5Uv7k7IyfKhzYmfJF56QhE) | [Long Time Ago](https://open.spotify.com/album/3qoUdqO3KEgw5hoEAWIsPv) | 2:11 |
-| 96 | [Uma Brasileira](https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Uma Brasileira](https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC) | 3:18 |
+| 96 | [Lo que piensen de mi](https://open.spotify.com/track/5rcTB3yayyjw5I1ZhpLHkp) | [Mistah Godeh](https://open.spotify.com/artist/5HM6HBJLoQMwsZCEC5Uu8L), [Andy Frenx](https://open.spotify.com/artist/34pd6mO7aMX2ty89nVgHIi), [Di BassBoss Musik](https://open.spotify.com/artist/0gBCxRx0JT3CtkD2UkMRqN) | [Lo que piensen de mi](https://open.spotify.com/album/6IVbC1LTF7lGNyVBNXdJkF) | 3:26 |
 | 97 | [Como Un Volcán](https://open.spotify.com/track/7pN9P2xuvVS9l08w88Abhi) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Como Un Volcán](https://open.spotify.com/album/1ThXyFQMc4fIwGRMSCwOBL) | 3:47 |
 | 98 | [Llegaste Tú](https://open.spotify.com/track/7zgHeKcJbwEPM9t4dyfykl) | [Los Afro Brothers](https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq) | [Baile de Miradas](https://open.spotify.com/album/7zmGLX2n4p6lch8AJyAJTu) | 3:37 |
 | 99 | [La Playa](https://open.spotify.com/track/0VFp2NOB2gUYtD1raVIFir) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [La Playa](https://open.spotify.com/album/0LZXfPCtqnaP9y4KsOMSWV) | 3:16 |

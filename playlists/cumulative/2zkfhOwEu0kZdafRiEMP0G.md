@@ -4,7 +4,7 @@
 
 > 
 
-62 songs - 4 hr 13 min
+63 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Fuck Tha Police](https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7) | [N.W.A.](https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay) | [Straight Outta Compton](https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW) | 5:45 | 2025-07-25 | 2025-10-23 |
 | [Gethsemane](https://open.spotify.com/track/29JLgNBcOky7QB68OrvYxO) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 6:23 | 2025-05-17 |  |
 | [Guns and Ships](https://open.spotify.com/track/7m9XR7FquXLP1FewdAcNS9) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 2:07 | 2025-10-27 | 2025-11-08 |
+| [Helpless](https://open.spotify.com/track/54Sc7mZQ1RM03STpk4SfaA) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 4:09 | 2025-12-08 |  |
 | [Her Embrace](https://open.spotify.com/track/1wIzJvTTrg1LhuYR54BQ4y) | [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [In The Light Ensemble](https://open.spotify.com/artist/1WD3T0MmoymGX68JUOZUaD) | [In the Light: A Faustian Tale \(Highlights from the World Premiere Studio Cast Recording\)](https://open.spotify.com/album/4HtJ1YiZQlLUtmRaOJj11N) | 3:35 | 2025-10-26 |  |
 | [Hold On Till May](https://open.spotify.com/track/5u2FOoFhp495GIj5BJC77J) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Lindsey Stamey](https://open.spotify.com/artist/7lbX2TQTHawmdlhNuXDzHs) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 4:38 | 2025-07-13 |  |
 | [Hold Them Down](https://open.spotify.com/track/3lIgiul24q1uwE8l928s0w) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Ayron Alexander](https://open.spotify.com/artist/69ZOltPRsF5iPkicJQMRZ9), [Cast of EPIC: The Musical](https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5) | [EPIC: The Ithaca Saga \(Official Concept Album\)](https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU) | 3:03 | 2025-10-21 |  |

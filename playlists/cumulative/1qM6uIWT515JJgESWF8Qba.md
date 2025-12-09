@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-77 songs - 4 hr 40 min
+79 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Fugaz](https://open.spotify.com/track/3dzGcbIkdeQqwbHCOnv4h5) | [Lirium](https://open.spotify.com/artist/0A5pTrUZAtZ9tl2TSySp3d) | [Fugaz](https://open.spotify.com/album/5ZprKugGTao6b6K1EnF84S) | 5:19 | 2025-11-06 |  |
 | [GAMEOVER](https://open.spotify.com/track/13B4x0OnPzcjiQ5LbjZIfo) | [Esto](https://open.spotify.com/artist/5cmFrTgCBXRON8kjkHUZE3) | [Houseless](https://open.spotify.com/album/6tmGczmutrm2vYRt4y7lvB) | 4:02 | 2025-10-27 |  |
 | [Graduation](https://open.spotify.com/track/0DVsB3C8e43uoFwjXJQCda) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:02 | 2025-11-20 |  |
+| [Gullible](https://open.spotify.com/track/6YPvJW4uHwCQxqfAf1y7yT) | [Rivera](https://open.spotify.com/artist/0o3CCG8AUPD5NwZb0hqDOX) | [Gullible](https://open.spotify.com/album/19dtDjcnes6R1Ohg2tvH2a) | 3:58 | 2025-12-08 |  |
 | [Home](https://open.spotify.com/track/2ewAqvToFML0QngPp767r4) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 7:45 | 2025-11-29 |  |
 | [Hope](https://open.spotify.com/track/3QoJWyJeVXM0xZMTYvjQ6J) | [Afonso](https://open.spotify.com/artist/01H25BZ63LTbniabPgRvx3) | [Hope](https://open.spotify.com/album/6mRKfh7DZuRFCOnIvSojiy) | 3:48 | 2025-10-10 |  |
 | [I'm A Shooter](https://open.spotify.com/track/6e20H9h5Sq5mJ3IHxsF1GW) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Ribcrasher](https://open.spotify.com/album/1p1VeLJoQlDKiK1X90QCHK) | 4:26 | 2025-09-23 |  |
@@ -82,6 +83,7 @@
 | [tried](https://open.spotify.com/track/4tpbidJIGZLC0aAEC6odzb) | [Shunk](https://open.spotify.com/artist/359TdwOBcq9EK1vT8IuQ5J) | [tried](https://open.spotify.com/album/462ANaG1kidEM2E9L9JbzK) | 4:17 | 2025-11-11 |  |
 | [Tutorial](https://open.spotify.com/track/47B3frEw513yOcHQszXEqi) | [Lapsus Planck](https://open.spotify.com/artist/4WOU1o49ftt4wBvNmDXvp0) | [VADO PERMANENTE](https://open.spotify.com/album/5dCYBocsu4n4TQ0UIUHqjP) | 2:58 | 2025-11-07 |  |
 | [Una nana](https://open.spotify.com/track/6HbrzgWazWzGxPkXtr11cC) | [Micky Stoner](https://open.spotify.com/artist/4UbGXsrlzP67mhetOXQQ3H) | [Una nana](https://open.spotify.com/album/6ykwbNyEYxjqLXt8C2bTgE) | 3:52 | 2025-11-26 |  |
+| [White Devil](https://open.spotify.com/track/2FOLmxfAX5oQiOYanJccZ0) | [Until They Burn Me](https://open.spotify.com/artist/3Zis2Av9VCMKGso58CsrgH) | [A Carnival of Reveries](https://open.spotify.com/album/3PEtGxaEPDtWziE2OUrd6G) | 4:42 | 2025-12-08 |  |
 | [Wild In The CIty](https://open.spotify.com/track/6UJ7Tx50w0VwQc8GFM1Ghw) | [Nitrate](https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8) | [Feel The Heat](https://open.spotify.com/album/1XYLHUy8YpqocGfm14fzyJ) | 4:49 | 2025-10-13 |  |
 | [Wolfman](https://open.spotify.com/track/335KIfI6iRzLsdHTi1PSMc) | [Matt Malone & The Holy Spirits](https://open.spotify.com/artist/24uJIeIX3E40nyx51WZO9M) | [Wolfman](https://open.spotify.com/album/1CpD6xutceVgnNhxK2aW5E) | 3:20 | 2025-11-02 |  |
 | [Your Way](https://open.spotify.com/track/4QSLf4BxEwJw9T2OyKzAZc) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Your Way](https://open.spotify.com/album/6M71haNo2UkinTsC27uRAn) | 2:56 | 2025-11-02 | 2025-11-21 |

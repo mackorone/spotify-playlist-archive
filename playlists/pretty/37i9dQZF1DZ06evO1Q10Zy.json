@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 38133,
+  "num_followers": 38142,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAABqgVuTgERZ+noPQbHHYIID",
+  "snapshot_id": "aTTDgAAAAABCFClWcBXsNxZAvy2V0ekj",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Babyface Unplugged NYC 1997",
-        "url": "https://open.spotify.com/album/6mREwcBMN0h6bNLAyEZtEs"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 305426,
-      "name": "I Care About You",
-      "url": "https://open.spotify.com/track/0u5NhbNEcSxSA5wjmOfJyq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Day",
         "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 245373,
       "name": "I Said I Love You",
       "url": "https://open.spotify.com/track/3psQ66oTuTZrDeixYxZclj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Babyface Unplugged NYC 1997",
+        "url": "https://open.spotify.com/album/6mREwcBMN0h6bNLAyEZtEs"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 305426,
+      "name": "I Care About You",
+      "url": "https://open.spotify.com/track/0u5NhbNEcSxSA5wjmOfJyq"
     },
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "What If - Urban Mix",
+      "url": "https://open.spotify.com/track/4AFhkn04YASMuvUxVMJKmW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Girls Night Out",
         "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 151577,
       "name": "Simple (with Coco Jones)",
       "url": "https://open.spotify.com/track/7uCtRKlnqNET1ohX7xzU7j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "What If - Urban Mix",
-      "url": "https://open.spotify.com/track/4AFhkn04YASMuvUxVMJKmW"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reason For Breathing",
-        "url": "https://open.spotify.com/album/2J1pVoU61Jii9EIkX8gJ4Q"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 342800,
-      "name": "Reason for Breathing - Album Edit",
-      "url": "https://open.spotify.com/track/5388TmolaMEmwFmkII7pdL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 215466,
       "name": "Stressed Out",
       "url": "https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reason For Breathing",
+        "url": "https://open.spotify.com/album/2J1pVoU61Jii9EIkX8gJ4Q"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 342800,
+      "name": "Reason for Breathing - Album Edit",
+      "url": "https://open.spotify.com/track/5388TmolaMEmwFmkII7pdL"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 293733,
-      "name": "For The Cool In You",
-      "url": "https://open.spotify.com/track/6kn5z6hltWF6C9rItSvAzA"
+      "duration_ms": 342360,
+      "name": "And Our Feelings",
+      "url": "https://open.spotify.com/track/27sYHmgfRvHFyQ5vrm5nQp"
     },
     {
       "added_at": null,
@@ -744,9 +744,25 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 342360,
-      "name": "And Our Feelings",
-      "url": "https://open.spotify.com/track/27sYHmgfRvHFyQ5vrm5nQp"
+      "duration_ms": 293733,
+      "name": "For The Cool In You",
+      "url": "https://open.spotify.com/track/6kn5z6hltWF6C9rItSvAzA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grown & Sexy",
+        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 276560,
+      "name": "The Loneliness",
+      "url": "https://open.spotify.com/track/19i9vT76D5UCM5GyHe7FcW"
     },
     {
       "added_at": null,
@@ -787,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grown & Sexy",
-        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 276560,
-      "name": "The Loneliness",
-      "url": "https://open.spotify.com/track/19i9vT76D5UCM5GyHe7FcW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Stoppin' Us",
         "url": "https://open.spotify.com/album/5jB7iZh1HNrQzgWajInSJm"
       },
@@ -827,6 +827,22 @@
       "duration_ms": 179700,
       "name": "No Stoppin' Us",
       "url": "https://open.spotify.com/track/4THDqloteA7XDcUicyhcvm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grown & Sexy",
+        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 243400,
+      "name": "Grown & Sexy",
+      "url": "https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY"
     },
     {
       "added_at": null,
@@ -863,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grown & Sexy",
-        "url": "https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 243400,
-      "name": "Grown & Sexy",
-      "url": "https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Closer Look",
         "url": "https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT"
       },
@@ -891,22 +891,6 @@
       "duration_ms": 352866,
       "name": "Two Occasions (Live) - Live Version",
       "url": "https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Return Of The Tender Lover",
-        "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 285760,
-      "name": "Standing Ovation",
-      "url": "https://open.spotify.com/track/2s8808a3WKmshVjkhtiL7c"
     },
     {
       "added_at": null,
@@ -927,6 +911,22 @@
       "duration_ms": 195097,
       "name": "Seamless (with Kehlani)",
       "url": "https://open.spotify.com/track/6KSlgWFkrNu4r1z0GxZvyB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Return Of The Tender Lover",
+        "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 285760,
+      "name": "Standing Ovation",
+      "url": "https://open.spotify.com/track/2s8808a3WKmshVjkhtiL7c"
     },
     {
       "added_at": null,

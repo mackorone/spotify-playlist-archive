@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 
 > 
 
-[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 48 songs - 3 hr 22 min
+[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 49 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,6 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 | 46 | [Fish and Chips](https://open.spotify.com/track/1qKkiLxCfNwOLeQ5XS1rHA) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn), [Leo P](https://open.spotify.com/artist/12lHwk1GMNxnZF6pUMC4Sc) | [Go Time: Brooklyn 2](https://open.spotify.com/album/2JXQkc6uFrKMek2Uly0Ma3) | 5:39 |
 | 47 | [I Am a Jedi](https://open.spotify.com/track/2U0sNA99tgmDUxDvnukqJT) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [I Am a Jedi](https://open.spotify.com/album/3T9U4Po9LYbShRBuEECFdL) | 2:15 |
 | 48 | [Who Lives, Who Dies, Who Tells Your Story](https://open.spotify.com/track/7EsSVPxaYoAZjQwhspJBs2) | [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 3:37 |
+| 49 | [Helpless](https://open.spotify.com/track/54Sc7mZQ1RM03STpk4SfaA) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 4:09 |
 
-Snapshot ID: `AAAGX/IuARpJjivDZmHUgfg7InHU4P17`
+Snapshot ID: `AAAGYVnFJUxGkoRoIHyAu+e1juiXjX+g`

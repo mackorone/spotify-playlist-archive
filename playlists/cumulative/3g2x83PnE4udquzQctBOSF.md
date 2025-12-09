@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-422 songs - 1 day 1 hr 7 min
+423 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [VIP Section](https://open.spotify.com/track/2fRPAxlfizmSKUwfGZZjNk) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [VIP Section](https://open.spotify.com/album/0T0imnIgVVMxIMJnAvJk5f) | 3:26 | 2023-03-05 | 2023-03-27 |
 | [Wait A Minute](https://open.spotify.com/track/0UAK0qiRTIPUnMzjwKk2PF) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Wait A Minute](https://open.spotify.com/album/7bEV9C1I27kJqPO53JqTBP) | 3:22 | 2023-02-12 | 2023-03-20 |
 | [Walkin'](https://open.spotify.com/track/0lNn6sOzm96BzweoCGl6mG) | [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K) | [Walkin'](https://open.spotify.com/album/2XuVJHfP5vUymaowjgVBZe) | 2:44 | 2023-08-13 | 2023-09-26 |
+| [WAVE](https://open.spotify.com/track/1HfCrWjGaZYH82TBn2Cf9l) | [BONNY](https://open.spotify.com/artist/4Dp8I20ZkkotYV9BAeAu9G) | [WAVE](https://open.spotify.com/album/3JMG4h0VmnRypexYhaUSk1) | 5:00 | 2025-12-08 |  |
 | [Way Back](https://open.spotify.com/track/1Q1clcocESI1KAgIQ638lS) | [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk), [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [Way Back](https://open.spotify.com/album/76ZIraomSbcDfmAdaJqNa5) | 2:45 | 2023-11-26 | 2024-01-15 |
 | [We Groovin \(with Jazzy\) \- Shermanology Remix](https://open.spotify.com/track/7erTn3eeUxPzlkiThXkevf) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [We Groovin \(with Jazzy\) \[Shermanology Remix\]](https://open.spotify.com/album/3vFN9Zi54TTXRBRvyTfg4T) | 3:12 | 2024-05-19 | 2024-07-08 |
 | [Weeping Willow](https://open.spotify.com/track/6yYzEgqwB9rIXKZzEOjBiT) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Weeping Willow](https://open.spotify.com/album/474PPVNNsWQ5ae9iilffbD) | 3:35 | 2023-11-05 | 2024-01-15 |

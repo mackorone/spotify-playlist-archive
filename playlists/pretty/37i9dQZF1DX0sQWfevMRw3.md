@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > 🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,819 likes - 169 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,818 likes - 169 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kaster Penger](https://open.spotify.com/track/0fHZ6nPa8xsN2hbJRLjs64) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Kaster Penger](https://open.spotify.com/album/6wG3xK0qg4Q1qOU2wpabVN) | 1:54 |
+| 1 | [Saknar inte dig](https://open.spotify.com/track/5qkV6nAkuHJMoRWgrKYRyq) | [SNØ](https://open.spotify.com/artist/121fhWsV0cLJ8VXvUZ1zU7), [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h) | [Saknar inte dig](https://open.spotify.com/album/41ayJRq60gfUmzXiixarjB) | 2:57 |
 | 2 | [SPELMANSLAG](https://open.spotify.com/track/6Tk1xbCBSG0i6gW9L4NaPk) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [SPELMANSLAG](https://open.spotify.com/album/5cAO2cDXZhGxOo3W9AL02J) | 2:01 |
 | 3 | [SOS \(feat\. LOAM\)](https://open.spotify.com/track/6vE2RZwkgeZyzyGZvCWKiR) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG), [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [SOS \(feat\. LOAM\)](https://open.spotify.com/album/3LLbyOG8dMwkNabpuaN6vT) | 2:26 |
-| 4 | [Saknar inte dig](https://open.spotify.com/track/5qkV6nAkuHJMoRWgrKYRyq) | [SNØ](https://open.spotify.com/artist/121fhWsV0cLJ8VXvUZ1zU7), [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h) | [Saknar inte dig](https://open.spotify.com/album/41ayJRq60gfUmzXiixarjB) | 2:57 |
+| 4 | [Kaster Penger](https://open.spotify.com/track/0fHZ6nPa8xsN2hbJRLjs64) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Kaster Penger](https://open.spotify.com/album/6wG3xK0qg4Q1qOU2wpabVN) | 1:54 |
 | 5 | [UNGA I KVÄLL](https://open.spotify.com/track/34k8eZfhDDXuNimjjiO0lA) | [BAKI$](https://open.spotify.com/artist/5Cbn1PScGFcG2PlibZY65u) | [UNGA I KVÄLL](https://open.spotify.com/album/1TFpBPxP19jxDffaK0e3t0) | 2:20 |
 | 6 | [MER JUL](https://open.spotify.com/track/6tcKK7eoOISx1sIKVlAdDP) | [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z) | [MER JUL](https://open.spotify.com/album/2tH3N1StaBtdBmfKTNKcgg) | 1:57 |
 | 7 | [Here We Go Again \(Feat\. Tigergutt101\)](https://open.spotify.com/track/55VKp3wMGqYOUaaRqH6RdR) | [Von Disco](https://open.spotify.com/artist/4x7WacYjAU6XQpeDHmNxhv), [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Here We Go Again \(Feat\. Tigergutt101\)](https://open.spotify.com/album/47HlOxbY4afPIy9AcI810i) | 2:12 |
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 168 | [113](https://open.spotify.com/track/0Vec54m9ABwhKGVHG5rkQF) | [Drittsekk](https://open.spotify.com/artist/2AWNiSdDhYAqQDpRvtfLtM), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Richie Holm](https://open.spotify.com/artist/6extXLs8CgAuChKJuMaFyt) | [113](https://open.spotify.com/album/4O6efjOGwx7nhYQ5KPJKfK) | 2:01 |
 | 169 | [E45](https://open.spotify.com/track/3Q9oHOl5jdRAwHA2qGh12L) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [E45](https://open.spotify.com/album/6j1gOicypIIjqglYLP1T6f) | 2:16 |
 
-Snapshot ID: `AAAAABsr1Ism4x7cHMfTzHBP3eORYEic`
+Snapshot ID: `AAAAANLW3XwFGER87Adbutr6QzoXjTTT`

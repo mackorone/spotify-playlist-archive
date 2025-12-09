@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 70824,
+  "num_followers": 70856,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2025-11-21 03:00:36",
       "album": {
+        "name": "Ritual De Los Pericos",
+        "url": "https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 234733,
+      "name": "Pupilas Lejanas",
+      "url": "https://open.spotify.com/track/0VZ2rAa5ceRaMPMufTVmqd"
+    },
+    {
+      "added_at": "2025-11-21 03:00:36",
+      "album": {
         "name": "Loco Por Volverla a Ver",
         "url": "https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 272189,
       "name": "Loco Por Volverla a Ver",
       "url": "https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ"
-    },
-    {
-      "added_at": "2025-11-21 03:00:36",
-      "album": {
-        "name": "Ritual De Los Pericos",
-        "url": "https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 234733,
-      "name": "Pupilas Lejanas",
-      "url": "https://open.spotify.com/track/0VZ2rAa5ceRaMPMufTVmqd"
     },
     {
       "added_at": "2025-11-21 03:00:36",
@@ -511,6 +511,26 @@
     {
       "added_at": "2025-11-21 03:00:36",
       "album": {
+        "name": "3000 Vivos (En Vivo)",
+        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        },
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "duration_ms": 269013,
+      "name": "Waitin (En Vivo) (feat. MAGIC!)",
+      "url": "https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH"
+    },
+    {
+      "added_at": "2025-11-21 03:00:36",
+      "album": {
         "name": "Bahiano BH+",
         "url": "https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj"
       },
@@ -523,22 +543,6 @@
       "duration_ms": 188933,
       "name": "Oyelo",
       "url": "https://open.spotify.com/track/4MI8GKRUQ14JrZuZGW0Uiy"
-    },
-    {
-      "added_at": "2025-11-21 03:00:36",
-      "album": {
-        "name": "Donde Brilla el Sol",
-        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
-      },
-      "artists": [
-        {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
-        }
-      ],
-      "duration_ms": 248093,
-      "name": "En Tus Manos",
-      "url": "https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr"
     },
     {
       "added_at": "2025-11-21 03:00:36",
@@ -559,22 +563,18 @@
     {
       "added_at": "2025-11-21 03:00:36",
       "album": {
-        "name": "3000 Vivos (En Vivo)",
-        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
+        "name": "Donde Brilla el Sol",
+        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
       },
       "artists": [
         {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        },
-        {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
         }
       ],
-      "duration_ms": 269013,
-      "name": "Waitin (En Vivo) (feat. MAGIC!)",
-      "url": "https://open.spotify.com/track/2wwp7vBI2TUGhIbwa3GBSH"
+      "duration_ms": 248093,
+      "name": "En Tus Manos",
+      "url": "https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr"
     },
     {
       "added_at": "2025-11-21 03:00:36",
@@ -627,26 +627,6 @@
     {
       "added_at": "2025-11-21 03:00:36",
       "album": {
-        "name": "7 Vidas",
-        "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
-      },
-      "artists": [
-        {
-          "name": "La Zimbabwe",
-          "url": "https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc"
-        },
-        {
-          "name": "Son del Arroyo",
-          "url": "https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se"
-        }
-      ],
-      "duration_ms": 201347,
-      "name": "7 Vidas",
-      "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
-    },
-    {
-      "added_at": "2025-11-21 03:00:36",
-      "album": {
         "name": "Inmortal",
         "url": "https://open.spotify.com/album/2rwM15WeZLvxQL5r974CSX"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 231294,
       "name": "Inmortal",
       "url": "https://open.spotify.com/track/6WbGHInGORCidaQqH2wenx"
+    },
+    {
+      "added_at": "2025-11-21 03:00:36",
+      "album": {
+        "name": "7 Vidas",
+        "url": "https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B"
+      },
+      "artists": [
+        {
+          "name": "La Zimbabwe",
+          "url": "https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc"
+        },
+        {
+          "name": "Son del Arroyo",
+          "url": "https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se"
+        }
+      ],
+      "duration_ms": 201347,
+      "name": "7 Vidas",
+      "url": "https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS"
     },
     {
       "added_at": "2025-11-21 03:00:36",
@@ -735,6 +735,22 @@
       "duration_ms": 357533,
       "name": "Andei S\u00f3",
       "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
+    },
+    {
+      "added_at": "2025-11-21 03:00:36",
+      "album": {
+        "name": "3000 Vivos (En Vivo)",
+        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 240144,
+      "name": "Pupilas Lejanas (En Vivo)",
+      "url": "https://open.spotify.com/track/3b355y8meUI0ok4bhu9OpI"
     },
     {
       "added_at": "2025-11-21 03:00:36",
@@ -827,22 +843,6 @@
     {
       "added_at": "2025-11-21 03:00:36",
       "album": {
-        "name": "3000 Vivos (En Vivo)",
-        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 240144,
-      "name": "Pupilas Lejanas (En Vivo)",
-      "url": "https://open.spotify.com/track/3b355y8meUI0ok4bhu9OpI"
-    },
-    {
-      "added_at": "2025-11-21 03:00:36",
-      "album": {
         "name": "La Tierra del Desencanto",
         "url": "https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 249542,
       "name": "La Tierra del Desencanto",
       "url": "https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc"
+    },
+    {
+      "added_at": "2025-11-21 03:00:36",
+      "album": {
+        "name": "3000 Vivos (En Vivo)",
+        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 247941,
+      "name": "Runaway (En Vivo)",
+      "url": "https://open.spotify.com/track/2PMSOgAP1A2TYbRqGCS9ak"
     },
     {
       "added_at": "2025-11-21 03:00:36",
@@ -987,38 +1003,6 @@
     {
       "added_at": "2025-11-21 03:00:36",
       "album": {
-        "name": "3000 Vivos (En Vivo)",
-        "url": "https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 247941,
-      "name": "Runaway (En Vivo)",
-      "url": "https://open.spotify.com/track/2PMSOgAP1A2TYbRqGCS9ak"
-    },
-    {
-      "added_at": "2025-11-21 03:00:36",
-      "album": {
-        "name": "Runfla Calavera",
-        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "D\u00e9jalo Fluir",
-      "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
-    },
-    {
-      "added_at": "2025-11-21 03:00:36",
-      "album": {
         "name": "The Lady in Red",
         "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2025-11-21 03:00:36",
       "album": {
-        "name": "Si no Regreso",
-        "url": "https://open.spotify.com/album/4Ltcj9JgzrISmo2GXUjpwY"
+        "name": "Runfla Calavera",
+        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
       },
       "artists": [
         {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
         }
       ],
-      "duration_ms": 178953,
-      "name": "Si no Regreso",
-      "url": "https://open.spotify.com/track/45VdxLNKgVwkF9gVbKcPED"
+      "duration_ms": 205480,
+      "name": "D\u00e9jalo Fluir",
+      "url": "https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA"
     },
     {
       "added_at": "2025-11-21 03:00:36",
@@ -1107,22 +1091,18 @@
     {
       "added_at": "2025-11-21 03:00:36",
       "album": {
-        "name": "Si T\u00fa No Est\u00e1s",
-        "url": "https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi"
+        "name": "Turbulencia o Paz",
+        "url": "https://open.spotify.com/album/49lFuZH1GlMP7jutMQ0hfi"
       },
       "artists": [
         {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        },
-        {
-          "name": "E.N Young",
-          "url": "https://open.spotify.com/artist/14vjE0DKC1Y9G1WfdCSzFf"
+          "name": "MAMA GAIA",
+          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
         }
       ],
-      "duration_ms": 190660,
-      "name": "Si T\u00fa No Est\u00e1s",
-      "url": "https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme"
+      "duration_ms": 203889,
+      "name": "Turbulencia o Paz",
+      "url": "https://open.spotify.com/track/7ezZxJC2I9tMPY791GcRKZ"
     },
     {
       "added_at": "2025-11-21 03:00:36",
@@ -1143,18 +1123,38 @@
     {
       "added_at": "2025-11-21 03:00:36",
       "album": {
-        "name": "Turbulencia o Paz",
-        "url": "https://open.spotify.com/album/49lFuZH1GlMP7jutMQ0hfi"
+        "name": "Si no Regreso",
+        "url": "https://open.spotify.com/album/4Ltcj9JgzrISmo2GXUjpwY"
       },
       "artists": [
         {
-          "name": "MAMA GAIA",
-          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
         }
       ],
-      "duration_ms": 203889,
-      "name": "Turbulencia o Paz",
-      "url": "https://open.spotify.com/track/7ezZxJC2I9tMPY791GcRKZ"
+      "duration_ms": 178953,
+      "name": "Si no Regreso",
+      "url": "https://open.spotify.com/track/45VdxLNKgVwkF9gVbKcPED"
+    },
+    {
+      "added_at": "2025-11-21 03:00:36",
+      "album": {
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        },
+        {
+          "name": "E.N Young",
+          "url": "https://open.spotify.com/artist/14vjE0DKC1Y9G1WfdCSzFf"
+        }
+      ],
+      "duration_ms": 190660,
+      "name": "Si T\u00fa No Est\u00e1s",
+      "url": "https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme"
     },
     {
       "added_at": "2025-11-21 03:00:36",
@@ -1187,22 +1187,6 @@
       "duration_ms": 265216,
       "name": "Este Mundo",
       "url": "https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo"
-    },
-    {
-      "added_at": "2025-11-21 03:00:36",
-      "album": {
-        "name": "Runfla Calavera",
-        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 230986,
-      "name": "Diablito",
-      "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
     },
     {
       "added_at": "2025-11-21 03:00:36",
@@ -1251,6 +1235,22 @@
       "duration_ms": 185666,
       "name": "El Pescador",
       "url": "https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed"
+    },
+    {
+      "added_at": "2025-11-21 03:00:36",
+      "album": {
+        "name": "Runfla Calavera",
+        "url": "https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 230986,
+      "name": "Diablito",
+      "url": "https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp"
     },
     {
       "added_at": "2025-11-21 03:00:36",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2025-11-21 03:00:36",
       "album": {
+        "name": "Se va la luna",
+        "url": "https://open.spotify.com/album/7chklGslK4E9zT744tmEy8"
+      },
+      "artists": [
+        {
+          "name": "Leonchalon",
+          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
+        }
+      ],
+      "duration_ms": 181889,
+      "name": "Se va la luna",
+      "url": "https://open.spotify.com/track/4mCiEn4QyvzEzMyNdGqN3X"
+    },
+    {
+      "added_at": "2025-11-21 03:00:36",
+      "album": {
         "name": "Qui\u00e9n Sos?",
         "url": "https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 325124,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/5eqOwQa8tABk6m6wMPRJSd"
-    },
-    {
-      "added_at": "2025-11-21 03:00:36",
-      "album": {
-        "name": "Se va la luna",
-        "url": "https://open.spotify.com/album/7chklGslK4E9zT744tmEy8"
-      },
-      "artists": [
-        {
-          "name": "Leonchalon",
-          "url": "https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0"
-        }
-      ],
-      "duration_ms": 181889,
-      "name": "Se va la luna",
-      "url": "https://open.spotify.com/track/4mCiEn4QyvzEzMyNdGqN3X"
     },
     {
       "added_at": "2025-11-21 03:00:36",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-11-21 03:00:36",
       "album": {
-        "name": "\u00c1ngel Del Pasado",
-        "url": "https://open.spotify.com/album/2i3GeqMPvIHpEWUEMnOyqo"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 246857,
-      "name": "\u00c1ngel Del Pasado",
-      "url": "https://open.spotify.com/track/12hH9wErOXz1ZeOPJ8P33Q"
-    },
-    {
-      "added_at": "2025-11-21 03:00:36",
-      "album": {
         "name": "Amor De Barrio",
         "url": "https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 267666,
       "name": "Lo Que Dicta El Tiempo",
       "url": "https://open.spotify.com/track/5kSkRMrl8p1w63pybLjg0S"
+    },
+    {
+      "added_at": "2025-11-21 03:00:36",
+      "album": {
+        "name": "\u00c1ngel Del Pasado",
+        "url": "https://open.spotify.com/album/2i3GeqMPvIHpEWUEMnOyqo"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 246857,
+      "name": "\u00c1ngel Del Pasado",
+      "url": "https://open.spotify.com/track/12hH9wErOXz1ZeOPJ8P33Q"
     },
     {
       "added_at": "2025-11-21 03:00:36",

@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 60 | [Girls](https://open.spotify.com/track/3p8sr6dPBa86KDMcup7q5P) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Girls](https://open.spotify.com/album/6pwVv0Pf79ITNQaiAz796u) | 3:20 |
 | 61 | [Closure](https://open.spotify.com/track/3Z0uXmisVHmzoiSo49tUFy) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Closure](https://open.spotify.com/album/5zpvrdeJU6NWitQt8b9lhv) | 3:02 |
 | 62 | [Dizzy](https://open.spotify.com/track/66wY9Ppol67ODxjtRoYLbg) | [Saszan](https://open.spotify.com/artist/4AAUtbgySy6IcOCIVl6g5r) | [Dizzy](https://open.spotify.com/album/4NQ6wigiT0h1tNN7Y6KY8P) | 3:36 |
-| 63 | [Girl](https://open.spotify.com/track/3wHuC5pKk7TpvoupuTeZzj) | [Krystal Roxx](https://open.spotify.com/artist/79Znj8lVVpXXJ4KHDfCVk0), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Girl](https://open.spotify.com/album/0pafIzlF5MDBTpZEPjZpBL) | 3:06 |
-| 64 | [Playground](https://open.spotify.com/track/4XOt0iwNTXhIRY7pEwCrkx) | [Alexa Curtis](https://open.spotify.com/artist/3LT9ZwcBwm9dNIXnReLknF) | [Playground](https://open.spotify.com/album/2TQrRtp7JxUtRun0Z5U3Z9) | 3:59 |
-| 65 | [Double Tap It](https://open.spotify.com/track/5bkZWaYwOLPXU9N20g3SKO) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [ILIKERiCO](https://open.spotify.com/artist/04lBoBI6HPsS3PlaY9pKYP) | [Double Tap It](https://open.spotify.com/album/0hmqzNET6uHgu76Lii4HD3) | 2:13 |
+| 63 | [Double Tap It](https://open.spotify.com/track/5bkZWaYwOLPXU9N20g3SKO) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [ILIKERiCO](https://open.spotify.com/artist/04lBoBI6HPsS3PlaY9pKYP) | [Double Tap It](https://open.spotify.com/album/0hmqzNET6uHgu76Lii4HD3) | 2:13 |
+| 64 | [Girl](https://open.spotify.com/track/3wHuC5pKk7TpvoupuTeZzj) | [Krystal Roxx](https://open.spotify.com/artist/79Znj8lVVpXXJ4KHDfCVk0), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Girl](https://open.spotify.com/album/0pafIzlF5MDBTpZEPjZpBL) | 3:06 |
+| 65 | [Playground](https://open.spotify.com/track/4XOt0iwNTXhIRY7pEwCrkx) | [Alexa Curtis](https://open.spotify.com/artist/3LT9ZwcBwm9dNIXnReLknF) | [Playground](https://open.spotify.com/album/2TQrRtp7JxUtRun0Z5U3Z9) | 3:59 |
 | 66 | [Vabank](https://open.spotify.com/track/7mlveqBsHCR5a9SEDVo7lS) | [Honorata Skarbek](https://open.spotify.com/artist/05Fgqq7GfWeNol1TR5H3og) | [Puzzle](https://open.spotify.com/album/1Vdso29GjI3NKulPRhGSeX) | 3:33 |
 | 67 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 68 | [All My People \- 中文版](https://open.spotify.com/track/3Ta0Hnlvfbxnem4IIppvGf) | [许馨文](https://open.spotify.com/artist/0Jvi0y59ruUoFx588uY6SV) | [ALL MY PEOPLE](https://open.spotify.com/album/1fJ3CHMlfIi7x52GoS08pV) | 3:46 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 70 | [But I Do](https://open.spotify.com/track/16lvGxW2cgIJAxBBSGFgBU) | [Temmpo](https://open.spotify.com/artist/0o8NoczMZj9htxom4VU0Jj) | [Summer EDM Pop](https://open.spotify.com/album/7w2wgSDixtsRQuEEFkzTKy) | 2:25 |
 | 71 | [Forever](https://open.spotify.com/track/1s6D3PQHOlpmylZqT0NjQi) | [DreamHouse](https://open.spotify.com/artist/3JLTTXtAd1NzSPTMXGJEfK) | [Sha La La](https://open.spotify.com/album/4cEGZCz6TdHTqhQkSdonoD) | 3:22 |
 
-Snapshot ID: `AcDnkgAAAABNLUAZRexRND946iiJALfj`
+Snapshot ID: `AcDtMgAAAACHi82p4WzJ+oDDddAiupSJ`

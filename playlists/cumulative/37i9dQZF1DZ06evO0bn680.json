@@ -257,6 +257,32 @@
     },
     {
       "album": {
+        "name": "Hail! Queen of Heaven: Music in Honour of the Virgin Mary",
+        "url": "https://open.spotify.com/album/275TNJ2mHteWAbajjhvPQl"
+      },
+      "artists": [
+        {
+          "name": "Francisco Guerrero",
+          "url": "https://open.spotify.com/artist/08Zj51hTSWpmC9a5WMjqcc"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229440,
+      "name": "Ave Virgo sanctissima",
+      "url": "https://open.spotify.com/track/5rF4ldZEoh9VoHPfu77Vr0"
+    },
+    {
+      "album": {
         "name": "Be Thou My Vision: Sacred Music by John Rutter",
         "url": "https://open.spotify.com/album/32wnph2659J6VtOnw1eRUb"
       },
@@ -328,7 +354,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 281413,
       "name": "Christ Our Emmanuel",
       "url": "https://open.spotify.com/track/6TqPdqRtI6HVpwP3bflEQm"
@@ -410,7 +436,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 203268,
       "name": "Es ist ein Ros' entsprungen (Arr. J. Rutter for Oboe & Choir)",
       "url": "https://open.spotify.com/track/79laV7Zw4MjW0N5xatLytE"
@@ -1116,7 +1142,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 278840,
       "name": "Suite bergamasque, L. 75: III. Clair de lune (Arr. for Orchestra by John Rutter)",
       "url": "https://open.spotify.com/track/0WJtNEP0CFOUDIFhjcH8Vm"

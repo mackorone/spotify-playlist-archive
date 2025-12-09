@@ -1,6 +1,6 @@
 {
   "description": "The hits that keep on rocking your world. Cover: Big Wreck",
-  "num_followers": 75633,
+  "num_followers": 75634,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
@@ -91,18 +91,18 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+        "name": "Heathens",
+        "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+      "duration_ms": 195920,
+      "name": "Heathens",
+      "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -143,18 +143,18 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "Heathens",
-        "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
       "artists": [
         {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 195920,
-      "name": "Heathens",
-      "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "The Getaway",
-        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Dark Necessities",
-      "url": "https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "Paramore",
         "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 296520,
       "name": "Ain't It Fun",
       "url": "https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "The Getaway",
+        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Dark Necessities",
+      "url": "https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "Savages",
-        "url": "https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn"
-      },
-      "artists": [
-        {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
-        }
-      ],
-      "duration_ms": 202213,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "POST HUMAN: NeX GEn",
         "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 240590,
       "name": "Top 10 staTues tHat CriEd bloOd",
       "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "Savages",
+        "url": "https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "duration_ms": 202213,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "POWER UP",
-        "url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 185131,
-      "name": "Shot In The Dark",
-      "url": "https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "How Will You Know If You Never Try",
         "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 188639,
       "name": "Talk Too Much",
       "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "POWER UP",
+        "url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 185131,
+      "name": "Shot In The Dark",
+      "url": "https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "OK, I'M SICK",
-        "url": "https://open.spotify.com/album/08VFvUyNPi6G0tc1d4DPU4"
-      },
-      "artists": [
-        {
-          "name": "Badflower",
-          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
-        }
-      ],
-      "duration_ms": 259519,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/7w09r53aPON8ZUvEAnPe94"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "Digital Silence",
         "url": "https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 198026,
       "name": "Digital Silence",
       "url": "https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "OK, I'M SICK",
+        "url": "https://open.spotify.com/album/08VFvUyNPi6G0tc1d4DPU4"
+      },
+      "artists": [
+        {
+          "name": "Badflower",
+          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+        }
+      ],
+      "duration_ms": 259519,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/7w09r53aPON8ZUvEAnPe94"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "Unlimited Love",
-        "url": "https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 232412,
-      "name": "Black Summer",
-      "url": "https://open.spotify.com/track/2a5cbTg2UIi784t9E2wT35"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "Blame My Ex",
         "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 160244,
       "name": "Edge of the Earth",
       "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "Unlimited Love",
+        "url": "https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 232412,
+      "name": "Black Summer",
+      "url": "https://open.spotify.com/track/2a5cbTg2UIi784t9E2wT35"
     },
     {
       "added_at": "2025-05-01 22:00:00",

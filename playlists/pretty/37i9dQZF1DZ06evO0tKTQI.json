@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 13553,
+  "num_followers": 13557,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAACb5U//8FuRytroNAu+xEQq",
+  "snapshot_id": "aTTDgAAAAACwUgaWETjT1G2upE9uCxzZ",
   "tracks": [
     {
       "added_at": null,
@@ -331,18 +331,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Est\u00e1 Cambiando",
-        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
+        "name": "Aroma A Nostalgia (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ"
       },
       "artists": [
+        {
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
+        },
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 83320,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/6GsDBG00OVi33YA89WJmoP"
+      "duration_ms": 351413,
+      "name": "Otros Colores",
+      "url": "https://open.spotify.com/track/6VbEA6Zk7964dwD2fd2HbD"
     },
     {
       "added_at": null,
@@ -379,22 +383,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aroma A Nostalgia (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ"
+        "name": "Todo Est\u00e1 Cambiando",
+        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
       },
       "artists": [
-        {
-          "name": "Daniel Qui\u00e9n",
-          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
-        },
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 351413,
-      "name": "Otros Colores",
-      "url": "https://open.spotify.com/track/6VbEA6Zk7964dwD2fd2HbD"
+      "duration_ms": 83320,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/6GsDBG00OVi33YA89WJmoP"
     },
     {
       "added_at": null,
@@ -747,22 +747,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es Mi Fiesta Y Si Quiero Hago Un EP",
-        "url": "https://open.spotify.com/album/1eDAIIm6ZE4FzNSjirEtkt"
+        "name": "Sobred\u00f3sis De Tempra",
+        "url": "https://open.spotify.com/album/04x0I75414tDPIDXPu9rRN"
       },
       "artists": [
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Yawners",
-          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
         }
       ],
-      "duration_ms": 155520,
-      "name": "Mi Habitaci\u00f3n",
-      "url": "https://open.spotify.com/track/7iF9WZqCVKUHV93XykSFgZ"
+      "duration_ms": 178960,
+      "name": "Sobred\u00f3sis De Tempra",
+      "url": "https://open.spotify.com/track/4UdmlAdIW3JB4qatctbAyx"
     },
     {
       "added_at": null,
@@ -783,18 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobred\u00f3sis De Tempra",
-        "url": "https://open.spotify.com/album/04x0I75414tDPIDXPu9rRN"
+        "name": "Es Mi Fiesta Y Si Quiero Hago Un EP",
+        "url": "https://open.spotify.com/album/1eDAIIm6ZE4FzNSjirEtkt"
       },
       "artists": [
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Yawners",
+          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
         }
       ],
-      "duration_ms": 178960,
-      "name": "Sobred\u00f3sis De Tempra",
-      "url": "https://open.spotify.com/track/4UdmlAdIW3JB4qatctbAyx"
+      "duration_ms": 155520,
+      "name": "Mi Habitaci\u00f3n",
+      "url": "https://open.spotify.com/track/7iF9WZqCVKUHV93XykSFgZ"
     },
     {
       "added_at": null,

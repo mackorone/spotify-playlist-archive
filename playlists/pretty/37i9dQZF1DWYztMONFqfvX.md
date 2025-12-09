@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 
 > Bollywood crooner's essential songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,213,753 likes - 53 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,213,912 likes - 53 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

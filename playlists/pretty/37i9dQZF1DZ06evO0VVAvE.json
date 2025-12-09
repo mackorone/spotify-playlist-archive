@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 7754,
+  "num_followers": 7810,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAABbOGadxAYUmgppD05AFtR9",
+  "snapshot_id": "aTTDgAAAAAAg+3LMBIMS96uQIH/M7rJb",
   "tracks": [
     {
       "added_at": null,
@@ -131,26 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sanity",
-        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 141674,
-      "name": "Run from God",
-      "url": "https://open.spotify.com/track/6mQ1sg28qoWd5Oa5dxzaZX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Fresh Prince Of Lagos",
         "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
       },
@@ -163,6 +143,22 @@
       "duration_ms": 227239,
       "name": "Gbedu",
       "url": "https://open.spotify.com/track/2s8ccek0lQmwQOTB3aKh6V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El-Chapo",
+        "url": "https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Feel Free",
+      "url": "https://open.spotify.com/track/5i3makGa6P8FFuqoJC6N1l"
     },
     {
       "added_at": null,
@@ -199,18 +195,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El-Chapo",
-        "url": "https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ"
+        "name": "Sanity",
+        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
       },
       "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 147692,
-      "name": "Feel Free",
-      "url": "https://open.spotify.com/track/5i3makGa6P8FFuqoJC6N1l"
+      "duration_ms": 141674,
+      "name": "Run from God",
+      "url": "https://open.spotify.com/track/6mQ1sg28qoWd5Oa5dxzaZX"
     },
     {
       "added_at": null,
@@ -403,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pay Me",
-        "url": "https://open.spotify.com/album/3lcoiVRQOzUF8S0yxkl7Ll"
-      },
-      "artists": [
-        {
-          "name": "Panaache",
-          "url": "https://open.spotify.com/artist/3q9TNTIJZqPW6xVgFpUH27"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 127529,
-      "name": "Pay Me",
-      "url": "https://open.spotify.com/track/5tKDta4aibt6Qk46AIWzLI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Okanlawon, Vol. 2 (Deluxe)",
         "url": "https://open.spotify.com/album/3YXxTYQmFKyFe8tcKZET0t"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 212871,
       "name": "The Way (Remix)",
       "url": "https://open.spotify.com/track/1qfKtilbhqwPG9A2lBLCNC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pay Me",
+        "url": "https://open.spotify.com/album/3lcoiVRQOzUF8S0yxkl7Ll"
+      },
+      "artists": [
+        {
+          "name": "Panaache",
+          "url": "https://open.spotify.com/artist/3q9TNTIJZqPW6xVgFpUH27"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 127529,
+      "name": "Pay Me",
+      "url": "https://open.spotify.com/track/5tKDta4aibt6Qk46AIWzLI"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fresh Prince Of Lagos",
-        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Barry Jhay",
-          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
-        }
-      ],
-      "duration_ms": 188737,
-      "name": "Oba (feat. Barry Jhay)",
-      "url": "https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different Lane",
         "url": "https://open.spotify.com/album/2LCzcEsKLehVVuwGT2Sd6F"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 132185,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/7fz52tAQ79hRZ5q5GTQ8aC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fresh Prince Of Lagos",
+        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
+        }
+      ],
+      "duration_ms": 188737,
+      "name": "Oba (feat. Barry Jhay)",
+      "url": "https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ"
     },
     {
       "added_at": null,

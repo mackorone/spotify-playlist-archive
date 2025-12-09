@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FUaCNVd2fs.md) - [plain]
 
 > Sleepy, cosy piano music for snoozing, power naps and relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,454 likes - 159 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,475 likes - 159 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

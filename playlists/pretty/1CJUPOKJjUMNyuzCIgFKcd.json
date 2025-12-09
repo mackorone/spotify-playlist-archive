@@ -1,13 +1,101 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 22564,
+  "num_followers": 22559,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAnLZiCIKK0XzZGPNrYnAyr0wt+dDbh",
+  "snapshot_id": "AAAnNjg8rRWlDsmTenZL5/IVlCswI1kv",
   "tracks": [
+    {
+      "added_at": "2025-12-08 23:43:25",
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/78eqoV7ejwEOZreqaRYaes"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 152210,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/5m7WSCHb0I8wBSAM0xAVOq"
+    },
+    {
+      "added_at": "2025-12-08 23:32:38",
+      "album": {
+        "name": "F.I.L.A 25 (Forever I Love Atlanta)",
+        "url": "https://open.spotify.com/album/0ADz82vTyvfaNVs9rb8cJ5"
+      },
+      "artists": [
+        {
+          "name": "Tm88",
+          "url": "https://open.spotify.com/artist/5RMUeKq0dZxg9RHE1f0B9P"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 176080,
+      "name": "Quadruple (feat. Future)",
+      "url": "https://open.spotify.com/track/4TFoLFYufN177kMZ98Xy9A"
+    },
+    {
+      "added_at": "2025-12-08 23:34:00",
+      "album": {
+        "name": "LOVE HURTS.",
+        "url": "https://open.spotify.com/album/0D5FsRdiOSpSxsi1x7C4hT"
+      },
+      "artists": [
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        }
+      ],
+      "duration_ms": 175999,
+      "name": "Talk Of The Town",
+      "url": "https://open.spotify.com/track/6yKHKWy0sS9M55r9oVwZ6s"
+    },
+    {
+      "added_at": "2025-12-08 23:34:13",
+      "album": {
+        "name": "Diamond In The Ruff",
+        "url": "https://open.spotify.com/album/43PRU3hvsO0HCjw0KQneXL"
+      },
+      "artists": [
+        {
+          "name": "Yatta Bandz",
+          "url": "https://open.spotify.com/artist/3n8GvDXY1OgG57akv31SHK"
+        }
+      ],
+      "duration_ms": 181276,
+      "name": "Diamond In The Ruff",
+      "url": "https://open.spotify.com/track/7EtgxKX461sop2Qz7WM0VJ"
+    },
+    {
+      "added_at": "2025-12-08 23:34:41",
+      "album": {
+        "name": "Don't Tell Me (9-5)",
+        "url": "https://open.spotify.com/album/4uboT38WpABP4PKIqVB4hz"
+      },
+      "artists": [
+        {
+          "name": "Fergie Baby",
+          "url": "https://open.spotify.com/artist/4wFiOK5gZqg6tk4wvVansa"
+        },
+        {
+          "name": "Hunna G",
+          "url": "https://open.spotify.com/artist/3K1jwN2afVgJiqwgoT38GP"
+        }
+      ],
+      "duration_ms": 205711,
+      "name": "Don't Tell Me (9-5)",
+      "url": "https://open.spotify.com/track/44sZgHwFFsNyhl3UMIw63H"
+    },
     {
       "added_at": "2025-11-24 22:45:41",
       "album": {

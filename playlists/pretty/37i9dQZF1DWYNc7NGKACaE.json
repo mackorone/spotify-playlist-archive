@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 84313,
+  "num_followers": 84300,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Florxs Speed Up",
+        "url": "https://open.spotify.com/album/5ZqrLDiksNLzdO5EVQ3lNW"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "Florxs Speed Up",
+      "url": "https://open.spotify.com/track/2rIcX0NTuATrrIFUcC5pdz"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Felina, Ai Meu Deus",
         "url": "https://open.spotify.com/album/3nGpC3zbNobY1JLQzd5MFt"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 147840,
       "name": "Felina, Ai Meu Deus",
       "url": "https://open.spotify.com/track/4mXao1gU5PKbwEd5oi1JBP"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Florxs Speed Up",
-        "url": "https://open.spotify.com/album/5ZqrLDiksNLzdO5EVQ3lNW"
-      },
-      "artists": [
-        {
-          "name": "Thxuzz",
-          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Florxs Speed Up",
-      "url": "https://open.spotify.com/track/2rIcX0NTuATrrIFUcC5pdz"
     },
     {
       "added_at": "2024-07-08 19:10:57",

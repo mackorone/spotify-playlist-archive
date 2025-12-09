@@ -4,7 +4,7 @@
 
 > gusto ko lang naman ng kayakap
 
-142 songs - 8 hr 50 min
+144 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Akong Addiction](https://open.spotify.com/track/0vNnz0YE2mUDLYGW6gT9NN) | [Will Mikhael](https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP) | [Akong Addiction](https://open.spotify.com/album/37egJXzirS9te7NSlbxndI) | 3:51 | 2024-05-08 | 2025-07-22 |
 | [ANTOXIC](https://open.spotify.com/track/5QttlrC4uyjZt15VI4LulN) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [LAB SONGS NG MGA TANGA](https://open.spotify.com/album/3CvI8CDpDzz6Q2nDuXWKXs) | 4:10 | 2025-10-03 | 2025-12-02 |
 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 | 2025-01-22 | 2025-09-14 |
-| [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2025-07-21 |  |
+| [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2025-07-21 | 2025-12-09 |
 | [Baby Powder](https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 2:56 | 2025-07-21 |  |
 | [Bakit?](https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bakit?](https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI) | 3:14 | 2023-10-18 | 2024-09-19 |
 | [Balisong](https://open.spotify.com/track/4aD5i2sgbsAbSubI8cnr2p) | [Rivermaya](https://open.spotify.com/artist/1ZTdxfZTeztyAgKUJVLxAI) | [Rivermaya Silver Series](https://open.spotify.com/album/2wcWG3MbATMobW5HVFTilG) | 3:35 | 2023-10-18 | 2024-01-11 |
@@ -74,6 +74,7 @@
 | [Love U Like That](https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That](https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA) | 3:31 | 2023-10-18 | 2023-11-11 |
 | [Love Will Keep Us Alive](https://open.spotify.com/track/73rrFU3kxJfhwEkWEUKFjg) | [Nosy & Mila](https://open.spotify.com/artist/1GaGCu3PAD272YCbjJj5lU) | [Greatest Hits](https://open.spotify.com/album/2axCtTfl9UnGW64StC9CWz) | 5:37 | 2023-10-18 | 2024-04-19 |
 | [Lovesick](https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:45 | 2023-10-18 | 2023-11-11 |
+| [Mabisang Pinay](https://open.spotify.com/track/5A1pJBomlHhK7WAP6vo9N8) | [Dreycruz](https://open.spotify.com/artist/6Eyw578LyVy9z7fDNhxWCf) | [Mabisang Pinay](https://open.spotify.com/album/6BIFKGUV1BdXX15YnxAO7J) | 2:32 | 2025-12-08 |  |
 | [Marilag](https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Marilag](https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY) | 2:37 | 2025-07-21 |  |
 | [Mirasol](https://open.spotify.com/track/7zLBGK5lDf5cnAA3ea4xR9) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Mirasol](https://open.spotify.com/album/4K1X6LZLGRSOXBBaGAqvft) | 3:27 | 2024-10-24 | 2025-07-22 |
 | [Miss Hot July](https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:21 | 2025-09-26 | 2025-11-18 |
@@ -112,7 +113,7 @@
 | [So Into You](https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Tamia](https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV) | 4:21 | 2025-07-21 |  |
 | [soft light](https://open.spotify.com/track/2BgBE2sl7r2vcLeC6vxCfl) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [soft light](https://open.spotify.com/album/5yRJS7SXnpMUjoysxWII4x) | 2:35 | 2025-01-22 | 2025-07-22 |
 | [Someone New](https://open.spotify.com/track/3pLBPNR3ikdcDW5CP67gHY) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Martti Franca](https://open.spotify.com/artist/639kduoUmDR7ISY0QF6WlX) | [Someone New](https://open.spotify.com/album/1hOm07TU9l0hAuqvjKXvUt) | 4:15 | 2023-10-18 | 2024-08-19 |
-| [Strangers](https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:34 | 2024-01-10 |  |
+| [Strangers](https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:34 | 2024-01-10 | 2025-12-09 |
 | [Sunday Morning](https://open.spotify.com/track/4C9bX6MwR0JBYDGK4JXhbB) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ) | [Sunday Morning](https://open.spotify.com/album/5BApQ2E2DhSsntBBrb7zSG) | 3:44 | 2023-10-18 | 2025-07-22 |
 | [Sunsets With You](https://open.spotify.com/track/2VeGifKR8RbINCfWcRb5qH) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si), [Yden](https://open.spotify.com/artist/3TrbbmtvHwXSKbBc1tClSV) | [Sunsets With You](https://open.spotify.com/album/7jqLuEgexemjXBbT1Q6oWf) | 4:13 | 2024-04-17 | 2024-08-19 |
 | [Sunsets With You](https://open.spotify.com/track/43t6oyPWJ67nifk7JgDgoI) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si), [Yden](https://open.spotify.com/artist/3TrbbmtvHwXSKbBc1tClSV) | [Sunsets With You](https://open.spotify.com/album/2fEfoRUwtHZa6OZ44Mjc6X) | 4:13 | 2023-10-18 | 2024-04-19 |
@@ -122,6 +123,7 @@
 | [Sy](https://open.spotify.com/track/4ckqv8nO8cvqdCXe1pJKTG) | [Joshua Khaled](https://open.spotify.com/artist/6keXdTyN2lpda6B1XmVM6v) | [Sy](https://open.spotify.com/album/18KzzEHs4LZxkMOgZEpO9v) | 5:24 | 2023-10-18 | 2024-03-22 |
 | [Tadhana](https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [Capacities](https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9) | 3:42 | 2023-10-18 | 2024-09-19 |
 | [Take A Chance With Me](https://open.spotify.com/track/0x7PmByJWVXdeipevd6KZS) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/7gK4I6eM9fYJCfq4IeHx1t) | 5:03 | 2023-11-10 | 2025-07-22 |
+| [TAPAT](https://open.spotify.com/track/6o54Q9Ueqp6tXraenVdpO8) | [Elhé](https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao) | [TAPAT](https://open.spotify.com/album/1gfiwsfSxGvBo7SsJSKgqS) | 2:01 | 2025-12-08 |  |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2025-07-21 |  |
 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 | 2024-12-03 | 2025-07-22 |
 | [That's What Love Is](https://open.spotify.com/track/2pTVEE8VjkonEWSC7EGpaq) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [That's What Love Is](https://open.spotify.com/album/0CRpIO9AkOFt7deIGmsDgN) | 4:04 | 2024-01-23 | 2025-07-22 |

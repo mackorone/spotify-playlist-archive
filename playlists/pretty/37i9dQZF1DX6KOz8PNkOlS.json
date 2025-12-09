@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 579689,
+  "num_followers": 579787,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-12-05 16:19:29",
       "album": {
+        "name": "Red Room",
+        "url": "https://open.spotify.com/album/6nMLINUfKd2p6mZ3El99Yj"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "Red Room",
+      "url": "https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J"
+    },
+    {
+      "added_at": "2025-12-05 16:19:29",
+      "album": {
         "name": "Camas Separadas (ft. Disco Bah\u00eda)",
         "url": "https://open.spotify.com/album/3aDyz75eU1Jx02DNYP00Or"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 235136,
       "name": "Camas Separadas - ft. Disco Bah\u00eda",
       "url": "https://open.spotify.com/track/22gaXio7PCkNc8ODKW9v2p"
-    },
-    {
-      "added_at": "2025-12-05 16:19:29",
-      "album": {
-        "name": "Red Room",
-        "url": "https://open.spotify.com/album/6nMLINUfKd2p6mZ3El99Yj"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "Red Room",
-      "url": "https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J"
     },
     {
       "added_at": "2025-12-05 16:19:29",
@@ -1151,18 +1151,22 @@
     {
       "added_at": "2025-12-05 16:19:29",
       "album": {
-        "name": "Macro",
-        "url": "https://open.spotify.com/album/1iAqfn9vawMhkRuQQzP3qj"
+        "name": "you loved me like a fool",
+        "url": "https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ"
       },
       "artists": [
         {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        },
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
         }
       ],
-      "duration_ms": 239786,
-      "name": "Counting Sheep",
-      "url": "https://open.spotify.com/track/4NpAzMDcTuIDMo04AOgDvS"
+      "duration_ms": 214638,
+      "name": "you loved me like a fool",
+      "url": "https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n"
     },
     {
       "added_at": "2025-12-05 16:19:29",
@@ -1183,22 +1187,18 @@
     {
       "added_at": "2025-12-05 16:19:29",
       "album": {
-        "name": "you loved me like a fool",
-        "url": "https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ"
+        "name": "Macro",
+        "url": "https://open.spotify.com/album/1iAqfn9vawMhkRuQQzP3qj"
       },
       "artists": [
         {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        },
-        {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
         }
       ],
-      "duration_ms": 214638,
-      "name": "you loved me like a fool",
-      "url": "https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n"
+      "duration_ms": 239786,
+      "name": "Counting Sheep",
+      "url": "https://open.spotify.com/track/4NpAzMDcTuIDMo04AOgDvS"
     },
     {
       "added_at": "2025-12-05 16:19:29",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-12-05 16:19:29",
       "album": {
-        "name": "Virtual U",
-        "url": "https://open.spotify.com/album/3YQsmveXRRpC7mK8rV20Tj"
-      },
-      "artists": [
-        {
-          "name": "oso leone",
-          "url": "https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi"
-        }
-      ],
-      "duration_ms": 302190,
-      "name": "Virtual U",
-      "url": "https://open.spotify.com/track/5uxGQGlitZ3iCj93Ht6wfl"
-    },
-    {
-      "added_at": "2025-12-05 16:19:29",
-      "album": {
         "name": "Phosphorescent",
         "url": "https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 240449,
       "name": "Skylight",
       "url": "https://open.spotify.com/track/0kwBCyPQMZVdqpqhcv50JA"
+    },
+    {
+      "added_at": "2025-12-05 16:19:29",
+      "album": {
+        "name": "Virtual U",
+        "url": "https://open.spotify.com/album/3YQsmveXRRpC7mK8rV20Tj"
+      },
+      "artists": [
+        {
+          "name": "oso leone",
+          "url": "https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi"
+        }
+      ],
+      "duration_ms": 302190,
+      "name": "Virtual U",
+      "url": "https://open.spotify.com/track/5uxGQGlitZ3iCj93Ht6wfl"
     },
     {
       "added_at": "2025-12-05 16:19:29",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2025-12-05 16:19:29",
       "album": {
-        "name": "ocean tales",
-        "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
-      },
-      "artists": [
-        {
-          "name": "santpoort",
-          "url": "https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ"
-        },
-        {
-          "name": "Little Green",
-          "url": "https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy"
-        }
-      ],
-      "duration_ms": 188951,
-      "name": "feather light",
-      "url": "https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni"
-    },
-    {
-      "added_at": "2025-12-05 16:19:29",
-      "album": {
         "name": "Stream of Consciousness",
         "url": "https://open.spotify.com/album/2UX7LFFvs1vRclLox4sJbE"
       },
@@ -1683,6 +1663,42 @@
       "duration_ms": 162401,
       "name": "Stream of Consciousness",
       "url": "https://open.spotify.com/track/40vkKEz4BqmtvHED2Jstil"
+    },
+    {
+      "added_at": "2025-12-05 16:19:29",
+      "album": {
+        "name": "ocean tales",
+        "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
+      },
+      "artists": [
+        {
+          "name": "santpoort",
+          "url": "https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ"
+        },
+        {
+          "name": "Little Green",
+          "url": "https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy"
+        }
+      ],
+      "duration_ms": 188951,
+      "name": "feather light",
+      "url": "https://open.spotify.com/track/3Xkc6ySTZoa4DPa3rrN2ni"
+    },
+    {
+      "added_at": "2025-12-05 16:19:29",
+      "album": {
+        "name": "Drifting Out EP",
+        "url": "https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 219312,
+      "name": "Drifting Out",
+      "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
     },
     {
       "added_at": "2025-12-05 16:19:29",
@@ -1715,22 +1731,6 @@
       "duration_ms": 142516,
       "name": "Santiago",
       "url": "https://open.spotify.com/track/58r843NDpyDVVvd6In95g3"
-    },
-    {
-      "added_at": "2025-12-05 16:19:29",
-      "album": {
-        "name": "Drifting Out EP",
-        "url": "https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 219312,
-      "name": "Drifting Out",
-      "url": "https://open.spotify.com/track/2XmzxM91Pu7VvbjkszniBQ"
     }
   ],
   "unique_name": "Soft Office",

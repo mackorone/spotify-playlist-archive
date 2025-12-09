@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,047 likes - 56 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,073 likes - 56 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 | 55 | [Like a Candy](https://open.spotify.com/track/63qnMBvmzllRSdOPvpy4bA) | [Binary Squad](https://open.spotify.com/artist/6LGQxCJoHYemIM4WemLsVl) | [Like a Candy](https://open.spotify.com/album/5uXHuX7i6Fk3XlC3UDDVKH) | 3:39 |
 | 56 | [Transgender](https://open.spotify.com/track/2pgfgEF6CWsrPFF8HB6Xra) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Police In Paris](https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Transgender](https://open.spotify.com/album/46muHUrkAVYiExmNO11XhI) | 2:56 |
 
-Snapshot ID: `AAAAAK7MZOMwLsAyBBFU3eXxeHnNP9Ck`
+Snapshot ID: `AAAAAP+nvxpCyZyrPbf7JflhB8WVm9Sn`

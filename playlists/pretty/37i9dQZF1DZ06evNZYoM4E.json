@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 107665,
+  "num_followers": 107668,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAACBc/ob5lMrnQJOtxArPBcS",
+  "snapshot_id": "aTTDgAAAAADADnSFc2t1Gyrs8Cgu/mOM",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liefde, Leven, Geven",
-        "url": "https://open.spotify.com/album/2qiU6dDOf76eL1Py7zfqvi"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 251306,
-      "name": "Als Je Alles Weet",
-      "url": "https://open.spotify.com/track/5kp7N9D8kbw3ig9jvp5oe7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Met Liefde",
         "url": "https://open.spotify.com/album/0TAI03BMFuXUpu04Um3Od0"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 226333,
       "name": "Amor, Amor, Amor",
       "url": "https://open.spotify.com/track/4j8nikxlbjLnJPT7dvxTYs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liefde, Leven, Geven",
+        "url": "https://open.spotify.com/album/2qiU6dDOf76eL1Py7zfqvi"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 251306,
+      "name": "Als Je Alles Weet",
+      "url": "https://open.spotify.com/track/5kp7N9D8kbw3ig9jvp5oe7"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Hazes 100",
-        "url": "https://open.spotify.com/album/06eur57GeYWvei9L0hlduF"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 264146,
-      "name": "Zo Heb Ik Het Nooit Bedoeld",
-      "url": "https://open.spotify.com/track/1xDJChqZ4KB7aWFBrOvfLT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sorry (Holland Zingt Hazes)",
         "url": "https://open.spotify.com/album/1FsuMZG5aE2KXOyN1MNIcu"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 220879,
       "name": "Sorry - Holland Zingt Hazes",
       "url": "https://open.spotify.com/track/3xLUNiJfFVfD9GEop7w8TW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Hazes 100",
+        "url": "https://open.spotify.com/album/06eur57GeYWvei9L0hlduF"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 264146,
+      "name": "Zo Heb Ik Het Nooit Bedoeld",
+      "url": "https://open.spotify.com/track/1xDJChqZ4KB7aWFBrOvfLT"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Want Ik Hou Van Jou",
-        "url": "https://open.spotify.com/album/1bQsKoFUFBSIYQdMXoh3NB"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Want Ik Hou Van Jou",
-      "url": "https://open.spotify.com/track/4StJdcpuqlrB3NEARX19QP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jij En Ik",
         "url": "https://open.spotify.com/album/5Ibu92sALcWMs5IY7NwYFQ"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 205426,
       "name": "Donker Om Je Heen",
       "url": "https://open.spotify.com/track/5YdQywbLUt8dbR1VEGW0yw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Want Ik Hou Van Jou",
+        "url": "https://open.spotify.com/album/1bQsKoFUFBSIYQdMXoh3NB"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Want Ik Hou Van Jou",
+      "url": "https://open.spotify.com/track/4StJdcpuqlrB3NEARX19QP"
     },
     {
       "added_at": null,

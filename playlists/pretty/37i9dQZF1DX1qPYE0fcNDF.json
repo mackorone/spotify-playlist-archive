@@ -1,29 +1,13 @@
 {
   "description": "Hip-Hop and Happy Holidays! ",
-  "num_followers": 128390,
+  "num_followers": 128672,
   "original_name": "Hip-Hop Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAqDBK1oy9qojIX3F2kRrQBXIYPa",
+  "snapshot_id": "AAAAAMWeJGXY0lUgHRy8uUOel/PNZ8dW",
   "tracks": [
-    {
-      "added_at": "2025-10-31 21:00:25",
-      "album": {
-        "name": "You're A Mean One, Mr. Grinch (From Dr. Seuss' The Grinch)",
-        "url": "https://open.spotify.com/album/7w1TRNc1PTJak7qXPzr1Ih"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 108986,
-      "name": "You're A Mean One, Mr. Grinch",
-      "url": "https://open.spotify.com/track/38sOMt0jPIWWqJMNk2u0DI"
-    },
     {
       "added_at": "2025-10-31 21:00:25",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 136308,
       "name": "BigXmas",
       "url": "https://open.spotify.com/track/5W8a43gnXVrPHdsFjdyfGB"
+    },
+    {
+      "added_at": "2025-10-31 21:00:25",
+      "album": {
+        "name": "You're A Mean One, Mr. Grinch (From Dr. Seuss' The Grinch)",
+        "url": "https://open.spotify.com/album/7w1TRNc1PTJak7qXPzr1Ih"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 108986,
+      "name": "You're A Mean One, Mr. Grinch",
+      "url": "https://open.spotify.com/track/38sOMt0jPIWWqJMNk2u0DI"
     },
     {
       "added_at": "2025-10-31 21:00:25",
@@ -187,6 +187,50 @@
     {
       "added_at": "2025-10-31 21:00:25",
       "album": {
+        "name": "All Star Christmas",
+        "url": "https://open.spotify.com/album/4MmG5FXpME1mmMtX0k69bH"
+      },
+      "artists": [
+        {
+          "name": "Quad City DJ's",
+          "url": "https://open.spotify.com/artist/4mar1GMMEhvGyJdWagu6KS"
+        },
+        {
+          "name": "The 69 Boyz",
+          "url": "https://open.spotify.com/artist/6edekRdqbU0eHDbEdRfPU4"
+        },
+        {
+          "name": "K-Nock",
+          "url": "https://open.spotify.com/artist/4Hp3lG7zGX5KE0sWx9lgJk"
+        }
+      ],
+      "duration_ms": 275666,
+      "name": "What You Want for Christmas",
+      "url": "https://open.spotify.com/track/6pyn5n6bOUX0iqZxA88H34"
+    },
+    {
+      "added_at": "2025-10-31 21:00:25",
+      "album": {
+        "name": "All I Really Want For Christmas (feat. Kool-Aid Man)",
+        "url": "https://open.spotify.com/album/52w6ES71Bx3mSTKjVXoj3U"
+      },
+      "artists": [
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Kool-Aid Man",
+          "url": "https://open.spotify.com/artist/6DT3Q5s1oRIZZdOOmg0kVI"
+        }
+      ],
+      "duration_ms": 171434,
+      "name": "All I Really Want For Christmas (feat. Kool-Aid Man)",
+      "url": "https://open.spotify.com/track/5Tz3kCWr1LL2S7P02W55jw"
+    },
+    {
+      "added_at": "2025-10-31 21:00:25",
+      "album": {
         "name": "Silent Night",
         "url": "https://open.spotify.com/album/6Qgr3aGOhi5KzjZedNIwSr"
       },
@@ -255,30 +299,6 @@
     {
       "added_at": "2025-10-31 21:00:25",
       "album": {
-        "name": "All Star Christmas",
-        "url": "https://open.spotify.com/album/4MmG5FXpME1mmMtX0k69bH"
-      },
-      "artists": [
-        {
-          "name": "Quad City DJ's",
-          "url": "https://open.spotify.com/artist/4mar1GMMEhvGyJdWagu6KS"
-        },
-        {
-          "name": "The 69 Boyz",
-          "url": "https://open.spotify.com/artist/6edekRdqbU0eHDbEdRfPU4"
-        },
-        {
-          "name": "K-Nock",
-          "url": "https://open.spotify.com/artist/4Hp3lG7zGX5KE0sWx9lgJk"
-        }
-      ],
-      "duration_ms": 275666,
-      "name": "What You Want for Christmas",
-      "url": "https://open.spotify.com/track/6pyn5n6bOUX0iqZxA88H34"
-    },
-    {
-      "added_at": "2025-10-31 21:00:25",
-      "album": {
         "name": "Dr. Seuss' The Grinch (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4u40K47aUMjeNrPGmQrodQ"
       },
@@ -311,26 +331,6 @@
       "duration_ms": 261440,
       "name": "A Christmas Fucking Miracle",
       "url": "https://open.spotify.com/track/59fKNCUMTncSMICMNqT2in"
-    },
-    {
-      "added_at": "2025-10-31 21:00:25",
-      "album": {
-        "name": "All I Really Want For Christmas (feat. Kool-Aid Man)",
-        "url": "https://open.spotify.com/album/52w6ES71Bx3mSTKjVXoj3U"
-      },
-      "artists": [
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        },
-        {
-          "name": "Kool-Aid Man",
-          "url": "https://open.spotify.com/artist/6DT3Q5s1oRIZZdOOmg0kVI"
-        }
-      ],
-      "duration_ms": 171434,
-      "name": "All I Really Want For Christmas (feat. Kool-Aid Man)",
-      "url": "https://open.spotify.com/track/5Tz3kCWr1LL2S7P02W55jw"
     },
     {
       "added_at": "2025-10-31 21:00:25",

@@ -1,13 +1,29 @@
 {
-  "description": "'Tis the season! All new holiday releases. Cover: Ravyn Lenae",
-  "num_followers": 265133,
+  "description": "'Tis the season! All new holiday releases. Cover: Cher",
+  "num_followers": 266180,
   "original_name": "New Music Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO8bPv0/yFpXNgKBA91kEOzzIbvQ",
+  "snapshot_id": "AAAAAHhMejIwEBDAZIAU/dcH/RaQJklH",
   "tracks": [
+    {
+      "added_at": "2025-12-08 19:56:25",
+      "album": {
+        "name": "Christmas Is Here",
+        "url": "https://open.spotify.com/album/00mbqmxA9gMuflg9GXgxPX"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Christmas Is Here",
+      "url": "https://open.spotify.com/track/1d8IUiU5iyjuuuKc9ccaZn"
+    },
     {
       "added_at": "2025-10-15 04:00:14",
       "album": {

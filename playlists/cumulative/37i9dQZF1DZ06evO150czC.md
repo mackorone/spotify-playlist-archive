@@ -4,7 +4,7 @@
 
 > This is Midian Lima\. The essential tracks, all in one playlist.
 
-78 songs - 6 hr 38 min
+79 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Enquanto a Igreja Ora \(Ao Vivo\)](https://open.spotify.com/track/1enVGeqBhDbv80eDqbBAkh) | [Família Cavalcanty](https://open.spotify.com/artist/68ClCwCtcofBZISAuAB5NU), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Enquanto a Igreja Ora \(Ao Vivo\)](https://open.spotify.com/album/6YRM1eHk7l5y80liFJCdOr) | 3:16 | 2025-02-28 |  |
 | [Entre Para o Templo](https://open.spotify.com/track/4YnvssiwhpmJBrNtEAcAvM) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Entre Para o Templo](https://open.spotify.com/album/5tuFsjabCiRNOawhwZSG4u) | 4:22 | 2023-09-02 | 2024-11-14 |
 | [Escolhidas](https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Hellen Miranda](https://open.spotify.com/artist/7psKiyrH4yV89bgVhAxD9r) | [Escolhidas](https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC) | 4:07 | 2023-07-09 |  |
-| [Eu Nunca vi](https://open.spotify.com/track/702spAI8qSwLawBz8bvV8S) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 4:22 | 2025-12-07 |  |
+| [Eu Nunca vi](https://open.spotify.com/track/702spAI8qSwLawBz8bvV8S) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 4:22 | 2025-12-07 | 2025-12-09 |
 | [Eu Vim Te Adorar](https://open.spotify.com/track/22slRLUJaGfRsVjatyPcI8) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM) | 4:37 | 2023-07-09 |  |
 | [Eu Vou Viver Uma Virada \(Ao Vivo\)](https://open.spotify.com/track/5Iy6cU3emGAnZZGdzLfJN7) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Celebração \(Ao Vivo\)](https://open.spotify.com/album/1rDYWku4mzowwmwg0l0lbJ) | 4:48 | 2023-07-09 | 2024-01-10 |
 | [Grande Dia](https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM) | 4:35 | 2023-07-09 |  |
@@ -43,6 +43,7 @@
 | [Meu Milagre \(Ao Vivo\)](https://open.spotify.com/track/5JlfhpLoJTtsQNqrRs8OAa) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t), [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Meu Milagre \(Ao Vivo\)](https://open.spotify.com/album/3rN0mzP5qJCoAI6SlSunXY) | 4:58 | 2023-07-09 |  |
 | [Nasci Pra Deus](https://open.spotify.com/track/3q6YCfW9zSrlMC4HRwRJbU) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Nasci Pra Deus](https://open.spotify.com/album/0jYMssO9wqHGNRAtVbYTNg) | 3:26 | 2023-07-09 | 2024-06-09 |
 | [No Pares](https://open.spotify.com/track/6lhq52ulpv88jIYpqrZBFQ) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [No Pares](https://open.spotify.com/album/3OKxWsolYmrGBYJjWGIH0H) | 4:46 | 2023-07-09 | 2023-10-11 |
+| [Novidade de Deus \(Ao Vivo\)](https://open.spotify.com/track/5R8dqjenu5rH1YPvUrapxk) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Novidade de Deus \(Ao Vivo\)](https://open.spotify.com/album/095KuEcSJ8p1hie8rfdEhW) | 3:59 | 2025-12-09 |  |
 | [Não Desisto](https://open.spotify.com/track/0PzxVp7nECCO36Nl355Dnt) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Desisto](https://open.spotify.com/album/1y16WYWXU9osg7dSAXViWl) | 4:59 | 2024-07-23 |  |
 | [Não Haverá Vergonha](https://open.spotify.com/track/2svtPIsdwo3G5tVTsMVhTN) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Haverá Vergonha](https://open.spotify.com/album/5JHnsAUQlOUH88A4bg2LRX) | 5:16 | 2023-07-09 | 2025-12-07 |
 | [Não Pare](https://open.spotify.com/track/3VCfmjE0oEMYQUil14wd0J) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/56P1CgGN8DGhG4ksRz0tfF) | 4:53 | 2023-07-09 |  |

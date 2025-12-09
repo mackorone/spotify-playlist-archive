@@ -888,7 +888,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 198279,
       "name": "Glow",
       "url": "https://open.spotify.com/track/4nEJzW7MkSF8ojY7WJnoPt"
@@ -2119,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "These are Special Times",
+        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320760,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/5547x0ZawobhfSeh2QKAca"
+    },
+    {
+      "album": {
         "name": "Christmas, With Love",
         "url": "https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs"
       },
@@ -2440,10 +2458,28 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 182040,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/45fY77CtQcaLXPSzuDgIV0"
+    },
+    {
+      "album": {
+        "name": "A Very Special Christmas",
+        "url": "https://open.spotify.com/album/06H9y3oBVGgYQ0McDsCYX4"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154906,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/359errH05UQpI0n74V8f4h"
     },
     {
       "album": {

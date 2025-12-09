@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Jackson Wang, Galantis, MK",
-  "num_followers": 46828,
+  "num_followers": 46827,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAII2fPrh9fkZif9vZkv64GXdrVDTTB",
+  "snapshot_id": "AAAIJKdVS1NZo9gisEtPyyqgrhAtIUiv",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -209,28 +209,24 @@
       "url": "https://open.spotify.com/track/0C0LsZeUyAG50xJKEIpBgY"
     },
     {
-      "added_at": "2025-07-25 00:41:06",
+      "added_at": "2025-12-08 09:05:05",
       "album": {
-        "name": "No Air",
-        "url": "https://open.spotify.com/album/3TZzPudHXFg7LzA4YXoU4s"
+        "name": "Let Me Down",
+        "url": "https://open.spotify.com/album/709Xs4JYhZApXzOtjexvfi"
       },
       "artists": [
         {
-          "name": "House Arrest",
-          "url": "https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6"
+          "name": "BURY",
+          "url": "https://open.spotify.com/artist/2QkiuWZrpomAKJRUbZUR20"
         },
         {
-          "name": "Evan Cole",
-          "url": "https://open.spotify.com/artist/1xmWaOWc9DJRJYZvWPG6vO"
-        },
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/7hUFTKv3pN48i2AYHZ9hvH"
+          "name": "DeeSaxx",
+          "url": "https://open.spotify.com/artist/7JRW5CWnM2RB6oB1yfCIf0"
         }
       ],
-      "duration_ms": 195121,
-      "name": "No Air",
-      "url": "https://open.spotify.com/track/7MDvdhDgIyPxJCys1hPJo7"
+      "duration_ms": 158000,
+      "name": "Let Me Down",
+      "url": "https://open.spotify.com/track/6IYoiAUZ8tlNQr7UVIiTrw"
     },
     {
       "added_at": "2023-04-06 10:09:03",
@@ -273,12 +269,16 @@
       "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
     },
     {
-      "added_at": "2025-08-15 00:41:05",
+      "added_at": "2025-07-25 00:41:06",
       "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/1wZxbcQvBJ7Mh9qo11zFqx"
+        "name": "No Air",
+        "url": "https://open.spotify.com/album/3TZzPudHXFg7LzA4YXoU4s"
       },
       "artists": [
+        {
+          "name": "House Arrest",
+          "url": "https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6"
+        },
         {
           "name": "Evan Cole",
           "url": "https://open.spotify.com/artist/1xmWaOWc9DJRJYZvWPG6vO"
@@ -286,15 +286,11 @@
         {
           "name": "Afterglow",
           "url": "https://open.spotify.com/artist/7hUFTKv3pN48i2AYHZ9hvH"
-        },
-        {
-          "name": "AYO",
-          "url": "https://open.spotify.com/artist/3rqSHZnkPb2du905oiAzBY"
         }
       ],
-      "duration_ms": 136721,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/22ebDAOZr2X4EIq3af1ONo"
+      "duration_ms": 195121,
+      "name": "No Air",
+      "url": "https://open.spotify.com/track/7MDvdhDgIyPxJCys1hPJo7"
     },
     {
       "added_at": "2023-04-10 10:11:03",
@@ -337,28 +333,28 @@
       "url": "https://open.spotify.com/track/6gNxFvK5yLL0uWCNQdP7GB"
     },
     {
-      "added_at": "2025-08-19 00:41:06",
+      "added_at": "2025-08-15 00:41:05",
       "album": {
-        "name": "Whine Up",
-        "url": "https://open.spotify.com/album/4OszFps96hiitCoT4ldRBw"
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/1wZxbcQvBJ7Mh9qo11zFqx"
       },
       "artists": [
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/7hUFTKv3pN48i2AYHZ9hvH"
-        },
         {
           "name": "Evan Cole",
           "url": "https://open.spotify.com/artist/1xmWaOWc9DJRJYZvWPG6vO"
         },
         {
-          "name": "House Arrest",
-          "url": "https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6"
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/7hUFTKv3pN48i2AYHZ9hvH"
+        },
+        {
+          "name": "AYO",
+          "url": "https://open.spotify.com/artist/3rqSHZnkPb2du905oiAzBY"
         }
       ],
-      "duration_ms": 140357,
-      "name": "Whine Up",
-      "url": "https://open.spotify.com/track/5y6aAx1Q58O9t6m385r6si"
+      "duration_ms": 136721,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/22ebDAOZr2X4EIq3af1ONo"
     },
     {
       "added_at": "2023-05-04 09:23:04",
@@ -379,26 +375,6 @@
       "duration_ms": 183397,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
-    },
-    {
-      "added_at": "2025-07-25 00:41:06",
-      "album": {
-        "name": "El DJ Me Enamor\u00f3",
-        "url": "https://open.spotify.com/album/55WFuUmw8TJ5eYgR0JtrcW"
-      },
-      "artists": [
-        {
-          "name": "Alvin Anthony",
-          "url": "https://open.spotify.com/artist/40SW02sSkgw10VTYc6UT9H"
-        },
-        {
-          "name": "Nicole Silva",
-          "url": "https://open.spotify.com/artist/5rWz4mQvvTAOSXyyLpZ2K0"
-        }
-      ],
-      "duration_ms": 152369,
-      "name": "El DJ Me Enamor\u00f3",
-      "url": "https://open.spotify.com/track/4STSSg3XCC2JYlwkXM3fVL"
     },
     {
       "added_at": "2023-05-04 09:23:04",
@@ -425,6 +401,30 @@
       "url": "https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R"
     },
     {
+      "added_at": "2025-08-19 00:41:06",
+      "album": {
+        "name": "Whine Up",
+        "url": "https://open.spotify.com/album/4OszFps96hiitCoT4ldRBw"
+      },
+      "artists": [
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/7hUFTKv3pN48i2AYHZ9hvH"
+        },
+        {
+          "name": "Evan Cole",
+          "url": "https://open.spotify.com/artist/1xmWaOWc9DJRJYZvWPG6vO"
+        },
+        {
+          "name": "House Arrest",
+          "url": "https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6"
+        }
+      ],
+      "duration_ms": 140357,
+      "name": "Whine Up",
+      "url": "https://open.spotify.com/track/5y6aAx1Q58O9t6m385r6si"
+    },
+    {
       "added_at": "2023-05-05 09:55:03",
       "album": {
         "name": "ILLENIUM",
@@ -449,28 +449,24 @@
       "url": "https://open.spotify.com/track/2pHTtI2tvEjGJvwJyDyCpy"
     },
     {
-      "added_at": "2025-08-15 00:41:05",
+      "added_at": "2025-07-25 00:41:06",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/2AtY0mHZgjijArCNUDzQLQ"
+        "name": "El DJ Me Enamor\u00f3",
+        "url": "https://open.spotify.com/album/55WFuUmw8TJ5eYgR0JtrcW"
       },
       "artists": [
         {
-          "name": "Night Rider",
-          "url": "https://open.spotify.com/artist/4eNLdQa2d9kUAlPhtOLh9l"
+          "name": "Alvin Anthony",
+          "url": "https://open.spotify.com/artist/40SW02sSkgw10VTYc6UT9H"
         },
         {
-          "name": "House Arrest",
-          "url": "https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6"
-        },
-        {
-          "name": "AYO",
-          "url": "https://open.spotify.com/artist/3rqSHZnkPb2du905oiAzBY"
+          "name": "Nicole Silva",
+          "url": "https://open.spotify.com/artist/5rWz4mQvvTAOSXyyLpZ2K0"
         }
       ],
-      "duration_ms": 122000,
-      "name": "High",
-      "url": "https://open.spotify.com/track/4tfs6qU73UG4s71eNhCeqB"
+      "duration_ms": 152369,
+      "name": "El DJ Me Enamor\u00f3",
+      "url": "https://open.spotify.com/track/4STSSg3XCC2JYlwkXM3fVL"
     },
     {
       "added_at": "2023-04-06 10:09:03",
@@ -497,30 +493,6 @@
       "url": "https://open.spotify.com/track/6wLqNGHQIja6xqT0cfrzBB"
     },
     {
-      "added_at": "2025-08-15 00:41:05",
-      "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/7KhdGM9Gc9MGHdtnGKNmuK"
-      },
-      "artists": [
-        {
-          "name": "Lumin8",
-          "url": "https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp"
-        },
-        {
-          "name": "Evan Cole",
-          "url": "https://open.spotify.com/artist/1xmWaOWc9DJRJYZvWPG6vO"
-        },
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/7hUFTKv3pN48i2AYHZ9hvH"
-        }
-      ],
-      "duration_ms": 148306,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/5vOihIO7NJZ8JQzWjLIY8E"
-    },
-    {
       "added_at": "2022-10-25 15:41:02",
       "album": {
         "name": "Paper Thin",
@@ -545,24 +517,28 @@
       "url": "https://open.spotify.com/track/7c2IApOeLTZfrB5dVScRUP"
     },
     {
-      "added_at": "2025-09-08 09:09:04",
+      "added_at": "2025-08-15 00:41:05",
       "album": {
-        "name": "Firestone",
-        "url": "https://open.spotify.com/album/6GTyr753ji6i2BdydYln9Q"
+        "name": "High",
+        "url": "https://open.spotify.com/album/2AtY0mHZgjijArCNUDzQLQ"
       },
       "artists": [
         {
-          "name": "VLX",
-          "url": "https://open.spotify.com/artist/5oBC97ajnMULQn5N81Y0kA"
+          "name": "Night Rider",
+          "url": "https://open.spotify.com/artist/4eNLdQa2d9kUAlPhtOLh9l"
         },
         {
-          "name": "Bikini Bandits",
-          "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
+          "name": "House Arrest",
+          "url": "https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6"
+        },
+        {
+          "name": "AYO",
+          "url": "https://open.spotify.com/artist/3rqSHZnkPb2du905oiAzBY"
         }
       ],
-      "duration_ms": 145586,
-      "name": "Firestone",
-      "url": "https://open.spotify.com/track/6hneLK9rcRjEqRHhkxqJ7a"
+      "duration_ms": 122000,
+      "name": "High",
+      "url": "https://open.spotify.com/track/4tfs6qU73UG4s71eNhCeqB"
     },
     {
       "added_at": "2023-02-10 13:13:03",
@@ -585,24 +561,28 @@
       "url": "https://open.spotify.com/track/2fY9O2PpELY5hubBbC2zEG"
     },
     {
-      "added_at": "2025-02-21 00:41:05",
+      "added_at": "2025-08-15 00:41:05",
       "album": {
-        "name": "Too Lost In You",
-        "url": "https://open.spotify.com/album/2kxdv8ndORkoljAFqCD8Yr"
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/7KhdGM9Gc9MGHdtnGKNmuK"
       },
       "artists": [
         {
-          "name": "Mastik Lickers",
-          "url": "https://open.spotify.com/artist/4v0WD4FQ8lDk6lcKR5IATN"
+          "name": "Lumin8",
+          "url": "https://open.spotify.com/artist/6sVfVaXwlrK0MPkrU8EOtp"
         },
         {
-          "name": "CMAGIC5",
-          "url": "https://open.spotify.com/artist/26QWf3ULVKyi7g32NR3fGs"
+          "name": "Evan Cole",
+          "url": "https://open.spotify.com/artist/1xmWaOWc9DJRJYZvWPG6vO"
+        },
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/7hUFTKv3pN48i2AYHZ9hvH"
         }
       ],
-      "duration_ms": 189083,
-      "name": "Too Lost In You",
-      "url": "https://open.spotify.com/track/51bXPBTBnbiYBhVf3f7dQv"
+      "duration_ms": 148306,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/5vOihIO7NJZ8JQzWjLIY8E"
     },
     {
       "added_at": "2022-03-13 15:47:02",
@@ -633,28 +613,24 @@
       "url": "https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b"
     },
     {
-      "added_at": "2024-03-08 11:28:03",
+      "added_at": "2025-09-08 09:09:04",
       "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/4Iahgsny2C1Rcpfy4LuT7W"
+        "name": "Firestone",
+        "url": "https://open.spotify.com/album/6GTyr753ji6i2BdydYln9Q"
       },
       "artists": [
         {
-          "name": "Alex Grey",
-          "url": "https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf"
-        },
-        {
-          "name": "House Arrest",
-          "url": "https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6"
+          "name": "VLX",
+          "url": "https://open.spotify.com/artist/5oBC97ajnMULQn5N81Y0kA"
         },
         {
           "name": "Bikini Bandits",
           "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
         }
       ],
-      "duration_ms": 136875,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/61oS2dKvPsWqiNn3GWxR7w"
+      "duration_ms": 145586,
+      "name": "Firestone",
+      "url": "https://open.spotify.com/track/6hneLK9rcRjEqRHhkxqJ7a"
     },
     {
       "added_at": "2023-04-26 09:24:04",
@@ -681,6 +657,26 @@
       "url": "https://open.spotify.com/track/4TA48C6sa3lRrr2hHFbePR"
     },
     {
+      "added_at": "2025-02-21 00:41:05",
+      "album": {
+        "name": "Too Lost In You",
+        "url": "https://open.spotify.com/album/2kxdv8ndORkoljAFqCD8Yr"
+      },
+      "artists": [
+        {
+          "name": "Mastik Lickers",
+          "url": "https://open.spotify.com/artist/4v0WD4FQ8lDk6lcKR5IATN"
+        },
+        {
+          "name": "CMAGIC5",
+          "url": "https://open.spotify.com/artist/26QWf3ULVKyi7g32NR3fGs"
+        }
+      ],
+      "duration_ms": 189083,
+      "name": "Too Lost In You",
+      "url": "https://open.spotify.com/track/51bXPBTBnbiYBhVf3f7dQv"
+    },
+    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "Don't Hide",
@@ -699,6 +695,30 @@
       "duration_ms": 157338,
       "name": "Don't Hide",
       "url": "https://open.spotify.com/track/5Ddp5V1M84fKmXbtDhASu0"
+    },
+    {
+      "added_at": "2024-03-08 11:28:03",
+      "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/4Iahgsny2C1Rcpfy4LuT7W"
+      },
+      "artists": [
+        {
+          "name": "Alex Grey",
+          "url": "https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf"
+        },
+        {
+          "name": "House Arrest",
+          "url": "https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6"
+        },
+        {
+          "name": "Bikini Bandits",
+          "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
+        }
+      ],
+      "duration_ms": 136875,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/61oS2dKvPsWqiNn3GWxR7w"
     },
     {
       "added_at": "2023-06-12 09:23:03",
@@ -741,22 +761,6 @@
       "url": "https://open.spotify.com/track/13J1DIbQaGs1Qb91rF8BEH"
     },
     {
-      "added_at": "2025-03-29 00:41:04",
-      "album": {
-        "name": "Waste My Time",
-        "url": "https://open.spotify.com/album/4aa5hV06hr2BAtxAqSKH8s"
-      },
-      "artists": [
-        {
-          "name": "BAF",
-          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
-        }
-      ],
-      "duration_ms": 189268,
-      "name": "Waste My Time",
-      "url": "https://open.spotify.com/track/6f7ggPpUtxrDNmn91aQZ6i"
-    },
-    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "How Do You Love",
@@ -793,24 +797,20 @@
       "url": "https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5"
     },
     {
-      "added_at": "2024-12-11 00:41:04",
+      "added_at": "2025-03-29 00:41:04",
       "album": {
-        "name": "Where You Go",
-        "url": "https://open.spotify.com/album/4GfvQQWjiVEfbpxGQOsXHl"
+        "name": "Waste My Time",
+        "url": "https://open.spotify.com/album/4aa5hV06hr2BAtxAqSKH8s"
       },
       "artists": [
         {
           "name": "BAF",
           "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
-        },
-        {
-          "name": "Evan Cole",
-          "url": "https://open.spotify.com/artist/1xmWaOWc9DJRJYZvWPG6vO"
         }
       ],
-      "duration_ms": 179512,
-      "name": "Where You Go",
-      "url": "https://open.spotify.com/track/1blLMhSCS8732PpNTJaxSp"
+      "duration_ms": 189268,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/6f7ggPpUtxrDNmn91aQZ6i"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -833,6 +833,58 @@
       "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
     },
     {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "Glue",
+        "url": "https://open.spotify.com/album/5hXjtSmicQETbDf1HNfEeD"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 269149,
+      "name": "Glue",
+      "url": "https://open.spotify.com/track/5ZYAufbhkzyhLxk0u2uLqj"
+    },
+    {
+      "added_at": "2024-12-11 00:41:04",
+      "album": {
+        "name": "Where You Go",
+        "url": "https://open.spotify.com/album/4GfvQQWjiVEfbpxGQOsXHl"
+      },
+      "artists": [
+        {
+          "name": "BAF",
+          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
+        },
+        {
+          "name": "Evan Cole",
+          "url": "https://open.spotify.com/artist/1xmWaOWc9DJRJYZvWPG6vO"
+        }
+      ],
+      "duration_ms": 179512,
+      "name": "Where You Go",
+      "url": "https://open.spotify.com/track/1blLMhSCS8732PpNTJaxSp"
+    },
+    {
+      "added_at": "2023-06-12 09:23:03",
+      "album": {
+        "name": "Heart to Heart",
+        "url": "https://open.spotify.com/album/5acVtnMTUYhOFCUxIrnrh6"
+      },
+      "artists": [
+        {
+          "name": "Phil The Beat",
+          "url": "https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Heart to Heart",
+      "url": "https://open.spotify.com/track/0SHGWofum5pzPIRCwdgCCM"
+    },
+    {
       "added_at": "2025-07-11 00:41:07",
       "album": {
         "name": "On The Line",
@@ -853,38 +905,6 @@
       "url": "https://open.spotify.com/track/7fZQtGPRPK3b0LZiGpgGV7"
     },
     {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
-        "name": "Glue",
-        "url": "https://open.spotify.com/album/5hXjtSmicQETbDf1HNfEeD"
-      },
-      "artists": [
-        {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 269149,
-      "name": "Glue",
-      "url": "https://open.spotify.com/track/5ZYAufbhkzyhLxk0u2uLqj"
-    },
-    {
-      "added_at": "2023-06-12 09:23:03",
-      "album": {
-        "name": "Heart to Heart",
-        "url": "https://open.spotify.com/album/5acVtnMTUYhOFCUxIrnrh6"
-      },
-      "artists": [
-        {
-          "name": "Phil The Beat",
-          "url": "https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Heart to Heart",
-      "url": "https://open.spotify.com/track/0SHGWofum5pzPIRCwdgCCM"
-    },
-    {
       "added_at": "2023-06-12 09:23:03",
       "album": {
         "name": "One Last Time",
@@ -903,26 +923,6 @@
       "duration_ms": 240383,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/17kleFbwU5STT8AiR1EXOT"
-    },
-    {
-      "added_at": "2025-03-29 00:41:04",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/14WWn8qxwHM5scN8nyMOy2"
-      },
-      "artists": [
-        {
-          "name": "Walle",
-          "url": "https://open.spotify.com/artist/0Zs5L8z6cWzmlcMjHNSij0"
-        },
-        {
-          "name": "House Arrest",
-          "url": "https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0RrLkemIhB64yI2yOMxixG"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -947,22 +947,6 @@
       "duration_ms": 176250,
       "name": "Ring The Alarm - Habstrakt Remix",
       "url": "https://open.spotify.com/track/67kJ3o6PrkB9CetDTXQ1wR"
-    },
-    {
-      "added_at": "2025-08-22 00:41:14",
-      "album": {
-        "name": "Falling Slow",
-        "url": "https://open.spotify.com/album/03b2XFZkvWrr4QHzqhTBAl"
-      },
-      "artists": [
-        {
-          "name": "MNT",
-          "url": "https://open.spotify.com/artist/6bMj5nDzBr0mlQtM1U9A98"
-        }
-      ],
-      "duration_ms": 135687,
-      "name": "Falling Slow",
-      "url": "https://open.spotify.com/track/4UOHF8lYzxip4o14O3SPFc"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -993,6 +977,26 @@
       "url": "https://open.spotify.com/track/6QD2VjrjttjljqUZPf9R89"
     },
     {
+      "added_at": "2025-03-29 00:41:04",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/14WWn8qxwHM5scN8nyMOy2"
+      },
+      "artists": [
+        {
+          "name": "Walle",
+          "url": "https://open.spotify.com/artist/0Zs5L8z6cWzmlcMjHNSij0"
+        },
+        {
+          "name": "House Arrest",
+          "url": "https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0RrLkemIhB64yI2yOMxixG"
+    },
+    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "Something Good",
@@ -1013,24 +1017,20 @@
       "url": "https://open.spotify.com/track/76fM7d7hS1jHSzCGIy69DN"
     },
     {
-      "added_at": "2025-07-18 00:41:07",
+      "added_at": "2025-08-22 00:41:14",
       "album": {
-        "name": "Forever In Your Eyes",
-        "url": "https://open.spotify.com/album/41DO95rft6ZXHMVChvjAxE"
+        "name": "Falling Slow",
+        "url": "https://open.spotify.com/album/03b2XFZkvWrr4QHzqhTBAl"
       },
       "artists": [
         {
-          "name": "Avondzy",
-          "url": "https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u"
-        },
-        {
-          "name": "BAF",
-          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
+          "name": "MNT",
+          "url": "https://open.spotify.com/artist/6bMj5nDzBr0mlQtM1U9A98"
         }
       ],
-      "duration_ms": 187535,
-      "name": "Forever In Your Eyes",
-      "url": "https://open.spotify.com/track/3pSFpWBLiggh3sHz8rEFaS"
+      "duration_ms": 135687,
+      "name": "Falling Slow",
+      "url": "https://open.spotify.com/track/4UOHF8lYzxip4o14O3SPFc"
     },
     {
       "added_at": "2023-06-12 09:23:03",
@@ -1069,6 +1069,62 @@
       "url": "https://open.spotify.com/track/6eSWdCAvzD4danVK3OlqYU"
     },
     {
+      "added_at": "2025-07-18 00:41:07",
+      "album": {
+        "name": "Forever In Your Eyes",
+        "url": "https://open.spotify.com/album/41DO95rft6ZXHMVChvjAxE"
+      },
+      "artists": [
+        {
+          "name": "Avondzy",
+          "url": "https://open.spotify.com/artist/6wBne3PTBbY53TRCAnAS5u"
+        },
+        {
+          "name": "BAF",
+          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
+        }
+      ],
+      "duration_ms": 187535,
+      "name": "Forever In Your Eyes",
+      "url": "https://open.spotify.com/track/3pSFpWBLiggh3sHz8rEFaS"
+    },
+    {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "By My Side (From The Original Television Soundtrack Blade Runner Black Lotus)",
+        "url": "https://open.spotify.com/album/3EHRX0NI8Nr9pjA9NLXw3Y"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 165773,
+      "name": "By My Side - From The Original Television Soundtrack Blade Runner Black Lotus",
+      "url": "https://open.spotify.com/track/4eIyZcuHRAF4novYFxThwe"
+    },
+    {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "Lavandia",
+        "url": "https://open.spotify.com/album/4r0jAN8bfb4Lrhj9hgb1fH"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+        }
+      ],
+      "duration_ms": 148333,
+      "name": "Lavandia",
+      "url": "https://open.spotify.com/track/2aLaWfLeSzWrTLdLeVQ6zQ"
+    },
+    {
       "added_at": "2025-07-11 00:41:07",
       "album": {
         "name": "Take It Easy",
@@ -1091,18 +1147,22 @@
     {
       "added_at": "2023-06-13 09:44:03",
       "album": {
-        "name": "By My Side (From The Original Television Soundtrack Blade Runner Black Lotus)",
-        "url": "https://open.spotify.com/album/3EHRX0NI8Nr9pjA9NLXw3Y"
+        "name": "Congratulations (Don Diablo VIP Mix)",
+        "url": "https://open.spotify.com/album/4PFXME1mmhj54RxWMxH5UX"
       },
       "artists": [
         {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
         }
       ],
-      "duration_ms": 165773,
-      "name": "By My Side - From The Original Television Soundtrack Blade Runner Black Lotus",
-      "url": "https://open.spotify.com/track/4eIyZcuHRAF4novYFxThwe"
+      "duration_ms": 195483,
+      "name": "Congratulations - Don Diablo VIP Mix",
+      "url": "https://open.spotify.com/track/04g1aQFzaegB7ovWaMMIzz"
     },
     {
       "added_at": "2024-02-02 11:28:03",
@@ -1129,62 +1189,6 @@
       "url": "https://open.spotify.com/track/0lfY5tQOzkF0vWk0umNvko"
     },
     {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
-        "name": "Lavandia",
-        "url": "https://open.spotify.com/album/4r0jAN8bfb4Lrhj9hgb1fH"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Arash",
-          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
-        }
-      ],
-      "duration_ms": 148333,
-      "name": "Lavandia",
-      "url": "https://open.spotify.com/track/2aLaWfLeSzWrTLdLeVQ6zQ"
-    },
-    {
-      "added_at": "2024-10-18 00:45:03",
-      "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/1kqG8g2h14hB7ibLDdEb10"
-      },
-      "artists": [
-        {
-          "name": "BAF",
-          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
-        }
-      ],
-      "duration_ms": 169756,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/1M32IUGzkYJO6KykeldJGG"
-    },
-    {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
-        "name": "Congratulations (Don Diablo VIP Mix)",
-        "url": "https://open.spotify.com/album/4PFXME1mmhj54RxWMxH5UX"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
-        }
-      ],
-      "duration_ms": 195483,
-      "name": "Congratulations - Don Diablo VIP Mix",
-      "url": "https://open.spotify.com/track/04g1aQFzaegB7ovWaMMIzz"
-    },
-    {
       "added_at": "2023-06-12 09:23:03",
       "album": {
         "name": "Be Kind (with Halsey)",
@@ -1203,6 +1207,22 @@
       "duration_ms": 172761,
       "name": "Be Kind (with Halsey)",
       "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
+    },
+    {
+      "added_at": "2024-10-18 00:45:03",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1kqG8g2h14hB7ibLDdEb10"
+      },
+      "artists": [
+        {
+          "name": "BAF",
+          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
+        }
+      ],
+      "duration_ms": 169756,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/1M32IUGzkYJO6KykeldJGG"
     },
     {
       "added_at": "2023-06-12 09:23:03",
@@ -1249,22 +1269,6 @@
       "url": "https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d"
     },
     {
-      "added_at": "2025-02-21 00:41:05",
-      "album": {
-        "name": "Work",
-        "url": "https://open.spotify.com/album/4jQ1JiwWfA3LPQoTj4C6LG"
-      },
-      "artists": [
-        {
-          "name": "BAF",
-          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
-        }
-      ],
-      "duration_ms": 169756,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/6e5u5ZJSloCPSqEbTaJU9G"
-    },
-    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "Invisible Dress (Maro Music x Skytech Remix)",
@@ -1289,30 +1293,6 @@
       "url": "https://open.spotify.com/track/5ihUSA58Ykw7ZPR0aRyMCX"
     },
     {
-      "added_at": "2024-03-22 11:28:03",
-      "album": {
-        "name": "The Riddle",
-        "url": "https://open.spotify.com/album/5lYypAMKqHaqiAudIX4h2G"
-      },
-      "artists": [
-        {
-          "name": "LAST CALL",
-          "url": "https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN"
-        },
-        {
-          "name": "Sundays",
-          "url": "https://open.spotify.com/artist/0jqSF6PoAXOnolddmtAnr1"
-        },
-        {
-          "name": "Bikini Bandits",
-          "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
-        }
-      ],
-      "duration_ms": 157938,
-      "name": "The Riddle",
-      "url": "https://open.spotify.com/track/2ZOUfWO1AeHk7f9ocyUvmR"
-    },
-    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "Side By Side (with MKLA)",
@@ -1331,6 +1311,22 @@
       "duration_ms": 153870,
       "name": "Side By Side (with MKLA)",
       "url": "https://open.spotify.com/track/37107dPB28NderX4Tpbirg"
+    },
+    {
+      "added_at": "2025-02-21 00:41:05",
+      "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/4jQ1JiwWfA3LPQoTj4C6LG"
+      },
+      "artists": [
+        {
+          "name": "BAF",
+          "url": "https://open.spotify.com/artist/1mhpQdXVCnq31AwzgCPxK9"
+        }
+      ],
+      "duration_ms": 169756,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/6e5u5ZJSloCPSqEbTaJU9G"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1355,6 +1351,30 @@
       "duration_ms": 194693,
       "name": "Are You Sure? (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/0fH86zQcE2CmATQju6WpXv"
+    },
+    {
+      "added_at": "2024-03-22 11:28:03",
+      "album": {
+        "name": "The Riddle",
+        "url": "https://open.spotify.com/album/5lYypAMKqHaqiAudIX4h2G"
+      },
+      "artists": [
+        {
+          "name": "LAST CALL",
+          "url": "https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN"
+        },
+        {
+          "name": "Sundays",
+          "url": "https://open.spotify.com/artist/0jqSF6PoAXOnolddmtAnr1"
+        },
+        {
+          "name": "Bikini Bandits",
+          "url": "https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr"
+        }
+      ],
+      "duration_ms": 157938,
+      "name": "The Riddle",
+      "url": "https://open.spotify.com/track/2ZOUfWO1AeHk7f9ocyUvmR"
     },
     {
       "added_at": "2023-06-12 09:23:03",
@@ -1397,30 +1417,6 @@
       "url": "https://open.spotify.com/track/6hpUC8LHOj0U1JHuFasl9b"
     },
     {
-      "added_at": "2025-07-04 00:41:07",
-      "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/22DXwNULVGaGrvcbd4yw7x"
-      },
-      "artists": [
-        {
-          "name": "Patrick Lite",
-          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
-        },
-        {
-          "name": "Alterlite",
-          "url": "https://open.spotify.com/artist/6KUD2PHNsroeJ5YH3YSISu"
-        },
-        {
-          "name": "House Arrest",
-          "url": "https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6"
-        }
-      ],
-      "duration_ms": 165123,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/5EO8rrnIPika2w7kIGORft"
-    },
-    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "Firefly",
@@ -1455,6 +1451,30 @@
       "duration_ms": 167440,
       "name": "For You",
       "url": "https://open.spotify.com/track/3PEOQwIjl63hKEc67hyYSY"
+    },
+    {
+      "added_at": "2025-07-04 00:41:07",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/22DXwNULVGaGrvcbd4yw7x"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+        },
+        {
+          "name": "Alterlite",
+          "url": "https://open.spotify.com/artist/6KUD2PHNsroeJ5YH3YSISu"
+        },
+        {
+          "name": "House Arrest",
+          "url": "https://open.spotify.com/artist/5oggarLMIMIMhyOvjzj0a6"
+        }
+      ],
+      "duration_ms": 165123,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/5EO8rrnIPika2w7kIGORft"
     },
     {
       "added_at": "2023-06-12 09:23:03",
@@ -2039,26 +2059,6 @@
       "duration_ms": 170510,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/25qhCdtNV7jCiAbcxFxZgx"
-    },
-    {
-      "added_at": "2025-12-01 09:07:04",
-      "album": {
-        "name": "More Than Friends",
-        "url": "https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 140698,
-      "name": "More Than Friends",
-      "url": "https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD"
     }
   ],
   "unique_name": "EDM Top 100",

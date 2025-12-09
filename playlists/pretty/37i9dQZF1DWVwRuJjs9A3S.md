@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie, med Svart Ridå
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,435 likes - 238 songs - 14 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,437 likes - 238 songs - 14 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

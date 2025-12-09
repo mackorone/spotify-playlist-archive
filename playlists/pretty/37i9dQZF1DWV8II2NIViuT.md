@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8II2NIViuT.md) - [plain]
 
 > Stevie Wonder's rich catalog, interpreted by artists from a wide variety of musical genres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,498 likes - 38 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,495 likes - 38 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

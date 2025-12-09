@@ -4,11 +4,12 @@
 
 > These are some independent rock bands you need to hear.
 
-145 songs - 8 hr 45 min
+149 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Long Story](https://open.spotify.com/track/1sXc1lA2CtvG83pPK5a8BC) | [Shadows Of Earth](https://open.spotify.com/artist/1lkixm50bb6mtDPZspK90Z), [Khaino](https://open.spotify.com/artist/3Cu7fUV3xvZHRJrDlYBmdA) | [A Long Story](https://open.spotify.com/album/3PRvYoYU3Rv4NTymnp19qh) | 3:20 | 2025-11-11 |  |
+| [A ralentí](https://open.spotify.com/track/5d9ZbyfXEKs5lErqOH23M8) | [Luis Mera Lucky](https://open.spotify.com/artist/629odbW6ae9N0hHdmtwbpP) | [Sereno y aislado \(El viaje del pirata\)](https://open.spotify.com/album/6UeRvfX3oTwQ5Z7i3b7Cw3) | 3:48 | 2025-12-08 |  |
 | [ACT YOUR WAGE](https://open.spotify.com/track/6HcIr2p7VT5BrAdbManafE) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [ACT YOUR WAGE](https://open.spotify.com/album/21oePuj5IH2GlpGjJPfWnY) | 3:06 | 2025-11-04 |  |
 | [Addressed To Me](https://open.spotify.com/track/65fzBanf8FMM5NIbmPfWLe) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Addressed To Me](https://open.spotify.com/album/3i69gB3JO3RUfKcTiLxdV6) | 3:47 | 2025-10-18 |  |
 | [Affection](https://open.spotify.com/track/1MbXQOK884LNMc6DzIyn4h) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Old, New, Borrowed](https://open.spotify.com/album/2fe1lqChqutX3RlqZB5rqN) | 4:27 | 2025-11-04 |  |
@@ -63,10 +64,12 @@
 | [Ghosts](https://open.spotify.com/track/3bUg0pzC285GlYNIiwR5uP) | [Auchenflower](https://open.spotify.com/artist/3BaeOXKRaGaAzoNPxLG4Lg) | [Ghosts](https://open.spotify.com/album/3bwTQlkZFOEkIkFBWPZcJf) | 3:45 | 2025-11-13 |  |
 | [Glory Box](https://open.spotify.com/track/5JpTSv8YWDetex23Shl9Q4) | [Fifth Hour](https://open.spotify.com/artist/7rvBM6eUko39V8tWcecJJY) | [Glory Box](https://open.spotify.com/album/0DGdhDeY6oBFQY4uWOWVjB) | 3:17 | 2025-10-17 |  |
 | [Good Evening](https://open.spotify.com/track/4A99dvKXvbGihH1gfxjQRd) | [Theo Ford](https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S) | [Timelapse](https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE) | 3:32 | 2025-11-27 |  |
+| [Gullible](https://open.spotify.com/track/6YPvJW4uHwCQxqfAf1y7yT) | [Rivera](https://open.spotify.com/artist/0o3CCG8AUPD5NwZb0hqDOX) | [Gullible](https://open.spotify.com/album/19dtDjcnes6R1Ohg2tvH2a) | 3:58 | 2025-12-08 |  |
 | [I Am Flawed](https://open.spotify.com/track/3oYFTvvRrZ9KSMq7hbuaOo) | [not equal to](https://open.spotify.com/artist/0ULpVOsLdkHOUlA3006rnz) | [I Am Flawed](https://open.spotify.com/album/20ZRfSRKjTMNCYtRXmWI36) | 3:16 | 2025-12-07 |  |
 | [I Don't Believe in Anything](https://open.spotify.com/track/3a5ZYfcugq5ForOAOSplrb) | [Worthington's Law](https://open.spotify.com/artist/7mEM3d5nAPGHAIO16h96kx) | [When the Leaves Fall + I Don't Believe in Anything](https://open.spotify.com/album/6JVe5hfVRUPjwhPOsM8wma) | 2:39 | 2025-10-18 |  |
 | [I Only Cry From a Distance x Time Frustration](https://open.spotify.com/track/2A06ZDCmfAevcBlzGPGrAw) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [CHERYL! Your Love Shines Down Like A Supernova’s Death](https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT) | 4:53 | 2025-11-06 |  |
 | [I RAGAZZI DEL 2020](https://open.spotify.com/track/4KqNZui4229o3aQu6i175G) | [SULABU](https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ) | [I RAGAZZI DEL 2020](https://open.spotify.com/album/1WIXpY3RQ4b8pHn40b1nP8) | 4:31 | 2025-12-03 |  |
+| [I'll Try To Be Me](https://open.spotify.com/track/0pZxLIpnGqaSdlHZ8py0ox) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [I'll Try To Be Me](https://open.spotify.com/album/4KRfApT06AeCFlLhTWY8qW) | 3:44 | 2025-12-08 |  |
 | [ill\-intent](https://open.spotify.com/track/0E80R4bro3Xmh3DwJm9VBy) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [Mort D'Amour](https://open.spotify.com/album/73CPs6sCPgCBSyIZolAaSc) | 2:54 | 2025-10-28 | 2025-11-22 |
 | [In Gloom](https://open.spotify.com/track/7BIBJ6btwFZHRPAH5qdqli) | [Margarida The Cat](https://open.spotify.com/artist/31DECbEW8piJ1XXK1wPulZ) | [In Gloom](https://open.spotify.com/album/3Fs2fNTaVEZ1YCBECXyNGr) | 3:21 | 2025-11-22 |  |
 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 | 2025-09-27 |  |
@@ -83,6 +86,7 @@
 | [Miasma](https://open.spotify.com/track/5h6VI7hqGOEHKZ2SB841o1) | [Shivar](https://open.spotify.com/artist/3PxXprTqU2XCcSEWqfHZKA) | [Miasma](https://open.spotify.com/album/6iidZ2ekONN6F6X9Z4msfl) | 4:18 | 2025-11-17 |  |
 | [Minimal Life](https://open.spotify.com/track/5wwqaDdBRzWOPzzrXyVEB2) | [Waiting for the Sun](https://open.spotify.com/artist/6FBHO9VpDvTirqGAR7mEiA) | [Minimal Life](https://open.spotify.com/album/3JoINj8K0gm9zBjt0SNpzB) | 5:43 | 2025-11-27 |  |
 | [Moonlight In Her Eyes](https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:51 | 2025-11-29 |  |
+| [My Wings](https://open.spotify.com/track/4uvvxklqvcOxTrNdvnZTco) | [Bliss On The Stars](https://open.spotify.com/artist/6mVn8YjdSG1C5PxcksAeiU) | [My Wings](https://open.spotify.com/album/5YBEL7PVdJsWTwPOBxlpCQ) | 4:24 | 2025-12-08 |  |
 | [Never Gonna Make You Mine](https://open.spotify.com/track/1SUOjtXdd7WtFlzuQlYo60) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Never Gonna Make You Mine](https://open.spotify.com/album/3hitAWfJNEBSrzYWm2CGrz) | 3:02 | 2025-11-21 |  |
 | [NO](https://open.spotify.com/track/0EVKsHWoodqSaburPbBUzJ) | [MONOBERMUDO](https://open.spotify.com/artist/3LMo7RbDhqPnuLwtfGQihv) | [NO](https://open.spotify.com/album/19v34ghKtt5qmrLZySuq4K) | 1:59 | 2025-11-04 | 2025-11-22 |
 | [No Regrets](https://open.spotify.com/track/5VYopasSs1SJL9l6fgqTZA) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [No Regrets](https://open.spotify.com/album/76jbaG6yFjt6m3jQIIFxgF) | 3:02 | 2025-11-13 |  |

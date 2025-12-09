@@ -1,6 +1,6 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 384729,
+  "num_followers": 384739,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
+        "name": "The Seely Style",
+        "url": "https://open.spotify.com/album/5dx7Vs0d283fuSeaYpvSsw"
+      },
+      "artists": [
+        {
+          "name": "Jeannie Seely",
+          "url": "https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY"
+        }
+      ],
+      "duration_ms": 192686,
+      "name": "Don't Touch Me",
+      "url": "https://open.spotify.com/track/1Y2G8nl3CGR3qMPDDBuDhb"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
         "name": "The Essential Porter Wagoner",
         "url": "https://open.spotify.com/album/1OIGVkIdVSz2t0vIYnuA7S"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 196400,
       "name": "Me And Bobby McGee",
       "url": "https://open.spotify.com/track/3i5bJFIAkgoZqJoRAQqAKO"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
-        "name": "The Seely Style",
-        "url": "https://open.spotify.com/album/5dx7Vs0d283fuSeaYpvSsw"
-      },
-      "artists": [
-        {
-          "name": "Jeannie Seely",
-          "url": "https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY"
-        }
-      ],
-      "duration_ms": 192686,
-      "name": "Don't Touch Me",
-      "url": "https://open.spotify.com/track/1Y2G8nl3CGR3qMPDDBuDhb"
     },
     {
       "added_at": "2024-07-05 21:22:46",

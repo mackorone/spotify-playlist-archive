@@ -1,6 +1,6 @@
 {
   "description": "The new school - Alternative R&B. Cover: BLK ODYSSY",
-  "num_followers": 1332299,
+  "num_followers": 1332203,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
@@ -1085,6 +1085,22 @@
       "url": "https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD"
     },
     {
+      "added_at": "2024-12-06 07:13:57",
+      "album": {
+        "name": "Still In Love",
+        "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 161164,
+      "name": "Still In Love",
+      "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
+    },
+    {
       "added_at": "2024-08-23 05:28:40",
       "album": {
         "name": "Babe",
@@ -1109,22 +1125,6 @@
       "url": "https://open.spotify.com/track/4DbsTW4h2gjwdpC9W9iID4"
     },
     {
-      "added_at": "2024-12-06 07:13:57",
-      "album": {
-        "name": "Still In Love",
-        "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 161164,
-      "name": "Still In Love",
-      "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
-    },
-    {
       "added_at": "2025-10-17 06:22:08",
       "album": {
         "name": "baby",
@@ -1141,22 +1141,6 @@
       "url": "https://open.spotify.com/track/5Oq6iKIWE3Q1i3G2fES5Oc"
     },
     {
-      "added_at": "2024-06-21 07:44:39",
-      "album": {
-        "name": "Too Much",
-        "url": "https://open.spotify.com/album/38sQTEAfgwCCTWj5Grmosc"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/4rzfXpou7FRHP1kIAerMCH"
-    },
-    {
       "added_at": "2025-08-15 06:41:00",
       "album": {
         "name": "Baby",
@@ -1171,6 +1155,22 @@
       "duration_ms": 207950,
       "name": "Another Baby!",
       "url": "https://open.spotify.com/track/6rTge3gYWYkluC9MsXDZoV"
+    },
+    {
+      "added_at": "2024-06-21 07:44:39",
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/38sQTEAfgwCCTWj5Grmosc"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/4rzfXpou7FRHP1kIAerMCH"
     },
     {
       "added_at": "2025-08-01 08:16:45",
@@ -1221,26 +1221,6 @@
       "url": "https://open.spotify.com/track/025c4zVMZmyLrSPtsmXA7x"
     },
     {
-      "added_at": "2025-06-13 04:00:56",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/0DHx1mktkaDnrMFmEf0iHV"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        },
-        {
-          "name": "Bryant Barnes",
-          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2"
-    },
-    {
       "added_at": "2024-05-24 06:53:46",
       "album": {
         "name": "LET U LEAD (with Billy Lemos)",
@@ -1259,6 +1239,26 @@
       "duration_ms": 150857,
       "name": "LET U LEAD (with Billy Lemos)",
       "url": "https://open.spotify.com/track/5rp6f6CiXVjpZ09u0BHeeN"
+    },
+    {
+      "added_at": "2025-06-13 04:00:56",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/0DHx1mktkaDnrMFmEf0iHV"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        },
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2"
     },
     {
       "added_at": "2025-08-15 06:41:00",
@@ -1389,22 +1389,6 @@
       "url": "https://open.spotify.com/track/3PXhooQtCnYZXLaWr7KSmG"
     },
     {
-      "added_at": "2025-09-12 20:05:34",
-      "album": {
-        "name": "JUICY",
-        "url": "https://open.spotify.com/album/20F80R47bc7O1rlCHXPiiP"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 192221,
-      "name": "JUICY",
-      "url": "https://open.spotify.com/track/3SYa9xlmRsRB772x9y5GUz"
-    },
-    {
       "added_at": "2025-02-07 08:30:49",
       "album": {
         "name": "Soft Spot (Deluxe Edition)",
@@ -1425,6 +1409,38 @@
       "url": "https://open.spotify.com/track/32B5Ht7NQoanL8WHiE6GMA"
     },
     {
+      "added_at": "2025-09-12 20:05:34",
+      "album": {
+        "name": "JUICY",
+        "url": "https://open.spotify.com/album/20F80R47bc7O1rlCHXPiiP"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 192221,
+      "name": "JUICY",
+      "url": "https://open.spotify.com/track/3SYa9xlmRsRB772x9y5GUz"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "hillside",
+        "url": "https://open.spotify.com/album/6tLJiimtOK3RaFetJZrslR"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "hillside",
+      "url": "https://open.spotify.com/track/6SmqjAiE7w5NmCX6esq61v"
+    },
+    {
       "added_at": "2024-06-07 12:28:44",
       "album": {
         "name": "TIMELESS",
@@ -1443,22 +1459,6 @@
       "duration_ms": 192017,
       "name": "Video (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "hillside",
-        "url": "https://open.spotify.com/album/6tLJiimtOK3RaFetJZrslR"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "hillside",
-      "url": "https://open.spotify.com/track/6SmqjAiE7w5NmCX6esq61v"
     },
     {
       "added_at": "2025-09-07 01:24:20",
@@ -1641,22 +1641,6 @@
       "url": "https://open.spotify.com/track/5fZM36ZapKLmexDKuBW4pO"
     },
     {
-      "added_at": "2025-10-10 08:11:09",
-      "album": {
-        "name": "CAOS",
-        "url": "https://open.spotify.com/album/6XZdWfb2Ou8ga8LVCpHJPh"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 197410,
-      "name": "CAOS",
-      "url": "https://open.spotify.com/track/6lLfq5ZYSTMauPOLSJOTZN"
-    },
-    {
       "added_at": "2024-09-27 23:55:30",
       "album": {
         "name": "don't text me back",
@@ -1671,6 +1655,22 @@
       "duration_ms": 201000,
       "name": "all over u",
       "url": "https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637"
+    },
+    {
+      "added_at": "2025-10-10 08:11:09",
+      "album": {
+        "name": "CAOS",
+        "url": "https://open.spotify.com/album/6XZdWfb2Ou8ga8LVCpHJPh"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 197410,
+      "name": "CAOS",
+      "url": "https://open.spotify.com/track/6lLfq5ZYSTMauPOLSJOTZN"
     },
     {
       "added_at": "2025-05-02 04:00:39",
@@ -1817,22 +1817,6 @@
       "url": "https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg"
     },
     {
-      "added_at": "2025-09-12 20:05:34",
-      "album": {
-        "name": "Art Museum (2am)",
-        "url": "https://open.spotify.com/album/1w6aoFfe36P5hJ5KTuPcD0"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 130189,
-      "name": "Art Museum (2am)",
-      "url": "https://open.spotify.com/track/10u8ssp3b4XOqB9s4nczkd"
-    },
-    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Low End Love Songs",
@@ -1847,6 +1831,22 @@
       "duration_ms": 210957,
       "name": "Spend More Time With Your Friends",
       "url": "https://open.spotify.com/track/5l842FSBBISyxTaMinQ12R"
+    },
+    {
+      "added_at": "2025-09-12 20:05:34",
+      "album": {
+        "name": "Art Museum (2am)",
+        "url": "https://open.spotify.com/album/1w6aoFfe36P5hJ5KTuPcD0"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 130189,
+      "name": "Art Museum (2am)",
+      "url": "https://open.spotify.com/track/10u8ssp3b4XOqB9s4nczkd"
     },
     {
       "added_at": "2025-08-01 08:16:45",
@@ -2057,22 +2057,6 @@
       "url": "https://open.spotify.com/track/3txRu0oUiaaGalqysVvWqf"
     },
     {
-      "added_at": "2024-08-30 06:47:05",
-      "album": {
-        "name": "intention 4 u",
-        "url": "https://open.spotify.com/album/5xouGwfdwpVnhldVCy9L57"
-      },
-      "artists": [
-        {
-          "name": "Rowena Fysx",
-          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
-        }
-      ],
-      "duration_ms": 240912,
-      "name": "intention 4 u",
-      "url": "https://open.spotify.com/track/4Xn4gMIwy5bpgbE7HAOKTq"
-    },
-    {
       "added_at": "2025-04-04 04:43:43",
       "album": {
         "name": "THE LAST TIME",
@@ -2091,6 +2075,22 @@
       "duration_ms": 194823,
       "name": "THE LAST TIME",
       "url": "https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs"
+    },
+    {
+      "added_at": "2024-08-30 06:47:05",
+      "album": {
+        "name": "intention 4 u",
+        "url": "https://open.spotify.com/album/5xouGwfdwpVnhldVCy9L57"
+      },
+      "artists": [
+        {
+          "name": "Rowena Fysx",
+          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
+        }
+      ],
+      "duration_ms": 240912,
+      "name": "intention 4 u",
+      "url": "https://open.spotify.com/track/4Xn4gMIwy5bpgbE7HAOKTq"
     },
     {
       "added_at": "2025-11-07 07:39:57",
@@ -2181,22 +2181,6 @@
       "url": "https://open.spotify.com/track/5p11IMrHpfoyMsEMNPCjD9"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Always Time",
-        "url": "https://open.spotify.com/album/5PY2TzvArOEkwhVRDG1zEX"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Always Time",
-      "url": "https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK"
-    },
-    {
       "added_at": "2024-06-14 07:30:32",
       "album": {
         "name": "Dream About You All Through The Night.",
@@ -2211,6 +2195,22 @@
       "duration_ms": 229310,
       "name": "Dream About You All Through The Night.",
       "url": "https://open.spotify.com/track/4dTX84JZlOg4hRBAHx3ptT"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Always Time",
+        "url": "https://open.spotify.com/album/5PY2TzvArOEkwhVRDG1zEX"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Always Time",
+      "url": "https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK"
     },
     {
       "added_at": "2025-05-02 04:00:39",
@@ -2285,22 +2285,6 @@
       "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
     },
     {
-      "added_at": "2025-09-07 01:24:20",
-      "album": {
-        "name": "tell me why",
-        "url": "https://open.spotify.com/album/5OFjCMmSiIGxIfj83dDQjg"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        }
-      ],
-      "duration_ms": 192449,
-      "name": "tell me why",
-      "url": "https://open.spotify.com/track/3mLagm04j1TXJ7yCGobz2C"
-    },
-    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Lucky 7",
@@ -2315,6 +2299,22 @@
       "duration_ms": 228261,
       "name": "Your Ecstasy",
       "url": "https://open.spotify.com/track/0UNHlFaWHa66B37wcGVn0O"
+    },
+    {
+      "added_at": "2025-09-07 01:24:20",
+      "album": {
+        "name": "tell me why",
+        "url": "https://open.spotify.com/album/5OFjCMmSiIGxIfj83dDQjg"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 192449,
+      "name": "tell me why",
+      "url": "https://open.spotify.com/track/3mLagm04j1TXJ7yCGobz2C"
     },
     {
       "added_at": "2024-05-31 07:53:07",
@@ -2449,22 +2449,6 @@
       "url": "https://open.spotify.com/track/06nHXSt8RPzvdiXNrz3Ocv"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Orion",
-        "url": "https://open.spotify.com/album/735gHf5O9KuZlPaXUqilzl"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 155240,
-      "name": "Nights Like This",
-      "url": "https://open.spotify.com/track/3V20OKj17cqyZTtQAExeUR"
-    },
-    {
       "added_at": "2025-02-28 07:11:38",
       "album": {
         "name": "need your love",
@@ -2479,6 +2463,22 @@
       "duration_ms": 176488,
       "name": "need your love",
       "url": "https://open.spotify.com/track/1CqwiEhGcYlRntmpTIHGCu"
+    },
+    {
+      "added_at": "2025-08-15 06:41:00",
+      "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/6hXhIGninvkhV0kOOFZuMD"
+      },
+      "artists": [
+        {
+          "name": "MOIO",
+          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
+        }
+      ],
+      "duration_ms": 191706,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/1rCx6JsPW5DP31O5DoVN3C"
     },
     {
       "added_at": "2025-02-14 07:50:47",
@@ -2497,20 +2497,20 @@
       "url": "https://open.spotify.com/track/21ktp6PzUlRdruDIEcraM2"
     },
     {
-      "added_at": "2025-08-15 06:41:00",
+      "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Figure It Out",
-        "url": "https://open.spotify.com/album/6hXhIGninvkhV0kOOFZuMD"
+        "name": "Orion",
+        "url": "https://open.spotify.com/album/735gHf5O9KuZlPaXUqilzl"
       },
       "artists": [
         {
-          "name": "MOIO",
-          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
         }
       ],
-      "duration_ms": 191706,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/1rCx6JsPW5DP31O5DoVN3C"
+      "duration_ms": 155240,
+      "name": "Nights Like This",
+      "url": "https://open.spotify.com/track/3V20OKj17cqyZTtQAExeUR"
     },
     {
       "added_at": "2024-06-28 18:42:06",
@@ -2531,22 +2531,6 @@
       "duration_ms": 186346,
       "name": "STANK ROSE",
       "url": "https://open.spotify.com/track/3UgGcXBLByVMxC1SDZwcLO"
-    },
-    {
-      "added_at": "2024-06-14 07:30:32",
-      "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Already Gone",
-      "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
     },
     {
       "added_at": "2025-09-26 19:38:36",
@@ -2583,6 +2567,22 @@
       "duration_ms": 190412,
       "name": "Tantrums (feat. James Blake)",
       "url": "https://open.spotify.com/track/13emOZj9lqqVJg4JJ7ABBi"
+    },
+    {
+      "added_at": "2024-10-20 00:14:41",
+      "album": {
+        "name": "Glimmer of God",
+        "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 158386,
+      "name": "200 Cigarettes",
+      "url": "https://open.spotify.com/track/2bAVI1A5pTpfi6qloElMWa"
     }
   ],
   "unique_name": "Vanguard",

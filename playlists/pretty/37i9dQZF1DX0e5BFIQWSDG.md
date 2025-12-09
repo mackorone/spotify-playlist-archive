@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: RACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,489 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,485 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 45 | [LISTEIA](https://open.spotify.com/track/0Kx9GDeRcQyzaMQRqIk12j) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe) | [1%](https://open.spotify.com/album/3VV0IJpxgIPSxesoopN6s0) | 2:21 |
 | 46 | [5 AM](https://open.spotify.com/track/1JGntUi9e8Oe2N5lBdXYGU) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [5 AM](https://open.spotify.com/album/18LPhQUpQbp4QkoX27LyfZ) | 3:15 |
 | 47 | [Provlimata](https://open.spotify.com/track/0SwDKWxXKHKGSKXrLtA0xH) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Oneiropolos](https://open.spotify.com/album/4aWRnOdlk1K83Bf4uDf2u2) | 2:24 |
-| 48 | [Alleluia](https://open.spotify.com/track/0qToKOjoIshAsxGuSJ7DhY) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [Arcade](https://open.spotify.com/artist/79GjHhMHonErm1Ulf07Urr) | [Alleluia](https://open.spotify.com/album/7oE6M8hUkUlze17Ygx4eA5) | 3:48 |
+| 48 | [Alleluia](https://open.spotify.com/track/0qToKOjoIshAsxGuSJ7DhY) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Alleluia](https://open.spotify.com/album/7oE6M8hUkUlze17Ygx4eA5) | 3:48 |
 | 49 | [Agalia](https://open.spotify.com/track/068Q1SMFDYX1sRKc2AZKvJ) | [Logos Timis](https://open.spotify.com/artist/1s3DdqnSPErYk7xQkRFZ0s), [Jaul](https://open.spotify.com/artist/2FSYs9dEFVRoRk9JsYrEhE) | [Agalia](https://open.spotify.com/album/1MHWpV7h92eaDJ7ClBtG93) | 4:55 |
 | 50 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > longe dos perigos noturnos
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,385 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,394 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 26 | [Julie.](https://open.spotify.com/track/6ywzdDgKmTBBvJzDA91XKJ) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Neptune](https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA) | 3:51 |
 | 27 | [Die For This](https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Die For This](https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q) | 2:35 |
 | 28 | [Stay](https://open.spotify.com/track/0JnILfI1oC3i8ZLOxZeqNp) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Stay](https://open.spotify.com/album/6oNqp5To5PeNL5VLGGoHSB) | 3:05 |
-| 29 | [Voicemail \(feat\. Kiana Ledé\)](https://open.spotify.com/track/4hS7b55aChkN6FePTc6CeD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:07 |
-| 30 | [Don't Forget About Us \- KAYTRANADA Remix](https://open.spotify.com/track/1NmC7qGL2jdqtFXzrrH3ui) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Don't Forget About Us \(KAYTRANADA Remix\)](https://open.spotify.com/album/5WOY8ePlLY1zOSekVvnyZy) | 4:03 |
+| 29 | [Don't Forget About Us \- KAYTRANADA Remix](https://open.spotify.com/track/1NmC7qGL2jdqtFXzrrH3ui) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Don't Forget About Us \(KAYTRANADA Remix\)](https://open.spotify.com/album/5WOY8ePlLY1zOSekVvnyZy) | 4:03 |
+| 30 | [Voicemail \(feat\. Kiana Ledé\)](https://open.spotify.com/track/4hS7b55aChkN6FePTc6CeD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:07 |
 | 31 | [New Type \(feat\. Childish Gambino\)](https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 4:25 |
 | 32 | [What’s Yo Phone Number / Telephone \- Medley / Ghost Of Screw Mix](https://open.spotify.com/track/2H8ux8QVRgerQltl8Hr5oM) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 5:10 |
 | 33 | [Waiting in Vain \- Spotify Singles](https://open.spotify.com/track/5tHipIzrGqcoZ4ovlW1Aip) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Waiting In Vain \(Spotify Singles\)](https://open.spotify.com/album/5zlUBlDmY6dM4XFlZ3SFVs) | 4:12 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 67 | [Inside Out – A COLORS SHOW](https://open.spotify.com/track/6hjiaLxYiZfQTn70mfasJ2) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Inside Out – A COLORS SHOW](https://open.spotify.com/album/6z6puxSN6gXkYqKKXUTPAh) | 3:52 |
 | 68 | [Make Luv 2 Me](https://open.spotify.com/track/6wSS1PXZcHbjIKHwQK6g1v) | [Zo!](https://open.spotify.com/artist/0XoDNlIZvfQP47lyLBVIsz), [Monica Blaire](https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK) | [SunStorm](https://open.spotify.com/album/1ssu0v4LiGz7j3y2BUaj2j) | 10:35 |
 | 69 | [beat of a slow dance](https://open.spotify.com/track/1lhSO8JusksTEPOV7zchg1) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [beat of a slow dance](https://open.spotify.com/album/6QWYbXVAi3YgX7ei2ktF3d) | 3:54 |
-| 70 | [Closer](https://open.spotify.com/track/3oVuO5NMqQIM8S12g18T4j) | [Nka](https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz) | [Patience](https://open.spotify.com/album/21CTrD6XB9J14u9TnKGpH8) | 3:17 |
-| 71 | [No Love Song](https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [No Love Song](https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct) | 3:59 |
+| 70 | [No Love Song](https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [No Love Song](https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct) | 3:59 |
+| 71 | [Closer](https://open.spotify.com/track/3oVuO5NMqQIM8S12g18T4j) | [Nka](https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz) | [Patience](https://open.spotify.com/album/21CTrD6XB9J14u9TnKGpH8) | 3:17 |
 | 72 | [Come To My Room](https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [The Beauty Created](https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR) | 4:31 |
 | 73 | [Crash for a Couple](https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Little Men \(Deluxe\)](https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB) | 4:00 |
 | 74 | [Last Time](https://open.spotify.com/track/7AvJrRBbe7U4eis5ifjf78) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Starfruit](https://open.spotify.com/album/6BX8c95i5dRgynP9sIzy6K) | 2:41 |

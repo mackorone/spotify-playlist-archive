@@ -4,14 +4,14 @@
 
 > Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.
 
-51 songs - 3 hr 43 min
+52 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [14](https://open.spotify.com/track/4J7SimjJzZWLM6XFhsWNT3) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Born Again](https://open.spotify.com/album/3SPLOZJ6DtS8CsRDx8tDVc) | 3:21 | 2025-09-30 |  |
 | [After Rain](https://open.spotify.com/track/6aZgxJOcQCacpBSSwQt9Dx) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [Terminal 3](https://open.spotify.com/album/1VWD7epWmb4cR4gHCI2fQC) | 2:55 | 2025-09-30 |  |
 | [ALL MINE](https://open.spotify.com/track/0bbrsFG5BNrJgbsKVuRRH0) | [藤田織也](https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd) | [ALL MINE](https://open.spotify.com/album/5EJ92oJ7u0HLdTfA1uED3V) | 3:32 | 2025-09-30 |  |
-| [Anytime](https://open.spotify.com/track/4Yplq7B18jCFSyIHGDnbEq) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [ALL YOURS](https://open.spotify.com/album/5caA9xJnnyArusGKB0GsbP) | 4:40 | 2025-09-30 |  |
+| [Anytime](https://open.spotify.com/track/4Yplq7B18jCFSyIHGDnbEq) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [ALL YOURS](https://open.spotify.com/album/5caA9xJnnyArusGKB0GsbP) | 4:40 | 2025-09-30 | 2025-12-09 |
 | [Automatic](https://open.spotify.com/track/6DJ3dfsY7fOU161ZMjzWIH) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love](https://open.spotify.com/album/29U9LtzSF0ftWiLNNw1CP6) | 5:28 | 2025-09-30 |  |
 | [B & C](https://open.spotify.com/track/7zzJVfJqdB2mjNCXRyNCvT) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Movin' on without you](https://open.spotify.com/album/5WjRwt4fHDlU9EzxhowFkS) | 4:19 | 2025-09-30 |  |
 | [baby baby,Service \- Tastes Like Champagne Mix](https://open.spotify.com/track/6V54jaqja7pxUA6GL4Pgxq) | [Momoe Shimano](https://open.spotify.com/artist/0rMvBGE18xMbehJueZqQUJ) | [5 3 1](https://open.spotify.com/album/2o0eW6zX5c1EnC2Ww73YNk) | 4:59 | 2025-09-30 |  |
@@ -57,6 +57,7 @@
 | [今すぐ欲しい](https://open.spotify.com/track/05eFlRR5jeJtMNuq18BQq6) | [Sugar Soul](https://open.spotify.com/artist/5B3LLv1PZOvpGrZYmhGCXn), [ZEEBRA](https://open.spotify.com/artist/3zFZk4H2XhV8bCRDyPir54) | [Those Days](https://open.spotify.com/album/3sAhKoW3OVY7jZ5otHTFQo) | 5:12 | 2025-09-30 |  |
 | [四季ノ唄](https://open.spotify.com/track/1iTvJFjCflwCz9RYJXzcsz) | [MINMI](https://open.spotify.com/artist/151w10AZKmL4a6iPwgxap3) | [アイの実](https://open.spotify.com/album/1TI6TIPrTHe2WV8GrUAVKC) | 4:58 | 2025-09-30 |  |
 | [手紙](https://open.spotify.com/track/3VOrB7FMHUrDH4TI9DjIvs) | [BENNIE K](https://open.spotify.com/artist/198kwzJsDRvjEEroTJKzKu) | [essence](https://open.spotify.com/album/5oWRkFcQ2ru6jEeqIChVWB) | 4:21 | 2025-09-30 |  |
+| [手紙](https://open.spotify.com/track/3SAMYU262odmIWLwrQVwUP) | [Jamosa](https://open.spotify.com/artist/0rb7MhRkE4vmiA0dsVAxXu), [DABO](https://open.spotify.com/artist/6H8SjX28BTgSSf8Ndz8SJs) | [DREAM](https://open.spotify.com/album/0la82foXYhL5ASSzU97KFq) | 4:41 | 2025-09-30 |  |
 | [空](https://open.spotify.com/track/4nEnxGg45VHZKmrnKp53K4) | [SOULHEAD](https://open.spotify.com/artist/23XPnlp8nAIDjGf7S9ap3I) | [Oh My Sister](https://open.spotify.com/album/5I6iv7ChUc2GhZ2mPghtGj) | 4:45 | 2025-09-30 |  |
 | [緩りらら](https://open.spotify.com/track/6riSc8FTUeqwFvClmN6M73) | [笠原瑠斗](https://open.spotify.com/artist/7r93kNe7B9HyEXuLvbjXIr) | [緩りらら](https://open.spotify.com/album/1CJAwiWiBFKgxbkxNhHzLv) | 4:00 | 2025-09-30 |  |
 

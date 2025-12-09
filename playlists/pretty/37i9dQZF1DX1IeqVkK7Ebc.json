@@ -1,6 +1,6 @@
 {
   "description": "Softer pop vibes \ud83d\udcab",
-  "num_followers": 370319,
+  "num_followers": 370310,
   "original_name": "Chilled Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2025-12-05 04:23:35",
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
+    },
+    {
+      "added_at": "2025-12-05 04:23:35",
+      "album": {
         "name": "EYES CLOSED (with ZAYN)",
         "url": "https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 181375,
       "name": "EYES CLOSED (with ZAYN)",
       "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
-    },
-    {
-      "added_at": "2025-12-05 04:23:35",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "Snooze",
-      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
       "added_at": "2025-12-05 04:23:35",
@@ -659,6 +659,22 @@
     {
       "added_at": "2025-12-05 04:23:35",
       "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 302408,
+      "name": "canal street",
+      "url": "https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9"
+    },
+    {
+      "added_at": "2025-12-05 04:23:35",
+      "album": {
         "name": "Glide",
         "url": "https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 184405,
       "name": "Glide",
       "url": "https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K"
-    },
-    {
-      "added_at": "2025-12-05 04:23:35",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 302408,
-      "name": "canal street",
-      "url": "https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9"
     },
     {
       "added_at": "2025-12-05 04:23:35",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-12-05 04:23:35",
       "album": {
-        "name": "Next Summer",
-        "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 165676,
-      "name": "Next Summer",
-      "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
-    },
-    {
-      "added_at": "2025-12-05 04:23:35",
-      "album": {
         "name": "Back To Me",
         "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 215200,
       "name": "Nobody New",
       "url": "https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg"
+    },
+    {
+      "added_at": "2025-12-05 04:23:35",
+      "album": {
+        "name": "Next Summer",
+        "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 165676,
+      "name": "Next Summer",
+      "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
     },
     {
       "added_at": "2025-12-05 04:23:35",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2025-12-05 04:23:35",
       "album": {
-        "name": "Letters From The Day",
-        "url": "https://open.spotify.com/album/5VX9FRu3o6y8cvbx4qv8EP"
+        "name": "21st Century Cool Girl",
+        "url": "https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO"
       },
       "artists": [
         {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+          "name": "Chloe Qisha",
+          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
         }
       ],
-      "duration_ms": 259073,
-      "name": "Letters From The Day",
-      "url": "https://open.spotify.com/track/6MkGpvikb539hjZWYzIyJz"
+      "duration_ms": 197655,
+      "name": "21st Century Cool Girl",
+      "url": "https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt"
     },
     {
       "added_at": "2025-12-05 04:23:35",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2025-12-05 04:23:35",
       "album": {
-        "name": "21st Century Cool Girl",
-        "url": "https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO"
+        "name": "Letters From The Day",
+        "url": "https://open.spotify.com/album/5VX9FRu3o6y8cvbx4qv8EP"
       },
       "artists": [
         {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
         }
       ],
-      "duration_ms": 197655,
-      "name": "21st Century Cool Girl",
-      "url": "https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt"
+      "duration_ms": 259073,
+      "name": "Letters From The Day",
+      "url": "https://open.spotify.com/track/6MkGpvikb539hjZWYzIyJz"
     },
     {
       "added_at": "2025-12-05 04:23:35",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-12-05 04:23:35",
       "album": {
-        "name": "SINK NOW, SWIM LATER",
-        "url": "https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "ORIGAMI",
-      "url": "https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ"
-    },
-    {
-      "added_at": "2025-12-05 04:23:35",
-      "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
         "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 236012,
       "name": "My Fault (feat. Noah Cyrus)",
       "url": "https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF"
+    },
+    {
+      "added_at": "2025-12-05 04:23:35",
+      "album": {
+        "name": "SINK NOW, SWIM LATER",
+        "url": "https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "ORIGAMI",
+      "url": "https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ"
     },
     {
       "added_at": "2025-12-05 04:23:35",

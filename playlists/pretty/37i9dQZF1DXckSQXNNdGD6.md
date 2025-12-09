@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Sofía Amores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,193 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,194 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 39 | [PRINCESA PORRO \(with HELLOLOLA\)](https://open.spotify.com/track/4k1copzAL7F5UiEbsq6AYX) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT), [HELLOLOLA](https://open.spotify.com/artist/1r72k41l2pL01tSbFBLek7) | [PRINCESA PORRO \(with HELLOLOLA\)](https://open.spotify.com/album/47zHBE2Fnlfezu7ZwX3mTw) | 2:54 |
 | 40 | [Aseregé](https://open.spotify.com/track/04f2tTJjVwknNobTRPm4iT) | [Svetlana](https://open.spotify.com/artist/3ax5cuCKLmHd6NEt0ZWGW6), [Alosa](https://open.spotify.com/artist/3wGkgRi4YbaoT5a2iNj5fB) | [Aseregé](https://open.spotify.com/album/4YmwrdHEDe9njR1VQnsS8z) | 3:22 |
 | 41 | [Se te está olvidando](https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [Se te está olvidando](https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD) | 2:47 |
-| 42 | [Pégate](https://open.spotify.com/track/3y1vPgwHA2R20efomVmD9F) | [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork), [Xema Fuentes](https://open.spotify.com/artist/4inFKjNfPOKToQ9T5pjYf9) | [Pégate](https://open.spotify.com/album/0i9xKltQWUdgwphffTgEqC) | 2:26 |
-| 43 | [Cuando acabe el verano](https://open.spotify.com/track/6y4MFrp5vwd4uJAI9e3UQ7) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Cuando acabe el verano](https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW) | 2:47 |
+| 42 | [Cuando acabe el verano](https://open.spotify.com/track/6y4MFrp5vwd4uJAI9e3UQ7) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Cuando acabe el verano](https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW) | 2:47 |
+| 43 | [Pégate](https://open.spotify.com/track/3y1vPgwHA2R20efomVmD9F) | [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork), [Xema Fuentes](https://open.spotify.com/artist/4inFKjNfPOKToQ9T5pjYf9) | [Pégate](https://open.spotify.com/album/0i9xKltQWUdgwphffTgEqC) | 2:26 |
 | 44 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 |
 | 45 | [MEDUSA](https://open.spotify.com/track/5o9EBcEKdASGyQCIa1wi7V) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [MEDUSA](https://open.spotify.com/album/0e52cQeUozMdcp0YMPhPYG) | 3:22 |
 | 46 | [Me Quedaré](https://open.spotify.com/track/5IDxa3XZxvivXV7UvWZswG) | [Paul Thin](https://open.spotify.com/artist/0aA3vWOE6EWwJH8hDImZdv) | [Spawnpoint](https://open.spotify.com/album/4MzfgepEdxmAkKrLzxnDit) | 3:20 |

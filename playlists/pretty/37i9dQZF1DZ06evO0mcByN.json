@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAAC83V2HTGcvvUTImhV7F2hn",
+  "snapshot_id": "aTTDgAAAAAAndTB2S0FHJmtlwBwIW3+K",
   "tracks": [
     {
       "added_at": null,
@@ -47,26 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vai Valer a Pena",
-        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 249266,
-      "name": "A Promessa",
-      "url": "https://open.spotify.com/track/1fRw17yPVFjRS6lPovRbrL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Escritor",
         "url": "https://open.spotify.com/album/1EvoEIiPtezj0uAVKyvlVd"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 289248,
       "name": "Escritor",
       "url": "https://open.spotify.com/track/0PBoBEHYRIdBV5JNywK2IN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vai Valer a Pena",
+        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 249266,
+      "name": "A Promessa",
+      "url": "https://open.spotify.com/track/1fRw17yPVFjRS6lPovRbrL"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fica Tranquilo",
-        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 238933,
-      "name": "Mais Que Vencedor",
-      "url": "https://open.spotify.com/track/2QBRoV43fAg9flDyVgos1C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 219906,
       "name": "Cuidando (Ao Vivo)",
       "url": "https://open.spotify.com/track/2IdmwJsfpDSGwteaPhTRNG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fica Tranquilo",
+        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 238933,
+      "name": "Mais Que Vencedor",
+      "url": "https://open.spotify.com/track/2QBRoV43fAg9flDyVgos1C"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fica Tranquilo",
-        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 303946,
-      "name": "Tem Horas",
-      "url": "https://open.spotify.com/track/7uPDau0lf1w3fhXyDGNOHr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 258880,
       "name": "A Porta do meu Quarto - Ao Vivo",
       "url": "https://open.spotify.com/track/7j22XYPTYKpk7QPdG2fCLI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fica Tranquilo",
+        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 303946,
+      "name": "Tem Horas",
+      "url": "https://open.spotify.com/track/7uPDau0lf1w3fhXyDGNOHr"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vai Valer a Pena",
-        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 220733,
-      "name": "Vai Valer a Pena",
-      "url": "https://open.spotify.com/track/6g82UItVgM6KYKGyDTZ7wz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 294053,
       "name": "Tudo que Deus Falou (Ao Vivo)",
       "url": "https://open.spotify.com/track/4fjPQ2wFE3R3vYEXR0w4wd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vai Valer a Pena",
+        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 220733,
+      "name": "Vai Valer a Pena",
+      "url": "https://open.spotify.com/track/6g82UItVgM6KYKGyDTZ7wz"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vai Valer a Pena",
-        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 230386,
-      "name": "Aguenta Firme",
-      "url": "https://open.spotify.com/track/4bYp3OEj49U3GF71L4kJid"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vazio",
         "url": "https://open.spotify.com/album/2zfFusFI8xDJRGdDY1pyYR"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 309636,
       "name": "Vazio",
       "url": "https://open.spotify.com/track/4GcFLWd9UDa55Hy8TAU0FE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vai Valer a Pena",
+        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 230386,
+      "name": "Aguenta Firme",
+      "url": "https://open.spotify.com/track/4bYp3OEj49U3GF71L4kJid"
     },
     {
       "added_at": null,

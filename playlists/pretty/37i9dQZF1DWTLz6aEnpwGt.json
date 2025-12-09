@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 68159,
+  "num_followers": 68191,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -395,30 +395,6 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
-        "name": "Bach: Keyboard Concertos & Italian Concerto",
-        "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Sonya Bach",
-          "url": "https://open.spotify.com/artist/0zIN9w6AXy4ROnxYqXImJz"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
-        }
-      ],
-      "duration_ms": 410160,
-      "name": "Concerto No. 3 in D Major, BWV 1054: I. (Allegro)",
-      "url": "https://open.spotify.com/track/3auoBtSEoUz3Y0WS2K8vaf"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
         "name": "Unity (Affinity)",
         "url": "https://open.spotify.com/album/5Lu9kBaAOeBYl22U9wFYGf"
       },
@@ -456,9 +432,53 @@
           "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
         }
       ],
+      "duration_ms": 410160,
+      "name": "Concerto No. 3 in D Major, BWV 1054: I. (Allegro)",
+      "url": "https://open.spotify.com/track/3auoBtSEoUz3Y0WS2K8vaf"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
+        "name": "Bach: Keyboard Concertos & Italian Concerto",
+        "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Sonya Bach",
+          "url": "https://open.spotify.com/artist/0zIN9w6AXy4ROnxYqXImJz"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        }
+      ],
       "duration_ms": 156760,
       "name": "Concerto No. 3 in D Major, BWV 1054: III. Allegro",
       "url": "https://open.spotify.com/track/0gjL01yP9onMlvU9yVeIOk"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
+        "name": "Bach: French Suites, BWV 812-817",
+        "url": "https://open.spotify.com/album/0SGMw2I3lw6QosNHmq7UB2"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "duration_ms": 126602,
+      "name": "French Suite No. 3 in B minor, BWV 814: 6. Gigue",
+      "url": "https://open.spotify.com/track/40UUE6k3VzcLN9t5gtXO06"
     },
     {
       "added_at": "2025-01-24 04:00:20",
@@ -487,26 +507,6 @@
       "duration_ms": 184653,
       "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: I. \u2014",
       "url": "https://open.spotify.com/track/4AFBKPO6wT9zLHnSAQo4gf"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
-        "name": "Bach: French Suites, BWV 812-817",
-        "url": "https://open.spotify.com/album/0SGMw2I3lw6QosNHmq7UB2"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        }
-      ],
-      "duration_ms": 126602,
-      "name": "French Suite No. 3 in B minor, BWV 814: 6. Gigue",
-      "url": "https://open.spotify.com/track/40UUE6k3VzcLN9t5gtXO06"
     },
     {
       "added_at": "2025-01-24 04:00:20",
@@ -599,8 +599,8 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
-        "name": "Johann Sebastian Bach: The French Suites",
-        "url": "https://open.spotify.com/album/50Tp1V8zhhorvJmhWBVSY8"
+        "name": "Bach: Goldberg Variations, BWV 988",
+        "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
       },
       "artists": [
         {
@@ -608,13 +608,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Murray Perahia",
-          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+          "name": "Beatrice Rana",
+          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
         }
       ],
-      "duration_ms": 144280,
-      "name": "French Suite No. 4 in E-Flat Major, BWV 815: VII. Gigue",
-      "url": "https://open.spotify.com/track/6R0Snb8fZUpfmzX7jCvSfc"
+      "duration_ms": 143760,
+      "name": "Bach, JS: Goldberg Variations, BWV 988: Variation XXVIII",
+      "url": "https://open.spotify.com/track/5HnldeRy7Ki13Y3ybWcRsE"
     },
     {
       "added_at": "2025-01-24 04:00:20",
@@ -639,8 +639,8 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
-        "name": "Bach: Goldberg Variations, BWV 988",
-        "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
+        "name": "Johann Sebastian Bach: The French Suites",
+        "url": "https://open.spotify.com/album/50Tp1V8zhhorvJmhWBVSY8"
       },
       "artists": [
         {
@@ -648,13 +648,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Beatrice Rana",
-          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
         }
       ],
-      "duration_ms": 143760,
-      "name": "Bach, JS: Goldberg Variations, BWV 988: Variation XXVIII",
-      "url": "https://open.spotify.com/track/5HnldeRy7Ki13Y3ybWcRsE"
+      "duration_ms": 144280,
+      "name": "French Suite No. 4 in E-Flat Major, BWV 815: VII. Gigue",
+      "url": "https://open.spotify.com/track/6R0Snb8fZUpfmzX7jCvSfc"
     },
     {
       "added_at": "2025-01-24 04:00:20",

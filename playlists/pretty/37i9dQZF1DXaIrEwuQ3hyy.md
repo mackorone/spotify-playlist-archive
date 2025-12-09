@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 
 > Songs, die von innen wärmen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,097,702 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,097,711 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 2 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 3 | [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 |
 | 4 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
-| 5 | [YUKON](https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:43 |
+| 5 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 |
 | 6 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
-| 7 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 |
+| 7 | [YUKON](https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:43 |
 | 8 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 |
 | 9 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 |
 | 10 | [Anchor](https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:17 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 49 | [All Again](https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Prolog I](https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v) | 4:18 |
 | 50 | [One And Only](https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Small Changes](https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww) | 4:31 |
 | 51 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 |
-| 52 | [Jessie \(i miss you\)](https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jessie \(i miss you\)](https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ) | 3:17 |
-| 53 | [Tell Me](https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Tell Me](https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S) | 3:26 |
-| 54 | [when i close my eyes](https://open.spotify.com/track/2Az9qnorhkpbvkwA0nu8hY) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [when i close my eyes](https://open.spotify.com/album/6he3WZdBgT2Qpqc3uvOYgb) | 3:46 |
+| 52 | [Tell Me](https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Tell Me](https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S) | 3:26 |
+| 53 | [when i close my eyes](https://open.spotify.com/track/2Az9qnorhkpbvkwA0nu8hY) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [when i close my eyes](https://open.spotify.com/album/6he3WZdBgT2Qpqc3uvOYgb) | 3:46 |
+| 54 | [Jessie \(i miss you\)](https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jessie \(i miss you\)](https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ) | 3:17 |
 | 55 | [Tie you down](https://open.spotify.com/track/2EJpfJvSPRpy7dE15cV6L6) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Tie you down](https://open.spotify.com/album/5h1fJpCoQ6ylGaXXnN33xI) | 2:56 |
 | 56 | [she goes](https://open.spotify.com/track/0GLKC3ieDZFiR9URpN4D4m) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [she goes](https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122) | 3:09 |
 | 57 | [Little Life](https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o) | 4:30 |
@@ -81,22 +81,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 71 | [Two Thirds](https://open.spotify.com/track/4iwlTULepVCvBDYDGuibt1) | [Childe](https://open.spotify.com/artist/4KCn6A86ivcp0kJcOOi2sq) | [Two Thirds](https://open.spotify.com/album/2dnS3oCYGlApopA4gYbNNL) | 3:26 |
 | 72 | [UFO](https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [UFO](https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ) | 2:34 |
 | 73 | [Rage](https://open.spotify.com/track/4kAoE56A4sK26S72AmnN07) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [Rage](https://open.spotify.com/album/1hkBhuDxZZcakXatV1RVvG) | 2:18 |
-| 74 | [Missing You](https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Missing You](https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B) | 3:33 |
+| 74 | [Again](https://open.spotify.com/track/4cqhGio3kbnB6J40eG9xNt) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Again](https://open.spotify.com/album/239APOjX3uFCNEWFWfwYUZ) | 3:49 |
 | 75 | [Make me think of you](https://open.spotify.com/track/2VAjQDNPTToTFUVrjFy7Mw) | [ELIS NOA](https://open.spotify.com/artist/6jLDzjrANnkIEhgdEL8gZf) | [Make me think of you](https://open.spotify.com/album/1LCyjbwY18GGpobrSlv8ZJ) | 3:19 |
-| 76 | [Again](https://open.spotify.com/track/4cqhGio3kbnB6J40eG9xNt) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Again](https://open.spotify.com/album/239APOjX3uFCNEWFWfwYUZ) | 3:49 |
+| 76 | [Missing You](https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Missing You](https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B) | 3:33 |
 | 77 | [Know the Night](https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Know the Night](https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm) | 3:10 |
 | 78 | [Only Love](https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Damn the Wild Air, Pt\. 01](https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk) | 3:27 |
-| 79 | [Barefoot](https://open.spotify.com/track/2v3wP0540bmkM7CFEqtqYy) | [Jacob Leo](https://open.spotify.com/artist/2odk6veMu6QLbd8cqJwELA) | [Barefoot](https://open.spotify.com/album/03XY58JRHWAShkdO6L4ic7) | 2:36 |
+| 79 | [Endless Summer](https://open.spotify.com/track/2D3Yv3Iy8T5KX7En0d1rUy) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Endless Summer](https://open.spotify.com/album/2d0GHy5vzIgohDkHDXhUzJ) | 2:49 |
 | 80 | [cupped and open](https://open.spotify.com/track/52ntBF2aENaIPAszw2EHrj) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [cupped and open](https://open.spotify.com/album/2Pucq0ve5p2BeKSTYmTMUT) | 3:56 |
-| 81 | [Endless Summer](https://open.spotify.com/track/2D3Yv3Iy8T5KX7En0d1rUy) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Endless Summer](https://open.spotify.com/album/2d0GHy5vzIgohDkHDXhUzJ) | 2:49 |
+| 81 | [Barefoot](https://open.spotify.com/track/2v3wP0540bmkM7CFEqtqYy) | [Jacob Leo](https://open.spotify.com/artist/2odk6veMu6QLbd8cqJwELA) | [Barefoot](https://open.spotify.com/album/03XY58JRHWAShkdO6L4ic7) | 2:36 |
 | 82 | [when words fail](https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3) | [when words fail](https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU) | 2:56 |
 | 83 | [Slow It Down](https://open.spotify.com/track/3BCA5KOKE7RRcrx0tK7kDK) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH), [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Slow It Down](https://open.spotify.com/album/5xeGFga33wKgIuTcef2wKn) | 3:38 |
 | 84 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
 | 85 | [Like a Song](https://open.spotify.com/track/4ZCvntQK1mmnQIHUEj9OEl) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Like a Song](https://open.spotify.com/album/55ccEeNUbwGJ1qkJGezry0) | 3:27 |
 | 86 | [Iman](https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi) | [Yuuf](https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v) | [Iman](https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN) | 4:00 |
 | 87 | [Easy](https://open.spotify.com/track/4LIRPQO4jzel3t4aN5J8PN) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Easy](https://open.spotify.com/album/24j6IoQ8Junn1mIXfgijU4) | 4:27 |
-| 88 | [Ocean Girl](https://open.spotify.com/track/2x8cZDQWncATNukN3H1fSJ) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Ocean Girl](https://open.spotify.com/album/26B5EnQVzxe73KalXffs9M) | 4:10 |
-| 89 | [Sugar Clouds](https://open.spotify.com/track/4khcWhsdxVNvSQeNsIYDLM) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Sugar Clouds](https://open.spotify.com/album/6kLXkXhbZy8Jg1rv29kr2a) | 4:28 |
+| 88 | [Sugar Clouds](https://open.spotify.com/track/4khcWhsdxVNvSQeNsIYDLM) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Sugar Clouds](https://open.spotify.com/album/6kLXkXhbZy8Jg1rv29kr2a) | 4:28 |
+| 89 | [Ocean Girl](https://open.spotify.com/track/2x8cZDQWncATNukN3H1fSJ) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Ocean Girl](https://open.spotify.com/album/26B5EnQVzxe73KalXffs9M) | 4:10 |
 | 90 | [For The Night](https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg), [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg) | [For The Night](https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw) | 2:37 |
 | 91 | [Psychopath](https://open.spotify.com/track/2yyBy2p36rPZnfa1G1PjDI) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Psychopath](https://open.spotify.com/album/0IzbtB39XZSmjXKAlcdAhd) | 3:12 |
 | 92 | [what if we?](https://open.spotify.com/track/3bLunJFm0B341fJ2TDQdLE) | [Faye Montana](https://open.spotify.com/artist/2MO6mrqBvHTTlmVk39m31b) | [what if we?](https://open.spotify.com/album/45mEiWk5PgdeQqabD0fQw3) | 2:53 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 94 | [Oceanside](https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Oceanside](https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV) | 2:47 |
 | 95 | [Airplanes](https://open.spotify.com/track/6Zp3kQqnDEd27R83EPaycz) | [Tomas Ferdinand](https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf) | [Airplanes](https://open.spotify.com/album/3Zz9QEKwgbkjX7BKMNtimZ) | 2:37 |
 | 96 | [Built To Break](https://open.spotify.com/track/01YbTRYArW2qEQb3hQjnSB) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Built To Break](https://open.spotify.com/album/1ZEvKDsf5wcTSzrfJ2LDGh) | 3:02 |
-| 97 | [Back to the Wind](https://open.spotify.com/track/3PppWqmsD5jpwWBfOM4YNM) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Back to the Wind](https://open.spotify.com/album/3sBwfhCWBnVzbY5qynudYT) | 3:20 |
-| 98 | [maybe](https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [maybe](https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6) | 3:07 |
+| 97 | [maybe](https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [maybe](https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6) | 3:07 |
+| 98 | [Back to the Wind](https://open.spotify.com/track/3PppWqmsD5jpwWBfOM4YNM) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Back to the Wind](https://open.spotify.com/album/3sBwfhCWBnVzbY5qynudYT) | 3:20 |
 | 99 | [spain](https://open.spotify.com/track/0ZVuWqJtiM8BJdqyEEta01) | [theja](https://open.spotify.com/artist/38DT4VMpA3qK1UqZgUB9Ag) | [spain](https://open.spotify.com/album/3PaV5GaBkDJ4bDVk0xI328) | 3:39 |
 | 100 | [Versailles \(Hold\) \- Edit](https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Versailles \(Hold\)](https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15) | 3:38 |
 

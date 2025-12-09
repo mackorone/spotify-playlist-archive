@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Metallica
 
-464 songs - 1 day 8 hr 51 min
+465 songs - 1 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,7 @@
 | [Perpetual Chaos](https://open.spotify.com/track/5Qk5KU60bM84nUt7kyyMPG) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Perpetual Chaos](https://open.spotify.com/album/2DJTZaqrWVPoIRgWtMTgPy) | 3:39 | 2021-12-17 | 2022-07-28 |
 | [Phantom Force](https://open.spotify.com/track/1KeXxoAqApT6LiH9GQw0tR) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Phantom Force](https://open.spotify.com/album/2CqYBNqVw8stCxhxRaohUH) | 2:59 | 2021-12-17 |  |
 | [Phantom Graves](https://open.spotify.com/track/58RBSrRamSP8hhrYpvJYqe) | [Accuser](https://open.spotify.com/artist/5QCQHF5hJbsMFtE4dY0Ifq) | [Phantom Graves](https://open.spotify.com/album/5ozspVZcxfm1RIee5CKmWK) | 3:59 | 2021-12-17 | 2022-03-03 |
-| [Piranha \- Live](https://open.spotify.com/track/15b5ocz8mCRI0IskD8uXn7) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [British Disaster: The Battle of '89 \(Live At The Astoria\)](https://open.spotify.com/album/4y3wHWrVls89q0BbncJ8Ny) | 3:56 | 2024-06-10 |  |
+| [Piranha \- Live](https://open.spotify.com/track/15b5ocz8mCRI0IskD8uXn7) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [British Disaster: The Battle of '89 \(Live At The Astoria\)](https://open.spotify.com/album/4y3wHWrVls89q0BbncJ8Ny) | 3:56 | 2024-06-10 | 2025-12-09 |
 | [Planet Eaters](https://open.spotify.com/track/0Z7vzeA4iARryELXvgLrpw) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [Planet Eaters](https://open.spotify.com/album/1ShyesD8tBxk8NWmdIXjF3) | 5:32 | 2021-12-17 | 2022-02-11 |
 | [Pleasure to Kill](https://open.spotify.com/track/5PFhkQbjJge1h8k7wE1K5U) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Pleasure to Kill](https://open.spotify.com/album/5RP8ddfJnPDYvUjCbBS2Rc) | 4:08 | 2022-07-13 | 2023-11-02 |
 | [Pleasure to Kill](https://open.spotify.com/track/1ZZjbRbY0uLQLeNddMqZJ2) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [1985\-1992 Past Life Trauma](https://open.spotify.com/album/22Ad1HDSVfWzPfOwY4DyG6) | 4:09 | 2022-07-13 | 2022-07-15 |
@@ -349,6 +349,7 @@
 | [Sacred Slaughter](https://open.spotify.com/track/2Wf1aYlPLSVga0eyAuayxO) | [Iron Angel](https://open.spotify.com/artist/50aVB5l90oifKXt0LDzanR) | [Sacred Slaughter](https://open.spotify.com/album/0H2MErtPyCzvxqjI89BKUf) | 4:22 | 2021-12-17 | 2022-07-16 |
 | [Sacrilegious Pain](https://open.spotify.com/track/7sYEZU5f02dITKOEgSo6TM) | [Lowest Creature](https://open.spotify.com/artist/5c9Gljxjd5hYeaq5W0Aq1e) | [Sacrilegious Pain](https://open.spotify.com/album/3DFD5UOgUynlN4mZ3LRL1u) | 3:53 | 2021-12-17 |  |
 | [Sadistic Magician](https://open.spotify.com/track/5szz2njh6khJU22vh4dAz0) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [The Art of Partying](https://open.spotify.com/album/7cU3FZ3u2jgKd5s8hhKJ9h) | 2:09 | 2021-12-17 |  |
+| [Satanic Anarchy](https://open.spotify.com/track/5DBq7GYcLnQLkNQMzKb5mN) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Satanic Anarchy](https://open.spotify.com/album/28JXUCxtf9uAdkponjtqC3) | 3:33 | 2025-12-09 |  |
 | [Sea Savage](https://open.spotify.com/track/3Gwcz0OK7mFE87P7CjVG0W) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Sea Savage](https://open.spotify.com/album/3Yu6Zmjf6pqtg7BAKHlyCM) | 3:57 | 2021-12-17 | 2022-07-28 |
 | [Seek & Destroy](https://open.spotify.com/track/0YpQy96LlfTKcaKM8M9E0J) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Seek & Destroy](https://open.spotify.com/album/1HGpNVvKDpSUu8dbnItK47) | 6:54 | 2025-10-24 |  |
 | [Semtex Revolution](https://open.spotify.com/track/6ZpcI3ZJtbbONbJ6LQm1XO) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [Mental Vortex](https://open.spotify.com/album/56gqMPiLXiyHNUCPnVeoX9) | 5:30 | 2023-06-27 | 2024-04-19 |

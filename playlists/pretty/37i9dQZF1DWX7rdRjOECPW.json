@@ -1,6 +1,6 @@
 {
   "description": "Der Sommer neigt sich dem Ende \ud83e\udd72 - und das waren die Sommerhits  2025.",
-  "num_followers": 1591557,
+  "num_followers": 1591381,
   "original_name": "Sommerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
+        "name": "Addison",
+        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 183237,
+      "name": "Fame is a Gun",
+      "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
         "name": "Show Me Love (with Tyla)",
         "url": "https://open.spotify.com/album/2JJn1NNlaGZ0iWtjVep9Ti"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 176957,
       "name": "Show Me Love (with Tyla)",
       "url": "https://open.spotify.com/track/22YkP95GjCfXkWKyU5k1zZ"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
-        "name": "Addison",
-        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        }
-      ],
-      "duration_ms": 183237,
-      "name": "Fame is a Gun",
-      "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
     },
     {
       "added_at": "2025-08-29 06:03:40",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
-        "name": "Your Body",
-        "url": "https://open.spotify.com/album/7BILrDqY2kO1SOhX2MUJVN"
-      },
-      "artists": [
-        {
-          "name": "Marten Lou",
-          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
-        }
-      ],
-      "duration_ms": 228099,
-      "name": "Your Body",
-      "url": "https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 189898,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
+        "name": "Your Body",
+        "url": "https://open.spotify.com/album/7BILrDqY2kO1SOhX2MUJVN"
+      },
+      "artists": [
+        {
+          "name": "Marten Lou",
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+        }
+      ],
+      "duration_ms": 228099,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3"
     },
     {
       "added_at": "2025-08-29 06:03:40",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
-        "name": "Azizam",
-        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 162029,
-      "name": "Azizam",
-      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
         "name": "gr\u00fcnew\u00fcrfelflow",
         "url": "https://open.spotify.com/album/4abdDHSZaiXkvPBlFD5cnv"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 115555,
       "name": "Shabab(e)s im VIP",
       "url": "https://open.spotify.com/track/1JjHQ4lfAjbDq7wmOmH9wM"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
+        "name": "Azizam",
+        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 162029,
+      "name": "Azizam",
+      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
     },
     {
       "added_at": "2025-08-29 06:03:40",

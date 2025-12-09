@@ -1,12 +1,12 @@
 {
   "description": "This is zebrahead. The essential tracks, all in one playlist.",
-  "num_followers": 18248,
+  "num_followers": 18251,
   "original_name": "This Is zebrahead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAADojit+W6j9kPTENd6Cho4E",
+  "snapshot_id": "aTTDgAAAAAB/jLJLt4JnjVAUyky1T8gp",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sink Like a Stone",
-        "url": "https://open.spotify.com/album/3aYMLtjPL8YWhD2acG4VHc"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 187003,
-      "name": "Sink Like a Stone",
-      "url": "https://open.spotify.com/track/4w72ND8UIg5fHkm9vHxRTE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broadcast to the World",
         "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 181933,
       "name": "Rated \"U\" For Ugly",
       "url": "https://open.spotify.com/track/0eThYQbMcIbjO09j77VwBR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sink Like a Stone",
+        "url": "https://open.spotify.com/album/3aYMLtjPL8YWhD2acG4VHc"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 187003,
+      "name": "Sink Like a Stone",
+      "url": "https://open.spotify.com/track/4w72ND8UIg5fHkm9vHxRTE"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Nice!",
-        "url": "https://open.spotify.com/album/3R9HDU9QfKoCggoOGZTOVl"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 225340,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/0OjPFbDRJDFuHxnV6X2YpA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broadcast to the World",
         "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 229773,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/3mSZz9k6TzRpin74YEipgV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Nice!",
+        "url": "https://open.spotify.com/album/3R9HDU9QfKoCggoOGZTOVl"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 225340,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/0OjPFbDRJDFuHxnV6X2YpA"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MFZB",
-        "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 135693,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/011wkMN5pR9lKrX6Y0e4zk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broadcast to the World",
         "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
       },
@@ -383,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MFZB",
+        "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 135693,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/011wkMN5pR9lKrX6Y0e4zk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "III.II.",
         "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
       },
@@ -395,6 +395,22 @@
       "duration_ms": 173788,
       "name": "Homesick for Hope",
       "url": "https://open.spotify.com/track/4d3nGjhjO6w8cgr2Do2vAk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 239505,
+      "name": "The Juggernauts",
+      "url": "https://open.spotify.com/track/4ZTjAr4g4qKliDJ2SitZ5K"
     },
     {
       "added_at": null,
@@ -447,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 239505,
-      "name": "The Juggernauts",
-      "url": "https://open.spotify.com/track/4ZTjAr4g4qKliDJ2SitZ5K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Playmate Of The Year",
         "url": "https://open.spotify.com/album/2dtK7GDQ3xO6r8TYq1cJ0g"
       },
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brain Invaders",
-        "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
+        "name": "Panty Raid (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0ZzaGzOqEkl2eavzn5y5UK"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 164782,
-      "name": "You Don't Know Anything About Me",
-      "url": "https://open.spotify.com/track/0Bfi4xUfHr3R8GnfYr2rcz"
+      "duration_ms": 205786,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/105NwLq2B5gFMc2BQVHI8d"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Panty Raid (Bonus Edition)",
-        "url": "https://open.spotify.com/album/0ZzaGzOqEkl2eavzn5y5UK"
+        "name": "Brain Invaders",
+        "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 205786,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/105NwLq2B5gFMc2BQVHI8d"
+      "duration_ms": 164782,
+      "name": "You Don't Know Anything About Me",
+      "url": "https://open.spotify.com/track/0Bfi4xUfHr3R8GnfYr2rcz"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pulling Teeth",
-        "url": "https://open.spotify.com/album/64jWfAfHPQJoPV97K8VCA2"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 193345,
-      "name": "Pulling Teeth",
-      "url": "https://open.spotify.com/track/3a69nodIxOdzXjkdM3Eul4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brain Invaders (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3DDxNWfF3bAjK0cB5sOmyt"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 200018,
       "name": "If You're Looking for Your Knife...I Think My Back Found It",
       "url": "https://open.spotify.com/track/48QYjzPFf9JV5WrUOHsUxG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pulling Teeth",
+        "url": "https://open.spotify.com/album/64jWfAfHPQJoPV97K8VCA2"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 193345,
+      "name": "Pulling Teeth",
+      "url": "https://open.spotify.com/track/3a69nodIxOdzXjkdM3Eul4"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 217401,
-      "name": "Mike Dexter Is A God, Mike Dexter Is A Role Model, Mike Dexter Is An Asshole",
-      "url": "https://open.spotify.com/track/4ABfHHCjRtxr1VcR8Y7X9N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puppet Stringers",
         "url": "https://open.spotify.com/album/23gzdvkfw6DHXhNU2FK1XZ"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 169659,
       "name": "Puppet Stringers",
       "url": "https://open.spotify.com/track/4LW2otQQtTwdzuQ4nZPbhN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 217401,
+      "name": "Mike Dexter Is A God, Mike Dexter Is A Role Model, Mike Dexter Is An Asshole",
+      "url": "https://open.spotify.com/track/4ABfHHCjRtxr1VcR8Y7X9N"
     }
   ],
   "unique_name": "This Is zebrahead",

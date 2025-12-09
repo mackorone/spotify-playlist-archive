@@ -1,12 +1,12 @@
 {
   "description": "This is Asake. The essential tracks, all in one playlist.",
-  "num_followers": 63242,
+  "num_followers": 63324,
   "original_name": "This Is Asake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAADexmKjNyQpQEYp57Nlx5rq",
+  "snapshot_id": "aTTDgAAAAABWRXe6j4VoEA4yOTQGL8zS",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 183829,
       "name": "Nzaza",
       "url": "https://open.spotify.com/track/0VjzaXw81JQJM61pzWwP8b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 182142,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/0Q1bMs3xLQiDEeaneehdxv"
     },
     {
       "added_at": null,
@@ -51,22 +67,6 @@
       "duration_ms": 148550,
       "name": "Getting Paid \u200b(f\u200beat\u200b. Asake, Wizkid, Skillibeng\u200b)",
       "url": "https://open.spotify.com/track/1HJr3tp2LIrvXFexwiyn7s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 182142,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/0Q1bMs3xLQiDEeaneehdxv"
     },
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Money With The Vibe",
-        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "Ototo",
-      "url": "https://open.spotify.com/track/0CUJV0Hh512Ns7U2yGflqt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Work Of Art",
         "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 157714,
       "name": "Lonely At The Top",
       "url": "https://open.spotify.com/track/5ZtK8XAVnoaGdBXZWCEVCY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "Ototo",
+      "url": "https://open.spotify.com/track/0CUJV0Hh512Ns7U2yGflqt"
     },
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Money With The Vibe",
-        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/5ycsqezujKrwviU3VFhci1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Che Che (feat. Asake)",
         "url": "https://open.spotify.com/album/5PoSVyeGIhZ9EYWZlkWF9R"
       },
@@ -227,6 +211,46 @@
       "duration_ms": 169911,
       "name": "Che Che (feat. Asake)",
       "url": "https://open.spotify.com/track/2iCI6gHilTbSiD8a138KMU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/5ycsqezujKrwviU3VFhci1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Disco",
+        "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        }
+      ],
+      "duration_ms": 226283,
+      "name": "2Factor",
+      "url": "https://open.spotify.com/track/2UxfLzrOzdHlwrIzjhsHT2"
     },
     {
       "added_at": null,
@@ -259,30 +283,6 @@
       "duration_ms": 197154,
       "name": "Mentally",
       "url": "https://open.spotify.com/track/6IEYlownuHoYdpMikoyj58"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Disco",
-        "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        }
-      ],
-      "duration_ms": 226283,
-      "name": "2Factor",
-      "url": "https://open.spotify.com/track/2UxfLzrOzdHlwrIzjhsHT2"
     },
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last Wun",
-        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 221986,
-      "name": "satisfaction (feat. Asake)",
-      "url": "https://open.spotify.com/track/4ZWwAR58cXnPhuLcK3AdxJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Year I Turned 21",
         "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 163114,
       "name": "Goodbye (Warm Up)(feat. Asake)",
       "url": "https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last Wun",
+        "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 221986,
+      "name": "satisfaction (feat. Asake)",
+      "url": "https://open.spotify.com/track/4ZWwAR58cXnPhuLcK3AdxJ"
     },
     {
       "added_at": null,

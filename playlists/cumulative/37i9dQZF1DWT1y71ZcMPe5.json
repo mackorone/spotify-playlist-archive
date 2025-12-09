@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "The hottest songs you need to listen to right now. Cover: Ed Sheeran",
+  "description": "The hottest songs you need to listen to right now. Cover: TAEYEON",
   "name": "It's a Hit!",
   "tracks": [
     {
@@ -1379,6 +1379,24 @@
     },
     {
       "album": {
+        "name": "Hug",
+        "url": "https://open.spotify.com/album/30B9lQxsP8u8lbUp6hBNNJ"
+      },
+      "artists": [
+        {
+          "name": "Fiji Blue",
+          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133253,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/0fNwos4bmDKOuPS2ldALiU"
+    },
+    {
+      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -2341,6 +2359,36 @@
     },
     {
       "album": {
+        "name": "Quantum Beats",
+        "url": "https://open.spotify.com/album/6awmWsdndqljxHc1nzUTdu"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Lonely Club",
+          "url": "https://open.spotify.com/artist/1tPJP9nWEM6mQK295zgp2K"
+        },
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "Broken Angel (This is Lonely Club)",
+      "url": "https://open.spotify.com/track/56PCJsbp8S0MTSMEbeGnnr"
+    },
+    {
+      "album": {
         "name": "Broken Heart",
         "url": "https://open.spotify.com/album/3b6EgeeuKDdfwG8xC5cFHC"
       },
@@ -3008,6 +3056,24 @@
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
+    },
+    {
+      "album": {
+        "name": "Christmas Promises: Again",
+        "url": "https://open.spotify.com/album/4PvAlkoDM29aJSfx2BLcpu"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Christmas Again",
+      "url": "https://open.spotify.com/track/2XPu6hAfHuQO1dVyIlACVb"
     },
     {
       "album": {
@@ -7092,7 +7158,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 188225,
       "name": "Home",
       "url": "https://open.spotify.com/track/6Q7w55fGJRW51X9En2A0wS"
@@ -9838,7 +9904,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 251578,
       "name": "Little Bouquet",
       "url": "https://open.spotify.com/track/29Sb3j5voU0UKCeSO4Vami"
@@ -12787,6 +12853,24 @@
     },
     {
       "album": {
+        "name": "Panorama : The Best of TAEYEON",
+        "url": "https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu"
+    },
+    {
+      "album": {
         "name": "how i'm feeling now",
         "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
       },
@@ -13094,7 +13178,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 160874,
       "name": "POLITE",
       "url": "https://open.spotify.com/track/3EfychxMku3sRuso0jkGis"
@@ -13624,6 +13708,28 @@
       "duration_ms": 176796,
       "name": "REGRETS",
       "url": "https://open.spotify.com/track/3oLGjRA6SFnQcajSwTanSs"
+    },
+    {
+      "album": {
+        "name": "Remember To Dance (Little Things)",
+        "url": "https://open.spotify.com/album/4GncEvr8CcRpYsuMSnnAvR"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        },
+        {
+          "name": "Adri\u00e1n Berenguer",
+          "url": "https://open.spotify.com/artist/7rIUiy8qJEFQ5oooWdnhQv"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163560,
+      "name": "Remember To Dance (Little Things)",
+      "url": "https://open.spotify.com/track/41eIrJ4BOf6l0QzJFB1vO8"
     },
     {
       "album": {
@@ -17110,7 +17216,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 180000,
       "name": "Tight Rope (feat. \u00d8ZI & Karencici)",
       "url": "https://open.spotify.com/track/4USysQAWIJCPYEByrZ4OpS"
@@ -17384,7 +17490,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 172937,
       "name": "Too Good to be Bad",
       "url": "https://open.spotify.com/track/2LJ2C2vj3IltIhxPx377w3"
@@ -19088,7 +19194,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 189381,
       "name": "Wrong Turn Right",
       "url": "https://open.spotify.com/track/5sqHJc86ZHIIxIE1rHa4EQ"

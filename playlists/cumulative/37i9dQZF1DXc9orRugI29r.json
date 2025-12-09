@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "LAS CANCIONES M\u00c1S \ud83d\udd25\ud83d\udd25\ud83d\udd25  Con el Sereno Moreno ",
-  "name": "HOT NOW - Doony Graff ",
+  "description": "LAS CANCIONES M\u00c1S \ud83d\udd25\ud83d\udd25\ud83d\udd25  DUE\u00d1O DEL CIELO ",
+  "name": "HOT NOW - HUMBE ",
   "tracks": [
     {
       "album": {
@@ -7501,6 +7501,24 @@
     },
     {
       "album": {
+        "name": "DUE\u00d1O DEL CIELO",
+        "url": "https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192897,
+      "name": "HARRY STAMPER",
+      "url": "https://open.spotify.com/track/54oMTaZ94z2bwgQccWfc15"
+    },
+    {
+      "album": {
         "name": "Here Comes The Cowboy",
         "url": "https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW"
       },
@@ -8708,7 +8726,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 139390,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/31YoV8zUWlnEZWjoyEL1Yk"

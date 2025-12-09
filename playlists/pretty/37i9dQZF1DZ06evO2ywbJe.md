@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 
 > This is Zlatan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,774 likes - 48 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,786 likes - 48 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 | 32 | [Ale Yi](https://open.spotify.com/track/2DKu5sidKO85F6HOZXdVX8) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 2:41 |
 | 33 | [Lagos Anthem](https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Lagos Anthem](https://open.spotify.com/album/5d78fTQDQxh9ryCgymMZZr) | 3:29 |
 | 34 | [BAD TILL ETERNITY \(feat\. Zlatan\)](https://open.spotify.com/track/6vGIf9ajywvcQzIdQVGnwG) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:53 |
-| 35 | [Killin Dem](https://open.spotify.com/track/4cxyQw1AKCVqa9JVSN7njk) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Killin Dem](https://open.spotify.com/album/2Le6W3ospgVmqVJYWVzgXW) | 3:40 |
-| 36 | [El Sucio Guapo](https://open.spotify.com/track/4q81vRYZVQnL818YhWghzn) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [The Flowolf](https://open.spotify.com/artist/1mcBWQVnnsPhMLCUB6iISP) | [SABALI](https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs) | 3:47 |
+| 35 | [El Sucio Guapo](https://open.spotify.com/track/4q81vRYZVQnL818YhWghzn) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [The Flowolf](https://open.spotify.com/artist/1mcBWQVnnsPhMLCUB6iISP) | [SABALI](https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs) | 3:47 |
+| 36 | [Killin Dem](https://open.spotify.com/track/4cxyQw1AKCVqa9JVSN7njk) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Killin Dem](https://open.spotify.com/album/2Le6W3ospgVmqVJYWVzgXW) | 3:40 |
 | 37 | [Bolanle](https://open.spotify.com/track/7gSlSNvxiHC9HrKKbgKzYd) | [IVD](https://open.spotify.com/artist/5hZ6eJ8DdyM7no1KDrfe8m), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Bolanle](https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL) | 2:53 |
 | 38 | [Bere Mi \(Reimagined\)](https://open.spotify.com/track/30NZZsZNZFr9DBTAQpttez) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Bere Mi \(Reimagined\)](https://open.spotify.com/album/42x5ZLOr1xOkVJ7jSzaLui) | 2:57 |
 | 39 | [Say No to Big Fall](https://open.spotify.com/track/2mk0VTrxiZJXhLPB2yo4mk) | [DaBlixx Osha](https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Sick Six](https://open.spotify.com/album/4UinowfqwB20ITGJdS3BaD) | 2:08 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ywbJe.md) - [plain]
 | 47 | [Alubarika](https://open.spotify.com/track/6G242ZcM4Ic3WauviZ7w9S) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 3:14 |
 | 48 | [Able God](https://open.spotify.com/track/2T0n6U3Ef2XeZc4kdoe5Eg) | [Chinko Ekun](https://open.spotify.com/artist/5jfQBS0O6dR6axaz0BGMgs), [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Able God](https://open.spotify.com/album/7xr5X8oRWh4vbFJZ0zMtn8) | 4:26 |
 
-Snapshot ID: `aTNyAAAAAAA7kfhxJ+4E7fKjj3FkFxBb`
+Snapshot ID: `aTTDgAAAAABS4x3a1q4t0GzQhRyBGKlq`

@@ -1,12 +1,12 @@
 {
   "description": "This is Laufey. The essential tracks, all in one playlist.",
-  "num_followers": 340250,
+  "num_followers": 340440,
   "original_name": "This Is Laufey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAADGYLD+vX+MiIGnNXIfRtbI",
+  "snapshot_id": "aTTDgAAAAACiDxeZ65+acxaNIeaRkMBQ",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Street by Street",
-        "url": "https://open.spotify.com/album/16JUiUeNlBM9cdIyyuN6nw"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 224098,
-      "name": "Street by Street",
-      "url": "https://open.spotify.com/track/0OuOPYd05eORfLw94apb8j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bewitched: The Goddess Edition",
         "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 171760,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/0Ah2wJirVEGUITkcPU6ali"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Street by Street",
+        "url": "https://open.spotify.com/album/16JUiUeNlBM9cdIyyuN6nw"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 224098,
+      "name": "Street by Street",
+      "url": "https://open.spotify.com/track/0OuOPYd05eORfLw94apb8j"
     },
     {
       "added_at": null,

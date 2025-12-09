@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Symphonic and power metal at its most epic\. Cover: Beyond The Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,371 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,405 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,16 +60,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 50 | [Twilight Cabaret](https://open.spotify.com/track/5SMh3O6GhEN31zwLfiqTqK) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Steelbound](https://open.spotify.com/album/2729tzbbE6CeRuFmbGOUry) | 3:55 |
 | 51 | [Abyss of Time \- Countdown to Singularity \-](https://open.spotify.com/track/627pEZNVSQ3iUyvOoxXVUw) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Omega](https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q) | 5:20 |
 | 52 | [Sing Like A Siren](https://open.spotify.com/track/1cJsdrliWdGWCYN43Y5eOV) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Sing Like A Siren](https://open.spotify.com/album/2Tvh9SL8T4Aezh9PyHWQrD) | 3:12 |
-| 53 | [Raveyard \(feat\. Käärijä\)](https://open.spotify.com/track/2GJVCzNulP71igNkJtJ9ZO) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Raveyard](https://open.spotify.com/album/301WuaWtWbDOlsAih6cITQ) | 3:45 |
-| 54 | [The Catalyst](https://open.spotify.com/track/4UGvNbuucQ1mCf3tiq7ZuQ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:40 |
+| 53 | [The Catalyst](https://open.spotify.com/track/4UGvNbuucQ1mCf3tiq7ZuQ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:40 |
+| 54 | [Raveyard \(feat\. Käärijä\)](https://open.spotify.com/track/2GJVCzNulP71igNkJtJ9ZO) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Raveyard](https://open.spotify.com/album/301WuaWtWbDOlsAih6cITQ) | 3:45 |
 | 55 | [Perfume Of The Timeless](https://open.spotify.com/track/4UNYF5dLLQ9acbNxenGTpc) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 8:12 |
 | 56 | [1916](https://open.spotify.com/track/29y2j3s6i528lBTSMP0wbE) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Stories From The Western Front](https://open.spotify.com/album/7x74AsZWhJloc6tKOF7Nty) | 3:36 |
 | 57 | [Last Goodbye](https://open.spotify.com/track/4syuqt1OfDiwdgNHVZjmCq) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Last Goodbye](https://open.spotify.com/album/6P1p6YKpnipMo8CQKfTGOB) | 3:32 |
 | 58 | [The Art Of Being Alone](https://open.spotify.com/track/4tPx1qTsAr7kwB4oKAoMCu) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf), [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [The Art Of Being Alone](https://open.spotify.com/album/64XgHGWD8KkYDrDI1wp9OX) | 4:19 |
 | 59 | [What Else Is There?](https://open.spotify.com/track/0zbeLVcM8iUBiKq6GxoJU3) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE), [Zora Cock](https://open.spotify.com/artist/1hEQmp82fzvdJCCwlsdBIe) | [What Else Is There?](https://open.spotify.com/album/2GayaI0DUXAQMp8xdeXaY0) | 3:47 |
 | 60 | [Wireless](https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:41 |
-| 61 | [Sinners of the Seven Seas](https://open.spotify.com/track/1INE4i2TuVEFHgj2Vtpz14) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Sinners of the Seven Seas](https://open.spotify.com/album/1kKbGYBoupZiV7HVOFymvP) | 3:00 |
-| 62 | [82nd All the Way](https://open.spotify.com/track/1GK39qL3zPowvvb0UpWGyQ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [82nd All the Way](https://open.spotify.com/album/3HCUmVHEIhTnDdQjdf60gb) | 3:21 |
+| 61 | [82nd All the Way](https://open.spotify.com/track/1GK39qL3zPowvvb0UpWGyQ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [82nd All the Way](https://open.spotify.com/album/3HCUmVHEIhTnDdQjdf60gb) | 3:21 |
+| 62 | [Sinners of the Seven Seas](https://open.spotify.com/track/1INE4i2TuVEFHgj2Vtpz14) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Sinners of the Seven Seas](https://open.spotify.com/album/1kKbGYBoupZiV7HVOFymvP) | 3:00 |
 | 63 | [The Day Of...](https://open.spotify.com/track/5BaDnS9olEIZSXZNdgraMs) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Yesterwynde](https://open.spotify.com/album/39CVUoSmw8915LRClkNH0o) | 4:33 |
 | 64 | [The Duelist](https://open.spotify.com/track/3iQLR1D3L0iremvqRF0HXE) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [The Duelist](https://open.spotify.com/album/4OgDOuY3NUpKbG0YSYl2kv) | 3:55 |
 | 65 | [Is There Anybody Out There?](https://open.spotify.com/track/6UtlekzNKTvFPuOtJvZjkK) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Beyond The Black](https://open.spotify.com/album/0tdRNZ2Rb53OoY6CioMdZy) | 4:29 |

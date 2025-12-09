@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 
 > This is Sinéad O'Connor\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,287 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,289 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 26 | [This Is a Rebel Song](https://open.spotify.com/track/6LE2Q4VMEK2tXppDUQcWbP) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Gospel Oak](https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ) | 3:02 |
 | 27 | [Harbour \(feat\. Sinéad O'Connor\)](https://open.spotify.com/track/5R5cPSgvNPmGv3YmlWfhds) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [18](https://open.spotify.com/album/200xhXQBPc2OWPsZ3koxTc) | 6:27 |
 | 28 | [Thank You for Hearing Me](https://open.spotify.com/track/1rMZzXfD89RtfwhuRRNnqx) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 6:25 |
-| 29 | [House of the Rising Sun](https://open.spotify.com/track/6SrPnpNVEBtA29I6sYyEtQ) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Thank You for Hearing Me](https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG) | 5:06 |
+| 29 | [I Believe In You](https://open.spotify.com/track/3eTQUsyIrJpJBefEZOLdSy) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 5:38 |
 | 30 | [This Is to Mother You](https://open.spotify.com/track/60zhgcBTpV7FIxh12ieS8g) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Gospel Oak](https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ) | 3:12 |
-| 31 | [I Believe In You](https://open.spotify.com/track/3eTQUsyIrJpJBefEZOLdSy) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 5:38 |
+| 31 | [House of the Rising Sun](https://open.spotify.com/track/6SrPnpNVEBtA29I6sYyEtQ) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Thank You for Hearing Me](https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG) | 5:06 |
 | 32 | [Fire on Babylon](https://open.spotify.com/track/3epM2ku3Ltw2v1gaZ5KWUO) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 5:11 |
 | 33 | [1000 Mirrors](https://open.spotify.com/track/7H0TaixANBP2DRJXHP0EbT) | [Asian Dub Foundation](https://open.spotify.com/artist/2EeUsNnv2BcVIGhBZ5SV8z), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1), [EOB](https://open.spotify.com/artist/4CX6yOoTFQeiwL5yxuFuIG) | [Enemy of the Enemy \(Remastered\)](https://open.spotify.com/album/6GF2qqHOvnLxBLRmTq5JTQ) | 4:55 |
 | 34 | [He Moved Through the Fair](https://open.spotify.com/track/0GpHDlNBveO6Bj4vQ45xuB) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Gospel Oak](https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ) | 4:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 49 | [Famine](https://open.spotify.com/track/361298vj6RdofeKjHCiD7I) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 4:56 |
 | 50 | [I Defeat](https://open.spotify.com/track/1n81f2txtdOuZA8PtwFuBr) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Nothing But Love \- The Definitive Best Of](https://open.spotify.com/album/61YNdIhnhERWIAtuFbdxGR) | 2:56 |
 
-Snapshot ID: `aTNyAAAAAABWJOyy+qtFMWjQ248uPsOr`
+Snapshot ID: `aTTDgAAAAAD0H4vWbuI1WX1zWCxKIjjB`

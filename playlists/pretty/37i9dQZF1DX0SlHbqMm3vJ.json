@@ -1,6 +1,6 @@
 {
   "description": "Sweet afro melodies. Cover:  BOJ",
-  "num_followers": 259089,
+  "num_followers": 259123,
   "original_name": "Ginja",
   "owner": {
     "name": "Spotify",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2025-12-05 00:01:14",
       "album": {
+        "name": "Sooner",
+        "url": "https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 169811,
+      "name": "Sooner",
+      "url": "https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O"
+    },
+    {
+      "added_at": "2025-12-05 00:01:14",
+      "album": {
         "name": "Qing Madi (Deluxe)",
         "url": "https://open.spotify.com/album/4vxIotduGifC33fGSfxxom"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 187351,
       "name": "Love",
       "url": "https://open.spotify.com/track/5pB7zLOU7mTplExDJF1NuG"
-    },
-    {
-      "added_at": "2025-12-05 00:01:14",
-      "album": {
-        "name": "Sooner",
-        "url": "https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 169811,
-      "name": "Sooner",
-      "url": "https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O"
     },
     {
       "added_at": "2025-12-05 00:01:14",
@@ -1503,22 +1503,18 @@
     {
       "added_at": "2025-12-05 00:01:14",
       "album": {
-        "name": "After Midnight",
-        "url": "https://open.spotify.com/album/76fGDuks8oWP7yumsfunzL"
+        "name": "Intentions",
+        "url": "https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu"
       },
       "artists": [
         {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 177015,
-      "name": "damn u",
-      "url": "https://open.spotify.com/track/5XT1UyE4dVm8DsqVGir9PG"
+      "duration_ms": 155094,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk"
     }
   ],
   "unique_name": "Ginja",

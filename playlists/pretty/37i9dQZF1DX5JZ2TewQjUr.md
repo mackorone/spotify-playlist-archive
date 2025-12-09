@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Wantamnam 我地希望
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,710 likes - 81 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,712 likes - 81 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

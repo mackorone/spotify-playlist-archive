@@ -4,7 +4,7 @@
 
 > Sit back &amp; relax to this peaceful list of restful classics\. Perfect for sleep, study, anti anxiety and anti stress &amp; mindfulness.
 
-80 songs - 4 hr 21 min
+81 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Pathless](https://open.spotify.com/track/3tOkVSgXHTt3SMOaB4X02z) | [Pieter Savenberg](https://open.spotify.com/artist/2S4k9mN8c0AUrenisHLpNp) | [Pathless](https://open.spotify.com/album/4VmIcrJ72soQcQxF9ajxJ9) | 2:33 | 2025-10-16 |  |
 | [Paths](https://open.spotify.com/track/4da2CgImcCRwg3zoG9p0TJ) | [Oha Mind](https://open.spotify.com/artist/71JpUO6jzXiG57qwIJDGvh) | [Paths](https://open.spotify.com/album/69ckEsnQOwEEbI7i9cu89J) | 3:02 | 2025-10-16 |  |
 | [Prato Di Girasoli](https://open.spotify.com/track/12CHYifZr1nmh6andRykpi) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Prato Di Girasoli](https://open.spotify.com/album/26voSN56XpNxvogwOYKHsY) | 2:38 | 2025-10-16 |  |
+| [Prelude & Étude No\. 1 in D Minor \- Étude](https://open.spotify.com/track/5Vbw2aGQEaD3Rr37G3KKWE) | [Yehezkel Raz](https://open.spotify.com/artist/31klRMTQJ94NrxwIZJwJBY) | [Prelude & Étude No\. 1 in D Minor](https://open.spotify.com/album/3dEXLFAPcY693wev87FRaD) | 2:15 | 2025-12-08 |  |
 | [Ravel: A la manière de..\. Borodine, M\. 63](https://open.spotify.com/track/1oSq0jHdOsKzyXbeoYsPxd) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Ravel: Complete Works for Solo Piano](https://open.spotify.com/album/5Ui8Uj9oHn2yT7Duo0welM) | 1:45 | 2025-10-16 |  |
 | [Ravel: Miroirs, M\. 43: III\. Une barque sur l'océan](https://open.spotify.com/track/0eoHzI456z8FK5o0g7pdGn) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Bertrand Chamayou](https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp) | [Ravel: Complete Works for Solo Piano](https://open.spotify.com/album/5Ui8Uj9oHn2yT7Duo0welM) | 7:00 | 2025-10-16 |  |
 | [Reckoner \- Piano](https://open.spotify.com/track/2Q7vtRpMsBMAlh9ky8jCnd) | [Gael Rakotondrabe](https://open.spotify.com/artist/1j2ghUU0uwyR55Zg60l6Xx) | [Reckoner \(Piano\)](https://open.spotify.com/album/1qORu8FBKOBcyJO2KLAAoe) | 3:07 | 2025-10-16 |  |

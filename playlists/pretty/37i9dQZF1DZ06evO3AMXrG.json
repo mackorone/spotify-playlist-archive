@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 245815,
+  "num_followers": 245836,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAABoTx7dO7yDiq7/Xe0I0SYq",
+  "snapshot_id": "aTTDgAAAAAC3MMYw6DJGjCiOJ6lnkm2s",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuiste Cruel",
-        "url": "https://open.spotify.com/album/7DLDlPtke6T1IE6Ln5YYJj"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 297738,
-      "name": "Fuiste Cruel",
-      "url": "https://open.spotify.com/track/18hSUDDtjfrM5viZI02hfe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diario",
         "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 287160,
       "name": "Inspiraci\u00f3n",
       "url": "https://open.spotify.com/track/4RdHhgBW4eWV5PohRNYkNl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuiste Cruel",
+        "url": "https://open.spotify.com/album/7DLDlPtke6T1IE6Ln5YYJj"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 297738,
+      "name": "Fuiste Cruel",
+      "url": "https://open.spotify.com/track/18hSUDDtjfrM5viZI02hfe"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canci\u00f3n de Alerta",
-        "url": "https://open.spotify.com/album/3oJiSZ1Ie8WNPs8hfj5ejV"
+        "name": "Diario",
+        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 263933,
-      "name": "Fruto de la Tierra",
-      "url": "https://open.spotify.com/track/7DIqCBEuvWohLKYNoRLSkN"
+      "duration_ms": 265760,
+      "name": "\u00c1rboles",
+      "url": "https://open.spotify.com/track/109IRvp8IFTgPDllZdyWJV"
     },
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diario",
-        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
+        "name": "Canci\u00f3n de Alerta",
+        "url": "https://open.spotify.com/album/3oJiSZ1Ie8WNPs8hfj5ejV"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 265760,
-      "name": "\u00c1rboles",
-      "url": "https://open.spotify.com/track/109IRvp8IFTgPDllZdyWJV"
+      "duration_ms": 263933,
+      "name": "Fruto de la Tierra",
+      "url": "https://open.spotify.com/track/7DIqCBEuvWohLKYNoRLSkN"
     },
     {
       "added_at": null,
@@ -631,22 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "L\u00e1grimas",
-        "url": "https://open.spotify.com/album/07AdSSqAECv1zjfmAxjYsu"
+        "name": "Diario",
+        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
       },
       "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 280000,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/0jY3QomRqGPCDBhaIkcndk"
+      "duration_ms": 255800,
+      "name": "Borik\u00e9n",
+      "url": "https://open.spotify.com/track/0i9k4cD2p8nqOLt0HMlIwh"
     },
     {
       "added_at": null,
@@ -667,18 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diario",
-        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
+        "name": "L\u00e1grimas",
+        "url": "https://open.spotify.com/album/07AdSSqAECv1zjfmAxjYsu"
       },
       "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 255800,
-      "name": "Borik\u00e9n",
-      "url": "https://open.spotify.com/track/0i9k4cD2p8nqOLt0HMlIwh"
+      "duration_ms": 280000,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/0jY3QomRqGPCDBhaIkcndk"
     },
     {
       "added_at": null,

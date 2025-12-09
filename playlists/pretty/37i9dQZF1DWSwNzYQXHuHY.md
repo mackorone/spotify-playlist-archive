@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,770 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,775 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 26 | [Imagine](https://open.spotify.com/track/5NcGZMPu11wT8StES9zA2s) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 2:55 |
 | 27 | [My Dearest](https://open.spotify.com/track/7h5dECSs3XYQjaZWB4jHHM) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [My Dearest \(ToGetHer X xooos\) \(Original Soundtrack\)](https://open.spotify.com/album/0BBkLUZwjcrvrkUnHaTd8w) | 3:03 |
 | 28 | [Love Frequency](https://open.spotify.com/track/0JpjJ135Rg9wIzl8FPB9Rw) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Love Frequency \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/3cgYAtoLlt8nO7YdoEuY2l) | 2:43 |
-| 29 | [MY PRIDE](https://open.spotify.com/track/5fXi5dl48tR8l0rUlPSa0Y) | [TIOT](https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7) | [MY PRIDE](https://open.spotify.com/album/3EWtWKRKGjAq3VuJEEA6UA) | 3:11 |
-| 30 | [9 to 2](https://open.spotify.com/track/3gaPXXidirpc2DbqMCf3CS) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [\[ MAL \]](https://open.spotify.com/album/6vJ9SjwikssdLvZsrdUVb1) | 2:27 |
+| 29 | [9 to 2](https://open.spotify.com/track/3gaPXXidirpc2DbqMCf3CS) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [\[ MAL \]](https://open.spotify.com/album/6vJ9SjwikssdLvZsrdUVb1) | 2:27 |
+| 30 | [MY PRIDE](https://open.spotify.com/track/5fXi5dl48tR8l0rUlPSa0Y) | [TIOT](https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7) | [MY PRIDE](https://open.spotify.com/album/3EWtWKRKGjAq3VuJEEA6UA) | 3:11 |
 | 31 | [Love\(Prod.Rocoberry\)](https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [LEE SUNG KYOUNG](https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP) | [Love\(Prod.Rocoberry\)](https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH) | 3:40 |
 | 32 | [Seesaw](https://open.spotify.com/track/1E7Od6wnOPFv80O1AuTCPE) | [Ingyeong Choi](https://open.spotify.com/artist/4RvL6JVLNpyy4WxafDEixI) | [Seesaw](https://open.spotify.com/album/3gYNVEE8VfeXPlIIZkavQp) | 2:35 |
 | 33 | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Naeun](https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc) | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO) | 3:27 |

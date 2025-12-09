@@ -1,12 +1,12 @@
 {
   "description": "This is Gabr\u00edel \u00d3lafs. The essential tracks, all in one playlist.",
-  "num_followers": 2268,
+  "num_followers": 2272,
   "original_name": "This Is Gabr\u00edel \u00d3lafs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAAB1LFf3866ejMpoEO5pbCTu",
+  "snapshot_id": "aTTDgAAAAACskJ6s78uXbem2oTn+JeJG",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solon Islandus (Deluxe)",
-        "url": "https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 110151,
-      "name": "Kyndir",
-      "url": "https://open.spotify.com/track/2UMSHmV0qdCg2W3eJK9saL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Absent Minded",
         "url": "https://open.spotify.com/album/60E6Cocj71MdvZyUas241Q"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 197133,
       "name": "Cyclist Waltz",
       "url": "https://open.spotify.com/track/3bfTfRxO7ksp4EjYWF6LDn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Solon Islandus (Deluxe)",
+        "url": "https://open.spotify.com/album/70KIVTNVTj77svaPJ3C9za"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 110151,
+      "name": "Kyndir",
+      "url": "https://open.spotify.com/track/2UMSHmV0qdCg2W3eJK9saL"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Or\u00edensa",
-        "url": "https://open.spotify.com/album/2lFHLdQwLpGeDJZm0WHtRM"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 143189,
-      "name": "Or\u00edensa",
-      "url": "https://open.spotify.com/track/467rzaIMT7UEmkMGlJM8ho"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lullabies for Piano and Cello (Deluxe)",
         "url": "https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 160920,
       "name": "S\u00e1lmur Variation",
       "url": "https://open.spotify.com/track/6pT20vUG6c3WtP7pywi6Gk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Or\u00edensa",
+        "url": "https://open.spotify.com/album/2lFHLdQwLpGeDJZm0WHtRM"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 143189,
+      "name": "Or\u00edensa",
+      "url": "https://open.spotify.com/track/467rzaIMT7UEmkMGlJM8ho"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 115364,
-      "name": "Ocean Variation II",
-      "url": "https://open.spotify.com/track/1ql9vbXw8QSYvJfudDpmuj"
+      "duration_ms": 120418,
+      "name": "Monolith at Dusk",
+      "url": "https://open.spotify.com/track/0gaNrjB76AVzLewpA0q7r5"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 120418,
-      "name": "Monolith at Dusk",
-      "url": "https://open.spotify.com/track/0gaNrjB76AVzLewpA0q7r5"
+      "duration_ms": 115364,
+      "name": "Ocean Variation II",
+      "url": "https://open.spotify.com/track/1ql9vbXw8QSYvJfudDpmuj"
     },
     {
       "added_at": null,

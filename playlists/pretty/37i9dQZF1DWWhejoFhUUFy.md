@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,297 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,343 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 56 | [Khoobsurat](https://open.spotify.com/track/1besAjT4S4E0TbBPulgqs2) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Stree 2](https://open.spotify.com/album/36DaAZreJ2iN4oPZ8HBUeU) | 4:04 |
 | 57 | [Ghodey Pe Sawaar \(From "Qala"\)](https://open.spotify.com/track/1a8w8nlIyIhE2W1HIayKnl) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Ghodey Pe Sawaar \(From "Qala"\)](https://open.spotify.com/album/2wNtwIrKPDj6uOV6VlM8pJ) | 3:13 |
 | 58 | [Muskurahat](https://open.spotify.com/track/6oURWs2pULRYC9JAhLEaw8) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Muskurahat](https://open.spotify.com/album/57G6FAPEMtXBDKEcsatBa1) | 4:18 |
-| 59 | [Aashiq Tera](https://open.spotify.com/track/0SAZ4IHYMtjW4Lxrjm7NnG) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [Mudassar Aziz](https://open.spotify.com/artist/4iWWK7e1vOl68fqH2FDAuc), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF) | [Happy Bhag Jayegi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2QTktaF2GGrGu8Qu3ZyIms) | 4:54 |
-| 60 | [O'Meri Laila \- Radio Version](https://open.spotify.com/track/0w82o6lVX8ENxGjWBecP4D) | [Joi Barua](https://open.spotify.com/artist/1UdYhDdrXVNJMAKghjdU6v) | [Laila Majnu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RNEvKlb3YovuiE8Gw5VOO) | 3:11 |
+| 59 | [O'Meri Laila \- Radio Version](https://open.spotify.com/track/0w82o6lVX8ENxGjWBecP4D) | [Joi Barua](https://open.spotify.com/artist/1UdYhDdrXVNJMAKghjdU6v) | [Laila Majnu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1RNEvKlb3YovuiE8Gw5VOO) | 3:11 |
+| 60 | [Aashiq Tera](https://open.spotify.com/track/0SAZ4IHYMtjW4Lxrjm7NnG) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [Mudassar Aziz](https://open.spotify.com/artist/4iWWK7e1vOl68fqH2FDAuc), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF) | [Happy Bhag Jayegi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2QTktaF2GGrGu8Qu3ZyIms) | 4:54 |
 | 61 | [Zara Zara \- MTV Unwind](https://open.spotify.com/track/6anGj4SX83j5DyG3aZOzqc) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Zara Zara \- MTV Unwind](https://open.spotify.com/album/2AQXHeeiHSxhptNmUZdwkU) | 3:28 |
 | 62 | [Aziyat 2.0 \- Reprise Version](https://open.spotify.com/track/3fwyItGexa88kR8j76dIqv) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Aziyat 2.0 \(Reprise Version\)](https://open.spotify.com/album/6Pe9mPc7ynVPgtBWwLVXgL) | 3:14 |
 | 63 | [Ik Tu Hi \(No\-Mabe\)](https://open.spotify.com/track/7JJ9Q8QKrfauJWlZiol1Uf) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Ik Tu Hi \(No\-Mabe\)](https://open.spotify.com/album/4Nsj6qnnZXRs8YajlO6PGi) | 3:16 |

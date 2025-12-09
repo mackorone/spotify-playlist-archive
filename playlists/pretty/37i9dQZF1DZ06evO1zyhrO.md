@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 
 > This is Craig David\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,788 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,792 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1zyhrO.md) - [plain]
 | 49 | [My Heart's Been Waiting for You \- feat\. Duvall](https://open.spotify.com/track/1zh91AMU0KmMqEqMVJ31vs) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 3:24 |
 | 50 | [Leave The Light On](https://open.spotify.com/track/4QKaDo33XTC0JumNtvBNXI) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Louisa Johnson](https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq) | [Commitment](https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi) | 3:18 |
 
-Snapshot ID: `aTNyAAAAAAAItkrYVFTrMPaHwisrfneX`
+Snapshot ID: `aTTDgAAAAABQ96nqx7jlOT94SAEPsJND`

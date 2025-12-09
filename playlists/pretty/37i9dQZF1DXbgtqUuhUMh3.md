@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 
 > Listen to Arab women, at full volume\. Cover: Jaylann
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,436 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,441 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ha Wlidi](https://open.spotify.com/track/0LEk8LeOeBQ5pODPernnPP) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [Ha Wlidi](https://open.spotify.com/album/4tJC2QnYjmkTQPJ6tyhDXQ) | 2:47 |
-| 2 | [Ensa](https://open.spotify.com/track/0ZPqhPKFG5QmuucUYSKtoR) | [Nancy Ajram](https://open.spotify.com/artist/3hnKbMrrOkExkPrfi905TE) | [NANCY 11](https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX) | 3:24 |
+| 2 | [Ensa](https://open.spotify.com/track/0ZPqhPKFG5QmuucUYSKtoR) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [NANCY 11](https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX) | 3:24 |
 | 3 | [Men Baadak](https://open.spotify.com/track/77KgsutZFrSj2hgaIhiBPy) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Men Baadak](https://open.spotify.com/album/1tktozTMNsI7tqHF9NJUUs) | 3:09 |
 | 4 | [Badadi](https://open.spotify.com/track/1dBv07ZgvsNBeQs2lJon6W) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Badadi](https://open.spotify.com/album/250j3jUtT9Ow3oy67N9vuB) | 2:45 |
 | 5 | [Momken Aeesh](https://open.spotify.com/track/53ossgJfdQhNVoVBPKd4Qz) | [Haneen Hussain](https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ) | [Momken Aeesh](https://open.spotify.com/album/3Lcv7m0jw02fisyQPh7qmQ) | 4:47 |
 | 6 | [Fl Blacona](https://open.spotify.com/track/3jkBcbYVToYSqPcnsuxcF8) | [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [Fl Blacona](https://open.spotify.com/album/3bD7mAr7GvAIoBLuucpNVV) | 2:29 |
 | 7 | [Sahi Ent](https://open.spotify.com/track/7B7wiYcFrlknESg97x4A0h) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Sahi Ent](https://open.spotify.com/album/6CJ1oyZYTw5sODNl6FzuuO) | 3:44 |
 | 8 | [Al Harbein](https://open.spotify.com/track/6Ot3W2qlxch3yje4gl10Of) | [Bessan Ismail](https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB) | [Al Harbein](https://open.spotify.com/album/3V5nwOj4A4NuuMFJ9p8spI) | 3:07 |
-| 9 | [Sidi Ya Sidi](https://open.spotify.com/track/4UzpGVaCX5uGmTDnFYzWNq) | [Nancy Ajram](https://open.spotify.com/artist/3hnKbMrrOkExkPrfi905TE) | [NANCY 11](https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX) | 2:36 |
+| 9 | [Sidi Ya Sidi](https://open.spotify.com/track/4UzpGVaCX5uGmTDnFYzWNq) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [NANCY 11](https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX) | 2:36 |
 | 10 | [Mamnou](https://open.spotify.com/track/1wELuVZY0U4OavIv86CKyh) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Mamnou](https://open.spotify.com/album/2iWdwVPGIDUp0Mac5ha72k) | 2:28 |
 | 11 | [Ma Byenkhaf Alayi](https://open.spotify.com/track/4JFFIVcexU2NtuQvw4kXO3) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [Ma Byenkhaf Alayi](https://open.spotify.com/album/5rJ03uOyj4h0I1Q4Acqbbr) | 3:20 |
 | 12 | [Khali Makank](https://open.spotify.com/track/0oeIIvyBXKWBsbuxTD5QWo) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Khali Makank](https://open.spotify.com/album/3dbHhKZLXHpC0IGxcNxeUD) | 3:22 |

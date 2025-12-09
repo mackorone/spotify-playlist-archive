@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93797,
+  "num_followers": 93790,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,22 @@
     {
       "added_at": "2025-12-04 23:00:12",
       "album": {
+        "name": "The Forest Is The Path (Extended Edition)",
+        "url": "https://open.spotify.com/album/6irdOmMm1renAtesHgETEv"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "duration_ms": 179122,
+      "name": "This Is The Silence",
+      "url": "https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3"
+    },
+    {
+      "added_at": "2025-12-04 23:00:12",
+      "album": {
         "name": "The First Time Ever I Saw Your Face (with Hozier)",
         "url": "https://open.spotify.com/album/4t9AAm3rQVu01FJ7tQz33B"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 273748,
       "name": "The First Time Ever I Saw Your Face (with Hozier)",
       "url": "https://open.spotify.com/track/4yzyi2v0QhJuumnhldtVNi"
-    },
-    {
-      "added_at": "2025-12-04 23:00:12",
-      "album": {
-        "name": "The Forest Is The Path (Extended Edition)",
-        "url": "https://open.spotify.com/album/6irdOmMm1renAtesHgETEv"
-      },
-      "artists": [
-        {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
-        }
-      ],
-      "duration_ms": 179122,
-      "name": "This Is The Silence",
-      "url": "https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3"
     },
     {
       "added_at": "2025-12-04 23:00:12",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-12-04 23:00:12",
       "album": {
-        "name": "Vill du ha mig?",
-        "url": "https://open.spotify.com/album/14KULSxBCHTaw036GPyJZv"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Vill du ha mig?",
-      "url": "https://open.spotify.com/track/4mfAUCnXYemDDjSs9SXL6V"
-    },
-    {
-      "added_at": "2025-12-04 23:00:12",
-      "album": {
         "name": "F\u00f6r evigt ny",
         "url": "https://open.spotify.com/album/08ddJCSdEDyPKzc2kOJHHW"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 248624,
       "name": "F\u00f6r evigt ny",
       "url": "https://open.spotify.com/track/4Ci4q11TszLgwPbMrsUJvX"
+    },
+    {
+      "added_at": "2025-12-04 23:00:12",
+      "album": {
+        "name": "Vill du ha mig?",
+        "url": "https://open.spotify.com/album/14KULSxBCHTaw036GPyJZv"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Vill du ha mig?",
+      "url": "https://open.spotify.com/track/4mfAUCnXYemDDjSs9SXL6V"
     },
     {
       "added_at": "2025-12-04 23:00:12",
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-12-04 23:00:12",
       "album": {
+        "name": "Bastard",
+        "url": "https://open.spotify.com/album/6PLulYvcgXjXRHPKaaGoc5"
+      },
+      "artists": [
+        {
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Lilla livet",
+      "url": "https://open.spotify.com/track/2eW6bbfXtfMG6I3CRb1QfV"
+    },
+    {
+      "added_at": "2025-12-04 23:00:12",
+      "album": {
         "name": "Hemland",
         "url": "https://open.spotify.com/album/7Mwl7nb4iMLxfsDOoqqbPw"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 279186,
       "name": "Tro",
       "url": "https://open.spotify.com/track/6s0GL6SGcyHKSzZwMmdCGL"
-    },
-    {
-      "added_at": "2025-12-04 23:00:12",
-      "album": {
-        "name": "Bastard",
-        "url": "https://open.spotify.com/album/6PLulYvcgXjXRHPKaaGoc5"
-      },
-      "artists": [
-        {
-          "name": "Markus Kruneg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Lilla livet",
-      "url": "https://open.spotify.com/track/2eW6bbfXtfMG6I3CRb1QfV"
     },
     {
       "added_at": "2025-12-04 23:00:12",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-12-04 23:00:12",
       "album": {
-        "name": "Two in This Story",
-        "url": "https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 234972,
-      "name": "Two in This Story",
-      "url": "https://open.spotify.com/track/7Etua9zkc2b11KDoRljJ77"
-    },
-    {
-      "added_at": "2025-12-04 23:00:12",
-      "album": {
         "name": "Sunday Love",
         "url": "https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 316373,
       "name": "Sunday Love",
       "url": "https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz"
+    },
+    {
+      "added_at": "2025-12-04 23:00:12",
+      "album": {
+        "name": "Two in This Story",
+        "url": "https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 234972,
+      "name": "Two in This Story",
+      "url": "https://open.spotify.com/track/7Etua9zkc2b11KDoRljJ77"
     },
     {
       "added_at": "2025-12-04 23:00:12",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-12-04 23:00:12",
       "album": {
-        "name": "Vegas Nights",
-        "url": "https://open.spotify.com/album/1FsZaYem94Jqu2z9JMUEA5"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 188889,
-      "name": "Vegas Nights",
-      "url": "https://open.spotify.com/track/2WyIYakiqekD1dsLtl0KNX"
-    },
-    {
-      "added_at": "2025-12-04 23:00:12",
-      "album": {
         "name": "Roll With The Punches",
         "url": "https://open.spotify.com/album/13dtvjJKMQrE3XjNm5LaES"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 238546,
       "name": "Roll With The Punches",
       "url": "https://open.spotify.com/track/3beUbB30yAHikJ11aBvys5"
+    },
+    {
+      "added_at": "2025-12-04 23:00:12",
+      "album": {
+        "name": "Vegas Nights",
+        "url": "https://open.spotify.com/album/1FsZaYem94Jqu2z9JMUEA5"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 188889,
+      "name": "Vegas Nights",
+      "url": "https://open.spotify.com/track/2WyIYakiqekD1dsLtl0KNX"
     },
     {
       "added_at": "2025-12-04 23:00:12",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2025-12-04 23:00:12",
       "album": {
-        "name": "Stanna tiden",
-        "url": "https://open.spotify.com/album/5os2bSpWI8zm296QjpQyjK"
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U"
       },
       "artists": [
         {
-          "name": "Casanovas",
-          "url": "https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 192875,
-      "name": "Stanna tiden",
-      "url": "https://open.spotify.com/track/2pVBeLSMJuHMwGHDM5VtLm"
+      "duration_ms": 218800,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
     },
     {
       "added_at": "2025-12-04 23:00:12",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2025-12-04 23:00:12",
       "album": {
-        "name": "Make Up Your Mind",
-        "url": "https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U"
+        "name": "Stanna tiden",
+        "url": "https://open.spotify.com/album/5os2bSpWI8zm296QjpQyjK"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Casanovas",
+          "url": "https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT"
         }
       ],
-      "duration_ms": 218800,
-      "name": "Make Up Your Mind",
-      "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
+      "duration_ms": 192875,
+      "name": "Stanna tiden",
+      "url": "https://open.spotify.com/track/2pVBeLSMJuHMwGHDM5VtLm"
     },
     {
       "added_at": "2025-12-04 23:00:12",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-12-04 23:00:12",
       "album": {
-        "name": "Sjung Sjung",
-        "url": "https://open.spotify.com/album/7nqC7tt3AanJ0VCmiOPhBh"
-      },
-      "artists": [
-        {
-          "name": "Lili & Susie",
-          "url": "https://open.spotify.com/artist/3oXpnVT7kg367PfwhfwSvK"
-        }
-      ],
-      "duration_ms": 193124,
-      "name": "Sjung Sjung",
-      "url": "https://open.spotify.com/track/5udaIFwzOZjCb9y8ne9vDM"
-    },
-    {
-      "added_at": "2025-12-04 23:00:12",
-      "album": {
         "name": "Just idag \u00e4r jag stark",
         "url": "https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 206800,
       "name": "Just idag \u00e4r jag stark",
       "url": "https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH"
+    },
+    {
+      "added_at": "2025-12-04 23:00:12",
+      "album": {
+        "name": "Sjung Sjung",
+        "url": "https://open.spotify.com/album/7nqC7tt3AanJ0VCmiOPhBh"
+      },
+      "artists": [
+        {
+          "name": "Lili & Susie",
+          "url": "https://open.spotify.com/artist/3oXpnVT7kg367PfwhfwSvK"
+        }
+      ],
+      "duration_ms": 193124,
+      "name": "Sjung Sjung",
+      "url": "https://open.spotify.com/track/5udaIFwzOZjCb9y8ne9vDM"
     },
     {
       "added_at": "2025-12-04 23:00:12",

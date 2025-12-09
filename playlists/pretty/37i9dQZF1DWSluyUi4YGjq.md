@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. cover: quannnic
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,431 likes - 121 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,512 likes - 121 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 
 > I più grandi successi della storia del festival 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,488 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,489 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 33 | [Dove Si Balla](https://open.spotify.com/track/5a6ABzVhqgVKI1znaI9tar) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [NEI SOGNI NESSUNO È MONOGAMO](https://open.spotify.com/album/3lWe6FOAIDAOjJoDIzu67e) | 3:18 |
 | 34 | [Straordinario](https://open.spotify.com/track/0UILeV4tZ5W11JngwEY0gD) | [Chiara Galiazzo](https://open.spotify.com/artist/5pJV7GdYrjU3zQpxc24kN7) | [Un giorno di sole \- Straordinario](https://open.spotify.com/album/1gEjYulzKgFxDkf0Ii37cx) | 3:10 |
 | 35 | [Sincero \(feat\. Morgan\)](https://open.spotify.com/track/6v2eWAtpP4WDrxRDAG9FwL) | [Bugo](https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g), [Morgan](https://open.spotify.com/artist/6RUY9TXdPIoeOExtd9twr0) | [Sincero \(feat\. Morgan\)](https://open.spotify.com/album/1N1j43lLEbPtcH2agEYos7) | 3:43 |
-| 36 | [Adesso tu](https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 3:59 |
-| 37 | [Tutti I Miei Sbagli](https://open.spotify.com/track/79cRtxW6PQWvSbKpvdPGkQ) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [Microchip Emozionale](https://open.spotify.com/album/1R6tWYMVH2NOVsejTwAHxg) | 4:03 |
+| 36 | [Tutti I Miei Sbagli](https://open.spotify.com/track/79cRtxW6PQWvSbKpvdPGkQ) | [Subsonica](https://open.spotify.com/artist/7DzxfMQ3VNYR5vw2UFjzSK) | [Microchip Emozionale](https://open.spotify.com/album/1R6tWYMVH2NOVsejTwAHxg) | 4:03 |
+| 37 | [Adesso tu](https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 3:59 |
 | 38 | [La musica e' finita](https://open.spotify.com/track/32qXoBe0jtIaqjd97ofKTo) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Ornella Vanoni](https://open.spotify.com/album/4iYQlJ7fVg5kBcJb30CCiR) | 3:10 |
 | 39 | [Non E' L'Inferno](https://open.spotify.com/track/7lx7ourd9AVFIBXFTCWXx8) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Sarò Libera \(Sanremo Edition\)](https://open.spotify.com/album/3IaZc3ERddM2fSGj9IOdOT) | 3:45 |
 | 40 | [Per Elisa](https://open.spotify.com/track/6P9ISBfXg35gWQzq3ggLIu) | [Alice](https://open.spotify.com/artist/3zNFrznlC0kv866J7Karl3) | [Alice](https://open.spotify.com/album/0VGXsdSBJngZJNRW5o9blY) | 3:40 |
 | 41 | [Fiamme negli occhi](https://open.spotify.com/track/5qn15Hs4s26YaNd5UWVe00) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [Fiamme negli occhi](https://open.spotify.com/album/63QloB2LteDzQMKstFJ3XK) | 3:26 |
-| 42 | [Nessun grado di separazione](https://open.spotify.com/track/6WPDJLHlR2fFXNaRKq0jqm) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [di20are](https://open.spotify.com/album/6IFEZC3uX47663lqs4TYLy) | 3:39 |
-| 43 | [Terra promessa](https://open.spotify.com/track/7bcHU50mENL3al5DhEJc7J) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 3:43 |
+| 42 | [Terra promessa](https://open.spotify.com/track/7bcHU50mENL3al5DhEJc7J) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 3:43 |
+| 43 | [Nessun grado di separazione](https://open.spotify.com/track/6WPDJLHlR2fFXNaRKq0jqm) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [di20are](https://open.spotify.com/album/6IFEZC3uX47663lqs4TYLy) | 3:39 |
 | 44 | [Chiamami Ancora Amore](https://open.spotify.com/track/2D6t8TtB1cpgXK1L1fJ5P5) | [Roberto Vecchioni](https://open.spotify.com/artist/3TVifQ5FPcIzzcYSUuJkp9) | [Chiamami Ancora Amore](https://open.spotify.com/album/35v8DGlNLOl039xe3bGvjT) | 4:13 |
 | 45 | [Un Giorno Mi Dirai](https://open.spotify.com/track/4FIZpPI4oCuAfK6emmC77c) | [Stadio](https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA) | [Miss Nostalgia](https://open.spotify.com/album/6W5jqg5IfSVX0KeT6nG0TH) | 4:04 |
 | 46 | [Per Un Milione](https://open.spotify.com/track/4QkibOQBBrpdsCgZBpSlgQ) | [Boomdabash](https://open.spotify.com/artist/4mAsWDGLUIEdo6imU77WG6) | [Per Un Milione](https://open.spotify.com/album/2hMifnfGsH7W1cPNR8G8sH) | 2:54 |

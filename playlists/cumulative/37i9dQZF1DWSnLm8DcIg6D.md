@@ -4,7 +4,7 @@
 
 > the soundtrack to your girl dinner\. cover: Charli XCX
 
-287 songs - 14 hr 12 min
+288 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [CUFF IT \- WETTER REMIX](https://open.spotify.com/track/7eQpbVg3tjHmtdOlAHxaTr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [CUFF IT](https://open.spotify.com/album/7BJjZgzGzpll0t8CEzjILs) | 4:09 | 2023-03-30 | 2023-04-30 |
 | [Cupid](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-03-30 | 2023-04-04 |
 | [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-03-30 | 2023-09-25 |
-| [DADADA](https://open.spotify.com/track/0KEDRaEvdMHAdO0DALW6sp) | [Sophiya](https://open.spotify.com/artist/0cAZn7vdec0QR58yldVTwm), [Hazy](https://open.spotify.com/artist/28IyjGuvyjk9k6WdaV7t4G) | [DADADA](https://open.spotify.com/album/17NJnmcRdkygeb8Sk8hIIR) | 2:45 | 2025-10-28 |  |
+| [DADADA](https://open.spotify.com/track/0KEDRaEvdMHAdO0DALW6sp) | [Sophiya](https://open.spotify.com/artist/0cAZn7vdec0QR58yldVTwm), [Hazy](https://open.spotify.com/artist/28IyjGuvyjk9k6WdaV7t4G) | [DADADA](https://open.spotify.com/album/17NJnmcRdkygeb8Sk8hIIR) | 2:45 | 2025-10-28 | 2025-12-09 |
 | [Daisy](https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:26 | 2024-01-27 | 2025-11-26 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-05-25 |  |
 | [Dawg In Me](https://open.spotify.com/track/1o620TsetJRzlSvKzaXVSh) | [Miss Kaninna](https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz) | [Dawg In Me](https://open.spotify.com/album/4808Jj2DIvH8aVXG3rWJFj) | 2:29 | 2024-09-02 | 2024-11-06 |
@@ -267,6 +267,7 @@
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2023-03-30 |  |
 | [Think Of Us](https://open.spotify.com/track/4jpNmNXMzO3aVgJhy8sdxL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Summertime Friends](https://open.spotify.com/album/06NJ4sxQJg1BiSGH9WkzRE) | 2:50 | 2023-10-26 | 2023-11-13 |
 | [Think U The Sh\*t \(Fart\)](https://open.spotify.com/track/5xcj5a0RKC2s5PIs1FcXOu) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Think U The Sh\*t \(Fart\)](https://open.spotify.com/album/6KHoc2lBi1kfzqifbY66V6) | 2:21 | 2024-01-27 | 2024-07-12 |
+| [Thootie \(feat\. Tokischa\)](https://open.spotify.com/track/6mHIYI9coRzaIlqE6rPNN5) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Thootie \(feat\. Tokischa\)](https://open.spotify.com/album/0TodY9XIuBX1k3DUhigXuG) | 2:31 | 2025-12-08 |  |
 | [Thot Shit](https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Thot Shit](https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx) | 3:04 | 2024-09-02 | 2024-12-09 |
 | [tiny purse, tiny top](https://open.spotify.com/track/1AhoAuvhcydhLy8i7uLPBq) | [BRONZE AVERY](https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW), [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [tiny purse, tiny top](https://open.spotify.com/album/6LBpAMjNSc8tm740hopJsx) | 2:06 | 2024-09-10 | 2024-09-27 |
 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:29 | 2023-03-30 | 2023-05-06 |

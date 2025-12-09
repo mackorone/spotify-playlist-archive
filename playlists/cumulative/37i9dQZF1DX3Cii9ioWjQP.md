@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: Hyelyn Joo\(주혜린\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
+> All about Korean Jazz hits & new \(Cover: Youn Sun Nah \(나윤선\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-275 songs - 19 hr 10 min
+276 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Estate \(feat\. Koh Sangji\)](https://open.spotify.com/track/1c2UAjB8uv6oAYYwjcoFcG) | [MIHYANG MOON](https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD), [Koh Sangji](https://open.spotify.com/artist/6aLJ3PPQ6P81K2eh5RIvIB) | [EVERMOON](https://open.spotify.com/album/7ddssjwlAWEa0xC7C9VXbr) | 5:45 | 2025-02-18 |  |
 | [Eutopia](https://open.spotify.com/track/407bLxRDt9EZveTmxEHwIe) | [Mia](https://open.spotify.com/artist/1s3S4AjGqTNTWpxcoYLt3v), [Yeore](https://open.spotify.com/artist/7FoL8vsCZFp6V1AD2X4Uqv) | [Eutopia](https://open.spotify.com/album/1eTONEvpqONG733rCRwCP3) | 6:49 | 2023-12-12 | 2024-11-07 |
 | [Every Little Step](https://open.spotify.com/track/61wwBgK2Ff5yao4QKhuPUX) | [Seon Dabin](https://open.spotify.com/artist/0JSuzK5w5DEDuxzs7ghqXL) | [Every Little Step](https://open.spotify.com/album/6gQfvxjDsW0NiV0a2a7DVl) | 6:38 | 2023-02-07 | 2024-11-07 |
-| [Everyday Romance](https://open.spotify.com/track/4LOTrQr2GpvFMS62rKEo9M) | [SHUYA](https://open.spotify.com/artist/3Ss3Yg9vwMxwUZ0ViaJvFV) | [Things I Love](https://open.spotify.com/album/5e0bhqRkZW5ZOgQpUaF1me) | 3:32 | 2024-11-07 |  |
+| [Everyday Romance](https://open.spotify.com/track/4LOTrQr2GpvFMS62rKEo9M) | [SHUYA](https://open.spotify.com/artist/3Ss3Yg9vwMxwUZ0ViaJvFV) | [Things I Love](https://open.spotify.com/album/5e0bhqRkZW5ZOgQpUaF1me) | 3:32 | 2024-11-07 | 2025-12-09 |
 | [Everything Happens To Me](https://open.spotify.com/track/0qfzJgrFePDWekyVSbFnxl) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Everything Happens To Me](https://open.spotify.com/album/2pMlrQthaDJoB2UqhJAgqQ) | 4:02 | 2025-05-09 |  |
 | [Fairy Tale](https://open.spotify.com/track/1Li3lHsdQKNK7xHsgvnhH7) | [한석규](https://open.spotify.com/artist/2iMhuN6H9aTtSCnP3ZgYQR) | [Fairy Tale](https://open.spotify.com/album/2Pij3PvLdtV09XD4CJ7jaJ) | 2:59 | 2025-09-01 |  |
 | [Falling In U](https://open.spotify.com/track/24b3VpnaRlYGWDgwPwOLBz) | [다해](https://open.spotify.com/artist/65jZwKXoHgYxbbc0mRCA0V) | [Falling In U](https://open.spotify.com/album/2ufBOd2lyvhlgJM4pFvvw6) | 3:00 | 2023-04-10 | 2024-11-07 |
@@ -227,7 +227,7 @@
 | [Take Courage, Take Heart \- Shake It Off](https://open.spotify.com/track/2iP9edjDEFjmpT4t6BuPRO) | [yesun](https://open.spotify.com/artist/3XUw63l5EYScAl395My20X) | [Take Courage, Take Heart \- Shake It Off](https://open.spotify.com/album/6zsh1oqFy6bexb9uXPc9Rc) | 6:23 | 2023-02-07 | 2024-11-07 |
 | [That Old Feeling](https://open.spotify.com/track/681vOa2Z5I1UkGCJ5MVqcQ) | [KIM JU\-HWAN](https://open.spotify.com/artist/6spyeEyZ3axemAvGhzWoVI) | [That Old Feeling](https://open.spotify.com/album/0qNLMNIGc6OYQam4d354yb) | 4:51 | 2023-09-20 | 2024-11-07 |
 | [That's why you're spring](https://open.spotify.com/track/3yTjvrfLQa1WXAXqBXKEKu) | [Jigu27](https://open.spotify.com/artist/5j4gPonhwCuAiiCVYz9P0O) | [That's why you're spring](https://open.spotify.com/album/0i8EGoHiEdbh09CclUC4Td) | 3:22 | 2022-05-03 | 2024-08-11 |
-| [The Beginning Of A Day](https://open.spotify.com/track/3LnrTczveIzEqxAr74aY52) | [Michael Bender Big Band](https://open.spotify.com/artist/1cSTobm8SMGmQ00TamGFWS) | [Michael Bender Big Band : Feast Of Jazz](https://open.spotify.com/album/6xUUwSnK5MvA4dhfsxMdKR) | 1:53 | 2024-11-07 |  |
+| [The Beginning Of A Day](https://open.spotify.com/track/3LnrTczveIzEqxAr74aY52) | [Michael Bender Big Band](https://open.spotify.com/artist/1cSTobm8SMGmQ00TamGFWS) | [Michael Bender Big Band : Feast Of Jazz](https://open.spotify.com/album/6xUUwSnK5MvA4dhfsxMdKR) | 1:53 | 2024-11-07 | 2025-12-09 |
 | [The Day Before](https://open.spotify.com/track/6D6O8cdlobpezavCvFjRVi) | [Kim Seong Hwa Trio](https://open.spotify.com/artist/5B8SahzFBloYOMfoZVLBsE) | [The Day Before](https://open.spotify.com/album/6N2aJMWPWK5RYwp6GFrRaX) | 5:40 | 2024-04-18 | 2025-02-19 |
 | [The Day Of My Naughty Cat](https://open.spotify.com/track/5wynjj4joJ0co90AdjGvq1) | [Jeong Sook In](https://open.spotify.com/artist/3Pbw4Y5kqj3hs6NJEPMBrf) | [My Story](https://open.spotify.com/album/6IAtYMlWW8ngSNuXFOpeSZ) | 5:12 | 2022-05-18 | 2024-09-20 |
 | [The moon is mooning](https://open.spotify.com/track/2KTHo0Y3FSmC4winA0xs9b) | [Luca minor](https://open.spotify.com/artist/3mzVPZ18FgIuMjWUtYGooK) | [The Divorce Insurance, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/1Sosc6QfPb6YQoWPN1EzVo) | 2:28 | 2025-05-07 |  |
@@ -270,6 +270,7 @@
 | [You and I had seen the same thing](https://open.spotify.com/track/6Pc1wSqKW7uuSXYN54PTjV) | [YUNSEOKCHEOL TRIO](https://open.spotify.com/artist/09fZOcPYim8MvvQieKkv5t) | [My summer's not over yet](https://open.spotify.com/album/1bEhI89GMah1UU96sfAQFb) | 5:08 | 2024-08-29 | 2025-05-08 |
 | [가족 \(feat\. Okubo Shigekki\)](https://open.spotify.com/track/6G0l99yhfsuigC9k8OFFnP) | [박완신](https://open.spotify.com/artist/5y3J29n3QOnbhB7PR40Gnn), [Okubo Shigekki](https://open.spotify.com/artist/7FAZmomF00H34HOWm1Pr3z) | [가족](https://open.spotify.com/album/0DN8oEGOT6KWbJyqH5W7LR) | 4:50 | 2023-03-31 | 2024-11-07 |
 | [간다](https://open.spotify.com/track/33xNZgSpYDl0uLOOTHfotc) | [민송](https://open.spotify.com/artist/2ujuh580tpdUNreJnVuzPU) | [간다](https://open.spotify.com/album/7szuSdGlR05heXZGGGOgCH) | 4:28 | 2022-05-03 | 2022-05-19 |
+| [너와의 크리스마스 \(Christmas with you\)](https://open.spotify.com/track/13OsxxRjMBXho0DBVspPHQ) | [Lee Se Joon](https://open.spotify.com/artist/6z7PM9dWn2BNcyWTxVwZ8h) | [Month Lee 2512](https://open.spotify.com/album/3qaCoFy9SkB6yAd6TVCFzJ) | 4:17 | 2025-12-08 |  |
 | [독신주의 \(i love you\)](https://open.spotify.com/track/5fObsKkKuqnewLGmvE1xr2) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [독신주의 \(i love you\)](https://open.spotify.com/album/4hJBUBNF16qHRlEwMEurVo) | 3:25 | 2025-02-18 |  |
 | [몬순 \(Monsoon\)](https://open.spotify.com/track/1CvFuxdYZT3bmM5F5MMmyZ) | [Time & Place](https://open.spotify.com/artist/4jBZhMOklXll4vFL5QZxho) | [범람 \(The Surge\)](https://open.spotify.com/album/33DcogyZUE6ATX0rEGMGM1) | 3:56 | 2023-07-19 | 2024-11-07 |
 | [무지개나라](https://open.spotify.com/track/6hxwYtDkQ35mNuYsiRgqId) | [승연아빠](https://open.spotify.com/artist/4cEdf85FeV9HB2sxDxzyJg) | [Story 25](https://open.spotify.com/album/08hWM6WLKVBeHqP6vDyLM2) | 2:46 | 2022-11-11 | 2023-12-13 |

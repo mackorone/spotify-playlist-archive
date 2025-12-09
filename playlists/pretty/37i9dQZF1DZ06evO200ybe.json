@@ -1,12 +1,12 @@
 {
   "description": "This is Chet Baker. The essential tracks, all in one playlist.",
-  "num_followers": 122829,
+  "num_followers": 122838,
   "original_name": "This Is Chet Baker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAADVpjxt8bFNKQNgb0fITgRB",
+  "snapshot_id": "aTTDgAAAAABl/dG0J1HXYdF4kk0q/RMx",
   "tracks": [
     {
       "added_at": null,
@@ -159,6 +159,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Essential Standards (eBooklet)",
+        "url": "https://open.spotify.com/album/6UEhnkt6B9hfACniByRiEm"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 304906,
+      "name": "Everything Happens To Me",
+      "url": "https://open.spotify.com/track/00jqmEUSISjkugkuFxGiTo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Art Of The Ballad",
         "url": "https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 303973,
       "name": "I'm Old Fashioned",
       "url": "https://open.spotify.com/track/2DZdof9VHreWvnCBAuhNr2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chet Baker Quartet Vol. 2 (Chet Baker in Paris Vol. 2)",
-        "url": "https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 284546,
-      "name": "These Foolish Things (Remind Me Of You)",
-      "url": "https://open.spotify.com/track/3pXjJpOV4gPLcxTUEItg1B"
     },
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Essential Standards (eBooklet)",
-        "url": "https://open.spotify.com/album/6UEhnkt6B9hfACniByRiEm"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 304906,
-      "name": "Everything Happens To Me",
-      "url": "https://open.spotify.com/track/00jqmEUSISjkugkuFxGiTo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baker's Holiday",
         "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 197426,
       "name": "That Ole Devil Called Love",
       "url": "https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chet Baker Quartet Vol. 2 (Chet Baker in Paris Vol. 2)",
+        "url": "https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 284546,
+      "name": "These Foolish Things (Remind Me Of You)",
+      "url": "https://open.spotify.com/track/3pXjJpOV4gPLcxTUEItg1B"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet Baker Quartet Vol. 2 (Chet Baker in Paris Vol. 2)",
-        "url": "https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 255640,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/0xUR9H98jgwFKhwrv9yQXI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baker's Holiday",
         "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 174040,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chet Baker Quartet Vol. 2 (Chet Baker in Paris Vol. 2)",
+        "url": "https://open.spotify.com/album/72e9cK7pld3vk8Ic1XVwMu"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/0xUR9H98jgwFKhwrv9yQXI"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 189226,
-      "name": "Dancing on the Ceiling",
-      "url": "https://open.spotify.com/track/27j5vjWiTCnys8U2AJQnJ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baker's Holiday",
         "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 179573,
       "name": "You're My Thrill",
       "url": "https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 189226,
+      "name": "Dancing on the Ceiling",
+      "url": "https://open.spotify.com/track/27j5vjWiTCnys8U2AJQnJ3"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chet Baker Sextet",
+        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "I'm Glad There Is You - Remaster/2004",
+      "url": "https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quintet Sessions 1979",
         "url": "https://open.spotify.com/album/2589rTLkK1dIoC72z5cS1t"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 255466,
       "name": "Here's That Rainy Day",
       "url": "https://open.spotify.com/track/2WRLJSbs3O6VuU4yTHMapa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chet Baker Sextet",
-        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "I'm Glad There Is You - Remaster/2004",
-      "url": "https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy"
     },
     {
       "added_at": null,

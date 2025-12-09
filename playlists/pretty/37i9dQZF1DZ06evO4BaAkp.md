@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BaAkp.md) - [plain]
 
 > This is Arctic Monkeys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,747,978 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,748,080 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BaAkp.md) - [plain]
 | 41 | [You're So Dark](https://open.spotify.com/track/40DwUg5zPX8H23WpTdD2iW) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [One For The Road](https://open.spotify.com/album/7FwV5ibe9JVQZvnR9brOz2) | 3:02 |
 | 42 | [She's Thunderstorms](https://open.spotify.com/track/5xw2cHVLw1rlDPp3cL9Zuv) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:54 |
 | 43 | [One Point Perspective](https://open.spotify.com/track/1t67WYNfUxfOiwaz7SJ66b) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe) | 3:28 |
-| 44 | [Big Ideas](https://open.spotify.com/track/4KPi4VNvPOfKqIp1sx19Xf) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:57 |
-| 45 | [The Bakery](https://open.spotify.com/track/2amJsWuU8ohAth78f2QOLD) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Fluorescent Adolescent](https://open.spotify.com/album/5SkPWtT5QFPsV2ix1J5Lnm) | 2:56 |
+| 44 | [The Bakery](https://open.spotify.com/track/2amJsWuU8ohAth78f2QOLD) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Fluorescent Adolescent](https://open.spotify.com/album/5SkPWtT5QFPsV2ix1J5Lnm) | 2:56 |
+| 45 | [Big Ideas](https://open.spotify.com/track/4KPi4VNvPOfKqIp1sx19Xf) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 3:57 |
 | 46 | [Don't Sit Down 'Cause I've Moved Your Chair](https://open.spotify.com/track/3czdA0j4iaLDJJCoT5D8iP) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:03 |
 | 47 | [Tranquility Base Hotel & Casino](https://open.spotify.com/track/2URDbWGmPz3vhagl25p8OC) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe) | 3:31 |
-| 48 | [Hello You](https://open.spotify.com/track/5ygEUpyZy5qtZ1423zymBW) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 4:04 |
-| 49 | [Despair In The Departure Lounge](https://open.spotify.com/track/605E2oDpy3uSIhbRFcrQyn) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Who The F\*\*\* Are Arctic Monkeys?](https://open.spotify.com/album/3tEGBDGnejHf4mx1YSqKnb) | 3:22 |
+| 48 | [Despair In The Departure Lounge](https://open.spotify.com/track/605E2oDpy3uSIhbRFcrQyn) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Who The F\*\*\* Are Arctic Monkeys?](https://open.spotify.com/album/3tEGBDGnejHf4mx1YSqKnb) | 3:22 |
+| 49 | [Hello You](https://open.spotify.com/track/5ygEUpyZy5qtZ1423zymBW) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 4:04 |
 | 50 | [Black Treacle](https://open.spotify.com/track/7EUcOIbJSePmXGvAe7G79C) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 3:37 |
 
-Snapshot ID: `aTNyAAAAAAAA3y8/h8eiIJoHZGpnRGly`
+Snapshot ID: `aTTDgAAAAACzzzSZQo/fXgQDkYTpREh6`

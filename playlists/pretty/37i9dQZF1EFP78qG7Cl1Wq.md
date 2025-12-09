@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,106 likes - 246 songs - 12 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,107 likes - 246 songs - 12 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -198,16 +198,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 188 | [Happy Birthday \- Interlude](https://open.spotify.com/track/39l9l2cOqzZ9i8apGeRXA3) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 0:51 |
 | 189 | [Stare](https://open.spotify.com/track/7bvumLayTpnyN2fimH5xig) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:18 |
 | 190 | [Justified \(feat\. Tank and The Bangas\)](https://open.spotify.com/track/7q1wxV2QkDLBzFF0ULN0fh) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 3:24 |
-| 191 | [What Do You Know \- Interlude](https://open.spotify.com/track/5tm7yd2y5JhbCIGjSxs7Uu) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/6JHzz5eTPAcY7QkZRWVBFv) | 1:41 |
-| 192 | [Fall Tonight](https://open.spotify.com/track/3lOw4G8OgayvKkj5kea7CN) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Fall Tonight](https://open.spotify.com/album/2K1HtU9ddlCjChISLhPNLv) | 3:08 |
+| 191 | [Fall Tonight](https://open.spotify.com/track/3lOw4G8OgayvKkj5kea7CN) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Fall Tonight](https://open.spotify.com/album/2K1HtU9ddlCjChISLhPNLv) | 3:08 |
+| 192 | [What Do You Know \- Interlude](https://open.spotify.com/track/5tm7yd2y5JhbCIGjSxs7Uu) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/6JHzz5eTPAcY7QkZRWVBFv) | 1:41 |
 | 193 | [Tomboys Have Feelings Too \- Interlude](https://open.spotify.com/track/6qu3x4okjnBqHYZpmEWGuR) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [We Need To Talk](https://open.spotify.com/album/1vzMWJ7kExSHOLcFal27oD) | 1:24 |
 | 194 | [Loneliness](https://open.spotify.com/track/36C8pBTFMofLEikkkQWRd0) | [Karise Eden](https://open.spotify.com/artist/0dJwWgFktKXVoomwZGmUV8) | [Things I've Done](https://open.spotify.com/album/4WNiIAQqHRgCeLhulhId0r) | 3:50 |
 | 195 | [Something In My Eye](https://open.spotify.com/track/7Ct8rxhUnBUfSSWxb0X7em) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:44 |
 | 196 | [Always](https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:22 |
 | 197 | [Stupid Crazy](https://open.spotify.com/track/4w9s8Ci6Sn8nuW8tWs9lOU) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 1](https://open.spotify.com/album/64wWGauCcGFiuXr9RkjgHd) | 2:15 |
 | 198 | [Act Right](https://open.spotify.com/track/4o6IOdfo5PGPwvjmkHQkfd) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 2:46 |
-| 199 | [Where I Belong](https://open.spotify.com/track/0ThrgSYBDexaGfJMBRXrSa) | [Glowie](https://open.spotify.com/artist/303SwmjLibkh8OJH5xxZOM) | [Where I Belong EP](https://open.spotify.com/album/6FLKHS3sz64yWyvWGSNs3i) | 2:39 |
-| 200 | [Rich](https://open.spotify.com/track/0mLXX67niqacawrE54oMbz) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:57 |
+| 199 | [Rich](https://open.spotify.com/track/0mLXX67niqacawrE54oMbz) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:57 |
+| 200 | [Where I Belong](https://open.spotify.com/track/0ThrgSYBDexaGfJMBRXrSa) | [Glowie](https://open.spotify.com/artist/303SwmjLibkh8OJH5xxZOM) | [Where I Belong EP](https://open.spotify.com/album/6FLKHS3sz64yWyvWGSNs3i) | 2:39 |
 | 201 | [Versions of Me](https://open.spotify.com/track/6SOCvo8NKJm5tfXqfBG0Uq) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Versions of Me](https://open.spotify.com/album/701oucP6kZjma5iqb7cdX8) | 2:12 |
 | 202 | [Cheap Liquor](https://open.spotify.com/track/42oi5SgSne2Wvt3dkiX4pu) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 1:59 |
 | 203 | [Bricks](https://open.spotify.com/track/7C8D8SOJ2jHrC15aB1yZ67) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 2:54 |
@@ -255,4 +255,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFP78qG7Cl1Wq.md) - [plain]
 | 245 | [Intro](https://open.spotify.com/track/5O8Qhglfsza40ImevHVURy) | [Soul Point](https://open.spotify.com/artist/1Ept3gLGpmaMqUB5nEFmTj) | [Blue Gum St\. 3](https://open.spotify.com/album/3Z69aT615d7CRCE6WdE7zy) | 1:58 |
 | 246 | [Captain Interlude](https://open.spotify.com/track/4qlfzlEsVu7KCRe63R7sE0) | [eleven7four](https://open.spotify.com/artist/3R7vsIfCvXWZ95uFCDAgJa) | [What's The 1174? Side 2](https://open.spotify.com/album/0EX4qGQyjzFq9JZQEWjyiV) | 0:32 |
 
-Snapshot ID: `AcDnfgAAAAAwForwlTa7lole0HgwHztO`
+Snapshot ID: `AcDtHgAAAADbdu7o9kEbr77PIm/MQoU2`

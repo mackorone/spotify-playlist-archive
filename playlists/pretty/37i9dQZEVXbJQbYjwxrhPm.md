@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,331 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Грешници](https://open.spotify.com/track/6W2jsJG6MPPJ6xTWcNEeHr) | [Lidia](https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN), [Konstantin](https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn) | [Грешници](https://open.spotify.com/album/5dcFrXa9bC6CKElQiQo777) | 4:08 |
 | 50 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |
 
-Snapshot ID: `MMjv+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MMpBeAAAAAAAAAAAAAAAAAAAAAAAAGVu`

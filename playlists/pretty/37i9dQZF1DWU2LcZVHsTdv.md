@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,420 likes - 170 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,441 likes - 170 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

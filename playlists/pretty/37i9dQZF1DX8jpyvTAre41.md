@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: cleopatrick
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,423 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,416 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 29 | [Close Enough](https://open.spotify.com/track/1Jd2lA1OFZ3FLx0tuuNE4U) | [Connor Kauffman](https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe) | [The Thinning Veil](https://open.spotify.com/album/10uDYKhWbVtVxLl3u3dzSQ) | 3:07 |
 | 30 | [Porcelain Warrior](https://open.spotify.com/track/2XZNlO9iD9Nta0fqrb6N35) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Ripe Fruit Rots and Falls](https://open.spotify.com/album/1gQAGyUvCMcV6iVDLYO2KW) | 4:00 |
 | 31 | [MOLLY](https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [MOLLY](https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6) | 4:32 |
-| 32 | [Drug of Choice](https://open.spotify.com/track/2bNgeZGJXIAM0XOL5Qx0O9) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [Drug of Choice](https://open.spotify.com/album/2huVnFx4dVVzrmETKDI1wc) | 3:25 |
+| 32 | [DRUG OF CHOICE](https://open.spotify.com/track/2bNgeZGJXIAM0XOL5Qx0O9) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [Drug of Choice](https://open.spotify.com/album/2huVnFx4dVVzrmETKDI1wc) | 3:25 |
 | 33 | [Middle Of Summer](https://open.spotify.com/track/2vf5JwRVIC4aTqrSP5XggB) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Middle Of Summer](https://open.spotify.com/album/2UPYjw4l609gRH5EjeJrVR) | 3:10 |
 | 34 | [Light Sleeper](https://open.spotify.com/track/2DgVzYwUaDetaWMf4jIrSM) | [Home Front](https://open.spotify.com/artist/0CyB1ZUexbBDoyHb15UJrU) | [Light Sleeper](https://open.spotify.com/album/72guRO8Lc8hPd8ssvv0zlu) | 3:19 |
 | 35 | [The Mountain](https://open.spotify.com/track/46onMrFCJJlvAy748S6AfX) | [Finger Eleven](https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n) | [Last Night On Earth](https://open.spotify.com/album/6qkuWN8LUnEJkbFmXRgiah) | 3:21 |

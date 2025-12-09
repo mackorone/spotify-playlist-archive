@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 210289,
+  "num_followers": 210322,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAAAIqubC8Ndp7vjNV9uEBhF+",
+  "snapshot_id": "aTTDgAAAAAD4nr1muQ/YJryWPguJaIBQ",
   "tracks": [
     {
       "added_at": null,
@@ -343,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/7eT3M6F7oy7UfazRK3JaAw"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 253596,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/3yTSZUd3hWqEDBQH9Ga0Z9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Necesidad",
         "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 189250,
       "name": "Se Fue",
       "url": "https://open.spotify.com/track/73MIYL9Qh0aRzCIc1uWM9g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/7eT3M6F7oy7UfazRK3JaAw"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 253596,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/3yTSZUd3hWqEDBQH9Ga0Z9"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ahora Es Diferente",
+        "url": "https://open.spotify.com/album/6RLa16uDQO8vSQ3VN9RWo6"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 279642,
+      "name": "Ahora Es Diferente",
+      "url": "https://open.spotify.com/track/6tST0LckVOXThIgappR0qk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shit Masiva",
         "url": "https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78"
       },
@@ -607,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ahora Es Diferente",
-        "url": "https://open.spotify.com/album/6RLa16uDQO8vSQ3VN9RWo6"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 279642,
-      "name": "Ahora Es Diferente",
-      "url": "https://open.spotify.com/track/6tST0LckVOXThIgappR0qk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Misma Bandera",
         "url": "https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e"
       },
@@ -635,6 +635,26 @@
       "duration_ms": 221096,
       "name": "La Misma Bandera",
       "url": "https://open.spotify.com/track/03BF74w1BbBJXQvJKVElYe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEYENDA",
+        "url": "https://open.spotify.com/album/6ktov4uuTCeQ5HVVqFAupg"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "LEYENDA",
+      "url": "https://open.spotify.com/track/5fO5dDgfVypHTU1P71AJgt"
     },
     {
       "added_at": null,
@@ -675,26 +695,6 @@
       "duration_ms": 227750,
       "name": "En El Avi\u00f3n",
       "url": "https://open.spotify.com/track/42u9e0pWIPYcaPERtBSJda"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEYENDA",
-        "url": "https://open.spotify.com/album/6ktov4uuTCeQ5HVVqFAupg"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "LEYENDA",
-      "url": "https://open.spotify.com/track/5fO5dDgfVypHTU1P71AJgt"
     },
     {
       "added_at": null,

@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "War is the Answer",
+        "url": "https://open.spotify.com/album/6UVYgnSnY4ytapGgBY4BzZ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262440,
+      "name": "Bad Company",
+      "url": "https://open.spotify.com/track/1UWGkn34CD31VQfdi4D8Zp"
+    },
+    {
+      "album": {
         "name": "War Is the Answer",
         "url": "https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V"
       },
@@ -142,7 +160,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 262440,
       "name": "Bad Company",
       "url": "https://open.spotify.com/track/2KZXCH4npY28gtZKXcB2N8"
@@ -250,10 +268,28 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 274615,
       "name": "Blue on Black",
       "url": "https://open.spotify.com/track/0buT7DERYwcKnNanKwbrUc"
+    },
+    {
+      "album": {
+        "name": "And Justice for None",
+        "url": "https://open.spotify.com/album/1d0u2AbVISUHbsq8ffvWRr"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274615,
+      "name": "Blue on Black",
+      "url": "https://open.spotify.com/track/6azM3nHT9j8ZeZIHhsuWEs"
     },
     {
       "album": {
@@ -847,6 +883,24 @@
     },
     {
       "album": {
+        "name": "And Justice for None",
+        "url": "https://open.spotify.com/album/1d0u2AbVISUHbsq8ffvWRr"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275212,
+      "name": "Gone Away",
+      "url": "https://open.spotify.com/track/6MgiIcvk3dmUwOskpeiUCW"
+    },
+    {
+      "album": {
         "name": "A Decade of Destruction",
         "url": "https://open.spotify.com/album/3jYRtHlssd7nxmOW0mY3l2"
       },
@@ -876,7 +930,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 275212,
       "name": "Gone Away",
       "url": "https://open.spotify.com/track/73P5wYuZ1bsz0ZjsZiaSw2"
@@ -1652,10 +1706,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 209373,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/0ruNpl8NsglaVFvTKZ5ibC"
+    },
+    {
+      "album": {
+        "name": "The Way of the Fist",
+        "url": "https://open.spotify.com/album/5WKUwwYLzwSJAwMCrxhCdj"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209373,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/3v95MyscKq1J6zdt2NFTgp"
     },
     {
       "album": {

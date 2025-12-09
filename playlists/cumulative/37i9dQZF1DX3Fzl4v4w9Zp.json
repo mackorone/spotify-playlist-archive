@@ -14245,6 +14245,24 @@
     },
     {
       "album": {
+        "name": "That's Gonna Leave a Mark",
+        "url": "https://open.spotify.com/album/1o2Y4sYcChgOhZujMP2XYc"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243008,
+      "name": "That's Gonna Leave a Mark",
+      "url": "https://open.spotify.com/track/1fPfWB4l5HZDFEfl7huivS"
+    },
+    {
+      "album": {
         "name": "The Actor (feat. Charles Wesley Godwin)",
         "url": "https://open.spotify.com/album/1j9PYG8WzrHfUvrLRTcjXo"
       },

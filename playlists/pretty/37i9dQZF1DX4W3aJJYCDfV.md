@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from JADE, Sam Fender, Elmiene and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,969 likes - 95 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,939 likes - 95 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 26 | [Crown for you](https://open.spotify.com/track/6bS0BXuDlONBV3L3OTOsQ0) | [Andrew Aged](https://open.spotify.com/artist/6MDHB1sd0dW7eI5weGsgTG) | [crown](https://open.spotify.com/album/4I66uDblwwE9jw4jqSR3VQ) | 2:43 |
 | 27 | [Eye Of The Storm](https://open.spotify.com/track/47hpB0b1pN3mlJjAc7VCfu) | [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Eye Of The Storm](https://open.spotify.com/album/1wtMZBE3WRll1XWVuH8Hkk) | 2:56 |
 | 28 | [So What?](https://open.spotify.com/track/6NTCshSoJFNO35tFYZKiiY) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [♡](https://open.spotify.com/album/2XeflvA0dNvjpX0vxukgiv) | 4:06 |
-| 29 | [birthday card// \- Bonus Track](https://open.spotify.com/track/2Ge2MmDxZgnjY9Vfj8PLC9) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [conditions of an orphan// deluxe edition](https://open.spotify.com/album/2OdZk5p5RrHPW1dsQihqhj) | 2:57 |
+| 29 | [birthday card//](https://open.spotify.com/track/2Ge2MmDxZgnjY9Vfj8PLC9) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [conditions of an orphan// deluxe edition](https://open.spotify.com/album/2OdZk5p5RrHPW1dsQihqhj) | 2:57 |
 | 30 | [Sunday My Heart Hurts](https://open.spotify.com/track/7jHZ78k0uz8h2CpXO2oZda) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Girl In A Bottle](https://open.spotify.com/album/415W2je9J0gsgUKKGBBRHG) | 2:56 |
 | 31 | [who knew \(with Lil Yachty\)](https://open.spotify.com/track/120n8QfKSrdKlm35mNdqY5) | [Jesse Jo Stark](https://open.spotify.com/artist/1VmIiQ7VHrqHg90igSWrB0), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [who knew \(with Lil Yachty\)](https://open.spotify.com/album/6z0g4QJdR51U2LvR2tgxF4) | 4:15 |
 | 32 | [How Greedy \(feat\. Theodora\)](https://open.spotify.com/track/2frgkDD0XKvyJ2nVu7s6Ne) | [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [How Greedy \(feat\. Theodora\)](https://open.spotify.com/album/7vVcjP5JwWTQKJNJfU18D8) | 2:24 |

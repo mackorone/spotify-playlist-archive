@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 
 > This is Charles Ans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,621 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,802 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 36 | [400 Estrellas](https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [400 Estrellas](https://open.spotify.com/album/64jUlMiRacXh6dgXaA4Zfr) | 3:43 |
 | 37 | [El Tiempo Cura](https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Adan Golden Ganga](https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH) | [El Tiempo Cura](https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0) | 3:28 |
 | 38 | [No Estés Triste](https://open.spotify.com/track/0RmcxxIWGaiZ4mvK8ryRsq) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [No estes triste](https://open.spotify.com/album/3zQZmkhiglO4prMpN5U2A6) | 3:18 |
-| 39 | [Legendarios](https://open.spotify.com/track/5F37FuiLSSah3vW8Pr5sQD) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cora](https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd) | 2:44 |
-| 40 | [La Que Se Fue](https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [La Que Se Fue](https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26) | 2:46 |
+| 39 | [La Que Se Fue](https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [La Que Se Fue](https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26) | 2:46 |
+| 40 | [Legendarios](https://open.spotify.com/track/5F37FuiLSSah3vW8Pr5sQD) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cora](https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd) | 2:44 |
 | 41 | [Mañana Vas a Estar Ausente](https://open.spotify.com/track/23LJH1g8mvoynusQzCG7ud) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA) | [Órbitas](https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4) | 3:29 |
 | 42 | [Naranja a Morado](https://open.spotify.com/track/3CcUQabK3Vn0RUjZI7lfPz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Buen Pez](https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV) | 4:16 |
 | 43 | [Vamos a Dar el Roll](https://open.spotify.com/track/16GzftkFYQk71qlyYjFLhZ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 4:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 49 | [Otra Vela al Pastel](https://open.spotify.com/track/3UL2fjYLnEpxljZminVDwK) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Otra Vela al Pastel](https://open.spotify.com/album/7nU2hFwdJlfzet8yGeXNzq) | 4:44 |
 | 50 | [Quién la Quiere](https://open.spotify.com/track/10a8QRDqmdBGsb45cSROtF) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Little el Crack](https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm) | [Quién la Quiere](https://open.spotify.com/album/0kYeGsp4JwzlcoXY2Gr1HH) | 5:38 |
 
-Snapshot ID: `aTNyAAAAAABfKGfnbe7LuGxhrBqZn9r/`
+Snapshot ID: `aTTDgAAAAABsURJKaWrO/DMk6z3ridzj`

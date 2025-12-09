@@ -4,7 +4,7 @@
 
 > Waves and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-196 songs - 9 hr 23 min
+197 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Delightful Waves](https://open.spotify.com/track/1PcQqzCG1gTqJZt5vdCLz2) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Delightful Waves](https://open.spotify.com/album/6Zgicb69YthsS8Wmke7LK8) | 3:14 | 2023-10-23 |  |
 | [Devine Waves](https://open.spotify.com/track/38pWBkFjXOqZ5f6bGOj1L4) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Devine Waves](https://open.spotify.com/album/7987vByLF9HkepU0VIabSG) | 2:21 | 2023-10-23 |  |
 | [Devotions](https://open.spotify.com/track/6ALEIWchlJMZDG8HP1kgsg) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Devotions](https://open.spotify.com/album/5i1J8hrYHz8fULZRSnjvvQ) | 2:56 | 2023-10-23 |  |
-| [Distant Cave](https://open.spotify.com/track/0f9EVsaWRAapvdRrWMt04G) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Distant Cave](https://open.spotify.com/album/61SiaXN7PIa6jhB5OAi5LL) | 2:35 | 2024-05-01 |  |
+| [Distant Cave](https://open.spotify.com/track/0f9EVsaWRAapvdRrWMt04G) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Distant Cave](https://open.spotify.com/album/61SiaXN7PIa6jhB5OAi5LL) | 2:35 | 2024-05-01 | 2025-12-09 |
 | [Dream Ripples](https://open.spotify.com/track/6yd4nQEl7aicM2nqLHoTiY) | [Lusunzi](https://open.spotify.com/artist/49HNtFHbhsCh56YvciuMVE) | [Dream Ripples](https://open.spotify.com/album/0zxCATLreAmFRKmML8p4bF) | 2:28 | 2023-10-23 | 2024-08-23 |
 | [Drift at Sea](https://open.spotify.com/track/1YdgBkhDrwpKcxSTg179mf) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Drift at Sea](https://open.spotify.com/album/4FqYXt6nTVyn6aNJaStLjx) | 2:38 | 2024-04-01 | 2024-09-05 |
 | [Driftveil](https://open.spotify.com/track/0pFELtLCEaOdB6ZHBWhCFt) | [Aron Joyce](https://open.spotify.com/artist/6KY3gZWJmTe3qIPaVoISYq) | [Driftveil](https://open.spotify.com/album/1L9zDQ5RlIsS4QYcQvxI31) | 2:55 | 2025-10-02 |  |
@@ -131,7 +131,7 @@
 | [Oceanfront](https://open.spotify.com/track/6OyWgwZrkpTm1MP0SUtmdi) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Oceanfront](https://open.spotify.com/album/422uRupupycQ4E9MfKCHKQ) | 3:02 | 2023-10-23 | 2024-08-23 |
 | [Oceanic Peace](https://open.spotify.com/track/0W4weYa5aqgvMqXbNxSzjv) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Oceanic Peace](https://open.spotify.com/album/1ieOkrmsSTv1MDQj378wPp) | 2:50 | 2023-10-23 | 2025-04-02 |
 | [Oceanos \- Alpha 65Hz \- 72Hz](https://open.spotify.com/track/0JkHZdKIt2VXwiP5IHkaZn) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Oceanos Alpha](https://open.spotify.com/album/3Eb7Mfz5OTLzBu4PWKnbY0) | 3:13 | 2023-10-26 | 2025-04-12 |
-| [Oceanwide](https://open.spotify.com/track/5JcwPNcYMr0yKOXruhXMPq) | [Forgotten Lake](https://open.spotify.com/artist/4zfCCxd0zQ5q7xkLB7Yh5x) | [Oceanwide](https://open.spotify.com/album/7p32rjfMm4aEuIqCsha8nr) | 3:37 | 2023-11-24 | 2025-12-08 |
+| [Oceanwide](https://open.spotify.com/track/5JcwPNcYMr0yKOXruhXMPq) | [Forgotten Lake](https://open.spotify.com/artist/4zfCCxd0zQ5q7xkLB7Yh5x) | [Oceanwide](https://open.spotify.com/album/7p32rjfMm4aEuIqCsha8nr) | 3:37 | 2023-11-24 |  |
 | [Oceanwide](https://open.spotify.com/track/7plRoYCe37LQhEz6iY82fY) | [Silva Minor](https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk) | [Oceanwide](https://open.spotify.com/album/79YI9hqwLqnUYpDdSMgaay) | 2:59 | 2025-05-21 |  |
 | [Ondas](https://open.spotify.com/track/3i0W1TEUsp7Q2pBYO7exbV) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Ondas](https://open.spotify.com/album/0zX9Kh9v01hlMMlumPkNyv) | 2:53 | 2023-10-23 | 2025-06-08 |
 | [Orchids](https://open.spotify.com/track/3BauJaNnmk79bsjD1Py8H9) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Orchids](https://open.spotify.com/album/0PhiG5bnqYMwVklGDoY6Ya) | 2:16 | 2025-01-15 |  |
@@ -141,6 +141,7 @@
 | [Paessagio Naturale](https://open.spotify.com/track/44RWRi4rzr0epV2u1pzzXJ) | [Campane](https://open.spotify.com/artist/0xauYNqgRVmneIDWAHe5hr) | [Paessagio Naturale](https://open.spotify.com/album/5KR8WugmdcJaYAx2CUJJCd) | 2:43 | 2023-10-23 |  |
 | [Passage](https://open.spotify.com/track/4uLjLZULqyGddexHpZYiqR) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Passage](https://open.spotify.com/album/1BURie5CI42IywQp2zXJ2V) | 2:32 | 2024-08-22 | 2025-05-23 |
 | [Pawkian](https://open.spotify.com/track/5lm7ANI4iMjkmVL0UgDJMw) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Pawkian](https://open.spotify.com/album/5jHIQGoDGlXEzqXW5QPWgI) | 2:50 | 2023-10-26 | 2025-01-16 |
+| [Peace Offering](https://open.spotify.com/track/5EXyYADsvWnFPagkFfpxp2) | [Lavona](https://open.spotify.com/artist/3ZjL5oc3m442zsT7EtEPz9) | [Peace Offering](https://open.spotify.com/album/6BDdVemhdR1rhd77GG2Vvm) | 2:31 | 2025-12-03 |  |
 | [Placid](https://open.spotify.com/track/5tU4iN8NZV0NZFESddIG3W) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Placid](https://open.spotify.com/album/3cqgefYwQlBikWTCoefOfc) | 3:07 | 2025-04-01 |  |
 | [Pra Ae](https://open.spotify.com/track/0PZQezoyHDKnpk28LwAtfc) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Pra Ae](https://open.spotify.com/album/50y0X3amN6i9ekVr9tggXU) | 2:17 | 2024-03-01 | 2025-10-15 |
 | [precious](https://open.spotify.com/track/6X33ozLJBIbYDFnvqqmIFm) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [precious](https://open.spotify.com/album/6nmYVTu0G7AW4pf7LJkWN4) | 2:16 | 2024-09-04 |  |
@@ -183,7 +184,7 @@
 | [The Cove](https://open.spotify.com/track/7pRyNDcMVEezLVkZ1P2PEC) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [The Cove](https://open.spotify.com/album/3g0Z1vEQD7u16dn2XTtapr) | 2:01 | 2024-06-03 |  |
 | [The Little Cabin](https://open.spotify.com/track/0MPufbIEaLbtQYtsO2MoF9) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [The Little Cabin](https://open.spotify.com/album/6nGhvw8WHa82wpJzT2djse) | 2:55 | 2024-03-01 |  |
 | [The North Sea](https://open.spotify.com/track/5kR1w0nEgRVJi28Y3v445V) | [Tundriunas](https://open.spotify.com/artist/38zGrr9psTPxaS1oCBb63z) | [The North Sea](https://open.spotify.com/album/7CBWzwXLxmfXco1i9Kza09) | 1:54 | 2023-10-23 | 2024-09-05 |
-| [The Oread](https://open.spotify.com/track/6xSWr0jRvuzwy6hbwKbw0z) | [Agrafa](https://open.spotify.com/artist/1ksaI0pL8HAyzS6KZqVDWu) | [The Oread](https://open.spotify.com/album/2UcL3gsKoZWbEVgJmc3T0L) | 2:40 | 2025-10-02 |  |
+| [The Oread](https://open.spotify.com/track/6xSWr0jRvuzwy6hbwKbw0z) | [Agrafa](https://open.spotify.com/artist/1ksaI0pL8HAyzS6KZqVDWu) | [The Oread](https://open.spotify.com/album/2UcL3gsKoZWbEVgJmc3T0L) | 2:40 | 2025-10-02 | 2025-12-09 |
 | [The Shining Sea](https://open.spotify.com/track/4FfGK1TKJRymLGoPXjkhHl) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [Calming Waves](https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf) | 3:10 | 2023-10-26 | 2025-06-29 |
 | [The Tower of Embellion](https://open.spotify.com/track/5Fote1YAJdFBepEnDLU9lT) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [The Tower of Embellion](https://open.spotify.com/album/5hFzH7DJZJGcPg2jC0WuS8) | 3:08 | 2023-10-23 | 2025-10-14 |
 | [Trearddur Bay](https://open.spotify.com/track/0QLK0YU0s1NEdwdguhih0p) | [Lawrence Libert](https://open.spotify.com/artist/4bdis3Cw3TaQPyW8pps6vE), [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [A Place To Call Home](https://open.spotify.com/album/6CDFfPGj11bEgFeQ8CMUPg) | 3:35 | 2024-09-04 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Satoshi",
-  "num_followers": 22120,
+  "num_followers": 22116,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -575,30 +575,6 @@
     {
       "added_at": "2025-12-04 22:00:31",
       "album": {
-        "name": "Selfmade",
-        "url": "https://open.spotify.com/album/7umzSjHdY7cRbqe4pZppa5"
-      },
-      "artists": [
-        {
-          "name": "Sami G",
-          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
-        },
-        {
-          "name": "Bitza",
-          "url": "https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ"
-        },
-        {
-          "name": "Stres",
-          "url": "https://open.spotify.com/artist/2eVoGlAScaB4z8MPO029K5"
-        }
-      ],
-      "duration_ms": 129005,
-      "name": "Certificat",
-      "url": "https://open.spotify.com/track/7tuJGk5C2lnEZ7JstK97zO"
-    },
-    {
-      "added_at": "2025-12-04 22:00:31",
-      "album": {
         "name": "Birkin Baby",
         "url": "https://open.spotify.com/album/3UNEAcsPz9U56hoFUMQ5FH"
       },
@@ -623,42 +599,26 @@
     {
       "added_at": "2025-12-04 22:00:31",
       "album": {
-        "name": "Asta-i \u021aara Mea",
-        "url": "https://open.spotify.com/album/0cfv8rktcvzj2O2WmIByeO"
+        "name": "Selfmade",
+        "url": "https://open.spotify.com/album/7umzSjHdY7cRbqe4pZppa5"
       },
       "artists": [
         {
-          "name": "Satoshi",
-          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
         },
         {
-          "name": "Vasile Advahov",
-          "url": "https://open.spotify.com/artist/6Gg0PWo2x17nxM3EFomXyn"
-        }
-      ],
-      "duration_ms": 169711,
-      "name": "Asta-i \u021aara Mea",
-      "url": "https://open.spotify.com/track/3Itiryt0igEXRtf5KcinDC"
-    },
-    {
-      "added_at": "2025-12-04 22:00:31",
-      "album": {
-        "name": "PLAYBOY CITY",
-        "url": "https://open.spotify.com/album/6vx1YeTyd5t0UTXb44rEMi"
-      },
-      "artists": [
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+          "name": "Bitza",
+          "url": "https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ"
         },
         {
-          "name": "NOUA UNSPE",
-          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+          "name": "Stres",
+          "url": "https://open.spotify.com/artist/2eVoGlAScaB4z8MPO029K5"
         }
       ],
-      "duration_ms": 123191,
-      "name": "A.D.S.",
-      "url": "https://open.spotify.com/track/4mbf5d3c5YsqEEnJQlVrzV"
+      "duration_ms": 129005,
+      "name": "Certificat",
+      "url": "https://open.spotify.com/track/7tuJGk5C2lnEZ7JstK97zO"
     },
     {
       "added_at": "2025-12-04 22:00:31",
@@ -683,6 +643,46 @@
       "duration_ms": 194936,
       "name": "inexplicabil",
       "url": "https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5"
+    },
+    {
+      "added_at": "2025-12-04 22:00:31",
+      "album": {
+        "name": "PLAYBOY CITY",
+        "url": "https://open.spotify.com/album/6vx1YeTyd5t0UTXb44rEMi"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "NOUA UNSPE",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+        }
+      ],
+      "duration_ms": 123191,
+      "name": "A.D.S.",
+      "url": "https://open.spotify.com/track/4mbf5d3c5YsqEEnJQlVrzV"
+    },
+    {
+      "added_at": "2025-12-04 22:00:31",
+      "album": {
+        "name": "Asta-i \u021aara Mea",
+        "url": "https://open.spotify.com/album/0cfv8rktcvzj2O2WmIByeO"
+      },
+      "artists": [
+        {
+          "name": "Satoshi",
+          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
+        },
+        {
+          "name": "Vasile Advahov",
+          "url": "https://open.spotify.com/artist/6Gg0PWo2x17nxM3EFomXyn"
+        }
+      ],
+      "duration_ms": 169711,
+      "name": "Asta-i \u021aara Mea",
+      "url": "https://open.spotify.com/track/3Itiryt0igEXRtf5KcinDC"
     },
     {
       "added_at": "2025-12-04 22:00:31",

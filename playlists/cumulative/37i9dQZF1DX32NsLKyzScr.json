@@ -3983,6 +3983,24 @@
     },
     {
       "album": {
+        "name": "Can't Stop Loving You",
+        "url": "https://open.spotify.com/album/0B6h2urIr10tKp0Vzh02UX"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205106,
+      "name": "Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/7D9nLNkpBM3X43NTTK6ODa"
+    },
+    {
+      "album": {
         "name": "Can't You See",
         "url": "https://open.spotify.com/album/0Qd8m380OmHYpwVf36tdOy"
       },
@@ -5682,7 +5700,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 258466,
       "name": "Desolate Lands",
       "url": "https://open.spotify.com/track/0otmh5QkPkM4HtSleILAWC"
@@ -24236,7 +24254,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 188108,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/01jx3vXwUaw9cfFeBk8sJQ"
@@ -27984,6 +28002,32 @@
       "duration_ms": 195000,
       "name": "We're Still Young",
       "url": "https://open.spotify.com/track/0ha2skoePlU0BDDySj8qf2"
+    },
+    {
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/5MVi8CiWSQ3kCKs60H0Fj1"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        },
+        {
+          "name": "Arlo",
+          "url": "https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW"
+        },
+        {
+          "name": "Allegra Miles",
+          "url": "https://open.spotify.com/artist/2b5HdZgVQ0DhkHrajBgcxu"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274174,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/0aruNrdbcZlqrGynYCyEBU"
     },
     {
       "album": {

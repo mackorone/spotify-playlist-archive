@@ -1,6 +1,6 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 1140116,
+  "num_followers": 1140386,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,26 @@
     {
       "added_at": "2025-10-17 06:00:19",
       "album": {
+        "name": "Secunena",
+        "url": "https://open.spotify.com/album/7LSWqWZtU9bQ4SZAxWhkXa"
+      },
+      "artists": [
+        {
+          "name": "Sayuri & Sopholov",
+          "url": "https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc"
+        },
+        {
+          "name": "Fuentes Prod",
+          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
+        }
+      ],
+      "duration_ms": 159183,
+      "name": "Secunena",
+      "url": "https://open.spotify.com/track/04vz25NeqrGvqqL219tlhM"
+    },
+    {
+      "added_at": "2025-10-17 06:00:19",
+      "album": {
         "name": "NUBES",
         "url": "https://open.spotify.com/album/3wUVB1OW5zxtW9G7UmfHzJ"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 178224,
       "name": "NUBES",
       "url": "https://open.spotify.com/track/7bugn9Xif6VHCLco3PIZc5"
-    },
-    {
-      "added_at": "2025-10-17 06:00:19",
-      "album": {
-        "name": "Secunena",
-        "url": "https://open.spotify.com/album/7LSWqWZtU9bQ4SZAxWhkXa"
-      },
-      "artists": [
-        {
-          "name": "Sayuri & Sopholov",
-          "url": "https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc"
-        },
-        {
-          "name": "Fuentes Prod",
-          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
-        }
-      ],
-      "duration_ms": 159183,
-      "name": "Secunena",
-      "url": "https://open.spotify.com/track/04vz25NeqrGvqqL219tlhM"
     },
     {
       "added_at": "2025-10-17 06:00:19",
@@ -947,30 +947,6 @@
     {
       "added_at": "2025-10-17 06:00:19",
       "album": {
-        "name": "QUEMA",
-        "url": "https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "SOG",
-          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
-        }
-      ],
-      "duration_ms": 150618,
-      "name": "QUEMA",
-      "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
-    },
-    {
-      "added_at": "2025-10-17 06:00:19",
-      "album": {
         "name": "Desnudate - Remix",
         "url": "https://open.spotify.com/album/53ncI589RsW51zBpgL8iMk"
       },
@@ -995,6 +971,30 @@
       "duration_ms": 243999,
       "name": "Desnudate - Remix",
       "url": "https://open.spotify.com/track/1kQhwc7ZTVJ9fKk1ECl4dL"
+    },
+    {
+      "added_at": "2025-10-17 06:00:19",
+      "album": {
+        "name": "QUEMA",
+        "url": "https://open.spotify.com/album/0RdSengz6ayOfcVwH3HBry"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "duration_ms": 150618,
+      "name": "QUEMA",
+      "url": "https://open.spotify.com/track/2hn2zOA2XFlv6DSmesylrL"
     },
     {
       "added_at": "2025-10-17 06:00:19",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-10-17 06:00:19",
       "album": {
+        "name": "Holanda",
+        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Holanda",
+      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
+    },
+    {
+      "added_at": "2025-10-17 06:00:19",
+      "album": {
         "name": "Tiago PZK: Bzrp Music Sessions, Vol. 48/66",
         "url": "https://open.spotify.com/album/2Mlyp5GSTI9XzBX7DrBuVn"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 160000,
       "name": "Tiago PZK: Bzrp Music Sessions, Vol. 48/66",
       "url": "https://open.spotify.com/track/6VAS7m73rDopQe7BdrFMpD"
-    },
-    {
-      "added_at": "2025-10-17 06:00:19",
-      "album": {
-        "name": "Holanda",
-        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
-      },
-      "artists": [
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Holanda",
-      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
     },
     {
       "added_at": "2025-10-17 06:00:19",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2025-10-17 06:00:19",
       "album": {
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/7haP1A1a1ssJKXBKskVLvG"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "duration_ms": 178407,
+      "name": "Singapur",
+      "url": "https://open.spotify.com/track/5q7icrT1Wn8PHaePIjYYyg"
+    },
+    {
+      "added_at": "2025-10-17 06:00:19",
+      "album": {
         "name": "SUPREME",
         "url": "https://open.spotify.com/album/3xMzcA2wx69GXCwHAK8ydm"
       },
@@ -1219,26 +1239,6 @@
     {
       "added_at": "2025-10-17 06:00:19",
       "album": {
-        "name": "El Androide",
-        "url": "https://open.spotify.com/album/7haP1A1a1ssJKXBKskVLvG"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Chael Produciendo",
-          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
-        }
-      ],
-      "duration_ms": 178407,
-      "name": "Singapur",
-      "url": "https://open.spotify.com/track/5q7icrT1Wn8PHaePIjYYyg"
-    },
-    {
-      "added_at": "2025-10-17 06:00:19",
-      "album": {
         "name": "Chaparrita",
         "url": "https://open.spotify.com/album/2MkMRB6c583f0eINaVLXHL"
       },
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2025-10-17 06:00:19",
       "album": {
-        "name": "Me Enter\u00e9",
-        "url": "https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 182075,
-      "name": "Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4"
-    },
-    {
-      "added_at": "2025-10-17 06:00:19",
-      "album": {
         "name": "GUAYA",
         "url": "https://open.spotify.com/album/2P1RZBxXlf4Kr0c2rrt6a0"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 194680,
       "name": "GUAYA",
       "url": "https://open.spotify.com/track/75hHR4TZqvB22EY0ntZfk1"
+    },
+    {
+      "added_at": "2025-10-17 06:00:19",
+      "album": {
+        "name": "Me Enter\u00e9",
+        "url": "https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 182075,
+      "name": "Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4"
     },
     {
       "added_at": "2025-10-17 06:00:19",

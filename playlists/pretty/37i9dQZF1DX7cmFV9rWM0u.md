@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 
 > Break a sweat with this Zumba\-inspired playlist! Find a class at Zumba.com
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,738,914 likes - 65 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,738,768 likes - 65 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,6 +72,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cmFV9rWM0u.md) - [plain]
 | 62 | [Berlin](https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Berlin](https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa) | 4:06 |
 | 63 | [KHE CALOR](https://open.spotify.com/track/1lzB5qrIA9GBH8cq5mZCSw) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [KHE CALOR](https://open.spotify.com/album/1xd5oyld3nHbkOY9xBUS8M) | 2:06 |
 | 64 | [Maradona \(Tatara\)](https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL) | [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i) | [Maradona \(Tatara\)](https://open.spotify.com/album/7k2xukz06wN3vKdaRHprPW) | 2:30 |
-| 65 | [Djadja \(feat\. Maluma\) \- Remix](https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Djadja \(feat\. Maluma\) \[Remix\]](https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV) | 2:46 |
+| 65 | [El Conjuntito](https://open.spotify.com/track/2bipvepI8ridFvIAImR5Xf) | [El Bobe](https://open.spotify.com/artist/3FtVhV92rZyHa7ot2ioG5a), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [El Conjuntito](https://open.spotify.com/album/2gDoGr6IjyCIKuKNM6rmZZ) | 2:38 |
 
 Snapshot ID: `AAAAAPi97MpP4Zo3J0Ybak779ijHOrBA`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7Lja8VGp26epzrvyl9y02C.md) - [plain]
 
 > Here are the most streamed songs and artists on the PS4 &amp; PS5 in 2024, 2023, and beyond.
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 53,255 likes - 388 songs - 21 hr 14 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 53,252 likes - 388 songs - 21 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/7Lja8VGp26epzrvyl9y02C.md) - [plain]
 | 42 | [Us Vs\. Them](https://open.spotify.com/track/1dhJxs9YOApockjlk0bL7g) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Are You Going to See the Rose in the Vase, or the Dust on the Table](https://open.spotify.com/album/1X1uDkDDs2BQiKlghA0gVQ) | 3:04 |
 | 43 | [GET OFF ME \(with Travis Scott\)](https://open.spotify.com/track/2Adxpr1j5lSihOCsmIfflJ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:35 |
 | 44 | [Get In With Me](https://open.spotify.com/track/6bryx7HyB4lVDc0KQXuoJ0) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Mr Beat The Road](https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb) | 2:00 |
-| 45 | [Poison](https://open.spotify.com/track/7kEzfZXbV63tlqkPyyRd7n) | [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 2:07 |
+| 45 | [Poison \- Hazbin Hotel Original Soundtrack](https://open.spotify.com/track/7kEzfZXbV63tlqkPyyRd7n) | [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 2:07 |
 | 46 | [Calling \- Spider\-Man: Across the Spider\-Verse](https://open.spotify.com/track/4ltqVxCEyn8xyDDyI4shBm) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \[SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE \(METROVERSE INSTRUMENTAL EDITION\)\]](https://open.spotify.com/album/4ocB97o3gdrIYyIwYSSwVy) | 3:39 |
 | 47 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 |
 | 48 | [Fight The Feeling](https://open.spotify.com/track/4aA7Lrm6rLGHx5kRMVb7NU) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 2:40 |

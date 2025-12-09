@@ -2,7 +2,7 @@
 
 ### [New Ambient](https://open.spotify.com/playlist/37i9dQZF1DX9c7yCloFHHL)
 
-> The cutting edge in new, contemporary Ambient, Atmospheric & Neo\-Classical 🪐 Cover: Oneohtrix Point Never
+> The cutting edge in new, contemporary Ambient, Atmospheric & Neo\-Classical 🪐 Cover: DjRUM
 
 1,680 songs - 5 day 11 hr 33 min
 

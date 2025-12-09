@@ -27567,6 +27567,24 @@
     },
     {
       "album": {
+        "name": "Whoop",
+        "url": "https://open.spotify.com/album/5vW5OcejX5Q51CU8gICRg3"
+      },
+      "artists": [
+        {
+          "name": "Moody Jones",
+          "url": "https://open.spotify.com/artist/24FWdrSufRayxwGPvzSFaz"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168509,
+      "name": "Whoop",
+      "url": "https://open.spotify.com/track/5YkmdLvb5eKiNCQoJBCjEs"
+    },
+    {
+      "album": {
         "name": "Why You Lie",
         "url": "https://open.spotify.com/album/3iwKrtHMgS9S8aFehqAWAo"
       },

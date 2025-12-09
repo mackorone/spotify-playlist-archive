@@ -4,7 +4,7 @@
 
 > Tierra linda que siempre sueño, y que muy dentro llevo\. Ciudad de Monterrey ♥️
 
-401 songs - 23 hr 28 min
+402 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [A Mí Me Gustas Tú](https://open.spotify.com/track/1EaKvr4fXEolYtb37KLrE5) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq), [Oscar Iván Trevíno](https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz) | [Se Alinearon Los Planetas](https://open.spotify.com/album/0cYR192hnEFfTCjfqAnigQ) | 3:08 | 2025-11-09 |  |
 | [A Mí, ¿Qué Me Quedó?](https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Vuelvo Contigo](https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU) | 2:41 | 2023-06-16 | 2025-11-10 |
 | [A Pesar De Todo](https://open.spotify.com/track/6PJlqc0VY2xHVRpdG64O09) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Alex Manga](https://open.spotify.com/artist/7nCFUyJyEVRBo3ZXVdocyZ), [Morre Romero](https://open.spotify.com/artist/0fSDiwBFm3ePcnzxZgx4zX) | [La Combinacion Vallenata](https://open.spotify.com/album/4BlePk43SPyN7SXY7YyWeU) | 4:32 | 2023-06-16 | 2025-11-10 |
-| [A Usted Que Le Importa Ft Millonario](https://open.spotify.com/track/1b0oL0GJWyv8mqg1w2UYmS) | [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [La Voz del Barrio](https://open.spotify.com/album/3E0HWJaxNI0XubfkOqik0Y) | 4:08 | 2025-11-09 |  |
+| [A Usted Que Le Importa Ft Millonario](https://open.spotify.com/track/1b0oL0GJWyv8mqg1w2UYmS) | [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [La Voz del Barrio](https://open.spotify.com/album/3E0HWJaxNI0XubfkOqik0Y) | 4:08 | 2025-11-09 | 2025-12-09 |
 | [A Ver Si Capea](https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [21 Black Jack](https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC) | 3:11 | 2023-06-16 | 2024-11-07 |
 | [Acábame de Matar](https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:00 | 2025-06-17 | 2025-11-10 |
 | [Adios](https://open.spotify.com/track/6fkxCIVDhGYuQfZO6f4PtW) | [La Marlu](https://open.spotify.com/artist/6jE6nnMPk3FSA9RBHxYks3) | [Adios](https://open.spotify.com/album/7tgREtNFckExy20QnRUJpF) | 3:24 | 2025-11-09 |  |
@@ -389,6 +389,7 @@
 | [Vas A Perrear Como Nunca Has Perreado](https://open.spotify.com/track/2bKVmT0K33VdKgKxrRhU9I) | [Dj Aza](https://open.spotify.com/artist/2qsETcaDdvTRTaL3nU4zNK), [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Vas A Perrear Como Nunca Has Perreado](https://open.spotify.com/album/1y9iZhEA1xlPbG8gYFPCbb) | 2:16 | 2025-11-09 |  |
 | [Vato Sencillo](https://open.spotify.com/track/1QkDbaPjLHycyBsJzOHexj) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Vol\. 4](https://open.spotify.com/album/7LP8ofOXYH2AGzc8ZCt0Oe) | 3:03 | 2025-06-17 |  |
 | [Vendedora de Caricias](https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:45 | 2025-06-17 | 2025-11-10 |
+| [Venimi](https://open.spotify.com/track/0faGhdyDvoqG38vhaHjl3E) | [Alanis Yuki](https://open.spotify.com/artist/78wDefnHex943QL32ggbx6) | [Venimi](https://open.spotify.com/album/4dnFRlboe1Wj7k2AeE50pp) | 2:00 | 2025-11-09 |  |
 | [Vete](https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Vete](https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW) | 2:55 | 2023-06-16 | 2025-11-10 |
 | [Vete a Buscar Aquel](https://open.spotify.com/track/5aN7yH7kjfOXCC8yLEHKhm) | [Conjunto Oro](https://open.spotify.com/artist/5q6hPtWmFpje38EmPPlqHs) | [Lo Mejor De](https://open.spotify.com/album/4HzwFCe7YSXPPgjCmQfleP) | 3:32 | 2023-06-16 | 2025-05-07 |
 | [Vida Ventajosa](https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Somos Arrieros](https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT) | 2:36 | 2024-07-02 | 2025-11-10 |

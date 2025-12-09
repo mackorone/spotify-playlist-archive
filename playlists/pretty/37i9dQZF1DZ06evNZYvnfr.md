@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYvnfr.md) - [plain]
 
 > This is Micah Tyler\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,623 likes - 34 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,622 likes - 34 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYvnfr.md) - [plain]
 | 26 | [Shine](https://open.spotify.com/track/4m8C3TE9KxBShNUWhNSw0v) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 3:22 |
 | 27 | [By Name](https://open.spotify.com/track/1b3Ru6VZDT9Udpgqn1HIIB) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [New Today](https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK) | 3:24 |
 | 28 | [Come Thou Fount](https://open.spotify.com/track/0dkyHTIAFrDcoKwOigL1H5) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [God Bless the Broken Road](https://open.spotify.com/album/1pqFU74JDxeIzKw3tYnNbu) | 2:12 |
-| 29 | [Come to Life](https://open.spotify.com/track/0CQ3Wa3jHtkOwVTKyM2Ba1) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 3:22 |
+| 29 | [Wretch No More](https://open.spotify.com/track/1kIK6mCVRipXntUsPflAPE) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 6:14 |
 | 30 | [Headed for the Mountain \(feat\. Phil King\)](https://open.spotify.com/track/0jxbPoE0igClGfEM0yAJfn) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Phil King](https://open.spotify.com/artist/1M7IqeW8EcYmcuuPkiwVDz) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 2:46 |
 | 31 | [Remember This](https://open.spotify.com/track/7vFyHLrMnhMVbdADWbgvGk) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [People Like Us](https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL) | 4:19 |
-| 32 | [Wretch No More](https://open.spotify.com/track/1kIK6mCVRipXntUsPflAPE) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 6:14 |
+| 32 | [Come to Life](https://open.spotify.com/track/0CQ3Wa3jHtkOwVTKyM2Ba1) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 3:22 |
 | 33 | [The Warrior](https://open.spotify.com/track/7HUDA4fVTMgDrqy8fZWZrm) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Story I Tell](https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC) | 3:49 |
 | 34 | [Southern Soul](https://open.spotify.com/track/45ZjkCNqpKoNb4sJg96OWu) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [The Kitchen Sink EP](https://open.spotify.com/album/1fvW7x2SVv18l0DM97INrp) | 4:01 |
 
-Snapshot ID: `aTNyAAAAAAD62Tf5+WtWnl+f8/JZ3rPp`
+Snapshot ID: `aTTDgAAAAADpuqgQigmIJxfSOQg6asiw`

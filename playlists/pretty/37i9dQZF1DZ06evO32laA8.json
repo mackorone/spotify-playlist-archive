@@ -1,29 +1,13 @@
 {
   "description": "This is Isabel LaRosa. The essential tracks, all in one playlist.",
-  "num_followers": 52263,
+  "num_followers": 52271,
   "original_name": "This Is Isabel LaRosa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAABHUqkqz++IH9ph4XHDNCZr",
+  "snapshot_id": "aTTDgAAAAAAYsx+sXsM1p8NegqKt94Uy",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Her Face",
-        "url": "https://open.spotify.com/album/1bznvIKet5ndYNcpMjIehg"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 203312,
-      "name": "Her Face",
-      "url": "https://open.spotify.com/track/2fa8SftlyWKUaBfRyCjPiq"
-    },
     {
       "added_at": null,
       "album": {
@@ -135,6 +119,22 @@
       "duration_ms": 124959,
       "name": "HEARTBEAT",
       "url": "https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Her Face",
+        "url": "https://open.spotify.com/album/1bznvIKet5ndYNcpMjIehg"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 203312,
+      "name": "Her Face",
+      "url": "https://open.spotify.com/track/2fa8SftlyWKUaBfRyCjPiq"
     },
     {
       "added_at": null,

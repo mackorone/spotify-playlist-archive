@@ -945,6 +945,28 @@
     },
     {
       "album": {
+        "name": "Stephen (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2RotiHGUnRcybnFl7D8lXd"
+      },
+      "artists": [
+        {
+          "name": "Raghav Rayan",
+          "url": "https://open.spotify.com/artist/1Il0vKmdQ9OuWneTXE0WOd"
+        },
+        {
+          "name": "Sam Vishal",
+          "url": "https://open.spotify.com/artist/0uaYtkIY2nv1tWsigjcLnd"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268101,
+      "name": "Aaromal Vaanaville",
+      "url": "https://open.spotify.com/track/7nvXB2v1OR4F9Hayl0pfQC"
+    },
+    {
+      "album": {
         "name": "Aaromaley - The Usual Promo Theme (From \"Aaromaley\")",
         "url": "https://open.spotify.com/album/313majBeMFubFHI5LPwQBl"
       },
@@ -7600,10 +7622,36 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 249045,
       "name": "Chendipoova (Ver 1) (From \"Angammal\")",
       "url": "https://open.spotify.com/track/1pgGzsdtVdzIemthbhYefm"
+    },
+    {
+      "album": {
+        "name": "Angammal",
+        "url": "https://open.spotify.com/album/1MToEgte7QmKovJodW9xyb"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Maqbool Mansoor",
+          "url": "https://open.spotify.com/artist/4Y82LR5X1lk8t9bzoVgnjq"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Muthamil",
+          "url": "https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249045,
+      "name": "Chendipoova (Ver 2)",
+      "url": "https://open.spotify.com/track/2le6omIUmGcrnyx02QeYW9"
     },
     {
       "album": {
@@ -8904,7 +8952,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 225176,
       "name": "Danger Mamae - From \"Revolver Rita\"",
       "url": "https://open.spotify.com/track/3mMZFQkHZkIGZglNYKVEj2"
@@ -15033,6 +15081,32 @@
     },
     {
       "album": {
+        "name": "Idhu Enna Maayam (From \"Mellisai\")",
+        "url": "https://open.spotify.com/album/2RqvPoy10wcLs1D4GFwwhn"
+      },
+      "artists": [
+        {
+          "name": "Shankar Rangarajan",
+          "url": "https://open.spotify.com/artist/6eBRmUN4QlzaBa1f7IC4uj"
+        },
+        {
+          "name": "Srinisha Jayaseelan",
+          "url": "https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a"
+        },
+        {
+          "name": "Dhirav",
+          "url": "https://open.spotify.com/artist/4b38Dcs0134MuY0Xr9FsUK"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126051,
+      "name": "Idhu Enna Maayam (From \"Mellisai\")",
+      "url": "https://open.spotify.com/track/7FzeYKwGASxMMhMXMrP6fQ"
+    },
+    {
+      "album": {
         "name": "Idhu Pola (From \"Iraivan\")",
         "url": "https://open.spotify.com/album/4eRoVd92V5F6k5Bfee2EJv"
       },
@@ -21100,7 +21174,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 214000,
       "name": "Karmugil Kannazhago (From \"Kaantha\")(Tamil)",
       "url": "https://open.spotify.com/track/2teURTq6Mu1JLea71INCB9"
@@ -36648,7 +36722,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 213692,
       "name": "Pudhu Car",
       "url": "https://open.spotify.com/track/6EbYu2noyleLwP6PaS9djL"
@@ -38768,6 +38842,36 @@
       "duration_ms": 238663,
       "name": "Saachitale (From \"Love Today\")",
       "url": "https://open.spotify.com/track/1GtGDEADkaqavjo23YaSLl"
+    },
+    {
+      "album": {
+        "name": "Saachittaayaa (From \"Akhanda 2 - Thaandavam\")(Tamil)",
+        "url": "https://open.spotify.com/album/52VVxhvdjYVL36DOkCB8uD"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Sri Krishna",
+          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
+        },
+        {
+          "name": "Sanjana Kalmanje",
+          "url": "https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ"
+        },
+        {
+          "name": "Super Subu",
+          "url": "https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187600,
+      "name": "Saachittaayaa (From \"Akhanda 2 - Thaandavam\")(Tamil)",
+      "url": "https://open.spotify.com/track/2NiYgLyUYojtlqzmm5V4sP"
     },
     {
       "album": {
@@ -46433,6 +46537,28 @@
     },
     {
       "album": {
+        "name": "Angammal",
+        "url": "https://open.spotify.com/album/1MToEgte7QmKovJodW9xyb"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Maqbool Mansoor",
+          "url": "https://open.spotify.com/artist/4Y82LR5X1lk8t9bzoVgnjq"
+        },
+        {
+          "name": "vaisagh",
+          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297000,
+      "name": "Uchanipoo",
+      "url": "https://open.spotify.com/track/38vcLIzCKH9pa8tESULeaU"
+    },
+    {
+      "album": {
         "name": "Uchathila (From \"Vettaiyan\")",
         "url": "https://open.spotify.com/album/3xbnvs67RhfolSQvhhJxUq"
       },
@@ -52148,7 +52274,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 222000,
       "name": "Yaar Ingu Vaazhanum (From \"Mahasenha\")",
       "url": "https://open.spotify.com/track/5uXIABkpAeXrN2OL9VUGkF"

@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 706488,
+  "num_followers": 706561,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAABpWaVRoabc3f2GdgKdyUrK",
+  "snapshot_id": "aTTDgAAAAADVhnIrgwnPW3kkzY5obTRP",
   "tracks": [
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 234160,
-      "name": "Weight Of Your World",
-      "url": "https://open.spotify.com/track/2Kk1Dce84X3oRILM1tL0WX"
+      "duration_ms": 181680,
+      "name": "What Am I Gonna Do",
+      "url": "https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl"
     },
     {
       "added_at": null,
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 181680,
-      "name": "What Am I Gonna Do",
-      "url": "https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl"
+      "duration_ms": 234160,
+      "name": "Weight Of Your World",
+      "url": "https://open.spotify.com/track/2Kk1Dce84X3oRILM1tL0WX"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody Wants This Season 2: The Soundtrack",
-        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 207746,
-      "name": "Heart Letting Go",
-      "url": "https://open.spotify.com/track/4EwpXldfU693P8z1ucbfur"
+      "duration_ms": 178426,
+      "name": "Arkansas",
+      "url": "https://open.spotify.com/track/0NdEdsXS9jbX1hnufawZ0z"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+        "name": "Nobody Wants This Season 2: The Soundtrack",
+        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 178426,
-      "name": "Arkansas",
-      "url": "https://open.spotify.com/track/0NdEdsXS9jbX1hnufawZ0z"
+      "duration_ms": 207746,
+      "name": "Heart Letting Go",
+      "url": "https://open.spotify.com/track/4EwpXldfU693P8z1ucbfur"
     },
     {
       "added_at": null,

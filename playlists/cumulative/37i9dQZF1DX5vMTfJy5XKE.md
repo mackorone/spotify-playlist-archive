@@ -2,9 +2,9 @@
 
 ### [New Music Holiday](https://open.spotify.com/playlist/37i9dQZF1DX5vMTfJy5XKE)
 
-> 'Tis the season! All new holiday releases\. Cover: Ravyn Lenae
+> 'Tis the season! All new holiday releases\. Cover: Cher
 
-1,055 songs - 2 day 8 hr 21 min
+1,056 songs - 2 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Christmas Is Coming \(and so are you\)](https://open.spotify.com/track/2uVR2vWy7aBA8MdsxC7rLG) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [CARR’s White Christmas](https://open.spotify.com/album/1Kr0rWIcxzXKDQBJ2V26Ae) | 2:17 | 2024-11-22 | 2025-09-27 |
 | [Christmas Is Different](https://open.spotify.com/track/1OdylzVGx9wJc3B0WeXBB8) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM), [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Christmas Is Different](https://open.spotify.com/album/2CZDkcYhhWDCVxa31aO7lv) | 2:33 | 2025-10-17 |  |
 | [Christmas Is Groove](https://open.spotify.com/track/0qUSGo5tqvUpmTO2fgOzHe) | [Marcia Hines](https://open.spotify.com/artist/7pUbbv62ajr1JDVFaftZJT) | [Christmas Is Groove](https://open.spotify.com/album/3u3LbU18t6JhZMSY1S6kQd) | 3:15 | 2025-10-17 | 2025-10-25 |
+| [Christmas Is Here](https://open.spotify.com/track/1d8IUiU5iyjuuuKc9ccaZn) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas Is Here](https://open.spotify.com/album/00mbqmxA9gMuflg9GXgxPX) | 3:06 | 2025-12-08 |  |
 | [Christmas Is Killing Me](https://open.spotify.com/track/1xtlEoY8yW3FzttzUUrvWw) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Taylor Momsen's Pretty Reckless Christmas](https://open.spotify.com/album/6Y9WENXPwpVPnfrWKVYhB2) | 2:22 | 2025-10-31 |  |
 | [Christmas Is Love](https://open.spotify.com/track/7c6fEs9S4cQY9kJQ1pDIGh) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Christmas Is Love](https://open.spotify.com/album/4lBaCss8rJp4wYGv7B1N8d) | 5:58 | 2024-11-08 | 2025-09-27 |
 | [Christmas Isn't Canceled \(Just You\)](https://open.spotify.com/track/4zHDuDQx8dcWVmVVtyIzRO) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 3:51 | 2021-12-24 | 2022-10-24 |

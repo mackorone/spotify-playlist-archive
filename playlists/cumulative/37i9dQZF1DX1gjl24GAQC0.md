@@ -4,7 +4,7 @@
 
 > Is it your bias K\-Pop boy group? \(Cover: ALPHA DRIVE ONE\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-796 songs - 1 day 19 hr 18 min
+797 songs - 1 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,7 @@
 | [HWEEK](https://open.spotify.com/track/7muY2OFMX8iuDqk1wP10kn) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [4SHO](https://open.spotify.com/album/0RPXqJPuiBeXYkjpqDd7YU) | 3:18 | 2023-07-04 | 2023-07-21 |
 | [Hymn to Love](https://open.spotify.com/track/3HsBjL08LXLjzTAjlJNVLA) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [EPEX 4th EP Album Prelude of Love Chapter 1\. ‘Puppy Love’](https://open.spotify.com/album/2JZJ0Eo9Zi2hqFS3ddBumM) | 3:14 | 2022-10-26 | 2022-11-16 |
 | [I Did It](https://open.spotify.com/track/6AKmmsg5C3p86Nm8qwzYc1) | [AxMxP](https://open.spotify.com/artist/2XUQUIfzPtEZtkjU0D9y8C) | [AxMxP](https://open.spotify.com/album/7CddXgLBio0ruzFJ31xmjj) | 2:56 | 2025-09-22 | 2025-09-30 |
-| [I Feel Good](https://open.spotify.com/track/1klePVubVctBqhlKJvibil) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [No Genre](https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL) | 2:35 | 2025-05-14 |  |
+| [I Feel Good](https://open.spotify.com/track/1klePVubVctBqhlKJvibil) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [No Genre](https://open.spotify.com/album/2E8hkTJKnSCv69mjVAh6hL) | 2:35 | 2025-05-14 | 2025-12-09 |
 | [I Got U](https://open.spotify.com/track/23W0eq63H9sTGG8SjJu6Ke) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Gatcha!](https://open.spotify.com/album/2LQ1gERkYGpu5pGpUoLNjr) | 3:15 | 2022-01-17 | 2022-06-15 |
 | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y) | [SHOWNU X HYUNGWON \(MONSTA X\)](https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg) | [I Hate You \(2024\) \- Spotify Singles](https://open.spotify.com/album/1aF8lItq2Esu8pBHJoxXMA) | 2:44 | 2024-03-05 | 2024-03-27 |
 | [I LOVE YOU](https://open.spotify.com/track/1SxqqC1aQ8JiLyfMrHYmnF) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) | 3:01 | 2022-08-03 | 2022-08-07 |
@@ -570,6 +570,7 @@
 | [REALLY REALLY](https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [FATE NUMBER FOR](https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0) | 3:23 | 2022-07-27 | 2022-11-15 |
 | [RED](https://open.spotify.com/track/1JsBcVdlKZJmDPJWu4wJPC) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/5CrMZwZuJcDpzFmMO35vxN) | 2:56 | 2022-09-05 | 2022-12-27 |
 | [RED](https://open.spotify.com/track/4Dy1Iav5ND9bJCHE090An9) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [RED](https://open.spotify.com/album/4CMscoZuaGi6UEDC2Wpdtk) | 2:56 | 2021-12-08 | 2022-07-29 |
+| [RED \(Beggin’\)](https://open.spotify.com/track/03ZcDObLhvSeadqOg0gsiP) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [Lost and Found](https://open.spotify.com/album/4j6qWUx1OjrrR59XdT6gcU) | 2:40 | 2025-12-08 |  |
 | [Red Light, Green Light](https://open.spotify.com/track/4xgBVNYwDQNhtpeyxQWP8s) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [Red Light, Green Light](https://open.spotify.com/album/7AOjftp6myCoxMR7pnoGLB) | 3:23 | 2022-03-11 | 2022-04-15 |
 | [Regulus](https://open.spotify.com/track/299CpDyNkUS3aFAZCr0c9A) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [2/4](https://open.spotify.com/album/55ucpTq6CWc40dJakIPajP) | 3:42 | 2022-01-27 | 2022-07-17 |
 | [Rendezvous](https://open.spotify.com/track/4nKnOIDXFjRSMG4vkXDwzY) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [WHO WE ARE](https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz) | 3:40 | 2025-07-02 | 2025-11-12 |

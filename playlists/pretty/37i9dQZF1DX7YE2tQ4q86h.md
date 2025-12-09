@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > Jade is taking us to church !
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,193 likes - 101 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,220 likes - 101 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Lana Del Rey. The essential tracks, all in one playlist.",
-  "num_followers": 2746887,
+  "num_followers": 2747147,
   "original_name": "This Is Lana Del Rey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAAB3Hj1yTQzat2g5vqoFAsGN",
+  "snapshot_id": "aTTDgAAAAAB4e8O5BcqPEJi1jQnWhZap",
   "tracks": [
     {
       "added_at": null,
@@ -175,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 295066,
+      "name": "Art Deco",
+      "url": "https://open.spotify.com/track/5jqNQZBwbZWQXPWfo0ygZF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 111626,
       "name": "Stargirl Interlude",
       "url": "https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 295066,
-      "name": "Art Deco",
-      "url": "https://open.spotify.com/track/5jqNQZBwbZWQXPWfo0ygZF"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
-        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 247147,
-      "name": "Season Of The Witch",
-      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
+      "duration_ms": 257573,
+      "name": "High By The Beach",
+      "url": "https://open.spotify.com/track/7g3htkaLz4ETFn0cifwM3y"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
+        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
+        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 257573,
-      "name": "High By The Beach",
-      "url": "https://open.spotify.com/track/7g3htkaLz4ETFn0cifwM3y"
+      "duration_ms": 247147,
+      "name": "Season Of The Witch",
+      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
       "duration_ms": 285050,
       "name": "Did you know that there's a tunnel under Ocean Blvd",
       "url": "https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 295093,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/3sYDVtqO35oRSOIMx7dOqR"
     },
     {
       "added_at": null,
@@ -795,22 +811,6 @@
       "duration_ms": 238718,
       "name": "In My Feelings",
       "url": "https://open.spotify.com/track/269xqcgGTN9PlivhUkOLhX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 295093,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/3sYDVtqO35oRSOIMx7dOqR"
     },
     {
       "added_at": null,

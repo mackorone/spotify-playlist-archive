@@ -102,7 +102,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 298130,
       "name": "+57",
       "url": "https://open.spotify.com/track/3mg9jYNC1NihbthlglzrWP"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 281458,
       "name": "40 DE DICIEMBRE (feat. GeezyDee, CARABIN3)",
       "url": "https://open.spotify.com/track/2hScMilrNzlbD9VD88t7jD"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 187045,
       "name": "Adonay",
       "url": "https://open.spotify.com/track/51PN9C6MlZbHLYWzEYaXff"
@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 223200,
       "name": "Aires De Navidad",
       "url": "https://open.spotify.com/track/0LdlVrH3R9PCfaVNNVANgl"
@@ -3558,7 +3558,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 202673,
       "name": "Boquita De Caramelo",
       "url": "https://open.spotify.com/track/6AVPrH4OGxRf0knkiYw4yx"
@@ -3860,7 +3860,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 295458,
       "name": "BUENOS DIAS (feat. Tury, GeezyDee, CARABIN3)",
       "url": "https://open.spotify.com/track/10B0cONtHL7b8hdMRE2Du6"
@@ -4354,6 +4354,28 @@
       "duration_ms": 176021,
       "name": "Cantares de Navidad",
       "url": "https://open.spotify.com/track/0Vx3Tpg4zOYS8yOMNDDXHx"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos De Rodolfo Aicardi, Vol. 2",
+        "url": "https://open.spotify.com/album/34OpCDsSUuQOogmBdZXxD3"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176021,
+      "name": "Cantares De Navidad",
+      "url": "https://open.spotify.com/track/3TdugbisMHJ7Fu7j6jzV5M"
     },
     {
       "album": {
@@ -6156,7 +6178,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
@@ -6467,6 +6489,24 @@
     },
     {
       "album": {
+        "name": "Colecci\u00f3n De \u00c9xitos, Vol. 1",
+        "url": "https://open.spotify.com/album/4oSEBX6Fc3TLXtUhKmms7o"
+      },
+      "artists": [
+        {
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171374,
+      "name": "Dame Tu Mujer Jos\u00e9",
+      "url": "https://open.spotify.com/track/3zatWvL4uqTiv3GQ76YfRw"
+    },
+    {
+      "album": {
         "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
         "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
       },
@@ -6544,6 +6584,28 @@
       "duration_ms": 198164,
       "name": "Daniela",
       "url": "https://open.spotify.com/track/7x2q5q9h2ZegxQLDhqJ2VP"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos De Rodolfo Aicardi, Vol. 1",
+        "url": "https://open.spotify.com/album/2nZbI4CGmtsPKHpoQTRkOK"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "Daniela",
+      "url": "https://open.spotify.com/track/3WqqkPBdf1nzxbLJUpyZks"
     },
     {
       "album": {
@@ -7420,7 +7482,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 286040,
       "name": "Diles",
       "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
@@ -8156,7 +8218,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 206373,
       "name": "El Ausente",
       "url": "https://open.spotify.com/track/08iYm4UIni9LMVqfTgS4Nr"
@@ -8384,7 +8446,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 375000,
       "name": "EL FICTICIO",
       "url": "https://open.spotify.com/track/7fqHCkfwrKu58t4JQSE0Kq"
@@ -8492,7 +8554,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 240039,
       "name": "El Hijo de Tuta",
       "url": "https://open.spotify.com/track/3Af1yB8FrreRZsWddbJ3me"
@@ -8732,6 +8794,24 @@
       "duration_ms": 192440,
       "name": "El P\u00e1jaro Amarillo",
       "url": "https://open.spotify.com/track/5v2Q2VjK0LOxOW8J9AO4RL"
+    },
+    {
+      "album": {
+        "name": "Colecci\u00f3n De \u00c9xitos, Vol. 1",
+        "url": "https://open.spotify.com/album/4oSEBX6Fc3TLXtUhKmms7o"
+      },
+      "artists": [
+        {
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192440,
+      "name": "El P\u00e1jaro Amarillo",
+      "url": "https://open.spotify.com/track/5vRTCLLuoqmaAmtCYCltKT"
     },
     {
       "album": {
@@ -9772,7 +9852,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -11038,7 +11118,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 165178,
       "name": "frente al mar",
       "url": "https://open.spotify.com/track/1i1n7hUzCDkXGFqIJSSzom"
@@ -11788,6 +11868,24 @@
       "duration_ms": 222680,
       "name": "Gol",
       "url": "https://open.spotify.com/track/4uHs0TfECKllxN8zeLWqJu"
+    },
+    {
+      "album": {
+        "name": "Colecci\u00f3n \u00c9xitos: Pastor L\u00f3pez, Vol. 1",
+        "url": "https://open.spotify.com/album/1CHzLVjkL95E5XVo2Mn7Ma"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213840,
+      "name": "Golpe Con Golpe",
+      "url": "https://open.spotify.com/track/2OMtHS2URalrraV9BeWwQQ"
     },
     {
       "album": {
@@ -13440,7 +13538,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 206066,
       "name": "Kh\u00e9?",
       "url": "https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9"
@@ -14560,7 +14658,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 249608,
       "name": "La player (Bandolera)",
       "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
@@ -15116,7 +15214,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 274546,
       "name": "Las Cuatro Fiestas",
       "url": "https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6"
@@ -16340,7 +16438,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 196800,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
@@ -16826,6 +16924,24 @@
       "duration_ms": 218270,
       "name": "Maroon",
       "url": "https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm"
+    },
+    {
+      "album": {
+        "name": "Colecci\u00f3n De \u00c9xitos, Vol. 1",
+        "url": "https://open.spotify.com/album/4oSEBX6Fc3TLXtUhKmms7o"
+      },
+      "artists": [
+        {
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156467,
+      "name": "Mar\u00eda Teresa",
+      "url": "https://open.spotify.com/track/0ss0qRfPUSwXTEIXLCLeC9"
     },
     {
       "album": {
@@ -18846,7 +18962,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 157453,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB"
@@ -20318,6 +20434,28 @@
       "duration_ms": 220451,
       "name": "Ojitos Hechiceros",
       "url": "https://open.spotify.com/track/0ksLUL7VoeNwHJsmO9ldnR"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos De Rodolfo Aicardi, Vol. 1",
+        "url": "https://open.spotify.com/album/2nZbI4CGmtsPKHpoQTRkOK"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220354,
+      "name": "Ojitos Hechiceros",
+      "url": "https://open.spotify.com/track/3aNQ7v5SNHwBDO4PFdbFJk"
     },
     {
       "album": {
@@ -23416,7 +23554,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 154090,
       "name": "Que Sensaci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/0xh2JGmHH1lgRMDaIL94pz"
@@ -24484,7 +24622,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 260440,
       "name": "Ron Pa' Todo el Mundo (feat. Diomedes D\u00edaz)",
       "url": "https://open.spotify.com/track/6jQeAqkvJfT27Mk87kPlVk"
@@ -26488,6 +26626,24 @@
       "duration_ms": 218305,
       "name": "SOLEAO",
       "url": "https://open.spotify.com/track/4OsBqqMwFabHATATT527tH"
+    },
+    {
+      "album": {
+        "name": "Colecci\u00f3n \u00c9xitos: Pastor L\u00f3pez, Vol. 1",
+        "url": "https://open.spotify.com/album/1CHzLVjkL95E5XVo2Mn7Ma"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169920,
+      "name": "Solo Un Cigarro",
+      "url": "https://open.spotify.com/track/4NiRVBAAYZsFskNrU9D3m3"
     },
     {
       "album": {
@@ -29504,7 +29660,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 164000,
       "name": "UNA NOCHE DE LOCURA",
       "url": "https://open.spotify.com/track/2tKVinInf0PJS1iG04zzqi"

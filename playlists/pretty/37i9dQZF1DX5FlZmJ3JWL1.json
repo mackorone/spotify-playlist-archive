@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 771571,
+  "num_followers": 771552,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-11-20 13:37:37",
       "album": {
+        "name": "Mask Off",
+        "url": "https://open.spotify.com/album/6GXGKsaFs8Hnr8X6viTIEa"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 155070,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/7AFAB7RL8PXHrSf4uY10Z6"
+    },
+    {
+      "added_at": "2025-11-20 13:37:37",
+      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/2oRqHz1SKj1CcccfeyASOF"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 184938,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/2DgQUPTincZnoRT5CJxTKi"
-    },
-    {
-      "added_at": "2025-11-20 13:37:37",
-      "album": {
-        "name": "Mask Off",
-        "url": "https://open.spotify.com/album/6GXGKsaFs8Hnr8X6viTIEa"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 155070,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/7AFAB7RL8PXHrSf4uY10Z6"
     },
     {
       "added_at": "2025-11-20 13:37:37",

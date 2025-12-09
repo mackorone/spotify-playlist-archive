@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 ### [New Ambient](https://open.spotify.com/playlist/37i9dQZF1DX9c7yCloFHHL)
 
-> The cutting edge in new, contemporary Ambient, Atmospheric & Neo\-Classical 🪐 Cover: Oneohtrix Point Never
+> The cutting edge in new, contemporary Ambient, Atmospheric & Neo\-Classical 🪐 Cover: DjRUM
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,235 likes - 100 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,291 likes - 100 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [Specular](https://open.spotify.com/track/0Z9S0hJ7MEBQAqJEwuyqLW) | [Rhian Sheehan](https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT), [Arli Liberman](https://open.spotify.com/artist/3gVNQN1b6HpdFzMbo2jE5k) | [Traces](https://open.spotify.com/album/7MUo9bDoliYraZdayic0pa) | 6:56 |
 | 100 | [Ringing Ocean](https://open.spotify.com/track/6t4CRgDL6SM4c0Brem2v2G) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Beatie Wolfe](https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI) | [The Last To Know / Ringing Ocean](https://open.spotify.com/album/21bPhiBg3N27x4PpUpIo3I) | 3:30 |
 
-Snapshot ID: `AAAAAEK1MyN33ouFkNjfE7UJyhLzebR+`
+Snapshot ID: `AAAAAM87VzfX/aLNP/i77j9tnqrir6Nw`

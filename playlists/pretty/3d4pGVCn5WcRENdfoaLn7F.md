@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 342 likes - 62 songs - 3 hr 47 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 343 likes - 63 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,5 +70,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 60 | [elvira](https://open.spotify.com/track/1MN0j7rkRyjKHNnpPrRI6p) | [The Links](https://open.spotify.com/artist/2TFSpXVPNjJAFyFbzitt3c) | [elvira](https://open.spotify.com/album/51zYMlPIqJDH3m6h0QdJrI) | 4:13 |
 | 61 | [Crazy Dance of Death](https://open.spotify.com/track/26AvmPorUJ4jLn9vZ0DowU) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Crazy Dance of Death](https://open.spotify.com/album/1GYG0FvWCwAt5l32W37wrS) | 3:11 |
 | 62 | [ostracized myself](https://open.spotify.com/track/4kedkU5YfOg9aP3Rhaqh8Y) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [ostracized myself](https://open.spotify.com/album/7zzcYFc64KJdA2Hd1AB7Fm) | 2:50 |
+| 63 | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/track/6xl56wh97kK5kdTvrpw3qH) | [FaveRiot](https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN) | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/album/6WkWXr3yPcAWRdHnuV8uZz) | 2:26 |
 
-Snapshot ID: `AAACEkC86p/bP16+h+c41Ed2HFk6PIDA`
+Snapshot ID: `AAACE1goxJFMCdAvYd0JmdliWouQH7sN`

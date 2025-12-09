@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 
 > mucho ruido, puro ruido\. The Devil Wears Prada en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,013 likes - 98 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,012 likes - 98 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

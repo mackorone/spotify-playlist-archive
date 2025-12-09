@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Alto Grado en portada.",
-  "num_followers": 485954,
+  "num_followers": 485953,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Compa\u00f1eros Musicales",
-        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "La Carencia",
-      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
         "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 234985,
       "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
       "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "La Carencia",
+      "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -403,22 +403,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "La Guitarra",
-      "url": "https://open.spotify.com/track/6aPoVnA9UDncMyKgTAicsO"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "Chanchos Amigos",
         "url": "https://open.spotify.com/album/4CVKkxqqOZmGCNqEqAvvOY"
       },
@@ -471,22 +455,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "La Luz Del Ritmo",
-        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Padre Nuestro",
-      "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "Pante\u00f3n Rococ\u00f3",
         "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
@@ -499,6 +467,38 @@
       "duration_ms": 180826,
       "name": "Ac\u00e1bame de Matar",
       "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "La Guitarra",
+      "url": "https://open.spotify.com/track/6aPoVnA9UDncMyKgTAicsO"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "La Luz Del Ritmo",
+        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 272640,
+      "name": "Padre Nuestro",
+      "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Frecuencia Rebelde",
-        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
-      },
-      "artists": [
-        {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Total",
-      "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 243293,
       "name": "Mal Bicho",
       "url": "https://open.spotify.com/track/4lq31N4E4eWqVMZv93sbhJ"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "Frecuencia Rebelde",
+        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Total",
+      "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1263,22 +1263,18 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "La Boni",
-        "url": "https://open.spotify.com/album/60i8eJW5Cqf68eRBUg1t5F"
+        "name": "Justo Cuando Cre\u00edas Que No - The Romaphonic Sessions",
+        "url": "https://open.spotify.com/album/79OkM0EpZBiAWt5DMeXnYR"
       },
       "artists": [
         {
-          "name": "Malacates Trebol Shop",
-          "url": "https://open.spotify.com/artist/6Nc4k4Y5rX6YgnBsoXGJjG"
-        },
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+          "name": "Sat\u00e9lite Kingston",
+          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
         }
       ],
-      "duration_ms": 209311,
-      "name": "La Boni",
-      "url": "https://open.spotify.com/track/60F2wMMzrcTCFWNIlCXDSZ"
+      "duration_ms": 214081,
+      "name": "La Ultima Carta - The Romaphonic Session",
+      "url": "https://open.spotify.com/track/2JYxaBRpjSJ0WRUHYOKc5n"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1359,18 +1355,22 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Justo Cuando Cre\u00edas Que No - The Romaphonic Sessions",
-        "url": "https://open.spotify.com/album/79OkM0EpZBiAWt5DMeXnYR"
+        "name": "La Boni",
+        "url": "https://open.spotify.com/album/60i8eJW5Cqf68eRBUg1t5F"
       },
       "artists": [
         {
-          "name": "Sat\u00e9lite Kingston",
-          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
+          "name": "Malacates Trebol Shop",
+          "url": "https://open.spotify.com/artist/6Nc4k4Y5rX6YgnBsoXGJjG"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
         }
       ],
-      "duration_ms": 214081,
-      "name": "La Ultima Carta - The Romaphonic Session",
-      "url": "https://open.spotify.com/track/2JYxaBRpjSJ0WRUHYOKc5n"
+      "duration_ms": 209311,
+      "name": "La Boni",
+      "url": "https://open.spotify.com/track/60F2wMMzrcTCFWNIlCXDSZ"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Paz y Baile",
-        "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
-      },
-      "artists": [
-        {
-          "name": "Roco Pachukote",
-          "url": "https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA"
-        },
-        {
-          "name": "Flavio Cianciarulo",
-          "url": "https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3"
-        }
-      ],
-      "duration_ms": 218750,
-      "name": "Paz y Baile",
-      "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "La Ranchera",
         "url": "https://open.spotify.com/album/5kGQqjz7CaLrMwjXAbCQ9V"
       },
@@ -1467,18 +1447,22 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Sue\u00f1os de Barrio",
-        "url": "https://open.spotify.com/album/10DIbM5ChwtYsCTFqt7iHf"
+        "name": "Paz y Baile",
+        "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
       },
       "artists": [
         {
-          "name": "Timo Pacheco",
-          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+          "name": "Roco Pachukote",
+          "url": "https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA"
+        },
+        {
+          "name": "Flavio Cianciarulo",
+          "url": "https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3"
         }
       ],
-      "duration_ms": 207092,
-      "name": "Sue\u00f1os de Barrio",
-      "url": "https://open.spotify.com/track/7MckDimRoP5ye2GEm70g22"
+      "duration_ms": 218750,
+      "name": "Paz y Baile",
+      "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1499,6 +1483,22 @@
       "duration_ms": 182233,
       "name": "Am\u00e9rica",
       "url": "https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "Sue\u00f1os de Barrio",
+        "url": "https://open.spotify.com/album/10DIbM5ChwtYsCTFqt7iHf"
+      },
+      "artists": [
+        {
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+        }
+      ],
+      "duration_ms": 207092,
+      "name": "Sue\u00f1os de Barrio",
+      "url": "https://open.spotify.com/track/7MckDimRoP5ye2GEm70g22"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Este Ritmo",
-        "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
-      },
-      "artists": [
-        {
-          "name": "Los De Abajo",
-          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
-        }
-      ],
-      "duration_ms": 167128,
-      "name": "Este Ritmo",
-      "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "Quiero Bailar Ska!!!",
         "url": "https://open.spotify.com/album/2mJm3RcjlckzPcupdolmmx"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 199500,
       "name": "Quiero Bailar Ska!!!",
       "url": "https://open.spotify.com/track/6nltOspNKN9Vt1MLONvoZT"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "Este Ritmo",
+        "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
+      },
+      "artists": [
+        {
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+        }
+      ],
+      "duration_ms": 167128,
+      "name": "Este Ritmo",
+      "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
-      },
-      "artists": [
-        {
-          "name": "Los Victorios",
-          "url": "https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj"
-        }
-      ],
-      "duration_ms": 190012,
-      "name": "El Peor Momento",
-      "url": "https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "Mi Sol De Verano",
         "url": "https://open.spotify.com/album/73Wy3Jg5g1hDmLDei7nomt"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 200572,
       "name": "Mi Sol De Verano",
       "url": "https://open.spotify.com/track/6ynyDwUQpqYNRKeeSPGBVI"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
+      },
+      "artists": [
+        {
+          "name": "Los Victorios",
+          "url": "https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj"
+        }
+      ],
+      "duration_ms": 190012,
+      "name": "El Peor Momento",
+      "url": "https://open.spotify.com/track/4L43mWUckLLELjY01ULy0f"
     },
     {
       "added_at": "2025-10-31 06:00:15",

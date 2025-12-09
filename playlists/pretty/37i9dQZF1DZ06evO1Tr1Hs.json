@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 44064,
+  "num_followers": 44095,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAAAI0cKfTrn7678MKvI0jmPW",
+  "snapshot_id": "aTTDgAAAAACYe3sPixCnExoWs4PU37oV",
   "tracks": [
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UY SCUTI",
-        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "Yuck (feat. Ken Carson)",
-      "url": "https://open.spotify.com/track/1gVbCsO7ekztVTRgyD0nq7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 176578,
       "name": "Murda Musik (feat. Destroy Lonely)",
       "url": "https://open.spotify.com/track/6N0I4EqoaIHib3W1LFPMzC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UY SCUTI",
+        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "Yuck (feat. Ken Carson)",
+      "url": "https://open.spotify.com/track/1gVbCsO7ekztVTRgyD0nq7"
     },
     {
       "added_at": null,
@@ -618,11 +618,15 @@
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         }
       ],
-      "duration_ms": 169889,
-      "name": "New",
-      "url": "https://open.spotify.com/track/2ht2G1JL1yg0kIbz6Wfr8V"
+      "duration_ms": 228326,
+      "name": "MDMA (feat. Destroy Lonely)",
+      "url": "https://open.spotify.com/track/6hJjp4IbXc5bddl6RKutJr"
     },
     {
       "added_at": null,
@@ -686,15 +690,11 @@
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
         }
       ],
-      "duration_ms": 228326,
-      "name": "MDMA (feat. Destroy Lonely)",
-      "url": "https://open.spotify.com/track/6hJjp4IbXc5bddl6RKutJr"
+      "duration_ms": 169889,
+      "name": "New",
+      "url": "https://open.spotify.com/track/2ht2G1JL1yg0kIbz6Wfr8V"
     },
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "</3\u00b3",
-        "url": "https://open.spotify.com/album/3wUVDdRTNWxMeYxbfYFPBi"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 262539,
-      "name": "open it up (with Ken Carson)",
-      "url": "https://open.spotify.com/track/0F8K7mgOVEZ7cpOLBPQx38"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
       },
@@ -831,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project X",
-        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 131414,
-      "name": "Clutch",
-      "url": "https://open.spotify.com/track/11GKYHTMZHqIH6wR03pA4t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homixide Lifestyle",
         "url": "https://open.spotify.com/album/6swapyVAOMJiUKc6qhUykp"
       },
@@ -863,6 +827,42 @@
       "duration_ms": 178285,
       "name": "Stunt",
       "url": "https://open.spotify.com/track/6HK0t75U3xsQQ3HoYHQJMi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Project X",
+        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 131414,
+      "name": "Clutch",
+      "url": "https://open.spotify.com/track/11GKYHTMZHqIH6wR03pA4t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "</3\u00b3",
+        "url": "https://open.spotify.com/album/3wUVDdRTNWxMeYxbfYFPBi"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 262539,
+      "name": "open it up (with Ken Carson)",
+      "url": "https://open.spotify.com/track/0F8K7mgOVEZ7cpOLBPQx38"
     },
     {
       "added_at": null,

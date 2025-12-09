@@ -4,7 +4,7 @@
 
 > Groove to Desi chart\-toppers and Bollywood’s top TikTok hits &amp; Reels Anthems —featuring Arijit Singh, Badshah, AP Dhillon, Shreya Ghoshal, Neha Kakkar, Sunidhi Chauhan, A.R\. Rahman, Pritam, and Tanishk Bagchi!
 
-361 songs - 22 hr 14 min
+362 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Shola \(feat\. Charan\)](https://open.spotify.com/track/63nOStctrIrxnxXSczPsT1) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Shola \(feat\. Charan\)](https://open.spotify.com/album/6TGUS4BDulWlm2UGZE3IoJ) | 2:03 | 2021-04-14 | 2022-08-05 |
 | [Shringaar \(feat\. Milind Soman\)](https://open.spotify.com/track/5Fx04tkVKaLwM6TVAqArx5) | [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s), [Milind Soman](https://open.spotify.com/artist/7Kg31wd1ybxvp7RVlHArxJ) | [Shringaar \(feat\. Milind Soman\)](https://open.spotify.com/album/3515DB1ynK7YXiZqABue6p) | 3:30 | 2022-06-30 | 2023-03-21 |
 | [Sin](https://open.spotify.com/track/5vwpOLQh2PpIbuJSjHhFwZ) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Sin](https://open.spotify.com/album/7yp5xkGyvmuDlrA0luJ56m) | 3:07 | 2021-02-20 | 2021-07-14 |
+| [Sitaare \(From "Ikkis"\)](https://open.spotify.com/track/6WlARP6h4CDVOcY386wW0W) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [White Noise Collectives](https://open.spotify.com/artist/73vvjIbxF9MP8VZG3tthUC), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Sitaare \(From "Ikkis"\)](https://open.spotify.com/album/2tEc5YZxGIMLRamt8ZmRUL) | 4:02 | 2025-12-08 |  |
 | [Srivalli \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/track/7sVEoPc5ZUUQerRkgTypUZ) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Srivalli \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/album/0o80h7hMTz2wjzJSvckOcr) | 3:44 | 2022-02-01 | 2023-08-28 |
 | [Summer High](https://open.spotify.com/track/1aL9518P5G72N92b48tuKw) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Summer High](https://open.spotify.com/album/7sni37uwHitUkllYmcRO8W) | 2:57 | 2022-08-19 | 2025-09-06 |
 | [Suniyan Suniyan](https://open.spotify.com/track/0XRb6eZE4dBIJdqwf1Mixu) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Suniyan Suniyan](https://open.spotify.com/album/7fDOsfo0KfyUV2crgrG6zR) | 3:17 | 2024-08-08 | 2025-06-19 |

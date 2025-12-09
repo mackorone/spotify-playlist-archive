@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover:Thomas Raggi
 
-1,770 songs - 4 day 6 hr 21 min
+1,771 songs - 4 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Be Nothing](https://open.spotify.com/track/5UTz0G8NKuAfuKTETWyMZF) | [Newspeak](https://open.spotify.com/artist/3eaUqC1a64Qk1pjNBv5L71) | [Be Nothing](https://open.spotify.com/album/4SAoAdpY6r6Nn6I84MfNSr) | 3:32 | 2023-11-16 | 2023-11-24 |
 | [Be Quiet and Drive \(Far Away\) – Spotify Singles](https://open.spotify.com/track/2SprbOeFdglaLgZoCcytuu) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Be Quiet and Drive \(Far Away\) – Spotify Singles](https://open.spotify.com/album/6jAdEVjL2cnwhhywkdmIzr) | 3:07 | 2024-02-15 | 2024-05-08 |
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-09 | 2024-11-29 |
-| [Beat A B!tch Up](https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Beat A B!tch Up](https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2) | 2:47 | 2025-10-09 |  |
+| [Beat A B!tch Up](https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Beat A B!tch Up](https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2) | 2:47 | 2025-10-09 | 2025-12-09 |
 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 | 2024-01-11 | 2024-04-20 |
 | [Beautiful Sky \(feat\. Jim James\)](https://open.spotify.com/track/7zlU2NsGW5lILMxjTwJrpm) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0), [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Little Bit of Sun](https://open.spotify.com/album/2IIZUA4Ey5voQpvhhrOw71) | 4:57 | 2023-11-02 | 2023-11-10 |
 | [Been Here Before](https://open.spotify.com/track/2KlAdT5Y6515sZdOPka8sA) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Been Here Before](https://open.spotify.com/album/71S6zEj9bB6MAYURARKQ4g) | 4:27 | 2024-08-01 | 2024-11-05 |
@@ -522,6 +522,7 @@
 | [Excalibur](https://open.spotify.com/track/1nyELhx0gcRfoOjyQIlnXS) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Good Morning Seven](https://open.spotify.com/album/6uRkdBZB2rgImAjDUbhw60) | 3:25 | 2024-03-21 | 2024-04-19 |
 | [Excalibur](https://open.spotify.com/track/2Y2nA9IKV1wFPNdzQe116n) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Excalibur / Toy](https://open.spotify.com/album/0otqoDLNYY23IMA9xZyZKl) | 3:25 | 2024-04-18 | 2024-05-03 |
 | [Excalibur](https://open.spotify.com/track/4axZspCaHdJgR1E8aeIz0w) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Excalibur / Toy](https://open.spotify.com/album/0cShrlrWOOemhMgkKUOrQR) | 3:25 | 2024-02-29 | 2024-03-26 |
+| [EXISTED](https://open.spotify.com/track/2WFPlR4bqnE0q80A6XndyH) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [EXISTED](https://open.spotify.com/album/3p4WJXKa2sZyLzCvGYWkiY) | 3:35 | 2025-12-05 |  |
 | [Exits Blocked](https://open.spotify.com/track/6ZjQr2u2refwSwIE1Y2FFQ) | [Pile](https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf) | [Hot Air Balloon EP](https://open.spotify.com/album/6FQhPhyUfZcfqvjeGd4lhC) | 3:29 | 2024-01-04 | 2024-01-12 |
 | [Expert In A Dying Field](https://open.spotify.com/track/1bPcxJHusTrlr2Kj4kjK7e) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y) | 4:11 | 2023-09-15 | 2023-09-22 |
 | [Explode!](https://open.spotify.com/track/1ROCJzbhjpP7uYRrse4fzf) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Grief Chapter](https://open.spotify.com/album/5sMSJ6uAozdrqFELMwl3NU) | 2:31 | 2024-02-15 | 2025-01-19 |

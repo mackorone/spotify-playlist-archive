@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,235 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,294 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 49 | [Canto Alto](https://open.spotify.com/track/0yyyXCKQibwPutGeHmDama) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Daniel Shadow](https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Nume \- Epílogo](https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5) | 3:03 |
 | 50 | [Nova Sorte](https://open.spotify.com/track/12TzgWqlNFtPXO4hwCusiV) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Vivaz](https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF) | 3:10 |
 
-Snapshot ID: `aTNyAAAAAAAkKV6AkQMlUfVMFkWrRFdo`
+Snapshot ID: `aTTDgAAAAADaq4F5UhFvLtVGT2bj0lAB`

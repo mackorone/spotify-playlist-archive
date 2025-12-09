@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 14,733 likes - 53 songs - 2 hr 41 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 14,733 likes - 57 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,5 +61,9 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 51 | [Nite](https://open.spotify.com/track/6u5KqMERNVjSnyai7qFPSr) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj), [MARCKENZO](https://open.spotify.com/artist/7zNN9Mt9pcGSiPFJ4Houqu) | [Nite](https://open.spotify.com/album/7wd5TVB6MyBofWNXctaBA6) | 2:53 |
 | 52 | [Basic Instinct](https://open.spotify.com/track/4coPwPfxxr5jHLR4jRnVSw) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Basic Instinct](https://open.spotify.com/album/3CLL8jbee2bkSTfw7CCTBP) | 2:49 |
 | 53 | [Jumpin](https://open.spotify.com/track/4wxWcmViocW3ulOMJQRScY) | [DJEAU](https://open.spotify.com/artist/6lgOrCkQMcx7hEW0FxZ2rA), [Diego Sosa](https://open.spotify.com/artist/4ICbTCbDUznz4NJP0Pya2d), [Tally](https://open.spotify.com/artist/1BGmvURhdsSvMFEmQkL71k), [Mood Child](https://open.spotify.com/artist/1LVqAYTWun2fwHqr91UdOm) | [Jumpin](https://open.spotify.com/album/5EeKTF3xDHRjrcXYCs9otc) | 3:52 |
+| 54 | [Work It Like This](https://open.spotify.com/track/1meI886H5HDVdblix1FEMm) | [Kriss Reeve](https://open.spotify.com/artist/5oS267l8pGKqJmh9ZhCYGS) | [Work It Like This](https://open.spotify.com/album/5hDG78GlqsTY2rveFzHRSh) | 2:32 |
+| 55 | [Fee Fi Fo Fum \(feat\. KAM\-BU\)](https://open.spotify.com/track/20NWjwDzsxz7CXIyyQFMCx) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [Fee Fi Fo Fum \(feat\. KAM\-BU\)](https://open.spotify.com/album/74gn9OK41NsDSvj0CKeLFl) | 3:11 |
+| 56 | [Take Your Places](https://open.spotify.com/track/2adebVLvCyhgIM4eGNfS6n) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Take Your Places](https://open.spotify.com/album/4xRNv1atMIvOZL7dGGwBVk) | 3:57 |
+| 57 | [Lift Me Up](https://open.spotify.com/track/0b7PbH7jnPDx9cZ77nc6Fe) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Point Zero / Lift Me Up](https://open.spotify.com/album/49IPEHPL1alOTzFgXfVTl7) | 3:34 |
 
-Snapshot ID: `AAAnWEQuZJ2JAZGqeVqmSfB8R5Ns+9hR`
+Snapshot ID: `AAAnXCfo9rGrcd+TS24q1PP4QVcTGAvl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 > The Hottest Arabic Music.<br/>Cover: DYSTINCT
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,016 likes - 51 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,130 likes - 51 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 | 2 | [El Hob Gany](https://open.spotify.com/track/67yheG887FPQXlPRNmoXqz) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [El Hob Gany](https://open.spotify.com/album/0ydLudumPehNljy8VgM0Bp) | 4:01 |
 | 3 | [Kifek 3A Fra2e](https://open.spotify.com/track/1dDMi1rMxOXGFVDFcF41Ii) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs), [Mohamed Chaker](https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0) | [Kifek 3A Fra2e](https://open.spotify.com/album/45QIRHKcKVQxZOa1KB034T) | 3:48 |
 | 4 | [Khatfoony](https://open.spotify.com/track/3ptVro4saZIK2M6J8fIoEg) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W), [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 4:17 |
-| 5 | [Ya Albo](https://open.spotify.com/track/21gkUsT7168IAtmo9EB9fd) | [Nancy Ajram](https://open.spotify.com/artist/3hnKbMrrOkExkPrfi905TE) | [NANCY 11](https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX) | 2:30 |
+| 5 | [Ya Albo](https://open.spotify.com/track/21gkUsT7168IAtmo9EB9fd) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [NANCY 11](https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX) | 2:30 |
 | 6 | [Makrehtosh](https://open.spotify.com/track/6ETTz69AD0SQzjxiCipq7g) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/2oqZuAGuCqR2aYrfrUBXzR) | 3:32 |
 | 7 | [أول حب](https://open.spotify.com/track/6m686JPy4eKbumXZ3Unf4n) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [أول حب](https://open.spotify.com/album/63ataOFd510uJ8XnLyW1WF) | 3:52 |
 | 8 | [Btmanna Ansak](https://open.spotify.com/track/0yXKYYBPxOuakAOshy1cah) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Btmanna Ansak](https://open.spotify.com/album/5VSaFCbLM1mxocW2NADEiy) | 2:52 |

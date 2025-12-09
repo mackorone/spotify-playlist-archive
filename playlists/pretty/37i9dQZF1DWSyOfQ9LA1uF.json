@@ -1,6 +1,6 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 79141,
+  "num_followers": 79154,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
+        "name": "Bump",
+        "url": "https://open.spotify.com/album/4G2lrhI4JbpBdtYFfa1Qec"
+      },
+      "artists": [
+        {
+          "name": "Spank Rock",
+          "url": "https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2"
+        }
+      ],
+      "duration_ms": 447000,
+      "name": "Bump - Switch Remix",
+      "url": "https://open.spotify.com/track/6DwVAGeeP7lDQIqKbjzjxi"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
         "name": "Suspense Is Killing Me EP",
         "url": "https://open.spotify.com/album/0NLguEzq237Uukt4kmaqZR"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 238400,
       "name": "Wake Up - Original",
       "url": "https://open.spotify.com/track/4nWHPMywLwn3oONWNfGJ2k"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
-        "name": "Bump",
-        "url": "https://open.spotify.com/album/4G2lrhI4JbpBdtYFfa1Qec"
-      },
-      "artists": [
-        {
-          "name": "Spank Rock",
-          "url": "https://open.spotify.com/artist/1LcLsIWOl1Z8vo1wl6bxg2"
-        }
-      ],
-      "duration_ms": 447000,
-      "name": "Bump - Switch Remix",
-      "url": "https://open.spotify.com/track/6DwVAGeeP7lDQIqKbjzjxi"
     },
     {
       "added_at": "2024-08-08 18:53:25",

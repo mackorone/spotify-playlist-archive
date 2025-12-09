@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,783 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,773 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 39 | [Here We Go Again](https://open.spotify.com/track/7bvUKfeVJweptHIJtnC8Kz) | [Pacific Avenue](https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ) | [Here We Go Again](https://open.spotify.com/album/4THNExkJ80NtafCGJADvar) | 4:11 |
 | 40 | [555](https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [555](https://open.spotify.com/album/3TzTUtBE6D489IUaKcGw2k) | 3:18 |
 | 41 | [Give Me Your Love Back](https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Give Me Your Love Back](https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO) | 2:56 |
-| 42 | [Daisy](https://open.spotify.com/track/4nGH9TgCC3Ebz3WzOGdrgs) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X), [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Daisy](https://open.spotify.com/album/2ex1SdB7QepUqe5bqCWhPI) | 2:44 |
-| 43 | [Mr\. Plastic](https://open.spotify.com/track/6spcrcdCq4lcRnYVkhVQRb) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Mr\. Plastic](https://open.spotify.com/album/0AvBXxggtjAbVknmfvDegZ) | 2:11 |
+| 42 | [Mr\. Plastic](https://open.spotify.com/track/6spcrcdCq4lcRnYVkhVQRb) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Mr\. Plastic](https://open.spotify.com/album/0AvBXxggtjAbVknmfvDegZ) | 2:11 |
+| 43 | [Daisy](https://open.spotify.com/track/4nGH9TgCC3Ebz3WzOGdrgs) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X), [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Daisy](https://open.spotify.com/album/2ex1SdB7QepUqe5bqCWhPI) | 2:44 |
 | 44 | [Love That Girl](https://open.spotify.com/track/3XTYgwvbBsNonoauUvZgo6) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [The Way I See It](https://open.spotify.com/album/5qWdVsgBbJJVrnDYQrx6IP) | 3:04 |
 | 45 | [Dodged A Bullet](https://open.spotify.com/track/4RQ5rPSO5B0PDoV4hrz7Cw) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Dodged A Bullet](https://open.spotify.com/album/6kLLJQFrfLqvl71WdqQLz9) | 2:38 |
 | 46 | [End Zone](https://open.spotify.com/track/2wCllylUpVkRPKrMKUuaVD) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw), [ROM COM](https://open.spotify.com/artist/2MrqzR7wCXVQ0r6PPDIQTg) | [End Zone](https://open.spotify.com/album/6nE416MMt0BOKa0e696X7J) | 2:43 |
 | 47 | [Wait For Me](https://open.spotify.com/track/7cMg5vrTt97hgKvKC6Ju7s) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Wait For Me](https://open.spotify.com/album/72eW4GfBdULIVENa700Fah) | 2:39 |
-| 48 | [All There Is To Know](https://open.spotify.com/track/7q0NUpOU9j2DZFyHxTEaN4) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [All There Is To Know](https://open.spotify.com/album/17bsFu3ODuF2kS5ux4ybYC) | 3:16 |
-| 49 | [When I Go](https://open.spotify.com/track/1DIWTY8YI8cLaQRdPSrkDl) | [Saults](https://open.spotify.com/artist/0v3GJQVtEdCbwnKpCUwOE8) | [When I Go](https://open.spotify.com/album/5MYFajLWl4uphD3NPW223K) | 4:17 |
+| 48 | [When I Go](https://open.spotify.com/track/1DIWTY8YI8cLaQRdPSrkDl) | [Saults](https://open.spotify.com/artist/0v3GJQVtEdCbwnKpCUwOE8) | [When I Go](https://open.spotify.com/album/5MYFajLWl4uphD3NPW223K) | 4:17 |
+| 49 | [All There Is To Know](https://open.spotify.com/track/7q0NUpOU9j2DZFyHxTEaN4) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [All There Is To Know](https://open.spotify.com/album/17bsFu3ODuF2kS5ux4ybYC) | 3:16 |
 | 50 | [Kick Out of You](https://open.spotify.com/track/6xynry0TYIlyClA93a1rJt) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Kick Out of You](https://open.spotify.com/album/0jEYKbsEzz4s3xK65hBhq5) | 3:19 |
 
 Snapshot ID: `AAAAAD/kHf4mfFnYScPAJysbW9NUy9Vn`

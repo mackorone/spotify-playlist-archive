@@ -1,6 +1,6 @@
 {
   "description": "mostly furry",
-  "num_followers": 1167,
+  "num_followers": 1168,
   "original_name": "My favourite furry songs",
   "owner": {
     "name": "kiara",
@@ -2164,6 +2164,10 @@
       },
       "artists": [
         {
+          "name": "Christian Borle",
+          "url": "https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG"
+        },
+        {
           "name": "Erika Henningsen",
           "url": "https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG"
         },
@@ -2180,18 +2184,6 @@
           "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
         },
         {
-          "name": "Blake Roman",
-          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
-        },
-        {
-          "name": "Keith David",
-          "url": "https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY"
-        },
-        {
-          "name": "Christian Borle",
-          "url": "https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG"
-        },
-        {
           "name": "Joel Perez",
           "url": "https://open.spotify.com/artist/1OFyMXmkzPqt8a5MZ1ue5h"
         },
@@ -2206,6 +2198,14 @@
         {
           "name": "Andrew Underberg",
           "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        },
+        {
+          "name": "Blake Roman",
+          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
+        },
+        {
+          "name": "Keith David",
+          "url": "https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY"
         },
         {
           "name": "Sam Haft",
@@ -2252,10 +2252,6 @@
       },
       "artists": [
         {
-          "name": "Daphne Rubin-Vega",
-          "url": "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
-        },
-        {
           "name": "Lilli Cooper",
           "url": "https://open.spotify.com/artist/61Im27379GhfbMD5LVDmlp"
         },
@@ -2270,6 +2266,10 @@
         {
           "name": "Sam Haft",
           "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Daphne Rubin-Vega",
+          "url": "https://open.spotify.com/artist/0WJ95VwySC8v8HR504J5vR"
         }
       ],
       "duration_ms": 95682,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > Sweet afro melodies\. Cover:  BOJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,089 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,123 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 54 | [Angelina](https://open.spotify.com/track/4HclkElcH5XYdWZNxeuIvn) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Angelina](https://open.spotify.com/album/792yssMtxw2ho4UZl23L4X) | 3:03 |
 | 55 | [Titanium \(feat\. Chris Brown\)](https://open.spotify.com/track/5xZ4y9EgfmpogFKf1607lP) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:33 |
 | 56 | [Crazily](https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk) | [Strei](https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Crazily](https://open.spotify.com/album/0C9ArjDsTSnFiJjUzLMi3k) | 2:29 |
-| 57 | [YBIL \(You Believe in Love\) \(feat\. Kizz Daniel\)](https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Qing Madi \(Deluxe\)](https://open.spotify.com/album/4vxIotduGifC33fGSfxxom) | 3:15 |
-| 58 | [Love](https://open.spotify.com/track/5pB7zLOU7mTplExDJF1NuG) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Love](https://open.spotify.com/album/5spgzPm7x3HPsfQLMDZYPY) | 3:07 |
-| 59 | [Sooner](https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sooner](https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q) | 2:49 |
+| 57 | [Sooner](https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sooner](https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q) | 2:49 |
+| 58 | [YBIL \(You Believe in Love\) \(feat\. Kizz Daniel\)](https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Qing Madi \(Deluxe\)](https://open.spotify.com/album/4vxIotduGifC33fGSfxxom) | 3:15 |
+| 59 | [Love](https://open.spotify.com/track/5pB7zLOU7mTplExDJF1NuG) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Love](https://open.spotify.com/album/5spgzPm7x3HPsfQLMDZYPY) | 3:07 |
 | 60 | [Screaming Beauty](https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Screaming Beauty](https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP) | 2:41 |
 | 61 | [forever](https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:48 |
 | 62 | [I'm Available](https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [I'm Available](https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8) | 3:16 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 77 | [Ouu wee \(brown\)](https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu wee \(brown\)](https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl) | 2:46 |
 | 78 | [Bus Stop Remix \(with Young Jonn\)](https://open.spotify.com/track/7Evfsvdd1x1MEysQyEE7fK) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Okada Airlines](https://open.spotify.com/album/0tryWtXDmIsGPK53e9DBTH) | 3:01 |
 | 79 | [Come Gimme](https://open.spotify.com/track/7agUxGNzZz3eaPqH1PQtSf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:49 |
-| 80 | [damn u](https://open.spotify.com/track/5XT1UyE4dVm8DsqVGir9PG) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [After Midnight](https://open.spotify.com/album/76fGDuks8oWP7yumsfunzL) | 2:57 |
+| 80 | [Intentions](https://open.spotify.com/track/3pngOEYFiJfEfYyTPftvdk) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Intentions](https://open.spotify.com/album/2nhA8MVsmN2vu7SKP9sRcu) | 2:35 |
 
 Snapshot ID: `AAAAANBekOJLdkic2hv51O+9Y0aorjZQ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Lil Baby, Luke Combs, Playboi Carti, Ozuna & Beéle, Baby Nova,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,476,762 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,476,365 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

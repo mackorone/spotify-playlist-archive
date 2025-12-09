@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,197 likes - 100 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,207 likes - 100 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 88 | [Eat The Runway](https://open.spotify.com/track/14Ni5erIxyY8Y7nWbuDtpf) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [LaLa Ri](https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz) | [Eat The Runway](https://open.spotify.com/album/6htixeOtoUYLx6uzAoitA0) | 3:08 |
 | 89 | [1 Bump](https://open.spotify.com/track/0qw6U1nveUfBG6wggthDt8) | [partywithray](https://open.spotify.com/artist/7AjFruVAKGzYPVuvD7T8Ex) | [1 Bump](https://open.spotify.com/album/7FPkZoWVcrTs8fN48C3ayy) | 3:13 |
 | 90 | [E](https://open.spotify.com/track/21wXCpWHhImzz4KYHxQ71q) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [E](https://open.spotify.com/album/1t624lyAzfA49IztYeL8WA) | 4:12 |
-| 91 | [Satisfaction](https://open.spotify.com/track/3ZKenCHFbGlX4mTwmCjFn5) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [TWINSOUL](https://open.spotify.com/album/0SmkxoeQw4aujMVrFUWRN9) | 3:35 |
-| 92 | [We're Alive \- Virgil Abloh Remix](https://open.spotify.com/track/5r8HTctugtsyA9SrnDlvb5) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Love Letters Remix Edition](https://open.spotify.com/album/0D9RB5hd10x4kfAp0y44Uu) | 6:29 |
+| 91 | [We're Alive \- Virgil Abloh Remix](https://open.spotify.com/track/5r8HTctugtsyA9SrnDlvb5) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Love Letters Remix Edition](https://open.spotify.com/album/0D9RB5hd10x4kfAp0y44Uu) | 6:29 |
+| 92 | [Satisfaction](https://open.spotify.com/track/3ZKenCHFbGlX4mTwmCjFn5) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [TWINSOUL](https://open.spotify.com/album/0SmkxoeQw4aujMVrFUWRN9) | 3:35 |
 | 93 | [White Lights](https://open.spotify.com/track/3beMeoozbBTrATGW5u4Emz) | [Jordan Gill](https://open.spotify.com/artist/4SMjBNhuUVL2dqIk67vsKx) | [Cataclysmic](https://open.spotify.com/album/4eXNPTKfQUhbT6JgENZeY4) | 8:11 |
 | 94 | [Lucky \- Edit](https://open.spotify.com/track/32NQyxOI8S3Cvvt3Dp6s8K) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Lucky](https://open.spotify.com/album/1twdlt63HPInhVkVgZ1Dr2) | 3:11 |
 | 95 | [Indie Circus \(feat\. Seafoam Walls\)](https://open.spotify.com/track/6uIO7LPCT5kJ0ivimi1svB) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Sea Foam Walls](https://open.spotify.com/artist/32KC7H62jmp0JsyUPQVexO) | [B.E.M 2.0](https://open.spotify.com/album/1OXyE2AruMF6KLzbONrmLn) | 1:57 |

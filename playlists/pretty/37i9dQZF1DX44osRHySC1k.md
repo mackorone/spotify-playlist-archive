@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 
 > Sleep is the best Medicine
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,348 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,355 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 55 | [Dulces Sueños](https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Dulces Sueños](https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA) | 4:05 |
 | 56 | [Eternal Thoughts](https://open.spotify.com/track/6b0o30D3HsAsyk0RCocgJ1) | [Orbit Release](https://open.spotify.com/artist/2FBNGiujxsVznAFGo4YvuG) | [Eternal Thoughts](https://open.spotify.com/album/3GG1avkDFt0F0Hub7GV3HP) | 4:01 |
 | 57 | [Your Peace](https://open.spotify.com/track/65AHFH7pRxxMrFDsFVH5Hv) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [New Beginning](https://open.spotify.com/album/6V5ozm35KOvFwt8bSX79MP) | 3:44 |
-| 58 | [Deep Theta 4 Hz](https://open.spotify.com/track/1bdhhKZAxmdqAOt18QFXNc) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Deep Theta : High Coherence Soundscapes for Meditation and Healing](https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z) | 5:19 |
-| 59 | [After The Silence](https://open.spotify.com/track/2yJSmc4zKPW6JHSKTnuwB6) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [After The Silence](https://open.spotify.com/album/1zlRkcTT8C6Jaaq9sfYS1o) | 2:23 |
+| 58 | [After The Silence](https://open.spotify.com/track/2yJSmc4zKPW6JHSKTnuwB6) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [After The Silence](https://open.spotify.com/album/1zlRkcTT8C6Jaaq9sfYS1o) | 2:23 |
+| 59 | [Deep Theta 4 Hz](https://open.spotify.com/track/1bdhhKZAxmdqAOt18QFXNc) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Deep Theta : High Coherence Soundscapes for Meditation and Healing](https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z) | 5:19 |
 | 60 | [Dream Voucher](https://open.spotify.com/track/2T6wyxLBkQ4Y2ZjTbpuYfr) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Dream Voucher](https://open.spotify.com/album/2okoZfiEKs54ajikpoc9WZ) | 2:35 |
 | 61 | [Violin Lullaby](https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Sleep Well](https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx) | 2:26 |
 | 62 | [Loveliness](https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx) | [Jean Petri](https://open.spotify.com/artist/5Nh6KbxCO5DFRmgQEllo2G) | [Moments of Tomorrow](https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a) | 1:50 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 84 | [Tenderly](https://open.spotify.com/track/6Qur3sb3jen75OnKG2Omv6) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lover Man](https://open.spotify.com/album/4vT3k8HlxyiOlTEHde8Unz) | 2:40 |
 | 85 | [Storybook](https://open.spotify.com/track/0nMvEL9CNSdeBwV3TgUGSi) | [Mi Soon](https://open.spotify.com/artist/6wM8laf4eWnxQnhABs0E5i) | [Storybook](https://open.spotify.com/album/5KwSIcT8RrbxnKscueYIxI) | 2:21 |
 | 86 | [Stelliferous](https://open.spotify.com/track/2mXs5X2hDss3gdOAwaWgl7) | [Szigeti Aliz](https://open.spotify.com/artist/5MYqSmIAMjoiBp8suHqGaA) | [Stelliferous](https://open.spotify.com/album/1gQFGbrdBfYpcg2MMsZbnE) | 3:27 |
-| 87 | [Bloom Bliss](https://open.spotify.com/track/2ejyYxHNXikzuncD5akHGo) | [Danyel Varda](https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB) | [Mandala Spirit](https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z) | 3:39 |
-| 88 | [Surrender](https://open.spotify.com/track/5EJQuBhBqG7VU2Fi6y5btW) | [K](https://open.spotify.com/artist/0hd66OEzb2gfUd7drvOK3d) | [Surrender](https://open.spotify.com/album/033FoV2z84edQ98JTUxFIl) | 3:16 |
+| 87 | [Surrender](https://open.spotify.com/track/5EJQuBhBqG7VU2Fi6y5btW) | [K](https://open.spotify.com/artist/0hd66OEzb2gfUd7drvOK3d) | [Surrender](https://open.spotify.com/album/033FoV2z84edQ98JTUxFIl) | 3:16 |
+| 88 | [Bloom Bliss](https://open.spotify.com/track/2ejyYxHNXikzuncD5akHGo) | [Danyel Varda](https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB) | [Mandala Spirit](https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z) | 3:39 |
 | 89 | [Sleep Well](https://open.spotify.com/track/6EltS9kyjdvCeIOZuNx7S0) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Sleep Well](https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx) | 3:59 |
 | 90 | [Wind](https://open.spotify.com/track/1xTxbktonB8OnloUIfvogm) | [Violin Music](https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt) | [New Romantic Classical Piano and Violin Duets](https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax) | 4:26 |
 | 91 | [anywhere](https://open.spotify.com/track/72vxTKMDAc9eh7Nb8wgpHU) | [Rosetta Arroyo](https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg) | [unspoken](https://open.spotify.com/album/13YgCo3QU3MKCB5d75wpAI) | 2:39 |

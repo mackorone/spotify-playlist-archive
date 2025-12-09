@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique covers by your favorite country artists\. Cover: Dan + Shay
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,301 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,299 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 49 | [Landslide](https://open.spotify.com/track/2dUG4qvDpJ32vuwE1qvsMz) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Landslide](https://open.spotify.com/album/63ON47KtoeS8yMqZElye5n) | 3:38 |
 | 50 | [Blinding Lights \- Country Version](https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Blinding Lights \(Country Version\)](https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt) | 3:06 |
 | 51 | [Something In The Orange \- Live From Spotify Studios](https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 4:02 |
-| 52 | [Believe \(with Jelly Roll\)](https://open.spotify.com/track/3Nh5mzU8htHws2Wi7j2X4Z) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 4:56 |
+| 52 | [You Are My Sunshine](https://open.spotify.com/track/7Cz3jTJOZkwU0WCKBTDWLP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 2:57 |
 | 53 | [Hold On, We're Going Home \- Country Version](https://open.spotify.com/track/2Hie8F7KYwDtxAZf9rZPwd) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Hold On, We're Going Home \(Country Version\)](https://open.spotify.com/album/1wWyT7gYPFTviJ6NNYISx8) | 3:21 |
-| 54 | [Three Little Birds \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Three Little Birds \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u) | 4:01 |
-| 55 | [You Are My Sunshine](https://open.spotify.com/track/7Cz3jTJOZkwU0WCKBTDWLP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 2:57 |
+| 54 | [Believe \(with Jelly Roll\)](https://open.spotify.com/track/3Nh5mzU8htHws2Wi7j2X4Z) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 4:56 |
+| 55 | [Three Little Birds \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Three Little Birds \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u) | 4:01 |
 | 56 | [When A Man Loves A Woman](https://open.spotify.com/track/6PgFcH7XEw1FeReY4049UG) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [When A Man Loves A Woman](https://open.spotify.com/album/3rF1V3X2lvEXeNAAOpqcHN) | 3:17 |
 | 57 | [Here Without You](https://open.spotify.com/track/08QNaOyfKSEVTwU4DYiDwo) | [Dylan Wolfe](https://open.spotify.com/artist/6NM2BhEMkVbLgCB6RlM6SX) | [Here Without You](https://open.spotify.com/album/5SapcMVBJM7ojBtGZPV2La) | 3:51 |
 | 58 | [Piece of My Heart](https://open.spotify.com/track/5I7a2zThNmOtlbwrRlcN88) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Take Me as I Am](https://open.spotify.com/album/79nKKGW7tQCPQ21NejFUJZ) | 4:01 |

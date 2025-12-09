@@ -302,6 +302,24 @@
     {
       "album": {
         "name": "The Makings Of Me",
+        "url": "https://open.spotify.com/album/51kmfllmwJFadhnq1uI9sk"
+      },
+      "artists": [
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231906,
+      "name": "A Dozen Roses (You Remind Me) - Main",
+      "url": "https://open.spotify.com/track/1DYBNNALQdYO6vWaNCy1g0"
+    },
+    {
+      "album": {
+        "name": "The Makings Of Me",
         "url": "https://open.spotify.com/album/7JD7E5nrRc4XSBYXqIAYk7"
       },
       "artists": [
@@ -312,7 +330,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 231906,
       "name": "A Dozen Roses (You Remind Me) - Main",
       "url": "https://open.spotify.com/track/5UWdPzE9SHP0ECqP1Psg8T"
@@ -2056,10 +2074,28 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 199626,
       "name": "Doin' Me Right",
       "url": "https://open.spotify.com/track/5z2a3BOB8v9C7Lrs99rY3c"
+    },
+    {
+      "album": {
+        "name": "The Makings Of Me",
+        "url": "https://open.spotify.com/album/51kmfllmwJFadhnq1uI9sk"
+      },
+      "artists": [
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199626,
+      "name": "Doin' Me Right",
+      "url": "https://open.spotify.com/track/6DWYe0ex8ZCEZiNOQHezBh"
     },
     {
       "album": {
@@ -2888,6 +2924,24 @@
     {
       "album": {
         "name": "The Makings Of Me",
+        "url": "https://open.spotify.com/album/51kmfllmwJFadhnq1uI9sk"
+      },
+      "artists": [
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224400,
+      "name": "Gotta Move On",
+      "url": "https://open.spotify.com/track/04RedvoKNIgkw6oG248efu"
+    },
+    {
+      "album": {
+        "name": "The Makings Of Me",
         "url": "https://open.spotify.com/album/7JD7E5nrRc4XSBYXqIAYk7"
       },
       "artists": [
@@ -2898,7 +2952,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 224400,
       "name": "Gotta Move On",
       "url": "https://open.spotify.com/track/4R3Nd3QLCY1HTkfU56xUe8"
@@ -4828,7 +4882,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 136400,
       "name": "Like What (Freestyle)",
       "url": "https://open.spotify.com/track/0UyM6zVAuVT7Tlr84xA5xN"

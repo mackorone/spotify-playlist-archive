@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-465 songs - 1 day 4 hr 21 min
+466 songs - 1 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [lovers’ carvings](https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w) | 3:58 | 2022-11-25 | 2023-02-03 |
 | [Mama's Boy](https://open.spotify.com/track/68ZvWR7hhZ6mHtzBknduf6) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Mama's Boy](https://open.spotify.com/album/3NVUYm7edVbzZoDGsusFg9) | 3:16 | 2023-09-28 | 2025-11-15 |
 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 | 2023-02-14 | 2023-09-29 |
+| [Maybe, Finally](https://open.spotify.com/track/4DQ2NDWgc2CKaLJc33QqE4) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Not For Lack Of Trying](https://open.spotify.com/album/5oZeGHp3f5TXuMCtEfrvEd) | 3:05 | 2025-12-04 |  |
 | [Mechanic](https://open.spotify.com/track/2i3iyyy30E5seBJpNpUeOy) | [Nina Versyp](https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy) | [Mechanic](https://open.spotify.com/album/4UHg2EEr1xOgBz97W5aJJN) | 2:15 | 2024-05-13 | 2024-08-16 |
 | [Melodies \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/2zCQq1vH3QCPfPtrnxIxyK) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Melodies \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/30s9hkl9YEZDeQkl2dyV8c) | 2:37 | 2025-10-17 |  |
 | [Miedo](https://open.spotify.com/track/1yDWoHnVvqylR1KzqNsf2H) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt) | [SANTS](https://open.spotify.com/album/50h53iM2tfUGmeCfSCvp6N) | 2:15 | 2024-07-25 | 2025-01-24 |
@@ -358,7 +359,7 @@
 | [See You Soon](https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [See You Soon](https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH) | 3:14 | 2024-03-27 | 2024-12-10 |
 | [Separate Ways \(feat\. The Marías\)](https://open.spotify.com/track/4fwPxcF4rZQIBZr1h6Qd2S) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Separate Ways \(feat\. The Marías\)](https://open.spotify.com/album/0RPUD4sJF4iHT97MKwyyNz) | 3:26 | 2023-11-20 | 2023-12-08 |
 | [Shadowplay](https://open.spotify.com/track/2JIhlHcaY2TuzN8o9nomgV) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Shadowplay](https://open.spotify.com/album/3NmPE01wzAEeAjPdJIFEsq) | 4:29 | 2025-01-23 | 2025-03-02 |
-| [Shake Off the Rain](https://open.spotify.com/track/0gVBrNtip58FmG1JlGwATM) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Shake Off the Rain](https://open.spotify.com/album/4zOqdbkSSn2PX7KMwdHxdh) | 4:42 | 2025-11-06 |  |
+| [Shake Off the Rain](https://open.spotify.com/track/0gVBrNtip58FmG1JlGwATM) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Shake Off the Rain](https://open.spotify.com/album/4zOqdbkSSn2PX7KMwdHxdh) | 4:42 | 2025-11-06 | 2025-12-09 |
 | [Shame I Know](https://open.spotify.com/track/733XxlmCjqZKSMXvwDtaH8) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Shame I Know](https://open.spotify.com/album/6sizNncRZziwXPVFN9i0Rr) | 3:21 | 2023-03-17 | 2023-04-06 |
 | [Sharpness](https://open.spotify.com/track/2dk5HQv2V6hEVeGGlPvCFA) | [Jamie Woon](https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL) | [Making Time](https://open.spotify.com/album/6ITNDvsL7pS6nv93kwHgwq) | 3:27 | 2022-11-25 |  |
 | [shoreline](https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [shoreline](https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2) | 4:04 | 2025-01-23 | 2025-03-15 |

@@ -3622,7 +3622,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 164195,
       "name": "Maybe October",
       "url": "https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc"
@@ -6656,6 +6656,28 @@
       "duration_ms": 158061,
       "name": "Wie weit",
       "url": "https://open.spotify.com/track/1Rax9jcKsPwQjnRLmZTC9F"
+    },
+    {
+      "album": {
+        "name": "Arsenalplatz",
+        "url": "https://open.spotify.com/album/1LpzaHg585JwktXMEwRH6j"
+      },
+      "artists": [
+        {
+          "name": "Jassin",
+          "url": "https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh"
+        },
+        {
+          "name": "Edwin Rosen",
+          "url": "https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238693,
+      "name": "Wieder zur\u00fcck (feat. Edwin Rosen)",
+      "url": "https://open.spotify.com/track/4ffiPZkDwWUAvSUUfar0j9"
     },
     {
       "album": {

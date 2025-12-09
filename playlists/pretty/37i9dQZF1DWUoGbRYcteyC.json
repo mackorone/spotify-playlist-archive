@@ -1,6 +1,6 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1910420,
+  "num_followers": 1910263,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2025-10-24 04:00:11",
       "album": {
-        "name": "Diferente",
-        "url": "https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 220647,
-      "name": "Diferente",
-      "url": "https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA"
-    },
-    {
-      "added_at": "2025-10-24 04:00:11",
-      "album": {
         "name": "Nunca Deja De Llover",
         "url": "https://open.spotify.com/album/6gP8Vz5EAGZ8uuBYu4Nb4I"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 170389,
       "name": "Nunca Deja de Llover",
       "url": "https://open.spotify.com/track/5wCv4JWrrvRNlonIy536tC"
+    },
+    {
+      "added_at": "2025-10-24 04:00:11",
+      "album": {
+        "name": "Diferente",
+        "url": "https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 220647,
+      "name": "Diferente",
+      "url": "https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA"
     }
   ],
   "unique_name": "Amor Amor",

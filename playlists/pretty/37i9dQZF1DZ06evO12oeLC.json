@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAACmxFFEMHKu4VEzo++EtHmG",
+  "snapshot_id": "aTTDgAAAAAD9PDA+ineM/4DMrqzddMG+",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yseult",
+        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 156333,
+      "name": "Blanche",
+      "url": "https://open.spotify.com/track/0gbkIBA3HKAqwivjPOyDBM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La m\u00eame",
         "url": "https://open.spotify.com/album/1kLts4mLi2U0H238Lbox0I"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 415422,
       "name": "SEXE",
       "url": "https://open.spotify.com/track/4qGD9cOlMERj0pKETRMiuF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yseult",
-        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 156333,
-      "name": "Blanche",
-      "url": "https://open.spotify.com/track/0gbkIBA3HKAqwivjPOyDBM"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rouge",
-        "url": "https://open.spotify.com/album/2YilVaWn16fz1CwBc8Q2XL"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 186323,
-      "name": "Rouge",
-      "url": "https://open.spotify.com/track/3WPqkwwH5VoqJl3enzLRW1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BRUTAAL",
         "url": "https://open.spotify.com/album/5yhS5jwfvDxIKqMbc5V0vJ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 246490,
       "name": "BRUTAAL",
       "url": "https://open.spotify.com/track/3ncJ2dO9ENlkCXA32BJigz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/2YilVaWn16fz1CwBc8Q2XL"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 186323,
+      "name": "Rouge",
+      "url": "https://open.spotify.com/track/3WPqkwwH5VoqJl3enzLRW1"
     },
     {
       "added_at": null,

@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 49 | [Gin & Juice \- HARDY’s Version](https://open.spotify.com/track/3RSKGpek3rN4jaj0yuhBRx) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Gin & Juice \(HARDY’s Version\)](https://open.spotify.com/album/780NNJ4wBv7iacbC51cEq9) | 4:00 |
 | 50 | [HAPPY HOUR \(feat\. Knox\)](https://open.spotify.com/track/6WxuJ0miXSbI56DbuxQODG) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 2:41 |
 
-Snapshot ID: `aTNyAAAAAACMW6tO5BKPx5AMQNIkIkRu`
+Snapshot ID: `aTTDgAAAAAB1Df785D2ZM7jxNdTc+Y8r`

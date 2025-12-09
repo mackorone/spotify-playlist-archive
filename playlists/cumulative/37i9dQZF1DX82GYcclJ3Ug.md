@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: The Band CAMINO
 
-3,214 songs - 7 day 8 hr 15 min
+3,215 songs - 7 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2907,6 +2907,7 @@
 | [Traps](https://open.spotify.com/track/2ZvxyrNMYKMTazLQI2v9BX) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Traps](https://open.spotify.com/album/0UdQroPXUq5V73zbzsGGrh) | 2:54 | 2021-11-26 | 2022-02-05 |
 | [Trash](https://open.spotify.com/track/26TWZ1x4NDSEpzDtHxiZAM) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Trash](https://open.spotify.com/album/3mCgA0NaZukB0CROXayoHp) | 2:10 | 2022-07-29 | 2022-08-27 |
 | [Trauma](https://open.spotify.com/track/48JqgW96LVIcrE4umJweWw) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Trauma](https://open.spotify.com/album/2wYh1adQn0CaWPlJMHFo56) | 2:43 | 2023-08-04 | 2023-09-23 |
+| [Trauma Olympics](https://open.spotify.com/track/1AEuq3M34uZQflOK68Dmhl) | [James the Seventh](https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS) | [Mind Your Business](https://open.spotify.com/album/2dhlHnt3QwDwlO1L68jZIu) | 2:04 | 2025-12-09 |  |
 | [Trial By Fire](https://open.spotify.com/track/02DLCwqe2a5o6n9ZfQKHuR) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [Trial By Fire](https://open.spotify.com/album/1VTD55qqG4845hiL2D3aWj) | 4:00 | 2024-11-01 | 2025-01-18 |
 | [Triple Marathon](https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Triple Marathon](https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh) | 2:37 | 2024-10-04 | 2024-10-26 |
 | [Tripping Over Air](https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Tripping Over Air](https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC) | 3:02 | 2022-09-08 | 2023-01-21 |

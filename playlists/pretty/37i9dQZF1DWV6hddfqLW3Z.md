@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,856 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,847 likes - 70 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 43 | [Talismã](https://open.spotify.com/track/1ma3TGM5l7OTrK76of5HdV) | [Stefano](https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT) | [Talismã](https://open.spotify.com/album/6qt7sYV2KT9rdG3ftZhWBz) | 3:49 |
 | 44 | [Quase Sem Querer](https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Quase Sem Querer](https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME) | 3:36 |
 | 45 | [O Vento](https://open.spotify.com/track/3lBQcsRgxcflvTJl6Wu84T) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [O Vento](https://open.spotify.com/album/2GuQWKQDral2TTSywYtOw3) | 4:56 |
-| 46 | [Nossa música](https://open.spotify.com/track/4hpcc2wq84pilUgDbIPkDN) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [Nossa música](https://open.spotify.com/album/7vdk9XKYqz9BL7mZlzIlfj) | 3:59 |
-| 47 | [Meu Esquema](https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [Por Pouco \(Bit Box\)](https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC) | 4:19 |
+| 46 | [Meu Esquema](https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [Por Pouco \(Bit Box\)](https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC) | 4:19 |
+| 47 | [Nossa música](https://open.spotify.com/track/4hpcc2wq84pilUgDbIPkDN) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [Nossa música](https://open.spotify.com/album/7vdk9XKYqz9BL7mZlzIlfj) | 3:59 |
 | 48 | [O Leãozinho \- Ao Vivo Em São Paulo / 2017](https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Ofertório \(Ao Vivo\)](https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv) | 2:56 |
 | 49 | [Samba](https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Samba](https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT) | 2:40 |
 | 50 | [Lenha](https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Top Hits](https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8) | 4:09 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 67 | [Logo agora](https://open.spotify.com/track/0QSDHO1XzAfnjv3Owv3PvG) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Logo agora](https://open.spotify.com/album/1vx3DEh9jcrKeQeHuTIhVC) | 3:07 |
 | 68 | [Disritmia / Ex\-Amor](https://open.spotify.com/track/51CCN24j1CLClG3jDOe6yb) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB) | [Disritmia / Ex\-Amor](https://open.spotify.com/album/2LB5wjsGBFqaguPFGy1t3j) | 4:59 |
 | 69 | [Drão \- Remasterizado](https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Drão \(Remasterizado\)](https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr) | 5:11 |
-| 70 | [Abrigo](https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Abrigo](https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E) | 3:43 |
+| 70 | [A Paz \- Ao Vivo](https://open.spotify.com/track/409yVdUeXfYJY7MeY0SKRf) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [A Paz \(Ao Vivo\)](https://open.spotify.com/album/4BXhVxKouNYfRoR6iPnYuv) | 4:34 |
 
 Snapshot ID: `AAAAANc+Comssvv8VvapGFPOjo19kSjA`

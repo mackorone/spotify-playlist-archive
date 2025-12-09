@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: muque
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,870 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,874 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 63 | [KILL LOVE](https://open.spotify.com/track/2OrNoZhXPmWcJQLMyTEjop) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [呪いをかけて、まぼろしをといて。](https://open.spotify.com/album/0m4QPfwdOiuvYojWJuYklp) | 4:45 |
 | 64 | [白日のもと](https://open.spotify.com/track/12NL4lcmDpoWwFNyq0lf1d) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [実験中 / 白日のもと](https://open.spotify.com/album/1vVyhztEqbzHqPLKsGjIk9) | 3:30 |
 | 65 | [踊っていたいわ](https://open.spotify.com/track/3MN2qDrRBUCe4m3yJ8zTcS) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [handmade](https://open.spotify.com/album/04lBkRbV1tnWD42ZV0ZBTi) | 3:03 |
-| 66 | [愛してるって嘘ついた](https://open.spotify.com/track/5IPSx9FDU5qvx9rZVj6vdv) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [愛してるって嘘ついた](https://open.spotify.com/album/6tGdCjC6xKBAHg2o2LKWss) | 2:50 |
-| 67 | [恋の8秒ルール](https://open.spotify.com/track/26TnbXOgpNt5tIsAl5Qezv) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [恋の8秒ルール](https://open.spotify.com/album/4xveKS1fmSQAFotuTEaM76) | 3:28 |
-| 68 | [Present Perfect](https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [SCOOOOOP](https://open.spotify.com/album/73yP70Vn8ufvR0N2JoSAJ4) | 3:51 |
+| 66 | [恋の8秒ルール](https://open.spotify.com/track/26TnbXOgpNt5tIsAl5Qezv) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [恋の8秒ルール](https://open.spotify.com/album/4xveKS1fmSQAFotuTEaM76) | 3:28 |
+| 67 | [愛してるって嘘ついた](https://open.spotify.com/track/5IPSx9FDU5qvx9rZVj6vdv) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [愛してるって嘘ついた](https://open.spotify.com/album/6tGdCjC6xKBAHg2o2LKWss) | 2:50 |
+| 68 | [Geeek](https://open.spotify.com/track/2nKqe0pTqsP5IyA748HlT0) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [Geeek](https://open.spotify.com/album/1C9Of3Hj5JujNDdVZ93HJt) | 3:08 |
 | 69 | [yummy goodday](https://open.spotify.com/track/56YtgeLZZz9mWWcbPu569O) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms) | [yummy goodday](https://open.spotify.com/album/2cFgZ4OOUSTsvTek9hqtvT) | 3:20 |
-| 70 | [Geeek](https://open.spotify.com/track/2nKqe0pTqsP5IyA748HlT0) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [Geeek](https://open.spotify.com/album/1C9Of3Hj5JujNDdVZ93HJt) | 3:08 |
-| 71 | [No one](https://open.spotify.com/track/02f1kLS0yKhvEHI7Lt7NWD) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [No one](https://open.spotify.com/album/1BECn2HvgHI7XT9nDeQI9x) | 3:06 |
-| 72 | [A8番出口](https://open.spotify.com/track/0i9q3Cw9GwnvuSQltZRTYx) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [A8番出口](https://open.spotify.com/album/1GqgKYbjOxhU8TtzsUsQHl) | 3:35 |
-| 73 | [夜空を蝕んで](https://open.spotify.com/track/3aWz8DKkDInc9AQDP1es3T) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [泡沫の夢は幻に](https://open.spotify.com/album/0HeOpLghvT87CUx7wuE2t2) | 3:08 |
-| 74 | [君に聞きたいひとつのこと](https://open.spotify.com/track/6PAgNC3nJKQny6wHoFtN03) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [君に聞きたいひとつのこと](https://open.spotify.com/album/5bTD1CKUC4jEO0rg6Byp2J) | 5:26 |
+| 70 | [No one](https://open.spotify.com/track/02f1kLS0yKhvEHI7Lt7NWD) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [No one](https://open.spotify.com/album/1BECn2HvgHI7XT9nDeQI9x) | 3:06 |
+| 71 | [A8番出口](https://open.spotify.com/track/0i9q3Cw9GwnvuSQltZRTYx) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [A8番出口](https://open.spotify.com/album/1GqgKYbjOxhU8TtzsUsQHl) | 3:35 |
+| 72 | [Present Perfect](https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [SCOOOOOP](https://open.spotify.com/album/73yP70Vn8ufvR0N2JoSAJ4) | 3:51 |
+| 73 | [君に聞きたいひとつのこと](https://open.spotify.com/track/6PAgNC3nJKQny6wHoFtN03) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [君に聞きたいひとつのこと](https://open.spotify.com/album/5bTD1CKUC4jEO0rg6Byp2J) | 5:26 |
+| 74 | [夜空を蝕んで](https://open.spotify.com/track/3aWz8DKkDInc9AQDP1es3T) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [泡沫の夢は幻に](https://open.spotify.com/album/0HeOpLghvT87CUx7wuE2t2) | 3:08 |
 | 75 | [カメラ アイロニー](https://open.spotify.com/track/6bBFHVPtizfbm3mLdZ3OjB) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [カメラ アイロニー](https://open.spotify.com/album/1nJ6X27r6LDpe7k3IawJdT) | 3:17 |
 
 Snapshot ID: `AAAAAHyqIUMu1CZVD4okKnfqZPArPNWF`

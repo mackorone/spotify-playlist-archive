@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u6b63\u5b97 Spotify \u539f\u5275\u5168\u53f0\u6700\u7d05\u897f\u6d0b\u6b4c\u55ae\uff01\u71b1\u9580\u5c31\u6b64\u4e00\u5f35\uff01Cover: Jessie J",
+  "description": "\u6b63\u5b97 Spotify \u539f\u5275\u5168\u53f0\u6700\u7d05\u897f\u6d0b\u6b4c\u55ae\uff01\u71b1\u9580\u5c31\u6b64\u4e00\u5f35\uff01Cover: Fred again.. x Blanco",
   "name": "\u6700Hit\u897f\u6d0b\u699c",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 171764,
       "name": "..FEISTY",
       "url": "https://open.spotify.com/track/0rn8BcTBTPGWb4NRCBST0k"
@@ -1362,7 +1362,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 181538,
       "name": "Arrietty",
       "url": "https://open.spotify.com/track/1IEjXJiCVNMmLDk9g2GXXW"
@@ -1490,6 +1490,24 @@
       "duration_ms": 216053,
       "name": "B.B.B (Bigger Badder Better) [feat. A2O LTG] - English Ver.",
       "url": "https://open.spotify.com/track/24rLULwo5TRiAe2V52Nbbz"
+    },
+    {
+      "album": {
+        "name": "Hug",
+        "url": "https://open.spotify.com/album/30B9lQxsP8u8lbUp6hBNNJ"
+      },
+      "artists": [
+        {
+          "name": "Fiji Blue",
+          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133253,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/0fNwos4bmDKOuPS2ldALiU"
     },
     {
       "album": {
@@ -2574,7 +2592,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 162092,
       "name": "Blink (feat. TZUYU)",
       "url": "https://open.spotify.com/track/25qp5LiSuet6rvl950jrGD"
@@ -3115,6 +3133,36 @@
     },
     {
       "album": {
+        "name": "Quantum Beats",
+        "url": "https://open.spotify.com/album/6awmWsdndqljxHc1nzUTdu"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Lonely Club",
+          "url": "https://open.spotify.com/artist/1tPJP9nWEM6mQK295zgp2K"
+        },
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "Broken Angel (This is Lonely Club)",
+      "url": "https://open.spotify.com/track/56PCJsbp8S0MTSMEbeGnnr"
+    },
+    {
+      "album": {
         "name": "Broken Dreaming",
         "url": "https://open.spotify.com/album/3CtKI1RUVoF2xOGYx7d0uX"
       },
@@ -3394,7 +3442,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 196506,
       "name": "Butterscotch",
       "url": "https://open.spotify.com/track/7kFWwCnHNnpuGq45ThfkfC"
@@ -4050,6 +4098,24 @@
       "duration_ms": 215000,
       "name": "Christmas Starts Tonight - live from a restaurant in downtown Los Angeles",
       "url": "https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K"
+    },
+    {
+      "album": {
+        "name": "THAT'S SHOWBIZ BABY! THE ENCORE",
+        "url": "https://open.spotify.com/album/4MR10rSYnclQoPXq6O9sw0"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220400,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/3Cz46bYvuuvDsUXDwrNFxn"
     },
     {
       "album": {
@@ -6516,7 +6582,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 235084,
       "name": "Feel it All",
       "url": "https://open.spotify.com/track/3HLzg6m80jdZMtuV4P1j0i"
@@ -6908,7 +6974,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 377098,
       "name": "For Good",
       "url": "https://open.spotify.com/track/5shGj5OOnpmg4tQlFjyzZY"
@@ -9106,7 +9172,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 173611,
       "name": "Home",
       "url": "https://open.spotify.com/track/6NT8Sa3jev1C3Xm33VDcJF"
@@ -10126,6 +10192,24 @@
       "duration_ms": 196253,
       "name": "I Think They Call This Love - Cover",
       "url": "https://open.spotify.com/track/14mT8BCOXiUUcGlb7KujkT"
+    },
+    {
+      "album": {
+        "name": "i told chatgpt about you",
+        "url": "https://open.spotify.com/album/7jMn0C4Thymtq0OKKA5qlZ"
+      },
+      "artists": [
+        {
+          "name": "Jaime Cheung",
+          "url": "https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194652,
+      "name": "i told chatgpt about you",
+      "url": "https://open.spotify.com/track/0bFhKx00u59mp57ICYhwCM"
     },
     {
       "album": {
@@ -11520,6 +11604,24 @@
       "duration_ms": 141738,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/1T38okUZknebljidMNSvfJ"
+    },
+    {
+      "album": {
+        "name": "LEFT OF US",
+        "url": "https://open.spotify.com/album/3U9Oz2U8Z8ctRLkX5jffrH"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hearn",
+          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175106,
+      "name": "LEFT OF US",
+      "url": "https://open.spotify.com/track/3lqGpnV3qXnt35eS9rWjvs"
     },
     {
       "album": {
@@ -13138,7 +13240,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 172330,
       "name": "Middle of the Summer",
       "url": "https://open.spotify.com/track/7himplrwuuYlKAFwipmvmP"
@@ -13896,6 +13998,24 @@
       "duration_ms": 163173,
       "name": "nah",
       "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
+    },
+    {
+      "album": {
+        "name": "Boundary",
+        "url": "https://open.spotify.com/album/5YWyPvOYit4QbQvQ8uYZkC"
+      },
+      "artists": [
+        {
+          "name": "Whyte",
+          "url": "https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180084,
+      "name": "Namaste",
+      "url": "https://open.spotify.com/track/0cBKRNcM2uPHuiH5dgX9xd"
     },
     {
       "album": {
@@ -15606,7 +15726,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 110430,
       "name": "PIXELATED KISSES",
       "url": "https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg"
@@ -17437,6 +17557,24 @@
     },
     {
       "album": {
+        "name": "silent treatment",
+        "url": "https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142030,
+      "name": "silent treatment",
+      "url": "https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN"
+    },
+    {
+      "album": {
         "name": "puffette",
         "url": "https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4"
       },
@@ -18062,6 +18200,28 @@
       "duration_ms": 204223,
       "name": "Soft Spot",
       "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
+    },
+    {
+      "album": {
+        "name": "solo",
+        "url": "https://open.spotify.com/album/1FdXEZw2E4Z7HBsmhkV5E7"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291428,
+      "name": "solo",
+      "url": "https://open.spotify.com/track/6U5h4WhbYufaRGXQhnileY"
     },
     {
       "album": {
@@ -20152,7 +20312,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 220500,
       "name": "The Girl in the Bubble",
       "url": "https://open.spotify.com/track/6Wxn79EwKPQvYerlctheGx"
@@ -20268,7 +20428,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 157153,
       "name": "the one",
       "url": "https://open.spotify.com/track/6LFPHLubdcAxbP8yZyzHdM"
@@ -21108,7 +21268,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 188800,
       "name": "Tropical Downpour",
       "url": "https://open.spotify.com/track/5RKkfrz1twRhu7nDuYCAcJ"
@@ -22247,6 +22407,32 @@
     },
     {
       "album": {
+        "name": "what if we both loved each other still?",
+        "url": "https://open.spotify.com/album/1h5jJC1l85dOW2UTXULsZ4"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        },
+        {
+          "name": "PISCEE",
+          "url": "https://open.spotify.com/artist/0pLM4IyW9R8mqxe9t36ikW"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235280,
+      "name": "what if we both loved each other still?",
+      "url": "https://open.spotify.com/track/7bTrKXKGFsfzBbFyEw1z5g"
+    },
+    {
+      "album": {
         "name": "What It Means",
         "url": "https://open.spotify.com/album/1PIvNe11J2pQAyzhheQqMJ"
       },
@@ -22854,7 +23040,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 193879,
       "name": "wishlist",
       "url": "https://open.spotify.com/track/21RHVyVi4SiF4Yg8l0LJko"
@@ -23068,6 +23254,24 @@
       "duration_ms": 203984,
       "name": "Xmas Time (with Kehlani)",
       "url": "https://open.spotify.com/track/1zDUOwDpazLaWjPdQVVsC5"
+    },
+    {
+      "album": {
+        "name": "Xx",
+        "url": "https://open.spotify.com/album/7GuduzKVOD9mQTCNTryG2q"
+      },
+      "artists": [
+        {
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183850,
+      "name": "Xx",
+      "url": "https://open.spotify.com/track/4IxWgFSy3NGGDKxEkF0MkV"
     },
     {
       "album": {
@@ -23402,7 +23606,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-21",
+      "date_removed": null,
       "duration_ms": 190822,
       "name": "Zoo - From \"Zootopia 2\"",
       "url": "https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN"

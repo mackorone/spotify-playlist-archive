@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Portion Boys..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,370 likes - 109 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,365 likes - 109 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

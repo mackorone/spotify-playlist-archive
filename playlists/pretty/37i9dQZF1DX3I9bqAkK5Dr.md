@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Eknaath Kiran Goparaaju
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,031 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,046 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Padipoya](https://open.spotify.com/track/0Emzz8mcBafVhb7jgrtSmh) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Amala Chebolu](https://open.spotify.com/artist/0DdlrGRKjpM9Mqon7dHVm8) | [Padipoya](https://open.spotify.com/album/2MXuHAHxSz3zvnWWlgVSvz) | 2:56 |
-| 2 | [Mava](https://open.spotify.com/track/4DGW1TXNm20X2Z3sbts3pI) | [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB), [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Mava](https://open.spotify.com/album/42rpyxxQ8QJ9hRRWkBEDkF) | 3:07 |
+| 2 | [Mava](https://open.spotify.com/track/4DGW1TXNm20X2Z3sbts3pI) | [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB) | [Mava](https://open.spotify.com/album/42rpyxxQ8QJ9hRRWkBEDkF) | 3:07 |
 | 3 | [Kadhanametu](https://open.spotify.com/track/0KjqwXu7zvoaaPJpG7pEXP) | [Eknaath](https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU), [Eknaath Kiran Goparaaju](https://open.spotify.com/artist/7gAbgVz9vdVX3YQx2QuSIf) | [Kadhanametu](https://open.spotify.com/album/4pk3pLkRE5JY1W0oL9KCDy) | 3:22 |
 | 4 | [Angana](https://open.spotify.com/track/3nfTyBrp0YaGdsLRCcXYZc) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Angana](https://open.spotify.com/album/4cd0KliADTNGuHrdLXiOgv) | 3:40 |
 | 5 | [Em Tech Ra B Tech](https://open.spotify.com/track/6SA8q9gHqnO0352sPHz8cP) | [Prem](https://open.spotify.com/artist/0rW6jVAVhjFADg75BYfI1l) | [Em Tech Ra B Tech](https://open.spotify.com/album/7aR1rjE3DjkdAgd34MPj6z) | 3:53 |

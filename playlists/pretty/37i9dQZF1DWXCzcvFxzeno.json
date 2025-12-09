@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude08 welcome to the rave \ud83d\ude08  Cover: Sara Landry",
-  "num_followers": 442347,
+  "num_followers": 442945,
   "original_name": "Hard Techno",
   "owner": {
     "name": "Spotify",
@@ -531,18 +531,22 @@
     {
       "added_at": "2025-11-27 23:01:03",
       "album": {
-        "name": "People Stomping",
-        "url": "https://open.spotify.com/album/3EfstHkKuzbsaBdP2pH6Vy"
+        "name": "SCANDAL ANTHEM",
+        "url": "https://open.spotify.com/album/1KGIRYw9xdet38N9JKZp7l"
       },
       "artists": [
         {
-          "name": "Samuel Moriero",
-          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+          "name": "Fantasm",
+          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
+        },
+        {
+          "name": "WINSON",
+          "url": "https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN"
         }
       ],
-      "duration_ms": 200446,
-      "name": "People Stomping",
-      "url": "https://open.spotify.com/track/3o6DqahWxz11eSDFw7qExX"
+      "duration_ms": 244500,
+      "name": "SCANDAL ANTHEM",
+      "url": "https://open.spotify.com/track/08DchrgnFXBD6H142l4tvY"
     },
     {
       "added_at": "2025-11-27 23:01:03",
@@ -587,6 +591,22 @@
     {
       "added_at": "2025-11-27 23:01:03",
       "album": {
+        "name": "People Stomping",
+        "url": "https://open.spotify.com/album/3EfstHkKuzbsaBdP2pH6Vy"
+      },
+      "artists": [
+        {
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+        }
+      ],
+      "duration_ms": 200446,
+      "name": "People Stomping",
+      "url": "https://open.spotify.com/track/3o6DqahWxz11eSDFw7qExX"
+    },
+    {
+      "added_at": "2025-11-27 23:01:03",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 151800,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/3Bi2SYUeN1CRZBvu8ocKND"
-    },
-    {
-      "added_at": "2025-11-27 23:01:03",
-      "album": {
-        "name": "SCANDAL ANTHEM",
-        "url": "https://open.spotify.com/album/1KGIRYw9xdet38N9JKZp7l"
-      },
-      "artists": [
-        {
-          "name": "Fantasm",
-          "url": "https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy"
-        },
-        {
-          "name": "WINSON",
-          "url": "https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN"
-        }
-      ],
-      "duration_ms": 244500,
-      "name": "SCANDAL ANTHEM",
-      "url": "https://open.spotify.com/track/08DchrgnFXBD6H142l4tvY"
     },
     {
       "added_at": "2025-11-27 23:01:03",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-11-27 23:01:03",
       "album": {
-        "name": "Orbit Motion",
-        "url": "https://open.spotify.com/album/3Xum5DACzoAoyKPEZE9TNS"
-      },
-      "artists": [
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 229160,
-      "name": "Orbit Motion",
-      "url": "https://open.spotify.com/track/0pll0XZcEoIfjThu0Yx4s6"
-    },
-    {
-      "added_at": "2025-11-27 23:01:03",
-      "album": {
         "name": "Slingshot - EP",
         "url": "https://open.spotify.com/album/4TX4tKeZZzeszn0SoPJAWs"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 145822,
       "name": "Skank In The Rave",
       "url": "https://open.spotify.com/track/4nceOR9TnmePBmrnDwFGMS"
+    },
+    {
+      "added_at": "2025-11-27 23:01:03",
+      "album": {
+        "name": "Orbit Motion",
+        "url": "https://open.spotify.com/album/3Xum5DACzoAoyKPEZE9TNS"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 229160,
+      "name": "Orbit Motion",
+      "url": "https://open.spotify.com/track/0pll0XZcEoIfjThu0Yx4s6"
     },
     {
       "added_at": "2025-11-27 23:01:03",
@@ -1423,30 +1423,6 @@
     {
       "added_at": "2025-11-27 23:01:03",
       "album": {
-        "name": "So Alive (VIP)",
-        "url": "https://open.spotify.com/album/3vRNWYLHxZf8QgVa0eWspB"
-      },
-      "artists": [
-        {
-          "name": "GRAVEDGR",
-          "url": "https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj"
-        },
-        {
-          "name": "OGUZ",
-          "url": "https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v"
-        },
-        {
-          "name": "ANGEL CANNON",
-          "url": "https://open.spotify.com/artist/4Ybj0IqmuPWSp023XnJpCD"
-        }
-      ],
-      "duration_ms": 253161,
-      "name": "So Alive (VIP)",
-      "url": "https://open.spotify.com/track/4ujGSBsaRjYUybB1dMX0MK"
-    },
-    {
-      "added_at": "2025-11-27 23:01:03",
-      "album": {
         "name": "It's A Fine Day (Hard Techno Remix)",
         "url": "https://open.spotify.com/album/2PyTSZ0M98vDF3bwnBKcDM"
       },
@@ -1467,6 +1443,30 @@
       "duration_ms": 153222,
       "name": "It's A Fine Day - Hard Techno Remix",
       "url": "https://open.spotify.com/track/1uQOD5XGbPMBVRFcwJ12RY"
+    },
+    {
+      "added_at": "2025-11-27 23:01:03",
+      "album": {
+        "name": "So Alive (VIP)",
+        "url": "https://open.spotify.com/album/3vRNWYLHxZf8QgVa0eWspB"
+      },
+      "artists": [
+        {
+          "name": "GRAVEDGR",
+          "url": "https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj"
+        },
+        {
+          "name": "OGUZ",
+          "url": "https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v"
+        },
+        {
+          "name": "ANGEL CANNON",
+          "url": "https://open.spotify.com/artist/4Ybj0IqmuPWSp023XnJpCD"
+        }
+      ],
+      "duration_ms": 253161,
+      "name": "So Alive (VIP)",
+      "url": "https://open.spotify.com/track/4ujGSBsaRjYUybB1dMX0MK"
     },
     {
       "added_at": "2025-11-27 23:01:03",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-11-27 23:01:03",
       "album": {
-        "name": "TECHY MF",
-        "url": "https://open.spotify.com/album/03xSD49NjZS6X2rYe6Yfnk"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "TECHY MF",
-      "url": "https://open.spotify.com/track/3d5X5d58cQxybYar5WgUQo"
-    },
-    {
-      "added_at": "2025-11-27 23:01:03",
-      "album": {
         "name": "Mystical Energy EP",
         "url": "https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 320093,
       "name": "Mystical Energy",
       "url": "https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu"
+    },
+    {
+      "added_at": "2025-11-27 23:01:03",
+      "album": {
+        "name": "TECHY MF",
+        "url": "https://open.spotify.com/album/03xSD49NjZS6X2rYe6Yfnk"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "TECHY MF",
+      "url": "https://open.spotify.com/track/3d5X5d58cQxybYar5WgUQo"
     },
     {
       "added_at": "2025-11-27 23:01:03",

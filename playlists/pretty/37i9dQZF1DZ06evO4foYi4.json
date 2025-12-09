@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 55457,
+  "num_followers": 55455,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAADCAalHLl4pk3YEfkz/G6ia",
+  "snapshot_id": "aTTDgAAAAADHEo4Es0eYyr9TAus7+43A",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos Violentos (feat. Mon Laferte)",
-        "url": "https://open.spotify.com/album/5QltgUkS8v6Ied1QGoDUMw"
+        "name": "Love This Giant",
+        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
       },
       "artists": [
         {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
         },
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 237029,
-      "name": "Tiempos Violentos (feat. Mon Laferte)",
-      "url": "https://open.spotify.com/track/2ozyU0ouEszNl675sgJjjM"
+      "duration_ms": 229960,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/5Fik3NpxT1qBKSXfXe8YBr"
     },
     {
       "added_at": null,
@@ -311,22 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love This Giant",
-        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
+        "name": "Tiempos Violentos (feat. Mon Laferte)",
+        "url": "https://open.spotify.com/album/5QltgUkS8v6Ied1QGoDUMw"
       },
       "artists": [
         {
-          "name": "David Byrne",
-          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
-        },
-        {
           "name": "St. Vincent",
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 229960,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/5Fik3NpxT1qBKSXfXe8YBr"
+      "duration_ms": 237029,
+      "name": "Tiempos Violentos (feat. Mon Laferte)",
+      "url": "https://open.spotify.com/track/2ozyU0ouEszNl675sgJjjM"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actor",
-        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
+        "name": "Teenage Talk",
+        "url": "https://open.spotify.com/album/3HG6Nf0745fsytgWLptMXw"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 181733,
-      "name": "Laughing with a Mouth of Blood",
-      "url": "https://open.spotify.com/track/4KCAFbz0kqjE3XeaPD81bB"
+      "duration_ms": 248463,
+      "name": "Teenage Talk",
+      "url": "https://open.spotify.com/track/0iKsBFbuFNA9eSGvhuncCJ"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teenage Talk",
-        "url": "https://open.spotify.com/album/3HG6Nf0745fsytgWLptMXw"
+        "name": "Actor",
+        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 248463,
-      "name": "Teenage Talk",
-      "url": "https://open.spotify.com/track/0iKsBFbuFNA9eSGvhuncCJ"
+      "duration_ms": 181733,
+      "name": "Laughing with a Mouth of Blood",
+      "url": "https://open.spotify.com/track/4KCAFbz0kqjE3XeaPD81bB"
     },
     {
       "added_at": null,
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 222986,
-      "name": "Dinner for Two",
-      "url": "https://open.spotify.com/track/5cu7cJCwwfP9dNFuLnsH7L"
+      "duration_ms": 185320,
+      "name": "I Am an Ape",
+      "url": "https://open.spotify.com/track/6n1LH70jWiLUmvZndHqfpV"
     }
   ],
   "unique_name": "This Is St. Vincent",

@@ -792,7 +792,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 199133,
       "name": "AMNESIA",
       "url": "https://open.spotify.com/track/0DvArwBhUjoOaRjluR7gCr"
@@ -3854,6 +3854,24 @@
       "duration_ms": 173375,
       "name": "Diary",
       "url": "https://open.spotify.com/track/3vQsUy6jyZpmc0N4EVQ040"
+    },
+    {
+      "album": {
+        "name": "dim,",
+        "url": "https://open.spotify.com/album/01ukw9s9qzsLMNljPja6LN"
+      },
+      "artists": [
+        {
+          "name": "can\u2019t be blue ",
+          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "dim,",
+      "url": "https://open.spotify.com/track/1E49d9HooEuunfjJhmFJO1"
     },
     {
       "album": {
@@ -9582,7 +9600,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 227920,
       "name": "LIFE!",
       "url": "https://open.spotify.com/track/0vULVUFjBtlXo0lt6wrS8Q"
@@ -10460,7 +10478,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 224183,
       "name": "Matricaria",
       "url": "https://open.spotify.com/track/2sxrVejCO5cJ55MaVCTqAt"
@@ -14370,7 +14388,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 222000,
       "name": "sAvioR",
       "url": "https://open.spotify.com/track/0PzdmnKzqWQs1zrCK0PpIW"
@@ -17302,7 +17320,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 177000,
       "name": "Tomorrow (Song by E.R.E.R)",
       "url": "https://open.spotify.com/track/1F2Sy1UnZk4oNpT7sKBfhp"
@@ -19558,7 +19576,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 209259,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB"
@@ -19612,7 +19630,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 265983,
       "name": "\u200eGood Night Good Dream",
       "url": "https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG"

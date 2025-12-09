@@ -463,6 +463,28 @@
     },
     {
       "album": {
+        "name": "Disney Summer Songs",
+        "url": "https://open.spotify.com/album/6qykGE5x584duyLVYcnojE"
+      },
+      "artists": [
+        {
+          "name": "Mark Keali'i Ho'omalu",
+          "url": "https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt"
+        },
+        {
+          "name": "Kamehameha Schools Children's Chorus",
+          "url": "https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148920,
+      "name": "He Mele No Lilo - From \"Lilo & Stitch\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/43CPZZnuEm6huXdm1PCa5w"
+    },
+    {
+      "album": {
         "name": "Honkai: Star Rail - Experience the Paths Vol. 1",
         "url": "https://open.spotify.com/album/2vC63gH9IJx2DyFM3XNIo6"
       },

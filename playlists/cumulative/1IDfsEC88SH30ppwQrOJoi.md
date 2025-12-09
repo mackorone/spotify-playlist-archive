@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-451 songs - 23 hr 14 min
+452 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Education](https://open.spotify.com/track/0wYms74iHh2l79JGkRmL5Q) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Education](https://open.spotify.com/album/6V2zDH1FbCiKOytkXa8pBP) | 3:06 | 2024-01-19 | 2024-03-14 |
 | [El Tikital \- Day Mix](https://open.spotify.com/track/4rO3saoNRkL2ar4FjqNr1y) | [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL), [Morena](https://open.spotify.com/artist/3BWeOnJwxUekZWj9kPGGKM), [Jay Rah](https://open.spotify.com/artist/6gte1p7WrXAo0U4NWZ3nnv) | [El Tikital \(Day Mix\)](https://open.spotify.com/album/1FXhQE5t2L23FM4OwJq915) | 2:30 | 2025-02-28 |  |
 | [Elysian](https://open.spotify.com/track/59iHbGAgtvnceRR53GQ52c) | [Berkcan Demir](https://open.spotify.com/artist/2uXBcKuO3VEJ2DGocGaloa), [Calzen](https://open.spotify.com/artist/6QPwdLzF9Rta9t5YkeZRwL) | [Elysian](https://open.spotify.com/album/5D7NmsWoctuHr5dF4V3SiL) | 3:42 | 2024-03-13 | 2024-04-27 |
+| [Eso Me Mata \(Logorogno\)](https://open.spotify.com/track/0AYCnIKzZirVfRWMsJBiXf) | [Longo](https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI), [matt](https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy) | [Eso Me Mata \(Logorogno\)](https://open.spotify.com/album/768XqVjukIkYWblWNq4WAa) | 2:56 | 2025-12-08 |  |
 | [Essa Mi](https://open.spotify.com/track/1SsLW9VTYn13tVCfBlZVnW) | [Shapov](https://open.spotify.com/artist/36VSvhsPFTdsj1CtmatPiQ), [Aspyer](https://open.spotify.com/artist/3LaBw0YCv8D35w9AvePFtF) | [Essa Mi](https://open.spotify.com/album/1yyxYyJQxrCVGR5nnUpYEF) | 2:43 | 2023-10-13 | 2024-03-14 |
 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-03-07 | 2024-05-01 |
 | [Everybody](https://open.spotify.com/track/6WaTxGKcQNbiePjtVRXY97) | [Casmalia](https://open.spotify.com/artist/0FjiqQ7BLtYmZ7ONpS7cTT), [Max Low](https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP) | [Everybody](https://open.spotify.com/album/6kCAmzATn2Z286JGMoNucU) | 3:08 | 2025-06-09 |  |

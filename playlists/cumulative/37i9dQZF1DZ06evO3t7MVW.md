@@ -4,7 +4,7 @@
 
 > This is Stick Figure\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 58 min
+61 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Choice Is Yours \(with Slightly Stoopid\)](https://open.spotify.com/track/1azvKxDb5Vkph2KR7aq1Cx) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 5:05 | 2025-07-04 |  |
 | [Coming Home](https://open.spotify.com/track/05BJQUM4bATKGFheqrC6CW) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:43 | 2025-07-04 |  |
 | [Dub Sailin](https://open.spotify.com/track/0Oii31f5us2MVwNWOgjEko) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Free Flow Sessions](https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt) | 2:49 | 2025-11-22 | 2025-11-30 |
-| [Dub Style Blues](https://open.spotify.com/track/7zedJWSRVibgnoj8hheAKl) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Free Flow Sessions](https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt) | 3:10 | 2025-11-18 |  |
+| [Dub Style Blues](https://open.spotify.com/track/7zedJWSRVibgnoj8hheAKl) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Free Flow Sessions](https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt) | 3:10 | 2025-11-18 | 2025-12-09 |
 | [Easy Runaway](https://open.spotify.com/track/7E0CCie7empmlbOH4Vh4BI) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 3:45 | 2025-07-04 |  |
 | [Edge of the Ocean](https://open.spotify.com/track/5UnrKDpkTDKUAB3yM2Pu3X) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:55 | 2025-07-04 |  |
 | [Falling Stars](https://open.spotify.com/track/7xJkMC1Yq4SNxZOunlIxvr) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 4:42 | 2025-08-16 |  |
@@ -22,6 +22,7 @@
 | [Fire on the Horizon](https://open.spotify.com/track/7mnk9W0umx7q4Vo4FjtOot) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Set in Stone](https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9) | 5:27 | 2025-07-04 |  |
 | [Fools Gold](https://open.spotify.com/track/3mjKFSYhauWShsarAEDtJU) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Free Flow Sessions](https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt) | 1:53 | 2025-11-19 |  |
 | [Forever](https://open.spotify.com/track/1UM8l7AkaYK6jdeaFQW9EH) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Forever](https://open.spotify.com/album/3D8K2mdcOnYPdvxExDiUAa) | 3:54 | 2025-11-08 | 2025-12-08 |
+| [Forever](https://open.spotify.com/track/6AOAthWo71IHyLjwPMEXjr) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Free Flow Sessions](https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt) | 3:54 | 2025-12-09 |  |
 | [Gardenia \(with Stick Figure\)](https://open.spotify.com/track/0OcIijvgNNIotHuvGTwDBT) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Castles](https://open.spotify.com/album/5980M98hQs4xk9odzGmjHQ) | 3:53 | 2025-07-04 |  |
 | [Give Thanks \(feat\. Stick Figure\)](https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r) | [Iya Terra](https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Sacred Sound](https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796) | 3:36 | 2025-07-04 | 2025-12-08 |
 | [Golden Hour](https://open.spotify.com/track/3K7g0NbCyMC2G1BpL4gVxX) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 4:26 | 2025-07-04 |  |

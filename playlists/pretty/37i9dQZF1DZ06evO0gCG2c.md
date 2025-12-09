@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,967 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,022 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 40 | [Who Dat Girl \(feat\. Akon\)](https://open.spotify.com/track/7z73ehYAn9O1XP9XlCqVtd) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Only One Flo \(Part 1\)](https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS) | 3:20 |
 | 41 | [Ghetto Story Chapter 3 \(feat\. Akon\)](https://open.spotify.com/track/10MKqZA8S3kvSrYsqbM4r6) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Ghetto Story](https://open.spotify.com/album/66QH23u1I6L6g5BFRRDqNa) | 4:22 |
 | 42 | [Chop My Money \- Remix](https://open.spotify.com/track/0rWlFiu0sMqLdtrViUwLT5) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [May D](https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5) | [Chop My Money](https://open.spotify.com/album/50wBF1pk26slksIqYODsHk) | 4:32 |
-| 43 | [I Wanna Love You \- Remix](https://open.spotify.com/track/7p5mNdJbsKUx0iwuIPCfEM) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Konvicted \(Complete Edition\)](https://open.spotify.com/album/4SAz7HhY1uBvxF6O9k1iyq) | 4:36 |
-| 44 | [Came To Do \(feat\. Akon\)](https://open.spotify.com/track/3fLXPbXiezgmbJEEOkT8ve) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [X \(Expanded Edition\)](https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY) | 3:48 |
-| 45 | [Locked Up With You](https://open.spotify.com/track/6uHwHayD8ao5qcUiszrqB6) | [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Locked Up With You](https://open.spotify.com/album/5GSOGELgj8snnvjZtGDWem) | 3:04 |
-| 46 | [Angel](https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Angel](https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP) | 3:35 |
-| 47 | [Ma p'tite prison](https://open.spotify.com/track/1ajuXHjr4xLmr0h73GCuf1) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TP sur TP](https://open.spotify.com/album/0QVdVUGfsa967bG0cU6Xfo) | 3:53 |
+| 43 | [Ma p'tite prison](https://open.spotify.com/track/1ajuXHjr4xLmr0h73GCuf1) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TP sur TP](https://open.spotify.com/album/0QVdVUGfsa967bG0cU6Xfo) | 3:53 |
+| 44 | [I Wanna Love You \- Remix](https://open.spotify.com/track/7p5mNdJbsKUx0iwuIPCfEM) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Konvicted \(Complete Edition\)](https://open.spotify.com/album/4SAz7HhY1uBvxF6O9k1iyq) | 4:36 |
+| 45 | [Came To Do \(feat\. Akon\)](https://open.spotify.com/track/3fLXPbXiezgmbJEEOkT8ve) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [X \(Expanded Edition\)](https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY) | 3:48 |
+| 46 | [Locked Up With You](https://open.spotify.com/track/6uHwHayD8ao5qcUiszrqB6) | [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Locked Up With You](https://open.spotify.com/album/5GSOGELgj8snnvjZtGDWem) | 3:04 |
+| 47 | [Angel](https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Angel](https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP) | 3:35 |
 | 48 | [Right Now \(Na Na Na\) \- Sped Up](https://open.spotify.com/track/6xNNG4y7YJyb11AvsOELba) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [chllxedits](https://open.spotify.com/artist/7n2FSLSrAtkTAgGtaot7x8) | [Right Now \(Na Na Na\) \[Sped Up\]](https://open.spotify.com/album/7wM292yB8e6ldDiDoBpYlw) | 3:46 |
 | 49 | [Clap Again](https://open.spotify.com/track/23Ry2Uwy68rkHdZx0GwfML) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Right Now \(Na Na Na\)](https://open.spotify.com/album/2Gv0lXUOkmvH7yK44lxmqy) | 5:10 |
 | 50 | [Snitch](https://open.spotify.com/track/02rlDATSROFtjqmvs1dBKr) | [Obie Trice](https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Second Rounds On Me](https://open.spotify.com/album/7liAJFeMLT5QihsB9MhAh5) | 4:01 |
 
-Snapshot ID: `aTNyAAAAAACnfWA5QqAqeuSk4e32ffyg`
+Snapshot ID: `aTTDgAAAAADZd0A6RQm42aAQ7LjH9O1+`

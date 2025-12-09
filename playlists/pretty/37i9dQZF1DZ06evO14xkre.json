@@ -1,12 +1,12 @@
 {
   "description": "This is Kali Uchis. The essential tracks, all in one playlist.",
-  "num_followers": 293197,
+  "num_followers": 293244,
   "original_name": "This Is Kali Uchis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAAAA5gpMSwH89EKodCDRRPLf",
+  "snapshot_id": "aTTDgAAAAACI+LALfve1NqJD9bJZwhWp",
   "tracks": [
     {
       "added_at": null,
@@ -382,11 +382,15 @@
         {
           "name": "Kali Uchis",
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 129448,
-      "name": "Hasta Cuando",
-      "url": "https://open.spotify.com/track/4ipzXe2jmoeN7zm2VMb4eX"
+      "duration_ms": 178274,
+      "name": "Fantasy (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v"
     },
     {
       "added_at": null,
@@ -454,15 +458,11 @@
         {
           "name": "Kali Uchis",
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 178274,
-      "name": "Fantasy (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v"
+      "duration_ms": 129448,
+      "name": "Hasta Cuando",
+      "url": "https://open.spotify.com/track/4ipzXe2jmoeN7zm2VMb4eX"
     },
     {
       "added_at": null,
@@ -703,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sincerely: P.S.",
-        "url": "https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux"
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
       "artists": [
         {
           "name": "Kali Uchis",
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 173526,
-      "name": "Whispers of the Wind...",
-      "url": "https://open.spotify.com/track/0MMfKYj0bYLCUgJTLmTdJh"
+      "duration_ms": 188268,
+      "name": "No Hay Ley Parte 2 (with Rauw Alejandro)",
+      "url": "https://open.spotify.com/track/16pNGHrUDtUq5Qg4LnueIi"
     },
     {
       "added_at": null,
@@ -735,22 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+        "name": "Sincerely: P.S.",
+        "url": "https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux"
       },
       "artists": [
         {
           "name": "Kali Uchis",
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 188268,
-      "name": "No Hay Ley Parte 2 (with Rauw Alejandro)",
-      "url": "https://open.spotify.com/track/16pNGHrUDtUq5Qg4LnueIi"
+      "duration_ms": 173526,
+      "name": "Whispers of the Wind...",
+      "url": "https://open.spotify.com/track/0MMfKYj0bYLCUgJTLmTdJh"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sincerely: P.S.",
-        "url": "https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 186079,
-      "name": "Cherry On Top",
-      "url": "https://open.spotify.com/track/6SXNnuYAZADpmSsmDfcGYr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 156037,
       "name": "Diosa",
       "url": "https://open.spotify.com/track/3RleMgz4iO0BNezGdSxDnY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sincerely: P.S.",
+        "url": "https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 186079,
+      "name": "Cherry On Top",
+      "url": "https://open.spotify.com/track/6SXNnuYAZADpmSsmDfcGYr"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sincerely: P.S.",
-        "url": "https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 223052,
-      "name": "All of the Good",
-      "url": "https://open.spotify.com/track/6PWhKZWaezQ22Hg756oCOG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Isolation",
         "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 204289,
       "name": "Tyrant (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/4FZOSDwALdWxcGcRbwXWJ8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sincerely: P.S.",
+        "url": "https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 223052,
+      "name": "All of the Good",
+      "url": "https://open.spotify.com/track/6PWhKZWaezQ22Hg756oCOG"
     },
     {
       "added_at": null,

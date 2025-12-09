@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: GloRilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,493 likes - 77 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,486 likes - 77 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 41 | [SCARY MERRi](https://open.spotify.com/track/1dcwam7zGPtlDsDUEm2hn5) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [SCARY MERRi](https://open.spotify.com/album/7GMfoOLopVVFdJ3BQdAnx2) | 2:29 |
 | 42 | [Money On Money \(feat\. Future\)](https://open.spotify.com/track/48PfbKRDDyinnMcXqxtfR3) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [UY SCUTI](https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD) | 3:56 |
 | 43 | [777](https://open.spotify.com/track/0UjHDsV44xnLDp6YWDcEPv) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [777](https://open.spotify.com/album/5wNHjkk2nmOsoP1dj5fFN2) | 3:04 |
-| 44 | [BLUNTONOMICS](https://open.spotify.com/track/2XwxYnx9hyCVKjuFb4PO7X) | [colle$ttye](https://open.spotify.com/artist/5zyCX6rodkWMsgb2lj8KO1), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [BLUNTONOMICS](https://open.spotify.com/album/5iZsSHLrvUBakGasvSzQYW) | 2:40 |
+| 44 | [BLUNTONOMICS](https://open.spotify.com/track/2XwxYnx9hyCVKjuFb4PO7X) | [colle$ttye](https://open.spotify.com/artist/5zyCX6rodkWMsgb2lj8KO1), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [BLUNTONOMICS](https://open.spotify.com/album/5iZsSHLrvUBakGasvSzQYW) | 2:39 |
 | 45 | [Sketchy](https://open.spotify.com/track/2PW0ZQtpVPicI0DVY92IuA) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Sketchy](https://open.spotify.com/album/1dln4yXvSgc7rlsWyyCXfW) | 2:16 |
 | 46 | [Roaches](https://open.spotify.com/track/69dcSnCesjUMepu9FmEmxB) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES: DIRECTOR'S CUT](https://open.spotify.com/album/2GgrGo1slpuqdheJeiKoMJ) | 2:53 |
 | 47 | [coke nails](https://open.spotify.com/track/5DuAY3aXh2YiDDRhiyyWwC) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [BEXEY](https://open.spotify.com/artist/3PXR1cXkJk5aOekoGOtWFA) | [coke nails](https://open.spotify.com/album/1NN4DryQ01CVQSDD07on94) | 3:02 |

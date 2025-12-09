@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cnHWmJPGJa.md) - [plain]
 
 > Glasgow's finest\. Here we, here we..\. Cover: SOPHIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,830 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,827 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cnHWmJPGJa.md) - [plain]
 | 28 | [So Sweet I Could Die](https://open.spotify.com/track/7kTBQJiVorqjhoJ3Efed9d) | [Lucia & The Best Boys](https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1) | [So Sweet I Could Die](https://open.spotify.com/album/31m9L9q0WAUAjl7Ulj0vt1) | 2:22 |
 | 29 | [MERCY KILL](https://open.spotify.com/track/2vX1GxoaaomoYsbRy5VjK6) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [MERCY KILL](https://open.spotify.com/album/0XzfAfWHhZlL7WSL6acUnx) | 3:06 |
 | 30 | [Tonight](https://open.spotify.com/track/2fl0s2k5DI6eNJaUkiu5cz) | [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO) | [Tonight](https://open.spotify.com/album/68YY2V186xi4HTJKdoC4vl) | 3:41 |
-| 31 | [Just a Boy](https://open.spotify.com/track/4DE6FDlw291rYfEDB4OI9v) | [Ben Walker](https://open.spotify.com/artist/6M5nTM4FiScPKeu8sO3RS4) | [Just a Boy](https://open.spotify.com/album/405O410ynvYxME5MzhHtov) | 3:19 |
-| 32 | [Inconvenient](https://open.spotify.com/track/05Wkpex2HSIKXopQ9MI582) | [Matthew Hall](https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ) | [Inconvenient](https://open.spotify.com/album/7DQTWo1YTY0fT61EvzjOfB) | 2:20 |
+| 31 | [Inconvenient](https://open.spotify.com/track/05Wkpex2HSIKXopQ9MI582) | [Matthew Hall](https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ) | [Inconvenient](https://open.spotify.com/album/7DQTWo1YTY0fT61EvzjOfB) | 2:20 |
+| 32 | [Just a Boy](https://open.spotify.com/track/4DE6FDlw291rYfEDB4OI9v) | [Ben Walker](https://open.spotify.com/artist/6M5nTM4FiScPKeu8sO3RS4) | [Just a Boy](https://open.spotify.com/album/405O410ynvYxME5MzhHtov) | 3:19 |
 | 33 | [See Through You](https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [See Through You](https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf) | 3:44 |
 | 34 | [BORED](https://open.spotify.com/track/2npxF2SvUP0GNLpqgY0Hn1) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [BORED](https://open.spotify.com/album/5HYHaoxTH6iM4RqdVW0rsX) | 3:26 |
 | 35 | [Gloria](https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Gloria](https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC) | 2:32 |
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cnHWmJPGJa.md) - [plain]
 | 40 | [Yesterday Is Gone](https://open.spotify.com/track/2zqJ9cdRBzMtt1hra7e2By) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Yesterday Is Gone](https://open.spotify.com/album/2X9mXlp0wSzd3R5YnlozKo) | 3:16 |
 | 41 | [The Thing](https://open.spotify.com/track/41ugiY9z17eniXjCkeFPCj) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [The Thing](https://open.spotify.com/album/7jwHvXTWFpBTgAou7Ut4vL) | 3:16 |
 | 42 | [Borderline](https://open.spotify.com/track/2AtRf8f0k39BnN9EblaC2Q) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:34 |
-| 43 | [don't leave me behind](https://open.spotify.com/track/6tqxGn7fhzxNN2VWtwkYrB) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [don't leave me behind](https://open.spotify.com/album/4rwhEsCVR9FbY9yxXfjEA8) | 3:08 |
+| 43 | [Don't Have To Be Jolly](https://open.spotify.com/track/2KNSoy1hq0OCK4Y2cTOxIy) | [Cara Rose](https://open.spotify.com/artist/3sFRw2rNSs7K5ZS842Idr5) | [Don't Have To Be Jolly](https://open.spotify.com/album/1fhNMJGIOOOgd4Uwyb9GxB) | 2:41 |
 | 44 | [CREEP HEAT](https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [CREEP HEAT](https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5) | 3:25 |
-| 45 | [Don't Have To Be Jolly](https://open.spotify.com/track/2KNSoy1hq0OCK4Y2cTOxIy) | [Cara Rose](https://open.spotify.com/artist/3sFRw2rNSs7K5ZS842Idr5) | [Don't Have To Be Jolly](https://open.spotify.com/album/1fhNMJGIOOOgd4Uwyb9GxB) | 2:41 |
-| 46 | [Disgrace](https://open.spotify.com/track/7dxPMyC1Xqyf5729lsQyba) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Disgrace](https://open.spotify.com/album/7sD1Y8nY3yn1Y2UZQdTjIg) | 2:04 |
+| 45 | [Disgrace](https://open.spotify.com/track/7dxPMyC1Xqyf5729lsQyba) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Disgrace](https://open.spotify.com/album/7sD1Y8nY3yn1Y2UZQdTjIg) | 2:04 |
+| 46 | [don't leave me behind](https://open.spotify.com/track/6tqxGn7fhzxNN2VWtwkYrB) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [don't leave me behind](https://open.spotify.com/album/4rwhEsCVR9FbY9yxXfjEA8) | 3:08 |
 | 47 | [Burn the Empire](https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD) | 3:07 |
 | 48 | [Forward](https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU) | [Qazi & Qazi](https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM) | [Forward](https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG) | 4:23 |
 | 49 | [If I Didn't Laugh](https://open.spotify.com/track/1gOqY11AJTTzkvlNcZijIj) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [If I Didn't Laugh](https://open.spotify.com/album/2AgTr43Z3Bw1QHjibkb3cG) | 2:46 |

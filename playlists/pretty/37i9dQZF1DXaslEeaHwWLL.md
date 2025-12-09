@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaslEeaHwWLL.md) - [plain]
 
 > The biggest songs in Latin America in 2017\. Cover: Daddy Yankee & Luis Fonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,614 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,644 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaslEeaHwWLL.md) - [plain]
 | 29 | [Bebé](https://open.spotify.com/track/0ulsRBiciReng91DhfVT9D) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:50 |
 | 30 | [Sé Que Te Duele](https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 3:48 |
 | 31 | [La Rompe Corazones](https://open.spotify.com/track/2Q85xwXagilpHKTfdrbC7M) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Rompe Corazones](https://open.spotify.com/album/3IFkypuR7Wij9252tKarRw) | 3:24 |
-| 32 | [Perro Fiel \(feat\. Nicky Jam\)](https://open.spotify.com/track/70lnL3QaSOIIyMa2X9aVRL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:15 |
-| 33 | [Explícale \(feat\. Bad Bunny\)](https://open.spotify.com/track/1LszjjoVwDDZcWUQbzeDLG) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [\#Update](https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq) | 3:43 |
+| 32 | [Explícale \(feat\. Bad Bunny\)](https://open.spotify.com/track/1LszjjoVwDDZcWUQbzeDLG) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [\#Update](https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq) | 3:43 |
+| 33 | [Perro Fiel \(feat\. Nicky Jam\)](https://open.spotify.com/track/70lnL3QaSOIIyMa2X9aVRL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [El Dorado](https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN) | 3:15 |
 | 34 | [Síguelo Bailando](https://open.spotify.com/track/5Y9fnynLlIvqtM710MHzfz) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Odisea](https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo) | 3:46 |
 | 35 | [Solo](https://open.spotify.com/track/6kTMnty169llVx9sGHb6LD) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78) | [Solo](https://open.spotify.com/album/7gnUxSrGT4npGYuFXwQTO4) | 3:51 |
 | 36 | [3 A.M.](https://open.spotify.com/track/0yyZN5ASdrYu0XYWFzfxUu) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [3 A.M.](https://open.spotify.com/album/6DAFWiPpok2nZEtjdSZO3X) | 3:03 |

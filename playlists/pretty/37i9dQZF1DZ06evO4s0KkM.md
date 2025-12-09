@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,875 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,881 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 49 | [God Willing](https://open.spotify.com/track/6amL7Sov9asiwtCWN3gj8p) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest of Times \(Limited Edition\)](https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX) | 3:16 |
 | 50 | [James Connolly](https://open.spotify.com/track/319QtkcOF005zXjCE14Zds) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:58 |
 
-Snapshot ID: `aTNyAAAAAAB13MZzg6bWo3PZer/0j87l`
+Snapshot ID: `aTTDgAAAAACvLEmQSn3Gvj0LziClqiXh`

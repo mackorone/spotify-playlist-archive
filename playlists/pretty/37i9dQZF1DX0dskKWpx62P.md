@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,609 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,645 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 21 | [Granadita](https://open.spotify.com/track/7KU47DKSR3mZVPCHYoQnQw) | [Tupay](https://open.spotify.com/artist/0AMd5Lv1a9CTAdLfbIkf8F) | [Folklore](https://open.spotify.com/album/1muX3zfFprVt4WLCxrXF0h) | 3:48 |
 | 22 | [Al Compás de Mi Guitarra](https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY) | [Jilguero Del Huascarán](https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx) | [Cantares Huaracinos](https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK) | 3:06 |
 | 23 | [Triste Enamorado](https://open.spotify.com/track/5mrUmA5jojltZRbWp6FTRK) | [El Comunero de Los Andes](https://open.spotify.com/artist/0fMWProJcP684kUSl4mFWR) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:39 |
-| 24 | [Mi Linda Niña](https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH) | [Mario Mendoza](https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ) | [Lo Mejor del Incomparable...Mario Mendoza](https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw) | 2:43 |
+| 24 | [Vas a Llorar](https://open.spotify.com/track/2MprqfkZ99YxetGfp8gZ6W) | [Flor Sinqueña](https://open.spotify.com/artist/3Wpp2yCFRITdmRVsDracBe) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:40 |
 | 25 | [Convoycito de Huancayo](https://open.spotify.com/track/4C36p2WRgwhAiQtZa1JRkX) | [Estudiantina Perú](https://open.spotify.com/artist/5etoNGyzurcPYsyeLgVnDC) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:57 |
-| 26 | [Vas a Llorar](https://open.spotify.com/track/2MprqfkZ99YxetGfp8gZ6W) | [Flor Sinqueña](https://open.spotify.com/artist/3Wpp2yCFRITdmRVsDracBe) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:40 |
+| 26 | [Mi Linda Niña](https://open.spotify.com/track/0Pf4rmQmrIl6G0bbuszuwH) | [Mario Mendoza](https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ) | [Lo Mejor del Incomparable...Mario Mendoza](https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw) | 2:43 |
 | 27 | [Amigo](https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi) | [Edwin Montoya](https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb) | [Mis Éxitos Eternos Vol\. 2](https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2) | 3:42 |
-| 28 | [Linda Warmisitay](https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4) | [Yawar](https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW) | [De Colores](https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00) | 4:14 |
-| 29 | [Sobreviviendo](https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6) | [Sobreviviendo](https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R) | 6:17 |
+| 28 | [Sobreviviendo](https://open.spotify.com/track/16qJf5xG4q9x4LKoH5LCaY) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6) | [Sobreviviendo](https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R) | 6:17 |
+| 29 | [Linda Warmisitay](https://open.spotify.com/track/2HkdxoctBhDs3XWeHmUUm4) | [Yawar](https://open.spotify.com/artist/1uvxq0pWC1f55Yg9XmgLnW) | [De Colores](https://open.spotify.com/album/4qyO900qJRTiM3lPCeHg00) | 4:14 |
 | 30 | [Carrito del Gobierno](https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7) | [Jilguero Del Huascarán](https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx) | [Cantares Huaracinos](https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK) | 2:40 |
 | 31 | [Un Pasajero en Tú Camino](https://open.spotify.com/track/3LZccAbS0T0UdH661mUno3) | [Proyección](https://open.spotify.com/artist/119DPASXtwEkIiAoRSOUR8) | [La Nueva Expresión del Folklore de Bolivia](https://open.spotify.com/album/0X1nBJpPBaIT8mFh0XnBoU) | 4:00 |
 | 32 | [Adiós Pueblo De Ayacucho](https://open.spotify.com/track/3HmLLvBwJhsYChABzWH9Of) | [Edwin Montoya](https://open.spotify.com/artist/3owb5B5H82e72R5GJYSnwb) | [Mis Éxitos Eternos Vol\. 2](https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2) | 3:30 |

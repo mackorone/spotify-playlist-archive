@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 8843,
+  "num_followers": 8850,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAAAe2yj1gwbsrr1YDo0utp3S",
+  "snapshot_id": "aTTDgAAAAADri1Fw2u+upZLnNMmmE3SJ",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Upgrade",
-        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Bom Bom",
-      "url": "https://open.spotify.com/track/4krZBMENG6coQYEaZkVvHP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GLADIATOR",
         "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 155121,
       "name": "Dey Your Dey",
       "url": "https://open.spotify.com/track/1zUxNj07FZ7wJOLQax3aU3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Bom Bom",
+      "url": "https://open.spotify.com/track/4krZBMENG6coQYEaZkVvHP"
     },
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 245420,
+      "name": "Ogologomma",
+      "url": "https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SABALI",
         "url": "https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 161889,
       "name": "A Night to Remember (ANTR)",
       "url": "https://open.spotify.com/track/05fLKOI2bdNcVbCXWgBrjZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "True Story",
-        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 245420,
-      "name": "Ogologomma",
-      "url": "https://open.spotify.com/track/0azKJNjzzB0Zwkx5rQJRiz"
     },
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bam Bam",
-        "url": "https://open.spotify.com/album/1wpspq0ag31exULhDaG16S"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 220235,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/6ZDCQ5POJp2ijoguRxqYRx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Onorato",
         "url": "https://open.spotify.com/album/7AWzd6RxtoKkd8AcqCRcle"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 161111,
       "name": "Yan Yan Po",
       "url": "https://open.spotify.com/track/4bGVDWHg9XQyPZ0YLMPosR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bam Bam",
+        "url": "https://open.spotify.com/album/1wpspq0ag31exULhDaG16S"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 220235,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/6ZDCQ5POJp2ijoguRxqYRx"
     },
     {
       "added_at": null,
@@ -639,38 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLADIATOR",
-        "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "SWEET US",
-      "url": "https://open.spotify.com/track/56lY57uPh4k8yw8TkQgwNZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "Iberibe",
-      "url": "https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Man on Duty",
         "url": "https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx"
       },
@@ -687,6 +655,22 @@
       "duration_ms": 215640,
       "name": "Man on Duty",
       "url": "https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 199546,
+      "name": "Iberibe",
+      "url": "https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R"
     },
     {
       "added_at": null,
@@ -711,6 +695,22 @@
       "duration_ms": 188571,
       "name": "Kom Kom",
       "url": "https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GLADIATOR",
+        "url": "https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "SWEET US",
+      "url": "https://open.spotify.com/track/56lY57uPh4k8yw8TkQgwNZ"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 146045,
+  "num_followers": 146125,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 178920,
+      "name": "Waltz Me Blues",
+      "url": "https://open.spotify.com/track/6Mi3MsunPLMhJ6wl09RZEP"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
         "name": "West Coast Live",
         "url": "https://open.spotify.com/album/772O1hcN1cbZ003x3kzw1k"
       },
@@ -627,18 +643,18 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/4jEfuEYJ34e3N8AHccUJ7u"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
         }
       ],
-      "duration_ms": 178920,
-      "name": "Waltz Me Blues",
-      "url": "https://open.spotify.com/track/6Mi3MsunPLMhJ6wl09RZEP"
+      "duration_ms": 287840,
+      "name": "Kathy's Waltz",
+      "url": "https://open.spotify.com/track/7kknJtlKKE4Njdmy1IK7cQ"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -659,22 +675,6 @@
       "duration_ms": 225160,
       "name": "Just In Time",
       "url": "https://open.spotify.com/track/7mzzu8v59N90qkl9sRk1eF"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/4jEfuEYJ34e3N8AHccUJ7u"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 287840,
-      "name": "Kathy's Waltz",
-      "url": "https://open.spotify.com/track/7kknJtlKKE4Njdmy1IK7cQ"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
-        "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Ergo - Remastered 2004",
-      "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "West Coast Jazz (Expanded Edition)",
         "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 203826,
       "name": "A Handful Of Stars",
       "url": "https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "Chet Baker Ensemble (Expanded Edition / Remastered)",
+        "url": "https://open.spotify.com/album/3ezqu2BdETow1mftd8Qe9c"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Ergo - Remastered 2004",
+      "url": "https://open.spotify.com/track/5jiCGxWqwjkmtMcjPlnsgf"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Subconscious-Lee",
-        "url": "https://open.spotify.com/album/59CmIk9Nm4m6qjber66Twe"
+        "name": "Plays Andre Hodeir",
+        "url": "https://open.spotify.com/album/0s69Ld833Q6OtOtkbRD45O"
       },
       "artists": [
         {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+          "name": "Kenny Clarke",
+          "url": "https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa"
         }
       ],
-      "duration_ms": 224826,
-      "name": "Fishin' Around",
-      "url": "https://open.spotify.com/track/1z67MjOaUDdtUGMWShXQJM"
+      "duration_ms": 175840,
+      "name": "On A Riff",
+      "url": "https://open.spotify.com/track/2YukMgAWfr4Ew8oONiNLdP"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Plays Andre Hodeir",
-        "url": "https://open.spotify.com/album/0s69Ld833Q6OtOtkbRD45O"
+        "name": "Subconscious-Lee",
+        "url": "https://open.spotify.com/album/59CmIk9Nm4m6qjber66Twe"
       },
       "artists": [
         {
-          "name": "Kenny Clarke",
-          "url": "https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa"
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
         }
       ],
-      "duration_ms": 175840,
-      "name": "On A Riff",
-      "url": "https://open.spotify.com/track/2YukMgAWfr4Ew8oONiNLdP"
+      "duration_ms": 224826,
+      "name": "Fishin' Around",
+      "url": "https://open.spotify.com/track/1z67MjOaUDdtUGMWShXQJM"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Very Cool + Tranquillity",
-        "url": "https://open.spotify.com/album/6Q9k7bnX9UhjY54le5AFtJ"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 486040,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/7G15K7aNH361xuYXGmR5ek"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "Tangents In Jazz",
         "url": "https://open.spotify.com/album/4rWfghH0lL654S1yXh4gzh"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 253413,
       "name": "Lazy Tones",
       "url": "https://open.spotify.com/track/0J3JhmsnaMzkgPCDzz5VqR"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "Very Cool + Tranquillity",
+        "url": "https://open.spotify.com/album/6Q9k7bnX9UhjY54le5AFtJ"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 486040,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/7G15K7aNH361xuYXGmR5ek"
     },
     {
       "added_at": "2024-07-08 07:01:17",

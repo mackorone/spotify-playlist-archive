@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass \ud83d\udef8 with William Black",
-  "num_followers": 472534,
+  "num_followers": 472550,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2025-12-05 05:00:28",
       "album": {
+        "name": "How To Say Goodbye",
+        "url": "https://open.spotify.com/album/2h4nay97Z8MU7NYnllHMsB"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+        }
+      ],
+      "duration_ms": 219195,
+      "name": "How To Say Goodbye",
+      "url": "https://open.spotify.com/track/1RT0Je4Df24UXmPMCh7JTy"
+    },
+    {
+      "added_at": "2025-12-05 05:00:28",
+      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/0vf786GQAdrGGHxbw4ohZg"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 176086,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/2e3dBn6jKVP2AGAG74mh6c"
-    },
-    {
-      "added_at": "2025-12-05 05:00:28",
-      "album": {
-        "name": "How To Say Goodbye",
-        "url": "https://open.spotify.com/album/2h4nay97Z8MU7NYnllHMsB"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "Jessica Baio",
-          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
-        }
-      ],
-      "duration_ms": 219195,
-      "name": "How To Say Goodbye",
-      "url": "https://open.spotify.com/track/1RT0Je4Df24UXmPMCh7JTy"
     },
     {
       "added_at": "2025-12-05 05:00:28",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2025-12-05 05:00:28",
       "album": {
-        "name": "Let Me Out",
-        "url": "https://open.spotify.com/album/1xVqDFUmogPRr2RQ05Kk2a"
-      },
-      "artists": [
-        {
-          "name": "ARAYA",
-          "url": "https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB"
-        },
-        {
-          "name": "Bella Renee",
-          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Let Me Out",
-      "url": "https://open.spotify.com/track/6iiyEi5H54pHJRA9neoHQo"
-    },
-    {
-      "added_at": "2025-12-05 05:00:28",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 252800,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
+    },
+    {
+      "added_at": "2025-12-05 05:00:28",
+      "album": {
+        "name": "Let Me Out",
+        "url": "https://open.spotify.com/album/1xVqDFUmogPRr2RQ05Kk2a"
+      },
+      "artists": [
+        {
+          "name": "ARAYA",
+          "url": "https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB"
+        },
+        {
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Let Me Out",
+      "url": "https://open.spotify.com/track/6iiyEi5H54pHJRA9neoHQo"
     },
     {
       "added_at": "2025-12-05 05:00:28",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2025-12-05 05:00:28",
       "album": {
-        "name": "Autopilot",
-        "url": "https://open.spotify.com/album/1FPiadUbi6FqEm6nXramIj"
-      },
-      "artists": [
-        {
-          "name": "RemK",
-          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Autopilot",
-      "url": "https://open.spotify.com/track/6RJ7ZHxCljiASnsGAIo6Aj"
-    },
-    {
-      "added_at": "2025-12-05 05:00:28",
-      "album": {
         "name": "How You Love Me (Anniversary)",
         "url": "https://open.spotify.com/album/1Vy6CMBaX13CdQgOLklz0L"
       },
@@ -1823,6 +1807,38 @@
       "duration_ms": 225000,
       "name": "How You Love Me (Anniversary)",
       "url": "https://open.spotify.com/track/5BPLdDCkqFyDsyPDaNlTus"
+    },
+    {
+      "added_at": "2025-12-05 05:00:28",
+      "album": {
+        "name": "Autopilot",
+        "url": "https://open.spotify.com/album/1FPiadUbi6FqEm6nXramIj"
+      },
+      "artists": [
+        {
+          "name": "RemK",
+          "url": "https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Autopilot",
+      "url": "https://open.spotify.com/track/6RJ7ZHxCljiASnsGAIo6Aj"
+    },
+    {
+      "added_at": "2025-12-05 05:00:28",
+      "album": {
+        "name": "Superluminal",
+        "url": "https://open.spotify.com/album/6FPhibUXT8Y0f6RwfKJUII"
+      },
+      "artists": [
+        {
+          "name": "Au5",
+          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
+        }
+      ],
+      "duration_ms": 328890,
+      "name": "Superluminal",
+      "url": "https://open.spotify.com/track/4DGpTIyJgbxL5k3Ka5GqOe"
     },
     {
       "added_at": "2025-12-05 05:00:28",
@@ -1955,22 +1971,6 @@
     {
       "added_at": "2025-12-05 05:00:28",
       "album": {
-        "name": "Superluminal",
-        "url": "https://open.spotify.com/album/6FPhibUXT8Y0f6RwfKJUII"
-      },
-      "artists": [
-        {
-          "name": "Au5",
-          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
-        }
-      ],
-      "duration_ms": 328890,
-      "name": "Superluminal",
-      "url": "https://open.spotify.com/track/4DGpTIyJgbxL5k3Ka5GqOe"
-    },
-    {
-      "added_at": "2025-12-05 05:00:28",
-      "album": {
         "name": "Your Imagination",
         "url": "https://open.spotify.com/album/1yxnhDQIHEyFpuDjDJsQmY"
       },
@@ -2099,6 +2099,26 @@
     {
       "added_at": "2025-12-05 05:00:28",
       "album": {
+        "name": "Keep U Safe",
+        "url": "https://open.spotify.com/album/1idqhaddxvgIdnNktKy5Mv"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Liv Miraldi",
+          "url": "https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Keep U Safe",
+      "url": "https://open.spotify.com/track/7zRTdxHSAQx0CuknlLxf16"
+    },
+    {
+      "added_at": "2025-12-05 05:00:28",
+      "album": {
         "name": "Heart for Rent",
         "url": "https://open.spotify.com/album/2gmk7Toj2avwexaVvYXfVg"
       },
@@ -2119,26 +2139,6 @@
       "duration_ms": 170602,
       "name": "Heart for Rent",
       "url": "https://open.spotify.com/track/5Pqo2Jub3Rk5aVROGwHwsy"
-    },
-    {
-      "added_at": "2025-12-05 05:00:28",
-      "album": {
-        "name": "Keep U Safe",
-        "url": "https://open.spotify.com/album/1idqhaddxvgIdnNktKy5Mv"
-      },
-      "artists": [
-        {
-          "name": "ARMNHMR",
-          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
-        },
-        {
-          "name": "Liv Miraldi",
-          "url": "https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Keep U Safe",
-      "url": "https://open.spotify.com/track/7zRTdxHSAQx0CuknlLxf16"
     },
     {
       "added_at": "2025-12-05 05:00:28",
@@ -2355,26 +2355,6 @@
     {
       "added_at": "2025-12-05 05:00:28",
       "album": {
-        "name": "Nothing to Lose",
-        "url": "https://open.spotify.com/album/1SIhxMaUOEnfa3TSFjCgqG"
-      },
-      "artists": [
-        {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Oliverse",
-          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Nothing to Lose",
-      "url": "https://open.spotify.com/track/0fUGpNaRH925javytIbW5h"
-    },
-    {
-      "added_at": "2025-12-05 05:00:28",
-      "album": {
         "name": "Made For",
         "url": "https://open.spotify.com/album/6YEB4gTyYiACoJsBkYCRiS"
       },
@@ -2395,6 +2375,26 @@
       "duration_ms": 200869,
       "name": "Made For",
       "url": "https://open.spotify.com/track/3wPIAfjNvZqSDdyEU95gxI"
+    },
+    {
+      "added_at": "2025-12-05 05:00:28",
+      "album": {
+        "name": "Nothing to Lose",
+        "url": "https://open.spotify.com/album/1SIhxMaUOEnfa3TSFjCgqG"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Nothing to Lose",
+      "url": "https://open.spotify.com/track/0fUGpNaRH925javytIbW5h"
     },
     {
       "added_at": "2025-12-05 05:00:28",
@@ -2987,26 +2987,22 @@
     {
       "added_at": "2025-12-05 05:00:28",
       "album": {
-        "name": "Something To Hold On To",
-        "url": "https://open.spotify.com/album/3rm0YLNGsLrIvzXODYkgkW"
+        "name": "My Home",
+        "url": "https://open.spotify.com/album/4nD3TyJBcyOTz5B0s1mAVq"
       },
       "artists": [
         {
-          "name": "STAR SEED",
-          "url": "https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd"
+          "name": "Chassi",
+          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
         },
         {
-          "name": "Aaron Shirk",
-          "url": "https://open.spotify.com/artist/70P7yFhHgxKx4SMe6JCNOW"
-        },
-        {
-          "name": "Sara Benyo",
-          "url": "https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M"
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
         }
       ],
-      "duration_ms": 258206,
-      "name": "Something To Hold On To",
-      "url": "https://open.spotify.com/track/5uxw5qlOS0fD2asqjjMzRs"
+      "duration_ms": 177662,
+      "name": "My Home",
+      "url": "https://open.spotify.com/track/6pzdG5KXCi3zGvchmPlCsO"
     },
     {
       "added_at": "2025-12-05 05:00:28",
@@ -3031,22 +3027,26 @@
     {
       "added_at": "2025-12-05 05:00:28",
       "album": {
-        "name": "My Home",
-        "url": "https://open.spotify.com/album/4nD3TyJBcyOTz5B0s1mAVq"
+        "name": "Something To Hold On To",
+        "url": "https://open.spotify.com/album/3rm0YLNGsLrIvzXODYkgkW"
       },
       "artists": [
         {
-          "name": "Chassi",
-          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
+          "name": "STAR SEED",
+          "url": "https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd"
         },
         {
-          "name": "Bella Renee",
-          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+          "name": "Aaron Shirk",
+          "url": "https://open.spotify.com/artist/70P7yFhHgxKx4SMe6JCNOW"
+        },
+        {
+          "name": "Sara Benyo",
+          "url": "https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M"
         }
       ],
-      "duration_ms": 177662,
-      "name": "My Home",
-      "url": "https://open.spotify.com/track/6pzdG5KXCi3zGvchmPlCsO"
+      "duration_ms": 258206,
+      "name": "Something To Hold On To",
+      "url": "https://open.spotify.com/track/5uxw5qlOS0fD2asqjjMzRs"
     },
     {
       "added_at": "2025-12-05 05:00:28",
@@ -3087,22 +3087,26 @@
     {
       "added_at": "2025-12-05 05:00:28",
       "album": {
-        "name": "Slippin",
-        "url": "https://open.spotify.com/album/0RcF683pMDRxkeZcYLMa0a"
+        "name": "Borderline (feat. EMELINE)",
+        "url": "https://open.spotify.com/album/3HuiAw5KVyxtca92Ai6oYz"
       },
       "artists": [
         {
-          "name": "Maddy O'Neal",
-          "url": "https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF"
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
         },
         {
-          "name": "Britt Lari",
-          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+          "name": "Montell2099",
+          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
+        },
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
         }
       ],
-      "duration_ms": 208500,
-      "name": "Slippin",
-      "url": "https://open.spotify.com/track/28bclJ38qiAdrAS57F0gpk"
+      "duration_ms": 197258,
+      "name": "Borderline (feat. EMELINE)",
+      "url": "https://open.spotify.com/track/5c27MdKM2FFQMW8eEJy63e"
     }
   ],
   "unique_name": "Bass Lounge",

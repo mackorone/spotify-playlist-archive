@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Shrinidhi Ghatate
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,346 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,362 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 30 | [Sitara](https://open.spotify.com/track/0bK1LCMlZTcAzhl4qLewIs) | [Aashiq Khan](https://open.spotify.com/artist/4V0NivLTfgUFtB6OIxpSus), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Denny](https://open.spotify.com/artist/6KozIqto3bkoQp4lksicOA) | [Sitara](https://open.spotify.com/album/4FjR8sS5OickJ0OkXmOEXX) | 3:06 |
 | 31 | [Sunday](https://open.spotify.com/track/1GMFeGQBppaepcx6NsR7qB) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Sunday](https://open.spotify.com/album/34YGRvUlSxeevZHXZ7fl9m) | 2:24 |
 | 32 | [Adhoora](https://open.spotify.com/track/0PrdTQ8dyxLVeOk1Hy9ytk) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ) | [Adhoora](https://open.spotify.com/album/5KCvtdTpRec6LnElztBLx4) | 3:54 |
-| 33 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 |
-| 34 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 |
-| 35 | [Sawaal](https://open.spotify.com/track/7FfCxoiaShMahjnHEGLGNu) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Sawaal](https://open.spotify.com/album/0OR7vWEzcUAhoyO6HBrSXY) | 3:31 |
+| 33 | [Sawaal](https://open.spotify.com/track/7FfCxoiaShMahjnHEGLGNu) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Siddhant Bhosle](https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h) | [Sawaal](https://open.spotify.com/album/0OR7vWEzcUAhoyO6HBrSXY) | 3:31 |
+| 34 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 |
+| 35 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 |
 | 36 | [Goodbye](https://open.spotify.com/track/5JdeSgIBqpdoC3RudqPkCu) | [lekhak](https://open.spotify.com/artist/7EzXvSTOIXrtaL87k7aoBG) | [Goodbye](https://open.spotify.com/album/3IXc2Y2hrRoa8gFA87lfw7) | 2:58 |
 | 37 | [Saawariya](https://open.spotify.com/track/4iHO9d5IT1Jc0EgMVBROG0) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Bandana Datta](https://open.spotify.com/artist/6EATxS3z3eO59uPyDpt4rp) | [Saawariya](https://open.spotify.com/album/2cynpDKsuIrlveQmx2sOEY) | 2:02 |
 | 38 | [Narazi](https://open.spotify.com/track/0Dea6lSNStSGx3XiLqXIT9) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Narazi](https://open.spotify.com/album/4QsYPssQ2NAtPdM3sEQGbq) | 2:48 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 41 | [Uljhan](https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Uljhan](https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3) | 2:14 |
 | 42 | [Mann](https://open.spotify.com/track/3euf8ftyX9tjpqXJgF5NlM) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Mann](https://open.spotify.com/album/5Qq2PhlbpXN3GYNJ6gstup) | 3:11 |
 | 43 | [Kya Batayein](https://open.spotify.com/track/15WruziiMBbDObB8K0bnWp) | [Samyak Prasana](https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Kya Batayein](https://open.spotify.com/album/0yI5u4TLl0Gw3nfj1LQnZ7) | 3:00 |
-| 44 | [Barse More Naina](https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Barse More Naina](https://open.spotify.com/album/0xVOTxx8rhWsD25L6sw6jg) | 3:18 |
-| 45 | [Befikar](https://open.spotify.com/track/0Qxis7LXvwqhCO2qOKCmLX) | [Tanzeel Khan](https://open.spotify.com/artist/64Bnlany1OG6esdJyOxyey), [Aashna Hegde](https://open.spotify.com/artist/69As4MCKWsge98Vh3kmiJe) | [Befikar](https://open.spotify.com/album/33KloUY2J8WBQI5BisMJ8E) | 3:24 |
+| 44 | [Befikar](https://open.spotify.com/track/0Qxis7LXvwqhCO2qOKCmLX) | [Tanzeel Khan](https://open.spotify.com/artist/64Bnlany1OG6esdJyOxyey), [Aashna Hegde](https://open.spotify.com/artist/69As4MCKWsge98Vh3kmiJe) | [Befikar](https://open.spotify.com/album/33KloUY2J8WBQI5BisMJ8E) | 3:24 |
+| 45 | [Barse More Naina](https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Barse More Naina](https://open.spotify.com/album/0xVOTxx8rhWsD25L6sw6jg) | 3:18 |
 | 46 | [With You](https://open.spotify.com/track/3gR1FcXGPjt9dUKoSarG0N) | [Bhoomi](https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs) | [With You](https://open.spotify.com/album/5KvnDsNuSiLY4TxworhRLC) | 2:24 |
 | 47 | [Kaise Banu](https://open.spotify.com/track/4L0bU9ecxMP6U6o0ZnPyCt) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Kaise Banu](https://open.spotify.com/album/0RxzLq117wpoaAo4SN3FmF) | 2:54 |
 | 48 | [Sajna Ve](https://open.spotify.com/track/5uVdnHJtxvpy3BSmoxV5Kn) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Sajna Ve](https://open.spotify.com/album/6w95ZQtueW6uVxnkurfpqJ) | 2:55 |

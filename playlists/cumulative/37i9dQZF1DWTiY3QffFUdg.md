@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-314 songs - 16 hr 24 min
+315 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,11 +56,12 @@
 | [Convivium](https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Convivium](https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv) | 2:13 | 2024-04-26 | 2024-08-17 |
 | [Couldn't Care Less \(feat\. Gia Koka\)](https://open.spotify.com/track/4I1cbxHQdui27mPGHPXXMO) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [Couldn't Care Less \(feat\. Gia Koka\)](https://open.spotify.com/album/5uALiucSFQTU1ZG1Z8pRwQ) | 2:25 | 2024-06-07 |  |
 | [Country Roads](https://open.spotify.com/track/5zCEzQtMVqQPnjua0Orfyc) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II) | [Country Roads](https://open.spotify.com/album/3qP68dpdi9QrNjYKNTsBP3) | 3:10 | 2025-06-06 |  |
-| [Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/1R0KvMBXz6qzjAEIS57Sz8) | 3:24 | 2024-04-19 |  |
+| [Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/1R0KvMBXz6qzjAEIS57Sz8) | 3:24 | 2024-04-19 | 2025-12-09 |
 | [Crumble](https://open.spotify.com/track/4g8ibMfOiniXqYVwzMl8gK) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [Swizznife](https://open.spotify.com/artist/4OB8hmrCayrQknTkqJH20a), [May Li](https://open.spotify.com/artist/6RLHdjo56l1wGdJg2pTwun) | [Crumble](https://open.spotify.com/album/0Ma9ophXBUdVuwUqrG0t6g) | 2:12 | 2025-03-28 | 2025-04-28 |
 | [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 | 2024-02-23 | 2024-04-19 |
 | [Crusade \- Club Edit](https://open.spotify.com/track/7x3ni6d5mJRS2QwrbO1ktr) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/5qzhVqrg6xV9Ex18ZuKD6A) | 2:59 | 2024-04-19 | 2025-01-11 |
 | [Cry Me A River](https://open.spotify.com/track/41Z2O7ffAHWt6itnVpNuPi) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Cry Me A River](https://open.spotify.com/album/787wOdRfborzV1kmoOSiou) | 2:29 | 2025-08-15 |  |
+| [DA BASS](https://open.spotify.com/track/4A7MPZCy7rVSCdIePZzJUb) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [DA BASS](https://open.spotify.com/album/593Cl6jCgUwLJ5KpNIzVhV) | 2:24 | 2025-12-05 |  |
 | [Daddy](https://open.spotify.com/track/4a7A0BmJVVk7dFNj9Qkelk) | [t e s t p r e s s](https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u), [Teletech](https://open.spotify.com/artist/30tToHC6q3nB7Lious0MZW) | [Daddy](https://open.spotify.com/album/2BXDW1T6kuNHNCpCb0Q2tg) | 2:45 | 2025-06-26 | 2025-08-16 |
 | [Damage](https://open.spotify.com/track/3uYo9KXhl2N2RAAKA9XN9h) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Damage](https://open.spotify.com/album/5N1qmRfrSS7gCfZLcps7tI) | 2:57 | 2023-09-15 | 2023-10-28 |
 | [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\)](https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY) | 2:27 | 2023-10-06 | 2025-05-19 |

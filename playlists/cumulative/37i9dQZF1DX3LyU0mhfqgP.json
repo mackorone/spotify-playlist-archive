@@ -10039,6 +10039,24 @@
     },
     {
       "album": {
+        "name": "A SWAN FROM GATORLAND",
+        "url": "https://open.spotify.com/album/3MtjlQZORr4832STyNMX4e"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Luke",
+          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204481,
+      "name": "GIRLFRIEND",
+      "url": "https://open.spotify.com/track/3f0xr2Q1nb2Doss9q8MF1j"
+    },
+    {
+      "album": {
         "name": "Girlfriend",
         "url": "https://open.spotify.com/album/1QZMCyEf9XZB52oKGhkqZa"
       },
@@ -22726,7 +22744,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 161400,
       "name": "RED",
       "url": "https://open.spotify.com/track/6zczxg1gPQ28v8yGjy6fq9"

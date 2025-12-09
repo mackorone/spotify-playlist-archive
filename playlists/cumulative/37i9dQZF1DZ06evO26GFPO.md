@@ -4,7 +4,7 @@
 
 > This is LUDMILLA\. The essential tracks, all in one playlist.
 
-100 songs - 6 hr 2 min
+101 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Lud Session \#2: Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Lud Session \#2: Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano](https://open.spotify.com/album/0zaigYjLBnB3JcrUwZEfNV) | 9:19 | 2023-10-10 | 2025-11-12 |
 | [Lud Session \#4: Morrer de Viver / Saudade Daquilo / Tô Querendo Mais / Sem Filtro / Embrasa](https://open.spotify.com/track/3PXJxUzZ6dn9ykFBFMmOnL) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Lud Session \#4: Morrer de Viver / Saudade Daquilo / Tô Querendo Mais / Sem Filtro / Embrasa](https://open.spotify.com/album/7dJmTgUEMUj4yUGT0Rv6Wi) | 11:07 | 2024-06-28 | 2024-11-13 |
 | [Macetando](https://open.spotify.com/track/1T9dxi40GuNW3gNRHwk8P4) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Reivete\-se 3.0](https://open.spotify.com/album/4pTd3gXvJKxLClVdXVhi8G) | 2:47 | 2023-12-19 | 2024-01-30 |
+| [Macetando](https://open.spotify.com/track/4uR8CslffeNgPZ3lSuyfAc) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Macetando](https://open.spotify.com/album/5hylnoVPMP3cRU2Jwh9z5r) | 2:47 | 2025-12-09 |  |
 | [Macetando](https://open.spotify.com/track/6eJUG282cUKuIoa72sEsqO) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Macetando](https://open.spotify.com/album/6FEJSBFIqZe9GYN2xaAP52) | 2:47 | 2024-01-29 | 2025-11-15 |
 | [Maldivas](https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2](https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3) | 2:44 | 2023-10-10 |  |
 | [Maliciosa \- Ao Vivo](https://open.spotify.com/track/3vCH7bgO37Cx4dOIUlX9sv) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Maliciosa \(Ao Vivo\)](https://open.spotify.com/album/6ijC1S3LFTvQlrQWkQko3E) | 2:47 | 2024-01-20 |  |

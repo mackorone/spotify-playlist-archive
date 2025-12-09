@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 
 > This is Ximena Sariñana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,837 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,841 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 39 | [Mírame](https://open.spotify.com/track/4oqSnBaCeSWdQidxETsb32) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [5AM](https://open.spotify.com/album/5aYBh1dM3KDj0rNxbGyvIv) | 4:21 |
 | 40 | [ALV](https://open.spotify.com/track/0czJDMboe5qf9NTHisp6kO) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [ALV](https://open.spotify.com/album/79NYLb4A4a1OwBRbLAsyfk) | 3:37 |
 | 41 | [La chula \(with Ximena Sariñana\) \- MTV Unplugged](https://open.spotify.com/track/03aNG7WrtBVPh0gEtc8YuH) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MTV Unplugged](https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO) | 3:51 |
-| 42 | [Diosa](https://open.spotify.com/track/2ME99qrLtxZRaCwGKdEY3O) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Diosa](https://open.spotify.com/album/0WG2OF3Lzwm9uOH79quIAd) | 2:55 |
+| 42 | [N.I.T.](https://open.spotify.com/track/1PE7FaEownPL5NTipf0PYC) | [Mikel Izal](https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [N.I.T.](https://open.spotify.com/album/5WSfrhTQlfko7kG6fHkAEE) | 3:29 |
 | 43 | [Lo Bailado](https://open.spotify.com/track/5AQFKEETsXkpLsHHq9kpmO) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 2:53 |
-| 44 | [N.I.T.](https://open.spotify.com/track/1PE7FaEownPL5NTipf0PYC) | [Mikel Izal](https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [N.I.T.](https://open.spotify.com/album/5WSfrhTQlfko7kG6fHkAEE) | 3:29 |
+| 44 | [Diosa](https://open.spotify.com/track/2ME99qrLtxZRaCwGKdEY3O) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Diosa](https://open.spotify.com/album/0WG2OF3Lzwm9uOH79quIAd) | 2:55 |
 | 45 | [fuckhim \(feat\. Ximena Sariñana\)](https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:32 |
 | 46 | [Lo Que Se Va](https://open.spotify.com/track/4PogjAS9lDLn8L5KmqOrft) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Lo Que Se Va](https://open.spotify.com/album/5D7TVjx5cphnUYDw6FZpbW) | 3:28 |
 | 47 | [La Luna](https://open.spotify.com/track/3LplsitRxVq8kre3gvkQT1) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nVdf2.md) - [plain]
 | 49 | [Ver El Mundo Arder](https://open.spotify.com/track/793Jr55o2uEIv4b3Z8vmjN) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Existencia Kamikaze](https://open.spotify.com/album/6fUzjJ4WJm5IfgJ9tONycP) | 2:27 |
 | 50 | [No Sé \(feat\. Girl Ultra\)](https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:38 |
 
-Snapshot ID: `aTNyAAAAAADAHr/GJzIp6HFNikt/Eyl4`
+Snapshot ID: `aTTDgAAAAABbqQ5HiqrvIRWestUMyPsR`

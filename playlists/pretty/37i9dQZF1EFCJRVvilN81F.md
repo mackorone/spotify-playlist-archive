@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,103 likes - 178 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,105 likes - 178 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,8 +151,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 141 | [AVENTADOR](https://open.spotify.com/track/1HfRUONTeuX9dwOdgLFCe0) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [ENOCH](https://open.spotify.com/album/6iosJzmbhMPivxtY4Wd3bX) | 1:29 |
 | 142 | [Best Rapper in the Fuckin World](https://open.spotify.com/track/2higrBnP8m4gSBBKs5VKZZ) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Best Rapper in the Fuckin World](https://open.spotify.com/album/3sPNnS9LL1YXzKPPLHDUit) | 2:28 |
 | 143 | [LIES WILL SET YOU FREE](https://open.spotify.com/track/1ntp9QhwKYmikKLiOKrARR) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 4:44 |
-| 144 | [Open Invite \(feat\. KAYTRANADA\)](https://open.spotify.com/track/1DbNmSluOpaqCvv9ADIP9k) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Escape Room](https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf) | 1:56 |
-| 145 | [Up All Night](https://open.spotify.com/track/1v8dKKHkxwYvyjSs7B7gGi) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:14 |
+| 144 | [Up All Night](https://open.spotify.com/track/1v8dKKHkxwYvyjSs7B7gGi) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:14 |
+| 145 | [Open Invite \(feat\. KAYTRANADA\)](https://open.spotify.com/track/1DbNmSluOpaqCvv9ADIP9k) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Escape Room](https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf) | 1:56 |
 | 146 | [I Know It](https://open.spotify.com/track/70LTxPA4CY2daifSrfXAet) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Interblaktic](https://open.spotify.com/album/4EBPZNigZDX3CltuSffZeH) | 2:32 |
 | 147 | [SMILING](https://open.spotify.com/track/28xRKT60WwfDDb5pHtJT2N) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 2:49 |
 | 148 | [Thinkin Bout You](https://open.spotify.com/track/2OGES71yUPyUcaMf3ZM6nR) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 3:12 |
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 177 | [Dance \- Gigamesh Remix](https://open.spotify.com/track/5aA3iJtIF26q6PCYXiB7Wo) | [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np), [Gigamesh](https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle) | [Dance \(Gigamesh Remix\)](https://open.spotify.com/album/1KhX94lec8OsWgZ8G5aZSL) | 4:09 |
 | 178 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `AcDnpgAAAADXNBbZ+iOoE1l9XYGq0AKh`
+Snapshot ID: `AcDtPAAAAABpx5LcbzOWFgrz6Urm6/OS`

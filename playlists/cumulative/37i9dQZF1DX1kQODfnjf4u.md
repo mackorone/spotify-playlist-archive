@@ -2,9 +2,9 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: Calin & Ewa Farna
+> 50 nejžhavějších hitů v České republice\. Cover: Ektor
 
-182 songs - 8 hr 54 min
+183 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Další kapitola](https://open.spotify.com/track/1oubd2VIVeurm35QkG03X7) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Další kapitola](https://open.spotify.com/album/2rnrJ3KKF1VKgwspYXS2oI) | 2:30 | 2024-07-01 | 2024-07-23 |
 | [DIAMANTY](https://open.spotify.com/track/5jYWurYKYLlecd38zrrbAV) | [Adam Mišík](https://open.spotify.com/artist/7jY6bjQW4nkuknuIoeRNeQ), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [DIAMANTY](https://open.spotify.com/album/27NzFcbF4gb5vhEIUrQRi5) | 3:05 | 2025-09-10 | 2025-10-07 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-23 | 2025-07-08 |
+| [Dilema](https://open.spotify.com/track/7ksKB1i7m3qe7ZpHOaG4je) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Dilema](https://open.spotify.com/album/6D3NudgxdtKN4csseJ3yYP) | 2:36 | 2025-12-08 |  |
 | [DISTANC](https://open.spotify.com/track/7dg2q93qomkGaLINDWjOiO) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [v gastru nejsou lidi](https://open.spotify.com/album/7rPuZ6URXNF2GVh8NS2ulS) | 3:12 | 2024-09-16 | 2024-10-15 |
 | [Dlouhá Noc](https://open.spotify.com/track/012j2O6GP7Au0NZDDkgU2g) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8), [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [KHAOSAN](https://open.spotify.com/album/6MEheNIi6APYSpavv3ABAl) | 2:52 | 2025-06-23 |  |
 | [DMG \(feat\. Ohan B\)](https://open.spotify.com/track/3U7STcrcDjPQGj4wqNJqSA) | [BUKA](https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI), [Ohan B](https://open.spotify.com/artist/7vnaEgAVNxhYeyN37SUIaA) | [Já, mé druhé já a Kristýna](https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg) | 3:01 | 2025-11-17 |  |
@@ -132,7 +133,7 @@
 | [poslední song](https://open.spotify.com/track/074oGai805UftJ82oxSycM) | [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [poslední song](https://open.spotify.com/album/5HUS08gldCe19URgNHwlEF) | 3:24 | 2024-10-28 | 2024-12-17 |
 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2024-07-01 | 2024-11-13 |
 | [Pro štěstí](https://open.spotify.com/track/6KrZjI3fqzqctnmO0MjC4d) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Pro štěstí](https://open.spotify.com/album/0PjQfJtve9FGWFyVwaGKL2) | 2:47 | 2024-11-04 |  |
-| [PROBLEMA](https://open.spotify.com/track/7z3S0D5k9yJ3xTCbbg6icz) | [Raphael](https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe), [Luca Brassi10x](https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i) | [PROBLEMA](https://open.spotify.com/album/5VK7VLvFz3SoutUZJl0uun) | 2:33 | 2025-10-27 |  |
+| [PROBLEMA](https://open.spotify.com/track/7z3S0D5k9yJ3xTCbbg6icz) | [Raphael](https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe), [Luca Brassi10x](https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i) | [PROBLEMA](https://open.spotify.com/album/5VK7VLvFz3SoutUZJl0uun) | 2:33 | 2025-10-27 | 2025-12-09 |
 | [PTSD](https://open.spotify.com/track/3okMwMS8V4STgRha2KT4Kz) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [PTSD](https://open.spotify.com/album/1bKLXiByaeLjSj8AjfMO75) | 2:36 | 2025-06-02 |  |
 | [Pussy Power \(feat\. Porsche Boy\)](https://open.spotify.com/track/7vdva8hlSprUQjNNuw0PJC) | [SIMILIVINLIFE](https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x), [Porsche Boy](https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH) | [DVOJBODKAHVIEZDIČKA](https://open.spotify.com/album/5ZO9skyaJfbTUwr6M0Fwt4) | 2:59 | 2024-07-01 | 2025-02-11 |
 | [Převlečená žízeň](https://open.spotify.com/track/71oYEUUlOT1ANUqHei1dKO) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Impostor syndrom](https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy) | 2:53 | 2024-11-11 | 2025-01-28 |

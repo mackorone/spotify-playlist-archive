@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcHG4x5MYzpJ.md) - [plain]
 
 > al son que la pongamos, la bailamos\. Abelito, una rockola humana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,816 likes - 38 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,815 likes - 38 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

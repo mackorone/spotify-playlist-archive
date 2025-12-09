@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Highlights and editor's picks from Fresh Finds Singapore & Malaysia in 2025; featuring our Top Fresh Finds Singapore and Malaysia artists, El Riss and WHYLUCAS! Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,037 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,038 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

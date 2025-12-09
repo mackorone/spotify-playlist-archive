@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 41467,
+  "num_followers": 41471,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAAAaRxGj71ngypinLEwEwzAh",
+  "snapshot_id": "aTTDgAAAAACJFJOn7o/9E0F0Pap2zJNJ",
   "tracks": [
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Famous For (I Believe) - Collection",
+        "url": "https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 242427,
+      "name": "Tu Poder (Creo en Ti)",
+      "url": "https://open.spotify.com/track/3sb13o5UC6YzcvNzOm5aaA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hasta Poder Ver",
         "url": "https://open.spotify.com/album/7wc3QJ8twMqY8mlDb0MupP"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 271374,
       "name": "Corriente / Un D\u00eda A La Vez (Medley) - En Vivo",
       "url": "https://open.spotify.com/track/5lFE4oeLwvFhhGm3GhOn2g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Famous For (I Believe) - Collection",
-        "url": "https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 242427,
-      "name": "Tu Poder (Creo en Ti)",
-      "url": "https://open.spotify.com/track/3sb13o5UC6YzcvNzOm5aaA"
     },
     {
       "added_at": null,

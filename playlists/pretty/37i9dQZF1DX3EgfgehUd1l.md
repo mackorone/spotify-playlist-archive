@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,534 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,539 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,13 +68,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 58 | [Jambalaya \(On The Bayou\)](https://open.spotify.com/track/5GiwnZ1KhRI6VS5SSwfeht) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 2:32 |
 | 59 | [High Noon \(Do Not Forsake Me\)](https://open.spotify.com/track/2KA7Kytj9Ahdb6tX74EJJ3) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Pure..\. '50s](https://open.spotify.com/album/01YaGa6qd4HjIPjyJI8mpb) | 2:37 |
 | 60 | [Only You \(and You Alone\)](https://open.spotify.com/track/6meUbywMo1j9kxiL58s6f1) | [The Hilltoppers](https://open.spotify.com/artist/6qcybypxBn4XlMcYJHhViw) | [Trying](https://open.spotify.com/album/6wNlsCkqpdsIU4CGHUgWij) | 2:45 |
-| 61 | [Just Walkin' in the Rain](https://open.spotify.com/track/5zIrB8lgWBmhHeV00mCN75) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [Summer Holiday](https://open.spotify.com/album/3qwiCEbQuOZ3UO2DO4YhIw) | 2:37 |
-| 62 | [Last Train to San Fernando](https://open.spotify.com/track/63fDzYusBC0MeUkmM856ug) | [Johnny Duncan & The Blue Grass Boys](https://open.spotify.com/artist/5fEbMt6fvVtVp9RGkNWU5k) | [Skiffle \- From Britain to Broadway](https://open.spotify.com/album/5wxaPwp9lFcVpcjzr8YsNS) | 2:31 |
+| 61 | [Last Train to San Fernando](https://open.spotify.com/track/63fDzYusBC0MeUkmM856ug) | [Johnny Duncan & The Blue Grass Boys](https://open.spotify.com/artist/5fEbMt6fvVtVp9RGkNWU5k) | [Skiffle \- From Britain to Broadway](https://open.spotify.com/album/5wxaPwp9lFcVpcjzr8YsNS) | 2:31 |
+| 62 | [Just Walkin' in the Rain](https://open.spotify.com/track/5zIrB8lgWBmhHeV00mCN75) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [Summer Holiday](https://open.spotify.com/album/3qwiCEbQuOZ3UO2DO4YhIw) | 2:37 |
 | 63 | [Wanted \(with Henri René & His Orchestra and Chorus\)](https://open.spotify.com/track/554BJuPGuQB8u1PKg4LBvB) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [Henri René & His Orchestra and Chorus](https://open.spotify.com/artist/6Sf3oBWXwLFaEDDprUAc4v) | [Very Best Of](https://open.spotify.com/album/4KB7NVgy3aKibqM1VqHd84) | 3:05 |
 | 64 | [My Prayer](https://open.spotify.com/track/6vR2UxBMmUAopJyIWAXXuO) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters](https://open.spotify.com/album/3kMD4w9rWAFZRacAljVvwt) | 2:43 |
 | 65 | [I'll Take You Home Again, Kathleen](https://open.spotify.com/track/3rfvssyMQbY28825P2sztA) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [The Very Best Of Slim Whitman](https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl) | 2:57 |
-| 66 | [Walking My Baby Back Home](https://open.spotify.com/track/0zLMXELSW0q0HvBvVLF139) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [Street Of Memories](https://open.spotify.com/album/6PN0sBIqdjtodywtNBBzrX) | 2:23 |
-| 67 | [My Special Angel](https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [Call The Midwife](https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3) | 2:45 |
+| 66 | [My Special Angel](https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [Call The Midwife](https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3) | 2:45 |
+| 67 | [Walking My Baby Back Home](https://open.spotify.com/track/0zLMXELSW0q0HvBvVLF139) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [Street Of Memories](https://open.spotify.com/album/6PN0sBIqdjtodywtNBBzrX) | 2:23 |
 | 68 | [Tom Dooley](https://open.spotify.com/track/3nFOQSVdAqr6vPpXA98RnP) | [Lonnie Donegan](https://open.spotify.com/artist/6dIOTeSQDBSR6gwsL0WB2n) | [The EP Collection](https://open.spotify.com/album/4EwFjI32q5wL1cFie4lyPu) | 3:20 |
 | 69 | [Finger of Suspicion](https://open.spotify.com/track/6UchVQhfXfp1RCz2T3s1En) | [Dickie Valentine](https://open.spotify.com/artist/60JUOTnRuDTetm7Hiwonev) | [Climb Every Mountain](https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq) | 2:49 |
 | 70 | [Rose Marie](https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Original Hits \- Country](https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n) | 2:22 |

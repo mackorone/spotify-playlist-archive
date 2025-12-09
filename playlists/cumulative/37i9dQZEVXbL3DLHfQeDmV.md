@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- United Kingdom.
 
-241 songs - 11 hr 59 min
+242 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Positive](https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Positive](https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI) | 2:49 | 2025-11-25 | 2025-12-04 |
 | [Positive](https://open.spotify.com/track/1oOg0jvlrnZSAy3dhK8fmB) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Positive](https://open.spotify.com/album/1j7rAs6qJ3miwo3SspKmyu) | 2:49 | 2025-12-03 |  |
 | [Predador de Perereca](https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v) | [BLOW RECORDS](https://open.spotify.com/artist/6N5PRAVXd4vXyXmKseP3jq), [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm) | [Predador de Perereca](https://open.spotify.com/album/7p0RIs3cKwogFdhQduJMDM) | 3:06 | 2025-10-27 | 2025-10-29 |
-| [Push It](https://open.spotify.com/track/7ADkaL9vcA3wZAgxZIGy7M) | [MIND](https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5) | [Push It](https://open.spotify.com/album/2SX0qBoYe3jmkpFP6L8QBu) | 2:33 | 2025-12-02 | 2025-12-08 |
+| [Push It](https://open.spotify.com/track/7ADkaL9vcA3wZAgxZIGy7M) | [MIND](https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5) | [Push It](https://open.spotify.com/album/2SX0qBoYe3jmkpFP6L8QBu) | 2:33 | 2025-12-02 |  |
 | [Pussy Palace](https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 4:01 | 2025-11-11 | 2025-11-22 |
 | [Radio](https://open.spotify.com/track/3l8ACerUtJfRd0rxJJ4Gkx) | [Bershy](https://open.spotify.com/artist/6iW8bv3aUP8Dte1KnMBH8c) | [Radio](https://open.spotify.com/album/3rcJwEH6EyPPEiqsrABR4k) | 3:21 | 2025-11-15 | 2025-11-17 |
 | [Radio](https://open.spotify.com/track/3uTPusLAtkgqi3UBPKCEos) | [Bershy](https://open.spotify.com/artist/6iW8bv3aUP8Dte1KnMBH8c) | [Radio](https://open.spotify.com/album/7cCKrmlo80pWW0sKgR5QRe) | 3:21 | 2025-11-16 | 2025-11-28 |
@@ -174,7 +174,7 @@
 | [Rather Be In Oakland](https://open.spotify.com/track/0tnFrxqw6UPLxbO7ao9Bfe) | [Ecchi.mp4](https://open.spotify.com/artist/43rijQ3n85cBIp2xHJgXBI), [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Rather Be In Oakland](https://open.spotify.com/album/3RPzNZYlz1XHGkaE4wzhfv) | 2:37 | 2025-11-06 | 2025-11-17 |
 | [Re\-Bokk Robot \- Hannah Holland Remix](https://open.spotify.com/track/0YvLDpBKBoqUc0ntufZtqn) | [POSH! The Prince](https://open.spotify.com/artist/4rNGolATKxQcFM59djG041), [Hannah Holland](https://open.spotify.com/artist/3paxIyAbBuTSw8RDF22vHs) | [Batty Bass Presents: Return to Planet Batty, Rise of the Artists](https://open.spotify.com/album/16KMZ0OAyjeIgK8CWB3EQi) | 6:20 | 2025-11-10 |  |
 | [Reliquia](https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:50 | 2025-11-25 | 2025-12-03 |
-| [Rottweiler](https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:36 | 2025-10-27 |  |
+| [Rottweiler](https://open.spotify.com/track/7mcxFbFdnFFbWwPflgqqKE) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:36 | 2025-10-27 | 2025-12-09 |
 | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/track/5DJ0y9uatNMVRCqLtFxGPR) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/album/2L7tp1R1F3f2KOLCGkmzDp) | 3:40 | 2025-11-17 | 2025-11-19 |
 | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq) | 3:40 | 2025-11-11 | 2025-11-18 |
 | [Ruminating](https://open.spotify.com/track/0kJAopMxyyqtF1GiIIsgzn) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 3:26 | 2025-11-11 | 2025-11-14 |
@@ -245,7 +245,8 @@
 | [Without Me](https://open.spotify.com/track/3EWDDciJNMk7gAZNp6L6V7) | [Orion7](https://open.spotify.com/artist/5xq85p5vUAcHW9qjlJ2Hle) | [Without Me](https://open.spotify.com/album/4ggAqavt81oF4dQLF4D7lp) | 5:21 | 2025-10-31 | 2025-11-04 |
 | [Without Me](https://open.spotify.com/track/3IOtEstEhsoZLYPStcysln) | [The Soul Jazz Era](https://open.spotify.com/artist/42q0fdRod6LWe1q9EdR4SA) | [Without Me](https://open.spotify.com/album/21ZDKTMPpqMhvDqMl26wVw) | 5:21 | 2025-10-29 | 2025-10-31 |
 | [YAMA](https://open.spotify.com/track/1GBn2lt8KfovKFP5gHPgMt) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [YAMA](https://open.spotify.com/album/2fJsYrtbfo02Pe5Dp18TW5) | 2:39 | 2025-11-04 | 2025-11-14 |
-| [You got time and I got money](https://open.spotify.com/track/0il7LJ828XyPqyvNx9cF5S) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 4:31 | 2025-11-19 |  |
+| [You got time and I got money](https://open.spotify.com/track/0il7LJ828XyPqyvNx9cF5S) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 4:31 | 2025-11-19 | 2025-12-09 |
+| [You got time and I got money](https://open.spotify.com/track/1v0HwmRaThHVLh6TjfWOu8) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6px1WRa4DaZp7oTo4fZKZm) | 4:31 | 2025-12-08 |  |
 | [you haunt me](https://open.spotify.com/track/6uu9VaSDuWBXsJx8VTmsOJ) | [Marzi](https://open.spotify.com/artist/4ou6cmjDFP0qzoXwr0cJTM), [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [you haunt me](https://open.spotify.com/album/3xModkFLmbsjjJdo4VUcHM) | 3:16 | 2025-11-11 | 2025-11-23 |
 | [Zoo](https://open.spotify.com/track/1RxnarBaLERmqnGNmOCoCD) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootropolis 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0oqta6TAko2en33OkGkMTT) | 3:10 | 2025-12-04 | 2025-12-08 |
 | [Zoo](https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN) | 3:10 | 2025-12-01 |  |

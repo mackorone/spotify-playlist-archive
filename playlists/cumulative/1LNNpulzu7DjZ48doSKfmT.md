@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-445 songs - 23 hr 9 min
+446 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Butterfly](https://open.spotify.com/track/1tInwP3gnFnUFGSjy1pjuD) | [Charly Lownoise](https://open.spotify.com/artist/29NIIAIq5CRkVuzkggpS0W), [Komb](https://open.spotify.com/artist/3O5f9vEgwXavGPnB0dQUQc), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [Giin](https://open.spotify.com/artist/0sESxrO3UuQaknGbiuJ7tB) | [Butterfly](https://open.spotify.com/album/4IJXLpAgLGDrNo6D8opNVS) | 2:55 | 2025-11-16 |  |
 | [By my side](https://open.spotify.com/track/6IFPBRr7lqYgqvo6Ph8l2d) | [Dylan Vel](https://open.spotify.com/artist/1JZ7h4obyLusP8iJoX5lv5) | [Intelligence without love](https://open.spotify.com/album/1ogbieHuWXXudQIIxKCGFJ) | 5:45 | 2025-11-04 |  |
 | [by the look in my eyes \(rock your body\)](https://open.spotify.com/track/1P07WlENk05jGivgkHqa2p) | [SOLO THIEF](https://open.spotify.com/artist/67hrGusXpfFjHwmAtNbRy2) | [how to rob the supermarket and sell your soul to the devil at the same time](https://open.spotify.com/album/0jX9TJiGOnGn6pHfxwFKJZ) | 3:53 | 2025-11-02 |  |
+| [BÓG HONOR OJCZYZNA](https://open.spotify.com/track/7rQqoVGlL4fhReRWC516WI) | [PeGie](https://open.spotify.com/artist/54TYnbAQnkrjI6ry4eUU6X), [Wszołek](https://open.spotify.com/artist/5EGOQRzEzTxqczyOwRIhKm) | [BÓG HONOR OJCZYZNA](https://open.spotify.com/album/4MWTDdmiVpengEUJBEC4Pu) | 2:43 | 2025-12-08 |  |
 | [CANDY COATED LOVE](https://open.spotify.com/track/5bVUhjsmk1VgwuWNtfOetr) | [Jack Everett](https://open.spotify.com/artist/4C2kjAOSjbFzhfjodmSWM6) | [CANDY COATED LOVE](https://open.spotify.com/album/0xmnasJlfdq1jjmIvNuWBP) | 3:44 | 2025-09-28 |  |
 | [Cant behave](https://open.spotify.com/track/0rMlIlXHJ9CGHlqz9ZIeDK) | [Felc](https://open.spotify.com/artist/540sPwcilqpSmIZPgyPKXF) | [Cant behave](https://open.spotify.com/album/3TGRrmteLiAS6oeBvRJLVC) | 1:28 | 2025-09-23 |  |
 | [Cenicienta](https://open.spotify.com/track/3jK34I3HgHhtqTo13a8FOK) | [Mundo Atomico](https://open.spotify.com/artist/01g8baod17WKKMKd8l9tTq) | [Luz](https://open.spotify.com/album/69DmxLpi7es8r4aYN5tvLU) | 3:23 | 2025-09-28 |  |

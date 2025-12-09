@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 550 likes - 2,083 songs - 5 day 1 hr 59 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 550 likes - 2,087 songs - 5 day 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2091,5 +2091,9 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2081 | [Inima\-mi tremura](https://open.spotify.com/track/7kIagru5T0fMq0ayx0oXeX) | [ROMAREL](https://open.spotify.com/artist/66rsNxE5kHbHrp8jJsg504) | [Inima\-mi tremura](https://open.spotify.com/album/4S2cIThoQjDYIW1G2GJViI) | 3:02 |
 | 2082 | [Harbour](https://open.spotify.com/track/4tTWnwrzZvz093lohzK4Mc) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Haze](https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn) | 2:51 |
 | 2083 | [Blue Wind](https://open.spotify.com/track/6ArK2mdgK0B75CWvjqKi4H) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [One](https://open.spotify.com/album/6Nq8LT0hzTEbeMBOKKLA34) | 3:29 |
+| 2084 | [Jorja](https://open.spotify.com/track/54M8GDEBmnQFiWXDzi0uFx) | [Polo Cortez](https://open.spotify.com/artist/555iIvNAQ1vlfXVNa4Kxu6), [Ssba](https://open.spotify.com/artist/67PGP6fO4LbiwvNtm6Ggdf), [Double S](https://open.spotify.com/artist/5qVyv07iwXspQDo4F5zJcS) | [Jorja](https://open.spotify.com/album/3IqsVC7q6DaW0wW55yDw7J) | 3:32 |
+| 2085 | [Technicolour Dreams \- Single Mix](https://open.spotify.com/track/256UhhlUeFPnaOcaskzT77) | [Echomatica](https://open.spotify.com/artist/75uNvdIOOLgUT6Gs2hkRVQ) | [Technicolour Dreams \- Single Mix](https://open.spotify.com/album/0qoHyAR40cwYd1B06OMs4r) | 3:55 |
+| 2086 | [Tren del Duende](https://open.spotify.com/track/0JakhfPYZOJ5JrRJ8YUifj) | [Juan Pablo Vitali](https://open.spotify.com/artist/0U0rAvWfvb3NUwiROiUgis) | [29904325 \(RADIO EDIT\)](https://open.spotify.com/album/39kH1oxVsgp6Sn9ofCErv4) | 4:01 |
+| 2087 | [All Alone](https://open.spotify.com/track/4rsNsMiy5sUi80hzpuAPZc) | [Riccardo Cantarelli](https://open.spotify.com/artist/58JQ6umDec53Xhx0yJz2Wf), [Roberto Cazzola](https://open.spotify.com/artist/2vfKDyqiPUJiQsCDVq815m) | [Dark Suite \(2023, 2022, 1984\)](https://open.spotify.com/album/6FMkwtZyFym0fvao6KyfS9) | 3:04 |
 
-Snapshot ID: `AAAIsYWpJmpNJSOUf42vFtK33uyO91jN`
+Snapshot ID: `AAAItbVuH3Qz3k3RGurouucD4xIjJGJ+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,718 songs - 5 day 21 hr 28 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,719 songs - 5 day 21 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2726,5 +2726,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2716 | [Stay Right Here](https://open.spotify.com/track/1BtgKm4KUiroBYPZossFT0) | [Sparkz](https://open.spotify.com/artist/0kXJAI2hR2vdzVHsu9OLka), [Sanctuary](https://open.spotify.com/artist/4Jz2XNJkFwCCMe01IcGzbZ) | [Stay Right Here](https://open.spotify.com/album/7n6VdcASV30wJGF987koiQ) | 3:24 |
 | 2717 | [The Goblin](https://open.spotify.com/track/4VgiIKssGtaMT5wQZPX6E0) | [Noise Of Aggression](https://open.spotify.com/artist/3IUHsnxMykEgZX9K1v94F1) | [The Goblin](https://open.spotify.com/album/2fY48pm3eEXbfpJoGtNbfq) | 2:36 |
 | 2718 | [All I Need](https://open.spotify.com/track/6AIVUD88vxeXlEGNgDawNl) | [Tharoza](https://open.spotify.com/artist/5RxJJVYFSWDQHI8tRNjFJB) | [All I Need](https://open.spotify.com/album/4asWJ9o3H0Gz5Ck1BdXenI) | 2:15 |
+| 2719 | [I Need Your Lovin' \(Like The Sunshine\)](https://open.spotify.com/track/2tvhfItMoRiHmo9QuCnKem) | [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY) | [I Need Your Lovin' \(Like The Sunshine\)](https://open.spotify.com/album/0JvvciT216TxsmNWsgUq0Y) | 2:43 |
 
-Snapshot ID: `AAAK61luuYUy3QJxok3YtKQ1vTgvZwDC`
+Snapshot ID: `AAAK7Eo32oWYohGz66j/zKt/ZXG4uI4R`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 
 > This is Outkast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,827 likes - 49 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,841 likes - 49 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 37 | [Morris Brown \(feat\. Scar & Sleepy Brown\)](https://open.spotify.com/track/18uAu5gCnoGGNYQu8LeAr1) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Scar](https://open.spotify.com/artist/2skahWK8IOGB6oBCbR2e7D), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 4:24 |
 | 38 | [The Art of Storytellin, Pt\. 4 \(feat\. Outkast & Marsha Ambrosius\)](https://open.spotify.com/track/6SMwDEKfm0hlVErawcdRAK) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [Gangsta Grillz The Album](https://open.spotify.com/album/68lSPhhVV4hoe95OIaAwec) | 4:57 |
 | 39 | [Ain't No Thang](https://open.spotify.com/track/5TQEggGtsutzhOsYFfCAtE) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Southernplayalisticadillacmuzik](https://open.spotify.com/album/3l5AwLKqQ42VJbc5lTuP8G) | 5:38 |
-| 40 | [Walk It Out](https://open.spotify.com/track/1Zk1RUC3Lazme2erBiixIS) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Unk](https://open.spotify.com/artist/0PGtMx1bsqoCHCy3MB3gXA) | [Street Swag, Vol\. 2](https://open.spotify.com/album/2A89rexB6sUic5498mls4J) | 3:20 |
-| 41 | [In Due Time \(with Cee\-Lo\)](https://open.spotify.com/track/0F7IWMsRmk9P9ML4prVlr0) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [In Due Time](https://open.spotify.com/album/06ECofyrsfq7eyIoeWV0QU) | 4:20 |
+| 40 | [In Due Time \(with Cee\-Lo\)](https://open.spotify.com/track/0F7IWMsRmk9P9ML4prVlr0) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [In Due Time](https://open.spotify.com/album/06ECofyrsfq7eyIoeWV0QU) | 4:20 |
+| 41 | [Walk It Out](https://open.spotify.com/track/1Zk1RUC3Lazme2erBiixIS) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Unk](https://open.spotify.com/artist/0PGtMx1bsqoCHCy3MB3gXA) | [Street Swag, Vol\. 2](https://open.spotify.com/album/2A89rexB6sUic5498mls4J) | 3:20 |
 | 42 | [Idlewild Blue \(Don'tchu Worry 'Bout Me\)](https://open.spotify.com/track/3tkbjyAmQnGsD52Rn8TCX8) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 3:24 |
 | 43 | [Walk It Out \- Remix](https://open.spotify.com/track/2FC0wf2DyEq16TouxXJCxJ) | [Unk](https://open.spotify.com/artist/0PGtMx1bsqoCHCy3MB3gXA), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Beat'n Down Yo Block \(Deluxe Edition\)](https://open.spotify.com/album/5C7NyeW6pFBCwyBvu9nu05) | 4:54 |
 | 44 | [Funkin' Around](https://open.spotify.com/track/049tw2MgDBdrtzZQjqtcdh) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Big Boi & Dre Present...OutKast](https://open.spotify.com/album/5OJKj1KGQEM1pnHtuvY0It) | 4:34 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wc5ry.md) - [plain]
 | 48 | [Sole Sunday \(feat\. Goodie Mob\) \- Dirty Mix](https://open.spotify.com/track/0jHeh2OVWqd5xvtRULVoI9) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Goodie Mob](https://open.spotify.com/artist/3F2Y683ovlWT53WKCeq0oj) | [Stankonia \(25th Anniversary\)](https://open.spotify.com/album/6k5p5oU3jFqUc3p8U7qYwA) | 4:39 |
 | 49 | [Mighty "O"](https://open.spotify.com/track/25EtWmcUALs9Gtfiv7Bcab) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Idlewild](https://open.spotify.com/album/3L6JBfRxhzGzhhRDlTEdBz) | 4:16 |
 
-Snapshot ID: `aTNyAAAAAADNKZI6TEyiEDmIo1SEou7Y`
+Snapshot ID: `aTTDgAAAAADGaVtB3dJOQSrtsCqLab09`

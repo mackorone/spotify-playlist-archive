@@ -4,7 +4,7 @@
 
 > Our editors' picks for the best heavy songs of the year\.  Cover: Spiritbox
 
-403 songs - 1 day 2 hr 34 min
+404 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Burning Down](https://open.spotify.com/track/3ArvybjycId27hEs9VDaMY) | [High On Fire](https://open.spotify.com/artist/1eiIIImNeUj3vpaocWqoOf) | [Burning Down](https://open.spotify.com/album/3N0MmEkRF87NFwaRWppLr0) | 6:12 | 2024-12-04 | 2025-12-04 |
 | [By a Monster’s Hand](https://open.spotify.com/track/6okhNU97I9bKQ1wCbtleOQ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [God Of Angels Trust](https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC) | 3:42 | 2025-12-03 |  |
 | [BØNESCRAPER](https://open.spotify.com/track/6j5asGEn2t6NwwEefx1vvi) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNATØNED](https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE) | 3:33 | 2025-12-03 |  |
+| [BØNESCRAPER](https://open.spotify.com/track/6yacKGfy3ARRL0jnzn0Vv9) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [BØNESCRAPER](https://open.spotify.com/album/4iurypUAsh418PDRMX6n1a) | 3:37 | 2025-12-03 |  |
 | [Call Me Little Sunshine](https://open.spotify.com/track/4xAmbn7xiy6wGOs4oaxv70) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [IMPERA](https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h) | 4:44 | 2022-11-30 | 2023-11-30 |
 | [Calling You](https://open.spotify.com/track/68j6RDtKgoN4Ei8eoDOSjO) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Calling You](https://open.spotify.com/album/2IgooFSzVdwB8BXKzoy1lz) | 3:37 | 2022-11-30 | 2023-11-30 |
 | [can u see me in the dark?](https://open.spotify.com/track/7pugmRsHRy1fnug9NqH5cA) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [can u see me in the dark?](https://open.spotify.com/album/7mrNcgAQuzS3XF3db20WIe) | 3:58 | 2024-12-04 | 2025-12-04 |

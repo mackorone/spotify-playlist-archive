@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Weda Mauve
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,564 likes - 101 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,563 likes - 101 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 33 | [Wake Up!](https://open.spotify.com/track/1LsBaVqKsAOIo3MjOqICkw) | [Jelita](https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr) | [Wake Up!](https://open.spotify.com/album/2vMQnwms8RUghfhwK3re3R) | 3:49 |
 | 34 | [ALIVE](https://open.spotify.com/track/7qL1ImIs0qrXds1ldjicPx) | [Kay Sebastene](https://open.spotify.com/artist/5ZMoHmgsrp02niBm1sihBP) | [ALIVE](https://open.spotify.com/album/5WJaZSqKMBeyO4nqGzbgpQ) | 3:13 |
 | 35 | [Bloodshot](https://open.spotify.com/track/0tD8mZqjq3pCwbSzcfxoOE) | [MAIVE.](https://open.spotify.com/artist/5k3veZatAzPSJKXiDlOUFk) | [Bloodshot](https://open.spotify.com/album/5hHf1FSFJjS1d3fN9lByKO) | 2:17 |
-| 36 | [Fresh \(2022\)](https://open.spotify.com/track/4azgcqmNacFixjTtLZlHdl) | [LORRA](https://open.spotify.com/artist/6MsnDUbNbeifQBU54x42zy) | [Fresh \(2022\)](https://open.spotify.com/album/3k30Hz9oV6i9ANaCFM8H1c) | 3:49 |
+| 36 | [Fresh \(2022\)](https://open.spotify.com/track/4azgcqmNacFixjTtLZlHdl) | [LORRA](https://open.spotify.com/artist/5W6EChWlHS4FmtDZ6hTdEp) | [Fresh \(2022\)](https://open.spotify.com/album/3k30Hz9oV6i9ANaCFM8H1c) | 3:49 |
 | 37 | [Second Choice](https://open.spotify.com/track/4qSiGVSgsnnEeR1NBVyJNK) | [DNA](https://open.spotify.com/artist/6sHZB3bXivfeSzjScwRYGN), [INDAHKUS](https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB) | [Second Choice](https://open.spotify.com/album/1l5AgRNhDoswxPhjIEZztj) | 3:12 |
 | 38 | [Good Morning, Goodbye](https://open.spotify.com/track/4Fb1gbBMGtDSx9CTfLHPBO) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [Good Morning, Goodbye](https://open.spotify.com/album/1BFvEfpMYM71nuRxbdANUA) | 3:21 |
 | 39 | [Do Right Baby! \- Live](https://open.spotify.com/track/1bw73MM8ML2sips7nDExzG) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI), [The Soul & Rollers](https://open.spotify.com/artist/0oOKNUtbLhBGyq7ALH6ZMu) | [Jordan LIVE!](https://open.spotify.com/album/6SJcKel4aMafRbs1riLzTU) | 6:57 |

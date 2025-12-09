@@ -4,7 +4,7 @@
 
 > The freshest house music \| Submit via Instagram: @subshiftmusic
 
-2,367 songs - 5 day 13 hr 18 min
+2,370 songs - 5 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -664,6 +664,7 @@
 | [Fantasy](https://open.spotify.com/track/6Iys4Jb5cMrbD8e8d6iOgO) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Fantasy](https://open.spotify.com/album/6obQDd1WviBdLjeousvwfw) | 3:28 | 2024-06-21 | 2024-07-13 |
 | [Faster](https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Faster](https://open.spotify.com/album/4cIrSFEwm1MVc53X9XdACU) | 3:00 | 2023-03-31 | 2023-04-09 |
 | [Fears In The Fire \(feat\. Camden Cox\)](https://open.spotify.com/track/1CjY6ANoDxJ20dh0DfD1qE) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Fears In The Fire \(feat\. Camden Cox\)](https://open.spotify.com/album/7lRpIFJzeeNNfRjgdFeLTR) | 3:05 | 2022-11-11 | 2022-11-19 |
+| [Fee Fi Fo Fum \(feat\. KAM\-BU\)](https://open.spotify.com/track/20NWjwDzsxz7CXIyyQFMCx) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [Fee Fi Fo Fum \(feat\. KAM\-BU\)](https://open.spotify.com/album/74gn9OK41NsDSvj0CKeLFl) | 3:11 | 2025-12-08 |  |
 | [Feed My Hunger \(No Shade\)](https://open.spotify.com/track/0hsjCTNkruMDApePUJZMKv) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Feed My Hunger \(No Shade\)](https://open.spotify.com/album/6IpuoQShDOYowPqkxzG8Ku) | 2:24 | 2022-10-14 | 2022-10-29 |
 | [Feed The Fire](https://open.spotify.com/track/3cuOlVmoIPNNDY98qyi8pV) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Haylee Wood](https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR) | [Feed The Fire](https://open.spotify.com/album/79isL27aZp2fspAxFGXs56) | 2:33 | 2025-04-24 | 2025-08-02 |
 | [Feed Your Soul](https://open.spotify.com/track/6arHrJv28C4X7meSbtXZUG) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Max Mylo](https://open.spotify.com/artist/70IVXvEMUXy1k2esJoJdTK) | [Feed Your Soul](https://open.spotify.com/album/2mNc6DXC1qHBzcZdKsqWxe) | 3:02 | 2023-03-31 | 2023-04-09 |
@@ -1163,6 +1164,7 @@
 | [Libre \- Honey & Badger Remix](https://open.spotify.com/track/0i3PKtNI9VMeB6WL4WG3rZ) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [Libre \(Honey & Badger Remix\)](https://open.spotify.com/album/45HaOTtvWfAW7TcI5caSYt) | 2:55 | 2023-09-01 | 2023-09-09 |
 | [Lick Lick](https://open.spotify.com/track/6gi4q4zu0rdbPqudX9dSaJ) | [Snooko](https://open.spotify.com/artist/0KAsH8x2fuBX1ExPyXaHMx) | [Lick Lick](https://open.spotify.com/album/1DASRqjuhlJz4GEJpNxqQA) | 5:46 | 2024-07-12 | 2024-08-03 |
 | [Life Goes On](https://open.spotify.com/track/5BC4a9zX4qOAuIM7HUgVrG) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Life Goes On](https://open.spotify.com/album/3T6dLIs7QJWYflHcVLAB1A) | 2:51 | 2024-02-07 | 2024-02-25 |
+| [Lift Me Up](https://open.spotify.com/track/0b7PbH7jnPDx9cZ77nc6Fe) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Point Zero / Lift Me Up](https://open.spotify.com/album/49IPEHPL1alOTzFgXfVTl7) | 3:34 | 2025-12-08 |  |
 | [Lifting Me Up](https://open.spotify.com/track/2fMmN8oXhD0IVRXPhOdId2) | [King Topher](https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2), [Delayz](https://open.spotify.com/artist/0gtmyc6bAV1XoQHwOHF7NX), [Dropbusterz](https://open.spotify.com/artist/4rv8s8PHSHezu1eJnxLQbB) | [Lifting Me Up](https://open.spotify.com/album/2nCMXBMDLq2fnfU023ebxM) | 2:54 | 2023-04-07 | 2023-04-15 |
 | [Light A Fire](https://open.spotify.com/track/1J2YC1ejHKgBgOfqvw2ocF) | [Sonickraft](https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o) | [Light A Fire](https://open.spotify.com/album/1mV5eIV9C0NzgMoLLlDTs2) | 3:00 | 2023-04-28 | 2023-05-06 |
 | [Light Years](https://open.spotify.com/track/24epMjl1dMm7MZ8AbE8Gyx) | [Damo Cox](https://open.spotify.com/artist/26cH5NsLdYO4n0iIQ9q1M7) | [Wyld In Amsterdam 2022](https://open.spotify.com/album/1RGzgWEkcPElPb7s2PUMMe) | 5:02 | 2023-12-16 | 2023-12-23 |
@@ -2324,6 +2326,7 @@
 | [Work Dat Body](https://open.spotify.com/track/4NdHU8HEfdJQ8LOvB87LOx) | [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy) | [Work Dat Body](https://open.spotify.com/album/556gs5sb3Flk1Y9iCn9f5r) | 2:30 | 2023-07-15 | 2023-08-05 |
 | [Work For Me](https://open.spotify.com/track/4pAnnvNUCJnVxXlnTXtlcj) | [Max Low](https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP) | [Work For Me](https://open.spotify.com/album/0gwHQhbt31Kks94mvDJSSn) | 3:22 | 2022-11-11 | 2023-01-07 |
 | [Work It](https://open.spotify.com/track/4TqGe1UaneqGotEIwraZ75) | [Florian Picasso](https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn) | [Work It](https://open.spotify.com/album/1NZEAAcBizqIPTlViPC59g) | 2:47 | 2023-09-01 | 2023-09-09 |
+| [Work It Like This](https://open.spotify.com/track/1meI886H5HDVdblix1FEMm) | [Kriss Reeve](https://open.spotify.com/artist/5oS267l8pGKqJmh9ZhCYGS) | [Work It Like This](https://open.spotify.com/album/5hDG78GlqsTY2rveFzHRSh) | 2:32 | 2025-12-08 |  |
 | [Work It To The Bone](https://open.spotify.com/track/1i2WapESGVLWil2gulu4AR) | [Tom Westy](https://open.spotify.com/artist/0HhpiOJAde5crSTrd6sMbW) | [Work It To The Bone](https://open.spotify.com/album/6Wl5gF85ojTHIyqh2MnVCe) | 2:38 | 2023-03-24 | 2023-04-01 |
 | [Work That](https://open.spotify.com/track/4g23NMJNiKG7UZStEkwsuY) | [Ell Jordan](https://open.spotify.com/artist/3ZfwdqNPzevAjnBlRCkBKl) | [Work That](https://open.spotify.com/album/6MF0xlaj5ZVTd77oNWFyod) | 6:09 | 2025-05-02 | 2025-05-31 |
 | [Work That](https://open.spotify.com/track/1ZvhgcnGpISg32eK7JadSe) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt) | [Work That](https://open.spotify.com/album/1Lm3v0jBatwrndrI7vkV6F) | 2:24 | 2022-09-23 | 2022-10-01 |

@@ -2,7 +2,7 @@
 
 ### [Wicked: For Good Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXbjEq7Z199Si)
 
-> Experience the epic conclusion of Wicked: For Good with the official playlist\. You will be changed...
+> Experience the epic conclusion of Wicked: For Good with the official playlist\. Want more? Enter The Lands of Oz <a href="https://open.spotify.com/presents/wicked">here</a>.
 
 43 songs - 3 hr 0 min
 

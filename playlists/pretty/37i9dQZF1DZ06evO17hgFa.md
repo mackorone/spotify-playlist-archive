@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17hgFa.md) - [plain]
 
 > This is Billie Holiday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,480 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,489 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17hgFa.md) - [plain]
 | 49 | [No More](https://open.spotify.com/track/75yWDS1C4ZXKoJscUK1cdg) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday's Greatest Hits](https://open.spotify.com/album/6CqXthOJBMMmagymEEa8pl) | 2:45 |
 | 50 | [Just One Of Those Things \- Take 8 \- Master Take](https://open.spotify.com/track/434Icqe1n6rfIoOSwhrYbn) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Songs For Distingué Lovers](https://open.spotify.com/album/4aVrAD83svetEEqiANmvmw) | 5:33 |
 
-Snapshot ID: `aTNyAAAAAADmR1CIUVV0f0nTUh3hCdry`
+Snapshot ID: `aTTDgAAAAAC5jzRNpelX6riZharLT2Up`

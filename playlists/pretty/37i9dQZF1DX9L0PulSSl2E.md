@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9L0PulSSl2E.md) - [plain]
 
 > Sit back, thand rakho te Chill Karlo with Yo Yo Honey Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,176 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,204 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

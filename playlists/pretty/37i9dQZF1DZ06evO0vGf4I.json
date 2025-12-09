@@ -1,12 +1,12 @@
 {
   "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "num_followers": 1632274,
+  "num_followers": 1632318,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAADq8EwS/pv+F350hj4d9BYX",
+  "snapshot_id": "aTTDgAAAAAB3xW9PEczMwxhD9rxW1Bwy",
   "tracks": [
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JACKBOYS 2",
-        "url": "https://open.spotify.com/album/1Fj25TwO1GL490NL5cFVnb"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 156157,
-      "name": "DA WIZARD",
-      "url": "https://open.spotify.com/track/3MG4uJgccswTKrjheG54eW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ESCAPE PLAN / MAFIA",
         "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 240000,
       "name": "MAFIA",
       "url": "https://open.spotify.com/track/08F16baYbciTva9P4BvpiI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/1Fj25TwO1GL490NL5cFVnb"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 156157,
+      "name": "DA WIZARD",
+      "url": "https://open.spotify.com/track/3MG4uJgccswTKrjheG54eW"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JACKBOYS 2",
-        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 184789,
-      "name": "CHAMPAIN & VACAY",
-      "url": "https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 223173,
       "name": "TOPIA TWINS (feat. Rob49 & 21 Savage)",
       "url": "https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JACKBOYS 2",
+        "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 184789,
+      "name": "CHAMPAIN & VACAY",
+      "url": "https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh"
     },
     {
       "added_at": null,

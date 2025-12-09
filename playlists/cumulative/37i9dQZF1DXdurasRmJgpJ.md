@@ -4,7 +4,7 @@
 
 > 2019年に幕を開けた令和。ストリーミングや動画サイトでのバイラルが影響力を増し、社会情勢や価値観が激動している"ニューノーマル"な時代のポップミュージック。
 
-449 songs - 1 day 2 hr 21 min
+450 songs - 1 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [kimnosoba](https://open.spotify.com/track/1xFrkoI1ZBZOT06r0AP37r) | [tokyo\-kimigainaimati](https://open.spotify.com/artist/682ehg4PP2p5cbdBqH3ADM) | [23\-Spring](https://open.spotify.com/album/7JNO5AFNE0ISRSDUDQqRCl) | 2:50 | 2024-04-01 | 2024-04-19 |
 | [L4DY](https://open.spotify.com/track/4S7rVcmRg9wEpAwu05ynvc) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [L4DY](https://open.spotify.com/album/45h4CMmgfsSyBoXWWLZoap) | 2:32 | 2025-01-13 | 2025-03-19 |
 | [LADY](https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LADY](https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW) | 3:27 | 2024-04-16 | 2024-05-07 |
+| [LAVALAVA](https://open.spotify.com/track/3h2mAlbVjRrRtBwAmIwOgD) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [No.Ⅱ \(Deluxe\)](https://open.spotify.com/album/0iqpmtNFxdR3LZc5Hb6Gzu) | 3:12 | 2025-12-02 |  |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2023-12-12 | 2024-04-03 |
 | [LEFT RIGHT](https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SHOOTING STAR](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) | 3:28 | 2023-12-12 |  |
 | [Life Is Still Going On](https://open.spotify.com/track/3THdOskGxdJcRbp0DcS4s0) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:38 | 2023-12-22 | 2024-06-11 |
@@ -299,7 +300,7 @@
 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 | 2025-06-02 | 2025-07-01 |
 | [エルフ](https://open.spotify.com/track/5pnqpz99CGAvdzmMRsB5sD) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [エルフ](https://open.spotify.com/album/7bstlR1nYVqjkyTlYKzv9D) | 4:20 | 2025-04-11 | 2025-04-23 |
 | [オトノケ \- Otonoke](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 | 2024-10-11 |  |
-| [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 | 2024-02-28 |  |
+| [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 | 2024-02-28 | 2025-12-09 |
 | [カタオモイ](https://open.spotify.com/track/2HovXsvcdJur52BOcYGydz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 3:27 | 2024-04-02 |  |
 | [カリスマックス \- CHARISMAX](https://open.spotify.com/track/76OElzXqlyLCdlSypwSKBy) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [カリスマックス \(CHARISMAX\)](https://open.spotify.com/album/5VWD7lx3jH6XKPfPeeLhyv) | 2:57 | 2025-09-12 |  |
 | [カルト](https://open.spotify.com/track/1ejjFGLrQUzOhbthe2fYAU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [カルト](https://open.spotify.com/album/3PoU4pErF8qsWAV5CarQNb) | 3:48 | 2024-04-16 | 2024-07-05 |

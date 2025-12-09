@@ -326,7 +326,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 186441,
       "name": "Burned out",
       "url": "https://open.spotify.com/track/0tHWG1FuBBH0H0ooj5H0Kp"
@@ -1023,6 +1023,24 @@
     },
     {
       "album": {
+        "name": "From now on",
+        "url": "https://open.spotify.com/album/5q8TNWa9F0vi0U12a0ioxV"
+      },
+      "artists": [
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/6RtyqmDTzSQK9MlwbgQotk"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166457,
+      "name": "Lazy day",
+      "url": "https://open.spotify.com/track/2w4sWX5mz9ADxx2a0bc2Qs"
+    },
+    {
+      "album": {
         "name": "Lazy Me",
         "url": "https://open.spotify.com/album/4WgImc0yuAYUPbObX4xjjs"
       },
@@ -1164,7 +1182,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 154253,
       "name": "Love and hatred (feat. Jae Woo AN)",
       "url": "https://open.spotify.com/track/0Ye13DeMM6YgKbZJNv5pq7"
@@ -1788,7 +1806,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 192981,
       "name": "things happen",
       "url": "https://open.spotify.com/track/601WGVoiTsZLB9qcc4Ae0F"
@@ -1876,6 +1894,24 @@
       "duration_ms": 228068,
       "name": "Too lazy",
       "url": "https://open.spotify.com/track/3mVnIJd0G6QXCUd7qjknS0"
+    },
+    {
+      "album": {
+        "name": "WEEKEND",
+        "url": "https://open.spotify.com/album/7GOsvtjjUnTYepTZv8JZ4Q"
+      },
+      "artists": [
+        {
+          "name": "Jomalxne",
+          "url": "https://open.spotify.com/artist/6Cjo9LtMQwwLxADdvjvGpE"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204160,
+      "name": "WEEKEND",
+      "url": "https://open.spotify.com/track/2EWapiDxGPtiTCrV3JG3pN"
     },
     {
       "album": {

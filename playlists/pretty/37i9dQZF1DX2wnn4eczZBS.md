@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: Elmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,026 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,029 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 49 | [Marco Polo](https://open.spotify.com/track/4zfP0WFEXS7HJ1rZfGRwtX) | [De Zweefclub](https://open.spotify.com/artist/67bciYwiIDwTuPynYTV44x), [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Marco Polo](https://open.spotify.com/album/5JcrshQcKj2TcWXn0LHFB4) | 3:47 |
 | 50 | [Stilte Voor De Storm](https://open.spotify.com/track/4ZTHGemuV1WczgxVarJsi4) | [Don Melody Club](https://open.spotify.com/artist/0gnt5Tp8lW6u8obPtO3kuY) | [Stilte Voor De Storm](https://open.spotify.com/album/5toCH66amP3H7TmVoc2ZCq) | 4:40 |
 
-Snapshot ID: `AAAAAPKOeTb8ZBmPddYCH5uMGU2Nznse`
+Snapshot ID: `AAAAABsiNsMpRF8EahXlGFvDW8gwUp1E`

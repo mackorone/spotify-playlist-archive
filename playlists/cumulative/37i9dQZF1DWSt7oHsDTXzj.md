@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-283 songs - 15 hr 30 min
+284 songs - 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [This Christmas](https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [This Christmas](https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW) | 3:39 | 2021-12-09 |  |
 | [This Christmas I'm Coming Home](https://open.spotify.com/track/7JZAQlrUT16F5dHeGeeB3Y) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [This Christmas I'm Coming Home](https://open.spotify.com/album/1cN6RQKe5daBWQj795grM2) | 3:00 | 2025-11-24 |  |
 | [This December \- slow](https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [This December \(slow\)](https://open.spotify.com/album/2xC918XnDFsH6h6qc6R7li) | 3:33 | 2021-12-03 | 2022-12-06 |
-| [This December \- slow](https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [slowed + reverb](https://open.spotify.com/artist/2fTPQanPcwZAHWokwxcRJi) | [Edits](https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl) | 3:33 | 2022-12-23 |  |
+| [This December \- slow](https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [slowed + reverb](https://open.spotify.com/artist/2fTPQanPcwZAHWokwxcRJi) | [Edits](https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl) | 3:33 | 2022-12-23 | 2025-12-09 |
 | [This Wintertime](https://open.spotify.com/track/4K2eNoUvBzaD0yjAtSHvG3) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Purple Snowflakes / This Wintertime](https://open.spotify.com/album/5SoBDgotyx8iue58ZB35uf) | 4:13 | 2024-12-13 | 2025-11-01 |
 | [This Year For Christmas](https://open.spotify.com/track/14obvglkz3Fzx46YAcYYwl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [This Year For Christmas](https://open.spotify.com/album/7otWkigGHFHhUwS1kkXSUo) | 1:52 | 2022-01-07 | 2024-11-19 |
 | [till christmas day](https://open.spotify.com/track/608gfFTFTlOFklDgQk0yos) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [till christmas day](https://open.spotify.com/album/5c3DibcwuIB94jNACIGEcr) | 2:49 | 2022-11-08 | 2024-02-07 |
@@ -279,6 +279,7 @@
 | [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 | 2023-11-27 |  |
 | [Wintering](https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 2:45 | 2022-11-11 |  |
 | [Wish](https://open.spotify.com/track/4MmKdIsEWE8aXtIyQfuKhP) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Wish](https://open.spotify.com/album/0aB5CHO6yf2fJxXziIIOa1) | 3:07 | 2022-12-23 | 2024-12-15 |
+| [wishlist](https://open.spotify.com/track/21RHVyVi4SiF4Yg8l0LJko) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [wishlist](https://open.spotify.com/album/0ab9CaIV46tB8hAKxuFU34) | 3:13 | 2025-12-08 |  |
 | [Wonderful Christmastime](https://open.spotify.com/track/0Tt1xLhzap2izxxttXZdk1) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Christmas Rules](https://open.spotify.com/album/7a9xlXxD82eQGXaExYrChG) | 2:26 | 2021-11-12 |  |
 | [Wonderful Christmastime](https://open.spotify.com/track/2WOxLQYZf9fZwElBgrFCB7) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [A Very Cool Christmas](https://open.spotify.com/album/3dJwYksJQub7yM6nxhJAAh) | 2:26 | 2022-10-14 | 2022-11-07 |
 | [Wonderful Christmastime](https://open.spotify.com/track/3OnZDfpaIbb2dBCCHtoYSX) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 2:26 | 2021-11-12 | 2024-04-19 |

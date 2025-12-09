@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 97292,
+  "num_followers": 97299,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAADl/63SXchSFmmBMxe5CNVb",
+  "snapshot_id": "aTTDgAAAAABnqBpVD0jGvuiq8AqrfLip",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Su Poder",
-        "url": "https://open.spotify.com/album/3CTS3cRwUso9FkNqxY4pEV"
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
       },
       "artists": [
         {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        },
-        {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
         }
       ],
-      "duration_ms": 302587,
-      "name": "Su Poder",
-      "url": "https://open.spotify.com/track/4ggL9CpFu2bIr4nxpIoQpz"
+      "duration_ms": 325000,
+      "name": "Gracias / Tu Fidelidad",
+      "url": "https://open.spotify.com/track/1PemJ4t1dapa3vrjio05TH"
     },
     {
       "added_at": null,
@@ -227,22 +227,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
+        "name": "Su Poder",
+        "url": "https://open.spotify.com/album/3CTS3cRwUso9FkNqxY4pEV"
       },
       "artists": [
         {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
         },
         {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 325000,
-      "name": "Gracias / Tu Fidelidad",
-      "url": "https://open.spotify.com/track/1PemJ4t1dapa3vrjio05TH"
+      "duration_ms": 302587,
+      "name": "Su Poder",
+      "url": "https://open.spotify.com/track/4ggL9CpFu2bIr4nxpIoQpz"
     },
     {
       "added_at": null,
@@ -267,38 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sana Nuestra Tierra",
-        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 372035,
-      "name": "Sana Nuestra Tierra",
-      "url": "https://open.spotify.com/track/6viyvAwhF791gksn4WBvcJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Enciende una Luz",
-        "url": "https://open.spotify.com/album/4feGmOBJgIy4LD7SNt2XAa"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 410827,
-      "name": "Jes\u00fas Eres Mi Buen Pastor",
-      "url": "https://open.spotify.com/track/2K7Xl0INk9AOJczRbTLOy4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legado",
         "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
       },
@@ -319,6 +287,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Enciende una Luz",
+        "url": "https://open.spotify.com/album/4feGmOBJgIy4LD7SNt2XAa"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 410827,
+      "name": "Jes\u00fas Eres Mi Buen Pastor",
+      "url": "https://open.spotify.com/track/2K7Xl0INk9AOJczRbTLOy4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sana Nuestra Tierra",
+        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 372035,
+      "name": "Sana Nuestra Tierra",
+      "url": "https://open.spotify.com/track/6viyvAwhF791gksn4WBvcJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "25 Concierto Conmemorativo (En Vivo)",
         "url": "https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe"
       },
@@ -331,6 +331,26 @@
       "duration_ms": 222466,
       "name": "Yo te Busco",
       "url": "https://open.spotify.com/track/4m9mDIdKZuiV1RWKQTQe6P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "duration_ms": 365600,
+      "name": "Mas El Dios De Toda Gracia / Quiero Levantar Mis Manos",
+      "url": "https://open.spotify.com/track/77xMmii3Dsmx3PLjFIImC1"
     },
     {
       "added_at": null,
@@ -367,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        }
-      ],
-      "duration_ms": 365600,
-      "name": "Mas El Dios De Toda Gracia / Quiero Levantar Mis Manos",
-      "url": "https://open.spotify.com/track/77xMmii3Dsmx3PLjFIImC1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "25 Concierto Conmemorativo (En Vivo)",
         "url": "https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe"
       },
@@ -403,6 +403,26 @@
       "duration_ms": 113626,
       "name": "Tu Amor por M\u00ed",
       "url": "https://open.spotify.com/track/3xZX2uiPACsDdMRNQkSfh0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Waleska Morales",
+          "url": "https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc"
+        }
+      ],
+      "duration_ms": 271266,
+      "name": "Temprano Yo Te Buscar\u00e9 / Yo Te Busco",
+      "url": "https://open.spotify.com/track/3kmbEbnVlar5dcNtBE4hxx"
     },
     {
       "added_at": null,
@@ -443,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Waleska Morales",
-          "url": "https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc"
-        }
-      ],
-      "duration_ms": 271266,
-      "name": "Temprano Yo Te Buscar\u00e9 / Yo Te Busco",
-      "url": "https://open.spotify.com/track/3kmbEbnVlar5dcNtBE4hxx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poderoso",
         "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
       },
@@ -475,6 +475,30 @@
       "duration_ms": 260022,
       "name": "A Ti",
       "url": "https://open.spotify.com/track/67ibn8cmXlzQtOjCprZ08w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        },
+        {
+          "name": "Dariana",
+          "url": "https://open.spotify.com/artist/1YFjpz13AtgmLfEo3CX8wv"
+        }
+      ],
+      "duration_ms": 298942,
+      "name": "Escucharte Hablar / Dios Ha Sido Bueno",
+      "url": "https://open.spotify.com/track/502fS8luNIQWgkvsBFu7a0"
     },
     {
       "added_at": null,
@@ -515,30 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
-        },
-        {
-          "name": "Dariana",
-          "url": "https://open.spotify.com/artist/1YFjpz13AtgmLfEo3CX8wv"
-        }
-      ],
-      "duration_ms": 298942,
-      "name": "Escucharte Hablar / Dios Ha Sido Bueno",
-      "url": "https://open.spotify.com/track/502fS8luNIQWgkvsBFu7a0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poderoso",
         "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
       },
@@ -551,6 +551,26 @@
       "duration_ms": 380342,
       "name": "Ex\u00e1ltate",
       "url": "https://open.spotify.com/track/1gkSSTrGjnwr904VOykCOj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "ECCOS",
+          "url": "https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Tu Mirada / Hermoso Eres",
+      "url": "https://open.spotify.com/track/6Eual2Gt7vi9H0WcXdCLfA"
     },
     {
       "added_at": null,
@@ -583,26 +603,6 @@
       "duration_ms": 248893,
       "name": "Al que es Digno",
       "url": "https://open.spotify.com/track/14ZqaxUjFW2Fhq5CcJ5mhm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "ECCOS",
-          "url": "https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Tu Mirada / Hermoso Eres",
-      "url": "https://open.spotify.com/track/6Eual2Gt7vi9H0WcXdCLfA"
     },
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Iglesia",
-        "url": "https://open.spotify.com/album/3lb9AFreeW6mc0jx5NKcxP"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Sarai Rivera",
-          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
-        }
-      ],
-      "duration_ms": 355417,
-      "name": "\u00c9l Siempre Reina",
-      "url": "https://open.spotify.com/track/1iTKfYiWEj9MWVPeQMcW5l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Primero Nos Am\u00f3",
         "url": "https://open.spotify.com/album/3SQgNmmPjB0Vl7DffcD7RW"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 268565,
       "name": "Quiero Levantar mis Manos",
       "url": "https://open.spotify.com/track/3F3cpazSaWY0DCb6XjSBd9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Iglesia",
+        "url": "https://open.spotify.com/album/3lb9AFreeW6mc0jx5NKcxP"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        }
+      ],
+      "duration_ms": 355417,
+      "name": "\u00c9l Siempre Reina",
+      "url": "https://open.spotify.com/track/1iTKfYiWEj9MWVPeQMcW5l"
     },
     {
       "added_at": null,

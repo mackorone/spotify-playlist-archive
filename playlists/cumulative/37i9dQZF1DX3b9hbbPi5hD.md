@@ -4,7 +4,7 @@
 
 > Tarantino not only produces great movies, he produces great soundtracks.
 
-94 songs - 5 hr 0 min
+96 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Didn't I \(Blow Your Mind This Time\)](https://open.spotify.com/track/74U027gGHMCqdpFmYArxt1) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Love Train: The Sound of Philadelphia](https://open.spotify.com/album/663hqwrhVT6rQafXM7MiMI) | 3:21 | 2018-08-20 | 2022-11-13 |
 | [Didn't I Blow Your Mind This Time](https://open.spotify.com/track/75D5cH21X8jAVdRKuUR70B) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Jackie Brown \(Music from the Miramax Motion Picture\)](https://open.spotify.com/album/1f0FdT3X5hFNDNj39v4Km8) | 3:20 | 2018-08-20 |  |
 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/6rhVKeUhQTGLIRmQOfc9Wo) | [Santa Esmeralda](https://open.spotify.com/artist/0iGmfKLgK5eSMgHp8YgLnS) | [Kill Bill Vol\. 1 Original Soundtrack \(PA Version\)](https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ) | 10:28 | 2018-08-20 |  |
+| [Einsamer Hirte](https://open.spotify.com/track/7nxWzxIaXdYGeLRNvnueyZ) | [James Last](https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG), [Gheorghe Zamfir](https://open.spotify.com/artist/12FFWdcxApUNXV9TljwDpT) | [Russland Erinnerungen](https://open.spotify.com/album/5RCpX7ttdScp9lmaGHXlfk) | 4:23 | 2025-12-08 |  |
 | [Fever](https://open.spotify.com/track/0p8lGTQcHQx6XgsVLrkQdx) | [Ann O'Day](https://open.spotify.com/artist/1WXPtDK8q0vU5pL7ozqMhC) | [Tarantino Fiction](https://open.spotify.com/album/7CbtI4B2UbPKq4oYkqeGTQ) | 3:27 | 2018-08-20 |  |
 | [Flowers On the Wall](https://open.spotify.com/track/7ledv9CTjqdwnvHgRmETyZ) | [The Statler Brothers](https://open.spotify.com/artist/5PSWc8Y94zFsAtZlTe7ipI) | [Flowers On The Wall: The Essential Statler Brothers 1964\-1969](https://open.spotify.com/album/0OrV6t1YYdWXmiOD4ot2iD) | 2:18 | 2018-08-20 |  |
 | [Foolish Heart](https://open.spotify.com/track/1Yn80NKfGf8ajiwO4iMKQD) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O) | [Gold](https://open.spotify.com/album/6YnLyE9IkwBdoOWfkbjR4l) | 3:32 | 2018-08-20 | 2022-11-14 |
@@ -102,5 +103,6 @@
 | [You Never Can Tell](https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:41 | 2018-08-20 | 2024-04-19 |
 | [You Never Can Tell \- 1964 Single Version / Mono](https://open.spotify.com/track/2LcV5dZWN47XVCVZ1dFwfQ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [The Ultimate Chuck Berry](https://open.spotify.com/album/4horrQ2IrDblCB4koIX6wa) | 2:40 | 2018-08-20 | 2024-05-17 |
 | [You Never Can Tell \- 1986 Stereo Remix](https://open.spotify.com/track/3cjCPhWvNDaecvcEOlZ0HP) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [The Best 60s Album In The World...Ever!](https://open.spotify.com/album/42wnkjcgGg5CkmnGvwq3eZ) | 2:45 | 2018-08-20 | 2022-11-13 |
+| [新・仁義なき戦いのテーマ](https://open.spotify.com/track/77u21r20AEsThKcf69lsUx) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [新・仁義なき戦い。 そしてその映画音楽](https://open.spotify.com/album/40ZcNpDSHD2fq1PynCnZGM) | 2:28 | 2025-12-08 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

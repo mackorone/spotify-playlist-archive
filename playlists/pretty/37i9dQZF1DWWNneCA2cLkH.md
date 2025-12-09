@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 
 > These are the eclectic sounds of now\. Cover: Bic Runga
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,301 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,296 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 | 67 | [Comfort](https://open.spotify.com/track/03TEY9LGl1dFNGRszxjGi0) | [Private Mountain](https://open.spotify.com/artist/0ADk9wfY6PK41umJym9zs0) | [Heart on Sleeve, 10,000 Better Days](https://open.spotify.com/album/2MbQjUoEV9XQWvNUM6kmKC) | 4:48 |
 | 68 | [Real Life](https://open.spotify.com/track/2R1GNetV5KogQx7h1b8tgg) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Real Life](https://open.spotify.com/album/1h0kymvYAK3TSZyFHztqtX) | 3:30 |
 | 69 | [ANSWERED PRAYERS](https://open.spotify.com/track/0jUabbc5ireqtwxilJWtBj) | [Elle Shimada](https://open.spotify.com/artist/6QCfENvTPwkHq4V6nTMOpk) | [ANSWERED PRAYERS](https://open.spotify.com/album/4P51AHn65e0aqs2qnwrdPx) | 3:53 |
-| 70 | [Tremendous Fantastic](https://open.spotify.com/track/6dg3YkkUFQgKj0WUzCsVEU) | [Karate Boogaloo](https://open.spotify.com/artist/6D1VqVFh9yM5oARLleWNpQ) | [Tremendous Fantastic](https://open.spotify.com/album/6TeQE4rvy5SQxMhePl7WZt) | 3:04 |
+| 70 | [Tremendous Fantastic](https://open.spotify.com/track/6dg3YkkUFQgKj0WUzCsVEU) | [Karate Boogaloo](https://open.spotify.com/artist/6D1VqVFh9yM5oARLleWNpQ) | [Tremendous Fantastic](https://open.spotify.com/album/6TeQE4rvy5SQxMhePl7WZt) | 3:05 |
 | 71 | [As The Eagle Flies](https://open.spotify.com/track/0Sla33XNU2D98M5lwmu1Ca) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Welcome Back](https://open.spotify.com/album/7MCIpeJrXNn3KnKTtmwSKh) | 4:12 |
 | 72 | [Moneyman](https://open.spotify.com/track/0LfQP8yZq7O6YsGtiL4g7r) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Upper Mezzanine](https://open.spotify.com/album/5ojQXf3OcDCowE2qwpdgO4) | 4:00 |
 | 73 | [On The Beach \(from DEATH STRANDING 2: ON THE BEACH\)](https://open.spotify.com/track/72R7Qzj6kVw44ndWnFZzKK) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [On The Beach](https://open.spotify.com/album/6KrzhYHM6iHMzTMbCTO9du) | 4:16 |

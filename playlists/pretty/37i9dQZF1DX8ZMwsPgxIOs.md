@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Charlotte de Witte
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,744 likes - 144 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,797 likes - 144 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

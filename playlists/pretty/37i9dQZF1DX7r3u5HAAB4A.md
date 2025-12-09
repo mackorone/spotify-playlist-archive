@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 
 > A melting pot of Caribbean culture\. Cover: NESTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,203 likes - 110 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,305 likes - 110 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 | 70 | [SHH \- with intro](https://open.spotify.com/track/3WIzbftFKoXhx4qDgp32jt) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [SHH \(with intro\)](https://open.spotify.com/album/3KiLOCRpCb5tWbduNmPhgX) | 3:00 |
 | 71 | [SO COMAN](https://open.spotify.com/track/6W0iLz8aOKUzObanCzJj2U) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [SO COMAN](https://open.spotify.com/album/6IsaPEPJsZ4qXbOmdTkq0F) | 2:17 |
 | 72 | [Endless Vibes](https://open.spotify.com/track/0s8EUdOerqXJZ4LgNcYA9O) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Endless Vibes](https://open.spotify.com/album/43PIeAeRBVzA8iE0MM7PJj) | 2:27 |
-| 73 | [Wild Out](https://open.spotify.com/track/6UkGl2XEw0zticxJugwkq5) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI) | [Wild Out](https://open.spotify.com/album/5hNuLKXmBAhBH3ViWK6c6D) | 2:33 |
+| 73 | [Wild Out](https://open.spotify.com/track/6UkGl2XEw0zticxJugwkq5) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI), [Zimi](https://open.spotify.com/artist/1CDJaUv1aGeoQQFlIGrqDA) | [Wild Out](https://open.spotify.com/album/5hNuLKXmBAhBH3ViWK6c6D) | 2:33 |
 | 74 | [Jub Jub](https://open.spotify.com/track/3RkteeO2kwfZygdShcdFGM) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1) | [Man With No Door](https://open.spotify.com/album/1MS5QTc5isnW4DGXNVm1PZ) | 3:10 |
 | 75 | [Brain Freeze](https://open.spotify.com/track/5h7UTFQiHqJxK7lLzMnS6S) | [Leadpipe](https://open.spotify.com/artist/1AkeQ2eSrkcRQmaGGa5EAY), [Jus Jay King](https://open.spotify.com/artist/3RGRaqeExRfMuhsh3hVU8V) | [Brain Freeze](https://open.spotify.com/album/7Aej7C4X2G1TcuIdCe6i9j) | 3:28 |
 | 76 | [Show Them](https://open.spotify.com/track/1azevc4yWg7cPubeknpj05) | [Kman 6ixx](https://open.spotify.com/artist/5np2XqLanbxQzpEVFG0big), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Tafari](https://open.spotify.com/artist/7tnzhcb2y0dtPFIFVTp0A4) | [Phoenix The Ep](https://open.spotify.com/album/4FD88eNHnvOzs0JFw3OWVX) | 4:00 |

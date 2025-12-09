@@ -4,7 +4,7 @@
 
 > Have yourself a little cozy Christmas.
 
-216 songs - 12 hr 59 min
+218 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Carol of the Bells](https://open.spotify.com/track/0mZa0SSpNscGBpmXT5iKk4) | [Caroline Pennell](https://open.spotify.com/artist/0cZPTEmf3mlwj5kjVXR4po) | [December Songs](https://open.spotify.com/album/1FA4hRu48DNpVQQiEWmra3) | 1:57 | 2021-11-09 |  |
 | [Carol of the Bells](https://open.spotify.com/track/0ooZTbadcxB1rWlFjQVMmB) | [Caroline Pennell](https://open.spotify.com/artist/0cZPTEmf3mlwj5kjVXR4po) | [December Songs](https://open.spotify.com/album/7IM5ffEXH19ulqrB8k3M8y) | 1:57 | 2021-11-09 | 2024-04-19 |
 | [Cathedrals](https://open.spotify.com/track/3ix3bHsj4H8ceIuMe4T5T9) | [Ruby Amanfu](https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0) | [Standing Still](https://open.spotify.com/album/5dfqwRqPagZSKyB6qRTW2X) | 3:57 | 2021-11-09 |  |
+| [Celebrate Me Home](https://open.spotify.com/track/4rVUzCFmxDor43ORzBKHcx) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Celebrate Me Home](https://open.spotify.com/album/4Zt3jkBQHa5gMiZL95xbaB) | 3:53 | 2025-12-08 |  |
 | [Champagne Drops](https://open.spotify.com/track/4FSKL9VBXp8CCxo93uBkik) | [My Bubba](https://open.spotify.com/artist/09VsCALGBjeVE3pq9k085d) | [Champagne Drops](https://open.spotify.com/album/2O6RkUSLOWxTRAlEXStV23) | 3:38 | 2021-11-09 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/4njsApPwpZMNTRv4sIs3gw) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [The Christmas EP](https://open.spotify.com/album/1f5F5kSY9oLBWvzTZOXJjO) | 2:06 | 2021-11-09 |  |
 | [Christmas Alone](https://open.spotify.com/track/4p8AMWj6ZBnrE3IUY004yE) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Isn't This World Enough?? A Nettwerk Christmas](https://open.spotify.com/album/3o2aareSZ1ku3Sw0BCixcT) | 3:48 | 2021-11-09 |  |
@@ -177,6 +178,7 @@
 | [Songs for the Angels](https://open.spotify.com/track/6mNrNhAqFSzQxDldRilzMh) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Folk & Proud](https://open.spotify.com/album/5hR6eNfAo8Y0tHf8xpIrHU) | 5:18 | 2021-11-09 |  |
 | [The Christmas Song](https://open.spotify.com/track/24MfeH4tGo8SxmNH311YzO) | [Keston Cobblers Club](https://open.spotify.com/artist/38DmNaPnPBoXtbpFgXZNL8) | [The Christmas Song](https://open.spotify.com/album/0qz6VbQmFw0WLZwD3k9QdT) | 2:02 | 2021-11-09 |  |
 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/6NBEjaO6uf9ZCxjylkazqh) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 3:35 | 2021-11-09 |  |
+| [The First Noel](https://open.spotify.com/track/5w6fQHVicVyx74lJeZlUp0) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Christmas In A Minor Key](https://open.spotify.com/album/1X6rB0TOMWSCqITdHCqh8C) | 3:02 | 2025-12-08 |  |
 | [The First Noel](https://open.spotify.com/track/0xo74ue4eAko2WXco63cfv) | [The Ruby Pines](https://open.spotify.com/artist/4KO4HRGHPSH7HtGn8gAOpl) | [Walker in a Winter Wonderland](https://open.spotify.com/album/0UhF379fa6PvnfLTsBngqa) | 2:21 | 2021-11-09 |  |
 | [The Little Drummer Boy](https://open.spotify.com/track/5buoO4z08iVTp3i8wxtYUK) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Songs That Sleigh](https://open.spotify.com/album/2H7rl2R2NoHyviqptvA8bz) | 4:32 | 2022-12-09 |  |
 | [The Little Drummer Boy](https://open.spotify.com/track/3PS3si74boOaOC6zxf858B) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [The Little Drummer Boy](https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF) | 2:56 | 2023-12-01 |  |

@@ -2,7 +2,7 @@
 
 ### [swag](https://open.spotify.com/playlist/37i9dQZF1DX2YSAZIuAiB1)
 
-> Good Vibes only mit diesem sonnigen Genre Mix 😎
+> zu dieser sonnigen playlist kann man nur viben
 
 562 songs - 1 day 3 hr 13 min
 

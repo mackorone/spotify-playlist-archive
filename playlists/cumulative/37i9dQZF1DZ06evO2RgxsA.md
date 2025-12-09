@@ -4,7 +4,7 @@
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-131 songs - 5 hr 10 min
+132 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,8 +104,9 @@
 | [Soul Doubt](https://open.spotify.com/track/3TYC9jm4RXCPomDD4V3KRD) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:46 | 2023-07-24 |  |
 | [Stickin In My Eye](https://open.spotify.com/track/46mov5j25a6BXrxNQKUwiA) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:24 | 2022-09-16 |  |
 | [Substitute](https://open.spotify.com/track/6FOktD0ZXPpXdGQDHgEdrJ) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [West Coast vs\. Wessex](https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7) | 2:45 | 2022-09-18 | 2022-09-29 |
-| [Take Two Placebos And Call Me Lame](https://open.spotify.com/track/21iXdVnWCEpYuOmeY9YKPh) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 2:25 | 2022-09-16 |  |
+| [Take Two Placebos And Call Me Lame](https://open.spotify.com/track/21iXdVnWCEpYuOmeY9YKPh) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 2:25 | 2022-09-16 | 2025-12-09 |
 | [Thank God It's Monday](https://open.spotify.com/track/1eX2rmSdoUWX2XcvHKHHpu) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 1:39 | 2022-09-16 | 2025-12-07 |
+| [The Audition](https://open.spotify.com/track/3ov7r3uavKjG75qA1ARTTe) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [A to H](https://open.spotify.com/album/5pUkSUz92gUxkgVsI79PmP) | 2:31 | 2025-12-09 |  |
 | [The Big Drag](https://open.spotify.com/track/79FLRV9bif83LXWIMDYEC4) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Single Album](https://open.spotify.com/album/7clMEugC4qJ1ApbscpXsaL) | 5:48 | 2022-09-16 | 2022-10-13 |
 | [The Brews](https://open.spotify.com/track/4khRfibu32AGybm3FmGzk0) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:40 | 2022-09-16 |  |
 | [The Cause](https://open.spotify.com/track/5b2RQDbNlMt7DE8cuv0hsC) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 1:37 | 2022-09-16 | 2024-09-10 |

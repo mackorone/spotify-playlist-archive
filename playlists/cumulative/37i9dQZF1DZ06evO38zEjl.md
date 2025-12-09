@@ -4,7 +4,7 @@
 
 > This is Jon Hassell\. The essential tracks, all in one playlist.
 
-136 songs - 13 hr 59 min
+137 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Divine S.O.S](https://open.spotify.com/track/5f8iTVIIHWjBPdu4X5ympV) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D) | 7:15 | 2022-06-30 | 2022-10-01 |
 | [Dreaming](https://open.spotify.com/track/02QTbDphw88yuDpYRiX6yu) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf) | 6:09 | 2023-02-15 |  |
 | [Dreaming](https://open.spotify.com/track/20x7Yl5RbR4KVXbm3zrfJT) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9) | 6:09 | 2022-05-29 | 2023-02-16 |
+| [Dreamworld \(Dance\)](https://open.spotify.com/track/0gHVCMHYaKCc3sRmSqAi0c) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Farafina](https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL) | [Flash of the Spirit](https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0) | 4:54 | 2025-12-09 |  |
 | [Emerald City](https://open.spotify.com/track/09bEaFophDjQMFCUcHSjL6) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Psychogeography \(Zones Of Feeling\)](https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ) | 5:08 | 2023-04-08 | 2025-04-18 |
 | [Empire I](https://open.spotify.com/track/2i9UYFJDHwoLSRiib3recu) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 2:00 | 2022-05-29 |  |
 | [Empire II](https://open.spotify.com/track/6Ra8gN2dkT41IcGa6NX4HO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 4:53 | 2022-05-30 |  |
@@ -137,7 +138,7 @@
 | [Voiceprint \(Blind From The Facts\)](https://open.spotify.com/track/3iuDuxuhuNUzCfS7YXydTO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [City: Works Of Fiction](https://open.spotify.com/album/5UpDvjDr7JKJIKcMLQjMfV) | 5:48 | 2022-06-11 | 2022-08-12 |
 | [Voodoo Wind](https://open.spotify.com/track/2IP0rXILAoixHo1zUBKGx9) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/4tXeNxb4cUhDUrWMmG1eF8) | 9:42 | 2022-06-03 | 2022-10-07 |
 | [Warm Shift](https://open.spotify.com/track/148rRRlYecJVRehmVnY5yQ) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D) | 4:23 | 2022-05-29 | 2023-02-06 |
-| [Warm Shift](https://open.spotify.com/track/7gGjI3K2oHJb3tZKbCuX4l) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9) | 4:23 | 2023-02-12 |  |
+| [Warm Shift](https://open.spotify.com/track/7gGjI3K2oHJb3tZKbCuX4l) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9) | 4:23 | 2023-02-12 | 2025-12-09 |
 | [Warriors \[Original Fictions\]](https://open.spotify.com/track/3TmN0l2UAezBewz9Gv36E2) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [City: Works Of Fiction](https://open.spotify.com/album/4kmxYbRDqGg9YPZInmOYgF) | 9:23 | 2025-05-18 | 2025-05-26 |
 | [Waterfront District](https://open.spotify.com/track/1x8zmbCwwpjk9FtZXwmZrG) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Psychogeography \(Zones Of Feeling\)](https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ) | 5:22 | 2023-03-30 | 2025-04-16 |
 | [Wing Melodies](https://open.spotify.com/track/3nWWMBKHbfhQGZOYHKynKb) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 7:33 | 2022-05-30 | 2025-11-27 |

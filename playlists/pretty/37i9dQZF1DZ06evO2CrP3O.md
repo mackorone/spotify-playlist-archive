@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 
 > This is Blondie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,839 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,849 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 | 49 | [Hot Shot \- David Wrench 2025 Mix](https://open.spotify.com/track/6W4Z5cIwAPe57XNo1VTvmE) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Hot Shot \(David Wrench 2025 Mix\)](https://open.spotify.com/album/5oHnyR5b3GSt6TxgTr0WkQ) | 3:37 |
 | 50 | [Warm\-Up](https://open.spotify.com/track/3bmBowxAoP4OxzIJv9weMc) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Live in San Francisco 1977, Vol\. 1 \(HQ Remastered\)](https://open.spotify.com/album/2uk1qcgOFqNsNbF2z9tQ2F) | 0:39 |
 
-Snapshot ID: `aTNyAAAAAACyi1X5Kxr6U8dwwJ7NZgBB`
+Snapshot ID: `aTTDgAAAAAD09uVewe49XKnZY37lQDXE`

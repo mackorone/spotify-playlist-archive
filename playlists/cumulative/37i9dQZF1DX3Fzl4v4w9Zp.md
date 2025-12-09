@@ -4,7 +4,7 @@
 
 > Where roots meet what’s next\. Cover: Foy Vance
 
-914 songs - 2 day 8 hr 9 min
+915 songs - 2 day 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -762,6 +762,7 @@
 | [Texas Moon](https://open.spotify.com/track/3EWI7uja1ZE1GF8qaKH3jO) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Vincent Neil Emerson](https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x) | 3:25 | 2021-12-17 | 2022-11-12 |
 | [Thankful](https://open.spotify.com/track/5nOSZSLwy5k8qpZdtWtXAA) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Thankful](https://open.spotify.com/album/4ndbGpeNneXLCcbfHelFKk) | 3:38 | 2024-11-15 | 2025-11-08 |
 | [That's Gonna Leave a Mark](https://open.spotify.com/track/6TaHuUqCzU3FaWY9Q3ZXko) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [That's Gonna Leave a Mark](https://open.spotify.com/album/4Hv1L5UC4P7x2MMT4utLxn) | 3:37 | 2025-06-06 | 2025-08-16 |
+| [That's Gonna Leave a Mark](https://open.spotify.com/track/1fPfWB4l5HZDFEfl7huivS) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [That's Gonna Leave a Mark](https://open.spotify.com/album/1o2Y4sYcChgOhZujMP2XYc) | 4:03 | 2025-11-21 |  |
 | [The Actor \(feat\. Charles Wesley Godwin\)](https://open.spotify.com/track/2Njx2qH5mUaKXHNvMeQeue) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR), [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [The Actor \(feat\. Charles Wesley Godwin\)](https://open.spotify.com/album/1j9PYG8WzrHfUvrLRTcjXo) | 2:49 | 2025-05-16 | 2025-11-08 |
 | [The Ballad of Sally Anne](https://open.spotify.com/track/2kozuAaT0clm71FtU5bThw) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [The Ballad of Sally Anne](https://open.spotify.com/album/3uc7lb3lx1Ww2XRPBnAJkh) | 3:58 | 2024-02-23 | 2025-07-05 |
 | [The Crowd Goes Wild](https://open.spotify.com/track/5XuaAzE08QYbEKLhEQEtK3) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [The Crowd Goes Wild](https://open.spotify.com/album/2MUgdyyd6Cl0VjplzIn8UE) | 3:34 | 2024-03-29 | 2025-03-08 |

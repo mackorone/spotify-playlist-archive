@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 
 ### [Millennium Hip\-Hop/R&B: Canada](https://open.spotify.com/playlist/37i9dQZF1DX1tOeW0T94Z0)
 
-> Nothing but precious sounds from the 90s & 2000s\. Cover: Kardinal Offishall
+> Nothing but precious sounds from the 90s & 2000s\. Cover: Tamia
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,220 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,222 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Money Pt\. 1](https://open.spotify.com/track/3fBycIyaH4mugmXClwGgr9) | [Jelleestone](https://open.spotify.com/artist/21EIv4m5gbtWQLA9Al9em4) | [Jelleestone Thirteen](https://open.spotify.com/album/3Ce5BkWkseJCTCrKI9KPUA) | 4:19 |
-| 2 | [Smile For Me](https://open.spotify.com/track/6Wr6zw5Njbmez9ADv1R68N) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51) | [Massari](https://open.spotify.com/album/52O0aB268Q9aMJfMCmBOdE) | 4:22 |
-| 3 | [Ol' Time Killin'](https://open.spotify.com/track/43X3PKoTrWnlwDflqY9fVt) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd), [IRS](https://open.spotify.com/artist/6JvriP1azOkMgaD2x8l1DF) | [Quest For Fire: Firestarter Vol\. 1](https://open.spotify.com/album/37hfyOQ5XtPYS3vmKhNXSu) | 4:39 |
-| 4 | [Steppin Thru \(feat\. Moka Only\)](https://open.spotify.com/track/2HeuwaGl0RTrdhZzsIOL5d) | [Swollen Members](https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM) | [Monsters in the Closet](https://open.spotify.com/album/2zaHwAWL8g21luLKss2qXr) | 3:25 |
-| 5 | [Man I Used To Be](https://open.spotify.com/track/1jVudwSMKdHz3Fod2dI5Ma) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Collected](https://open.spotify.com/album/6uNDNflKRjEjnEESQUQrXT) | 3:43 |
-| 6 | [Let's Ride](https://open.spotify.com/track/4xeCHrtDwf5QMRjNHSMukw) | [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS) | [Ice Cold](https://open.spotify.com/album/1NxOhu7pWLESkHyxliwV6m) | 4:21 |
-| 7 | [Old Skool Love](https://open.spotify.com/track/1SmRX4WcNrzqFrWIq7DjfQ) | [Divine Brown](https://open.spotify.com/artist/0quKBMxFPX36JhyGmNOZKa) | [Divine Brown](https://open.spotify.com/album/3K24bok5VUzwODkd6MzqNC) | 3:24 |
-| 8 | [Still Believe in Love](https://open.spotify.com/track/5GcRGfXAsjnzDqRB3Qz0un) | [jacksoul](https://open.spotify.com/artist/3xEW8BqMGXWkxTZbQhtnLE) | [Resurrected](https://open.spotify.com/album/5MQcm3NqGGIxHPpqwupuXy) | 3:36 |
-| 9 | [Into You \(feat\. Fabolous\)](https://open.spotify.com/track/0ceeRNqbOzRiGE42KWSrRa) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:54 |
+| 1 | [Into You \(feat\. Fabolous\)](https://open.spotify.com/track/0ceeRNqbOzRiGE42KWSrRa) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:54 |
+| 2 | [Still Believe in Love](https://open.spotify.com/track/5GcRGfXAsjnzDqRB3Qz0un) | [jacksoul](https://open.spotify.com/artist/3xEW8BqMGXWkxTZbQhtnLE) | [Resurrected](https://open.spotify.com/album/5MQcm3NqGGIxHPpqwupuXy) | 3:36 |
+| 3 | [Old Skool Love](https://open.spotify.com/track/1SmRX4WcNrzqFrWIq7DjfQ) | [Divine Brown](https://open.spotify.com/artist/0quKBMxFPX36JhyGmNOZKa) | [Divine Brown](https://open.spotify.com/album/3K24bok5VUzwODkd6MzqNC) | 3:24 |
+| 4 | [Money Pt\. 1](https://open.spotify.com/track/3fBycIyaH4mugmXClwGgr9) | [Jelleestone](https://open.spotify.com/artist/21EIv4m5gbtWQLA9Al9em4) | [Jelleestone Thirteen](https://open.spotify.com/album/3Ce5BkWkseJCTCrKI9KPUA) | 4:19 |
+| 5 | [Smile For Me](https://open.spotify.com/track/6Wr6zw5Njbmez9ADv1R68N) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51) | [Massari](https://open.spotify.com/album/52O0aB268Q9aMJfMCmBOdE) | 4:22 |
+| 6 | [Ol' Time Killin'](https://open.spotify.com/track/43X3PKoTrWnlwDflqY9fVt) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd), [IRS](https://open.spotify.com/artist/6JvriP1azOkMgaD2x8l1DF) | [Quest For Fire: Firestarter Vol\. 1](https://open.spotify.com/album/37hfyOQ5XtPYS3vmKhNXSu) | 4:39 |
+| 7 | [Steppin Thru \(feat\. Moka Only\)](https://open.spotify.com/track/2HeuwaGl0RTrdhZzsIOL5d) | [Swollen Members](https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM) | [Monsters in the Closet](https://open.spotify.com/album/2zaHwAWL8g21luLKss2qXr) | 3:25 |
+| 8 | [Man I Used To Be](https://open.spotify.com/track/1jVudwSMKdHz3Fod2dI5Ma) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Collected](https://open.spotify.com/album/6uNDNflKRjEjnEESQUQrXT) | 3:43 |
+| 9 | [Let's Ride](https://open.spotify.com/track/4xeCHrtDwf5QMRjNHSMukw) | [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS) | [Ice Cold](https://open.spotify.com/album/1NxOhu7pWLESkHyxliwV6m) | 4:21 |
 | 10 | [Bring It Home](https://open.spotify.com/track/5yI6BchTdUhyXpAoYvM4aR) | [Swollen Members](https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM), [Madchild](https://open.spotify.com/artist/2mOzrayQHznyyCwOcGGHOr), [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [Bad Dreams](https://open.spotify.com/album/1CGFeeLL6owKpbxTuZ8Rje) | 3:14 |
 | 11 | [Pressure](https://open.spotify.com/track/5s98t8Fgnios2RhGMIC0hi) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Juno Awards 2008](https://open.spotify.com/album/31mShyZYlhE6zTzVGWznPu) | 4:34 |
 | 12 | [Let Your Backbone Slide](https://open.spotify.com/track/6Vzm5bCCbFSajEn8pxgpPC) | [Maestro](https://open.spotify.com/artist/6XyhnscgzT0F0ZBvYuSXat) | [Urban Landmarks 1989\-2005 \(Explicit Version\)](https://open.spotify.com/album/4AZ2GSuFmIqdlJDq5yGQp6) | 4:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 59 | [No Regrets](https://open.spotify.com/track/0y48Vn1QnEnD3evUyFRmCz) | [X\-Quisite](https://open.spotify.com/artist/6AdCSR2BYiv4YyHAr2mijR) | [X\-Quisite](https://open.spotify.com/album/1Nht4EBrdySVyoRI6hYuqf) | 3:25 |
 | 60 | [Let Me f/ KARDINAL OFFISHALL \- Radio Edit](https://open.spotify.com/track/21ufU0oFWoqQzOBcY58gLk) | [Melanie Durrant](https://open.spotify.com/artist/24ugOdZDzBvFLq5MGOZhGg), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Let Me](https://open.spotify.com/album/1D3SvZpse0qZ8CBiNtQvAj) | 3:40 |
 
-Snapshot ID: `AAAAAB37WpIWGFS7XXtM02u5weWZjkV7`
+Snapshot ID: `AAAAAH/BAzJiCFQydSqp5pfViDU/GXkh`

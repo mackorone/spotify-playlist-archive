@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 92518,
+  "num_followers": 92537,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAAAXcL5NFeepttBSD9Xr5VZ1",
+  "snapshot_id": "aTTDgAAAAAAi8EXalsX3nTkHOEdzfkEk",
   "tracks": [
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Local Motion",
-        "url": "https://open.spotify.com/album/3H0eh5wIky3GjF83fRcDT0"
-      },
-      "artists": [
-        {
-          "name": "Pepper",
-          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 232160,
-      "name": "Warning (feat. Stick Figure)",
-      "url": "https://open.spotify.com/track/29JOtyhGMv2gfikATHJlCF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Treasure (with Stick Figure)",
         "url": "https://open.spotify.com/album/5xDZR9z2v4V0oLe4DmT2uS"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 202457,
       "name": "Treasure (with Stick Figure)",
       "url": "https://open.spotify.com/track/3fpOS57qm6u5R0Pfi7JkVO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Local Motion",
+        "url": "https://open.spotify.com/album/3H0eh5wIky3GjF83fRcDT0"
+      },
+      "artists": [
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 232160,
+      "name": "Warning (feat. Stick Figure)",
+      "url": "https://open.spotify.com/track/29JOtyhGMv2gfikATHJlCF"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 279323,
-      "name": "Just Another Dream",
-      "url": "https://open.spotify.com/track/2SELUL4Jt8KtvYdV7Rc1RR"
+      "duration_ms": 255439,
+      "name": "Heartland",
+      "url": "https://open.spotify.com/track/4BG3BJjZ6g2tMOiFaawWEP"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 255439,
-      "name": "Heartland",
-      "url": "https://open.spotify.com/track/4BG3BJjZ6g2tMOiFaawWEP"
+      "duration_ms": 279323,
+      "name": "Just Another Dream",
+      "url": "https://open.spotify.com/track/2SELUL4Jt8KtvYdV7Rc1RR"
     },
     {
       "added_at": null,
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 135584,
-      "name": "Rudeboy Riddim",
-      "url": "https://open.spotify.com/track/0I6a9PuokMxDn6JrBtoUsg"
+      "duration_ms": 234435,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6AOAthWo71IHyLjwPMEXjr"
     },
     {
       "added_at": null,
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 190037,
-      "name": "Dub Style Blues",
-      "url": "https://open.spotify.com/track/7zedJWSRVibgnoj8hheAKl"
+      "duration_ms": 135584,
+      "name": "Rudeboy Riddim",
+      "url": "https://open.spotify.com/track/0I6a9PuokMxDn6JrBtoUsg"
     }
   ],
   "unique_name": "This Is Stick Figure",

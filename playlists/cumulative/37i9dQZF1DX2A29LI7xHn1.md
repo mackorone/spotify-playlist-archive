@@ -2,7 +2,7 @@
 
 ### [Signed XOXO](https://open.spotify.com/playlist/37i9dQZF1DX2A29LI7xHn1)
 
-> Crossing over like Allen I\. Cover: PlaqueBoyMax
+> the sound of your FYP and beyond\. Cover: PlaqueBoyMax
 
 1,535 songs - 3 day 2 hr 6 min
 

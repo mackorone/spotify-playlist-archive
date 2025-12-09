@@ -2,7 +2,7 @@
 
 ### [Club Culture](https://open.spotify.com/playlist/37i9dQZF1DWVXBHEDDpqLs)
 
-> the best cuts from the underground 💎 featuring QRTR
+> the best cuts from the underground 💎 featuring QRTR 💎 mixed by Spotify editors
 
 882 songs - 2 day 14 hr 34 min
 

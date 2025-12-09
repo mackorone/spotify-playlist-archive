@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 337749,
+  "num_followers": 337835,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-11-14 03:03:05",
       "album": {
+        "name": "Won't Back Down",
+        "url": "https://open.spotify.com/album/4rSbStRk8uNhSe1BrUPHII"
+      },
+      "artists": [
+        {
+          "name": "PRINSH",
+          "url": "https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Won't Back Down",
+      "url": "https://open.spotify.com/track/58NXc2BrSHGkkPb1RWabkx"
+    },
+    {
+      "added_at": "2025-11-14 03:03:05",
+      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/2N4sGLe1LBtNTpzr1QIyrn"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 185806,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/0V9bQDxxoMj0oy5LKlc6qm"
-    },
-    {
-      "added_at": "2025-11-14 03:03:05",
-      "album": {
-        "name": "Won't Back Down",
-        "url": "https://open.spotify.com/album/4rSbStRk8uNhSe1BrUPHII"
-      },
-      "artists": [
-        {
-          "name": "PRINSH",
-          "url": "https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Won't Back Down",
-      "url": "https://open.spotify.com/track/58NXc2BrSHGkkPb1RWabkx"
     },
     {
       "added_at": "2025-11-14 03:03:05",
@@ -1019,30 +1019,6 @@
     {
       "added_at": "2025-11-14 03:03:05",
       "album": {
-        "name": "No Roots (Radio Mix)",
-        "url": "https://open.spotify.com/album/0hL1wrX9moH4mtTTpBcGso"
-      },
-      "artists": [
-        {
-          "name": "RADI\u00d8MATIK",
-          "url": "https://open.spotify.com/artist/0yTp5veHJAyKhfYdvmyh7B"
-        },
-        {
-          "name": "Wolsh",
-          "url": "https://open.spotify.com/artist/0dBHeI1RuLCkzOkTcIXwPm"
-        },
-        {
-          "name": "y'all",
-          "url": "https://open.spotify.com/artist/2OyqFs2P2MTcdExpmZKzub"
-        }
-      ],
-      "duration_ms": 173145,
-      "name": "No Roots (Radio Mix)",
-      "url": "https://open.spotify.com/track/4Zk8WXgdRz6iYVkrYt77nX"
-    },
-    {
-      "added_at": "2025-11-14 03:03:05",
-      "album": {
         "name": "Upside Down",
         "url": "https://open.spotify.com/album/7d9ysVySNJRc1xAYX63ts9"
       },
@@ -1063,6 +1039,30 @@
       "duration_ms": 148551,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/67xGM8XQ3U4GCpSTr5XN9s"
+    },
+    {
+      "added_at": "2025-11-14 03:03:05",
+      "album": {
+        "name": "No Roots (Radio Mix)",
+        "url": "https://open.spotify.com/album/0hL1wrX9moH4mtTTpBcGso"
+      },
+      "artists": [
+        {
+          "name": "RADI\u00d8MATIK",
+          "url": "https://open.spotify.com/artist/0yTp5veHJAyKhfYdvmyh7B"
+        },
+        {
+          "name": "Wolsh",
+          "url": "https://open.spotify.com/artist/0dBHeI1RuLCkzOkTcIXwPm"
+        },
+        {
+          "name": "y'all",
+          "url": "https://open.spotify.com/artist/2OyqFs2P2MTcdExpmZKzub"
+        }
+      ],
+      "duration_ms": 173145,
+      "name": "No Roots (Radio Mix)",
+      "url": "https://open.spotify.com/track/4Zk8WXgdRz6iYVkrYt77nX"
     },
     {
       "added_at": "2025-11-14 03:03:05",

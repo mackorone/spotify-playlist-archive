@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ES6W0ExTX9.md) - [plain]
 
 > Can you survive? Listen to the music from and inspired by FNAF.
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,351 likes - 43 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,650 likes - 43 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

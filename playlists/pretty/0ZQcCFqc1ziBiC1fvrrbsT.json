@@ -1,364 +1,172 @@
 {
   "description": "A playlist of some of our favorite new songs, updated weekly. See our archived playlists for songs from previous weeks.",
-  "num_followers": 12778,
+  "num_followers": 12779,
   "original_name": "BrooklynVegan's Favorite Songs of the Week",
   "owner": {
     "name": "BrooklynVegan",
     "url": "https://open.spotify.com/user/brooklynvegan"
   },
-  "snapshot_id": "AAAX5lG5rNLcPCUmy2YYJLiIAkjqTsVO",
+  "snapshot_id": "AAAX6D9oxnLTRKjWflK75hMVYRiX+ap+",
   "tracks": [
     {
-      "added_at": "2025-11-21 22:09:12",
+      "added_at": "2025-12-08 14:20:12",
       "album": {
-        "name": "Love Is Not Enough",
-        "url": "https://open.spotify.com/album/4Xk05QlbDNsLavcAVfOZBV"
+        "name": "What\u2019s Right?",
+        "url": "https://open.spotify.com/album/0LFDTByH4Mbn5PbBGMPkJO"
       },
       "artists": [
         {
-          "name": "Converge",
-          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
+          "name": "Ratboys",
+          "url": "https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf"
         }
       ],
-      "duration_ms": 142181,
-      "name": "Love Is Not Enough",
-      "url": "https://open.spotify.com/track/4AJJNga5DTEH9AAe8DcLD1"
+      "duration_ms": 314764,
+      "name": "What\u2019s Right?",
+      "url": "https://open.spotify.com/track/2YXDguAdOrvWYIwbPjvAkA"
     },
     {
-      "added_at": "2025-11-21 22:09:12",
+      "added_at": "2025-12-08 14:20:12",
       "album": {
-        "name": "Talkback",
-        "url": "https://open.spotify.com/album/3plrzUt7S60kzn1ImNTux7"
+        "name": "Head is Like a Sinking Stone",
+        "url": "https://open.spotify.com/album/3e38ud0QvEybSeP6fTehXS"
       },
       "artists": [
         {
-          "name": "Robber Robber",
-          "url": "https://open.spotify.com/artist/7kXZ3iTr0blml9QgUdfwGM"
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 129545,
-      "name": "Talkback",
-      "url": "https://open.spotify.com/track/7wH4mf93kZNJU10OTvokSN"
+      "duration_ms": 183327,
+      "name": "Head is Like a Sinking Stone",
+      "url": "https://open.spotify.com/track/0RST1KsKG9fi3UhYkq1xMa"
     },
     {
-      "added_at": "2025-11-21 22:09:12",
+      "added_at": "2025-12-08 14:20:12",
       "album": {
-        "name": "No Comment",
-        "url": "https://open.spotify.com/album/5jMW8JRRvthPDR7qQLNMqb"
+        "name": "Pity Party",
+        "url": "https://open.spotify.com/album/3qLbpaBqBY5ADwKWUhqewC"
       },
       "artists": [
         {
-          "name": "KNEECAP",
-          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+          "name": "Makthaverskan",
+          "url": "https://open.spotify.com/artist/57MIstrTi3Sw9J9yJybN0E"
+        }
+      ],
+      "duration_ms": 216095,
+      "name": "Pity Party",
+      "url": "https://open.spotify.com/track/4Ki9JYwBVY5iaVIXxQX3xk"
+    },
+    {
+      "added_at": "2025-12-08 14:20:12",
+      "album": {
+        "name": "RING THE ALARM",
+        "url": "https://open.spotify.com/album/28NiaM4URrr1SBbJG0WcTV"
+      },
+      "artists": [
+        {
+          "name": "TOMORA",
+          "url": "https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY"
         },
         {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        }
-      ],
-      "duration_ms": 124137,
-      "name": "No Comment",
-      "url": "https://open.spotify.com/track/3VkA16jPKWOs7BIU5AWjyb"
-    },
-    {
-      "added_at": "2025-11-21 22:09:12",
-      "album": {
-        "name": "Necropalace",
-        "url": "https://open.spotify.com/album/24jjlpMa7sAMvXNUtuDrS6"
-      },
-      "artists": [
-        {
-          "name": "Worm",
-          "url": "https://open.spotify.com/artist/5KGJFenkLeQ77WEgKFPnTZ"
-        }
-      ],
-      "duration_ms": 604860,
-      "name": "Necropalace",
-      "url": "https://open.spotify.com/track/7rqQ4OmaNKpJCXfwbwtBD0"
-    },
-    {
-      "added_at": "2025-11-21 22:09:12",
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/0aEwHJdYAqUvpM3WgEGpN1"
-      },
-      "artists": [
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         },
         {
-          "name": "Roc Marciano",
-          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/30pf6a2dADiDoB5DFXSceL"
+      "duration_ms": 331413,
+      "name": "RING THE ALARM",
+      "url": "https://open.spotify.com/track/4ewxZwUwLeMZEMWF1CRLeG"
     },
     {
-      "added_at": "2025-11-21 22:09:12",
+      "added_at": "2025-12-08 14:20:12",
       "album": {
-        "name": "Kingdom Undersea",
-        "url": "https://open.spotify.com/album/3cNwKpbiI2uMmZjV4j7QeC"
+        "name": "Allbarone (Remixes)",
+        "url": "https://open.spotify.com/album/4XzDAejsptBDoFwRs9GCkO"
       },
       "artists": [
         {
-          "name": "Ladytron",
-          "url": "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
-        }
-      ],
-      "duration_ms": 286596,
-      "name": "Kingdom Undersea",
-      "url": "https://open.spotify.com/track/506R8xsRBHIsPc2N1l1Qed"
-    },
-    {
-      "added_at": "2025-11-21 22:09:12",
-      "album": {
-        "name": "Balloon Balloon Balloon",
-        "url": "https://open.spotify.com/album/4rCduWuK1sHdM4TNILadHp"
-      },
-      "artists": [
-        {
-          "name": "Sharp Pins",
-          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
-        }
-      ],
-      "duration_ms": 176812,
-      "name": "Popafangout",
-      "url": "https://open.spotify.com/track/7bEHAHKACvKJNtxdTmm0fG"
-    },
-    {
-      "added_at": "2025-11-21 22:09:12",
-      "album": {
-        "name": "That's My DJ / Heather",
-        "url": "https://open.spotify.com/album/1KpWk4qerhTx1uU1LYJrGd"
-      },
-      "artists": [
-        {
-          "name": "Esther Rose",
-          "url": "https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs"
-        }
-      ],
-      "duration_ms": 334133,
-      "name": "That's My DJ",
-      "url": "https://open.spotify.com/track/5UYrXqoasfJSq2lpuDK5Qp"
-    },
-    {
-      "added_at": "2025-11-21 22:09:12",
-      "album": {
-        "name": "erer",
-        "url": "https://open.spotify.com/album/3jq2MZ930lWP0fZIyWFWvg"
-      },
-      "artists": [
-        {
-          "name": "Glitterer",
-          "url": "https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj"
-        }
-      ],
-      "duration_ms": 95117,
-      "name": "Remind Me",
-      "url": "https://open.spotify.com/track/0u1ZZMFvTUdzZIZNghwioK"
-    },
-    {
-      "added_at": "2025-11-21 22:09:12",
-      "album": {
-        "name": "Cabin In The Sky",
-        "url": "https://open.spotify.com/album/0yBlUg27MbywASeGd1uNIA"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+          "name": "Baxter Dury",
+          "url": "https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O"
         },
         {
-          "name": "Black Thought",
-          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+          "name": "Marie Davidson",
+          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
         }
       ],
-      "duration_ms": 259635,
-      "name": "EN EFF",
-      "url": "https://open.spotify.com/track/42ahjj1S2qs8EGmy55mc6O"
+      "duration_ms": 283809,
+      "name": "Schadenfreude - Marie Davidson Remix",
+      "url": "https://open.spotify.com/track/1hRGrhyHLuGQhRV14RwssY"
     },
     {
-      "added_at": "2025-11-21 22:09:12",
+      "added_at": "2025-12-08 14:20:12",
       "album": {
-        "name": "Total Soul Ignition",
-        "url": "https://open.spotify.com/album/5BoxgBjJC3kPRXgrIGmwDX"
+        "name": "Bus Stop (BEAK> mix)",
+        "url": "https://open.spotify.com/album/0ulTQlBL7xhBxPnFeWqd0F"
       },
       "artists": [
         {
-          "name": "Method Of Doubt",
-          "url": "https://open.spotify.com/artist/4zaK3CcLrM8237aQloqrJ9"
-        }
-      ],
-      "duration_ms": 81253,
-      "name": "Insufficient",
-      "url": "https://open.spotify.com/track/6ApY5aJxrFmErf3fKq1GYU"
-    },
-    {
-      "added_at": "2025-11-21 22:09:12",
-      "album": {
-        "name": "Car Alarm",
-        "url": "https://open.spotify.com/album/0ABpwzOKtmWXEAoVouJ4iA"
-      },
-      "artists": [
-        {
-          "name": "Gladie",
-          "url": "https://open.spotify.com/artist/7CmAu41S1eT28xXF2ocPE6"
-        }
-      ],
-      "duration_ms": 186376,
-      "name": "Car Alarm",
-      "url": "https://open.spotify.com/track/4xkf0UpTYNyIMWuoZoNOjP"
-    },
-    {
-      "added_at": "2025-11-21 22:09:12",
-      "album": {
-        "name": "If We Could Still Be Saved",
-        "url": "https://open.spotify.com/album/2byjAtE9kpRb72iAdceWU0"
-      },
-      "artists": [
-        {
-          "name": "Svalbard",
-          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
-        }
-      ],
-      "duration_ms": 315002,
-      "name": "If We Could Still Be Saved",
-      "url": "https://open.spotify.com/track/6vVZemxAG3HKkmgj2MFXnx"
-    },
-    {
-      "added_at": "2025-11-21 22:09:12",
-      "album": {
-        "name": "T Shirt",
-        "url": "https://open.spotify.com/album/4HR7bBjUtMJgSExIJe1sXa"
-      },
-      "artists": [
-        {
-          "name": "David Byrne",
-          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
-        }
-      ],
-      "duration_ms": 200586,
-      "name": "T Shirt",
-      "url": "https://open.spotify.com/track/0u0xPd6CRdaJK62D6Lo72P"
-    },
-    {
-      "added_at": "2025-11-21 22:09:12",
-      "album": {
-        "name": "Cold Waves",
-        "url": "https://open.spotify.com/album/4Pq32S8smnk8C3a78Aiwks"
-      },
-      "artists": [
-        {
-          "name": "Crooked Fingers",
-          "url": "https://open.spotify.com/artist/6j9elOE3U0Fklu0ATR9nQ0"
+          "name": "Litronix",
+          "url": "https://open.spotify.com/artist/5ncSmmc9BZEaHddQSbeRjZ"
         },
         {
-          "name": "Mac McCaughan",
-          "url": "https://open.spotify.com/artist/3pLUCmcxLXGeLoYI5rw3O4"
+          "name": "Beak>",
+          "url": "https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6"
         }
       ],
-      "duration_ms": 201188,
-      "name": "Cold Waves",
-      "url": "https://open.spotify.com/track/3urR0kdPCLIr3EaNTtXrHw"
+      "duration_ms": 206235,
+      "name": "Bus Stop - BEAK> mix",
+      "url": "https://open.spotify.com/track/47IV5phGle0MxOW2zcpjZF"
     },
     {
-      "added_at": "2025-11-21 22:09:12",
+      "added_at": "2025-12-08 14:20:12",
       "album": {
-        "name": "This Guy?",
-        "url": "https://open.spotify.com/album/6iTzwTIaLLUUlEt2F6PWCi"
+        "name": "It's Beautiful",
+        "url": "https://open.spotify.com/album/3Apif0SlvxbSJhE98Oj8Qf"
       },
       "artists": [
         {
-          "name": "Hater",
-          "url": "https://open.spotify.com/artist/4Xi4aFTZvoMChGDmSVgxTz"
+          "name": "Water From Your Eyes",
+          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
         }
       ],
-      "duration_ms": 231986,
-      "name": "This Guy?",
-      "url": "https://open.spotify.com/track/685Iv81RGonbi6ZjwlTLHD"
+      "duration_ms": 635440,
+      "name": "Driving Classics, Playing Cars",
+      "url": "https://open.spotify.com/track/0HeNuRjPTuchWcs5iXjQUu"
     },
     {
-      "added_at": "2025-11-21 22:09:12",
+      "added_at": "2025-12-08 14:20:12",
       "album": {
-        "name": "Only Girl",
-        "url": "https://open.spotify.com/album/0JHiCW6hFsIMiHIww3bnDb"
+        "name": "Unclouded",
+        "url": "https://open.spotify.com/album/271W5ka3JqhnoXXP2XOVSG"
       },
       "artists": [
         {
-          "name": "Man/Woman/Chainsaw",
-          "url": "https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ"
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
         }
       ],
-      "duration_ms": 215609,
-      "name": "Only Girl",
-      "url": "https://open.spotify.com/track/5r3AMNwlDPffDLGnTkiGMP"
+      "duration_ms": 197683,
+      "name": "Childhood Dream",
+      "url": "https://open.spotify.com/track/3WTIiMKmQ7OADzbq3BAqiy"
     },
     {
-      "added_at": "2025-11-21 22:09:12",
+      "added_at": "2025-12-08 14:20:12",
       "album": {
-        "name": "Songbird (Forever)",
-        "url": "https://open.spotify.com/album/1M2fe4gcQMz5RtnJnc7f1h"
+        "name": "In The Weeds",
+        "url": "https://open.spotify.com/album/5Etss2Jmd9O574STaamkXa"
       },
       "artists": [
         {
-          "name": "Whitelands",
-          "url": "https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro"
+          "name": "MEMORIALS",
+          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
         }
       ],
-      "duration_ms": 225040,
-      "name": "Songbird (Forever)",
-      "url": "https://open.spotify.com/track/4yfJVBpH5j8JKbdvXHndcG"
-    },
-    {
-      "added_at": "2025-11-21 22:09:12",
-      "album": {
-        "name": "Bad Santa",
-        "url": "https://open.spotify.com/album/2Di4fqheccEADc4js3Wf0B"
-      },
-      "artists": [
-        {
-          "name": "Sleaford Mods",
-          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
-        }
-      ],
-      "duration_ms": 203910,
-      "name": "Bad Santa",
-      "url": "https://open.spotify.com/track/3itmiSzPfp07SokxnsKI2V"
-    },
-    {
-      "added_at": "2025-11-21 22:09:12",
-      "album": {
-        "name": "The Peaks",
-        "url": "https://open.spotify.com/album/4RM8fjf08QwL3bz353V13C"
-      },
-      "artists": [
-        {
-          "name": "Art School Girlfriend",
-          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
-        }
-      ],
-      "duration_ms": 266393,
-      "name": "The Peaks",
-      "url": "https://open.spotify.com/track/05i0ZEreamMoo1NAJTY3sR"
-    },
-    {
-      "added_at": "2025-11-21 22:09:12",
-      "album": {
-        "name": "Scales will fall",
-        "url": "https://open.spotify.com/album/5iY4aaQGf2YUh0Be1ETCek"
-      },
-      "artists": [
-        {
-          "name": "Hen Ogledd",
-          "url": "https://open.spotify.com/artist/1nw6dQQptzvEQ5GtC6HGe4"
-        }
-      ],
-      "duration_ms": 515173,
-      "name": "Scales will fall",
-      "url": "https://open.spotify.com/track/7EUtSTfIkYEMZOxoOgz2Ur"
+      "duration_ms": 257874,
+      "name": "In The Weeds",
+      "url": "https://open.spotify.com/track/5FXQJV5QQL1k9JJNOqW0CR"
     }
   ],
   "unique_name": "BrooklynVegan's Favorite Songs of the Week",

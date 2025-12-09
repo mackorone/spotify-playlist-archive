@@ -4,7 +4,7 @@
 
 > Celebrating LGBTQIA+ artists with highlights from 2025 Cover: kwn
 
-1,661 songs - 3 day 18 hr 0 min
+1,662 songs - 3 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,6 +537,7 @@
 | [GIO5](https://open.spotify.com/track/3agm0QTaqOPXWeZ75Jm4vY) | [VOJTIK](https://open.spotify.com/artist/1rlNlRenBPGW3YXTt9cRSB) | [GIO5](https://open.spotify.com/album/1CpTOeoIxFRPITL32X7V20) | 3:42 | 2025-08-12 | 2025-09-10 |
 | [Girl From The Internet](https://open.spotify.com/track/2mKCMCSH5bNulbg8mU4E2c) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Girl From The Internet](https://open.spotify.com/album/3LjOdj3EPCm6UdyIwzXRnm) | 3:06 | 2021-12-17 | 2022-01-29 |
 | [Girl of Your Dreams](https://open.spotify.com/track/7AVZ2T5nku3TKyZlPPXLEd) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Girl of Your Dreams](https://open.spotify.com/album/7lH9AcAtACrcYMKC6aLoGA) | 3:09 | 2025-06-27 | 2025-10-15 |
+| [GIRLFRIEND](https://open.spotify.com/track/3f0xr2Q1nb2Doss9q8MF1j) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [A SWAN FROM GATORLAND](https://open.spotify.com/album/3MtjlQZORr4832STyNMX4e) | 3:24 | 2025-12-03 |  |
 | [Girlfriend](https://open.spotify.com/track/2mii3Q0tuCBI5DNyt0pBqW) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Girlfriend](https://open.spotify.com/album/1QZMCyEf9XZB52oKGhkqZa) | 3:31 | 2025-12-03 |  |
 | [GIRLS](https://open.spotify.com/track/4qXXw4xhTLGS7UR5l9Lbnr) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [GIRLS](https://open.spotify.com/album/4PGTZhtRo9xokQYxGmBNue) | 3:24 | 2021-12-17 | 2022-01-29 |
 | [Girls](https://open.spotify.com/track/0zZcMcF9JQ6OXuT9BVG4lC) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Unthinkable](https://open.spotify.com/album/1Nvd2bGAy6ofku8h1kOt16) | 2:31 | 2022-05-20 | 2022-07-22 |
@@ -1205,7 +1206,7 @@
 | [Rebel Revolution](https://open.spotify.com/track/1dIFTswy9iCiF2gVVvmwNV) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [Rebel Revolution](https://open.spotify.com/album/4OpD2M4bZ8BMgOkWl7OfxO) | 3:08 | 2022-05-27 | 2022-07-29 |
 | [Recognise](https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Recognise](https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg) | 4:29 | 2025-03-04 | 2025-06-05 |
 | [Record Deal](https://open.spotify.com/track/6FdrYNu0r4XEK2jHTMq6Yx) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Record Deal](https://open.spotify.com/album/6mEUw9i8bI2eXDevJJHiVv) | 3:07 | 2024-12-04 | 2025-03-05 |
-| [RED](https://open.spotify.com/track/6zczxg1gPQ28v8yGjy6fq9) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [RED](https://open.spotify.com/album/4Fj5dzZtzeM2ihL1lsIVJq) | 2:41 | 2025-12-03 |  |
+| [RED](https://open.spotify.com/track/6zczxg1gPQ28v8yGjy6fq9) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [RED](https://open.spotify.com/album/4Fj5dzZtzeM2ihL1lsIVJq) | 2:41 | 2025-12-03 | 2025-12-09 |
 | [Red Flag](https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Red Flag](https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc) | 2:28 | 2023-11-14 | 2023-11-30 |
 | [Red Flag](https://open.spotify.com/track/5jpXb0Xa6Q7nvIsdycyZVj) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5Z22p0gxm4C7o7wZRJ2QTy) | 2:29 | 2024-12-04 | 2025-02-12 |
 | [Red Light](https://open.spotify.com/track/5Vdx4aOHJeOrI5kCMWc36f) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [00:00](https://open.spotify.com/album/2QokmcoSM5SNpFKMf9RuOJ) | 2:26 | 2025-12-03 |  |

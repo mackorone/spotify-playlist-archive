@@ -2921,6 +2921,28 @@
     },
     {
       "album": {
+        "name": "WHAT HAVE WE DONE",
+        "url": "https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "BAKA (Feat. CHANMINA)",
+      "url": "https://open.spotify.com/track/43WXvU5sfCdTjAaNCqwRLT"
+    },
+    {
+      "album": {
         "name": "Show Me the Money 9 Episode 2",
         "url": "https://open.spotify.com/album/1Xo6E0rz2yrkNI7aor5nIE"
       },
@@ -4968,6 +4990,28 @@
       "duration_ms": 257500,
       "name": "Burn",
       "url": "https://open.spotify.com/track/1XcedEIfAAVwV6RS0iDuOj"
+    },
+    {
+      "album": {
+        "name": "find your light : Burn #2",
+        "url": "https://open.spotify.com/album/6FGazgyRqgKI3tmq8Pd0zJ"
+      },
+      "artists": [
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231746,
+      "name": "Burn (Feat. Coogie)",
+      "url": "https://open.spotify.com/track/34BM6TzzctwYSm88scXgRg"
     },
     {
       "album": {
@@ -14144,7 +14188,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 203509,
       "name": "KICK OUT",
       "url": "https://open.spotify.com/track/7uW3IIFXqcvg4VGITyKHko"
@@ -23808,7 +23852,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 173114,
       "name": "Skyscraper (Feat. JUSTHIS)",
       "url": "https://open.spotify.com/track/3IbkyQEyVBdMGGKh3UGnmc"

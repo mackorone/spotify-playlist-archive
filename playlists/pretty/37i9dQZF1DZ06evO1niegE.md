@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 
 > This is RENEE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,806 likes - 47 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,808 likes - 47 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,20 +23,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 13 | [for good \(with RENEE\)](https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [for good \(with RENEE\)](https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H) | 3:02 |
 | 14 | [Indiferentes](https://open.spotify.com/track/6j43RXvbTO5PES3JZxPlGF) | [Dimitri y las brujas](https://open.spotify.com/artist/1k3U6CLxJlkGEL29oGctSr), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [ENTREPUERTAS](https://open.spotify.com/album/6gzZCotIV1zg5nDS7A3dOm) | 2:47 |
 | 15 | [Dame Chance \(Rayuela\)](https://open.spotify.com/track/4cTZXPvu2LB6yev8imUWsU) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 2:32 |
-| 16 | [Cielo en la Tierra](https://open.spotify.com/track/38aJ2Or9JcdyWEYpgtm4BL) | [Edgar Alejandro](https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Cielo en la Tierra](https://open.spotify.com/album/3CvUhTtF9TjUDjPGkeCfb6) | 3:50 |
-| 17 | [Demasiado](https://open.spotify.com/track/1FJoAaOtHPxAtqYVpTc4NJ) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:57 |
+| 16 | [Demasiado](https://open.spotify.com/track/1FJoAaOtHPxAtqYVpTc4NJ) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:57 |
+| 17 | [Cielo en la Tierra](https://open.spotify.com/track/38aJ2Or9JcdyWEYpgtm4BL) | [Edgar Alejandro](https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Cielo en la Tierra](https://open.spotify.com/album/3CvUhTtF9TjUDjPGkeCfb6) | 3:50 |
 | 18 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
 | 19 | [El Disfraz](https://open.spotify.com/track/7iwrVm4GME5VrJM5Xkjpj9) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 2:48 |
-| 20 | [FENGSHUI](https://open.spotify.com/track/164CZjnTexbOglCCrao8jo) | [Maximiliano Calvo](https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [FENGSHUI](https://open.spotify.com/album/4GyPYw8WpzPg3ZB9Daieyh) | 2:42 |
-| 21 | [Tibio](https://open.spotify.com/track/2iqzKoc9YpedaZGWU1S84i) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
+| 20 | [Tibio](https://open.spotify.com/track/2iqzKoc9YpedaZGWU1S84i) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
+| 21 | [FENGSHUI](https://open.spotify.com/track/164CZjnTexbOglCCrao8jo) | [Maximiliano Calvo](https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [FENGSHUI](https://open.spotify.com/album/4GyPYw8WpzPg3ZB9Daieyh) | 2:42 |
 | 22 | [adiós](https://open.spotify.com/track/5J4mARsqns9e3Kuuix4ICn) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [mucho texto](https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba) | 2:58 |
 | 23 | [Fue Por Algo](https://open.spotify.com/track/52RgEhI3p361d16IE63Wbv) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 2:55 |
-| 24 | [Rakata](https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Rakata](https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E) | 3:02 |
-| 25 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
+| 24 | [Algo Bien](https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 2:30 |
+| 25 | [Rakata](https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Rakata](https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E) | 3:02 |
 | 26 | [Viaje Al Amanecer](https://open.spotify.com/track/7HGp5Q22HESHrgu7beOD38) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 3:58 |
 | 27 | [Imperfecto](https://open.spotify.com/track/5V60OhB9WYqDhG8va96eCS) | [Meri Deal](https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Imperfecto](https://open.spotify.com/album/5ldOIiMp33j3EbswWK0Ipv) | 3:01 |
-| 28 | [Bye Boy](https://open.spotify.com/track/2if0GLjlNgA4H5nJ4tQEkT) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Bye Boy](https://open.spotify.com/album/1zHYaWSoIDDI12DM5yEXrc) | 2:58 |
-| 29 | [Hoy Me Siento Bien](https://open.spotify.com/track/4vYUSG43ap8AfnvlVmHb4Y) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 3:10 |
+| 28 | [Hoy Me Siento Bien](https://open.spotify.com/track/4vYUSG43ap8AfnvlVmHb4Y) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 3:10 |
+| 29 | [Bye Boy](https://open.spotify.com/track/2if0GLjlNgA4H5nJ4tQEkT) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Bye Boy](https://open.spotify.com/album/1zHYaWSoIDDI12DM5yEXrc) | 2:58 |
 | 30 | [Bichota \- Spotify Singles](https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Bichota – Spotify Singles](https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq) | 2:37 |
 | 31 | [Como Quisiera](https://open.spotify.com/track/0nqi4NBtXkPbV7AwQzLpJE) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 4:36 |
 | 32 | [Casual \(YTQDV\)](https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Canto Tu Historia \(VOL\. 1\)](https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz) | 3:10 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1niegE.md) - [plain]
 | 46 | [Espero](https://open.spotify.com/track/0V3OIIXCCpNULwcGL5kXP5) | [Tony True and the Tijuana Tres](https://open.spotify.com/artist/0AvWuJUBynDr5nPSoXsLIp), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Antonio El Sincero](https://open.spotify.com/album/1UUdPOgbibHo6m1Z17JeML) | 2:57 |
 | 47 | [Esperándote](https://open.spotify.com/track/39nSeEjpm1bIMM275pSaef) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Breve Espacio](https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw) | 3:46 |
 
-Snapshot ID: `aTNyAAAAAAAxxc2FgGk5D7z9492UgkvC`
+Snapshot ID: `aTTDgAAAAACo8pY8uVpaQhcUJewoVbwb`

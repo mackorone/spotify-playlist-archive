@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 
 > This is Jimi Hendrix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,820 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,834 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 | 49 | [Stone Free / Up From The Skies \- Demo](https://open.spotify.com/track/4V6Br5pVCsC7W2RBzup24Z) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Stone Free / Up From The Skies \(Demo\)](https://open.spotify.com/album/1g5zUvlIAiqHL3LJzNpSGp) | 2:17 |
 | 50 | [Straight Ahead \- Takes 1 & 2](https://open.spotify.com/track/0NNtvGMVxeZtU9jRgNXhjg) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 6:12 |
 
-Snapshot ID: `aTNyAAAAAACsEQ4cMXejriIEtKlz6jv5`
+Snapshot ID: `aTTDgAAAAACEtNoKX6i41Cw1j9WHvM7P`

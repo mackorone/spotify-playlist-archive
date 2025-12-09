@@ -2,9 +2,9 @@
 
 ### [!!!](https://open.spotify.com/playlist/37i9dQZF1DWW1yuCSjnKtM)
 
-> hand\-picked and hot right now 📈 cover: Djo
+> hand\-picked and hot right now 📈 cover: Tyla
 
-767 songs - 1 day 17 hr 51 min
+768 songs - 1 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,7 @@
 | [if u think i'm pretty](https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 2:08 | 2024-02-09 | 2024-04-17 |
 | [if u think i'm pretty](https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u) | 2:08 | 2024-01-23 | 2024-02-12 |
 | [If We Being Rëal](https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:52 | 2024-04-29 | 2024-06-15 |
-| [If You Don't Want This](https://open.spotify.com/track/0WubvB0DnKO1BlJZspiKcT) | [ManLikeTwin](https://open.spotify.com/artist/1fb2GnIxzoYYSCKsm6DCqV) | [If You Don't Want This](https://open.spotify.com/album/6wYjqjs9I9E4uHeL4ifDXD) | 2:33 | 2025-11-06 |  |
+| [If You Don't Want This](https://open.spotify.com/track/0WubvB0DnKO1BlJZspiKcT) | [ManLikeTwin](https://open.spotify.com/artist/1fb2GnIxzoYYSCKsm6DCqV) | [If You Don't Want This](https://open.spotify.com/album/6wYjqjs9I9E4uHeL4ifDXD) | 2:33 | 2025-11-06 | 2025-12-09 |
 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 | 2025-06-20 | 2025-09-16 |
 | [iluv](https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [iluv](https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv) | 4:17 | 2024-03-11 | 2024-04-19 |
 | [In Another World](https://open.spotify.com/track/2TTTiaXJZJn7y4ZC6YGXlv) | [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [In Another World](https://open.spotify.com/album/2PKwr5WeVaZlX6coR33aQ3) | 2:55 | 2025-10-27 | 2025-11-04 |
@@ -710,6 +710,7 @@
 | [Tumblr Girls \(feat\. Christoph Andersson\)](https://open.spotify.com/track/4Fv6wNYUixnYkj3Dgfrls8) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Christoph Andersson](https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED) | [These Things Happen](https://open.spotify.com/album/6wDc63NhKy2PyXdbhkRmrl) | 4:15 | 2024-02-27 | 2024-04-19 |
 | [Tunes Since '89](https://open.spotify.com/track/2Xzgc9BFT2oONrZcD4EW1Y) | [KING BOOO!](https://open.spotify.com/artist/4Qazcx4lvMEqKhOspj4Mb9) | [Tunes Since '89](https://open.spotify.com/album/0AsDiRYtn1RhcM2ahzg8La) | 3:40 | 2025-06-05 | 2025-07-15 |
 | [Turn it up](https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Turn it up](https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0) | 2:27 | 2024-05-24 | 2024-06-22 |
+| [Turn The Lights Off \(feat\. Jon\)](https://open.spotify.com/track/0wHayguZd1CeQDLYohXNMS) | [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Discolized](https://open.spotify.com/album/5ENOV7Wnbalw6341qhXp2f) | 2:57 | 2025-12-08 |  |
 | [TYRANT](https://open.spotify.com/track/5mUlozUYpdmXVPkj4BW8cA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:10 | 2025-06-05 | 2025-08-14 |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-04-09 | 2025-05-17 |
 | [Unhinged](https://open.spotify.com/track/5hvyS23Ya468Sp4VeL48U5) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Unhinged](https://open.spotify.com/album/3NQxrzLOQvUi82RbGIMgIA) | 3:04 | 2025-11-06 | 2025-11-19 |

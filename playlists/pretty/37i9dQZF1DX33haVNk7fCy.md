@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > Dukh Dard Peeda!  🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,381 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,447 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 30 | [Teri Ho Na Saki](https://open.spotify.com/track/4wr3QwOxLqh4uBlHKhtTlx) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Shayad Woh Sune](https://open.spotify.com/album/46DB2EWNmSBSZc5YlCdmCm) | 3:51 |
 | 31 | [Kya Loge Tum](https://open.spotify.com/track/6t7PuZfHAtNGheWisgUq3I) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Kya Loge Tum](https://open.spotify.com/album/76spwPLkGkvPtADGCTkNeT) | 3:53 |
 | 32 | [Mehendi Wale Haath](https://open.spotify.com/track/3H4H5AuUK3t28rJNo1Pbfl) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Mehendi Wale Haath](https://open.spotify.com/album/27tWgZZCTAUBHTS7h2sBhQ) | 3:30 |
-| 33 | [Koi Si](https://open.spotify.com/track/26ku8sJ1rV2gQAEuNs38X6) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Koi Si](https://open.spotify.com/album/6ygmcKWcYou8isVIdje83u) | 3:23 |
-| 34 | [Intezaar](https://open.spotify.com/track/6p2o4ep90wpkh0qzUmyFuO) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Intezaar](https://open.spotify.com/album/71whGqTrr3pCoiAsZx0SAe) | 4:27 |
+| 33 | [Intezaar](https://open.spotify.com/track/6p2o4ep90wpkh0qzUmyFuO) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Intezaar](https://open.spotify.com/album/71whGqTrr3pCoiAsZx0SAe) | 4:27 |
+| 34 | [Koi Si](https://open.spotify.com/track/26ku8sJ1rV2gQAEuNs38X6) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Nirmaan](https://open.spotify.com/artist/3yCmFr0jQ0hRoaEjpp7Clh) | [Koi Si](https://open.spotify.com/album/6ygmcKWcYou8isVIdje83u) | 3:23 |
 | 35 | [Stay](https://open.spotify.com/track/5qMKcWk6Lcuz0t3R9Ed1NO) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Stay](https://open.spotify.com/album/7p609zpBo0lsPEJcXlX9Jr) | 3:39 |
 | 36 | [Aziyat 2.0 \- Reprise Version](https://open.spotify.com/track/3fwyItGexa88kR8j76dIqv) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Aziyat 2.0 \(Reprise Version\)](https://open.spotify.com/album/6Pe9mPc7ynVPgtBWwLVXgL) | 3:14 |
 | 37 | [Kehna Galat Galat](https://open.spotify.com/track/6ZCjqm4QlYPEOtd4GZPKxL) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB) | [Kehna Galat Galat](https://open.spotify.com/album/1dWevVFLLY3djj918zBvx8) | 3:47 |

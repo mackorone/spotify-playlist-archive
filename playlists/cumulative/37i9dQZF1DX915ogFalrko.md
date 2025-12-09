@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-162 songs - 9 hr 43 min
+163 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Anything You Want \- Not That](https://open.spotify.com/track/6sI5m6cabkKWBuDh0kXMKk) | [Belleruche](https://open.spotify.com/artist/4N9nNkpjGuBlGWnYubQI8t) | [The Express](https://open.spotify.com/album/4gDRMgF1lgDHfn8PsYMwEp) | 3:22 | 2025-07-18 |  |
 | [Baby](https://open.spotify.com/track/17XvbAd3K1GOjWy5uQvK2U) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [What Will We Be \(Standard\)](https://open.spotify.com/album/0TrxxY9oApTHWo8QZv8MbI) | 3:05 | 2025-07-18 |  |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-07-18 |  |
+| [Belle âme](https://open.spotify.com/track/0bu7lHmTzz2iBzqbT84olJ) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT), [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [Gringa](https://open.spotify.com/album/1FoTgNV9Gcim0DEPVoQBlX) | 3:07 | 2025-12-04 |  |
 | [Blame](https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA) | 2:50 | 2025-07-18 |  |
 | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk) | 2:59 | 2025-07-18 |  |
 | [BLOOM](https://open.spotify.com/track/7FR31W0Gpfs7s4fLoBV2Go) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [BLOOM](https://open.spotify.com/album/0AduTuWnko3IDC0Oua18qQ) | 2:47 | 2025-07-25 | 2025-08-13 |
@@ -32,7 +33,7 @@
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2025-07-18 |  |
 | [Come and Get Your Love](https://open.spotify.com/track/23hrvdvkIi1X1voQG2bJH9) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Wovoka](https://open.spotify.com/album/7HNboS0n64gNVx0rV3qT6a) | 5:00 | 2025-07-18 |  |
 | [couleur menthe à l'eau](https://open.spotify.com/track/2jAifF3EKOi3uI628cmKC0) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [uplifters](https://open.spotify.com/album/0afPcz0gfOOyLB3yffX7m9) | 3:32 | 2025-07-18 |  |
-| [Creator](https://open.spotify.com/track/1ArcaROoVptChgQuUbsttl) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [10K](https://open.spotify.com/album/212Kb9Hs920AxlxhAo7wAV) | 3:14 | 2025-10-10 |  |
+| [Creator](https://open.spotify.com/track/1ArcaROoVptChgQuUbsttl) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [10K](https://open.spotify.com/album/212Kb9Hs920AxlxhAo7wAV) | 3:14 | 2025-10-10 | 2025-12-09 |
 | [Crush](https://open.spotify.com/track/4e63OHfw9CGC6WLXMvNHWJ) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Precipice](https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x) | 2:31 | 2025-07-25 | 2025-08-02 |
 | [Cry to Me](https://open.spotify.com/track/3SGTB0245ztpWiRN6wQvvI) | [Hailey Tuck](https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse) | [Junk](https://open.spotify.com/album/18FJHVg2pQUU4x2pxuVQ1A) | 2:43 | 2025-07-18 |  |
 | [Dandelions](https://open.spotify.com/track/1fUf8SAn46V1VzyxLs7e6g) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dandelions](https://open.spotify.com/album/5ce2H7wGbz3Fty4IYYPPpw) | 4:09 | 2025-07-18 | 2025-12-08 |

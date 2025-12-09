@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 203113,
+  "num_followers": 203128,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAADaVsJPW9q4osjzCahzuFMu",
+  "snapshot_id": "aTTDgAAAAADpXgqsqzjavDn1pyD1kh1l",
   "tracks": [
     {
       "added_at": null,
@@ -723,6 +723,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wait (feat. A Boogie Wit da Hoodie)",
+        "url": "https://open.spotify.com/album/5hDpkIt9yuU2MYDqzdxBDE"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "Wait (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/0SvxydoxEEkXt9aMAqTfpB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me vs. Myself",
         "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 197666,
       "name": "No Promises",
       "url": "https://open.spotify.com/track/2BJpuAoDeQ1QuPvnryfAWK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wait (feat. A Boogie Wit da Hoodie)",
-        "url": "https://open.spotify.com/album/5hDpkIt9yuU2MYDqzdxBDE"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "Wait (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/0SvxydoxEEkXt9aMAqTfpB"
     },
     {
       "added_at": null,
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "B4 AVA",
+        "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 202133,
+      "name": "Glasses",
+      "url": "https://open.spotify.com/track/3CUqjIsPPuncCJFIydwq5a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Naked",
         "url": "https://open.spotify.com/album/5zahdWRtrECJVVxvOOKLfe"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 163200,
       "name": "Naked (feat. A Boogie wit da Hoodie)",
       "url": "https://open.spotify.com/track/3eLxZnelhb4GtTdbqeW78b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "B4 AVA",
-        "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 202133,
-      "name": "Glasses",
-      "url": "https://open.spotify.com/track/3CUqjIsPPuncCJFIydwq5a"
     },
     {
       "added_at": null,

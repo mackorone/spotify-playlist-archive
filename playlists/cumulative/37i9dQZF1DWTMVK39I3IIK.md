@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  144hz
 
-369 songs - 18 hr 49 min
+370 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Ind I Solen](https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz) | [Kayak](https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz) | [Ind I Solen](https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b) | 3:47 | 2025-11-13 |  |
 | [Ingenting Er Én Ting](https://open.spotify.com/track/1TX8I69pBbZBWjFOUFQFrX) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Hærværk / Mesterværk: Side A](https://open.spotify.com/album/2kLhXQO7TXZNp2fuLrhcRa) | 3:11 | 2025-03-21 | 2025-04-24 |
 | [Ingenting Er Én Ting](https://open.spotify.com/track/2RopGxa0f9Ep4K72j9SSpq) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Hærværk / Mesterværk: Side A](https://open.spotify.com/album/6BmaXJE7BbK7oCJdgkJcsV) | 3:11 | 2025-03-20 | 2025-03-22 |
+| [INTROLUDE](https://open.spotify.com/track/7F6Obrc3MbKxmkLioYyTf3) | [MARQ](https://open.spotify.com/artist/4Cm5pvR59CgfEcAG5wen6x) | [INTROLUDE](https://open.spotify.com/album/3HBPyk4kSeXssiSlqcZXUw) | 3:16 | 2025-11-27 |  |
 | [Jaloux](https://open.spotify.com/track/5XjrY4alxaOIBkQou85wnW) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Jaloux](https://open.spotify.com/album/3mIgrmII5V9ELRviikw1oW) | 2:37 | 2024-06-27 | 2024-10-30 |
 | [Jeg håber \(feat\. Mekdes\)](https://open.spotify.com/track/7grS76cFWGhWDnlkA9DkxO) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ), [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Jeg håber \(feat\. Mekdes\)](https://open.spotify.com/album/6kIp7hgt0wpyZheKKklQrG) | 2:48 | 2025-10-02 |  |
 | [Jeg håber du er træt](https://open.spotify.com/track/4M7fc1XGQ52TYBOuQyVsyR) | [Angående Mig](https://open.spotify.com/artist/7bPVeep0ZjTQUyWx9m1xup) | [Jeg håber du er træt](https://open.spotify.com/album/7F1Oob5IkKadRfsSVESxXG) | 2:51 | 2025-04-17 | 2025-04-25 |
@@ -223,7 +224,7 @@
 | [Mig Og Min Mund](https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Mig Og Min Mund](https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q) | 2:39 | 2024-06-27 |  |
 | [Minder Om Dig](https://open.spotify.com/track/1553ldzhZQvrhS5fgWWve5) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Minder Om Dig](https://open.spotify.com/album/22evEz1GRHMoFBh57DrHkA) | 2:57 | 2025-04-10 | 2025-09-05 |
 | [Mouse Tag](https://open.spotify.com/track/1QVgtD9wGjGQdLLdrQ1dI4) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Musicality](https://open.spotify.com/album/6rcnlJU0yDzWJf59i4SP6X) | 1:46 | 2025-09-18 | 2025-10-10 |
-| [Møntvask](https://open.spotify.com/track/03KN1dxRNaI5A1X0JXKvpP) | [Magnus Ø](https://open.spotify.com/artist/6Nnv81bjs2w1KkRv4eTTnM) | [Møntvask](https://open.spotify.com/album/08bOXvVbQVvTeKEx5Wk1Ts) | 3:06 | 2025-09-11 |  |
+| [Møntvask](https://open.spotify.com/track/03KN1dxRNaI5A1X0JXKvpP) | [Magnus Ø](https://open.spotify.com/artist/6Nnv81bjs2w1KkRv4eTTnM) | [Møntvask](https://open.spotify.com/album/08bOXvVbQVvTeKEx5Wk1Ts) | 3:06 | 2025-09-11 | 2025-12-09 |
 | [Nak Og Æd](https://open.spotify.com/track/0niH1XyGXvtIxa77UvHO53) | [Godt Gået Frej](https://open.spotify.com/artist/2nPa8GSEhLI81oFZA06k7H) | [Nak Og Æd](https://open.spotify.com/album/5CKWRghpo2RXMJegmbvQ7L) | 3:06 | 2025-06-12 | 2025-06-20 |
 | [Ned Fra Månen](https://open.spotify.com/track/0JprUaYDxtSqBqzrG0L0jG) | [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun) | [Ned Fra Månen](https://open.spotify.com/album/17QzIJjOJFtzwAZG6jvdUl) | 2:38 | 2025-02-06 | 2025-02-24 |
 | [Neon Glow](https://open.spotify.com/track/4SjxHOFjy1FJFgxdejdPV9) | [Julie Ellinor](https://open.spotify.com/artist/0Qb0B1f0uVNSiNbT4SAwGi) | [Neon Glow](https://open.spotify.com/album/6jvyLhmGa5UDqDEjTiaom4) | 3:00 | 2024-10-03 | 2024-10-11 |

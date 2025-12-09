@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-923 songs - 2 day 1 hr 11 min
+925 songs - 2 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -360,6 +360,7 @@
 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 | 2024-08-22 |  |
 | [I Only Smoke When I Drink \- Felix Cartal Remix](https://open.spotify.com/track/28pxv5p0mr832PItAfWYe4) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [I Only Smoke When I Drink Remixes](https://open.spotify.com/album/49SdiGWkN6XqxoYeQPHRzd) | 4:15 | 2024-12-05 | 2025-08-13 |
 | [I See Colors](https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [I See Colors](https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh) | 3:12 | 2023-04-13 | 2024-01-06 |
+| [I Still Remember](https://open.spotify.com/track/4IGuNhLfB8m1iLPX79qK8g) | [how2fly](https://open.spotify.com/artist/6pFQJsHFGonpyeIbXOYwkE) | [I Still Remember](https://open.spotify.com/album/2ZZqn5jbldS5aMAMwZkEUM) | 3:23 | 2025-12-08 |  |
 | [i think i'm addicted](https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [i think i'm addicted](https://open.spotify.com/album/6zUJXKpWJGuzb2LrB7t7hG) | 2:38 | 2025-11-28 |  |
 | [I Want To Fly Away \- VisionV Remix](https://open.spotify.com/track/4Z6ilKJcNWgchayQokhp8V) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [I Want To Fly Away \(VisionV Remix\)](https://open.spotify.com/album/1txCRQnTAbwhKguIXaHLEZ) | 2:51 | 2023-11-09 | 2025-08-13 |
 | [I Want You](https://open.spotify.com/track/4EJsOlrrfO2dA9Hy3rwNvn) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [I Want You](https://open.spotify.com/album/7sOHb747Acn8nM3P56vdOn) | 2:55 | 2023-09-21 | 2025-08-13 |
@@ -874,6 +875,7 @@
 | [We Are The Risers](https://open.spotify.com/track/4fmjMZProIFigMcvyOILs6) | [Eli Mich](https://open.spotify.com/artist/1HYEbZ42CBI8MsAa2TdDnj) | [We Are The Risers](https://open.spotify.com/album/0ZZZhM9g4uJKc50ziSWwPm) | 3:24 | 2024-02-01 | 2025-08-13 |
 | [We Don't Ever Stop](https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [We Don’t Ever Stop](https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV) | 2:40 | 2023-04-13 | 2024-01-06 |
 | [We Rise \- CloudNone & Eyezic Remix](https://open.spotify.com/track/0IfJHqvnpRPFKddPS6wlCP) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Eyezic](https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97) | [We Rise \(eyezic & CloudNone Remix\)](https://open.spotify.com/album/5bshx8rUTJDhy1HYZtgCmF) | 3:29 | 2025-02-13 |  |
+| [Weightless](https://open.spotify.com/track/0aruNrdbcZlqrGynYCyEBU) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Arlo](https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW), [Allegra Miles](https://open.spotify.com/artist/2b5HdZgVQ0DhkHrajBgcxu) | [Weightless](https://open.spotify.com/album/5MVi8CiWSQ3kCKs60H0Fj1) | 4:34 | 2025-12-08 |  |
 | [Weightless](https://open.spotify.com/track/3DoPDf9n2BF8uE37D6GZdY) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 4:29 | 2023-09-07 | 2024-01-06 |
 | [Welcome Home](https://open.spotify.com/track/0jkoLMLP2iI8x4VU3hIbIB) | [Propellar](https://open.spotify.com/artist/4fMMVo3egxRy4FQP8KLu1T) | [Welcome Home](https://open.spotify.com/album/4wgnFZm295rOQPS7gffkBZ) | 3:33 | 2025-04-17 |  |
 | [what happens next](https://open.spotify.com/track/2yqtysUu4Zs8cr8S34Px3B) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [what happens next](https://open.spotify.com/album/4kGPS2b7Z527m0RVAXGwCz) | 2:51 | 2024-09-26 | 2025-08-13 |

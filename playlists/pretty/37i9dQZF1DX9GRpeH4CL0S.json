@@ -1,6 +1,6 @@
 {
   "description": "The greatest alternative rock songs through the decades. Cover: Weezer",
-  "num_followers": 814009,
+  "num_followers": 814116,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Black Holes and Revelations",
-        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 212439,
-      "name": "Supermassive Black Hole",
-      "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 201726,
       "name": "R U Mine?",
       "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 212439,
+      "name": "Supermassive Black Hole",
+      "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Permission to Land",
-        "url": "https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM"
-      },
-      "artists": [
-        {
-          "name": "The Darkness",
-          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
-        }
-      ],
-      "duration_ms": 216453,
-      "name": "I Believe in a Thing Called Love",
-      "url": "https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "Make Yourself",
         "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 223746,
       "name": "Pardon Me",
       "url": "https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "Permission to Land",
+        "url": "https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM"
+      },
+      "artists": [
+        {
+          "name": "The Darkness",
+          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "I Believe in a Thing Called Love",
+      "url": "https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "This Is War (Deluxe)",
-        "url": "https://open.spotify.com/album/5nI4Eo1vWUWXzeT4WrzTGL"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 347666,
-      "name": "Kings And Queens",
-      "url": "https://open.spotify.com/track/4z21jCYxdhnEfvgqGSKByQ"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "Nothing's Shocking",
         "url": "https://open.spotify.com/album/4DVBJPJyizvHfJQt5pYaCa"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 287000,
       "name": "Jane Says",
       "url": "https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "This Is War (Deluxe)",
+        "url": "https://open.spotify.com/album/5nI4Eo1vWUWXzeT4WrzTGL"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 347666,
+      "name": "Kings And Queens",
+      "url": "https://open.spotify.com/track/4z21jCYxdhnEfvgqGSKByQ"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -2519,18 +2519,18 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Eyes Open",
-        "url": "https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp"
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
       },
       "artists": [
         {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 267933,
-      "name": "Chasing Cars",
-      "url": "https://open.spotify.com/track/11bD1JtSjlIgKgZG2134DZ"
+      "duration_ms": 237039,
+      "name": "Time is Running Out",
+      "url": "https://open.spotify.com/track/2takcwOaAZWiXQijPHIx7B"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -2551,22 +2551,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Absolution",
-        "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 237039,
-      "name": "Time is Running Out",
-      "url": "https://open.spotify.com/track/2takcwOaAZWiXQijPHIx7B"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "I Should Coco",
         "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
       },
@@ -2579,6 +2563,22 @@
       "duration_ms": 180880,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "Eyes Open",
+        "url": "https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "duration_ms": 267933,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/11bD1JtSjlIgKgZG2134DZ"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -2743,22 +2743,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Speak & Spell (2006 Remaster)",
-        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Just Can't Get Enough - 2006 Remaster",
-      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "Silent Alarm",
         "url": "https://open.spotify.com/album/4KeTvCYCel3Ky58FirciWp"
       },
@@ -2771,6 +2755,22 @@
       "duration_ms": 200400,
       "name": "Banquet",
       "url": "https://open.spotify.com/track/6U5hUX40OWY6l0HaPUWElZ"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "Speak & Spell (2006 Remaster)",
+        "url": "https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Just Can't Get Enough - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -2791,22 +2791,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "Purple",
-        "url": "https://open.spotify.com/album/2vi1ddPi3fY7vePMqxUVob"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 193613,
-      "name": "Interstate Love Song",
-      "url": "https://open.spotify.com/track/1AfYo6cKm3yHsJHdmNoGO1"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "Return To Cookie Mountain",
         "url": "https://open.spotify.com/album/7xn8nwwutlJFMb7Zf9NEHi"
       },
@@ -2823,34 +2807,18 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/0L0mzP8RGm5SNlwgZfBuxW"
+        "name": "Purple",
+        "url": "https://open.spotify.com/album/2vi1ddPi3fY7vePMqxUVob"
       },
       "artists": [
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
         }
       ],
-      "duration_ms": 229093,
-      "name": "Sugar, We're Goin Down",
-      "url": "https://open.spotify.com/track/4zjFqN9fXAw91GNgJOCYX6"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 264066,
-      "name": "Karma Police",
-      "url": "https://open.spotify.com/track/3SVAN3BRByDmHOhKyIDxfC"
+      "duration_ms": 193613,
+      "name": "Interstate Love Song",
+      "url": "https://open.spotify.com/track/1AfYo6cKm3yHsJHdmNoGO1"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -2871,18 +2839,34 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "The Downward Spiral",
-        "url": "https://open.spotify.com/album/3i13RcPnJ0AkHEamweLGhq"
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn"
       },
       "artists": [
         {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 373306,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/39tLc4Xp58Lu4KcWHggeE2"
+      "duration_ms": 264066,
+      "name": "Karma Police",
+      "url": "https://open.spotify.com/track/3SVAN3BRByDmHOhKyIDxfC"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/0L0mzP8RGm5SNlwgZfBuxW"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 229093,
+      "name": "Sugar, We're Goin Down",
+      "url": "https://open.spotify.com/track/4zjFqN9fXAw91GNgJOCYX6"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -2899,6 +2883,22 @@
       "duration_ms": 194520,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/57ZXcBtCZXSg9TVV5xRdnR"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "The Downward Spiral",
+        "url": "https://open.spotify.com/album/3i13RcPnJ0AkHEamweLGhq"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 373306,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/39tLc4Xp58Lu4KcWHggeE2"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -2935,22 +2935,6 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
-        "name": "The Libertines",
-        "url": "https://open.spotify.com/album/4Fpg7zSk9EdANLYiPXd7ri"
-      },
-      "artists": [
-        {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Can't Stand Me Now",
-      "url": "https://open.spotify.com/track/71D4LseR0RADPbyvMeTIHR"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
         "name": "Last Splash",
         "url": "https://open.spotify.com/album/4fyJ3cuyKlSMSw9Q5SAiEx"
       },
@@ -2967,6 +2951,22 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
+        "name": "The Libertines",
+        "url": "https://open.spotify.com/album/4Fpg7zSk9EdANLYiPXd7ri"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Can't Stand Me Now",
+      "url": "https://open.spotify.com/track/71D4LseR0RADPbyvMeTIHR"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
         "name": "Morning View",
         "url": "https://open.spotify.com/album/4FLYVGTsh9tiXOT2uJehkd"
       },
@@ -2979,22 +2979,6 @@
       "duration_ms": 212733,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/61qn7uoDsuswZs5p2DkFiP"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/0L0mzP8RGm5SNlwgZfBuxW"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Dance, Dance",
-      "url": "https://open.spotify.com/track/4QIAVbGpeb5RdAGW66kY2h"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -3027,6 +3011,22 @@
       "duration_ms": 211546,
       "name": "Cute Without the \"E\" (Cut From the Team)",
       "url": "https://open.spotify.com/track/1aYWQrIT8XPdtV4hhUjczN"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/0L0mzP8RGm5SNlwgZfBuxW"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Dance, Dance",
+      "url": "https://open.spotify.com/track/4QIAVbGpeb5RdAGW66kY2h"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -3095,6 +3095,22 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/7KkiEooAVT3EyqQMOl6Iah"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 215626,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/33e9HtOfO1ye1h8xQ7Foc9"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
         "name": "(What's The Story) Morning Glory? (Deluxe Edition) [Remastered]",
         "url": "https://open.spotify.com/album/6ozp33PI3p9AdddB6ZL3xQ"
       },
@@ -3123,22 +3139,6 @@
       "duration_ms": 227813,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/3jBvVySFsir2Cn8kGH90Ah"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/7KkiEooAVT3EyqQMOl6Iah"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "The Cave",
-      "url": "https://open.spotify.com/track/33e9HtOfO1ye1h8xQ7Foc9"
     },
     {
       "added_at": "2025-01-14 01:55:30",
@@ -3175,6 +3175,22 @@
     {
       "added_at": "2025-01-14 01:55:30",
       "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/5OSzFvFAYuRh93WDNCTLEz"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "Pumped up Kicks",
+      "url": "https://open.spotify.com/track/6qj3fVJJ2PcRxpSG7lDPZ5"
+    },
+    {
+      "added_at": "2025-01-14 01:55:30",
+      "album": {
         "name": "Turn On The Bright Lights: The Tenth Anniversary Edition (Remastered)",
         "url": "https://open.spotify.com/album/0YOTy70NrfSFvKAbzLY9GF"
       },
@@ -3203,22 +3219,6 @@
       "duration_ms": 220026,
       "name": "Sweetness",
       "url": "https://open.spotify.com/track/18IqyOGs1pRNZfbMo93r57"
-    },
-    {
-      "added_at": "2025-01-14 01:55:30",
-      "album": {
-        "name": "Phantom Planet",
-        "url": "https://open.spotify.com/album/2SCGBVAtn1Dy0Sgj2ZPm4K"
-      },
-      "artists": [
-        {
-          "name": "Phantom Planet",
-          "url": "https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY"
-        }
-      ],
-      "duration_ms": 193693,
-      "name": "California - Tchad Blake Mix",
-      "url": "https://open.spotify.com/track/1PPwghTeQBBKkEGJrf6noY"
     }
   ],
   "unique_name": "Essential Alternative",

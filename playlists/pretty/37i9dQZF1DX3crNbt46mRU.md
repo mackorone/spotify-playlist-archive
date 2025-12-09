@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Argyle, Ozuna,  Jul, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,252 likes - 103 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,248 likes - 103 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 15 | [Red Eyes](https://open.spotify.com/track/2GAsClEKgfAlU3lyIdCrUK) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Red Eyes](https://open.spotify.com/album/5hwLvoCc9yBVa8Arvv44kW) | 2:33 |
 | 16 | [FÜR LOVE](https://open.spotify.com/track/6yGyP6YyUHztp3m5X3inIc) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [FÜR LOVE](https://open.spotify.com/album/3u6y9kGiq2P9XMwdYua4xE) | 3:24 |
 | 17 | [Labubu Freestyle](https://open.spotify.com/track/7etvmixsXbfoFoX3mYDYx3) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd) | [Labubu Freestyle](https://open.spotify.com/album/4XNrW1y0mE9e1EeAISzsRt) | 2:00 |
-| 18 | [Opeuhh \(feat\. KeBlack\)](https://open.spotify.com/track/3k9Il6m7lJ9qufXyahvEhH) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Auracle](https://open.spotify.com/album/2zRkv0mDlxuIb7ZnQRwNF7) | 1:50 |
+| 18 | [Opeuhh \(feat\. KeBlack\)](https://open.spotify.com/track/3k9Il6m7lJ9qufXyahvEhH) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Auracle](https://open.spotify.com/album/2zRkv0mDlxuIb7ZnQRwNF7) | 2:19 |
 | 19 | [AMBRA \(feat\. Tedua\)](https://open.spotify.com/track/2bzsS7p3b4s6eeZu0ZGQyj) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Musica Triste](https://open.spotify.com/album/0WkQEbjeD5IfLgpbHYb7aN) | 3:05 |
 | 20 | [Rap aus Herzen](https://open.spotify.com/track/6BJSrJ8YAJvy6gancxscVt) | [Aymo](https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Rap aus Herzen](https://open.spotify.com/album/5qJPa6UNET1tynFlB8o1r2) | 1:55 |
 | 21 | [Crazy Crazy](https://open.spotify.com/track/1dKniAOvNaElbWgpVUI0Mx) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Crazy Crazy](https://open.spotify.com/album/7fIUpOMSe3NB1tWYN6cQqQ) | 2:39 |

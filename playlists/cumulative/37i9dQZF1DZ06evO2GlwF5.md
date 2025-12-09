@@ -4,11 +4,11 @@
 
 > This is Maaya Sakamoto\. The essential tracks, all in one playlist.
 
-151 songs - 11 hr 11 min
+152 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [03](https://open.spotify.com/track/59BhhH7f98M7on63nZOHAY) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [少年アリス](https://open.spotify.com/album/5C1IE2qoBSHKwp8U8mlNec) | 5:54 | 2025-12-07 |  |
+| [03](https://open.spotify.com/track/59BhhH7f98M7on63nZOHAY) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [少年アリス](https://open.spotify.com/album/5C1IE2qoBSHKwp8U8mlNec) | 5:54 | 2025-12-07 | 2025-12-09 |
 | [24](https://open.spotify.com/track/46HQYd82YekZQIAXPG2Vmm) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション プラス 「ハチポチ」](https://open.spotify.com/album/2C6AFE7MxD1Cjf0ckFcfJy) | 4:47 | 2022-08-10 | 2022-10-13 |
 | [action!](https://open.spotify.com/track/3TNvQjJyFZyMcxu16b62rW) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション＋　ミツバチ](https://open.spotify.com/album/6RLHiCgqAnKz0yGIO8bDAP) | 4:16 | 2023-04-08 |  |
 | [Anything you wanna be](https://open.spotify.com/track/5Ms1G6UChoo6oI4uIlucXb) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 5:08 | 2023-06-02 | 2024-01-07 |
@@ -98,6 +98,7 @@
 | [トライアングラー](https://open.spotify.com/track/7dLS9A8CcWmL3cB6Rv8grW) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 4:36 | 2022-08-10 |  |
 | [トロイメライ](https://open.spotify.com/track/1LqvM4s2zbYcgd1Px5sJeK) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [今日だけの音楽](https://open.spotify.com/album/2f2QiMAQjOGEBiierxdOI6) | 3:18 | 2023-05-20 | 2023-06-03 |
 | [ハロー、ハロー](https://open.spotify.com/track/0pp6pqriNMqApgFF9sEewj) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [ハロー、ハロー](https://open.spotify.com/album/1GqbTrL7DRHberfR9WXUTp) | 4:29 | 2024-12-02 | 2024-12-15 |
+| [バイク](https://open.spotify.com/track/4BL7AuRh83aAs0KiCdgYKP) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [アルジュナ into the another world](https://open.spotify.com/album/49uGwPXsVfNO8jtV5Hp4dU) | 5:12 | 2025-12-09 |  |
 | [プラチナ](https://open.spotify.com/track/55VpwoQcMWJxXuqqtH6hUY) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション　プラス　「ハチポチ」](https://open.spotify.com/album/2C6AFE7MxD1Cjf0ckFcfJy) | 4:10 | 2024-06-23 | 2025-03-26 |
 | [プラチナ](https://open.spotify.com/track/1NAiiojhfSM62hEar7wVTg) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [カードキャプターさくら　ソングコレクション 1999.4～2001.2](https://open.spotify.com/album/1APIG3mlldR0bmcnzChicR) | 4:11 | 2022-08-10 |  |
 | [ヘミソフィア](https://open.spotify.com/track/2dHrD24YYb37yUjmosVq5S) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション＋　ニコパチ](https://open.spotify.com/album/1IPkAkGZKrtoLucFzeEAIr) | 4:10 | 2022-08-10 |  |

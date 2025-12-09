@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: FIFTY FIFTY
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,624 likes - 127 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,623 likes - 127 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9EM98aZosoy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9EM98aZosoy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9EM98aZosoy)
 
-### [Partyhymnen](https://open.spotify.com/playlist/37i9dQZF1DX9EM98aZosoy)
+### [Party Hits \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX9EM98aZosoy)
 
-> Feiern mit den größten aktuellen und zeitlosen Partyhits.
+> Lass feiern – mit aktuellen Hits und zeitlosen Bangern!
 
 304 songs - 15 hr 6 min
 

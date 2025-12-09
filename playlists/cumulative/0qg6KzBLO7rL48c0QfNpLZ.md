@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,320 songs - 2 day 10 hr 18 min
+1,321 songs - 2 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1291,6 +1291,7 @@
 | [Wherever You Go](https://open.spotify.com/track/1a9Wg1Rtoj6flD9fMkIkVp) | [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X), [SAMI](https://open.spotify.com/artist/59mFA9CYroDi9rpAkEEara) | [Wherever You Go](https://open.spotify.com/album/6xi5iggYYxT2HALbv5FfQE) | 2:29 | 2024-02-02 | 2025-03-08 |
 | [While We're Young](https://open.spotify.com/track/2muEoAwQInHRY4wakaqsuq) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u) | [While We're Young](https://open.spotify.com/album/5wmGAEZqqoWe8AbXDW8uZZ) | 2:26 | 2024-07-05 | 2025-03-14 |
 | [Who Do You Love](https://open.spotify.com/track/6OdcnXIojpHuDM2NFBfwoA) | [Fedders](https://open.spotify.com/artist/3855hpvqzbzC5a2aESi23g), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM) | [Who Do You Love](https://open.spotify.com/album/3Wji1VJEurO045eJ4H92ea) | 3:16 | 2024-08-30 | 2024-11-18 |
+| [Whoop](https://open.spotify.com/track/5YkmdLvb5eKiNCQoJBCjEs) | [Moody Jones](https://open.spotify.com/artist/24FWdrSufRayxwGPvzSFaz) | [Whoop](https://open.spotify.com/album/5vW5OcejX5Q51CU8gICRg3) | 2:48 | 2025-12-08 |  |
 | [Why You Lie](https://open.spotify.com/track/1ulrCTLaTiKa61FRGaAO0F) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn) | [Why You Lie](https://open.spotify.com/album/3iwKrtHMgS9S8aFehqAWAo) | 3:00 | 2024-10-03 | 2025-03-14 |
 | [Wicked Game](https://open.spotify.com/track/68XRsfvwl3hZiGc9rbuMO8) | [Cal1](https://open.spotify.com/artist/25dKyXEZPXG55aaNFQFbaJ), [l'essay](https://open.spotify.com/artist/19X4W851yGGTB4rgz61cBs), [LoudNæss](https://open.spotify.com/artist/3oRaVv5ml3NIVotlPXVl9w) | [Wicked Game](https://open.spotify.com/album/2CBAFqE1YM4PISTL8S1iNr) | 2:37 | 2025-05-30 | 2025-07-05 |
 | [Wicked Game](https://open.spotify.com/track/3GUTO72xMmBI05cHKion9x) | [Fabio Vee](https://open.spotify.com/artist/1KtT51ksm6OrjbhVOUyXMu), [Valentina Mey](https://open.spotify.com/artist/6JbK5mFNIMPcUIfsauhQ4q) | [Wicked Game](https://open.spotify.com/album/5CKOjmssOAhRWr2NzkCkYA) | 2:54 | 2024-08-16 | 2024-12-13 |

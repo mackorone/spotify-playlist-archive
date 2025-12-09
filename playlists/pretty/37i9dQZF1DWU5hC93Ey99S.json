@@ -1,12 +1,12 @@
 {
   "description": "all the stutter, all the feels. ",
-  "num_followers": 210796,
+  "num_followers": 210980,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGUEjy59wvNEr5O3Cd+d2f5USU5I",
+  "snapshot_id": "AAAAAFJyGcnAh1KYU+Sow1fkj4yczu8d",
   "tracks": [
     {
       "added_at": "2025-11-28 15:30:57",
@@ -141,6 +141,30 @@
       "url": "https://open.spotify.com/track/2s2l6JSOu3UveEzIEQdOx4"
     },
     {
+      "added_at": "2025-12-08 10:23:17",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/5MVi8CiWSQ3kCKs60H0Fj1"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        },
+        {
+          "name": "Arlo",
+          "url": "https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW"
+        },
+        {
+          "name": "Allegra Miles",
+          "url": "https://open.spotify.com/artist/2b5HdZgVQ0DhkHrajBgcxu"
+        }
+      ],
+      "duration_ms": 274174,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/0aruNrdbcZlqrGynYCyEBU"
+    },
+    {
       "added_at": "2025-11-28 15:30:57",
       "album": {
         "name": "ABOUT YOU",
@@ -255,6 +279,22 @@
       "duration_ms": 217605,
       "name": "Veil - Edit",
       "url": "https://open.spotify.com/track/1R0ufKhSTgKWhsEAVFoJMJ"
+    },
+    {
+      "added_at": "2025-12-08 10:23:17",
+      "album": {
+        "name": "I Still Remember",
+        "url": "https://open.spotify.com/album/2ZZqn5jbldS5aMAMwZkEUM"
+      },
+      "artists": [
+        {
+          "name": "how2fly",
+          "url": "https://open.spotify.com/artist/6pFQJsHFGonpyeIbXOYwkE"
+        }
+      ],
+      "duration_ms": 203478,
+      "name": "I Still Remember",
+      "url": "https://open.spotify.com/track/4IGuNhLfB8m1iLPX79qK8g"
     },
     {
       "added_at": "2025-11-28 15:30:57",

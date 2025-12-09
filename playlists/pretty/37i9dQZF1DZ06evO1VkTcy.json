@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAAAvQtdX0HqJkjfoDuGawSG2",
+  "snapshot_id": "aTTDgAAAAAA7IxOwHMz6eEztleZGKVqw",
   "tracks": [
     {
       "added_at": null,
@@ -636,10 +636,6 @@
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
           "name": "Pineapple StormTv",
           "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         },
@@ -648,9 +644,9 @@
           "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
         }
       ],
-      "duration_ms": 173291,
-      "name": "Louco Por Voc\u00ea",
-      "url": "https://open.spotify.com/track/79ixyXR5hjLWNdk8ricxAi"
+      "duration_ms": 235987,
+      "name": "Medley Poesia Ac\u00fastica 9, 11",
+      "url": "https://open.spotify.com/track/2LvTfB9Jgh82XMa81Orz5E"
     },
     {
       "added_at": null,
@@ -732,7 +728,7 @@
           "url": "https://open.spotify.com/artist/7kdYYoCudHnWFDFJhYZTJ2"
         },
         {
-          "name": "Analogic Records",
+          "name": "Analogic",
           "url": "https://open.spotify.com/artist/5w7rdQm98KK3C5U6zrnenv"
         }
       ],
@@ -792,6 +788,10 @@
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
           "name": "Pineapple StormTv",
           "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         },
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
         }
       ],
-      "duration_ms": 235987,
-      "name": "Medley Poesia Ac\u00fastica 9, 11",
-      "url": "https://open.spotify.com/track/2LvTfB9Jgh82XMa81Orz5E"
+      "duration_ms": 173291,
+      "name": "Louco Por Voc\u00ea",
+      "url": "https://open.spotify.com/track/79ixyXR5hjLWNdk8ricxAi"
     },
     {
       "added_at": null,
@@ -1083,26 +1083,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deixa Ir",
-        "url": "https://open.spotify.com/album/68JkTr2YMhffcdKmQ5ztL5"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caon",
-          "url": "https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "Deixa Ir",
-      "url": "https://open.spotify.com/track/5hMk6GBvUM3Qi4u0pxugqi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Segredos",
         "url": "https://open.spotify.com/album/2Y81zvDx80eYHjsAMGnDYj"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 238141,
       "name": "Segredos",
       "url": "https://open.spotify.com/track/4J4gCQN4Zc7qy21EPEtCA4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deixa Ir",
+        "url": "https://open.spotify.com/album/68JkTr2YMhffcdKmQ5ztL5"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caon",
+          "url": "https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "Deixa Ir",
+      "url": "https://open.spotify.com/track/5hMk6GBvUM3Qi4u0pxugqi"
     },
     {
       "added_at": null,
@@ -1359,6 +1359,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tudo Vai Mudar",
+        "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
+      },
+      "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        }
+      ],
+      "duration_ms": 173553,
+      "name": "Tudo Vai Mudar",
+      "url": "https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poetisas No Topo 2",
         "url": "https://open.spotify.com/album/16uPlD73yxyVijz6qPdYVu"
       },
@@ -1399,30 +1423,6 @@
       "duration_ms": 556662,
       "name": "Poetisas No Topo 2",
       "url": "https://open.spotify.com/track/00LRPoVKWNm7OxeX4TvC8y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tudo Vai Mudar",
-        "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
-      },
-      "artists": [
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        }
-      ],
-      "duration_ms": 173553,
-      "name": "Tudo Vai Mudar",
-      "url": "https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829"
     },
     {
       "added_at": null,

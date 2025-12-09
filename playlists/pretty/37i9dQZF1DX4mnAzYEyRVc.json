@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Tokyo Ska Paradise Orchestra \n",
-  "num_followers": 65954,
+  "num_followers": 65982,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -535,26 +535,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "L\u00e1grimas y Risas",
-        "url": "https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        },
-        {
-          "name": "Madame R\u00e9camier",
-          "url": "https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD"
-        }
-      ],
-      "duration_ms": 233253,
-      "name": "Ciegos de Amor",
-      "url": "https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "Terc3ra Llamada",
         "url": "https://open.spotify.com/album/1Z9CbGMQmKWqsfkcF64VOG"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 224669,
       "name": "Adi\u00f3s adi\u00f3s",
       "url": "https://open.spotify.com/track/0ykwpOJjcAa6qKkK8P9TLF"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "L\u00e1grimas y Risas",
+        "url": "https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        },
+        {
+          "name": "Madame R\u00e9camier",
+          "url": "https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD"
+        }
+      ],
+      "duration_ms": 233253,
+      "name": "Ciegos de Amor",
+      "url": "https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Magam sem tudom",
-        "url": "https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r"
-      },
-      "artists": [
-        {
-          "name": "Bohemian Betyars",
-          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
-        }
-      ],
-      "duration_ms": 190335,
-      "name": "Magam sem tudom",
-      "url": "https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "En La Tormenta",
         "url": "https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 181870,
       "name": "Cuando Salga El Sol",
       "url": "https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "Magam sem tudom",
+        "url": "https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r"
+      },
+      "artists": [
+        {
+          "name": "Bohemian Betyars",
+          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
+        }
+      ],
+      "duration_ms": 190335,
+      "name": "Magam sem tudom",
+      "url": "https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "A Frontline Compilation",
-        "url": "https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO"
-      },
-      "artists": [
-        {
-          "name": "Kortatu",
-          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
-        }
-      ],
-      "duration_ms": 245853,
-      "name": "Sarri, Sarri",
-      "url": "https://open.spotify.com/track/3Ikl1NP2ZnR2QktOqkdQfi"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "Rudy Come Home",
         "url": "https://open.spotify.com/album/4BXqCarGoMoEtcD0hrnuxq"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 240429,
       "name": "Rudy Come Home",
       "url": "https://open.spotify.com/track/6tRydI62ouOLxHAIPMv9tZ"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "A Frontline Compilation",
+        "url": "https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO"
+      },
+      "artists": [
+        {
+          "name": "Kortatu",
+          "url": "https://open.spotify.com/artist/2bSQxEqvD23Y4W6ztHaann"
+        }
+      ],
+      "duration_ms": 245853,
+      "name": "Sarri, Sarri",
+      "url": "https://open.spotify.com/track/3Ikl1NP2ZnR2QktOqkdQfi"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
+        "name": "STAY YOUNG STAY PUNK",
+        "url": "https://open.spotify.com/album/7k8Bm7SqifQOJK9iGvCT76"
+      },
+      "artists": [
+        {
+          "name": "FIVE STATE DRIVE",
+          "url": "https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "STAY YOUNG STAY PUNK",
+      "url": "https://open.spotify.com/track/1vkAooo0F2HolXGWOnu31C"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
         "name": "The Story So Far...",
         "url": "https://open.spotify.com/album/2zFiJYNXXIZy73w60kNmEg"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 210164,
       "name": "Qui\u00e9n devuelve el tiempo?",
       "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
-        "name": "STAY YOUNG STAY PUNK",
-        "url": "https://open.spotify.com/album/7k8Bm7SqifQOJK9iGvCT76"
-      },
-      "artists": [
-        {
-          "name": "FIVE STATE DRIVE",
-          "url": "https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "STAY YOUNG STAY PUNK",
-      "url": "https://open.spotify.com/track/1vkAooo0F2HolXGWOnu31C"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "En la Kalle",
-        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Skalari Rude Klub (SRK)",
-      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "Fade Out",
         "url": "https://open.spotify.com/album/246aiCAYETMSFcm9oxUVt1"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
+        "name": "En la Kalle",
+        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Skalari Rude Klub (SRK)",
+      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
         "name": "Random Hand",
         "url": "https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC"
       },
@@ -1267,26 +1267,6 @@
       "duration_ms": 192193,
       "name": "Devil With a Microphone",
       "url": "https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
-        "name": "Paz y Baile",
-        "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
-      },
-      "artists": [
-        {
-          "name": "Roco Pachukote",
-          "url": "https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA"
-        },
-        {
-          "name": "Flavio Cianciarulo",
-          "url": "https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3"
-        }
-      ],
-      "duration_ms": 218750,
-      "name": "Paz y Baile",
-      "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1311,6 +1291,26 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
+        "name": "Paz y Baile",
+        "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
+      },
+      "artists": [
+        {
+          "name": "Roco Pachukote",
+          "url": "https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA"
+        },
+        {
+          "name": "Flavio Cianciarulo",
+          "url": "https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3"
+        }
+      ],
+      "duration_ms": 218750,
+      "name": "Paz y Baile",
+      "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
         "name": "Endlich auf Reise",
         "url": "https://open.spotify.com/album/56iStpgUMwWK6rO1WxjlRs"
       },
@@ -1323,6 +1323,22 @@
       "duration_ms": 179446,
       "name": "Endlich auf Reise",
       "url": "https://open.spotify.com/track/6MiKb3SOL9Ieht1bDJAEK9"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/048fR8LNv0By4skCQYeDyG"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5YY4YVwf4pOfqARgCRVviB"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1343,22 +1359,6 @@
       "duration_ms": 151191,
       "name": "Leven Het Groots",
       "url": "https://open.spotify.com/track/3WaWlhDgXD8ljeO3dqQd3q"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
-        "name": "Radio Ghetto",
-        "url": "https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "Despideme",
-      "url": "https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/048fR8LNv0By4skCQYeDyG"
+        "name": "Radio Ghetto",
+        "url": "https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ"
       },
       "artists": [
         {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
         }
       ],
-      "duration_ms": 164333,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5YY4YVwf4pOfqARgCRVviB"
+      "duration_ms": 198053,
+      "name": "Despideme",
+      "url": "https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1427,6 +1427,22 @@
       "duration_ms": 197586,
       "name": "No Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/05oVLw37812S2eoTVetosi"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "Brass Emo, Vol. 2",
+        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Ocean Avenue",
+      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1515,6 +1531,22 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
+        "name": "El \u00c1tico",
+        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
+      },
+      "artists": [
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "El \u00c1tico",
+      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
         "name": "Shellshock",
         "url": "https://open.spotify.com/album/1UWTes4uVkRcGJeEKCBw4x"
       },
@@ -1535,22 +1567,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "El \u00c1tico",
-        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
-      },
-      "artists": [
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "El \u00c1tico",
-      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "Mudik",
         "url": "https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 255500,
       "name": "Mudik",
       "url": "https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
-        "name": "Brass Emo, Vol. 2",
-        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Ocean Avenue",
-      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
     },
     {
       "added_at": "2025-10-03 00:00:35",

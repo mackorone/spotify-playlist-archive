@@ -4,7 +4,7 @@
 
 > 
 
-1,249 songs - 2 day 16 hr 47 min
+1,250 songs - 2 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [All Work](https://open.spotify.com/track/0GNbF413D1n8yS2vLpOBhl) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Back at Burnie’s](https://open.spotify.com/album/2sWApfoBIZpXEYPFCeIiBn) | 2:30 | 2025-08-14 |  |
 | [Alone](https://open.spotify.com/track/1BuN2kMDQrXhS73RrTNRyY) | [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [Alone](https://open.spotify.com/album/15Yomku18T30aig4W9l7dY) | 3:44 | 2022-11-01 | 2023-03-01 |
 | [Alter Ego](https://open.spotify.com/track/5LDdlwdDIILBwIcoCrdMTo) | [RTB MB](https://open.spotify.com/artist/6MchyBkv0DmhCIP7kBLx5o), [GlockBoyz Teejaee](https://open.spotify.com/artist/53t9roZkWltf6zIcSHHFET) | [Alter Ego](https://open.spotify.com/album/7AoMYMDk8WjQ95TVEudUaD) | 2:21 | 2022-09-12 | 2023-12-14 |
+| [Amanecer](https://open.spotify.com/track/0esl5kXcV6xKZZjcyTtInJ) | [Gerry Garcia](https://open.spotify.com/artist/3JBqGOnpdinzeD7sSMyiU4) | [Amanecer](https://open.spotify.com/album/3VkuGo7ePsX2G7pIzheJPI) | 2:45 | 2025-12-08 |  |
 | [Ampd Up \(feat\. Mouse On Tha Track\)](https://open.spotify.com/track/2mbzyuS4fL72fHrmiWObXQ) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Mouse On Tha Track](https://open.spotify.com/artist/26PDNPSOkjZowzVM563lKx) | [3800 Degrees](https://open.spotify.com/album/1gDwjnGfTH7BSqtc4y7AiL) | 2:45 | 2022-10-07 | 2024-03-05 |
 | [And I Gangbang](https://open.spotify.com/track/5VIcIdLfWpNZKjlUGcC17y) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 2:13 | 2024-10-03 | 2025-05-21 |
 | [Animal Instinct \(feat\. Ty Nitty & Gambino\)](https://open.spotify.com/track/2AeVg9Nf6dAHweYkDowG1J) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Ty Nitty](https://open.spotify.com/artist/1kyDI05lYZzpa3jr7ZorlJ), [Gambino](https://open.spotify.com/artist/7fjyYTTFsOknoLNTRTYdeR) | [Hell On Earth](https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5) | 3:29 | 2024-05-23 | 2024-11-06 |

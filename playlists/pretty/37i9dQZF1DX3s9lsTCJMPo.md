@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 
 > Nothing but the classics, the best in Soca anthems from the Caribbean\. Cover: Kes
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,531 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,541 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 6 | [Cocoa Tea](https://open.spotify.com/track/1x89dD1bENfCHL6MiZurDI) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Cocoa Tea](https://open.spotify.com/album/4bKlTsxPKoojrBks3j7JSL) | 3:31 |
 | 7 | [Lucy](https://open.spotify.com/track/3xpnKNuV6IZxgMIIJLeLKX) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Bakanation](https://open.spotify.com/album/2aPaDJnf3chCoEIZIEIHXd) | 3:30 |
 | 8 | [Market](https://open.spotify.com/track/3kJhNQs72SY6jeEAwaS3vl) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Market](https://open.spotify.com/album/5wAkMu3TxTg0GCn05hkAb1) | 3:16 |
-| 9 | [Bamcie](https://open.spotify.com/track/3vD7VUNEdpFhgZ1C0mSRzL) | [Added Rankin](https://open.spotify.com/artist/1v6UUdPKZmQFj3OxaXVlgp), [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [Bamcie](https://open.spotify.com/album/61PFuSvjRRQ7MR1HZZvq4W) | 3:01 |
+| 9 | [Come Home](https://open.spotify.com/track/4OFdzr4mlBC7YK8XwJqwIx) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Come Home](https://open.spotify.com/album/0HHOQolYzlGQ4DTqzAtdk7) | 4:18 |
 | 10 | [Tempa Wine](https://open.spotify.com/track/3Avzp1YbcTfzdfxnNiE7yi) | [Patrice Roberts feat\. Machel Montano](https://open.spotify.com/artist/0UL2uhiP1mIwbabDH7JDtV) | [Feels Nas Straight from Bim Vol.2](https://open.spotify.com/album/7bJdNEMmVsuGgWY7POIYK0) | 3:43 |
 | 11 | [Tack Back](https://open.spotify.com/track/1dljakKZ9HCzicqedgMuhG) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1) | [Man With No Door](https://open.spotify.com/album/1MS5QTc5isnW4DGXNVm1PZ) | 3:17 |
 | 12 | [PARDY](https://open.spotify.com/track/3HgSn2nlDVwnvlStwaA19M) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [PARDY](https://open.spotify.com/album/09Z0OQdv4Xbks9MOjO51VL) | 3:42 |
 | 13 | [I Dare You](https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 3:32 |
 | 14 | [Catching Feelings](https://open.spotify.com/track/5fA679L7UruZkmA7EorEuJ) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [In My Feelings](https://open.spotify.com/album/7cUTMtzLnLjf3WFd0ctyDF) | 3:07 |
-| 15 | [Come Home](https://open.spotify.com/track/4OFdzr4mlBC7YK8XwJqwIx) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Come Home](https://open.spotify.com/album/0HHOQolYzlGQ4DTqzAtdk7) | 4:18 |
+| 15 | [Bamcie](https://open.spotify.com/track/3vD7VUNEdpFhgZ1C0mSRzL) | [Added Rankin](https://open.spotify.com/artist/1v6UUdPKZmQFj3OxaXVlgp), [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [Bamcie](https://open.spotify.com/album/61PFuSvjRRQ7MR1HZZvq4W) | 3:01 |
 | 16 | [Savannah Grass](https://open.spotify.com/track/7omZHNEajQwaO6ApVFrjAy) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Savannah Grass](https://open.spotify.com/album/7mAs5zDNcL6GwcfIudCSl0) | 2:59 |
 | 17 | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g) | 3:22 |
 | 18 | [Trini 2 De Bone](https://open.spotify.com/track/37U6SWpjdUNLmdbneCeVSP) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [Blessed](https://open.spotify.com/album/6Vs1g73yt4Jd2pNnM5LJna) | 4:55 |
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s9lsTCJMPo.md) - [plain]
 | 26 | [Take That And Cool It](https://open.spotify.com/track/3E5QSlr9d88EUkpCpmRRAy) | [Nigel Lewis](https://open.spotify.com/artist/1HBWca70vmbDcbUlj4mD9F) | [Soca Gold 1999](https://open.spotify.com/album/7lXYYWgiMYKniPNTPMPGux) | 3:21 |
 | 27 | [Workey Workey](https://open.spotify.com/track/7vaNB9GdsURzeSEJ5uXldO) | [Burning Flames](https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv) | [Soca 101 Vol\. 4](https://open.spotify.com/album/7IMqYTm43qRRCrJ47vPo8H) | 5:31 |
 | 28 | [Sing In The Party](https://open.spotify.com/track/02KBvh3N2OobcJebwyHGJJ) | [Scrunter](https://open.spotify.com/artist/4fcEF7tAojSzwIeOfj7sqd) | [Soca Gold](https://open.spotify.com/album/1esm7dLptV1ALm7ItdTUlw) | 5:52 |
-| 29 | [Calypso Music](https://open.spotify.com/track/4dwCppS8jnWDzDUSH8hYBG) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 7:13 |
+| 29 | [The Hammer](https://open.spotify.com/track/5YpbrgU7v8QalNZJv1B9fY) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 5:09 |
 | 30 | [Breathless \(feat\. Blaxx\)](https://open.spotify.com/track/1BYZZxsZGMAxzG2sMjby0l) | [Roy Cape](https://open.spotify.com/artist/7zuD83ulzU9ikDKy7uOwHL), [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 3:17 |
 | 31 | [Feels Like I'm Home Again](https://open.spotify.com/track/1rd1OgVjWmyY0MXya8oDRq) | [Edwin Yearwood](https://open.spotify.com/artist/0QL8EzrRciKCQ9LUy1ZbMe) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:13 |
 | 32 | [Doh Back Back](https://open.spotify.com/track/43P9uBVBo2Vpc7XsmJNBhq) | [Sparrow](https://open.spotify.com/artist/6sEmGgkNrUVlZLhfBuWt5H) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 6:12 |
 | 33 | [Get On](https://open.spotify.com/track/20xMfsI1oNOxRRPmz6isyA) | [Fay\-Ann Lyons](https://open.spotify.com/artist/3FaDIXA3ByDklrL4mcoCYb) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:03 |
-| 34 | [The Hammer](https://open.spotify.com/track/5YpbrgU7v8QalNZJv1B9fY) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 5:09 |
+| 34 | [Calypso Music](https://open.spotify.com/track/4dwCppS8jnWDzDUSH8hYBG) | [David Rudder](https://open.spotify.com/artist/56LHUp2Q0S83IaayCWNavq) | [The Gilded Collection 1986 \- 1989](https://open.spotify.com/album/0CzxSJnapStc3Yh2rEst7H) | 7:13 |
 | 35 | [Tay Lay Lay](https://open.spotify.com/track/134k1h3GaQ8QZY6XnnjCLu) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Caribbean Road March 2001 and More](https://open.spotify.com/album/2FxiaiO16VA04ZUnhJo9NP) | 4:33 |
 | 36 | [Soka Junkie](https://open.spotify.com/track/6fuR9OzQAkEE4IA5TkjQBz) | [Mr\. Dale](https://open.spotify.com/artist/63MhCRdpN7I70vaMAaNFtD) | [Soca Gold 2008](https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT) | 4:14 |
 | 37 | [N.O.W\. \(No One Waiting\)](https://open.spotify.com/track/0dENBYxK7LjyqCC2fSN9tR) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t), [Destra Garcia](https://open.spotify.com/artist/288xQS2bj5XdAQNF3MghLp) | [In My Feelings](https://open.spotify.com/album/7cUTMtzLnLjf3WFd0ctyDF) | 3:36 |

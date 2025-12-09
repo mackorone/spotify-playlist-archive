@@ -4,7 +4,7 @@
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: Gecko&Tokage Parade
 
-149 songs - 11 hr 14 min
+150 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [DeLorean](https://open.spotify.com/track/53SLUB2mNAQVI9hUKwszSh) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [VISTA](https://open.spotify.com/album/1UDy7qEXkyK2KElMKpaeoS) | 6:16 | 2023-03-14 | 2023-11-21 |
 | [Dig Deep \(feat.Jairo）](https://open.spotify.com/track/0Na5bpStCY4VVDshwfBjLm) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Jairo](https://open.spotify.com/artist/7Me7P1y6x4I5xkHkCEkfpM) | [Dig Deep \(feat\. Jairo\)](https://open.spotify.com/album/4QWMRK9NfzqyYKXTkN2Z85) | 4:30 | 2025-03-04 | 2025-05-25 |
 | [Disordered Trip](https://open.spotify.com/track/1TL5dclhMJ7Be0qnTKZ2oe) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Disordered Trip](https://open.spotify.com/album/0p4X5GGQHPJdgfvJ8NOEL1) | 3:57 | 2023-03-14 | 2024-09-19 |
-| [Down In The Village](https://open.spotify.com/track/7y8YT71woP61vMze8Lwf4N) | [Quasimode](https://open.spotify.com/artist/5vLyvkGLk9d9hp9LRQ8RqD) | [Oneself Likeness](https://open.spotify.com/album/5gN1A4s7Rb7CSnLzMQ77dG) | 6:30 | 2024-09-18 |  |
+| [Down In The Village](https://open.spotify.com/track/7y8YT71woP61vMze8Lwf4N) | [Quasimode](https://open.spotify.com/artist/5vLyvkGLk9d9hp9LRQ8RqD) | [Oneself Likeness](https://open.spotify.com/album/5gN1A4s7Rb7CSnLzMQ77dG) | 6:30 | 2024-09-18 | 2025-12-09 |
 | [Dusty Future](https://open.spotify.com/track/6cAta8msp0eKUgnlZmMf6D) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Dusty Future / Struggle](https://open.spotify.com/album/0LZj4iT1RGAR5IpkVTCuSL) | 3:41 | 2024-11-26 | 2025-02-21 |
 | [Echoes](https://open.spotify.com/track/6E4NJHE0TEuMsCOIddyJSQ) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Echoes](https://open.spotify.com/album/3g6bR9rpjAQExzVXH6zFDP) | 4:05 | 2023-03-14 | 2024-09-19 |
 | [El Ron Zacapa](https://open.spotify.com/track/0dKSWyTR0mgslrs3hBEsDC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [Aromatic](https://open.spotify.com/album/3sZ9DqY8pBuWfcR4SvKxkN) | 4:54 | 2025-02-20 |  |
@@ -107,6 +107,7 @@
 | [Slow Motion Town](https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Ovall](https://open.spotify.com/album/39LUARqc9kTewrotoWGHId) | 3:25 | 2023-03-14 |  |
 | [Sol Levante](https://open.spotify.com/track/41vry8lPln1IWvC8HJgfDu) | [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia) | [Defying](https://open.spotify.com/album/2jOCeC0fg8xRCY14tquGMq) | 3:28 | 2024-10-09 | 2025-11-06 |
 | [Solitude](https://open.spotify.com/track/1ghPHoNXf4L5wO4kOvJUoW) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Ordinary Landscape](https://open.spotify.com/album/5dYHGuiBBzx6hWdZWtdlhO) | 4:16 | 2023-03-14 | 2024-04-19 |
+| [Solitude](https://open.spotify.com/track/7ESu5dNSc30xnlQkWlSN9d) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Ordinary Landscape](https://open.spotify.com/album/7Jkzw2xlE48wN2dUKPxw7V) | 4:16 | 2025-11-19 |  |
 | [Space Candy Odyssey](https://open.spotify.com/track/6N6DuL19GBPLFE1V6eixI6) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Fragments](https://open.spotify.com/album/3M4O1cFkSMgEkjgn9q4Qrl) | 3:58 | 2025-06-03 | 2025-07-16 |
 | [Spartacus](https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Satisfaction](https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV) | 4:07 | 2023-03-14 |  |
 | [spectres de mouse](https://open.spotify.com/track/0M372WfoAEvYSRjcczirDF) | [mouse on the keys](https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp) | [an anxious object](https://open.spotify.com/album/3RaPoJgvbOwugD3mKSjew5) | 3:20 | 2023-04-04 | 2024-04-19 |

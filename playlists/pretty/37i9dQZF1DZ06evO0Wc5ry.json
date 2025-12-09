@@ -1,12 +1,12 @@
 {
   "description": "This is Outkast. The essential tracks, all in one playlist.",
-  "num_followers": 165827,
+  "num_followers": 165841,
   "original_name": "This Is Outkast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAADNKZI6TEyiEDmIo1SEou7Y",
+  "snapshot_id": "aTTDgAAAAADGaVtB3dJOQSrtsCqLab09",
   "tracks": [
     {
       "added_at": null,
@@ -695,6 +695,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/06ECofyrsfq7eyIoeWV0QU"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        }
+      ],
+      "duration_ms": 260284,
+      "name": "In Due Time (with Cee-Lo)",
+      "url": "https://open.spotify.com/track/0F7IWMsRmk9P9ML4prVlr0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Street Swag, Vol. 2",
         "url": "https://open.spotify.com/album/2A89rexB6sUic5498mls4J"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 200971,
       "name": "Walk It Out",
       "url": "https://open.spotify.com/track/1Zk1RUC3Lazme2erBiixIS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Due Time",
-        "url": "https://open.spotify.com/album/06ECofyrsfq7eyIoeWV0QU"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "CeeLo Green",
-          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
-        }
-      ],
-      "duration_ms": 260284,
-      "name": "In Due Time (with Cee-Lo)",
-      "url": "https://open.spotify.com/track/0F7IWMsRmk9P9ML4prVlr0"
     },
     {
       "added_at": null,

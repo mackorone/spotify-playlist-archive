@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-389 songs - 22 hr 38 min
+390 songs - 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Angels We Have Heard On High feat\. Jesse Ray Miller](https://open.spotify.com/track/0UinWNfK7eaaLrAQwkFGbT) | [Leon Timbo](https://open.spotify.com/artist/5sh0bpSEIvnWiJxZKFhJ8S), [Jesse Ray Miller](https://open.spotify.com/artist/1QNU5uAfpMnNSdFYsaiXfG) | [Angels We Have Heard On High](https://open.spotify.com/album/26vLrELVyFoClbMNH1QXbf) | 2:43 | 2024-07-29 | 2024-11-12 |
 | [Baby Boy](https://open.spotify.com/track/59bmTqt7AFMBGLssuhtkmK) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [We Need Emmanuel](https://open.spotify.com/album/1iagly9M3C91gzkNAJSWZz) | 3:50 | 2022-12-11 | 2024-04-19 |
 | [Baby Boy](https://open.spotify.com/track/4sSXzAOEYpSK5o5zFtDrnr) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Baby Boy](https://open.spotify.com/album/28UIg788d1C0Q93xwZRDHP) | 3:50 | 2022-12-11 | 2024-10-27 |
-| [Back Home For Christmas](https://open.spotify.com/track/4Xng9dh4pebQMuPpEv8Vpe) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [For Christmas](https://open.spotify.com/album/50ZqgHJTyMexdhWLWPP9kB) | 3:00 | 2024-07-29 |  |
+| [Back Home For Christmas](https://open.spotify.com/track/4Xng9dh4pebQMuPpEv8Vpe) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [For Christmas](https://open.spotify.com/album/50ZqgHJTyMexdhWLWPP9kB) | 3:00 | 2024-07-29 | 2025-12-09 |
 | [Beautiful Christmas](https://open.spotify.com/track/4HGqkFupdoozBF91E1MRS0) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinite Christmas](https://open.spotify.com/album/3FEZGStis8kVGpnh54NF8h) | 4:25 | 2021-12-24 |  |
 | [Beautiful Christmas](https://open.spotify.com/track/1d8RcYAhuC89kXdUuUHfqt) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Beautiful Christmas](https://open.spotify.com/album/2daWKGApbCEdoms3T9zPn4) | 2:27 | 2025-11-22 |  |
 | [Behold Messiah](https://open.spotify.com/track/40vLncM2rTQI22HOf7F6n5) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Behold Messiah](https://open.spotify.com/album/0b5akzs3AfLDsFiYLyJ48b) | 5:16 | 2023-11-03 |  |
@@ -277,6 +277,7 @@
 | [Oh What A Gift](https://open.spotify.com/track/76o632mxehS0QgWFlBmlwB) | [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Go Tell It](https://open.spotify.com/album/05kyKUGuOV18byxkRCmLCs) | 3:25 | 2024-10-27 |  |
 | [Oh, It’s Christmas!](https://open.spotify.com/track/4bCsqW97CsQAswDBuwGyzz) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Cider & Hennessy](https://open.spotify.com/album/7jYoJlj4s36tJTcVtdfqjC) | 3:25 | 2021-12-24 |  |
 | [Old Fashioned Christmas](https://open.spotify.com/track/4b5jMKaV2uu4XtcPrRxdXM) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Old Fashioned Christmas](https://open.spotify.com/album/54zoj8Yivcp8lNJhLUUFk0) | 2:39 | 2021-12-24 | 2024-07-30 |
+| [One Of Us](https://open.spotify.com/track/6LEzWMnfrY9sSxEFtVJf0v) | [Elijah Thomas](https://open.spotify.com/artist/5BqcwDlPPGX7XmIOcUgFfU) | [One Of Us](https://open.spotify.com/album/5S9GBC9w8vAke6vkghImBq) | 3:16 | 2025-12-07 |  |
 | [Photos](https://open.spotify.com/track/0xnr1ftG93t3SAy3b6ubeJ) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk) | [Photos](https://open.spotify.com/album/68lVUiaLs5n9AMHOHgz5W5) | 2:30 | 2025-11-08 |  |
 | [Prayers For This World](https://open.spotify.com/track/0np4wrLitfNjaqqkYsPt79) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Prayers For This World](https://open.spotify.com/album/6e4ASUu9fUIw2QBGppK4Qb) | 3:42 | 2022-11-26 | 2023-11-27 |
 | [Red & Green](https://open.spotify.com/track/0OA9nGUWhcTXFjq70repQ0) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Red & Green](https://open.spotify.com/album/75zm0ijlN6oBLmd1i6l6F4) | 3:59 | 2024-10-27 |  |

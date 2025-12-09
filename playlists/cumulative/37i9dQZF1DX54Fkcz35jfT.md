@@ -4,7 +4,7 @@
 
 > Discover the intensity and emotion resonating through Japan’s hard rock\. / 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: CVLTE
 
-445 songs - 1 day 1 hr 35 min
+446 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,7 +295,7 @@
 | [SCUM DOGS FART](https://open.spotify.com/track/6dlfbY8ImWjJbYGwuLLiV2) | [ENTH](https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz) | [ENTH](https://open.spotify.com/album/5NE8yd43s8gZJ3mp0flYvq) | 3:17 | 2024-03-26 | 2024-04-19 |
 | [Seaside](https://open.spotify.com/track/6rwSf69yMf3c2dfqkoVt8b) | [THE NOVEMBERS](https://open.spotify.com/artist/06qEHODsluMWTP4MrQC9RF) | [The Novembers](https://open.spotify.com/album/5UsLQiAt93L1SdFvqP3ERO) | 3:27 | 2023-12-05 | 2024-05-15 |
 | [shibuya phobia.](https://open.spotify.com/track/1K8jf2rYGgPkhUlLpvNbTZ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [PHOBIA SYNDROME](https://open.spotify.com/album/6UeGX0fcpL3KycKGeBM3Rz) | 3:55 | 2025-12-02 |  |
-| [shinjuku syndrome.](https://open.spotify.com/track/5szvkCZlpECXo5DK47mCAV) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [shinjuku syndrome.](https://open.spotify.com/album/2vRX55p0d7fXj1i43DADTU) | 3:58 | 2025-10-14 |  |
+| [shinjuku syndrome.](https://open.spotify.com/track/5szvkCZlpECXo5DK47mCAV) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [shinjuku syndrome.](https://open.spotify.com/album/2vRX55p0d7fXj1i43DADTU) | 3:58 | 2025-10-14 | 2025-12-09 |
 | [Shousatsu](https://open.spotify.com/track/74Xrlu3BM1srb9vMBpCe9E) | [TYOSiN](https://open.spotify.com/artist/61GEYBaST9W8FSoigPRYs7) | [Shousatsu](https://open.spotify.com/album/4koW2ALo5eDjXlAOSR6als) | 3:05 | 2023-11-14 | 2023-12-20 |
 | [Shussou](https://open.spotify.com/track/05cArZuv1f0fErj6aAkuhe) | [Hello Sleepwalkers](https://open.spotify.com/artist/12CmFAwzxYnVtJgnzIysvm) | [Shussou](https://open.spotify.com/album/6u0mRNp8OUxHtGjyZA4ik2) | 3:55 | 2024-10-15 | 2024-12-10 |
 | [Silent World feat\. KYONO, Ryu \(Ryu Matsuyama\)](https://open.spotify.com/track/2f46PpC09Fg0H7jAI8Oo8L) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo), [KYONO](https://open.spotify.com/artist/4LgM76I3ubiFUtX0nuVgmr), [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [Silent World feat\. KYONO, Ryu \(Ryu Matsuyama\)](https://open.spotify.com/album/38cEkAqmg13qoj9CnXRIX3) | 3:42 | 2024-06-03 | 2024-10-16 |
@@ -438,6 +438,7 @@
 | [東京ミッドナイト](https://open.spotify.com/track/6yOsud5tOWwu4Hj43cW7Vc) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [東京ミッドナイト](https://open.spotify.com/album/30LuOfT2yzjCCL8LNFrUUr) | 3:46 | 2023-07-20 | 2024-05-08 |
 | [東京ミッドナイト \- Tokyo Midnight](https://open.spotify.com/track/2zKMBHW3j6E4uxXXZhYwwD) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [The Crown](https://open.spotify.com/album/7ENXjwkWhcXDZ09XIQAzca) | 3:48 | 2024-05-07 |  |
 | [桜。轟音にのせ](https://open.spotify.com/track/3Pr2CIbeti4HWJ4RESKjVM) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [桜。轟音にのせ](https://open.spotify.com/album/6Xckz0KKhvREZ7k7tMF9xb) | 3:15 | 2024-04-23 | 2024-06-03 |
+| [歌えない](https://open.spotify.com/track/7lIdcvvRww8SVhuhs6hle8) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [PHOBIA SYNDROME](https://open.spotify.com/album/6UeGX0fcpL3KycKGeBM3Rz) | 2:20 | 2025-12-02 |  |
 | [永遠少女](https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [永遠少女](https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ) | 4:02 | 2023-12-19 | 2024-03-18 |
 | [深紅の天穹](https://open.spotify.com/track/1yNMEFWIlPAr89NHYdl6Js) | [ONMYO\-ZA](https://open.spotify.com/artist/6a2e3isd4orqnwvdXXYDVc) | [深紅の天穹](https://open.spotify.com/album/0xEB6iZ0fDveuMJmTHRIqr) | 4:39 | 2025-07-08 | 2025-08-10 |
 | [狐独の才望](https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [狐独の才望](https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5) | 3:32 | 2023-11-07 |  |

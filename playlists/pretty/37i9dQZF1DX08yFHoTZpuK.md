@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 
 > Cutting\-edge dance music emerging from Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,441 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,482 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 45 | [glowing arcade](https://open.spotify.com/track/4QD3PW1ziWyTbduNcIznEG) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [glowing arcade](https://open.spotify.com/album/5JQaDQbsFfYOO27LqAdJS2) | 2:48 |
 | 46 | [WHAT](https://open.spotify.com/track/5mJg8tgBqfi99njbzHUFIw) | [CARTOON](https://open.spotify.com/artist/1orMjDUHnRdjdeKhVjylgT), [Jean Pierre](https://open.spotify.com/artist/59EMBN7eiOECiRgEyM9LeJ), [Daitto](https://open.spotify.com/artist/2Cr1yQSJ738W0CCg1AzI86) | [WHAT](https://open.spotify.com/album/36us3Pylwtw6T1liRpELNk) | 3:23 |
 | 47 | [Say Less](https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu) | [勢喜遊](https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs) | [Say Less](https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX) | 2:43 |
-| 48 | [UPDOWN](https://open.spotify.com/track/7njm2KRGplV5aqcYNn4ZUh) | [plan i](https://open.spotify.com/artist/5w4PkCj88ZFwCZDi21y4Su), [S2](https://open.spotify.com/artist/0IzMiHAuFdr9HUYxgzaCS3), [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [UPDOWN](https://open.spotify.com/album/1NAekmeIgUBkIDOleDUnvX) | 3:26 |
-| 49 | [不夜城 \- FUYAJO feat\. Tyler Carter](https://open.spotify.com/track/7BCI2eDGqx0lzZbUc0hACt) | [TYT](https://open.spotify.com/artist/2qtG3DmCMRD23hlbK1DdJw), [DJ TORA](https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS), [YAKSA](https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR), [TJO](https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN), [Tyler Carter](https://open.spotify.com/artist/4VCAHkdzvJBHJAcPyvWY5s) | [不夜城 \- FUYAJO feat\. Tyler Carter](https://open.spotify.com/album/2HMM8JWRjH5ElRHJJ2pGoO) | 3:58 |
+| 48 | [不夜城 \- FUYAJO feat\. Tyler Carter](https://open.spotify.com/track/7BCI2eDGqx0lzZbUc0hACt) | [TYT](https://open.spotify.com/artist/2qtG3DmCMRD23hlbK1DdJw), [DJ TORA](https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS), [YAKSA](https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR), [TJO](https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN), [Tyler Carter](https://open.spotify.com/artist/4VCAHkdzvJBHJAcPyvWY5s) | [不夜城 \- FUYAJO feat\. Tyler Carter](https://open.spotify.com/album/2HMM8JWRjH5ElRHJJ2pGoO) | 3:58 |
+| 49 | [UPDOWN](https://open.spotify.com/track/7njm2KRGplV5aqcYNn4ZUh) | [plan i](https://open.spotify.com/artist/5w4PkCj88ZFwCZDi21y4Su), [S2](https://open.spotify.com/artist/0IzMiHAuFdr9HUYxgzaCS3), [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [UPDOWN](https://open.spotify.com/album/1NAekmeIgUBkIDOleDUnvX) | 3:26 |
 | 50 | [From The Darkside \(monoqlom Remix\)](https://open.spotify.com/track/1TJ41F5tIsgRylysr8rc6m) | [Coakira](https://open.spotify.com/artist/4npCpZlreNDaWqAyALlu4K), [monoqlom](https://open.spotify.com/artist/2Si3D69wfASRJMWq8BltJg) | [Darkside 2075](https://open.spotify.com/album/7jUrZd7N4vHlS1ujctfh0Z) | 2:45 |
 
 Snapshot ID: `AAAAAFe6Fih81CfCWq9e4ScjuJ53/QGc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2eG7CcdMMcAOPPme80JaT7.md) - [plain]
 
 > From films to Broadway and London's West End\. Cover: Marisha Wallace
 
-[HITS](https://open.spotify.com/user/digster.co.uk) - 165,754 likes - 85 songs - 5 hr 6 min
+[HITS](https://open.spotify.com/user/digster.co.uk) - 165,745 likes - 85 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

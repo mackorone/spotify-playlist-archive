@@ -4331,6 +4331,24 @@
     },
     {
       "album": {
+        "name": "FORMULA",
+        "url": "https://open.spotify.com/album/47uqilRXlk7qLpre3yubx5"
+      },
+      "artists": [
+        {
+          "name": "ALPHA DRIVE ONE",
+          "url": "https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "FORMULA",
+      "url": "https://open.spotify.com/track/7z81drJrJ391T2RRwFLNTk"
+    },
+    {
+      "album": {
         "name": "Fraktsiya",
         "url": "https://open.spotify.com/album/5XgrvgkM5v88spRinxNAt6"
       },
@@ -7384,6 +7402,24 @@
       "duration_ms": 191462,
       "name": "LOCO",
       "url": "https://open.spotify.com/track/5b8FtevTVz8xVF6E208xeV"
+    },
+    {
+      "album": {
+        "name": "ALLDAY PROJECT",
+        "url": "https://open.spotify.com/album/036xPBaSmnehSxkAT4DVrs"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159686,
+      "name": "LOOK AT ME",
+      "url": "https://open.spotify.com/track/2gq4WmAq3zgplPoq7OIAGR"
     },
     {
       "album": {

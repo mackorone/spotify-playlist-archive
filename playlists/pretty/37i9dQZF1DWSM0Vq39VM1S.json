@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388568,
+  "num_followers": 388560,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
+        "name": "End of Time",
+        "url": "https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "duration_ms": 226052,
+      "name": "End of Time",
+      "url": "https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
         "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
         "url": "https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 217901,
       "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
       "url": "https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
-        "name": "End of Time",
-        "url": "https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q"
-      },
-      "artists": [
-        {
-          "name": "Olive Jones",
-          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
-        }
-      ],
-      "duration_ms": 226052,
-      "name": "End of Time",
-      "url": "https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "you chose this",
-        "url": "https://open.spotify.com/album/1xSeDb9h7JclM6c7qhAEGL"
-      },
-      "artists": [
-        {
-          "name": "Emelie Trahan",
-          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
-        }
-      ],
-      "duration_ms": 158546,
-      "name": "you chose this",
-      "url": "https://open.spotify.com/track/12CcA3RDkKo5U0lbNsCbSX"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 215594,
       "name": "Free",
       "url": "https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
+        "name": "you chose this",
+        "url": "https://open.spotify.com/album/1xSeDb9h7JclM6c7qhAEGL"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "duration_ms": 158546,
+      "name": "you chose this",
+      "url": "https://open.spotify.com/track/12CcA3RDkKo5U0lbNsCbSX"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Summerinlove",
-        "url": "https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 271047,
-      "name": "Summerinlove",
-      "url": "https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
         "name": "And In The Darkness, Hearts Aglow",
         "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 376520,
       "name": "It's Not Just Me, It's Everybody",
       "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
+        "name": "Summerinlove",
+        "url": "https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 271047,
+      "name": "Summerinlove",
+      "url": "https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Pale Blue Eyes",
-        "url": "https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D"
-      },
-      "artists": [
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 189905,
-      "name": "Pale Blue Eyes",
-      "url": "https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
         "name": "postcard season",
         "url": "https://open.spotify.com/album/1jrrjvl5djCDh5fBN8ZE0q"
       },
@@ -575,22 +559,18 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Celebrate",
-        "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
+        "name": "Pale Blue Eyes",
+        "url": "https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D"
       },
       "artists": [
         {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        },
-        {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
         }
       ],
-      "duration_ms": 223443,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
+      "duration_ms": 189905,
+      "name": "Pale Blue Eyes",
+      "url": "https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -615,6 +595,26 @@
       "duration_ms": 269413,
       "name": "22:23",
       "url": "https://open.spotify.com/track/0TjAjZ6Hp7smLH8qUBlNuR"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        }
+      ],
+      "duration_ms": 223443,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Smoke",
-        "url": "https://open.spotify.com/album/2ATkJp3riBcNpJ153QTrif"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "Smoke",
-      "url": "https://open.spotify.com/track/36FBF9QJIxMIGh3uTnUAH1"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
         "name": "Brown Eyes",
         "url": "https://open.spotify.com/album/42hKD3BSIxJEHJAsD6RwsE"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 197136,
       "name": "Brown Eyes",
       "url": "https://open.spotify.com/track/0E3JebQh1CbRvY9zPc668m"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/2ATkJp3riBcNpJ153QTrif"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/36FBF9QJIxMIGh3uTnUAH1"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Yours Or Mine",
-        "url": "https://open.spotify.com/album/4TeFGNjeEzZytPpGiw81M2"
-      },
-      "artists": [
-        {
-          "name": "Hajaj",
-          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
-        }
-      ],
-      "duration_ms": 230977,
-      "name": "Yours Or Mine",
-      "url": "https://open.spotify.com/track/6uJ1XDLc1xsAD7TqnAFLP4"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
         "name": "Flower of the soul (full bloom)",
         "url": "https://open.spotify.com/album/0o2x4f45z6FIxPTC1ZkDcE"
       },
@@ -863,22 +847,6 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 146079,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
         "name": "Lisbon",
         "url": "https://open.spotify.com/album/61aSnHkcMWrnFRHMzOzk9i"
       },
@@ -895,8 +863,8 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "In The Meantime",
-        "url": "https://open.spotify.com/album/36HBYHgPwpRA8zimQ6xFvB"
+        "name": "Yours Or Mine",
+        "url": "https://open.spotify.com/album/4TeFGNjeEzZytPpGiw81M2"
       },
       "artists": [
         {
@@ -904,9 +872,25 @@
           "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
         }
       ],
-      "duration_ms": 188037,
-      "name": "In The Meantime",
-      "url": "https://open.spotify.com/track/3cM0vtbtg4vcgxXELIvAQI"
+      "duration_ms": 230977,
+      "name": "Yours Or Mine",
+      "url": "https://open.spotify.com/track/6uJ1XDLc1xsAD7TqnAFLP4"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 146079,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -999,22 +983,6 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "V I N C E N T",
-        "url": "https://open.spotify.com/album/0trDWegHEv7XseWBMfZapf"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 236346,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/7FW2ySkiy0xaE9GdZAFOxy"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
         "name": "Archwood (the playlist)",
         "url": "https://open.spotify.com/album/3wvpoyNZog5TJ2RxK4euJz"
       },
@@ -1027,6 +995,38 @@
       "duration_ms": 149546,
       "name": "Wonderful World",
       "url": "https://open.spotify.com/track/6nu3IwpAso6DJT3bXDwEiW"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
+        "name": "In The Meantime",
+        "url": "https://open.spotify.com/album/36HBYHgPwpRA8zimQ6xFvB"
+      },
+      "artists": [
+        {
+          "name": "Hajaj",
+          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
+        }
+      ],
+      "duration_ms": 188037,
+      "name": "In The Meantime",
+      "url": "https://open.spotify.com/track/3cM0vtbtg4vcgxXELIvAQI"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
+        "name": "V I N C E N T",
+        "url": "https://open.spotify.com/album/0trDWegHEv7XseWBMfZapf"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 236346,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/7FW2ySkiy0xaE9GdZAFOxy"
     }
   ],
   "unique_name": "R\u00e9veil en douceur",

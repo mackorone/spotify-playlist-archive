@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 960,464 likes - 40 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 960,596 likes - 40 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 5 | [LUNA BALA \- Slowed](https://open.spotify.com/track/49t3uvN9hUNefdvtaD6HBj) | [Yb Wasg'ood](https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE), [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [LUNA BALA](https://open.spotify.com/album/2acEAXK1zIr0cPBkIDDJgz) | 2:04 |
 | 6 | [LOS VOLTAJE](https://open.spotify.com/track/4LkkRLP8pldQer1YRrHwkx) | [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB), [Yb Wasg'ood](https://open.spotify.com/artist/02wf6SCDwrs2qTX09X0IRE), [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [LOS VOLTAJE](https://open.spotify.com/album/7CWmZcjCHJWd7detYptzAX) | 1:39 |
 | 7 | [METAMORPHOSIS](https://open.spotify.com/track/2ksyzVfU0WJoBpu8otr4pz) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS](https://open.spotify.com/album/3apQZbgVql9mHJlp43jk5D) | 2:22 |
-| 8 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
-| 9 | [Funk de Beleza \- Slowed](https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4) | [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1), [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX), [MC MAYAH](https://open.spotify.com/artist/10mKIVPFtg42JIvttHQrzr) | [Funk de Beleza](https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u) | 2:25 |
+| 8 | [Funk de Beleza \- Slowed](https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4) | [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1), [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX), [MC MAYAH](https://open.spotify.com/artist/10mKIVPFtg42JIvttHQrzr) | [Funk de Beleza](https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u) | 2:25 |
+| 9 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
 | 10 | [SLAY!](https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [SLAY!](https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx) | 1:47 |
 | 11 | [fragment \- slowed](https://open.spotify.com/track/3wynI4tCs1XMc4zlmG6pvu) | [slxughter](https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa) | [fragment](https://open.spotify.com/album/0RXePjKXiL1bMMiMWNjxNw) | 1:37 |
 | 12 | [MONTAGEM TOMADA](https://open.spotify.com/track/2UEyo3ufg8DvO0zYMJWG7R) | [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y) | [MONTAGEM TOMADA](https://open.spotify.com/album/40m2KxQUQNQANattrHt9vZ) | 1:11 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 30 | [DERNIERE DANCE FUNK](https://open.spotify.com/track/6NxIh2DTIOoATFmezrHv61) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or), [Sachin SSS](https://open.spotify.com/artist/7GDhzZ1xjQJBcV6TQ1Mbhi), [YXUNGXROTICA](https://open.spotify.com/artist/7gyc1wWTGmRwZpYtiFwH1D), [MC KRAKEN](https://open.spotify.com/artist/3Uy7W2zcbfxQWLDAXTPugq) | [DERNIERE DANCE FUNK](https://open.spotify.com/album/5sJAIhExhl8Ok1lAuQ8pPT) | 1:31 |
 | 31 | [Live Another Day](https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Phonkageddon](https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg) | 2:13 |
 | 32 | [NEON BLADE](https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE](https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm) | 4:25 |
-| 33 | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF) | [6YNTHMANE](https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5), [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz) | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG) | 1:58 |
-| 34 | [COM MEDO!](https://open.spotify.com/track/7wrjh1jGLkV99AhcgnGRjE) | [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB), [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX) | [COM MEDO!](https://open.spotify.com/album/6JekYwYFalK1oXttdZ9kGk) | 1:09 |
+| 33 | [COM MEDO!](https://open.spotify.com/track/7wrjh1jGLkV99AhcgnGRjE) | [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB), [Scythermane](https://open.spotify.com/artist/5dDNNq04RjKXFOADdHd6VX) | [COM MEDO!](https://open.spotify.com/album/6JekYwYFalK1oXttdZ9kGk) | 1:09 |
+| 34 | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF) | [6YNTHMANE](https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5), [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz) | [BRAZILIAN DANÇA PHONK](https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG) | 1:58 |
 | 35 | [PSL \- Slowed](https://open.spotify.com/track/2LAYBsmfObMC0IPUHmvDav) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4) | [PSL](https://open.spotify.com/album/4hhb7OlsPwdMK0gqpHkrMq) | 2:21 |
 | 36 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 |
 | 37 | [Fearless](https://open.spotify.com/track/7xkCeK3qzCyf43cF8yN7Xt) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Fearless](https://open.spotify.com/album/4Ddt6Mk8IHycY0h8K2J3iv) | 3:14 |

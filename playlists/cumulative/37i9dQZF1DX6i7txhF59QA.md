@@ -4,10 +4,11 @@
 
 > 신나는 트로트 멜로디를 즐겨보세요! \(커버: 손태진 \(Son Tae Jin\)\)<br/>Let's party with cheerful Korean trot medley.
 
-1,070 songs - 2 day 13 hr 18 min
+1,070 songs - 2 day 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/2mMdTzr7Ys2xVdQXAUw9j6) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1mahH2ErwTOnfud1pRHPxT) | 0:00 | 2025-08-05 |  |
 | [1.2.3.4](https://open.spotify.com/track/4p6SMb4tLjOZqA8SbQZDrH) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bongsungah school PART13](https://open.spotify.com/album/0ELT34v0t3dM1JrCuwK3d2) | 2:58 | 2022-05-03 | 2022-07-28 |
 | [13579 \(Composer Version\)](https://open.spotify.com/track/2QnkBnAAfuPPR2d8EPkpcf) | [HONG JIN YOUNG](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) | [13579 \(Composer Version\)](https://open.spotify.com/album/28LZyKNiXI5ZIvzfGapw3I) | 3:24 | 2025-05-27 | 2025-08-13 |
 | [24 hours](https://open.spotify.com/track/6gdvnGQ4vUJ1Dm7nLhej5o) | [Hong Jin Young](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) | [Battle of the Century AI vs Human](https://open.spotify.com/album/0uLqyCDKhEmnqYJYyjwOCH) | 3:29 | 2022-04-21 | 2022-07-25 |
@@ -200,7 +201,6 @@
 | [Drink Makgeolli](https://open.spotify.com/track/1RwZWVU3f6L0votFsPZ6Sc) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Music source of Mr\. Trot Death match Part1](https://open.spotify.com/album/5GuLmPGu6HMl6uyKVYTDE2) | 3:20 | 2022-04-07 | 2025-11-21 |
 | [Drizzle](https://open.spotify.com/track/5LKFgkeH7cl07dcBvb27wm) | [Ga Hee Ban](https://open.spotify.com/artist/6mRIRlLGWuR16odRnjDBPd) | [Queen of Diva preliminary match PART 2](https://open.spotify.com/album/5JAFCasBJSuk0QJKeLyBTa) | 3:09 | 2024-08-13 | 2025-11-21 |
 | [Dumba Dumba](https://open.spotify.com/track/1WUwO9kA3kl01GTBzwsQen) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center PART35](https://open.spotify.com/album/1jMXZXkQijYdiy2VXDwWYQ) | 3:25 | 2022-04-22 | 2022-07-28 |
-| [Easy Lover](https://open.spotify.com/track/2mMdTzr7Ys2xVdQXAUw9j6) | [JD1](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Easy Lover](https://open.spotify.com/album/1mahH2ErwTOnfud1pRHPxT) | 2:45 | 2025-08-05 |  |
 | [Elegant Love](https://open.spotify.com/track/4WOQ95HwzDGdrTW9gjzTw3) | [Shin Mi Rae](https://open.spotify.com/artist/15y3pbf42yIqdHOZEHJiCQ) | [Elegant Love](https://open.spotify.com/album/1qitDj5QDQoPckwS8joDrT) | 3:02 | 2022-07-04 | 2022-10-25 |
 | [Elevator](https://open.spotify.com/track/1TCkgf6YdQa9jzhWziWbjf) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Elevator](https://open.spotify.com/album/5aO75dzEtiNcBLcY5NFUwu) | 3:27 | 2024-08-13 | 2025-08-30 |
 | [Elevator not the stairs](https://open.spotify.com/track/7HyadAQpgOEA9C8sJcJiGy) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART22](https://open.spotify.com/album/06luoFbKDOBf1Fbioazq9f) | 3:27 | 2022-05-03 | 2022-07-20 |

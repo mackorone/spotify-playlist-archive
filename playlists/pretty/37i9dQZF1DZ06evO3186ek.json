@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 163184,
+  "num_followers": 163202,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAADLp0TYE3afOq3j3ne8dQPo",
+  "snapshot_id": "aTTDgAAAAADEhliJWvMW3lp1Cyi6Bnlx",
   "tracks": [
     {
       "added_at": null,
@@ -167,30 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All That I Need",
-        "url": "https://open.spotify.com/album/2QsAwF0l3ftb6qInTKlXls"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "GRAHAM",
-          "url": "https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "All That I Need",
-      "url": "https://open.spotify.com/track/4qRGQCvqygDcfVw8REV2Fz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Longer Bound (I'm Free)",
         "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
       },
@@ -211,6 +187,30 @@
       "duration_ms": 175188,
       "name": "No Longer Bound (I'm Free)",
       "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All That I Need",
+        "url": "https://open.spotify.com/album/2QsAwF0l3ftb6qInTKlXls"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "GRAHAM",
+          "url": "https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "All That I Need",
+      "url": "https://open.spotify.com/track/4qRGQCvqygDcfVw8REV2Fz"
     },
     {
       "added_at": null,
@@ -764,13 +764,13 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
         }
       ],
-      "duration_ms": 402803,
-      "name": "Old Church Basement (feat. Dante Bowe)",
-      "url": "https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx"
+      "duration_ms": 420058,
+      "name": "Names (feat. Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/3SkcC4o5zY5ogakP9hmCQ1"
     },
     {
       "added_at": null,
@@ -951,6 +951,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 766715,
+      "name": "Have My Heart (feat. Chris Brown, Chandler Moore)",
+      "url": "https://open.spotify.com/track/6vpqd2PVdRja9di26vmCAa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Move Your Heart",
         "url": "https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 621222,
       "name": "Move Your Heart (feat. Dante Bowe & Elyssa Smith)",
       "url": "https://open.spotify.com/track/66yilG6117AXfAjtzjtxk7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        }
-      ],
-      "duration_ms": 766715,
-      "name": "Have My Heart (feat. Chris Brown, Chandler Moore)",
-      "url": "https://open.spotify.com/track/6vpqd2PVdRja9di26vmCAa"
     },
     {
       "added_at": null,

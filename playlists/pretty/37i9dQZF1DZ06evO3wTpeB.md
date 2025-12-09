@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 
 > This is Ali Aka Mind\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,769 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,770 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 | 26 | [Uno](https://open.spotify.com/track/61EDQPLruQ9gKRNLTndsGi) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Manjit](https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr) | 3:21 |
 | 27 | [Colombianos World Wide](https://open.spotify.com/track/1XsUDsrPz0IQnAykCjMrSJ) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Gambeta](https://open.spotify.com/artist/0NondYskkFto74mrICHYR4), [Piel Roja](https://open.spotify.com/artist/5kq2StjCFhee4kp48In3Mq) | [Sobrevivente](https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW) | 3:44 |
 | 28 | [Siempre Recuerdos](https://open.spotify.com/track/0bKZbVfPE5vNKCw40ej9Cc) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 4:00 |
-| 29 | [Yo Quise](https://open.spotify.com/track/7LM6uu4KYVoduR9ESEf6Ym) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Elias Wallace](https://open.spotify.com/artist/5SaZEYSyIV17OizlU9DjzI), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW) | [Yo Quise](https://open.spotify.com/album/77SgnkVqnSZXF5gdgmhXBR) | 3:32 |
-| 30 | [Nunca Es Tarde Pa' Empezar](https://open.spotify.com/track/0rKTUWLac8ZmYYAsQqsxqX) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Palabras del Alma](https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV) | 3:42 |
+| 29 | [Nunca Es Tarde Pa' Empezar](https://open.spotify.com/track/0rKTUWLac8ZmYYAsQqsxqX) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Palabras del Alma](https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV) | 3:42 |
+| 30 | [Yo Quise](https://open.spotify.com/track/7LM6uu4KYVoduR9ESEf6Ym) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Elias Wallace](https://open.spotify.com/artist/5SaZEYSyIV17OizlU9DjzI), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW) | [Yo Quise](https://open.spotify.com/album/77SgnkVqnSZXF5gdgmhXBR) | 3:32 |
 | 31 | [Emily](https://open.spotify.com/track/6ka4z78PDgF3mepKkY2W4o) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Sobrevivente](https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW) | 3:20 |
 | 32 | [Mi Castigo](https://open.spotify.com/track/6Q7DaTx7dadvxXY7UXpSL2) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 3:01 |
 | 33 | [Olvidarme de Ti](https://open.spotify.com/track/3maV3zRST3lH8rT5RHVHzH) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Apartamento 23](https://open.spotify.com/album/2X5xKYHX32aybrZiZznQet) | 3:49 |
-| 34 | [Una Oportunidad](https://open.spotify.com/track/5bJvvd2M5byWc8t8DJ5dwr) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Una Oportunidad](https://open.spotify.com/album/4siy0X5dG8LiSX2EbGYbV7) | 3:33 |
-| 35 | [Foráneos](https://open.spotify.com/track/2MOupuZ5SXzWtlE03VN9Ke) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Foráneos](https://open.spotify.com/album/0M5qXlASVuTQd6qu7tf0Fq) | 3:06 |
+| 34 | [Foráneos](https://open.spotify.com/track/2MOupuZ5SXzWtlE03VN9Ke) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Foráneos](https://open.spotify.com/album/0M5qXlASVuTQd6qu7tf0Fq) | 3:06 |
+| 35 | [Una Oportunidad](https://open.spotify.com/track/5bJvvd2M5byWc8t8DJ5dwr) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Una Oportunidad](https://open.spotify.com/album/4siy0X5dG8LiSX2EbGYbV7) | 3:33 |
 | 36 | [Oww Nena](https://open.spotify.com/track/5xZ6DgZdmLAXEC83tWYTj4) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Honesty](https://open.spotify.com/album/1T8KlnyoPrbDgv01kVSFHB) | 2:27 |
 | 37 | [Mestizo](https://open.spotify.com/track/2FEJmKj4F8DsR24MpDUqZY) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 2:28 |
 | 38 | [Como Un Imán](https://open.spotify.com/track/65iaEKnaGA22vX6ahS2RaS) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Como Un Imán](https://open.spotify.com/album/3H5zHjtNNxTUod4Jev6K27) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wTpeB.md) - [plain]
 | 49 | [Otra Pa' Mi Cuenta](https://open.spotify.com/track/37dPkMfAhfvH3Ndl8ev0cv) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 2:50 |
 | 50 | [Agradezco](https://open.spotify.com/track/0bzXvilLiJGEe0ACmeFi5Z) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Agradezco](https://open.spotify.com/album/1JQCufwGdnzm28qdVW2xxp) | 3:08 |
 
-Snapshot ID: `aTNyAAAAAAAkNx+W6nvON0RKMkkM4IQj`
+Snapshot ID: `aTTDgAAAAAATtSmO1x+lunBH3/glxVJ+`

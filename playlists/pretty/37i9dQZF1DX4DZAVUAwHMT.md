@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Gretel
 
-[Spotify](https://open.spotify.com/user/spotify) - 767,655 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,597 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 10 | [You Got This](https://open.spotify.com/track/5i220DkgLvh0TW1FpR0ugv) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [You Got This](https://open.spotify.com/album/4RLOgw937LloMOHDQpE2mW) | 3:37 |
 | 11 | [A Kiss From A Mother](https://open.spotify.com/track/24UTdotuXBQcdrW0f7ydmj) | [Marmozets](https://open.spotify.com/artist/3KEhhixoMshqSEJ71rS7w1) | [A Kiss From A Mother](https://open.spotify.com/album/47gyrUMenXnZtJyLC3E4YQ) | 3:33 |
 | 12 | [Bruised Sky](https://open.spotify.com/track/3Xf7Njd3lTqZbNkeLPGoFH) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Bruised Sky](https://open.spotify.com/album/7qSK2ETB3f6sPy39dNbUr4) | 3:40 |
-| 13 | [birthday card// \- Bonus Track](https://open.spotify.com/track/2Ge2MmDxZgnjY9Vfj8PLC9) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [conditions of an orphan// deluxe edition](https://open.spotify.com/album/2OdZk5p5RrHPW1dsQihqhj) | 2:57 |
+| 13 | [birthday card//](https://open.spotify.com/track/2Ge2MmDxZgnjY9Vfj8PLC9) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [conditions of an orphan// deluxe edition](https://open.spotify.com/album/2OdZk5p5RrHPW1dsQihqhj) | 2:57 |
 | 14 | [Dove](https://open.spotify.com/track/7IJF32v3Zf5lgEU0wnVwCg) | [Dharmacide](https://open.spotify.com/artist/6Opwdl6TcMEonIbtztjl0k) | [Dove](https://open.spotify.com/album/3kvl3LBeNaOTquSrmM8Ny4) | 4:29 |
 | 15 | [Well, Whatever It Was](https://open.spotify.com/track/6vnNJbgUbg8h0qkZO2FC4L) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [Well, Whatever It Was](https://open.spotify.com/album/5EyWznLP7jy3ZIiu1kJu2Q) | 2:06 |
 | 16 | [Freakshow](https://open.spotify.com/track/5fJzd6nziOPpfyMJti37SI) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Only Slightly Empty](https://open.spotify.com/album/095PeO7jjMoZrvtUFkVeGW) | 2:57 |

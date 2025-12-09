@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 72 | [Prr](https://open.spotify.com/track/4xtSu3QIqKo8PMCITx7FUH) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [BAILA CONMIGO](https://open.spotify.com/album/3igeUJIn0CWSRt9ftMPlOk) | 2:16 |
 | 73 | [Cambumbeo](https://open.spotify.com/track/67yoTcCOwAROr45LtoPirZ) | [Jodosky](https://open.spotify.com/artist/6jOQofEFDXLbMGlzn3xSua) | [Cambumbeo](https://open.spotify.com/album/01G2aulEHyod28lfjovZ5C) | 3:40 |
 | 74 | [Si Me Quieres](https://open.spotify.com/track/2McIdzQW0Rd79yjhbvHwl9) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [RITMO GLOBAL](https://open.spotify.com/album/5cICfk2kY1AgGe7zRKFMzO) | 2:02 |
-| 75 | [HYPE](https://open.spotify.com/track/2r7Sq6fcnICSiGHw5RJkro) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:39 |
-| 76 | [Malas Decisiones](https://open.spotify.com/track/4dRggoEpvJPAwmCMAO7HvB) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [LA BÚSQUEDA](https://open.spotify.com/album/1hX9GX9ot3bkOFXsvpQdAP) | 1:37 |
+| 75 | [Malas Decisiones](https://open.spotify.com/track/4dRggoEpvJPAwmCMAO7HvB) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [LA BÚSQUEDA](https://open.spotify.com/album/1hX9GX9ot3bkOFXsvpQdAP) | 1:37 |
+| 76 | [HYPE](https://open.spotify.com/track/2r7Sq6fcnICSiGHw5RJkro) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:39 |
 | 77 | [2Y34AM](https://open.spotify.com/track/472YGLU2zeUeqHPnU0GD74) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [2Y34AM](https://open.spotify.com/album/1cfycK1ItL1e6chEZ7SEmi) | 2:57 |
 | 78 | [Baby Bye Bye](https://open.spotify.com/track/4V8UCn4kU3dBGqQRz2Lu91) | [Kablito](https://open.spotify.com/artist/51aWHhJ7AjxKmZ4dDUc0sm) | [Baby Bye Bye](https://open.spotify.com/album/4lTbFebL5FTPCyjOwFE9d0) | 2:33 |
 | 79 | [Ni De Aquí, Ni De Allá](https://open.spotify.com/track/0ER7nWOV88M9EiNhItsvVA) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:46 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 96 | [Terrifying](https://open.spotify.com/track/2ANynrvIPu167ZHz2DJ3xk) | [Awgust](https://open.spotify.com/artist/0cC1TGgq52GNhAhed6SHj6) | [Terrifying](https://open.spotify.com/album/732sY0DgQ57NUeH5wNSDL4) | 3:24 |
 | 97 | [Its Weird](https://open.spotify.com/track/4S9pwJF1RwFY9rjuyVlTOB) | [Awgust](https://open.spotify.com/artist/0cC1TGgq52GNhAhed6SHj6) | [Its Weird](https://open.spotify.com/album/4XqWvGatggpkv5iGNmgp0T) | 2:59 |
 
-Snapshot ID: `AcDnkgAAAACN4t94dLufMA33aThoO/dn`
+Snapshot ID: `AcDtMgAAAAC0tbZLRFgx6cLJYp7BR7Xp`

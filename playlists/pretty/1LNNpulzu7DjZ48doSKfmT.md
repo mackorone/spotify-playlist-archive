@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 450 likes - 531 songs - 1 day 3 hr 27 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 450 likes - 532 songs - 1 day 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -539,5 +539,6 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 529 | [Christmas in the Islands](https://open.spotify.com/track/0LxDXf95Mx9c1vZxEFqTFR) | [Harold Payne](https://open.spotify.com/artist/1BfgVctke9PP5LJDIWrUxC) | [Christmas in the Islands](https://open.spotify.com/album/3aHAeBe9ZjWw3wduUdNC1u) | 3:01 |
 | 530 | [Feel It All](https://open.spotify.com/track/3N7gg7XImFXdYWrXmCCLco) | [Jeremy Voltz](https://open.spotify.com/artist/1Zu7L8siS7ugY35pTS6Wgw) | [Feel It All](https://open.spotify.com/album/4pQAtTSmCMEe7yYblXY5qN) | 2:38 |
 | 531 | [Safari](https://open.spotify.com/track/1Ih75RntdEoaQG18r9eJpt) | [ELO](https://open.spotify.com/artist/1qoApE9HzNbP2RiogZkE89) | [Safari](https://open.spotify.com/album/43HJdpscmPxiFgFv4Xb0em) | 1:31 |
+| 532 | [BÓG HONOR OJCZYZNA](https://open.spotify.com/track/7rQqoVGlL4fhReRWC516WI) | [PeGie](https://open.spotify.com/artist/54TYnbAQnkrjI6ry4eUU6X), [Wszołek](https://open.spotify.com/artist/5EGOQRzEzTxqczyOwRIhKm) | [BÓG HONOR OJCZYZNA](https://open.spotify.com/album/4MWTDdmiVpengEUJBEC4Pu) | 2:43 |
 
-Snapshot ID: `AAAXNFin819grSnO1XWAXiakLEhgYBXh`
+Snapshot ID: `AAAXNQUYMiF+pPUw09Wb0XBaiaHTtyT1`

@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 340673,
+  "num_followers": 340700,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAAD5+LYuUuwPlpZXWUQYdOFQ",
+  "snapshot_id": "aTTDgAAAAADgNbEeMVwjJJMeierxYNga",
   "tracks": [
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Flor Del Campo: El P\u00e1vido N\u00e1vido",
+        "url": "https://open.spotify.com/album/26jewTq5DzesUy9vfG83nw"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "La Loba Del Mal",
+      "url": "https://open.spotify.com/track/6chFGW4L9I0YQX6Es2Jkd9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chalino S\u00e1nchez y Cornelio Reyna, Vol. 2",
         "url": "https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 161343,
       "name": "Corrido De Rosalino",
       "url": "https://open.spotify.com/track/0mX2ojHdBx6nhOzDnB9BuM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Flor Del Campo: El P\u00e1vido N\u00e1vido",
-        "url": "https://open.spotify.com/album/26jewTq5DzesUy9vfG83nw"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "La Loba Del Mal",
-      "url": "https://open.spotify.com/track/6chFGW4L9I0YQX6Es2Jkd9"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [Swiss Made](https://open.spotify.com/playlist/37i9dQZF1DX05xCBTd43pw)
 
-> Grüezi! This is 100% made in Switzerland\.  Cover: Zoë Më
+> Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Zoë Më
 
 456 songs - 23 hr 30 min
 

@@ -1,12 +1,12 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2619,
+  "num_followers": 2621,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAAAMq8J2jLdMmoSarDVmY3oo",
+  "snapshot_id": "aTTDgAAAAABQOmbX8AYNDRBcIopHWqOJ",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deserve Each Other",
+        "url": "https://open.spotify.com/album/5wO4rxGxX729iEkcIuvYvH"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 167650,
+      "name": "Deserve Each Other",
+      "url": "https://open.spotify.com/track/4sQzliwhbjG17hZMXkg7aL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BOYS BOYS BOYS",
         "url": "https://open.spotify.com/album/5vy9KsvFsT7WLfbwx96XG8"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 130095,
       "name": "BOYS BOYS BOYS",
       "url": "https://open.spotify.com/track/1b5mWKFDR33vyOFrUwBWQw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deserve Each Other",
-        "url": "https://open.spotify.com/album/5wO4rxGxX729iEkcIuvYvH"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 167650,
-      "name": "Deserve Each Other",
-      "url": "https://open.spotify.com/track/4sQzliwhbjG17hZMXkg7aL"
     },
     {
       "added_at": null,

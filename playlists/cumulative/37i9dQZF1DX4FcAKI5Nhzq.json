@@ -14685,6 +14685,24 @@
     },
     {
       "album": {
+        "name": "ALLDAY PROJECT",
+        "url": "https://open.spotify.com/album/036xPBaSmnehSxkAT4DVrs"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159686,
+      "name": "LOOK AT ME",
+      "url": "https://open.spotify.com/track/2gq4WmAq3zgplPoq7OIAGR"
+    },
+    {
+      "album": {
         "name": "Look Where We Are",
         "url": "https://open.spotify.com/album/108Pp4ZFqOsChhw1g9MFFD"
       },

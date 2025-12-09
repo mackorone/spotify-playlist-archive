@@ -7165,6 +7165,24 @@
     },
     {
       "album": {
+        "name": "I Still Remember",
+        "url": "https://open.spotify.com/album/2ZZqn5jbldS5aMAMwZkEUM"
+      },
+      "artists": [
+        {
+          "name": "how2fly",
+          "url": "https://open.spotify.com/artist/6pFQJsHFGonpyeIbXOYwkE"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203478,
+      "name": "I Still Remember",
+      "url": "https://open.spotify.com/track/4IGuNhLfB8m1iLPX79qK8g"
+    },
+    {
+      "album": {
         "name": "i think i'm addicted",
         "url": "https://open.spotify.com/album/6zUJXKpWJGuzb2LrB7t7hG"
       },
@@ -17722,6 +17740,32 @@
       "duration_ms": 209777,
       "name": "We Rise - CloudNone & Eyezic Remix",
       "url": "https://open.spotify.com/track/0IfJHqvnpRPFKddPS6wlCP"
+    },
+    {
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/5MVi8CiWSQ3kCKs60H0Fj1"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        },
+        {
+          "name": "Arlo",
+          "url": "https://open.spotify.com/artist/2Ur1MpOU6IZEVyPvs2IBUW"
+        },
+        {
+          "name": "Allegra Miles",
+          "url": "https://open.spotify.com/artist/2b5HdZgVQ0DhkHrajBgcxu"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274174,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/0aruNrdbcZlqrGynYCyEBU"
     },
     {
       "album": {

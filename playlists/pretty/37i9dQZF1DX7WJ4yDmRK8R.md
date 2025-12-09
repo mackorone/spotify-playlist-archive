@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Panteon Rococo en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,579 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,570 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 42 | [Madness](https://open.spotify.com/track/71pBxayPPUWgs99vFMHaCA) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Tutti Frutti](https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm) | 2:45 |
 | 43 | [Wake Up](https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX) | [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3) | [A Poets Life](https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI) | 3:01 |
 | 44 | [Where I'm Going](https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 2:23 |
-| 45 | [Amsterdam](https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4) | [Jaya The Cat](https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy) | [A Good Day for the Damned](https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr) | 3:26 |
-| 46 | [Beatdown Generation](https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Beatdown Generation](https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud) | 3:14 |
+| 45 | [Beatdown Generation](https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Beatdown Generation](https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud) | 3:14 |
+| 46 | [Amsterdam](https://open.spotify.com/track/02N6JQNfiB1Hc4nKm2P0g4) | [Jaya The Cat](https://open.spotify.com/artist/3gRJFoOKgAkHI7EZTWKXRy) | [A Good Day for the Damned](https://open.spotify.com/album/1TUGruCKtWlIQ6iQDQAtjr) | 3:26 |
 | 47 | [Middle Finger](https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Middle Finger](https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH) | 3:26 |
 | 48 | [Honey](https://open.spotify.com/track/6akeq8bf2ELPuFmAEvLMUY) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Bersinar](https://open.spotify.com/album/2w2npr2WhYpan47byFPmVn) | 3:45 |
 | 49 | [Enjoy Yourself](https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Tutti Frutti](https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm) | 3:05 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 73 | [Un Amor Violento](https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb), [Alvaro Henriquez](https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP) | [Un Amor Violento](https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1) | 4:49 |
 | 74 | [No Worries](https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp) | [Hepcat](https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp) | [Right On Time](https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu) | 3:39 |
 | 75 | [Pensándolo Bien](https://open.spotify.com/track/43ujqpuF6Z8ryGKz4slZVd) | [Satélite Kingston](https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD) | [Algo Tiene Que Pasar](https://open.spotify.com/album/1DnsTcyBOm6D5inOroI1Yd) | 3:48 |
-| 76 | [The Slash](https://open.spotify.com/track/5G5s543gsx1B4bqo85vn0n) | [Aurelio Voltaire](https://open.spotify.com/artist/2ZCG1aukcb5fjBDgizvDbD), [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy) | [The Slash](https://open.spotify.com/album/0TCls5nFPP9LoBliC428gr) | 4:01 |
-| 77 | [SKrAm!](https://open.spotify.com/track/5ROazJQzZ1LqD2muLOEaHy) | [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [SKA DREAM](https://open.spotify.com/album/3H28j4CQIYPGvrS4StXeMz) | 2:38 |
+| 76 | [SKrAm!](https://open.spotify.com/track/5ROazJQzZ1LqD2muLOEaHy) | [Jeff Rosenstock](https://open.spotify.com/artist/0wNZvrIMNUCs24G0wFg2D6) | [SKA DREAM](https://open.spotify.com/album/3H28j4CQIYPGvrS4StXeMz) | 2:38 |
+| 77 | [The Slash](https://open.spotify.com/track/5G5s543gsx1B4bqo85vn0n) | [Aurelio Voltaire](https://open.spotify.com/artist/2ZCG1aukcb5fjBDgizvDbD), [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy) | [The Slash](https://open.spotify.com/album/0TCls5nFPP9LoBliC428gr) | 4:01 |
 | 78 | [Cold in the City](https://open.spotify.com/track/15W2XqolwVw2F8TYNMTP7r) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Cold in the City](https://open.spotify.com/album/55U2sYG01pdlcsY847uw0z) | 3:26 |
 | 79 | [A Flowery Song](https://open.spotify.com/track/6FYCcmTfxq84NSePWXLIby) | [Five Iron Frenzy](https://open.spotify.com/artist/1BcAEs4W94BrXMmVCOgwSx) | [Upbeats & Beatdowns](https://open.spotify.com/album/7IUjcWJ3ucGT2C97McF1Ua) | 3:40 |
 | 80 | [Skinhead](https://open.spotify.com/track/5iAh9acjaoPyXavmj3T0fd) | [Laurel Aitken](https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA) | [The Godfather Of Ska Anthology](https://open.spotify.com/album/3e6PGMhDmrtQScMgZvQ6kp) | 4:40 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 86 | [Doomsday](https://open.spotify.com/track/7xfNTf6y3KYpDPEvBmornq) | [Mephiskapheles](https://open.spotify.com/artist/0HS3ITvEZoYY3klH9xqxpl) | [God Bless Satan](https://open.spotify.com/album/7J35hQd4DMsmKMMHoz8Lgu) | 3:15 |
 | 87 | [See You Again](https://open.spotify.com/track/7z2fjnCzlQ9T7Nt52FjF5i) | [La Familia Torelli](https://open.spotify.com/artist/1ZmEQ1IO0MarUWP3wVO2XY), [Anna Millo](https://open.spotify.com/artist/5iYKTpMQBUVCsvPJrj2BeN) | [See You Again](https://open.spotify.com/album/0gIN5MH2JCJwBfSmYasAR7) | 2:54 |
 | 88 | [LONELY BOY](https://open.spotify.com/track/7exeQYwgHvD9pLJlFdXWhU) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [When God Was Great](https://open.spotify.com/album/2GMkzDNISHUME6JBeT46D3) | 3:33 |
-| 89 | [Revolution Riot](https://open.spotify.com/track/7FK3roNAFpxl3vfhtRiPH9) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [Broadcasting to the Nations](https://open.spotify.com/album/3RrUzc5Tuxt481nSHDWpKS) | 3:16 |
-| 90 | [Losing Touch](https://open.spotify.com/track/1DYajVvWikfyXr00qDQrdp) | [Codename Colin](https://open.spotify.com/artist/1Iqo2qaOeMI5xf6bF0I2jB) | [Escape from Everything](https://open.spotify.com/album/4httMcgUvgdYF85BdSHwIy) | 3:41 |
+| 89 | [Losing Touch](https://open.spotify.com/track/1DYajVvWikfyXr00qDQrdp) | [Codename Colin](https://open.spotify.com/artist/1Iqo2qaOeMI5xf6bF0I2jB) | [Escape from Everything](https://open.spotify.com/album/4httMcgUvgdYF85BdSHwIy) | 3:41 |
+| 90 | [Revolution Riot](https://open.spotify.com/track/7FK3roNAFpxl3vfhtRiPH9) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz) | [Broadcasting to the Nations](https://open.spotify.com/album/3RrUzc5Tuxt481nSHDWpKS) | 3:16 |
 | 91 | [A Better Home](https://open.spotify.com/track/3i9UTTZjKQfTAPcpGvYP5s) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [Self Care](https://open.spotify.com/album/1rb4vw3gnALa1HLMf3PA6X) | 2:28 |
 | 92 | [Here is the News \(Papa´s Got a Brand New Pigbag\)](https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc) | [Russkaja](https://open.spotify.com/artist/3FuzPmx49qjFhzbG99d9Kr) | [No One is Illegal](https://open.spotify.com/album/2Gy5JaGmiaykwDoJZH4xQO) | 3:46 |
 | 93 | [University](https://open.spotify.com/track/63boKN9qNhEnKvLXnAZtvl) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [University](https://open.spotify.com/album/0Ljrx55mzrcgccJD6KSSmi) | 3:34 |

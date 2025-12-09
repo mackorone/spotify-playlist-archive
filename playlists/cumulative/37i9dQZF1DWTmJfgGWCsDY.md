@@ -4,7 +4,7 @@
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: Mavokali
 
-175 songs - 11 hr 33 min
+176 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Nampenda](https://open.spotify.com/track/2B3dIhmQQbnBtJol5uMjiY) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Nampenda](https://open.spotify.com/album/0RSCOc5P6Bpt4Pkdg8SoXz) | 5:02 | 2023-02-24 | 2023-03-18 |
 | [Nani](https://open.spotify.com/track/2OVnpe9zs6lWKymL3NhVZm) | [Wamoto](https://open.spotify.com/artist/49cEXrvOxwDlG7HebzedM1), [Chino Kidd](https://open.spotify.com/artist/2EuodBUTVs5DBUkauhlsnm) | [Nani](https://open.spotify.com/album/5VKweEzcW4FEvpo7AmynUl) | 3:51 | 2024-08-23 | 2024-10-04 |
 | [Naoa](https://open.spotify.com/track/1Vm5Ka4woQQnVYG8HJtc12) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Naoa](https://open.spotify.com/album/4m1seE9FusFaKvjPKhBQI2) | 3:57 | 2025-08-15 |  |
-| [Natafuta Hela](https://open.spotify.com/track/3kKrn6c9edbzPVXnReWadK) | [DJ Jukk](https://open.spotify.com/artist/32nFfq390c9vyz1ZqDGpZl), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [K Pizo](https://open.spotify.com/artist/2B5oYAod3fGCDamm4YdUWV) | [Natafuta Hela](https://open.spotify.com/album/1R7nqRuAyCeoox1AAo7zAp) | 3:44 | 2025-04-17 |  |
+| [Natafuta Hela](https://open.spotify.com/track/3kKrn6c9edbzPVXnReWadK) | [DJ Jukk](https://open.spotify.com/artist/32nFfq390c9vyz1ZqDGpZl), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [K Pizo](https://open.spotify.com/artist/2B5oYAod3fGCDamm4YdUWV) | [Natafuta Hela](https://open.spotify.com/album/1R7nqRuAyCeoox1AAo7zAp) | 3:44 | 2025-04-17 | 2025-12-09 |
 | [Natamani](https://open.spotify.com/track/5PY0K1JkB3IbgldFpHiWuM) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8), [Chege](https://open.spotify.com/artist/09ePfLAl1VPyN0NGPiZdCB) | [Natamani](https://open.spotify.com/album/6A8pezWuBNYujOhZhffVmE) | 4:22 | 2022-08-05 | 2024-12-18 |
 | [Naumia](https://open.spotify.com/track/28qsyjBi4t7aD1yGsE030F) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN) | [Naumia](https://open.spotify.com/album/70hchTWlKZnkowXc624R7v) | 3:44 | 2023-04-14 | 2024-07-25 |
 | [Niaminishe](https://open.spotify.com/track/0phOZHYeL2fmsubAwswkFk) | [Kayumba](https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk) | [Niaminishe](https://open.spotify.com/album/3YqLpGfjbwkkb6ThnZL3ka) | 4:32 | 2025-08-29 |  |
@@ -182,6 +182,7 @@
 | [Weeeweeeeeeee](https://open.spotify.com/track/4P6LF5BAsuJogEw1y8vNgN) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW) | [Weeeweeeeeeee](https://open.spotify.com/album/0xyu4NqBGVV5Yalj3twF5o) | 3:50 | 2025-06-19 |  |
 | [Wezi](https://open.spotify.com/track/4XvNC3l6dPpns7aGn1SbJL) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Wezi](https://open.spotify.com/album/47kpUKtAt0sDQKYeXuZX1Y) | 3:25 | 2025-11-13 |  |
 | [Wivu Remix \(feat\. Baddest 47, Jay Combat & Ibraah\)](https://open.spotify.com/track/1lz1foGIf5LDAOwqD4agqF) | [Dj Mushizo](https://open.spotify.com/artist/11xpQtgAZTHvwnGNXaDzaj), [Baddest 47](https://open.spotify.com/artist/3QenWT2S4xNs8PTguhaQdJ), [Jay Combat](https://open.spotify.com/artist/1VDBEhQ8BQwFEeGdfuW4gx), [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Wivu Remix \(feat\. Baddest 47, Jay Combat & Ibraah\)](https://open.spotify.com/album/1JxyvUy5OhpQc5UPQTSjsa) | 3:45 | 2025-05-16 |  |
+| [Yaleyale](https://open.spotify.com/track/6BDkCGJ1IoHmmHdMzH6JkB) | [JEUSI MC](https://open.spotify.com/artist/6RH0qAxZjYbrMVv5piZaTm), [Kidensa Mc](https://open.spotify.com/artist/4Cgp65TL9ELS0HZY6Kz4nm) | [Yaleyale](https://open.spotify.com/album/0Qdy7p98e9Fz9UyTag69RB) | 4:24 | 2025-12-05 |  |
 | [Yanga](https://open.spotify.com/track/4knCIYx2MWALaqWUWiwhLJ) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Kapaso Bkp](https://open.spotify.com/artist/0GwOwyBkqqTX5qgcc8bB38) | [Yanga](https://open.spotify.com/album/3dwald9GuxM0AIssyw5vu9) | 3:14 | 2024-03-28 | 2024-05-17 |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

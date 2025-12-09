@@ -1,12 +1,12 @@
 {
   "description": "This is LUDMILLA. The essential tracks, all in one playlist.",
-  "num_followers": 307223,
+  "num_followers": 307215,
   "original_name": "This Is LUDMILLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAABA+/kLY/WjcsKk4T93L+WY",
+  "snapshot_id": "aTTDgAAAAAAvFfjBHEXWUfEY/qmc9cmk",
   "tracks": [
     {
       "added_at": null,
@@ -111,8 +111,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fragmentos",
-        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
       },
       "artists": [
         {
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 165249,
-      "name": "Whiskey Com \u00c1gua de Choro",
-      "url": "https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E"
+      "duration_ms": 192870,
+      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
     },
     {
       "added_at": null,
@@ -147,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
       },
       "artists": [
         {
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 192870,
-      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
+      "duration_ms": 165249,
+      "name": "Whiskey Com \u00c1gua de Choro",
+      "url": "https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice #2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 181157,
-      "name": "Ins\u00f4nia - Ao Vivo",
-      "url": "https://open.spotify.com/track/3EM71GPnUGJ75uDhkH77pq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Falta de Mim (Ao Vivo na Resenha Pagode e Chinelo)",
         "url": "https://open.spotify.com/album/0gcFrFuriHDLPi8fzPTy8R"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 142152,
       "name": "Falta de Mim (Ao Vivo na Resenha Pagode e Chinelo)",
       "url": "https://open.spotify.com/track/04SCTah7kzN0Sdw0lCd1in"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Numanice #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 181157,
+      "name": "Ins\u00f4nia - Ao Vivo",
+      "url": "https://open.spotify.com/track/3EM71GPnUGJ75uDhkH77pq"
     },
     {
       "added_at": null,
@@ -871,6 +871,26 @@
       "duration_ms": 227720,
       "name": "Ningu\u00e9m Merece Amar Sozinho",
       "url": "https://open.spotify.com/track/3rCnVAG0josT5ql2MAFGmT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Macetando",
+        "url": "https://open.spotify.com/album/5hylnoVPMP3cRU2Jwh9z5r"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 167786,
+      "name": "Macetando",
+      "url": "https://open.spotify.com/track/4uR8CslffeNgPZ3lSuyfAc"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Basement. The essential tracks, all in one playlist.",
-  "num_followers": 12188,
+  "num_followers": 12195,
   "original_name": "This Is Basement",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAAB0pCeI8r6oR1Z9+KPx2XQU",
+  "snapshot_id": "aTTDgAAAAAAGCNdok0/zCbjVERW7HAZr",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs About The Weather",
-        "url": "https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT"
+        "name": "Beside Myself",
+        "url": "https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 132773,
-      "name": "Dui",
-      "url": "https://open.spotify.com/track/4DlIEw0mtIPJjPizMjHP1e"
+      "duration_ms": 177706,
+      "name": "Slip Away",
+      "url": "https://open.spotify.com/track/4hI8PLtF0C3JBSUG5EsQtv"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beside Myself",
-        "url": "https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO"
-      },
-      "artists": [
-        {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
-        }
-      ],
-      "duration_ms": 177706,
-      "name": "Slip Away",
-      "url": "https://open.spotify.com/track/4hI8PLtF0C3JBSUG5EsQtv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs About The Weather",
         "url": "https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT"
       },
@@ -420,25 +404,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 130972,
-      "name": "Meet Me In St. Louis",
-      "url": "https://open.spotify.com/track/40I5U24KYHNKMkRf4jXZ9D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Further Sky",
-        "url": "https://open.spotify.com/album/4CrgB7WMpE0HqqRuLsngbX"
-      },
-      "artists": [
-        {
-          "name": "Basement",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
-        }
-      ],
-      "duration_ms": 236100,
-      "name": "Animal Nitrate",
-      "url": "https://open.spotify.com/track/3pRvbv2mAxIWBThGn0QMyl"
+      "duration_ms": 132773,
+      "name": "Dui",
+      "url": "https://open.spotify.com/track/4DlIEw0mtIPJjPizMjHP1e"
     },
     {
       "added_at": null,
@@ -459,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Further Sky",
+        "url": "https://open.spotify.com/album/4CrgB7WMpE0HqqRuLsngbX"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "duration_ms": 236100,
+      "name": "Animal Nitrate",
+      "url": "https://open.spotify.com/track/3pRvbv2mAxIWBThGn0QMyl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Songs About The Weather",
         "url": "https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT"
       },
@@ -468,9 +452,25 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 166336,
-      "name": "White Elephant",
-      "url": "https://open.spotify.com/track/4Oq6yOs0L5Dfa7f3pxkQfq"
+      "duration_ms": 130972,
+      "name": "Meet Me In St. Louis",
+      "url": "https://open.spotify.com/track/40I5U24KYHNKMkRf4jXZ9D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beside Myself",
+        "url": "https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "duration_ms": 84800,
+      "name": "Changing Lanes",
+      "url": "https://open.spotify.com/track/0OLe5X5aibmw8Dg7jcrssZ"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beside Myself",
-        "url": "https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO"
+        "name": "Songs About The Weather",
+        "url": "https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 84800,
-      "name": "Changing Lanes",
-      "url": "https://open.spotify.com/track/0OLe5X5aibmw8Dg7jcrssZ"
+      "duration_ms": 166336,
+      "name": "White Elephant",
+      "url": "https://open.spotify.com/track/4Oq6yOs0L5Dfa7f3pxkQfq"
     },
     {
       "added_at": null,

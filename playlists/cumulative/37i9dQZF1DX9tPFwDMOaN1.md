@@ -4,7 +4,7 @@
 
 > The hottest K\-Pop is here! \(Cover: Stray Kids\)
 
-763 songs - 1 day 15 hr 32 min
+765 songs - 1 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [FOREVER](https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [FOREVER](https://open.spotify.com/album/0OY9cZ5lO1htGmLYC4eX4B) | 3:32 | 2024-07-08 | 2025-03-11 |
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-05 | 2022-12-20 |
 | [Forgive Me](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 2:48 | 2022-11-24 | 2023-01-28 |
+| [FORMULA](https://open.spotify.com/track/7z81drJrJ391T2RRwFLNTk) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [FORMULA](https://open.spotify.com/album/47uqilRXlk7qLpre3yubx5) | 3:08 | 2025-12-08 |  |
 | [Fraktsiya](https://open.spotify.com/track/6m66Qk7oHVwSNQIvdoul4E) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Fraktsiya](https://open.spotify.com/album/5XgrvgkM5v88spRinxNAt6) | 3:12 | 2024-12-16 | 2025-02-22 |
 | [FREAK](https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [YUQ1](https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc) | 2:51 | 2024-05-01 | 2024-08-20 |
 | [Free](https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S) | [Rumi](https://open.spotify.com/artist/2DSE0PhxKUmTPLfZm13sup), [Jinu](https://open.spotify.com/artist/0rIiNDJUesrgFPkYesJmKl), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:07 | 2025-07-04 |  |
@@ -401,6 +402,7 @@
 | [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 | 2021-12-13 | 2022-04-21 |
 | [LOCO](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:11 | 2022-07-18 | 2022-07-30 |
 | [LOCO](https://open.spotify.com/track/5b8FtevTVz8xVF6E208xeV) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2021-12-13 | 2022-07-29 |
+| [LOOK AT ME](https://open.spotify.com/track/2gq4WmAq3zgplPoq7OIAGR) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ALLDAY PROJECT](https://open.spotify.com/album/036xPBaSmnehSxkAT4DVrs) | 2:39 | 2025-12-08 |  |
 | [LOOP \(feat\. Lil Cherry\)](https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [LOOP](https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto) | 2:43 | 2024-06-28 | 2024-08-10 |
 | [Loose](https://open.spotify.com/track/3YNjvUXgfQznx5IZHAXk6i) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose](https://open.spotify.com/album/2XCAFhzTvaqKFJogtaJnz1) | 3:30 | 2025-04-18 | 2025-09-16 |
 | [Lose My Breath \(Feat\. Charlie Puth\)](https://open.spotify.com/track/2DXavoWAmIHlrECHPM1Vca) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lose My Breath \(Feat\. Charlie Puth\)](https://open.spotify.com/album/1HSW0KtusVmitWsZGhjaJB) | 2:46 | 2024-05-10 | 2024-07-09 |

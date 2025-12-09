@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 13586,
+  "num_followers": 13597,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAAAlKsGL/58wTNpnEUFbjcaI",
+  "snapshot_id": "aTTDgAAAAABDWKOkGBG7RIBN86Yt6OPH",
   "tracks": [
     {
       "added_at": null,
@@ -91,26 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highest",
-        "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Runtown",
-          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
-        }
-      ],
-      "duration_ms": 210442,
-      "name": "Pain Killer",
-      "url": "https://open.spotify.com/track/6mh4mOVMWIHyBXWW3C2qiF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Have Mercy 2",
         "url": "https://open.spotify.com/album/4iVKlmCDADFXGJOP30ABDj"
       },
@@ -127,6 +107,26 @@
       "duration_ms": 201627,
       "name": "Have Mercy 2",
       "url": "https://open.spotify.com/track/14EbD3WNLZCFvhd6mEuW8m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highest",
+        "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        }
+      ],
+      "duration_ms": 210442,
+      "name": "Pain Killer",
+      "url": "https://open.spotify.com/track/6mh4mOVMWIHyBXWW3C2qiF"
     },
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jailer",
-        "url": "https://open.spotify.com/album/3ikyOGpU9GzXGDCSc65Rin"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 230588,
-      "name": "Jailer",
-      "url": "https://open.spotify.com/track/4YIGk7VneqverAJPWTMVJR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Love",
         "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 267660,
       "name": "Lucky (feat. Rudeboy)",
       "url": "https://open.spotify.com/track/466oku5g8KzlaYGMGluENO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jailer",
+        "url": "https://open.spotify.com/album/3ikyOGpU9GzXGDCSc65Rin"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 230588,
+      "name": "Jailer",
+      "url": "https://open.spotify.com/track/4YIGk7VneqverAJPWTMVJR"
     },
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disturbation 2",
-        "url": "https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I"
-      },
-      "artists": [
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 163801,
-      "name": "DND (feat. Sarkodie)",
-      "url": "https://open.spotify.com/track/5xR6EWpW9tAmIrzJ0Ba1SQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Championship",
         "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
       },
@@ -579,6 +559,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Disturbation 2",
+        "url": "https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 163801,
+      "name": "DND (feat. Sarkodie)",
+      "url": "https://open.spotify.com/track/5xR6EWpW9tAmIrzJ0Ba1SQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Love",
         "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
       },
@@ -595,26 +595,6 @@
       "duration_ms": 193333,
       "name": "Strength Of A Woman (feat. Stonebwoy)",
       "url": "https://open.spotify.com/track/2oeaDvcW4o2CTHLlseZ0Di"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anointing",
-        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 216546,
-      "name": "Anointing",
-      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
     },
     {
       "added_at": null,
@@ -639,22 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/255tfKXfBXIX6OmaBBs3xj"
+        "name": "Anointing",
+        "url": "https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg"
       },
       "artists": [
         {
-          "name": "Praiz",
-          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 223947,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/3efFRZSg2qNU0OFZolXCix"
+      "duration_ms": 216546,
+      "name": "Anointing",
+      "url": "https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy"
     },
     {
       "added_at": null,
@@ -675,6 +655,26 @@
       "duration_ms": 288130,
       "name": "Adonai (Remix)",
       "url": "https://open.spotify.com/track/4cEWZvR2wkb8aEB1vkTQDS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/255tfKXfBXIX6OmaBBs3xj"
+      },
+      "artists": [
+        {
+          "name": "Praiz",
+          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 223947,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/3efFRZSg2qNU0OFZolXCix"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 446732,
+  "num_followers": 446738,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAACVI5+NIXSOlL5YGTlFE43/",
+  "snapshot_id": "aTTDgAAAAAB41WG9QDv4U02Pg5imi3lR",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hay pa' Toro",
-        "url": "https://open.spotify.com/album/1sFW62xlG5S3d5PrM0H7Cp"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 159597,
-      "name": "De Puntitas",
-      "url": "https://open.spotify.com/track/5krlcKy4xFlCQbJ75rhNJ9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa' los Recuerdos, Vol. 2",
         "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 104746,
       "name": "Ser\u00e9 un Borracho",
       "url": "https://open.spotify.com/track/05N3MEYth8csmsuRVwj18k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hay pa' Toro",
+        "url": "https://open.spotify.com/album/1sFW62xlG5S3d5PrM0H7Cp"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 159597,
+      "name": "De Puntitas",
+      "url": "https://open.spotify.com/track/5krlcKy4xFlCQbJ75rhNJ9"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
       "duration_ms": 183057,
       "name": "De Mi Viejo",
       "url": "https://open.spotify.com/track/7carA1Po4OJtsuw8QlIJko"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/33y7OjZc89x9SsOIebCGCJ"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 173874,
-      "name": "La Loter\u00eda",
-      "url": "https://open.spotify.com/track/7E4nVNpcqxMzfJv5qqgaAk"
     },
     {
       "added_at": null,
@@ -495,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Loter\u00eda",
+        "url": "https://open.spotify.com/album/33y7OjZc89x9SsOIebCGCJ"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 173874,
+      "name": "La Loter\u00eda",
+      "url": "https://open.spotify.com/track/7E4nVNpcqxMzfJv5qqgaAk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Tatuado",
         "url": "https://open.spotify.com/album/3C02cJnFkQq2dxBD1MwkcV"
       },
@@ -511,6 +511,22 @@
       "duration_ms": 189230,
       "name": "El Tatuado",
       "url": "https://open.spotify.com/track/6e4IgXKwnk2KamlVuoqqgs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' los Recuerdos, Vol. 2",
+        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 158442,
+      "name": "Cuanto Me Gusta Este Rancho",
+      "url": "https://open.spotify.com/track/7gZmWoDwKhBJUnU69Mo8fc"
     },
     {
       "added_at": null,
@@ -535,22 +551,6 @@
       "duration_ms": 168553,
       "name": "Yo Nac\u00ed Pa' Ser Jefe",
       "url": "https://open.spotify.com/track/7p4N0DpozMSO7InGOGLO4x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa' los Recuerdos, Vol. 2",
-        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 158442,
-      "name": "Cuanto Me Gusta Este Rancho",
-      "url": "https://open.spotify.com/track/7gZmWoDwKhBJUnU69Mo8fc"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En El Camino",
-        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 153428,
-      "name": "En Esta Vida",
-      "url": "https://open.spotify.com/track/7joCaTxiKe7olUY4aQRSN4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa' los Recuerdos, Vol. 2",
         "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 152762,
       "name": "Catarino y los Rurales",
       "url": "https://open.spotify.com/track/3KXnVMFgHKnJFkoot8yJBU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En El Camino",
+        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 153428,
+      "name": "En Esta Vida",
+      "url": "https://open.spotify.com/track/7joCaTxiKe7olUY4aQRSN4"
     },
     {
       "added_at": null,

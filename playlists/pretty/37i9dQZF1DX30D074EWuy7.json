@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Il Mago del Gelato \ud83c\udf49",
-  "num_followers": 33599,
+  "num_followers": 33605,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2025-12-05 12:30:26",
       "album": {
+        "name": "Zenzero",
+        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "duration_ms": 250002,
+      "name": "Zenzero",
+      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
+    },
+    {
+      "added_at": "2025-12-05 12:30:26",
+      "album": {
         "name": "fusion.",
         "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 220797,
       "name": "Battiti in parole",
       "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
-    },
-    {
-      "added_at": "2025-12-05 12:30:26",
-      "album": {
-        "name": "Zenzero",
-        "url": "https://open.spotify.com/album/5HOmMSauwz1wlsNNtI7RvO"
-      },
-      "artists": [
-        {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
-        }
-      ],
-      "duration_ms": 250002,
-      "name": "Zenzero",
-      "url": "https://open.spotify.com/track/596eSWS6SoVNLoe9h1CMXn"
     },
     {
       "added_at": "2025-12-05 12:30:26",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-12-05 12:30:26",
       "album": {
-        "name": "Fidate Correnti",
-        "url": "https://open.spotify.com/album/06eBjWR6QE59jLGJuSrcPc"
-      },
-      "artists": [
-        {
-          "name": "Ivan Segreto",
-          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Vola lontano",
-      "url": "https://open.spotify.com/track/7ACPRMQ3iaDUFCSjirM86Q"
-    },
-    {
-      "added_at": "2025-12-05 12:30:26",
-      "album": {
         "name": "L'indispensabile",
         "url": "https://open.spotify.com/album/2dd0tiC5EWGCKRI3OnFmn9"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 407760,
       "name": "Ultimo amore",
       "url": "https://open.spotify.com/track/6kpNriwONdTQYHXeZeilYM"
+    },
+    {
+      "added_at": "2025-12-05 12:30:26",
+      "album": {
+        "name": "Fidate Correnti",
+        "url": "https://open.spotify.com/album/06eBjWR6QE59jLGJuSrcPc"
+      },
+      "artists": [
+        {
+          "name": "Ivan Segreto",
+          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Vola lontano",
+      "url": "https://open.spotify.com/track/7ACPRMQ3iaDUFCSjirM86Q"
     },
     {
       "added_at": "2025-12-05 12:30:26",
@@ -915,18 +915,18 @@
     {
       "added_at": "2025-12-05 12:30:26",
       "album": {
-        "name": "Scenario",
-        "url": "https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu"
+        "name": "Maison Maravilha",
+        "url": "https://open.spotify.com/album/6Q7qzoGfTHFMHMQBoPa7Yj"
       },
       "artists": [
         {
-          "name": "C'mon Tigre",
-          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
+          "name": "Joe Barbieri",
+          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
         }
       ],
-      "duration_ms": 218533,
-      "name": "Kids are electric",
-      "url": "https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9"
+      "duration_ms": 310466,
+      "name": "Normalmente",
+      "url": "https://open.spotify.com/track/4wymTjjL8l8KOS70s7b6IX"
     },
     {
       "added_at": "2025-12-05 12:30:26",
@@ -947,18 +947,18 @@
     {
       "added_at": "2025-12-05 12:30:26",
       "album": {
-        "name": "Maison Maravilha",
-        "url": "https://open.spotify.com/album/6Q7qzoGfTHFMHMQBoPa7Yj"
+        "name": "Scenario",
+        "url": "https://open.spotify.com/album/05jI23SZkmENSXCPIyJCRu"
       },
       "artists": [
         {
-          "name": "Joe Barbieri",
-          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
+          "name": "C'mon Tigre",
+          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
         }
       ],
-      "duration_ms": 310466,
-      "name": "Normalmente",
-      "url": "https://open.spotify.com/track/4wymTjjL8l8KOS70s7b6IX"
+      "duration_ms": 218533,
+      "name": "Kids are electric",
+      "url": "https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9"
     },
     {
       "added_at": "2025-12-05 12:30:26",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2025-12-05 12:30:26",
       "album": {
-        "name": "Opera prima (Including Ice One Remix)",
-        "url": "https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf"
-      },
-      "artists": [
-        {
-          "name": "Loop Therapy",
-          "url": "https://open.spotify.com/artist/53d3BP6XLXNEtoCTfff5jN"
-        },
-        {
-          "name": "Colle Der Fomento",
-          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
-        }
-      ],
-      "duration_ms": 278773,
-      "name": "Musica e fumo (featuring Colle Der Fomento)",
-      "url": "https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn"
-    },
-    {
-      "added_at": "2025-12-05 12:30:26",
-      "album": {
         "name": "Gigi",
         "url": "https://open.spotify.com/album/36xYaInaUB5pOuqVkJ0V5a"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 434413,
       "name": "Gigi",
       "url": "https://open.spotify.com/track/0En4rr7N50o78ENfLnMptQ"
+    },
+    {
+      "added_at": "2025-12-05 12:30:26",
+      "album": {
+        "name": "Opera prima (Including Ice One Remix)",
+        "url": "https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf"
+      },
+      "artists": [
+        {
+          "name": "Loop Therapy",
+          "url": "https://open.spotify.com/artist/53d3BP6XLXNEtoCTfff5jN"
+        },
+        {
+          "name": "Colle Der Fomento",
+          "url": "https://open.spotify.com/artist/7582dstv99hhZhryUNCn3u"
+        }
+      ],
+      "duration_ms": 278773,
+      "name": "Musica e fumo (featuring Colle Der Fomento)",
+      "url": "https://open.spotify.com/track/3eNc1G2fORU6RqCmTpJxHn"
     },
     {
       "added_at": "2025-12-05 12:30:26",
@@ -1387,42 +1387,6 @@
     {
       "added_at": "2025-12-05 12:30:26",
       "album": {
-        "name": "Grammegna",
-        "url": "https://open.spotify.com/album/2C60NGIF3EjUCkh7QkHdnc"
-      },
-      "artists": [
-        {
-          "name": "The Funkin' Machine",
-          "url": "https://open.spotify.com/artist/7l1iaeDCxprB4GgCRdwBrS"
-        }
-      ],
-      "duration_ms": 285981,
-      "name": "Grammegna",
-      "url": "https://open.spotify.com/track/3NZ1tg9ca0YyY2ppqlBnvy"
-    },
-    {
-      "added_at": "2025-12-05 12:30:26",
-      "album": {
-        "name": "Amore a prima vista",
-        "url": "https://open.spotify.com/album/0oZ91klbXv21XSkhj94Vkn"
-      },
-      "artists": [
-        {
-          "name": "Simona Molinari",
-          "url": "https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq"
-        },
-        {
-          "name": "Papik",
-          "url": "https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4"
-        }
-      ],
-      "duration_ms": 164246,
-      "name": "Amore a prima vista - Bossa & Jazz Version",
-      "url": "https://open.spotify.com/track/0heptj0YkBIKMw2JC7spOO"
-    },
-    {
-      "added_at": "2025-12-05 12:30:26",
-      "album": {
         "name": "Correspondence",
         "url": "https://open.spotify.com/album/27Bwh5V6QhP7W40ZhV2kyB"
       },
@@ -1455,6 +1419,58 @@
     {
       "added_at": "2025-12-05 12:30:26",
       "album": {
+        "name": "Amore a prima vista",
+        "url": "https://open.spotify.com/album/0oZ91klbXv21XSkhj94Vkn"
+      },
+      "artists": [
+        {
+          "name": "Simona Molinari",
+          "url": "https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq"
+        },
+        {
+          "name": "Papik",
+          "url": "https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4"
+        }
+      ],
+      "duration_ms": 164246,
+      "name": "Amore a prima vista - Bossa & Jazz Version",
+      "url": "https://open.spotify.com/track/0heptj0YkBIKMw2JC7spOO"
+    },
+    {
+      "added_at": "2025-12-05 12:30:26",
+      "album": {
+        "name": "Grammegna",
+        "url": "https://open.spotify.com/album/2C60NGIF3EjUCkh7QkHdnc"
+      },
+      "artists": [
+        {
+          "name": "The Funkin' Machine",
+          "url": "https://open.spotify.com/artist/7l1iaeDCxprB4GgCRdwBrS"
+        }
+      ],
+      "duration_ms": 285981,
+      "name": "Grammegna",
+      "url": "https://open.spotify.com/track/3NZ1tg9ca0YyY2ppqlBnvy"
+    },
+    {
+      "added_at": "2025-12-05 12:30:26",
+      "album": {
+        "name": "Jazz vs Corona Vol. 1",
+        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
+      },
+      "artists": [
+        {
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+        }
+      ],
+      "duration_ms": 209551,
+      "name": "Luna di mezzogiorno",
+      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
+    },
+    {
+      "added_at": "2025-12-05 12:30:26",
+      "album": {
         "name": "Oltremare",
         "url": "https://open.spotify.com/album/6NlHa1jH1g7YEo1pI1fXo5"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 254494,
       "name": "Oltremare",
       "url": "https://open.spotify.com/track/7tTicfv9pQrdK2SGy644Kb"
-    },
-    {
-      "added_at": "2025-12-05 12:30:26",
-      "album": {
-        "name": "Jazz vs Corona Vol. 1",
-        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
-      },
-      "artists": [
-        {
-          "name": "Bebo Ferra",
-          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
-        }
-      ],
-      "duration_ms": 209551,
-      "name": "Luna di mezzogiorno",
-      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
     },
     {
       "added_at": "2025-12-05 12:30:26",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-12-05 12:30:26",
       "album": {
-        "name": "Notturno",
-        "url": "https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw"
-      },
-      "artists": [
-        {
-          "name": "Studio Murena",
-          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "Another Day with Another Sun",
-      "url": "https://open.spotify.com/track/045b5tSZLnJMihVXfatkXF"
-    },
-    {
-      "added_at": "2025-12-05 12:30:26",
-      "album": {
         "name": "Leaving",
         "url": "https://open.spotify.com/album/3YCBWF5ZskW5wMIiCnixRI"
       },
@@ -1687,6 +1671,22 @@
     {
       "added_at": "2025-12-05 12:30:26",
       "album": {
+        "name": "Notturno",
+        "url": "https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw"
+      },
+      "artists": [
+        {
+          "name": "Studio Murena",
+          "url": "https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "Another Day with Another Sun",
+      "url": "https://open.spotify.com/track/045b5tSZLnJMihVXfatkXF"
+    },
+    {
+      "added_at": "2025-12-05 12:30:26",
+      "album": {
         "name": "Under Italian Skies",
         "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
       },
@@ -1703,22 +1703,6 @@
       "duration_ms": 323533,
       "name": "Impronte",
       "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
-    },
-    {
-      "added_at": "2025-12-05 12:30:26",
-      "album": {
-        "name": "Citt\u00e0 Futura",
-        "url": "https://open.spotify.com/album/57VVdwvhb2E3hOp21U6Isw"
-      },
-      "artists": [
-        {
-          "name": "Bassolino",
-          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
-        }
-      ],
-      "duration_ms": 284804,
-      "name": "Citt\u00e0 Futura",
-      "url": "https://open.spotify.com/track/6eKPdRjUepZxs8GyaSfuap"
     },
     {
       "added_at": "2025-12-05 12:30:26",
@@ -1771,22 +1755,6 @@
     {
       "added_at": "2025-12-05 12:30:26",
       "album": {
-        "name": "La Valle Dei Templi",
-        "url": "https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z"
-      },
-      "artists": [
-        {
-          "name": "Perigeo",
-          "url": "https://open.spotify.com/artist/0UB7tnXqRLUWF9dyktuA6e"
-        }
-      ],
-      "duration_ms": 184213,
-      "name": "Looping",
-      "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
-    },
-    {
-      "added_at": "2025-12-05 12:30:26",
-      "album": {
         "name": "La Strada Invisibile",
         "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
       },
@@ -1803,6 +1771,38 @@
       "duration_ms": 288616,
       "name": "Tuareg",
       "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
+    },
+    {
+      "added_at": "2025-12-05 12:30:26",
+      "album": {
+        "name": "La Valle Dei Templi",
+        "url": "https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z"
+      },
+      "artists": [
+        {
+          "name": "Perigeo",
+          "url": "https://open.spotify.com/artist/0UB7tnXqRLUWF9dyktuA6e"
+        }
+      ],
+      "duration_ms": 184213,
+      "name": "Looping",
+      "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
+    },
+    {
+      "added_at": "2025-12-05 12:30:26",
+      "album": {
+        "name": "Citt\u00e0 Futura",
+        "url": "https://open.spotify.com/album/57VVdwvhb2E3hOp21U6Isw"
+      },
+      "artists": [
+        {
+          "name": "Bassolino",
+          "url": "https://open.spotify.com/artist/0pSQCv6P9P2KxiMyJYpTHx"
+        }
+      ],
+      "duration_ms": 284804,
+      "name": "Citt\u00e0 Futura",
+      "url": "https://open.spotify.com/track/6eKPdRjUepZxs8GyaSfuap"
     },
     {
       "added_at": "2025-12-05 12:30:26",

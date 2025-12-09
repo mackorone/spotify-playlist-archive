@@ -17613,6 +17613,24 @@
     },
     {
       "album": {
+        "name": "When I Close My Eyes",
+        "url": "https://open.spotify.com/album/6S4RttyMki1ty5Y7Z40waj"
+      },
+      "artists": [
+        {
+          "name": "Chewna",
+          "url": "https://open.spotify.com/artist/5l4PPDSksNWKwxSeffDjr1"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201496,
+      "name": "When I Close My Eyes",
+      "url": "https://open.spotify.com/track/7azsXZN9ULLfD5dljPIOra"
+    },
+    {
+      "album": {
         "name": "When It Runs Out (feat. Felix Samuel)",
         "url": "https://open.spotify.com/album/4mvaF4ugSd44nVs4SLsTZs"
       },

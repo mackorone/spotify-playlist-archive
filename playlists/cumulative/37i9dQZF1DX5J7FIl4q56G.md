@@ -4,7 +4,7 @@
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Poppy
 
-10,655 songs - 29 day 12 hr 11 min
+10,656 songs - 29 day 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5637,6 +5637,7 @@
 | [MADMAN](https://open.spotify.com/track/5O37yAOnpjBQM1iobwm5MI) | [DAMN NATION](https://open.spotify.com/artist/47BeGc5LwTN4MyWE6m0gzE), [Wake Up Hate](https://open.spotify.com/artist/6ifZyHLaUfu3ViOaGfz8fk) | [MADMAN](https://open.spotify.com/album/3l816sDjLDK7OOZCzn1tad) | 3:49 | 2022-07-29 | 2022-08-06 |
 | [MADNESS](https://open.spotify.com/track/70F8xtqeP0nUwSKwlkNa6B) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [MADNESS](https://open.spotify.com/album/6ScbCKX52QV5FvOIZkrV1G) | 3:35 | 2025-04-11 | 2025-04-19 |
 | [Magellan's Expedition](https://open.spotify.com/track/6jZTrRpjpJKWxtmrm7yf0s) | [Alestorm](https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da) | [Magellan's Expedition](https://open.spotify.com/album/4cDMhKTNyd4lRnLhMwKYop) | 4:38 | 2022-04-08 | 2022-04-15 |
+| [Magic](https://open.spotify.com/track/054npqr8dWDHfI9rLOGyN8) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Magic](https://open.spotify.com/album/4m0Ki8UBZSIhxz0VoRrq2U) | 3:42 | 2025-12-08 |  |
 | [MAGNETIC](https://open.spotify.com/track/784C7AyqUuTQNvJxigMZTS) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [MAGNETIC](https://open.spotify.com/album/1bzrE6x00bz3Q5TVizybfy) | 3:12 | 2024-03-22 | 2024-03-30 |
 | [Magno Interitus](https://open.spotify.com/track/2eAer3KcjPluOhra1Qo6DS) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Joe Bad](https://open.spotify.com/artist/1GI7k8gduzXUlQrnH3Aizp) | [Magno Interitus](https://open.spotify.com/album/3D9Uy89sXoOF9eXKFNxktl) | 3:27 | 2022-05-06 | 2022-05-13 |
 | [Magnolia](https://open.spotify.com/track/4NplbKZO0lLEZ3obzxWBpt) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Magnolia](https://open.spotify.com/album/0u2ZC6H4KaVg9PupIkKx7S) | 4:14 | 2025-01-31 | 2025-02-08 |

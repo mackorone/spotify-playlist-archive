@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3092\u7279\u96c6\u3002Cover: Michael Kaneko",
-  "num_followers": 64533,
+  "num_followers": 64531,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-12-03 04:22:21",
       "album": {
-        "name": "\u305a\u3063\u3068\u30e9\u30d6\u30bd\u30f3\u30b0",
-        "url": "https://open.spotify.com/album/6Nvzx5sB6BLuc9rrThucvq"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 212548,
-      "name": "\u305a\u3063\u3068\u30e9\u30d6\u30bd\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/7slVPAiTi7H25Oxburz5Ky"
-    },
-    {
-      "added_at": "2025-12-03 04:22:21",
-      "album": {
         "name": "to",
         "url": "https://open.spotify.com/album/0SqBA1TfurxYxshpTlHVLe"
       },
@@ -595,18 +579,18 @@
     {
       "added_at": "2025-12-03 04:22:21",
       "album": {
-        "name": "\u5f98\u5f8a",
-        "url": "https://open.spotify.com/album/14i344lLBeDbxteHg1k1eH"
+        "name": "\u305a\u3063\u3068\u30e9\u30d6\u30bd\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/6Nvzx5sB6BLuc9rrThucvq"
       },
       "artists": [
         {
-          "name": "AKASAKI",
-          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
         }
       ],
-      "duration_ms": 191075,
-      "name": "\u5f98\u5f8a",
-      "url": "https://open.spotify.com/track/3LgnpvnJw75GuuzUW2eDJb"
+      "duration_ms": 212548,
+      "name": "\u305a\u3063\u3068\u30e9\u30d6\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/7slVPAiTi7H25Oxburz5Ky"
     },
     {
       "added_at": "2025-12-03 04:22:21",
@@ -623,6 +607,22 @@
       "duration_ms": 183917,
       "name": "\u975e\u5e38\u53e3 \u9003\u3052\u3066\u307f\u305f",
       "url": "https://open.spotify.com/track/3iPifjgO9OcLAcGC55lIKZ"
+    },
+    {
+      "added_at": "2025-12-03 04:22:21",
+      "album": {
+        "name": "\u5f98\u5f8a",
+        "url": "https://open.spotify.com/album/14i344lLBeDbxteHg1k1eH"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "duration_ms": 191075,
+      "name": "\u5f98\u5f8a",
+      "url": "https://open.spotify.com/track/3LgnpvnJw75GuuzUW2eDJb"
     },
     {
       "added_at": "2025-12-03 04:22:21",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-12-03 04:22:21",
       "album": {
-        "name": "TOGE",
-        "url": "https://open.spotify.com/album/7lFfHjC3q539cmhX71Dlhz"
-      },
-      "artists": [
-        {
-          "name": "AKASAKI",
-          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
-        }
-      ],
-      "duration_ms": 252352,
-      "name": "TOGE",
-      "url": "https://open.spotify.com/track/11V0ZqAECzIKV2f1RHbFKN"
-    },
-    {
-      "added_at": "2025-12-03 04:22:21",
-      "album": {
         "name": "BEAT",
         "url": "https://open.spotify.com/album/6lSiYV5LPdVrw1gTXF51ww"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 217548,
       "name": "BEAT",
       "url": "https://open.spotify.com/track/3hu0rFbcbMCC5mzdmL6JPr"
+    },
+    {
+      "added_at": "2025-12-03 04:22:21",
+      "album": {
+        "name": "TOGE",
+        "url": "https://open.spotify.com/album/7lFfHjC3q539cmhX71Dlhz"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "duration_ms": 252352,
+      "name": "TOGE",
+      "url": "https://open.spotify.com/track/11V0ZqAECzIKV2f1RHbFKN"
     },
     {
       "added_at": "2025-12-03 04:22:21",
@@ -755,6 +755,26 @@
     {
       "added_at": "2025-12-03 04:22:21",
       "album": {
+        "name": "\u30c7\u30b8\u30bf\u30eb\u30fb\u30e9\u30d6",
+        "url": "https://open.spotify.com/album/4BMR0iTGRG76xRmH6K1QmG"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        },
+        {
+          "name": "\u306a\u3068\u308a",
+          "url": "https://open.spotify.com/artist/3lagKxU3X84fGgnH9gekjy"
+        }
+      ],
+      "duration_ms": 136120,
+      "name": "\u30af\u30e9\u30c3\u30b7\u30e5",
+      "url": "https://open.spotify.com/track/52bUzd6abRXpGBt9a3Gxc9"
+    },
+    {
+      "added_at": "2025-12-03 04:22:21",
+      "album": {
         "name": "Thinking of You",
         "url": "https://open.spotify.com/album/548AzNIS7caaO926qVC4Ob"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 176160,
       "name": "KIRA KIRA",
       "url": "https://open.spotify.com/track/12Br6Xz71WNxT8CRu28n0X"
-    },
-    {
-      "added_at": "2025-12-03 04:22:21",
-      "album": {
-        "name": "\u30c7\u30b8\u30bf\u30eb\u30fb\u30e9\u30d6",
-        "url": "https://open.spotify.com/album/4BMR0iTGRG76xRmH6K1QmG"
-      },
-      "artists": [
-        {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
-        },
-        {
-          "name": "\u306a\u3068\u308a",
-          "url": "https://open.spotify.com/artist/3lagKxU3X84fGgnH9gekjy"
-        }
-      ],
-      "duration_ms": 136120,
-      "name": "\u30af\u30e9\u30c3\u30b7\u30e5",
-      "url": "https://open.spotify.com/track/52bUzd6abRXpGBt9a3Gxc9"
     },
     {
       "added_at": "2025-12-03 04:22:21",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-12-03 04:22:21",
       "album": {
-        "name": "Quest",
-        "url": "https://open.spotify.com/album/0XTbulkI0iUJ8Kkw1jlNr5"
-      },
-      "artists": [
-        {
-          "name": "Kiro Akiyama",
-          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
-        }
-      ],
-      "duration_ms": 269960,
-      "name": "Quest",
-      "url": "https://open.spotify.com/track/2QINGugMpwAN9jTZ1VF6n2"
-    },
-    {
-      "added_at": "2025-12-03 04:22:21",
-      "album": {
         "name": "\u30ad\u30df\u304c\u3044\u306a\u3044\u3068",
         "url": "https://open.spotify.com/album/0uT3czZrsT57vsb4R9KPG5"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 215115,
       "name": "\u30ad\u30df\u304c\u3044\u306a\u3044\u3068",
       "url": "https://open.spotify.com/track/0DvgsF4TJLflTcGrlkIpKM"
+    },
+    {
+      "added_at": "2025-12-03 04:22:21",
+      "album": {
+        "name": "Quest",
+        "url": "https://open.spotify.com/album/0XTbulkI0iUJ8Kkw1jlNr5"
+      },
+      "artists": [
+        {
+          "name": "Kiro Akiyama",
+          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
+        }
+      ],
+      "duration_ms": 269960,
+      "name": "Quest",
+      "url": "https://open.spotify.com/track/2QINGugMpwAN9jTZ1VF6n2"
     },
     {
       "added_at": "2025-12-03 04:22:21",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-12-03 04:22:21",
       "album": {
-        "name": "Quest",
-        "url": "https://open.spotify.com/album/6DmFZuLvzOdbgBOBKuRgYW"
-      },
-      "artists": [
-        {
-          "name": "Kiro Akiyama",
-          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
-        }
-      ],
-      "duration_ms": 185106,
-      "name": "\u30d6\u30e9\u30f3\u30b3",
-      "url": "https://open.spotify.com/track/4vMf6s0oq35fE7rRiniFZL"
-    },
-    {
-      "added_at": "2025-12-03 04:22:21",
-      "album": {
         "name": "Wormhole / Yumi AraI",
         "url": "https://open.spotify.com/album/2BJD3fJ7bkUkGlkH0H0Yuv"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 269881,
       "name": "\u5ca9\u7901\u306e\u304d\u3089\u3081\u304d",
       "url": "https://open.spotify.com/track/1J8mhy1U7t6BmBmxqq3tiF"
+    },
+    {
+      "added_at": "2025-12-03 04:22:21",
+      "album": {
+        "name": "Quest",
+        "url": "https://open.spotify.com/album/6DmFZuLvzOdbgBOBKuRgYW"
+      },
+      "artists": [
+        {
+          "name": "Kiro Akiyama",
+          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
+        }
+      ],
+      "duration_ms": 185106,
+      "name": "\u30d6\u30e9\u30f3\u30b3",
+      "url": "https://open.spotify.com/track/4vMf6s0oq35fE7rRiniFZL"
     },
     {
       "added_at": "2025-12-03 04:22:21",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-12-03 04:22:21",
       "album": {
-        "name": "\u5915\u65e5",
-        "url": "https://open.spotify.com/album/43ap3DY2HKTUQ8qIUAT0ik"
-      },
-      "artists": [
-        {
-          "name": "\u4e2d\u5cf6 \u5bc2",
-          "url": "https://open.spotify.com/artist/3XJ7WCAaSoiqWePVw9qZdL"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "\u5915\u65e5",
-      "url": "https://open.spotify.com/track/76jsGuWtNMd3p9HBPvolIg"
-    },
-    {
-      "added_at": "2025-12-03 04:22:21",
-      "album": {
         "name": "JOOOOKE",
         "url": "https://open.spotify.com/album/5Db4faF7Qcj7RUH5po6Xor"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 183966,
       "name": "JOOOOKE",
       "url": "https://open.spotify.com/track/6XdHXowM9CEZICEQPu71F2"
+    },
+    {
+      "added_at": "2025-12-03 04:22:21",
+      "album": {
+        "name": "\u5915\u65e5",
+        "url": "https://open.spotify.com/album/43ap3DY2HKTUQ8qIUAT0ik"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6 \u5bc2",
+          "url": "https://open.spotify.com/artist/3XJ7WCAaSoiqWePVw9qZdL"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "\u5915\u65e5",
+      "url": "https://open.spotify.com/track/76jsGuWtNMd3p9HBPvolIg"
     },
     {
       "added_at": "2025-12-03 04:22:21",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2025-12-03 04:22:21",
       "album": {
+        "name": "2\u4eba\u306e\u30c9\u30e9\u30de",
+        "url": "https://open.spotify.com/album/4DvueRc4WXWvWWCx60bH47"
+      },
+      "artists": [
+        {
+          "name": "\u5317\u8c37 \u7409\u559c",
+          "url": "https://open.spotify.com/artist/6b2avTcQHdmOBEQVaxQE5P"
+        }
+      ],
+      "duration_ms": 251452,
+      "name": "2\u4eba\u306e\u30c9\u30e9\u30de",
+      "url": "https://open.spotify.com/track/6BMZmxMoaysa5BVFlFWQGa"
+    },
+    {
+      "added_at": "2025-12-03 04:22:21",
+      "album": {
         "name": "P.S. I LOVE YOU",
         "url": "https://open.spotify.com/album/51MUlhID8Y9Hry6TLVvR2A"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 211333,
       "name": "Eureka",
       "url": "https://open.spotify.com/track/3Xlp0ooJPclP1Gw7YpeOir"
-    },
-    {
-      "added_at": "2025-12-03 04:22:21",
-      "album": {
-        "name": "2\u4eba\u306e\u30c9\u30e9\u30de",
-        "url": "https://open.spotify.com/album/4DvueRc4WXWvWWCx60bH47"
-      },
-      "artists": [
-        {
-          "name": "\u5317\u8c37 \u7409\u559c",
-          "url": "https://open.spotify.com/artist/6b2avTcQHdmOBEQVaxQE5P"
-        }
-      ],
-      "duration_ms": 251452,
-      "name": "2\u4eba\u306e\u30c9\u30e9\u30de",
-      "url": "https://open.spotify.com/track/6BMZmxMoaysa5BVFlFWQGa"
     },
     {
       "added_at": "2025-12-03 04:22:21",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2025-12-03 04:22:21",
       "album": {
-        "name": "Love you like that",
-        "url": "https://open.spotify.com/album/4iC9bRB1VTbDAykvGq50jN"
-      },
-      "artists": [
-        {
-          "name": "Swagcky",
-          "url": "https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj"
-        }
-      ],
-      "duration_ms": 212027,
-      "name": "Love you like that",
-      "url": "https://open.spotify.com/track/7LOMvbcUYF84aCAZ7JGXzb"
-    },
-    {
-      "added_at": "2025-12-03 04:22:21",
-      "album": {
         "name": "\u8eca\u7a93",
         "url": "https://open.spotify.com/album/3l6T1smVcWcEiNhVIsDbeB"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 223200,
       "name": "\u8eca\u7a93",
       "url": "https://open.spotify.com/track/6Kcz9S4J6aHgUgELVu2pKH"
+    },
+    {
+      "added_at": "2025-12-03 04:22:21",
+      "album": {
+        "name": "Love you like that",
+        "url": "https://open.spotify.com/album/4iC9bRB1VTbDAykvGq50jN"
+      },
+      "artists": [
+        {
+          "name": "Swagcky",
+          "url": "https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj"
+        }
+      ],
+      "duration_ms": 212027,
+      "name": "Love you like that",
+      "url": "https://open.spotify.com/track/7LOMvbcUYF84aCAZ7JGXzb"
     },
     {
       "added_at": "2025-12-03 04:22:21",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2025-12-03 04:22:21",
       "album": {
-        "name": "1R+1",
-        "url": "https://open.spotify.com/album/4cpiWXITsWekvp6fu5YmS3"
+        "name": "All About McGuffin",
+        "url": "https://open.spotify.com/album/2G5FsWdPfY3zQKRUncRIa4"
       },
       "artists": [
         {
-          "name": "Toaka",
-          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+          "name": "mei ehara",
+          "url": "https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF"
         }
       ],
-      "duration_ms": 243520,
-      "name": "\u306d\u3047\u306d\u3047\u5148\u8f29",
-      "url": "https://open.spotify.com/track/5NUkGDdzDZLIJH29K7EbBf"
+      "duration_ms": 209521,
+      "name": "After that...",
+      "url": "https://open.spotify.com/track/3h4VFjkuKs70dIXBCb5CcS"
     }
   ],
   "unique_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",

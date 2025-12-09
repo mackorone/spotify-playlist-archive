@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 298,646 likes - 270 songs - 15 hr 17 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 298,619 likes - 270 songs - 15 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 | 2 | [River Flows in You](https://open.spotify.com/track/3xr8COed4nPPn6XWZ0iCGr) | [Yiruma](https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz) | [The Best \- Reminiscent 10th Anniversary](https://open.spotify.com/album/7dZ49XnPBaF4e6SMYmsNQ1) | 3:38 |
 | 3 | [Suite in D Minor, HWV 428: III\. Allemande](https://open.spotify.com/track/4aVUQfYjeQ6ITfMQSsGOm0) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Jeneba Kanneh\-Mason](https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ) | [Jane Austen's Piano](https://open.spotify.com/album/4EO4CvhDTFebWuTYyPybUN) | 2:05 |
 | 4 | [In the Bleak Midwinter, H.73, No.1 \(Arr\. for Violin, Soprano & Ensemble by Max Knoth\)](https://open.spotify.com/track/1WjQpQ6XTVNOnXxq5yDtT7) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [Malakai Bayoh](https://open.spotify.com/artist/4x4r99t13eG9YSKLlhdB9r), [Esther Abrami Ensemble](https://open.spotify.com/artist/3RwLOpBYQ4MK3htNGKimtz) | [Nightlight](https://open.spotify.com/album/26IIISzd1ZguoAIIDbxEYA) | 3:06 |
-| 5 | [This Shining Night](https://open.spotify.com/track/4XVPZwMP3zze7zQbr4AYcx) | [Anna Lapwood](https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP) | [This Shining Night](https://open.spotify.com/album/3Zvy7XiK2OYNCCmGjjkqHr) | 4:14 |
+| 5 | [This Shining Night](https://open.spotify.com/track/4XVPZwMP3zze7zQbr4AYcx) | [Christopher Churcher](https://open.spotify.com/artist/3e9SuccM0VamEiWO2Tt0Ch), [Anna Lapwood](https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP) | [This Shining Night](https://open.spotify.com/album/3Zvy7XiK2OYNCCmGjjkqHr) | 4:14 |
 | 6 | [Mazurka in C Minor](https://open.spotify.com/track/0iTGEof2NpDqJkL6X6neFF) | [Mikhail Glinka](https://open.spotify.com/artist/1GEuHbNwTRj4QPyoythtBh), [Alexander Malofeev](https://open.spotify.com/artist/02QMwZF7kLqDVGDTZ5GoSw) | [Mazurka in C Minor](https://open.spotify.com/album/5DUJjG5yZweCXkjycMQ2vh) | 1:42 |
 | 7 | [Variations On Jingle Bells](https://open.spotify.com/track/11QWqj7jWWbpCQZVQyG4A4) | [James Lord Pierpont](https://open.spotify.com/artist/4dQg1sHFFZrwuVN87UxJgb), [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Variations On Jingle Bells](https://open.spotify.com/album/4ZvqmV9gJTy1ayQyxmjzJa) | 2:35 |
 | 8 | [Caprice sur des motifs de l'opéra 'Le comte Ory', Op\. 3: I\. Andantino sostenuto](https://open.spotify.com/track/1S9g7Iw0fjbyWGhe0mcrxK) | [Adrien François Servais](https://open.spotify.com/artist/0Cu6kEZ4NSDg6FVLS9eIBV), [Sol Gabetta](https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN), [Victor Julien\-Laferrière](https://open.spotify.com/artist/2f31hgkqBIVESuOHGmvyVX) | [Caprice sur des motifs de l'opéra 'Le comte Ory', Op\. 3/I\. Andantino sostenuto](https://open.spotify.com/album/1dziEPkKxdFZwpX1cMLzvi) | 1:58 |

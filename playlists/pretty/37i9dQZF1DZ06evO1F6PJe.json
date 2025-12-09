@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 109073,
+  "num_followers": 109077,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAABBSTxnt/pyUgrk9m81QhB1",
+  "snapshot_id": "aTTDgAAAAADX/Tl24XjpkPNMsygLVdjl",
   "tracks": [
     {
       "added_at": null,
@@ -387,42 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S.O.S. 4: Blues For Your Soul",
-        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
-      },
-      "artists": [
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "That's What Love Will Make You Do",
-      "url": "https://open.spotify.com/track/1s9pvVcRTbeGjT7RqMGVa1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breakthrough",
-        "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 244706,
-      "name": "Trigger Finger",
-      "url": "https://open.spotify.com/track/5opU7iBbcGxUkZy3yXIil2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To Know You Is To Love You",
         "url": "https://open.spotify.com/album/2n1ZIq9IpzwEvmfTdgE6IT"
       },
@@ -447,6 +411,42 @@
       "duration_ms": 330920,
       "name": "To Know You Is To Love You",
       "url": "https://open.spotify.com/track/2dO7ugDcoN6xBoJ1JMK0bR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 244706,
+      "name": "Trigger Finger",
+      "url": "https://open.spotify.com/track/5opU7iBbcGxUkZy3yXIil2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S.O.S. 4: Blues For Your Soul",
+        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "That's What Love Will Make You Do",
+      "url": "https://open.spotify.com/track/1s9pvVcRTbeGjT7RqMGVa1"
     },
     {
       "added_at": null,
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joe Bonamassa Live from the Royal Albert Hall",
-        "url": "https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 344853,
-      "name": "Further On Up the Road - Live",
-      "url": "https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues Of Desperation",
         "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 400333,
       "name": "Happier Times",
       "url": "https://open.spotify.com/track/4iEHQSpgBrclLwErcU5Lwj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joe Bonamassa Live from the Royal Albert Hall",
+        "url": "https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 344853,
+      "name": "Further On Up the Road - Live",
+      "url": "https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg"
     },
     {
       "added_at": null,
@@ -603,30 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/5PbaYl5vwZdLXijvKB6aTA"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
-        {
-          "name": "Trombone Shorty",
-          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
-        },
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/45QXWki69ZZxsibCk1bXf3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trilogy, Vol. 1",
         "url": "https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP"
       },
@@ -659,6 +635,30 @@
       "duration_ms": 343906,
       "name": "Mountain Climbing",
       "url": "https://open.spotify.com/track/3QdefKbNfifFnCwlpLtQcG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/5PbaYl5vwZdLXijvKB6aTA"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        },
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/45QXWki69ZZxsibCk1bXf3"
     },
     {
       "added_at": null,

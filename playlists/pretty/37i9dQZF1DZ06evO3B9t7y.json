@@ -1,12 +1,12 @@
 {
   "description": "This is Car\u00edn Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 1104504,
+  "num_followers": 1104706,
   "original_name": "This Is Car\u00edn Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAAC08ov189yI6/DWFhoDVnB2",
+  "snapshot_id": "aTTDgAAAAADT7CQtlNxbbkGH9f4x/DOs",
   "tracks": [
     {
       "added_at": null,
@@ -203,26 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/0DyrDEUuaMhUJ4ebJoAm4H"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 232458,
-      "name": "A Medio Vivir",
-      "url": "https://open.spotify.com/track/3gJzqwjF3Yjl4OAZJVG0yx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo M\u00e1s Escuchado del 2023",
         "url": "https://open.spotify.com/album/3i1CjH1vT2s05QhuYKoxCE"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 183667,
       "name": "Te Lo Agradezco",
       "url": "https://open.spotify.com/track/14k3Rb7Xgte9fsndjdenmq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/0DyrDEUuaMhUJ4ebJoAm4H"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 232458,
+      "name": "A Medio Vivir",
+      "url": "https://open.spotify.com/track/3gJzqwjF3Yjl4OAZJVG0yx"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 180542,
-      "name": "Te V\u00ed Con El",
-      "url": "https://open.spotify.com/track/3osBlMQdoOr4Mw7DU0q2v3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNA HISTORIA IMPORTANTE",
         "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
       },
@@ -827,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boca Chueca, Vol. 1",
-        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
       },
       "artists": [
         {
@@ -836,9 +820,9 @@
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 194838,
-      "name": "Aunque t\u00fa no lo sepas",
-      "url": "https://open.spotify.com/track/1sZzTN6MOnagdaHMd0n5lm"
+      "duration_ms": 180542,
+      "name": "Te V\u00ed Con El",
+      "url": "https://open.spotify.com/track/3osBlMQdoOr4Mw7DU0q2v3"
     },
     {
       "added_at": null,
@@ -855,6 +839,22 @@
       "duration_ms": 200488,
       "name": "Si Tu Amor No Vuelve - En Vivo",
       "url": "https://open.spotify.com/track/0qdXhtNnihSMutX2UDK2uv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 194838,
+      "name": "Aunque t\u00fa no lo sepas",
+      "url": "https://open.spotify.com/track/1sZzTN6MOnagdaHMd0n5lm"
     },
     {
       "added_at": null,
@@ -935,22 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando La Vida Sea Trago",
-        "url": "https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Cuando La Vida Sea Trago",
-      "url": "https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfY ahora qu\u00e9 +?",
         "url": "https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 172853,
       "name": "Mil motivos",
       "url": "https://open.spotify.com/track/1vRGlAO0DaYZxDOaPsJzy9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando La Vida Sea Trago",
+        "url": "https://open.spotify.com/album/6YNMH9MWTeqbfw4fS6zH5x"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Cuando La Vida Sea Trago",
+      "url": "https://open.spotify.com/track/2H9XdwA9tD3riAXZmRHBgs"
     }
   ],
   "unique_name": "This Is Car\u00edn Le\u00f3n",

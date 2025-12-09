@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 
 > The best of Canadian R&B this year, handpicked by Spotify Canada editors\. Cover: Avenoir
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,976 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,988 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

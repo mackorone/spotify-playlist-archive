@@ -1,12 +1,12 @@
 {
   "description": "This is Dave. The essential tracks, all in one playlist.",
-  "num_followers": 255222,
+  "num_followers": 255339,
   "original_name": "This Is Dave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAABokOHKHqCAV5oRh1TtXJCD",
+  "snapshot_id": "aTTDgAAAAACZ1SuiuRo4OuimAaqO0CFz",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PSYCHODRAMA",
-        "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "Environment",
-      "url": "https://open.spotify.com/track/7l1P6WtVtq1zQMq6qazNA4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Titanium & Mercury",
         "url": "https://open.spotify.com/album/1A0K9zewunqFt9drGNk2W5"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 127750,
       "name": "Titanium",
       "url": "https://open.spotify.com/track/2qzW5AK8ldKUOWUETwAkZY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PSYCHODRAMA",
+        "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Environment",
+      "url": "https://open.spotify.com/track/7l1P6WtVtq1zQMq6qazNA4"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/4sANgPN5QxueFQmfIxGZi0"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 196022,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/6ctmWJntoQg4n8cZEQqCjA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 538279,
       "name": "My 19th Birthday",
       "url": "https://open.spotify.com/track/4KCfCctnZQd5mem6S3HhKi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/4sANgPN5QxueFQmfIxGZi0"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 196022,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/6ctmWJntoQg4n8cZEQqCjA"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,541 likes - 384 songs - 19 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,540 likes - 384 songs - 19 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 107 | [Sunshine](https://open.spotify.com/track/1XQzFLT6rhCsT0rMJGpDjS) | [Tatiana Eva\-Marie](https://open.spotify.com/artist/3Nmm3IacxsC92dEP0kWL3z) | [Sunshine](https://open.spotify.com/album/4UpsA4LeAfEchjDBLRnQE1) | 3:51 |
 | 108 | [Let Me Sing and I'm Happy](https://open.spotify.com/track/3hufPe6iNeGF3kpgAwa07d) | [Karen Morrow](https://open.spotify.com/artist/4jmlL3ds6VuZNQhjjYruFk) | [Irving Berlin's White Christmas \(Original Broadway Cast Recording\)](https://open.spotify.com/album/43HbWHgKPaSlr1wcU8ppa0) | 2:43 |
 | 109 | [Drum Crazy](https://open.spotify.com/track/4mNzNvfIx7rRcvoNSJH10K) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Irving Berlin's Easter Parade \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2WUGy3NCzX96ACiUa98hty) | 4:01 |
-| 110 | [Call Me Up Some Rainy Afternoon](https://open.spotify.com/track/2Sbhp2gqkFr0VQv0MJxOqr) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Sings The Irving Berlin Songbook](https://open.spotify.com/album/2gFe0K8uKPllO0uxVc8dwD) | 1:50 |
-| 111 | [Weiße Weihnacht](https://open.spotify.com/track/1awVQiDyDLYPisjVhD1J1o) | [Fantasy](https://open.spotify.com/artist/3QK6XTFKV94wlcLVQkBJ8O) | [Weihnachten mit Fantasy](https://open.spotify.com/album/7xQv1DvE5scxuPjjZEzhZ9) | 3:36 |
+| 110 | [Weiße Weihnacht](https://open.spotify.com/track/1awVQiDyDLYPisjVhD1J1o) | [Fantasy](https://open.spotify.com/artist/3QK6XTFKV94wlcLVQkBJ8O) | [Weihnachten mit Fantasy](https://open.spotify.com/album/7xQv1DvE5scxuPjjZEzhZ9) | 3:36 |
+| 111 | [Call Me Up Some Rainy Afternoon](https://open.spotify.com/track/2Sbhp2gqkFr0VQv0MJxOqr) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Sings The Irving Berlin Songbook](https://open.spotify.com/album/2gFe0K8uKPllO0uxVc8dwD) | 1:50 |
 | 112 | [I'll See You in C\-U\-B\-A](https://open.spotify.com/track/5DuLXthSYkYfd7y7h5kSg4) | [Billy Murray](https://open.spotify.com/artist/7k8b9KwXEScnxxeVPLXOIS) | [Foolish Questions](https://open.spotify.com/album/5vTSLK2CMSrr8uzeY9SiS7) | 2:58 |
 | 113 | [Everybody Step \(06\-09\-38\)](https://open.spotify.com/track/1YTDZPPo5imr7JmeUi38lx) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Complete Jazz Series 1938 \- 1939](https://open.spotify.com/album/5V3NTdtrn9qHJyfZhJU3zL) | 2:49 |
 | 114 | [No Me Dejes \- Remastered 2021](https://open.spotify.com/track/3hDxjVfmW3BIldWobKIQ5g) | [Matt Monro](https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl) | [Todo Pasará \(Remastered 2021\)](https://open.spotify.com/album/0teD0KMeRNvAjmuiXNiR99) | 3:07 |
@@ -333,8 +333,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 323 | [My Sweetie](https://open.spotify.com/track/6k5OeowyIZnJUxx9hE0mA2) | [Giuseppe Bausilio](https://open.spotify.com/artist/0elZBMcdSRBzL7WJctaKNl) | [Chip Deffaa's Irving Berlin Rediscovered: Rare Songs of Love and Longing](https://open.spotify.com/album/5xUxnlf2ajJrp3bnGSzyXG) | 2:06 |
 | 324 | [Alexander and His Clarinet](https://open.spotify.com/track/4HVQS5bWdiA6ccnNHbmYHv) | [Timothy Thompson](https://open.spotify.com/artist/7L44YZVtaEW6wTt3zxbTrt), [Emily Bordonaro](https://open.spotify.com/artist/59uWpNe0EoXl5FafMgJTKZ) | [Chip Deffaa's Irving Berlin: Sweet and Hot](https://open.spotify.com/album/5uzr4VbJR04zFvWgoK3Zc2) | 2:19 |
 | 325 | [Ephraham Played Upon the Piano](https://open.spotify.com/track/4bgIB7IQWrqkOqdNbNwumj) | [Mary Cantoni Johnson](https://open.spotify.com/artist/0rtowPHfKo6ACDTFdb5kw9) | [Chip Deffaa's Irving Berlin Ragtime Rarities](https://open.spotify.com/album/5EEm4YvkC2TQpqk5RJeJ8W) | 1:32 |
-| 326 | [The Circus Is Coming to Town](https://open.spotify.com/track/3lnJlle75hmvtGGcgbDGlU) | [Michael Townsend Wright](https://open.spotify.com/artist/2Pdr83uirdoiEJj2GWs78H), [Giuseppe Bausilio](https://open.spotify.com/artist/0elZBMcdSRBzL7WJctaKNl) | [The Michael Townsend Wright Album](https://open.spotify.com/album/7FRP4PuC0gmbGXFuYclBL9) | 1:24 |
-| 327 | [Everything in America Is Ragtime](https://open.spotify.com/track/4nyzsRS730YEh7ZAiKpa60) | [Jon Peterson](https://open.spotify.com/artist/1O60tT6Tmfwu4Cs34I1O3J) | [Chip Deffaa's Irving Berlin Ragtime Rarities](https://open.spotify.com/album/5EEm4YvkC2TQpqk5RJeJ8W) | 3:09 |
+| 326 | [Everything in America Is Ragtime](https://open.spotify.com/track/4nyzsRS730YEh7ZAiKpa60) | [Jon Peterson](https://open.spotify.com/artist/1O60tT6Tmfwu4Cs34I1O3J) | [Chip Deffaa's Irving Berlin Ragtime Rarities](https://open.spotify.com/album/5EEm4YvkC2TQpqk5RJeJ8W) | 3:09 |
+| 327 | [The Circus Is Coming to Town](https://open.spotify.com/track/3lnJlle75hmvtGGcgbDGlU) | [Michael Townsend Wright](https://open.spotify.com/artist/2Pdr83uirdoiEJj2GWs78H), [Giuseppe Bausilio](https://open.spotify.com/artist/0elZBMcdSRBzL7WJctaKNl) | [The Michael Townsend Wright Album](https://open.spotify.com/album/7FRP4PuC0gmbGXFuYclBL9) | 1:24 |
 | 328 | [Und führ' ich ein Mädchen zum Traualtar](https://open.spotify.com/track/2R8u5mzg1JVvOlpO5RM41w) | [Lale Andersen](https://open.spotify.com/artist/0y5xsfoyu9qTFlOpopzHn8) | [Lale Andersen](https://open.spotify.com/album/6M3wC5DxkDDPyoQWjtXXCS) | 2:21 |
 | 329 | [Song for a Belly Dancer](https://open.spotify.com/track/1iGKoawdOh9ZDhW6NWGBSA) | [Douglas Gamley Orchestra](https://open.spotify.com/artist/2WkPbU8uzeFBzoMCU41naf) | [Mr\. President & Other Show Stoppers from Irving Berlin's Broadway](https://open.spotify.com/album/0nmMtS4SnkPDVVGmL0ktaw) | 2:58 |
 | 330 | [You're A Sucker For A Dame](https://open.spotify.com/track/1TmhREwS0VUnYhQPpyQGYN) | [Guy Haines](https://open.spotify.com/artist/6DeAuFRcRuteZ0ql78kzPk) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 3:35 |
@@ -393,4 +393,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 383 | [They Always Follow Me Around](https://open.spotify.com/track/26DUrnMBUJ6DQGdhzMgNxa) | [Jon Peterson](https://open.spotify.com/artist/07NsCTxS9SkrG7UHDw0dAy) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:27 |
 | 384 | [I'm a Dancing Teacher Now](https://open.spotify.com/track/7z2mOgbLgU2KxNUP86yITT) | [Ray DeMattis](https://open.spotify.com/artist/3r8JgnATt9fBES77wAgbdi) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:06 |
 
-Snapshot ID: `AcDnnAAAAACIm10GyPFM3xXr/pkwr4bv`
+Snapshot ID: `AcDtPAAAAAATNYI5lYQbCz0jaPSewZBz`

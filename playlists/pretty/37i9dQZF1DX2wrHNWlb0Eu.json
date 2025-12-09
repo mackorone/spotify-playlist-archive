@@ -1,6 +1,6 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e17\u0e35\u0e48\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49",
-  "num_followers": 123099,
+  "num_followers": 123113,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2025-12-06 17:51:47",
       "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/4HusBQo7V60wRjyJelOr7X"
-      },
-      "artists": [
-        {
-          "name": "Musketeers",
-          "url": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
-        }
-      ],
-      "duration_ms": 238392,
-      "name": "\u0e41\u0e04\u0e48\u0e04\u0e38\u0e13",
-      "url": "https://open.spotify.com/track/5u8iqPNTa3ryOqeiNdgi6o"
-    },
-    {
-      "added_at": "2025-12-06 17:51:47",
-      "album": {
         "name": "80 Kisses",
         "url": "https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 227000,
       "name": "\u0e40\u0e27\u0e25\u0e32\u0e40\u0e18\u0e2d\u0e22\u0e34\u0e49\u0e21 (You Had Me At Hello)",
       "url": "https://open.spotify.com/track/06DPpk0hUJEgpzl5cuWNI6"
+    },
+    {
+      "added_at": "2025-12-06 17:51:47",
+      "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/4HusBQo7V60wRjyJelOr7X"
+      },
+      "artists": [
+        {
+          "name": "Musketeers",
+          "url": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
+        }
+      ],
+      "duration_ms": 238392,
+      "name": "\u0e41\u0e04\u0e48\u0e04\u0e38\u0e13",
+      "url": "https://open.spotify.com/track/5u8iqPNTa3ryOqeiNdgi6o"
     },
     {
       "added_at": "2025-12-06 17:51:47",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-12-06 17:51:47",
       "album": {
-        "name": "\u0e43\u0e08\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e33\u0e04\u0e31\u0e0d (From \"\u0e23\u0e31\u0e01\u0e2b\u0e21\u0e14\u0e41\u0e01\u0e49\u0e27 Love on the Rocks\")",
-        "url": "https://open.spotify.com/album/77BBKWvVuqbLRIHoJIYEdY"
-      },
-      "artists": [
-        {
-          "name": "Musketeers",
-          "url": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
-        }
-      ],
-      "duration_ms": 216114,
-      "name": "\u0e43\u0e08\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e33\u0e04\u0e31\u0e0d - From \"\u0e23\u0e31\u0e01\u0e2b\u0e21\u0e14\u0e41\u0e01\u0e49\u0e27 Love on the Rocks\"",
-      "url": "https://open.spotify.com/track/1QVDZtpOnbu9nt8qzzRPqY"
-    },
-    {
-      "added_at": "2025-12-06 17:51:47",
-      "album": {
         "name": "\u0e0a\u0e2d\u0e1a\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e15\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
         "url": "https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 222727,
       "name": "\u0e0a\u0e2d\u0e1a\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07\u0e15\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM"
+    },
+    {
+      "added_at": "2025-12-06 17:51:47",
+      "album": {
+        "name": "\u0e43\u0e08\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e33\u0e04\u0e31\u0e0d (From \"\u0e23\u0e31\u0e01\u0e2b\u0e21\u0e14\u0e41\u0e01\u0e49\u0e27 Love on the Rocks\")",
+        "url": "https://open.spotify.com/album/77BBKWvVuqbLRIHoJIYEdY"
+      },
+      "artists": [
+        {
+          "name": "Musketeers",
+          "url": "https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9"
+        }
+      ],
+      "duration_ms": 216114,
+      "name": "\u0e43\u0e08\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e33\u0e04\u0e31\u0e0d - From \"\u0e23\u0e31\u0e01\u0e2b\u0e21\u0e14\u0e41\u0e01\u0e49\u0e27 Love on the Rocks\"",
+      "url": "https://open.spotify.com/track/1QVDZtpOnbu9nt8qzzRPqY"
     },
     {
       "added_at": "2025-12-06 17:51:47",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-12-06 17:51:47",
       "album": {
-        "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e40\u0e25\u0e22 (Best Luck)",
-        "url": "https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u"
-      },
-      "artists": [
-        {
-          "name": "fellow fellow",
-          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e40\u0e25\u0e22 (Best Luck)",
-      "url": "https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2"
-    },
-    {
-      "added_at": "2025-12-06 17:51:47",
-      "album": {
         "name": "\u0e2b\u0e27\u0e32\u0e19\u0e43\u0e08\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e01\u0e27\u0e48\u0e32\u0e43\u0e04\u0e23",
         "url": "https://open.spotify.com/album/0E2eCd2zuv1Iuk4MnKdros"
       },
@@ -499,18 +483,18 @@
     {
       "added_at": "2025-12-06 17:51:47",
       "album": {
-        "name": "\u0e22\u0e34\u0e19\u0e14\u0e35 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23\u0e21\u0e32\u0e15\u0e32\u0e25\u0e14\u0e32 \u0e0a\u0e48\u0e2d\u0e07 3)",
-        "url": "https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK"
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e40\u0e25\u0e22 (Best Luck)",
+        "url": "https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u"
       },
       "artists": [
         {
-          "name": "sarah salola",
-          "url": "https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E"
+          "name": "fellow fellow",
+          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
         }
       ],
-      "duration_ms": 197250,
-      "name": "\u0e22\u0e34\u0e19\u0e14\u0e35 - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23\u0e21\u0e32\u0e15\u0e32\u0e25\u0e14\u0e32 \u0e0a\u0e48\u0e2d\u0e07 3",
-      "url": "https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j"
+      "duration_ms": 190000,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e40\u0e25\u0e22 (Best Luck)",
+      "url": "https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2"
     },
     {
       "added_at": "2025-12-06 17:51:47",
@@ -531,6 +515,22 @@
       "duration_ms": 261750,
       "name": "\u0e41\u0e1b\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (14th Feb)",
       "url": "https://open.spotify.com/track/0mqvwTYkebOqQs5cxZzRqN"
+    },
+    {
+      "added_at": "2025-12-06 17:51:47",
+      "album": {
+        "name": "\u0e22\u0e34\u0e19\u0e14\u0e35 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23\u0e21\u0e32\u0e15\u0e32\u0e25\u0e14\u0e32 \u0e0a\u0e48\u0e2d\u0e07 3)",
+        "url": "https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK"
+      },
+      "artists": [
+        {
+          "name": "sarah salola",
+          "url": "https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E"
+        }
+      ],
+      "duration_ms": 197250,
+      "name": "\u0e22\u0e34\u0e19\u0e14\u0e35 - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23\u0e21\u0e32\u0e15\u0e32\u0e25\u0e14\u0e32 \u0e0a\u0e48\u0e2d\u0e07 3",
+      "url": "https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j"
     },
     {
       "added_at": "2025-12-06 17:51:47",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-12-06 17:51:47",
       "album": {
-        "name": "The White Room",
-        "url": "https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ"
-      },
-      "artists": [
-        {
-          "name": "Singular",
-          "url": "https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8"
-        }
-      ],
-      "duration_ms": 243346,
-      "name": "\u0e40\u0e1a\u0e32\u0e40\u0e1a\u0e32 (Tender)",
-      "url": "https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj"
-    },
-    {
-      "added_at": "2025-12-06 17:51:47",
-      "album": {
         "name": "\u0e08\u0e23\u0e34\u0e07\u0e46\u0e19\u0e30",
         "url": "https://open.spotify.com/album/3W0ub1BH8vz3mFc9P2YZJo"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 210598,
       "name": "\u0e08\u0e23\u0e34\u0e07\u0e46\u0e19\u0e30",
       "url": "https://open.spotify.com/track/3y7wWYnla4CN0dhqUkvLER"
+    },
+    {
+      "added_at": "2025-12-06 17:51:47",
+      "album": {
+        "name": "The White Room",
+        "url": "https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ"
+      },
+      "artists": [
+        {
+          "name": "Singular",
+          "url": "https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8"
+        }
+      ],
+      "duration_ms": 243346,
+      "name": "\u0e40\u0e1a\u0e32\u0e40\u0e1a\u0e32 (Tender)",
+      "url": "https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj"
     },
     {
       "added_at": "2025-12-06 17:51:47",
@@ -1243,18 +1243,22 @@
     {
       "added_at": "2025-12-06 17:51:47",
       "album": {
-        "name": "\u0e22\u0e34\u0e49\u0e21\u0e21\u0e32",
-        "url": "https://open.spotify.com/album/1uK6BbFiKWUZM9IKAFeME0"
+        "name": "Yours Ever",
+        "url": "https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv"
       },
       "artists": [
         {
-          "name": "BOWKYLION",
-          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
+          "name": "Cocktail",
+          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
+        },
+        {
+          "name": "Q Flure",
+          "url": "https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs"
         }
       ],
-      "duration_ms": 172000,
-      "name": "\u0e22\u0e34\u0e49\u0e21\u0e21\u0e32",
-      "url": "https://open.spotify.com/track/31g3Ggm5v25C5yjczFwIn7"
+      "duration_ms": 259380,
+      "name": "Yours Ever",
+      "url": "https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo"
     },
     {
       "added_at": "2025-12-06 17:51:47",
@@ -1311,22 +1315,18 @@
     {
       "added_at": "2025-12-06 17:51:47",
       "album": {
-        "name": "Yours Ever",
-        "url": "https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv"
+        "name": "\u0e22\u0e34\u0e49\u0e21\u0e21\u0e32",
+        "url": "https://open.spotify.com/album/1uK6BbFiKWUZM9IKAFeME0"
       },
       "artists": [
         {
-          "name": "Cocktail",
-          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
-        },
-        {
-          "name": "Q Flure",
-          "url": "https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs"
+          "name": "BOWKYLION",
+          "url": "https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr"
         }
       ],
-      "duration_ms": 259380,
-      "name": "Yours Ever",
-      "url": "https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo"
+      "duration_ms": 172000,
+      "name": "\u0e22\u0e34\u0e49\u0e21\u0e21\u0e32",
+      "url": "https://open.spotify.com/track/31g3Ggm5v25C5yjczFwIn7"
     },
     {
       "added_at": "2025-12-06 17:51:47",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2025-12-06 17:51:47",
       "album": {
-        "name": "\u0e1e\u0e34\u0e07 - Single",
-        "url": "https://open.spotify.com/album/1Sj8XTK9qjQzMS5deUO3LV"
+        "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21 - Single",
+        "url": "https://open.spotify.com/album/74xRXPyQxRiFj29WW1F1Ka"
       },
       "artists": [
         {
-          "name": "NONT TANONT",
-          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+          "name": "Cocktail",
+          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
         }
       ],
-      "duration_ms": 242727,
-      "name": "\u0e1e\u0e34\u0e07 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u0e32\u0e2a\u0e35\u0e14\u0e32)",
-      "url": "https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6"
+      "duration_ms": 207387,
+      "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21",
+      "url": "https://open.spotify.com/track/3grGyWGWsuIUxA2CudpwAB"
     },
     {
       "added_at": "2025-12-06 17:51:47",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2025-12-06 17:51:47",
       "album": {
+        "name": "\u0e1e\u0e34\u0e07 - Single",
+        "url": "https://open.spotify.com/album/1Sj8XTK9qjQzMS5deUO3LV"
+      },
+      "artists": [
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "duration_ms": 242727,
+      "name": "\u0e1e\u0e34\u0e07 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e01\u0e23\u0e30\u0e40\u0e0a\u0e49\u0e32\u0e2a\u0e35\u0e14\u0e32)",
+      "url": "https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6"
+    },
+    {
+      "added_at": "2025-12-06 17:51:47",
+      "album": {
         "name": "This City Won\u2019t Be Lonely Anymore",
         "url": "https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 296000,
       "name": "\u0e02\u0e49\u0e32\u0e07\u0e01\u0e31\u0e19 (City)",
       "url": "https://open.spotify.com/track/3vdZ30MzgeTe5PiJXEmqjr"
-    },
-    {
-      "added_at": "2025-12-06 17:51:47",
-      "album": {
-        "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21 - Single",
-        "url": "https://open.spotify.com/album/74xRXPyQxRiFj29WW1F1Ka"
-      },
-      "artists": [
-        {
-          "name": "Cocktail",
-          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
-        }
-      ],
-      "duration_ms": 207387,
-      "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21",
-      "url": "https://open.spotify.com/track/3grGyWGWsuIUxA2CudpwAB"
     },
     {
       "added_at": "2025-12-06 17:51:47",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2025-12-06 17:51:47",
       "album": {
+        "name": "\u0e25\u0e31\u0e48\u0e19\u0e17\u0e21 - Single",
+        "url": "https://open.spotify.com/album/0Oe4z8uvnmJNTV8PhobcUs"
+      },
+      "artists": [
+        {
+          "name": "Cocktail",
+          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
+        }
+      ],
+      "duration_ms": 277674,
+      "name": "\u0e25\u0e31\u0e48\u0e19\u0e17\u0e21 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e2b\u0e2d\u0e21\u0e01\u0e25\u0e34\u0e48\u0e19\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01)",
+      "url": "https://open.spotify.com/track/2uZ6hKHh0UjZMz0YKzCLT1"
+    },
+    {
+      "added_at": "2025-12-06 17:51:47",
+      "album": {
         "name": "\u0e14\u0e27\u0e07\u0e43\u0e08 - Single",
         "url": "https://open.spotify.com/album/7qccqk9A5ZyNzO6NTQDcCQ"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 261250,
       "name": "\u0e1d\u0e19\u0e15\u0e01\u0e44\u0e2b\u0e21",
       "url": "https://open.spotify.com/track/1ccwCCS7YSclzYibpK0DS4"
-    },
-    {
-      "added_at": "2025-12-06 17:51:47",
-      "album": {
-        "name": "\u0e25\u0e31\u0e48\u0e19\u0e17\u0e21 - Single",
-        "url": "https://open.spotify.com/album/0Oe4z8uvnmJNTV8PhobcUs"
-      },
-      "artists": [
-        {
-          "name": "Cocktail",
-          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
-        }
-      ],
-      "duration_ms": 277674,
-      "name": "\u0e25\u0e31\u0e48\u0e19\u0e17\u0e21 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e2b\u0e2d\u0e21\u0e01\u0e25\u0e34\u0e48\u0e19\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01)",
-      "url": "https://open.spotify.com/track/2uZ6hKHh0UjZMz0YKzCLT1"
     },
     {
       "added_at": "2025-12-06 17:51:47",
@@ -1539,6 +1539,26 @@
       "duration_ms": 280779,
       "name": "\u0e01\u0e30\u0e17\u0e31\u0e19\u0e2b\u0e31\u0e19",
       "url": "https://open.spotify.com/track/71rZCPjOAU8WBlXYPHNgRu"
+    },
+    {
+      "added_at": "2025-12-06 17:51:47",
+      "album": {
+        "name": "YOU YOU YOU - Single",
+        "url": "https://open.spotify.com/album/3iz6z2BBom6ssqUtHYj1Bx"
+      },
+      "artists": [
+        {
+          "name": "Earth Patravee",
+          "url": "https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV"
+        },
+        {
+          "name": "Ammy The Bottom Blues",
+          "url": "https://open.spotify.com/artist/4mNN31oshOzZr3yx4aXI3n"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "YOU YOU YOU",
+      "url": "https://open.spotify.com/track/2rse2ZT8eV8MT3nuglWeEb"
     },
     {
       "added_at": "2025-12-06 17:51:47",
@@ -1607,6 +1627,22 @@
     {
       "added_at": "2025-12-06 17:51:47",
       "album": {
+        "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e01\u0e33\u0e25\u0e31\u0e07\u0e01\u0e48\u0e2d\u0e15\u0e31\u0e27",
+        "url": "https://open.spotify.com/album/3ID6amkiCsnNwYEEvZg5DD"
+      },
+      "artists": [
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "duration_ms": 321699,
+      "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e01\u0e33\u0e25\u0e31\u0e07\u0e01\u0e48\u0e2d\u0e15\u0e31\u0e27",
+      "url": "https://open.spotify.com/track/4EgdU9qfAfHC8ZsGd7dnac"
+    },
+    {
+      "added_at": "2025-12-06 17:51:47",
+      "album": {
         "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
         "url": "https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D"
       },
@@ -1639,26 +1675,6 @@
     {
       "added_at": "2025-12-06 17:51:47",
       "album": {
-        "name": "YOU YOU YOU - Single",
-        "url": "https://open.spotify.com/album/3iz6z2BBom6ssqUtHYj1Bx"
-      },
-      "artists": [
-        {
-          "name": "Earth Patravee",
-          "url": "https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV"
-        },
-        {
-          "name": "Ammy The Bottom Blues",
-          "url": "https://open.spotify.com/artist/4mNN31oshOzZr3yx4aXI3n"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "YOU YOU YOU",
-      "url": "https://open.spotify.com/track/2rse2ZT8eV8MT3nuglWeEb"
-    },
-    {
-      "added_at": "2025-12-06 17:51:47",
-      "album": {
         "name": "The First Album",
         "url": "https://open.spotify.com/album/5dqU6JzyweoetwSDtq2E8I"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 220793,
       "name": "\u0e27\u0e31\u0e14\u0e1b\u0e30\u0e2b\u0e25\u0e48\u0e30? (Test Me)",
       "url": "https://open.spotify.com/track/0gEewSHZqPiNQa9DqeeUXj"
-    },
-    {
-      "added_at": "2025-12-06 17:51:47",
-      "album": {
-        "name": "\u0e1c\u0e48\u0e32\u0e19\u0e15\u0e32 (Everyday) - Single",
-        "url": "https://open.spotify.com/album/2QE4fCSdTvnUSratEyFmjU"
-      },
-      "artists": [
-        {
-          "name": "Three Man Down",
-          "url": "https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "\u0e1c\u0e48\u0e32\u0e19\u0e15\u0e32 (Everyday)",
-      "url": "https://open.spotify.com/track/7HA6Jhuis4khuPJffFGM7Y"
     }
   ],
   "unique_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",

@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 269270,
+  "num_followers": 269273,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAAD7qzBhgEq07gv5szNUDmLC",
+  "snapshot_id": "aTTDgAAAAADEV6Ws9IWsGANfnrdnzXeI",
   "tracks": [
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Presen\u00e7a (Deluxe) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1lapMenp91z3CCdPBr7S23"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 323308,
+      "name": "Meu Respirar / Meu Prazer - Ao Vivo",
+      "url": "https://open.spotify.com/track/3ceLGhHuFsoumAtxS4CVfq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tuas \u00c1guas",
         "url": "https://open.spotify.com/album/0Zbya7Y1hAjWuvkIe7Id8M"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 310200,
       "name": "Tuas \u00c1guas",
       "url": "https://open.spotify.com/track/4viVbBp6H0iP8VeCp3EQge"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Presen\u00e7a (Deluxe) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/1lapMenp91z3CCdPBr7S23"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 323308,
-      "name": "Meu Respirar / Meu Prazer - Ao Vivo",
-      "url": "https://open.spotify.com/track/3ceLGhHuFsoumAtxS4CVfq"
     },
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 Transbordar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Felippe Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05"
-        }
-      ],
-      "duration_ms": 271866,
-      "name": "Pra Onde Iremos? (feat. Felippe Valad\u00e3o) - Ao Vivo",
-      "url": "https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Som da Liberdade 2.0",
         "url": "https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 264374,
       "name": "Tu \u00c9s Real (feat. Fernandinho & Gabriela Rocha)",
       "url": "https://open.spotify.com/track/4DGIx4poXzDrzh0U1qguyT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "At\u00e9 Transbordar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Felippe Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05"
+        }
+      ],
+      "duration_ms": 271866,
+      "name": "Pra Onde Iremos? (feat. Felippe Valad\u00e3o) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18"
     },
     {
       "added_at": null,

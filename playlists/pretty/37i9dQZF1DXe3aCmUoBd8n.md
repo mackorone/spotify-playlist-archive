@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 
 > Top Sharqi hits right now\. Cover: Bessan Ismail
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,021 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,060 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 | 21 | [Shams W Hawa](https://open.spotify.com/track/5KUBjmdPpamovUuXEit9z2) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Qarar Shakhsy](https://open.spotify.com/album/3srmGnh3GV4nnxyo6UgB5n) | 3:24 |
 | 22 | [Ya Sidi Ensa](https://open.spotify.com/track/70bsA9PpuP5DTq1OcL01h6) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ya Sidi Ensa](https://open.spotify.com/album/44gSXHC6qBhAjPECo8oCbW) | 3:32 |
 | 23 | [اتنسينا](https://open.spotify.com/track/0kZtRxxBDbMO4vZApAiNOZ) | [Youssif Elashry](https://open.spotify.com/artist/4IMgqWorWJUqUlbULGdoBa) | [اخر ما تبقي من احزاني](https://open.spotify.com/album/5TkHU9o2cEXhuC9yG1uDlh) | 2:31 |
-| 24 | [Baddi Oul Bhebak​](https://open.spotify.com/track/68rum1vdA8KtzbxWURpZWU) | [Nancy Ajram](https://open.spotify.com/artist/3hnKbMrrOkExkPrfi905TE) | [NANCY 11](https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX) | 2:56 |
+| 24 | [Baddi Oul Bhebak​](https://open.spotify.com/track/68rum1vdA8KtzbxWURpZWU) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [NANCY 11](https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX) | 2:56 |
 | 25 | [KALAMANTINA / كلمنتينا](https://open.spotify.com/track/3vZ3ngEbunTiK4fOVKyzYD) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Love Letters / رسائل حب](https://open.spotify.com/album/7CBui2zfZ08ZbpdVnBfpUr) | 3:26 |
 | 26 | [ana min \(‘bil dam’ series soundtrack\)](https://open.spotify.com/track/4b9XevTC3G9v8NdGms3Y9z) | [Marilyne Naaman](https://open.spotify.com/artist/65U0i2so4TBaFympLshw8s) | [ana min \(‘bil dam’ series soundtrack\)](https://open.spotify.com/album/0998OOSuYxxCvIJXSY8TbM) | 3:03 |
 | 27 | [ما تيجي نركن الزعل](https://open.spotify.com/track/6SV1CubigxqGfvoSU6uCEV) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [ما تيجي نركن الزعل](https://open.spotify.com/album/032M5b75DmWMAnquK16IGN) | 3:08 |

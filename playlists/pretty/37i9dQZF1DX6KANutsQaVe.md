@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KANutsQaVe.md) - [plain]
 
 > The best of rock & alt this year, handpicked by Spotify Canada editors\. Cover: Three Days Grace
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,543 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,551 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KANutsQaVe.md) - [plain]
 | 14 | [New Plan](https://open.spotify.com/track/4XD9LjMYlAPutmVozaXuZr) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [New Plan](https://open.spotify.com/album/4kA25J7vx3ya5UuShMbgA9) | 3:25 |
 | 15 | [Red Velvet \(with Ari Abdul\)](https://open.spotify.com/track/0khMRTeMTOkwvqE9fJdgGH) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Dilworth](https://open.spotify.com/album/1DmUukUnrzc984oVIyUhFR) | 3:06 |
 | 16 | [Before You I Just Forget](https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance \(Deluxe Edition\)](https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy) | 3:56 |
-| 17 | [Whoever You Are...](https://open.spotify.com/track/6a8577lveJmE0gnd8R9R9Y) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [Whoever You Are...](https://open.spotify.com/album/1aJ22vn5hb8moElukowzxX) | 3:36 |
+| 17 | [WHOEVER YOU ARE...](https://open.spotify.com/track/6a8577lveJmE0gnd8R9R9Y) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [Whoever You Are...](https://open.spotify.com/album/1aJ22vn5hb8moElukowzxX) | 3:36 |
 | 18 | [the devil wears converse](https://open.spotify.com/track/1inJ5Hljjm0o90sqIMn1rl) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [the devil wears converse](https://open.spotify.com/album/3xPGzASX9K4oqca20EJMjO) | 2:39 |
 | 19 | [Paranoid](https://open.spotify.com/track/2C8bwXR6T8v6V2AfdpzFpE) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Who Will Look After The Dogs?](https://open.spotify.com/album/5wTc5JHsIufcPGetKKnrlv) | 3:25 |
 | 20 | [Fail in Time](https://open.spotify.com/track/6fIANwrxJYQceqWxrMLeH9) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Fail in Time](https://open.spotify.com/album/4TvAyELkJwiOiJLjUqw4YE) | 3:41 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 
 > Les hits du moment au Maroc\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,956 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,909 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 | 33 | [MOON](https://open.spotify.com/track/4FK1eYp1arE2jiuAgluOtt) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:29 |
 | 34 | [RUINART](https://open.spotify.com/track/0vZyOrmcNCzkz73HSEMfLk) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [RUINART](https://open.spotify.com/album/6DDz77QqTYGIWIj9g4fUN1) | 2:54 |
 | 35 | [Paradise \(with Bipolar Sunshine\)](https://open.spotify.com/track/10WWosq6z75o3WGRjL4v2D) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Paradise \(with Bipolar Sunshine\)](https://open.spotify.com/album/6V5S9DCZk49kkNsnIh9gt7) | 3:20 |
-| 36 | [Ya Albo](https://open.spotify.com/track/21gkUsT7168IAtmo9EB9fd) | [Nancy Ajram](https://open.spotify.com/artist/3hnKbMrrOkExkPrfi905TE) | [NANCY 11](https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX) | 2:30 |
+| 36 | [Ya Albo](https://open.spotify.com/track/21gkUsT7168IAtmo9EB9fd) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [NANCY 11](https://open.spotify.com/album/5GwQFjQiUkdq3fqkS7gBjX) | 2:30 |
 | 37 | [kafini](https://open.spotify.com/track/6uEdcdlgbHfMx6HrhSjBgB) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [kafini](https://open.spotify.com/album/6Pua6hPDd8D5lMt3G8HTWp) | 3:01 |
 | 38 | [Soleil Bleu](https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH) | [Bleu Soleil](https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf), [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Soleil Bleu](https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA) | 4:06 |
 | 39 | [Tour du monde](https://open.spotify.com/track/3JzeDkdvorMWUvaAnU7BCX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Tour du monde](https://open.spotify.com/album/0S05qjbRcOueLjoZZDgVZO) | 2:51 |

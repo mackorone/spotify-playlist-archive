@@ -4,7 +4,7 @@
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-294 songs - 17 hr 8 min
+296 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [All Is Grace](https://open.spotify.com/track/7n8i5Srn6mjSZQhVHpUrJq) | [Gerard and the Watchmen](https://open.spotify.com/artist/1Zx6dcD3aCON2ch3IgVYNC) | [Wooden Castles](https://open.spotify.com/album/1ZfTOI23jmRq3CaJ8dtfhi) | 1:50 | 2021-12-24 |  |
 | [Amazing Grace](https://open.spotify.com/track/3ejWV2lRTGxgeRlu17S1xH) | [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Amazing Grace](https://open.spotify.com/album/3QgAcaDxTOqHApuBYaKW8x) | 4:56 | 2021-12-24 |  |
 | [Andalucia](https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:32 | 2021-12-24 |  |
+| [Angel in the Snow \(from "Oh\. What\. Fun."\)](https://open.spotify.com/track/4PCW2aCVCGcyYPVI0JLp05) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb), [Oh\. What\. Fun.](https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S) | [Angel in the Snow \(from "Oh\. What\. Fun."\)](https://open.spotify.com/album/7MPeLiCCYvdWWDaMlQBMwJ) | 2:44 | 2025-12-08 |  |
 | [Angels We Have Heard on High](https://open.spotify.com/track/41acBwmsazBajcgBiJZtJP) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [The Songs the Season Brings, Vols\. 1\-4](https://open.spotify.com/album/6GLUn1i6c7EeyGemSgddOm) | 2:14 | 2021-12-24 |  |
 | [Arthur McBride](https://open.spotify.com/track/3zkhQWdW4O2t0cnZIdoj3u) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Arthur McBride](https://open.spotify.com/album/4OmYrFiPBU5DoxdMjwQJDH) | 7:10 | 2021-12-24 | 2023-12-16 |
 | [As Soon as Winter Comes](https://open.spotify.com/track/6MlJrVMeHKRPiudD4CUmmS) | [The Bird and the Bear](https://open.spotify.com/artist/3hUMzQQLZ4wFTgV39MxWKC) | [As Soon as Winter Comes](https://open.spotify.com/album/7qSqc1E3tBLouzIim1lNKt) | 4:04 | 2021-12-24 | 2023-12-16 |
@@ -70,6 +71,7 @@
 | [Christmas Must Be Tonight](https://open.spotify.com/track/4oTvofluzKOEfYRpus5wwm) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/2cnnQ2yuRdtpmVe1vRuyru) | 3:47 | 2021-12-24 |  |
 | [Christmas Must Be Tonight](https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 3:47 | 2021-12-24 | 2024-04-19 |
 | [Christmas Must Be Tonight](https://open.spotify.com/track/6SmcOPw2z5Ha0hl6M8kadt) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Indie & Folk Christmas 2022](https://open.spotify.com/album/5XyV9ciesak8GB2gRveME5) | 3:47 | 2021-12-24 | 2022-11-13 |
+| [Christmas Must Be Tonight \(from "Oh\. What\. Fun."\)](https://open.spotify.com/track/5DFscZnl20JZIFQ7ELFPk8) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN), [Oh\. What\. Fun.](https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S) | [Christmas Must Be Tonight \(from "Oh\. What\. Fun."\)](https://open.spotify.com/album/61Vf6BbKjA1tlNuFbaJsE7) | 3:27 | 2025-12-08 |  |
 | [Christmas Song](https://open.spotify.com/track/05GBNU3wMadW9u9sBWSleI) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Bands Under the Radar, Vol\. 3: A Very Indie Xmas](https://open.spotify.com/album/5h9XjfTvHmyyEguisaCi8F) | 3:11 | 2021-12-24 | 2023-12-16 |
 | [Christmas Song](https://open.spotify.com/track/3FLo2Axjd3CB22BUbrcJmZ) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [My Friends All Died in a Plane Crash](https://open.spotify.com/album/4oWpaJ9K4QXSrtjvHBwGsg) | 3:11 | 2022-11-15 | 2023-04-02 |
 | [Christmas Time Is Here](https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 2:43 | 2023-12-15 |  |

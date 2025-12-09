@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-102 songs - 6 hr 8 min
+103 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Blood on the Wall](https://open.spotify.com/track/0JHHM2XMXcMREVStlNDLKS) | [David Larosa](https://open.spotify.com/artist/6LJggCdTMxlzs5iRq0MsND) | [Liminal Space](https://open.spotify.com/album/7DL03disLL5FCb8UhwOHwZ) | 2:49 | 2025-11-13 | 2025-12-06 |
 | [body of water](https://open.spotify.com/track/5wP9DYz49ksiTGp3R3lOu0) | [SIKADE](https://open.spotify.com/artist/2DrSLniejh3OLn1XnU6lCY) | [body of water](https://open.spotify.com/album/0O28yb82DrLDnp9isurKNa) | 2:11 | 2025-11-01 | 2025-12-06 |
 | [Breathless](https://open.spotify.com/track/6G3GnqwWphPPJoB33JCddF) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [The Clone](https://open.spotify.com/album/1FxRojzhFPsMqXMPagDBBs) | 3:47 | 2025-10-04 |  |
+| [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/track/6xl56wh97kK5kdTvrpw3qH) | [FaveRiot](https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN) | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/album/6WkWXr3yPcAWRdHnuV8uZz) | 2:26 | 2025-12-08 |  |
 | [Catarsis](https://open.spotify.com/track/6JWcTR6XGT7tumzSkAhRXU) | [Tresgo](https://open.spotify.com/artist/30SINUYIEvH5bICP6gjxUi) | [Zona De Confort](https://open.spotify.com/album/3k2OM7LXB63eaaO8UXCTZx) | 6:09 | 2025-09-17 |  |
 | [Chameleon](https://open.spotify.com/track/6h5960XVC4rZ0LWZQsO1aX) | [Maia and the Squires](https://open.spotify.com/artist/0ZUdMSGAbhRWkb6WJwuBeq) | [Chameleon](https://open.spotify.com/album/2VhnmAWAqFcLJ4ehWm6grI) | 5:05 | 2025-11-17 | 2025-12-06 |
 | [CHERRIES](https://open.spotify.com/track/5ZsI8sZQCuKddaqgCU23O7) | [k0vn](https://open.spotify.com/artist/7B2CuYxTrTolxU6z1exymy) | [CHERRIES](https://open.spotify.com/album/2HUh8kMZwmcnIJOjrreooR) | 3:10 | 2025-11-12 | 2025-12-06 |

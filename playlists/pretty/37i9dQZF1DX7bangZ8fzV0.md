@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: Snotkop
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,363 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,404 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 25 | [Dagdrome in Suburbia](https://open.spotify.com/track/10Ql7yWoFEmRNp83JeS4Uk) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Dagdrome in Suburbia](https://open.spotify.com/album/3RzHaNjl15r6TWi3QDSAPZ) | 3:11 |
 | 26 | [Kroeg Cowboys](https://open.spotify.com/track/0J3OJrSPHZhrWkYPkPzc2e) | [Fran Prins](https://open.spotify.com/artist/5zh2qxLSYvBzIPLMhVNfUv), [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Kroeg Cowboys](https://open.spotify.com/album/393Eoz9i0wmaUTEc6SH5Lc) | 3:07 |
 | 27 | [Hop Hop Spinnekop](https://open.spotify.com/track/4NG32lh3Z2wHxrDptfiQd3) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [100%](https://open.spotify.com/album/2axcE5ad6XVpFn0Szm2auS) | 3:00 |
-| 28 | [Kyk](https://open.spotify.com/track/0xaGU2EmiHBkS92f7ngSgm) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Kyk](https://open.spotify.com/album/5B4qM7OE0sXcU5RWC5hQrP) | 3:28 |
-| 29 | [Lei My Na Die Water](https://open.spotify.com/track/15bXmhHbsXEYa6YKESByDH) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Lei My Na Die Water](https://open.spotify.com/album/30Y6Kmoq8Kz5Ua9JHnbVgQ) | 3:41 |
+| 28 | [Lei My Na Die Water](https://open.spotify.com/track/15bXmhHbsXEYa6YKESByDH) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Lei My Na Die Water](https://open.spotify.com/album/30Y6Kmoq8Kz5Ua9JHnbVgQ) | 3:41 |
+| 29 | [Kyk](https://open.spotify.com/track/0xaGU2EmiHBkS92f7ngSgm) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Kyk](https://open.spotify.com/album/5B4qM7OE0sXcU5RWC5hQrP) | 3:28 |
 | 30 | [Namibsroos \- SENSASIE Remix](https://open.spotify.com/track/05VB5cgHGPrL722U1HLxET) | [Theuns Jordaan](https://open.spotify.com/artist/4FG57Vo1nipFsF1lRfYtE4), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [Namibsroos \(SENSASIE Remix\)](https://open.spotify.com/album/1a7rBCC6Ie1rvErOoQC5W5) | 4:23 |
-| 31 | [Vuur Op Die Water](https://open.spotify.com/track/2bW96CDjgaLh6E3HM1Fv8r) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Boomhuis](https://open.spotify.com/album/00TEG3fQnMHMLQbRaMCgx4) | 3:36 |
-| 32 | [Vitamiene See](https://open.spotify.com/track/3YnntZvvVypYrvO4ha70xX) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Vitamiene See](https://open.spotify.com/album/5HPLzmFuAWb2WW7JJi9MOb) | 2:57 |
+| 31 | [Vitamiene See](https://open.spotify.com/track/3YnntZvvVypYrvO4ha70xX) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Vitamiene See](https://open.spotify.com/album/5HPLzmFuAWb2WW7JJi9MOb) | 2:57 |
+| 32 | [Vuur Op Die Water](https://open.spotify.com/track/2bW96CDjgaLh6E3HM1Fv8r) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Boomhuis](https://open.spotify.com/album/00TEG3fQnMHMLQbRaMCgx4) | 3:36 |
 | 33 | [Country Probeer](https://open.spotify.com/track/4bFnQ3DOwIckGfcKYQHdVN) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Country Probeer](https://open.spotify.com/album/2VJwQzleSWnMYPRxRsqj3p) | 3:52 |
 | 34 | [Toer Om Die Vloer](https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:11 |
 | 35 | [Stoppit Ek Like It](https://open.spotify.com/track/0nABZUwsLO9VtJA6xoD1K0) | [Brandon Miles](https://open.spotify.com/artist/0Xl7arcMBlu0zYvLfCHo1Z) | [Stoppit Ek Like It](https://open.spotify.com/album/48GPo4UGTORgtYYNwwGVZK) | 3:51 |
@@ -56,13 +56,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 46 | [As Ek Dalk \(feat\. Eloff\)](https://open.spotify.com/track/0avIG6N4JT2tHb8GyVHz1w) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp), [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [As Ek Dalk \(feat\. Eloff\)](https://open.spotify.com/album/3MkLaVX6W7iwRdRz5q5GWs) | 3:09 |
 | 47 | [Rowwe Bliksem](https://open.spotify.com/track/0RwvdQ3H9kSo1lk9IFTBqf) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7), [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Rowwe Bliksem](https://open.spotify.com/album/3aqGXXhEPT35aGsxTWrHBS) | 3:03 |
 | 48 | [Die Boer Hier Binne My](https://open.spotify.com/track/4QEuN7EBs37KQBQBqJuZug) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Die Boer Hier Binne My](https://open.spotify.com/album/03CKGxifmhiU610KWRCRBM) | 3:20 |
-| 49 | [Naam](https://open.spotify.com/track/5tslIhk3YswIdnUuiyeYhr) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb) | [Naam](https://open.spotify.com/album/7oZjPk8MmOMPGNoT1QIB47) | 2:41 |
-| 50 | [Jannaman](https://open.spotify.com/track/7dX2A1tJH11wwrRzQEICLW) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Jannaman](https://open.spotify.com/album/6uY8Agjsp4ZtoRmpeub2ss) | 3:25 |
+| 49 | [Jannaman](https://open.spotify.com/track/7dX2A1tJH11wwrRzQEICLW) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Jannaman](https://open.spotify.com/album/6uY8Agjsp4ZtoRmpeub2ss) | 3:25 |
+| 50 | [Naam](https://open.spotify.com/track/5tslIhk3YswIdnUuiyeYhr) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb) | [Naam](https://open.spotify.com/album/7oZjPk8MmOMPGNoT1QIB47) | 2:41 |
 | 51 | [Vlerke](https://open.spotify.com/track/2xjZHjB3Vi6x8MlRQqL1AT) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Vlerke](https://open.spotify.com/album/5Yeu5EytHPQCY4TLVg1KcR) | 3:12 |
 | 52 | [Hart Breek](https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso) | [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Hart Breek](https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO) | 3:20 |
 | 53 | [Oorwurm](https://open.spotify.com/track/5rvAl2qQx49CVjReTDO2HO) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Oorwurm](https://open.spotify.com/album/4wUtaYSOK8yP03bHYd60F9) | 3:25 |
-| 54 | [Wil Jy Bly](https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Wil Jy Bly](https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg) | 3:07 |
-| 55 | [Country Girl Van Bloem](https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Country Girl Van Bloem](https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N) | 2:56 |
+| 54 | [Country Girl Van Bloem](https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Country Girl Van Bloem](https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N) | 2:56 |
+| 55 | [Wil Jy Bly](https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Wil Jy Bly](https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg) | 3:07 |
 | 56 | [308](https://open.spotify.com/track/0DZD8tLGZ01RtIXtwuzSi8) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [308](https://open.spotify.com/album/431xgZhPXYTOQ4wEdAZ7xY) | 2:47 |
 | 57 | [Bosveldterapie](https://open.spotify.com/track/110nkjBg4FQ9GiPI7xrhjQ) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Die Lot](https://open.spotify.com/album/2756SkzLOIcaewehaS4P5F) | 3:14 |
 | 58 | [Sterre](https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t), [Liezel Pieters](https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4) | [Sterre](https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D) | 3:33 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 74 | [H2Oë](https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [H2Oë](https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP) | 2:55 |
 | 75 | [NIE MÔRE NIE NOU](https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [NIE MÔRE NIE NOU](https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv) | 2:38 |
 | 76 | [Lui Voete](https://open.spotify.com/track/1WKaVLborIMrqDfcQvnHHP) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Lui Voete](https://open.spotify.com/album/4jDNv5KSltQHTQ09SrDHGM) | 3:02 |
-| 77 | [Liewe Jinne!](https://open.spotify.com/track/4Sq2nuXtqS8K88WNVTGERf) | [Juanita du Plessis](https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO) | [Liewe Jinne!](https://open.spotify.com/album/48DLDbFi0LBISIgqbfHMUm) | 3:31 |
-| 78 | [Kan 'N Man](https://open.spotify.com/track/3w7vidvutb67kWqPqneh6O) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Kan 'N Man](https://open.spotify.com/album/2KYAMqC9CrrTisESdH1LoV) | 2:49 |
+| 77 | [Kan 'N Man](https://open.spotify.com/track/3w7vidvutb67kWqPqneh6O) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Kan 'N Man](https://open.spotify.com/album/2KYAMqC9CrrTisESdH1LoV) | 2:49 |
+| 78 | [Liewe Jinne!](https://open.spotify.com/track/4Sq2nuXtqS8K88WNVTGERf) | [Juanita du Plessis](https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO) | [Liewe Jinne!](https://open.spotify.com/album/48DLDbFi0LBISIgqbfHMUm) | 3:31 |
 | 79 | [Besonders](https://open.spotify.com/track/6vSty2JOrCagay8asSyed8) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Besonders](https://open.spotify.com/album/0SfCOXqj6vf7A69fAaJveT) | 3:17 |
 | 80 | [Soos 'n Engel Remix \(Feat\. Shokbasse\)](https://open.spotify.com/track/4xxL9lNOpZ9nFfizT00X6h) | [Len Muller](https://open.spotify.com/artist/2Sken7evRjRhWD5bgSJ0l0), [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj) | [Soos 'n Engel Remix \(Feat\. Shokbasse\)](https://open.spotify.com/album/4xMixMwahcvssWWfU7nnJw) | 3:02 |
 

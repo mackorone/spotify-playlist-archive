@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,866 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,865 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 49 | [Ocean Prime \(feat\. Coi Leray\)](https://open.spotify.com/track/17lzuZ03enjlAQ8RHBx3aN) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Fat Niggas Need Love Too](https://open.spotify.com/album/5OtBIO7dEq9iupw2BbIS9D) | 2:30 |
 | 50 | [I Like \(feat\. Karlae & Coi Leray\)](https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Karlae](https://open.spotify.com/artist/6RY7kT6PGGzAA3TG3s4Qmp), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:09 |
 
-Snapshot ID: `aTNyAAAAAABkWT12Qur/cDMoHtwSt5Q0`
+Snapshot ID: `aTTDgAAAAADBqBTM2PFSTOKU6f+LIJIR`

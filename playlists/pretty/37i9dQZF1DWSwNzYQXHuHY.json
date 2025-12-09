@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 11770,
+  "num_followers": 11775,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-12-04 06:37:19",
       "album": {
-        "name": "MY PRIDE",
-        "url": "https://open.spotify.com/album/3EWtWKRKGjAq3VuJEEA6UA"
-      },
-      "artists": [
-        {
-          "name": "TIOT",
-          "url": "https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "MY PRIDE",
-      "url": "https://open.spotify.com/track/5fXi5dl48tR8l0rUlPSa0Y"
-    },
-    {
-      "added_at": "2025-12-04 06:37:19",
-      "album": {
         "name": "[ MAL ]",
         "url": "https://open.spotify.com/album/6vJ9SjwikssdLvZsrdUVb1"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 147903,
       "name": "9 to 2",
       "url": "https://open.spotify.com/track/3gaPXXidirpc2DbqMCf3CS"
+    },
+    {
+      "added_at": "2025-12-04 06:37:19",
+      "album": {
+        "name": "MY PRIDE",
+        "url": "https://open.spotify.com/album/3EWtWKRKGjAq3VuJEEA6UA"
+      },
+      "artists": [
+        {
+          "name": "TIOT",
+          "url": "https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "MY PRIDE",
+      "url": "https://open.spotify.com/track/5fXi5dl48tR8l0rUlPSa0Y"
     },
     {
       "added_at": "2025-12-04 06:37:19",

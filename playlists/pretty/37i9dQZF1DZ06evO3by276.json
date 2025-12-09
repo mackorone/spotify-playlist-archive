@@ -1,12 +1,12 @@
 {
   "description": "This is Rihanna. The essential tracks, all in one playlist.",
-  "num_followers": 3194779,
+  "num_followers": 3194876,
   "original_name": "This Is Rihanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAADe6LzgZ435r5s7a7lWydYp",
+  "snapshot_id": "aTTDgAAAAACPtxfbYQ8RHZjc6j+3Nx3M",
   "tracks": [
     {
       "added_at": null,
@@ -171,18 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loud",
-        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
+        "name": "The Gifted",
+        "url": "https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq"
       },
       "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
         {
           "name": "Rihanna",
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 243600,
-      "name": "S&M",
-      "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
+      "duration_ms": 238826,
+      "name": "Bad (feat. Rihanna) - Remix",
+      "url": "https://open.spotify.com/track/5yhKaacMZGRo4s6evJx9vk"
     },
     {
       "added_at": null,
@@ -203,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 243600,
+      "name": "S&M",
+      "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unapologetic (Edited Version)",
         "url": "https://open.spotify.com/album/5UDXzVwWnn3mDy3mTpQPYb"
       },
@@ -219,26 +239,6 @@
       "duration_ms": 240706,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2Yy0FsAV2I5VXU4xpph2WN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gifted",
-        "url": "https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 238826,
-      "name": "Bad (feat. Rihanna) - Remix",
-      "url": "https://open.spotify.com/track/5yhKaacMZGRo4s6evJx9vk"
     },
     {
       "added_at": null,
@@ -687,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loud",
-        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 296226,
-      "name": "Love The Way You Lie (Part II) - Pt. 2",
-      "url": "https://open.spotify.com/track/6M6lsQB4OhqL41eld29PeC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Talk That Talk",
         "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 209600,
       "name": "Talk That Talk",
       "url": "https://open.spotify.com/track/57mKcbEq7nMqtJ4gqJvWcp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 296226,
+      "name": "Love The Way You Lie (Part II) - Pt. 2",
+      "url": "https://open.spotify.com/track/6M6lsQB4OhqL41eld29PeC"
     },
     {
       "added_at": null,

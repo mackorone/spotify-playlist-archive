@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/domfishback/">Dominique Fishback</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,193 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,202 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 | 26 | [Just Like a Woman](https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 4:50 |
 | 27 | [So Much Things to Say \- Live](https://open.spotify.com/track/6Z890DNJZynimxAwn3zsa2) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [MTV Unplugged No\. 2.0](https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM) | 5:59 |
 | 28 | [The Ocean](https://open.spotify.com/track/18FsPeHdE9xPtQgnsVbiU5) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Find Me](https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C) | 3:26 |
-| 29 | [\(I Know\) I'm Losing You](https://open.spotify.com/track/6y8o4V2R2dSt2ijgL8C72W) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [With A Lot O' Soul](https://open.spotify.com/album/1nklkfuUUujG5s3wL6mfuL) | 2:29 |
-| 30 | [Ye Yo \- Live](https://open.spotify.com/track/7DChMyOPgTlDTZKe5oYXn9) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Live](https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX) | 4:59 |
+| 29 | [Ye Yo \- Live](https://open.spotify.com/track/7DChMyOPgTlDTZKe5oYXn9) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Live](https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX) | 4:59 |
+| 30 | [\(I Know\) I'm Losing You](https://open.spotify.com/track/6y8o4V2R2dSt2ijgL8C72W) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [With A Lot O' Soul](https://open.spotify.com/album/1nklkfuUUujG5s3wL6mfuL) | 2:29 |
 | 31 | [Do What You Gotta Do](https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Very Best Of Nina Simone 1967\-1972 \- Sugar In My Bowl](https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj) | 3:34 |
 | 32 | [I Get Out \- Live](https://open.spotify.com/track/4iwmTjkAokDyP9S51mpzQy) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [MTV Unplugged No\. 2.0](https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM) | 5:17 |
 | 33 | [I Put A Spell On You](https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw) | [NINA REVISITED: A Tribute to Nina Simone](https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL) | 6:39 |

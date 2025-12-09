@@ -1,6 +1,6 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations. CAN on cover.",
-  "num_followers": 16073,
+  "num_followers": 16079,
   "original_name": "Krautrock",
   "owner": {
     "name": "Spotify",
@@ -733,38 +733,6 @@
       "url": "https://open.spotify.com/track/4GEt639CwLmF0Mh42Ws1G3"
     },
     {
-      "added_at": "2024-02-23 00:15:43",
-      "album": {
-        "name": "PHASOR",
-        "url": "https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 294666,
-      "name": "Out There",
-      "url": "https://open.spotify.com/track/2289HHKbvNgNPobou0Dexl"
-    },
-    {
-      "added_at": "2024-04-09 16:27:14",
-      "album": {
-        "name": "Soul Jazz Records Presents DEUTSCHE ELEKTRONISCHE MUSIK 3: Experimental German Rock and Electronic Music 1971-81",
-        "url": "https://open.spotify.com/album/1ucJmCPMOHVNttvmlLJdGs"
-      },
-      "artists": [
-        {
-          "name": "Missus Beastly",
-          "url": "https://open.spotify.com/artist/5e1sdfpA3pJtObau0T3bQY"
-        }
-      ],
-      "duration_ms": 327800,
-      "name": "Geisha",
-      "url": "https://open.spotify.com/track/73trN65gnLaNoq3roYpBBx"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Gnod Drop Out With White Hills II",
@@ -783,6 +751,38 @@
       "duration_ms": 661120,
       "name": "Drop Out",
       "url": "https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh"
+    },
+    {
+      "added_at": "2024-04-09 16:27:14",
+      "album": {
+        "name": "Soul Jazz Records Presents DEUTSCHE ELEKTRONISCHE MUSIK 3: Experimental German Rock and Electronic Music 1971-81",
+        "url": "https://open.spotify.com/album/1ucJmCPMOHVNttvmlLJdGs"
+      },
+      "artists": [
+        {
+          "name": "Missus Beastly",
+          "url": "https://open.spotify.com/artist/5e1sdfpA3pJtObau0T3bQY"
+        }
+      ],
+      "duration_ms": 327800,
+      "name": "Geisha",
+      "url": "https://open.spotify.com/track/73trN65gnLaNoq3roYpBBx"
+    },
+    {
+      "added_at": "2024-02-23 00:15:43",
+      "album": {
+        "name": "PHASOR",
+        "url": "https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 294666,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/2289HHKbvNgNPobou0Dexl"
     },
     {
       "added_at": "2024-04-09 16:27:14",
@@ -929,20 +929,20 @@
       "url": "https://open.spotify.com/track/6lOZ15WheIfHMfsvr8iK3Q"
     },
     {
-      "added_at": "2022-03-04 01:55:34",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Mandatory Enjoyment",
-        "url": "https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc"
+        "name": "Anthology (Remastered Version)",
+        "url": "https://open.spotify.com/album/6XFyzX1oEpqQl6TPf0nhpH"
       },
       "artists": [
         {
-          "name": "Dummy",
-          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
+          "name": "CAN",
+          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
         }
       ],
-      "duration_ms": 184013,
-      "name": "Final Weapon",
-      "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
+      "duration_ms": 396306,
+      "name": "Mother Sky (from Deep End)",
+      "url": "https://open.spotify.com/track/40z5Dhtcf2tiz8Ml2awNA3"
     },
     {
       "added_at": "2024-04-09 16:27:14",
@@ -961,20 +961,20 @@
       "url": "https://open.spotify.com/track/61hXgmELye3W0q67kPCYEz"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2022-03-04 01:55:34",
       "album": {
-        "name": "Anthology (Remastered Version)",
-        "url": "https://open.spotify.com/album/6XFyzX1oEpqQl6TPf0nhpH"
+        "name": "Mandatory Enjoyment",
+        "url": "https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc"
       },
       "artists": [
         {
-          "name": "CAN",
-          "url": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+          "name": "Dummy",
+          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
         }
       ],
-      "duration_ms": 396306,
-      "name": "Mother Sky (from Deep End)",
-      "url": "https://open.spotify.com/track/40z5Dhtcf2tiz8Ml2awNA3"
+      "duration_ms": 184013,
+      "name": "Final Weapon",
+      "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1057,22 +1057,6 @@
       "url": "https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8"
     },
     {
-      "added_at": "2023-03-23 21:21:38",
-      "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
-      },
-      "artists": [
-        {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
-        }
-      ],
-      "duration_ms": 221701,
-      "name": "Asteroid Witch",
-      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Faust IV",
@@ -1087,6 +1071,22 @@
       "duration_ms": 707560,
       "name": "Krautrock",
       "url": "https://open.spotify.com/track/7h9hsEOJbNH2Y46ZR5NFfQ"
+    },
+    {
+      "added_at": "2023-03-23 21:21:38",
+      "album": {
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+      },
+      "artists": [
+        {
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+        }
+      ],
+      "duration_ms": 221701,
+      "name": "Asteroid Witch",
+      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
     },
     {
       "added_at": "2022-03-18 05:36:55",
@@ -1169,22 +1169,6 @@
       "url": "https://open.spotify.com/track/7w6PcnUzc5cRadoO4DJa1e"
     },
     {
-      "added_at": "2023-01-12 03:40:17",
-      "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
-      },
-      "artists": [
-        {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
-        }
-      ],
-      "duration_ms": 221893,
-      "name": "Panic In The Isles Of Splendor",
-      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Find The Sun",
@@ -1237,6 +1221,22 @@
       "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
     },
     {
+      "added_at": "2023-01-12 03:40:17",
+      "album": {
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+      },
+      "artists": [
+        {
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+        }
+      ],
+      "duration_ms": 221893,
+      "name": "Panic In The Isles Of Splendor",
+      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
+    },
+    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
@@ -1269,22 +1269,6 @@
       "url": "https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go"
     },
     {
-      "added_at": "2023-09-04 19:37:16",
-      "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY"
-      },
-      "artists": [
-        {
-          "name": "Melenas",
-          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
-        }
-      ],
-      "duration_ms": 310093,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN"
-    },
-    {
       "added_at": "2023-04-07 06:00:00",
       "album": {
         "name": "Ficci\u00f3n",
@@ -1301,6 +1285,22 @@
       "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
     },
     {
+      "added_at": "2023-09-04 19:37:16",
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY"
+      },
+      "artists": [
+        {
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+        }
+      ],
+      "duration_ms": 310093,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN"
+    },
+    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Minami Deutsch",
@@ -1315,22 +1315,6 @@
       "duration_ms": 414222,
       "name": "Sunrise, Sunset",
       "url": "https://open.spotify.com/track/1k0bcubiJMGPcHL7d4vmLc"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "La D\u00fcsseldorf",
-        "url": "https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ"
-      },
-      "artists": [
-        {
-          "name": "La D\u00fcsseldorf",
-          "url": "https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0"
-        }
-      ],
-      "duration_ms": 482773,
-      "name": "Silver Cloud",
-      "url": "https://open.spotify.com/track/5dviL3v73PIFxsAgWTfgSY"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1369,20 +1353,20 @@
       "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
     },
     {
-      "added_at": "2022-08-19 02:50:25",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "El Veh\u00edculo de las Transformaciones",
-        "url": "https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd"
+        "name": "La D\u00fcsseldorf",
+        "url": "https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ"
       },
       "artists": [
         {
-          "name": "Mirror Revelations",
-          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
+          "name": "La D\u00fcsseldorf",
+          "url": "https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0"
         }
       ],
-      "duration_ms": 352542,
-      "name": "El Veh\u00edculo de las Transformaciones",
-      "url": "https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx"
+      "duration_ms": 482773,
+      "name": "Silver Cloud",
+      "url": "https://open.spotify.com/track/5dviL3v73PIFxsAgWTfgSY"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1449,6 +1433,22 @@
       "url": "https://open.spotify.com/track/6NfDAjWmXX6SQeB7kCEKXK"
     },
     {
+      "added_at": "2022-08-19 02:50:25",
+      "album": {
+        "name": "El Veh\u00edculo de las Transformaciones",
+        "url": "https://open.spotify.com/album/4gAHX2JkEm6RWRLw9cp4xd"
+      },
+      "artists": [
+        {
+          "name": "Mirror Revelations",
+          "url": "https://open.spotify.com/artist/3q78Vc83UrW9BeHePtzzX9"
+        }
+      ],
+      "duration_ms": 352542,
+      "name": "El Veh\u00edculo de las Transformaciones",
+      "url": "https://open.spotify.com/track/7F4GU3OKcPJOgeLG1jrSrx"
+    },
+    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Blood-Drums",
@@ -1479,6 +1479,22 @@
       "duration_ms": 277845,
       "name": "Nieve Afuera",
       "url": "https://open.spotify.com/track/2uODWJ6wW0PKoJVVfcY2XQ"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Radiate!",
+        "url": "https://open.spotify.com/album/3rTpM9FRmueqSahefRtbkN"
+      },
+      "artists": [
+        {
+          "name": "Camera",
+          "url": "https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs"
+        }
+      ],
+      "duration_ms": 414800,
+      "name": "E-Go",
+      "url": "https://open.spotify.com/track/0IEqm9k648GiajWFUvsgLz"
     },
     {
       "added_at": "2022-03-29 02:06:14",
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Radiate!",
-        "url": "https://open.spotify.com/album/3rTpM9FRmueqSahefRtbkN"
-      },
-      "artists": [
-        {
-          "name": "Camera",
-          "url": "https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs"
-        }
-      ],
-      "duration_ms": 414800,
-      "name": "E-Go",
-      "url": "https://open.spotify.com/track/0IEqm9k648GiajWFUvsgLz"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Lost Worker Bee - EP",
         "url": "https://open.spotify.com/album/3NfECFAHwzcFlUQJJxh9Ko"
       },
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
+        "name": "Remember I Was Carbon Dioxide",
+        "url": "https://open.spotify.com/album/3qhe1rCL3GcwCebco99KWX"
       },
       "artists": [
         {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
+          "name": "Camera",
+          "url": "https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs"
         }
       ],
-      "duration_ms": 381868,
-      "name": "The Sound of all Things",
-      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
+      "duration_ms": 264653,
+      "name": "Synchron",
+      "url": "https://open.spotify.com/track/3io1rzJhFB9rfWBV0v2txa"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Silver Apples of the Moon",
-        "url": "https://open.spotify.com/album/6Gn0aaXxQIHZPKPpdf6gnR"
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
       },
       "artists": [
         {
-          "name": "Laika",
-          "url": "https://open.spotify.com/artist/1ktqCH9OrzelCu4cpUT1oR"
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
         }
       ],
-      "duration_ms": 319560,
-      "name": "If You Miss",
-      "url": "https://open.spotify.com/track/224gSW6JNmlVJJI7FN96bw"
+      "duration_ms": 381868,
+      "name": "The Sound of all Things",
+      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
     }
   ],
   "unique_name": "Krautrock",

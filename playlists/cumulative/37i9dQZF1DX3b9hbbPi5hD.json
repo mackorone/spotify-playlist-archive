@@ -363,6 +363,28 @@
     },
     {
       "album": {
+        "name": "Russland Erinnerungen",
+        "url": "https://open.spotify.com/album/5RCpX7ttdScp9lmaGHXlfk"
+      },
+      "artists": [
+        {
+          "name": "James Last",
+          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
+        },
+        {
+          "name": "Gheorghe Zamfir",
+          "url": "https://open.spotify.com/artist/12FFWdcxApUNXV9TljwDpT"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263626,
+      "name": "Einsamer Hirte",
+      "url": "https://open.spotify.com/track/7nxWzxIaXdYGeLRNvnueyZ"
+    },
+    {
+      "album": {
         "name": "Tarantino Fiction",
         "url": "https://open.spotify.com/album/7CbtI4B2UbPKq4oYkqeGTQ"
       },
@@ -1722,6 +1744,24 @@
       "duration_ms": 165226,
       "name": "You Never Can Tell - 1986 Stereo Remix",
       "url": "https://open.spotify.com/track/3cjCPhWvNDaecvcEOlZ0HP"
+    },
+    {
+      "album": {
+        "name": "\u65b0\u30fb\u4ec1\u7fa9\u306a\u304d\u6226\u3044\u3002 \u305d\u3057\u3066\u305d\u306e\u6620\u753b\u97f3\u697d",
+        "url": "https://open.spotify.com/album/40ZcNpDSHD2fq1PynCnZGM"
+      },
+      "artists": [
+        {
+          "name": "HOTEI",
+          "url": "https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148440,
+      "name": "\u65b0\u30fb\u4ec1\u7fa9\u306a\u304d\u6226\u3044\u306e\u30c6\u30fc\u30de",
+      "url": "https://open.spotify.com/track/77u21r20AEsThKcf69lsUx"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3b9hbbPi5hD"

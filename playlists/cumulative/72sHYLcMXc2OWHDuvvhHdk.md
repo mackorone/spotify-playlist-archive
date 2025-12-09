@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-1,855 songs - 4 day 12 hr 44 min
+1,859 songs - 4 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Algo que arde](https://open.spotify.com/track/3ZOS39lAGUJlOhOGy06raj) | [Mazzi](https://open.spotify.com/artist/0QIkC5SI43a8ySXhdj8c5m) | [Algo que arde](https://open.spotify.com/album/0m707o1mh791iTaWpOaF7v) | 4:31 | 2025-07-01 |  |
 | [Ali's Song \(Daddy\)](https://open.spotify.com/track/1BORk847Ra83JPN17gHjkc) | [Kerry Kenny Band](https://open.spotify.com/artist/4xAlqq0N8nkCUugfoBXMEB), [Kerry Kenny](https://open.spotify.com/artist/7jnktoeG2mxyZJMjWY5SwN) | [Pining Time](https://open.spotify.com/album/0GXC6q8XZ9TQICWcFh36Mk) | 5:33 | 2025-05-01 |  |
 | [Alive](https://open.spotify.com/track/0gphdsEhn9X13g42x82XLB) | [Charity Ekeke](https://open.spotify.com/artist/4dF8xJWnX6GQRQDjaFWrIX) | [Alive](https://open.spotify.com/album/3ZiakyFqgrIcKoJhuT8f2u) | 3:34 | 2025-12-01 |  |
+| [All Alone](https://open.spotify.com/track/4rsNsMiy5sUi80hzpuAPZc) | [Riccardo Cantarelli](https://open.spotify.com/artist/58JQ6umDec53Xhx0yJz2Wf), [Roberto Cazzola](https://open.spotify.com/artist/2vfKDyqiPUJiQsCDVq815m) | [Dark Suite \(2023, 2022, 1984\)](https://open.spotify.com/album/6FMkwtZyFym0fvao6KyfS9) | 3:04 | 2025-12-08 |  |
 | [All Alone \(Sped Up\)](https://open.spotify.com/track/3UrwGRjwBJISPAHHmGhdKy) | [Jamil](https://open.spotify.com/artist/0P0ZQjJWqdFbqEW6N2CR2y), [StillMixingBeats](https://open.spotify.com/artist/2DFmEFsSp05HwhGxTzXKJq) | [All Alone](https://open.spotify.com/album/1PtnbO3HNNGM5LONgtOWsV) | 1:36 | 2025-03-19 |  |
 | [All Become One](https://open.spotify.com/track/3I0hnW0zoK5gBnmJyDlI2B) | [Jont](https://open.spotify.com/artist/27PAZpDiy0LBXUVkQ7D2UY) | [All Become One](https://open.spotify.com/album/3gJb9k3SBLWZ2DvfskEgAk) | 3:13 | 2025-05-29 |  |
 | [All Done](https://open.spotify.com/track/12TKP5xEHNwzOt49kG8HuL) | [Glen Haze](https://open.spotify.com/artist/412hdqOshBEKPliqKYU4K9) | [All Done](https://open.spotify.com/album/4ZSbNpzkKEEkb147Ix88xs) | 3:19 | 2025-04-11 |  |
@@ -831,6 +832,7 @@
 | [Jealous \- Acoustic](https://open.spotify.com/track/7jJn9GrSrbi3hCIQ7QP2bC) | [Aura Ritual](https://open.spotify.com/artist/5PCWNC5aDhPkwRfs4Xc3DE) | [FEEDBACK \(Acoustic\)](https://open.spotify.com/album/4BBZlrb0uFTlIDR3RdwGqM) | 4:33 | 2025-09-16 |  |
 | [Jean Jackets in June](https://open.spotify.com/track/5tqQHPwOJW9TGfu5PPJ0Vh) | [Protagonist](https://open.spotify.com/artist/0GGweWaK18jB7DStgHn5id) | [Jean Jackets in June](https://open.spotify.com/album/0qjbqvrZkJ4pJMh9ups42M) | 4:35 | 2025-12-04 |  |
 | [jester](https://open.spotify.com/track/0czLzptXOO935bvU3fo3Yj) | [Brandon Hawkins](https://open.spotify.com/artist/5hBELGzR8N3PvQGSDcuR71) | [jester](https://open.spotify.com/album/0Ae6q5NVm8lkhhpY9GYdWo) | 1:38 | 2025-02-18 |  |
+| [Jorja](https://open.spotify.com/track/54M8GDEBmnQFiWXDzi0uFx) | [Polo Cortez](https://open.spotify.com/artist/555iIvNAQ1vlfXVNa4Kxu6), [Ssba](https://open.spotify.com/artist/67PGP6fO4LbiwvNtm6Ggdf), [Double S](https://open.spotify.com/artist/5qVyv07iwXspQDo4F5zJcS) | [Jorja](https://open.spotify.com/album/3IqsVC7q6DaW0wW55yDw7J) | 3:32 | 2025-12-08 |  |
 | [Joshua Davis](https://open.spotify.com/track/1bKLwKyKrK72J2Lyy9GhmO) | [The Irish Lassies](https://open.spotify.com/artist/0lUMz3jYXEKl0b8FHFV8ic) | [Joshua Davis](https://open.spotify.com/album/5NkP56WUvExZQoCUuXDamY) | 4:53 | 2025-07-29 |  |
 | [Joy](https://open.spotify.com/track/5eihoC4uwsZZHV0TtZgGXU) | [Hjörvar](https://open.spotify.com/artist/3mHZS0Enwpb4M0hNmLZOln) | [Joy](https://open.spotify.com/album/4tLbOHFqcRrouZznyr7V0v) | 3:37 | 2024-05-24 |  |
 | [Joyful Days](https://open.spotify.com/track/2ejqRknRaC6zC1WQLuUcTb) | [Mustafa Erhan](https://open.spotify.com/artist/7mve4x9DCP237Y8I1UC4TK) | [All in One](https://open.spotify.com/album/4tAYZAjdvpsskwRxDT3bXn) | 3:04 | 2025-11-29 |  |
@@ -1516,6 +1518,7 @@
 | [Teal & Orange](https://open.spotify.com/track/7mAT2BEIXszAeSDOGZ3Pxg) | [Sirob](https://open.spotify.com/artist/5KtS4msY2oTDyKR6v8yRjz), [Doriima](https://open.spotify.com/artist/1rjtnSQuAcnWSU6J1GT4RO) | [Teal & Orange](https://open.spotify.com/album/5BtGtHoWbQjMXj0u6BhJyI) | 2:46 | 2025-10-13 |  |
 | [Teardrop](https://open.spotify.com/track/47JkqFSfw7mrjNfCgCEhUr) | [The Post](https://open.spotify.com/artist/1uBE7rIj3TXKT9gZ7WAfSy) | [Teardrop](https://open.spotify.com/album/2FKUSAVf4MOBNYMW8dnoLf) | 5:36 | 2025-01-27 |  |
 | [Tears To Sand](https://open.spotify.com/track/5Zv7pEVkiHaCzDXavW1qDP) | [NURE](https://open.spotify.com/artist/75rs5jsRztU6TrsvsbB2Ee) | [Day By Day](https://open.spotify.com/album/6t6Nxv3J2rc93ovAUfi1Jv) | 3:16 | 2025-11-24 |  |
+| [Technicolour Dreams \- Single Mix](https://open.spotify.com/track/256UhhlUeFPnaOcaskzT77) | [Echomatica](https://open.spotify.com/artist/75uNvdIOOLgUT6Gs2hkRVQ) | [Technicolour Dreams \- Single Mix](https://open.spotify.com/album/0qoHyAR40cwYd1B06OMs4r) | 3:55 | 2025-12-08 |  |
 | [TELEPATHIE](https://open.spotify.com/track/2qVxWF9aBaDuQIsW9ffXkp) | [MATTHEW MAXI](https://open.spotify.com/artist/7tRcnumRUrTFZEUfyxDj46) | [TELEPATHIE](https://open.spotify.com/album/6u1zcxA9kSI6gjHUqt1xHU) | 2:24 | 2025-09-22 |  |
 | [Telescope](https://open.spotify.com/track/45lsNgRz5ofpqr0jrmPhSg) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Telescope](https://open.spotify.com/album/4nKaiwYG5hvWPxug4khElD) | 3:07 | 2024-04-29 |  |
 | [Tell It Like It Is](https://open.spotify.com/track/28EpuX7uSfbxJhNQhgSkPS) | [Andy Vargas](https://open.spotify.com/artist/3oqXjhbfHHAkNaZLsP8qZH) | [Tell It Like It Is](https://open.spotify.com/album/0R4wlFIY02YRAMSYCqGLgC) | 3:14 | 2024-05-14 |  |
@@ -1639,6 +1642,7 @@
 | [Training Montage](https://open.spotify.com/track/10ubaWjMgMgTgabEO9Y0ON) | [Hill Valley Hero](https://open.spotify.com/artist/71XVtVnfv9SgsVaw0f5roC) | [Aura](https://open.spotify.com/album/1ZVIWxk0dTwGOtHLOLHVCm) | 2:57 | 2025-08-27 |  |
 | [Trainwreck](https://open.spotify.com/track/5IjnKRaZTgOF7s4WGl4cLC) | [Invisible Animals](https://open.spotify.com/artist/3ZRWvIrAmEeBo9OYpopPJM) | [Trainwreck](https://open.spotify.com/album/5wu6VhZDBZhsnzbS2s979a) | 5:06 | 2024-05-28 |  |
 | [Treetops](https://open.spotify.com/track/0djOxIPCkgHvy9NZ66uH7k) | [Quilted Snowflake](https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA) | [Pastoral](https://open.spotify.com/album/0cXRHomVqT4f46Qd6RU1l3) | 1:40 | 2025-11-17 |  |
+| [Tren del Duende](https://open.spotify.com/track/0JakhfPYZOJ5JrRJ8YUifj) | [Juan Pablo Vitali](https://open.spotify.com/artist/0U0rAvWfvb3NUwiROiUgis) | [29904325 \(RADIO EDIT\)](https://open.spotify.com/album/39kH1oxVsgp6Sn9ofCErv4) | 4:01 | 2025-12-08 |  |
 | [Tribal Stone](https://open.spotify.com/track/5y7Mf1JPhtlMw4lwg1zV9s) | [GB MARTI](https://open.spotify.com/artist/0D3uJ6zVVYrgJyHA8ueHRd), [David Fanfano](https://open.spotify.com/artist/6gRFhdBjg5TBL7uf02aoob) | [Tribal Stone](https://open.spotify.com/album/1ciJxO6Qn1FuBkkk95ws9H) | 4:06 | 2025-03-06 |  |
 | [Trouble](https://open.spotify.com/track/7q8dZwjZQBPcyp4WLAei15) | [No Breaks Jake](https://open.spotify.com/artist/2MpOwZ3EUIrG5Gbj9PlW6n) | [Trouble](https://open.spotify.com/album/5byieQbPBWeZzJ2tmmL4F4) | 3:42 | 2025-11-06 |  |
 | [Trovas e Trovadores](https://open.spotify.com/track/6lo6lKrjM1JTim6L2VR1em) | [Adriano Mar](https://open.spotify.com/artist/4LfMSWeGo1zmDVDlXfVBTY) | [Entre o Tempo e o Vento](https://open.spotify.com/album/0yZ6zFQQ8rEhu0ZV5MOjMw) | 4:46 | 2024-06-28 |  |

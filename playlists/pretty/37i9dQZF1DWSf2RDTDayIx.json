@@ -1,6 +1,6 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2454599,
+  "num_followers": 2454651,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2025-12-05 05:00:13",
       "album": {
-        "name": "Stop This Flame (Celeste x MK)",
-        "url": "https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        }
-      ],
-      "duration_ms": 203946,
-      "name": "Stop This Flame - Celeste x MK",
-      "url": "https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot"
-    },
-    {
-      "added_at": "2025-12-05 05:00:13",
-      "album": {
         "name": "All For Love",
         "url": "https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 166666,
       "name": "All For Love",
       "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
+    },
+    {
+      "added_at": "2025-12-05 05:00:13",
+      "album": {
+        "name": "Stop This Flame (Celeste x MK)",
+        "url": "https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "duration_ms": 203946,
+      "name": "Stop This Flame - Celeste x MK",
+      "url": "https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot"
     },
     {
       "added_at": "2025-12-05 05:00:13",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2025-12-05 05:00:13",
       "album": {
+        "name": "Can't Deny It",
+        "url": "https://open.spotify.com/album/2tYGrcqUZ1OASP2vMwDfBJ"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "Spriitzz",
+          "url": "https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D"
+        }
+      ],
+      "duration_ms": 172727,
+      "name": "Can't Deny It",
+      "url": "https://open.spotify.com/track/21tV1aVocgAot1YekbvJRZ"
+    },
+    {
+      "added_at": "2025-12-05 05:00:13",
+      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 135428,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn"
-    },
-    {
-      "added_at": "2025-12-05 05:00:13",
-      "album": {
-        "name": "Can't Deny It",
-        "url": "https://open.spotify.com/album/2tYGrcqUZ1OASP2vMwDfBJ"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        },
-        {
-          "name": "Spriitzz",
-          "url": "https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D"
-        }
-      ],
-      "duration_ms": 172727,
-      "name": "Can't Deny It",
-      "url": "https://open.spotify.com/track/21tV1aVocgAot1YekbvJRZ"
     },
     {
       "added_at": "2025-12-05 05:00:13",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2025-12-05 05:00:13",
       "album": {
-        "name": "Enjoy Your Life",
-        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
-    },
-    {
-      "added_at": "2025-12-05 05:00:13",
-      "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/0wyLwBTTorS8W4yHXJNPGj"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 233619,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/0KU8W0lHfsNlH7lfV1dz29"
+    },
+    {
+      "added_at": "2025-12-05 05:00:13",
+      "album": {
+        "name": "Enjoy Your Life",
+        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
     },
     {
       "added_at": "2025-12-05 05:00:13",
@@ -2507,26 +2507,6 @@
     {
       "added_at": "2025-12-05 05:00:13",
       "album": {
-        "name": "Stewpid",
-        "url": "https://open.spotify.com/album/45VtC7hbjqdnloYG2e8jO4"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 161068,
-      "name": "Stewpid",
-      "url": "https://open.spotify.com/track/4ZCs1ZodLShvfhYLDrJExa"
-    },
-    {
-      "added_at": "2025-12-05 05:00:13",
-      "album": {
         "name": "All Day (feat. Non\u00f4)",
         "url": "https://open.spotify.com/album/2vA5dz501KUEWDYHnyIgiJ"
       },
@@ -2543,6 +2523,26 @@
       "duration_ms": 182653,
       "name": "All Day (feat. Non\u00f4)",
       "url": "https://open.spotify.com/track/7kG1Lv9NFFtvvUeyYHLG7R"
+    },
+    {
+      "added_at": "2025-12-05 05:00:13",
+      "album": {
+        "name": "Stewpid",
+        "url": "https://open.spotify.com/album/45VtC7hbjqdnloYG2e8jO4"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 161068,
+      "name": "Stewpid",
+      "url": "https://open.spotify.com/track/4ZCs1ZodLShvfhYLDrJExa"
     },
     {
       "added_at": "2025-12-05 05:00:13",
@@ -2947,30 +2947,6 @@
     {
       "added_at": "2025-12-05 05:00:13",
       "album": {
-        "name": "How You Samba",
-        "url": "https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ"
-      },
-      "artists": [
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Tinie Tempah",
-          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
-        }
-      ],
-      "duration_ms": 151680,
-      "name": "How You Samba",
-      "url": "https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1"
-    },
-    {
-      "added_at": "2025-12-05 05:00:13",
-      "album": {
         "name": "CHOOSE LOVE",
         "url": "https://open.spotify.com/album/52YEViScMbvzOz7m27uUcT"
       },
@@ -3011,6 +2987,30 @@
     {
       "added_at": "2025-12-05 05:00:13",
       "album": {
+        "name": "How You Samba",
+        "url": "https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        }
+      ],
+      "duration_ms": 151680,
+      "name": "How You Samba",
+      "url": "https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1"
+    },
+    {
+      "added_at": "2025-12-05 05:00:13",
+      "album": {
         "name": "Let Me",
         "url": "https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8"
       },
@@ -3047,22 +3047,22 @@
     {
       "added_at": "2025-12-05 05:00:13",
       "album": {
-        "name": "Keep On Rising",
-        "url": "https://open.spotify.com/album/26qaW7TcD4ktLQztHU3pda"
+        "name": "THIS IS FOR YOU (feat. Niki & the Dove)",
+        "url": "https://open.spotify.com/album/5jzNspcRduwzqTJnWaFb0p"
       },
       "artists": [
         {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
         },
         {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+          "name": "Niki & The Dove",
+          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
         }
       ],
-      "duration_ms": 207696,
-      "name": "Keep On Rising",
-      "url": "https://open.spotify.com/track/5EO3XfmUHzdeGq3XCue8YP"
+      "duration_ms": 221683,
+      "name": "THIS IS FOR YOU (feat. Niki & the Dove)",
+      "url": "https://open.spotify.com/track/2EY0iypCKjix9tBeaGvm03"
     }
   ],
   "unique_name": "Happy Beats",

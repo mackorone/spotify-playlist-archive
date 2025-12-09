@@ -1,13 +1,29 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2630,
+  "num_followers": 2633,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARHT0g2aUIPOBfK72WXww1xvExewuW",
+  "snapshot_id": "AAARHlC2rVt2DzlxoCPdiS1WnOrQOaM+",
   "tracks": [
+    {
+      "added_at": "2025-12-08 20:58:02",
+      "album": {
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/3JMG4h0VmnRypexYhaUSk1"
+      },
+      "artists": [
+        {
+          "name": "BONNY",
+          "url": "https://open.spotify.com/artist/4Dp8I20ZkkotYV9BAeAu9G"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "WAVE",
+      "url": "https://open.spotify.com/track/1HfCrWjGaZYH82TBn2Cf9l"
+    },
     {
       "added_at": "2025-12-06 15:12:49",
       "album": {

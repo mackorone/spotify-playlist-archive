@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,050 likes - 157 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,051 likes - 157 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,8 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 127 | [Dolla \- A COLORS SHOW](https://open.spotify.com/track/6fOKSOoWafYU099bNaf6Y8) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Dolla \(A COLORS SHOW\)](https://open.spotify.com/album/6bJqdE6a1mRYzzSGK2zycd) | 2:58 |
 | 128 | [Wicked](https://open.spotify.com/track/2rrv9BBB2tL7Y2ToNdLOzg) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Don't Say I Didn't Warn You](https://open.spotify.com/album/6unv1JfAfjWTkcn0zBnGiY) | 1:55 |
 | 129 | [CALL NOW \(504\-305\-8269\) \(feat\. Michael Batiste\)](https://open.spotify.com/track/3knkb8Uye1Ndmx6abiIJCC) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Michael Batiste](https://open.spotify.com/artist/1HhxyoQLcufGgej3hU46aA) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 3:19 |
-| 130 | [Tic Toc](https://open.spotify.com/track/2q0pAb1RdsYDO355DBR1xG) | [Christian Lalama](https://open.spotify.com/artist/5Za0xh2u1ahAoSb1NWa2wm) | [Tic Toc](https://open.spotify.com/album/7MzeqFSZOsMvKPTkLXb8eL) | 2:06 |
-| 131 | [Closure](https://open.spotify.com/track/0Fsoo5wDEJ4Vs9Qn3r3ZrT) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 2:33 |
+| 130 | [Closure](https://open.spotify.com/track/0Fsoo5wDEJ4Vs9Qn3r3ZrT) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 2:33 |
+| 131 | [Tic Toc](https://open.spotify.com/track/2q0pAb1RdsYDO355DBR1xG) | [Christian Lalama](https://open.spotify.com/artist/5Za0xh2u1ahAoSb1NWa2wm) | [Tic Toc](https://open.spotify.com/album/7MzeqFSZOsMvKPTkLXb8eL) | 2:06 |
 | 132 | [Damage](https://open.spotify.com/track/02gFgSPCOx4q306IAji6gt) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 2:55 |
 | 133 | [The Nightlife](https://open.spotify.com/track/3yS2HZtVQyt81BvC8KnBEa) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [The Nightlife](https://open.spotify.com/album/7xsxQvOjSUDv7G3RvnA1rl) | 2:49 |
 | 134 | [Running Away \(feat\. Leigh\-Anne\)](https://open.spotify.com/track/6QChGL1rJ3R4VpESDVCb7w) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 5:01 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTjpkKvAHx95.md) - [plain]
 | 156 | [Aya](https://open.spotify.com/track/5ns3kffO7Y8hh3lZyoXMCF) | [Medusa](https://open.spotify.com/artist/4vPPFsG4hJ9JrtrgUrzsYh) | [Aya](https://open.spotify.com/album/23x8pIyTKI3MggMSdShflL) | 2:55 |
 | 157 | [I AM LOLA](https://open.spotify.com/track/4kH4Lb90dhFdWaruTrrx86) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:14 |
 
-Snapshot ID: `AcDnnAAAAAA4TDPcRFFDNyCm/9tO4VK4`
+Snapshot ID: `AcDtPAAAAAAGyWwdztT3Ual/QdbCQuyD`

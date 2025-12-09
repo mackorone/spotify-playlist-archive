@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 
 > Timeless & classic Arabic songs\. Cover: Warda
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,794 likes - 90 songs - 14 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,944 likes - 90 songs - 14 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 35 | [Laktob Aourak El Chagar](https://open.spotify.com/track/2mpt58YGh6hdfCTCA1uHAw) | [Farid al\-Atrash](https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw) | [Aghany Film Hikayet El Omr Kolloh \- Zaman Ya Hob](https://open.spotify.com/album/79Y0LRI9Ym75MOMiYy27Gk) | 7:37 |
 | 36 | [Alayl Ya Layla](https://open.spotify.com/track/1SGE7yd8w2bm8zt32pxs9Y) | [Wadih El Safi](https://open.spotify.com/artist/3f4YDbTkTN4DzVFodIBS8Z) | [Best of Wadih El Safi, Vol\. 1](https://open.spotify.com/album/297hr38v9aZGdsNgHoD9K2) | 6:11 |
 | 37 | [Ana Moush Kafer \- 2008 Remastered](https://open.spotify.com/track/6BE0jeBho94oFSeF3a3nmP) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Ana Moush Kafer](https://open.spotify.com/album/4A3pPnIVNk84KqJODnLu7N) | 5:03 |
-| 38 | [Al\-Hobbi Koullou](https://open.spotify.com/track/5ndZ0322fIgfW7eTgRr5Ly) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 6:29 |
-| 39 | [Al Dalouna](https://open.spotify.com/track/4taU34sUdcaY8GRJNabiQq) | [Toni Hanna](https://open.spotify.com/artist/0xedaSQFHyTb4CqdnleQ1q) | [In the Country Bid'dayaa](https://open.spotify.com/album/1ipepXXHzY5fO9pnuOCxuO) | 3:35 |
+| 38 | [Al Dalouna](https://open.spotify.com/track/4taU34sUdcaY8GRJNabiQq) | [Toni Hanna](https://open.spotify.com/artist/0xedaSQFHyTb4CqdnleQ1q) | [In the Country Bid'dayaa](https://open.spotify.com/album/1ipepXXHzY5fO9pnuOCxuO) | 3:35 |
+| 39 | [Al\-Hobbi Koullou](https://open.spotify.com/track/5ndZ0322fIgfW7eTgRr5Ly) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 6:29 |
 | 40 | [Hebbina Hebbina](https://open.spotify.com/track/0y8xuNb76WLCH5BbSz0XNU) | [Farid al\-Atrash](https://open.spotify.com/artist/0NIoaQcBpp3jyF2fkkQtuw) | [Aghany Film Nagham Fi Hayati](https://open.spotify.com/album/70T1XrQgfwXVspcJl8Rwr9) | 7:33 |
 | 41 | [Nwina Al Jazi Nwina](https://open.spotify.com/track/5mpZxwwqAxzuE5Br0Tzznv) | [Rabih El Khawli](https://open.spotify.com/artist/4EVDTHkfVtAUhPty544cQV) | [Nwina Al Jaze](https://open.spotify.com/album/6ooFb3kCRYgK0LxKbaq1mO) | 5:08 |
 | 42 | [Law Fina](https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Law Fina](https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB) | 6:11 |
-| 43 | [Wahashtini](https://open.spotify.com/track/3tNjYMW0KORaE2tK1Sjd7J) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 6:16 |
-| 44 | [Ya Aashikata El Wardi](https://open.spotify.com/track/0z6lBh5eWAPqfB2GOvnzCZ) | [Zaki Nassif](https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT) | [Shta'na Aa Lebnan](https://open.spotify.com/album/68MPtU6JYWEq0kc7WWszOd) | 4:33 |
+| 43 | [Ya Aashikata El Wardi](https://open.spotify.com/track/0z6lBh5eWAPqfB2GOvnzCZ) | [Zaki Nassif](https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT) | [Shta'na Aa Lebnan](https://open.spotify.com/album/68MPtU6JYWEq0kc7WWszOd) | 4:33 |
+| 44 | [Wahashtini](https://open.spotify.com/track/3tNjYMW0KORaE2tK1Sjd7J) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 6:16 |
 | 45 | [Ma Zal Bhob Rbina](https://open.spotify.com/track/4yDyc4KLT5oxvObDqH2hom) | [Samir Hanna](https://open.spotify.com/artist/1wQLIAsJsjPiOCrK2onDFW) | [Samir Hanna Sings Elias Rahbani, Vol\. 1](https://open.spotify.com/album/5xpuYvYWnsl01vJic7hZaq) | 3:27 |
 | 46 | [Ya Ahl El Hawa](https://open.spotify.com/track/1CoN7VnsENHvbSD7TuiIjg) | [Rabih El Khawli](https://open.spotify.com/artist/4EVDTHkfVtAUhPty544cQV) | [Nwina Al Jaze](https://open.spotify.com/album/6ooFb3kCRYgK0LxKbaq1mO) | 6:55 |
 | 47 | [Tal el\-sahar \- Remastered](https://open.spotify.com/track/0D5ymfVlEIhttb3P3lZYmP) | [Toni Hanna](https://open.spotify.com/artist/0xedaSQFHyTb4CqdnleQ1q) | [The Best Of](https://open.spotify.com/album/4kQoGwncuB0SinfYZh5sP0) | 3:23 |
-| 48 | [Ibaati Gawab](https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 7:29 |
-| 49 | [Ktir Mohalaia](https://open.spotify.com/track/1WvJC3zAXl9RvBtN8u0FOB) | [Azar Habib](https://open.spotify.com/artist/1WFcnIsCqBkVYOjqNtZ5xX) | [The Best of Azar Habib](https://open.spotify.com/album/75K9b6RIaQDITEOuVvZULV) | 4:10 |
+| 48 | [Ktir Mohalaia](https://open.spotify.com/track/1WvJC3zAXl9RvBtN8u0FOB) | [Azar Habib](https://open.spotify.com/artist/1WFcnIsCqBkVYOjqNtZ5xX) | [The Best of Azar Habib](https://open.spotify.com/album/75K9b6RIaQDITEOuVvZULV) | 4:10 |
+| 49 | [Ibaati Gawab](https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 7:29 |
 | 50 | [Ana Alby Daleely](https://open.spotify.com/track/3bwlnMq8hwTgIRI7abv2At) | [Laila Mourad](https://open.spotify.com/artist/56OChX6qMfZmYVGB4NMCHc) | [Agmal Aghany Laila Mourad](https://open.spotify.com/album/3lRQi4vBYzvNtxoRJ5qXOw) | 5:32 |
 | 51 | [Houwaret El Abraj](https://open.spotify.com/track/3LGlf7bezYOiE0M63Nr1up) | [Alain Merheb](https://open.spotify.com/artist/5E5MDX191b6nQbOpwA3k8I) | [King of Al Houwara, Vol\. 5](https://open.spotify.com/album/5yI95WEND0I52ephQ6SqjV) | 7:04 |
 | 52 | [Midri](https://open.spotify.com/track/1yOlhO1ejjlNSyV83ImGLW) | [Malek El Yaman](https://open.spotify.com/artist/10bHG6pbiXXIT63inPNyCI), [Carole Aoun](https://open.spotify.com/artist/5eo1Obe1OnCuklPbWBIMMM) | [Midri](https://open.spotify.com/album/5dkJWG1lsaGl03VaivzqIs) | 4:35 |

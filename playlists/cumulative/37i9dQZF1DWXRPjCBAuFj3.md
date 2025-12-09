@@ -4,12 +4,13 @@
 
 > Brani virali e trend, rap e urban 📈  Shiva in cover
 
-931 songs - 2 day 0 hr 17 min
+933 songs - 2 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0 CONFIANZA](https://open.spotify.com/track/3DoQI6dr5XDc7hChrkA1lD) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [EL TIBURÓN](https://open.spotify.com/album/44MDlLPFwSdNNACGyOlfW3) | 3:37 | 2024-05-30 | 2024-06-29 |
 | [06 Gucci \(feat\. DaBaby & 21 Savage\)](https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [06 Gucci \(feat\. DaBaby & 21 Savage\)](https://open.spotify.com/album/6K67robZZpglKEFuNQWtsr) | 2:58 | 2023-04-06 | 2024-07-02 |
+| [081](https://open.spotify.com/track/5EtlojWtD8y7pnoDb80JwP) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [081](https://open.spotify.com/album/6V1z5I1Bxnxt2GixkZa2To) | 2:55 | 2025-12-08 |  |
 | [1 MOMENTO \(feat\. ANNA\)](https://open.spotify.com/track/6OCnAtM8oa0JymErlTYXxG) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASTRO](https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG) | 2:56 | 2025-11-27 |  |
 | [100 Million](https://open.spotify.com/track/3EJslhR33350RLGMb6eOAg) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [100 Million](https://open.spotify.com/album/0DRD7GdJQNalHpKaLhM871) | 3:12 | 2024-01-18 | 2024-02-16 |
 | [14 Years \- Spotify Singles](https://open.spotify.com/track/3UBHeF9BNbMUB3SoGr8pSn) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [Spotify Singles](https://open.spotify.com/album/5xrn2BgDap9ifTaTrIDf9X) | 2:13 | 2022-10-21 | 2023-02-10 |
@@ -161,6 +162,7 @@
 | [Changed On Me \(feat\. Vory & Polo G\)](https://open.spotify.com/track/0aJMggmjMva3QFnAbmM2U9) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 4:01 | 2022-05-13 | 2022-08-03 |
 | [Charger](https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [Franchement !](https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD) | 2:35 | 2025-08-14 |  |
 | [Che Gusto C'è \(feat\. Tredici Pietro\)](https://open.spotify.com/track/574A5K67Hj0ZTEKfGsnUpV) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [Che Gusto C'è \(feat\. Tredici Pietro\)](https://open.spotify.com/album/5VidRTp3bTPmlOdq1dLA4T) | 3:03 | 2025-07-03 |  |
+| [Chic](https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Fenice](https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I) | 3:32 | 2025-12-08 |  |
 | [Child of God](https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Child of God](https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w) | 4:15 | 2022-07-15 | 2022-07-21 |
 | [Chocolate \(feat\. Young Thug and Gunna\)](https://open.spotify.com/track/6PvHZ5vVjUhngh0t3pIsPc) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 3:28 | 2022-10-07 | 2022-10-29 |
 | [Chop \(Nouvelle École\)](https://open.spotify.com/track/6KHsTu4Ht4XYiWcZOOdwbW) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Chop \(Nouvelle École\)](https://open.spotify.com/album/2vAVFfoAjUMrDpXtcYhp5U) | 3:15 | 2022-07-15 | 2022-11-17 |

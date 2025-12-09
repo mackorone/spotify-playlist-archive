@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 143593,
+  "num_followers": 143608,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAAAa/2d/4QebVogj5p/3j2We",
+  "snapshot_id": "aTTDgAAAAADTnkpCTR4U2LDqEli5eFvU",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clasicas para Rockear",
-        "url": "https://open.spotify.com/album/1udzt4QE3PY1KvUinZ5xiw"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 272306,
-      "name": "Virgen morena",
-      "url": "https://open.spotify.com/track/7nt6ghHg0orx4dieH5bFHp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Never Give Up (Todo Venceremos)",
         "url": "https://open.spotify.com/album/6ulRZCEENJFpgoVZ6knMLY"
       },
@@ -347,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Clasicas para Rockear",
+        "url": "https://open.spotify.com/album/1udzt4QE3PY1KvUinZ5xiw"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 272306,
+      "name": "Virgen morena",
+      "url": "https://open.spotify.com/track/7nt6ghHg0orx4dieH5bFHp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Simplemente",
         "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
       },
@@ -359,22 +359,6 @@
       "duration_ms": 145093,
       "name": "Vicioso",
       "url": "https://open.spotify.com/track/1Dye6w5HIVXAzaECtHMNFo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
-        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 311773,
-      "name": "Mar\u00eda Sabina",
-      "url": "https://open.spotify.com/track/2mwt41mwj7S4TIpTaDmR7B"
     },
     {
       "added_at": null,
@@ -399,6 +383,22 @@
       "duration_ms": 206426,
       "name": "Triste Canci\u00f3n de Amor",
       "url": "https://open.spotify.com/track/2dU6qhklHciuCpoKA8QOfu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "21 A\u00f1os despu\u00e9s Alex Lora y El Tri",
+        "url": "https://open.spotify.com/album/2kFtk6om31zv0DAxtrbDnu"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 311773,
+      "name": "Mar\u00eda Sabina",
+      "url": "https://open.spotify.com/track/2mwt41mwj7S4TIpTaDmR7B"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoyos en la bolsa",
-        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 281600,
-      "name": "Pamela",
-      "url": "https://open.spotify.com/track/7y9v2r9wF9wd9VE97VFX3z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinf\u00f3nico",
         "url": "https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8"
       },
@@ -635,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra tocada m\u00e1s",
-        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
+        "name": "Hoyos en la bolsa",
+        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
       },
       "artists": [
         {
@@ -644,9 +628,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 224906,
-      "name": "Sara",
-      "url": "https://open.spotify.com/track/30E7fZpUC0Cdw1E62BRxb3"
+      "duration_ms": 281600,
+      "name": "Pamela",
+      "url": "https://open.spotify.com/track/7y9v2r9wF9wd9VE97VFX3z"
     },
     {
       "added_at": null,
@@ -663,6 +647,22 @@
       "duration_ms": 263200,
       "name": "Mi chava no me comprende",
       "url": "https://open.spotify.com/track/6f9i7QVcRtypJ49wPRGmRg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra tocada m\u00e1s",
+        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "Sara",
+      "url": "https://open.spotify.com/track/30E7fZpUC0Cdw1E62BRxb3"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra tocada m\u00e1s",
-        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 239360,
-      "name": "L\u00e1grimas en la lluvia",
-      "url": "https://open.spotify.com/track/76GfS8cxOP8wcdNcoLDSqQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hard to Handle",
         "url": "https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 190632,
       "name": "Hard to Handle",
       "url": "https://open.spotify.com/track/2c6xK3rRQQT95DaTnjQYCF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra tocada m\u00e1s",
+        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "L\u00e1grimas en la lluvia",
+      "url": "https://open.spotify.com/track/76GfS8cxOP8wcdNcoLDSqQ"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra tocada m\u00e1s",
-        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 246960,
-      "name": "Caseta de cobro",
-      "url": "https://open.spotify.com/track/2zm7vgeqPL4EHoF69mh802"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chavo De Onda",
         "url": "https://open.spotify.com/album/2TonRm97HlDsH47A2FIlZT"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 209578,
       "name": "Chavo De Onda",
       "url": "https://open.spotify.com/track/6NGS3TwVPixvTbMALDReaN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra tocada m\u00e1s",
+        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 246960,
+      "name": "Caseta de cobro",
+      "url": "https://open.spotify.com/track/2zm7vgeqPL4EHoF69mh802"
     },
     {
       "added_at": null,

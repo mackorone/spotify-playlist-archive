@@ -1,12 +1,12 @@
 {
   "description": "This is Herbie Hancock. The essential tracks, all in one playlist.",
-  "num_followers": 41147,
+  "num_followers": 41162,
   "original_name": "This Is Herbie Hancock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAABPVCxTI8b4cNa6OfDMYocb",
+  "snapshot_id": "aTTDgAAAAAAXilgQNHTITyAi9jRyqWY/",
   "tracks": [
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/42qcX8LprsyIPdjzlQyZ8e"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 424560,
-      "name": "Stars in Your Eyes",
-      "url": "https://open.spotify.com/track/3VWsDvM1GGEp9OYYlphhi3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Street of Minarets",
         "url": "https://open.spotify.com/album/6WYbU1sKldxrr2utsPRbKx"
       },
@@ -799,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrust",
-        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/42qcX8LprsyIPdjzlQyZ8e"
       },
       "artists": [
         {
@@ -808,9 +792,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 677893,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/2YQBDxMbQbOsdXixdL4ZyE"
+      "duration_ms": 424560,
+      "name": "Stars in Your Eyes",
+      "url": "https://open.spotify.com/track/3VWsDvM1GGEp9OYYlphhi3"
     },
     {
       "added_at": null,
@@ -827,6 +811,22 @@
       "duration_ms": 518786,
       "name": "Mimosa",
       "url": "https://open.spotify.com/track/7oazsdQXUnRmatgQG7LxKQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thrust",
+        "url": "https://open.spotify.com/album/00Uf5PRAinCJ0oiCX1Cv2k"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 677893,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/2YQBDxMbQbOsdXixdL4ZyE"
     },
     {
       "added_at": null,

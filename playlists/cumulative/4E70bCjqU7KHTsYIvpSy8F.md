@@ -4,7 +4,7 @@
 
 > 
 
-71 songs - 4 hr 2 min
+72 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Gilded Runner](https://open.spotify.com/track/4vhfKGfxS6VAT3cqrmh8oI) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Forest of Jnana and Vidya \(Original Game Soundtrack\)](https://open.spotify.com/album/2P7SmTlPHLZxnvQZOMIGyr) | 4:05 | 2025-03-14 |  |
 | [Going Nowhere](https://open.spotify.com/track/79yggxK8HLRYOKUYa2E5S9) | [Gooseworx](https://open.spotify.com/artist/4I31Oaf4lpU501IMCuEHTt), [Evan Alderete](https://open.spotify.com/artist/2TrXT9J7vh2gaEp6Nb0g0K) | [The Amazing Digital Circus \(Original Pilot Soundtrack\)](https://open.spotify.com/album/2SgquMN2FvtGFR5b1Pf4Zy) | 1:34 | 2025-03-13 |  |
 | [Graze the Roof](https://open.spotify.com/track/78sRnSDYbNMAcAh6lX1yG6) | [Laura Shigihara](https://open.spotify.com/artist/2RnGA202UcoKq6KjzQCbNR) | [Plants Vs\. Zombies \(Original Video Game Soundtrack\)](https://open.spotify.com/album/3nG37CdJEbz1c7KrOOQn4Z) | 3:03 | 2025-10-28 |  |
+| [He Mele No Lilo \- From "Lilo & Stitch"/Soundtrack Version](https://open.spotify.com/track/43CPZZnuEm6huXdm1PCa5w) | [Mark Keali'i Ho'omalu](https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt), [Kamehameha Schools Children's Chorus](https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS) | [Disney Summer Songs](https://open.spotify.com/album/6qykGE5x584duyLVYcnojE) | 2:28 | 2025-12-08 |  |
 | [Heaven and Earth as a Chessboard](https://open.spotify.com/track/42MEebWLhNae34fHKwL79g) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Honkai: Star Rail \- Experience the Paths Vol\. 1](https://open.spotify.com/album/2vC63gH9IJx2DyFM3XNIo6) | 1:55 | 2025-03-13 |  |
 | [Himitsuno kingyo](https://open.spotify.com/track/0It3VuYrgX7WOO08tuQ7B4) | [MASA WORKS DESIGN](https://open.spotify.com/artist/4KCNieFVZXwH2iZLX2D0cF) | [ALCATRAZ](https://open.spotify.com/album/018jqv8dikQfpoZaGIV0Cj) | 3:50 | 2025-03-13 |  |
 | [Hustle and Bustle of Ormos](https://open.spotify.com/track/5Jz9y9DNWFKEKlR1edaDfq) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Forest of Jnana and Vidya \(Original Game Soundtrack\)](https://open.spotify.com/album/2P7SmTlPHLZxnvQZOMIGyr) | 1:48 | 2025-03-14 |  |

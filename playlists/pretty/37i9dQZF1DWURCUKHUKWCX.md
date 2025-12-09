@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,648 likes - 174 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,692 likes - 174 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 173 | [Outside](https://open.spotify.com/track/1R5P9ersiA9xKk00JEXfSU) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi) | [Outside](https://open.spotify.com/album/108OAvmRUCY02QqJ3C4OT0) | 1:58 |
 | 174 | [That Feeling, Though](https://open.spotify.com/track/5W7cnjrNZcv1ITMv3xyvkV) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [That Feeling, Though](https://open.spotify.com/album/0KApkc3q8azy74RibeRkb1) | 1:31 |
 
-Snapshot ID: `AAAAAAKR+b2YjPjr/ZciK2o9frYXMvDN`
+Snapshot ID: `AAAAAP+rPr3KVYveBXAtVXtkHgsvdkah`

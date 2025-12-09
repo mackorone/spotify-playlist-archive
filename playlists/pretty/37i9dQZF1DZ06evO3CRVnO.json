@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 319840,
+  "num_followers": 319916,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAADjH9KzUAheKknnES5gdiIP",
+  "snapshot_id": "aTTDgAAAAAAskw0EDpWa4bcfL6xUylCB",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playboi Carti",
-        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
+        "name": "The Leaks",
+        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
       },
       "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
         {
           "name": "Playboi Carti",
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         },
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Skooly",
+          "url": "https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku"
         }
       ],
-      "duration_ms": 235535,
-      "name": "wokeuplikethis*",
-      "url": "https://open.spotify.com/track/59J5nzL1KniFHnU120dQzt"
+      "duration_ms": 202162,
+      "name": "Let's Do It (feat. Playboi Carti & Skooly)",
+      "url": "https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN"
     },
     {
       "added_at": null,
@@ -355,26 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lil Boat 3.5",
-        "url": "https://open.spotify.com/album/6ufaA5YvSGK3E9KnRFYvvo"
+        "name": "Playboi Carti",
+        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
       },
       "artists": [
         {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
           "name": "Playboi Carti",
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 170858,
-      "name": "Flex Up (feat. Future & Playboi Carti)",
-      "url": "https://open.spotify.com/track/5Ryu0SlsYjKh78RkJUONFr"
+      "duration_ms": 235535,
+      "name": "wokeuplikethis*",
+      "url": "https://open.spotify.com/track/59J5nzL1KniFHnU120dQzt"
     },
     {
       "added_at": null,
@@ -399,26 +399,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Leaks",
-        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
+        "name": "Lil Boat 3.5",
+        "url": "https://open.spotify.com/album/6ufaA5YvSGK3E9KnRFYvvo"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
           "name": "Playboi Carti",
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Skooly",
-          "url": "https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku"
         }
       ],
-      "duration_ms": 202162,
-      "name": "Let's Do It (feat. Playboi Carti & Skooly)",
-      "url": "https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN"
+      "duration_ms": 170858,
+      "name": "Flex Up (feat. Future & Playboi Carti)",
+      "url": "https://open.spotify.com/track/5Ryu0SlsYjKh78RkJUONFr"
     },
     {
       "added_at": null,

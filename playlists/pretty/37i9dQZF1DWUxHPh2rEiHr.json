@@ -627,26 +627,6 @@
     {
       "added_at": "2025-08-22 16:35:23",
       "album": {
-        "name": "El Merengue",
-        "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 189668,
-      "name": "El Merengue",
-      "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
-    },
-    {
-      "added_at": "2025-08-22 16:35:23",
-      "album": {
         "name": "Parado no Bail\u00e3o",
         "url": "https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 171692,
       "name": "Parado no Bail\u00e3o",
       "url": "https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT"
+    },
+    {
+      "added_at": "2025-08-22 16:35:23",
+      "album": {
+        "name": "El Merengue",
+        "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 189668,
+      "name": "El Merengue",
+      "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
     },
     {
       "added_at": "2025-08-22 16:35:23",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2025-08-22 16:35:23",
       "album": {
+        "name": "HOME IS CHANGING",
+        "url": "https://open.spotify.com/album/3B69Rwb21o9LqQnJB9dw5O"
+      },
+      "artists": [
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "duration_ms": 143133,
+      "name": "ITTY BITTY",
+      "url": "https://open.spotify.com/track/6ho5dJJZp3z0dv4DnE34J5"
+    },
+    {
+      "added_at": "2025-08-22 16:35:23",
+      "album": {
         "name": "X TI",
         "url": "https://open.spotify.com/album/4HfQzOCpQrakm38l0HdS1V"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 215000,
       "name": "X TI",
       "url": "https://open.spotify.com/track/6jNMtUR4tNxTqP63yfdJTv"
-    },
-    {
-      "added_at": "2025-08-22 16:35:23",
-      "album": {
-        "name": "HOME IS CHANGING",
-        "url": "https://open.spotify.com/album/3B69Rwb21o9LqQnJB9dw5O"
-      },
-      "artists": [
-        {
-          "name": "Mishaal Tamer",
-          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
-        }
-      ],
-      "duration_ms": 143133,
-      "name": "ITTY BITTY",
-      "url": "https://open.spotify.com/track/6ho5dJJZp3z0dv4DnE34J5"
     },
     {
       "added_at": "2025-08-22 16:35:23",

@@ -1,12 +1,12 @@
 {
   "description": "This is Shakira. The essential tracks, all in one playlist.",
-  "num_followers": 1749994,
+  "num_followers": 1750263,
   "original_name": "This Is Shakira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAAD7OR26V7v+MEjccEg7Ig+A",
+  "snapshot_id": "aTTDgAAAAACwvIjJCHD3pn0dEndjxNlk",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+        "name": "Sale el Sol",
+        "url": "https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW"
       },
       "artists": [
         {
           "name": "Shakira",
           "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 195840,
-      "name": "Chantaje (feat. Maluma)",
-      "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
+      "duration_ms": 147480,
+      "name": "Addicted to You",
+      "url": "https://open.spotify.com/track/4zy1s9GnxWsNzZp1688euA"
     },
     {
       "added_at": null,
@@ -191,18 +187,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sale el Sol",
-        "url": "https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW"
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
       },
       "artists": [
         {
           "name": "Shakira",
           "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 147480,
-      "name": "Addicted to You",
-      "url": "https://open.spotify.com/track/4zy1s9GnxWsNzZp1688euA"
+      "duration_ms": 195840,
+      "name": "Chantaje (feat. Maluma)",
+      "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B\u00e9same",
-        "url": "https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sale el Sol",
         "url": "https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 183693,
       "name": "Loca (feat. El Cata)",
       "url": "https://open.spotify.com/track/42k1KeBehAd83lrGt1okiC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/0jmILM3yDH04Forg1iU1Kl"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 211906,
-      "name": "Moscas en la Casa",
-      "url": "https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monoton\u00eda",
         "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 158804,
       "name": "Monoton\u00eda",
       "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 235733,
+      "name": "Ojos As\u00ed",
+      "url": "https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 235733,
-      "name": "Ojos As\u00ed",
-      "url": "https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 226733,
       "name": "Me Enamor\u00e9",
       "url": "https://open.spotify.com/track/4qknM1pQz53QOyfDVTjcM9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 211906,
+      "name": "Moscas en la Casa",
+      "url": "https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY"
     },
     {
       "added_at": null,

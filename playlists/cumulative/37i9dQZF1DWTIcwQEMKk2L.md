@@ -4,7 +4,7 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-211 songs - 10 hr 4 min
+212 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Am I the Only One](https://open.spotify.com/track/3pQ9yM5g3ad2tXEsiT5X0u) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Am I the Only One?](https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9) | 2:41 | 2025-03-24 |  |
 | [Ambre](https://open.spotify.com/track/25zykbJGBYXYjnq5VyhO3N) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Wintermusik](https://open.spotify.com/album/7wkQV8xvauPFBG2xC3pawK) | 3:47 | 2023-11-20 | 2024-04-19 |
 | [Amorous Rebound](https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Amorous Rebound](https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE) | 1:49 | 2023-11-20 | 2024-12-15 |
-| [Amorzinho \- Piano Version](https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp) | [Tip Ferreira](https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw) | [Amorzinho \(Piano Version\)](https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ) | 3:36 | 2023-11-20 |  |
+| [Amorzinho \- Piano Version](https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp) | [Tip Ferreira](https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw) | [Amorzinho \(Piano Version\)](https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ) | 3:36 | 2023-11-20 | 2025-12-09 |
 | [Anya](https://open.spotify.com/track/7wJFntvhETfYAvg5r4lOzX) | [Ray Love](https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy) | [Anya](https://open.spotify.com/album/24ovooxolcP6FKYdb3d33f) | 3:43 | 2025-03-11 |  |
 | [Apples And Bananas](https://open.spotify.com/track/0jBP56KjBoH04nUqazspFb) | [Carolina Laurel](https://open.spotify.com/artist/4KQIvd8xhteThiwnEhjO7p) | [Apples And Bananas](https://open.spotify.com/album/4AYW0ItGoV4ClM939MhDkE) | 1:31 | 2023-11-20 | 2024-01-30 |
 | [Astral](https://open.spotify.com/track/3whBmm64jwAGt4fv17qVvX) | [Elsa Gifford](https://open.spotify.com/artist/2WkJQ6rsCVeyNuVidqTaoW) | [Astral](https://open.spotify.com/album/6UETlcLAo8G9vKza6h2FEv) | 2:59 | 2025-03-24 |  |
@@ -147,6 +147,7 @@
 | [Pennies From Heaven](https://open.spotify.com/track/5FZ1EwzovpSlbfPK2eynR0) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [Pennies From Heaven](https://open.spotify.com/album/75bRjjsmOtXqoSHeziafj0) | 4:29 | 2024-01-29 | 2024-07-13 |
 | [Perfect](https://open.spotify.com/track/4XIjT3aXNrg3xgAnzczJ5B) | [Piano Pianissimo](https://open.spotify.com/artist/48vVtpjXYUwaX03U1aIm0x) | [Soft Piano Tunes](https://open.spotify.com/album/3UYr2MnyB2nTHv3T9tcuAr) | 4:08 | 2023-11-20 |  |
 | [Petals](https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1) | [Floriscope](https://open.spotify.com/artist/0G4MXHhzyHUB9XexNNg2Sw) | [Petals](https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L) | 2:37 | 2023-11-20 |  |
+| [Please, Stay](https://open.spotify.com/track/3kQAAjIpIMUtjEYkTiAX32) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Please, Stay](https://open.spotify.com/album/0jqSdbaSayvCUnm8irFAtv) | 2:30 | 2025-12-09 |  |
 | [Portmeirion](https://open.spotify.com/track/2rNL1zppqgwWIzozc1UEq2) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Zéphyrine](https://open.spotify.com/album/7gkIQOtmCDJbNCGaF89S58) | 2:11 | 2023-11-20 | 2024-02-03 |
 | [Pour Vous](https://open.spotify.com/track/0yBjtQdUb2T281UIF5hUMU) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Pour Vous](https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD) | 2:30 | 2025-07-14 |  |
 | [Primavera](https://open.spotify.com/track/4BMHp3DkI8VLsuB9Kr0pzu) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Divenire \(Deluxe Edition\)](https://open.spotify.com/album/2EhFeiWsTdfqzdFskVUxBg) | 7:22 | 2023-11-20 | 2024-04-19 |

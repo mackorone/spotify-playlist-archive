@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,467 likes - 50 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,471 likes - 50 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 43 | [En Ti Confiaré](https://open.spotify.com/track/6B01VhNbggdLVupP1q0smN) | [Edgar Lira](https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [No Desmayes Corazón](https://open.spotify.com/album/7v0Igdo6tJPjOfdXiNxyKg) | 5:44 |
 | 44 | [La Batalla](https://open.spotify.com/track/00tq7V7fBsxbylzEMNxqKj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [La Batalla](https://open.spotify.com/album/1YVeiDy1DyniGd7X88mMlF) | 4:47 |
 | 45 | [Santo \(Tu Nombre Es\)](https://open.spotify.com/track/1Bl1opDBNVOyvaBVU0GRWZ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM) | 4:02 |
-| 46 | [Hasta Poder Ver](https://open.spotify.com/track/5PPcHsB4euq3Eg90F4Dngs) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta Poder Ver](https://open.spotify.com/album/7wc3QJ8twMqY8mlDb0MupP) | 5:09 |
-| 47 | [Corriente / Un Día A La Vez \(Medley\) \- En Vivo](https://open.spotify.com/track/5lFE4oeLwvFhhGm3GhOn2g) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Corriente / Un Día A La Vez \(Medley\) \- En Vivo](https://open.spotify.com/album/5nIs2o9PzMZlf6uJX8nEmY) | 4:31 |
-| 48 | [Tu Poder \(Creo en Ti\)](https://open.spotify.com/track/3sb13o5UC6YzcvNzOm5aaA) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Famous For \(I Believe\) \- Collection](https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu) | 4:02 |
+| 46 | [Tu Poder \(Creo en Ti\)](https://open.spotify.com/track/3sb13o5UC6YzcvNzOm5aaA) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Famous For \(I Believe\) \- Collection](https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu) | 4:02 |
+| 47 | [Hasta Poder Ver](https://open.spotify.com/track/5PPcHsB4euq3Eg90F4Dngs) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta Poder Ver](https://open.spotify.com/album/7wc3QJ8twMqY8mlDb0MupP) | 5:09 |
+| 48 | [Corriente / Un Día A La Vez \(Medley\) \- En Vivo](https://open.spotify.com/track/5lFE4oeLwvFhhGm3GhOn2g) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Corriente / Un Día A La Vez \(Medley\) \- En Vivo](https://open.spotify.com/album/5nIs2o9PzMZlf6uJX8nEmY) | 4:31 |
 | 49 | [Seguirte](https://open.spotify.com/track/4V3dOBfoR4WKBKqgFba2HJ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Más Profundo](https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM) | 5:38 |
 | 50 | [Para Mí Es Solo Cristo](https://open.spotify.com/track/6yjtH5IX8ytbJ7arBWxwlm) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [La Novia](https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB) | 7:47 |
 
-Snapshot ID: `aTNyAAAAAAAaRxGj71ngypinLEwEwzAh`
+Snapshot ID: `aTTDgAAAAACJFJOn7o/9E0F0Pap2zJNJ`

@@ -1,6 +1,6 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 40326,
+  "num_followers": 40333,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,30 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
+        "name": "Rossini : La Cenerentola",
+        "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        }
+      ],
+      "duration_ms": 95360,
+      "name": "Rossini : La Cenerentola : Act 2 \"Della Fortuna instabile\" [Chorus]",
+      "url": "https://open.spotify.com/track/4NJIS1JHOvBFMQWUs5MVo6"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
         "name": "Rossini: Colbran, the Muse (opera arias)",
         "url": "https://open.spotify.com/album/3GdwQYxeFeYMXJJD3Ruhy4"
       },
@@ -579,8 +603,8 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
-        "name": "Rossini : La Cenerentola",
-        "url": "https://open.spotify.com/album/5U6hxRD7Lj5my3DK0kHncQ"
+        "name": "Rossini: Il Barbiere di Siviglia",
+        "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
       },
       "artists": [
         {
@@ -588,17 +612,17 @@
           "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
         },
         {
-          "name": "Carlo Rizzi",
-          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+          "name": "Bavarian Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
         },
         {
-          "name": "Orchestra of the Royal Opera House, Covent Garden",
-          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+          "name": "Bruno Bartoletti",
+          "url": "https://open.spotify.com/artist/7drPVBAlMSneq1rZuNM3FQ"
         }
       ],
-      "duration_ms": 95360,
-      "name": "Rossini : La Cenerentola : Act 2 \"Della Fortuna instabile\" [Chorus]",
-      "url": "https://open.spotify.com/track/4NJIS1JHOvBFMQWUs5MVo6"
+      "duration_ms": 184840,
+      "name": "Il barbiere di Siviglia / Act 2: No. 15 Temporale (Thunderstorm)",
+      "url": "https://open.spotify.com/track/3mb8XLlJgkjq2gpuS8coAc"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -627,30 +651,6 @@
       "duration_ms": 308200,
       "name": "Rossini : La Cenerentola : Act 2 \"Un segreto d'importanza\" [Dandini, Magnifico]",
       "url": "https://open.spotify.com/track/2ZTw17KDKjQ3n3ZiavK7AP"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
-        "name": "Rossini: Il Barbiere di Siviglia",
-        "url": "https://open.spotify.com/album/2kSCA5c2qEXVIGmvtGwIXQ"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Bavarian Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
-        },
-        {
-          "name": "Bruno Bartoletti",
-          "url": "https://open.spotify.com/artist/7drPVBAlMSneq1rZuNM3FQ"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Il barbiere di Siviglia / Act 2: No. 15 Temporale (Thunderstorm)",
-      "url": "https://open.spotify.com/track/3mb8XLlJgkjq2gpuS8coAc"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -715,6 +715,30 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
+        "name": "Rossini: String Sonatas, Vol.2",
+        "url": "https://open.spotify.com/album/660Q1nlgVtVI4S94fJ3Eiu"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Filarmonica del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Sinfonia in D - \"al Conventello\" - ed. Philip Gossett",
+      "url": "https://open.spotify.com/track/1P2Fto8ycsOkJe3nEb9K67"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
         "name": "Rossini: Stabat Mater",
         "url": "https://open.spotify.com/album/5nekImhuQccc3AYugTUJfu"
       },
@@ -739,30 +763,6 @@
       "duration_ms": 376626,
       "name": "Rossini: Stabat Mater: II. Cujus animam gementem",
       "url": "https://open.spotify.com/track/4caKKEVxLLkYH3XAV2166D"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
-        "name": "Rossini: String Sonatas, Vol.2",
-        "url": "https://open.spotify.com/album/660Q1nlgVtVI4S94fJ3Eiu"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Filarmonica del Teatro Comunale di Bologna",
-          "url": "https://open.spotify.com/artist/58QCnSrGJD5DhqH4hTgjT3"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Sinfonia in D - \"al Conventello\" - ed. Philip Gossett",
-      "url": "https://open.spotify.com/track/1P2Fto8ycsOkJe3nEb9K67"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -847,6 +847,30 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
+        "name": "Rossini: La Boutique Fantasque / Respighi: Impressioni Brasilliane",
+        "url": "https://open.spotify.com/album/6xQuNjIxICN9y02OxSuPch"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        },
+        {
+          "name": "Charles Dutoit",
+          "url": "https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ"
+        }
+      ],
+      "duration_ms": 363666,
+      "name": "La Boutique Fantasque: Cancan",
+      "url": "https://open.spotify.com/track/5KzB6qDOjmA5EYnPG7jNwE"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
         "name": "Rossini: Stabat Mater & Petite messe solennelle",
         "url": "https://open.spotify.com/album/4W7TmgjgzSmLVALqc62GoT"
       },
@@ -887,30 +911,6 @@
       "duration_ms": 358600,
       "name": "Rossini: Stabat Mater: X. Amen. In sempiterna saecula",
       "url": "https://open.spotify.com/track/7eoImsitpeAFw4Q9VZ9WS8"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
-        "name": "Rossini: La Boutique Fantasque / Respighi: Impressioni Brasilliane",
-        "url": "https://open.spotify.com/album/6xQuNjIxICN9y02OxSuPch"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Orchestre Symphonique de Montr\u00e9al",
-          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
-        },
-        {
-          "name": "Charles Dutoit",
-          "url": "https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ"
-        }
-      ],
-      "duration_ms": 363666,
-      "name": "La Boutique Fantasque: Cancan",
-      "url": "https://open.spotify.com/track/5KzB6qDOjmA5EYnPG7jNwE"
     },
     {
       "added_at": "2025-09-15 14:00:16",

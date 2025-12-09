@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Ecz8iMyWXmkltPEABUHyO">Sophia Brenan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69 likes - 68 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 70 likes - 68 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 43 | [Written By A Woman](https://open.spotify.com/track/5ZLBwNrCPjjLBbPwsq09bZ) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 2:26 |
 | 44 | [Better Off](https://open.spotify.com/track/3M2mwvKYNF5yglT3Ob9eYg) | [HAYES](https://open.spotify.com/artist/60Vo6QqGGmDzr6ZiwqNxxP) | [Better Off](https://open.spotify.com/album/3M6Bh0RUOgRy6YtD7abWSV) | 2:38 |
 | 45 | [Crocodile Tears \(Skylar x AC13 feat\. Piri\)](https://open.spotify.com/track/0cN4duukocBD5mYzZK4Upf) | [SKYLAR](https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA), [AC13](https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [Crocodile Tears \(Skylar x AC13 feat\. Piri\)](https://open.spotify.com/album/6cNuIGqrpbKD1fWKVITJJM) | 2:21 |
-| 46 | [Same but Different](https://open.spotify.com/track/6ZPx9CMaYu9fcnySnjZ1lp) | [Jess Spink](https://open.spotify.com/artist/1tgraTEgO9OYhLUUdpn7Jz) | [Where It Goes from Here](https://open.spotify.com/album/3ZCThraJoc53sC1SVEpMIt) | 3:33 |
-| 47 | [Baby Steps](https://open.spotify.com/track/7gLXI82Kksv9Q1OgojzScn) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie](https://open.spotify.com/album/5b237ZOpWHgmOCGMLxRl47) | 2:47 |
+| 46 | [Baby Steps](https://open.spotify.com/track/7gLXI82Kksv9Q1OgojzScn) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie](https://open.spotify.com/album/5b237ZOpWHgmOCGMLxRl47) | 2:47 |
+| 47 | [Same but Different](https://open.spotify.com/track/6ZPx9CMaYu9fcnySnjZ1lp) | [Jess Spink](https://open.spotify.com/artist/1tgraTEgO9OYhLUUdpn7Jz) | [Where It Goes from Here](https://open.spotify.com/album/3ZCThraJoc53sC1SVEpMIt) | 3:33 |
 | 48 | [Fireaway](https://open.spotify.com/track/5MUrVxNaQg1BDp632auo8N) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Go The Distance \(Extended\)](https://open.spotify.com/album/2zxKTNd1Zj6y7E8JoyS7Le) | 2:58 |
 | 49 | [Watching Her Heartbreak](https://open.spotify.com/track/0PUUGNXMaLZBH6t6yaXamS) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Watching Her Heartbreak](https://open.spotify.com/album/1WEBLiRsDq6bStgx7fxLG1) | 3:03 |
 | 50 | [Go](https://open.spotify.com/track/5K66K3wXY7HRr6ikjsnChl) | [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Go](https://open.spotify.com/album/27P7sXxqMPDsX9fypwvIg3) | 2:55 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 67 | [Not Forever](https://open.spotify.com/track/79vrFGr0QHTgV4hvLELx0X) | [Iilysh Retallick](https://open.spotify.com/artist/6iCyXopvbv85uT2ltUaGOW) | [Not Forever](https://open.spotify.com/album/19Dq8eAOPsLFMcxCaZLO04) | 3:14 |
 | 68 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
 
-Snapshot ID: `AcDnnAAAAADasFILVeUJHXQExYz5yXFl`
+Snapshot ID: `AcDtPAAAAADS8DOwxj/AnsXezlaZ0ys6`

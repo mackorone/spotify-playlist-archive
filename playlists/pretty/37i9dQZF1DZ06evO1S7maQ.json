@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 659678,
+  "num_followers": 659680,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAADfrt0Xdwpe1lkcWxtHA5HZ",
+  "snapshot_id": "aTTDgAAAAADmwaKz3ySClz45zXW6FaQT",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nebraska",
-        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 249050,
-      "name": "Mansion on the Hill",
-      "url": "https://open.spotify.com/track/4eQQGTTbcKl5abbaIM0OxW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tracks",
         "url": "https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 230280,
       "name": "Sad Eyes - Studio Outtake - 1990",
       "url": "https://open.spotify.com/track/29b70iOlgRkYQ8ZzINZXph"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 249050,
+      "name": "Mansion on the Hill",
+      "url": "https://open.spotify.com/track/4eQQGTTbcKl5abbaIM0OxW"
     },
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Human Touch",
+        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 391552,
+      "name": "Human Touch",
+      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nebraska",
         "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
       },
@@ -407,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Human Touch",
-        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
+        "name": "Lucky Town",
+        "url": "https://open.spotify.com/album/1QhxV1m7N8SppKjXmj510h"
       },
       "artists": [
         {
@@ -416,9 +432,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 391552,
-      "name": "Human Touch",
-      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
+      "duration_ms": 177813,
+      "name": "If I Should Fall Behind",
+      "url": "https://open.spotify.com/track/2mOGLiSTUeki1l9t1BBNRQ"
     },
     {
       "added_at": null,
@@ -439,18 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lucky Town",
-        "url": "https://open.spotify.com/album/1QhxV1m7N8SppKjXmj510h"
+        "name": "Take the Sadness Out of Saturday Night",
+        "url": "https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE"
       },
       "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        },
         {
           "name": "Bruce Springsteen",
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 177813,
-      "name": "If I Should Fall Behind",
-      "url": "https://open.spotify.com/track/2mOGLiSTUeki1l9t1BBNRQ"
+      "duration_ms": 244189,
+      "name": "Chinatown (feat. Bruce Springsteen)",
+      "url": "https://open.spotify.com/track/1AA3ZjLo9tD2iSZAs2svyj"
     },
     {
       "added_at": null,
@@ -503,22 +523,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take the Sadness Out of Saturday Night",
-        "url": "https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE"
+        "name": "The Rising",
+        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
       },
       "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        },
         {
           "name": "Bruce Springsteen",
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 244189,
-      "name": "Chinatown (feat. Bruce Springsteen)",
-      "url": "https://open.spotify.com/track/1AA3ZjLo9tD2iSZAs2svyj"
+      "duration_ms": 290328,
+      "name": "The Rising",
+      "url": "https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP"
     },
     {
       "added_at": null,
@@ -535,22 +551,6 @@
       "duration_ms": 190802,
       "name": "Used Cars",
       "url": "https://open.spotify.com/track/1LDz5dqGxxWSOxNWjuzclb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Rising",
-        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 290328,
-      "name": "The Rising",
-      "url": "https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Promise",
-        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 205130,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tracks",
         "url": "https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 216573,
       "name": "Pink Cadillac - Single B-Side - 1984",
       "url": "https://open.spotify.com/track/3zG1YiTu53KCt8W56psgs2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 205130,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 274186,
-      "name": "Blood Brothers",
-      "url": "https://open.spotify.com/track/159Hzk2QrFg7lUAqDeuvwU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Ghost Of Tom Joad",
         "url": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 237786,
       "name": "Youngstown",
       "url": "https://open.spotify.com/track/4oiTnmTrJNDAsOPgEONYpA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 274186,
+      "name": "Blood Brothers",
+      "url": "https://open.spotify.com/track/159Hzk2QrFg7lUAqDeuvwU"
     },
     {
       "added_at": null,

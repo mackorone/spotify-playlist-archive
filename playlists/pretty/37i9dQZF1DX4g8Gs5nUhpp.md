@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: \(S\)TRONG
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,731 likes - 52 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,727 likes - 52 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 51 | [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/track/0s7RyyUlQfd8mnnboHe18n) | [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV) | [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/album/19nGMLMd8gjMQwgh2aYmsx) | 3:42 |
 | 52 | [TIẾC CHO EM](https://open.spotify.com/track/56LSZ1PFm7nOo734RfbEDo) | [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ) | [TRAP](https://open.spotify.com/album/7heesEqGdTK3syn99rbbTy) | 4:16 |
 
-Snapshot ID: `AAAAAIiy56BBqopUqa9ynqt8mSwDdBMG`
+Snapshot ID: `AAAAABuuKIKxyQa/3c+/jDtso6h6CAMT`

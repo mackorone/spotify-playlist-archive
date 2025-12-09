@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 716272,
+  "num_followers": 716320,
   "original_name": "Energy Booster: K-Pop",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-07-07 05:00:27",
       "album": {
-        "name": "MONA LISA",
-        "url": "https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa"
-      },
-      "artists": [
-        {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
-        }
-      ],
-      "duration_ms": 137191,
-      "name": "MONA LISA",
-      "url": "https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ"
-    },
-    {
-      "added_at": "2025-07-07 05:00:27",
-      "album": {
         "name": "ROCK-STAR",
         "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 182224,
       "name": "LALALALA",
       "url": "https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84"
+    },
+    {
+      "added_at": "2025-07-07 05:00:27",
+      "album": {
+        "name": "MONA LISA",
+        "url": "https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "duration_ms": 137191,
+      "name": "MONA LISA",
+      "url": "https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ"
     },
     {
       "added_at": "2025-07-07 05:00:27",
@@ -503,6 +503,22 @@
     {
       "added_at": "2025-07-07 05:00:27",
       "album": {
+        "name": "ODDINARY",
+        "url": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 182757,
+      "name": "MANIAC",
+      "url": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR"
+    },
+    {
+      "added_at": "2025-07-07 05:00:27",
+      "album": {
         "name": "A Giant Step",
         "url": "https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 316944,
       "name": "AEAO",
       "url": "https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl"
-    },
-    {
-      "added_at": "2025-07-07 05:00:27",
-      "album": {
-        "name": "ODDINARY",
-        "url": "https://open.spotify.com/album/0Gmf4pfe0POEQq2FgGAj2q"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 182757,
-      "name": "MANIAC",
-      "url": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR"
     },
     {
       "added_at": "2025-07-07 05:00:27",
@@ -1599,22 +1599,18 @@
     {
       "added_at": "2025-07-07 05:00:27",
       "album": {
-        "name": "SEVENTEEN 12th Mini Album 'SPILL THE FEELS'",
-        "url": "https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W"
+        "name": "SEVENTEEN 10th Mini Album 'FML'",
+        "url": "https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I"
       },
       "artists": [
         {
           "name": "SEVENTEEN",
           "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        },
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
         }
       ],
-      "duration_ms": 186386,
-      "name": "LOVE, MONEY, FAME (feat. DJ Khaled)",
-      "url": "https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE"
+      "duration_ms": 200386,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96"
     },
     {
       "added_at": "2025-07-07 05:00:27",
@@ -1687,18 +1683,22 @@
     {
       "added_at": "2025-07-07 05:00:27",
       "album": {
-        "name": "SEVENTEEN 10th Mini Album 'FML'",
-        "url": "https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I"
+        "name": "SEVENTEEN 12th Mini Album 'SPILL THE FEELS'",
+        "url": "https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W"
       },
       "artists": [
         {
           "name": "SEVENTEEN",
           "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
         }
       ],
-      "duration_ms": 200386,
-      "name": "Super",
-      "url": "https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96"
+      "duration_ms": 186386,
+      "name": "LOVE, MONEY, FAME (feat. DJ Khaled)",
+      "url": "https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE"
     },
     {
       "added_at": "2025-07-07 05:00:27",

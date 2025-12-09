@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Julia Vitória, Nívea Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,325 likes - 80 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,330 likes - 80 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 31 | [Acalma o Meu Coração](https://open.spotify.com/track/2PFA4UqjvZSowY1LrcxfIg) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Sessão Livre \(Vol.3\)](https://open.spotify.com/album/1V3TKVDKXKcVLrOwHwUfHx) | 7:33 |
 | 32 | [Meu Deus É Grande](https://open.spotify.com/track/7mWGh9B9WzhhP0Xbaoukav) | [Miriam dos Passos](https://open.spotify.com/artist/3PXIlnaU0gOLh7x0jIXvnt), [Claudia Canção](https://open.spotify.com/artist/3O350ne9bIdzLcYNncdCBo), [Eliã Oliveira](https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz), [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9), [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo), [Rayanne Vanessa](https://open.spotify.com/artist/0EN9R1jAJm4BRchke0xceY) | [Meu Deus É Grande](https://open.spotify.com/album/0MPV6iVIQRJwlXjCwi9UaK) | 5:38 |
 | 33 | [Santo para Sempre \- Ao Vivo](https://open.spotify.com/track/48EVizWqKCp2WRa1L5OGDg) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Santo pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/3X0PjwhyTDFdcEScpjEMnr) | 5:27 |
-| 34 | [Deus Preparou Tudo \(Ao Vivo\)](https://open.spotify.com/track/6lsbNMrSwY9bafs8aKGzbt) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Deus Preparou Tudo \(Ao Vivo\)](https://open.spotify.com/album/66xy1byfUOXw74XkABTNqn) | 4:40 |
-| 35 | [Me Atraiu \(Reimagined\)](https://open.spotify.com/track/3gEU9E8o5EdwwqNGBqTPQ6) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Atraiu \(Reimagined\)](https://open.spotify.com/album/7fFFRHeXvUmzN9vfNVOlXR) | 4:24 |
+| 34 | [Me Atraiu \(Reimagined\)](https://open.spotify.com/track/3gEU9E8o5EdwwqNGBqTPQ6) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Atraiu \(Reimagined\)](https://open.spotify.com/album/7fFFRHeXvUmzN9vfNVOlXR) | 4:24 |
+| 35 | [Deus Preparou Tudo \(Ao Vivo\)](https://open.spotify.com/track/6lsbNMrSwY9bafs8aKGzbt) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Deus Preparou Tudo \(Ao Vivo\)](https://open.spotify.com/album/66xy1byfUOXw74XkABTNqn) | 4:40 |
 | 36 | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/track/0IL4DmLKRKMt3QzRl1HebC) | [Marine Friesen](https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz) | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/3JqjzQ21A4XJrwMNc0bG1d) | 5:20 |
 | 37 | [Chegou Um Tempo Novo](https://open.spotify.com/track/2fwtvB5PDJ88Cnm3BuabjF) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Chegou Um Tempo Novo](https://open.spotify.com/album/1pJOzwn6LVrNtB5BvDQBYf) | 4:46 |
 | 38 | [Dependente](https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/724QZLpvmUYnZ8FwbgAkZ9) | 5:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 79 | [Sonda\-me Usa\-me \- Ao Vivo](https://open.spotify.com/track/0Gw6MjldfM8Yhq6Joxp0o8) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [30 Anos Na Casa \(Ao Vivo\)](https://open.spotify.com/album/15qEQ0gH57j9rh4CfV1aPu) | 6:07 |
 | 80 | [Era Eu](https://open.spotify.com/track/7JbL2DMky0vamZhYvlAzVA) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Momentos \(Vol.2\)](https://open.spotify.com/album/0WeIm6VLCQgXjBnCQq3juH) | 5:37 |
 
-Snapshot ID: `AAAAAAK5Kn6rIcEFkyvKPk0UvvgNkgUm`
+Snapshot ID: `AAAAAKzXzKUHNYPM32onNEcHmqnSXweW`

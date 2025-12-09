@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 892613,
+  "num_followers": 892638,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAAARrsfppQOL6hiUYowffxHl",
+  "snapshot_id": "aTTDgAAAAAD3PUtDhXxiXTPSqXB41YG8",
   "tracks": [
     {
       "added_at": null,
@@ -267,26 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing but the Beat (Ultimate Edition)",
-        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Turn Me On (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/6T27IN7Ai94BeDv6PPCmoC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 378893,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1ZHYJ2Wwgxes4m8Ba88PeK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing but the Beat (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Turn Me On (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/6T27IN7Ai94BeDv6PPCmoC"
     },
     {
       "added_at": null,
@@ -487,6 +487,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "DUMMY BOY (Revised)",
+        "url": "https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 179404,
+      "name": "FEFE (feat. Nicki Minaj & Murda Beatz)",
+      "url": "https://open.spotify.com/track/43VXG87ajppI8mO1Mxo8vu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Major Key",
         "url": "https://open.spotify.com/album/6ZQyMrmlg95L8gy63Pnm33"
       },
@@ -523,30 +547,6 @@
       "duration_ms": 325614,
       "name": "Do You Mind (feat. Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross)",
       "url": "https://open.spotify.com/track/6ezg5Mm5UEEi3Oqsbb7Cjn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DUMMY BOY (Revised)",
-        "url": "https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr"
-      },
-      "artists": [
-        {
-          "name": "6ix9ine",
-          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 179404,
-      "name": "FEFE (feat. Nicki Minaj & Murda Beatz)",
-      "url": "https://open.spotify.com/track/43VXG87ajppI8mO1Mxo8vu"
     },
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LM5 (Deluxe)",
-        "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 229720,
-      "name": "Woman Like Me (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/222B3aljXx6fFwKmFjuBED"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culture II",
         "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 303076,
       "name": "MotorSport",
       "url": "https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LM5 (Deluxe)",
+        "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 229720,
+      "name": "Woman Like Me (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/222B3aljXx6fFwKmFjuBED"
     },
     {
       "added_at": null,

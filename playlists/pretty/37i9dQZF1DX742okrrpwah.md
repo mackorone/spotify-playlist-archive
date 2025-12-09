@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Marine, Jul, et Alan Walker x Steve Aoki au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,351 likes - 85 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,314 likes - 85 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 6 | [MÉDICAMENT](https://open.spotify.com/track/69CNVTtlyNppMwylciIXSh) | [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [MÉDICAMENT](https://open.spotify.com/album/7lUKKs5Ql8QpgFEAvMhdSg) | 2:10 |
 | 7 | [The House That Doesn’t Exist](https://open.spotify.com/track/2EW7Z014nM1OJkU2OMhzQL) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [The House That Doesn’t Exist](https://open.spotify.com/album/3KrWKehFGLzIywovhhRoUx) | 2:23 |
 | 8 | [Première fois](https://open.spotify.com/track/2yaVFrD8ugHhld6t6Nwaxt) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Il faut que tu saches](https://open.spotify.com/album/6rX8V0Vs9oaGB8LgrUOcn1) | 2:40 |
-| 9 | [Opeuhh \(feat\. KeBlack\)](https://open.spotify.com/track/3k9Il6m7lJ9qufXyahvEhH) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Auracle](https://open.spotify.com/album/2zRkv0mDlxuIb7ZnQRwNF7) | 1:50 |
+| 9 | [Opeuhh \(feat\. KeBlack\)](https://open.spotify.com/track/3k9Il6m7lJ9qufXyahvEhH) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Auracle](https://open.spotify.com/album/2zRkv0mDlxuIb7ZnQRwNF7) | 2:19 |
 | 10 | [Overdrive](https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [This isn’t what you think it is \(EP\)](https://open.spotify.com/album/4OcCeiJxG51PNH2Eh1rz8u) | 3:19 |
 | 11 | [Gabrielle](https://open.spotify.com/track/5R9dBL7sZSMhALmcHuEs5f) | [Waxx](https://open.spotify.com/artist/1sJDvsoQ9X10dibPnSSlsV), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Étincelle 2](https://open.spotify.com/album/6iS99xyBxLHHYhm8Y3sezu) | 3:20 |
 | 12 | [Abysses](https://open.spotify.com/track/3Lgri1rcCPb99ezlE0SWTB) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [MAGNIFICAT](https://open.spotify.com/album/50aUxrW8cVj0Phidp3SDR1) | 2:25 |

@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,646 songs - 4 day 3 hr 59 min
+1,647 songs - 4 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1305,6 +1305,7 @@
 | [Slow Motion](https://open.spotify.com/track/3sMEKIvwYzIwx2jYjR8arx) | [Solar Twin](https://open.spotify.com/artist/50Ekd3KAzVMWwInjY87Gaj) | [Pink Noise](https://open.spotify.com/album/5J06ZzjwMI5FUOiWaaTgux) | 3:01 | 2025-07-02 |  |
 | [Snake Attack Dub](https://open.spotify.com/track/47zy5LaINRR7YvsDI7YOOY) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [Sky Warrior Dub](https://open.spotify.com/album/6mgr4wFK7XSJOdmapRBjun) | 4:10 | 2024-05-01 |  |
 | [Snow](https://open.spotify.com/track/3SrlN6K8GZubq1ochg096u) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Snow](https://open.spotify.com/album/4eparkfh4pb1mJN3KDMfyz) | 2:59 | 2024-03-17 |  |
+| [Snowlight Flow](https://open.spotify.com/track/7nYW3ZTYXEum4WFemqwzny) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Snowlight Flow](https://open.spotify.com/album/6WLJt8scSsjWpotB18RLkG) | 2:53 | 2025-12-09 |  |
 | [So Close](https://open.spotify.com/track/7yKxANOnKx7Gi6nRvlyDy5) | [Lord Vanger](https://open.spotify.com/artist/7F6RsAQKRYEcaroe2DHCOg) | [So Close](https://open.spotify.com/album/19zLIRAt814H4GhlV6soSK) | 3:28 | 2025-05-06 |  |
 | [So Hot](https://open.spotify.com/track/6X4gDgDZseHc3ndBstUETb) | [BADJA](https://open.spotify.com/artist/1cMIrOdktl3duBvAdwrMDY) | [So Hot](https://open.spotify.com/album/0JJQBmkPgJ0YSz41aG43Ky) | 1:50 | 2025-05-06 |  |
 | [So Long](https://open.spotify.com/track/1LeR7MSoKuJPO4599IM43V) | [Ras Tamano](https://open.spotify.com/artist/6AzPKf5UTTpMnbgtKyWya8), [Goja Bongos](https://open.spotify.com/artist/7FU0l5HaLimkfIQZAjI8EB) | [Nyahbinghi I\-lodica](https://open.spotify.com/album/3KoPRZazTGn88Ee9nIZFYC) | 5:04 | 2024-03-25 |  |

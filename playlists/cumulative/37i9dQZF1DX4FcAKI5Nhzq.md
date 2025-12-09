@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: Yim Siwan\(임시완\)\)
 
-1,531 songs - 3 day 10 hr 13 min
+1,532 songs - 3 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -790,6 +790,7 @@
 | [LOLO](https://open.spotify.com/track/0LC7FqUsJ4NbS1kklXZH2y) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY) | [LOLO](https://open.spotify.com/album/5ZBe80f6DrwaoDt8DT9oB3) | 2:22 | 2023-07-25 | 2023-09-12 |
 | [Lonely Night](https://open.spotify.com/track/0QMoGqv6sik2E0YEXd72tk) | [YOON DU JUN](https://open.spotify.com/artist/0bjyZMw6TzPhXSp2PoKXx7) | [Daybreak](https://open.spotify.com/album/233QLBM9p2grpC7GMpMK6X) | 3:27 | 2020-10-13\* | 2020-10-22 |
 | [Lonely Summer \(Summer Breeze\)](https://open.spotify.com/track/71ffiCGvOZm7uBYT9Nyg4d) | [Daedo](https://open.spotify.com/artist/0usCrj87bydKRK7KWcCf9p), [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Lonely Summer \(Summer Breeze\)](https://open.spotify.com/album/2zQWuOYcx7C4TNTJwz2Nbm) | 3:19 | 2021-07-28 | 2021-09-07 |
+| [LOOK AT ME](https://open.spotify.com/track/2gq4WmAq3zgplPoq7OIAGR) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [ALLDAY PROJECT](https://open.spotify.com/album/036xPBaSmnehSxkAT4DVrs) | 2:39 | 2025-12-08 |  |
 | [Look Where We Are](https://open.spotify.com/track/4I3kvtjNBcJWI7H9bszT75) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [Willim](https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk) | [Look Where We Are](https://open.spotify.com/album/108Pp4ZFqOsChhw1g9MFFD) | 3:12 | 2023-01-31 | 2023-03-25 |
 | [LOOP \(feat\. Lil Cherry\)](https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [LOOP](https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto) | 2:43 | 2024-06-12 | 2025-03-13 |
 | [Loose](https://open.spotify.com/track/3YNjvUXgfQznx5IZHAXk6i) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose](https://open.spotify.com/album/2XCAFhzTvaqKFJogtaJnz1) | 3:30 | 2025-04-08 | 2025-06-06 |

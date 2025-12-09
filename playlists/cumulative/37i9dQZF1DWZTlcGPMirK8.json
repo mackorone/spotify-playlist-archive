@@ -1314,6 +1314,24 @@
     {
       "album": {
         "name": "Dream Your Life Away",
+        "url": "https://open.spotify.com/album/0yXpiO0g9UJb5Qhx4zAs16"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223640,
+      "name": "Mess Is Mine",
+      "url": "https://open.spotify.com/track/4CbiUgCCnQ79EmieyzQE8x"
+    },
+    {
+      "album": {
+        "name": "Dream Your Life Away",
         "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
       "artists": [
@@ -1324,7 +1342,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 223640,
       "name": "Mess Is Mine",
       "url": "https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ"

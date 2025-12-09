@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 732773,
+  "num_followers": 732763,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAADkVnSI2RnKLgNFw5mfqW3Q",
+  "snapshot_id": "aTTDgAAAAAArFwUzXJO7zBtxVfnQSlI2",
   "tracks": [
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wolf",
+        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 166372,
+      "name": "Tamale",
+      "url": "https://open.spotify.com/track/60b6B2ULC85t4Y5IjZvP7A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Potato Salad",
         "url": "https://open.spotify.com/album/02KFVEA5tnY0YnypmWY1tz"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 182493,
       "name": "Potato Salad",
       "url": "https://open.spotify.com/track/1jzIJcHCXneHw7ojC6LXiF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wolf",
-        "url": "https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 166372,
-      "name": "Tamale",
-      "url": "https://open.spotify.com/track/60b6B2ULC85t4Y5IjZvP7A"
     },
     {
       "added_at": null,

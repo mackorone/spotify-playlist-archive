@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35405,
+  "num_followers": 35402,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAABesHLI1YrksSKiMEomoA7F",
+  "snapshot_id": "aTTDgAAAAAArx7ElDGqvH06slnXv0B7S",
   "tracks": [
     {
       "added_at": null,
@@ -143,26 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Tu Obedece",
-        "url": "https://open.spotify.com/album/4J0dJMVV0Da2JILEyjWRsg"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DJ Dozabri",
-          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
-        }
-      ],
-      "duration_ms": 125538,
-      "name": "Se Tu Obedece",
-      "url": "https://open.spotify.com/track/0HeGIMeKcT4qldgVvJaVU9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set Dj Gm 2.0",
         "url": "https://open.spotify.com/album/5OvqOC3aa233VVlfIHPlvX"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 475245,
       "name": "Set Dj Gm 2.0",
       "url": "https://open.spotify.com/track/7wanYYFVi4cDqRXbPAfM1Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Tu Obedece",
+        "url": "https://open.spotify.com/album/4J0dJMVV0Da2JILEyjWRsg"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJ Dozabri",
+          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
+        }
+      ],
+      "duration_ms": 125538,
+      "name": "Se Tu Obedece",
+      "url": "https://open.spotify.com/track/0HeGIMeKcT4qldgVvJaVU9"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empurra Empurra",
-        "url": "https://open.spotify.com/album/3x9iKvJRCuHIvbr2AiOUgq"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 240118,
-      "name": "Empurra Empurra",
-      "url": "https://open.spotify.com/track/2OFO6Zws6Pxo5p0J7SmkOp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como Acredito No Amor",
         "url": "https://open.spotify.com/album/57NXaLzvMs55pZikaSBOvt"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 103384,
       "name": "Como Acredito No Amor",
       "url": "https://open.spotify.com/track/1uACZ4YdY5Z3oMVrDRzD1T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Empurra Empurra",
+        "url": "https://open.spotify.com/album/3x9iKvJRCuHIvbr2AiOUgq"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 240118,
+      "name": "Empurra Empurra",
+      "url": "https://open.spotify.com/track/2OFO6Zws6Pxo5p0J7SmkOp"
     },
     {
       "added_at": null,
@@ -887,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Na Chapa",
-        "url": "https://open.spotify.com/album/6WAjvoPfdjjETMTMULlcMl"
-      },
-      "artists": [
-        {
-          "name": "DJ Mandrake 100% Original",
-          "url": "https://open.spotify.com/artist/6ZZ2yR3x1jcHyx7EheNf8M"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 125538,
-      "name": "Na Chapa",
-      "url": "https://open.spotify.com/track/1ZiA8va8siGNP0uDVQ5sUV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Casal Mandrake",
         "url": "https://open.spotify.com/album/2NeOoMEaPlPKfO41ws0TRI"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 136615,
       "name": "Vida do Crime",
       "url": "https://open.spotify.com/track/2zo4C4eJ9yjBjT34j8r156"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Na Chapa",
+        "url": "https://open.spotify.com/album/6WAjvoPfdjjETMTMULlcMl"
+      },
+      "artists": [
+        {
+          "name": "DJ Mandrake 100% Original",
+          "url": "https://open.spotify.com/artist/6ZZ2yR3x1jcHyx7EheNf8M"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 125538,
+      "name": "Na Chapa",
+      "url": "https://open.spotify.com/track/1ZiA8va8siGNP0uDVQ5sUV"
     },
     {
       "added_at": null,
@@ -1347,30 +1347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elixir",
-        "url": "https://open.spotify.com/album/6Fj7aHiJhbUjEEKfM9cwq3"
-      },
-      "artists": [
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Th",
-          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
-        }
-      ],
-      "duration_ms": 203136,
-      "name": "Profissional",
-      "url": "https://open.spotify.com/track/5fM2QuUtKNNQiTkYqLvyut"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atriz Porn\u00f4",
         "url": "https://open.spotify.com/album/19kqtxEmCtde0033d8G3YZ"
       },
@@ -1399,6 +1375,30 @@
       "duration_ms": 114461,
       "name": "Atriz Porn\u00f4",
       "url": "https://open.spotify.com/track/2lsCVjYUpLqz2kX60uY5ZR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elixir",
+        "url": "https://open.spotify.com/album/6Fj7aHiJhbUjEEKfM9cwq3"
+      },
+      "artists": [
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
+        }
+      ],
+      "duration_ms": 203136,
+      "name": "Profissional",
+      "url": "https://open.spotify.com/track/5fM2QuUtKNNQiTkYqLvyut"
     },
     {
       "added_at": null,

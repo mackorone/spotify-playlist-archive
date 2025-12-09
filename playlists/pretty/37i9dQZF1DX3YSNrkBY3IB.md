@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSNrkBY3IB.md) - [plain]
 
 > Check out these hip\-hop classics that are great for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,803 likes - 40 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,820 likes - 40 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSNrkBY3IB.md) - [plain]
 | 8 | [I Wish](https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng) | [Skee\-Lo](https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy) | [I Wish](https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA) | 4:09 |
 | 9 | [Rebirth Of Slick \(Cool Like Dat\)](https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9) | [Digable Planets](https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ) | [Reachin' \(A New Refutation Of Time And Space\)](https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP) | 4:21 |
 | 10 | [No Woman, No Cry](https://open.spotify.com/track/5bUVHuzQh5mkvMPjUU074i) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:33 |
-| 11 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
-| 12 | [Don't Sweat The Technique](https://open.spotify.com/track/48ZUwXrEOhaXLCxvmRYhZv) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Don't Sweat The Technique](https://open.spotify.com/album/5iaxBk4qVHAMp9vtYSoEBM) | 4:22 |
+| 11 | [Don't Sweat The Technique](https://open.spotify.com/track/48ZUwXrEOhaXLCxvmRYhZv) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Don't Sweat The Technique](https://open.spotify.com/album/5iaxBk4qVHAMp9vtYSoEBM) | 4:22 |
+| 12 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
 | 13 | [Loungin'](https://open.spotify.com/track/1VzhfMEGIIkn5hFITMJzW1) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Jazzmatazz Volume 1](https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ) | 4:39 |
 | 14 | [The Choice Is Yours \(Revisited\)](https://open.spotify.com/track/4k9EkhkFZY8Bk41Qi0Ob7P) | [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf) | [A Wolf In Sheep's Clothing](https://open.spotify.com/album/4tIQR0m3PPwybQ32P256IO) | 4:03 |
 | 15 | [Mr\. Wendal](https://open.spotify.com/track/5DOYik1z3Of1wAFfY3dYbC) | [Arrested Development](https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7) | [3 Years, 5 Months And 2 Days In The Life Of...](https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh) | 4:07 |

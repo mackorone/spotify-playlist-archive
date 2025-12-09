@@ -4,7 +4,7 @@
 
 > 
 
-8,206 songs - 20 day 20 hr 26 min
+8,209 songs - 20 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -552,6 +552,7 @@
 | [Avid](https://open.spotify.com/track/28QpCzFbTf09Jsj2zuz58t) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [mizuki](https://open.spotify.com/artist/0Pt3k7cpeOysqGGiw3tQcS) | [Avid](https://open.spotify.com/album/1OpeVvRFxOPSydD2IrOepC) | 4:10 | 2025-09-07 |  |
 | [Avocado](https://open.spotify.com/track/7G4A6sxCGt31pfAoJM12SO) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [Avocado](https://open.spotify.com/album/4sCUY2uA52MMOu57PtqfOm) | 3:15 | 2025-04-29 |  |
 | [Awaiting the Future](https://open.spotify.com/track/7gFH1zV5fQubGEUojtNmmC) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- City of Winds and Idylls \(Original Game Soundtrack\)](https://open.spotify.com/album/4B5efqHkeq0UaDGx8nYOuf) | 1:25 | 2025-03-23 |  |
+| [Awake Now](https://open.spotify.com/track/72SJ4X3wRlDbNZmiC8PvPX) | [白石杏](https://open.spotify.com/artist/5oXXCRHHBgr8JbziVHev34) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク　アナザーボーカルアルバム Vivid BAD SQUAD](https://open.spotify.com/album/48MQNNlnAKmE9wXxaEuGpz) | 3:18 | 2025-12-08 |  |
 | [Awful Things](https://open.spotify.com/track/1YlqTH4bqZHOlqj16Fznuh) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [Come Over When You're Sober, Pt\. 1](https://open.spotify.com/album/6GkrA9XjOpEFkep0TIfFB8) | 3:34 | 2025-01-03 |  |
 | [Aww Man](https://open.spotify.com/track/79Re7M6qqhCBIQYjexeXl4) | [Fat Money](https://open.spotify.com/artist/0vN8FecyEFbVIlauLaqByt) | [Money Got Wings](https://open.spotify.com/album/4l9Ypxth4ONS53vpbVfAJZ) | 2:09 | 2025-01-03 |  |
 | [Ay No Puedo](https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:01 | 2025-01-04 |  |
@@ -2254,6 +2255,7 @@
 | [Funeral](https://open.spotify.com/track/2CNaYt7KbFqUrATbZZPY21) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 3:43 | 2025-01-04 |  |
 | [Funeral \(with slowthai\)](https://open.spotify.com/track/1gf4Ez9r1h74QZiTFcb3wy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Friends That Break Your Heart \(Bonus\)](https://open.spotify.com/album/33GolaWGqgLY4fB5IPwxjq) | 2:35 | 2025-01-03 |  |
 | [Funky Ho'$](https://open.spotify.com/track/1rZvU5sb2E8LuJTAqEdAiw) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [1999](https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq) | 4:29 | 2025-01-03 |  |
+| [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 | 2025-12-08 |  |
 | [Furthest Thing](https://open.spotify.com/track/6E1ILfm6wNkA6kautk3mQP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/5mz0mJxb80gqJIcRf9LGHJ) | 4:27 | 2025-01-03 |  |
 | [FUSHIGI](https://open.spotify.com/track/3dPpQeLTWjCjEbSevDMQfW) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [FUSHIGI](https://open.spotify.com/album/0DgaDZNp5WTWVpCS8jYI5M) | 4:50 | 2025-01-03 |  |
 | [Futari no Ita Fukei](https://open.spotify.com/track/1voGNCD89ykk5orI53Fhd1) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [Yume](https://open.spotify.com/album/0snrpSOntTb03Sd8XDPn78) | 6:45 | 2025-01-03 |  |
@@ -5448,7 +5450,7 @@
 | [Shinkai](https://open.spotify.com/track/44VYdLnwvhn1H1cfieb84a) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 4:26 | 2025-01-03 |  |
 | [SHINY DAYS](https://open.spotify.com/track/5jpxjk10TUJwZPWGsvpanU) | [Asaka](https://open.spotify.com/artist/6salj1HNtQW4jfRxuiaPmK) | [HEART TOUCH](https://open.spotify.com/album/6S4nT8VWMcK9OIiSJ3600T) | 4:24 | 2025-05-11 |  |
 | [SHINY DAYS \(Cover\)](https://open.spotify.com/track/0zMxv8xQwtlpq5tsCvZ0GU) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [バンドリ！ ガールズバンドパーティ！ カバーコレクションVol.6](https://open.spotify.com/album/7lvdkqmdSaYlovBrN7NEdR) | 4:22 | 2025-12-04 |  |
-| [SHINY DAYS \- Cover](https://open.spotify.com/track/7HwIgtrl8GbWKy9WYgK9Cy) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [バンドリ！ ガールズバンドパーティ！ カバーコレクションVol.6](https://open.spotify.com/album/7n4PH4ISrIxwXzGTFetWrV) | 4:22 | 2025-12-07 |  |
+| [SHINY DAYS \- Cover](https://open.spotify.com/track/7HwIgtrl8GbWKy9WYgK9Cy) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [バンドリ！ ガールズバンドパーティ！ カバーコレクションVol.6](https://open.spotify.com/album/7n4PH4ISrIxwXzGTFetWrV) | 4:22 | 2025-12-07 | 2025-12-09 |
 | [SHIORI](https://open.spotify.com/track/5y5OcUvYLYG5acpJM4PEGi) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Party](https://open.spotify.com/album/79UgEZdQY1mcCM44BAGAB4) | 4:08 | 2024-12-14 |  |
 | [Shirt](https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2025-01-15 |  |
 | [Shitsville](https://open.spotify.com/track/6xwkCL4h1pYXqlUu68RAI6) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Piñata](https://open.spotify.com/album/43uErencdmuTRFZPG3zXL1) | 3:31 | 2025-01-03 |  |
@@ -7412,6 +7414,7 @@
 | [ドリーミージャーニー](https://open.spotify.com/track/2JVm95LViJHL6TWBjhT0Bn) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [Hell Like Heaven](https://open.spotify.com/album/7dQh4CHIQrdliTxWTHltLT) | 4:05 | 2025-01-15 |  |
 | [ドリーミージャーニー](https://open.spotify.com/track/7akyCWALMWIQxssbgo8dW1) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [Hell like Heaven](https://open.spotify.com/album/4BwNfk4ijLhq6O4GzkNl6a) | 4:05 | 2025-05-17 |  |
 | [ナラタージュ](https://open.spotify.com/track/7Et9x07NBy3jVNZbTtSRfu) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [ナラタージュ](https://open.spotify.com/album/1bre9qMFDJEgIOyQaJeN69) | 5:40 | 2024-12-05 |  |
+| [ニア](https://open.spotify.com/track/39M3OnzErmZRygEnMtUDC1) | [桐谷遥](https://open.spotify.com/artist/38GFCoR62PonWZLkVmFphj) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム MORE MORE JUMP！](https://open.spotify.com/album/3AAX5Rt3xYCnOEvQiIdJgi) | 4:05 | 2025-12-08 |  |
 | [ノアノア](https://open.spotify.com/track/2nnPaUi7ENaRlheBOPR4g4) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [PACIFIC](https://open.spotify.com/album/6PnbwR4pgQQZDrLUdw6Kc7) | 4:09 | 2025-01-15 |  |
 | [ノスタルジア・オブ・アイランド](https://open.spotify.com/track/6Ys5Xmyl13GuzVWDOqZlcL) | [Tatsuro Yamashita](https://open.spotify.com/artist/41hQ0PoEyj9xEBhwt73aWC) | [PACIFIC](https://open.spotify.com/album/6PnbwR4pgQQZDrLUdw6Kc7) | 9:35 | 2025-01-15 |  |
 | [ノーダウト](https://open.spotify.com/track/5DMEvbg3gUmiR5HIBWdveV) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 3:22 | 2025-01-04 |  |

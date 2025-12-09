@@ -1,6 +1,6 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 29227,
+  "num_followers": 29239,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 214380,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/1Acgi7wxVD9OF3iQnFe8Q4"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
         "name": "1-1=0 (NOTHING WITHOUT YOU)",
         "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 236667,
       "name": "Cherry Bomb",
       "url": "https://open.spotify.com/track/3o8QzWsiiqTUVgBZfHgF58"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
-        "name": "The 1st Album 'XOXO' (Repackage)",
-        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 214380,
-      "name": "Don't Go",
-      "url": "https://open.spotify.com/track/1Acgi7wxVD9OF3iQnFe8Q4"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "/// (You, Clouds, Rain)",
-        "url": "https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs"
-      },
-      "artists": [
-        {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 189410,
-      "name": "Don't Know You",
-      "url": "https://open.spotify.com/track/1Zv6zo71iDXH07Lin7hxMg"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "My Last Love OST Part.4",
         "url": "https://open.spotify.com/album/58CBwM98Y356zD5AVGZkZG"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 195216,
       "name": "Hold my hand",
       "url": "https://open.spotify.com/track/0KVClXxsZEKkyWRNXeRFrE"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "/// (You, Clouds, Rain)",
+        "url": "https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs"
+      },
+      "artists": [
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 189410,
+      "name": "Don't Know You",
+      "url": "https://open.spotify.com/track/1Zv6zo71iDXH07Lin7hxMg"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Girl's Day Love Second Album",
-        "url": "https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me"
-      },
-      "artists": [
-        {
-          "name": "Girl's Day",
-          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
-        }
-      ],
-      "duration_ms": 193587,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/63M8a0AXYVBoZZfZmJbt6O"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "MADE SERIES",
         "url": "https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 238480,
       "name": "SOBER - KR Ver.",
       "url": "https://open.spotify.com/track/6cMpMygFRbnQsI1m5oq8dp"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Girl's Day Love Second Album",
+        "url": "https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me"
+      },
+      "artists": [
+        {
+          "name": "Girl's Day",
+          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
+        }
+      ],
+      "duration_ms": 193587,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/63M8a0AXYVBoZZfZmJbt6O"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Destination",
-        "url": "https://open.spotify.com/album/6k16yhvezz8OZfMFw7gsoC"
+        "name": "Nitpicking",
+        "url": "https://open.spotify.com/album/5bB2nClfkdlG1ekRQGw8zT"
       },
       "artists": [
         {
-          "name": "SS501",
-          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 205506,
-      "name": "Love Ya",
-      "url": "https://open.spotify.com/track/6nW76DRJWhwBnhTLVripJe"
+      "duration_ms": 213577,
+      "name": "Nitpicking",
+      "url": "https://open.spotify.com/track/1kODSVImpAKU1bbZvlNX2s"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Nitpicking",
-        "url": "https://open.spotify.com/album/5bB2nClfkdlG1ekRQGw8zT"
+        "name": "Destination",
+        "url": "https://open.spotify.com/album/6k16yhvezz8OZfMFw7gsoC"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "SS501",
+          "url": "https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e"
         }
       ],
-      "duration_ms": 213577,
-      "name": "Nitpicking",
-      "url": "https://open.spotify.com/track/1kODSVImpAKU1bbZvlNX2s"
+      "duration_ms": 205506,
+      "name": "Love Ya",
+      "url": "https://open.spotify.com/track/6nW76DRJWhwBnhTLVripJe"
     },
     {
       "added_at": "2024-08-05 16:58:20",

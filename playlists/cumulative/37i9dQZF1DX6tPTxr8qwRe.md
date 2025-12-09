@@ -4,7 +4,7 @@
 
 > sweet\. sharp\. unbothered \- Mad Tsai on the cover
 
-1,025 songs - 1 day 23 hr 18 min
+1,026 songs - 1 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,7 +497,7 @@
 | [IRIS OUT](https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [IRIS OUT](https://open.spotify.com/album/06re45NBDCPah74jnVOISQ) | 2:31 | 2025-09-23 |  |
 | [Irresponsible](https://open.spotify.com/track/60SugyNV4FdewZfktXfXte) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Irresponsible](https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd) | 2:04 | 2023-05-26 | 2023-08-19 |
 | [It Wasn't Me](https://open.spotify.com/track/2Y8aKLQSTd5BCIMMmPzdPG) | [Caleigh](https://open.spotify.com/artist/3aJyXhAdbU62nZ63hnJiE1) | [It Wasn't Me](https://open.spotify.com/album/66MJakKrxiqewpKIu7O1h6) | 2:17 | 2025-05-02 | 2025-08-23 |
-| [IT'S HARD \(to be a Man\)](https://open.spotify.com/track/5G6ZCA94A0DBcBSDlacRss) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [IT'S HARD \(to be a Man\)](https://open.spotify.com/album/1wtUOQUVs3ij7NEJCWDuhw) | 3:00 | 2025-08-29 |  |
+| [IT'S HARD \(to be a Man\)](https://open.spotify.com/track/5G6ZCA94A0DBcBSDlacRss) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [IT'S HARD \(to be a Man\)](https://open.spotify.com/album/1wtUOQUVs3ij7NEJCWDuhw) | 3:00 | 2025-08-29 | 2025-12-09 |
 | [Itty Bitty](https://open.spotify.com/track/6TxJ6ocfLpkKkY8152ttpM) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Itty Bitty](https://open.spotify.com/album/6cPPkaA7q9UF66afGI945c) | 2:42 | 2025-03-21 | 2025-06-21 |
 | [Jared](https://open.spotify.com/track/6SmRJgpCbxzSfM58D401MT) | [LEW](https://open.spotify.com/artist/74wwB8fuPfI5zliwuEy3IS) | [Dead Inside](https://open.spotify.com/album/4jvfJfRKOzPTYdGehufwMJ) | 2:26 | 2025-01-24 | 2025-05-24 |
 | [Jennifer's Body](https://open.spotify.com/track/64R0m9KpCEmQxumJU3ZlCj) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Jennifer's Body](https://open.spotify.com/album/1mOHFGk4ujYJT06VRxWfvL) | 2:32 | 2025-04-11 | 2025-06-14 |
@@ -791,7 +791,7 @@
 | [She Ruins Everything](https://open.spotify.com/track/6bxpZV3PmkGzGpr5qgIejf) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [She Ruins Everything](https://open.spotify.com/album/47dUMKJXhMColrlmkd0WPU) | 3:09 | 2023-12-08 | 2024-03-23 |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-02-04 | 2022-03-18 |
 | [SHEESH](https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BABYMONS7ER](https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4) | 2:50 | 2024-04-05 | 2024-06-29 |
-| [Shotgun](https://open.spotify.com/track/4S5pZrGfNZFhVkbOnDLNX3) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Shotgun](https://open.spotify.com/album/6Nq1mbAovv0dnh9DPDyfyd) | 3:04 | 2025-08-29 |  |
+| [Shotgun](https://open.spotify.com/track/4S5pZrGfNZFhVkbOnDLNX3) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Shotgun](https://open.spotify.com/album/6Nq1mbAovv0dnh9DPDyfyd) | 3:04 | 2025-08-29 | 2025-12-09 |
 | [Should We](https://open.spotify.com/track/4OXsPvszcSqLA8l5kDf9qL) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Razzle](https://open.spotify.com/album/76jhxPZPgnxpfmK9EGoYEc) | 2:33 | 2024-03-15 | 2024-04-11 |
 | [Should We](https://open.spotify.com/track/4Y8PgWmxjAnBHNuz516yWf) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Should We](https://open.spotify.com/album/4UTy95lbfZb73MJeRwSfcA) | 2:33 | 2024-01-15 | 2024-04-27 |
 | [Should We](https://open.spotify.com/track/7MKlj3JF81xWi7Mvz6ZLEZ) | [Emi Jeen](https://open.spotify.com/artist/5DqyShofFQi6ZEkHEMFLXf) | [Razzle](https://open.spotify.com/album/0rjKAEIDh1VtNrjJ7tvnFP) | 2:33 | 2024-04-05 | 2024-04-19 |
@@ -827,6 +827,7 @@
 | [Soul](https://open.spotify.com/track/6WNIUgZ7i8GliBVohtkIEt) | [BUZZ](https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR) | [Soul](https://open.spotify.com/album/6dfu73S0vDUoTOF7Dh4ZXS) | 3:30 | 2022-09-16 | 2022-10-08 |
 | [Soul Sucker, Pt\. 2](https://open.spotify.com/track/7lSRoGGERYMfi5mDotavru) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Soul Sucker, Pt\. 2](https://open.spotify.com/album/5DkmK3sQcBanrRg1lFHlMs) | 2:41 | 2021-11-12 | 2022-03-12 |
 | [Soñar \(Breaker\)](https://open.spotify.com/track/03MTY1omA35sy8rWJEtGcq) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Soñar \(Breaker\)](https://open.spotify.com/album/1CMbJop3q7bSoakHutpi1W) | 2:53 | 2023-12-08 | 2024-04-24 |
+| [SPEAKERS](https://open.spotify.com/track/1A9xerPyv4MQJBpCvAqSeD) | [Carly Gibert](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [SPEAKERS](https://open.spotify.com/album/1jLXo9Y5IH2C9fnnnzdN84) | 2:01 | 2025-12-08 |  |
 | [Spelling](https://open.spotify.com/track/6pv0GmCpgk1wfRwrCD7WVt) | [Lolahol](https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn) | [Spelling](https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN) | 4:01 | 2023-10-13 | 2023-10-21 |
 | [spiderwebs](https://open.spotify.com/track/3zkguegMPvaPcmHaUzIeN2) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [spiderwebs](https://open.spotify.com/album/1fGjcMkLO4Yh7tNVaisrPh) | 2:39 | 2025-10-31 |  |
 | [spine](https://open.spotify.com/track/110UHz4b6xuwsAigLAg1DL) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [spine](https://open.spotify.com/album/3yyz6xJJuuB24PfoMKDbAZ) | 2:26 | 2025-08-22 | 2025-11-29 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAAAerO06WJ4fDnIgbdaH1Fmq",
+  "snapshot_id": "aTTDgAAAAADBPGE1jFtpCPk5G4B+rGe7",
   "tracks": [
     {
       "added_at": null,
@@ -219,38 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Boy Who Cried Freedom",
-        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 191432,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1ohlbpNCsuqstbqsezNdUI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For My Friends",
-        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 170803,
-      "name": "Devil That I Know",
-      "url": "https://open.spotify.com/track/0HmdysB9yEb1EVWe7aNIGT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Creed II (Score & Music from the Original Motion Picture)",
         "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
       },
@@ -271,6 +239,38 @@
       "duration_ms": 304560,
       "name": "Runnin (feat. A$AP Rocky & Jacob Banks)",
       "url": "https://open.spotify.com/track/7ckSHKZnX72c6IQnKGJNpi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 170803,
+      "name": "Devil That I Know",
+      "url": "https://open.spotify.com/track/0HmdysB9yEb1EVWe7aNIGT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Boy Who Cried Freedom",
+        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 191432,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1ohlbpNCsuqstbqsezNdUI"
     },
     {
       "added_at": null,
@@ -519,22 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "All The Flowers Have Bloomed",
-        "url": "https://open.spotify.com/album/1GzZOyOEu5fepoX5rySrdO"
+        "name": "Monster 2.0",
+        "url": "https://open.spotify.com/album/7y5HRc18PtRswUkWMusITX"
       },
       "artists": [
         {
-          "name": "Kofi Stone",
-          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
-        },
-        {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
         }
       ],
-      "duration_ms": 383880,
-      "name": "Thorns",
-      "url": "https://open.spotify.com/track/2y3mVK20NpiMwMeADn38we"
+      "duration_ms": 217440,
+      "name": "Monster 2.0",
+      "url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao"
     },
     {
       "added_at": null,
@@ -559,22 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monster 2.0",
-        "url": "https://open.spotify.com/album/7y5HRc18PtRswUkWMusITX"
+        "name": "All The Flowers Have Bloomed",
+        "url": "https://open.spotify.com/album/1GzZOyOEu5fepoX5rySrdO"
       },
       "artists": [
         {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
         },
         {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 217440,
-      "name": "Monster 2.0",
-      "url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao"
+      "duration_ms": 383880,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/2y3mVK20NpiMwMeADn38we"
     },
     {
       "added_at": null,

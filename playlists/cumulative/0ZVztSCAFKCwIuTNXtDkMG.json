@@ -1487,6 +1487,28 @@
     },
     {
       "album": {
+        "name": "solo",
+        "url": "https://open.spotify.com/album/1FdXEZw2E4Z7HBsmhkV5E7"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291428,
+      "name": "solo",
+      "url": "https://open.spotify.com/track/6U5h4WhbYufaRGXQhnileY"
+    },
+    {
+      "album": {
         "name": "Somedays",
         "url": "https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK"
       },

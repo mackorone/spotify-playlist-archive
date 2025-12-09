@@ -4,7 +4,7 @@
 
 > Sit back, relax, and let these chill tunes calm you down.
 
-241 songs - 13 hr 38 min
+242 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [My Boy Only Breaks His Favorite Toys](https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:23 | 2024-04-24 | 2024-09-18 |
 | [Nahuhulog](https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP) | 3:47 | 2023-11-10 | 2024-02-08 |
 | [nantene](https://open.spotify.com/track/2ehgdInLgfOvizPjs65Tuu) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [nantene](https://open.spotify.com/album/6hAktj37tcHQhXhlbkNgS8) | 2:32 | 2024-07-17 | 2024-08-19 |
-| [Never Be Alone.](https://open.spotify.com/track/7IfZwCYzZUzF5bhnzpbe5o) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Never Be Alone.](https://open.spotify.com/album/14RDdFHxwkBRXk2lpKqJlE) | 3:04 | 2025-11-24 |  |
+| [Never Be Alone.](https://open.spotify.com/track/7IfZwCYzZUzF5bhnzpbe5o) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Never Be Alone.](https://open.spotify.com/album/14RDdFHxwkBRXk2lpKqJlE) | 3:04 | 2025-11-24 | 2025-12-09 |
 | [next door \(feat\. ASTN\)](https://open.spotify.com/track/08HGey7e94Ez3ZurG1IXTP) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [next door \(feat\. ASTN\)](https://open.spotify.com/album/74hbTOydyddGuDuVfGGrdv) | 3:28 | 2025-03-03 | 2025-04-17 |
 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-06-02 |  |
 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-11 | 2025-09-18 |
@@ -213,6 +213,7 @@
 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 | 2024-12-03 | 2025-01-09 |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-10-24 |  |
 | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/track/4QlcY3H7hRb74XacY3tJJQ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/album/1uRAile5YBcA689mkIGMnN) | 2:50 | 2025-09-17 | 2025-11-05 |
+| [The Only Gift I Need](https://open.spotify.com/track/7CKPm29yh8BPs7OqPwx0s7) | [Avery Leon](https://open.spotify.com/artist/75YebYHY6ryNvPWlPvLbm3) | [The Only Gift I Need](https://open.spotify.com/album/2az5UPUkYaeDgroSE5YxnP) | 3:44 | 2025-12-08 |  |
 | [There’s a Field \(That’s Only Yours\)](https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Rearrange My World / There’s a Field \(That's Only Yours\)](https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn) | 2:04 | 2025-02-17 | 2025-03-04 |
 | [Things You Said \(feat\. Abby Cates\)](https://open.spotify.com/track/2k8ZdI4C1ox7duEFJN7BgD) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT), [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [The End](https://open.spotify.com/album/1gGuLJfZnXUoAs5nk7UXV6) | 3:54 | 2024-03-21 | 2024-04-19 |
 | [Thinkin About You](https://open.spotify.com/track/0F8PC2hasKm37MG3U1bhlu) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [e•pit•o•me](https://open.spotify.com/album/04767Bip35J4QmOy6TrFDI) | 3:13 | 2025-09-17 | 2025-11-05 |

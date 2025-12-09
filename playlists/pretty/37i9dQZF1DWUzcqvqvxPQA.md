@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > To everything there is a season so let these faith\-filled songs be the soundtrack to your Fall!
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,235 likes - 65 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,236 likes - 65 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 42 | [Need A River](https://open.spotify.com/track/1D9Rq7gPmAHvcCcrGfq3u3) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Need A River](https://open.spotify.com/album/4xa8veZ4unipoF6SXpJZXH) | 3:46 |
 | 43 | [Only You](https://open.spotify.com/track/0YDoQ37EPG6m68HiA90FvX) | [Haddon](https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez) | [Only You](https://open.spotify.com/album/2AVdr27lgQpAz5iiKxw6zV) | 3:22 |
 | 44 | [It Is Well](https://open.spotify.com/track/02YMjQJ2BrKiQT6C0wW11l) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [It Is Well](https://open.spotify.com/album/5CaGxfKaxVMznpN5qILHLY) | 3:20 |
-| 45 | [Wait For The Dawn](https://open.spotify.com/track/5PHrgpOiAn8BeYwKmDgKAl) | [Amanda Nolan](https://open.spotify.com/artist/1M62wAGkipCrvniBF6ZCa8) | [Wait For The Dawn](https://open.spotify.com/album/51JfkMN3NDLGHJYpmlZpDa) | 3:04 |
-| 46 | [True Love](https://open.spotify.com/track/15sUz7bGOhdxcHa81JPgDf) | [Drakeford](https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK) | [True Love](https://open.spotify.com/album/5Tj0xdWEsfhFfI5rTJ2J8d) | 2:38 |
+| 45 | [True Love](https://open.spotify.com/track/15sUz7bGOhdxcHa81JPgDf) | [Drakeford](https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK) | [True Love](https://open.spotify.com/album/5Tj0xdWEsfhFfI5rTJ2J8d) | 2:38 |
+| 46 | [Wait For The Dawn](https://open.spotify.com/track/5PHrgpOiAn8BeYwKmDgKAl) | [Amanda Nolan](https://open.spotify.com/artist/1M62wAGkipCrvniBF6ZCa8) | [Wait For The Dawn](https://open.spotify.com/album/51JfkMN3NDLGHJYpmlZpDa) | 3:04 |
 | 47 | [Lift Me Up](https://open.spotify.com/track/1JlDttyo8qFG5HYhyx0f7z) | [Kid in Flight](https://open.spotify.com/artist/1lSpp0OQbcFrlkRCHbegwT) | [Lift Me Up](https://open.spotify.com/album/4cXrlI3APs9uVQJQbW8jIm) | 2:39 |
 | 48 | [Jar Of Clay](https://open.spotify.com/track/3Ha8rp9jG6GRg3wHR34SLv) | [Haddon](https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez) | [Jar Of Clay](https://open.spotify.com/album/5sblqeZn9ghEosSqTEgPbn) | 3:08 |
 | 49 | [In The Ether](https://open.spotify.com/track/75EowUUUDl7lRjoYkAXDea) | [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Revival In My Mind](https://open.spotify.com/album/68N1AI8w7ZHKpWuevdr2Uz) | 4:41 |

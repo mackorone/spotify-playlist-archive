@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUK9FmHZruQ.md) - [plain]
 
 > Sit back, relax, and let these chill tunes calm you down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,261,349 likes - 55 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,261,256 likes - 55 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Never Be Alone.](https://open.spotify.com/track/7IfZwCYzZUzF5bhnzpbe5o) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Never Be Alone.](https://open.spotify.com/album/14RDdFHxwkBRXk2lpKqJlE) | 3:04 |
+| 1 | [The Only Gift I Need](https://open.spotify.com/track/7CKPm29yh8BPs7OqPwx0s7) | [Avery Leon](https://open.spotify.com/artist/75YebYHY6ryNvPWlPvLbm3) | [The Only Gift I Need](https://open.spotify.com/album/2az5UPUkYaeDgroSE5YxnP) | 3:44 |
 | 2 | [Rewind](https://open.spotify.com/track/0Z97NVP2APoS2tZEByiF0t) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:42 |
 | 3 | [Memory \(feat\. The Ridleys\)](https://open.spotify.com/track/3uO5ZkTrkjrIN4Qj3j0Y9j) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT), [The Ridleys](https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG) | [Memory](https://open.spotify.com/album/00KkDGF5CMfQo6e86x58cu) | 3:21 |
 | 4 | [Clue](https://open.spotify.com/track/0R0xWFl985bNVIaiClLdL1) | [Rangel](https://open.spotify.com/artist/0bleiPugTnkqSUBnepa7Xi) | [Clue](https://open.spotify.com/album/4lMySm4UlZmdnawXJCC2AO) | 2:27 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUK9FmHZruQ.md) - [plain]
 | 54 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:38 |
 | 55 | [Fourth of July](https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:39 |
 
-Snapshot ID: `AAAAANkmGOUcmlwsbEuWSln5oJOpAhdY`
+Snapshot ID: `AAAAAOmCLT3pzsaMn1s3PYVqOiU0j+5k`

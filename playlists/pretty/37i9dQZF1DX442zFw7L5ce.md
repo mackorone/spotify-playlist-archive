@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,956 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,973 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 9 | [Ammaye](https://open.spotify.com/track/2YZZFwARteC3gM1aEgHHMr) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Kushi](https://open.spotify.com/album/37evPVtdfVL0X4Sji9tQdu) | 4:51 |
 | 10 | [Angana](https://open.spotify.com/track/3nfTyBrp0YaGdsLRCcXYZc) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Angana](https://open.spotify.com/album/4cd0KliADTNGuHrdLXiOgv) | 3:40 |
 | 11 | [Aradhya \(From "Kushi"\) \(Telugu\)](https://open.spotify.com/track/4KwsXvFDCoW7l1cfxhjTdD) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Aradhya \(From "Kushi"\) \(Telugu\)](https://open.spotify.com/album/0kE8dio9BXYdLd8KGbJ6Zo) | 4:42 |
-| 12 | [Ye Chilipi](https://open.spotify.com/track/3LYt0b1ljHUYoG5YL2WwWP) | [Srinivas](https://open.spotify.com/artist/3K9qRRRqtuxgBRLxRCxpDl) | [Gharshana\-New](https://open.spotify.com/album/1UjRLzKzCJqmrZK9Drt6Zx) | 5:15 |
-| 13 | [Pachchadanamey](https://open.spotify.com/track/5eQYzdcEDOhvJ4ClsUQB3C) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Clinton Cerejo](https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK) | [Sakhi](https://open.spotify.com/album/0x25Nwzk4BVwlUaZq5Hczu) | 6:01 |
+| 12 | [Pachchadanamey](https://open.spotify.com/track/5eQYzdcEDOhvJ4ClsUQB3C) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Clinton Cerejo](https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK) | [Sakhi](https://open.spotify.com/album/0x25Nwzk4BVwlUaZq5Hczu) | 6:01 |
+| 13 | [Ye Chilipi](https://open.spotify.com/track/3LYt0b1ljHUYoG5YL2WwWP) | [Srinivas](https://open.spotify.com/artist/3K9qRRRqtuxgBRLxRCxpDl) | [Gharshana\-New](https://open.spotify.com/album/1UjRLzKzCJqmrZK9Drt6Zx) | 5:15 |
 | 14 | [Nee Kannu Neeli Samudram \- Telugu](https://open.spotify.com/track/1C9SYGI40nNYh98gN87Fwr) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Uppena](https://open.spotify.com/album/0vHE0cmA8orbBgzIWz9T3D) | 5:12 |
 | 15 | [Kalaavathi](https://open.spotify.com/track/0hNPo5brQ2MLlrdVKZfHK9) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Kalaavathi \- Sarkaru Vaari Paata](https://open.spotify.com/album/6gB9NnwgzJkjFCSokvVMLv) | 4:02 |
 | 16 | [Inthandham \(From "Sita Ramam \(Telugu\)"\)](https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Inthandham \[From "Sita Ramam \(Telugu\)"\]](https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX) | 3:38 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 32 | [Ohho Puththadi Bommaa](https://open.spotify.com/track/3WaggvoQP7BjMXTeIQp8mV) | [Suresh Bobbili](https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Thika Maka Thanda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hsMB3LBXnEB9yHTvN0Qa2) | 3:35 |
 | 33 | [Poovullo Daagunna](https://open.spotify.com/track/4M8dRVFWKMfh7hPzGCYxra) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Jeans](https://open.spotify.com/album/5CcuoUl0yhFPRLMohxwvIt) | 6:55 |
 | 34 | [Bapu Gari Bommo](https://open.spotify.com/track/1e3pqyiPgPzqnDm8m91x5F) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Attarrintiki Daaredi](https://open.spotify.com/album/4rjF7pEttnd3hMEt7iuzgk) | 4:40 |
-| 35 | [Aakasam](https://open.spotify.com/track/4wKiaLGUIAdgRBSv80aeBW) | [Sumangaly](https://open.spotify.com/artist/0WpkyIAATl5W540KCSEUwX), [Kid Sathya](https://open.spotify.com/artist/2nzTUPkoUDOpQsQWzIUEQn) | [Kalusukovalani](https://open.spotify.com/album/2z84b5n0ZwZa3exP90AHiu) | 4:46 |
-| 36 | [Evaraina Chustuntara](https://open.spotify.com/track/7vHmN4UodN2EGwQJMIvTe0) | [Smita](https://open.spotify.com/artist/4qCRlu0jozfPsnmnxuWPve) | [Anukokunda Oka Roju \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PiAeBEGIWDTRinfBVRqdt) | 3:15 |
+| 35 | [Evaraina Chustuntara](https://open.spotify.com/track/7vHmN4UodN2EGwQJMIvTe0) | [Smita](https://open.spotify.com/artist/4qCRlu0jozfPsnmnxuWPve) | [Anukokunda Oka Roju \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PiAeBEGIWDTRinfBVRqdt) | 3:15 |
+| 36 | [Aakasam](https://open.spotify.com/track/4wKiaLGUIAdgRBSv80aeBW) | [Sumangaly](https://open.spotify.com/artist/0WpkyIAATl5W540KCSEUwX), [Kid Sathya](https://open.spotify.com/artist/2nzTUPkoUDOpQsQWzIUEQn) | [Kalusukovalani](https://open.spotify.com/album/2z84b5n0ZwZa3exP90AHiu) | 4:46 |
 | 37 | [Deva Raaja \(From "Baby"\)](https://open.spotify.com/track/6KUAJvrLISj8EytPvGu7Yu) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp) | [Deva Raaja \(From "Baby"\)](https://open.spotify.com/album/0aSxprg9rrJscWulKritHu) | 5:41 |
 | 38 | [Ninnu Chudagaane](https://open.spotify.com/track/1E5zyR7GT3PKjH3cqhVXVf) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Attarrintiki Daaredi](https://open.spotify.com/album/4rjF7pEttnd3hMEt7iuzgk) | 5:31 |
 | 39 | [Buggey Bangarama](https://open.spotify.com/track/18RUE4llLj46NIQKojerlw) | [Rajesh](https://open.spotify.com/artist/6aQ5LDX0WlnyDLI8TGU0wK) | [Chandamama](https://open.spotify.com/album/2eASY2UZa4O8pdXvK9SNgC) | 4:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 49 | [Yentha Sakkagunnave](https://open.spotify.com/track/6ZwkWDAoj6aDCbng3xnGSl) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Rangasthalam](https://open.spotify.com/album/7tSkAxhqw7Gb2lvnAjxvwF) | 4:22 |
 | 50 | [Ekkada Ekkada](https://open.spotify.com/track/1nV9Nxh5bCYnJ372qcFIbT) | [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Murari](https://open.spotify.com/album/5JedwC5U716Hg3pUANEtVu) | 6:11 |
 
-Snapshot ID: `AAAAAOaW3K7xWCmgC3AKGVmCZNeX6fna`
+Snapshot ID: `AAAAAFGZj5Lj87shWDkSv6N3JX1kaN0Z`

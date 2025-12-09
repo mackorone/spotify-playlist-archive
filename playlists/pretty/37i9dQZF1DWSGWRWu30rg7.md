@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: RACH?
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,281 likes - 149 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,283 likes - 149 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 40 | [Nurani](https://open.spotify.com/track/69V908tCzMYEAyz6yVuOen) | [Wizzow](https://open.spotify.com/artist/2AtpVBJtiIqNDKGyMJ1Kfq), [Jims Wong](https://open.spotify.com/artist/0PhwXdWPBimWQVG65v9KiF) | [Nurani](https://open.spotify.com/album/3eLAdIXlhNHqDAY7CisR9W) | 3:16 |
 | 41 | [Menghilang](https://open.spotify.com/track/2Zpwb6sWr3HEnVOITGgtLQ) | [Deandra Nadira](https://open.spotify.com/artist/5Tbnj0VCn83fNZgQa4MJxi) | [Menghilang](https://open.spotify.com/album/2tW4MKGZHQZrsQ5MtsuVZ3) | 3:30 |
 | 42 | [SFTB](https://open.spotify.com/track/7LGCDRfLmTiihFpmf4wiLT) | [Yovan Poli](https://open.spotify.com/artist/2m4VDwMWiahcyfgFsN0f3r) | [SFTB](https://open.spotify.com/album/3dRkooVopGMTF2AH2ucxo5) | 2:06 |
-| 43 | [MALAM PANJANG](https://open.spotify.com/track/0edZwUN6uRyFp694YTrUqT) | [Dipaaa](https://open.spotify.com/artist/7AAzFo2VHS5apEyYohoUUd) | [MALAM PANJANG](https://open.spotify.com/album/0m1aiZYJ6RYEGZ6919zOou) | 3:30 |
+| 43 | [MALAM PANJANG](https://open.spotify.com/track/0edZwUN6uRyFp694YTrUqT) | [Dipaaa](https://open.spotify.com/artist/7AAzFo2VHS5apEyYohoUUd), [Kamardiparecords](https://open.spotify.com/artist/4lRqnFUHIaISVUeLBhlM0U) | [MALAM PANJANG](https://open.spotify.com/album/0m1aiZYJ6RYEGZ6919zOou) | 3:30 |
 | 44 | [Penguasa Bumi](https://open.spotify.com/track/6nNKzXOdGaI0hFhDea9NtD) | [CBEE](https://open.spotify.com/artist/7HE2aopa2U5b4iS5aTeejF) | [BUMI](https://open.spotify.com/album/1jSYFg1sIAiinR7IP33rQ9) | 3:37 |
-| 45 | [Fresh \(2022\)](https://open.spotify.com/track/4azgcqmNacFixjTtLZlHdl) | [LORRA](https://open.spotify.com/artist/6MsnDUbNbeifQBU54x42zy) | [Fresh \(2022\)](https://open.spotify.com/album/3k30Hz9oV6i9ANaCFM8H1c) | 3:49 |
+| 45 | [Fresh \(2022\)](https://open.spotify.com/track/4azgcqmNacFixjTtLZlHdl) | [LORRA](https://open.spotify.com/artist/5W6EChWlHS4FmtDZ6hTdEp) | [Fresh \(2022\)](https://open.spotify.com/album/3k30Hz9oV6i9ANaCFM8H1c) | 3:49 |
 | 46 | [Terimakasih, Kawan](https://open.spotify.com/track/69EeTRtRbubxh1a28BkvYi) | [Bahtera](https://open.spotify.com/artist/2WDrCD9s0OofV19aGzNbib) | [Terimakasih, Kawan](https://open.spotify.com/album/4w7nL6goDlxvtuVsCQGhO2) | 3:34 |
 | 47 | [Anatomi Lara](https://open.spotify.com/track/0puV6jUNZ8V0C8RK0lRk0x) | [Raw Theory](https://open.spotify.com/artist/3lAXEJcSh5gsBUwWAc4NQO) | [Peccaterra](https://open.spotify.com/album/74VOQkrL47HotTOfrbQpKX) | 3:49 |
 | 48 | [how did we get here](https://open.spotify.com/track/7cHebaE0CiKFwA6EPUw8HM) | [Ridh](https://open.spotify.com/artist/0tqCMm24TzsA9pbhqbjbv1) | [how did we get here](https://open.spotify.com/album/533Ekh0RcB0rMyxoghetxm) | 3:55 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 126735,
+  "num_followers": 126752,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAAAvteUQHgcgX96sbTznXDjg",
+  "snapshot_id": "aTTDgAAAAACSIsjlq1wbuHeYmlQTZKjO",
   "tracks": [
     {
       "added_at": null,
@@ -915,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 209847,
+      "name": "Si la muerte pregunta",
+      "url": "https://open.spotify.com/track/75q22frRWs67LW2ltg7PLC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Misi\u00f3n (Episodio 2)",
         "url": "https://open.spotify.com/album/07gHdHOclypZGhqlaRmuSi"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 323964,
       "name": "La Misi\u00f3n (Episodio 2)",
       "url": "https://open.spotify.com/track/63Ue3S576DpaAaDIZlMYsF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Diablo, La Muerte y Yo",
-        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 209847,
-      "name": "Si la muerte pregunta",
-      "url": "https://open.spotify.com/track/75q22frRWs67LW2ltg7PLC"
     },
     {
       "added_at": null,
@@ -991,6 +991,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Diablo, La Muerte y Yo",
+        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 207679,
+      "name": "No tengo amigos",
+      "url": "https://open.spotify.com/track/5Kf28YdJzA9sd1BhpQ1UNr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin Escapatoria",
         "url": "https://open.spotify.com/album/0CykID0bWBhpZHVjqUlx4B"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 205060,
       "name": "Sin Escapatoria",
       "url": "https://open.spotify.com/track/6cemBZSbpNTZVHIcYoPhEL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Diablo, La Muerte y Yo",
-        "url": "https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 207679,
-      "name": "No tengo amigos",
-      "url": "https://open.spotify.com/track/5Kf28YdJzA9sd1BhpQ1UNr"
     },
     {
       "added_at": null,

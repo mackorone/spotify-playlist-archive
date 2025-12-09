@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 371523,
+  "num_followers": 371565,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -575,18 +575,22 @@
     {
       "added_at": "2025-09-15 10:24:21",
       "album": {
-        "name": "Arabian Magic",
-        "url": "https://open.spotify.com/album/5yqEQGVO0qNA0N5y2CBjQX"
+        "name": "Moulayiten",
+        "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
       },
       "artists": [
         {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Ahmad Sleiman",
+          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Arabian Magic",
-      "url": "https://open.spotify.com/track/3OoJsGYbfYFH5rLm98Z2aW"
+      "duration_ms": 297593,
+      "name": "Moulayiten",
+      "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
     },
     {
       "added_at": "2025-09-15 10:24:21",
@@ -611,22 +615,18 @@
     {
       "added_at": "2025-09-15 10:24:21",
       "album": {
-        "name": "Moulayiten",
-        "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
+        "name": "Arabian Magic",
+        "url": "https://open.spotify.com/album/5yqEQGVO0qNA0N5y2CBjQX"
       },
       "artists": [
         {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Ahmad Sleiman",
-          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
         }
       ],
-      "duration_ms": 297593,
-      "name": "Moulayiten",
-      "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
+      "duration_ms": 188000,
+      "name": "Arabian Magic",
+      "url": "https://open.spotify.com/track/3OoJsGYbfYFH5rLm98Z2aW"
     },
     {
       "added_at": "2025-09-15 10:24:21",
@@ -959,38 +959,6 @@
     {
       "added_at": "2025-09-15 10:24:21",
       "album": {
-        "name": "La rose \u00e9ternelle",
-        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        }
-      ],
-      "duration_ms": 270015,
-      "name": "La rose \u00e9ternelle",
-      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
-    },
-    {
-      "added_at": "2025-09-15 10:24:21",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
-    },
-    {
-      "added_at": "2025-09-15 10:24:21",
-      "album": {
         "name": "El Hawa",
         "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
       },
@@ -1015,6 +983,38 @@
     {
       "added_at": "2025-09-15 10:24:21",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
+    },
+    {
+      "added_at": "2025-09-15 10:24:21",
+      "album": {
+        "name": "La rose \u00e9ternelle",
+        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        }
+      ],
+      "duration_ms": 270015,
+      "name": "La rose \u00e9ternelle",
+      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
+    },
+    {
+      "added_at": "2025-09-15 10:24:21",
+      "album": {
         "name": "Arabic Nights",
         "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
       },
@@ -1027,26 +1027,6 @@
       "duration_ms": 165333,
       "name": "Arabic Nights",
       "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
-    },
-    {
-      "added_at": "2025-09-15 10:24:21",
-      "album": {
-        "name": "Ormila",
-        "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
-      },
-      "artists": [
-        {
-          "name": "Majed Zane",
-          "url": "https://open.spotify.com/artist/5SljHlYjnAMXC7STkgFFPR"
-        },
-        {
-          "name": "Sam Abdullah",
-          "url": "https://open.spotify.com/artist/1YtxjhyMpU9EZS4tancyeq"
-        }
-      ],
-      "duration_ms": 298867,
-      "name": "Ormila",
-      "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
     },
     {
       "added_at": "2025-09-15 10:24:21",
@@ -1071,6 +1051,26 @@
       "duration_ms": 152555,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1HzpCS56kzpWGLPmZif0gT"
+    },
+    {
+      "added_at": "2025-09-15 10:24:21",
+      "album": {
+        "name": "Ormila",
+        "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
+      },
+      "artists": [
+        {
+          "name": "Majed Zane",
+          "url": "https://open.spotify.com/artist/5SljHlYjnAMXC7STkgFFPR"
+        },
+        {
+          "name": "Sam Abdullah",
+          "url": "https://open.spotify.com/artist/1YtxjhyMpU9EZS4tancyeq"
+        }
+      ],
+      "duration_ms": 298867,
+      "name": "Ormila",
+      "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
     },
     {
       "added_at": "2025-09-15 10:24:21",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2025-09-15 10:24:21",
       "album": {
+        "name": "Cairo's Scent",
+        "url": "https://open.spotify.com/album/1PNCLHV2FhaDjvjcyqqyv0"
+      },
+      "artists": [
+        {
+          "name": "Suray",
+          "url": "https://open.spotify.com/artist/1NdFnV1nlaAy3vP4AvyrVn"
+        },
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        }
+      ],
+      "duration_ms": 206610,
+      "name": "Cairo's Scent",
+      "url": "https://open.spotify.com/track/6qd4ckl2MEeBgrhotAvxga"
+    },
+    {
+      "added_at": "2025-09-15 10:24:21",
+      "album": {
         "name": "Sahra On The Moon",
         "url": "https://open.spotify.com/album/14KzkAjFLB8uX6aPndfbg7"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 344000,
       "name": "Yasameen",
       "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
-    },
-    {
-      "added_at": "2025-09-15 10:24:21",
-      "album": {
-        "name": "Cairo's Scent",
-        "url": "https://open.spotify.com/album/1PNCLHV2FhaDjvjcyqqyv0"
-      },
-      "artists": [
-        {
-          "name": "Suray",
-          "url": "https://open.spotify.com/artist/1NdFnV1nlaAy3vP4AvyrVn"
-        },
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        }
-      ],
-      "duration_ms": 206610,
-      "name": "Cairo's Scent",
-      "url": "https://open.spotify.com/track/6qd4ckl2MEeBgrhotAvxga"
     },
     {
       "added_at": "2025-09-15 10:24:21",

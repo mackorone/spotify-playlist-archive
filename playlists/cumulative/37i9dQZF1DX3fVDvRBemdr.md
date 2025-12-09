@@ -4,7 +4,7 @@
 
 > De nieuwste releases Hollands & Volks\. Cover: Donnie, Sven Versteeg & LA$$A
 
-495 songs - 23 hr 59 min
+496 songs - 1 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [In Amsterdam](https://open.spotify.com/track/2jXZIL7zp6lbvkcNGJYtIm) | [Mick Harren](https://open.spotify.com/artist/3rC0vVL6atCESm1dahvBDl), [Johnny Jordaan](https://open.spotify.com/artist/0tlvzmFmhfItI4bdwby03e) | [In Amsterdam](https://open.spotify.com/album/3Z80GTtmsgI2WnmcAo0Fni) | 2:17 | 2025-03-13 | 2025-06-27 |
 | [In de naam van...](https://open.spotify.com/track/4YbZKK7m1meoBcCFdlab7c) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [In de naam van...](https://open.spotify.com/album/5DP7AnlHxP3NABQUGjI7bF) | 2:27 | 2025-06-27 | 2025-10-10 |
 | [In De Wolken](https://open.spotify.com/track/0lEEf3dbpEVEpsn67UMhiQ) | [Priscilla Ophof](https://open.spotify.com/artist/1WPZn8qRmT7tFIeEmm1szs) | [In De Wolken](https://open.spotify.com/album/0GL6gXnV0Efq6M4YF6Mv04) | 3:20 | 2024-09-12 | 2024-11-05 |
+| [In Mijn Hart](https://open.spotify.com/track/2GiENDK9r194HJxo2QuFh6) | [Martin Morero](https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3) | [In Mijn Hart](https://open.spotify.com/album/1Px6Mv4OE8cXlcBQoeZGrQ) | 2:34 | 2025-12-08 |  |
 | [In Ons Stamcafe](https://open.spotify.com/track/5g9pUIFlFMUtvz4DrJnDKW) | [Danny Heden](https://open.spotify.com/artist/4ke8NL9UYjeuye1E3tAsEQ) | [In Ons Stamcafe](https://open.spotify.com/album/5qMmRvHha0W0RUpZg6ZYvu) | 3:00 | 2024-10-18 | 2025-02-28 |
 | [Insta Live](https://open.spotify.com/track/7sfwT3gehKU9LmdWw6iZGd) | [Ray Slagter](https://open.spotify.com/artist/6ie6I6YKco4YVOzECVm5eg) | [Insta Live](https://open.spotify.com/album/4bgZfovTAw0aoHNykiFPP6) | 2:08 | 2024-07-11 | 2024-10-04 |
 | [Is Dit Alles](https://open.spotify.com/track/7zTTsQNcLtxIsX3CdGq5fp) | [Pascal Redeker](https://open.spotify.com/artist/2pPlC5pHDMwx9vCtEszoub) | [Is Dit Alles](https://open.spotify.com/album/4XrDMgi0wd1hlh374SKCVG) | 2:35 | 2024-08-29 | 2024-10-11 |

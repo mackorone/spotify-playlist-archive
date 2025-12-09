@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Viejitas pero bonitas! Qu\u00e9 suene el acorde\u00f3n y el bajo sexto. Ram\u00f3n Ayala en portada.",
-  "num_followers": 947401,
+  "num_followers": 947700,
   "original_name": "Cl\u00e1sicas Norte\u00f1as",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-12-03 21:38:54",
       "album": {
-        "name": "Algo De Mi",
-        "url": "https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 236453,
-      "name": "Algo De M\u00ed",
-      "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
-    },
-    {
-      "added_at": "2024-12-03 21:38:54",
-      "album": {
         "name": "Herencia De Familia",
         "url": "https://open.spotify.com/album/4C43fkuo6G7FdEm6xhq8cV"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 188160,
       "name": "Prisi\u00f3n De Amor",
       "url": "https://open.spotify.com/track/3Lpg4XUPBhscufuiSCNd30"
+    },
+    {
+      "added_at": "2024-12-03 21:38:54",
+      "album": {
+        "name": "Algo De Mi",
+        "url": "https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 236453,
+      "name": "Algo De M\u00ed",
+      "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
     },
     {
       "added_at": "2024-12-03 21:38:54",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-12-03 21:38:54",
       "album": {
-        "name": "Realidades",
-        "url": "https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Qu\u00e9 Tal Si Eres Tu",
-      "url": "https://open.spotify.com/track/228ExGBaOYwzsAGotWXaqy"
-    },
-    {
-      "added_at": "2024-12-03 21:38:54",
-      "album": {
         "name": "Los Dos Amigos",
         "url": "https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 183053,
       "name": "Prenda Querida",
       "url": "https://open.spotify.com/track/7lCm29V5brfV81w1ytFwYZ"
+    },
+    {
+      "added_at": "2024-12-03 21:38:54",
+      "album": {
+        "name": "Realidades",
+        "url": "https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Qu\u00e9 Tal Si Eres Tu",
+      "url": "https://open.spotify.com/track/228ExGBaOYwzsAGotWXaqy"
     },
     {
       "added_at": "2024-12-03 21:38:54",
@@ -2279,22 +2279,18 @@
     {
       "added_at": "2024-12-03 21:38:54",
       "album": {
-        "name": "12 Kilates Puros Corridos",
-        "url": "https://open.spotify.com/album/5ZsOBQSfpD3odo1vSIUmMR"
+        "name": "15 Boleros de Oro",
+        "url": "https://open.spotify.com/album/37ftvMPjA81bYds5F0NKZs"
       },
       "artists": [
         {
           "name": "Los Cadetes De Linares",
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        },
-        {
-          "name": "Homero Guerrero y Lupe Tijerina",
-          "url": "https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE"
         }
       ],
-      "duration_ms": 178960,
-      "name": "Los Dos Amigos",
-      "url": "https://open.spotify.com/track/6V6lgegjsKlcbBcJWmIz2S"
+      "duration_ms": 184746,
+      "name": "No Hay Novedad",
+      "url": "https://open.spotify.com/track/1cvuESXANPuTV27IFPRtPu"
     },
     {
       "added_at": "2024-12-03 21:38:54",
@@ -2363,18 +2359,22 @@
     {
       "added_at": "2024-12-03 21:38:54",
       "album": {
-        "name": "15 Boleros de Oro",
-        "url": "https://open.spotify.com/album/37ftvMPjA81bYds5F0NKZs"
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/5ZsOBQSfpD3odo1vSIUmMR"
       },
       "artists": [
         {
           "name": "Los Cadetes De Linares",
           "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        },
+        {
+          "name": "Homero Guerrero y Lupe Tijerina",
+          "url": "https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE"
         }
       ],
-      "duration_ms": 184746,
-      "name": "No Hay Novedad",
-      "url": "https://open.spotify.com/track/1cvuESXANPuTV27IFPRtPu"
+      "duration_ms": 178960,
+      "name": "Los Dos Amigos",
+      "url": "https://open.spotify.com/track/6V6lgegjsKlcbBcJWmIz2S"
     },
     {
       "added_at": "2024-12-03 21:38:54",
@@ -2395,8 +2395,8 @@
     {
       "added_at": "2024-12-03 21:38:54",
       "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+        "name": "Amor A La Ligera",
+        "url": "https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm"
       },
       "artists": [
         {
@@ -2404,9 +2404,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 146693,
-      "name": "Bajo Mil Llaves",
-      "url": "https://open.spotify.com/track/5sbfCd8LLNJtP4MeSA1JyX"
+      "duration_ms": 147373,
+      "name": "Que La Dejen Ir Al Baile",
+      "url": "https://open.spotify.com/track/5coPwNRFIF2jCQN6G3zdgT"
     },
     {
       "added_at": "2024-12-03 21:38:54",

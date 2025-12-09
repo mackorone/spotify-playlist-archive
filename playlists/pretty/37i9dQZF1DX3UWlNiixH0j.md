@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: NIKO NIKO TAN TAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,098 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,097 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 60 | [梅雨 \- feat.京 英一](https://open.spotify.com/track/0itAw5Q6o1y6TE1GnVPLXW) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL), [京 英一](https://open.spotify.com/artist/0cEgadwEXRPfTZ1Xtg7pFa) | [梅雨 \(feat.京 英一\)](https://open.spotify.com/album/7bkvsUBGECXAHNZzfFDKFw) | 3:51 |
 | 61 | [Hold Me Tight](https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Hold Me Tight](https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X) | 3:08 |
 | 62 | [Town](https://open.spotify.com/track/6HAb8hCHPZHeonwPusXsgf) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Town e.p](https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO) | 3:53 |
-| 63 | [Pea](https://open.spotify.com/track/5ti4NlyfB9oqbvYNYFeiL1) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [Pea](https://open.spotify.com/album/0YAQV6g1KxklWxsELORjFV) | 3:00 |
-| 64 | [the anomaly](https://open.spotify.com/track/4zTBHOkvrp00JYlJX05Aed) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [montauk](https://open.spotify.com/album/0doUrp4w7qRSoXILRdE9au) | 3:24 |
+| 63 | [the anomaly](https://open.spotify.com/track/4zTBHOkvrp00JYlJX05Aed) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [montauk](https://open.spotify.com/album/0doUrp4w7qRSoXILRdE9au) | 3:24 |
+| 64 | [Pea](https://open.spotify.com/track/5ti4NlyfB9oqbvYNYFeiL1) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [Pea](https://open.spotify.com/album/0YAQV6g1KxklWxsELORjFV) | 3:00 |
 | 65 | [White Chocolate](https://open.spotify.com/track/7N2ziBCRxWB1ulFxUUD74a) | [the BL00M](https://open.spotify.com/artist/6K70Hpx3VPRd2DzJ9CQ76x), [RINA](https://open.spotify.com/artist/5pIXhOHmNVlgv5K2BoKRuN) | [White Chocolate](https://open.spotify.com/album/0dql0NQrX9rPQ5ykCWQI2B) | 3:06 |
 | 66 | [I'll be with you](https://open.spotify.com/track/5Jsu8UeDpF356Dgn0z5ghY) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc), [Nigel Tay](https://open.spotify.com/artist/5sFViXMV2OBi3agkicgYpN) | [I'll be with you](https://open.spotify.com/album/08H5JLHs8qewkM3obH3ZFk) | 3:34 |
 | 67 | [Tiny Mirror](https://open.spotify.com/track/3BKDZF38FhAIaNJOezZeEb) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [まにまに](https://open.spotify.com/album/4MxukD0KYg1hNfeO0YO2zE) | 3:18 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 69 | [HEBITORA](https://open.spotify.com/track/2PgtHgI0v78ELADdsWoXDs) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC) | [HEBITORA](https://open.spotify.com/album/7uGRLS4ZTCPASN8NoOsDky) | 4:17 |
 | 70 | [万祝](https://open.spotify.com/track/6zp71DNt8YIl14MCA9CQ5T) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [万祝](https://open.spotify.com/album/0heim8z9M7TUdwDP9o1ZxY) | 3:41 |
 | 71 | [ぼちぼちいきましょう](https://open.spotify.com/track/0Gd7MaQBrDh2hexjzdxz75) | [blend house](https://open.spotify.com/artist/7EJ2VmS1zTceVLXZWXw2Dt) | [ぼちぼちいきましょう](https://open.spotify.com/album/2ZzScRcEYp015nsKXbsMPK) | 4:08 |
-| 72 | [Punk Head](https://open.spotify.com/track/6wN8LtVvVqh8RyEtFRESdr) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Punk Head](https://open.spotify.com/album/4en5HpvQhcqTFQXerMbXtM) | 2:53 |
-| 73 | [Sentimental Journey](https://open.spotify.com/track/2SQ8cSa0qW495Gw1mmvMGz) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [MUNI](https://open.spotify.com/album/3VPIqh2pDnTVTpw8igR1w2) | 3:40 |
+| 72 | [Sentimental Journey](https://open.spotify.com/track/2SQ8cSa0qW495Gw1mmvMGz) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [MUNI](https://open.spotify.com/album/3VPIqh2pDnTVTpw8igR1w2) | 3:40 |
+| 73 | [Punk Head](https://open.spotify.com/track/6wN8LtVvVqh8RyEtFRESdr) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Punk Head](https://open.spotify.com/album/4en5HpvQhcqTFQXerMbXtM) | 2:53 |
 | 74 | [DAWN](https://open.spotify.com/track/1MMKb51GLNUn6p2N11BTCa) | [E.scene](https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5) | [Glitter](https://open.spotify.com/album/0whAMSdgqbvFPyd6NgeGhW) | 3:14 |
 | 75 | [エイリアンズ](https://open.spotify.com/track/6w3QGOV54PA8hsbFFD6FmJ) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [エイリアンズ](https://open.spotify.com/album/3hMQz7Gbsk7bo8rzEubIVl) | 6:00 |
 

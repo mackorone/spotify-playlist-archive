@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 
 > Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,878 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,888 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 | 36 | [Shake \- \(Original\)](https://open.spotify.com/track/2i2dlGChzEtkAOB5RSP8gd) | [Double](https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq) | [Crystal](https://open.spotify.com/album/3QFHFLCxtePvkDaObgDCgc) | 5:31 |
 | 37 | [14](https://open.spotify.com/track/4J7SimjJzZWLM6XFhsWNT3) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [Born Again](https://open.spotify.com/album/3SPLOZJ6DtS8CsRDx8tDVc) | 3:21 |
 | 38 | [Slow brew morning](https://open.spotify.com/track/3cTHSRJq34IYP3uadM3UGb) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm) | [Slow brew morning](https://open.spotify.com/album/6HfItavipVgNp1zCSbpBrv) | 2:42 |
-| 39 | [Burn](https://open.spotify.com/track/2QQDuGzMpNX0hfMCZLqXGP) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [NICO](https://open.spotify.com/album/7hEUaGpVKEw5HA5XLCVj2U) | 2:49 |
-| 40 | [no pride](https://open.spotify.com/track/1Wy8HDBwISAY6l97Pm1I9X) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [When was that](https://open.spotify.com/album/3ZQiUTHlL1t3v4tPoQ52PB) | 2:46 |
+| 39 | [no pride](https://open.spotify.com/track/1Wy8HDBwISAY6l97Pm1I9X) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [When was that](https://open.spotify.com/album/3ZQiUTHlL1t3v4tPoQ52PB) | 2:46 |
+| 40 | [Burn](https://open.spotify.com/track/2QQDuGzMpNX0hfMCZLqXGP) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [NICO](https://open.spotify.com/album/7hEUaGpVKEw5HA5XLCVj2U) | 2:49 |
 | 41 | [B & C](https://open.spotify.com/track/7zzJVfJqdB2mjNCXRyNCvT) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Movin' on without you](https://open.spotify.com/album/5WjRwt4fHDlU9EzxhowFkS) | 4:19 |
 | 42 | [Chosen One](https://open.spotify.com/track/4VZJyx96dNBeRAZnUyNfrB) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7) | [Chosen One](https://open.spotify.com/album/1zamcgFy1aMew8FQBVUS31) | 2:31 |
 | 43 | [LET'S GO!](https://open.spotify.com/track/2yS62ySi7e53qMzJ32ClQH) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Sunny Side Of Original Love](https://open.spotify.com/album/1tXNcSMy345oksuxlQppRH) | 6:07 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 | 46 | [GET UP!](https://open.spotify.com/track/6BNAZp8Q2EcAQioytug0mg) | [SOULHEAD](https://open.spotify.com/artist/23XPnlp8nAIDjGf7S9ap3I) | [BRAIDED](https://open.spotify.com/album/1JybQHCd0xADI7rG8QlqgH) | 4:14 |
 | 47 | [Is it a crime?](https://open.spotify.com/track/2hy9onH96hRqGOAW50W3Iq) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7) | [Is it a crime?](https://open.spotify.com/album/1fiAF9KstmdCFtcog112Wx) | 3:14 |
 | 48 | [Taste](https://open.spotify.com/track/7mZx7xNcvXStILZCTy8Fsh) | [FiJA](https://open.spotify.com/artist/37yszP4OZkNSupZFSPGtKl), [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP) | [Taste](https://open.spotify.com/album/59dhgrnqqMQMA0yTcGcCAz) | 4:00 |
-| 49 | [Anytime](https://open.spotify.com/track/4Yplq7B18jCFSyIHGDnbEq) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [ALL YOURS](https://open.spotify.com/album/5caA9xJnnyArusGKB0GsbP) | 4:40 |
+| 49 | [手紙](https://open.spotify.com/track/3SAMYU262odmIWLwrQVwUP) | [Jamosa](https://open.spotify.com/artist/0rb7MhRkE4vmiA0dsVAxXu), [DABO](https://open.spotify.com/artist/6H8SjX28BTgSSf8Ndz8SJs) | [DREAM](https://open.spotify.com/album/0la82foXYhL5ASSzU97KFq) | 4:41 |
 | 50 | [BED \(DOUBLES\)](https://open.spotify.com/track/5AhAbUiIlGP6Cp4Lq6rigR) | [Double](https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq) | [Crystal](https://open.spotify.com/album/3QFHFLCxtePvkDaObgDCgc) | 5:21 |
 
 Snapshot ID: `AAAAABX6e0ZR/qubZ/MC3TYdYQrRoqL6`

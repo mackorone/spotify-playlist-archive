@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 
 > The essential tracks from the label VP Records\. Cover: Beenie Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,471 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,481 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 14 | [Tight Up Skirt](https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9) | [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Oh No It's Red Rat](https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi) | 3:34 |
 | 15 | [Youth Dem Cold](https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [In The Streets To Africa](https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc) | 3:45 |
 | 16 | [Soul Provider](https://open.spotify.com/track/2C6JGwgXp5W9yPi21dBHsw) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Lifted](https://open.spotify.com/album/4E654ZenJUSulZS85NPMgg) | 4:14 |
-| 17 | [Deport Them](https://open.spotify.com/track/5KhypMVGqMI9mgsrrv2lxc) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Stage One](https://open.spotify.com/album/6Y5344aCqHNxQNAUStzHrd) | 3:08 |
-| 18 | [No Cocaine](https://open.spotify.com/track/07QuKUTu5O40AibYYPx98I) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Escape From Babylon](https://open.spotify.com/album/2wrZVi0cgQtRhpYytAHpdD) | 4:14 |
+| 17 | [No Cocaine](https://open.spotify.com/track/07QuKUTu5O40AibYYPx98I) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Escape From Babylon](https://open.spotify.com/album/2wrZVi0cgQtRhpYytAHpdD) | 4:14 |
+| 18 | [Deport Them](https://open.spotify.com/track/5KhypMVGqMI9mgsrrv2lxc) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Stage One](https://open.spotify.com/album/6Y5344aCqHNxQNAUStzHrd) | 3:08 |
 | 19 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
 | 20 | [So Special](https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Mr\. Brooks...A Better Tomorrow](https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB) | 2:58 |
 | 21 | [All Of Me](https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [The Cure](https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU) | 4:39 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 24 | [Fisherman](https://open.spotify.com/track/4jIO4fWetRQXS6Tw1XbhWD) | [The Congos](https://open.spotify.com/artist/0nGxKkhmIzyu6bvuXrko1e) | [Heart Of The Congos](https://open.spotify.com/album/0FqUTYrs4FtPbav2Ry2I1M) | 5:28 |
 | 25 | [Rasta Should Be Deeper](https://open.spotify.com/track/77DMJWGzzpLk8Fzd2jpqTI) | [Junior Kelly](https://open.spotify.com/artist/20aXKBdnVocEWJQjDyddN9) | [Tough Life](https://open.spotify.com/album/0j4h4INrckemf0kmGd2NHc) | 3:29 |
 | 26 | [Stay With Me](https://open.spotify.com/track/0dAr3S2Hwopw7NueD6YJzJ) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Lifted](https://open.spotify.com/album/4E654ZenJUSulZS85NPMgg) | 3:37 |
-| 27 | [Earth A Run Red](https://open.spotify.com/track/0MYZaB4hSiHVdHuUf4F6nQ) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [Spice In Your Life](https://open.spotify.com/album/7bSj7D86JEHSFEDIjvadn5) | 3:47 |
-| 28 | [Two Sevens Clash](https://open.spotify.com/track/4ueq6n73MAh23KMabKrpI0) | [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz) | [Two Sevens Clash \(40th Anniversary Edition\)](https://open.spotify.com/album/75KzjLsruVDxWJ0bL0Lrm6) | 3:29 |
+| 27 | [Two Sevens Clash](https://open.spotify.com/track/4ueq6n73MAh23KMabKrpI0) | [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz) | [Two Sevens Clash \(40th Anniversary Edition\)](https://open.spotify.com/album/75KzjLsruVDxWJ0bL0Lrm6) | 3:29 |
+| 28 | [Earth A Run Red](https://open.spotify.com/track/0MYZaB4hSiHVdHuUf4F6nQ) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [Spice In Your Life](https://open.spotify.com/album/7bSj7D86JEHSFEDIjvadn5) | 3:47 |
 | 29 | [Solid As A Rock](https://open.spotify.com/track/0jgyTx1QHB5dvsylTJhcvK) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Da Real Thing](https://open.spotify.com/album/6P6cZYXPzjL5mwHhgkJBC5) | 3:33 |
 | 30 | [Deeper](https://open.spotify.com/track/4pbQqdxHDI1oJpKxEfHxvq) | [Alaine](https://open.spotify.com/artist/62I2kfviQAwxvxNMvTj1Mc) | [Strictly The Best Vol\. 36](https://open.spotify.com/album/5OAh9E576gCvvut3xHh89G) | 3:50 |
 | 31 | [Nice Up The Dance](https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Nice Up The Dance](https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ) | 3:32 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 46 | [Budy Bye](https://open.spotify.com/track/3rUJa4wsM02woMtokBARO1) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Mr\. Budy Bye](https://open.spotify.com/album/4l0VLGx0zkJpLF5AEdNchw) | 4:04 |
 | 47 | [Footprints](https://open.spotify.com/track/6LjGQGrhPUtHLECjlWVTaa) | [T.O.K](https://open.spotify.com/artist/06JH3wcXkJg7eoxZVMO1UX) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:31 |
 | 48 | [Splashing Dashing](https://open.spotify.com/track/0Cenbvs1uDQvTLhnCXw9zv) | [Garnett Silk](https://open.spotify.com/artist/4xDC3G6OUck11fSodF11jI) | [Reggae Anthology: Music Is The Rod](https://open.spotify.com/album/3JIyyQ4Re9JW5BB706adXk) | 3:19 |
-| 49 | [Big Big](https://open.spotify.com/track/1HqUqFlKX7tGbK68AztT5Y) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Big Big](https://open.spotify.com/album/6xeNkWALZtiy48cbs5rnDH) | 3:02 |
-| 50 | [Unity We Need \(feat\. Chronixx\)](https://open.spotify.com/track/5LHsnh2rrAunWXUSI7xqtO) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Together We Stand](https://open.spotify.com/album/1eUOFuDvLbju6Dbqj2KqlK) | 4:25 |
+| 49 | [Unity We Need \(feat\. Chronixx\)](https://open.spotify.com/track/5LHsnh2rrAunWXUSI7xqtO) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Together We Stand](https://open.spotify.com/album/1eUOFuDvLbju6Dbqj2KqlK) | 4:25 |
+| 50 | [Big Big](https://open.spotify.com/track/1HqUqFlKX7tGbK68AztT5Y) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Big Big](https://open.spotify.com/album/6xeNkWALZtiy48cbs5rnDH) | 3:02 |
 
 Snapshot ID: `AAAAAP6y37R9eXSXfiH/WpUzLc8u6XZM`

@@ -7824,7 +7824,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 203653,
       "name": "D\u00f6nsen Bile",
       "url": "https://open.spotify.com/track/6Ear9bhjbNi2oaqv5qlqlM"
@@ -8788,7 +8788,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 269919,
       "name": "Eyl\u00fclzede",
       "url": "https://open.spotify.com/track/3N2dY8tyTp7XGhsTSigaxT"
@@ -8860,7 +8860,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 174762,
       "name": "E\u011eME BOYUN",
       "url": "https://open.spotify.com/track/2QDSRyIio26v05eRWuBSjS"
@@ -11166,7 +11166,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 118064,
       "name": "HALLETT\u0130M",
       "url": "https://open.spotify.com/track/7pMTiGccgdL0PIvV21LSxN"
@@ -15286,7 +15286,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 146517,
       "name": "KTS",
       "url": "https://open.spotify.com/track/0rFE7maWOD4JFeG1wukeiB"
@@ -17172,7 +17172,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-25",
+      "date_removed": null,
       "duration_ms": 78927,
       "name": "MERMER",
       "url": "https://open.spotify.com/track/4UzAPluTbjdlyyhfE00REO"
@@ -21222,7 +21222,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 271210,
       "name": "Sayg\u0131mdan",
       "url": "https://open.spotify.com/track/4E10qEzOmTIVmrg6Wz2RHj"
@@ -22132,7 +22132,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 294846,
       "name": "Sigara",
       "url": "https://open.spotify.com/track/2Vo0kGsnu44Nmfuh3r5aJv"
@@ -24752,7 +24752,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 151512,
       "name": "YANKI X \u0130NT\u0130HAR",
       "url": "https://open.spotify.com/track/0E1hVdXGZu0MoE77bYyjie"
@@ -25390,6 +25390,24 @@
       "duration_ms": 128000,
       "name": "Yengen K\u0131zar",
       "url": "https://open.spotify.com/track/6CwQscf339HEHADnbFSbTJ"
+    },
+    {
+      "album": {
+        "name": "Yeniden",
+        "url": "https://open.spotify.com/album/4QmxpKc5PxcnseYtWbzAsV"
+      },
+      "artists": [
+        {
+          "name": "Ragga Oktay",
+          "url": "https://open.spotify.com/artist/1dp13r1d5Mp119KCR4BQvw"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220207,
+      "name": "Yeniden",
+      "url": "https://open.spotify.com/track/5yoW8adECpBjG1em4xsaUX"
     },
     {
       "album": {

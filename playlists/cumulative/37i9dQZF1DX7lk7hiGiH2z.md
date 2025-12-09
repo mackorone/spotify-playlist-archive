@@ -4,7 +4,7 @@
 
 > Zeit für Plätzchen backen, Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-487 songs - 22 hr 44 min
+488 songs - 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Fiesta Mexicana \- Party Mix](https://open.spotify.com/track/5ZQwvlmLOyJbkEdeojxNOs) | [Die Partykapitäne](https://open.spotify.com/artist/6Gqid9ys2LpElX5QJnmzK1) | [Fiesta Mexicana](https://open.spotify.com/album/3m5htAX9IYtWTcdMf8YYo9) | 3:26 | 2024-02-06 | 2024-02-16 |
 | [Fiesta Mexicana \- Party Mix](https://open.spotify.com/track/5iVzaRsAO8I6W1cndqp7Ui) | [Die Partykapitäne](https://open.spotify.com/artist/6Gqid9ys2LpElX5QJnmzK1) | [Best of Kinderkarneval 2019](https://open.spotify.com/album/4FNGH77dSfZzyYEm4GtCs2) | 3:26 | 2025-02-27 | 2025-03-06 |
 | [Fische haben keine Beine](https://open.spotify.com/track/1wfajoRVmfBo14tqNrJ1Yt) | [SpongeBob Schwammkopf](https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w), [Gary B\. Schneckerich](https://open.spotify.com/artist/4Oaue0UcJtIznHqrOgpFfq) | [Fische haben keine Beine \(Garys Songs\)](https://open.spotify.com/album/61BUxPbM0YYkzVOWh4NRgl) | 2:16 | 2025-02-27 | 2025-03-06 |
+| [Fitness für den Weihnachtsmann](https://open.spotify.com/track/1SLrrOKbkb5iceQYVKCVyg) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Dezember Disco \- Die Weihnachtsparty zum Tanzen und Träumen](https://open.spotify.com/album/2I1nnVpaVCWiFJ3cG5rdUu) | 3:27 | 2025-12-08 |  |
 | [Flattermaus](https://open.spotify.com/track/1P2KltPsS5Y2uC06zMgdtS) | [Die schwarzen Tasten \(mit Tobias Siebert von Klez.e\)](https://open.spotify.com/artist/2zebFEEqLv5mUOhyU7KWvn) | [Unter meinem Bett 4](https://open.spotify.com/album/6urz9b8HGTbqHBYOejq7c4) | 4:30 | 2023-10-16 | 2025-11-04 |
 | [Fledi Fledermaus](https://open.spotify.com/track/5vVnQ1jVM6COKY6NunH6xr) | [Hurra Kinderlieder](https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a) | [Fledi Fledermaus](https://open.spotify.com/album/0jMoqZWYYp6zfdeRbp2p4M) | 2:12 | 2023-10-16 | 2025-11-04 |
 | [Fragen an den Nikolaus](https://open.spotify.com/track/2u8PBWetDLQ4SvbaorbIRL) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für Weihnachten](https://open.spotify.com/album/1NOU6ldjBF3sxO2aXlQTtq) | 3:45 | 2024-11-19 | 2024-12-01 |
@@ -361,7 +362,7 @@
 | [Piratentanz](https://open.spotify.com/track/0oXdPXkPCVE7DSl4Pe18Sk) | [Willi Girmes](https://open.spotify.com/artist/1JIztv7ne6WRuXLJGFJexg) | [Piratentanz](https://open.spotify.com/album/2tLJtrBKRT3d0nx0l07vzE) | 3:18 | 2024-02-06 | 2025-03-06 |
 | [Pitsch\-Patsch, Pfützenmatsch](https://open.spotify.com/track/4D4sUEL0SGireh2vsZ2fxh) | [Benjamin Blümchen](https://open.spotify.com/artist/1l6d0RIxTL3JytlLGvWzYe) | [Benjamin Blümchen Liederzoo: Wi\-Wa\-Wetterlieder](https://open.spotify.com/album/5eE3bos99SlobyGrDPfnCV) | 3:14 | 2023-08-31 | 2025-11-10 |
 | [Plitsch, plitsch, platsch](https://open.spotify.com/track/5D0Dsd7CecM74CahtrIioW) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Urlaubs\- und Sommerlieder](https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6) | 1:54 | 2023-06-28 | 2025-09-23 |
-| [Plätzchenduft liegt in der Luft](https://open.spotify.com/track/5MkqWrSiNmnXQsLsaI1VaB) | [Familie Sonntag](https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR) | [Unsere schönsten Weihnachtslieder](https://open.spotify.com/album/1Bs8R1MlRykYywXeH0dEvJ) | 2:56 | 2023-11-14 |  |
+| [Plätzchenduft liegt in der Luft](https://open.spotify.com/track/5MkqWrSiNmnXQsLsaI1VaB) | [Familie Sonntag](https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR) | [Unsere schönsten Weihnachtslieder](https://open.spotify.com/album/1Bs8R1MlRykYywXeH0dEvJ) | 2:56 | 2023-11-14 | 2025-12-09 |
 | [Polonäse Blankenese](https://open.spotify.com/track/68XLpAcKb8FFrQZluAqZrj) | [Gottlieb Wendehals](https://open.spotify.com/artist/3qO6qjyrBbPFCtHC1NAtnL) | [Polonäse Blankenese](https://open.spotify.com/album/7v5205aQ62GuntgqDU0rSH) | 4:09 | 2024-02-06 | 2025-03-06 |
 | [Probiers mal mit Gemütlichkeit](https://open.spotify.com/track/2zdRMua6yTKFlmtcxwJ6ld) | [Jupiter Jones](https://open.spotify.com/artist/0V9oHfk0CZIiedKP4TSTBL), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 2](https://open.spotify.com/album/5vrbcnXTiRb9xoO61FYHp6) | 3:07 | 2023-06-28 | 2025-11-10 |
 | [Probier’s mal mit Gemütlichkeit](https://open.spotify.com/track/4S1vA0mTayFbnHrwdkzPWT) | [Edgar Ott](https://open.spotify.com/artist/1RUoA8u2raqqBEVAHklclr) | [The Jungle Book Original Soundtrack \(German Version\)](https://open.spotify.com/album/5gcM1ksko8VKV6VNFSlKfo) | 1:45 | 2024-02-06 | 2025-03-06 |

@@ -1,6 +1,6 @@
 {
   "description": "Relax with this soothing soundtrack from the nineties...",
-  "num_followers": 1048050,
+  "num_followers": 1048098,
   "original_name": "Easy 90s",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-06-03 14:37:59",
       "album": {
-        "name": "Jon Secada",
-        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
-      },
-      "artists": [
-        {
-          "name": "Jon Secada",
-          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
-        }
-      ],
-      "duration_ms": 327426,
-      "name": "Just Another Day",
-      "url": "https://open.spotify.com/track/5AoBNJQDXXEnIJGjJjZu3y"
-    },
-    {
-      "added_at": "2024-06-03 14:37:59",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 281066,
       "name": "One Sweet Day",
       "url": "https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38"
+    },
+    {
+      "added_at": "2024-06-03 14:37:59",
+      "album": {
+        "name": "Jon Secada",
+        "url": "https://open.spotify.com/album/1duV6ATgfQWMvjNyfHmxZL"
+      },
+      "artists": [
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        }
+      ],
+      "duration_ms": 327426,
+      "name": "Just Another Day",
+      "url": "https://open.spotify.com/track/5AoBNJQDXXEnIJGjJjZu3y"
     },
     {
       "added_at": "2024-06-03 14:37:59",
@@ -1032,9 +1032,9 @@
           "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
         }
       ],
-      "duration_ms": 235973,
-      "name": "Say You'll Be There",
-      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
+      "duration_ms": 241026,
+      "name": "2 Become 1",
+      "url": "https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va"
     },
     {
       "added_at": "2024-06-03 14:37:59",
@@ -1112,25 +1112,9 @@
           "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
         }
       ],
-      "duration_ms": 241026,
-      "name": "2 Become 1",
-      "url": "https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va"
-    },
-    {
-      "added_at": "2024-06-03 14:37:59",
-      "album": {
-        "name": "Jennifer Paige",
-        "url": "https://open.spotify.com/album/4OwmsF9YyOVMrPVbOcZzCz"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Paige",
-          "url": "https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1"
-        }
-      ],
-      "duration_ms": 200293,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/7aOGFnnVDivtRO1PrYhx64"
+      "duration_ms": 235973,
+      "name": "Say You'll Be There",
+      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
     },
     {
       "added_at": "2024-06-03 14:37:59",
@@ -1147,6 +1131,22 @@
       "duration_ms": 272983,
       "name": "You",
       "url": "https://open.spotify.com/track/6lbme14HiDWYmGiw1I2Dv6"
+    },
+    {
+      "added_at": "2024-06-03 14:37:59",
+      "album": {
+        "name": "Jennifer Paige",
+        "url": "https://open.spotify.com/album/4OwmsF9YyOVMrPVbOcZzCz"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Paige",
+          "url": "https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1"
+        }
+      ],
+      "duration_ms": 200293,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/7aOGFnnVDivtRO1PrYhx64"
     },
     {
       "added_at": "2024-06-03 14:37:59",

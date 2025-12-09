@@ -4,7 +4,7 @@
 
 > als het woud een playlist zou zijn
 
-273 songs - 16 hr 23 min
+274 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [For an Evening](https://open.spotify.com/track/2ry3JuCKfudzLz0TUeQPgp) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [For an Evening](https://open.spotify.com/album/0auzW0Fo22oIXe48MAnZsW) | 4:15 | 2024-06-27 | 2024-07-19 |
 | [For Months Now \(III\)](https://open.spotify.com/track/1S4dxxePAL21FZfgjdn5k0) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [For Months Now \(III\)](https://open.spotify.com/album/7wicvkduvBHX8fEe2BMPxW) | 4:07 | 2025-01-23 | 2025-07-04 |
 | [For Tomorrow's Sake](https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [For Tomorrow's Sake](https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi) | 3:24 | 2025-05-15 | 2025-12-08 |
-| [From Up Here](https://open.spotify.com/track/3sT7VhTBLbLNUIPc7CYqXf) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Breath and Air](https://open.spotify.com/album/28CQ3p031mxAc8p2Z3SMy8) | 4:37 | 2025-02-20 |  |
+| [From Up Here](https://open.spotify.com/track/3sT7VhTBLbLNUIPc7CYqXf) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Breath and Air](https://open.spotify.com/album/28CQ3p031mxAc8p2Z3SMy8) | 4:37 | 2025-02-20 | 2025-12-09 |
 | [Game of Pretend](https://open.spotify.com/track/0CUUFKKSFn4xoDHAnS8AFL) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Game of Pretend](https://open.spotify.com/album/4XJdTyFjkq9hcngkIDSMmM) | 4:19 | 2025-01-23 | 2025-04-05 |
 | [getting used to](https://open.spotify.com/track/0wdJgl8r5bsebmXNo1NnGZ) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [getting used to](https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y) | 3:47 | 2024-12-18 | 2025-01-24 |
 | [Ghazal](https://open.spotify.com/track/1UeVhgHhkh9wtBJgNVw64H) | [Myrthe van de Weetering](https://open.spotify.com/artist/7qUsU9xkEpbdImTvJGfB99) | [Ghazal](https://open.spotify.com/album/4cTQWNH3OnrSAFHQRPLyfx) | 4:20 | 2024-06-27 | 2024-11-14 |
@@ -170,6 +170,7 @@
 | [my moon](https://open.spotify.com/track/1hafzeP5FlBnUljHl6OIKh) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [my moon](https://open.spotify.com/album/6cevS6KNQ3lsNIEtMskfQ2) | 2:07 | 2025-02-27 | 2025-04-18 |
 | [My Old Friend John](https://open.spotify.com/track/4WicE9BeiHpqRjivqzNf2J) | [Pa Sheehy](https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX) | [My Old Friend John](https://open.spotify.com/album/50dd8PhRVaDqGMIKqCIKUU) | 5:20 | 2024-07-18 | 2025-03-02 |
 | [Nancy Nancy Nancy \- Acoustic Version](https://open.spotify.com/track/7EiAQRcwpJwekg22aVMT1s) | [Rosa Butsi](https://open.spotify.com/artist/2tcIUL0ZNEo2gnrBzNBz3L) | [Nancy, Nancy, Nancy \(Acoustic Version\)](https://open.spotify.com/album/5tAFeCF9wt0hdlxM70lYKU) | 2:47 | 2024-06-27 | 2025-01-24 |
+| [Nausicaä \(Love Will Be Revealed\)](https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 4:11 | 2025-12-08 |  |
 | [Nettles](https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Nettles](https://open.spotify.com/album/5pSV5j43pKRDxvyDgHurDM) | 8:03 | 2025-06-05 | 2025-11-17 |
 | [Never gone](https://open.spotify.com/track/0QT4IfEZnZOmiSnYw0eabI) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Never gone](https://open.spotify.com/album/08kxKWy20ZwGmoMnAUTQEM) | 5:22 | 2024-06-27 | 2025-04-12 |
 | [No Boat No Aeroplane](https://open.spotify.com/track/3VwB0Pt5DczMEIzSaao8yH) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [No Boat No Aeroplane](https://open.spotify.com/album/3yk8qLTSEPhdfKQVQCMFXd) | 5:12 | 2024-10-03 | 2025-07-04 |

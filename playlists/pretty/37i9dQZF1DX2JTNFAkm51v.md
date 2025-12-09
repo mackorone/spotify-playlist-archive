@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 
 > 【全セットリスト公開】5月10日\(土\)\~11日\(日\)に開催された「<a href="https://kobe\-mellow\-cruise.com/">KOBE MELLOW CRUISE</a>」出演アーティストのセットリストをプレイリストで再現。
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,422 likes - 333 songs - 17 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,424 likes - 333 songs - 17 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,7 +142,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JTNFAkm51v.md) - [plain]
 | 132 | [OUTSIDE \(feat\. IO & D.O\)](https://open.spotify.com/track/4oMwbLbqVpKWvIFIHzd6cn) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd), [D.O](https://open.spotify.com/artist/0uwSiUPpmfE6SNGryFGZPS) | [親子星](https://open.spotify.com/album/7GU3fQyllwpkTbOvCkb5al) | 3:46 |
 | 133 | [不定職者](https://open.spotify.com/track/1BAJaqB7MdN2KHSrajxDNo) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [花と雨](https://open.spotify.com/album/29gdhSAmecZYApKdvm8URu) | 2:45 |
 | 134 | [Cool running \(feat\. Tohji, gummyboy & SEEDA\)](https://open.spotify.com/track/4112SzzQa95sEk2zDOMISV) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [Mall Tape](https://open.spotify.com/album/7JPArTLoLxAWkxwQVcfiR7) | 2:14 |
-| 135 | [SLICK BACK \(feat\. Myghty Tommy\)](https://open.spotify.com/track/04N23tB31o5meYYoKaQKUu) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Myghty Tommy](https://open.spotify.com/artist/4jqLZ8fErX4bAamCiKngKk) | [SLICK BACK \(feat\. Myghty Tommy\)](https://open.spotify.com/album/2hR1USmPQm808oiAhC8Olc) | 3:40 |
+| 135 | [SLICK BACK \(feat\. Tiji Jojo, Myghty Tommy & LEX\)](https://open.spotify.com/track/04N23tB31o5meYYoKaQKUu) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [Myghty Tommy](https://open.spotify.com/artist/4jqLZ8fErX4bAamCiKngKk), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [SLICK BACK \(feat\. Tiji Jojo, Myghty Tommy & LEX\)](https://open.spotify.com/album/2hR1USmPQm808oiAhC8Olc) | 3:40 |
 | 136 | [花と雨](https://open.spotify.com/track/2bHqEcIRNZDqB1PiKWBRfz) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [花と雨](https://open.spotify.com/album/29gdhSAmecZYApKdvm8URu) | 7:31 |
 | 137 | [親子星](https://open.spotify.com/track/36upb403LqNA2hWZvwQZiS) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [親子星](https://open.spotify.com/album/7GU3fQyllwpkTbOvCkb5al) | 2:55 |
 | 138 | [INTRO](https://open.spotify.com/track/2nRYYGLekGTVsvvvMi3bIx) | [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [「作品集」－JUST－](https://open.spotify.com/album/7ijinr8pvB42hBLLIVGVhv) | 2:15 |

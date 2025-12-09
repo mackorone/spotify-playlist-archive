@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: Klassik Frescobar
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,136 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,166 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 64 | [Gyal Owner](https://open.spotify.com/track/7pVQceAw8jOOnajIQQcVF7) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Tight Squeeze Riddim](https://open.spotify.com/album/7Ll9CqSBW14J22ls985uP3) | 3:23 |
 | 65 | [Feel It](https://open.spotify.com/track/2yhSSTHmHMw7UVciSo80ey) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Optimus Productionstt](https://open.spotify.com/artist/3koUXwy5R38DSWqJ20mUT1) | [Feel It](https://open.spotify.com/album/1SYgCeP4pcUKZw7f8NPMgF) | 3:00 |
 | 66 | [Long Live Soca](https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Long Live Soca](https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd) | 3:45 |
-| 67 | [Passion](https://open.spotify.com/track/0SKW8nkTRCcKEPqT6e5zdN) | [Militant](https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj) | [Passion](https://open.spotify.com/album/1TAsad0eSc2o4tvaYVGFGG) | 4:16 |
-| 68 | [Woman By My Side](https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu) | [Peter Ram](https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 4:39 |
+| 67 | [Woman By My Side](https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu) | [Peter Ram](https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 4:39 |
+| 68 | [Passion](https://open.spotify.com/track/0SKW8nkTRCcKEPqT6e5zdN) | [Militant](https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj) | [Passion](https://open.spotify.com/album/1TAsad0eSc2o4tvaYVGFGG) | 4:16 |
 | 69 | [Energy](https://open.spotify.com/track/1CPMKAViIeLiYZKFqRfYQ1) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [Energy](https://open.spotify.com/album/6QjEZHqkpf3tCCEO4384zk) | 3:32 |
 | 70 | [Bam Bam](https://open.spotify.com/track/3TP4bqNjBsCma8WJvkhYtP) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Bam Bam](https://open.spotify.com/album/5AdNVvhnCuLZgPbqfmZU2W) | 2:47 |
 | 71 | [Party Nice](https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh) | [Teddyson John](https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp) | [Retro Fete Riddim](https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT) | 2:32 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 73 | [Take Bamboo](https://open.spotify.com/track/1CCES5F70iAo8Mp54uFe9s) | [Boogy Rankss](https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth), [Melick](https://open.spotify.com/artist/26QL5yG54Jo5TV405TDyzP) | [Dutty Dutty Riddim](https://open.spotify.com/album/3ASAAgP5qgcr1OeqzSMlWe) | 2:49 |
 | 74 | [DAP \(Drink and Party\)](https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt) | [Viking Ding Dong](https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK) | [DAP \(Drink and Party\)](https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq) | 2:49 |
 | 75 | [Run Wid It](https://open.spotify.com/track/3pMcekSqbrLSg5WZocgXLU) | [Stadic](https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0), [Mr\. Killa](https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq) | [Planet Jab Riddim](https://open.spotify.com/album/4VUnJWciCgLZP3Wsf3jCGq) | 3:11 |
-| 76 | [Hot and Groovy](https://open.spotify.com/track/5ufDDOz8dT9bW9tjegZ6DB) | [Militant](https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj) | [Hot and Groovy](https://open.spotify.com/album/05BvK7qOUP4YLJxrAGaLC5) | 4:42 |
-| 77 | [Trinidad](https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC) | [Invasion Band Feat\. Naya George](https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:01 |
-| 78 | [Long Time](https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur) | [Arrow](https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm) | [Soca Savage](https://open.spotify.com/album/4TfALjuKByLMnAT4MT0v6x) | 3:53 |
+| 76 | [Trinidad](https://open.spotify.com/track/0PAqVTHh24UnJJYlLxRGSC) | [Invasion Band Feat\. Naya George](https://open.spotify.com/artist/7qfUFtHsNyAxRKJxj10aqj) | [Soca Gold 2002](https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs) | 3:01 |
+| 77 | [Long Time](https://open.spotify.com/track/4wOjGfZ92yr0t6FhOcySur) | [Arrow](https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm) | [Soca Savage](https://open.spotify.com/album/4TfALjuKByLMnAT4MT0v6x) | 3:53 |
+| 78 | [Hot and Groovy](https://open.spotify.com/track/5ufDDOz8dT9bW9tjegZ6DB) | [Militant](https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj) | [Hot and Groovy](https://open.spotify.com/album/05BvK7qOUP4YLJxrAGaLC5) | 4:42 |
 | 79 | [How ah Livin](https://open.spotify.com/track/4NxqELbBJbL9uW9AZaiBut) | [Farmer Nappy](https://open.spotify.com/artist/0zSbNvakUiCGzlvMl7ncaN) | [How ah Livin](https://open.spotify.com/album/2wd3Fngpq5RD23KMrY4jsj) | 3:49 |
 | 80 | [Rukshun](https://open.spotify.com/track/2CXUEF8Ao6dPllVJC3so3C) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Darkseid Riddim](https://open.spotify.com/album/6jCLEXGfOXFLggNEXuSfpX) | 2:37 |
 | 81 | [Hot\-Hot\-Hot](https://open.spotify.com/track/1jX39MCEaLx0Ikt4eJiXSj) | [Carlos Santos](https://open.spotify.com/artist/4eoSXFwVd27qPVU0DKOsRB) | [Lambadas Internacionais \- As Melhores](https://open.spotify.com/album/0Hzrm8zIwjHMLFDKj7PUr7) | 4:18 |

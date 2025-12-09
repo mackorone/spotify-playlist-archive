@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa\. Cover: Funky Qla
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,860 likes - 70 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,963 likes - 70 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Unyaka](https://open.spotify.com/track/6xkThBF66zRG34cNm3mekW) | [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Zeh McGeba](https://open.spotify.com/artist/1dllQgzSDUNbXbtk5INbhj) | [Dark or Durban 3](https://open.spotify.com/album/3jtGu33MLyRYLbmdA6iyNr) | 6:15 |
 | 2 | [Dali](https://open.spotify.com/track/736Meinsr22PyawijKHnrW) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Dali](https://open.spotify.com/album/0jWWd8O33jAFB46hCzNKJ4) | 7:22 |
-| 3 | [Awukwazi \(feat\. Dlala Thukzin\)](https://open.spotify.com/track/2GRQKhpmLc2gAwpNg2Vzmg) | [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [The Sisters](https://open.spotify.com/artist/53jYY2v3q7n3i0B3Alf8rt), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD) | [Awukwazi \(feat\. Dlala Thukzin\)](https://open.spotify.com/album/2s5jIqpDcNtVsHNC2jW6vK) | 5:13 |
+| 3 | [Awukwazi \(feat\. Dlala Thukzin\)](https://open.spotify.com/track/2GRQKhpmLc2gAwpNg2Vzmg) | [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [The Sisters](https://open.spotify.com/artist/54XKdmJkyJjdLMSA5h1rNE), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD) | [Awukwazi \(feat\. Dlala Thukzin\)](https://open.spotify.com/album/2s5jIqpDcNtVsHNC2jW6vK) | 5:13 |
 | 4 | [Khetha](https://open.spotify.com/track/55Ksyvd4sNgRarIlq1u9r6) | [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Essa Kay](https://open.spotify.com/artist/3trQ6ETzQzpc6EWLwIVLHh), [Skillz](https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf) | [Khetha](https://open.spotify.com/album/20qljRtdrfq1pY4UL7xI8Z) | 7:39 |
 | 5 | [Born A Miracle](https://open.spotify.com/track/7fSDwC0IoCnoclhdhlSanc) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [Born A Miracle](https://open.spotify.com/album/5XKrecqn2aExVdLZ8NIj6K) | 3:07 |
 | 6 | [Wena Wedwa](https://open.spotify.com/track/5DHLUmKQT7AumoXpEwE8me) | [Heavy\-K](https://open.spotify.com/artist/0xAI0encQKIoTvNQXPh1ts), [De Rose](https://open.spotify.com/artist/37O5tzWTGqsppdwaIskInL), [Mizi.DM](https://open.spotify.com/artist/04QtPvJruHxv5JeGtVgaKm) | [The Blueprint](https://open.spotify.com/album/5ayzoZxOSakw0Wn2nMgDpU) | 6:49 |

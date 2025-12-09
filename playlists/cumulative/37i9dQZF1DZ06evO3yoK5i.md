@@ -4,7 +4,7 @@
 
 > This is Eros Ramazzotti\. The essential tracks, all in one playlist.
 
-93 songs - 6 hr 29 min
+94 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Ama](https://open.spotify.com/track/04AIGHEqfrN4oL74aHdvjE) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Battito Infinito](https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG) | 3:23 | 2023-09-25 | 2025-07-29 |
 | [Amarti è l'immenso per me](https://open.spotify.com/track/6QIri6TN34y7YSvcsnT4Ln) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Antonella Bucci](https://open.spotify.com/artist/0nT6YKCtGrfEDXYVpbonQL) | [In Ogni Senso](https://open.spotify.com/album/23jtBhTUUUj9LvFlbl3tyD) | 4:25 | 2023-09-25 |  |
 | [Cancion para Ella \- Remastered 2021](https://open.spotify.com/track/3UABn4DBSTTvdyKFZVg9BW) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [9 \(Remastered 192 khz\)](https://open.spotify.com/album/17ZTVTpJqUfCsk8DdCevD0) | 3:40 | 2024-12-26 | 2025-11-29 |
-| [Canzone per lei](https://open.spotify.com/track/66uYnF8Z5f56fGNC0Qp55F) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [9](https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8) | 3:41 | 2025-10-11 |  |
+| [Canzone per lei](https://open.spotify.com/track/66uYnF8Z5f56fGNC0Qp55F) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [9](https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8) | 3:41 | 2025-10-11 | 2025-12-09 |
 | [Casi Amor \(Quasi amore\) \- Remastered 2021](https://open.spotify.com/track/4x7OBTM0w4VgXd5sVaEdjS) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \[25th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo) | 5:05 | 2023-12-29 | 2025-12-02 |
 | [Come nei film \(feat\. Max Pezzali\)](https://open.spotify.com/track/0Ssh4cYMdhuwYhfDjz1uAS) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Max Pezzali](https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9) | [UNA STORIA IMPORTANTE](https://open.spotify.com/album/5TjpjQjp7xKgEJRrzXSijO) | 3:02 | 2025-11-26 |  |
 | [Completamente Enamorados](https://open.spotify.com/track/0kz3GgE2wVAw7o5p8FeUdO) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Musica Es](https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh) | 4:11 | 2023-09-25 | 2025-04-26 |
@@ -77,6 +77,7 @@
 | [Si Bastasen un Par de Canciones](https://open.spotify.com/track/6QZw9KXAn1xuZ4FMCSQGgf) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [En Todos Los Sentidos](https://open.spotify.com/album/5jp9HpiAUultIxQR8OBwpH) | 5:10 | 2025-09-03 | 2025-11-28 |
 | [Si bastasen un par de canciones \(feat\. Andrea Bocelli\)](https://open.spotify.com/track/5DMrZTtGf26xlo3dZ5T0Md) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [UNA HISTORIA IMPORTANTE](https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54) | 5:23 | 2025-11-28 |  |
 | [Siamo](https://open.spotify.com/track/7jkZflOcHyeFz0xzaOZRHw) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Vita Ce N'è](https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB) | 3:38 | 2023-09-25 | 2023-12-14 |
+| [Solo junto a ti](https://open.spotify.com/track/288ROgndq3ayHvXiuOZGla) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [UNA HISTORIA IMPORTANTE](https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54) | 3:43 | 2025-12-09 |  |
 | [Solo un volo](https://open.spotify.com/track/4un2v9zFm8n0F3OnbFR8Gk) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv), [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Un pugno di stelle](https://open.spotify.com/album/0qmqbYNIVHsFglvS1E0Gzo) | 4:05 | 2025-12-08 |  |
 | [Soy](https://open.spotify.com/track/2NH2GnXvdwVFfO0jL3yEG1) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Soy](https://open.spotify.com/album/5jitZ7zAFk0VeyGL74pS6e) | 3:31 | 2023-09-25 | 2025-01-21 |
 | [Stella gemella](https://open.spotify.com/track/5KghKF7Q8cqmOjoZIlyjhT) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Dove C'è Musica](https://open.spotify.com/album/7pDzIMRQxQHkMmCZIdWAok) | 4:41 | 2024-06-27 |  |

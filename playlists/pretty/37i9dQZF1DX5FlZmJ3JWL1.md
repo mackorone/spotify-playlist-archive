@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,571 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,552 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 33 | [Rhyme Dust](https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR) | 3:01 |
 | 34 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 |
 | 35 | [Would You \(go to bed with me?\)](https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Would You \(go to bed with me?\)](https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1) | 2:00 |
-| 36 | [Set Me Free](https://open.spotify.com/track/2DgQUPTincZnoRT5CJxTKi) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Set Me Free](https://open.spotify.com/album/2oRqHz1SKj1CcccfeyASOF) | 3:04 |
-| 37 | [Mask Off](https://open.spotify.com/track/7AFAB7RL8PXHrSf4uY10Z6) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Mask Off](https://open.spotify.com/album/6GXGKsaFs8Hnr8X6viTIEa) | 2:35 |
+| 36 | [Mask Off](https://open.spotify.com/track/7AFAB7RL8PXHrSf4uY10Z6) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Mask Off](https://open.spotify.com/album/6GXGKsaFs8Hnr8X6viTIEa) | 2:35 |
+| 37 | [Set Me Free](https://open.spotify.com/track/2DgQUPTincZnoRT5CJxTKi) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Set Me Free](https://open.spotify.com/album/2oRqHz1SKj1CcccfeyASOF) | 3:04 |
 | 38 | [Lay All Your Love On Me](https://open.spotify.com/track/6d4o00VKYnYb1DgvZr2xuV) | [Lietru](https://open.spotify.com/artist/42FPpLXLAA9C9H5FXp6RbJ), [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Lay All Your Love On Me](https://open.spotify.com/album/3SFS3ynjYYTH9w7Fv4oUfz) | 2:29 |
 | 39 | [2 Times](https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC), [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [2 Times](https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy) | 2:11 |
 | 40 | [All of the Lights](https://open.spotify.com/track/0hSU77xrJln8H28BKrSx4R) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [All of the Lights](https://open.spotify.com/album/69PbEmFXdjV6D5icCoDU3F) | 2:00 |

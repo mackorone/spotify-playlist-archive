@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-679 songs - 2 day 8 hr 42 min
+680 songs - 2 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Iba](https://open.spotify.com/track/0EWnPlQCVV2fTp0EGvLnjY) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Dasola Akinbule](https://open.spotify.com/artist/5HCuA4YozzSyHhEPmbYoy6) | [Iba](https://open.spotify.com/album/3bdmsRx4jXf9I2w4x5lY3d) | 10:25 | 2023-10-20 | 2024-03-16 |
 | [Idi Ebube](https://open.spotify.com/track/7Cg94EAs6wePmyRbZhPGj4) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [Idi Ebube](https://open.spotify.com/album/2Z7QAmd2g7fXSLpgLZ2Mkn) | 7:49 | 2025-01-17 | 2025-05-30 |
 | [IDINMA \(Mercy Prevails\) \- Live](https://open.spotify.com/track/4oqxo4bkaRbnOqXMsWxP1Y) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [IDINMA \(Mercy Prevails\) \[Live\]](https://open.spotify.com/album/4vDlB283bSnqfdk1IC4upA) | 11:55 | 2025-05-16 |  |
+| [IDINMA \- Dance](https://open.spotify.com/track/5pD8elZG5DPtz5InsZ8Ei9) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [IDINMA \(Dance\)](https://open.spotify.com/album/0c7prR1W4bcgVkXzbKL73t) | 8:49 | 2025-12-05 |  |
 | [If All I Say Is Jesus \(Green Worship Version\)](https://open.spotify.com/track/18Fbap1b31YBSzvO46CDpb) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [If All I Say Is Jesus \(Green Worship Version\)](https://open.spotify.com/album/3a0zNYcxVl69zNcZAx8zrG) | 7:08 | 2024-04-26 | 2024-05-13 |
 | [ife](https://open.spotify.com/track/2dTsN61HPz0EjLpv70QOyq) | [Aghogho](https://open.spotify.com/artist/4yAFPEJ5k77Ev31V4e5POh), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [God First](https://open.spotify.com/album/4bcYm108DwI3sdT3yW8g8F) | 2:30 | 2025-06-20 | 2025-06-27 |
 | [Ife](https://open.spotify.com/track/30SbSJ28UDIMrZcduXXMmy) | [Donndagreat](https://open.spotify.com/artist/0Ug5Xy3Ce7GB95HjK2Ohwi), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [Ife](https://open.spotify.com/album/2oNJr6H7HUWerNcx4xH6HE) | 2:43 | 2025-08-22 | 2025-09-16 |
@@ -391,7 +392,7 @@
 | [Me & My Jesus](https://open.spotify.com/track/4JWi6Q3LSBu8r3hBaWnIKI) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Clarity](https://open.spotify.com/album/7d3NnGMjzV8ZSFiveyTNGY) | 2:20 | 2025-10-31 |  |
 | [Medaase](https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Medaase](https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj) | 3:19 | 2024-03-25 | 2025-05-23 |
 | [Mercies](https://open.spotify.com/track/2LvB79qALpOPe6MhhhDPb3) | [Lexytunez](https://open.spotify.com/artist/3cQf5vzaEewWKBfypDLKrv) | [Mercies](https://open.spotify.com/album/62FiYTYWNWFaZt3sCFzyZO) | 2:53 | 2025-05-23 | 2025-06-27 |
-| [Mercy](https://open.spotify.com/track/0h9Q8ik3wEoRpJaSAl0IKW) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [Mercy](https://open.spotify.com/album/5E59fqFOmQKBuMWHfUPaWN) | 4:44 | 2025-10-31 |  |
+| [Mercy](https://open.spotify.com/track/0h9Q8ik3wEoRpJaSAl0IKW) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [Mercy](https://open.spotify.com/album/5E59fqFOmQKBuMWHfUPaWN) | 4:44 | 2025-10-31 | 2025-12-09 |
 | [Mercy \(All My Days\)](https://open.spotify.com/track/2oigCnQtcssHbowb4I0yqA) | [Daniel Mylez](https://open.spotify.com/artist/3PoZsBUVUU8Veps0p9dabE), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Mercy \(All My Days\)](https://open.spotify.com/album/7CVqDwQ7kujshFySgeyw3W) | 3:02 | 2023-11-03 | 2023-11-10 |
 | [Mercy \(Hlabelela\)](https://open.spotify.com/track/03ex4OAmmBM2ci5W0q2kHm) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Free 2 Wrshp](https://open.spotify.com/artist/6xu5vAyJJMPc6u2XdxOuAt) | [The Gift, Vol\. 1](https://open.spotify.com/album/2YCDh7g2M3KWcDZUKKRUH1) | 3:06 | 2024-03-01 | 2024-05-24 |
 | [Mess into a Message](https://open.spotify.com/track/76aJBXDHpUhWS3xOeqKlSw) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [Mess into a Message](https://open.spotify.com/album/1adkr7tTpDZWRAmDHoQhLz) | 3:17 | 2024-02-23 | 2024-04-09 |

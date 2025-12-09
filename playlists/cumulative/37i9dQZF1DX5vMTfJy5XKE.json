@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "'Tis the season! All new holiday releases. Cover: Ravyn Lenae",
+  "description": "'Tis the season! All new holiday releases. Cover: Cher",
   "name": "New Music Holiday",
   "tracks": [
     {
@@ -3510,6 +3510,24 @@
       "duration_ms": 195931,
       "name": "Christmas Is Groove",
       "url": "https://open.spotify.com/track/0qUSGo5tqvUpmTO2fgOzHe"
+    },
+    {
+      "album": {
+        "name": "Christmas Is Here",
+        "url": "https://open.spotify.com/album/00mbqmxA9gMuflg9GXgxPX"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186133,
+      "name": "Christmas Is Here",
+      "url": "https://open.spotify.com/track/1d8IUiU5iyjuuuKc9ccaZn"
     },
     {
       "album": {

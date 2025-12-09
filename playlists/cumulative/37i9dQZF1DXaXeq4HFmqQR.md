@@ -4,7 +4,7 @@
 
 > Mujeres a todo volumen, con Rosario Alfonso en portada.
 
-1,041 songs - 2 day 9 hr 47 min
+1,042 songs - 2 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Cosas De La Vida](https://open.spotify.com/track/0WfQLUjyg5wn0zWxsOda07) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Cosas De La Vida](https://open.spotify.com/album/37PlSJaDNBVPHnsqhFqfK4) | 2:44 | 2021-12-17 | 2024-03-07 |
 | [Creerme Mas](https://open.spotify.com/track/7hmn0Vubui4PVr32F3EKXF) | [Vero Soffia](https://open.spotify.com/artist/3CYRq2jA4EHkNmPssIpUPx) | [Algo Tiene Que Cambiar](https://open.spotify.com/album/3q6tnDlCGox9lDKhm5XyMR) | 3:57 | 2022-05-04 | 2022-07-07 |
 | [Cuando Llora Mi Guitarra](https://open.spotify.com/track/0ghGkDhKSmYHy5ulPJFYAq) | [Palmenia Pizarro](https://open.spotify.com/artist/6nlTg71qrWHgLpmvJvcSso) | [Homenaje a Augusto Polo Campos](https://open.spotify.com/album/1ZnV8fI2qSN7g1qPqz5zrR) | 3:42 | 2024-07-03 | 2024-09-04 |
+| [Cuando Respiro En Tu Boca](https://open.spotify.com/track/2loTFFg99twE6KFekbvNlr) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Cuando Respiro En Tu Boca](https://open.spotify.com/album/5l7jehPGfl7bJUkkqV7YhQ) | 3:23 | 2025-11-05 |  |
 | [Cuando Respiro En Tu Boca](https://open.spotify.com/track/2BfBdNashU8O8pt5375t1v) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Cuando Respiro en Tu Boca](https://open.spotify.com/album/5YsQw7HZfWd6YnC7WtnbkU) | 3:23 | 2025-11-05 |  |
 | [Cuarta pared](https://open.spotify.com/track/1gADJxAF0of5vxTRisUWCj) | [Javiera Electra](https://open.spotify.com/artist/7c2QpfLeD8s647evep6Mbp) | [REPRÍS](https://open.spotify.com/album/6VV0FKDFoMDWL1vAuL2DBP) | 4:29 | 2024-03-06 | 2024-05-10 |
 | [Cuerpo y Guitarra](https://open.spotify.com/track/0zpaa6HC7WIeu5A0ZGynOq) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [Cuerpo y Guitarra](https://open.spotify.com/album/0uyq3UPenEoAZ2nJwZ70eQ) | 2:57 | 2023-10-04 | 2024-05-10 |

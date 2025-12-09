@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Kelsea Ballerini
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,715 likes - 53 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,733 likes - 53 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 17 | [Enough \(Miami\)](https://open.spotify.com/track/7pDfRnoEDRkcz7bQsOjnPc) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Enough \(Miami\)](https://open.spotify.com/album/18p7y4EZ6KczLQlgHWya1g) | 2:38 |
 | 18 | [If You Know Me](https://open.spotify.com/track/1QnFKAPgZ7GI9sYITPuYyL) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [If You Know Me / Wild Horses](https://open.spotify.com/album/6BTPGJ3IgfRa43UKmD0Nw8) | 3:23 |
 | 19 | [In Twos](https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [In Twos](https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW) | 2:46 |
-| 20 | [Salt Then Sour Then Sweet \(feat\. Brandi Carlile\)](https://open.spotify.com/track/46o2qUuuuftFaeo6yHsyI1) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Salt Then Sour Then Sweet \(feat\. Brandi Carlile\)](https://open.spotify.com/album/005JQVpgEboxr9WAAE8VWr) | 3:28 |
-| 21 | [Look Good](https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk) | [Ethan Walsh](https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT) | [Look Good](https://open.spotify.com/album/71DApqhcYDfibOT9unRwuf) | 2:14 |
+| 20 | [Look Good](https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk) | [Ethan Walsh](https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT) | [Look Good](https://open.spotify.com/album/71DApqhcYDfibOT9unRwuf) | 2:14 |
+| 21 | [Salt Then Sour Then Sweet \(feat\. Brandi Carlile\)](https://open.spotify.com/track/46o2qUuuuftFaeo6yHsyI1) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Salt Then Sour Then Sweet \(feat\. Brandi Carlile\)](https://open.spotify.com/album/005JQVpgEboxr9WAAE8VWr) | 3:28 |
 | 22 | [Nice n' Sweet \(feat\. MOLIY\)](https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [CiCi \(Deluxe\)](https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY) | 2:39 |
 | 23 | [Do It](https://open.spotify.com/track/5BDo6TzD8q0oNtqhhXU3nx) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Do It](https://open.spotify.com/album/3q2koL9KwKQxUue4hn8oWg) | 3:33 |
 | 24 | [Prize Fighter](https://open.spotify.com/track/0CnzuwAURBgG4Zd7vsR19w) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Rock A Bye Baby, Glimmer of God](https://open.spotify.com/album/7KXoonGSm7oBWn267d5XPa) | 3:49 |

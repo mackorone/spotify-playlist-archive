@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Shallipopi
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,953 likes - 49 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,007 likes - 49 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Opeuhh \(feat\. KeBlack\)](https://open.spotify.com/track/3k9Il6m7lJ9qufXyahvEhH) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Auracle](https://open.spotify.com/album/2zRkv0mDlxuIb7ZnQRwNF7) | 1:50 |
+| 1 | [Opeuhh \(feat\. KeBlack\)](https://open.spotify.com/track/3k9Il6m7lJ9qufXyahvEhH) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Auracle](https://open.spotify.com/album/2zRkv0mDlxuIb7ZnQRwNF7) | 2:19 |
 | 2 | [Violence](https://open.spotify.com/track/1xKTpn0PlVvu0dZoxrbgwr) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Violence](https://open.spotify.com/album/25k7hGeNZ7yvgR3D51cRQB) | 2:36 |
 | 3 | [Miel \(feat\. Lisandro Cuxi\)](https://open.spotify.com/track/5s0A1dh578tudMzR8mNnfU) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Miel \(feat\. Lisandro Cuxi\)](https://open.spotify.com/album/76ewade2CAsGJbWeKVj9LB) | 2:26 |
 | 4 | [DROWN](https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [TO CRY A FLOOD](https://open.spotify.com/album/3V5H8pPQw8O6Emv3pt9rva) | 2:31 |

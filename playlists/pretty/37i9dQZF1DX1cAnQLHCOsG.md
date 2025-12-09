@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cAnQLHCOsG.md) - [plain]
 
 > ya quiero cantar ese que dice: porque nos toca aceptar ser sólo amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,946 likes - 21 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,235 likes - 21 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 
 > The best soft rock from the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,605 likes - 75 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,668 likes - 75 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 45 | [Alien](https://open.spotify.com/track/7DZQd335o3GLCJhkqUox4I) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [Quinella](https://open.spotify.com/album/2J54cdWZ2zZOsk3tQW8zdN) | 4:54 |
 | 46 | [Dream On](https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP) | [Bill LaBounty](https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO) | [Bill LaBounty](https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2) | 4:22 |
 | 47 | [True Love](https://open.spotify.com/track/0fMlhe66IZtHbCSe5EGBlX) | [Glenn Frey](https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ) | [Soul Searchin'](https://open.spotify.com/album/4b6WnqBqu76diL48izgBZJ) | 4:39 |
-| 48 | [That Girl Is Gone](https://open.spotify.com/track/3Zl6aRDcumXbkNMIQeCjeb) | [David Pack](https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl) | [Anywhere You Go](https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo) | 4:44 |
-| 49 | [Really Want to Know You \- Remastered Version](https://open.spotify.com/track/672L8kwlwJu5w8D6MWyvDC) | [Gary Wright](https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84) | [The Right Place](https://open.spotify.com/album/6LI9WwNLFhfWWPj4PfTZPv) | 4:22 |
+| 48 | [Really Want to Know You \- Remastered Version](https://open.spotify.com/track/672L8kwlwJu5w8D6MWyvDC) | [Gary Wright](https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84) | [The Right Place](https://open.spotify.com/album/6LI9WwNLFhfWWPj4PfTZPv) | 4:22 |
+| 49 | [That Girl Is Gone](https://open.spotify.com/track/3Zl6aRDcumXbkNMIQeCjeb) | [David Pack](https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl) | [Anywhere You Go](https://open.spotify.com/album/2YoeVDeWhmHQgf2kMBRMKo) | 4:44 |
 | 50 | [Live Every Moment](https://open.spotify.com/track/1IMz8NXt3d1ApV6WJUFmg2) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Wheels Are Turnin'](https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR) | 4:59 |
 | 51 | [Livin' It Up](https://open.spotify.com/track/0lwHorTzvh8D4pQaWFYqnn) | [Bill LaBounty](https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO) | [Bill LaBounty](https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2) | 4:21 |
 | 52 | [You're the Inspiration \- 2009 Remaster](https://open.spotify.com/track/6d7PQZtTbHbcYqaygOW7vs) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 17 \(Expanded Edition\)](https://open.spotify.com/album/3kkAB63Am6POYuMTisinaa) | 3:49 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 55 | [Boys of Autumn](https://open.spotify.com/track/0pDCVNozy0RLEfQpJ6bPYJ) | [David Roberts](https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83) | [All Dressed Up](https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz) | 4:14 |
 | 56 | [Once In a Lifetime](https://open.spotify.com/track/5mfSMt0ns1tUbqvgrPTweE) | [Michael Ruff](https://open.spotify.com/artist/5skgtnwVGfdVqnPnTBF6ZI) | [Once In a Lifetime](https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf) | 4:24 |
 | 57 | [Our Love](https://open.spotify.com/track/3P16X8qsN8fMQQT7o0Tfgy) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [No Lookin' Back](https://open.spotify.com/album/5EgP5Nh4vxShzBrBJk87qW) | 4:30 |
-| 58 | [Throwing It All Away](https://open.spotify.com/track/6Tl40NMUnrFqhQssrW0TYB) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/7jYfZ6i2taKDkiuxncR8P1) | 3:50 |
-| 59 | [Fool's Paradise](https://open.spotify.com/track/6gX5B6uMDXFiK1qbq3NKlg) | [Randy Goodrum](https://open.spotify.com/artist/1SbKRR7aw8TnLV35xMJvo0) | [Fool's Paradise](https://open.spotify.com/album/7ttmmKXqE5StIAgOvU1V2C) | 3:58 |
+| 58 | [Fool's Paradise](https://open.spotify.com/track/6gX5B6uMDXFiK1qbq3NKlg) | [Randy Goodrum](https://open.spotify.com/artist/1SbKRR7aw8TnLV35xMJvo0) | [Fool's Paradise](https://open.spotify.com/album/7ttmmKXqE5StIAgOvU1V2C) | 3:58 |
+| 59 | [Throwing It All Away](https://open.spotify.com/track/6Tl40NMUnrFqhQssrW0TYB) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/7jYfZ6i2taKDkiuxncR8P1) | 3:50 |
 | 60 | [Love Is A Bridge](https://open.spotify.com/track/0EcU5IQCJ53kzGnVYvalRE) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Monsoon](https://open.spotify.com/album/0krvUaO5oHXzEduLU57ct7) | 4:06 |
 | 61 | [Desert Moon](https://open.spotify.com/track/3MzjEIe5pjA1gFgS95bkdN) | [Dennis DeYoung](https://open.spotify.com/artist/4TM0rDUbvVvrHioKsmzr68) | [Desert Moon](https://open.spotify.com/album/4TtHKG6zI7faJlLLaEgLs8) | 6:08 |
 | 62 | [Sweetheart](https://open.spotify.com/track/0D2UIFvpE0xb5wEgWrpps2) | [Franke & The Knockouts](https://open.spotify.com/artist/5l6cEOynnkfX7PS7zCMRU0) | [Franke & The Knockouts \(Original Recording Remastered\)](https://open.spotify.com/album/5fQQ6TiiIyO7d6a07zYJ3t) | 4:11 |

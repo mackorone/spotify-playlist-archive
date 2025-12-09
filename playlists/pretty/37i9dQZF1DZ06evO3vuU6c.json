@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1434308,
+  "num_followers": 1434335,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAACBWQ7+GBdY9LXK6WVEsAPn",
+  "snapshot_id": "aTTDgAAAAADarJPItZM62eSN3EuPN/y6",
   "tracks": [
     {
       "added_at": null,
@@ -51,6 +51,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "1000 Forms Of Fear",
+        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -67,22 +83,6 @@
       "duration_ms": 245040,
       "name": "Titanium (feat. Sia)",
       "url": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1000 Forms Of Fear",
-        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel By The Wings",
-        "url": "https://open.spotify.com/album/1diZXhFKWvBHJg6YMEZ74b"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 319200,
-      "name": "Angel By The Wings",
-      "url": "https://open.spotify.com/track/4OLVK3kktkdLPp8dDgoCtb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Marshall Mathers LP2 (Deluxe)",
         "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 265025,
       "name": "Beautiful Pain",
       "url": "https://open.spotify.com/track/7hiBhOh4s8G0xmGYBAjyuw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Angel By The Wings",
+        "url": "https://open.spotify.com/album/1diZXhFKWvBHJg6YMEZ74b"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 319200,
+      "name": "Angel By The Wings",
+      "url": "https://open.spotify.com/track/4OLVK3kktkdLPp8dDgoCtb"
     },
     {
       "added_at": null,

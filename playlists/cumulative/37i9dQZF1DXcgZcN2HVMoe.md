@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-785 songs - 1 day 23 hr 1 min
+787 songs - 1 day 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Beyond](https://open.spotify.com/track/5esPpmrM2AsyDVgOKzWQwU) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Beyond](https://open.spotify.com/album/0Nu4xhj7NxdUiL0eMy9yoQ) | 4:00 | 2021-12-17 | 2022-07-29 |
 | [Big Star \- Alt](https://open.spotify.com/track/6vChhCAS4y7anDfreIhOLW) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Big Star \(Alt\)](https://open.spotify.com/album/6auwNlcYoq8giw1sZkOYHW) | 4:04 | 2021-12-17 | 2022-07-14 |
 | [Bigger Man \(with Maren Morris\)](https://open.spotify.com/track/1caDc5BER7nRlSRf7XnDyj) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Bigger Man](https://open.spotify.com/album/64fIaMIuwVr0P7Bckb8Df8) | 3:06 | 2021-12-17 | 2022-01-25 |
-| [Bigger Pieces](https://open.spotify.com/track/6oSMF3TrouX3TNO6NZbRhG) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Altogether Unaccompanied, Vol\. V](https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT) | 5:05 | 2025-03-21 |  |
+| [Bigger Pieces](https://open.spotify.com/track/6oSMF3TrouX3TNO6NZbRhG) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Altogether Unaccompanied, Vol\. V](https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT) | 5:05 | 2025-03-21 | 2025-12-09 |
 | [Birch](https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 5:30 | 2021-12-17 |  |
 | [Bittersweet Endings](https://open.spotify.com/track/7B9msPusVvUMI4mV554aQz) | [Rightfield](https://open.spotify.com/artist/4pZujg2iI63qnZ9dISXS14) | [Bittersweet Endings](https://open.spotify.com/album/3lYtQZRYaijacHL93WtxaX) | 3:38 | 2021-12-17 | 2022-04-21 |
 | [Black And White \- Stripped](https://open.spotify.com/track/06e8zlormzQ5l7uOEj9y0S) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Black And White \(Stripped\)](https://open.spotify.com/album/21AixqCPZuSQLa7Tw9dNm4) | 3:52 | 2021-12-17 |  |
@@ -600,6 +600,7 @@
 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 | 2021-12-17 |  |
 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 | 2023-10-06 |  |
 | [She's Not Like That](https://open.spotify.com/track/3wsddzf4BEH997R6eX7YhD) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [12 Views Of Beatenberg](https://open.spotify.com/album/5qcY0XOZ3hk9iLOvACULpi) | 3:12 | 2021-12-17 | 2025-03-22 |
+| [Shooting Star](https://open.spotify.com/track/2QRxjT8nlYM2yystxTdz6L) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C), [runo plum](https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39) | [Shooting Star](https://open.spotify.com/album/1wGWZR6KlmVEOCmP9mQ8j1) | 2:23 | 2025-12-08 |  |
 | [Shower With My Clothes On](https://open.spotify.com/track/1EuCRi6fJpJykEzdpgpXVH) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Shower With My Clothes On](https://open.spotify.com/album/64E4Io1p1VcLemBmVGwFYA) | 3:04 | 2022-07-29 | 2025-03-23 |
 | [Side Effects](https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:43 | 2021-12-17 | 2025-07-30 |
 | [Silence \- Acoustic](https://open.spotify.com/track/3AweMMF3G598hMsjto9Vtg) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Silence \(Acoustic\)](https://open.spotify.com/album/3GCiwl66wCiCt68MVCBp65) | 3:41 | 2022-07-22 | 2023-08-06 |
@@ -660,6 +661,7 @@
 | [Teenage Drug](https://open.spotify.com/track/2FpLyV7tVMRHJAq3foYHPU) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [En Garde](https://open.spotify.com/album/2lgquOKqwJNvCg7UwvsjJy) | 3:40 | 2021-12-17 | 2025-03-22 |
 | [Tell Her You Love Her \(feat\. Mat Kearney\)](https://open.spotify.com/track/7b9oZ5tuGDKRWsL0lgQXqg) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x), [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Tell Her You Love Her \(feat\. Mat Kearney\)](https://open.spotify.com/album/3qGdUcPXD86hAZOcztcIS8) | 4:23 | 2021-12-17 |  |
 | [Tennessee](https://open.spotify.com/track/1NuRdepUMCGNgZJoi1R9Ov) | [Lizzy LeBleu](https://open.spotify.com/artist/33zqILedolFKP2PPiTgroc) | [Tennessee](https://open.spotify.com/album/6fQbRZJWGE6S0BNVVJYtJj) | 5:54 | 2021-12-17 | 2022-07-29 |
+| [Terrified](https://open.spotify.com/track/7BdOjMjIU66j98WAQzlyqL) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I Can See The Future](https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy) | 5:15 | 2025-12-08 |  |
 | [Thank You for the Sunday Paper](https://open.spotify.com/track/45mUIpzgp6HEXPTPYOBEA9) | [Caity Krone](https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs) | [Work of Art](https://open.spotify.com/album/0vvcn8bAFRfIDylV0nTXZB) | 3:31 | 2022-01-24 | 2022-04-15 |
 | [That Was Yesterday](https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That Was Yesterday](https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv) | 3:50 | 2021-12-17 |  |
 | [that'd be alright](https://open.spotify.com/track/2MuIQnJTw4dEGntnK6MSNn) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [that'd be alright](https://open.spotify.com/album/3Itg7NVVyUe4fUJ8Jt56vP) | 2:57 | 2021-12-17 | 2022-04-21 |
@@ -762,7 +764,7 @@
 | [What if You](https://open.spotify.com/track/0nKimWXdewT5XCaL5wOstA) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [What if You](https://open.spotify.com/album/65TC3N9kNHYeLFt7hqaW5M) | 3:22 | 2023-10-06 | 2025-03-22 |
 | [When I'm Like This](https://open.spotify.com/track/6RwTChnF273gqAInC2O2MP) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [When I'm Like This](https://open.spotify.com/album/7DGvPlYnTZtDCzaGdsdlHv) | 2:47 | 2021-12-17 | 2022-07-26 |
 | [When in Rome](https://open.spotify.com/track/3bqaHDGz3eJKbprI2nmNzF) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [When in Rome](https://open.spotify.com/album/4kQbKDxXy4rdSynDJtUCt6) | 2:24 | 2025-03-21 | 2025-06-20 |
-| [Where You Are](https://open.spotify.com/track/6GJoFuKS9JRNmNgGJzCDmW) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/6ORYYsCi3iLOT3NHJAfclP) | 3:31 | 2021-12-17 |  |
+| [Where You Are](https://open.spotify.com/track/6GJoFuKS9JRNmNgGJzCDmW) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [State of the Heart](https://open.spotify.com/album/6ORYYsCi3iLOT3NHJAfclP) | 3:31 | 2021-12-17 | 2025-12-09 |
 | [Whirlwind](https://open.spotify.com/track/4FdlrVG63Nsx9I7dBtsh6J) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Whirlwind](https://open.spotify.com/album/419Peyo7a60OWSj0M03YQY) | 3:28 | 2021-12-17 |  |
 | [Wild Honey \(Acoustic\)](https://open.spotify.com/track/5yP0mhRJkEEzGlCQLyC9Mn) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Wild Honey \(Acoustic\)](https://open.spotify.com/album/5tINqKaSnJLJfQZhMWmkO9) | 4:07 | 2021-12-17 |  |
 | [Wild Parts](https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Wild Parts](https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam) | 3:59 | 2021-12-17 | 2022-07-17 |

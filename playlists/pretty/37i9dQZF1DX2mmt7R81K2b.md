@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 
 > Where jazz meets classical, and classical meets jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,825 likes - 85 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,876 likes - 85 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

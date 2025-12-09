@@ -7955,6 +7955,24 @@
     },
     {
       "album": {
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/3JMG4h0VmnRypexYhaUSk1"
+      },
+      "artists": [
+        {
+          "name": "BONNY",
+          "url": "https://open.spotify.com/artist/4Dp8I20ZkkotYV9BAeAu9G"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "WAVE",
+      "url": "https://open.spotify.com/track/1HfCrWjGaZYH82TBn2Cf9l"
+    },
+    {
+      "album": {
         "name": "Way Back",
         "url": "https://open.spotify.com/album/76ZIraomSbcDfmAdaJqNa5"
       },

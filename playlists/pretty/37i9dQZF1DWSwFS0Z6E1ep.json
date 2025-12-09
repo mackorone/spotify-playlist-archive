@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 298290,
+  "num_followers": 298344,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Elvis' Golden Records",
-        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 130305,
-      "name": "Heartbreak Hotel",
-      "url": "https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Sinatra And Swingin' Brass",
         "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 194093,
       "name": "I Get A Kick Out Of You",
       "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Elvis' Golden Records",
+        "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 130305,
+      "name": "Heartbreak Hotel",
+      "url": "https://open.spotify.com/track/6xNwKNYZcvgV3XTIwsgNio"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Rockabilly",
+        "url": "https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "duration_ms": 121414,
+      "name": "Give Me some Love - Re-Recorded Version",
+      "url": "https://open.spotify.com/track/17trqhqpoIxXQc3Rkri0W7"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Memories Never Grow Old / Good Lovin'",
         "url": "https://open.spotify.com/album/1JfYQZ9G80fMf9DGtQqSac"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 172568,
       "name": "Good Lovin'",
       "url": "https://open.spotify.com/track/2vYfYvYvfxCxOoGLfs4N8d"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Rockabilly",
-        "url": "https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 121414,
-      "name": "Give Me some Love - Re-Recorded Version",
-      "url": "https://open.spotify.com/track/17trqhqpoIxXQc3Rkri0W7"
     },
     {
       "added_at": "2022-06-07 05:25:13",

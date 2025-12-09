@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > Start you day with God and let these songs set you up to have a GOoD morning!
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,956 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,968 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 53 | [Good Morning \- Capital Kings Remix](https://open.spotify.com/track/6UzMzphhijZY0MnrCqx1PC) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [Get Up: The Remixes](https://open.spotify.com/album/2B5gNl8mQt6LpqXTcBGsoe) | 4:13 |
 | 54 | [Hallow](https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Hallow](https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6) | 2:38 |
 | 55 | [New Day](https://open.spotify.com/track/7ilYm200byu5tpaXE97NVR) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 3:43 |
-| 56 | [Stronger](https://open.spotify.com/track/4o3MYXGLACanoZ2qaG3A5Q) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stronger](https://open.spotify.com/album/4KrEjdnGDVtiRyZ4poxNTk) | 2:58 |
-| 57 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 |
+| 56 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 |
+| 57 | [Stronger](https://open.spotify.com/track/4o3MYXGLACanoZ2qaG3A5Q) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Stronger](https://open.spotify.com/album/4KrEjdnGDVtiRyZ4poxNTk) | 2:58 |
 | 58 | [Power \- Acoustic](https://open.spotify.com/track/3XwxvufJ0ve4BdOOCJ5OEb) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr) | [Meditations](https://open.spotify.com/album/7emwnr2wmTB84uXqIkMYxk) | 3:18 |
 | 59 | [Windows](https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Windows](https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl) | 4:35 |
 | 60 | [Good Morning](https://open.spotify.com/track/6mNzOxAo1XXonb5JVrH8su) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [Good Morning](https://open.spotify.com/album/40zAAE7p64axGUzonpLVc3) | 3:34 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 70 | [Happy Again](https://open.spotify.com/track/4fYyuiKLTfzlTXMDawgCNu) | [Adriel Cruz](https://open.spotify.com/artist/1aBDTgXnbKTDCUubYLbtoa) | [Happy Again](https://open.spotify.com/album/3qEVYXuGEN7eMSOBvM7vuS) | 3:52 |
 | 71 | [JOY](https://open.spotify.com/track/6B6N8a0SvyEyJ77h1fuCwA) | [Phil the Voice](https://open.spotify.com/artist/5MZ5XLMvg4UQA7l2ipaU3E) | [JOY](https://open.spotify.com/album/2uLur9asrRPLo1hBUbh0t6) | 2:34 |
 | 72 | [GOOD DAY](https://open.spotify.com/track/4PmQAzVNQBw7n1OpmPvovb) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/1c3aDzCUaPNNeodENwnuzw) | 2:50 |
-| 73 | [These Are The Days](https://open.spotify.com/track/3aJs1TqxQh1Y2SNL8Vt1ZA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:50 |
-| 74 | [This Is the Day](https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [This Is the Day](https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2) | 5:25 |
+| 73 | [This Is the Day](https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [This Is the Day](https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2) | 5:25 |
+| 74 | [These Are The Days](https://open.spotify.com/track/3aJs1TqxQh1Y2SNL8Vt1ZA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:50 |
 | 75 | [Day For Singing \- Live](https://open.spotify.com/track/1YXCgMrPlgmdSeaP2WT1jQ) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Day for Singing](https://open.spotify.com/album/6ouC5uHTCzX5sHM8dyWYD7) | 5:41 |
 
 Snapshot ID: `AAAAACA8+Bn6McUgZ9cEeRBcxvNG9Cq7`

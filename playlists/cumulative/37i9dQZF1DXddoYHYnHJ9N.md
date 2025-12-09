@@ -4,7 +4,7 @@
 
 > Az 50 legnépszerűbb dal Magyarországon\. Cover: Mirror Glimpse
 
-167 songs - 8 hr 16 min
+168 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-06-02 |  |
 | [Jézus kérlek hívjál fel](https://open.spotify.com/track/5iAfEsRxQ6LjMZ7p2cWeOJ) | [Zakeus](https://open.spotify.com/artist/50lp8qhb7cVGIj7YpCQ16B) | [Jézus kérlek hívjál fel](https://open.spotify.com/album/0FUvBz087oUFhM6EslUWBI) | 2:40 | 2024-10-07 | 2024-12-03 |
 | [kapu](https://open.spotify.com/track/4IIEKJ3RVCc7z3PZdD5PZu) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [skatulya I](https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw) | 2:46 | 2024-07-01 | 2024-11-05 |
+| [Karácsonyi dal](https://open.spotify.com/track/6QTVuNK2TnejUaFOPpqBUi) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Karácsonyi dal](https://open.spotify.com/album/1pTQtUUOF5uRLW8lAtudD5) | 3:29 | 2025-12-08 |  |
 | [kelet](https://open.spotify.com/track/50oIkRQqZvOUIyW2x88FlD) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Signo](https://open.spotify.com/artist/7p7yZa25So6b8lbCijHW4s) | [kelet](https://open.spotify.com/album/4DfgMtt4dICgV02uUxLyW3) | 3:27 | 2024-07-01 | 2024-09-10 |
 | [Kettesben](https://open.spotify.com/track/29BG2WmjGcikewITCPTP9G) | [ÉBERKÓMA](https://open.spotify.com/artist/45u5WLva3klzXW3rQuJ9U1) | [Kettesben](https://open.spotify.com/album/5bRbI8eixiSaKNUGviC8gM) | 2:39 | 2024-12-16 | 2025-04-08 |
 | [KETTŐ/KETTŐ](https://open.spotify.com/track/5kYCuv93MHR0w7Gs3CG5F6) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [KETTŐ/KETTŐ](https://open.spotify.com/album/5slcrNg1ERALgUDkdwYiRk) | 2:57 | 2025-04-07 |  |
@@ -166,7 +167,7 @@
 | [Valencia](https://open.spotify.com/track/7kIn3HrqM432chtEydQgMb) | [Tomi](https://open.spotify.com/artist/3T7cPgj4vAIoSdypl7cNH8), [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh) | [Valencia](https://open.spotify.com/album/0sVF7F2neNBn9D3pRtqlH9) | 2:55 | 2024-07-01 | 2025-02-25 |
 | [vemzavr!](https://open.spotify.com/track/5okl2XLawfPjOCZJ1mSdox) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [vemzavr!](https://open.spotify.com/album/3gA92ig8JUIowiMLKTJWx7) | 3:03 | 2025-09-18 |  |
 | [VERSENY](https://open.spotify.com/track/3Ej9MaTXoEHlAclVCtccA2) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [VERSENY](https://open.spotify.com/album/7BoGRMEz5YVBClZMGzn3Sv) | 2:21 | 2025-03-31 | 2025-06-03 |
-| [VIDÉKI CSAJSZI](https://open.spotify.com/track/1105P9BDFQ4GZj7VS5vDuY) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [VIDÉKI CSAJSZI](https://open.spotify.com/album/6Nz8LUkFkdvlQWwbByHDaq) | 3:09 | 2024-10-21 |  |
+| [VIDÉKI CSAJSZI](https://open.spotify.com/track/1105P9BDFQ4GZj7VS5vDuY) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [VIDÉKI CSAJSZI](https://open.spotify.com/album/6Nz8LUkFkdvlQWwbByHDaq) | 3:09 | 2024-10-21 | 2025-12-09 |
 | [Vinnipu](https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Vinnipu](https://open.spotify.com/album/4vrF4zMQLZIiRXVbLZbS9J) | 1:48 | 2025-06-09 |  |
 | [Voodoo Baba](https://open.spotify.com/track/1tTOuvmJvZ2DACbTLkwZIT) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [Torz](https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh) | 2:34 | 2024-07-01 | 2025-02-11 |
 | [VÁRJ MEG](https://open.spotify.com/track/4RyGoGUAR8cAC7hA9qzc5b) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [HA MEGHALOK SE](https://open.spotify.com/album/5tUNJHOtRKtuftYTS5EVfZ) | 2:45 | 2025-09-10 |  |

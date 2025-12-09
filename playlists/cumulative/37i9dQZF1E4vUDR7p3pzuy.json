@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Synthetik Blonde, JUST LIZZY, Amulet and more",
+  "description": "With Synthetik Blonde, Amulet, Corlyx and more",
   "name": "DePitcha Radio",
   "tracks": [
+    {
+      "album": {
+        "name": "#1 Crush",
+        "url": "https://open.spotify.com/album/3SlZeIApAgIxxHlLbV9ZRl"
+      },
+      "artists": [
+        {
+          "name": "LIIS",
+          "url": "https://open.spotify.com/artist/380mi6DOBeEhevLL0hUiIf"
+        },
+        {
+          "name": "Julien-K",
+          "url": "https://open.spotify.com/artist/6a82pdlhS6SsAq7HDUSZKN"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227258,
+      "name": "#1 Crush",
+      "url": "https://open.spotify.com/track/7nI32tjGZmL54z1CUfAXj0"
+    },
     {
       "album": {
         "name": "1000 Years Too Deep (Silence Mix)",
@@ -400,7 +422,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 219500,
       "name": "Closing the Dark",
       "url": "https://open.spotify.com/track/7IAoMCaOE9ad5qcjo8Z7vu"
@@ -490,7 +512,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 351780,
       "name": "Crosses",
       "url": "https://open.spotify.com/track/309AyKk5Ctat3UX0pcPqPz"
@@ -508,7 +530,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 244545,
       "name": "Dagger In The Heart",
       "url": "https://open.spotify.com/track/1FvFk0VhOZ1KBrgxLLsawe"
@@ -744,7 +766,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 294634,
       "name": "Faces - Georgi Remix",
       "url": "https://open.spotify.com/track/3yd8aKaSpYOngEVat7favw"
@@ -841,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Paradigm",
+        "url": "https://open.spotify.com/album/5ofXLk4VWev8PyAqqtMnxB"
+      },
+      "artists": [
+        {
+          "name": "Stridulum",
+          "url": "https://open.spotify.com/artist/1aie9nmU7Gq5F45W7nZK6r"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236487,
+      "name": "Flesh",
+      "url": "https://open.spotify.com/track/6RBRTnyS7sdZ6ZmZhONs2p"
+    },
+    {
+      "album": {
         "name": "As Above",
         "url": "https://open.spotify.com/album/6KMVygRI6RjByXQnvqULYA"
       },
@@ -852,7 +892,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 298514,
       "name": "For Dead",
       "url": "https://open.spotify.com/track/4Fq84rkGebbqwZoTJxn2OC"
@@ -1279,6 +1319,28 @@
     },
     {
       "album": {
+        "name": "Purple Pain",
+        "url": "https://open.spotify.com/album/5p8ArHFTxDnWWoiaI7DyB8"
+      },
+      "artists": [
+        {
+          "name": "Corlyx",
+          "url": "https://open.spotify.com/artist/2K8LJm6DxnMVU6fQklN5Z5"
+        },
+        {
+          "name": "Suzi Sabotage",
+          "url": "https://open.spotify.com/artist/4Xg5IOdSKG15oMi05Xf1yn"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250273,
+      "name": "Kill Cave",
+      "url": "https://open.spotify.com/track/7AmgEbUvDmUCsPMhM2u6eU"
+    },
+    {
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/6m4vu74gakK8xXvKFA4mZC"
       },
@@ -1478,6 +1540,24 @@
       "duration_ms": 240558,
       "name": "Mentor",
       "url": "https://open.spotify.com/track/1TVH2nJqz9DM5Kv1wwq6Tm"
+    },
+    {
+      "album": {
+        "name": "Up at Night",
+        "url": "https://open.spotify.com/album/0axdkgjROl5yQNaJrMgfB5"
+      },
+      "artists": [
+        {
+          "name": "Camp Crush",
+          "url": "https://open.spotify.com/artist/1Md43tDItXhquLZPaxsEOO"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227047,
+      "name": "Mind's Eye",
+      "url": "https://open.spotify.com/track/2vbbgLRnzwY6SWB5FHCKdU"
     },
     {
       "album": {
@@ -1720,7 +1800,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 228000,
       "name": "Pleasure Slaves - Vick Vapors Remix",
       "url": "https://open.spotify.com/track/6Jrld5sN3t7pgwGuxxhe18"
@@ -2000,7 +2080,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 190000,
       "name": "Shadow Projection",
       "url": "https://open.spotify.com/track/7tlIYcO8HcsXn0FM8niJAx"
@@ -2076,7 +2156,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 259988,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/5F0HBndUVzTErtZJCI9qEG"
@@ -2152,7 +2232,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 317173,
       "name": "Soul Crush - Signals MIX",
       "url": "https://open.spotify.com/track/5b1ErbWFbwvIo4fgOWyUL0"
@@ -2464,7 +2544,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 168716,
       "name": "Unbound",
       "url": "https://open.spotify.com/track/12KKoSZN4BkrAD3Z6B4dMj"
@@ -2652,7 +2732,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 200919,
       "name": "Welcome To Salem (intro)",
       "url": "https://open.spotify.com/track/3VSU3WGhiR524TtvonIU3c"
@@ -2714,7 +2794,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 223992,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/42Nfq6w92eSBp9CGJa75k6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Juseph & SAIKO, Ozuna & Beéle, Hijos de la Ruina, Paulo Londra & Eladio Carrión y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,326 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,318 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

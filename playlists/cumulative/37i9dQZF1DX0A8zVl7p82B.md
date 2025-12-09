@@ -4,7 +4,7 @@
 
 > All the best in new and classic Christmas Pop! Cover: Kelly Clarkson
 
-303 songs - 16 hr 39 min
+305 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Christmas Everyday](https://open.spotify.com/track/2CIQP9j2Q8Qlm9HMCKGERh) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas With Brandy](https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk) | 3:26 | 2023-11-10 | 2025-11-08 |
 | [Christmas in New York](https://open.spotify.com/track/3axLCXlw1dxiQQHeU6VlqO) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas](https://open.spotify.com/album/0DmM20iJ1NjdQSxGs6kCGt) | 4:33 | 2023-10-27 | 2024-04-19 |
 | [Christmas in New York](https://open.spotify.com/track/56oYlOg8iTHa99Oo6LikDx) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas](https://open.spotify.com/album/5953GQNfxqEWdLobD6lG7T) | 4:33 | 2022-11-11 | 2024-10-19 |
+| [Christmas Is Here](https://open.spotify.com/track/1d8IUiU5iyjuuuKc9ccaZn) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas Is Here](https://open.spotify.com/album/00mbqmxA9gMuflg9GXgxPX) | 3:06 | 2025-12-08 |  |
 | [Christmas Isn't Canceled \(Just You\)](https://open.spotify.com/track/4zHDuDQx8dcWVmVVtyIzRO) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 3:51 | 2021-12-24 |  |
 | [Christmas Isn't Canceled \(Just You\)](https://open.spotify.com/track/6p16ZgLXSyzefwUSFTZfeE) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Christmas Isn't Canceled \(Just You\)](https://open.spotify.com/album/0v0EbtrOnYKhIW1AUY7t2q) | 3:51 | 2021-12-24 | 2022-07-29 |
 | [Christmas Isn't Christmas](https://open.spotify.com/track/6DeGFcrDiYDuyV7e7KnqPd) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Christmas Isn't Christmas](https://open.spotify.com/album/2Gc07PitsdDbsHxFcyX4mG) | 3:15 | 2021-12-24 | 2022-11-12 |
@@ -172,6 +173,7 @@
 | [Love To Keep Me Warm](https://open.spotify.com/track/2x6Hg0OmYnkvCtFmAcyzwX) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love To Keep Me Warm](https://open.spotify.com/album/0pzpLwsZSU0MKFsImNxynF) | 2:38 | 2021-12-24 | 2022-10-13 |
 | [Love to Keep Me Warm](https://open.spotify.com/track/3bq7dXN7arTdaq8mmKXxob) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Love to Keep Me Warm](https://open.spotify.com/album/1yfNBTaCzznm3bLF0QHQmi) | 2:38 | 2021-12-24 |  |
 | [Make It To Christmas](https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Make It To Christmas](https://open.spotify.com/album/78M2SymJDiLORvKBQHgmKl) | 3:31 | 2021-12-24 |  |
+| [Make You Mine This Season \(Happiest Season\)](https://open.spotify.com/track/5JXb1JayAzpcI3ckoaPXwz) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Make You Mine This Season](https://open.spotify.com/album/1nxAvtNDnGErJ7HjBlfVxq) | 3:06 | 2025-12-08 |  |
 | [Make You Mine This Season \(Happiest Season\)](https://open.spotify.com/track/62k0PJ7guenoJoQHUYeN8o) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Happiest Season \(Music from and Inspired by the Film\)](https://open.spotify.com/album/4FwF3viwUJiAzgSNohUI02) | 3:06 | 2021-12-24 | 2023-11-07 |
 | [Man With The Bag](https://open.spotify.com/track/18g50kFt5uwVeCzQbrCvAO) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Man With The Bag](https://open.spotify.com/album/3NpQCCaahU3jIgug1N89EV) | 2:41 | 2021-12-24 | 2022-07-29 |
 | [Man With The Bag](https://open.spotify.com/track/2Ysi49tRdVH74d1Cnc4o94) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [This Christmas Day](https://open.spotify.com/album/5FVQjSLBVMdWaZYD4vf3gS) | 2:43 | 2021-12-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,063 likes - 306 songs - 17 hr 29 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,061 likes - 326 songs - 18 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -314,5 +314,25 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 304 | [Wide Awake](https://open.spotify.com/track/4b34QqJbXageXnFaBkEmWm) | [Chronic Dream](https://open.spotify.com/artist/5DrfeL7Xz1eERHtX009WIk), [April Afternoon](https://open.spotify.com/artist/6gZQ5pWQx9xVEAMVw2SgXk) | [Wide Awake](https://open.spotify.com/album/5lv7wvo9Rs99PjAkpQdIYq) | 3:33 |
 | 305 | [The Curse](https://open.spotify.com/track/4txU9T6REQrKXvO9qBhxVz) | [The Forest](https://open.spotify.com/artist/2q8zPDrAV8jdxb2Y2Ahas0) | [The Curse](https://open.spotify.com/album/5Y3gDBggPtX0VKUeUCbHSO) | 4:35 |
 | 306 | [Litany of Your Name](https://open.spotify.com/track/2Alk9YqpSZMeVMm3sC23I0) | [Dystopian Machine](https://open.spotify.com/artist/4Zdx5hWyc79G1UafxgokPo) | [Litany of Your Name](https://open.spotify.com/album/7qsY33yeO2xK22Ax1FgA2J) | 5:02 |
+| 307 | [Antibacterial](https://open.spotify.com/track/3lz15JEmDGOHKeqDe2TPqy) | [In The Blind](https://open.spotify.com/artist/4K8sERQcjuHdGq692MMb01) | [Sulphur Moon](https://open.spotify.com/album/2MGtiDm0n79VzZhCqXZ8wF) | 3:25 |
+| 308 | [You'll Believe What You're Told](https://open.spotify.com/track/4KSv5XoFYivrCLusrDa75U) | [Jack Galloway](https://open.spotify.com/artist/6I2vzq3gKCswQF4iTEMblK) | [You'll Believe What You're Told](https://open.spotify.com/album/63YqsKzqVLuybNmiyICFzd) | 2:54 |
+| 309 | [XO](https://open.spotify.com/track/3GTJzjz2xbdQWs2Hum199C) | [In The Blind](https://open.spotify.com/artist/4K8sERQcjuHdGq692MMb01) | [Sulphur Moon](https://open.spotify.com/album/2MGtiDm0n79VzZhCqXZ8wF) | 3:30 |
+| 310 | [Shine](https://open.spotify.com/track/4Z4XWCv7Kamr8YWMjwWY1g) | [In The Blind](https://open.spotify.com/artist/4K8sERQcjuHdGq692MMb01) | [Sulphur Moon](https://open.spotify.com/album/2MGtiDm0n79VzZhCqXZ8wF) | 4:19 |
+| 311 | [Wither](https://open.spotify.com/track/4M5sVrmGGbKY2h23VwPXOV) | [In The Blind](https://open.spotify.com/artist/4K8sERQcjuHdGq692MMb01) | [Sulphur Moon](https://open.spotify.com/album/2MGtiDm0n79VzZhCqXZ8wF) | 3:29 |
+| 312 | [Time To Party \- Radio Edit](https://open.spotify.com/track/2FF0m1MzcfyL6ZS4XM1NfZ) | [Calling All Astronauts](https://open.spotify.com/artist/0xqglBsPF9COYj64LNl85t) | [Time To Party](https://open.spotify.com/album/17yn0xivFWwA6XKXcymaWB) | 4:03 |
+| 313 | [MMA Rooky](https://open.spotify.com/track/4X3UDaLkq8RpXhSiClheX0) | [32 Ohm](https://open.spotify.com/artist/1vgzRUPEZ8l3fszpEET43S) | [MMA Rooky](https://open.spotify.com/album/5rMyxWrIEFLf8boJPLa5PU) | 3:05 |
+| 314 | [3I/ATLAS](https://open.spotify.com/track/3XSq3Vr8B3mTG1qAejDq6N) | [Eren Ayintap](https://open.spotify.com/artist/0K18HE2KC6yov0rrfwjF1D) | [3I/ATLAS](https://open.spotify.com/album/0BW1UrCmJIv4C2N5avAse2) | 4:29 |
+| 315 | [Remember The Days](https://open.spotify.com/track/20p1v4GhTAyEz8eJmDlfzQ) | [The Arcade Lights](https://open.spotify.com/artist/0sAh7PjyMhtAVpvezBFso2) | [Remember The Days](https://open.spotify.com/album/7ate7nHrpETd8NsEzA19eh) | 4:13 |
+| 316 | [Midnight Witch](https://open.spotify.com/track/2GByP9nBSGlq6aw5K7A4Xi) | [Master Dy](https://open.spotify.com/artist/3lfScZWl1nVVmsYciBXKBu) | [Midnight Witch](https://open.spotify.com/album/0svfZnFDfYxdpIC0RM6nn3) | 4:25 |
+| 317 | [HEADHUNTER GIRL](https://open.spotify.com/track/3kKvRp3asw5ZNBUPluQDV0) | [DWoods](https://open.spotify.com/artist/4Vw1sn9EvRXvRkrIqGwXIC), [Joe Elbee](https://open.spotify.com/artist/5CzGcbfWrYyTO6T2dqmOom), [Daniel King](https://open.spotify.com/artist/3SoXaUfrWUM1DZJJC3ws9P) | [TORN DOWN](https://open.spotify.com/album/2x5Bz3uIQ0iZt9rwlTCq8k) | 3:21 |
+| 318 | [She's My Witch](https://open.spotify.com/track/0dvGMQOonbH4ZvEiOYYWKQ) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [She's My Witch](https://open.spotify.com/album/514yIpEXXdJmn2lPXrhOcu) | 2:26 |
+| 319 | [My Endless Journey](https://open.spotify.com/track/39USGgtJdnzQQvIBeNSp4c) | [The Antarctica Project](https://open.spotify.com/artist/4DDrHTmwLmDFgv8CoobPjr) | [My Endless Journey](https://open.spotify.com/album/7DotwfknL0UFLufl9HQg9T) | 4:26 |
+| 320 | [Imissu](https://open.spotify.com/track/15CvBByDXbUN9AYtREvXoo) | [IllSaved](https://open.spotify.com/artist/6dj4UBb595l76a4xIjIVHQ) | [Imissu](https://open.spotify.com/album/1K3x52wGJowbJgD40LqJQI) | 2:54 |
+| 321 | [Yo Soy de Bar](https://open.spotify.com/track/0Y8LKRnfFAOLseaTTWNy5R) | [BARRACÜDA](https://open.spotify.com/artist/76CL5heNuTVZrutkli7cKx) | [Nada Que Oír](https://open.spotify.com/album/1ODZaC0wmGob5vkDLUepLm) | 2:38 |
+| 322 | [Stitch The Thread](https://open.spotify.com/track/1kM2v25EDIfXdtwgsAQu5k) | [Nicole Ash](https://open.spotify.com/artist/53Zt8SoJ4qBvKLwdE5h0QH) | [Stitch The Thread](https://open.spotify.com/album/1DowpFhOBVKyamkAIcC3n0) | 2:48 |
+| 323 | [Ruby Red](https://open.spotify.com/track/2KkO14XX5K7CWEOs2nPBXn) | [Fathers of One](https://open.spotify.com/artist/4jxOqaWpFkp2t8UNjh4HLm) | [Ruby Red](https://open.spotify.com/album/5GUhLlM462PhXWZOGngOby) | 3:42 |
+| 324 | [Back In Early 00's](https://open.spotify.com/track/7E999lKzlhXOxmXnzI3ZgG) | [RESENTLESS.](https://open.spotify.com/artist/55vgJME2WgJi6eq7bMsi6J) | [Back In Early 00's](https://open.spotify.com/album/205K7PtnliKtZ57qtHHRiU) | 3:13 |
+| 325 | [Drowning Into You](https://open.spotify.com/track/18mYfxvwpVVXli6HgmJXpm) | [Faith in Faces](https://open.spotify.com/artist/5nTj6k2ZmbVOZICHFz1BPY) | [Drowning Into You](https://open.spotify.com/album/7LyIYQb75whKjUXyhWB6oI) | 3:24 |
+| 326 | [Line Them Up](https://open.spotify.com/track/1qpnSa87IPUX0u5xl0JIMx) | [The Ratskins](https://open.spotify.com/artist/6ge5wjSR7ea1mgxcodIF8V) | [Line Them Up](https://open.spotify.com/album/7xXnNyCNRY0vortmzd7shM) | 2:47 |
 
-Snapshot ID: `AAAID7s1Y2aHkzThT12qVDrlvRk/9LFw`
+Snapshot ID: `AAAII4K9ou+XG04a0tPhkF3fctiChwnb`

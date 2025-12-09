@@ -9654,7 +9654,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-22",
+      "date_removed": null,
       "duration_ms": 185294,
       "name": "HELLBOUND",
       "url": "https://open.spotify.com/track/7DVRzkx3RMQBKOuuDRCYxl"
@@ -13368,7 +13368,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 183760,
       "name": "Love & Affection",
       "url": "https://open.spotify.com/track/5TXJoTMQNIXgy2rRmqNmlT"
@@ -13404,7 +13404,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 220660,
       "name": "Love Is War",
       "url": "https://open.spotify.com/track/2iKYgFZXyC5GBxCbg2HCD7"
@@ -13982,7 +13982,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 186443,
       "name": "Meet Your Maker",
       "url": "https://open.spotify.com/track/5noGfUGAlRAkwR1XPe2bwH"
@@ -16526,7 +16526,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 180615,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/0QtYu8F2zWeMPk7bLB2Des"
@@ -17678,7 +17678,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 216345,
       "name": "Ready Fuels",
       "url": "https://open.spotify.com/track/2noqS6R7QDtOoGCfpUeuxf"
@@ -17786,7 +17786,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 204583,
       "name": "Receiver Of The Dark",
       "url": "https://open.spotify.com/track/3NjzPJleaHQ6ZbVTgCOAyf"
@@ -18752,7 +18752,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 199651,
       "name": "Save Me - feat. L\u00f8 Spirit",
       "url": "https://open.spotify.com/track/59nSCww3jHPkCwOKkACtgS"
@@ -23446,7 +23446,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 194653,
       "name": "TOMBSTONE TOWN (feat. Slash)",
       "url": "https://open.spotify.com/track/5tAiaUVkYL86ZOaWwv0zLO"
@@ -24316,6 +24316,28 @@
       "duration_ms": 240384,
       "name": "Vigilantes",
       "url": "https://open.spotify.com/track/7DNjlPhZrhOgykB94HjecI"
+    },
+    {
+      "album": {
+        "name": "Kings",
+        "url": "https://open.spotify.com/album/6aUaGt9dhm4ZZ1DFAgssSF"
+      },
+      "artists": [
+        {
+          "name": "THE HARA",
+          "url": "https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ"
+        },
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152345,
+      "name": "Violence (feat. As December Falls)",
+      "url": "https://open.spotify.com/track/6G5Z4JczJIfV860bEQ7ZHD"
     },
     {
       "album": {

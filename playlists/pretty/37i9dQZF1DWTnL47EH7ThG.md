@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,028 likes - 150 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,045 likes - 150 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 82 | [S e x](https://open.spotify.com/track/1o7dHA3jkon56D4Xn1jJWr) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [S e x](https://open.spotify.com/album/1DnORgesBFu2C0lJ2ZPQuO) | 3:01 |
 | 83 | [I Saw U](https://open.spotify.com/track/0QpliqisIqld65GlZA1bJ8) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [I Saw U](https://open.spotify.com/album/6ANbH8704yrpV1gk139qCo) | 2:17 |
 | 84 | [Slip Slide](https://open.spotify.com/track/7q3Ur8hlX5x35dyzQbdNJP) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ) | [Slip Slide](https://open.spotify.com/album/452wHpG8AT64V8dKhduC45) | 2:19 |
-| 85 | [Bakshat](https://open.spotify.com/track/61pxWxCax8g9XG19LO6Won) | [Roze Don](https://open.spotify.com/artist/6PUMb9DPJ9l0j0goEYBFHX) | [Bakshat](https://open.spotify.com/album/53gyfyTQMG0ivWC4Qdfx1k) | 2:36 |
+| 85 | [Bakshat](https://open.spotify.com/track/61pxWxCax8g9XG19LO6Won) | [Roze Don](https://open.spotify.com/artist/6PUMb9DPJ9l0j0goEYBFHX), [Zimi](https://open.spotify.com/artist/1CDJaUv1aGeoQQFlIGrqDA) | [Bakshat](https://open.spotify.com/album/53gyfyTQMG0ivWC4Qdfx1k) | 2:36 |
 | 86 | [Romantic](https://open.spotify.com/track/6TBEvIBdVzWe96X0Bai39D) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Romantic](https://open.spotify.com/album/6QOktdWJG1ppl2qlCKQvEA) | 2:39 |
 | 87 | [ur lucky i'm not a psycho!](https://open.spotify.com/track/1U0nRkA85UdcApif3KJbZ1) | [tahjii](https://open.spotify.com/artist/5sAAWx4p1jIDIcjHGpsL8H) | [vacation](https://open.spotify.com/album/1gMMVH9u5yjy83Viqyfhim) | 2:05 |
 | 88 | [Submerge FM](https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 3:25 |

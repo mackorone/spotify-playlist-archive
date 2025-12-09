@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: Ana Gabriela, Carol Biazin
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,305,064 likes - 55 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,304,909 likes - 55 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

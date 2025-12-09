@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 44 songs - 2 hr 44 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 46 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,5 +52,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 42 | [Automático](https://open.spotify.com/track/5FUDj98ylGW4iUcFfiWo50) | [Boris Vian](https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8) | [Trans](https://open.spotify.com/album/1T2lmX3LY6Vrw0ZMI6eYry) | 3:45 |
 | 43 | [Save Yourself](https://open.spotify.com/track/0zmBrqMD9u1wZUqJLNynUi) | [Maxine](https://open.spotify.com/artist/3m7b61n7lAtR554KpBx5y9) | [Save Yourself](https://open.spotify.com/album/7CUbS7kwBPOQPDBvWS5yET) | 2:49 |
 | 44 | [petals](https://open.spotify.com/track/0GsXXXDp8JNIPHuZ8EpOb7) | [Coleus](https://open.spotify.com/artist/0grvUIIGuaFZQuCyqkGRhC) | [Echoes Of The Unseen](https://open.spotify.com/album/3ScFhqwhhxKJlsTdkzSmOU) | 2:08 |
+| 45 | [DREAMPRINT](https://open.spotify.com/track/2zTYEsdtL8NBfuSFRXEX3h) | [NAMUT](https://open.spotify.com/artist/1kTGu1IKWqHRaCxx3RpzyH), [JULYX](https://open.spotify.com/artist/1uXd5rYQ8uoTxNEfwuvZX0) | [DREAMPRINT](https://open.spotify.com/album/0ishP3v2Lf1U7q7TFpD8jb) | 2:09 |
+| 46 | [Diamond Heart](https://open.spotify.com/track/37KoS6sJSBBMFa5trmgnAB) | [Savannah Strand](https://open.spotify.com/artist/68FlWXB4GVJsD920sPw1Lv) | [Diamond Heart](https://open.spotify.com/album/4ujXStmyOUakTcn9XlXUVp) | 2:55 |
 
-Snapshot ID: `AAAjrt7/NzKJFYjcvXZVyBx3n+T/wR8x`
+Snapshot ID: `AAAjsHvVlI4fb5qi5uKcae9qsLC2MBKJ`

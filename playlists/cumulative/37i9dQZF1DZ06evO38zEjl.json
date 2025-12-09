@@ -859,6 +859,28 @@
     },
     {
       "album": {
+        "name": "Flash of the Spirit",
+        "url": "https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Farafina",
+          "url": "https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294333,
+      "name": "Dreamworld (Dance)",
+      "url": "https://open.spotify.com/track/0gHVCMHYaKCc3sRmSqAi0c"
+    },
+    {
+      "album": {
         "name": "Psychogeography (Zones Of Feeling)",
         "url": "https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ"
       },
@@ -2610,7 +2632,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 263306,
       "name": "Warm Shift",
       "url": "https://open.spotify.com/track/7gGjI3K2oHJb3tZKbCuX4l"

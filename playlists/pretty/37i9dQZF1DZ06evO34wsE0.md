@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 
 > This is Shania Twain\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,536 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,536 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 47 | [If You Wanna Touch Her, Ask!](https://open.spotify.com/track/7uQTbTiCf9p2v0ceOWkXli) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 4:03 |
 | 48 | [I Ain't No Quitter \- Greatest Hits Version](https://open.spotify.com/track/2DzmwmdLOaexPrwfEpfypK) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Rock This Country](https://open.spotify.com/album/50U6VmuhDLN5s3bOWnkdU9) | 3:30 |
 | 49 | [She's Not Just A Pretty Face \- Red Version](https://open.spotify.com/track/5xh0pLWWOuHiHsqvIX8JpH) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 3:49 |
-| 50 | [You Lay A Whole Lot Of Love On Me](https://open.spotify.com/track/0oGmDmlKPWiZbnuVed68Rs) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Shania Twain](https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz) | 2:48 |
+| 50 | [I Ain't Goin' Down](https://open.spotify.com/track/3wYYeT35QwPaJ207ao4UTh) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Green Versions\)](https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm) | 3:44 |
 
-Snapshot ID: `aTNyAAAAAADyxo8Fls3B+3Ksve3Dlr0Z`
+Snapshot ID: `aTTDgAAAAAD25RDPh5YoDKkj2wYGfVys`

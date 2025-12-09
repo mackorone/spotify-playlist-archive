@@ -2,9 +2,9 @@
 
 ### [All The Way Up](https://open.spotify.com/playlist/4oCdiaZmiKLPpKUHlFjovZ)
 
-> Turn this playlist all the way up! Featuring, Shordie Shordie, Money Man, Peezy &amp; Blxst.
+> Turn this playlist all the way up! Featuring, Money Man, Blxst, Mozzy &amp; Tm88.
 
-198 songs - 8 hr 52 min
+202 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Boy Oh Boy](https://open.spotify.com/track/4hOBpBqVXqk1lkwKCM5QGF) | [Chinese Kitty](https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9) | [Boy Oh Boy](https://open.spotify.com/album/3AKtlxNCe8MHDRKvlJF6M1) | 1:57 | 2023-08-18 | 2024-05-21 |
 | [Brand New](https://open.spotify.com/track/1VdYuaX09Fl8wJbGKloAfA) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Brand New](https://open.spotify.com/album/6PXO9lWb0jxlBYtYvTk6Uc) | 3:02 | 2023-09-28 |  |
 | [BRINGBLICK](https://open.spotify.com/track/07bvF0AgjZQQdmQvJAYu4r) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [FinallyFed](https://open.spotify.com/album/6qMYWYrxOA5EDNqRtyyG7C) | 2:33 | 2025-07-30 | 2025-08-19 |
+| [BUICK TO BENZ](https://open.spotify.com/track/7xMBdn5yHDQEpiN0x1SIIV) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [BUICK TO BENZ](https://open.spotify.com/album/3u2TpNPFDSltzFssvRwCye) | 2:54 | 2025-12-08 |  |
 | [BUSINESS IS BUSINESS](https://open.spotify.com/track/3oMNeqnhaXx96vip9Udsw7) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41), [Trauma Tone](https://open.spotify.com/artist/5hbmx6kYC3b7lHWkbvs455) | [TMZ](https://open.spotify.com/album/6Z8BUrS5QTkofkDvhh4zGN) | 2:08 | 2024-10-15 | 2024-11-19 |
 | [Can We Talk?](https://open.spotify.com/track/1NeL0geu5M3lya479QuA6q) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Can We Talk?](https://open.spotify.com/album/5bzaSX78ybcXW55HFe8xZi) | 3:08 | 2025-07-07 |  |
 | [CAN'T GET RIGHT](https://open.spotify.com/track/7prcfanTLk3DCeER51hqd3) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn) | [CAN'T GET RIGHT](https://open.spotify.com/album/0FdhSn9vahw0oyHSqsYDwE) | 2:17 | 2025-05-14 |  |
@@ -72,6 +73,7 @@
 | [Diamond Stitching](https://open.spotify.com/track/1cVDuG58Cj3RGe8ySKwY6i) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Diamond Stitching](https://open.spotify.com/album/1SLHvtzblS30JZW9anryTE) | 2:29 | 2025-05-30 | 2025-09-30 |
 | [Different Music](https://open.spotify.com/track/4Cg7xBdI08BcfqwOC3aRfr) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [F.L.I.N.T\. \(Feeling Like I'm Not Through\)](https://open.spotify.com/album/5Jn2jLQVdViuoHPnXpcJu7) | 2:51 | 2025-08-18 |  |
 | [Doing My Best](https://open.spotify.com/track/6uqwaI2tY9QZGyxacHXZ0R) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [GOLDFISH](https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g) | 2:44 | 2025-10-27 |  |
+| [Don't Hoop](https://open.spotify.com/track/2G5n3rWA0zATe2p0aEUk9r) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Predator](https://open.spotify.com/album/3zgfr7xhdfoFzTGg7uQIYo) | 1:53 | 2025-12-08 |  |
 | [Don't Play That](https://open.spotify.com/track/3IPGG5Niex4hGlXFOYWzp9) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 2:13 | 2024-01-19 |  |
 | [Dreams](https://open.spotify.com/track/7yZB6fEE2uQdo1TSTCLAtj) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Dreams](https://open.spotify.com/album/3HT15k21n0cZ9T2MPVmt7I) | 2:27 | 2024-06-14 | 2025-03-05 |
 | [Drink Don't Need No Mix \(feat\. BigXthaPlug\)](https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 2:13 | 2024-06-18 |  |
@@ -154,6 +156,7 @@
 | [Pressure](https://open.spotify.com/track/05lhFsOWPXRjfGA7xY7XJz) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Pressure](https://open.spotify.com/album/0O7179ieea0SQIwxyFaL68) | 2:39 | 2025-07-24 |  |
 | [Psilocybin](https://open.spotify.com/track/4yiMqpWedLgroh2cGXcT2v) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Psilocybin](https://open.spotify.com/album/2a2X4S69knPtrLufy84coS) | 2:18 | 2023-09-29 | 2025-02-01 |
 | [Psilocybin](https://open.spotify.com/track/6VEEzKXbaLIzRjCYXYlzi6) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [GHETTO](https://open.spotify.com/album/0aLRZQl5n4zKvejDignqyK) | 2:18 | 2023-10-13 | 2024-06-15 |
+| [Quadruple \(feat\. Future\)](https://open.spotify.com/track/4TFoLFYufN177kMZ98Xy9A) | [Tm88](https://open.spotify.com/artist/5RMUeKq0dZxg9RHE1f0B9P), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [F.I.L.A 25 \(Forever I Love Atlanta\)](https://open.spotify.com/album/0ADz82vTyvfaNVs9rb8cJ5) | 2:56 | 2025-12-08 |  |
 | [raise your hands](https://open.spotify.com/track/3IEALkYIYBPaJQka035lCX) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [310degrees](https://open.spotify.com/album/13AhshxPGH647ftmQdhSdv) | 1:28 | 2024-10-10 | 2025-02-01 |
 | [Really Jimmy?](https://open.spotify.com/track/7l5BOk1PkUOwoDbHMTmWXw) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Really Jimmy?](https://open.spotify.com/album/21Ab1Dhiv8sRxliLUuyK1g) | 1:51 | 2024-10-15 | 2024-11-19 |
 | [RIO FREE](https://open.spotify.com/track/1H3BKRHPHblRSbEm5HSPfU) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [RIO FREE](https://open.spotify.com/album/7timfkRN7jFMqKwMAvfG8J) | 3:20 | 2024-12-13 |  |
@@ -203,6 +206,7 @@
 | [Way Bigga](https://open.spotify.com/track/5JAUQsLfN5WJ0qL8KJan8l) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx) | [Trimmer Den Ever](https://open.spotify.com/album/5XOuzRTrs00lsfbH1zXrIn) | 2:01 | 2023-11-03 | 2025-02-01 |
 | [West Coast Weekend](https://open.spotify.com/track/3qnznOzVFYuDWjidDAxEV4) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [West Coast Weekend](https://open.spotify.com/album/0JGkeI57qkg0jZbqPzzc25) | 3:19 | 2023-06-09 |  |
 | [whoa \(mind in awe\) \- Remix](https://open.spotify.com/track/4lkpfY2wfmHj958Fr32kHS) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [whoa \(mind in awe\) \[Remix\]](https://open.spotify.com/album/55lzDv6LGUMY1CdxWGAtic) | 3:16 | 2025-05-30 |  |
+| [Why](https://open.spotify.com/track/5m7WSCHb0I8wBSAM0xAVOq) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Why](https://open.spotify.com/album/78eqoV7ejwEOZreqaRYaes) | 2:32 | 2025-12-08 |  |
 | [Won't Be Lonely](https://open.spotify.com/track/1IV5X8CiOr1dfbQcmP2AWO) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [The Big Bang](https://open.spotify.com/album/20pOEJXUCejxsAp14Uuc2e) | 3:50 | 2025-05-28 |  |
 | [Ya Feel Me](https://open.spotify.com/track/6vYcahYlvDglD2q1xAoMOa) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Ya Feel Me](https://open.spotify.com/album/0qlOJtCUJ7rJKjbxjIzlLI) | 3:44 | 2025-07-07 |  |
 | [Yea Freestyle](https://open.spotify.com/track/1tNIrPGSAhs4wquxihb01G) | [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [No Socks 3](https://open.spotify.com/album/0TuZ9izuLgcVvN7dKyqRRb) | 3:06 | 2023-09-29 | 2024-01-20 |

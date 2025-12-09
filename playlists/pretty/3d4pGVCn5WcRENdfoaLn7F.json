@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 342,
+  "num_followers": 343,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACEkC86p/bP16+h+c41Ed2HFk6PIDA",
+  "snapshot_id": "AAACE1goxJFMCdAvYd0JmdliWouQH7sN",
   "tracks": [
     {
       "added_at": "2025-11-16 12:40:10",
@@ -1015,6 +1015,22 @@
       "duration_ms": 170828,
       "name": "ostracized myself",
       "url": "https://open.spotify.com/track/4kedkU5YfOg9aP3Rhaqh8Y"
+    },
+    {
+      "added_at": "2025-12-08 13:33:06",
+      "album": {
+        "name": "C.A.R.O.L (Can't Always Rely On Logic)",
+        "url": "https://open.spotify.com/album/6WkWXr3yPcAWRdHnuV8uZz"
+      },
+      "artists": [
+        {
+          "name": "FaveRiot",
+          "url": "https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN"
+        }
+      ],
+      "duration_ms": 146227,
+      "name": "C.A.R.O.L (Can't Always Rely On Logic)",
+      "url": "https://open.spotify.com/track/6xl56wh97kK5kdTvrpw3qH"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

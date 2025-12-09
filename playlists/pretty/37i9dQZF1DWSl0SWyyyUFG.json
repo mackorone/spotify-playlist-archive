@@ -1,6 +1,6 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. Julio Preciado en portada.",
-  "num_followers": 401366,
+  "num_followers": 401477,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3"
-      },
-      "artists": [
-        {
-          "name": "Banda Arkangel R-15",
-          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
-        }
-      ],
-      "duration_ms": 226813,
-      "name": "Voy a Pintar Mi Raya",
-      "url": "https://open.spotify.com/track/0JFOXqd9N6RlMaAFlaaqFw"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
         "name": "Banda Peque\u00f1os Musical",
         "url": "https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 174146,
       "name": "La nena",
       "url": "https://open.spotify.com/track/11nbpj3Am8EBgjdGw3dqjY"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3"
+      },
+      "artists": [
+        {
+          "name": "Banda Arkangel R-15",
+          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
+        }
+      ],
+      "duration_ms": 226813,
+      "name": "Voy a Pintar Mi Raya",
+      "url": "https://open.spotify.com/track/0JFOXqd9N6RlMaAFlaaqFw"
     },
     {
       "added_at": "2024-07-03 18:00:30",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
-        "name": "Sangre de indio",
-        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 162800,
-      "name": "Al gato y al rat\u00f3n",
-      "url": "https://open.spotify.com/track/3qtsVB90KMoccHtSCbAHOE"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
         "name": "Recuerdos y algo m\u00e1s",
         "url": "https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 208533,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/2QE8R10kBgZkgosYsrChT7"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
+        "name": "Sangre de indio",
+        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 162800,
+      "name": "Al gato y al rat\u00f3n",
+      "url": "https://open.spotify.com/track/3qtsVB90KMoccHtSCbAHOE"
     },
     {
       "added_at": "2024-07-03 18:00:30",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
-        "name": "Joan Sebastian Con Tambora",
-        "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 139691,
-      "name": "Ojitos De Golondrina",
-      "url": "https://open.spotify.com/track/5m5g55OSy0kQnaxKU4lZ11"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
         "name": "Romantico incurable",
         "url": "https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 223466,
       "name": "Rom\u00e1ntico incurable",
       "url": "https://open.spotify.com/track/0jxbA98tGD0s18YVfpOEco"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
+        "name": "Joan Sebastian Con Tambora",
+        "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 139691,
+      "name": "Ojitos De Golondrina",
+      "url": "https://open.spotify.com/track/5m5g55OSy0kQnaxKU4lZ11"
     },
     {
       "added_at": "2024-07-03 18:00:30",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
-        "name": "Antonio Aguilar Con Tambora",
-        "url": "https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 215512,
-      "name": "Cuatro Milpas",
-      "url": "https://open.spotify.com/track/0vl7HCsQ8gDOKwgcBYEKYx"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
         "name": "En grande",
         "url": "https://open.spotify.com/album/5J6wDtwCGok12ta08ixCsA"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 175706,
       "name": "La cuca",
       "url": "https://open.spotify.com/track/7xnM2mrHUyb1Lr8gUhj4j7"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
+        "name": "Antonio Aguilar Con Tambora",
+        "url": "https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 215512,
+      "name": "Cuatro Milpas",
+      "url": "https://open.spotify.com/track/0vl7HCsQ8gDOKwgcBYEKYx"
     },
     {
       "added_at": "2024-07-03 18:00:30",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
-        "name": "Antonio Aguilar Con Tambora",
-        "url": "https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 184466,
-      "name": "Mi Ranchito",
-      "url": "https://open.spotify.com/track/6R5oDL4do0PYVP3Pn4fAvy"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
         "name": "Una Aventura",
         "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 185469,
       "name": "Al Mismo Nivel",
       "url": "https://open.spotify.com/track/1evKB90fOuaj6oMSBESdhK"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
+        "name": "Antonio Aguilar Con Tambora",
+        "url": "https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "Mi Ranchito",
+      "url": "https://open.spotify.com/track/6R5oDL4do0PYVP3Pn4fAvy"
     },
     {
       "added_at": "2024-07-03 18:00:30",

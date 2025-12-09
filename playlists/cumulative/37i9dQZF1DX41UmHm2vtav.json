@@ -3791,6 +3791,28 @@
     },
     {
       "album": {
+        "name": "Please Don't Go (Bruno Martini Remix)",
+        "url": "https://open.spotify.com/album/5gHdb3YQGim7COUZgsPWdt"
+      },
+      "artists": [
+        {
+          "name": "Double You",
+          "url": "https://open.spotify.com/artist/2x0mCNdW4P27f3WE0iuQTV"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        }
+      ],
+      "date_added": "2025-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158774,
+      "name": "Please Don't Go - Bruno Martini Remix",
+      "url": "https://open.spotify.com/track/35hL1RBchmPifhV6T1OXxI"
+    },
+    {
+      "album": {
         "name": "Pontos de Exclama\u00e7\u00e3o (Vintage Culture & Future Class Remix)",
         "url": "https://open.spotify.com/album/1ybOW9Fx8sYsrPMBRlQYbY"
       },
@@ -4820,7 +4842,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 179512,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/1AlCvRJFF2Ze5FX54uHZqb"

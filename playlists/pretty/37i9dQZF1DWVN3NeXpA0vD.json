@@ -1,6 +1,6 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 26431,
+  "num_followers": 26427,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
+        "name": "Angel Baby",
+        "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 220779,
+      "name": "Angel Baby",
+      "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
         "name": "Promises (with Sam Smith)",
         "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 213309,
       "name": "Promises (with Sam Smith)",
       "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
-        "name": "Angel Baby",
-        "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 220779,
-      "name": "Angel Baby",
-      "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Swing (Mahmut Orhan Remix)",
-        "url": "https://open.spotify.com/album/06yKFgvSkOVfq6CIc2icWL"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        }
-      ],
-      "duration_ms": 269431,
-      "name": "Swing - Mahmut Orhan Remix",
-      "url": "https://open.spotify.com/track/1ixFMrUVX7HMSctONowS3G"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Low Season",
         "url": "https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 234493,
       "name": "Around The Sun",
       "url": "https://open.spotify.com/track/3OeHPk27py8JaMUqIebznh"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Swing (Mahmut Orhan Remix)",
+        "url": "https://open.spotify.com/album/06yKFgvSkOVfq6CIc2icWL"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        }
+      ],
+      "duration_ms": 269431,
+      "name": "Swing - Mahmut Orhan Remix",
+      "url": "https://open.spotify.com/track/1ixFMrUVX7HMSctONowS3G"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
+        "name": "SUPERBLOOM",
+        "url": "https://open.spotify.com/album/59f3BAKRdlWeaGTetnUPob"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "duration_ms": 213546,
+      "name": "SUPERBLOOM",
+      "url": "https://open.spotify.com/track/2HvtedoEeymVWrBPyAMNwZ"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/5rbJtzuXtpIP0Ykk7ewIit"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 172933,
       "name": "Let It Be Me (feat. Ava Max)",
       "url": "https://open.spotify.com/track/2F83FxNVkK6PPMHuYnwyVc"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
-        "name": "SUPERBLOOM",
-        "url": "https://open.spotify.com/album/59f3BAKRdlWeaGTetnUPob"
-      },
-      "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        }
-      ],
-      "duration_ms": 213546,
-      "name": "SUPERBLOOM",
-      "url": "https://open.spotify.com/track/2HvtedoEeymVWrBPyAMNwZ"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 211784,
+      "name": "Still Learning",
+      "url": "https://open.spotify.com/track/2Mfv5HaqnI18Q9JRv9hqnn"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
         "name": "All The Lies",
         "url": "https://open.spotify.com/album/4JFyas1xaX9NnAvRP9DhKF"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 179456,
       "name": "All The Lies",
       "url": "https://open.spotify.com/track/6PqUdUGS4h5aGY7YyEGXr8"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
-        "name": "Manic",
-        "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 211784,
-      "name": "Still Learning",
-      "url": "https://open.spotify.com/track/2Mfv5HaqnI18Q9JRv9hqnn"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1831,30 +1831,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "SCOOB! The Album",
-        "url": "https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164683,
-      "name": "On Me (feat. Ava Max)",
-      "url": "https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/5OrSjlgjIvI3GmTnTt6wnT"
       },
@@ -1895,6 +1871,30 @@
       "duration_ms": 205760,
       "name": "Let Me Live (feat. Anne-Marie & Mr Eazi)",
       "url": "https://open.spotify.com/track/3D1rlKmZdpYUeMtRRLNawc"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "SCOOB! The Album",
+        "url": "https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164683,
+      "name": "On Me (feat. Ava Max)",
+      "url": "https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc"
     },
     {
       "added_at": "2024-07-03 14:32:39",

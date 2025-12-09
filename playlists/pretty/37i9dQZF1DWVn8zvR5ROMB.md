@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Zac Brown Band, Luke Combs, Tucker Wetmore and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,693 likes - 91 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,734 likes - 91 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 27 | [Whiskey and Water](https://open.spotify.com/track/4tDj7Nlfn1OfOFfXpvrm6g) | [Rose Falcon](https://open.spotify.com/artist/3M2ei8oRgZ3TwTo6F6votj) | [Whiskey and Water](https://open.spotify.com/album/7bWBIhSORAl6lwF48LgaaY) | 3:44 |
 | 28 | [My Love](https://open.spotify.com/track/3jmr2o3tdbA8lWPtpCxCl5) | [Levi Turner](https://open.spotify.com/artist/0QwS0oC5xcBWPmWfjGAhH6) | [My Love](https://open.spotify.com/album/38ZC9zLGxyFNQR96ABazS5) | 3:37 |
 | 29 | [You're The One](https://open.spotify.com/track/7sxa6JOc7pcAaCyVuxEjAp) | [Brandt Carmichael](https://open.spotify.com/artist/65HDAlEXHrIu7e5ago87Ar) | [You're The One](https://open.spotify.com/album/1QzKhyQuaBZG3RXujy7vKo) | 3:00 |
-| 30 | [No One Like A Quitter](https://open.spotify.com/track/1yEuxNUKpFQKH1MQpicqJA) | [Grace Gunn](https://open.spotify.com/artist/7DZxs9KX3xr0C5T2y3Mi16) | [No One Likes A Quitter](https://open.spotify.com/album/559jKp7OlakFrh2nLLSojD) | 3:02 |
+| 30 | [No One Likes A Quitter](https://open.spotify.com/track/1yEuxNUKpFQKH1MQpicqJA) | [Grace Gunn](https://open.spotify.com/artist/7DZxs9KX3xr0C5T2y3Mi16) | [No One Likes A Quitter](https://open.spotify.com/album/559jKp7OlakFrh2nLLSojD) | 3:02 |
 | 31 | [Money Down](https://open.spotify.com/track/29lKxINyfVolz8YGHxhELZ) | [Davis Cook](https://open.spotify.com/artist/5mriuNvLdhgaCHSg5dC3mF) | [Money Down](https://open.spotify.com/album/4GmazDnhi9mpQdDupUwQgR) | 3:02 |
 | 32 | [Dig In](https://open.spotify.com/track/38ugWOmIKHxZ9Kzdv1QNmX) | [Wes Bayliss](https://open.spotify.com/artist/4HVDdibCfau9ebwkNxDp0f) | [Dig In](https://open.spotify.com/album/5g6Ak4rTGW5t11O3mTJy3N) | 3:58 |
 | 33 | [Cold Heart On Fire](https://open.spotify.com/track/5ibSE1K2H1RsLCH1iHqKzs) | [Josiah Siska](https://open.spotify.com/artist/0xRlqiatkqSzYyaAofNHlx) | [Cold Heart On Fire](https://open.spotify.com/album/6BOBagEQql0GjIiJrKLZMQ) | 2:38 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 23496,
+  "num_followers": 23511,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAABo0tGtmxRFF+Bg0gybUWD+",
+  "snapshot_id": "aTTDgAAAAAClhtx6zwDZrzvK/tUh9zKM",
   "tracks": [
     {
       "added_at": null,
@@ -827,6 +827,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zo Mooi (feat. Nienke Plas) [Outsiders Remix]",
+        "url": "https://open.spotify.com/album/6fJTqLijxMdr26VfQ2KwGN"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Nienke Plas",
+          "url": "https://open.spotify.com/artist/2R2mPd6EjU9Qpbpgmzpd5w"
+        }
+      ],
+      "duration_ms": 182787,
+      "name": "Zo Mooi (feat. Nienke Plas) - Outsiders Remix",
+      "url": "https://open.spotify.com/track/5qdldVe5utAJBIzwcVGaF5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zimmer Frei",
         "url": "https://open.spotify.com/album/32scrhlBaSowEpVQBkO1e5"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 173988,
       "name": "Zimmer Frei",
       "url": "https://open.spotify.com/track/2sEJ7YtIK2qpEu7aGQMzia"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zo Mooi (feat. Nienke Plas) [Outsiders Remix]",
-        "url": "https://open.spotify.com/album/6fJTqLijxMdr26VfQ2KwGN"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Nienke Plas",
-          "url": "https://open.spotify.com/artist/2R2mPd6EjU9Qpbpgmzpd5w"
-        }
-      ],
-      "duration_ms": 182787,
-      "name": "Zo Mooi (feat. Nienke Plas) - Outsiders Remix",
-      "url": "https://open.spotify.com/track/5qdldVe5utAJBIzwcVGaF5"
     },
     {
       "added_at": null,
@@ -1048,7 +1048,7 @@
       "added_at": null,
       "album": {
         "name": "Hatsikidee",
-        "url": "https://open.spotify.com/album/3va5yZwEUN4fckFXtxVp1G"
+        "url": "https://open.spotify.com/album/1P3mcocWTPhsr54xKLsTg1"
       },
       "artists": [
         {
@@ -1062,7 +1062,7 @@
       ],
       "duration_ms": 175371,
       "name": "Hatsikidee",
-      "url": "https://open.spotify.com/track/3OpwMh5yYfVaqHfPjfpacG"
+      "url": "https://open.spotify.com/track/6Nl6jXoGdVZQMsC8jGiK9B"
     },
     {
       "added_at": null,

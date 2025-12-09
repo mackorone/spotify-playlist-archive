@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 482,
+  "num_followers": 488,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAEGB6EIdT25PFtobOYLSYjpLy2Es/K",
+  "snapshot_id": "AAAEHOo8/cLTXfT4t6DoPiI92YCzhulT",
   "tracks": [
     {
       "added_at": "2025-11-20 17:10:09",
@@ -1963,6 +1963,70 @@
       "duration_ms": 196153,
       "name": "I Am Flawed",
       "url": "https://open.spotify.com/track/3oYFTvvRrZ9KSMq7hbuaOo"
+    },
+    {
+      "added_at": "2025-12-08 13:26:47",
+      "album": {
+        "name": "Gullible",
+        "url": "https://open.spotify.com/album/19dtDjcnes6R1Ohg2tvH2a"
+      },
+      "artists": [
+        {
+          "name": "Rivera",
+          "url": "https://open.spotify.com/artist/0o3CCG8AUPD5NwZb0hqDOX"
+        }
+      ],
+      "duration_ms": 238446,
+      "name": "Gullible",
+      "url": "https://open.spotify.com/track/6YPvJW4uHwCQxqfAf1y7yT"
+    },
+    {
+      "added_at": "2025-12-08 13:32:08",
+      "album": {
+        "name": "My Wings",
+        "url": "https://open.spotify.com/album/5YBEL7PVdJsWTwPOBxlpCQ"
+      },
+      "artists": [
+        {
+          "name": "Bliss On The Stars",
+          "url": "https://open.spotify.com/artist/6mVn8YjdSG1C5PxcksAeiU"
+        }
+      ],
+      "duration_ms": 264243,
+      "name": "My Wings",
+      "url": "https://open.spotify.com/track/4uvvxklqvcOxTrNdvnZTco"
+    },
+    {
+      "added_at": "2025-12-08 13:40:35",
+      "album": {
+        "name": "Sereno y aislado (El viaje del pirata)",
+        "url": "https://open.spotify.com/album/6UeRvfX3oTwQ5Z7i3b7Cw3"
+      },
+      "artists": [
+        {
+          "name": "Luis Mera Lucky",
+          "url": "https://open.spotify.com/artist/629odbW6ae9N0hHdmtwbpP"
+        }
+      ],
+      "duration_ms": 228774,
+      "name": "A ralent\u00ed",
+      "url": "https://open.spotify.com/track/5d9ZbyfXEKs5lErqOH23M8"
+    },
+    {
+      "added_at": "2025-12-08 13:43:12",
+      "album": {
+        "name": "I'll Try To Be Me",
+        "url": "https://open.spotify.com/album/4KRfApT06AeCFlLhTWY8qW"
+      },
+      "artists": [
+        {
+          "name": "Ashstone",
+          "url": "https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG"
+        }
+      ],
+      "duration_ms": 224694,
+      "name": "I'll Try To Be Me",
+      "url": "https://open.spotify.com/track/0pZxLIpnGqaSdlHZ8py0ox"
     }
   ],
   "unique_name": "Unsigned Rock",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXF8Nf1uycDZ.md) - [plain]
 
 > This week: the legendary Jamiroquai takes over with the best 90&00s grooves 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,015 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 853,983 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

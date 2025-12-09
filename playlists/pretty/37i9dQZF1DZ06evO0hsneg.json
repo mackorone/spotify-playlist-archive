@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAADH7d0GifGHqfIrk6gxJnkd",
+  "snapshot_id": "aTTDgAAAAADhuEnP641T2/PEWczyO8o5",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GOOD GIRL",
+        "url": "https://open.spotify.com/album/3zyNlsDiR0lUdH8EbBgigi"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 173871,
+      "name": "GOOD GIRL",
+      "url": "https://open.spotify.com/track/39sWePYge6aUJ0SbxdtRlg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Decide",
         "url": "https://open.spotify.com/album/2slywIgmb7LB6uZxh68HCO"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 268051,
       "name": "Decide",
       "url": "https://open.spotify.com/track/1agoTVhdFUt7ELV8MTDBvc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GOOD GIRL",
-        "url": "https://open.spotify.com/album/3zyNlsDiR0lUdH8EbBgigi"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 173871,
-      "name": "GOOD GIRL",
-      "url": "https://open.spotify.com/track/39sWePYge6aUJ0SbxdtRlg"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't Gonna Give Up",
-        "url": "https://open.spotify.com/album/7v438AAJXGmtBAAjbKNAk3"
-      },
-      "artists": [
-        {
-          "name": "RAN",
-          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
-        },
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 233170,
-      "name": "Ain't Gonna Give Up",
-      "url": "https://open.spotify.com/track/51Paj0yk4XnAKG6ZMOmKjX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "no bethany",
         "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 174767,
       "name": "i make time (feat. Matter Mos)",
       "url": "https://open.spotify.com/track/58BwDfVM4lTmfSbT1Qd3pL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't Gonna Give Up",
+        "url": "https://open.spotify.com/album/7v438AAJXGmtBAAjbKNAk3"
+      },
+      "artists": [
+        {
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 233170,
+      "name": "Ain't Gonna Give Up",
+      "url": "https://open.spotify.com/track/51Paj0yk4XnAKG6ZMOmKjX"
     },
     {
       "added_at": null,
@@ -867,6 +867,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "no bethany",
+        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Rayi Putra",
+          "url": "https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR"
+        }
+      ],
+      "duration_ms": 181185,
+      "name": "out of control (feat. Rayi Putra)",
+      "url": "https://open.spotify.com/track/6AQYZbm4UrqyWBVpHy4Kax"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Tinder",
         "url": "https://open.spotify.com/album/752XikWcA9rEK5EtH57Ove"
       },
@@ -891,28 +911,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "no bethany",
-        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Rayi Putra",
-          "url": "https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR"
-        }
-      ],
-      "duration_ms": 181185,
-      "name": "out of control (feat. Rayi Putra)",
-      "url": "https://open.spotify.com/track/6AQYZbm4UrqyWBVpHy4Kax"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHACHU MEAN",
-        "url": "https://open.spotify.com/album/5FoWzMHf0UQsb4bdKPYz1t"
+        "name": "FASHION",
+        "url": "https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 214159,
-      "name": "WHACHU MEAN",
-      "url": "https://open.spotify.com/track/4l6yAxdimokdajN3NqpSL7"
+      "duration_ms": 193853,
+      "name": "FASHION",
+      "url": "https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3"
     },
     {
       "added_at": null,
@@ -947,8 +947,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FASHION",
-        "url": "https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH"
+        "name": "WHACHU MEAN",
+        "url": "https://open.spotify.com/album/5FoWzMHf0UQsb4bdKPYz1t"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 193853,
-      "name": "FASHION",
-      "url": "https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3"
+      "duration_ms": 214159,
+      "name": "WHACHU MEAN",
+      "url": "https://open.spotify.com/track/4l6yAxdimokdajN3NqpSL7"
     },
     {
       "added_at": null,
@@ -1063,22 +1063,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "no bethany",
-        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 205943,
-      "name": "gippal",
-      "url": "https://open.spotify.com/track/6dGpsVXOIQaRmaVyke05Yk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JUICY (From \"Joy Ride\" Official Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6MUIJVlfMQN8764XMTO1H6"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 150929,
       "name": "JUICY - From \"Joy Ride\" Official Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/20KsaDEaSlQwM7Z9q3bDKl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "no bethany",
+        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 205943,
+      "name": "gippal",
+      "url": "https://open.spotify.com/track/6dGpsVXOIQaRmaVyke05Yk"
     },
     {
       "added_at": null,

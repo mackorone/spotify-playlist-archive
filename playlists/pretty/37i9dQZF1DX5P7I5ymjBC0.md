@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul\.  Cover\- Salim\-Sulaiman and Shankar Mahadevan
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,134 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,145 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 47 | [Ghir Ghir](https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 5:05 |
 | 48 | [Boondan Boondan \(feat\. Ankita Joshi\)](https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Ankita Joshi](https://open.spotify.com/artist/2jjXeSGZCkdF4FYmQ9bnvo) | [Maati Baani](https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf) | 4:33 |
 | 49 | [ROOTH GAYE](https://open.spotify.com/track/2iSIacvItNiyVAEL0OPNv1) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B) | [Between Flowers](https://open.spotify.com/album/6aZXy2FvufTTarx9K45hmB) | 2:19 |
-| 50 | [Bulbuli](https://open.spotify.com/track/3UQNpb3oIk5GWNu9efvNg5) | [Ritu Raj](https://open.spotify.com/artist/1yTkWdk95JHU9bD8gZWMor), [Nandita](https://open.spotify.com/artist/1olb97DNlYXqItxaR3qfxC) | [Bulbuli](https://open.spotify.com/album/4f5KGhlRtDxxxrQwLSnhZK) | 5:46 |
+| 50 | [Rasiya](https://open.spotify.com/track/34vM2tvtNynEM1IfK1t1wn) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA), [Kala Ramnath](https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ) | [Rang](https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV) | 6:08 |
 
 Snapshot ID: `AAAAADu1NoYG7rMdnWIKnXqXWcPF+ZTy`

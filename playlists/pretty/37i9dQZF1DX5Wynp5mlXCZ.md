@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: ONUKA & The Maneken
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,881 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,885 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 63 | [FENOMENAL'](https://open.spotify.com/track/1b977NIX97rPhUrvt57udY) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [FENOMENAL'](https://open.spotify.com/album/5c6g5EqMjyhZYGDgVHGiSS) | 2:57 |
 | 64 | [Zombie Lady](https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:08 |
 | 65 | [Небесами](https://open.spotify.com/track/1sEXmH4Ch0o6p2EETkgErS) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Небесами](https://open.spotify.com/album/6fa4E3bm7kDmxKomRw0nyv) | 3:07 |
-| 66 | [Чай \- «Ховаючи колишню»](https://open.spotify.com/track/7EbBBVkxknlzRi20czbAws) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Чай \(«Ховаючи колишню»\)](https://open.spotify.com/album/3yHBRGlcTKvOkl0J9PC2SB) | 3:09 |
-| 67 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 |
+| 66 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 |
+| 67 | [Чай \- «Ховаючи колишню»](https://open.spotify.com/track/7EbBBVkxknlzRi20czbAws) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Чай \(«Ховаючи колишню»\)](https://open.spotify.com/album/3yHBRGlcTKvOkl0J9PC2SB) | 3:09 |
 | 68 | [Walk of Fame \(feat\. Brittany Howard\) \- Edit](https://open.spotify.com/track/22tmzHt5QJ2sMKJefaqkjn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Walk of Fame \(feat\. Brittany Howard\) \[Edit\]](https://open.spotify.com/album/1vnLbFcRPUR6q9vkFuJY26) | 3:37 |
 | 69 | [If you know what I mean](https://open.spotify.com/track/6LOGjbEFqTrjfNsGgtd1eC) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q), [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Вічно Танцююча Людина](https://open.spotify.com/album/5gBKxnzXdF8eR8M5yos90c) | 3:37 |
 | 70 | [Галіція](https://open.spotify.com/track/4yNvkYzXH9Sn3a5mvz4Elr) | [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa) | [Галіція](https://open.spotify.com/album/7e4CpwI6XNosDUS6bpYz6r) | 3:22 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe alternative & rock releases. Cover: White Lies",
+  "description": "Nieuwe alternative & rock releases. Cover: GUNMOLL",
   "name": "New Alternative",
   "tracks": [
     {
@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "An Echo Skips A Name (alternate take)",
+        "url": "https://open.spotify.com/album/023pMLmF34xesCbWyqt9vx"
+      },
+      "artists": [
+        {
+          "name": "Apparat",
+          "url": "https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259712,
+      "name": "An Echo Skips A Name - alternate take",
+      "url": "https://open.spotify.com/track/5gdPquNbDKrE6FNpBRYnzL"
+    },
+    {
+      "album": {
         "name": "Anaesthesia",
         "url": "https://open.spotify.com/album/7iGKea5FnE5HpWQlhdihQk"
       },
@@ -1004,6 +1022,24 @@
       "duration_ms": 383400,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/60jhw0sIOSTjVmb9SkuA4s"
+    },
+    {
+      "album": {
+        "name": "Bad Blood",
+        "url": "https://open.spotify.com/album/0tnC5vI5qNEvCoQO9Em8Pg"
+      },
+      "artists": [
+        {
+          "name": "Wasted Youth Club",
+          "url": "https://open.spotify.com/artist/6fPbsRQTwFE5HTMNwZqyhw"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237506,
+      "name": "Bad Blood",
+      "url": "https://open.spotify.com/track/4B7Hl5uLoQK4fWfQsk2IIu"
     },
     {
       "album": {
@@ -1660,6 +1696,24 @@
       "duration_ms": 187537,
       "name": "Call Out Your Name (feat. Pete Townshend)",
       "url": "https://open.spotify.com/track/1Fim3XbNmxkFOAaw8uyVZE"
+    },
+    {
+      "album": {
+        "name": "First Rodeo",
+        "url": "https://open.spotify.com/album/0tMYQo9n5L7w1uRknqg7Qj"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223985,
+      "name": "Call You Home",
+      "url": "https://open.spotify.com/track/6asKWJ9heYSpUUlN77lgnc"
     },
     {
       "album": {
@@ -2377,6 +2431,24 @@
     },
     {
       "album": {
+        "name": "Dark Thoughts in Daylight",
+        "url": "https://open.spotify.com/album/0goH6xy0ucRpS2d5JWxj9C"
+      },
+      "artists": [
+        {
+          "name": "Brennt Vanneste",
+          "url": "https://open.spotify.com/artist/1riFgdQrsBc8CjBvNCoOd1"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278386,
+      "name": "Dark Thoughts in Daylight",
+      "url": "https://open.spotify.com/track/1MfX1zXwgaVP6JfIIAJ2DM"
+    },
+    {
+      "album": {
         "name": "Darkest Lullaby",
         "url": "https://open.spotify.com/album/1R1J4SFlMtGIuTeH7yS9yH"
       },
@@ -2612,7 +2684,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 173248,
       "name": "Disco Dream",
       "url": "https://open.spotify.com/track/1l7kpzfxOa7ZzMcgfQnKpV"
@@ -3541,6 +3613,24 @@
     },
     {
       "album": {
+        "name": "Fuck Everything Up",
+        "url": "https://open.spotify.com/album/6pr1PVk9f2mKJZ5w7cSQD8"
+      },
+      "artists": [
+        {
+          "name": "GUNMOLL",
+          "url": "https://open.spotify.com/artist/58JjVQf1svduEYcR9y3jba"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235934,
+      "name": "Fuck Everything Up",
+      "url": "https://open.spotify.com/track/7niEycC20mzMNSA0qq4VTf"
+    },
+    {
+      "album": {
         "name": "FUCK IT UP",
         "url": "https://open.spotify.com/album/3CHrnLadhESg6r2NIit9rt"
       },
@@ -3934,7 +4024,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 227543,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/5klilPxJcv8xnwcFj4zL0U"
@@ -4006,7 +4096,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 248706,
       "name": "H.Y",
       "url": "https://open.spotify.com/track/5rpyfx9kAXFY81pEARU0cL"
@@ -4366,7 +4456,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 160924,
       "name": "Hinge",
       "url": "https://open.spotify.com/track/115eVVoPwI1MnXrEA0IEYv"
@@ -4456,7 +4546,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 211900,
       "name": "Hollywood_",
       "url": "https://open.spotify.com/track/3xF3eS7bjL0nXDrvgOYidS"
@@ -4474,7 +4564,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 197186,
       "name": "Holy Sugar",
       "url": "https://open.spotify.com/track/51havxh7w9XYBjFWOAlrE5"
@@ -4788,6 +4878,24 @@
       "duration_ms": 189740,
       "name": "I Know",
       "url": "https://open.spotify.com/track/0PBo3D8IEzTDdD1W5uPAfA"
+    },
+    {
+      "album": {
+        "name": "I Paint Walls",
+        "url": "https://open.spotify.com/album/7vH4Legw6NjPGKY4u1RVpY"
+      },
+      "artists": [
+        {
+          "name": "L.A. Sagne",
+          "url": "https://open.spotify.com/artist/6vapR4KOszK2FbsUe3txCO"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156560,
+      "name": "I Paint Walls",
+      "url": "https://open.spotify.com/track/6DcZj3VARz2ANeqy7gncJb"
     },
     {
       "album": {
@@ -5458,7 +5566,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 214365,
       "name": "Just a Lie",
       "url": "https://open.spotify.com/track/2SzQR32JD57uxEBGXKGE6e"
@@ -6986,7 +7094,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 212497,
       "name": "NEW AGE",
       "url": "https://open.spotify.com/track/1iBoLtHJkiR4JHcZSoDtF9"
@@ -7840,7 +7948,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 261959,
       "name": "Post Sex Clarity",
       "url": "https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg"
@@ -7930,7 +8038,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 185040,
       "name": "Quiet Boys",
       "url": "https://open.spotify.com/track/1sNL7NZPkrn7zGF7ai5Dnv"
@@ -8284,6 +8392,24 @@
       "duration_ms": 148145,
       "name": "Ruin The Night",
       "url": "https://open.spotify.com/track/3GPA9Wg2oqjxapFZsQOuhh"
+    },
+    {
+      "album": {
+        "name": "Run Away (High-Energy)",
+        "url": "https://open.spotify.com/album/6R9B6o1pj5r5lwJXITzAQY"
+      },
+      "artists": [
+        {
+          "name": "FAT CAT",
+          "url": "https://open.spotify.com/artist/6l9CCoUEfkGkaY1nFocUtR"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250476,
+      "name": "Run Away - High-Energy",
+      "url": "https://open.spotify.com/track/0TlqxXDWP2n4U8p0oCqCpY"
     },
     {
       "album": {
@@ -9984,7 +10110,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 268626,
       "name": "The Cheapest Seats",
       "url": "https://open.spotify.com/track/0gFwzYpoS3w2cPibHvy5zw"
@@ -10002,7 +10128,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 163601,
       "name": "The Club",
       "url": "https://open.spotify.com/track/6LrwJUlJzvlmLvKsEqAeI4"
@@ -10168,7 +10294,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 284775,
       "name": "The Happy Dictator (feat. Sparks)",
       "url": "https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d"
@@ -10294,7 +10420,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 343655,
       "name": "The Others",
       "url": "https://open.spotify.com/track/30J1M6E3h8s6fMKCJ7GbFX"
@@ -11594,7 +11720,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 130358,
       "name": "WHO ARE YOU?",
       "url": "https://open.spotify.com/track/4jsEvNAIuWsWmTg71ZWHHq"

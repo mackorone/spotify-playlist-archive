@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases.
 
-839 songs - 1 day 17 hr 47 min
+840 songs - 1 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -816,6 +816,7 @@
 | [What's A Girl To Do](https://open.spotify.com/track/5o4zD3SATxUoVeK0gb9nIa) | [Luvstruck](https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy) | [What's A Girl To Do](https://open.spotify.com/album/1hd7Vh5v5by9oGT4sFmnVC) | 2:27 | 2024-08-08 | 2024-08-31 |
 | [What's A Girl To Do \(Yuvèe Remix\)](https://open.spotify.com/track/7opQkDhvgNdbVdVdswx4fg) | [Luvstruck](https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy), [Yuvèe](https://open.spotify.com/artist/2uUpxGX8XaVGhqh398dP2f) | [What's A Girl To Do \(Yuvèe Remix\)](https://open.spotify.com/album/3ZRz2uj1FwGTeQ3GeE96Pl) | 2:54 | 2025-10-23 |  |
 | [What's A Girl To Do \- Lee Ann Roberts Remix](https://open.spotify.com/track/2n4WGBY9hf6XDSR5kwPsKK) | [Luvstruck](https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy), [Lee Ann Roberts](https://open.spotify.com/artist/0vemAVjLY9Dbz229ZqRlT1) | [What's A Girl To Do \(Remix EP\)](https://open.spotify.com/album/6g4pi5R13bWwrlLM3aiSV1) | 2:37 | 2025-03-20 | 2025-05-31 |
+| [When I Close My Eyes](https://open.spotify.com/track/7azsXZN9ULLfD5dljPIOra) | [Chewna](https://open.spotify.com/artist/5l4PPDSksNWKwxSeffDjr1) | [When I Close My Eyes](https://open.spotify.com/album/6S4RttyMki1ty5Y7Z40waj) | 3:21 | 2025-12-08 |  |
 | [When It Runs Out \(feat\. Felix Samuel\)](https://open.spotify.com/track/4MZCttWZHqjmIefkrUiA0t) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [When It Runs Out \(feat\. Felix Samuel\)](https://open.spotify.com/album/4mvaF4ugSd44nVs4SLsTZs) | 2:07 | 2024-10-10 | 2024-11-08 |
 | [When You Look At Me](https://open.spotify.com/track/0F2UzAXf3sBZwtg2cUCTNp) | [Sander Divino](https://open.spotify.com/artist/7hLVw9xpKDqBWS845jerYi), [TESS](https://open.spotify.com/artist/3n7GqhJ1ozC746OH8OrXLQ) | [When You Look At Me](https://open.spotify.com/album/4lxNGaPWnpHoTkDcGYUVMY) | 2:25 | 2024-07-26 | 2024-08-02 |
 | [When You Sleep Next to Her \- Remix](https://open.spotify.com/track/24gGDuhCGsVJzXSSUyDFea) | [ROMI](https://open.spotify.com/artist/47uZflS5WY2Cw7QrZNccNM), [Yinon Yahel](https://open.spotify.com/artist/4zb1vwmtrqCEqDJnt9MvEs) | [When You Sleep Next to Her \(Remix\)](https://open.spotify.com/album/1SCHRrUSTkYQtzsJm0yV2Y) | 2:28 | 2025-11-21 |  |

@@ -1,13 +1,270 @@
 {
   "description": "Enjoy exclusive live performance videos from K-Pop artists produced by Spotify! (\uc2a4\ud3ec\ud2f0\ud30c\uc774\uac00 \ud504\ub85c\ub4c0\uc2f1\ud55c \ucf00\uc774\ud31d \uc544\ud2f0\uc2a4\ud2b8\ub4e4\uc758 \ud2b9\ubcc4\ud55c \ub77c\uc774\ube0c \ud37c\ud3ec\uba3c\uc2a4 \ube44\ub514\uc624\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 154,
+  "num_followers": 158,
   "original_name": "K-Pop Performance Video by Spotify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "AAAAAJVNzjSdD+XebJlqBKk7dT5pJhxz",
-  "tracks": [],
+  "tracks": [
+    {
+      "added_at": "2025-11-19 11:56:49",
+      "album": {
+        "name": "O.O Pt. 1 (Baila)",
+        "url": "https://open.spotify.com/album/3UBnxG8yJO6Bp1lMlLBMZB"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 223850,
+      "name": "O.O Pt. 1 (Baila)",
+      "url": "https://open.spotify.com/track/0c15Tj9dcB3VgwDya7roED"
+    },
+    {
+      "added_at": "2025-11-19 11:56:49",
+      "album": {
+        "name": "O.O Part 1 (Baila)",
+        "url": "https://open.spotify.com/album/3hndrP38zWOzZFDIIyDsB7"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 223848,
+      "name": "O.O Part 1 (Baila)",
+      "url": "https://open.spotify.com/track/6dx6xPMkBwPXdRXtaFEk1T"
+    },
+    {
+      "added_at": "2025-11-19 11:56:49",
+      "album": {
+        "name": "Star Eyes (Spotify Live Version)",
+        "url": "https://open.spotify.com/album/5QPRhveyVrCxrDpgeMUZ8F"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "duration_ms": 264341,
+      "name": "Star Eyes (Spotify Live Version)",
+      "url": "https://open.spotify.com/track/5vDhLCnufZRYk4W43gOJjP"
+    },
+    {
+      "added_at": "2025-11-19 11:56:49",
+      "album": {
+        "name": "Star Eyes (Spotify Live Version)",
+        "url": "https://open.spotify.com/album/4hoBN3h0te1QXuzLfKbs5V"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "duration_ms": 264341,
+      "name": "Star Eyes (Spotify Live Version)",
+      "url": "https://open.spotify.com/track/70onuk40GO7rAoJv8GCrbs"
+    },
+    {
+      "added_at": "2025-11-19 11:56:49",
+      "album": {
+        "name": "oops!",
+        "url": "https://open.spotify.com/album/53P9gkabZ0sup2pTa0ySJs"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 200682,
+      "name": "oops!",
+      "url": "https://open.spotify.com/track/68UnaGof7Bd6UEQn75Bsb9"
+    },
+    {
+      "added_at": "2025-11-19 11:56:49",
+      "album": {
+        "name": "oops!",
+        "url": "https://open.spotify.com/album/5tpi5cegn37C5Eb5inSESa"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 200682,
+      "name": "oops!",
+      "url": "https://open.spotify.com/track/0rY7KVfZoLlUHVpCD7KEAm"
+    },
+    {
+      "added_at": "2025-11-19 11:56:49",
+      "album": {
+        "name": "Upside Down Kiss",
+        "url": "https://open.spotify.com/album/3kxXhrAyzON1BSAh62dD4Q"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 169642,
+      "name": "Upside Down Kiss",
+      "url": "https://open.spotify.com/track/6iaupFZ3bRJFxfoyYGHIs1"
+    },
+    {
+      "added_at": "2025-11-19 11:56:49",
+      "album": {
+        "name": "Upside Down Kiss",
+        "url": "https://open.spotify.com/album/5bWPidA83oIMmECU5n8AAq"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 169642,
+      "name": "Upside Down Kiss",
+      "url": "https://open.spotify.com/track/32sf5Wf5C856fqrTntigSS"
+    },
+    {
+      "added_at": "2025-11-19 11:56:49",
+      "album": {
+        "name": "Promise - Spotify Live Version",
+        "url": "https://open.spotify.com/album/4Ze2b2wEqXr6dxntYIBnqk"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 235498,
+      "name": "Promise - Spotify Live Version",
+      "url": "https://open.spotify.com/track/1RJBfvb4imdz0YE0UMoG70"
+    },
+    {
+      "added_at": "2025-11-19 11:56:49",
+      "album": {
+        "name": "Promise - Spotify Live Version",
+        "url": "https://open.spotify.com/album/4qOtsmxBucEfVWW0nNXR2d"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 250583,
+      "name": "Promise - Spotify Live Version",
+      "url": "https://open.spotify.com/track/6rX8SGj26SdWa0RyD9d4du"
+    },
+    {
+      "added_at": "2025-11-19 11:56:49",
+      "album": {
+        "name": "Promise - Spotify Live Version",
+        "url": "https://open.spotify.com/album/7CYADSNmR8ZFjhrIg8JCqf"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 250560,
+      "name": "Promise - Spotify Live Version",
+      "url": "https://open.spotify.com/track/2GvaC8VwVrNwGTyrptfyhr"
+    },
+    {
+      "added_at": "2025-11-19 11:56:49",
+      "album": {
+        "name": "Promise - Spotify Live Version",
+        "url": "https://open.spotify.com/album/7DDuWzLVKJxRKPuKUgH9Ob"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 233237,
+      "name": "Promise - Spotify Live Version",
+      "url": "https://open.spotify.com/track/4ABOx8gMHbKsWYrMOBa2ZD"
+    },
+    {
+      "added_at": "2025-11-19 11:56:49",
+      "album": {
+        "name": "Freestyle",
+        "url": "https://open.spotify.com/album/3pr47kR7vZWpgsiLsGBFEa"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "duration_ms": 179541,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/6Wu30Ro8z8SLBUxsnfTKLI"
+    },
+    {
+      "added_at": "2025-11-19 11:56:49",
+      "album": {
+        "name": "Freestyle",
+        "url": "https://open.spotify.com/album/1xHNZeSRJIJSxqPlvD2Jkw"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "duration_ms": 179541,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/2rUpPYWptTmLm8fIYSXdQ2"
+    },
+    {
+      "added_at": "2025-11-19 11:56:49",
+      "album": {
+        "name": "Loose (Korean Ver.)",
+        "url": "https://open.spotify.com/album/47tBLYvFev5FbtKO9PHlWm"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 246208,
+      "name": "Loose (Korean Ver.)",
+      "url": "https://open.spotify.com/track/03HHGNtjpS5K6fRcwlX3Sx"
+    },
+    {
+      "added_at": "2025-11-19 11:56:49",
+      "album": {
+        "name": "Loose (Korean Ver.)",
+        "url": "https://open.spotify.com/album/4WEEEi1YvRwwPzXileG661"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 246208,
+      "name": "Loose (Korean Ver.)",
+      "url": "https://open.spotify.com/track/2RCriW55nKo1k49PcgnzeK"
+    }
+  ],
   "unique_name": "K-Pop Performance Video by Spotify",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1IntnW1oGeg"
 }

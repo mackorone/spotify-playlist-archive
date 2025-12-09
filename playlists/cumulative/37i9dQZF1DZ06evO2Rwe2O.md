@@ -4,7 +4,7 @@
 
 > This is Big Daddy Weave\. The essential tracks, all in one playlist.
 
-89 songs - 6 hr 4 min
+90 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Heart Cries Holy](https://open.spotify.com/track/13D4BSdRclYY6rkcHTtoiD) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields Of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 5:17 | 2023-03-10 |  |
 | [Heaven Changes Everything](https://open.spotify.com/track/09K7v6EnuoR2TmjAEKUD71) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Heaven Changes Everything](https://open.spotify.com/album/2siQQnBK2IRSYMbjgdfvji) | 3:31 | 2023-03-11 |  |
 | [Hold Me Jesus](https://open.spotify.com/track/6jY58FrHShSeJIuA3m5Osx) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Every Time I Breathe](https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2) | 3:54 | 2023-03-10 |  |
+| [I Belong To God](https://open.spotify.com/track/6K2xpBy3l8RvmhD7xBQqS9) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 4:22 | 2025-12-09 |  |
 | [I Know](https://open.spotify.com/track/1J9VTeVlVUbZLre3Yc1A4V) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [When The Light Comes](https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R) | 5:19 | 2023-03-10 |  |
 | [I Speak Jesus](https://open.spotify.com/track/3xc5C0e85ZJbXLz0nrANWt) | [The Church Will Sing](https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige), [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt), [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [I Speak Jesus](https://open.spotify.com/album/6oJY4rogX1Y9UHL2yL21TY) | 4:17 | 2023-09-09 | 2025-11-10 |
 | [I Speak Jesus](https://open.spotify.com/track/7MRQ4joddMDJeA2TUiD1a4) | [The Church Will Sing](https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige), [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt), [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Volume 3](https://open.spotify.com/album/6LhBi5MCG1JHC5rfO8RWJH) | 4:17 | 2025-11-10 |  |
@@ -45,7 +46,7 @@
 | [If You Died Tonight](https://open.spotify.com/track/7glAHcE2yN6onHZd7BBSto) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM) | 3:52 | 2023-03-10 |  |
 | [In Christ](https://open.spotify.com/track/5arKXRuVZeyy0HOxWkoJUc) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [The Ultimate Collection](https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW) | 3:25 | 2023-03-10 |  |
 | [It's All About You](https://open.spotify.com/track/2pnm4XSwVkbc6waMzF9odE) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What I Was Made For](https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH) | 5:02 | 2023-03-10 | 2024-03-30 |
-| [It's Already Done](https://open.spotify.com/track/0EnkdtYpho0JOkqovQ7MZh) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 4:02 | 2024-08-13 |  |
+| [It's Already Done](https://open.spotify.com/track/0EnkdtYpho0JOkqovQ7MZh) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 4:02 | 2024-08-13 | 2025-12-09 |
 | [Jesus I Believe](https://open.spotify.com/track/3HRfH5dCEmrc4kquT51XgE) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 4:37 | 2023-03-10 |  |
 | [Joy! He Shall Reign](https://open.spotify.com/track/5sSYPQhy2vUqEyUpabt9QP) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Joy! He Shall Reign](https://open.spotify.com/album/2hpGum3ctcqVd7IdKQS1ul) | 3:24 | 2025-03-30 | 2025-04-03 |
 | [Just Like Somebody Else](https://open.spotify.com/track/2Yo8YXctpvkdKzFgrI4eZP) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What Life Would Be Like](https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw) | 4:44 | 2024-02-04 | 2025-08-23 |

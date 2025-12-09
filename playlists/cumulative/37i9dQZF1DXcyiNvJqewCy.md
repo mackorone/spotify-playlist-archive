@@ -4,7 +4,7 @@
 
 > \~ have a lovely time \~
 
-385 songs - 22 hr 24 min
+386 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [All I Can Say](https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:07 | 2025-05-22 |  |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-04-05 | 2025-11-14 |
 | [Ant Song](https://open.spotify.com/track/14pKJylfHHYfuQAsNjPHrs) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Ant Song](https://open.spotify.com/album/0jvkMCzeX2unbAw7YoXzXC) | 3:01 | 2023-06-29 | 2023-08-18 |
-| [Anticipate](https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Anticipate](https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1) | 3:09 | 2025-07-10 |  |
+| [Anticipate](https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Anticipate](https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1) | 3:09 | 2025-07-10 | 2025-12-09 |
 | [AOK](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 | 2022-07-29 | 2024-04-19 |
 | [Apple Pie](https://open.spotify.com/track/0LOWu2ggnnyJ24w9T40pWK) | [Surely Shirley](https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB) | [Patchwork Palace](https://open.spotify.com/album/3An2Z7h1l5nP9o9E8ZbCSx) | 3:30 | 2025-11-13 |  |
 | [Apricot Sun](https://open.spotify.com/track/1gkpGmHT0hkduqi8bosUSl) | [Lilly Carron](https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K) | [Apricot Sun](https://open.spotify.com/album/073b961mweb1pbVWyB5DJQ) | 3:14 | 2023-08-17 | 2024-08-27 |
@@ -375,6 +375,7 @@
 | [Wasting Time](https://open.spotify.com/track/3gxRgVnfMp6AgHtaHzYeAh) | [MADDY MAY](https://open.spotify.com/artist/53ugKVVbmwpUEI42eNG9Mu), [Billy Otto](https://open.spotify.com/artist/68K7z2GTeiBnNteSfDGOzH) | [Wasting Time](https://open.spotify.com/album/0tAi1OxUfCzEuS3oh9g2Gp) | 3:12 | 2022-04-05 | 2022-07-23 |
 | [We Could Be Together](https://open.spotify.com/track/54qAc90egMQQ23ZBVL245S) | [Salarymen](https://open.spotify.com/artist/6CoqrYYldBGO37bHBr9rCM) | [We Could Be Together](https://open.spotify.com/album/5fZrSi4Mtt7mLXDG0ElQfi) | 3:34 | 2025-09-18 | 2025-11-14 |
 | [We Don't Have to Be Alone](https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [We Don't Have to Be Alone](https://open.spotify.com/album/0wcfCbz30o9L3neEu5L7Cz) | 2:46 | 2025-05-22 |  |
+| [What the World Needs Now \(Is Love\)](https://open.spotify.com/track/6QhJngmKqelOcCc3bUiKYY) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Here Where There Is Love](https://open.spotify.com/album/1I5H0kXxePgiHJMFNhJws3) | 3:09 | 2025-11-27 |  |
 | [When It Was Wrong](https://open.spotify.com/track/2fRXHXLFvYnaYbQwkyadeC) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Spreadin' Honey](https://open.spotify.com/album/1bvotRLLCRLmoIv4eirps2) | 4:32 | 2022-04-05 | 2022-07-24 |
 | [When We Are Together](https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:36 | 2022-11-10 | 2025-11-14 |
 | [White Gloves ii](https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You ii](https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB) | 4:51 | 2025-11-13 |  |

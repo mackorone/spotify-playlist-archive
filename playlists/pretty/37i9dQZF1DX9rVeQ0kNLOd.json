@@ -587,22 +587,6 @@
     {
       "added_at": "2025-12-02 15:00:31",
       "album": {
-        "name": "Sign",
-        "url": "https://open.spotify.com/album/3EFb6Oan6lEv0Bsg1vtdFP"
-      },
-      "artists": [
-        {
-          "name": "YRD Leo",
-          "url": "https://open.spotify.com/artist/5k76ohP20fsSfGqQStU3A3"
-        }
-      ],
-      "duration_ms": 175871,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/0Os3RyzDGZunhO1ELCT9o0"
-    },
-    {
-      "added_at": "2025-12-02 15:00:31",
-      "album": {
         "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
         "url": "https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 201137,
       "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
       "url": "https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L"
+    },
+    {
+      "added_at": "2025-12-02 15:00:31",
+      "album": {
+        "name": "Sign",
+        "url": "https://open.spotify.com/album/3EFb6Oan6lEv0Bsg1vtdFP"
+      },
+      "artists": [
+        {
+          "name": "YRD Leo",
+          "url": "https://open.spotify.com/artist/5k76ohP20fsSfGqQStU3A3"
+        }
+      ],
+      "duration_ms": 175871,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/0Os3RyzDGZunhO1ELCT9o0"
     },
     {
       "added_at": "2025-12-02 15:00:31",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-12-02 15:00:31",
       "album": {
-        "name": "\u611b\u304c\u706f\u308b",
-        "url": "https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr"
-      },
-      "artists": [
-        {
-          "name": "Rokudenashi",
-          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
-        }
-      ],
-      "duration_ms": 199117,
-      "name": "\u611b\u304c\u706f\u308b",
-      "url": "https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR"
-    },
-    {
-      "added_at": "2025-12-02 15:00:31",
-      "album": {
         "name": "replica",
         "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 190331,
       "name": "1\u30ea\u30c3\u30bf\u30fc\u5206\u306e\u611b\u3092\u3053\u3081\u3066",
       "url": "https://open.spotify.com/track/12CAcVzra8ZX8WGCRs73r9"
+    },
+    {
+      "added_at": "2025-12-02 15:00:31",
+      "album": {
+        "name": "\u611b\u304c\u706f\u308b",
+        "url": "https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr"
+      },
+      "artists": [
+        {
+          "name": "Rokudenashi",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+        }
+      ],
+      "duration_ms": 199117,
+      "name": "\u611b\u304c\u706f\u308b",
+      "url": "https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR"
     },
     {
       "added_at": "2025-12-02 15:00:31",

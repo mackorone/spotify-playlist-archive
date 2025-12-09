@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 8624,
+  "num_followers": 8635,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW"
+      },
+      "artists": [
+        {
+          "name": "Fin.K.L",
+          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
+        }
+      ],
+      "duration_ms": 234888,
+      "name": "White",
+      "url": "https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
         "name": "Choose My Life-U",
         "url": "https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 264600,
       "name": "Descent of Warriors",
       "url": "https://open.spotify.com/track/0HiKR0bVxA7VJCShQ6HrUC"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW"
-      },
-      "artists": [
-        {
-          "name": "Fin.K.L",
-          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
-        }
-      ],
-      "duration_ms": 234888,
-      "name": "White",
-      "url": "https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Wolf And Sheep",
-        "url": "https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN"
-      },
-      "artists": [
-        {
-          "name": "H.O.T.",
-          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
-        }
-      ],
-      "duration_ms": 220733,
-      "name": "We are the future",
-      "url": "https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Myself",
         "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 239560,
       "name": "Love is gone",
       "url": "https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Wolf And Sheep",
+        "url": "https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN"
+      },
+      "artists": [
+        {
+          "name": "H.O.T.",
+          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
+        }
+      ],
+      "duration_ms": 220733,
+      "name": "We are the future",
+      "url": "https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/0dy5uXSLcZxXpezb84ece2"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyun Jung",
-          "url": "https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO"
-        }
-      ],
-      "duration_ms": 244733,
-      "name": "Break up With Her",
-      "url": "https://open.spotify.com/track/6Me90qXsxgyGOW0bULX6fz"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Exchange Kg. M4",
         "url": "https://open.spotify.com/album/0r7DQWB1NLwAPxC4zlQoVJ"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 226266,
       "name": "Speed",
       "url": "https://open.spotify.com/track/3c2FIZMJrhl7BrEEKHGiG0"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/0dy5uXSLcZxXpezb84ece2"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyun Jung",
+          "url": "https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO"
+        }
+      ],
+      "duration_ms": 244733,
+      "name": "Break up With Her",
+      "url": "https://open.spotify.com/track/6Me90qXsxgyGOW0bULX6fz"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "The Third Eye",
-        "url": "https://open.spotify.com/album/0B3aIlP9B06FS9oF1DIKxq"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyun Jung",
-          "url": "https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO"
-        }
-      ],
-      "duration_ms": 207693,
-      "name": "Bruise",
-      "url": "https://open.spotify.com/track/6hXay0R9yHoV2FpmrXpepw"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Eight Times Begin Again",
         "url": "https://open.spotify.com/album/7kQkEEMWQwctRJR5wrCq5t"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 189701,
       "name": "\ud604\uba85\ud55c \uc120\ud0dd",
       "url": "https://open.spotify.com/track/1YhGLizQ8wq5AYvWFWC0Sp"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "The Third Eye",
+        "url": "https://open.spotify.com/album/0B3aIlP9B06FS9oF1DIKxq"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyun Jung",
+          "url": "https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO"
+        }
+      ],
+      "duration_ms": 207693,
+      "name": "Bruise",
+      "url": "https://open.spotify.com/track/6hXay0R9yHoV2FpmrXpepw"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Black Rainbow",
-        "url": "https://open.spotify.com/album/4cV1aTuPH2uSVlE5626SfX"
-      },
-      "artists": [
-        {
-          "name": "Lee Hyun Woo",
-          "url": "https://open.spotify.com/artist/1W9aLbgLrFbdqS01gR7yWD"
-        }
-      ],
-      "duration_ms": 264739,
-      "name": "\uc2ac\ud514\uc18d\uc5d0\uadf8\ub308\uc9c0\uc6cc\uc57c\ub9cc\ud574",
-      "url": "https://open.spotify.com/track/2Ubn2iM66rwiexA0zh6SxC"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "VOICE MAIL",
         "url": "https://open.spotify.com/album/5IH6HeHqXONUai8Dk7yEWz"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 217417,
       "name": "\ud3c9\uc0dd",
       "url": "https://open.spotify.com/track/1HJHe0MtRQ6FZgEdXR7KFd"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Black Rainbow",
+        "url": "https://open.spotify.com/album/4cV1aTuPH2uSVlE5626SfX"
+      },
+      "artists": [
+        {
+          "name": "Lee Hyun Woo",
+          "url": "https://open.spotify.com/artist/1W9aLbgLrFbdqS01gR7yWD"
+        }
+      ],
+      "duration_ms": 264739,
+      "name": "\uc2ac\ud514\uc18d\uc5d0\uadf8\ub308\uc9c0\uc6cc\uc57c\ub9cc\ud574",
+      "url": "https://open.spotify.com/track/2Ubn2iM66rwiexA0zh6SxC"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Jaurim, The Wonder Land",
-        "url": "https://open.spotify.com/album/5e0Jv8JbDWQxbRZq3xhZE3"
-      },
-      "artists": [
-        {
-          "name": "JAURIM",
-          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "Magic carpet ride",
-      "url": "https://open.spotify.com/track/5rtSUuJx5VMaG88z9YEJUa"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Back in Time",
         "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 243435,
       "name": "\ube44\ubc00\uc740 \uc5c6\uc5b4",
       "url": "https://open.spotify.com/track/0LRuYG5HETbxUnUwcfjQYf"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Jaurim, The Wonder Land",
+        "url": "https://open.spotify.com/album/5e0Jv8JbDWQxbRZq3xhZE3"
+      },
+      "artists": [
+        {
+          "name": "JAURIM",
+          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "Magic carpet ride",
+      "url": "https://open.spotify.com/track/5rtSUuJx5VMaG88z9YEJUa"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "\uc090\uac71\uc090\uac71 Creak Creak",
-        "url": "https://open.spotify.com/album/0otiirwBgP7B4Yq7kOKcvy"
-      },
-      "artists": [
-        {
-          "name": "DJ DOC",
-          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "\ud574\ubcc0\uc73c\ub85c \uac00\uc694 Let's Go to the Beach Pt. 2",
-      "url": "https://open.spotify.com/track/02b8sHBlZleRRJhi37VPkP"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "All Details",
         "url": "https://open.spotify.com/album/2XTDT3Dae6mzMhyhVKU16Z"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 298297,
       "name": "\uc9f8\uc988 \uce74\ud398",
       "url": "https://open.spotify.com/track/0SwSiNArqc58nd21Zfj1Ow"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "\uc090\uac71\uc090\uac71 Creak Creak",
+        "url": "https://open.spotify.com/album/0otiirwBgP7B4Yq7kOKcvy"
+      },
+      "artists": [
+        {
+          "name": "DJ DOC",
+          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "\ud574\ubcc0\uc73c\ub85c \uac00\uc694 Let's Go to the Beach Pt. 2",
+      "url": "https://open.spotify.com/track/02b8sHBlZleRRJhi37VPkP"
     },
     {
       "added_at": "2024-04-04 20:06:12",

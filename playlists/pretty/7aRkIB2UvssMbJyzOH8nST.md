@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/7aRkIB2UvssMbJyzOH8nST.md) - [plain]
 
 > Ease into your day with these beautiful chill songs – Relaxing Morning Music , Relaxing, Chill Music, Lazy Sunday, Cozy morning, Soft morning tunes, Weekend vibes, Sunday brunch playlist, Slow coffee music, Laid\-back, sounds, Morning acoustic
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 274,767 likes - 170 songs - 9 hr 40 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 274,746 likes - 170 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [All Night](https://open.spotify.com/track/7oAuqs6akGnPU3Tb00ZmyM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 5:22 |
-| 2 | [Nervous \- Acoustic](https://open.spotify.com/track/3ZAbCtTT1qSmJFSilUjhpr) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Nervous](https://open.spotify.com/album/0f3WTlkEMpF9fllyA7XVQW) | 4:10 |
-| 3 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 |
+| 1 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 |
+| 2 | [All Night](https://open.spotify.com/track/7oAuqs6akGnPU3Tb00ZmyM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 5:22 |
+| 3 | [Nervous \- Acoustic](https://open.spotify.com/track/3ZAbCtTT1qSmJFSilUjhpr) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Nervous](https://open.spotify.com/album/0f3WTlkEMpF9fllyA7XVQW) | 4:10 |
 | 4 | [Next Summer](https://open.spotify.com/track/71GABxN1QMc3RbtKqhYvXb) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 2:45 |
 | 5 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 |
 | 6 | [level out](https://open.spotify.com/track/6KmdpMArS0ad5meH19KSws) | [Chelsea Jordan](https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs) | [level out](https://open.spotify.com/album/3FjMfYxndHPZhkFpY0lRHn) | 2:56 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/7aRkIB2UvssMbJyzOH8nST.md) - [plain]
 | 169 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 |
 | 170 | [Barcelona](https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:08 |
 
-Snapshot ID: `AAAgqj8humRZBC7bRVR2xyXJ5740VjP1`
+Snapshot ID: `AAAgrY8AhHMtfCF1T1BGmm8w524c4+b/`

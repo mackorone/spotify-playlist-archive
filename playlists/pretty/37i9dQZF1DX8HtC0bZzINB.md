@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 
 > Yerli Afro, Latin ve trap ritimleri ile yazın en hareketli hali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,289 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,297 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 25 | [Sallan](https://open.spotify.com/track/6VIGABEcC3uzw0Bque9ux5) | [Xir](https://open.spotify.com/artist/1eQzZsJAtBVhN9WP62oXM2) | [Sallan](https://open.spotify.com/album/5e2E1Cjig88oI1F68VpAeh) | 3:15 |
 | 26 | [Sen Dönene Kadar](https://open.spotify.com/track/6XcQYyB6zqaQxplBPKLhi5) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Sen Dönene Kadar](https://open.spotify.com/album/4qWQUkpliWcfiiLulxM1Xx) | 3:09 |
 | 27 | [Keşke Benim Olsan](https://open.spotify.com/track/71JJwk000lqBMKSQ6pHzMP) | [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Keşke Benim Olsan](https://open.spotify.com/album/5b7wuvOZECSnOAaqmS5JyR) | 2:34 |
-| 28 | [Goal](https://open.spotify.com/track/4QVEEOx7TeTA0vQfeP8tgN) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Goal](https://open.spotify.com/album/0sQ3MO1z5HTIKEUYu56aGo) | 3:14 |
-| 29 | [Sen Başkasın](https://open.spotify.com/track/3n7ep2pxWrVPAwlxslJqCX) | [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw) | [Sen Başkasın](https://open.spotify.com/album/0obg4FfubIvPbCeWKPIOyB) | 2:05 |
+| 28 | [Sen Başkasın](https://open.spotify.com/track/3n7ep2pxWrVPAwlxslJqCX) | [Kum](https://open.spotify.com/artist/5SCxkbhdPRgE0BRLjODMxw) | [Sen Başkasın](https://open.spotify.com/album/0obg4FfubIvPbCeWKPIOyB) | 2:05 |
+| 29 | [Goal](https://open.spotify.com/track/4QVEEOx7TeTA0vQfeP8tgN) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Goal](https://open.spotify.com/album/0sQ3MO1z5HTIKEUYu56aGo) | 3:14 |
 | 30 | [Taştan](https://open.spotify.com/track/53IJ9i9i6Y96lJyrFKzYV7) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [Taştan](https://open.spotify.com/album/37r3WudqX3UQofAS2fYpug) | 2:56 |
 | 31 | [Imdat](https://open.spotify.com/track/7nJBXYIjC16eCzC4jw8Wiw) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Imdat](https://open.spotify.com/album/1ttu3fHUGU3idSzSNSGlXw) | 3:14 |
 | 32 | [MAD](https://open.spotify.com/track/1fak8FUIcbRwmp6fCUbwH1) | [Melez](https://open.spotify.com/artist/13oZdV67vVMAaL2TU20Xqz), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [MAD](https://open.spotify.com/album/4TLoNyJr0nILMmuYM03KAq) | 3:27 |

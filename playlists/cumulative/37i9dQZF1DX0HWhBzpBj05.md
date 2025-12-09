@@ -4,7 +4,7 @@
 
 > Spread some cheer with this list of new and old seasonal favorites\. Cover: Brenda Lee
 
-186 songs - 10 hr 23 min
+188 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Give Love This Year](https://open.spotify.com/track/3h7LxHg3iDpwxOhqgDgZTd) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Perfect Holiday](https://open.spotify.com/album/4ud1Hq1ipI8D2xBcuS9Ipj) | 3:06 | 2023-12-08 | 2024-04-19 |
 | [Give Love This Year](https://open.spotify.com/track/6YSVLKG1tGk5GSxg9xJUZr) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Give Love This Year](https://open.spotify.com/album/2WmlIpKBZULY8LIdfHasK5) | 3:06 | 2023-12-08 | 2025-12-03 |
 | [Glow](https://open.spotify.com/track/4OXGEoNa7xh1MdDGf5xGC7) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Glow](https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv) | 3:29 | 2021-12-20 | 2022-12-06 |
-| [Glow](https://open.spotify.com/track/4nEJzW7MkSF8ojY7WJnoPt) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 3:18 | 2022-12-05 |  |
+| [Glow](https://open.spotify.com/track/4nEJzW7MkSF8ojY7WJnoPt) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 3:18 | 2022-12-05 | 2025-12-09 |
 | [Glow](https://open.spotify.com/track/1mFwsE8rLoLibx19s8bXac) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Christmas Record](https://open.spotify.com/album/5Zsa3FJk4cjhuvUbtOZzmD) | 3:21 | 2024-10-18 |  |
 | [Grown\-Up Christmas List](https://open.spotify.com/track/24lCPIiEWKg9K7k1Gh1h8q) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Home For Christmas](https://open.spotify.com/album/6zsXpKxvpjmwXvoxPdN2eQ) | 5:02 | 2023-11-29 |  |
 | [Grown\-Up Christmas List \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/47qXmZMqUZDXSnP5zONlwY) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Christmas Is Here!](https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b) | 4:41 | 2022-12-05 | 2023-10-21 |
@@ -117,6 +117,7 @@
 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/4v9WbaxW8HdjqfUiWYWsII) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Home For Christmas](https://open.spotify.com/album/6uIB97CqMcssTss9WrtX8c) | 4:15 | 2021-12-20 |  |
 | [Mistletoe](https://open.spotify.com/track/54K9GOVJqIaDZNXLnnxiKc) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe](https://open.spotify.com/album/3cr4Xgz8nnfp7iYbVqwzzH) | 3:02 | 2021-12-20 | 2023-10-21 |
 | [My Favorite Things](https://open.spotify.com/track/3DzYn4QDEQcyLMD1DQTbYw) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 2:49 | 2023-10-20 | 2024-11-05 |
+| [O Holy Night](https://open.spotify.com/track/5547x0ZawobhfSeh2QKAca) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 5:20 | 2025-12-08 |  |
 | [O Holy Night](https://open.spotify.com/track/6wCg6AcRdhQCwD0bh0F8zb) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 2:53 | 2021-12-20 | 2023-10-21 |
 | [O Tannenbaum](https://open.spotify.com/track/1AuqctepNkbMGhlysf9VqX) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \(Remastered & Expanded Edition\)](https://open.spotify.com/album/5IXrTfjX17PpdhgRJvQc7N) | 5:09 | 2021-12-20 |  |
 | [O Tannenbaum](https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 5:09 | 2021-12-20 | 2022-09-19 |
@@ -134,7 +135,8 @@
 | [Run Rudolph Run](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 | 2021-12-20 |  |
 | [Run Rudolph Run \- Single Version](https://open.spotify.com/track/5XUUv9wwLqsL5UktyS75Uq) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock N' Roll Legends \(International Version\)](https://open.spotify.com/album/2ZGu9V0Mq5Tdy7MduT7qD8) | 2:43 | 2021-12-20 | 2022-07-29 |
 | [Santa Baby](https://open.spotify.com/track/4rAwprLoQULEVb1UrGx9dW) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Santa Baby](https://open.spotify.com/album/3CreiqJnwLy65rMoLv2bPT) | 3:28 | 2021-12-20 | 2022-12-06 |
-| [Santa Baby](https://open.spotify.com/track/45fY77CtQcaLXPSzuDgIV0) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/2zPZAQ0uXCGLODxYGQyFqZ) | 3:02 | 2024-11-04 |  |
+| [Santa Baby](https://open.spotify.com/track/45fY77CtQcaLXPSzuDgIV0) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/2zPZAQ0uXCGLODxYGQyFqZ) | 3:02 | 2024-11-04 | 2025-12-09 |
+| [Santa Baby](https://open.spotify.com/track/359errH05UQpI0n74V8f4h) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [A Very Special Christmas](https://open.spotify.com/album/06H9y3oBVGgYQ0McDsCYX4) | 2:34 | 2025-12-08 |  |
 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Santa Claus Is Comin' to Town \(Live at C.W\. Post College, Greenvale, NY \- December 1975\)](https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ) | 4:27 | 2021-12-20 |  |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 2:24 | 2021-12-20 |  |
 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2021-12-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring AmiiFy 🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,596 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,565 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 83 | [Underwater](https://open.spotify.com/track/2WzgNSY8AQBDCwoyMHWl6O) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Underwater](https://open.spotify.com/album/5rAiMWvgPhR5n1qvJbAGV4) | 3:34 |
 | 84 | [Body](https://open.spotify.com/track/3wqXKqPgBMBeyHNN3x1x47) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [Body](https://open.spotify.com/album/1LNYkv0KQrGTOqBJkwiEH7) | 4:13 |
 | 85 | [DREAM](https://open.spotify.com/track/7xoYkkwDzXOqNSDXDebwsC) | [Alice Sno](https://open.spotify.com/artist/6jxNHSJHWqknXpljcz6bWK) | [DREAM](https://open.spotify.com/album/1QjTGYHvUR47wDNQVXyrYO) | 2:50 |
-| 86 | [Famous Girl](https://open.spotify.com/track/5t5Y97MUjjhE5gKDTIfPVK) | [Beaux Neptune](https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj) | [Famous Girl](https://open.spotify.com/album/3mKDWLSxPG9d0qGtXRlsKL) | 3:20 |
+| 86 | [](https://open.spotify.com/track/5t5Y97MUjjhE5gKDTIfPVK) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3mKDWLSxPG9d0qGtXRlsKL) | 0:00 |
 | 87 | [I told ya](https://open.spotify.com/track/2p62Qdz5g4rW0lEmF6QEM7) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [I told ya](https://open.spotify.com/album/12RkrZxeDy1usKwyEYhna8) | 2:44 |
 | 88 | [Goldmine](https://open.spotify.com/track/31tB6xE97SODRquPLmvZB7) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [It's A Funny Thing](https://open.spotify.com/album/4nVG3tIFZjoW2Uxhcu2oSH) | 3:06 |
 | 89 | [Good Boy](https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Boy](https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF) | 3:42 |

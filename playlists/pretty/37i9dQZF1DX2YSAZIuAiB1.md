@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 
 ### [swag](https://open.spotify.com/playlist/37i9dQZF1DX2YSAZIuAiB1)
 
-> Good Vibes only mit diesem sonnigen Genre Mix 😎
+> zu dieser sonnigen playlist kann man nur viben
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,763 likes - 70 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,647 likes - 70 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YSAZIuAiB1.md) - [plain]
 | 69 | [Tutto Bene](https://open.spotify.com/track/7iOadzb2kNGSR0vuZk1DD9) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Tutto Bene](https://open.spotify.com/album/6hp9ryEwD5QwQ7uztaEcMD) | 3:39 |
 | 70 | [wgft \(feat\. Burna Boy\)](https://open.spotify.com/track/4kCkgD1ITALBjzBwGsf6tW) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [wgft \(feat\. Burna Boy\)](https://open.spotify.com/album/5LgGFj0CG4iJ1MynD791hi) | 3:04 |
 
-Snapshot ID: `AAAAAF6kDqKbuK4c9AJb84u3LSsYLs2v`
+Snapshot ID: `AAAAABtNk9Q/khyjYK5et92h91+47Ufx`

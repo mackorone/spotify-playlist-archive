@@ -1,12 +1,12 @@
 {
   "description": "This is girl in red. The essential tracks, all in one playlist.",
-  "num_followers": 257575,
+  "num_followers": 257555,
   "original_name": "This Is girl in red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAAC0s0wuitKB59ytpJDJk2Tt",
+  "snapshot_id": "aTTDgAAAAACoDIoCPpcO14ikA/T5f1WB",
   "tracks": [
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "two queens in a king sized bed",
+        "url": "https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 190944,
+      "name": "two queens in a king sized bed",
+      "url": "https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'M DOING IT AGAIN BABY!",
         "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/34qaGPDvfWqp3F4iD5nGhf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "two queens in a king sized bed",
-        "url": "https://open.spotify.com/album/6CHnC6lp4ZR9F8iKECQOII"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 190944,
-      "name": "two queens in a king sized bed",
-      "url": "https://open.spotify.com/track/2dP8R44P2Lo3hdyevbYFfy"
     },
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 179791,
-      "name": "I'm Back",
-      "url": "https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg"
+      "duration_ms": 145272,
+      "name": "DOING IT AGAIN BABY",
+      "url": "https://open.spotify.com/track/6LK3rmeoEfVYtH8B6qbwZg"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 145272,
-      "name": "DOING IT AGAIN BABY",
-      "url": "https://open.spotify.com/track/6LK3rmeoEfVYtH8B6qbwZg"
+      "duration_ms": 179791,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg"
     },
     {
       "added_at": null,

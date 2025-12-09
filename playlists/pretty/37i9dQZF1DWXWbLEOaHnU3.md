@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,591 likes - 75 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,647 likes - 75 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 69 | [Roshini](https://open.spotify.com/track/7yM3nhPNWiRmSWbNwgu3Se) | [Sajanka](https://open.spotify.com/artist/2VkquxQ6H8d3eGK5ClilOf), [Krodax](https://open.spotify.com/artist/46fLt8TewU7giaRJ2C6Zmp) | [Roshini](https://open.spotify.com/album/5YUkqNP9SMKt3B0Jm93iMH) | 6:33 |
 | 70 | [Psychosis](https://open.spotify.com/track/5jiqaaUn7jcCxw2jdvlFWE) | [Kore\-G](https://open.spotify.com/artist/6BEW6MppWLhidd94YfkjF7) | [Psychosis](https://open.spotify.com/album/7cjcBj7AU1oySLuCN4XJgH) | 3:26 |
 | 71 | [Lose My Cool](https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz) | [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [Umali](https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D), [Djapatox](https://open.spotify.com/artist/2EiIyLrf5Cqayp3uuH2hvS) | [Lose My Cool](https://open.spotify.com/album/6mXqLL6fexVxQanfBiVAwv) | 3:56 |
-| 72 | [Tonight](https://open.spotify.com/track/4zc3rzC5FsX1NXF3EZwP2r) | [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [Bastize](https://open.spotify.com/artist/4YepO0c4kXzTyaRgzvhhTb), [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF) | [Tonight](https://open.spotify.com/album/2KfNqc84udLBA2a0pSBpUh) | 2:29 |
+| 72 | [Faded](https://open.spotify.com/track/76ILtSEgyAcpkTDwFhS5po) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR) | [Faded](https://open.spotify.com/album/1JxSjH9vRR2MWNVfUWCRif) | 2:31 |
 | 73 | [Extra\-Terra](https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX) | [GRAViiTY](https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY) | [Extra\-Terra](https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4) | 3:51 |
-| 74 | [Faded](https://open.spotify.com/track/76ILtSEgyAcpkTDwFhS5po) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR) | [Faded](https://open.spotify.com/album/1JxSjH9vRR2MWNVfUWCRif) | 2:31 |
-| 75 | [Dusk Till Dawn](https://open.spotify.com/track/76y17k5O5MZ2YipoDtIRN7) | [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo), [Stryker](https://open.spotify.com/artist/5sDpkzowsJkqkTLzw2r8eF) | [Dusk Till Dawn](https://open.spotify.com/album/52tsXG23F7He5OUMX0wm2r) | 9:20 |
+| 74 | [Tonight](https://open.spotify.com/track/4zc3rzC5FsX1NXF3EZwP2r) | [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [Bastize](https://open.spotify.com/artist/4YepO0c4kXzTyaRgzvhhTb), [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF) | [Tonight](https://open.spotify.com/album/2KfNqc84udLBA2a0pSBpUh) | 2:29 |
+| 75 | [Don't Give Up](https://open.spotify.com/track/2cskW9Z51Lh57KFab9Mjp8) | [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z), [Zahar](https://open.spotify.com/artist/0g26Yvko7W50BTiwl5vbvA) | [Don't Give Up](https://open.spotify.com/album/3mO66DErj3uSmOZZp4r13t) | 5:35 |
 
 Snapshot ID: `AAAAAH7dCd2SebULQLFq6jRYlXz09k/M`

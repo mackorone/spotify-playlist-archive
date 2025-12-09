@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from DIOR 大穎, TAEYEON, FIFTY FIFTY, Aisha Retno, Aziz Harun,  艾薇 Ivy, <br/>吳霏, Sarah Suhairi, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,332 likes - 99 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,326 likes - 99 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Panorama](https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Panorama : The Best of TAEYEON](https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg) | 3:00 |
 | 2 | [Oops, My Bad](https://open.spotify.com/track/5sTNd7d05oLLJatfB4CP4N) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Oops, My Bad \(From "Operation: True Love"\)](https://open.spotify.com/album/6H37HHyq1ytiLGWgIisBSZ) | 2:26 |
-| 3 | [恆星不忘 Forever Forever](https://open.spotify.com/track/4eyAIvfoQ8PR7ZBzjh0jW5) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [言承旭](https://open.spotify.com/artist/1eSaqECXwVpaUzyqB1mKtr), [Van Ness Wu](https://open.spotify.com/artist/2Lcyl3luks1H4TDORlJIUW), [周渝民](https://open.spotify.com/artist/4g9jp0JWetcgvoODC8Epzl), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [恆星不忘 Forever Forever](https://open.spotify.com/album/4S1DAsonZzfrgD0ezbKApU) | 4:47 |
+| 3 | [恆星不忘 Forever Forever](https://open.spotify.com/track/4eyAIvfoQ8PR7ZBzjh0jW5) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Jerry Yan](https://open.spotify.com/artist/2WkfI6UZfc7Ohpyba7d086), [Van Ness Wu](https://open.spotify.com/artist/2Lcyl3luks1H4TDORlJIUW), [Vic Chou](https://open.spotify.com/artist/03pYLhfpWF8iKk4p6Cm5w9), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [恆星不忘 Forever Forever](https://open.spotify.com/album/4S1DAsonZzfrgD0ezbKApU) | 4:47 |
 | 4 | [Kampung Girl 普通人](https://open.spotify.com/track/4e04LfP6YfVB7Lau3hI4Qh) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [Kampung Girl 普通人](https://open.spotify.com/album/2eJ2zxPEN0ZiubESmgHK5V) | 3:33 |
 | 5 | [Diari Air Mata](https://open.spotify.com/track/17eineJLl5NXPcJ4ZXAOYR) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Diari Air Mata](https://open.spotify.com/album/1GmHkTD6SFn2Nt7VuFCapb) | 4:09 |
 | 6 | [Air Mata](https://open.spotify.com/track/1mX4Le741SPx3fos9NMreh) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Air Mata](https://open.spotify.com/album/6ILgvaCe7ITcGJqLld1rwF) | 3:20 |

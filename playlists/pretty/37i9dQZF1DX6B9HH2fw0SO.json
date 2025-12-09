@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2015. Cover: Tame Impala\n\n\n\n\n\n",
-  "num_followers": 80858,
+  "num_followers": 80888,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
+        "name": "I Love You, Honeybear",
+        "url": "https://open.spotify.com/album/2A8IKX257C4hJaYUHMhLP7"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "Chateau Lobby #4 (in C for Two Virgins)",
+      "url": "https://open.spotify.com/track/2eg2gvPXuwZ9FyrPaLgrXi"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
         "name": "Multi-Love",
         "url": "https://open.spotify.com/album/587Clxxo1i5flgjvS52bEC"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 250800,
       "name": "Multi-Love",
       "url": "https://open.spotify.com/track/0PEXp5yk0sx9dJ8JzwvjJb"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
-        "name": "Christine And The Queens",
-        "url": "https://open.spotify.com/album/6icxSA6dVp16bBXaeAMSYG"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 233247,
-      "name": "Tilted",
-      "url": "https://open.spotify.com/track/0mQnLhHH5WwRc5gtnzLtK6"
     }
   ],
   "unique_name": "Best of Indie 2015",

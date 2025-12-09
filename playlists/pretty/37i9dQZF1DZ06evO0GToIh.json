@@ -1,12 +1,12 @@
 {
   "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 328167,
+  "num_followers": 328381,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAADi+Fh6tDDvFSv5xCkaAGZc",
+  "snapshot_id": "aTTDgAAAAAAEYb0oSa/jpt2VmbEeXcK/",
   "tracks": [
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 124680,
+      "name": "C\u00f3mo Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/4XlXcQZQrNJdsVjJX4ZWIy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CCC (Remix)",
         "url": "https://open.spotify.com/album/4omrnMxKG5Nf7wqFTni9Eo"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 147877,
       "name": "CCC - Remix",
       "url": "https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como en los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 124680,
-      "name": "C\u00f3mo Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/4XlXcQZQrNJdsVjJX4ZWIy"
     },
     {
       "added_at": null,
@@ -827,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 204246,
+      "name": "Traigo Saldo y Ganas de Rogar",
+      "url": "https://open.spotify.com/track/00j3Zw2inmVD3T0YJLNRvu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sigan Hablando",
         "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 185738,
       "name": "Y Me Ver\u00e1n",
       "url": "https://open.spotify.com/track/5Y5n1K7yn5kHFvNf7xL8l5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 204246,
-      "name": "Traigo Saldo y Ganas de Rogar",
-      "url": "https://open.spotify.com/track/00j3Zw2inmVD3T0YJLNRvu"
     },
     {
       "added_at": null,

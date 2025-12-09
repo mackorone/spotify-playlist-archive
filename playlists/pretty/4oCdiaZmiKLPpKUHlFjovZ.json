@@ -1,13 +1,81 @@
 {
-  "description": "Turn this playlist all the way up! Featuring, Shordie Shordie, Money Man, Peezy &amp; Blxst.",
-  "num_followers": 34592,
+  "description": "Turn this playlist all the way up! Featuring, Money Man, Blxst, Mozzy &amp; Tm88.",
+  "num_followers": 34581,
   "original_name": "All The Way Up",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAb1Y04IX+YcsTBOor6SZIevAb85kGd",
+  "snapshot_id": "AAAb3YES2GkRWIX6abLlv8SXOHXh98Ns",
   "tracks": [
+    {
+      "added_at": "2025-12-08 23:31:33",
+      "album": {
+        "name": "Predator",
+        "url": "https://open.spotify.com/album/3zgfr7xhdfoFzTGg7uQIYo"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        }
+      ],
+      "duration_ms": 113898,
+      "name": "Don't Hoop",
+      "url": "https://open.spotify.com/track/2G5n3rWA0zATe2p0aEUk9r"
+    },
+    {
+      "added_at": "2025-12-08 23:31:24",
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/78eqoV7ejwEOZreqaRYaes"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 152210,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/5m7WSCHb0I8wBSAM0xAVOq"
+    },
+    {
+      "added_at": "2025-12-08 23:31:47",
+      "album": {
+        "name": "BUICK TO BENZ",
+        "url": "https://open.spotify.com/album/3u2TpNPFDSltzFssvRwCye"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "duration_ms": 174555,
+      "name": "BUICK TO BENZ",
+      "url": "https://open.spotify.com/track/7xMBdn5yHDQEpiN0x1SIIV"
+    },
+    {
+      "added_at": "2025-12-08 23:33:05",
+      "album": {
+        "name": "F.I.L.A 25 (Forever I Love Atlanta)",
+        "url": "https://open.spotify.com/album/0ADz82vTyvfaNVs9rb8cJ5"
+      },
+      "artists": [
+        {
+          "name": "Tm88",
+          "url": "https://open.spotify.com/artist/5RMUeKq0dZxg9RHE1f0B9P"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 176080,
+      "name": "Quadruple (feat. Future)",
+      "url": "https://open.spotify.com/track/4TFoLFYufN177kMZ98Xy9A"
+    },
     {
       "added_at": "2025-11-24 22:40:24",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. Anna of the North og mange fler!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,004 likes - 93 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,995 likes - 93 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

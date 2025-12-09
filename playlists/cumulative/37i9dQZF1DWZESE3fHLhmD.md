@@ -4,7 +4,7 @@
 
 > Bringt auch nach 16 Uhr noch ein bisschen Licht ins Dunkel.
 
-362 songs - 19 hr 21 min
+363 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Maybe My Soulmate Died](https://open.spotify.com/track/0Q06bNL4pMTlkilvL88nda) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/42CbU2pxKCYf1fPhBsZpwj) | 1:54 | 2023-07-28 | 2024-01-28 |
 | [Maybe My Soulmate Died](https://open.spotify.com/track/1xWMqWlcfGrdnQWim2PJVb) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Chasing the Wind](https://open.spotify.com/album/37YccldXcBrMJ728lWYcQT) | 1:54 | 2024-02-09 | 2024-04-19 |
 | [Maybe My Soulmate Died](https://open.spotify.com/track/5NBCTiyU4o57c3ClTFI3Wk) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/7AHXqAmIXflf6V96wJ33Q9) | 1:54 | 2023-07-26 | 2023-08-12 |
-| [Maybe October](https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [I Won't Be Your Foe](https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV) | 2:44 | 2023-09-15 |  |
+| [Maybe October](https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [I Won't Be Your Foe](https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV) | 2:44 | 2023-09-15 | 2025-12-09 |
 | [MAYBE.](https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [MAYBE.](https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr) | 3:55 | 2024-12-20 | 2025-04-23 |
 | [Me Da Igual](https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Me Da Igual](https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN) | 3:29 | 2024-03-15 | 2024-08-06 |
 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 | 2023-07-26 | 2024-04-19 |
@@ -359,6 +359,7 @@
 | [When I Close My Eyes](https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life \(Epilogue\)](https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry) | 3:13 | 2025-11-14 |  |
 | [Where do we go now?](https://open.spotify.com/track/47oXF9VHCqabVcjd2gZBpa) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:03 | 2023-07-26 | 2024-04-19 |
 | [Wie weit](https://open.spotify.com/track/1Rax9jcKsPwQjnRLmZTC9F) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG) | [Wie weit](https://open.spotify.com/album/08QSXJITlWxHI6zdxitpZA) | 2:38 | 2024-04-19 | 2024-11-10 |
+| [Wieder zurück \(feat\. Edwin Rosen\)](https://open.spotify.com/track/4ffiPZkDwWUAvSUUfar0j9) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh), [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Arsenalplatz](https://open.spotify.com/album/1LpzaHg585JwktXMEwRH6j) | 3:58 | 2025-12-05 |  |
 | [Wild Heart](https://open.spotify.com/track/2bUNMsROZTbJ8KkbcqDbx3) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Change](https://open.spotify.com/album/6TckaHJU35tlFUy57USHAB) | 4:05 | 2024-07-19 | 2024-07-27 |
 | [Winterherz](https://open.spotify.com/track/2NY6OwXheFjzMvdVmw69mQ) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Winterherz](https://open.spotify.com/album/2drpDTlCM3pSjH2PEhXWVD) | 2:40 | 2023-12-19 | 2024-03-16 |
 | [Wir haben den Winter überlebt](https://open.spotify.com/track/07kPTchc4mhslGur0QF6lj) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Wir haben den Winter überlebt](https://open.spotify.com/album/16j5gY7gqDM1phRVqzgrbL) | 3:33 | 2023-07-26 | 2023-09-02 |

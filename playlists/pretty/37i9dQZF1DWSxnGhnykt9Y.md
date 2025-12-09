@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Elestee
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,290 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,346 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 | 65 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
 | 66 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go \(with Tyla\)](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 |
 | 67 | [You](https://open.spotify.com/track/1h8z2YMLIVEKxGqrALyjx2) | [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV) | [You](https://open.spotify.com/album/5fX4wJj1nC4s3JBYt3Kgos) | 2:32 |
-| 68 | [Denial](https://open.spotify.com/track/1LoWT5n1jJ8sHsMFKEugmV) | [Thandi Marie](https://open.spotify.com/artist/2Q85aPuDzcZP8QSSH9tykf), [DaMi](https://open.spotify.com/artist/7MCnxZ9EOSA8TngGAdMDnH) | [Lost Without Me](https://open.spotify.com/album/2v2sTVaswcQPa6NAJfiBdL) | 2:27 |
+| 68 | [Denial](https://open.spotify.com/track/1LoWT5n1jJ8sHsMFKEugmV) | [Thandi Marie](https://open.spotify.com/artist/2Q85aPuDzcZP8QSSH9tykf), [DXMI OLAN](https://open.spotify.com/artist/7MCnxZ9EOSA8TngGAdMDnH) | [Lost Without Me](https://open.spotify.com/album/2v2sTVaswcQPa6NAJfiBdL) | 2:27 |
 | 69 | [Telepatia](https://open.spotify.com/track/589zxmaP1M9N8AHVje76mF) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:19 |
 | 70 | [Goodgirl](https://open.spotify.com/track/6adCGcQBhdqQbrb2b1aoGv) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Goodgirl](https://open.spotify.com/album/0cfboUkpHeZwjcw8xvY0vK) | 2:43 |
 

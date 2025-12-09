@@ -4,7 +4,7 @@
 
 > This is Florence + The Machine\. The essential tracks, all in one playlist.
 
-62 songs - 4 hr 19 min
+63 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [No Choir](https://open.spotify.com/track/47a7Hn4fFE4mHgVJF19CO1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [High As Hope](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) | 2:29 | 2025-11-30 |  |
 | [No Light, No Light](https://open.spotify.com/track/0Y68ITZG1KQigFVAAn7AON) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Original Deluxe Version\)](https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5) | 4:34 | 2025-10-28 |  |
 | [One of the Greats](https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [One of the Greats](https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi) | 6:32 | 2025-10-28 | 2025-11-09 |
-| [Only If For A Night](https://open.spotify.com/track/4vJAhLLHcgPeR3pQopGaIG) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Original Deluxe Version\)](https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5) | 4:58 | 2025-10-28 |  |
+| [Only If For A Night](https://open.spotify.com/track/4vJAhLLHcgPeR3pQopGaIG) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Original Deluxe Version\)](https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5) | 4:58 | 2025-10-28 | 2025-12-09 |
 | [Perfume and Milk](https://open.spotify.com/track/2R0HZcJCaamgHlY5gdNIi7) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 4:08 | 2025-11-02 |  |
 | [Queen Of Peace](https://open.spotify.com/track/6WRjufZUoxjaUNKOJ6QhWp) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [How Big, How Blue, How Beautiful \(Deluxe\)](https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV) | 5:07 | 2025-10-28 |  |
 | [Rabbit Heart \(Raise It Up\)](https://open.spotify.com/track/5jAYbBuwroXXigCj4IGFdA) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 3:52 | 2025-10-28 |  |
@@ -68,6 +68,7 @@
 | [Wish That You Were Here \- From “Miss Peregrine’s Home for Peculiar Children” Original Motion Picture](https://open.spotify.com/track/1FrrRHxMKVvd85O3gancxW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Wish That You Were Here \(From “Miss Peregrine’s Home For Peculiar Children” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1uqahF2HRLrjnU1VE2D0r6) | 6:42 | 2025-10-28 |  |
 | [Witch Dance](https://open.spotify.com/track/2yuKbNMCQ8Oo6KWWZvUCoV) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 4:23 | 2025-11-02 | 2025-11-30 |
 | [You Got The Love \(Mark Knight Remix\) / One](https://open.spotify.com/track/70m0QxEfeSeeYlqDbZ1e6a) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL) | [EDM Party](https://open.spotify.com/album/3uoi0WSv99nejC8O0PYoB2) | 4:24 | 2025-10-28 |  |
+| [You've Got The Dirtee Love \- Live At The Brit Awards / 2010](https://open.spotify.com/track/2eovlgeUHNixXIKLT8u8rj) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [Between Two Lungs](https://open.spotify.com/album/1iA9sq6Ldnw1HP1YXpa8jh) | 3:41 | 2025-12-09 |  |
 | [You've Got The Love](https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 2:48 | 2025-10-28 |  |
 | [You've Got The Love \- Jamie xx Rework](https://open.spotify.com/track/59Y2GLn55BVjX3UTMUDtTP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [You've Got The Love \(Jamie xx Rework\)](https://open.spotify.com/album/6ehMwGARrrgvrOpyHAV1LA) | 5:42 | 2025-10-28 |  |
 

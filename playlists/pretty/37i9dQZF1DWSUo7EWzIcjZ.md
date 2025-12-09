@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,558 likes - 150 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,557 likes - 150 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 14 | [El Baile del Perrito](https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [The Reventon: 30 Pegaditas](https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD) | 4:23 |
 | 15 | [Que Cara Más Bonita](https://open.spotify.com/track/3k3W4peEkOXvjyWtR6IFHp) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues](https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp) | 4:10 |
 | 16 | [Resistire](https://open.spotify.com/track/7FsESZMkzIJYQAekB2BsIb) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Resistire](https://open.spotify.com/album/7pjcMXlN1lxfgBu0Z3ODFy) | 5:10 |
-| 17 | [Salvaje](https://open.spotify.com/track/1DDMz6LDut4RhwtY9tHFY2) | [Cesar Flores](https://open.spotify.com/artist/5cKG9P519zYp1riJ68Fnd8) | [Merenlove](https://open.spotify.com/album/7m7GtQ1hV4nnQQL34jaa2y) | 4:36 |
-| 18 | [Dominicano Ausente](https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc) | [El Zafiro Carlos Manuel & Orquesta](https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6) | [Con el Alma](https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA) | 3:49 |
+| 17 | [Dominicano Ausente](https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc) | [El Zafiro Carlos Manuel & Orquesta](https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6) | [Con el Alma](https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA) | 3:49 |
+| 18 | [Salvaje](https://open.spotify.com/track/1DDMz6LDut4RhwtY9tHFY2) | [Cesar Flores](https://open.spotify.com/artist/5cKG9P519zYp1riJ68Fnd8) | [Merenlove](https://open.spotify.com/album/7m7GtQ1hV4nnQQL34jaa2y) | 4:36 |
 | 19 | [Abusadora](https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:09 |
 | 20 | [Devorame Otra Vez](https://open.spotify.com/track/1gLzHAYHH02lOTmkCmQaIy) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Atrevido](https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt) | 4:56 |
 | 21 | [Me Olvide De Vivir](https://open.spotify.com/track/5WFPqx5vttozDdrlGbZgOC) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Me Olvide de Vivir](https://open.spotify.com/album/5PdiRF2P994XMGCon5JnRD) | 5:51 |
@@ -57,12 +57,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 47 | [Noches de Fantasía](https://open.spotify.com/track/2f2k0KjxqB9p1e6scnkRh9) | [Merengue Latin Band](https://open.spotify.com/artist/6CfAyHRZimRXEFeC7Tcseo) | [Merengue Passion](https://open.spotify.com/album/4TSbaYA6NamAkS11pQGV67) | 4:30 |
 | 48 | [Ya Te Olvide](https://open.spotify.com/track/6xd0vZYhV9i7ygKsis78ur) | [Los Sabrosos Del Merengue](https://open.spotify.com/artist/6cQ6bUnF957mB2mGsYC2gW) | [Manuel, Solo Y Con Los Sabrosos Del Merengue](https://open.spotify.com/album/628ElMDQrbp9cRZku3MoiH) | 4:46 |
 | 49 | [Llego Tu Marido](https://open.spotify.com/track/2vHdz2ZLgw4Xj17WBlzERL) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [20 Exitos](https://open.spotify.com/album/6SW9ZiQmj0CY6GxMfHE47w) | 5:04 |
-| 50 | [El Lapiz](https://open.spotify.com/track/0EMagXNeh6grgZZRpWwDtO) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 3:41 |
+| 50 | [Pecadora](https://open.spotify.com/track/33aCdZSDr7tpFnqsIuMPJK) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 4:32 |
 | 51 | [No Hay Nadie Mas](https://open.spotify.com/track/2H1jyjx3xm1LHH4KFN3BDS) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Maestro Con Sus 16 Exitos](https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ) | 4:39 |
 | 52 | [Como Te Extraño Mi Amor](https://open.spotify.com/track/4oSI0AAcCt4YlLnAwGkuEt) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues](https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp) | 4:37 |
 | 53 | [Celoso](https://open.spotify.com/track/6vzt5y2hAw7xonrEyo6HZp) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Explosivo](https://open.spotify.com/album/2LcEbujF2RRUfKKjOlnXWQ) | 4:03 |
 | 54 | [Te Amo](https://open.spotify.com/track/3yuzcl3CtbWiOQN6SvDARl) | [Los Sabrosos Del Merengue](https://open.spotify.com/artist/6cQ6bUnF957mB2mGsYC2gW) | [Canta Manny Manuel](https://open.spotify.com/album/3vwIQeG3V6CFGkGj0FndWK) | 4:47 |
-| 55 | [Pecadora](https://open.spotify.com/track/33aCdZSDr7tpFnqsIuMPJK) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 4:32 |
+| 55 | [El Lapiz](https://open.spotify.com/track/0EMagXNeh6grgZZRpWwDtO) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [El Dísco de Oro de los Hermanos Rosario](https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe) | 3:41 |
 | 56 | [La Fosforera](https://open.spotify.com/track/3aVDQpW4Lk5meFxnOWhU8k) | [Luis Ovalles](https://open.spotify.com/artist/3pEATAGQszb8de1Yv8W6dx) | [Estelares De](https://open.spotify.com/album/6uYB2pc2yhDbtOHNBEA4ur) | 3:39 |
 | 57 | [Medley](https://open.spotify.com/track/1l2ut2x4bsqtQmhthQmjpD) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues](https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp) | 4:38 |
 | 58 | [Bailando](https://open.spotify.com/track/6aM2gI3fpSOXRuq5EecqTH) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [20 Exitos](https://open.spotify.com/album/55dzfiC1Ut2CCvQZv5qm50) | 4:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 244 likes - 74 songs - 4 hr 30 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 246 likes - 76 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,5 +82,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 72 | [Lie \- '25](https://open.spotify.com/track/6pJJ8YphCAGDA89qMMhKPr) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 6:02 |
 | 73 | [Queen of the Night](https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Queen of the Night](https://open.spotify.com/album/39Ylph8Xuxw4hhsFJrqZsN) | 3:48 |
 | 74 | [Take Me to the Top](https://open.spotify.com/track/3iikl4YLJHy3JyegB6FzAE) | [ARMAGELION](https://open.spotify.com/artist/4SbqNuXLiu8IFt1RdIDtia) | [Take Me to the Top](https://open.spotify.com/album/0W2FAqh9grkIdrF21bhTTe) | 4:05 |
+| 75 | [Gullible](https://open.spotify.com/track/6YPvJW4uHwCQxqfAf1y7yT) | [Rivera](https://open.spotify.com/artist/0o3CCG8AUPD5NwZb0hqDOX) | [Gullible](https://open.spotify.com/album/19dtDjcnes6R1Ohg2tvH2a) | 3:58 |
+| 76 | [White Devil](https://open.spotify.com/track/2FOLmxfAX5oQiOYanJccZ0) | [Until They Burn Me](https://open.spotify.com/artist/3Zis2Av9VCMKGso58CsrgH) | [A Carnival of Reveries](https://open.spotify.com/album/3PEtGxaEPDtWziE2OUrd6G) | 4:42 |
 
-Snapshot ID: `AAAA0LZAe1Ukwdlmd9B+d715acG+dwAq`
+Snapshot ID: `AAAA0pP2+elR2+XRrKKMjw0/6dZZrlOY`

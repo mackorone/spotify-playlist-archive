@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day\. Cover: Gabriel Jacoby
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,847 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,901 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,10 +102,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 92 | [Mystery ft\. PJ Morton](https://open.spotify.com/track/1vtrfEsKAdbJfuHtddCAMe) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Mystery ft\. PJ Morton](https://open.spotify.com/album/7i0wwz94LunVVHxrZgYhrI) | 3:14 |
 | 93 | [Can't Change Me](https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9) | [N'Dambi](https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX) | [A Weird Kinda Wonderful](https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa) | 5:11 |
 | 94 | [Take You There](https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa) | [Wantigga](https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF), [JAEL](https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO) | [Take You There](https://open.spotify.com/album/6JFYDZX9PRfYrvQBrljBhR) | 3:32 |
-| 95 | [Outside Man](https://open.spotify.com/track/3NgQqikHEmkOMIX6Qn7rwL) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Outside Man](https://open.spotify.com/album/2aii61ORtnz2tyBIrJDbDJ) | 2:25 |
-| 96 | [Hash Browns](https://open.spotify.com/track/3EcFVXOhKYKwGswzeWPGo7) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [The Hash Brown Demos](https://open.spotify.com/album/2R6pJlvxvvnUHlqvF5d5Fg) | 1:59 |
-| 97 | [All I Need](https://open.spotify.com/track/2mGWmvIIvs7jKEXxyh7Wfb) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Emma Jean](https://open.spotify.com/album/3u38Zm1pGlCrGZSsUk2396) | 3:34 |
-| 98 | [Girl \- Spotify Singles](https://open.spotify.com/track/0fCi41IbENxq3pM0amgFVq) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Girl \- Spotify Singles](https://open.spotify.com/album/0L928TK2OoTF6OW0hhhaS9) | 5:16 |
+| 95 | [Hash Browns](https://open.spotify.com/track/3EcFVXOhKYKwGswzeWPGo7) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [The Hash Brown Demos](https://open.spotify.com/album/2R6pJlvxvvnUHlqvF5d5Fg) | 1:59 |
+| 96 | [All I Need](https://open.spotify.com/track/2mGWmvIIvs7jKEXxyh7Wfb) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Emma Jean](https://open.spotify.com/album/3u38Zm1pGlCrGZSsUk2396) | 3:34 |
+| 97 | [Girl \- Spotify Singles](https://open.spotify.com/track/0fCi41IbENxq3pM0amgFVq) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Girl \- Spotify Singles](https://open.spotify.com/album/0L928TK2OoTF6OW0hhhaS9) | 5:16 |
+| 98 | [Outside Man](https://open.spotify.com/track/3NgQqikHEmkOMIX6Qn7rwL) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [Outside Man](https://open.spotify.com/album/2aii61ORtnz2tyBIrJDbDJ) | 2:25 |
 | 99 | [Love Goes](https://open.spotify.com/track/7lt6KKaSXku9ExpG8EaqwV) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Love Goes](https://open.spotify.com/album/2z1sSMgDKfQXnfi71Ro1LZ) | 2:46 |
 | 100 | [Nobody’s Perfect](https://open.spotify.com/track/4gGuLljBIa0c3Buk4aGT0H) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Suite Escape](https://open.spotify.com/album/5o6C3eDwWn5GJN0DKZN45i) | 4:00 |
 

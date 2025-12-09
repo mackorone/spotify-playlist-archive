@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 808856,
+  "num_followers": 808847,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
-        "name": "Nossa m\u00fasica",
-        "url": "https://open.spotify.com/album/7vdk9XKYqz9BL7mZlzIlfj"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 239642,
-      "name": "Nossa m\u00fasica",
-      "url": "https://open.spotify.com/track/4hpcc2wq84pilUgDbIPkDN"
-    },
-    {
-      "added_at": "2025-11-25 18:54:26",
-      "album": {
         "name": "Por Pouco (Bit Box)",
         "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 259480,
       "name": "Meu Esquema",
       "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
+    },
+    {
+      "added_at": "2025-11-25 18:54:26",
+      "album": {
+        "name": "Nossa m\u00fasica",
+        "url": "https://open.spotify.com/album/7vdk9XKYqz9BL7mZlzIlfj"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        }
+      ],
+      "duration_ms": 239642,
+      "name": "Nossa m\u00fasica",
+      "url": "https://open.spotify.com/track/4hpcc2wq84pilUgDbIPkDN"
     },
     {
       "added_at": "2025-11-25 18:54:26",
@@ -1243,18 +1243,22 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
-        "name": "Abrigo",
-        "url": "https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E"
+        "name": "A Paz (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4BXhVxKouNYfRoR6iPnYuv"
       },
       "artists": [
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 223773,
-      "name": "Abrigo",
-      "url": "https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm"
+      "duration_ms": 274304,
+      "name": "A Paz - Ao Vivo",
+      "url": "https://open.spotify.com/track/409yVdUeXfYJY7MeY0SKRf"
     }
   ],
   "unique_name": "Cafezinho",

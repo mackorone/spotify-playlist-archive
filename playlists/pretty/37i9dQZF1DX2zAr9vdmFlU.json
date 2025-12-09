@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 437510,
+  "num_followers": 437511,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Cada loco con su tema",
-        "url": "https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 220761,
-      "name": "Cada loco con su tema",
-      "url": "https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/503JdbgCMQzgpYU4sEDKSC"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 180640,
       "name": "Cumbia del Mole",
       "url": "https://open.spotify.com/track/1sdWXIMZe8mBwzLC8jKdq7"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "Cada loco con su tema",
+        "url": "https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 220761,
+      "name": "Cada loco con su tema",
+      "url": "https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Flora y Fauna",
-        "url": "https://open.spotify.com/album/0K2e7hGdBB7FKM0NtpkYaK"
-      },
-      "artists": [
-        {
-          "name": "Camila Luna",
-          "url": "https://open.spotify.com/artist/1aMXU2xuC6FdOyD7SFdL3X"
-        }
-      ],
-      "duration_ms": 173311,
-      "name": "Amor Frutero",
-      "url": "https://open.spotify.com/track/5TVDnNLRq8ABVgfVqVqtsQ"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "Obras Maestras",
         "url": "https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 201941,
       "name": "Voy",
       "url": "https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "Flora y Fauna",
+        "url": "https://open.spotify.com/album/0K2e7hGdBB7FKM0NtpkYaK"
+      },
+      "artists": [
+        {
+          "name": "Camila Luna",
+          "url": "https://open.spotify.com/artist/1aMXU2xuC6FdOyD7SFdL3X"
+        }
+      ],
+      "duration_ms": 173311,
+      "name": "Amor Frutero",
+      "url": "https://open.spotify.com/track/5TVDnNLRq8ABVgfVqVqtsQ"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Canciones del Alma",
-        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 205010,
-      "name": "T\u00fa Con \u00c9l",
-      "url": "https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "El Barrio",
         "url": "https://open.spotify.com/album/2O4CUtzU5HwDfLhtwyHfv5"
       },
@@ -579,6 +563,22 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
+        "name": "Canciones del Alma",
+        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 205010,
+      "name": "T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9"
       },
@@ -595,6 +595,22 @@
       "duration_ms": 221111,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "Desahogo",
+        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
+      },
+      "artists": [
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+        }
+      ],
+      "duration_ms": 260147,
+      "name": "Desahogo",
+      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -651,22 +667,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Desahogo",
-        "url": "https://open.spotify.com/album/5PHVNEt1OngzrWtaFNNlY9"
-      },
-      "artists": [
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
-        }
-      ],
-      "duration_ms": 260147,
-      "name": "Desahogo",
-      "url": "https://open.spotify.com/track/7JkPQQxNWuNbcy7aOp6dpR"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "Me Llaman Nella",
         "url": "https://open.spotify.com/album/2NHcyi3RMzCCWHZBArCzNb"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 162986,
-      "name": "Un Telegrama",
-      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "Danza de LA LOM",
         "url": "https://open.spotify.com/album/7icPkLsJ0UZyyPmDTOoQg5"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 183428,
       "name": "Danza de LA LOM",
       "url": "https://open.spotify.com/track/01c4tTtVJjqo5iOanAaf6y"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "Un Telegrama",
+      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -903,6 +903,22 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/6mc4GtVnrTUk5lScACco4q"
+      },
+      "artists": [
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "duration_ms": 261696,
+      "name": "Mariposas Blancas",
+      "url": "https://open.spotify.com/track/2eOyh4AuxBnX5uAwWLrgsB"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
         "name": "Para Llevar",
         "url": "https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 172411,
       "name": "Para Llevar",
       "url": "https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
-        "name": "Mariposas",
-        "url": "https://open.spotify.com/album/6mc4GtVnrTUk5lScACco4q"
-      },
-      "artists": [
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-        }
-      ],
-      "duration_ms": 261696,
-      "name": "Mariposas Blancas",
-      "url": "https://open.spotify.com/track/2eOyh4AuxBnX5uAwWLrgsB"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "M\u00fasica para verse bien",
-        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 249170,
-      "name": "Dancin' Days",
-      "url": "https://open.spotify.com/track/1Nni53RQ8FI8yBYEuZ3jLR"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "Caminando por Quisqueya",
         "url": "https://open.spotify.com/album/1z6vx39dIoXCScxQ8c6xn4"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 360000,
       "name": "Caminando por Quisqueya",
       "url": "https://open.spotify.com/track/2avb4jaEXShHqfAF3yuKhX"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "M\u00fasica para verse bien",
+        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 249170,
+      "name": "Dancin' Days",
+      "url": "https://open.spotify.com/track/1Nni53RQ8FI8yBYEuZ3jLR"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/7hTHvqkEYoVfxDKbRMOfVo"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        },
+        {
+          "name": "Jamie Allensworth",
+          "url": "https://open.spotify.com/artist/7CbRQq2vD9mZ39Vms6KOdn"
+        }
+      ],
+      "duration_ms": 223649,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/68EFEQMvYJ19iddZRZK0E8"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
         "name": "Grietas",
         "url": "https://open.spotify.com/album/4L0f9F1DJmjLqUQx6v6if3"
       },
@@ -1551,22 +1571,18 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/7hTHvqkEYoVfxDKbRMOfVo"
+        "name": "30 Horas",
+        "url": "https://open.spotify.com/album/1cuAp4nFmm9IHlcFtLHyw8"
       },
       "artists": [
         {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        },
-        {
-          "name": "Jamie Allensworth",
-          "url": "https://open.spotify.com/artist/7CbRQq2vD9mZ39Vms6KOdn"
+          "name": "Cuarta Pared",
+          "url": "https://open.spotify.com/artist/2hNk3m3EelZ8vnecBGhOqX"
         }
       ],
-      "duration_ms": 223649,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/68EFEQMvYJ19iddZRZK0E8"
+      "duration_ms": 219268,
+      "name": "30 Horas",
+      "url": "https://open.spotify.com/track/0v1fyQIaCG4e3TwCO3F0VZ"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1587,18 +1603,18 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "30 Horas",
-        "url": "https://open.spotify.com/album/1cuAp4nFmm9IHlcFtLHyw8"
+        "name": "Today Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/0jiYxu7xEHUUYXkGNtrO9M"
       },
       "artists": [
         {
-          "name": "Cuarta Pared",
-          "url": "https://open.spotify.com/artist/2hNk3m3EelZ8vnecBGhOqX"
+          "name": "Hunters of the Alps",
+          "url": "https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG"
         }
       ],
-      "duration_ms": 219268,
-      "name": "30 Horas",
-      "url": "https://open.spotify.com/track/0v1fyQIaCG4e3TwCO3F0VZ"
+      "duration_ms": 234773,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/0a5bGlvKZbcWWx3EE4lLOP"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1631,22 +1647,6 @@
       "duration_ms": 251830,
       "name": "El hombre que quiso ser canci\u00f3n",
       "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
-        "name": "Today Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/0jiYxu7xEHUUYXkGNtrO9M"
-      },
-      "artists": [
-        {
-          "name": "Hunters of the Alps",
-          "url": "https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/0a5bGlvKZbcWWx3EE4lLOP"
     },
     {
       "added_at": "2025-10-10 04:00:26",

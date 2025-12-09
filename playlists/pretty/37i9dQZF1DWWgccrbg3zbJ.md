@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,999 likes - 65 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,394 likes - 65 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 17 | [Children's Games](https://open.spotify.com/track/0oiNDJWFLPQoAm35OwT66P) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Stone Flower \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/2dsmGxE74ufKZgSFpEMxel) | 3:27 |
 | 18 | [Bossa Nova Cha Cha](https://open.spotify.com/track/4kCy1U3iRy8nnrkO8mr9Ix) | [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1), [Oscar Castro\-Neves](https://open.spotify.com/artist/55PO0aYAH6lYKr0SqYR3Z9) | [Luiz Bonfá Plays And Sings Bossa Nova](https://open.spotify.com/album/1z1zoBT74ap8RtuyBD8oTb) | 3:20 |
 | 19 | [Insensatez](https://open.spotify.com/track/6NAsiy8bVS2hx95ofthfSV) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [O Melhor da Parceria](https://open.spotify.com/album/15gm0vAtfWhgwIYQYTHcpz) | 2:40 |
-| 20 | [Rio](https://open.spotify.com/track/1cCKsJZbWUZbAkdrn2qviQ) | [Quarteto do Rio](https://open.spotify.com/artist/2IRXlLBgHK3HSNJ7YlbyW4), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [Mr\. Bossa Nova](https://open.spotify.com/album/6cyM2wUubFJb6scTaMiqsx) | 2:26 |
-| 21 | [Diz Que Fui Por Ai](https://open.spotify.com/track/6BAlnEh3wnUMpIBiuQQHYg) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara](https://open.spotify.com/album/6GupTGdWq2CPBZTn28joxE) | 2:08 |
+| 20 | [Diz Que Fui Por Ai](https://open.spotify.com/track/6BAlnEh3wnUMpIBiuQQHYg) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara](https://open.spotify.com/album/6GupTGdWq2CPBZTn28joxE) | 2:08 |
+| 21 | [Rio](https://open.spotify.com/track/1cCKsJZbWUZbAkdrn2qviQ) | [Quarteto do Rio](https://open.spotify.com/artist/2IRXlLBgHK3HSNJ7YlbyW4), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [Mr\. Bossa Nova](https://open.spotify.com/album/6cyM2wUubFJb6scTaMiqsx) | 2:26 |
 | 22 | [Tereza My Love](https://open.spotify.com/track/5m4TzaOXvk1biOR3LdObVt) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Stone Flower \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/2dsmGxE74ufKZgSFpEMxel) | 4:21 |
 | 23 | [A Rã](https://open.spotify.com/track/0vZwdJBXOGppAMLjwDUNWg) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Blue Note Trip 7: Birds / Beats](https://open.spotify.com/album/6Z4rwujDTEf2nBEc0eZqJF) | 2:15 |
 | 24 | [Bim Bom](https://open.spotify.com/track/2v9LGwYybWMNhO0xZXpo6M) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Bossa Nova Café](https://open.spotify.com/album/2umykbaUStNVXKLtbGclUz) | 1:12 |

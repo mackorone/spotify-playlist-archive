@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: حمزة نمرة
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,615 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,717 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 59 | [WALA MEEN](https://open.spotify.com/track/7dlcdKBhZfmK7GrMRIQJid) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [WALA MEEN](https://open.spotify.com/album/52Jft3EkjHz3YizhXvuftP) | 3:12 |
 | 60 | [Laeitak Shar](https://open.spotify.com/track/3AeQZNIEv0ofHWv4jmWvCf) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Laeitak Shar](https://open.spotify.com/album/1dv6ElDgQzNP1mBOQDyehx) | 3:30 |
 
-Snapshot ID: `AAAAADu1XMHAKu6px0x4cb9uQEF89qQa`
+Snapshot ID: `AAAAAOC94IhyzxYZ2gTnWNp/kNWNe0sp`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUu64dvFdPQk.md) - [plain]
 
 > seamless, soft, soulful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,248 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,253 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUu64dvFdPQk.md) - [plain]
 | 37 | [Wonder](https://open.spotify.com/track/3thVzm1lX13dhZ4qOl7dQL) | [Fizzy Orange](https://open.spotify.com/artist/1hSt79a7e2OZzSD3pJgtCZ) | [Wonder](https://open.spotify.com/album/5YalCz9nQenxa8iHuCvaD6) | 2:22 |
 | 38 | [COCONUT PERFUME](https://open.spotify.com/track/7lMrIFrNAwSSdOrsk4glWa) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [COCONUT PERFUME](https://open.spotify.com/album/3hgkYhTNryeg7ZLEgPOKeh) | 2:45 |
 | 39 | [Run](https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Run](https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM) | 3:36 |
-| 40 | [If You Say the Word](https://open.spotify.com/track/3pmSHIHtJC289ImufO7uor) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [If You Say the Word](https://open.spotify.com/album/0SvYW67Kes52rOZziDO9uC) | 4:20 |
-| 41 | [SHOOT ME DOWN](https://open.spotify.com/track/5jLjUQIa8fV6erihJb1App) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 4:52 |
+| 40 | [SHOOT ME DOWN](https://open.spotify.com/track/5jLjUQIa8fV6erihJb1App) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 4:52 |
+| 41 | [If You Say the Word](https://open.spotify.com/track/3pmSHIHtJC289ImufO7uor) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [If You Say the Word](https://open.spotify.com/album/0SvYW67Kes52rOZziDO9uC) | 4:20 |
 | 42 | [Ozu](https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Diego E.P.](https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI) | 3:41 |
 | 43 | [Reach Out And Kiss Me](https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Reach Out And Kiss Me](https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX) | 3:30 |
 | 44 | [Pool Party](https://open.spotify.com/track/6g2lOCDWFDjYLscHr6LCoM) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Pool Party](https://open.spotify.com/album/4xlTP2MmCppLdneOt3QGgN) | 2:58 |
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUu64dvFdPQk.md) - [plain]
 | 61 | [Cynical](https://open.spotify.com/track/3GyhbghKfFN3ekIZJcMbK0) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Cynical](https://open.spotify.com/album/2nhksn5HeM4MX0EGkSau3e) | 3:27 |
 | 62 | [Free](https://open.spotify.com/track/5E8wZrVyC3y52WQSkcZnEP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Nobody's Home](https://open.spotify.com/album/231jpal5NKt2c1QFN1D6AZ) | 3:07 |
 | 63 | [Rockaway](https://open.spotify.com/track/3Mc1wHPrWcXiLeokUZ3Oab) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Five Easy Hot Dogs](https://open.spotify.com/album/2Ao4brMpPgMyyuh9dPK4oK) | 2:06 |
-| 64 | [Dirty Laundry](https://open.spotify.com/track/2Xtkc0tsVpwdLcFZt5SQ97) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Dirty Laundry](https://open.spotify.com/album/7aSC9q6YLN4hsx0p2ZPH2Q) | 2:36 |
-| 65 | [Life's Gonna Kill You \(If You Let It\)](https://open.spotify.com/track/5BU3BEHViPFjJlOvqCm5VJ) | [Man\-Made Sunshine](https://open.spotify.com/artist/3o7Com7ZIpDARXoOHwK4th) | [Life's Gonna Kill You \(If You Let It\)](https://open.spotify.com/album/0IR4dwltpxKhwyD9DT6o6L) | 4:35 |
+| 64 | [Life's Gonna Kill You \(If You Let It\)](https://open.spotify.com/track/5BU3BEHViPFjJlOvqCm5VJ) | [Man\-Made Sunshine](https://open.spotify.com/artist/3o7Com7ZIpDARXoOHwK4th) | [Life's Gonna Kill You \(If You Let It\)](https://open.spotify.com/album/0IR4dwltpxKhwyD9DT6o6L) | 4:35 |
+| 65 | [Loneliness on the run](https://open.spotify.com/track/73yYzvKQM3cXUKyWO5Ynwr) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:39 |
 | 66 | [Fading](https://open.spotify.com/track/0WMlq0TgOBNagqr15tmBPS) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Sink Into Me](https://open.spotify.com/album/4UP1JhTzosIULBPusObP3W) | 3:25 |
-| 67 | [Loneliness on the run](https://open.spotify.com/track/73yYzvKQM3cXUKyWO5Ynwr) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:39 |
+| 67 | [Dirty Laundry](https://open.spotify.com/track/2Xtkc0tsVpwdLcFZt5SQ97) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Dirty Laundry](https://open.spotify.com/album/7aSC9q6YLN4hsx0p2ZPH2Q) | 2:36 |
 | 68 | [Ghosting](https://open.spotify.com/track/4V7zaJB949FXEfRWj5ADL5) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Bubblegum](https://open.spotify.com/album/16jsPuhKOmMDB0E64rOGsb) | 2:15 |
 | 69 | [MIGHT DELETE LATER](https://open.spotify.com/track/7FBGO7sUnXfRoTdnLxiRlw) | [LARRY PINK THE HUMAN](https://open.spotify.com/artist/0EcsZYsbHS6JATYiPJhomh) | [MIGHT DELETE LATER](https://open.spotify.com/album/0dK6Ftn1FeL9JDst7DGe92) | 3:48 |
 | 70 | [you're not in love with me](https://open.spotify.com/track/6z2pPaXUopZzJfV4eLBwSD) | [the bootleg boy](https://open.spotify.com/artist/2i17uDAKnwPO7PlDT4nLaz), [RNAQ](https://open.spotify.com/artist/3juSp5raLqxGiyimUYB5Rk), [Alexa Cirri](https://open.spotify.com/artist/0jitaHotzcSiJNkm4amOOr) | [you're not in love with me](https://open.spotify.com/album/6UzRtIFKExwzwy4WcBQzBM) | 2:44 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUu64dvFdPQk.md) - [plain]
 | 73 | [All the Difference](https://open.spotify.com/track/2KxVEwlxExzVHI2N5GIYZI) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Some Nights I Dream of Doors](https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3) | 3:19 |
 | 74 | [Elevate](https://open.spotify.com/track/5iWNskrPocMh7z8CwUBSRe) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Elevate](https://open.spotify.com/album/1g3eES9s4NjqIYbdhmqXVr) | 3:05 |
 | 75 | [Break My Own Heart](https://open.spotify.com/track/3nkMwpRcRrVtWiuTfPMK2P) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Break My Own Heart](https://open.spotify.com/album/0yXm3Hvv1s6D17Fg2jZiei) | 3:35 |
-| 76 | [Alone](https://open.spotify.com/track/6t5cacQjKUVzNqN4kJSaV2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 2:15 |
-| 77 | [Assis](https://open.spotify.com/track/2VKjLsx5fsMxXPPI8hhwd8) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Assis](https://open.spotify.com/album/71DiQ82ms9jVguDKqdx1UD) | 2:41 |
+| 76 | [Assis](https://open.spotify.com/track/2VKjLsx5fsMxXPPI8hhwd8) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Assis](https://open.spotify.com/album/71DiQ82ms9jVguDKqdx1UD) | 2:41 |
+| 77 | [Alone](https://open.spotify.com/track/6t5cacQjKUVzNqN4kJSaV2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 2:15 |
 | 78 | [ALIEN LOVE CALL](https://open.spotify.com/track/3qSIZ6BhlD8s1A8Hnnr3b8) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [ALIEN LOVE CALL](https://open.spotify.com/album/2nERlBSy1rzIWoTgnezW6M) | 2:56 |
 | 79 | [Under the Sea](https://open.spotify.com/track/5YijNwa0Sl9cZjpJWiVqmE) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Pearl](https://open.spotify.com/album/6CLxliGUrHfAxCVrX9hfYE) | 3:59 |
 | 80 | [CHARLES JEFFREY](https://open.spotify.com/track/618BwYUA98PyOVoCbckluW) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [CHARLES JEFFREY](https://open.spotify.com/album/1inYWUi6rRiaUyrfzl6qnj) | 2:27 |

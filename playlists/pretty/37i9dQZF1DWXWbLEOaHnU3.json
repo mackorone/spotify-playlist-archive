@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 589591,
+  "num_followers": 589647,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -1479,6 +1479,38 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/1JxSjH9vRR2MWNVfUWCRif"
+      },
+      "artists": [
+        {
+          "name": "Memento Mori",
+          "url": "https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR"
+        }
+      ],
+      "duration_ms": 151741,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/76ILtSEgyAcpkTDwFhS5po"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Extra-Terra",
+        "url": "https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4"
+      },
+      "artists": [
+        {
+          "name": "GRAViiTY",
+          "url": "https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY"
+        }
+      ],
+      "duration_ms": 231269,
+      "name": "Extra-Terra",
+      "url": "https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/2KfNqc84udLBA2a0pSBpUh"
       },
@@ -1503,54 +1535,22 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Extra-Terra",
-        "url": "https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4"
+        "name": "Don't Give Up",
+        "url": "https://open.spotify.com/album/3mO66DErj3uSmOZZp4r13t"
       },
       "artists": [
         {
-          "name": "GRAViiTY",
-          "url": "https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY"
-        }
-      ],
-      "duration_ms": 231269,
-      "name": "Extra-Terra",
-      "url": "https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Faded",
-        "url": "https://open.spotify.com/album/1JxSjH9vRR2MWNVfUWCRif"
-      },
-      "artists": [
-        {
-          "name": "Memento Mori",
-          "url": "https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR"
-        }
-      ],
-      "duration_ms": 151741,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/76ILtSEgyAcpkTDwFhS5po"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Dusk Till Dawn",
-        "url": "https://open.spotify.com/album/52tsXG23F7He5OUMX0wm2r"
-      },
-      "artists": [
-        {
-          "name": "Avalon",
-          "url": "https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo"
+          "name": "Vegas (Brazil)",
+          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
         },
         {
-          "name": "Stryker",
-          "url": "https://open.spotify.com/artist/5sDpkzowsJkqkTLzw2r8eF"
+          "name": "Zahar",
+          "url": "https://open.spotify.com/artist/0g26Yvko7W50BTiwl5vbvA"
         }
       ],
-      "duration_ms": 560571,
-      "name": "Dusk Till Dawn",
-      "url": "https://open.spotify.com/track/76y17k5O5MZ2YipoDtIRN7"
+      "duration_ms": 335834,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/2cskW9Z51Lh57KFab9Mjp8"
     }
   ],
   "unique_name": "Psytrance Supernova",

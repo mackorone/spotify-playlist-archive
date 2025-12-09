@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! CD9 en portada 🖤❤️🤍
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,765 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,770 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 40 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 |
 | 41 | [Manhattan](https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 2:50 |
 | 42 | [Temes](https://open.spotify.com/track/66LLNuHo95vCXZyYsKp33k) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Existencia Kamikaze](https://open.spotify.com/album/6fUzjJ4WJm5IfgJ9tONycP) | 3:17 |
-| 43 | [Miel](https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:32 |
-| 44 | [La Locura](https://open.spotify.com/track/2a9cmui0nFPO89oReB95fR) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [La Locura](https://open.spotify.com/album/2emjjajJMu9Q2rhb9Bou9v) | 2:33 |
-| 45 | [Ve y Diles V2 \- Remix](https://open.spotify.com/track/3NO1321RAnd9GmZoJANxlI) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Ve y Diles V2 \(Remix\)](https://open.spotify.com/album/1JP7lfhnwCzHMStiqeL9QV) | 2:56 |
-| 46 | [Salvaje](https://open.spotify.com/track/2OQUE4MtsLQ5S49MQmaVLe) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Salvaje](https://open.spotify.com/album/4HmFVZq4fT2Q74ljHHCVw8) | 3:01 |
+| 43 | [La Locura](https://open.spotify.com/track/2a9cmui0nFPO89oReB95fR) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [La Locura](https://open.spotify.com/album/2emjjajJMu9Q2rhb9Bou9v) | 2:33 |
+| 44 | [Miel](https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:32 |
+| 45 | [Salvaje](https://open.spotify.com/track/2OQUE4MtsLQ5S49MQmaVLe) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Salvaje](https://open.spotify.com/album/4HmFVZq4fT2Q74ljHHCVw8) | 3:01 |
+| 46 | [Ve y Diles V2 \- Remix](https://open.spotify.com/track/3NO1321RAnd9GmZoJANxlI) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Ve y Diles V2 \(Remix\)](https://open.spotify.com/album/1JP7lfhnwCzHMStiqeL9QV) | 2:56 |
 | 47 | [G.R.A.C.I.A.S.](https://open.spotify.com/track/7nKlVhxN2hqgND1xJ6vh3J) | [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL) | [G.R.A.C.I.A.S.](https://open.spotify.com/album/4GBb9ndteTenUUeCN8d3Y1) | 3:32 |
 | 48 | [¿Por Qué Soy Así?](https://open.spotify.com/track/1N9n5G6elGqnLm3KSVG7Ir) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Por Qué Soy Así?](https://open.spotify.com/album/0nx6GtmpkRxmbj1gX2pRP2) | 3:09 |
 | 49 | [La Maleta](https://open.spotify.com/track/6Y1WEdQhhT8FYSQybdFvJ9) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [La Maleta](https://open.spotify.com/album/43fPHT7IZmvY09Yt0dQ2rm) | 3:41 |

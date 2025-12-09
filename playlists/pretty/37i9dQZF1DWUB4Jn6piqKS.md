@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,477 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,489 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 4 | [The Night](https://open.spotify.com/track/28k2ktADh2z4cRyAzQCyrf) | [Frankie Valli & The Four Seasons](https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou) | [The Magic Of Motown \(Chunky Repackaged\)](https://open.spotify.com/album/7jmpVfmFahtBSxGFWR9V2N) | 3:20 |
 | 5 | [Nowhere To Run](https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 3:01 |
 | 6 | [Tainted Love](https://open.spotify.com/track/2ADfheRRkK5P2f1t8si3Lj) | [Gloria Jones](https://open.spotify.com/artist/08BQmH2M3Ew9XjMHaHsl1l) | [Vixen](https://open.spotify.com/album/0vBH7dsa3ZY44AeGimirdZ) | 2:42 |
-| 7 | [I Get The Sweetest Feeling](https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [I Get The Sweetest Feeling](https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6) | 2:58 |
+| 7 | [Be Young, Be Foolish, Be Happy \- Single Version](https://open.spotify.com/track/3UbCQtvvWzivfkCnNxrOoi) | [The Tams](https://open.spotify.com/artist/4FSD5qtm70EBsOiLMN2eEe) | [Hey Girl Don't Bother Me: The Best Of The Tams](https://open.spotify.com/album/2COE1qD4bhIepkyya8z5vQ) | 2:06 |
 | 8 | ['Cause You're Mine](https://open.spotify.com/track/5kTm6mAV809O9jL3fIl80F) | [The Vibrations](https://open.spotify.com/artist/3BLqcKdqgBI3oJvVg7Odz8) | [The Northern Soul Story Vol.1: The Twisted Wheel](https://open.spotify.com/album/4m7PZF4kH6K7JKOp2vlf3d) | 2:10 |
-| 9 | [Be Young, Be Foolish, Be Happy \- Single Version](https://open.spotify.com/track/3UbCQtvvWzivfkCnNxrOoi) | [The Tams](https://open.spotify.com/artist/4FSD5qtm70EBsOiLMN2eEe) | [Hey Girl Don't Bother Me: The Best Of The Tams](https://open.spotify.com/album/2COE1qD4bhIepkyya8z5vQ) | 2:06 |
+| 9 | [I Get The Sweetest Feeling](https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [I Get The Sweetest Feeling](https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6) | 2:58 |
 | 10 | [You Hit Me \(Right Where It Hurt Me\)](https://open.spotify.com/track/29sYUkRdoK9ZRnZUNxCeoy) | [Alice Clark](https://open.spotify.com/artist/6gI51znwsOPQecFnIW7bkh) | [Northern Soul \- 75 Original Classic Tracks](https://open.spotify.com/album/6GIiGXPeaHoT9NII1Fbsdv) | 2:53 |
 | 11 | [Band Of Gold \(Single Mix\)](https://open.spotify.com/track/4o7pdbMDw6XwfXZFCZDoUH) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [Band Of Gold](https://open.spotify.com/album/5m1858fUPOsdHRYHIihBB0) | 2:58 |
 | 12 | [Needle In A Haystack](https://open.spotify.com/track/26fSgIa539TCK3KV76chHU) | [The Velvelettes](https://open.spotify.com/artist/72Q7helEnjOptf8FAoZQTi) | [The Very Best Of The Velvelettes](https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6) | 2:29 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 88 | [Just Like the Weather](https://open.spotify.com/track/1wGUSWGhLZvChd0fxsvsU0) | [Nolan Chance](https://open.spotify.com/artist/5x18L4ZZtCIepz8EelL1fm) | [Constellation of Chicago Soul](https://open.spotify.com/album/1t7urpNm3RvRxOZrWG52Fm) | 2:35 |
 | 89 | [Name It You Got It](https://open.spotify.com/track/4rf0BgkvLftBjVCfCA9qXV) | [Micky Moonshine](https://open.spotify.com/artist/7KSmZ7H3mfxLiuh27Fc2L7) | [The Northern Soul Scene](https://open.spotify.com/album/67UoZsODIDU1g4gN1uJmSk) | 3:24 |
 | 90 | [It Really Hurts Me Girl](https://open.spotify.com/track/7ARc5XRTlhg5KMrZeFnjbi) | [The Carstairs](https://open.spotify.com/artist/1RSTlxBlVr8XeyoFFa8qo0) | [The Stars Of Northern Soul Volume 1](https://open.spotify.com/album/1x6I4OVVnsZGTSBznVw9WY) | 3:27 |
-| 91 | [Ain't That Terrible](https://open.spotify.com/track/1fh9MVjrGCmwRQpWipM6uT) | [Roy Redmond](https://open.spotify.com/artist/75nH9SHblpaAtYck60wjIY) | [Northern Soul 45's](https://open.spotify.com/album/1qsPuK9y5vkLO09lZRMkx9) | 2:32 |
-| 92 | [Afternoon of the Rhino](https://open.spotify.com/track/4rRPk5XhbwQBZANcPsRTiW) | [Mike Post Coalition](https://open.spotify.com/artist/3002PZIz68M48UN0m1SWyR) | [Northern Soul: The Collection](https://open.spotify.com/album/3uCwV0WZeLe6ElssasAInn) | 2:19 |
+| 91 | [Afternoon of the Rhino](https://open.spotify.com/track/4rRPk5XhbwQBZANcPsRTiW) | [Mike Post Coalition](https://open.spotify.com/artist/3002PZIz68M48UN0m1SWyR) | [Northern Soul: The Collection](https://open.spotify.com/album/3uCwV0WZeLe6ElssasAInn) | 2:19 |
+| 92 | [Ain't That Terrible](https://open.spotify.com/track/1fh9MVjrGCmwRQpWipM6uT) | [Roy Redmond](https://open.spotify.com/artist/75nH9SHblpaAtYck60wjIY) | [Northern Soul 45's](https://open.spotify.com/album/1qsPuK9y5vkLO09lZRMkx9) | 2:32 |
 | 93 | [You've Got Your Mind On Other Things](https://open.spotify.com/track/4I6dr0herCKmSfrPjmVr10) | [Beverly Ann](https://open.spotify.com/artist/0vR6zDg8i1J85fNUYV1fiw) | [The Northern Soul Story Vol.4: Wigan Casino](https://open.spotify.com/album/6PgTpu4A3QmoR79tNmk4Ml) | 2:17 |
 | 94 | [What Shall I Do](https://open.spotify.com/track/4vHlngqfKqieP4z48uSGoH) | [Frankie & The Classicals](https://open.spotify.com/artist/4UWGfxt79IQdviWgqwTWV6) | [Northern Soul: The Collection](https://open.spotify.com/album/3uCwV0WZeLe6ElssasAInn) | 2:01 |
 | 95 | [I Got The Fever](https://open.spotify.com/track/6MAV3IXWc2cRbgzhgQomUw) | [Prophets](https://open.spotify.com/artist/2eSddWmVzjlAKbK7EBrfRq) | [Northern Soul: 20 Original Classics](https://open.spotify.com/album/0WaJQ19J0GfyGfuVIE1SrK) | 2:52 |
 | 96 | [You Just Don't Know \(What You Do To Me\)](https://open.spotify.com/track/4Q6gZa8pEcTuaMteHEEYdl) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [The Hits Of '65](https://open.spotify.com/album/5ajbK1dMjom8xX40BEgmU9) | 2:30 |
 | 97 | [Love Is After Me](https://open.spotify.com/track/2Tt1yaGexvMmavbTEpuPDk) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [I'll Shed No Tears](https://open.spotify.com/album/1MLNYdex6LuKBWOfVDP6u5) | 2:26 |
-| 98 | [Change Your Ways](https://open.spotify.com/track/20hJJEwKs22FGHa41NwDO1) | [Willie Kendrick](https://open.spotify.com/artist/70Pp3qLS73T2JAaUAr7RQ4) | [The Northern Soul Story Vol.2: The Golden Torch](https://open.spotify.com/album/4zfzl9fPsQccToLbNMsoLM) | 2:24 |
-| 99 | [Think It Over](https://open.spotify.com/track/5yiVaLYpDFcOIq0Qkz1i61) | [The Harvey Averne Dozen](https://open.spotify.com/artist/1mck5dIwHpn9Roun7jD1lJ) | [Viva Soul](https://open.spotify.com/album/4QFIv1WCGUe2n9ir61BLNB) | 2:37 |
+| 98 | [Think It Over](https://open.spotify.com/track/5yiVaLYpDFcOIq0Qkz1i61) | [The Harvey Averne Dozen](https://open.spotify.com/artist/1mck5dIwHpn9Roun7jD1lJ) | [Viva Soul](https://open.spotify.com/album/4QFIv1WCGUe2n9ir61BLNB) | 2:37 |
+| 99 | [Change Your Ways](https://open.spotify.com/track/20hJJEwKs22FGHa41NwDO1) | [Willie Kendrick](https://open.spotify.com/artist/70Pp3qLS73T2JAaUAr7RQ4) | [The Northern Soul Story Vol.2: The Golden Torch](https://open.spotify.com/album/4zfzl9fPsQccToLbNMsoLM) | 2:24 |
 | 100 | [That's Loving You](https://open.spotify.com/track/29VOAxTNBfotCtsQKTufEz) | [Percy Wiggins](https://open.spotify.com/artist/3OsBOLBZNtkXBVZqiV02mC) | [Uptown, Down South](https://open.spotify.com/album/5lYrlYsHIAMBOs7Q10e1bu) | 2:15 |
 
 Snapshot ID: `AAAAABQHkKlpb39FK3GEhOLnKoFOv0Fu`

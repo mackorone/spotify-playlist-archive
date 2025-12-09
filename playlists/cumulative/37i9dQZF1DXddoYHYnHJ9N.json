@@ -1293,6 +1293,32 @@
     },
     {
       "album": {
+        "name": "Kar\u00e1csonyi dal",
+        "url": "https://open.spotify.com/album/1pTQtUUOF5uRLW8lAtudD5"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        },
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209597,
+      "name": "Kar\u00e1csonyi dal",
+      "url": "https://open.spotify.com/track/6QTVuNK2TnejUaFOPpqBUi"
+    },
+    {
+      "album": {
         "name": "kelet",
         "url": "https://open.spotify.com/album/4DfgMtt4dICgV02uUxLyW3"
       },
@@ -3196,7 +3222,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 189714,
       "name": "VID\u00c9KI CSAJSZI",
       "url": "https://open.spotify.com/track/1105P9BDFQ4GZj7VS5vDuY"

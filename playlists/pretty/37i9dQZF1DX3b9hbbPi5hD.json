@@ -1,13 +1,29 @@
 {
   "description": "Tarantino not only produces great movies, he produces great soundtracks.",
-  "num_followers": 950481,
+  "num_followers": 950625,
   "original_name": "Best Tracks from Tarantino Films",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOVmGyYXA0Kt8KQbpmKAYXByeFO6",
+  "snapshot_id": "AAAAAO29Zoi+5gbc9PZ6vCROFS+a4bZu",
   "tracks": [
+    {
+      "added_at": "2024-06-24 11:57:39",
+      "album": {
+        "name": "How Does That Grab You?",
+        "url": "https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "duration_ms": 162446,
+      "name": "Bang Bang (My Baby Shot Me Down)",
+      "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
+    },
     {
       "added_at": "2024-06-24 11:57:39",
       "album": {
@@ -29,20 +45,24 @@
       "url": "https://open.spotify.com/track/2Nz6aF1umHh5Et6I5H581L"
     },
     {
-      "added_at": "2024-06-24 11:57:39",
+      "added_at": "2025-12-08 21:22:59",
       "album": {
-        "name": "How Does That Grab You?",
-        "url": "https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL"
+        "name": "Russland Erinnerungen",
+        "url": "https://open.spotify.com/album/5RCpX7ttdScp9lmaGHXlfk"
       },
       "artists": [
         {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+          "name": "James Last",
+          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
+        },
+        {
+          "name": "Gheorghe Zamfir",
+          "url": "https://open.spotify.com/artist/12FFWdcxApUNXV9TljwDpT"
         }
       ],
-      "duration_ms": 162446,
-      "name": "Bang Bang (My Baby Shot Me Down)",
-      "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
+      "duration_ms": 263626,
+      "name": "Einsamer Hirte",
+      "url": "https://open.spotify.com/track/7nxWzxIaXdYGeLRNvnueyZ"
     },
     {
       "added_at": "2024-06-24 11:57:39",
@@ -91,6 +111,22 @@
       "duration_ms": 185733,
       "name": "Jungle Boogie",
       "url": "https://open.spotify.com/track/25lQDEclLoUa0dZD25VRXV"
+    },
+    {
+      "added_at": "2025-12-08 21:22:59",
+      "album": {
+        "name": "\u65b0\u30fb\u4ec1\u7fa9\u306a\u304d\u6226\u3044\u3002 \u305d\u3057\u3066\u305d\u306e\u6620\u753b\u97f3\u697d",
+        "url": "https://open.spotify.com/album/40ZcNpDSHD2fq1PynCnZGM"
+      },
+      "artists": [
+        {
+          "name": "HOTEI",
+          "url": "https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns"
+        }
+      ],
+      "duration_ms": 148440,
+      "name": "\u65b0\u30fb\u4ec1\u7fa9\u306a\u304d\u6226\u3044\u306e\u30c6\u30fc\u30de",
+      "url": "https://open.spotify.com/track/77u21r20AEsThKcf69lsUx"
     },
     {
       "added_at": "2024-06-24 11:57:39",

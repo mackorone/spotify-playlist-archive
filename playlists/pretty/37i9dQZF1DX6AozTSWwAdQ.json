@@ -1,6 +1,6 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 60821,
+  "num_followers": 60824,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,6 @@
     {
       "added_at": "2025-12-07 16:00:31",
       "album": {
-        "name": "What A Man Gotta Do",
-        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 180644,
-      "name": "What A Man Gotta Do",
-      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
-    },
-    {
-      "added_at": "2025-12-07 16:00:31",
-      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 171620,
       "name": "forget me too (feat. Halsey)",
       "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
+    },
+    {
+      "added_at": "2025-12-07 16:00:31",
+      "album": {
+        "name": "What A Man Gotta Do",
+        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 180644,
+      "name": "What A Man Gotta Do",
+      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
     },
     {
       "added_at": "2025-12-07 16:00:31",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-12-07 16:00:31",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/57S0srSBJLgKD4Vrm6ngNt"
-      },
-      "artists": [
-        {
-          "name": "Culture Wars",
-          "url": "https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf"
-        }
-      ],
-      "duration_ms": 221281,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/3qLMXjMEqCLuCxu5KsJJQC"
-    },
-    {
-      "added_at": "2025-12-07 16:00:31",
-      "album": {
         "name": "Broken & Beautiful",
         "url": "https://open.spotify.com/album/5UHs9Jq0Vy5E3eUdkgcZvj"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 218948,
       "name": "Broken & Beautiful",
       "url": "https://open.spotify.com/track/1Y9cAYTmyWJCcmfqdG2I29"
+    },
+    {
+      "added_at": "2025-12-07 16:00:31",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/57S0srSBJLgKD4Vrm6ngNt"
+      },
+      "artists": [
+        {
+          "name": "Culture Wars",
+          "url": "https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf"
+        }
+      ],
+      "duration_ms": 221281,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/3qLMXjMEqCLuCxu5KsJJQC"
     },
     {
       "added_at": "2025-12-07 16:00:31",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-12-07 16:00:31",
       "album": {
-        "name": "Blame It On You",
-        "url": "https://open.spotify.com/album/0AugyhUKbkwvVwSYoQba4b"
-      },
-      "artists": [
-        {
-          "name": "Daniel Seavey",
-          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Blame It On You",
-      "url": "https://open.spotify.com/track/67sldfyOCTkXyhqzJTKiDD"
-    },
-    {
-      "added_at": "2025-12-07 16:00:31",
-      "album": {
         "name": "Dead Club City",
         "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 238442,
       "name": "Tomorrow Is Closed",
       "url": "https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS"
+    },
+    {
+      "added_at": "2025-12-07 16:00:31",
+      "album": {
+        "name": "Blame It On You",
+        "url": "https://open.spotify.com/album/0AugyhUKbkwvVwSYoQba4b"
+      },
+      "artists": [
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Blame It On You",
+      "url": "https://open.spotify.com/track/67sldfyOCTkXyhqzJTKiDD"
     },
     {
       "added_at": "2025-12-07 16:00:31",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-12-07 16:00:31",
       "album": {
-        "name": "supercuts",
-        "url": "https://open.spotify.com/album/2F1xmiVxAOHMIPOWcK97gg"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        }
-      ],
-      "duration_ms": 206599,
-      "name": "supercuts",
-      "url": "https://open.spotify.com/track/4PyMK7JTcu6l30D8KogokR"
-    },
-    {
-      "added_at": "2025-12-07 16:00:31",
-      "album": {
         "name": "Bones (feat. OneRepublic)",
         "url": "https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 205792,
       "name": "Bones (feat. OneRepublic)",
       "url": "https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv"
+    },
+    {
+      "added_at": "2025-12-07 16:00:31",
+      "album": {
+        "name": "supercuts",
+        "url": "https://open.spotify.com/album/2F1xmiVxAOHMIPOWcK97gg"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "duration_ms": 206599,
+      "name": "supercuts",
+      "url": "https://open.spotify.com/track/4PyMK7JTcu6l30D8KogokR"
     },
     {
       "added_at": "2025-12-07 16:00:31",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-12-07 16:00:31",
       "album": {
-        "name": "Remind Me",
-        "url": "https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 211167,
-      "name": "Remind Me",
-      "url": "https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8"
-    },
-    {
-      "added_at": "2025-12-07 16:00:31",
-      "album": {
         "name": "Neck Deep",
         "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 178600,
       "name": "Dumbstruck Dumbf**k",
       "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
+    },
+    {
+      "added_at": "2025-12-07 16:00:31",
+      "album": {
+        "name": "Remind Me",
+        "url": "https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 211167,
+      "name": "Remind Me",
+      "url": "https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8"
     },
     {
       "added_at": "2025-12-07 16:00:31",
@@ -1259,22 +1259,18 @@
     {
       "added_at": "2025-12-07 16:00:31",
       "album": {
-        "name": "PMA (feat. Pale Waves)",
-        "url": "https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz"
+        "name": "can we start over?",
+        "url": "https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6"
       },
       "artists": [
         {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
         }
       ],
-      "duration_ms": 191757,
-      "name": "PMA (feat. Pale Waves)",
-      "url": "https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ"
+      "duration_ms": 187596,
+      "name": "spite",
+      "url": "https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX"
     }
   ],
   "unique_name": "\u5fc3\u60c5\u5927\u632f",

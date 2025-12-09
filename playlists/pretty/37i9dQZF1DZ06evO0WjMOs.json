@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 50438,
+  "num_followers": 50496,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAABm772YAQzA0u/OrgrNeBG4",
+  "snapshot_id": "aTTDgAAAAAA1bdwQUUYl/BDikqju5e5m",
   "tracks": [
     {
       "added_at": null,
@@ -619,42 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Sale Sign (feat. Lizzy McAlpine)",
-        "url": "https://open.spotify.com/album/6Ew8bEDBgeYcl7wmyA2P1P"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "For Sale Sign (feat. Lizzy McAlpine)",
-      "url": "https://open.spotify.com/track/0WYip0MXpOGYvNH2h7q8ng"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Older (and Wiser)",
-        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 205950,
-      "name": "Like It Tends To Do",
-      "url": "https://open.spotify.com/track/63dsEiCSDhptLAaTR7dVV7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stank Face",
         "url": "https://open.spotify.com/album/1pl9uWuNFtZ3eBcSpnmL9r"
       },
@@ -675,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "When The World Stopped Moving: The Live EP",
-        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
       },
       "artists": [
         {
@@ -684,9 +648,9 @@
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 194278,
-      "name": "When The World Stopped Moving",
-      "url": "https://open.spotify.com/track/7JgDvGmgeKcdM633G1XAo9"
+      "duration_ms": 205950,
+      "name": "Like It Tends To Do",
+      "url": "https://open.spotify.com/track/63dsEiCSDhptLAaTR7dVV7"
     },
     {
       "added_at": null,
@@ -707,6 +671,42 @@
       "duration_ms": 223933,
       "name": "Hope - Acoustic",
       "url": "https://open.spotify.com/track/5TwOrHpV01ymb1vMFVRZJl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 194278,
+      "name": "When The World Stopped Moving",
+      "url": "https://open.spotify.com/track/7JgDvGmgeKcdM633G1XAo9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Sale Sign (feat. Lizzy McAlpine)",
+        "url": "https://open.spotify.com/album/6Ew8bEDBgeYcl7wmyA2P1P"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "For Sale Sign (feat. Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/0WYip0MXpOGYvNH2h7q8ng"
     },
     {
       "added_at": null,

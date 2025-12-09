@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Berq, Paula Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,953 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,925 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Knopf](https://open.spotify.com/track/38ZbazlMYsu5qWhaSTOHtO) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Gegenteil von Glück](https://open.spotify.com/album/4PoyaGgQRQdEPALQgLAyuY) | 4:12 |
-| 2 | [die welt geht vor die hunde](https://open.spotify.com/track/3uIHHIE5MiDrPj0YdpfeDO) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [die welt geht vor die hunde](https://open.spotify.com/album/2WDVP6HevVbI5AmJZqunYY) | 2:51 |
-| 3 | [juli](https://open.spotify.com/track/0rbvydYLBS92meYf6S0b7D) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [freddy](https://open.spotify.com/artist/1wZSsamMhiSbUH81WUUNik) | [juli](https://open.spotify.com/album/74Ol3ScDT8UobOYD6e5Ba9) | 2:42 |
-| 4 | [spaß am glas](https://open.spotify.com/track/6l2mUaALK4zninxazzwFTN) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [spaß am glas](https://open.spotify.com/album/37RCFSxjxhHmexsikCrM78) | 2:22 |
+| 2 | [juli](https://open.spotify.com/track/0rbvydYLBS92meYf6S0b7D) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [freddy](https://open.spotify.com/artist/1wZSsamMhiSbUH81WUUNik) | [juli](https://open.spotify.com/album/74Ol3ScDT8UobOYD6e5Ba9) | 2:42 |
+| 3 | [die welt geht vor die hunde](https://open.spotify.com/track/3uIHHIE5MiDrPj0YdpfeDO) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [die welt geht vor die hunde](https://open.spotify.com/album/2WDVP6HevVbI5AmJZqunYY) | 2:51 |
+| 4 | [seht ihr nicht](https://open.spotify.com/track/1vN8sBtdKTaP72Gi8pW5rD) | [mathi](https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4) | [seht ihr nicht](https://open.spotify.com/album/4iWsaNsrCtN9CxkezlAve8) | 2:53 |
 | 5 | [Wieder zurück \(feat\. Edwin Rosen\)](https://open.spotify.com/track/4ffiPZkDwWUAvSUUfar0j9) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh), [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Arsenalplatz](https://open.spotify.com/album/1LpzaHg585JwktXMEwRH6j) | 3:58 |
-| 6 | [seht ihr nicht](https://open.spotify.com/track/1vN8sBtdKTaP72Gi8pW5rD) | [mathi](https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4) | [seht ihr nicht](https://open.spotify.com/album/4iWsaNsrCtN9CxkezlAve8) | 2:53 |
+| 6 | [spaß am glas](https://open.spotify.com/track/6l2mUaALK4zninxazzwFTN) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [spaß am glas](https://open.spotify.com/album/37RCFSxjxhHmexsikCrM78) | 2:22 |
 | 7 | [Kreislauf](https://open.spotify.com/track/63u7y0YEzhZxsh7Blg6kEa) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [Kreislauf](https://open.spotify.com/album/3uZtKPX2VrGNnIIH6M1mV4) | 3:48 |
 | 8 | [All die schönen Worte feat\. Faber](https://open.spotify.com/track/6d7QE9925lkSV8IxaNC55s) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4), [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [All die schönen Worte feat\. Faber](https://open.spotify.com/album/3aEYufSNb9oRDRQXBxDNi3) | 3:24 |
-| 9 | [fanta lustig](https://open.spotify.com/track/10Am9fOPp2hmUSvLiVEjGE) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [fanta lustig ep](https://open.spotify.com/album/5as40bmi1SzrUCogUEfCnm) | 2:45 |
-| 10 | [leicht](https://open.spotify.com/track/11reqIzoHjabDRgj1oMXTB) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [leicht](https://open.spotify.com/album/5jYfMjaHxCKVJDJPLLIuU7) | 2:21 |
-| 11 | [Haifischbecken](https://open.spotify.com/track/2ppiU0ulKCsMTbA72tUa5k) | [Yasola](https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS) | [Haifischbecken](https://open.spotify.com/album/6rfaLEpqZaRoEIg1Q8JP27) | 3:12 |
-| 12 | [Luftschloss](https://open.spotify.com/track/0ytjzXzOlaeQ9aSf0tuY8D) | [amelie](https://open.spotify.com/artist/7cEnAUBptjGti4uq3nkGoV) | [Luftschloss](https://open.spotify.com/album/5V95AEIQjYt8Nyi8ZDNJTF) | 3:13 |
-| 13 | [Flaschenpost](https://open.spotify.com/track/6psy7SKVh6M2JkWtsDT6Aw) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Zeitraffer](https://open.spotify.com/album/7L9SoZMJYpDvZCaZg62vVq) | 2:01 |
-| 14 | [augen zu:auf](https://open.spotify.com/track/4CiYWQI7YtNCzTtF1XxK0h) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [augen zu:auf](https://open.spotify.com/album/1hBRNebqswtEj9HLGILMAI) | 2:30 |
+| 9 | [Haifischbecken](https://open.spotify.com/track/2ppiU0ulKCsMTbA72tUa5k) | [Yasola](https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS) | [Haifischbecken](https://open.spotify.com/album/6rfaLEpqZaRoEIg1Q8JP27) | 3:12 |
+| 10 | [augen zu:auf](https://open.spotify.com/track/4CiYWQI7YtNCzTtF1XxK0h) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [augen zu:auf](https://open.spotify.com/album/1hBRNebqswtEj9HLGILMAI) | 2:30 |
+| 11 | [Luftschloss](https://open.spotify.com/track/0ytjzXzOlaeQ9aSf0tuY8D) | [amelie](https://open.spotify.com/artist/7cEnAUBptjGti4uq3nkGoV) | [Luftschloss](https://open.spotify.com/album/5V95AEIQjYt8Nyi8ZDNJTF) | 3:13 |
+| 12 | [fanta lustig](https://open.spotify.com/track/10Am9fOPp2hmUSvLiVEjGE) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [fanta lustig ep](https://open.spotify.com/album/5as40bmi1SzrUCogUEfCnm) | 2:45 |
+| 13 | [leicht](https://open.spotify.com/track/11reqIzoHjabDRgj1oMXTB) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [leicht](https://open.spotify.com/album/5jYfMjaHxCKVJDJPLLIuU7) | 2:21 |
+| 14 | [Flaschenpost](https://open.spotify.com/track/6psy7SKVh6M2JkWtsDT6Aw) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Zeitraffer](https://open.spotify.com/album/7L9SoZMJYpDvZCaZg62vVq) | 2:01 |
 | 15 | [für immer kind bleiben](https://open.spotify.com/track/7qAnJ6dSXymBTYEinAFvmt) | [jaschu](https://open.spotify.com/artist/3rfwvSE1wJiQWBeqNGgcy8) | [für immer kind bleiben](https://open.spotify.com/album/2Lli6Izvojoyd2Lroj1lp3) | 2:39 |
 | 16 | [poly](https://open.spotify.com/track/51tSxmzv9ihPf4G9ExE3YQ) | [Leon Wiesmann](https://open.spotify.com/artist/47oTRxFflOZVvB5ze1SjT8) | [poly](https://open.spotify.com/album/3sjkeYKldsVyjX30BBe7o2) | 3:20 |
 | 17 | [Gegenteil von Glück](https://open.spotify.com/track/6hHrfh59hQJyfxGjGtMQ0h) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Gegenteil von Glück](https://open.spotify.com/album/31Q0RTl2JFPyexVMgwub3B) | 2:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [bei mir](https://open.spotify.com/track/0rozXqJUJVhHrcamW1ePEr) | [TOBIAS](https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC) | [zwischendrin EP](https://open.spotify.com/album/5LZ9p9DCSGOMJTkqrdiTAf) | 2:54 |
 | 75 | [Erinner Dich](https://open.spotify.com/track/4ot4QnRbaPJ3CeWypaTHc0) | [laela](https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF) | [Erinner Dich](https://open.spotify.com/album/6tPbhlbGK1fZcUajsIVQTg) | 2:12 |
 
-Snapshot ID: `AAAAALaM+pC6JeseSoUn3SdvvAq6qoxq`
+Snapshot ID: `AAAAAJfvJ/35qIbex0oknMdJJLAzC6Ke`

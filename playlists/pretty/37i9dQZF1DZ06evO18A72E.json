@@ -1,12 +1,12 @@
 {
   "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 777489,
+  "num_followers": 777484,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAACFBfHsP4DalwDVtXG+ab/I",
+  "snapshot_id": "aTTDgAAAAAAfhSvJuSqoq8QNbfMKkJmN",
   "tracks": [
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty. Odd.",
-        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "That Green Gentleman (Things Have Changed)",
-      "url": "https://open.spotify.com/track/2d1D1E8M48hHE99u6BO8RN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pray for the Wicked",
         "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 160746,
       "name": "King of the Clouds",
       "url": "https://open.spotify.com/track/50Hv5NZIM0puIUoBttjpfb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretty. Odd.",
+        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "That Green Gentleman (Things Have Changed)",
+      "url": "https://open.spotify.com/track/2d1D1E8M48hHE99u6BO8RN"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live In Denver",
-        "url": "https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL"
+        "name": "Pretty. Odd.",
+        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 200333,
-      "name": "I Write Sins Not Tragedies - Live In Denver",
-      "url": "https://open.spotify.com/track/67w5xyfy0rOTbrlbbhnjc8"
+      "duration_ms": 254386,
+      "name": "Do You Know What I'm Seeing?",
+      "url": "https://open.spotify.com/track/1ac22sFSlj3iaQV2qAsFkK"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty. Odd.",
-        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
+        "name": "Live In Denver",
+        "url": "https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 254386,
-      "name": "Do You Know What I'm Seeing?",
-      "url": "https://open.spotify.com/track/1ac22sFSlj3iaQV2qAsFkK"
+      "duration_ms": 200333,
+      "name": "I Write Sins Not Tragedies - Live In Denver",
+      "url": "https://open.spotify.com/track/67w5xyfy0rOTbrlbbhnjc8"
     },
     {
       "added_at": null,

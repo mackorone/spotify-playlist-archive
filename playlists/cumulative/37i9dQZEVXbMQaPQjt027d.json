@@ -2418,7 +2418,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 192380,
       "name": "De Tijger van de Kroeg",
       "url": "https://open.spotify.com/track/2pKg0EKeCyQbVgHoSStxfq"
@@ -4557,6 +4557,32 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5SDS1tsM3NN618kc8tT02z"
+      },
+      "artists": [
+        {
+          "name": "Robert Grace",
+          "url": "https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1"
+        },
+        {
+          "name": "Bob Grace",
+          "url": "https://open.spotify.com/artist/3481Q8KyNiBrhQlgiExdBg"
+        },
+        {
+          "name": "Lincoln grace",
+          "url": "https://open.spotify.com/artist/2jhq8Zpvfu46nrDAxygIvM"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213114,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/01QbvRL18rCmjQYtHGXHQa"
+    },
+    {
+      "album": {
         "name": "The Dream",
         "url": "https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi"
       },
@@ -6112,7 +6138,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 191533,
       "name": "Links, Rechts, Voor, Achteren",
       "url": "https://open.spotify.com/track/675137bcOKLTipkXqKQzpq"
@@ -6218,7 +6244,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 109128,
       "name": "Losin' Streak",
       "url": "https://open.spotify.com/track/6ly0Zc4mrK1W0XLeuAk5Dv"
@@ -10477,6 +10503,28 @@
     },
     {
       "album": {
+        "name": "Discolized",
+        "url": "https://open.spotify.com/album/5ENOV7Wnbalw6341qhXp2f"
+      },
+      "artists": [
+        {
+          "name": "Kato",
+          "url": "https://open.spotify.com/artist/1udruffum7CorOphFUMB9A"
+        },
+        {
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177386,
+      "name": "Turn The Lights Off (feat. Jon)",
+      "url": "https://open.spotify.com/track/0wHayguZd1CeQDLYohXNMS"
+    },
+    {
+      "album": {
         "name": "Smartlap Is Niet Dood",
         "url": "https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA"
       },
@@ -11054,7 +11102,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-09",
       "duration_ms": 225404,
       "name": "VOX POPULI",
       "url": "https://open.spotify.com/track/7KWeKiDy7GqFjQ5e7xiPxy"

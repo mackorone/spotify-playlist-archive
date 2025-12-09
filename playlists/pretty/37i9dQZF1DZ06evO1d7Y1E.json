@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 118236,
+  "num_followers": 118232,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAAA7wfVd/aR3YnyoUC0fajaM",
+  "snapshot_id": "aTTDgAAAAABzZm7T1VUU9mi4sKJxcqLZ",
   "tracks": [
     {
       "added_at": null,
@@ -75,34 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liberdade",
-        "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 250434,
-      "name": "Madrugada \u00e9 Solid\u00e3o",
-      "url": "https://open.spotify.com/track/6WmASz2D2nydllhQzNxTOU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Sinto Aben\u00e7oado",
         "url": "https://open.spotify.com/album/0CuUCSHvpqUcuXffl0rcQD"
       },
@@ -127,6 +99,34 @@
       "duration_ms": 214235,
       "name": "Me Sinto Aben\u00e7oado",
       "url": "https://open.spotify.com/track/7HjZD0NPC1hzFpjUjo45GR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 250434,
+      "name": "Madrugada \u00e9 Solid\u00e3o",
+      "url": "https://open.spotify.com/track/6WmASz2D2nydllhQzNxTOU"
     },
     {
       "added_at": null,
@@ -383,30 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camisa 10",
-        "url": "https://open.spotify.com/album/3JUT6jPZXrzkqIBJSSyrno"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "DJ Zullu",
-          "url": "https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE"
-        },
-        {
-          "name": "DJ Caetano",
-          "url": "https://open.spotify.com/artist/6p8UveMYUHymkyH4rXgpoJ"
-        }
-      ],
-      "duration_ms": 90909,
-      "name": "Camisa 10",
-      "url": "https://open.spotify.com/track/6p8mBeEhoP4aywtAXHbcVT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu Fiz o Jogo Virar",
         "url": "https://open.spotify.com/album/78d91UtLEOTAllTmgDh7n5"
       },
@@ -495,6 +471,30 @@
       "duration_ms": 783117,
       "name": "Let's Go 5",
       "url": "https://open.spotify.com/track/1noFyrFs89ASUPka2azbD9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Camisa 10",
+        "url": "https://open.spotify.com/album/3JUT6jPZXrzkqIBJSSyrno"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "DJ Zullu",
+          "url": "https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE"
+        },
+        {
+          "name": "DJ Caetano",
+          "url": "https://open.spotify.com/artist/6p8UveMYUHymkyH4rXgpoJ"
+        }
+      ],
+      "duration_ms": 90909,
+      "name": "Camisa 10",
+      "url": "https://open.spotify.com/track/6p8mBeEhoP4aywtAXHbcVT"
     },
     {
       "added_at": null,
@@ -916,7 +916,7 @@
           "url": "https://open.spotify.com/artist/7kdYYoCudHnWFDFJhYZTJ2"
         },
         {
-          "name": "Analogic Records",
+          "name": "Analogic",
           "url": "https://open.spotify.com/artist/5w7rdQm98KK3C5U6zrnenv"
         }
       ],
@@ -1115,34 +1115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ordem do Mano",
-        "url": "https://open.spotify.com/album/7A6mhzGxqp111NGQ5q1fGF"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "LB \u00danico",
-          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
-        }
-      ],
-      "duration_ms": 195553,
-      "name": "Ordem do Mano",
-      "url": "https://open.spotify.com/track/5dq5AD4ijms2xZTP6a71ho"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Assault (Joias no Pulso)",
         "url": "https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs"
       },
@@ -1171,6 +1143,34 @@
       "duration_ms": 274015,
       "name": "Assault (Joias no Pulso)",
       "url": "https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ordem do Mano",
+        "url": "https://open.spotify.com/album/7A6mhzGxqp111NGQ5q1fGF"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        }
+      ],
+      "duration_ms": 195553,
+      "name": "Ordem do Mano",
+      "url": "https://open.spotify.com/track/5dq5AD4ijms2xZTP6a71ho"
     },
     {
       "added_at": null,
@@ -1523,58 +1523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Nova Era",
-        "url": "https://open.spotify.com/album/2BbG0JEEVGpO2xscs9AYxT"
-      },
-      "artists": [
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 206557,
-      "name": "O Chamado",
-      "url": "https://open.spotify.com/track/7aiLJD8BtQyBoY8oDuranC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O S\u00e1bio",
-        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        },
-        {
-          "name": "DiCastro",
-          "url": "https://open.spotify.com/artist/021AgNRiFV8NmuDqQceKvF"
-        }
-      ],
-      "duration_ms": 223689,
-      "name": "Frio e Calculista",
-      "url": "https://open.spotify.com/track/57nvtO3EJuh6zuB67R3QeF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Assault (Rio)",
         "url": "https://open.spotify.com/album/1vQDSvZfK37xqxEmza4uha"
       },
@@ -1615,6 +1563,58 @@
       "duration_ms": 324016,
       "name": "Assault (Rio)",
       "url": "https://open.spotify.com/track/4FOf88scN5qTRGXc55tGJ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O S\u00e1bio",
+        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        },
+        {
+          "name": "DiCastro",
+          "url": "https://open.spotify.com/artist/021AgNRiFV8NmuDqQceKvF"
+        }
+      ],
+      "duration_ms": 223689,
+      "name": "Frio e Calculista",
+      "url": "https://open.spotify.com/track/57nvtO3EJuh6zuB67R3QeF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Nova Era",
+        "url": "https://open.spotify.com/album/2BbG0JEEVGpO2xscs9AYxT"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 206557,
+      "name": "O Chamado",
+      "url": "https://open.spotify.com/track/7aiLJD8BtQyBoY8oDuranC"
     }
   ],
   "unique_name": "This Is Mc Poze do Rodo",

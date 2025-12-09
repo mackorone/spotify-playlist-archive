@@ -1,6 +1,6 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
-  "num_followers": 412587,
+  "num_followers": 412605,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
@@ -675,38 +675,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/0ToW0tbb8o88G6Wd2A4LFH"
-      },
-      "artists": [
-        {
-          "name": "IZAL",
-          "url": "https://open.spotify.com/artist/2hazSY4Ef3aB9ATXW7F5w3"
-        }
-      ],
-      "duration_ms": 216566,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/4hTXeWayUVMwoz6v1CviSN"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 269691,
-      "name": "Algo Est\u00e1 Cambiando",
-      "url": "https://open.spotify.com/track/5dLz5CRzW8RcNEptn0NtOi"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "ENCHASTRE",
         "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
       },
@@ -727,18 +695,34 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Ciencia Exacta",
-        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
         }
       ],
-      "duration_ms": 205569,
-      "name": "Hablar de Ti",
-      "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
+      "duration_ms": 269691,
+      "name": "Algo Est\u00e1 Cambiando",
+      "url": "https://open.spotify.com/track/5dLz5CRzW8RcNEptn0NtOi"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/0ToW0tbb8o88G6Wd2A4LFH"
+      },
+      "artists": [
+        {
+          "name": "IZAL",
+          "url": "https://open.spotify.com/artist/2hazSY4Ef3aB9ATXW7F5w3"
+        }
+      ],
+      "duration_ms": 216566,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/4hTXeWayUVMwoz6v1CviSN"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -759,6 +743,22 @@
       "duration_ms": 217400,
       "name": "Diazepam",
       "url": "https://open.spotify.com/track/2KrXkY8yRsncGk2kXPD4Zt"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Ciencia Exacta",
+        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 205569,
+      "name": "Hablar de Ti",
+      "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Magia & Efectos Especiales",
-        "url": "https://open.spotify.com/album/1H0Kzu6QdUAuUDMGOIe271"
-      },
-      "artists": [
-        {
-          "name": "IZAL",
-          "url": "https://open.spotify.com/artist/2hazSY4Ef3aB9ATXW7F5w3"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Qu\u00e9 Bien",
-      "url": "https://open.spotify.com/track/3iaj0MtII6VPVhwQa4eeX3"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Si Quieres",
         "url": "https://open.spotify.com/album/4elppYh2Ev29JTfiTa4NEl"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 167044,
       "name": "Si Quieres",
       "url": "https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Magia & Efectos Especiales",
+        "url": "https://open.spotify.com/album/1H0Kzu6QdUAuUDMGOIe271"
+      },
+      "artists": [
+        {
+          "name": "IZAL",
+          "url": "https://open.spotify.com/artist/2hazSY4Ef3aB9ATXW7F5w3"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Qu\u00e9 Bien",
+      "url": "https://open.spotify.com/track/3iaj0MtII6VPVhwQa4eeX3"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Los A\u00f1os Futuros",
+        "url": "https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc"
+      },
+      "artists": [
+        {
+          "name": "1915",
+          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
+        }
+      ],
+      "duration_ms": 187824,
+      "name": "Extranjero",
+      "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "Canciones Sin Ropa",
         "url": "https://open.spotify.com/album/0L9cqmT0jwp00pj6r49Ttj"
       },
@@ -1055,38 +1071,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Los A\u00f1os Futuros",
-        "url": "https://open.spotify.com/album/5Jx3gtYO55WUQHLUZyk6Qc"
-      },
-      "artists": [
-        {
-          "name": "1915",
-          "url": "https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1"
-        }
-      ],
-      "duration_ms": 187824,
-      "name": "Extranjero",
-      "url": "https://open.spotify.com/track/6f4HlS9R6HO2pnBaRbawA8"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "Arunima",
-        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        }
-      ],
-      "duration_ms": 228534,
-      "name": "No Es Que No Te Quiera",
-      "url": "https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Si Me Voy",
         "url": "https://open.spotify.com/album/1IucviBb2OOIZsrb49NJEq"
       },
@@ -1099,22 +1083,6 @@
       "duration_ms": 186000,
       "name": "Si Me Voy",
       "url": "https://open.spotify.com/track/39PaCcsOLhJx3U9To1Qxak"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "GP",
-        "url": "https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 174173,
-      "name": "Fruta y T\u00e9",
-      "url": "https://open.spotify.com/track/140oPNZsqzYQ0bUcG1y3U9"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1151,6 +1119,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Arunima",
+        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "duration_ms": 228534,
+      "name": "No Es Que No Te Quiera",
+      "url": "https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "Murasaki",
         "url": "https://open.spotify.com/album/6Wbe28xhFeR3q8gjhxgjrj"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 213133,
       "name": "Murasaki",
       "url": "https://open.spotify.com/track/033BH9v7RyCCdHzgxyiU5R"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "GP",
+        "url": "https://open.spotify.com/album/6f6ZV6dYzZVJTvvxhd1Y0t"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 174173,
+      "name": "Fruta y T\u00e9",
+      "url": "https://open.spotify.com/track/140oPNZsqzYQ0bUcG1y3U9"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/2hEqB0JliRzhmxRhyN9IEH"
-      },
-      "artists": [
-        {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
-        }
-      ],
-      "duration_ms": 181592,
-      "name": "Selva Negra",
-      "url": "https://open.spotify.com/track/4abXKMf3IsIe3gQaCsiiHx"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Prender un Fuego",
         "url": "https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 196072,
       "name": "La Casa de A",
       "url": "https://open.spotify.com/track/6xtphuj19xftkTUHDZ4sFH"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/2hEqB0JliRzhmxRhyN9IEH"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        }
+      ],
+      "duration_ms": 181592,
+      "name": "Selva Negra",
+      "url": "https://open.spotify.com/track/4abXKMf3IsIe3gQaCsiiHx"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Azules Turquesas",
-        "url": "https://open.spotify.com/album/0hJvlZtFQ8kTFpxKvewqmd"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "Canci\u00f3n de Amor",
-      "url": "https://open.spotify.com/track/3o0XX8BPjhtt1w9rOXhmyN"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Pi\u00f1ata",
         "url": "https://open.spotify.com/album/4NNsCRL4LuWbspwc4F0RRu"
       },
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Destellos",
-        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
+        "name": "Azules Turquesas",
+        "url": "https://open.spotify.com/album/0hJvlZtFQ8kTFpxKvewqmd"
       },
       "artists": [
         {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
         }
       ],
-      "duration_ms": 237786,
-      "name": "Popscuro",
-      "url": "https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev"
+      "duration_ms": 183493,
+      "name": "Canci\u00f3n de Amor",
+      "url": "https://open.spotify.com/track/3o0XX8BPjhtt1w9rOXhmyN"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1427,22 +1411,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Hice Todo Mal",
-        "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "Hice Todo Mal",
-      "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Calidosound",
         "url": "https://open.spotify.com/album/02jSWAxa0OgylMZkHApDyj"
       },
@@ -1455,6 +1423,38 @@
       "duration_ms": 226880,
       "name": "Te Lastim\u00e9",
       "url": "https://open.spotify.com/track/29ewalVPcrRF03aTtWvD9z"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Destellos",
+        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 237786,
+      "name": "Popscuro",
+      "url": "https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Hice Todo Mal",
+        "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "Hice Todo Mal",
+      "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Todas las Flores de Enero",
-        "url": "https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 134888,
-      "name": "Todas las Flores de Enero",
-      "url": "https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Colores Paganos",
         "url": "https://open.spotify.com/album/52qqkgnvRbNW9wW0VT3OgY"
       },
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "Todas las Flores de Enero",
+        "url": "https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 134888,
+      "name": "Todas las Flores de Enero",
+      "url": "https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "Rebeldes",
         "url": "https://open.spotify.com/album/1knebQMz0NwYy1ICU5P8jE"
       },
@@ -1519,22 +1519,6 @@
       "duration_ms": 261066,
       "name": "Como puedes vivir contigo mismo",
       "url": "https://open.spotify.com/track/5YZCCj6u01kiuRFZWu0Pjk"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "The Room",
-        "url": "https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 286573,
-      "name": "Dead",
-      "url": "https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
+        "name": "The Room",
+        "url": "https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 286573,
+      "name": "Dead",
+      "url": "https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -1603,26 +1603,6 @@
       "duration_ms": 268280,
       "name": "Adelante",
       "url": "https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
-        "name": "TE QUIERO",
-        "url": "https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo"
-      },
-      "artists": [
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 237453,
-      "name": "ADI\u00d3S",
-      "url": "https://open.spotify.com/track/1r4MzQIQ30YGlNaqUbZuvX"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1647,18 +1627,22 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Ciencia Exacta",
-        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+        "name": "TE QUIERO",
+        "url": "https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 158121,
-      "name": "Las Flores",
-      "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
+      "duration_ms": 237453,
+      "name": "ADI\u00d3S",
+      "url": "https://open.spotify.com/track/1r4MzQIQ30YGlNaqUbZuvX"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1675,6 +1659,22 @@
       "duration_ms": 295800,
       "name": "Pesadilla",
       "url": "https://open.spotify.com/track/2jRdBWjexlkEjQNjl6huoM"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Ciencia Exacta",
+        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 158121,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
     }
   ],
   "unique_name": "Lo Mejor del Indie Latino  ",

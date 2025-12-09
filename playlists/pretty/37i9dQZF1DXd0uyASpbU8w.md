@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Sam Deep, Shallipopi, Makhadzi and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,647 likes - 86 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,729 likes - 86 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 11 | [Easiest Goodbye \(feat\. Manana\)](https://open.spotify.com/track/6NpQxBXABg3PlNNY1f81NM) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N), [The Imports](https://open.spotify.com/artist/6lxZ4IurjpHXkrexbhUiKx), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Easiest Goodbye](https://open.spotify.com/album/7pxrvIi4o2vVi5KH6v5LQA) | 3:31 |
 | 12 | [silent treatment](https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [silent treatment](https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt) | 2:22 |
 | 13 | [Khetha](https://open.spotify.com/track/55Ksyvd4sNgRarIlq1u9r6) | [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Essa Kay](https://open.spotify.com/artist/3trQ6ETzQzpc6EWLwIVLHh), [Skillz](https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf) | [Khetha](https://open.spotify.com/album/20qljRtdrfq1pY4UL7xI8Z) | 7:39 |
-| 14 | [Awukwazi \(feat\. Dlala Thukzin\)](https://open.spotify.com/track/2GRQKhpmLc2gAwpNg2Vzmg) | [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [The Sisters](https://open.spotify.com/artist/53jYY2v3q7n3i0B3Alf8rt), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD) | [Awukwazi \(feat\. Dlala Thukzin\)](https://open.spotify.com/album/2s5jIqpDcNtVsHNC2jW6vK) | 5:13 |
+| 14 | [Awukwazi \(feat\. Dlala Thukzin\)](https://open.spotify.com/track/2GRQKhpmLc2gAwpNg2Vzmg) | [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [The Sisters](https://open.spotify.com/artist/54XKdmJkyJjdLMSA5h1rNE), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD) | [Awukwazi \(feat\. Dlala Thukzin\)](https://open.spotify.com/album/2s5jIqpDcNtVsHNC2jW6vK) | 5:13 |
 | 15 | [Dali](https://open.spotify.com/track/736Meinsr22PyawijKHnrW) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Dali](https://open.spotify.com/album/0jWWd8O33jAFB46hCzNKJ4) | 7:22 |
 | 16 | [Jaiva La \(feat\. Fiesta Black\)](https://open.spotify.com/track/4UlrAOKlC6d115YaR3eJnd) | [King P](https://open.spotify.com/artist/47afOpYr8n2njpPNQKuQfc), [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [Fiesta Black](https://open.spotify.com/artist/5jg9SaU7GAWbPyG4oK2dS5) | [Man Of Action \(MOA\)](https://open.spotify.com/album/0Fa50qRFZcdxsLRFDAxk7c) | 6:38 |
 | 17 | [On A Low](https://open.spotify.com/track/679jlf8FnAEMpJSWi4poXR) | [Elestee](https://open.spotify.com/artist/3BBfqTlas3x1DLh2gYqBd7), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [On A Low](https://open.spotify.com/album/6oYatHAnMc7BL6WB5ZbRrs) | 2:16 |

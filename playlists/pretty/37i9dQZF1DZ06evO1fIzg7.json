@@ -1,12 +1,12 @@
 {
   "description": "This is Sophie Ellis-Bextor. The essential tracks, all in one playlist.",
-  "num_followers": 20493,
+  "num_followers": 20491,
   "original_name": "This Is Sophie Ellis-Bextor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTNyAAAAAABxS2k/jfq1cqm2lkpIJYBz",
+  "snapshot_id": "aTTDgAAAAADNesOWqQukjf46U/FUUune",
   "tracks": [
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 170393,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/2H1YnRuTOBk8sPPuVxthmz"
+      "duration_ms": 248001,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/3njpFdnqVB3reyo7gDMHhw"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 248001,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/3njpFdnqVB3reyo7gDMHhw"
+      "duration_ms": 170393,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/2H1YnRuTOBk8sPPuVxthmz"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 289906,
-      "name": "Everything is Sweet",
-      "url": "https://open.spotify.com/track/5xk0BQteKbykX7Ih1VuX5a"
+      "duration_ms": 253293,
+      "name": "Breaking the Circle",
+      "url": "https://open.spotify.com/track/4Y0JKqL9Sa7tFHEj8BHvrV"
     },
     {
       "added_at": null,
@@ -807,38 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Make a Scene",
-        "url": "https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 273915,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/4LNRBwnx53haxMj2rF0BWr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HANA",
-        "url": "https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Breaking the Circle",
-      "url": "https://open.spotify.com/track/4Y0JKqL9Sa7tFHEj8BHvrV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Classical 80s Dance",
         "url": "https://open.spotify.com/album/4lXao2y0nV9OyHL4QBW6x5"
       },
@@ -859,6 +827,38 @@
       "duration_ms": 227000,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/409E7VEl0dAqHw5wk5gdvM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HANA",
+        "url": "https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 289906,
+      "name": "Everything is Sweet",
+      "url": "https://open.spotify.com/track/5xk0BQteKbykX7Ih1VuX5a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Make a Scene",
+        "url": "https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 273915,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/4LNRBwnx53haxMj2rF0BWr"
     },
     {
       "added_at": null,

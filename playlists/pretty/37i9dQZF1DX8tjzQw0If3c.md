@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Featuring our Top RADAR SG & MY Artists of 2025, Nadeera, ICEBOX, and editor’s picks of the best songs from each of our RADAR artists this year!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,131 likes - 39 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,129 likes - 39 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
