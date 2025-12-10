@@ -6483,6 +6483,28 @@
     },
     {
       "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/6HyGsljcGzCkXKTuMoC0IH"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161291,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/5E5wWU6G6r9mBkSunG3mfO"
+    },
+    {
+      "album": {
         "name": "Pulsating Energy",
         "url": "https://open.spotify.com/album/3gBFwb2DeJgrPovG6xw94k"
       },
@@ -8410,6 +8432,32 @@
       "duration_ms": 256258,
       "name": "The Flame Inside",
       "url": "https://open.spotify.com/track/0bwI14sF0aR97qxjp4AAqV"
+    },
+    {
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/7cl1R7zKwAaOSyLVfyJshJ"
+      },
+      "artists": [
+        {
+          "name": "Zamna Soundsystem",
+          "url": "https://open.spotify.com/artist/7BxkqFdztnEf5F8sGmhQIG"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "Laherte",
+          "url": "https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168281,
+      "name": "The Future",
+      "url": "https://open.spotify.com/track/2I2X4S6vSdj9k94FNBZfnJ"
     },
     {
       "album": {

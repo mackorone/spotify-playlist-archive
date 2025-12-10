@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du franco! Photo: La Zarra
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,812 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,811 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fuck You](https://open.spotify.com/track/13OpgiMrYkv1JjMdKLjB3I) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Fuck You](https://open.spotify.com/album/1WgFzIiVQYnHtn9eEHi1tF) | 3:32 |
 | 2 | [Première fois](https://open.spotify.com/track/2yaVFrD8ugHhld6t6Nwaxt) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Il faut que tu saches](https://open.spotify.com/album/6rX8V0Vs9oaGB8LgrUOcn1) | 2:40 |
-| 3 | [LA NUIT](https://open.spotify.com/track/4pHVdkN98bY0UoEHcvGVMw) | [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [MONSIEUR SAUDADE II](https://open.spotify.com/album/4oOAczTfPAahAERfNmWEAt) | 3:54 |
+| 3 | [LA NUIT](https://open.spotify.com/track/4pHVdkN98bY0UoEHcvGVMw) | [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [MONSIEUR SAUDADE II](https://open.spotify.com/album/4oOAczTfPAahAERfNmWEAt) | 3:53 |
 | 4 | [Type](https://open.spotify.com/track/1wlABGWT6u3CCHCMuFSKAH) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Type](https://open.spotify.com/album/6vBv82o0TEGGwRX9nYnBAX) | 2:55 |
 | 5 | [La nuit devant nous](https://open.spotify.com/track/4c5DPhLf5u1eoVRGmh4sf6) | [Minou](https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM) | [La nuit devant nous](https://open.spotify.com/album/1moz4WuZwUB9Xz9GCDWS1u) | 3:37 |
 | 6 | [Les Mots](https://open.spotify.com/track/5liA8qCrPwHJklLDy0RMBi) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Les Mots](https://open.spotify.com/album/6CYMffTfmeFxEewRVKptDF) | 3:26 |

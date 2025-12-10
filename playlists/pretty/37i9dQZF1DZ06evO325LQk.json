@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTTDgAAAAAApzwRrbxrBn+71g0LXdasj",
+  "snapshot_id": "aTYVAAAAAABHFHVxa+tr6l7tKjHTZcXg",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PRODUCT",
+        "url": "https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 215628,
+      "name": "MSMSMSM",
+      "url": "https://open.spotify.com/track/3iCOBMaqDx0ommZRqFi6sF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sunscreen",
         "url": "https://open.spotify.com/album/00x7wb3nZ4UCqAjOMhaN9P"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 187320,
       "name": "Sunscreen",
       "url": "https://open.spotify.com/track/3MAJodlxg5qPqVDu0TW4aB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRODUCT",
-        "url": "https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 215628,
-      "name": "MSMSMSM",
-      "url": "https://open.spotify.com/track/3iCOBMaqDx0ommZRqFi6sF"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
       "duration_ms": 117010,
       "name": "Gallop (feat. Evita Manji)",
       "url": "https://open.spotify.com/track/3fXgSZ7VbhZugr60ANeurK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/0t7eXVo3XPdNtn41iFb7wf"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 261387,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/3w0pK4LovS3sdONz9IWbb8"
     },
     {
       "added_at": null,

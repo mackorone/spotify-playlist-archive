@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo de música tropical 📸  La T y La M
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,332 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,355 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 6 | [El Amor Llegó](https://open.spotify.com/track/12lC9azTG9U4Y9XTJF7mfT) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Noventa \#3 \(1997\)](https://open.spotify.com/album/0IWmxOHI2WFr34eMtWZLIH) | 1:13 |
 | 7 | [No Voy A Caer](https://open.spotify.com/track/1KlHobZAvyleh4xmt1UrWr) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Valsi](https://open.spotify.com/artist/04vVNmaKhinxxW4eCJIyX7), [Trasnocheros](https://open.spotify.com/artist/4il9s1iKs71rPZUXHVLs1W) | [No Voy A Caer](https://open.spotify.com/album/1js84lS0RFaGbFCSEKQX6f) | 2:14 |
 | 8 | [Aventurero \- En Vivo](https://open.spotify.com/track/1xafy9JIBnzSqpWkNQJLN7) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [XV Aniversario Mis Favoritas Cumbias \(En Vivo\)](https://open.spotify.com/album/3D4cfkQD6vz6fc3wI6LprR) | 3:12 |
-| 9 | [La Chica del Este](https://open.spotify.com/track/25tXCeVGzbHgwDec0v0D1X) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [La Chica del Este](https://open.spotify.com/album/4xFFGRHi3DditnT8eqDZTV) | 3:44 |
+| 9 | [La Chica del Este \- En Vivo](https://open.spotify.com/track/25tXCeVGzbHgwDec0v0D1X) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [La Chica del Este \(En Vivo\)](https://open.spotify.com/album/4xFFGRHi3DditnT8eqDZTV) | 3:44 |
 | 10 | [Me Dijiste](https://open.spotify.com/track/2BraNB3R4Sl0FOuXJ1ETB2) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Me Dijiste](https://open.spotify.com/album/6kKTWd418QiDCKyaOw6reC) | 3:15 |
 | 11 | [Pa´Que Te Acuerdes \| CROSSOVER \#8](https://open.spotify.com/track/5aZ8rf2aPfZrnRWLA7bByo) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Pa´ Que Te Acuerdes \| CROSSOVER \#8](https://open.spotify.com/album/6Es6kN0L82XnLAaKV02ZoC) | 2:52 |
 | 12 | [Sin Saber Que Me Espera \- 20 Años \- Live](https://open.spotify.com/track/2ED4aQ4ES9Yr98Cm8JNyRE) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG) | [20 Años \- Live \(Lado A\)](https://open.spotify.com/album/1VxS1KdxpZvkKB04O8W86N) | 5:55 |

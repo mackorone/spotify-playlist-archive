@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,620 likes - 33 songs - 2 hr 6 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,661 likes - 34 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,5 +41,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 31 | [Nausicaä \(Love Will Be Revealed\)](https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 4:11 |
 | 32 | [We're Thinking the Same Thing](https://open.spotify.com/track/3zaztO9QEefcS7MBZNs9vP) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 2:47 |
 | 33 | [Nina + Field of Cops](https://open.spotify.com/track/78ugJH8q6W3kiGLwM2K7Lg) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 5:52 |
+| 34 | [Kagefumi](https://open.spotify.com/track/4VgGQi9FZMrNG4MuiONldI) | [百景](https://open.spotify.com/artist/6Xktu0x9IXB4ghFSPw6Jqv) | [Standing Still In A Moving Scene](https://open.spotify.com/album/5FFviHXLHrtM8bPkklaXrD) | 4:54 |
 
-Snapshot ID: `AAANgWZAfQld8BWm/sMOAMvDnghfZBO8`
+Snapshot ID: `AAANgqbBel8sB0Pt3FBSb8MfOxr3PtGs`

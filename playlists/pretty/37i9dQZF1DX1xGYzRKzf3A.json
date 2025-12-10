@@ -1,6 +1,6 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 166727,
+  "num_followers": 166762,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,38 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Un Suspir\u00f3",
+        "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "duration_ms": 184411,
+      "name": "Un Suspir\u00f3",
+      "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Sincopa",
+        "url": "https://open.spotify.com/album/4u16vv7jUXm8XTdvd2szGH"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 292160,
+      "name": "Bombos y Tarolas",
+      "url": "https://open.spotify.com/track/5HxcRTUT0X0X7WzwPoj0cm"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "Por Mi M\u00e9xico (Remix)",
         "url": "https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko"
       },
@@ -203,38 +235,6 @@
       "duration_ms": 405000,
       "name": "Por Mi M\u00e9xico (Remix)",
       "url": "https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Sincopa",
-        "url": "https://open.spotify.com/album/4u16vv7jUXm8XTdvd2szGH"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 292160,
-      "name": "Bombos y Tarolas",
-      "url": "https://open.spotify.com/track/5HxcRTUT0X0X7WzwPoj0cm"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Un Suspir\u00f3",
-        "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
-      },
-      "artists": [
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 184411,
-      "name": "Un Suspir\u00f3",
-      "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "WEEKND",
-        "url": "https://open.spotify.com/album/5EaUYCfbpl9FBTq22eD5HI"
-      },
-      "artists": [
-        {
-          "name": "Bohemio",
-          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "WEEKND",
-      "url": "https://open.spotify.com/track/5NbFWZiEj9WATXs6F1HxGZ"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Las Dos Caras De La Cumbia",
         "url": "https://open.spotify.com/album/5bkT7Zs72MfeboRvsuYKcg"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 229466,
       "name": "Loco Tu Forma De Ser",
       "url": "https://open.spotify.com/track/7aBemWBoXLlck9VJECqfVx"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "WEEKND",
+        "url": "https://open.spotify.com/album/5EaUYCfbpl9FBTq22eD5HI"
+      },
+      "artists": [
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "WEEKND",
+      "url": "https://open.spotify.com/track/5NbFWZiEj9WATXs6F1HxGZ"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Orgullo De Mujer",
-        "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "Insensible A Ti (Me Pone A Mil)",
-      "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Talento de Vida",
         "url": "https://open.spotify.com/album/2pvr1DnmS01brEuyN0iNgd"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 188089,
       "name": "Mi Kryptonita",
       "url": "https://open.spotify.com/track/5DBoa0YTjE7xXAK1S2C2X3"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Orgullo De Mujer",
+        "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 243933,
+      "name": "Insensible A Ti (Me Pone A Mil)",
+      "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "El Rosario (Bonus Track)",
-        "url": "https://open.spotify.com/album/75TfeAsBWBy2qZ5azTcHUg"
-      },
-      "artists": [
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "El Rosario - Bonus Track",
-      "url": "https://open.spotify.com/track/4l0hk9ZTlp86BTJFJO9xB3"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Fin de Semana",
         "url": "https://open.spotify.com/album/1wJxRk4iEuZSNorEMBNEL6"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 199285,
       "name": "Ojitos Marrones",
       "url": "https://open.spotify.com/track/25i0Ze7Ht7yh5IbaEB6rUe"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "El Rosario (Bonus Track)",
+        "url": "https://open.spotify.com/album/75TfeAsBWBy2qZ5azTcHUg"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "El Rosario - Bonus Track",
+      "url": "https://open.spotify.com/track/4l0hk9ZTlp86BTJFJO9xB3"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Paso A Paso",
-        "url": "https://open.spotify.com/album/1Z4GW8yaeLCATggV1IE9FZ"
-      },
-      "artists": [
-        {
-          "name": "Pasabordo",
-          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
-        }
-      ],
-      "duration_ms": 190453,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/56FmkP3sycSEX5ZvrPN1hR"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Braille EP",
         "url": "https://open.spotify.com/album/16prikKe8RnqpiAJlNTP5I"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 202400,
       "name": "Sopa de Letritas",
       "url": "https://open.spotify.com/track/6s4i94Vu397TzHLjff6YHU"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Paso A Paso",
+        "url": "https://open.spotify.com/album/1Z4GW8yaeLCATggV1IE9FZ"
+      },
+      "artists": [
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+        }
+      ],
+      "duration_ms": 190453,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/56FmkP3sycSEX5ZvrPN1hR"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Volv\u00ed a Creer",
-        "url": "https://open.spotify.com/album/2oGYwQo96DjFCgAd4ntWye"
-      },
-      "artists": [
-        {
-          "name": "Los Caliz",
-          "url": "https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz"
-        }
-      ],
-      "duration_ms": 190624,
-      "name": "Volv\u00ed a Creer",
-      "url": "https://open.spotify.com/track/6kgQ28Evmla4TPvdc2D4SO"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Que Suene El Sax",
         "url": "https://open.spotify.com/album/10lxeg4bMWez6UK7BRrNrE"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 179121,
       "name": "Que Suene El Sax",
       "url": "https://open.spotify.com/track/6hUm6iDAaWWTCIOdmgBLHG"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Volv\u00ed a Creer",
+        "url": "https://open.spotify.com/album/2oGYwQo96DjFCgAd4ntWye"
+      },
+      "artists": [
+        {
+          "name": "Los Caliz",
+          "url": "https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz"
+        }
+      ],
+      "duration_ms": 190624,
+      "name": "Volv\u00ed a Creer",
+      "url": "https://open.spotify.com/track/6kgQ28Evmla4TPvdc2D4SO"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2135,6 +2135,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "duration_ms": 230730,
+      "name": "Nube Viajera",
+      "url": "https://open.spotify.com/track/2YPUSBvQwfFgfe6aIsW69j"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "Me Haces Falta",
         "url": "https://open.spotify.com/album/1nwnsqrVtE7wP8SZf344hc"
       },
@@ -2175,22 +2191,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
-      },
-      "artists": [
-        {
-          "name": "Paola Decanini",
-          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
-        }
-      ],
-      "duration_ms": 230730,
-      "name": "Nube Viajera",
-      "url": "https://open.spotify.com/track/2YPUSBvQwfFgfe6aIsW69j"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Poes\u00edas de mi Odisea",
         "url": "https://open.spotify.com/album/72acy3W2vjDOFAj76co0up"
       },
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "#El Regreso",
-        "url": "https://open.spotify.com/album/65Jli3h6cwCimwjpsMDwOe"
-      },
-      "artists": [
-        {
-          "name": "Alberto Y Roberto",
-          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
-        }
-      ],
-      "duration_ms": 226965,
-      "name": "Tu Forma De Ser",
-      "url": "https://open.spotify.com/track/2B6Iw4NVbrLhguZ9pVpVGq"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Soy Lo Prohibido",
         "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
       },
@@ -2259,18 +2243,18 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "EMILIANO",
-        "url": "https://open.spotify.com/album/3TQ4j44ZbMGtoPigfLTh6R"
+        "name": "#El Regreso",
+        "url": "https://open.spotify.com/album/65Jli3h6cwCimwjpsMDwOe"
       },
       "artists": [
         {
-          "name": "EV\u00cdC",
-          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+          "name": "Alberto Y Roberto",
+          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
         }
       ],
-      "duration_ms": 200597,
-      "name": "el afortunado",
-      "url": "https://open.spotify.com/track/3FRHIzYjG3xiK9VFTaBaqi"
+      "duration_ms": 226965,
+      "name": "Tu Forma De Ser",
+      "url": "https://open.spotify.com/track/2B6Iw4NVbrLhguZ9pVpVGq"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2287,6 +2271,22 @@
       "duration_ms": 167444,
       "name": "Y Lloro",
       "url": "https://open.spotify.com/track/55BJPPG5gMrVnNvp1gMVJy"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "EMILIANO",
+        "url": "https://open.spotify.com/album/3TQ4j44ZbMGtoPigfLTh6R"
+      },
+      "artists": [
+        {
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+        }
+      ],
+      "duration_ms": 200597,
+      "name": "el afortunado",
+      "url": "https://open.spotify.com/track/3FRHIzYjG3xiK9VFTaBaqi"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/2s6tNGh8UjpTRonLYN3CbL"
-      },
-      "artists": [
-        {
-          "name": "Pasabordo",
-          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "El Calendario",
-      "url": "https://open.spotify.com/track/5m4Yr42boaSHFxTD6hmUeu"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "ODISEA",
         "url": "https://open.spotify.com/album/0QBpC9iFLo1419rOGBmUcP"
       },
@@ -2435,6 +2419,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/2s6tNGh8UjpTRonLYN3CbL"
+      },
+      "artists": [
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "El Calendario",
+      "url": "https://open.spotify.com/track/5m4Yr42boaSHFxTD6hmUeu"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "Es As\u00ed",
         "url": "https://open.spotify.com/album/0BF82aBeWmhKrMf81RpUeb"
       },
@@ -2455,22 +2455,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "El Destino",
-        "url": "https://open.spotify.com/album/2mFPS23WhgFncvfwXDSjr4"
-      },
-      "artists": [
-        {
-          "name": "Destino",
-          "url": "https://open.spotify.com/artist/1OxOSIlaBxSoWcT7UzxFwZ"
-        }
-      ],
-      "duration_ms": 164711,
-      "name": "El Destino",
-      "url": "https://open.spotify.com/track/7mdMQCApxo5sgvo6crSKQ6"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Venimi",
         "url": "https://open.spotify.com/album/4dnFRlboe1Wj7k2AeE50pp"
       },
@@ -2483,6 +2467,22 @@
       "duration_ms": 120000,
       "name": "Venimi",
       "url": "https://open.spotify.com/track/0faGhdyDvoqG38vhaHjl3E"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "El Destino",
+        "url": "https://open.spotify.com/album/2mFPS23WhgFncvfwXDSjr4"
+      },
+      "artists": [
+        {
+          "name": "Destino",
+          "url": "https://open.spotify.com/artist/1OxOSIlaBxSoWcT7UzxFwZ"
+        }
+      ],
+      "duration_ms": 164711,
+      "name": "El Destino",
+      "url": "https://open.spotify.com/track/7mdMQCApxo5sgvo6crSKQ6"
     }
   ],
   "unique_name": "Coraz\u00f3n Regio ",

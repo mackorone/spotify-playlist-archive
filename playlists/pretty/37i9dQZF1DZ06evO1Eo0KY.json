@@ -1,12 +1,12 @@
 {
   "description": "This is Nicholas Craven. The essential tracks, all in one playlist.",
-  "num_followers": 685,
+  "num_followers": 686,
   "original_name": "This Is Nicholas Craven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTTDgAAAAAA1DFsiWN4O628I5wrPAFoo",
+  "snapshot_id": "aTYVAAAAAAD8so5FC0fdZu4G8NX4FWvp",
   "tracks": [
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Infrared Dot Com",
-      "url": "https://open.spotify.com/track/13e3YuVd89BEYhdoFkQHAM"
+      "duration_ms": 152049,
+      "name": "Thread the Needle",
+      "url": "https://open.spotify.com/track/4yqk2d1ChKJsyKFShTY3JI"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 152049,
-      "name": "Thread the Needle",
-      "url": "https://open.spotify.com/track/4yqk2d1ChKJsyKFShTY3JI"
+      "duration_ms": 168000,
+      "name": "Infrared Dot Com",
+      "url": "https://open.spotify.com/track/13e3YuVd89BEYhdoFkQHAM"
     },
     {
       "added_at": null,
@@ -354,15 +354,11 @@
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Poppy Bricks",
-          "url": "https://open.spotify.com/artist/27LMCWUzDF0MRvJt4aP5py"
         }
       ],
-      "duration_ms": 193136,
-      "name": "Mr. Quaker Oats",
-      "url": "https://open.spotify.com/track/0AaQu9DCyTlT0RkTaGSytT"
+      "duration_ms": 216907,
+      "name": "1st Time Around",
+      "url": "https://open.spotify.com/track/0AWcVU2pO1S4uOtpwgHL7S"
     },
     {
       "added_at": null,
@@ -442,11 +438,15 @@
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Poppy Bricks",
+          "url": "https://open.spotify.com/artist/27LMCWUzDF0MRvJt4aP5py"
         }
       ],
-      "duration_ms": 216907,
-      "name": "1st Time Around",
-      "url": "https://open.spotify.com/track/0AWcVU2pO1S4uOtpwgHL7S"
+      "duration_ms": 193136,
+      "name": "Mr. Quaker Oats",
+      "url": "https://open.spotify.com/track/0AaQu9DCyTlT0RkTaGSytT"
     },
     {
       "added_at": null,
@@ -687,22 +687,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Craven N 3",
-        "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
+        "name": "THE PRYCE YOU PAY",
+        "url": "https://open.spotify.com/album/2cuQyw05LhSMjnTMejPUNS"
       },
       "artists": [
         {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+          "name": "Slik Jack",
+          "url": "https://open.spotify.com/artist/2zfwgqJzNi5OdfJwFxpMYZ"
         },
         {
-          "name": "Stove God Cooks",
-          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+          "name": "Vincent Pryce",
+          "url": "https://open.spotify.com/artist/2NOvOuKq4vuXLVKyxx8MC8"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 222040,
-      "name": "Opulence",
-      "url": "https://open.spotify.com/track/0CQpw44VyarpOO0YPZm37A"
+      "duration_ms": 183000,
+      "name": "LOOT-CRATIVE",
+      "url": "https://open.spotify.com/track/5zk1MUiLf53dJAc9iXM9NS"
     },
     {
       "added_at": null,
@@ -727,6 +731,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Craven N 3",
+        "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        }
+      ],
+      "duration_ms": 222040,
+      "name": "Opulence",
+      "url": "https://open.spotify.com/track/0CQpw44VyarpOO0YPZm37A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deleted Scenes",
         "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
       },
@@ -743,30 +767,6 @@
       "duration_ms": 127089,
       "name": "Deliver Us from Evil",
       "url": "https://open.spotify.com/track/1M96cEfrbRbrOG5XuLaHn7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE PRYCE YOU PAY",
-        "url": "https://open.spotify.com/album/2cuQyw05LhSMjnTMejPUNS"
-      },
-      "artists": [
-        {
-          "name": "Slik Jack",
-          "url": "https://open.spotify.com/artist/2zfwgqJzNi5OdfJwFxpMYZ"
-        },
-        {
-          "name": "Vincent Pryce",
-          "url": "https://open.spotify.com/artist/2NOvOuKq4vuXLVKyxx8MC8"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "LOOT-CRATIVE",
-      "url": "https://open.spotify.com/track/5zk1MUiLf53dJAc9iXM9NS"
     },
     {
       "added_at": null,

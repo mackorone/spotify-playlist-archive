@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 528 likes - 115 songs - 6 hr 1 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 528 likes - 119 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,5 +123,9 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 113 | [Homewrecker](https://open.spotify.com/track/5cnLneiOGZQjsoFeOwTewc) | [Enhance](https://open.spotify.com/artist/0WczWSXykA8L6DAN24qPQW) | [Homewrecker](https://open.spotify.com/album/2W32nOm3iiFnrhHLZfQhI0) | 2:36 |
 | 114 | [Hold On](https://open.spotify.com/track/1xunQYI4Bfk0dDgIdoQokK) | [Veauxgue](https://open.spotify.com/artist/0ZEvbB2ViUVH9JGLOBLvrM) | [10,000 Days](https://open.spotify.com/album/0YPjipQDNl5DXQo2Xwr4kE) | 3:07 |
 | 115 | [jive](https://open.spotify.com/track/7bTCD4VX14Le9iNWUBjUJ5) | [Moonrust](https://open.spotify.com/artist/0BdOZyc2UcgDOc46WepPBY) | [four dreams, one day](https://open.spotify.com/album/0NJfVdFby9KWkRWe4a5RjT) | 3:02 |
+| 116 | [Desejos](https://open.spotify.com/track/2BhCdMZCJt4Y6IDuJNNMOK) | [Tiago Amorim](https://open.spotify.com/artist/1blXm9FViuataPse8jKebH) | [Desejos](https://open.spotify.com/album/3p3ftOcLj6YGJvVuzYUsYU) | 3:54 |
+| 117 | [LATELY](https://open.spotify.com/track/4ajoLXkoZzkCIxeWAjqS3V) | [KvN](https://open.spotify.com/artist/2JNr329RMdieI5JCYwUnIh) | [LATELY](https://open.spotify.com/album/6ot5Qbgd08hzUmvtiFhDLv) | 2:52 |
+| 118 | [Copper](https://open.spotify.com/track/5WKo5MJKoepRrmXYN5pzGY) | [John Pronto](https://open.spotify.com/artist/5QtUYAAvpQfIFojICPFZuq) | [For the Birds](https://open.spotify.com/album/03ME7K35Ti1du3NWt02j5t) | 3:56 |
+| 119 | [TU FAIS LA MORTE](https://open.spotify.com/track/3MM9zNGAgckkNknPsp2OVR) | [Doctor Ly](https://open.spotify.com/artist/28dgxNbA7czFkjfUMJN3RA) | [TU FAIS LA MORTE](https://open.spotify.com/album/3Ye99MmmiPKSJex4cxZzHO) | 3:16 |
 
-Snapshot ID: `AAAVefBy/ElMcIpcwFBhiuVbEHiKY4qA`
+Snapshot ID: `AAAVfY+EphxKZ074sDZ0zFTgi5J2Knux`

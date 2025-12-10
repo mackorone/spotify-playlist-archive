@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-4,483 songs - 10 day 5 hr 17 min
+4,485 songs - 10 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Be the One](https://open.spotify.com/track/18WmtRybGY6YFNFt3r6vfE) | [DJ BIG S](https://open.spotify.com/artist/516QrqBwm3soALhns5ACzA), [ATTICUS](https://open.spotify.com/artist/6HyXfF5iDIPmNNXbg6729J) | [Be the One](https://open.spotify.com/album/3TLAXirQxpAYsWUJXV4IqL) | 2:59 | 2024-06-28 | 2024-07-12 |
 | [Be The Reason](https://open.spotify.com/track/7k18k2YJ8EAt5WH2AeYpJu) | [welow](https://open.spotify.com/artist/6VLlJoIts2vruvFxAN7Fja) | [Be The Reason](https://open.spotify.com/album/6AJSXvMvXA2NzPYAYpAPbE) | 3:00 | 2025-04-26 | 2025-05-03 |
 | [Be With You](https://open.spotify.com/track/21iWm3Hu4M8MUYc1TY42Oi) | [DJ Zeng](https://open.spotify.com/artist/7uQ8JWwRbwQB3iEA6Qnjrl) | [Be With You](https://open.spotify.com/album/4WZQjIoVSsR690HiXYO2jU) | 2:40 | 2024-07-05 | 2024-07-12 |
+| [Be With You \(Remix\)](https://open.spotify.com/track/4mUQjTvRfhniZFgqImXaz5) | [Silent Monk](https://open.spotify.com/artist/7xAIbauoTb66JySFS9ZQOs) | [Be With You \(Remix\)](https://open.spotify.com/album/0py9FPzPd9xC5h8JL6zOLP) | 3:16 | 2025-12-09 |  |
 | [Be Without You](https://open.spotify.com/track/7c5LEXTP5c1VVELPaNrQii) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Be Without You](https://open.spotify.com/album/0cJIafKRuQ84XkvfPk8Umo) | 3:28 | 2025-11-07 | 2025-11-15 |
 | [Be Your Friend \(feat\. Enisa\)](https://open.spotify.com/track/5iEurNHQeKHawLVcN9UolW) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Be Your Friend \(feat\. Enisa\)](https://open.spotify.com/album/1vcNmW5H4LQprutgJdfS7j) | 2:39 | 2025-05-29 | 2025-06-07 |
 | [Be Your Lover](https://open.spotify.com/track/2EqWNOZXPcIaymqOAkFAvt) | [Melsen](https://open.spotify.com/artist/5ufgnLAMSgaHoil38TBPdO) | [Be Your Lover](https://open.spotify.com/album/1niVVX56CE1BMlDREIkBhi) | 2:34 | 2025-03-14 | 2025-03-22 |
@@ -2135,6 +2136,7 @@
 | [La Di Da](https://open.spotify.com/track/6WjNYsFmXdH7JWKFAwliFO) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [La Di Da](https://open.spotify.com/album/6P0MKbnkdcmA4S5EosQXmx) | 2:31 | 2025-03-28 | 2025-04-11 |
 | [La Fiesta](https://open.spotify.com/track/01UTKNFPC5tyXu0XNI3X3d) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [La Fiesta](https://open.spotify.com/album/3DrNNJtb95HOnFrECKZqvE) | 2:58 | 2025-05-16 | 2025-05-23 |
 | [La La](https://open.spotify.com/track/6P8GfdAgHd3zKQMckbE4ke) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [La La](https://open.spotify.com/album/4rghUgwSsXAi9OVW7ye2Pn) | 2:48 | 2025-02-06 | 2025-02-14 |
+| [La La La](https://open.spotify.com/track/0pXpjBLlVe4fMTrW8dkO2L) | [Alex Pizzuti](https://open.spotify.com/artist/6eRFrSBTRTDCfNs6WqUWGE), [BadVice DJ](https://open.spotify.com/artist/1Cgg1h6FrnGYOXT6mFaPTs), [Lucas Fernandez](https://open.spotify.com/artist/49rJYtNWctDK6cD2GBPGQp), [Mike Emilio](https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC) | [La La La](https://open.spotify.com/album/5SSnGj3Vua6ufvaKqiP4pI) | 2:07 | 2025-12-09 |  |
 | [La La La](https://open.spotify.com/track/1kN37qNZLWpmTXOUZI377r) | [PET3RPUNX](https://open.spotify.com/artist/1Z0DRUany5l8E7J6XNRlmC), [Dallax](https://open.spotify.com/artist/2PedVvzZH5HdHSk9P0iDXY) | [La La La](https://open.spotify.com/album/3kwppyVMesE1u6Lo63vpA6) | 2:01 | 2024-08-23 | 2024-08-31 |
 | [La Motora](https://open.spotify.com/track/7IkR3zMaENThNineUQz5Xq) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Lyon Monster](https://open.spotify.com/artist/7GQeq4UJRBOmvxUDes0rjN) | [La Motora](https://open.spotify.com/album/5G4BHbe56RwHMT2SczTN74) | 2:40 | 2025-04-24 | 2025-05-03 |
 | [La Motora \- Yas Cepeda Remix](https://open.spotify.com/track/0YPGHKKo4zOO30hD71YgVF) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Lyon Monster](https://open.spotify.com/artist/7GQeq4UJRBOmvxUDes0rjN), [Yas Cepeda](https://open.spotify.com/artist/0QJLIqgHuWkj89BqRArjRP) | [La Motora \(Yas Cepeda & Chris Valencia Remixes\)](https://open.spotify.com/album/4umv6ZJTiGVd5HgQRbt9Sb) | 2:39 | 2025-09-27 | 2025-10-04 |

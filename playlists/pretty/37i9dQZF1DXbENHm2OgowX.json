@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 304780,
+  "num_followers": 305013,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,54 @@
     {
       "added_at": "2025-12-04 13:11:44",
       "album": {
+        "name": "Dragging a Dead Deer Up a Hill",
+        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 256825,
+      "name": "Disengaged",
+      "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
+    },
+    {
+      "added_at": "2025-12-04 13:11:44",
+      "album": {
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
+      },
+      "artists": [
+        {
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
+        }
+      ],
+      "duration_ms": 150299,
+      "name": "(Something)",
+      "url": "https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB"
+    },
+    {
+      "added_at": "2025-12-04 13:11:44",
+      "album": {
+        "name": "Closer (Collector's Edition)",
+        "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 364293,
+      "name": "The Eternal - 2007 Remaster",
+      "url": "https://open.spotify.com/track/7rLB8H9GIzlxgXxXVqQltR"
+    },
+    {
+      "added_at": "2025-12-04 13:11:44",
+      "album": {
         "name": "searching",
         "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
       },
@@ -667,22 +715,6 @@
       "duration_ms": 279935,
       "name": "searching",
       "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
-    },
-    {
-      "added_at": "2025-12-04 13:11:44",
-      "album": {
-        "name": "Dragging a Dead Deer Up a Hill",
-        "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 256825,
-      "name": "Disengaged",
-      "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
     },
     {
       "added_at": "2025-12-04 13:11:44",
@@ -723,38 +755,6 @@
       "duration_ms": 335539,
       "name": "Path 3 / Whose Name Is Written On Water - Pt. 1 / Faded",
       "url": "https://open.spotify.com/track/1HxJyQzfqJCjshpokKVKEa"
-    },
-    {
-      "added_at": "2025-12-04 13:11:44",
-      "album": {
-        "name": "Closer (Collector's Edition)",
-        "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 364293,
-      "name": "The Eternal - 2007 Remaster",
-      "url": "https://open.spotify.com/track/7rLB8H9GIzlxgXxXVqQltR"
-    },
-    {
-      "added_at": "2025-12-04 13:11:44",
-      "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
-      },
-      "artists": [
-        {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
-        }
-      ],
-      "duration_ms": 150299,
-      "name": "(Something)",
-      "url": "https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB"
     },
     {
       "added_at": "2025-12-04 13:11:44",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2025-12-04 13:11:44",
       "album": {
-        "name": "Green Wall",
-        "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
       },
       "artists": [
         {
-          "name": "Wreath",
-          "url": "https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX"
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
         }
       ],
-      "duration_ms": 122000,
-      "name": "Waiting for Your Train",
-      "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
+      "duration_ms": 221213,
+      "name": "Below the House",
+      "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
     }
   ],
   "unique_name": "gloomcore",

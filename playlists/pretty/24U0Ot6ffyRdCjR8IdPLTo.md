@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 
 > Get in the zone with this fresh mix of chill music to study to \| anti anxiety and stress music
 
-[Topsify](https://open.spotify.com/user/topsify) - 9,740 likes - 100 songs - 5 hr 22 min
+[Topsify](https://open.spotify.com/user/topsify) - 9,741 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 | 13 | [You Exist](https://open.spotify.com/track/0qIPRgahrVnfRiVTYkuPsW) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [born blue](https://open.spotify.com/album/2c93Zr8BmUSod1qp2sdGev) | 2:57 |
 | 14 | [a leith ross song](https://open.spotify.com/track/1TUlVxsllap9YEh7KMGUTi) | [Kayla Grace](https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T) | [a leith ross song](https://open.spotify.com/album/3HbZ4Auys97D5iSTsjYJP4) | 2:27 |
 | 15 | [Cheap Hotel](https://open.spotify.com/track/6OI6VQxrwqTydvfgQ9bIAC) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Cheap Hotel](https://open.spotify.com/album/4y22TdNzGjEX7qn5qvLrq3) | 3:30 |
-| 16 | [Sleeping With The Lights On](https://open.spotify.com/track/0ptbrvIaXF5krSn50iZBku) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Sleeping With The Lights On](https://open.spotify.com/album/64wiC01wUZZ9qLMEHKAK3D) | 4:59 |
+| 16 | [Sleeping with the Lights On](https://open.spotify.com/track/0ptbrvIaXF5krSn50iZBku) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Sleeping with the Lights On](https://open.spotify.com/album/64wiC01wUZZ9qLMEHKAK3D) | 4:59 |
 | 17 | [Teardrop](https://open.spotify.com/track/0rl0q52F3QUQG8BiYrR0TC) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Teardrop](https://open.spotify.com/album/3YhypjPZYK76WZFV7iA0h4) | 4:22 |
 | 18 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 |
 | 19 | [Younger And Hotter Than Me](https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:09 |

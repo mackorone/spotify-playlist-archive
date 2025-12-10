@@ -3406,7 +3406,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -3850,7 +3850,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 195789,
       "name": "Bez chuvstva",
       "url": "https://open.spotify.com/track/0S9PPTm8Dx3KsQ3wi2EseQ"
@@ -17122,7 +17122,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -18712,7 +18712,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -21550,7 +21550,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 206917,
       "name": "Ministarat Na Veselieto",
       "url": "https://open.spotify.com/track/653RTe2vklxgMHS2yfYWqo"
@@ -23232,7 +23232,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 213913,
       "name": "Ne me zasluzhavash",
       "url": "https://open.spotify.com/track/5whMzbUxj5DXoie9aiVb0O"
@@ -23250,7 +23250,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 246032,
       "name": "Ne se iztrivash",
       "url": "https://open.spotify.com/track/7eoO5bQx7uCb1MWxOxnK5h"
@@ -28126,7 +28126,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -28822,7 +28822,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -39596,7 +39596,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 182068,
       "name": "\u0411\u0440\u0430\u0432\u043e \u043d\u0430 \u0442\u0435\u0431\u0435",
       "url": "https://open.spotify.com/track/6AnKJrq221meot34OG7Zph"
@@ -39910,6 +39910,28 @@
       "duration_ms": 186666,
       "name": "\u0413-\u041d \u041f\u041e\u0420\u042a\u0427\u041a\u0410",
       "url": "https://open.spotify.com/track/1UeRaFI9tWAF9gy5hsnxHl"
+    },
+    {
+      "album": {
+        "name": "\u0413\u0430\u0431\u0440\u0438\u0435\u043b\u0430",
+        "url": "https://open.spotify.com/album/26fo0hGdihadVo4akRaMAc"
+      },
+      "artists": [
+        {
+          "name": "Gabriella",
+          "url": "https://open.spotify.com/artist/5KHGNMZtf5BjebLwFGqYxT"
+        },
+        {
+          "name": "Medi",
+          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142325,
+      "name": "\u0413\u0430\u0431\u0440\u0438\u0435\u043b\u0430",
+      "url": "https://open.spotify.com/track/4MvuZxJn8hc6Wa5sEJXBae"
     },
     {
       "album": {
@@ -41082,7 +41104,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 243130,
       "name": "\u0417\u0432\u044a\u043d\u044f \u0442\u0438, \u0430\u043b\u043e",
       "url": "https://open.spotify.com/track/7HunT1JA3wToGQD41HnDXc"
@@ -42230,7 +42252,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 224571,
       "name": "\u041c\u0430\u043d\u0438\u0430\u043a",
       "url": "https://open.spotify.com/track/4kbhl4YnKVwN0ElFNm3TdW"
@@ -44410,7 +44432,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 197608,
       "name": "\u041f\u044a\u0440\u0432\u0438\u044f\u0442",
       "url": "https://open.spotify.com/track/0u52MS7dNsEFTbAuwcgSKM"

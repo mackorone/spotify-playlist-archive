@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Tigers Jaw
 
-2,922 songs - 6 day 1 hr 54 min
+2,923 songs - 6 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1766,6 +1766,7 @@
 | [No Backbone](https://open.spotify.com/track/4aVYHhJU15iTOK29U4PWIM) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [No Backbone](https://open.spotify.com/album/1HTERR04ZhV8lRaxlvYBeL) | 2:17 | 2024-04-25 | 2024-06-21 |
 | [No Constraint](https://open.spotify.com/track/48x8I9dFZjWn7bJf5j2nnT) | [Public Body](https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X) | [No Constraint](https://open.spotify.com/album/1asjlY8VeCEXNOuBHS3bhh) | 3:02 | 2023-02-24 | 2023-04-14 |
 | [No Contact](https://open.spotify.com/track/63AaM8TNtaxtKISFyK8WqB) | [Fluorescents](https://open.spotify.com/artist/3k7eYa4LVI5wqhLj7PACE2) | [Can You Feel It?](https://open.spotify.com/album/7ryFAdsUqRSbMW4Lfj85iU) | 3:33 | 2025-09-04 | 2025-10-24 |
+| [No Control](https://open.spotify.com/track/1o80CRxx5nH0SlzMaTBuUF) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [](https://open.spotify.com/album/null) | 3:01 | 2025-12-05 |  |
 | [No Cops In Heaven](https://open.spotify.com/track/6o9xWBNWeOGiUlGsB46PD5) | [Split System](https://open.spotify.com/artist/37jDGGhU8pF8nOMBhodmxW) | [No Cops In Heaven / Pull The Trigger](https://open.spotify.com/album/7IQWOlmZ9hdMCDgZjCfUMb) | 3:31 | 2025-10-02 | 2025-12-05 |
 | [No Epiphany](https://open.spotify.com/track/4rODJp8XX0QWHcrGyXxmQB) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL), [No Age](https://open.spotify.com/artist/72acCeElLYGL9nBHcZzX1h) | [44th & Vanderbilt](https://open.spotify.com/album/29zCFXXfgwm0Asw73I96M9) | 4:54 | 2024-02-23 | 2024-04-26 |
 | [No Future? No Thanks!](https://open.spotify.com/track/5wljLwi5DUKFyY2ASdvi8A) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [No Future? No Thanks!](https://open.spotify.com/album/0p0ZCH8pVZBM0BlcgHJRpv) | 2:40 | 2022-06-09 | 2022-07-08 |

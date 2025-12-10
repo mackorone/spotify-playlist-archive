@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-184 songs - 12 hr 23 min
+186 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Hadiah Terindah](https://open.spotify.com/track/7AlmGGpj0EjILrJaPq0YSn) | [Aminda](https://open.spotify.com/artist/43wimUBzWxzNqiebyt1sG4) | [Hadiah Terindah](https://open.spotify.com/album/1WdwYnhvnnVN4q7XZscRAu) | 4:17 | 2023-02-03 | 2023-05-04 |
 | [Halal Selamanya](https://open.spotify.com/track/0Lk9VNcKBcmPEhjlC7fo5K) | [Dikta Wicaksono](https://open.spotify.com/artist/0zUPDmk0fO1r3OdJWZxGKj) | [Halal Selamanya](https://open.spotify.com/album/6AkRaIeU2rjDAsIL3S0T7E) | 3:52 | 2025-08-11 | 2025-11-07 |
 | [Hanya Untuk\-Mu](https://open.spotify.com/track/6nvGrb4m89DNunTWOVHtaI) | [Ten2Five](https://open.spotify.com/artist/5Tl7XjM9Y7Q2D9eIHz5GTO) | [3](https://open.spotify.com/album/5lS0BsCqEGtkCeU9Hyfz68) | 3:30 | 2024-11-25 |  |
-| [Hanya Untukmu](https://open.spotify.com/track/2vYltR1XAnGxipYNwvmy7N) | [Mayang Sari](https://open.spotify.com/artist/6bhLnfkKiudS5Hyn9OErVP) | [Hanya Untukmu](https://open.spotify.com/album/1zcnL4wZFQWZKniCHb7ZQI) | 3:44 | 2025-11-06 |  |
+| [Hanya Untukmu](https://open.spotify.com/track/2vYltR1XAnGxipYNwvmy7N) | [Mayang Sari](https://open.spotify.com/artist/6bhLnfkKiudS5Hyn9OErVP) | [Hanya Untukmu](https://open.spotify.com/album/1zcnL4wZFQWZKniCHb7ZQI) | 3:44 | 2025-11-06 | 2025-12-10 |
 | [Hari Bersamanya](https://open.spotify.com/track/1nfOP7xNHeFSPOlziXswJc) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Berlayar](https://open.spotify.com/album/2yDNCNEbfaE2GnCSkY7yba) | 3:52 | 2023-02-03 |  |
 | [Hari ini,Esok dan Seterusnya/HES](https://open.spotify.com/track/18BpGOOxfFPKrjbdG9HlPT) | [Nirina Zubir](https://open.spotify.com/artist/5dN7FWc0YwXTR24XAg2hZ3) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:28 | 2023-02-03 |  |
 | [Hingga Ujung Waktu](https://open.spotify.com/track/6vqPXMmtwipyeg4pkdQ2S1) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [07 Des](https://open.spotify.com/album/59MdGM9vovHOEqp40fpthI) | 4:26 | 2025-07-14 |  |
@@ -112,10 +112,11 @@
 | [Lagi Lagi](https://open.spotify.com/track/2kN0Lv2Bk0n1KuP9drjWxf) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Lagi Lagi](https://open.spotify.com/album/1nj3yCHh1mXPJMTjrQ6ikN) | 4:01 | 2023-02-03 | 2024-11-26 |
 | [Lagu Pernikahan Kita](https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Lagu Pernikahan Kita](https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu) | 4:21 | 2024-02-12 |  |
 | [Ldr](https://open.spotify.com/track/5VW8Srfc9zInoLTXq8bXUK) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Sebuah Cerita](https://open.spotify.com/album/2s1MfOgZZetupfPMptd49j) | 3:23 | 2023-02-03 | 2024-11-26 |
+| [Makin Aku Cinta](https://open.spotify.com/track/5CtyREB80zdg676XLxgqEb) | [Glenn Samuel](https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [GLENN](https://open.spotify.com/album/38JgbBDqJCfyUkuzBmzreB) | 4:28 | 2025-12-09 |  |
 | [Makna Cinta](https://open.spotify.com/track/7B3zHfPqcLgV3DHcjQP2OM) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Makna Cinta](https://open.spotify.com/album/1JM15q9f61oK0xO7G9onVn) | 3:25 | 2023-02-03 | 2025-11-07 |
 | [Makna Cinta](https://open.spotify.com/track/3yDaw1mQrhDSAOCZTF01KD) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Makna Cinta](https://open.spotify.com/album/0jLmF8JGlWOHgs7zLUR6Cg) | 3:27 | 2023-02-03 | 2024-04-19 |
 | [Manusia Paling Menyebalkan](https://open.spotify.com/track/3xqrjVYB6lRmewHX9ePnIr) | [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Manusia Paling Menyebalkan](https://open.spotify.com/album/4HwBlvQNOVmYPontLGdwCz) | 3:09 | 2024-09-02 |  |
-| [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 | 2024-03-05 |  |
+| [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 | 2024-03-05 | 2025-12-10 |
 | [Meant 2 Be](https://open.spotify.com/track/35xF6iKiyjohKJgg7dntw4) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Meant 2 Be](https://open.spotify.com/album/0KORzAxKyh3MKupM2ArZtd) | 4:37 | 2023-02-03 | 2024-05-09 |
 | [Melukis Senja](https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Melukis Senja](https://open.spotify.com/album/0jLBLt7jIjOz5n3jDiL2zn) | 4:11 | 2023-02-03 |  |
 | [Mencintaimu](https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Mencintaimu](https://open.spotify.com/album/6sGKwCYtM7MlRkVYFWbNQY) | 4:34 | 2024-02-13 |  |
@@ -161,6 +162,7 @@
 | [Semesta Menari](https://open.spotify.com/track/1qAqQYo0FVzDfRwbNoO7tt) | [Ify Alyssa](https://open.spotify.com/artist/2Up8d4glQCL5t90Fq9aGp4) | [Semesta Menari](https://open.spotify.com/album/7JzheS1s0aPP88hlEY4gLh) | 3:47 | 2023-02-03 | 2024-09-28 |
 | [Semoga](https://open.spotify.com/track/6cMVQgMRy4pMpSEyg2xd5z) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [RAYA](https://open.spotify.com/album/6xBlB6lznV9ZjVlPq7Xd80) | 4:29 | 2024-05-08 |  |
 | [Sempurna](https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Andra & The Backbone](https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD) | 4:28 | 2023-02-03 |  |
+| [Senin Sampai Jumat](https://open.spotify.com/track/1GQqxuKK7c0Sa4wtlTtgTV) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Hari Ini, Esok & Selamanya](https://open.spotify.com/album/51KxSLuGPuEtWNcAVgpSkZ) | 4:10 | 2025-12-09 |  |
 | [Senopati in the Rain](https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Senopati in the Rain](https://open.spotify.com/album/1MQWy0x00JEwubp9UAfR31) | 4:20 | 2024-09-09 |  |
 | [Seperti Kisah](https://open.spotify.com/track/6m1HyCmA5jt4Uy0mrS757Y) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Seperti Kisah](https://open.spotify.com/album/4UMZ39OkM8UHTaz6r2kNtg) | 4:39 | 2023-02-03 | 2024-04-19 |
 | [Seperti Kisah](https://open.spotify.com/track/6nxQa68jVCLlYQsT3fi4G1) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Seperti Kisah](https://open.spotify.com/album/1uKJZkkuqBuxDx4KimobBZ) | 4:39 | 2023-02-03 |  |

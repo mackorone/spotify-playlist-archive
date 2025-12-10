@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-491 songs - 1 day 11 hr 6 min
+492 songs - 1 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Hurts](https://open.spotify.com/track/6pJtuH0lfbCi98JDr166Uy) | [Kenno](https://open.spotify.com/artist/4fPQVQAFiRySPSBTpr68W1) | [Hurts](https://open.spotify.com/album/2ZvNwpLsK2gfNfEwct0TEf) | 3:32 | 2023-11-27 |  |
 | [hypercaste](https://open.spotify.com/track/7wSL7kdK3yXGOf9NDixcYb) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53) | [hypercaste](https://open.spotify.com/album/6ftBu7bSdQneyhD2gujdCI) | 2:31 | 2023-10-27 |  |
 | [Hyperlandia \- Vocal Mix](https://open.spotify.com/track/2goi9r8tdsV1g79eesmaCX) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Hyperlandia](https://open.spotify.com/album/0UDVNOLLKTw4Fme8MbE1Mh) | 5:49 | 2022-10-14 | 2024-04-19 |
-| [Hyperlandia \- Vocal Mix](https://open.spotify.com/track/4Vd53EHIw4lEfe7rqHSctN) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Hyperlandia](https://open.spotify.com/album/3DUcJ8bqyo4cZNt97VkmKi) | 5:49 | 2022-02-04 |  |
+| [Hyperlandia \- Vocal Mix](https://open.spotify.com/track/4Vd53EHIw4lEfe7rqHSctN) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Hyperlandia](https://open.spotify.com/album/3DUcJ8bqyo4cZNt97VkmKi) | 5:49 | 2022-02-04 | 2025-12-10 |
 | [Hypnic](https://open.spotify.com/track/2H55QFDo3vexV4gu85WUTl) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Dreamrider](https://open.spotify.com/album/5sE8JtVAJH23pYT4ZRAVwh) | 4:07 | 2021-10-15 | 2022-07-29 |
 | [Hypnic](https://open.spotify.com/track/2iGcN8KNk58rsXLo1yubR7) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Dreamrider](https://open.spotify.com/album/6w8ccx6B6CxrQ0mkmRo65V) | 4:07 | 2022-07-22 | 2023-10-24 |
 | [I Don't Need a Hero \- Cody Crump Remix](https://open.spotify.com/track/3sLp1oqVe3XvEmYz4j05ZI) | [Danz CM](https://open.spotify.com/artist/6p68pkOt9kdwy15072E4dD), [Cody Crump](https://open.spotify.com/artist/39MjSo9mz8T8OtuhZPdlP7) | [I Don't Need a Hero \(Cody Crump Remix\)](https://open.spotify.com/album/3e8OfAc9d4fzY2KT6E8e54) | 3:03 | 2022-11-04 | 2025-05-07 |
@@ -469,6 +469,7 @@
 | [Tsukuyomi](https://open.spotify.com/track/61vC11KWndHG1OmoCqhELP) | [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5) | [Tsukuyomi](https://open.spotify.com/album/6hkKkB6BqmPXiVl559OdyO) | 4:30 | 2022-07-08 |  |
 | [Turnover](https://open.spotify.com/track/3gPnmov7t50dK8cwxTas4B) | [Envotion](https://open.spotify.com/artist/2TVhFzZ7bKLx162ooMcMMS) | [Turnover](https://open.spotify.com/album/16bG49PWd4y1CXAi9pTOzd) | 3:05 | 2023-11-27 |  |
 | [Ultimo](https://open.spotify.com/track/0jtagVogty503eUAY7psju) | [Barretso](https://open.spotify.com/artist/0G0B56LpavF77LhE2IGtgB) | [Celeste](https://open.spotify.com/album/2AkabzuOF5cIiED2GcgCKp) | 5:24 | 2021-10-15 | 2023-10-24 |
+| [Unarchiver](https://open.spotify.com/track/0WJVieYte28pUxC9hNfs0D) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Skate Story: Vol\. I](https://open.spotify.com/album/3T3hC14iSrsNd3fd5UD3wH) | 4:55 | 2025-12-09 |  |
 | [Under Control](https://open.spotify.com/track/2E6G3HkQb3OuEz3JKHaXUK) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Music Made Paradise](https://open.spotify.com/album/3SXL5zoZi1fvPCg1Ia6hRU) | 5:39 | 2022-02-04 | 2022-04-09 |
 | [Uni\-Verse](https://open.spotify.com/track/2GNktRlF6uSSDBpecepGCe) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [The Florentian Cabaret](https://open.spotify.com/artist/3lCSDhZueO35GkIKaI3DRS) | [Uni\-Verse](https://open.spotify.com/album/3lgJunX75g6tt5X19HtOlW) | 5:50 | 2023-11-16 |  |
 | [Universalis](https://open.spotify.com/track/6atY0RDzRUDd4HFi7ttaDs) | [Peshay](https://open.spotify.com/artist/07ogfrunSUmnsEsPQdRQUB), [VSY](https://open.spotify.com/artist/7nUVCYVFeFP4gKdNEjhcoS) | [Universalis](https://open.spotify.com/album/1Jz4Pat434iCabuHTDRgba) | 8:52 | 2022-04-01 | 2022-04-20 |

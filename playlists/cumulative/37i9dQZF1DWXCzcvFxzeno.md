@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-328 songs - 22 hr 49 min
+329 songs - 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Captain my Captain \(Filth on Acid Mix\)](https://open.spotify.com/track/4fXvts788dXktwkYXJeYJt) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se), [Cari Golden](https://open.spotify.com/artist/3M2wBPMgou1UoOONLwqgVp) | [Captain my Captain \(Filth on Acid Mix\)](https://open.spotify.com/album/2EZpctLyjdoeLVrR5kf7KU) | 3:33 | 2025-02-07 | 2025-02-21 |
 | [Chaos Magicka](https://open.spotify.com/track/5I5urH7JO7rRAUI4JCodLW) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Godtripper](https://open.spotify.com/artist/3wXRRhirLZoMLwuw9d8PIb) | [Chaos Magicka](https://open.spotify.com/album/0diP5S4t1ExwK7TWcD7Z4N) | 7:08 | 2024-04-09 | 2024-09-07 |
 | [Check This Out](https://open.spotify.com/track/3a89QceqmzHlPRaogH5nJw) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [Check This Out](https://open.spotify.com/album/1XnfpLcJqpAZsnpj7StCSn) | 2:47 | 2024-11-08 | 2025-01-21 |
-| [Close Your Eyes](https://open.spotify.com/track/1Hll6B9gqsOFi2Bln02laD) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Close Your Eyes EP](https://open.spotify.com/album/6hHi4OlpNnto3GNoLQyUG9) | 5:01 | 2024-04-09 |  |
+| [Close Your Eyes](https://open.spotify.com/track/1Hll6B9gqsOFi2Bln02laD) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Close Your Eyes EP](https://open.spotify.com/album/6hHi4OlpNnto3GNoLQyUG9) | 5:01 | 2024-04-09 | 2025-12-10 |
 | [Cluster Bomb](https://open.spotify.com/track/2V5YHjI4Gp31F2yd625k6z) | [USH](https://open.spotify.com/artist/1soUF8xmV5ij7Zi5ykNGr6) | [Cluster Bomb](https://open.spotify.com/album/1IxOVmlQRhNlhxaFd7ePpw) | 6:34 | 2024-04-09 | 2025-02-08 |
 | [Come With Me](https://open.spotify.com/track/0YAjsNY7yy3zbvX3HB2cP1) | [Lee Ann Roberts](https://open.spotify.com/artist/0vemAVjLY9Dbz229ZqRlT1) | [Come With Me EP](https://open.spotify.com/album/4DuL4YsE1cpJ8kS7pKJ4VJ) | 5:13 | 2024-04-09 | 2024-08-06 |
 | [Come With Me](https://open.spotify.com/track/5nHaB4kZ5QT8cH4Ie31ssY) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Come With Me](https://open.spotify.com/album/22DsxCKPqrUUOUG5E3x5Cm) | 3:59 | 2025-09-05 | 2025-12-03 |
@@ -309,6 +309,7 @@
 | [Torx](https://open.spotify.com/track/5DhIH97LtpstokHxGHyLht) | [BAUGRUPPE90](https://open.spotify.com/artist/6pKJqozqp0jdugOsyFRGMx) | [Torx](https://open.spotify.com/album/2Im392fbN6HLOsNamMctGi) | 6:06 | 2024-04-09 | 2024-08-06 |
 | [Toter Schmetterling](https://open.spotify.com/track/4LsYdWDeumtYjMndQVcA94) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Sant](https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u) | [Toter Schmetterling](https://open.spotify.com/album/4DE6Bmt5GNbm4up60YkXe2) | 3:53 | 2024-11-13 | 2025-07-25 |
 | [Toter Schmetterling \- Single Edit](https://open.spotify.com/track/6IDywtwTrAkEsmJkPSNs27) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Sant](https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u) | [Toter Schmetterling](https://open.spotify.com/album/4TIt20JTmC6Vr99zuoSQlf) | 2:44 | 2025-02-28 | 2025-03-20 |
+| [Touch It \(feat\. Jazmine Johnson\)](https://open.spotify.com/track/74LWuJ28wzfUBCYxRWyd7i) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Jazmine Johnson](https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz) | [Touch It \(feat\. Jazmine Johnson\)](https://open.spotify.com/album/3qc1yeZN15U01GMdq2eKGZ) | 2:22 | 2025-11-27 |  |
 | [Toxic Waste](https://open.spotify.com/track/7szvdSmepMz8QMMBsD5pM2) | [VAAG](https://open.spotify.com/artist/7oHIEjSNbWOZdoV9nSNyp1), [GD\_Connect](https://open.spotify.com/artist/31hv6Yit1qAoFEXCFM7Bpw) | [Toxic Waste](https://open.spotify.com/album/0ji3nORUd0KEbgoQ8vbxOi) | 3:56 | 2024-07-14 | 2024-07-22 |
 | [Traffic](https://open.spotify.com/track/6JylZ60wPO9N7k455MzXMk) | [Diøn](https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr) | [Traffic](https://open.spotify.com/album/3EULLLqlDMWEHbSvX8u2Y5) | 5:33 | 2024-07-05 | 2024-12-19 |
 | [Trancy Bounce](https://open.spotify.com/track/2sFlh6vt8U5TN3rTBFxRBl) | [Sasuma](https://open.spotify.com/artist/1qUAy2qWAGnMh6xifHvCST) | [Trancy Bounce](https://open.spotify.com/album/60LfrprMRsOFUXUgJaeEai) | 4:06 | 2024-04-09 | 2024-05-23 |

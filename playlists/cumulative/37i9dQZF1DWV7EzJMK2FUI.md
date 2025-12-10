@@ -4,7 +4,7 @@
 
 > Soft instrumental Jazz for all your activities.
 
-1,612 songs - 4 day 0 hr 17 min
+1,615 songs - 4 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Dreamscapes](https://open.spotify.com/track/0v4v8RhQHU5dXr6XjHpGBa) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Dreamscapes](https://open.spotify.com/album/0CbMbB7SB4hEgDtac81p51) | 4:47 | 2024-05-30 | 2024-10-02 |
 | [Dreamsville](https://open.spotify.com/track/4AnJZTcx01nxo47QyYbskV) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Dreamsville](https://open.spotify.com/album/60rdAuFzDeyUJIJRneqY3A) | 4:21 | 2022-01-17 | 2025-03-19 |
 | [Dreamsville](https://open.spotify.com/track/0Wa6BQ5UnXSlKGjhs1VvHx) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [Dreamsville](https://open.spotify.com/album/4tcIsG2lgOAXYZApStwm79) | 3:19 | 2024-09-09 | 2025-12-03 |
+| [Drift](https://open.spotify.com/track/6tlFACf9nEplYqUAr4ppBG) | [James Leeluck](https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ) | [Drift](https://open.spotify.com/album/3aQTx32k5INUFrjCepPgTO) | 2:59 | 2025-12-09 |  |
 | [Drifting Apart](https://open.spotify.com/track/3yuGg1Z1kHMoXVMv7iGg6E) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Drifting Apart](https://open.spotify.com/album/7DTe3QXy4XrjCmu3lQUFhU) | 3:32 | 2023-05-11 | 2024-11-06 |
 | [Driving By](https://open.spotify.com/track/6JyndQwHgAgv2SsjjBjgzc) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Driving By](https://open.spotify.com/album/5G55yEQswmNMwuq5CQH4mp) | 3:37 | 2024-08-12 | 2025-12-03 |
 | [Dusk's Embrace](https://open.spotify.com/track/5pDIvoW4HwM7ML8cIoiVs4) | [Lotus Trio](https://open.spotify.com/artist/7ankqZz0A6N1GIVmwJmLsz) | [Dusk's Embrace](https://open.spotify.com/album/7pB51SufZwHvxkYaKvAL6J) | 3:22 | 2024-11-05 |  |
@@ -426,6 +427,7 @@
 | [Ferocious Beauty](https://open.spotify.com/track/20fQ7eFPFaZo7MdYG0Z1Qo) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Ferocious Beauty](https://open.spotify.com/album/6x09MEb3T8f6MJx8cEE3lG) | 3:34 | 2024-05-10 | 2025-02-18 |
 | [Fields of Home](https://open.spotify.com/track/79XZYbexRnaHO7cf5nJZZw) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Fields of Home](https://open.spotify.com/album/6QKyTox6aInFLkw7KA2wTG) | 3:25 | 2022-01-17 | 2023-06-23 |
 | [Filippa](https://open.spotify.com/track/1m7ab27FBBeF3Zg13ol2YC) | [Jules Moreau](https://open.spotify.com/artist/4EgOpuGf3Qe7DYYol4AJCz) | [Filippa](https://open.spotify.com/album/0Ud0BP8Fdy1mqDWWl8bHj6) | 4:18 | 2024-02-23 | 2024-08-07 |
+| [Finders Keepers](https://open.spotify.com/track/6L84AuO4VX49v1CeobEmlb) | [Vernon Sanders](https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4) | [Finders Keepers](https://open.spotify.com/album/0XNluBfZ1FTXjuc01E82De) | 2:40 | 2025-12-09 |  |
 | [First Call](https://open.spotify.com/track/4uQsV0JHfafKxe8RbSPkfx) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [First Call](https://open.spotify.com/album/4wZFlDHSxEZ5UVUiFgZrpA) | 2:44 | 2023-06-01 | 2025-08-28 |
 | [First Day on Set](https://open.spotify.com/track/3xhMWYa8ricKp1NN8TVQyS) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [First Day on Set](https://open.spotify.com/album/5makhM7JhUfTSWwBNq90Nv) | 2:47 | 2022-08-09 | 2025-06-06 |
 | [Fiummelatte](https://open.spotify.com/track/2iXrf7r04aepcKEZTG7Boj) | [Ray Love Trio](https://open.spotify.com/artist/5So2roBHkoYi3wWy1pehXZ) | [Fiummelatte](https://open.spotify.com/album/4Owl9QOP4HoMyDtxkUxpDW) | 3:18 | 2024-11-11 | 2025-03-19 |
@@ -464,7 +466,7 @@
 | [Forever Yours](https://open.spotify.com/track/75rAzGJDXFM1pFxgP4vNyS) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Forever Yours](https://open.spotify.com/album/2MIwlBMtyzbSahQtjzzyQo) | 3:19 | 2025-02-10 | 2025-09-24 |
 | [Forgetful](https://open.spotify.com/track/415IWIVm7peu22HIHbnPL1) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Forgetful](https://open.spotify.com/album/77QMtfYuSv2cvRnX1Omast) | 4:21 | 2022-09-12 | 2023-04-14 |
 | [Forgiveness](https://open.spotify.com/track/4NCJImmtaznckvN10Mv2uD) | [London Dunes](https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t) | [Water Dance](https://open.spotify.com/album/5Ur5MIwmChDIZK2SLu3FGj) | 3:59 | 2023-11-17 | 2025-12-03 |
-| [Four And Moment](https://open.spotify.com/track/0bjdnGERLF53etzOiyRKrf) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [Four And Moment](https://open.spotify.com/album/6LDXCpzKWZdz5xuI4MrHBh) | 2:53 | 2023-02-02 |  |
+| [Four And Moment](https://open.spotify.com/track/0bjdnGERLF53etzOiyRKrf) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [Four And Moment](https://open.spotify.com/album/6LDXCpzKWZdz5xuI4MrHBh) | 2:53 | 2023-02-02 | 2025-12-10 |
 | [Four Seasons](https://open.spotify.com/track/7a9aIBiPFN8ku5808IYcEK) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Four Seasons](https://open.spotify.com/album/0Ufred4aiA20nLXyVylmsy) | 3:18 | 2024-12-16 | 2025-12-03 |
 | [Fragile](https://open.spotify.com/track/4CzDyivmhcakKRALgJ2fxE) | [Amir Patel](https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy) | [Fragile](https://open.spotify.com/album/6KdcjyA5ICwb2SnxntwCDS) | 3:25 | 2024-02-23 | 2025-07-16 |
 | [Framework](https://open.spotify.com/track/5WWiS91zawKEjuwuEEvi8J) | [Felix McCoy Quartet](https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh) | [Framework](https://open.spotify.com/album/6CU9BOa3nbsw5x4aEr1edP) | 3:48 | 2025-03-03 |  |
@@ -548,6 +550,7 @@
 | [How Long Has This Been Going On](https://open.spotify.com/track/4SVw0yf2lf4JwtXAoTkbmB) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [At The Blue Note](https://open.spotify.com/album/6sJLTN1J3PhPQ0OybVsqVz) | 9:09 | 2022-01-17 | 2022-03-17 |
 | [How Long Have I Waited?](https://open.spotify.com/track/1NcO5gArgmWrwUH0LfmKqW) | [Thames Quartet](https://open.spotify.com/artist/1R7RKpGGSeqK8pSBK79w7T) | [Bittersweet](https://open.spotify.com/album/6gkJFEs7AFfAMVgOJ8eaR5) | 3:11 | 2023-10-27 | 2024-08-20 |
 | [How She Walks](https://open.spotify.com/track/1OsZpyWuQeukRtfB9U8Tmk) | [West Village Trio](https://open.spotify.com/artist/6cIFYOs23Aowktaez0d6ew) | [How She Walks](https://open.spotify.com/album/3MJxreK1iSr3LH02oElQkp) | 4:39 | 2024-04-02 | 2024-09-28 |
+| [How Sincere](https://open.spotify.com/track/2rULXVAzHRCfkeb4EzOEPo) | [Frank Guardiola](https://open.spotify.com/artist/5gcPk6Qs7bOVFQDwH5xRcl) | [How Sincere](https://open.spotify.com/album/2R6o8e0quIy1TSjjZOVnRN) | 3:44 | 2025-12-09 |  |
 | [How’s It Going?](https://open.spotify.com/track/6tht37fb8QeaNohZIudAwH) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [How’s It Going?](https://open.spotify.com/album/6bkFMHlTu3sX5y0oYtm8At) | 2:39 | 2024-07-22 | 2025-07-02 |
 | [Hum Sweet Serenades](https://open.spotify.com/track/4HCsxaiFhQ5J6JZbsv9TUm) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [Hum Sweet Serenades](https://open.spotify.com/album/0XrvNpJzc7mLeoHBiuzbzF) | 3:03 | 2023-03-02 | 2025-07-16 |
 | [I awake](https://open.spotify.com/track/6AianoPQwgFLarNY5s3ntc) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [I awake](https://open.spotify.com/album/1H478Tq3lKuqWtTdzhLa8q) | 4:05 | 2023-02-02 | 2024-04-24 |
@@ -949,7 +952,7 @@
 | [New Star](https://open.spotify.com/track/2J3Yv2zePytuRKS39SNzt7) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [New Star](https://open.spotify.com/album/0mjPeiobFb1k43f8zpA9GR) | 2:38 | 2025-07-01 |  |
 | [New York at Night](https://open.spotify.com/track/4BtKyqKq0W6R72tpoU8BeU) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [New York at Night](https://open.spotify.com/album/5q4AvsTsrgfMaTEpdivrzy) | 4:38 | 2025-04-15 | 2025-12-03 |
 | [Newspapers Heads](https://open.spotify.com/track/5Zthx9hZRFSJRhO0UEi8Ox) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [Newspapers Heads](https://open.spotify.com/album/7tuJ3IScGPnWvBio5JV98x) | 4:02 | 2023-06-01 | 2025-07-16 |
-| [Next Step](https://open.spotify.com/track/4fopXpSuN9Ki2lcwdMJf3c) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Next Step](https://open.spotify.com/album/6Pks1ZmGK7Qy3FH4LifbmX) | 3:27 | 2023-06-08 |  |
+| [Next Step](https://open.spotify.com/track/4fopXpSuN9Ki2lcwdMJf3c) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Next Step](https://open.spotify.com/album/6Pks1ZmGK7Qy3FH4LifbmX) | 3:27 | 2023-06-08 | 2025-12-10 |
 | [Nice Try](https://open.spotify.com/track/0B1DkEpFZCbCIpw8UfI4kH) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Nice Try](https://open.spotify.com/album/2xwZAOuNICjJdVgm6y2yCa) | 2:42 | 2025-02-03 |  |
 | [Night Swimmer](https://open.spotify.com/track/2TaXpoVerMqrJxoEh1KjgS) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Swallows](https://open.spotify.com/album/1oY3zKF2arpXsgJolpVemU) | 2:56 | 2022-01-17 | 2024-10-02 |
 | [Nightfall](https://open.spotify.com/track/0pUJIrhpnvI1wneFmal7oG) | [David Parks & Silver](https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D) | [Nightfall](https://open.spotify.com/album/1NKqdrY5COQ2fE54U1Mxbh) | 3:12 | 2023-04-13 |  |
@@ -1255,7 +1258,7 @@
 | [Strolling With My Poodle](https://open.spotify.com/track/6484o0lZWJpQPsyRDx2oaC) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Strolling With My Poodle](https://open.spotify.com/album/06P4zROTzjwZ06mHs30mKQ) | 3:58 | 2023-08-24 | 2024-08-20 |
 | [Strong, silent type](https://open.spotify.com/track/01bVdeoXeVupkwzC2kwHsW) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Strong, silent type](https://open.spotify.com/album/67bsyOc1YTnuKGNF4foSlb) | 3:18 | 2024-02-02 | 2025-02-25 |
 | [Summer Green](https://open.spotify.com/track/2uuGu4QUlVIC24OS2ZilNR) | [The Slow Nine](https://open.spotify.com/artist/2KSSPN9F7IzGkUhtQzmyj5) | [Summer Green](https://open.spotify.com/album/6EyhVfE0XMIls6HYY5jQDa) | 4:23 | 2023-11-17 | 2025-02-18 |
-| [Summer In Central Park](https://open.spotify.com/track/74NmDsFZbbS0T7Zc2z74Cd) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Summer In Central Park](https://open.spotify.com/album/1Dkw2HPM80wLbSGJkDmh8h) | 3:28 | 2023-02-16 |  |
+| [Summer In Central Park](https://open.spotify.com/track/74NmDsFZbbS0T7Zc2z74Cd) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Summer In Central Park](https://open.spotify.com/album/1Dkw2HPM80wLbSGJkDmh8h) | 3:28 | 2023-02-16 | 2025-12-10 |
 | [Summer Night](https://open.spotify.com/track/6FfrmvK9FtbjBtI6tsdFgX) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Summer Night](https://open.spotify.com/album/2BWxT4jBkyMFlIirZ4KDHT) | 2:50 | 2024-12-16 | 2025-10-23 |
 | [Sun Souls](https://open.spotify.com/track/38YetMSYVQW7jRN1CxaHpA) | [Tosh Rhann Band](https://open.spotify.com/artist/0VO3Qw7YVwTbXhBx6neI0e) | [Of Laughter and Warmth](https://open.spotify.com/album/0Uq5FeJyKcIEUv07HQJPGc) | 2:38 | 2022-05-02 | 2025-05-20 |
 | [Sunday Morning](https://open.spotify.com/track/5WwiqYKhGameSQcHRjdlxB) | [Adrian Berg](https://open.spotify.com/artist/1phUimQWJsdDP0xu7KXYnt) | [Sunday Morning](https://open.spotify.com/album/39liLKUEL1PksWSLKTVJBy) | 2:55 | 2024-08-19 | 2025-12-03 |

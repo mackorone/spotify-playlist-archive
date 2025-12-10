@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-213 songs - 13 hr 2 min
+214 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Captain Frenchy](https://open.spotify.com/track/4NoRvNC07A2CQey6K73d09) | [Teymur Karimli](https://open.spotify.com/artist/21FB5CWks6Hpc9kc7M2JZw) | [Captain Frenchy](https://open.spotify.com/album/5790XMNa3mSfofFLXkS8HR) | 3:20 | 2025-11-09 |  |
 | [Cocomama](https://open.spotify.com/track/10kkQ39P3LF5U4owFUW1D5) | [Pituf Project](https://open.spotify.com/artist/1JZT0UPEFA7lPu94SzUqWh) | [Perception Altérée](https://open.spotify.com/album/6y1AIZMakzsN8OTTiq29zg) | 4:14 | 2025-09-01 |  |
 | [Come on in My Kitchen](https://open.spotify.com/track/7DQjQM2ftbW6gMxqUhGNcN) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [Come on in My Kitchen](https://open.spotify.com/album/2qUxGZ5CJdxmwxsxzSgOpf) | 4:06 | 2025-10-16 | 2025-11-28 |
+| [Control the Universe \(revisited\)](https://open.spotify.com/track/16EMMLXvZHgqKyruhRZqaF) | [Lynn Rockin](https://open.spotify.com/artist/5rCJrr6znWoU3RTfk5Nyo3) | [Control the Universe \(revisited\)](https://open.spotify.com/album/68dYmV1CdPKVtj0Z2uYLiQ) | 3:48 | 2025-12-09 |  |
 | [Copper](https://open.spotify.com/track/5WKo5MJKoepRrmXYN5pzGY) | [John Pronto](https://open.spotify.com/artist/5QtUYAAvpQfIFojICPFZuq) | [For the Birds](https://open.spotify.com/album/03ME7K35Ti1du3NWt02j5t) | 3:56 | 2025-11-05 |  |
 | [Cosmonauta](https://open.spotify.com/track/4ob1p85yFIpasJJOvYDzcM) | [Francisco Crespo](https://open.spotify.com/artist/3keaT0bkTmc7oERRDQPxkb) | [Cosmonauta](https://open.spotify.com/album/3wCsW7kVE8Q6wvJB0Jvfau) | 2:32 | 2025-11-05 |  |
 | [Country All Across This Land](https://open.spotify.com/track/59iFCv1jLN9r4V4educife) | [Cam Pierce](https://open.spotify.com/artist/6YLHrUVXpMquZetlXebWWR) | [The Horseshoe](https://open.spotify.com/album/71Pi2kd6ItAuwcaaEsj4ec) | 3:27 | 2025-09-01 |  |

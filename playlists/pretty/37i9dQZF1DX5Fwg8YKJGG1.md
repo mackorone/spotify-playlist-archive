@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Fwg8YKJGG1.md) - [plain]
 
 > Christmas favourites played on music box and glockenspiel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,969 likes - 42 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,045 likes - 42 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Fwg8YKJGG1.md) - [plain]
 | 41 | [Alle Jahre Wieder](https://open.spotify.com/track/3bpVrnAYK40WOSVXUC5nZc) | [Odette Weisz](https://open.spotify.com/artist/3uIIsttgIORjqRPNaT18b9) | [Weihnachten für Kleinkinder](https://open.spotify.com/album/3hswkwR8MMlOQHhJvM0twE) | 1:04 |
 | 42 | [Feliz Navidad](https://open.spotify.com/track/6MJpv7POTvRHO1KYlgfSK7) | [Juan Mergilla](https://open.spotify.com/artist/2ZOuDHSAh86zcZITUBggDR) | [Feliz Navidad](https://open.spotify.com/album/7l2ZT8qvOA78NLxorH5cBc) | 2:06 |
 
-Snapshot ID: `AAAAAGdn47fPiWuB06EQncoWnYUKQmmP`
+Snapshot ID: `AAAAAByD9teZSryXBo3jeet6LdqZTCnj`

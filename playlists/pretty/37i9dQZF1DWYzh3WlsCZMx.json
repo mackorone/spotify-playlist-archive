@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36\">HBO's Rap Sh!t</a>",
-  "num_followers": 43406,
+  "num_followers": 43417,
   "original_name": "HBO Rap Sh!t's Taste",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "January 10th",
+        "url": "https://open.spotify.com/album/3pD5nHq65PfGJtd5aMNPUj"
+      },
+      "artists": [
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        }
+      ],
+      "duration_ms": 219107,
+      "name": "Got Dem Racks",
+      "url": "https://open.spotify.com/track/5bHuDZwLcuXTlFMj2XPk0S"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "ZUU",
         "url": "https://open.spotify.com/album/6PkSBdx19zarn4ae1D08gA"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 204386,
       "name": "BIRDZ FEAT. RICK ROSS",
       "url": "https://open.spotify.com/track/0pA0rcw7ci5X5XHrnBpkdn"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "January 10th",
-        "url": "https://open.spotify.com/album/3pD5nHq65PfGJtd5aMNPUj"
-      },
-      "artists": [
-        {
-          "name": "Yo Gotti",
-          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
-        }
-      ],
-      "duration_ms": 219107,
-      "name": "Got Dem Racks",
-      "url": "https://open.spotify.com/track/5bHuDZwLcuXTlFMj2XPk0S"
     },
     {
       "added_at": "2022-10-01 16:00:00",

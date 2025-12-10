@@ -2,7 +2,7 @@
 
 ### [PEGAO](https://open.spotify.com/playlist/37i9dQZF1DX1HCSfq0nSal)
 
-> Si está pegao, está aquí\. Feat\. La Pantera, Lucho RK
+> Si está pegao, está aquí\. Feat\. Rvfv
 
 892 songs - 2 day 1 hr 13 min
 

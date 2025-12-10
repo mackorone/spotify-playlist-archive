@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-30",
-  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: 171",
+  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: SATOH",
   "name": "\u9752\u6625\u3068\u4e00\u77ac",
   "tracks": [
     {
@@ -1413,6 +1413,24 @@
     },
     {
       "album": {
+        "name": "big man 2 / young boy",
+        "url": "https://open.spotify.com/album/3ZTVLKNr2irF0mOiQqK8FS"
+      },
+      "artists": [
+        {
+          "name": "SATOH",
+          "url": "https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168994,
+      "name": "big man 2",
+      "url": "https://open.spotify.com/track/1ZE2N0EqAonRkTkPE3W55P"
+    },
+    {
+      "album": {
         "name": "RE:BIRTH",
         "url": "https://open.spotify.com/album/1lzeSqAU7CcMDjZo23tslk"
       },
@@ -2584,6 +2602,24 @@
       "duration_ms": 248355,
       "name": "Dramatic Blue",
       "url": "https://open.spotify.com/track/1qH6BAQHjpBxl8wphvAcU9"
+    },
+    {
+      "album": {
+        "name": "Abduct",
+        "url": "https://open.spotify.com/album/1VsXeUHXkh8MaGqw7csHSN"
+      },
+      "artists": [
+        {
+          "name": "KEPURA",
+          "url": "https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264044,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/1xhsV79FmBv9USjz21eaLE"
     },
     {
       "album": {
@@ -6714,7 +6750,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 227066,
       "name": "Monsters and Heroes",
       "url": "https://open.spotify.com/track/1a8WYSRzWIxLFKh8SuCvJA"
@@ -7261,6 +7297,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205405,
+      "name": "NEVERMIND",
+      "url": "https://open.spotify.com/track/0DR9GZjYGfbkGOHcJgHj60"
+    },
+    {
+      "album": {
         "name": "nevermind",
         "url": "https://open.spotify.com/album/0cX79wNUK4Ys8y1L9KOMOw"
       },
@@ -7452,7 +7506,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 217240,
       "name": "NONVERVAL",
       "url": "https://open.spotify.com/track/3SJTGtQMKKBTDe8eG2TyF9"
@@ -10815,6 +10869,24 @@
     },
     {
       "album": {
+        "name": "Thirst",
+        "url": "https://open.spotify.com/album/4tmHlqBEiTL3uqy8Aa6Xol"
+      },
+      "artists": [
+        {
+          "name": "Ryukku to Soine Gohan",
+          "url": "https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227600,
+      "name": "Thirst",
+      "url": "https://open.spotify.com/track/5dUfCqDv9Qsesv2LRErDID"
+    },
+    {
+      "album": {
         "name": "Thirsty days",
         "url": "https://open.spotify.com/album/5avr2q4yDkxBLv2uaxjN14"
       },
@@ -10844,7 +10916,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 264448,
       "name": "this time",
       "url": "https://open.spotify.com/track/34C3Lss008yTOL1otjvMRU"
@@ -11042,7 +11114,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 263467,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/5KisibIuZtTt6WaTZl7Lie"
@@ -11508,7 +11580,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 244125,
       "name": "Vintage Car",
       "url": "https://open.spotify.com/track/0M5edeHgATLmdcpnLVKfFd"
@@ -11980,6 +12052,24 @@
       "duration_ms": 268398,
       "name": "you n me",
       "url": "https://open.spotify.com/track/0rcm0k91Fhlh9AK8pbWbU0"
+    },
+    {
+      "album": {
+        "name": "big man 2 / young boy",
+        "url": "https://open.spotify.com/album/3ZTVLKNr2irF0mOiQqK8FS"
+      },
+      "artists": [
+        {
+          "name": "SATOH",
+          "url": "https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133119,
+      "name": "young boy",
+      "url": "https://open.spotify.com/track/3K7Bob1l2zVyJhrZyqzmHZ"
     },
     {
       "album": {
@@ -14025,6 +14115,24 @@
     },
     {
       "album": {
+        "name": "\u3089\u3089",
+        "url": "https://open.spotify.com/album/2IblqbjvNwJIXhxdHT82yd"
+      },
+      "artists": [
+        {
+          "name": "Teikokukissa",
+          "url": "https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202293,
+      "name": "\u3089\u3089",
+      "url": "https://open.spotify.com/track/0UgT4PwGaBlxypqPEzoELa"
+    },
+    {
+      "album": {
         "name": "\u308b\u3066\u3093",
         "url": "https://open.spotify.com/album/43S0B2hwGw5F3BLjKAf3f1"
       },
@@ -14940,6 +15048,24 @@
       "duration_ms": 227360,
       "name": "\u30ab\u30c6\u30b4\u30e9\u30a4\u30ba",
       "url": "https://open.spotify.com/track/2XNMG5FlJvFSnn6PiHnvjk"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
+        "url": "https://open.spotify.com/album/0YAnotvXZEgydcNsFWCJ1S"
+      },
+      "artists": [
+        {
+          "name": "POP ART TOWN",
+          "url": "https://open.spotify.com/artist/6nu39YK7u99qv6JdygWuxG"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176388,
+      "name": "\u30ab\u30e1\u30ec\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/65Flye6nqw6cQ4DTu2dbhj"
     },
     {
       "album": {
@@ -15916,6 +16042,24 @@
       "duration_ms": 247373,
       "name": "\u30b9\u30bf\u30f3\u30c9\u30d0\u30a4\u30df\u30fc",
       "url": "https://open.spotify.com/track/4nDUb6vNdcycEBNOGF18vz"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30bf\u30fc\u30b5\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/740WJc46dcHEz0eVZDwj0b"
+      },
+      "artists": [
+        {
+          "name": "Aooo",
+          "url": "https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266954,
+      "name": "\u30b9\u30bf\u30fc\u30b5\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/7LsVLiojCVPKSjb7n5uwMj"
     },
     {
       "album": {
@@ -17030,7 +17174,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 199941,
       "name": "\u30cf\u30ed\u30fc\u30df\u30e9\u30a4",
       "url": "https://open.spotify.com/track/3IfRuR7z4kdHGv5x0VXOtY"
@@ -17498,7 +17642,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 236342,
       "name": "\u30d5\u30e9\u30b8\u30a7\u30fc\u30eb",
       "url": "https://open.spotify.com/track/2q2jhRt35kZFoXKA6HNxb0"
@@ -23906,7 +24050,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 270226,
       "name": "\u6b21\u306e\u604b\u306f\u5b9f\u3089\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/6eqmLUt4wGsyrXcuQmFhtv"

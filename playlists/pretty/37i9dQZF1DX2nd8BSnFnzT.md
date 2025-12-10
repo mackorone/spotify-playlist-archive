@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Capital Inicial
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,931 likes - 76 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,898 likes - 76 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 75 | [De Volta Ao Novo \- Live in Rio](https://open.spotify.com/track/6yzDcTf1DnuevYmKksYTMe) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [De Volta Ao Novo \- EP Versões & Remixes](https://open.spotify.com/album/4SFk6ZJ9AWPVv6inO5jOpu) | 3:26 |
 | 76 | [O Verso](https://open.spotify.com/track/1mSQL3MqWKAMLioKgzlt4T) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk) | [O Verso](https://open.spotify.com/album/22y2h1DtG2jmYXD9LFQI2C) | 3:30 |
 
-Snapshot ID: `AAAAABj1/jFcHwCeQP3QxlJOWKztnEiH`
+Snapshot ID: `AAAAAFkUoaJ5K6KU4Bet4usJRmcK9qXr`

@@ -35117,6 +35117,28 @@
     },
     {
       "album": {
+        "name": "Mafala",
+        "url": "https://open.spotify.com/album/2AZjgzueIcQ0FK1xEBgbin"
+      },
+      "artists": [
+        {
+          "name": "Presenter Kai",
+          "url": "https://open.spotify.com/artist/5SVqEOQ0V3lJbzjWp5pfx4"
+        },
+        {
+          "name": "Diana Yegon & The Duo",
+          "url": "https://open.spotify.com/artist/1XzbBZqXFZIYh9G0w1VXTa"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Mafala",
+      "url": "https://open.spotify.com/track/4PAhL19b0PrdKs4a3DFxs2"
+    },
+    {
+      "album": {
         "name": "Alco-Pop",
         "url": "https://open.spotify.com/album/4PMlLGxFM68fEBMRqNKqG5"
       },

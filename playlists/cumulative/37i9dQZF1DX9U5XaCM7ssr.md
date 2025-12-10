@@ -4,7 +4,7 @@
 
 > Lagu\-lagu sedih yang menyayat hati 😭
 
-242 songs - 16 hr 48 min
+244 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bagaimana Kalau Aku Tidak Baik Baik Saja](https://open.spotify.com/track/7As3vd7OvJwyGUsZfNtHce) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Bagaimana Kalau Aku Tidak Baik Baik Saja](https://open.spotify.com/album/2EAkuKnERWRUnGBw1OTDZo) | 3:52 | 2022-11-28 | 2023-05-04 |
 | [Bahaya](https://open.spotify.com/track/45FQZlkNDDHg4pzyjiLQkc) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Bahaya](https://open.spotify.com/album/4MidcEabYlfTGK6LGMzpSY) | 4:20 | 2023-09-28 | 2023-11-14 |
 | [Bawa Dia Kembali](https://open.spotify.com/track/25M9piWxSsq0xLcjQW5yz6) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv) | 3:46 | 2024-07-23 | 2024-09-03 |
+| [Bayangan Cinta Yang Lalu](https://open.spotify.com/track/7k5KS786ibuDQIU4YKRnQ7) | [KIM](https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp), [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Bayangan Cinta Yang Lalu](https://open.spotify.com/album/3LAMMg0LKfDuIePDLgnTBH) | 3:44 | 2025-12-09 |  |
 | [Bayangkan Ku Hilang](https://open.spotify.com/track/4BDp34OApfupugYc40FKp7) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Bayangkan Ku Hilang](https://open.spotify.com/album/0Tvr62v4t214HmoGbsIbXM) | 4:08 | 2025-09-29 | 2025-10-08 |
 | [Belum Beruntung](https://open.spotify.com/track/1zTRRWl7y8C80WNr4ysljk) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Belum Beruntung](https://open.spotify.com/album/6rgtBSOGEORZH2obJTqOFm) | 3:39 | 2025-04-14 | 2025-04-25 |
 | [Belum Siap Kehilangan](https://open.spotify.com/track/56Uibq6ur2xwUpSd9biBH1) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Belum Siap Kehilangan](https://open.spotify.com/album/07GSDlyuAPsCKtqTmyN80x) | 4:48 | 2022-11-28 | 2023-01-10 |
@@ -71,7 +72,7 @@
 | [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 | 2022-11-28 |  |
 | [Haunting](https://open.spotify.com/track/0I0EPca5WhAzyzsPdnJYDJ) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2), [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Haunting](https://open.spotify.com/album/4naAjJSa7uUkp0EWtEKJSA) | 3:09 | 2023-07-26 | 2023-11-14 |
 | [Hilang Tanpa Bilang](https://open.spotify.com/track/6YYjgWRjj703COAyUNkHGE) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hilang Tanpa Bilang](https://open.spotify.com/album/1ZYPWfFxtR0d4hWK01TfL6) | 4:43 | 2022-12-15 | 2024-07-05 |
-| [I Don't Know Anymore](https://open.spotify.com/track/28fdZiMAwrYU41REleoZIi) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson Learned](https://open.spotify.com/album/1ShrAiTDbq2soLmIpmIvd8) | 3:50 | 2025-10-20 |  |
+| [I Don't Know Anymore](https://open.spotify.com/track/28fdZiMAwrYU41REleoZIi) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson Learned](https://open.spotify.com/album/1ShrAiTDbq2soLmIpmIvd8) | 3:50 | 2025-10-20 | 2025-12-10 |
 | [I Love You but I'm Letting Go](https://open.spotify.com/track/01beCqR9wsVnwzkAJZyTqq) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Walk The Talk](https://open.spotify.com/album/7IRlD9qEXisysWi8O24EkU) | 3:40 | 2022-11-28 | 2023-06-24 |
 | [if u could see me cryin' in my room](https://open.spotify.com/track/13sOb9V6Y3uCnRxY9HIZqP) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM), [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [if u could see me cryin' in my room](https://open.spotify.com/album/3Ylr1ueJYvCCM2i7yPTReZ) | 4:16 | 2022-11-28 | 2023-10-13 |
 | [Ini Panggung Sandiwara](https://open.spotify.com/track/5Myzlwe1UqFUeMMCP5WbUX) | [Sarwendah](https://open.spotify.com/artist/5UBkLLBPICz1UoMehxUN86) | [Ini Panggung Sandiwara](https://open.spotify.com/album/5xrCorNSSyFkMWaSjocK83) | 4:00 | 2025-03-24 | 2025-04-15 |
@@ -145,7 +146,7 @@
 | [Niscaya](https://open.spotify.com/track/5xxu8scJF7T99YAlD8WMxj) | [Bilal Indrajaya](https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De) | [Niscaya](https://open.spotify.com/album/0kdtt7OLuQH3ojqFslGep6) | 3:58 | 2024-05-27 | 2024-09-03 |
 | [Nyaman Tak Cukup](https://open.spotify.com/track/2o3RmRoQ5ZrHrPYRHykS0e) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Nyaman Tak Cukup](https://open.spotify.com/album/7CxcxDQ9biYRFRTQ6rw53f) | 3:50 | 2023-06-09 | 2023-06-19 |
 | [Orang Yang Salah](https://open.spotify.com/track/6KRm2So5GG89uilaTpv4rL) | [Luvia band](https://open.spotify.com/artist/68LnYWYS7UQ67awNV3RO6a) | [Orang Yang Salah](https://open.spotify.com/album/1RBbHtYeLqhXOxFJ0BJdRa) | 4:38 | 2024-10-08 | 2024-10-22 |
-| [Orang Yang Sama](https://open.spotify.com/track/0z7jhodL97W88al5OI1zh1) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Orang Yang Sama](https://open.spotify.com/album/4EERiS8fZYOxtHPn06HP8P) | 4:28 | 2022-11-28 |  |
+| [Orang Yang Sama](https://open.spotify.com/track/0z7jhodL97W88al5OI1zh1) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Orang Yang Sama](https://open.spotify.com/album/4EERiS8fZYOxtHPn06HP8P) | 4:28 | 2022-11-28 | 2025-12-10 |
 | [Pelanggaran](https://open.spotify.com/track/7tkOXJNeDNCeX9Jz3K1M3l) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Pelanggaran](https://open.spotify.com/album/74dbmkxOoWQE3h4RlXfPIK) | 4:57 | 2024-08-15 | 2024-09-03 |
 | [Penantian Panjang](https://open.spotify.com/track/1JMpfWjCxhro8H2nKVrc2z) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c) | [Penantian Panjang](https://open.spotify.com/album/62dDC0wmINdeEJuWE4dHzX) | 4:11 | 2025-01-10 | 2025-02-18 |
 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 | 2024-01-31 |  |
@@ -156,6 +157,7 @@
 | [Pilihan Yang Terbaik](https://open.spotify.com/track/7BhRGeqNpBw1QilknM0svo) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Magnolya](https://open.spotify.com/album/3yUBpUAsQeuAu9R86wiukG) | 3:54 | 2022-11-28 | 2024-04-24 |
 | [Please Don't Say You Can't Live Without Me](https://open.spotify.com/track/11zoslfTeLUUsp5O0BNv23) | [Mirabeth](https://open.spotify.com/artist/3Xpap1vsMoPjVutjOxevPc) | [Abé](https://open.spotify.com/album/6nAXhwPBwx843VK2kaSr4S) | 5:08 | 2023-06-23 | 2023-06-27 |
 | [Puisi](https://open.spotify.com/track/4XmNQ2LLbVq8MDn8MG8HUS) | [Jikustik](https://open.spotify.com/artist/7CSVCLVcIfpaNCQh7BxqKN) | [Siang](https://open.spotify.com/album/21OwNyGqAohFkhDe0K1RYY) | 5:02 | 2023-07-26 | 2023-08-31 |
+| [Pulanglah](https://open.spotify.com/track/2Vi3r6oDAGkuWRpFAGKVda) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Pulanglah](https://open.spotify.com/album/5nIq4Y5uugZtiVUM9nBVoL) | 4:02 | 2025-12-09 |  |
 | [Pupus](https://open.spotify.com/track/7ADK1rnMzP6PGWhoqWirBJ) | [Dewa](https://open.spotify.com/artist/35dWPb7Tmq0WESp6KAUJ8w) | [Cintailah Cinta](https://open.spotify.com/album/6ifjItwHx7S2mhoX6tWSlK) | 5:05 | 2024-09-02 |  |
 | [Putus](https://open.spotify.com/track/1Z9mn9WZC1pOLrIK3hxdg3) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Putus](https://open.spotify.com/album/1Qh6C1BoR26xAOVdvZEwqp) | 3:33 | 2024-09-02 | 2024-11-14 |
 | [Rahasia Hati](https://open.spotify.com/track/1X80KdFJpedU4as4WGIgYM) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Paradoks](https://open.spotify.com/album/1qJp3Va3JzFE3FPVClJDQc) | 3:11 | 2024-02-20 | 2025-01-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4aFimZ74X3.md) - [plain]
 
 > Music from the street racing manga series, “INITIAL D”! （C）しげの秀一／講談社・エイベックス・ピクチャーズ・オービー企画
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,283 likes - 35 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,312 likes - 35 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4aFimZ74X3.md) - [plain]
 | 16 | [NIGHT OF FIRE](https://open.spotify.com/track/0u8X3nQwowVw29hMAzCoUd) | [NIKO](https://open.spotify.com/artist/0F0Gp5ED6hZPeOJMkLTdCj) | [SUPER EUROBEAT presents INITIAL D〜D SELECTION 3〜](https://open.spotify.com/album/25aUJa5kOgWZYJRbz8mZDl) | 5:09 |
 | 17 | [Night of Fire \- Extended mix](https://open.spotify.com/track/1c7IRPoWNIMLGrFgit8QXk) | [Niko](https://open.spotify.com/artist/1Lbe0aOyGPpQEwAGJzXPdI), [Bratt Sinclaire](https://open.spotify.com/artist/6fGfILwz3C9CSjnMxdWVkO) | [Bratt Sinclaire Eurobeat Style, Vol.7](https://open.spotify.com/album/74RvRonDKJST69IhQAZ7IS) | 5:18 |
 | 18 | [BEAT OF THE RISING SUN](https://open.spotify.com/track/2cNvVnLsMqgBuI6mBk2fRz) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT) | [SUPER EUROBEAT presents INITIAL D〜D SELECTION 3〜](https://open.spotify.com/album/25aUJa5kOgWZYJRbz8mZDl) | 4:03 |
-| 19 | [MIKADO](https://open.spotify.com/track/0WkBt7xRUDmaFVbRRqhk5F) | [Dave Mc Loud](https://open.spotify.com/artist/0mLTgcHMehi9I0PQyqD0a6) | [SUPER EUROBEAT presents INITIAL D Second Stage 〜D SELECTION 1〜](https://open.spotify.com/album/7F128tFLWQinImgDvcOmHq) | 6:04 |
-| 20 | [SPEEDY SPEED BOY](https://open.spotify.com/track/4UwmHaExaKIqodksotaoo3) | [Marko Polo](https://open.spotify.com/artist/4acqj1P10gUoGNQetcogFv) | [SUPER EUROBEAT presents INITIAL D Second Stage 〜D SELECTION 1〜](https://open.spotify.com/album/7F128tFLWQinImgDvcOmHq) | 5:56 |
+| 19 | [MIKADO](https://open.spotify.com/track/0WkBt7xRUDmaFVbRRqhk5F) | [Dave Mc Loud](https://open.spotify.com/artist/0mLTgcHMehi9I0PQyqD0a6) | [SUPEREUROBEATpresentsINITIALDSecondStageDSELECTION1](https://open.spotify.com/album/7F128tFLWQinImgDvcOmHq) | 6:04 |
+| 20 | [SPEEDY SPEED BOY](https://open.spotify.com/track/4UwmHaExaKIqodksotaoo3) | [Marko Polo](https://open.spotify.com/artist/4acqj1P10gUoGNQetcogFv) | [SUPEREUROBEATpresentsINITIALDSecondStageDSELECTION1](https://open.spotify.com/album/7F128tFLWQinImgDvcOmHq) | 5:56 |
 | 21 | [Make Up Your Mind](https://open.spotify.com/track/6v6J9qNQ47qVZwUSnFTrmB) | [ウェイン・L](https://open.spotify.com/artist/2ijGlqErodEn6sjzcfVFl7) | [Super Eurobeat Vol.44 \(Extended Version\)](https://open.spotify.com/album/2BTTGdbnKzFiwy7ck3asPu) | 5:56 |
 | 22 | [DEJA VU](https://open.spotify.com/track/6CRtIYDga4VKW5sV5rfAL3) | [dave rodgers](https://open.spotify.com/artist/1uXrhF4cZsmDQZDueF9uJT) | [SUPER EUROBEAT presents INITIAL D DAVE RODGERS SELECTION](https://open.spotify.com/album/5IWYS5uU24ol0NotfK8XqV) | 4:20 |
 | 23 | [Grand Prix \- Extended Version](https://open.spotify.com/track/41Ug45mC2Qn4Fn8sW6XpkA) | [MEGA NRG MAN](https://open.spotify.com/artist/3PIG5hkfeomy1hf4Xo33Wl) | [Super Eurobeat Vol.102](https://open.spotify.com/album/0qTSIu7nLDG4nvGC9uJrco) | 3:53 |

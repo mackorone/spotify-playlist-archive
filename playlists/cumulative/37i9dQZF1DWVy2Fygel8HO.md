@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-197 songs - 8 hr 11 min
+198 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Silent Bloom](https://open.spotify.com/track/2ESAE30bJPEvyvfDE5oh1T) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Silent Bloom](https://open.spotify.com/album/4zKinGSo2A4tBIunlolmbJ) | 2:10 | 2025-07-07 |  |
 | [Silent Steps in the Snow](https://open.spotify.com/track/4hhki0inb5KmXcI3gJGXOv) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Silent Steps in the Snow](https://open.spotify.com/album/052ClOJxN5pEBblLQNISsz) | 2:24 | 2024-11-12 |  |
 | [Sincere](https://open.spotify.com/track/3COEj6CCw5iG6ykRZ0LuKf) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Sincere](https://open.spotify.com/album/2FrUT2fF8TXPMGiiChOkph) | 2:07 | 2023-05-09 | 2025-04-26 |
+| [Sleeper](https://open.spotify.com/track/0iBbGki63rW9UuSZYghy6R) | [M\. Lapis](https://open.spotify.com/artist/7yapVPB4FRlHJJ3IsOpbaO) | [Sleeper](https://open.spotify.com/album/5vVTSM53W8XLV7NByXhKPa) | 2:17 | 2025-12-09 |  |
 | [Slowdive](https://open.spotify.com/track/2zqiro2tpHZkYVrtdMQAVn) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Slowdive](https://open.spotify.com/album/3kZgD5YMFeOpGlF39LD9VM) | 2:50 | 2024-07-22 |  |
 | [Small](https://open.spotify.com/track/0aviORRTQwOiKwtM8EX6Ep) | [Théa Allemand](https://open.spotify.com/artist/4ZnTLMnuVhamRoBXLbTO9S) | [Small](https://open.spotify.com/album/3rMGkoE0Q38xRszZD11K6F) | 3:04 | 2023-05-09 | 2025-03-05 |
 | [soft life](https://open.spotify.com/track/6QzVjefxboaYR4SAsdwliL) | [Jack Ame](https://open.spotify.com/artist/5VFJbcflFyX7bF7yTvtOQQ) | [soft life](https://open.spotify.com/album/46s6Cpy5NhMbRFuhOrx0B8) | 2:15 | 2024-09-02 | 2025-04-26 |

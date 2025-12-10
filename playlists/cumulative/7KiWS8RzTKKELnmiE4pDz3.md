@@ -4,7 +4,7 @@
 
 > 
 
-1,250 songs - 2 day 16 hr 50 min
+1,251 songs - 2 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1187,6 +1187,7 @@
 | [Virtual Insanity \- Remastered 2006](https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Driving Songs](https://open.spotify.com/album/0PZ6p6h37zPRCskVNqBRbw) | 3:49 | 2023-10-07 | 2024-11-06 |
 | [Vivir Sin Ti](https://open.spotify.com/track/02kyVupTiSU77ORaI65ex9) | [Nico Play](https://open.spotify.com/artist/26l7d6CNDqVJKOepWtK3Bl) | [Vivir Sin Ti](https://open.spotify.com/album/31tHX6fgFh3e6kRNNRVrlk) | 3:31 | 2024-02-15 | 2025-05-21 |
 | [Von Dont Matter](https://open.spotify.com/track/29HrNL1BTyriF9uAaycgJy) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Spaz&B](https://open.spotify.com/album/4o9KIv44CjPEH7qFFmeWzL) | 3:11 | 2023-01-07 | 2023-04-12 |
+| [VRGCRA](https://open.spotify.com/track/0b7azY2RKZWzYStlCui40W) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [VRGCRA](https://open.spotify.com/album/1ZpLpDdS8bX7Yd8ARkDfTx) | 3:58 | 2025-12-10 |  |
 | [Waiting On](https://open.spotify.com/track/52G884AKvTAgtfyNxZ4i2F) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Watch My Back](https://open.spotify.com/album/45PaEwQodQtfw2nElzigDl) | 2:21 | 2022-07-31 | 2023-05-09 |
 | [Wake Up](https://open.spotify.com/track/5rfMpJorQrwpvCOfDM7Q5L) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Wake Up](https://open.spotify.com/album/0A94MKet60d5HhzN0vSGDm) | 1:52 | 2023-04-05 | 2025-05-21 |
 | [Walk On By](https://open.spotify.com/track/6fkL9CjWmjeV6vfDxTp9OZ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:19 | 2024-05-23 | 2025-05-21 |

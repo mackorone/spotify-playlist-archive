@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Kerr Mercer
 
-976 songs - 2 day 4 hr 30 min
+977 songs - 2 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [can't hate you yet](https://open.spotify.com/track/17fVCW5DPU4NEu2Vi3tZgs) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [can't hate you yet](https://open.spotify.com/album/3H6H7AUxvALYsd2bNfJ5oP) | 3:22 | 2022-02-25 | 2022-04-29 |
 | [Canada](https://open.spotify.com/track/7z5riBToXE2PBrdiAxQMdX) | [Emmeline Gracie](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [Canada](https://open.spotify.com/album/0zcyks6yhT0hcLkq0bejgV) | 3:10 | 2022-12-16 | 2023-03-04 |
 | [cape cod](https://open.spotify.com/track/6WtjO8jDFxMRiixTCKbHyF) | [Eva Snyder](https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l) | [cape cod](https://open.spotify.com/album/5T8mQXWW0lTpfy4M9diWU1) | 3:00 | 2024-04-05 | 2024-07-02 |
+| [car crash](https://open.spotify.com/track/11f2oFUNl44UmzZj7L9oIw) | [Hailey Picardi](https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI) | [car crash](https://open.spotify.com/album/38qsz6r3RdHiTt4gy93E9W) | 3:01 | 2025-12-09 |  |
 | [Caravan](https://open.spotify.com/track/41D6o74AzOBpD4jQwRZ2ZF) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Caravan](https://open.spotify.com/album/2CxyxiA6HrYIz3T0wdNfrb) | 3:04 | 2022-10-21 | 2022-12-24 |
 | [care about myself](https://open.spotify.com/track/3h0Ra5sOoapITBY6ITu1Bj) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [care about myself](https://open.spotify.com/album/3rDD0N2D53PiE63ssbQJNJ) | 3:15 | 2023-08-11 | 2023-12-14 |
 | [Carolina](https://open.spotify.com/track/0yoVKmMKSVCU7tY3R2sO1S) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8) | [Carolina](https://open.spotify.com/album/1nX7BDlyLkRSLzeXX3E89I) | 4:00 | 2024-03-22 | 2024-07-02 |
@@ -616,7 +617,7 @@
 | [NEED ME](https://open.spotify.com/track/2M0Mh2R2GPAOAVYnXVjSFR) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [NEED ME](https://open.spotify.com/album/4LEWE31MV5QuWP9F0qxOus) | 3:43 | 2024-05-24 | 2024-08-03 |
 | [Never Had a Chance](https://open.spotify.com/track/7kWHoZvIn3TzxUHYrszYFc) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Never Had a Chance](https://open.spotify.com/album/5td0jzs96pRarCswOchXN8) | 2:25 | 2022-04-08 | 2022-06-23 |
 | [Never Knew](https://open.spotify.com/track/00yBeMYfB9QGKN1GdvtBqQ) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Never Knew](https://open.spotify.com/album/0QJBhVPWMLTwLu3tOMDTuP) | 2:42 | 2024-11-01 | 2025-04-05 |
-| [Never Notice](https://open.spotify.com/track/6BhMpYkmpy00MYwDCN9ZZh) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Never Notice](https://open.spotify.com/album/6oJBrLiT1DwzeDmGcpeIGE) | 3:58 | 2025-08-01 |  |
+| [Never Notice](https://open.spotify.com/track/6BhMpYkmpy00MYwDCN9ZZh) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Never Notice](https://open.spotify.com/album/6oJBrLiT1DwzeDmGcpeIGE) | 3:58 | 2025-08-01 | 2025-12-10 |
 | [Never Rains in London](https://open.spotify.com/track/79dary3nhptdWjD33KnHLg) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Never Rains in London](https://open.spotify.com/album/5pNPyd0822zHgeSXCEQfaB) | 2:22 | 2025-04-25 | 2025-06-07 |
 | [New Friend](https://open.spotify.com/track/6ypdHshYFvRKxwvk3gV2TC) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [NEVER REALLY THE END](https://open.spotify.com/album/0m8rinQENV3VFp8fud5gaD) | 3:38 | 2023-11-24 | 2024-04-06 |
 | [New Name to Heartbreak](https://open.spotify.com/track/65AxjXcLId94KrLHXAU0Kb) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [New Name to Heartbreak](https://open.spotify.com/album/5WK6X2lUucPMPm6IfIGM0i) | 3:34 | 2023-06-12 | 2023-11-11 |
@@ -761,7 +762,7 @@
 | [Skin](https://open.spotify.com/track/3Jeo5LzCcMBtdFlp1FqpsN) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Skin](https://open.spotify.com/album/3l3z8fcI2FMAcCMq1wcd3E) | 3:35 | 2024-01-19 | 2024-07-06 |
 | [Sky Up](https://open.spotify.com/track/7zHWEEujRkOoFIACmVZLmG) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Sky Up](https://open.spotify.com/album/17URfXjuXdGaAYw7ecG8M9) | 3:36 | 2024-01-19 | 2024-08-17 |
 | [Skylight](https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Skylight](https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY) | 4:00 | 2022-01-14 | 2022-04-02 |
-| [Sleeping With The Lights On](https://open.spotify.com/track/0ptbrvIaXF5krSn50iZBku) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Sleeping With The Lights On](https://open.spotify.com/album/64wiC01wUZZ9qLMEHKAK3D) | 4:59 | 2025-09-26 |  |
+| [Sleeping with the Lights On](https://open.spotify.com/track/0ptbrvIaXF5krSn50iZBku) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Sleeping with the Lights On](https://open.spotify.com/album/64wiC01wUZZ9qLMEHKAK3D) | 4:59 | 2025-09-26 |  |
 | [Sleepy](https://open.spotify.com/track/1uw7DIRDt68BtoYhavfRca) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Sleepy](https://open.spotify.com/album/1UtBW3nzfD7d7Qt4Hsm1YQ) | 3:08 | 2022-09-09 | 2022-11-12 |
 | [Sleepy](https://open.spotify.com/track/7nptwLaDkBczF70AjSaVmc) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Survive My Own Mind](https://open.spotify.com/album/1ywqaWYRgovlH12fhAFdpN) | 3:08 | 2022-09-09 | 2022-12-24 |
 | [Slow Burn](https://open.spotify.com/track/4W0TNEgP0qfw6FLLrCcax9) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Slow Burn](https://open.spotify.com/album/2EUxbbzuYVDMdVF855Dayl) | 3:18 | 2023-04-07 | 2024-03-23 |

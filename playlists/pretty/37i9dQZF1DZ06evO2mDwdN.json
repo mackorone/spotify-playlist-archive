@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Melvin & The Blue Notes. The essential tracks, all in one playlist.",
-  "num_followers": 13880,
+  "num_followers": 13882,
   "original_name": "This Is Harold Melvin & The Blue Notes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTTDgAAAAADEoFADyWY1viJtIPq/1hSf",
+  "snapshot_id": "aTYVAAAAAACQwYgAiq5s9aP3rB/6j1OS",
   "tracks": [
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 266106,
-      "name": "Reaching For The World",
-      "url": "https://open.spotify.com/track/5ydD69Y6DBBu6VFJmsu4BB"
+      "duration_ms": 285666,
+      "name": "After You Love Me, Why Do You Leave Me",
+      "url": "https://open.spotify.com/track/5H2LSOqGNgfcD8DRjeWTrZ"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
       "duration_ms": 361093,
       "name": "Prayin'",
       "url": "https://open.spotify.com/track/0kb9n9G3MF476lGb1JX0h6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soul Love: 25 Gorgeous Tracks for Lovers, Vol. 3",
+        "url": "https://open.spotify.com/album/12yI3cMMv8UNjyFzA5HoUG"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 178218,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/16gkC288NMzIlhEp1YxXjl"
     },
     {
       "added_at": null,
@@ -711,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul Love: 25 Gorgeous Tracks for Lovers, Vol. 3",
-        "url": "https://open.spotify.com/album/12yI3cMMv8UNjyFzA5HoUG"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 178218,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/16gkC288NMzIlhEp1YxXjl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
         "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
       },
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 285666,
-      "name": "After You Love Me, Why Do You Leave Me",
-      "url": "https://open.spotify.com/track/5H2LSOqGNgfcD8DRjeWTrZ"
+      "duration_ms": 266106,
+      "name": "Reaching For The World",
+      "url": "https://open.spotify.com/track/5ydD69Y6DBBu6VFJmsu4BB"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To Back With Love",
-        "url": "https://open.spotify.com/album/2rhLXj1XHT6GBssORJqzRk"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 158360,
-      "name": "Get Ready",
-      "url": "https://open.spotify.com/track/2NTixSlpJYRvcIngMbI6jm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 89091,
       "name": "The Intruders Medley Introduction - Live",
       "url": "https://open.spotify.com/track/1fmmjBUc9UHPl5x0YrtLBZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To Back With Love",
+        "url": "https://open.spotify.com/album/2rhLXj1XHT6GBssORJqzRk"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 158360,
+      "name": "Get Ready",
+      "url": "https://open.spotify.com/track/2NTixSlpJYRvcIngMbI6jm"
     },
     {
       "added_at": null,
@@ -899,22 +899,6 @@
       "duration_ms": 352786,
       "name": "Your Love Is Taking Me On A Journey",
       "url": "https://open.spotify.com/track/2T1vZFc8djOcjh59IkyPPY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cooler Than Ice: Arctic Records and the Rise of Philly Soul",
-        "url": "https://open.spotify.com/album/5A6zOGYJ1Ja1SAZAGJfdWv"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 182693,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/1Q64Qh16VXUDPOyMNVFb71"
     },
     {
       "added_at": null,
@@ -955,6 +939,22 @@
       "duration_ms": 212551,
       "name": "For the Love of Money",
       "url": "https://open.spotify.com/track/6fEyeDyZC9QE2aO7HcGuZN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cooler Than Ice: Arctic Records and the Rise of Philly Soul",
+        "url": "https://open.spotify.com/album/5A6zOGYJ1Ja1SAZAGJfdWv"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 182693,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1Q64Qh16VXUDPOyMNVFb71"
     }
   ],
   "unique_name": "This Is Harold Melvin & The Blue Notes",

@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1098049,
+  "num_followers": 1097911,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Nina Cried Power - EP",
         "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 300706,
       "name": "Shrike",
       "url": "https://open.spotify.com/track/5uIYONgpUQ7t0v7D6CTMBt"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Oh Ohio",
-        "url": "https://open.spotify.com/album/7hXB5KdtSNNwns8lMyjkY5"
-      },
-      "artists": [
-        {
-          "name": "Luke Grimes",
-          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
-        }
-      ],
-      "duration_ms": 178106,
-      "name": "Oh Ohio",
-      "url": "https://open.spotify.com/track/7C6J0ZRMJnkpU3T4XPBUOl"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Strawberry",
         "url": "https://open.spotify.com/album/2YnTYD0KOo8XrAQJTjnyQy"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 189200,
       "name": "Strawberry",
       "url": "https://open.spotify.com/track/0VB2DbuUCBkDuD5ZMJxPJN"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Oh Ohio",
+        "url": "https://open.spotify.com/album/7hXB5KdtSNNwns8lMyjkY5"
+      },
+      "artists": [
+        {
+          "name": "Luke Grimes",
+          "url": "https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y"
+        }
+      ],
+      "duration_ms": 178106,
+      "name": "Oh Ohio",
+      "url": "https://open.spotify.com/track/7C6J0ZRMJnkpU3T4XPBUOl"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Lonelier Together",
-        "url": "https://open.spotify.com/album/3DpUSzJn3TcSDBGyTHxnoW"
-      },
-      "artists": [
-        {
-          "name": "Paper Planes",
-          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
-        }
-      ],
-      "duration_ms": 105300,
-      "name": "Lonelier Together",
-      "url": "https://open.spotify.com/track/3fAWcqhon7NaKQc7f7bl4V"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Optimism",
         "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 119372,
       "name": "Optimism",
       "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Lonelier Together",
+        "url": "https://open.spotify.com/album/3DpUSzJn3TcSDBGyTHxnoW"
+      },
+      "artists": [
+        {
+          "name": "Paper Planes",
+          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
+        }
+      ],
+      "duration_ms": 105300,
+      "name": "Lonelier Together",
+      "url": "https://open.spotify.com/track/3fAWcqhon7NaKQc7f7bl4V"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Oh Mama Won't You Write Me",
-        "url": "https://open.spotify.com/album/2DJxAEeSLkLJexjmdPDpja"
-      },
-      "artists": [
-        {
-          "name": "Oliver Hazard",
-          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
-        }
-      ],
-      "duration_ms": 181186,
-      "name": "Oh Mama Won't You Write Me",
-      "url": "https://open.spotify.com/track/0Q7g49HqCHs3Se4F1lo4Cg"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Same History, New Feelings",
         "url": "https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9"
       },
@@ -1207,18 +1191,34 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "New Girl",
-        "url": "https://open.spotify.com/album/2CgSadfSWTw2Sbv2ZA4QlK"
+        "name": "Oh Mama Won't You Write Me",
+        "url": "https://open.spotify.com/album/2DJxAEeSLkLJexjmdPDpja"
       },
       "artists": [
         {
-          "name": "Jamie Drake",
-          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
         }
       ],
-      "duration_ms": 224986,
-      "name": "Is There Something Wrong With Me?",
-      "url": "https://open.spotify.com/track/5lu2iqVrNKMcJxQGk7BYyi"
+      "duration_ms": 181186,
+      "name": "Oh Mama Won't You Write Me",
+      "url": "https://open.spotify.com/track/0Q7g49HqCHs3Se4F1lo4Cg"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Venus Copper Rose",
+        "url": "https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95"
+      },
+      "artists": [
+        {
+          "name": "Aiden Ayers",
+          "url": "https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2"
+        }
+      ],
+      "duration_ms": 181438,
+      "name": "Here If You Want Me",
+      "url": "https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Venus Copper Rose",
-        "url": "https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95"
+        "name": "New Girl",
+        "url": "https://open.spotify.com/album/2CgSadfSWTw2Sbv2ZA4QlK"
       },
       "artists": [
         {
-          "name": "Aiden Ayers",
-          "url": "https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2"
+          "name": "Jamie Drake",
+          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
         }
       ],
-      "duration_ms": 181438,
-      "name": "Here If You Want Me",
-      "url": "https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE"
+      "duration_ms": 224986,
+      "name": "Is There Something Wrong With Me?",
+      "url": "https://open.spotify.com/track/5lu2iqVrNKMcJxQGk7BYyi"
     }
   ],
   "unique_name": "Morning Acoustic",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste releases Hollands & Volks\. Cover: Donnie, Sven Versteeg & LA$$A
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,832 likes - 76 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,826 likes - 76 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

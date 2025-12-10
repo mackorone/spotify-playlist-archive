@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Utsavi Jha, Parvaaz, and other exciting artists.
 
-1,258 songs - 2 day 20 hr 58 min
+1,259 songs - 2 day 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,6 +460,7 @@
 | [Izhaar](https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Izhaar](https://open.spotify.com/album/2OoFPcpsGZCz8e8EHpZZsJ) | 3:52 | 2023-06-30 | 2023-08-11 |
 | [I’m Done.](https://open.spotify.com/track/7F9ZukSREowSoIQ2tB6HAm) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Mazaak](https://open.spotify.com/artist/01qn9kID2owHtQLAjKnQuz) | [I’m Done.](https://open.spotify.com/album/63D8vNTMTe5xJ2QXXqg0hT) | 2:28 | 2025-09-19 | 2025-11-01 |
 | [Ja Tujhko 2.0](https://open.spotify.com/track/0k9lmwQjlw3Fe73yMzUnRV) | [Deepak Rathore Project](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Ja Tujhko 2.0](https://open.spotify.com/album/1g4i8uacpNI8e79YY7NhHG) | 3:56 | 2024-06-14 | 2024-08-03 |
+| [Jaa Tujhe Ishq Ho](https://open.spotify.com/track/3nsJy2UpjJyo14sqcbgJGH) | [Snehdeep Singh Kalsi](https://open.spotify.com/artist/5aFZ2WlD4ry5rc20mXTOa9), [Siddhant Kaushal](https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ) | [Jaa Tujhe Ishq Ho](https://open.spotify.com/album/1nf3Grd82k3UdU7Mh9BnCt) | 3:10 | 2025-12-05 |  |
 | [Jaadoo](https://open.spotify.com/track/3ZHmiuKzbaOV347H4dFt7t) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Jaadoo](https://open.spotify.com/album/30nLQdatACyFiqwP9B9V2B) | 3:50 | 2024-07-26 | 2024-08-31 |
 | [Jaadu Tera](https://open.spotify.com/track/6mk1Jm7UgHV3tlz4jWRqg9) | [Rishi Kumar](https://open.spotify.com/artist/3F5SVEzUMD5JVZ0K9Q4XZW), [Shriya Jain](https://open.spotify.com/artist/0c387MWgOTvHKXGmulrUtZ), [Anshul Mathur](https://open.spotify.com/artist/6DU9rNtAevlHMYBNnkI2LX) | [Jaadu Tera](https://open.spotify.com/album/1vOHf5Sn6FTdOgBPtox5r3) | 4:13 | 2025-01-24 | 2025-02-17 |
 | [Jaadu Tone](https://open.spotify.com/track/1YCT4RaXdXtqqb4AjBZOc2) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Jaadu Tone](https://open.spotify.com/album/14pKF36OH8TQpzRAi6HhRi) | 3:26 | 2024-01-19 | 2024-06-22 |
@@ -729,7 +730,7 @@
 | [Marammat](https://open.spotify.com/track/6fHNMaNAoP9D9KVp30CtGL) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Marammat](https://open.spotify.com/album/4QIFTipmqIvkyihm5jrVKF) | 3:16 | 2025-10-10 | 2025-11-28 |
 | [Marammatein](https://open.spotify.com/track/5IvcYdbyPCoFocOu5hoZyN) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX), [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [Marammatein](https://open.spotify.com/album/3fNUyCBvpJXAINIrKEPFWb) | 3:51 | 2025-11-14 |  |
 | [Marham](https://open.spotify.com/track/0mEW7o45RFQiz8H3dN9tXB) | [Piyush Bhisekar](https://open.spotify.com/artist/3HUf0l1HSBzHw0F5UhBOpA) | [Marham](https://open.spotify.com/album/6k1zkKFbiA2M9DEA0vdHsp) | 3:24 | 2023-04-14 | 2023-05-20 |
-| [MARYO \(feat\. Mahira Sharma\)](https://open.spotify.com/track/66Ld3SCNj8BwkPpDkszkPr) | [Noor Mohammad](https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG), [Shikha Joshi](https://open.spotify.com/artist/7aiEauo7tSnrEgxTjIQh0E), [Dixit Seth](https://open.spotify.com/artist/2vKDhoyeBijAcWJzSiOny4), [Mahira Sharma](https://open.spotify.com/artist/0o5cnfOKpV0THKVRD0HwBO) | [MARYO \(feat\. Mahira Sharma\)](https://open.spotify.com/album/7nW43VAJT5sQyunJeKblre) | 3:27 | 2025-11-07 |  |
+| [MARYO \(feat\. Mahira Sharma\)](https://open.spotify.com/track/66Ld3SCNj8BwkPpDkszkPr) | [Noor Mohammad](https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG), [Shikha Joshi](https://open.spotify.com/artist/7aiEauo7tSnrEgxTjIQh0E), [Dixit Seth](https://open.spotify.com/artist/2vKDhoyeBijAcWJzSiOny4), [Mahira Sharma](https://open.spotify.com/artist/0o5cnfOKpV0THKVRD0HwBO) | [MARYO \(feat\. Mahira Sharma\)](https://open.spotify.com/album/7nW43VAJT5sQyunJeKblre) | 3:27 | 2025-11-07 | 2025-12-10 |
 | [Mashhoor Banegi \(Acoustic\)](https://open.spotify.com/track/1t0ZUIee2xJubPCjHbE5A7) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Mashhoor Banegi \(Acoustic\)](https://open.spotify.com/album/6JDVNb8vVMRHN5nARS6fuk) | 3:53 | 2023-08-11 | 2023-09-16 |
 | [Matcha](https://open.spotify.com/track/2YvtNkRSU8Lo5wdAUwWmQ5) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [Matcha](https://open.spotify.com/album/6u0bjnnWin6RsvejsvfxFz) | 2:19 | 2025-08-08 | 2025-09-28 |
 | [Matware Naina](https://open.spotify.com/track/2OK1axidCBd7f6ivZOSqtR) | [Chandan Jaiswal](https://open.spotify.com/artist/1obJ1FQ9IMW1WPs1EzRWZC), [Vishal Pande](https://open.spotify.com/artist/579y8QAT8i0Tr5G2D4kuN3), [Chirag Soni](https://open.spotify.com/artist/3UMC3IINcoIuI0GeNb6Jm3) | [Matware Naina](https://open.spotify.com/album/6WUjtkqOYr37f46DK7QlPV) | 4:11 | 2025-10-17 | 2025-11-30 |

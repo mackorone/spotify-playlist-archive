@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Ramma
 
-487 songs - 1 day 0 hr 13 min
+488 songs - 1 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [CARENCIAS DE CORDURA](https://open.spotify.com/track/6QCTo3BaEdkEp0BbbNCVIt) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 2:58 | 2024-01-12 | 2024-04-19 |
 | [CARITA TRISTE](https://open.spotify.com/track/2mYlSgPvC5Np4mDg9DU5Mc) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [CARITA TRISTE](https://open.spotify.com/album/6TRRRmLdBwtELfN4EYeYSM) | 2:55 | 2024-09-06 |  |
 | [Cero Drama](https://open.spotify.com/track/3KcW43MMou5dhTKMd6mdzg) | [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz) | [Cero Drama](https://open.spotify.com/album/5eEDf3AavlpMFoQrpnkgPV) | 3:18 | 2023-07-07 | 2023-07-29 |
+| [CHIKA HIPPIE](https://open.spotify.com/track/45ib6YOsvuza6oIgt7r5d8) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [CHIKA HIPPIE](https://open.spotify.com/album/0RuXEY51QnPg4iqZBo886a) | 2:25 | 2025-12-09 |  |
 | [Choca Mi Cintura](https://open.spotify.com/track/6ExLrjegzgNt2X5C3T7snD) | [Valen Etchegoyen](https://open.spotify.com/artist/68605Nj80pgfMzs2fr8fZs) | [Choca Mi Cintura](https://open.spotify.com/album/4vkbL3ruWwrbq9PE3bbWOL) | 3:08 | 2023-05-19 | 2023-12-16 |
 | [Cicatriz](https://open.spotify.com/track/607ScJybcVBFgZVuMzMX5d) | [Franco Masini](https://open.spotify.com/artist/1HJiJRWmiSoFDZxXv6Evmy) | [Cicatriz](https://open.spotify.com/album/2pIpGjq3hC3yCPxVHKmJ2W) | 3:43 | 2024-12-26 | 2025-01-18 |
 | [Ciudad de Papel](https://open.spotify.com/track/3SOCd6DbOjtmTP5xpDXWcp) | [TULI](https://open.spotify.com/artist/0ZONTh5kX91I8H6sa8QOlZ) | [Ciudad de Papel](https://open.spotify.com/album/4VaQYHH2pdK5Wou2kfWHFQ) | 2:05 | 2024-12-06 |  |
@@ -435,7 +436,7 @@
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2023-05-12 | 2023-06-02 |
 | [Te Mentiría Remix](https://open.spotify.com/track/1txrFHh4XUU3Kp8HcD2TFW) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Te Mentiría Remix](https://open.spotify.com/album/750Blgh3jZlXqAep5wlH8K) | 2:52 | 2023-05-12 | 2024-08-31 |
 | [Te Soñaba](https://open.spotify.com/track/5jhCXVjJEsmmJys48FEDIE) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Salvando las Distancias](https://open.spotify.com/album/2yM2f1BwK5B1xS1KugaqEt) | 3:55 | 2024-07-26 | 2024-08-24 |
-| [TE VAS](https://open.spotify.com/track/1J868sD7TtSKoBB1lPaHyU) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TE VAS](https://open.spotify.com/album/4oQ2WbEUwbNqaKvzDbxnp6) | 2:47 | 2024-12-06 |  |
+| [TE VAS](https://open.spotify.com/track/1J868sD7TtSKoBB1lPaHyU) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TE VAS](https://open.spotify.com/album/4oQ2WbEUwbNqaKvzDbxnp6) | 2:47 | 2024-12-06 | 2025-12-10 |
 | [tenerte otra vez](https://open.spotify.com/track/2qp42faU1rEKhsbTxn82aL) | [Ambik](https://open.spotify.com/artist/4QIM495B5wWD9B24Fsi4aR) | [origen](https://open.spotify.com/album/1ANcYaz96YLqD2IPZjQ7Pe) | 2:54 | 2024-08-30 | 2024-11-30 |
 | [TENGO CELOS](https://open.spotify.com/track/5lwPKH5nmro0uXGs8PiAQq) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 3:31 | 2025-07-18 |  |
 | [Tenso](https://open.spotify.com/track/6qjVwfPtN73Rj7vSAaAuF2) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:50 | 2023-05-12 | 2023-06-02 |

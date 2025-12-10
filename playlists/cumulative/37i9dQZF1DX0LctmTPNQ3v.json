@@ -2101,6 +2101,24 @@
     },
     {
       "album": {
+        "name": "An Offworld Christmas",
+        "url": "https://open.spotify.com/album/0vU3icj1Tp2wEdVx8evTid"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276139,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/0WSxYElilhXHAnTQDXkMPY"
+    },
+    {
+      "album": {
         "name": "We Wish You A Metal Xmas And A Headbanging New Year",
         "url": "https://open.spotify.com/album/6toBzQcCJouEJxa8Bcsutn"
       },
@@ -2200,7 +2218,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 251013,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/27E9OCdEHTQgCXWgyGKPHs"

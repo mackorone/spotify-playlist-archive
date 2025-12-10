@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 133215,
+  "num_followers": 133225,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTTDgAAAAAClFpHayu9kJ/lIRb8CKSqY",
+  "snapshot_id": "aTYVAAAAAABIGccPjBWvv3S9yw/o3MeE",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 163800,
-      "name": "Little Queenie",
-      "url": "https://open.spotify.com/track/0OA0lBeSRzpXyAbv8iTXw6"
+      "duration_ms": 168600,
+      "name": "Carol",
+      "url": "https://open.spotify.com/track/41ADUIxv4MkkWi7kgaZMrH"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 168600,
-      "name": "Carol",
-      "url": "https://open.spotify.com/track/41ADUIxv4MkkWi7kgaZMrH"
+      "duration_ms": 163800,
+      "name": "Little Queenie",
+      "url": "https://open.spotify.com/track/0OA0lBeSRzpXyAbv8iTXw6"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Tulane",
+      "url": "https://open.spotify.com/track/5L5RO8srDgDnWcAAy2v5Br"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hail! Hail! Rock 'N' Roll",
         "url": "https://open.spotify.com/album/3vbjfGvgC1nMGmpBPdDuOV"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 314133,
       "name": "Wee Wee Hours",
       "url": "https://open.spotify.com/track/2Fv6Dka7LJKU6U5X1cMTzC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Tulane",
-      "url": "https://open.spotify.com/track/5L5RO8srDgDnWcAAy2v5Br"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry In London",
-        "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 109466,
-      "name": "Dear Dad - Single Version",
-      "url": "https://open.spotify.com/track/6b27e8J1dUre0H9xBM9rvs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 178106,
       "name": "Go Bobby Soxer",
       "url": "https://open.spotify.com/track/4thIUA9RxwUcsjiUVo33Lt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck Berry In London",
+        "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 109466,
+      "name": "Dear Dad - Single Version",
+      "url": "https://open.spotify.com/track/6b27e8J1dUre0H9xBM9rvs"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockin' At The Hops",
-        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 132973,
-      "name": "I Got To Find My Baby - Single Version",
-      "url": "https://open.spotify.com/track/5qojkHvPBrbT0Z7SAgYboD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 155933,
       "name": "Little Marie",
       "url": "https://open.spotify.com/track/3Hh5o5GUOveghI5l7DrvgT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 132973,
+      "name": "I Got To Find My Baby - Single Version",
+      "url": "https://open.spotify.com/track/5qojkHvPBrbT0Z7SAgYboD"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockin' At The Hops",
-        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 130506,
-      "name": "Down The Road Apiece",
-      "url": "https://open.spotify.com/track/40CEDufMDlElkfyBvWUtsE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 129840,
       "name": "You Two",
       "url": "https://open.spotify.com/track/3TuiKidTSxOK2bk9RPhrpN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 130506,
+      "name": "Down The Road Apiece",
+      "url": "https://open.spotify.com/track/40CEDufMDlElkfyBvWUtsE"
     },
     {
       "added_at": null,

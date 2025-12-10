@@ -4,7 +4,7 @@
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: Valentina Pesaresi
 
-924 songs - 1 day 18 hr 50 min
+925 songs - 1 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -690,6 +690,7 @@
 | [Ragazzo della Strada](https://open.spotify.com/track/7H4vsL5F8Mm9farf0eoI1M) | [CIL](https://open.spotify.com/artist/6mt0m8Ugh2vjYBbMJEo5PJ) | [Ragazzo della Strada](https://open.spotify.com/album/6dYPYBzXNlTWGjS0H8a25B) | 2:28 | 2025-05-29 | 2025-07-04 |
 | [RAGNI](https://open.spotify.com/track/6gG5KFelSmKSUqXDDQg9sy) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [RAGNI](https://open.spotify.com/album/2Pwn1hhncY4xdd7auQ5J4C) | 3:30 | 2024-09-05 | 2025-01-17 |
 | [RANDAGI](https://open.spotify.com/track/1nELZxAVX7ibdrXxYcc4Pj) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [RANDAGI](https://open.spotify.com/album/4WmwbD0f9GLDMU55MFWeo3) | 3:17 | 2024-04-29 | 2024-07-12 |
+| [RAVE, ECLISSI](https://open.spotify.com/track/0GuO6UjrzW2F0d2z0aOjmV) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [RAVE, ECLISSI](https://open.spotify.com/album/0FfVgNTW9aFaHOYAzerA7I) | 2:57 | 2025-12-09 |  |
 | [RED](https://open.spotify.com/track/0jwm30oXN08kVO9JwqrCPL) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [RED](https://open.spotify.com/album/2Ddi22NvLWIP9MUAYqEil5) | 2:14 | 2024-01-26 | 2024-02-02 |
 | [RELAX](https://open.spotify.com/track/5onR9s5xFHJMovlUECcSyS) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [RELAX](https://open.spotify.com/album/2FjLBW7Ms9y0xi81Ox9zWL) | 2:49 | 2025-05-05 |  |
 | [REPLAY](https://open.spotify.com/track/5pz1YEoos6C9R2CNOTGjcx) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [REPLAY](https://open.spotify.com/album/5dm3wk4h6JCZzM46lImPIP) | 2:07 | 2025-11-27 |  |

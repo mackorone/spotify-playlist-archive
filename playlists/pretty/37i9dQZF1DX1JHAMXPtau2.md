@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JHAMXPtau2.md) - [plain]
 
 > Soft and cozy piano versions of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,580 likes - 44 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,748 likes - 44 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JHAMXPtau2.md) - [plain]
 | 43 | [Mistletoe And Holly](https://open.spotify.com/track/2OjTp7q83SklIUofXCUCkw) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [Mistletoe And Holly](https://open.spotify.com/album/5ztjBlyljz0moqCJchdo0a) | 3:01 |
 | 44 | [O Come All Ye Faithful \(Bornlöf Piano Version\)](https://open.spotify.com/track/2xHCs5TFxAmOCo3lR6r7D3) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Christmas Cheer](https://open.spotify.com/album/4YT1l7sAjsWq86iZLyEef0) | 2:41 |
 
-Snapshot ID: `AAAAAPu4El71xwW+dktMukzTJrL+tkcC`
+Snapshot ID: `AAAAACeYl9Bkl/k57+lxyFznblUUyzor`

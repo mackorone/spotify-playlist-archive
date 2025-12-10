@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 107922,
+  "num_followers": 107941,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
+        "name": "Petite Amie (Edition D\u00e9lice)",
+        "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "duration_ms": 186026,
+      "name": "Manque d'Amour",
+      "url": "https://open.spotify.com/track/3AtdizIe78tjWmbyZbgIoV"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
         "name": "Singles Collection (2001 - 2021)",
         "url": "https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 292840,
       "name": "Le grand secret (feat. Melissa Auf der Maur) - Les pianos voix",
       "url": "https://open.spotify.com/track/5X5xWnr5e7bDpfIXqipcBw"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
-        "name": "Petite Amie (Edition D\u00e9lice)",
-        "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
-      },
-      "artists": [
-        {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
-        }
-      ],
-      "duration_ms": 186026,
-      "name": "Manque d'Amour",
-      "url": "https://open.spotify.com/track/3AtdizIe78tjWmbyZbgIoV"
     },
     {
       "added_at": "2024-10-03 14:22:43",

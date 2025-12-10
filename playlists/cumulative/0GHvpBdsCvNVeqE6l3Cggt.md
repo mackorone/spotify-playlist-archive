@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-59 songs - 3 hr 36 min
+61 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Motorcycle Emptiness](https://open.spotify.com/track/5ibELGcXGqX5x9TWFeNPxY) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Forever Delayed](https://open.spotify.com/album/17n0hrkbvXosApi3q1ANiv) | 5:05 | 2021-03-29 |  |
 | [Only You](https://open.spotify.com/track/3B6AKdVGauMT11fwUWJ8Ga) | [Kaðlín](https://open.spotify.com/artist/30QneQaLsKZZ5pLoRNg1TZ) | [Only You](https://open.spotify.com/album/6Lly4v5CpIs8zsDxS1iqlk) | 1:02 | 2025-12-01 |  |
 | [Panorama](https://open.spotify.com/track/2ujuuoIQYTGRuHi21rHsq4) | [Angeliferous](https://open.spotify.com/artist/0q79XPF0tihxxHMKKRr6qg) | [Rotation](https://open.spotify.com/album/28RHd7GLjkq20xYnll14Sf) | 2:48 | 2025-10-13 |  |
+| [People Run Dry](https://open.spotify.com/track/66lBvRguoKVNAIBymIP17G) | [Vinther](https://open.spotify.com/artist/5T6gYcFjSGU9batnL7c4LA) | [People Run Dry](https://open.spotify.com/album/05EJHnYqtEVjtoK9oMkcKe) | 3:13 | 2025-12-09 |  |
 | [Permanent Record](https://open.spotify.com/track/3wP0TrbEyiedBDOdOUkDKT) | [GG Fearn](https://open.spotify.com/artist/1IBnZK5Ccb90mmCETbnWBx) | [Permanent Record](https://open.spotify.com/album/0c2SFBNduNDGXeEd99nT1U) | 3:26 | 2024-07-31 |  |
 | [petals](https://open.spotify.com/track/0GsXXXDp8JNIPHuZ8EpOb7) | [Coleus](https://open.spotify.com/artist/0grvUIIGuaFZQuCyqkGRhC) | [Echoes Of The Unseen](https://open.spotify.com/album/3ScFhqwhhxKJlsTdkzSmOU) | 2:08 | 2025-12-04 |  |
 | [Powder](https://open.spotify.com/track/3OMF3Eq99pNyj7rC4JLsw0) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Archive](https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH) | 2:58 | 2021-11-21 |  |
@@ -56,6 +57,7 @@
 | [Teenage Dirtbag](https://open.spotify.com/track/1w2b6f5Cgwy8ZmKdHUBSiW) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/2c2nyMqKUqDvFmCubBKhuW) | 4:01 | 2021-03-29 |  |
 | [Teus Olhos, Meu Refúgio \- Pop Balada](https://open.spotify.com/track/4MUwRHicTU3bgH6i9zT10F) | [De Santtis](https://open.spotify.com/artist/2HnzHLy6N3v8egi2chpYmN) | [Teus Olhos, Meu Refúgio \- Pop Balada](https://open.spotify.com/album/7dyB0mktazVU8ZnPAr27iK) | 4:07 | 2025-11-13 |  |
 | [The Sun Always Shines on T.V.](https://open.spotify.com/track/0HoaLXRp7jJtdQFunUyUGc) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 5:02 | 2021-07-26 |  |
+| [Therapy](https://open.spotify.com/track/1U1FTBN5znCUUDB3JqKOSK) | [Phoeno](https://open.spotify.com/artist/5KnD9mAsf1y1TYEqpeew7B) | [Therapy](https://open.spotify.com/album/7sNvJT5XBn7EPUqfeyDmtA) | 3:29 | 2025-12-09 |  |
 | [Therefore I Am](https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Therefore I Am](https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM) | 2:54 | 2021-03-29 |  |
 | [Toadstool Fairies](https://open.spotify.com/track/2Vjpi5uwnbtdTNDzbfW3sI) | [Maya Malik](https://open.spotify.com/artist/0Rz4fK9N5rV5Sjsu5RLwtF) | [Toadstool Fairies](https://open.spotify.com/album/3qdgFm8fC6VQxuWYylDUTT) | 3:06 | 2025-11-08 | 2025-11-27 |
 | [Train Tracks](https://open.spotify.com/track/2F772qCRXyHYKvAKTIXXud) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Enchanted](https://open.spotify.com/album/3ClfQCfOsysGWFKSQGN2bt) | 2:24 | 2025-10-13 |  |

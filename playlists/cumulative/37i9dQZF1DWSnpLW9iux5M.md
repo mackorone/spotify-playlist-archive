@@ -4,7 +4,7 @@
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists\. Cover: Yolanda Adams
 
-204 songs - 13 hr 15 min
+205 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/5vSRDbe5QYVeGrug8hFEER) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Christmas with Yolanda Adams](https://open.spotify.com/album/2kIjr53nRxMlB1TRqjBQq5) | 4:07 | 2021-12-24 |  |
 | [It Came Upon the Midnight Clear](https://open.spotify.com/track/4oA28gyvU6PMCH9nAGP2z1) | [Mahalia Jackson](https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB) | [Christmas with Mahalia](https://open.spotify.com/album/0MXMxhg7CR3TMsvlnwWJT0) | 3:24 | 2021-12-24 |  |
 | [It's Christmas Time](https://open.spotify.com/track/5uDhl3gqNb5HcqlgUIJTFk) | [Juanita Bynum](https://open.spotify.com/artist/7s6c1gQXQCakbFxmgKAQDV) | [Christmas at Home with Juanita Bynum](https://open.spotify.com/album/08EkN3rQ57rdy1IoKCR8HN) | 5:03 | 2021-12-24 |  |
-| [It’s Christmas Day](https://open.spotify.com/track/55HGuPjF900qc1E3nTHPzQ) | [Charles Jenkins](https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO) | [A Charles Jenkins Christmas](https://open.spotify.com/album/2cBqPDfPm945PP4fHQ9QDs) | 3:14 | 2021-12-24 |  |
+| [It’s Christmas Day](https://open.spotify.com/track/55HGuPjF900qc1E3nTHPzQ) | [Charles Jenkins](https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO) | [A Charles Jenkins Christmas](https://open.spotify.com/album/2cBqPDfPm945PP4fHQ9QDs) | 3:14 | 2021-12-24 | 2025-12-10 |
 | [I’ll Be Home For Christmas](https://open.spotify.com/track/2pcA8F0cSYeMhXCHqBxBoX) | [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP), [Matt Jones Orchestra](https://open.spotify.com/artist/2lwFaWIs8Nd2COGdxMYeVf) | [A J Holiday](https://open.spotify.com/album/7nYI4O4KW5oXYITzggtu6M) | 3:08 | 2021-12-24 | 2024-11-18 |
 | [I’ll Be Home For Christmas](https://open.spotify.com/track/7LsohUDYAUvnrsuOBgIQBt) | [J\. Moss](https://open.spotify.com/artist/7GOz2zIfLCrlyqQYVCfQtW), [Matt Jones Orchestra](https://open.spotify.com/artist/2lwFaWIs8Nd2COGdxMYeVf) | [A J Holiday](https://open.spotify.com/album/2nt6fN9ycbCmC7HaS5j3W5) | 3:08 | 2023-12-15 | 2024-04-19 |
 | [Jesus Is Love](https://open.spotify.com/track/1zX7Y1MKj9YDewdHvg7npc) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Jesus Is Love](https://open.spotify.com/album/1kaa971feChi4iqs7V2zxD) | 4:21 | 2025-11-22 |  |
@@ -103,6 +103,7 @@
 | [Jesus, Oh What A Wonderful Child](https://open.spotify.com/track/7MF4wDB1bvI0QpOwIrAIuO) | [The Collective](https://open.spotify.com/artist/56erFkbUm1ofjPhm4Klw8R), [Nakitta Foxx](https://open.spotify.com/artist/3O7k7XATIWSxApm2qnj7qd) | [A VGNBae Christmas](https://open.spotify.com/album/0U8IUFHq5HDnMOTpH5HeVj) | 4:41 | 2021-12-24 | 2024-11-18 |
 | [Jingle Bells](https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu) | [Bebe & Cece Winans](https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs) | [First Christmas](https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl) | 4:23 | 2021-12-24 |  |
 | [Jolly Jolly Christmas](https://open.spotify.com/track/3l4g9GZb9uIyjuugmzZ6EU) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [Jolly Jolly Christmas](https://open.spotify.com/album/26oW5OBv0YFbVDhZMmLCM1) | 2:22 | 2024-11-29 |  |
+| [Joy \(Reason\) \- Live Performance](https://open.spotify.com/track/4sm47w4dxRX4FlIu1f8m8L) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Joy \(Reason\) \[Live Performance\]](https://open.spotify.com/album/1rUeVA4CBS7nB7YYvujwRv) | 2:34 | 2025-12-07 |  |
 | [Joy And Peace](https://open.spotify.com/track/36yPEvoCUgx7Ugfzb3iljD) | [Sensere](https://open.spotify.com/artist/5zzH3YutCE1JFaMYYte2Fh), [Adolphus Scottie Scott](https://open.spotify.com/artist/0ypuyNuV9j7t3S31fxC3Wb) | [Joy And Peace](https://open.spotify.com/album/4kQ4Q1seAg2Cxch5dNO9IK) | 3:58 | 2025-11-28 |  |
 | [Joy to the World](https://open.spotify.com/track/5Ta266xo0Lzq5c4Kgm4rot) | [Chicago Mass Choir](https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla) | [Joy to the World](https://open.spotify.com/album/6Uw2K7lvvXSKZkSO8JCreM) | 4:04 | 2022-11-26 |  |
 | [Joy to the World](https://open.spotify.com/track/2Xarvk1Y1pX0PgQEk4jMZU) | [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD), [KeKe Wyatt](https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K) | [Joy to the World](https://open.spotify.com/album/2ei11H4CTrurq6KYKfPwlg) | 3:34 | 2022-11-26 | 2022-12-11 |

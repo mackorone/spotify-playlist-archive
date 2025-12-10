@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 103758,
+  "num_followers": 103785,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTTDgAAAAAAmBUVpmrXXiMsB2UnboSW4",
+  "snapshot_id": "aTYVAAAAAAD2oiNzPevqngwtSiEskDaJ",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Somewhere Over Laredo",
+        "url": "https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Somewhere Over Laredo",
+      "url": "https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "the mockingbird & THE CROW",
         "url": "https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 277659,
       "name": "wait in the truck",
       "url": "https://open.spotify.com/track/6fDlK6P4s3BVMls9EmfCWI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somewhere Over Laredo",
-        "url": "https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Somewhere Over Laredo",
-      "url": "https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU"
     },
     {
       "added_at": null,
@@ -775,18 +775,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tougher",
-        "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/5V12ap591SmtretgcunhiO"
       },
       "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 219760,
-      "name": "Tougher",
-      "url": "https://open.spotify.com/track/0lJhjZ46DHqNbRjBILfnox"
+      "duration_ms": 212175,
+      "name": "Wild Woman - Lainey Wilson Version",
+      "url": "https://open.spotify.com/track/0hdlsXpOCPyDF3NZ0HFSDf"
     },
     {
       "added_at": null,
@@ -823,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tougher",
+        "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "Tougher",
+      "url": "https://open.spotify.com/track/0lJhjZ46DHqNbRjBILfnox"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eagle Feather",
         "url": "https://open.spotify.com/album/2tDf0WYKMWp367Wvrp68WI"
       },
@@ -839,30 +863,6 @@
       "duration_ms": 201653,
       "name": "Feather In My Hat (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/5L2PLY1AYlDHSlGbKFToIZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/5V12ap591SmtretgcunhiO"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 212175,
-      "name": "Wild Woman - Lainey Wilson Version",
-      "url": "https://open.spotify.com/track/0hdlsXpOCPyDF3NZ0HFSDf"
     },
     {
       "added_at": null,

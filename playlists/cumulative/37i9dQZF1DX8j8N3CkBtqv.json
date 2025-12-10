@@ -9473,6 +9473,28 @@
     },
     {
       "album": {
+        "name": "Jaa Tujhe Ishq Ho",
+        "url": "https://open.spotify.com/album/1nf3Grd82k3UdU7Mh9BnCt"
+      },
+      "artists": [
+        {
+          "name": "Snehdeep Singh Kalsi",
+          "url": "https://open.spotify.com/artist/5aFZ2WlD4ry5rc20mXTOa9"
+        },
+        {
+          "name": "Siddhant Kaushal",
+          "url": "https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Jaa Tujhe Ishq Ho",
+      "url": "https://open.spotify.com/track/3nsJy2UpjJyo14sqcbgJGH"
+    },
+    {
+      "album": {
         "name": "Jaadoo",
         "url": "https://open.spotify.com/album/30nLQdatACyFiqwP9B9V2B"
       },
@@ -15162,7 +15184,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 207857,
       "name": "MARYO (feat. Mahira Sharma)",
       "url": "https://open.spotify.com/track/66Ld3SCNj8BwkPpDkszkPr"

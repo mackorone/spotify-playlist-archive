@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Tokyo Ska Paradise Orchestra \n",
-  "num_followers": 65982,
+  "num_followers": 66020,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Frecuencia Rebelde",
-        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
-      },
-      "artists": [
-        {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "Total",
-      "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "It Means Everything",
         "url": "https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 249133,
       "name": "Come on Eileen",
       "url": "https://open.spotify.com/track/4Z4xFENnvMnRDPpAx5wpaO"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "Frecuencia Rebelde",
+        "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "duration_ms": 196093,
+      "name": "Total",
+      "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "All The Moon Stompers",
-        "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "I Wanna Riot",
-      "url": "https://open.spotify.com/track/3prgCqodybVT758HNY2SXW"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "Alles gl\u00e4nzt",
         "url": "https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Frecuencia Extrema",
-        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+        "name": "All The Moon Stompers",
+        "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
       },
       "artists": [
         {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 198373,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
+      "duration_ms": 191666,
+      "name": "I Wanna Riot",
+      "url": "https://open.spotify.com/track/3prgCqodybVT758HNY2SXW"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -903,6 +887,22 @@
       "duration_ms": 225047,
       "name": "Honey",
       "url": "https://open.spotify.com/track/6akeq8bf2ELPuFmAEvLMUY"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "Frecuencia Extrema",
+        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1167,8 +1167,8 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Gr\u00fc\u00dfe ins Neandertal",
-        "url": "https://open.spotify.com/album/4BTJeSbI5IgKeXU0B6Auup"
+        "name": "Endlich auf Reise",
+        "url": "https://open.spotify.com/album/56iStpgUMwWK6rO1WxjlRs"
       },
       "artists": [
         {
@@ -1176,9 +1176,9 @@
           "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
         }
       ],
-      "duration_ms": 106724,
-      "name": "Gr\u00fc\u00dfe ins Neandertal",
-      "url": "https://open.spotify.com/track/0ezLFIbttTjHHlhP7D1uOx"
+      "duration_ms": 179446,
+      "name": "Endlich auf Reise",
+      "url": "https://open.spotify.com/track/6MiKb3SOL9Ieht1bDJAEK9"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1311,8 +1311,8 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Endlich auf Reise",
-        "url": "https://open.spotify.com/album/56iStpgUMwWK6rO1WxjlRs"
+        "name": "Gr\u00fc\u00dfe ins Neandertal",
+        "url": "https://open.spotify.com/album/4BTJeSbI5IgKeXU0B6Auup"
       },
       "artists": [
         {
@@ -1320,9 +1320,9 @@
           "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
         }
       ],
-      "duration_ms": 179446,
-      "name": "Endlich auf Reise",
-      "url": "https://open.spotify.com/track/6MiKb3SOL9Ieht1bDJAEK9"
+      "duration_ms": 106724,
+      "name": "Gr\u00fc\u00dfe ins Neandertal",
+      "url": "https://open.spotify.com/track/0ezLFIbttTjHHlhP7D1uOx"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1339,26 +1339,6 @@
       "duration_ms": 164333,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5YY4YVwf4pOfqARgCRVviB"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
-        "name": "Leven Het Groots",
-        "url": "https://open.spotify.com/album/2a0OmGXhmN3U0GN8BKP6by"
-      },
-      "artists": [
-        {
-          "name": "Shary-An",
-          "url": "https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc"
-        },
-        {
-          "name": "Kenny B",
-          "url": "https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP"
-        }
-      ],
-      "duration_ms": 151191,
-      "name": "Leven Het Groots",
-      "url": "https://open.spotify.com/track/3WaWlhDgXD8ljeO3dqQd3q"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1395,6 +1375,26 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
+        "name": "Leven Het Groots",
+        "url": "https://open.spotify.com/album/2a0OmGXhmN3U0GN8BKP6by"
+      },
+      "artists": [
+        {
+          "name": "Shary-An",
+          "url": "https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc"
+        },
+        {
+          "name": "Kenny B",
+          "url": "https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP"
+        }
+      ],
+      "duration_ms": 151191,
+      "name": "Leven Het Groots",
+      "url": "https://open.spotify.com/track/3WaWlhDgXD8ljeO3dqQd3q"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
         "name": "Radio Ghetto",
         "url": "https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ"
       },
@@ -1411,22 +1411,18 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
+        "name": "Zombiler",
+        "url": "https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z"
       },
       "artists": [
         {
-          "name": "Los Victorios",
-          "url": "https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj"
-        },
-        {
-          "name": "Banda Bast\u00f3n",
-          "url": "https://open.spotify.com/artist/5VP1mX81Z9JJSioPFTYF5a"
+          "name": "Second",
+          "url": "https://open.spotify.com/artist/0hB4oP2Xs7bmAb3W5dHwsi"
         }
       ],
-      "duration_ms": 197586,
-      "name": "No Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/05oVLw37812S2eoTVetosi"
+      "duration_ms": 206129,
+      "name": "Zombiler",
+      "url": "https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1447,18 +1443,22 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Zombiler",
-        "url": "https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z"
+        "name": "2",
+        "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
       },
       "artists": [
         {
-          "name": "Second",
-          "url": "https://open.spotify.com/artist/0hB4oP2Xs7bmAb3W5dHwsi"
+          "name": "Los Victorios",
+          "url": "https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj"
+        },
+        {
+          "name": "Banda Bast\u00f3n",
+          "url": "https://open.spotify.com/artist/5VP1mX81Z9JJSioPFTYF5a"
         }
       ],
-      "duration_ms": 206129,
-      "name": "Zombiler",
-      "url": "https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz"
+      "duration_ms": 197586,
+      "name": "No Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/05oVLw37812S2eoTVetosi"
     },
     {
       "added_at": "2025-10-03 00:00:35",

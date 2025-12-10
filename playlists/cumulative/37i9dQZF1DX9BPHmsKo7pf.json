@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "CAND VINE NOAPTEA",
+        "url": "https://open.spotify.com/album/7iKCZwND2QWSLmztc5MeJN"
+      },
+      "artists": [
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148453,
+      "name": "CAND VINE NOAPTEA",
+      "url": "https://open.spotify.com/track/6yCcirPq6fJkF1fUlBNvgY"
+    },
+    {
+      "album": {
         "name": "Caraibe",
         "url": "https://open.spotify.com/album/4NCAqlS9ACyWLD2KtpIzwh"
       },
@@ -1292,7 +1310,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-27",
+      "date_removed": null,
       "duration_ms": 161142,
       "name": "C\u00e2t vrei tu",
       "url": "https://open.spotify.com/track/1yEqRiWmIaETc2FRHn7Jnr"
@@ -2420,7 +2438,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 151948,
       "name": "Iarta-ma Mamo",
       "url": "https://open.spotify.com/track/2i0DSjfHPgz3dQUcRbMhag"
@@ -2672,7 +2690,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 146400,
       "name": "Lacrimi din soare",
       "url": "https://open.spotify.com/track/3lO7CADYgSd4OvW3k3UH2M"

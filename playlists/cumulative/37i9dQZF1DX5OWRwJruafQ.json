@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 163125,
       "name": "Badshah",
       "url": "https://open.spotify.com/track/0WaHi9IeuUxIbeQ6Bsmf6N"
@@ -3602,6 +3602,10 @@
         {
           "name": "Navaan Sandhu",
           "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        },
+        {
+          "name": "JayB Singh",
+          "url": "https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM"
         }
       ],
       "date_added": "2025-09-19",
@@ -9092,6 +9096,10 @@
         {
           "name": "Navaan Sandhu",
           "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        },
+        {
+          "name": "JayB Singh",
+          "url": "https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM"
         }
       ],
       "date_added": "2025-09-19",
@@ -13402,6 +13410,28 @@
       "duration_ms": 128575,
       "name": "Sector 17",
       "url": "https://open.spotify.com/track/5nDhWSfgKH6liYo5Bf1PFG"
+    },
+    {
+      "album": {
+        "name": "SEE MY HYPE",
+        "url": "https://open.spotify.com/album/2zPKn5xWgqsKZMA0EICaZj"
+      },
+      "artists": [
+        {
+          "name": "Roop Bhullar",
+          "url": "https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d"
+        },
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188379,
+      "name": "SEE MY HYPE",
+      "url": "https://open.spotify.com/track/3Mm889EIH0Qju0F42xXVGi"
     },
     {
       "album": {

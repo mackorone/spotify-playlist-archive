@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Lover's Skit & Sassy 009 ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,133 likes - 301 songs - 16 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,135 likes - 301 songs - 16 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

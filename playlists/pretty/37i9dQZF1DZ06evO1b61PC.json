@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTTDgAAAAABW+JyXSKorBlUPo9ICQC7V",
+  "snapshot_id": "aTYVAAAAAACoNgRDeqZJmX+V8CMzBU+5",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Your Love",
+        "url": "https://open.spotify.com/album/4EcmsY4avimrHEiYWgJxSD"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 128142,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/54myGd3cApYi3ZSSXseWmr"
+    },
     {
       "added_at": null,
       "album": {
@@ -31,22 +47,6 @@
       "duration_ms": 221478,
       "name": "Moon Rider (feat. Wrabel) - OTR Remix",
       "url": "https://open.spotify.com/track/2dJruelM5pKxBJbiDYGiG0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Your Love",
-        "url": "https://open.spotify.com/album/4EcmsY4avimrHEiYWgJxSD"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 128142,
-      "name": "All Your Love",
-      "url": "https://open.spotify.com/track/54myGd3cApYi3ZSSXseWmr"
     },
     {
       "added_at": null,
@@ -163,62 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "The World Is Ours",
-      "url": "https://open.spotify.com/track/6mJIo03fCz9txSxE1ZhFSR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost (feat. Chelsea Jade)",
-        "url": "https://open.spotify.com/album/4mob4bXDH8B9fBkbesET3C"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Chelsea Jade",
-          "url": "https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO"
-        }
-      ],
-      "duration_ms": 241040,
-      "name": "Lost (feat. Chelsea Jade)",
-      "url": "https://open.spotify.com/track/14ToOTiyJ6nLYNZb2Sa5WR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Dresage",
-          "url": "https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2"
-        }
-      ],
-      "duration_ms": 234986,
-      "name": "Better Apart (feat. Dresage)",
-      "url": "https://open.spotify.com/track/1i9IdiNIgtlBvh9BUGm7Ta"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Look Down (feat. BANKS)",
         "url": "https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu"
       },
@@ -246,15 +190,51 @@
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "JMR",
-          "url": "https://open.spotify.com/artist/5TvAqaxbbxUNnzX11Pt752"
         }
       ],
-      "duration_ms": 228480,
-      "name": "Gravity (feat. JMR)",
-      "url": "https://open.spotify.com/track/4jo8IfDa6WLOlvexEEWLAz"
+      "duration_ms": 222400,
+      "name": "The World Is Ours",
+      "url": "https://open.spotify.com/track/6mJIo03fCz9txSxE1ZhFSR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Dresage",
+          "url": "https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2"
+        }
+      ],
+      "duration_ms": 234986,
+      "name": "Better Apart (feat. Dresage)",
+      "url": "https://open.spotify.com/track/1i9IdiNIgtlBvh9BUGm7Ta"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost (feat. Chelsea Jade)",
+        "url": "https://open.spotify.com/album/4mob4bXDH8B9fBkbesET3C"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Chelsea Jade",
+          "url": "https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO"
+        }
+      ],
+      "duration_ms": 241040,
+      "name": "Lost (feat. Chelsea Jade)",
+      "url": "https://open.spotify.com/track/14ToOTiyJ6nLYNZb2Sa5WR"
     },
     {
       "added_at": null,
@@ -279,6 +259,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "JMR",
+          "url": "https://open.spotify.com/artist/5TvAqaxbbxUNnzX11Pt752"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Gravity (feat. JMR)",
+      "url": "https://open.spotify.com/track/4jo8IfDa6WLOlvexEEWLAz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Cure To Loneliness",
         "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
       },
@@ -291,26 +291,6 @@
       "duration_ms": 229906,
       "name": "Telepathy",
       "url": "https://open.spotify.com/track/4mhlPdtYrrX7J01zWOo52k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6s8hEzxR2gLlkonzqr0nSz"
-      },
-      "artists": [
-        {
-          "name": "GUDFELLA",
-          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
-        },
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/14AEzrlCC5yrrZ9ZjVMYAN"
     },
     {
       "added_at": null,
@@ -331,6 +311,26 @@
       "duration_ms": 318000,
       "name": "Like It's Over (feat. MNDR)",
       "url": "https://open.spotify.com/track/4loZFQtwao4GVquR0dLEiL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6s8hEzxR2gLlkonzqr0nSz"
+      },
+      "artists": [
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/14AEzrlCC5yrrZ9ZjVMYAN"
     },
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Rise (Jai Wolf Remix)",
-        "url": "https://open.spotify.com/album/7IsUiiiwpbZ94J1CMAFNXW"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 188616,
-      "name": "We Rise - Jai Wolf Remix",
-      "url": "https://open.spotify.com/track/3t9m6BZTPVw7ClRSJBQpGs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE] [Demo]",
         "url": "https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 218581,
       "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE] - Demo",
       "url": "https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Rise (Jai Wolf Remix)",
+        "url": "https://open.spotify.com/album/7IsUiiiwpbZ94J1CMAFNXW"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 188616,
+      "name": "We Rise - Jai Wolf Remix",
+      "url": "https://open.spotify.com/track/3t9m6BZTPVw7ClRSJBQpGs"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 95500,
-      "name": "This Space In My Heart Is for You",
-      "url": "https://open.spotify.com/track/6rCI8HOJiWlu7x79aDTpe3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tennis Skirt (feat. Ella Boh) [Demo]",
         "url": "https://open.spotify.com/album/6OtXCPzbIwmPPTLUDc9n7B"
       },
@@ -683,8 +667,24 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 95500,
+      "name": "This Space In My Heart Is for You",
+      "url": "https://open.spotify.com/track/6rCI8HOJiWlu7x79aDTpe3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Red Eye Home",
-        "url": "https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6"
+        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
       },
       "artists": [
         {
@@ -698,7 +698,7 @@
       ],
       "duration_ms": 283764,
       "name": "Red Eye (feat. rei brown)",
-      "url": "https://open.spotify.com/track/5qfGgZ5GTMoauSp0JKTxu4"
+      "url": "https://open.spotify.com/track/6YNFPf33hsayb5qwuehAQS"
     },
     {
       "added_at": null,
@@ -740,6 +740,38 @@
       "added_at": null,
       "album": {
         "name": "The Red Eye Home",
+        "url": "https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 100625,
+      "name": "3 Tattoos (Rishi\u2019s Interlude)",
+      "url": "https://open.spotify.com/track/2PQnL2SJ7DtwtfYCRW83LG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Red Eye Home",
+        "url": "https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 366000,
+      "name": "My Tears Could Fill A Well",
+      "url": "https://open.spotify.com/track/2mJQl9Uck5RRpx5pbUUaF4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Red Eye Home",
         "url": "https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6"
       },
       "artists": [
@@ -751,42 +783,6 @@
       "duration_ms": 123692,
       "name": "Flight Log 822",
       "url": "https://open.spotify.com/track/2a6mctKwLyjHbZut4kOe0B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Red Eye Home",
-        "url": "https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 100625,
-      "name": "3 Tattoos (Rishi\u2019s Interlude)",
-      "url": "https://open.spotify.com/track/2Vri51GfnSn9pzRcIy91u3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Red Eye Home",
-        "url": "https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "SAYAK DAS",
-          "url": "https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A"
-        }
-      ],
-      "duration_ms": 442868,
-      "name": "Melancholy Ave. / God Only Knows (feat. SAYAK DAS)",
-      "url": "https://open.spotify.com/track/0XDEx5srT9JpkNvvBg7D7B"
     }
   ],
   "unique_name": "This Is Jai Wolf",

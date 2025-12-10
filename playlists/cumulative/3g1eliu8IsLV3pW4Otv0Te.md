@@ -4,7 +4,7 @@
 
 > 
 
-242 songs - 16 hr 23 min
+243 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Truth \(Dabin Remix\)](https://open.spotify.com/track/0ogrMxcNZc3iRxYwMuKe6M) | [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g) | [Monstercat 013 \- Awakening](https://open.spotify.com/album/3WMELssaZMsFbItfy1XnRe) | 5:12 | 2016-10-05 |  |
 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/44zHtICHoRfBaxfRgiSrKL) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [USB](https://open.spotify.com/album/6ZnRegEJuZRhLGrOKh0Y7n) | 4:27 | 2024-07-18 |  |
 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks) | 4:27 | 2024-07-26 | 2025-05-08 |
+| [Turn The Lights Off \(feat\. Jon\) \- Radio Edit](https://open.spotify.com/track/7apywiCuMzvSZIa0SKeH99) | [Kato](https://open.spotify.com/artist/1udruffum7CorOphFUMB9A), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Turn The Lights Off \(feat\. Jon\)](https://open.spotify.com/album/4Xo7jcwuvnxDQoYq9N1yA6) | 2:58 | 2025-12-10 |  |
 | [U Got That](https://open.spotify.com/track/6raUUjOswDxI6c4ELU0KnQ) | [Halogen](https://open.spotify.com/artist/0Za5KjrhmN4OYMr04f3g1e) | [U Got That](https://open.spotify.com/album/53TgsMdAWXNmBx7BJMJiJz) | 3:07 | 2019-08-03 |  |
 | [Underwater \(feat\. Meron Ryan\)](https://open.spotify.com/track/3SIsf8XxAkmVamndeRNVa1) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Meron Ryan](https://open.spotify.com/artist/5sp1KhgKd6NVt83alP5T7G) | [Timeless EP](https://open.spotify.com/album/1bQSMFIWID72F4LIluCnB9) | 4:52 | 2016-01-15 |  |
 | [Usurper](https://open.spotify.com/track/2N6OKoPGG9UzBoYDxw3b3j) | [NXCRE](https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw), [The Villains](https://open.spotify.com/artist/3u5FARONWz8eCYD5hPsd5k) | [Usurper](https://open.spotify.com/album/7lLQhAy2wayD8je3xYGID8) | 3:35 | 2024-11-15 |  |

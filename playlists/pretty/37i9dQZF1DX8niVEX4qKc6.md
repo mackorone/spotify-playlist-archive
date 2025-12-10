@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Franco Masciarelli y Sofia Macchi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,604 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,607 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 46 | [Jaguar House](https://open.spotify.com/track/1ymX19hR5uehyYdyeQuoWC) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Ninja Mental \- Unplugged MTV](https://open.spotify.com/album/7mW1POPbHm8iPu4dqQ9d8c) | 3:50 |
 | 47 | [De Musica Ligera](https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT) | [Sámdalo](https://open.spotify.com/artist/3bN66LSNd6HV80aVnehBo7) | [De Musica Ligera](https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK) | 2:54 |
 | 48 | [Todo Es Perfecto](https://open.spotify.com/track/3kow098wMsKCVyKSyiNEuO) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL), [Javiera Flores](https://open.spotify.com/artist/1gFvD0bKFz4qTsc8QuUBX2) | [Acústico](https://open.spotify.com/album/2wGbH2fkkMEmj1QtiKoqDf) | 3:40 |
-| 49 | [Arrancacorazones \- Acústico en Vivo](https://open.spotify.com/track/1S5nq7DelsGNc4DVFaJHul) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Acústico,Teatro Opera, Buenos Aires, Argentina.](https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE) | 3:46 |
-| 50 | [A Little Respect](https://open.spotify.com/track/1DHGAP0gcEfQwMiu6jvHNV) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Tú Ve](https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV) | 3:28 |
+| 49 | [A Little Respect](https://open.spotify.com/track/1DHGAP0gcEfQwMiu6jvHNV) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Tú Ve](https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV) | 3:28 |
+| 50 | [Arrancacorazones \- Acústico en Vivo](https://open.spotify.com/track/1S5nq7DelsGNc4DVFaJHul) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Acústico,Teatro Opera, Buenos Aires, Argentina.](https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE) | 3:46 |
 | 51 | [Deja de Pedir Perdón \- MTV Unplugged](https://open.spotify.com/track/2pRfK1DH705B1NL48C31ka) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [MTV Unplugged](https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ) | 4:10 |
 | 52 | [No me pidas que no sea un inconsciente](https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA) | [No me pidas que no sea un inconsciente](https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g) | 2:13 |
 | 53 | [Eres](https://open.spotify.com/track/5dOxmkHjQ0xJIyRzEJsn6e) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Eres](https://open.spotify.com/album/0KiWWTMscBa4ypgrTc8QVQ) | 3:06 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 93 | [Mandolín \- Live](https://open.spotify.com/track/4URBvGjdh2WpLKNx4mr1SJ) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Pardelion Music](https://open.spotify.com/artist/6jEflkhA5Lckl3nhvKUiar) | [Loli Molina Live on Pardelion Music](https://open.spotify.com/album/0kd7ojE2zKmEJeh2q97EyJ) | 5:04 |
 | 94 | [Timba](https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Esta podría ser la señal](https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE) | 1:17 |
 | 95 | [2020](https://open.spotify.com/track/6TzKMyI4e0JT9tiVNS9v3b) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [2020](https://open.spotify.com/album/3lNiAuo6RZ845kJrwOnQTN) | 3:06 |
-| 96 | [No Te Puedo Decir Que No](https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [No Te Puedo Decir Que No](https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp) | 3:03 |
-| 97 | [Crece \(Acústico\)](https://open.spotify.com/track/5kPdxVvjwCkDR27btIkzMp) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [Crece](https://open.spotify.com/album/4DiTaC9GBxuSWzuywZVP9x) | 3:40 |
-| 98 | [El Viejo Comunista](https://open.spotify.com/track/191TTysYtqFsUwyfTxjaGX) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [El Viejo Comunista](https://open.spotify.com/album/6xLc750yH5hvpYht5mwQke) | 4:57 |
-| 99 | [Abre Tus Ojos](https://open.spotify.com/track/4QdTKLS8S4XY6y7taoB4er) | [Rocio Igarzabal](https://open.spotify.com/artist/7HzX50l6Oi0gFLTkdHJcOZ), [Gastón Dalmau](https://open.spotify.com/artist/23gD8JHC0NXPGDxfZHIQHv) | [Abre Tus Ojos](https://open.spotify.com/album/7fQJvI1xDU4POkI6FhJqaM) | 2:54 |
+| 96 | [Crece \(Acústico\)](https://open.spotify.com/track/5kPdxVvjwCkDR27btIkzMp) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [Crece](https://open.spotify.com/album/4DiTaC9GBxuSWzuywZVP9x) | 3:40 |
+| 97 | [No Te Puedo Decir Que No](https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [No Te Puedo Decir Que No](https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp) | 3:03 |
+| 98 | [Abre Tus Ojos](https://open.spotify.com/track/4QdTKLS8S4XY6y7taoB4er) | [Rocio Igarzabal](https://open.spotify.com/artist/7HzX50l6Oi0gFLTkdHJcOZ), [Gastón Dalmau](https://open.spotify.com/artist/23gD8JHC0NXPGDxfZHIQHv) | [Abre Tus Ojos](https://open.spotify.com/album/7fQJvI1xDU4POkI6FhJqaM) | 2:54 |
+| 99 | [Como Te Voy A Olvidar](https://open.spotify.com/track/7uHkKQQFt9qjWHt3crcuvu) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [Como Te Voy A Olvidar](https://open.spotify.com/album/1dgCyGMh2gFJgDWhS4o3Yq) | 3:06 |
 | 100 | [Víctimas del Cielo](https://open.spotify.com/track/46hRbN7XUKEwcoXB9InpeL) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs), [Sonia Alvarez](https://open.spotify.com/artist/4qeHReaMMuXAfrv9rFAPsj) | [Víctimas del Cielo \(En Casa\)](https://open.spotify.com/album/091ZOngC8UF9JAk0fICMcT) | 4:03 |
 
 Snapshot ID: `AAAAAK46GdxKM7c88F1iZnqju8jpm4dT`

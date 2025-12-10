@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > rølp og sånt
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,571 likes - 70 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,570 likes - 70 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 66 | [29 tonn](https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [29 tonn](https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv) | 3:18 |
 | 67 | [Cowgirl](https://open.spotify.com/track/26thKbWbinsfiUsV3JRmxi) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU) | 2:20 |
 | 68 | [Stjælt frå ei countrylåt](https://open.spotify.com/track/0gpnzHtnXiZWQemi2XvUZq) | [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Stjælt frå ei countrylåt](https://open.spotify.com/album/0ZvZl05t7ErPHF3uifasCG) | 3:08 |
-| 69 | [Fineste i bygda](https://open.spotify.com/track/0ao1DL2cMdCuh4mB8r1y9z) | [Bare Andy](https://open.spotify.com/artist/6IpOWXE5U9K6vYTBgaRkrU) | [Fineste i bygda](https://open.spotify.com/album/7JFPf1f5pWX81h6EMxolbY) | 3:11 |
-| 70 | [Om igjen](https://open.spotify.com/track/1xjH8AXPen7QsInIual4yF) | [Archer](https://open.spotify.com/artist/5nhwZTZri5arEhPjYJVtfe), [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN) | [Om igjen](https://open.spotify.com/album/16f2U7RUhhchDESg3o81hV) | 2:55 |
+| 69 | [Om igjen](https://open.spotify.com/track/1xjH8AXPen7QsInIual4yF) | [Archer](https://open.spotify.com/artist/5nhwZTZri5arEhPjYJVtfe), [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN) | [Om igjen](https://open.spotify.com/album/16f2U7RUhhchDESg3o81hV) | 2:55 |
+| 70 | [Fineste i bygda](https://open.spotify.com/track/0ao1DL2cMdCuh4mB8r1y9z) | [Bare Andy](https://open.spotify.com/artist/6IpOWXE5U9K6vYTBgaRkrU) | [Fineste i bygda](https://open.spotify.com/album/7JFPf1f5pWX81h6EMxolbY) | 3:11 |
 
 Snapshot ID: `AAAAADeJvL9F1Kf9/Eez2Vzyg+G19eKo`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Xande de Pilares
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,763 likes - 75 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,849 likes - 75 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 62 | [Tiquetaquear / Marra de Durão \- Ao Vivo](https://open.spotify.com/track/6sGTfOEYxf1LOVizhDwM0X) | [Grupo Clareou](https://open.spotify.com/artist/0Jpjc7Fc84inIqLhOvBU1Q), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [CLAREOU ATEMPORAL VOL.1 \(Ao Vivo\)](https://open.spotify.com/album/5pqffaYWuBpjziHXVQkkPf) | 4:36 |
 | 63 | [Não Tem Hora Nem Lugar / Sonhos E Planos \- Ao Vivo](https://open.spotify.com/track/4OFO8OHAUQTMK0erId2pl8) | [Akatu](https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8), [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq) | [Não Tem Hora Nem Lugar / Sonhos E Planos \(Ao Vivo\)](https://open.spotify.com/album/7pvPERAaD1rmTZOuY25yCV) | 4:02 |
 | 64 | [Marra de Durão / Não Quero Despedida / Mande Um Sinal \- Ao Vivo](https://open.spotify.com/track/1UNvh6Y8RQMv6vCpYPcfxq) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Milthinho](https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp), [Thiago Soares](https://open.spotify.com/artist/4zIE7LEe6kABBDLHLzAS4D) | [Encontrin 3 \- Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/5n56XBIA3ugmCxEkxDZkc9) | 4:41 |
-| 65 | [Dom do Amor / Só Te Querer \- Ao Vivo](https://open.spotify.com/track/354aI47hLpA4WaWh9LQLiF) | [Caju Pra Baixo](https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Feijoada do Caju, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/34b2xk5hlVe2KvU4LPtvM4) | 3:59 |
+| 65 | [Dom do Amor / Só Te Querer \- Ao Vivo](https://open.spotify.com/track/354aI47hLpA4WaWh9LQLiF) | [Caju Pra Baixo](https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp), [Maguzinho](https://open.spotify.com/artist/5vTInqPT32rNVz8KW6Qp6v), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Feijoada do Caju, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/34b2xk5hlVe2KvU4LPtvM4) | 3:59 |
 | 66 | [Só Penso No Lar / Trazendo Amor \- Ao Vivo](https://open.spotify.com/track/01GewqzLoArxNM84Cwg7mw) | [Renato da Rocinha](https://open.spotify.com/artist/2bRmiOcLOpBKxnMRZ9Nqiv), [Grupo Clareou](https://open.spotify.com/artist/0Jpjc7Fc84inIqLhOvBU1Q) | [Humildemente \(Ao Vivo\)](https://open.spotify.com/album/7eXXfyeEDc7an66r4uUNyw) | 4:12 |
 | 67 | [É Natural / Nuvens de Algodão / Nosso Amor Quer Paz \- Ao Vivo](https://open.spotify.com/track/3DoB8qUXP1KQicq2R0nvEB) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Matheusinho](https://open.spotify.com/artist/5fFaxiwdqZlsazN9qMyQMB) | [Encontrin 3 \- Vol\. 4 \(Ao Vivo\)](https://open.spotify.com/album/7ryCbBlrKFUmm0d5zblmkI) | 4:50 |
 | 68 | [Duvido / Ideias do Amor / Meu Amigo \- Ao Vivo](https://open.spotify.com/track/6ZA8vyBFshzyqRYDj3Q6jR) | [Imaginasamba](https://open.spotify.com/artist/1DEukDFi4pMT4Y0bfGxJTB) | [Imagina pra Namorar, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0zxfKH3fV097N0frpzKmOE) | 5:11 |

@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: CeCe Winans
 
-506 songs - 1 day 8 hr 51 min
+507 songs - 1 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [I Have Finished The Race](https://open.spotify.com/track/4iOycRDZBb0mkKy6EGqiEr) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s), [Francesca LaRosa](https://open.spotify.com/artist/2XaFV5Bz4k3oEFBfZSGVoQ) | [Wrapped In Peace](https://open.spotify.com/album/6b7u6tlbjgaS5AqG0jPCkN) | 4:08 | 2023-11-27 | 2024-08-01 |
 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/0wYCpHsrhPxrcpW3uSHqWv) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [I Heard the Bells on Christmas Day](https://open.spotify.com/album/2asbMuYvCs4qkQHIDuXAew) | 3:32 | 2024-11-23 | 2025-04-08 |
 | [I Need Christmas \- Single Version](https://open.spotify.com/track/53vrHASNj6lk2i5JZcs1UK) | [Daniel Doss](https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC), [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R) | [I Need Christmas](https://open.spotify.com/album/3UCEH768QemPCXRhQ6xfeL) | 3:30 | 2021-12-11 | 2022-07-29 |
-| [I Pray On Christmas](https://open.spotify.com/track/4P8Yj01dzka6OaevNCZuF7) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [Christmas](https://open.spotify.com/album/7Epml2RwrQpKsszL0NeqUw) | 3:32 | 2023-11-03 |  |
+| [I Pray On Christmas](https://open.spotify.com/track/4P8Yj01dzka6OaevNCZuF7) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [Christmas](https://open.spotify.com/album/7Epml2RwrQpKsszL0NeqUw) | 3:32 | 2023-11-03 | 2025-12-10 |
 | [I Saw Three Ships](https://open.spotify.com/track/4DJGAJKzUvnoRes5aiv3Ji) | [Mark Bishop](https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k) | [I Saw Three Ships](https://open.spotify.com/album/7b68CXUUCfcrygq4dkCaOh) | 2:53 | 2021-12-11 | 2025-11-21 |
 | [I Still Believe In Christmas](https://open.spotify.com/track/61m5ozWPHO2TgxNCdqizvl) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [I Still Believe In Christmas](https://open.spotify.com/album/6G85UPaNcCZ1bELHNzOEIF) | 3:48 | 2021-12-11 |  |
 | [I Wonder As I Wander](https://open.spotify.com/track/5kycZFxvvLXk6tKKuczzMC) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Warmer In The Winter \(Deluxe Edition\)](https://open.spotify.com/album/7wfjL0ZBEycLvXzJmHF45g) | 4:26 | 2021-12-24 | 2023-12-16 |
@@ -386,6 +386,7 @@
 | [Oh Sing For Joy](https://open.spotify.com/track/3dvE8w5uRaqgHtmgJmqut6) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Oh Sing For Joy](https://open.spotify.com/album/2eRxigMiJExZD2GywFVRx6) | 2:49 | 2024-11-23 |  |
 | [Oh What A Gift](https://open.spotify.com/track/76o632mxehS0QgWFlBmlwB) | [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Go Tell It](https://open.spotify.com/album/05kyKUGuOV18byxkRCmLCs) | 3:25 | 2024-10-27 |  |
 | [Old Fashioned Christmas](https://open.spotify.com/track/4b5jMKaV2uu4XtcPrRxdXM) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Old Fashioned Christmas](https://open.spotify.com/album/54zoj8Yivcp8lNJhLUUFk0) | 2:39 | 2021-12-11 | 2024-08-01 |
+| [One Of Us](https://open.spotify.com/track/6LEzWMnfrY9sSxEFtVJf0v) | [Elijah Thomas](https://open.spotify.com/artist/5BqcwDlPPGX7XmIOcUgFfU) | [One Of Us](https://open.spotify.com/album/5S9GBC9w8vAke6vkghImBq) | 3:16 | 2025-12-06 |  |
 | [Our Christ Is Here](https://open.spotify.com/track/41EuLbjLuudEUdU2fdMFIB) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Our Christ Is Here](https://open.spotify.com/album/2pTLYg2HU0Yaaw8UcTr6Po) | 3:36 | 2024-11-17 |  |
 | [Our God With Us](https://open.spotify.com/track/5eDmojxVjggEA2OGlvXzJN) | [Mariners Worship](https://open.spotify.com/artist/4SfGaFiH2xoqKnRtGP5l9p), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Our God With Us](https://open.spotify.com/album/4wBxWy0gVEJabnqm6SHEKK) | 4:13 | 2021-12-11 | 2025-11-09 |
 | [Our King Has Come](https://open.spotify.com/track/55qWotxqUod4d6T4SjatSk) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Hope Of Christmas](https://open.spotify.com/album/1Zq89ub3yfNs4bMCMNy4gm) | 3:37 | 2025-11-05 |  |

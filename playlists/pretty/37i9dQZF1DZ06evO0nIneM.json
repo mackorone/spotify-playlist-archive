@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 92912,
+  "num_followers": 92916,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTTDgAAAAAB+01+sz8SiqmBZYuUo8kTk",
+  "snapshot_id": "aTYVAAAAAAB8U79EWmkDQuqSiR4MCdLy",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watermakers",
-        "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "Hier",
-      "url": "https://open.spotify.com/track/4H4StIAv5eeuZFLt4alrYB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blauwe Ruis",
         "url": "https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 261133,
       "name": "Dichterbij Dan Ooit",
       "url": "https://open.spotify.com/track/7GUINjT9Hi5zxqL4MgVtwY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Watermakers",
+        "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Hier",
+      "url": "https://open.spotify.com/track/4H4StIAv5eeuZFLt4alrYB"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "3\u00d8 - We Doen Wat We Kunnen",
-        "url": "https://open.spotify.com/album/4ldiSUPVNKzo7V8aea84Pp"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "Alles Is Liefde",
-      "url": "https://open.spotify.com/track/3WmZKD5Vv99bdx3dVzX5Xe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Levenslang",
         "url": "https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 224844,
       "name": "Levenslang",
       "url": "https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3\u00d8 - We Doen Wat We Kunnen",
+        "url": "https://open.spotify.com/album/4ldiSUPVNKzo7V8aea84Pp"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Alles Is Liefde",
+      "url": "https://open.spotify.com/track/3WmZKD5Vv99bdx3dVzX5Xe"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alles Blijft Anders",
-        "url": "https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 365026,
-      "name": "Was Je Maar Hier",
-      "url": "https://open.spotify.com/track/1zbwO2duYX0GQbfv717iat"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bitterzoet",
         "url": "https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 227840,
       "name": "Bitterzoet",
       "url": "https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alles Blijft Anders",
+        "url": "https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 365026,
+      "name": "Was Je Maar Hier",
+      "url": "https://open.spotify.com/track/1zbwO2duYX0GQbfv717iat"
     },
     {
       "added_at": null,

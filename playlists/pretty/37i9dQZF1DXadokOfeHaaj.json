@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Leon Vynehall",
-  "num_followers": 39300,
+  "num_followers": 39313,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2025-11-27 15:10:07",
       "album": {
-        "name": "End Of Summer",
-        "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 432566,
-      "name": "End Of Summer",
-      "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
-    },
-    {
-      "added_at": "2025-11-27 15:10:07",
-      "album": {
         "name": "Never Walk Alone",
         "url": "https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM"
       },
@@ -131,22 +115,6 @@
     {
       "added_at": "2025-11-27 15:10:07",
       "album": {
-        "name": "My Melody",
-        "url": "https://open.spotify.com/album/37eHr1dawqnSS0BBLS7tfY"
-      },
-      "artists": [
-        {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 278238,
-      "name": "My Melody",
-      "url": "https://open.spotify.com/track/4ktm7sS9TapvBBbYv8PrtP"
-    },
-    {
-      "added_at": "2025-11-27 15:10:07",
-      "album": {
         "name": "Ease My Mind",
         "url": "https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h"
       },
@@ -163,6 +131,38 @@
       "duration_ms": 191704,
       "name": "Ease My Mind",
       "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
+    },
+    {
+      "added_at": "2025-11-27 15:10:07",
+      "album": {
+        "name": "My Melody",
+        "url": "https://open.spotify.com/album/37eHr1dawqnSS0BBLS7tfY"
+      },
+      "artists": [
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 278238,
+      "name": "My Melody",
+      "url": "https://open.spotify.com/track/4ktm7sS9TapvBBbYv8PrtP"
+    },
+    {
+      "added_at": "2025-11-27 15:10:07",
+      "album": {
+        "name": "End Of Summer",
+        "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 432566,
+      "name": "End Of Summer",
+      "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
     },
     {
       "added_at": "2025-11-27 15:10:07",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-11-27 15:10:07",
       "album": {
+        "name": "She Waits",
+        "url": "https://open.spotify.com/album/2OeZ42uzQXCop2v3xLTK0d"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 177840,
+      "name": "She Waits",
+      "url": "https://open.spotify.com/track/6UPql2upXpCahPme1FzOs6"
+    },
+    {
+      "added_at": "2025-11-27 15:10:07",
+      "album": {
         "name": "Turn Up The Love",
         "url": "https://open.spotify.com/album/2OkJyJE2eByZ7jg46Gqsy5"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 186728,
       "name": "Turn Up The Love",
       "url": "https://open.spotify.com/track/6mPVFIUE1SamSyfWGju8Y4"
-    },
-    {
-      "added_at": "2025-11-27 15:10:07",
-      "album": {
-        "name": "She Waits",
-        "url": "https://open.spotify.com/album/2OeZ42uzQXCop2v3xLTK0d"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 177840,
-      "name": "She Waits",
-      "url": "https://open.spotify.com/track/6UPql2upXpCahPme1FzOs6"
     },
     {
       "added_at": "2025-11-27 15:10:07",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-11-27 15:10:07",
       "album": {
-        "name": "Curve +1",
-        "url": "https://open.spotify.com/album/0jutIwk80iCtIwiiPdwpYZ"
-      },
-      "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Handsup",
-      "url": "https://open.spotify.com/track/3QT1t1UdF3A4ABV5BI5Yoz"
-    },
-    {
-      "added_at": "2025-11-27 15:10:07",
-      "album": {
         "name": "Hallucinating Love",
         "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 213000,
       "name": "Monday, Monday",
       "url": "https://open.spotify.com/track/14joz9oqnhYORgpKOmE0Aj"
+    },
+    {
+      "added_at": "2025-11-27 15:10:07",
+      "album": {
+        "name": "Curve +1",
+        "url": "https://open.spotify.com/album/0jutIwk80iCtIwiiPdwpYZ"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Handsup",
+      "url": "https://open.spotify.com/track/3QT1t1UdF3A4ABV5BI5Yoz"
     },
     {
       "added_at": "2025-11-27 15:10:07",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-11-27 15:10:07",
       "album": {
+        "name": "Shallow Water",
+        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "Shallow Water",
+      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
+    },
+    {
+      "added_at": "2025-11-27 15:10:07",
+      "album": {
         "name": "Everlight",
         "url": "https://open.spotify.com/album/2dM0HU6nyY095dS8Hpva5j"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 249553,
       "name": "High & Low",
       "url": "https://open.spotify.com/track/5k7FGynO7jnnhpQhK2pexl"
-    },
-    {
-      "added_at": "2025-11-27 15:10:07",
-      "album": {
-        "name": "Shallow Water",
-        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "Shallow Water",
-      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
     },
     {
       "added_at": "2025-11-27 15:10:07",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2025-11-27 15:10:07",
       "album": {
-        "name": "Hypnotised",
-        "url": "https://open.spotify.com/album/1KeOKmz86ujYQKPcmVO8SO"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Linden Jay",
-          "url": "https://open.spotify.com/artist/0re1X3yAM2CTtG9nnGhxnC"
-        }
-      ],
-      "duration_ms": 202787,
-      "name": "Hypnotised (feat. Linden Jay)",
-      "url": "https://open.spotify.com/track/67N1PtpuY7DgemawuzioIz"
-    },
-    {
-      "added_at": "2025-11-27 15:10:07",
-      "album": {
         "name": "See It As A Sign",
         "url": "https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp"
       },
@@ -1227,6 +1207,26 @@
     {
       "added_at": "2025-11-27 15:10:07",
       "album": {
+        "name": "Hypnotised",
+        "url": "https://open.spotify.com/album/1KeOKmz86ujYQKPcmVO8SO"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Linden Jay",
+          "url": "https://open.spotify.com/artist/0re1X3yAM2CTtG9nnGhxnC"
+        }
+      ],
+      "duration_ms": 202787,
+      "name": "Hypnotised (feat. Linden Jay)",
+      "url": "https://open.spotify.com/track/67N1PtpuY7DgemawuzioIz"
+    },
+    {
+      "added_at": "2025-11-27 15:10:07",
+      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6"
       },
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2025-11-27 15:10:07",
       "album": {
+        "name": "Back Of My Mind",
+        "url": "https://open.spotify.com/album/5FbCCShqNJtt539lKupcF4"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 266505,
+      "name": "Back Of My Mind",
+      "url": "https://open.spotify.com/track/0BsTNIr80SYSFFs1fexIYe"
+    },
+    {
+      "added_at": "2025-11-27 15:10:07",
+      "album": {
         "name": "I Have a Love (Overmono Remix)",
         "url": "https://open.spotify.com/album/7kh2TPP7m852qfYZJuQRdA"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 366149,
       "name": "I Have a Love (Overmono Remix)",
       "url": "https://open.spotify.com/track/5MmKCuXDk2WTMjtdmIbApT"
-    },
-    {
-      "added_at": "2025-11-27 15:10:07",
-      "album": {
-        "name": "Back Of My Mind",
-        "url": "https://open.spotify.com/album/5FbCCShqNJtt539lKupcF4"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 266505,
-      "name": "Back Of My Mind",
-      "url": "https://open.spotify.com/track/0BsTNIr80SYSFFs1fexIYe"
     },
     {
       "added_at": "2025-11-27 15:10:07",

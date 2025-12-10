@@ -2889,6 +2889,32 @@
     },
     {
       "album": {
+        "name": "On Christmas Night",
+        "url": "https://open.spotify.com/album/52jzj0ySP8a2vNQ0dsPpqz"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Roberts",
+          "url": "https://open.spotify.com/artist/5M39iAjR7gmmmV5JwsEEOt"
+        },
+        {
+          "name": "Armonico Consort",
+          "url": "https://open.spotify.com/artist/6pkQmg2GtB75nUYUVidpt3"
+        },
+        {
+          "name": "Christopher Monks",
+          "url": "https://open.spotify.com/artist/75tSsNh0EYP90xx0U4xcwu"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242706,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/2qpb7lLwfMAKSQiQZHm38b"
+    },
+    {
+      "album": {
         "name": "Veni Domine: Advent & Christmas At The Sistine Chapel",
         "url": "https://open.spotify.com/album/6yGhhTdTl3rZSIBNonU2TT"
       },
@@ -3514,6 +3540,10 @@
         {
           "name": "John Goss",
           "url": "https://open.spotify.com/artist/2kmPXl0drk82L45Vj0WbHi"
+        },
+        {
+          "name": "Choir of King's College, Cambridge",
+          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
         },
         {
           "name": "Sir David Willcocks",

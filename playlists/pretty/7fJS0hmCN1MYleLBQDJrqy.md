@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7fJS0hmCN1MYleLBQDJrqy.md) - [plain]
 
 > De beste studentenbangers in één playlist 🍺🔥  \| Cover: Idaly, Roxy Dekker, Ronnie Flex
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 52,975 likes - 75 songs - 3 hr 9 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 52,969 likes - 75 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Synthetik Blonde, Amulet, Corlyx and more",
+  "description": "With Synthetik Blonde, Corlyx, Amulet and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 227258,
       "name": "#1 Crush",
       "url": "https://open.spotify.com/track/7nI32tjGZmL54z1CUfAXj0"
@@ -96,6 +96,24 @@
       "duration_ms": 205500,
       "name": "A Heart Cries",
       "url": "https://open.spotify.com/track/5RsvOuAAaoEzABnhi2dLcl"
+    },
+    {
+      "album": {
+        "name": "Deathrock Devotionals",
+        "url": "https://open.spotify.com/album/7sEAyQrUZy4jTds6xvWF71"
+      },
+      "artists": [
+        {
+          "name": "WARFIELD",
+          "url": "https://open.spotify.com/artist/3Jb5mSCM0lBdaACWt4XM3y"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294155,
+      "name": "A Love So Bold",
+      "url": "https://open.spotify.com/track/6ylEbDvwHvCHl0KlrOAEiH"
     },
     {
       "album": {
@@ -295,6 +313,28 @@
     },
     {
       "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/0Yq6UY6aVVYpgIBFpdK57g"
+      },
+      "artists": [
+        {
+          "name": "Deer Fang",
+          "url": "https://open.spotify.com/artist/0jw4n2l8CqhDcLLxecvBtV"
+        },
+        {
+          "name": "Seventh Dose",
+          "url": "https://open.spotify.com/artist/4mEuEaZY0Med2WBAfZvjyP"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255489,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/1rnD9JroIvpYq8eLYoN2kC"
+    },
+    {
+      "album": {
         "name": "Burning in the Blue",
         "url": "https://open.spotify.com/album/7JI4n2Xc76CQRBowAz8H4B"
       },
@@ -440,7 +480,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 208500,
       "name": "Cocoon - Redux",
       "url": "https://open.spotify.com/track/4fxBZYoB8NYG01fjZUvzVg"
@@ -512,7 +552,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 351780,
       "name": "Crosses",
       "url": "https://open.spotify.com/track/309AyKk5Ctat3UX0pcPqPz"
@@ -686,7 +726,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 276000,
       "name": "Doppelganger",
       "url": "https://open.spotify.com/track/0oXmJgdT7jPYTjOmN2GUWY"
@@ -874,7 +914,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 236487,
       "name": "Flesh",
       "url": "https://open.spotify.com/track/6RBRTnyS7sdZ6ZmZhONs2p"
@@ -1016,7 +1056,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 256634,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/4zR3I8wrWs1lW3wHW507qU"
@@ -1070,7 +1110,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 252000,
       "name": "I Don't Bleed",
       "url": "https://open.spotify.com/track/2aD1FaM5wXo3az8bC28uCt"
@@ -1196,7 +1236,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 218428,
       "name": "In This Twilight",
       "url": "https://open.spotify.com/track/2H7nItOVCGqhJmDfXoGtlm"
@@ -1334,7 +1374,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 250273,
       "name": "Kill Cave",
       "url": "https://open.spotify.com/track/7AmgEbUvDmUCsPMhM2u6eU"
@@ -1392,6 +1432,32 @@
       "duration_ms": 120000,
       "name": "Least",
       "url": "https://open.spotify.com/track/4jcdmZz76vJkLEEu8IsKkw"
+    },
+    {
+      "album": {
+        "name": "Let The Flowers Grow (Juno Reactor Remix)",
+        "url": "https://open.spotify.com/album/2rnDlUmYxg3jstWqwf9Unz"
+      },
+      "artists": [
+        {
+          "name": "Peter Murphy",
+          "url": "https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY"
+        },
+        {
+          "name": "Boy George",
+          "url": "https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45"
+        },
+        {
+          "name": "Juno Reactor",
+          "url": "https://open.spotify.com/artist/1Pe3z1UqRzKsQtHsl25dm6"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397000,
+      "name": "Let The Flowers Grow (Juno Reactor Remix)",
+      "url": "https://open.spotify.com/track/5tcGXxXX1amKFMUiuIgd0e"
     },
     {
       "album": {
@@ -1478,7 +1544,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 273272,
       "name": "Martyr Box",
       "url": "https://open.spotify.com/track/6AZTZhPZ6b63FZI5TPeLL9"
@@ -1554,7 +1620,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 227047,
       "name": "Mind's Eye",
       "url": "https://open.spotify.com/track/2vbbgLRnzwY6SWB5FHCKdU"
@@ -1760,7 +1826,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 263706,
       "name": "Paradise Lost - Heavy Emotion Version",
       "url": "https://open.spotify.com/track/3w89E12aKXTSrIBgpvZMI4"
@@ -1982,6 +2048,24 @@
       "duration_ms": 240600,
       "name": "Ritual Lust",
       "url": "https://open.spotify.com/track/5zpTKGkHOmn26p3U4n7fT3"
+    },
+    {
+      "album": {
+        "name": "identity crisis",
+        "url": "https://open.spotify.com/album/6qA7NqB5x2iNjCOuFuHYsV"
+      },
+      "artists": [
+        {
+          "name": "gothcandy",
+          "url": "https://open.spotify.com/artist/56MVdvfH0k4FvVBUMFxuyl"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145343,
+      "name": "runaway",
+      "url": "https://open.spotify.com/track/1Oo3fHQdocsqzbo4CxlrzB"
     },
     {
       "album": {
@@ -2421,6 +2505,24 @@
     },
     {
       "album": {
+        "name": "The Internet",
+        "url": "https://open.spotify.com/album/6tKueLDkCdKmS8yuNP9l0i"
+      },
+      "artists": [
+        {
+          "name": "Le Junk",
+          "url": "https://open.spotify.com/artist/1D7t491zeHBWe0mOQZNySz"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206435,
+      "name": "The Internet",
+      "url": "https://open.spotify.com/track/3JjQpezBYZXEb6KVNJfmS1"
+    },
+    {
+      "album": {
         "name": "My Dreams Are Calling You",
         "url": "https://open.spotify.com/album/7jM1rGOqa4vHhm3eT9vXns"
       },
@@ -2732,7 +2834,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 200919,
       "name": "Welcome To Salem (intro)",
       "url": "https://open.spotify.com/track/3VSU3WGhiR524TtvonIU3c"

@@ -1,6 +1,6 @@
 {
   "description": "Enjoy exclusive live performance videos from K-Pop artists produced by Spotify! (\uc2a4\ud3ec\ud2f0\ud30c\uc774\uac00 \ud504\ub85c\ub4c0\uc2f1\ud55c \ucf00\uc774\ud31d \uc544\ud2f0\uc2a4\ud2b8\ub4e4\uc758 \ud2b9\ubcc4\ud55c \ub77c\uc774\ube0c \ud37c\ud3ec\uba3c\uc2a4 \ube44\ub514\uc624\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 158,
+  "num_followers": 162,
   "original_name": "K-Pop Performance Video by Spotify",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAJVNzjSdD+XebJlqBKk7dT5pJhxz",
   "tracks": [
+    {
+      "added_at": "2025-11-19 11:56:49",
+      "album": {
+        "name": "Beat It Up | Spotify Performance Video",
+        "url": "https://open.spotify.com/album/2H001xNfwbodUi051OEO6Y"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 236672,
+      "name": "Beat It Up | Spotify Performance Video",
+      "url": "https://open.spotify.com/track/5B5SLuIkevqp9KlCzxhupw"
+    },
     {
       "added_at": "2025-11-19 11:56:49",
       "album": {

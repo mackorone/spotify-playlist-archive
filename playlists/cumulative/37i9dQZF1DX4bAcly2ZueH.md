@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-200 songs - 10 hr 25 min
+201 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [arne](https://open.spotify.com/track/7eq7fc6tWLEGpsagJozBY2) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Schole Collection I](https://open.spotify.com/album/20qYMxPGgww0RK99l7d5Gr) | 3:35 | 2022-10-11 | 2022-11-14 |
 | [Arne](https://open.spotify.com/track/4ZqQqesPkASH1sqsnm6wmo) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Grace](https://open.spotify.com/album/37vlYDRVRGH8sf5qZG3J6z) | 3:37 | 2022-10-11 | 2024-04-19 |
 | [Ascension](https://open.spotify.com/track/2UMKFCOWHBozbqLm6VhcmG) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv) | [Serenity](https://open.spotify.com/album/24NndBbEzrcYKGYBBVhEgA) | 4:11 | 2022-10-11 | 2024-04-19 |
-| [Ascension](https://open.spotify.com/track/3AXOqXUEpPVd0KWZZrqD9Z) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv) | [Serenity](https://open.spotify.com/album/5ONIhZoqzaKTCCAkDwQjVy) | 4:11 | 2024-03-05 |  |
+| [Ascension](https://open.spotify.com/track/3AXOqXUEpPVd0KWZZrqD9Z) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv) | [Serenity](https://open.spotify.com/album/5ONIhZoqzaKTCCAkDwQjVy) | 4:11 | 2024-03-05 | 2025-12-10 |
 | [asobiba](https://open.spotify.com/track/4bD6zmsrx0LeUZtZVZOqvi) | [chanoma](https://open.spotify.com/artist/3owviMt1gJ0DszBvNjPLyN) | [asobiba](https://open.spotify.com/album/39hbk7o6d2nSJW8yJjBwox) | 3:05 | 2025-07-16 |  |
 | [Autumn Stroll](https://open.spotify.com/track/2e1Lwrd6EJzbKWhHu8Qwf4) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Autumn Stroll](https://open.spotify.com/album/71RSiCtz3tWtw3ddFU7auT) | 2:39 | 2023-11-07 | 2023-11-16 |
 | [Ayayai](https://open.spotify.com/track/5Ia9AtWXI3DjcfVdlfczRl) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Tamale](https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn) | 2:50 | 2022-10-11 | 2025-07-16 |
@@ -206,6 +206,7 @@
 | [YUYAKE](https://open.spotify.com/track/7L0f6RnRJach8g9EaecCOL) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [YUYAKE](https://open.spotify.com/album/4ZRfc25OsAg7bvh1TqIYuE) | 3:00 | 2022-10-11 | 2022-11-13 |
 | [おはなしのはじまり](https://open.spotify.com/track/5xLpCD2QT3rOsmNpwcwjaI) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm) | [UP AND DOWN Original Soundtrack](https://open.spotify.com/album/5j3KO0IOWfXbkjn4YlM3Y6) | 3:09 | 2024-08-14 |  |
 | [哀しい予感 / リリウム](https://open.spotify.com/track/0Ov5RZIZfDD8A2d9nOWUgQ) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [アイル](https://open.spotify.com/album/3iPvyiDqZv85VVHWqCSfjQ) | 4:05 | 2024-03-05 |  |
+| [多変数](https://open.spotify.com/track/1yrb9lYmUnu8jTC0gwGyUk) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [多変数](https://open.spotify.com/album/6lWSo35E2z9FBgbHuAEElU) | 3:04 | 2025-12-10 |  |
 | [天使 Lo\-fi \(instrumentals\)](https://open.spotify.com/track/5xLIyGfaVMe1mDG9Zd91be) | [Alice Crosshart](https://open.spotify.com/artist/6vwJVDJDdf5E7K3OFWHheo), [Mikazuki BIGWAVE](https://open.spotify.com/artist/7dqKRXUJvcgQbg6jq06uFW) | [天使 Lo\-fi \(instrumentals\)](https://open.spotify.com/album/2fxQxVewN6IoM213Y2cxfX) | 2:40 | 2022-10-11 | 2024-07-18 |
 | [山月](https://open.spotify.com/track/7dO2wvBbkZtX2mKVbP2DcX) | [織田祐亮](https://open.spotify.com/artist/2oSlBHEUTRW3jqfbI6l5cD) | [山月](https://open.spotify.com/album/6Z0UjFVXkFckcns2oHcOJT) | 3:13 | 2025-07-16 |  |
 

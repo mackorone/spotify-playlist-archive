@@ -1455,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "Fitratein",
+        "url": "https://open.spotify.com/album/76x9TiVITMmsA5KjSDSPUl"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229500,
+      "name": "Fitratein",
+      "url": "https://open.spotify.com/track/7gjFn9wqcdSFxJAHYQbbMk"
+    },
+    {
+      "album": {
         "name": "Galtiyan",
         "url": "https://open.spotify.com/album/0IGNZGDA2Sjntx73xf8hV5"
       },

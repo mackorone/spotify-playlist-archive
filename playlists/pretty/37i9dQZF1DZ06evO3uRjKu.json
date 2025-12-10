@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 74555,
+  "num_followers": 74561,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTTDgAAAAAAm1+UY93w+hG+RBNfdTKds",
+  "snapshot_id": "aTYVAAAAAADDWT0E0sVGCV3hbLP0RvOy",
   "tracks": [
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Histeria",
-        "url": "https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G"
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 252354,
-      "name": "Borracho Hasta El Amanecer",
-      "url": "https://open.spotify.com/track/33Oy56bS8e8QvxIyLd0L2d"
+      "duration_ms": 273026,
+      "name": "Gin Tonic",
+      "url": "https://open.spotify.com/track/0FgZ5rpMveTUQjdozZ03HP"
     },
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pachanga",
-        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+        "name": "Histeria",
+        "url": "https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 273026,
-      "name": "Gin Tonic",
-      "url": "https://open.spotify.com/track/0FgZ5rpMveTUQjdozZ03HP"
+      "duration_ms": 252354,
+      "name": "Borracho Hasta El Amanecer",
+      "url": "https://open.spotify.com/track/33Oy56bS8e8QvxIyLd0L2d"
     },
     {
       "added_at": null,
@@ -599,22 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muchachos",
-        "url": "https://open.spotify.com/album/35cgI9kKr9N6pZfTmWdakM"
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
       },
       "artists": [
-        {
-          "name": "La Mosca",
-          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
-        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 229469,
-      "name": "Te Quiero Comer la Boca",
-      "url": "https://open.spotify.com/track/0jOcYlFjCBNSq1cXACI1D3"
+      "duration_ms": 350712,
+      "name": "Demasiado Tarde",
+      "url": "https://open.spotify.com/track/5Oa1k1gOxhP018PPRw1Sys"
     },
     {
       "added_at": null,
@@ -635,18 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pachanga",
-        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+        "name": "Muchachos",
+        "url": "https://open.spotify.com/album/35cgI9kKr9N6pZfTmWdakM"
       },
       "artists": [
+        {
+          "name": "La Mosca",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 350712,
-      "name": "Demasiado Tarde",
-      "url": "https://open.spotify.com/track/5Oa1k1gOxhP018PPRw1Sys"
+      "duration_ms": 229469,
+      "name": "Te Quiero Comer la Boca",
+      "url": "https://open.spotify.com/track/0jOcYlFjCBNSq1cXACI1D3"
     },
     {
       "added_at": null,

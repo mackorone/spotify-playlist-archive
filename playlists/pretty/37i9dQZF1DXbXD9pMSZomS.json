@@ -1,6 +1,6 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 526184,
+  "num_followers": 526267,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2025-12-04 05:00:28",
       "album": {
-        "name": "King Size",
-        "url": "https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 297426,
-      "name": "King Size",
-      "url": "https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw"
-    },
-    {
-      "added_at": "2025-12-04 05:00:28",
-      "album": {
         "name": "Redbud",
         "url": "https://open.spotify.com/album/1ocXYgSe77CXJ4nwHrsKz5"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 240000,
       "name": "Redbud",
       "url": "https://open.spotify.com/track/0TGxhLyUCOW7WjVQidU30k"
+    },
+    {
+      "added_at": "2025-12-04 05:00:28",
+      "album": {
+        "name": "King Size",
+        "url": "https://open.spotify.com/album/7poItoG0PxLsKHGfmHarWW"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 297426,
+      "name": "King Size",
+      "url": "https://open.spotify.com/track/4Xr9UKLq3YGnExa50oLfAw"
     },
     {
       "added_at": "2025-12-04 05:00:28",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-12-04 05:00:28",
       "album": {
-        "name": "Everytime EP",
-        "url": "https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw"
-      },
-      "artists": [
-        {
-          "name": "Jason Hersco",
-          "url": "https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa"
-        }
-      ],
-      "duration_ms": 308269,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9"
-    },
-    {
-      "added_at": "2025-12-04 05:00:28",
-      "album": {
         "name": "Lo-Fi_house.Zip",
         "url": "https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 375000,
       "name": "100 reasons",
       "url": "https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H"
+    },
+    {
+      "added_at": "2025-12-04 05:00:28",
+      "album": {
+        "name": "Everytime EP",
+        "url": "https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw"
+      },
+      "artists": [
+        {
+          "name": "Jason Hersco",
+          "url": "https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa"
+        }
+      ],
+      "duration_ms": 308269,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9"
     },
     {
       "added_at": "2025-12-04 05:00:28",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-12-04 05:00:28",
       "album": {
-        "name": "VERTIGO",
-        "url": "https://open.spotify.com/album/6tmDmJFTJs5aegIe5OEB56"
-      },
-      "artists": [
-        {
-          "name": "Kronol",
-          "url": "https://open.spotify.com/artist/13Bm2FdMEKw4x8BJXCL1MI"
-        }
-      ],
-      "duration_ms": 233007,
-      "name": "VERTIGO",
-      "url": "https://open.spotify.com/track/0O7vGgLJBBVWiREZfm7GsX"
-    },
-    {
-      "added_at": "2025-12-04 05:00:28",
-      "album": {
         "name": "Sundial Avenue",
         "url": "https://open.spotify.com/album/2R1XTbwc8ntMS782pWZnZd"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 144250,
       "name": "Sundial Avenue",
       "url": "https://open.spotify.com/track/4lyqDPSLYqVuG29Vph3eIa"
+    },
+    {
+      "added_at": "2025-12-04 05:00:28",
+      "album": {
+        "name": "VERTIGO",
+        "url": "https://open.spotify.com/album/6tmDmJFTJs5aegIe5OEB56"
+      },
+      "artists": [
+        {
+          "name": "Kronol",
+          "url": "https://open.spotify.com/artist/13Bm2FdMEKw4x8BJXCL1MI"
+        }
+      ],
+      "duration_ms": 233007,
+      "name": "VERTIGO",
+      "url": "https://open.spotify.com/track/0O7vGgLJBBVWiREZfm7GsX"
     },
     {
       "added_at": "2025-12-04 05:00:28",
@@ -567,18 +567,18 @@
     {
       "added_at": "2025-12-04 05:00:28",
       "album": {
-        "name": "Asakusa Light",
-        "url": "https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3"
+        "name": "Polar Circle",
+        "url": "https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB"
       },
       "artists": [
         {
-          "name": "Soichi Terada",
-          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
+          "name": "Ekfat",
+          "url": "https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc"
         }
       ],
-      "duration_ms": 271349,
-      "name": "Diving into Minds",
-      "url": "https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA"
+      "duration_ms": 117660,
+      "name": "Polar Circle",
+      "url": "https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ"
     },
     {
       "added_at": "2025-12-04 05:00:28",
@@ -599,18 +599,18 @@
     {
       "added_at": "2025-12-04 05:00:28",
       "album": {
-        "name": "Polar Circle",
-        "url": "https://open.spotify.com/album/4X5z40sunDktW8g0axnzdB"
+        "name": "Asakusa Light",
+        "url": "https://open.spotify.com/album/0CN1YXeVCXpPqe8ItuPaN3"
       },
       "artists": [
         {
-          "name": "Ekfat",
-          "url": "https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc"
+          "name": "Soichi Terada",
+          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
         }
       ],
-      "duration_ms": 117660,
-      "name": "Polar Circle",
-      "url": "https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ"
+      "duration_ms": 271349,
+      "name": "Diving into Minds",
+      "url": "https://open.spotify.com/track/0JmuFZNZNs7hJIWflYE3CA"
     },
     {
       "added_at": "2025-12-04 05:00:28",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-12-04 05:00:28",
       "album": {
-        "name": "We Should Chill On The Windowsill More",
-        "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
-      },
-      "artists": [
-        {
-          "name": "Loz Goddard",
-          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
-        }
-      ],
-      "duration_ms": 326129,
-      "name": "Far From Home",
-      "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
-    },
-    {
-      "added_at": "2025-12-04 05:00:28",
-      "album": {
         "name": "Kindzmarauli",
         "url": "https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 256695,
       "name": "Random Places",
       "url": "https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ"
+    },
+    {
+      "added_at": "2025-12-04 05:00:28",
+      "album": {
+        "name": "We Should Chill On The Windowsill More",
+        "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
+      },
+      "artists": [
+        {
+          "name": "Loz Goddard",
+          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
+        }
+      ],
+      "duration_ms": 326129,
+      "name": "Far From Home",
+      "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
     },
     {
       "added_at": "2025-12-04 05:00:28",
@@ -835,6 +835,22 @@
     {
       "added_at": "2025-12-04 05:00:28",
       "album": {
+        "name": "Tokyo",
+        "url": "https://open.spotify.com/album/66gnUJrIEaAoE0gN94oxlL"
+      },
+      "artists": [
+        {
+          "name": "Jaycc",
+          "url": "https://open.spotify.com/artist/1XIz0GQC3BReKYW29Uk7yN"
+        }
+      ],
+      "duration_ms": 151999,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/4h6tda5DdPSH9uv4uErGW8"
+    },
+    {
+      "added_at": "2025-12-04 05:00:28",
+      "album": {
         "name": "Fall In Love",
         "url": "https://open.spotify.com/album/5iup1pzVHKxaIArnwIAYiV"
       },
@@ -867,22 +883,6 @@
     {
       "added_at": "2025-12-04 05:00:28",
       "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/7e0D7KQ2eReVxh23jN56an"
-      },
-      "artists": [
-        {
-          "name": "Luca Musto",
-          "url": "https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh"
-        }
-      ],
-      "duration_ms": 221900,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/4YiAmotbXcIwFkDNRd2tQw"
-    },
-    {
-      "added_at": "2025-12-04 05:00:28",
-      "album": {
         "name": "highway",
         "url": "https://open.spotify.com/album/5bo2d6aTtWE7Ntb07QmD4r"
       },
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-12-04 05:00:28",
       "album": {
-        "name": "Tokyo",
-        "url": "https://open.spotify.com/album/66gnUJrIEaAoE0gN94oxlL"
-      },
-      "artists": [
-        {
-          "name": "Jaycc",
-          "url": "https://open.spotify.com/artist/1XIz0GQC3BReKYW29Uk7yN"
-        }
-      ],
-      "duration_ms": 151999,
-      "name": "Tokyo",
-      "url": "https://open.spotify.com/track/4h6tda5DdPSH9uv4uErGW8"
-    },
-    {
-      "added_at": "2025-12-04 05:00:28",
-      "album": {
         "name": "Freedom EP",
         "url": "https://open.spotify.com/album/7CiuYJVx1NrdZhzcWs9OeO"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 316836,
       "name": "Expendable",
       "url": "https://open.spotify.com/track/5V1kiRxJuk0zK4iuIg0H3e"
+    },
+    {
+      "added_at": "2025-12-04 05:00:28",
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/7e0D7KQ2eReVxh23jN56an"
+      },
+      "artists": [
+        {
+          "name": "Luca Musto",
+          "url": "https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh"
+        }
+      ],
+      "duration_ms": 221900,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/4YiAmotbXcIwFkDNRd2tQw"
     },
     {
       "added_at": "2025-12-04 05:00:28",

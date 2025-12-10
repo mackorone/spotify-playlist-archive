@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-823 songs - 2 day 0 hr 31 min
+824 songs - 2 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,6 +391,7 @@
 | [Just My Love And I](https://open.spotify.com/track/0idB3v41MLVIC7oDPV7cJh) | [Walter Wanderley](https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA) | [When It Was Done](https://open.spotify.com/album/53R4fFqWs9yIxMOnoMzmYF) | 2:18 | 2024-03-11 | 2024-05-16 |
 | [Just The Way You Are \- 2008 Pop Rework](https://open.spotify.com/track/5IzHTnkLdS2MgUnupYqeK3) | [Milky](https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw) | [Star 2008](https://open.spotify.com/album/5y263lsrcaKgIF6rWV3uXX) | 3:42 | 2024-11-26 | 2025-01-12 |
 | [Justice](https://open.spotify.com/track/0f64uzujl3Pn1Tcu5AlbAG) | [Jennifer Castle](https://open.spotify.com/artist/2RzmnX5DXwcryxwUyREPbK) | [Monarch Season](https://open.spotify.com/album/3xduOjWzIFvmMOnk0L4888) | 1:40 | 2024-10-29 | 2024-11-14 |
+| [Kagefumi](https://open.spotify.com/track/4VgGQi9FZMrNG4MuiONldI) | [百景](https://open.spotify.com/artist/6Xktu0x9IXB4ghFSPw6Jqv) | [Standing Still In A Moving Scene](https://open.spotify.com/album/5FFviHXLHrtM8bPkklaXrD) | 4:54 | 2025-12-09 |  |
 | [Kanon](https://open.spotify.com/track/6ffrExn8KtduORXBCt2QfA) | [Enon](https://open.spotify.com/artist/3jJxGc6wl7xvZHSg8tg61V) | [Lost Marbles and Exploded Evidence](https://open.spotify.com/album/0urcGWOT3sDiyjhTup7ELw) | 3:20 | 2024-07-12 | 2024-09-08 |
 | [Ken Hom](https://open.spotify.com/track/1wTd8R2JnpRrggVpYhAk0r) | [Autocamper](https://open.spotify.com/artist/4A81Q5VArMNNHeERStPXYx) | [Summertime](https://open.spotify.com/album/60qmXzNGcxEwTkrY2v5aNC) | 2:46 | 2024-11-17 | 2025-01-12 |
 | [kira](https://open.spotify.com/track/3XYF84eNPPvRObZZPHsgla) | [cktrl](https://open.spotify.com/artist/2eO4klJg324zroGqnBkqk3) | [spirit](https://open.spotify.com/album/5wEy1LKkVbEEKnyk9Ql5Ke) | 4:10 | 2025-10-29 | 2025-11-15 |

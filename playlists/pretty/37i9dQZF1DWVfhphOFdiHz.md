@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops and LGBTQIA+ artists only\. Cover: Eli
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,376 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,388 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 21 | [SUGARCOAT](https://open.spotify.com/track/0OUDA18X0UoB1VJRXZiI9Z) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:01 |
 | 22 | [Hotel Room \(Bang\)](https://open.spotify.com/track/53Vth2nYeUpPJfHzgHhDo2) | [Lexxicon](https://open.spotify.com/artist/2nMUTSpUyvbaC5XLPLEBiw) | [Pink Fraternity: The Initiation \(Deluxe Edition\)](https://open.spotify.com/album/1fDwEh2bCxuOAWNYFEpTzG) | 3:08 |
 | 23 | [Déjà trop loin](https://open.spotify.com/track/6PzE9gPiJo5tqcD599IBDa) | [Jules](https://open.spotify.com/artist/067eVTSlIc2fqaaHyRrWmt) | [Déjà trop loin](https://open.spotify.com/album/798eCVlIUWmB0sWCJEELin) | 4:28 |
-| 24 | [Running Home](https://open.spotify.com/track/27NFYSQxYnRVqEwuIaunqF) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Sleeping With The Lights On](https://open.spotify.com/album/64wiC01wUZZ9qLMEHKAK3D) | 3:44 |
+| 24 | [Running Home](https://open.spotify.com/track/27NFYSQxYnRVqEwuIaunqF) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Sleeping with the Lights On](https://open.spotify.com/album/64wiC01wUZZ9qLMEHKAK3D) | 3:44 |
 | 25 | [Square One](https://open.spotify.com/track/4Z2PgAbOS261znlbkp6M4T) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Square One](https://open.spotify.com/album/2gpplpkQfk4si2JdU4TGUI) | 3:00 |
 | 26 | [in plain sight](https://open.spotify.com/track/5XNT7Opf0sMyfoqUEdsd1y) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/3e9xFKdGt0oS5O4fMubFT5) | 2:25 |
 | 27 | [Born Wicked](https://open.spotify.com/track/4sa1m3H5Aoxo21etGRBFIb) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Born Wicked](https://open.spotify.com/album/4uThGfX50aFL3O8CgkxmBT) | 2:43 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Alison Wonderland, Ninajirachi, CYRIL, Rome Fortune, Kylie Minogue, Luke Combs + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,914 likes - 89 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,917 likes - 89 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

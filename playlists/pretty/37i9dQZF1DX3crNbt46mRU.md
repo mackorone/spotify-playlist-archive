@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Argyle, Ozuna,  Jul, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,248 likes - 103 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,246 likes - 103 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 30 | [Remember To Dance \(Little Things\)](https://open.spotify.com/track/41eIrJ4BOf6l0QzJFB1vO8) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8), [Adrián Berenguer](https://open.spotify.com/artist/7rIUiy8qJEFQ5oooWdnhQv) | [Remember To Dance \(Little Things\)](https://open.spotify.com/album/4GncEvr8CcRpYsuMSnnAvR) | 2:43 |
 | 31 | [Hot in December](https://open.spotify.com/track/1yepCSPoxirpHDK1580Eq5) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas \(Fully Wrapped\)](https://open.spotify.com/album/2Qqr2SBEHLPEyqsQPYTa6y) | 3:12 |
 | 32 | [Lass dich nicht ficken](https://open.spotify.com/track/3sqzMlW70MhS6sOi96VVHN) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Lass dich nicht ficken](https://open.spotify.com/album/5X3UjKtBVdOZ5wgRstrpmO) | 2:37 |
-| 33 | [EKESEB](https://open.spotify.com/track/1xzeiFRhWID8WXb3IIZKnx) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [benno!](https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053), [Lord Jko](https://open.spotify.com/artist/1kiKJNF8pnlncgTIpoTxAI) | [Ekeseb](https://open.spotify.com/album/0ZvRH8xgs5FSi1flRJ1niZ) | 2:26 |
+| 33 | [EKESEB](https://open.spotify.com/track/1xzeiFRhWID8WXb3IIZKnx) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [benno!](https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053), [Lord Jko](https://open.spotify.com/artist/1kiKJNF8pnlncgTIpoTxAI) | [EKESEB](https://open.spotify.com/album/0ZvRH8xgs5FSi1flRJ1niZ) | 2:26 |
 | 34 | [Aria Tesa](https://open.spotify.com/track/7qzSl2SluU0mRPWpDWouH9) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Aria Tesa](https://open.spotify.com/album/2wjV4itXdtzlxlN2QxwO2b) | 2:30 |
 | 35 | [Overdrive](https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [This isn’t what you think it is \(EP\)](https://open.spotify.com/album/4OcCeiJxG51PNH2Eh1rz8u) | 3:19 |
 | 36 | [The Treadmill](https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 3:22 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 57 | [SCHAUFENSTER](https://open.spotify.com/track/2aEm7tPxBCAWZb1ThM3EL9) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [SCHAUFENSTER](https://open.spotify.com/album/60ShzvcI3O4wGWgq3aPEHS) | 2:16 |
 | 58 | [Deeper](https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Deeper](https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP) | 4:48 |
 | 59 | [Memories Never Go](https://open.spotify.com/track/78KhFb5pjqxnz948yRS0dh) | [Myle](https://open.spotify.com/artist/1EhPRkK8hf1SzrDhzPlaMw) | [Memories Never Go](https://open.spotify.com/album/6UUdweELIvWwftw1NtxWxu) | 3:18 |
-| 60 | [J'aimerais](https://open.spotify.com/track/3hJwN37tfEiFMfdfIYo9O2) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA), [Orlane](https://open.spotify.com/artist/2hw9I0HXNDcxp3jQAq6r22) | [ENDLESS RECESS](https://open.spotify.com/album/3OhzYZ9lAGHFevjvIMZUF6) | 4:26 |
+| 60 | [J'aimerais](https://open.spotify.com/track/3hJwN37tfEiFMfdfIYo9O2) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA), [Orlane](https://open.spotify.com/artist/1rdoaK2hCE8hLoOjKXSDNF) | [ENDLESS RECESS](https://open.spotify.com/album/3OhzYZ9lAGHFevjvIMZUF6) | 4:26 |
 | 61 | [Nicht an meinem Tisch](https://open.spotify.com/track/4EGzDCiY49NnqKBsltrkKx) | [Tabea](https://open.spotify.com/artist/2Ln4MnBIgYIjosyhXvgvW3) | [Nicht an meinem Tisch](https://open.spotify.com/album/5Pd21h0oZXLUNsJmBnrKCo) | 3:11 |
 | 62 | [Sunday My Heart Hurts](https://open.spotify.com/track/7jHZ78k0uz8h2CpXO2oZda) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Girl In A Bottle](https://open.spotify.com/album/415W2je9J0gsgUKKGBBRHG) | 2:56 |
 | 63 | [Dreaming](https://open.spotify.com/track/18TnCQ3tnJVvvF2KdACTgE) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [HEADER](https://open.spotify.com/artist/7odWcvukhtSCQY2pBN7YT0) | [Dreaming](https://open.spotify.com/album/1G9YU8mm4glQy0NETkozvK) | 3:12 |

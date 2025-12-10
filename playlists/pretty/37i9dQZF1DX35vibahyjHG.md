@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 ### [Best of EQUAL Africa 2025](https://open.spotify.com/playlist/37i9dQZF1DX35vibahyjHG)
 
-> The best songs by African women in 2025, selected by our editors\. Cover: <a href="https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK?si=9Y35PBX5R467eG2Yvm3Sww">Moliy</a>
+> Highlights from 2025, listen to women at full volume.<br/>Cover: <a href="https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK?si=9Y35PBX5R467eG2Yvm3Sww">Moliy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,026 likes - 49 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,047 likes - 49 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 | 48 | [Hai Suka \(feat\. Kay Invictus, Nia Pearl & Leandra.Vert\)](https://open.spotify.com/track/6Zj3dCGsarzfcmANk4tuNS) | [Thuli P](https://open.spotify.com/artist/4X8VtOzUfXVfBjEyMjKtP1), [Kay Invictus](https://open.spotify.com/artist/032XWTfikybkuikEsBqLRc), [Nia Pearl](https://open.spotify.com/artist/7kIugQ8wJXbh4k72hgMuyK), [Leandra.Vert](https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l) | [Hai Suka \(feat\. Kay Invictus, Nia Pearl & Leandra.Vert\)](https://open.spotify.com/album/1WwrCU8E90R1t0IJ0lF4mk) | 6:56 |
 | 49 | [Falling](https://open.spotify.com/track/0XDlRuIsOcSjk0gEJNgrHG) | [Phiwo](https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp) | [Missed Calls](https://open.spotify.com/album/06pfB7hTyBYlV9RblGKzDE) | 3:36 |
 
-Snapshot ID: `AAAAACbn37y7dJU6JFUTSAhu6VgMPiON`
+Snapshot ID: `AAAAAEXhwXeTP1U45bnFY61IQ0B9ppgI`

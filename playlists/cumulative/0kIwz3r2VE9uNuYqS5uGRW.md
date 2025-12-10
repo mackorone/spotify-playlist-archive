@@ -4,7 +4,7 @@
 
 > 
 
-115 songs - 6 hr 1 min
+119 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,8 +29,10 @@
 | [Comin'](https://open.spotify.com/track/1sMc22zOorFtyglxQm1MBn) | [21Gatz](https://open.spotify.com/artist/0r0zw7gjmVZamJs9uY72Eb) | [Comin'](https://open.spotify.com/album/3NoLzPNXKprTlGRMDUlvHP) | 3:14 | 2025-04-10 |  |
 | [Como De La Rose](https://open.spotify.com/track/7iiP6jVAweqnI1ldaeSgNS) | [Adam Oyola](https://open.spotify.com/artist/24VmBb43LrEmkEwg3h3sT2) | [Como De La Rose](https://open.spotify.com/album/7iKUccDnDpYjQKdvdIHhYO) | 2:35 | 2025-09-08 |  |
 | [Comozuna](https://open.spotify.com/track/7vRnDHhrIddkQT96Nlda0t) | [Cesar Mar](https://open.spotify.com/artist/5x2wtFnzOEdrM1fH8UomaP), [RubzzZ](https://open.spotify.com/artist/6ALeydrfOfyJcwoRL75Evg) | [Comozuna](https://open.spotify.com/album/7csdKgaN0n4DVZO7TONXX9) | 2:51 | 2025-07-27 |  |
+| [Copper](https://open.spotify.com/track/5WKo5MJKoepRrmXYN5pzGY) | [John Pronto](https://open.spotify.com/artist/5QtUYAAvpQfIFojICPFZuq) | [For the Birds](https://open.spotify.com/album/03ME7K35Ti1du3NWt02j5t) | 3:56 | 2025-12-10 |  |
 | [Cueca Vermelha](https://open.spotify.com/track/0psQlXBy3LAWiYGcg2Vz6Y) | [Marcos Yury Dieper](https://open.spotify.com/artist/2NgqmdXxP8paU9uQWL3btf) | [Cueca Vermelha](https://open.spotify.com/album/4hJlPnSql0scw26e7qr0l4) | 3:30 | 2025-06-22 |  |
 | [Cuentame](https://open.spotify.com/track/1ofaTXh8Vp8j8JDjFkcvoN) | [J MART](https://open.spotify.com/artist/4U5QlsisiFasO599Hn5rTK) | [Cuentame](https://open.spotify.com/album/5aPjoYmj0AuOvC3pg6Xzrv) | 1:48 | 2025-08-17 |  |
+| [Desejos](https://open.spotify.com/track/2BhCdMZCJt4Y6IDuJNNMOK) | [Tiago Amorim](https://open.spotify.com/artist/1blXm9FViuataPse8jKebH) | [Desejos](https://open.spotify.com/album/3p3ftOcLj6YGJvVuzYUsYU) | 3:54 | 2025-12-10 |  |
 | [DIDN'T WARN YA](https://open.spotify.com/track/7qrzCjrqPljxxMRQCIEwTt) | [EmmettXG](https://open.spotify.com/artist/5e6QopfDN9LufTWvYlLlQZ) | [DIDN'T WARN YA](https://open.spotify.com/album/3CQhmDzGEbPDNu7ShVyeVE) | 1:48 | 2025-04-03 |  |
 | [Dog Daze Haze](https://open.spotify.com/track/5UfjfOt3mwzpaGeO1Hwgdw) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [yukigloom](https://open.spotify.com/artist/6JGwAjF1SceQb8y5mMVuha) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:14 | 2025-09-01 |  |
 | [Donnie Darko](https://open.spotify.com/track/5E0zKLNtUaa6Wr8bEI35w4) | [Diamond Delicious](https://open.spotify.com/artist/3sMiF49UAtjkzvpyUnmnbe) | [Suburbia](https://open.spotify.com/album/40VrWnfYBeiT61kdFR0Lav) | 4:14 | 2025-04-14 |  |
@@ -66,6 +68,7 @@
 | [Julieta](https://open.spotify.com/track/0ych2VtgKxgHWicZg84yGX) | [Amillie](https://open.spotify.com/artist/1duM4rm8TlgqBKOTPCHXgd), [Fermin Daddy](https://open.spotify.com/artist/021cc0FsTWmMjCULvwsZg8) | [Julieta](https://open.spotify.com/album/58vKWq7EQkKQIcw92aOhPm) | 3:16 | 2025-03-27 |  |
 | [KEEPIN IT REAL](https://open.spotify.com/track/06yfIxqtvS9uKuFOISWTuF) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Melodic Desire II](https://open.spotify.com/album/3zyNtvKFT6Fcgmr3B0APjn) | 2:01 | 2025-04-10 |  |
 | [La Corista](https://open.spotify.com/track/3nEddgET3KJeYUoT9nx9Kq) | [Gharet & Lkenn](https://open.spotify.com/artist/39m8tomZHufG8tNNPc96jq) | [La Corista](https://open.spotify.com/album/3CCtu0y4QxmoTFvP4RjgGa) | 3:25 | 2025-04-10 |  |
+| [LATELY](https://open.spotify.com/track/4ajoLXkoZzkCIxeWAjqS3V) | [KvN](https://open.spotify.com/artist/2JNr329RMdieI5JCYwUnIh) | [LATELY](https://open.spotify.com/album/6ot5Qbgd08hzUmvtiFhDLv) | 2:52 | 2025-12-10 |  |
 | [Laws](https://open.spotify.com/track/0RtwS89n4XVNOwAH4BOShh) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Laws](https://open.spotify.com/album/7eqdrllEwQEPEP0R5kdx4N) | 3:58 | 2025-03-12 |  |
 | [LEAN!](https://open.spotify.com/track/664DgklAT5Lo9Wrb6QXpdb) | [depthOblivious](https://open.spotify.com/artist/21o6YsaoKdb1Nwqj6jPbtk), [SIX KAY](https://open.spotify.com/artist/6mmiz77evce5uhUiL0VcGi), [Christ's Follower](https://open.spotify.com/artist/6uu11HELac3RX4GiGFmRXV) | [LEAN!](https://open.spotify.com/album/1BDq7h2zoZS60NJr0p3Ogd) | 1:25 | 2025-04-07 |  |
 | [Learning to Miss You](https://open.spotify.com/track/1yJ0t8Sf2TdkIj4Ye9pm7x) | [City Builders](https://open.spotify.com/artist/3U28N05cLVVNS1iW4NOA3A) | [Learning to Miss You](https://open.spotify.com/album/2sftCIduUO3KFOu8z1kOJI) | 3:19 | 2025-05-16 |  |
@@ -113,6 +116,7 @@
 | [Throw That Ass Back](https://open.spotify.com/track/5ldc4pQnSo3kN9iuGU28FW) | [Medikate](https://open.spotify.com/artist/5BqQcPG5Y9hHLfjePrPmNh) | [Throw That Ass Back](https://open.spotify.com/album/5tmLNvZODQPdCwj7pjnkdU) | 2:39 | 2025-07-03 |  |
 | [To Her](https://open.spotify.com/track/5Xa32y3yYAqQjuSnQ9e2nC) | [Libby Ember](https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba) | [To Her](https://open.spotify.com/album/1M9XLvmAovyW7kQsxZXjc1) | 4:40 | 2025-11-18 |  |
 | [Tu Boca](https://open.spotify.com/track/3po03pa6i2K3a6kzLw02Xk) | [Kris Ferrer](https://open.spotify.com/artist/0yIDYHbJhDpDXiGTHCLXh7) | [Tu Boca](https://open.spotify.com/album/298jSFyPbaASkohAaHEc5J) | 3:43 | 2025-04-06 |  |
+| [TU FAIS LA MORTE](https://open.spotify.com/track/3MM9zNGAgckkNknPsp2OVR) | [Doctor Ly](https://open.spotify.com/artist/28dgxNbA7czFkjfUMJN3RA) | [TU FAIS LA MORTE](https://open.spotify.com/album/3Ye99MmmiPKSJex4cxZzHO) | 3:16 | 2025-12-10 |  |
 | [Tu veux du fric](https://open.spotify.com/track/1K8iNo9h6XliHQirVWga5H) | [Cody Blackstone](https://open.spotify.com/artist/5GqF0wXj5zyOE5O5gcOkqC) | [Instant T](https://open.spotify.com/album/4PuvykWwdBaxjdxNSkoX2f) | 3:06 | 2025-04-03 |  |
 | [Waiting for the Day After](https://open.spotify.com/track/6HHjEdNV1ZUoAptVcis6zN) | [Hollowave](https://open.spotify.com/artist/3pOKXtt845AaIJxzoUY918) | [Pigheaded](https://open.spotify.com/album/40QIQaRkMHTx2IKrRkGBFD) | 5:24 | 2025-10-30 |  |
 | [Way We Remember](https://open.spotify.com/track/01sL1rfTr78MW7w1Me2pLo) | [Ev\. G](https://open.spotify.com/artist/7fF6lYj7ZXaTAmRRdtzOvE) | [Way We Remember](https://open.spotify.com/album/2CkRy3A2t9F9w4266B1sIA) | 2:48 | 2025-08-19 |  |

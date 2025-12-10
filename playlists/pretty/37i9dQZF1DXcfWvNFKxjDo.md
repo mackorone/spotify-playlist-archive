@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Niklas Dee
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,229 likes - 90 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,224 likes - 90 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 5 | [The Partycrasher](https://open.spotify.com/track/2uHGci4XJywAICJ1D54Xgq) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Chuckie](https://open.spotify.com/artist/4x7gxsrTH3gThvSKZPPwaQ) | [The Partycrasher](https://open.spotify.com/album/4rwbRBvVsKL96gZQcaHTCT) | 2:47 |
 | 6 | [Schlaf](https://open.spotify.com/track/2ZqEViKZOBwd05aYnDYGil) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Schlaf](https://open.spotify.com/album/1pou2U02feKSGGkT7tTFhW) | 2:19 |
 | 7 | [obvious](https://open.spotify.com/track/0RXP5hsxxUyWMeKDd0Zxb1) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [undux](https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9) | 3:32 |
-| 8 | [J'aimerais](https://open.spotify.com/track/3hJwN37tfEiFMfdfIYo9O2) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA), [Orlane](https://open.spotify.com/artist/2hw9I0HXNDcxp3jQAq6r22) | [ENDLESS RECESS](https://open.spotify.com/album/3OhzYZ9lAGHFevjvIMZUF6) | 4:26 |
+| 8 | [J'aimerais](https://open.spotify.com/track/3hJwN37tfEiFMfdfIYo9O2) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA), [Orlane](https://open.spotify.com/artist/1rdoaK2hCE8hLoOjKXSDNF) | [ENDLESS RECESS](https://open.spotify.com/album/3OhzYZ9lAGHFevjvIMZUF6) | 4:26 |
 | 9 | [Falling](https://open.spotify.com/track/2VpUEPN5OQmYvcvhM68wyS) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9) | [Falling](https://open.spotify.com/album/03RsEVWePsLZdk7lTs9jvn) | 2:05 |
 | 10 | [Overdrive](https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [This isn’t what you think it is \(EP\)](https://open.spotify.com/album/4OcCeiJxG51PNH2Eh1rz8u) | 3:19 |
 | 11 | [Play With Me](https://open.spotify.com/track/25KQKt7whpeqcj5LsttRP7) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Play With Me](https://open.spotify.com/album/3drDrRF9zabJYjYs04DI98) | 2:13 |

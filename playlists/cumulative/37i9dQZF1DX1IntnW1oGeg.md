@@ -4,10 +4,11 @@
 
 > Enjoy exclusive live performance videos from K\-Pop artists produced by Spotify! \(스포티파이가 프로듀싱한 케이팝 아티스트들의 특별한 라이브 퍼포먼스 비디오를 즐겨보세요!\)
 
-16 songs - 58 min 58 sec
+17 songs - 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Beat It Up \| Spotify Performance Video](https://open.spotify.com/track/5B5SLuIkevqp9KlCzxhupw) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beat It Up \| Spotify Performance Video](https://open.spotify.com/album/2H001xNfwbodUi051OEO6Y) | 3:56 | 2025-11-19 |  |
 | [Freestyle](https://open.spotify.com/track/2rUpPYWptTmLm8fIYSXdQ2) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Freestyle](https://open.spotify.com/album/1xHNZeSRJIJSxqPlvD2Jkw) | 2:59 | 2025-11-19 |  |
 | [Freestyle](https://open.spotify.com/track/6Wu30Ro8z8SLBUxsnfTKLI) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Freestyle](https://open.spotify.com/album/3pr47kR7vZWpgsiLsGBFEa) | 2:59 | 2025-11-19 |  |
 | [Loose \(Korean Ver.\)](https://open.spotify.com/track/03HHGNtjpS5K6fRcwlX3Sx) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose \(Korean Ver.\)](https://open.spotify.com/album/47tBLYvFev5FbtKO9PHlWm) | 4:06 | 2025-11-19 |  |

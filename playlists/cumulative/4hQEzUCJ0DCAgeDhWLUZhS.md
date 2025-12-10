@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-542 songs - 1 day 7 hr 41 min
+543 songs - 1 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [NEVER ENOUGH](https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY) | 4:47 | 2025-04-11 |  |
 | [Never The One](https://open.spotify.com/track/5RoJWqg54tmuiIuw2aJmrE) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [Never The One](https://open.spotify.com/album/11TI3AJR7ghonSEu94YsLm) | 4:13 | 2023-05-19 | 2025-06-04 |
 | [New Breeze](https://open.spotify.com/track/6M4hZYuvsYSndZq2xsugPW) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [New Breeze](https://open.spotify.com/album/1eCcspXtHzkUc7AQEJHESe) | 3:04 | 2023-04-14 | 2025-06-04 |
+| [New Wave](https://open.spotify.com/track/1NB1NajzztHLM3s1b6xNxb) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [New Wave](https://open.spotify.com/album/1sLMeUdZZFw0Jtn9haCuIl) | 4:04 | 2025-12-10 |  |
 | [nightmare](https://open.spotify.com/track/6xMTyQjHmwrufXT6W7VyCr) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [nightmare](https://open.spotify.com/album/5b0b5rlf8IaXxGuUrxiFn2) | 2:54 | 2020-10-10\* | 2021-05-13 |
 | [No Eyes](https://open.spotify.com/track/32ABbnhfN5EYv24raxYXBg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP) | 3:33 | 2021-06-12 | 2025-05-28 |
 | [No Love In LA](https://open.spotify.com/track/79rJtBxUfZzPuEYLoGma28) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [No Love In LA / Punching Bag](https://open.spotify.com/album/6F5Nq2vim1uZ960TmhVuLd) | 3:22 | 2021-07-10 | 2025-05-28 |

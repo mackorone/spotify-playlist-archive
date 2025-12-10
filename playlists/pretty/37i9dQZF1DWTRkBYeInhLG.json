@@ -1,28 +1,28 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 499187,
+  "num_followers": 499197,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACEciLvR9a7Clnzzbz4JOx7CSGoG",
+  "snapshot_id": "AAAAAITMxXZMBoU8QnGE1rb64ttwOYCH",
   "tracks": [
     {
-      "added_at": "2025-11-04 14:09:23",
+      "added_at": "2025-10-07 11:00:23",
       "album": {
-        "name": "What Do You Really Know?",
-        "url": "https://open.spotify.com/album/7gOhCvJD152GWf16fhs7Gp"
+        "name": "Lihat Kebunku (Taman Bunga)",
+        "url": "https://open.spotify.com/album/1K1gVX9mqTJuCaLvxL7AIq"
       },
       "artists": [
         {
-          "name": "Reality Club",
-          "url": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
+          "name": "Aku Jeje",
+          "url": "https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f"
         }
       ],
-      "duration_ms": 259769,
-      "name": "A Sorrowful Reunion",
-      "url": "https://open.spotify.com/track/1aoN2IqlLDCqbeqLylN7BQ"
+      "duration_ms": 189897,
+      "name": "Lihat Kebunku (Taman Bunga)",
+      "url": "https://open.spotify.com/track/5dvIK269hL3eZXQMG4Vc2C"
     },
     {
       "added_at": "2025-10-07 11:00:23",
@@ -113,20 +113,20 @@
       "url": "https://open.spotify.com/track/4UucLisbPzUcqYCE6cQX2z"
     },
     {
-      "added_at": "2025-10-07 11:00:23",
+      "added_at": "2025-11-04 14:09:23",
       "album": {
-        "name": "Lesung Pipi",
-        "url": "https://open.spotify.com/album/5HKEezqSNuJSD5Nbrs9bhG"
+        "name": "What Do You Really Know?",
+        "url": "https://open.spotify.com/album/7gOhCvJD152GWf16fhs7Gp"
       },
       "artists": [
         {
-          "name": "Raim Laode",
-          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+          "name": "Reality Club",
+          "url": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
         }
       ],
-      "duration_ms": 225153,
-      "name": "Lesung Pipi",
-      "url": "https://open.spotify.com/track/2OxvanM5m1Na9OVlXyXmUp"
+      "duration_ms": 259769,
+      "name": "A Sorrowful Reunion",
+      "url": "https://open.spotify.com/track/1aoN2IqlLDCqbeqLylN7BQ"
     },
     {
       "added_at": "2025-10-07 11:00:23",
@@ -147,22 +147,18 @@
     {
       "added_at": "2025-10-07 11:00:23",
       "album": {
-        "name": "Runtuh",
-        "url": "https://open.spotify.com/album/5boeKAXsTkdFlm6OnkQxQW"
+        "name": "Lesung Pipi",
+        "url": "https://open.spotify.com/album/5HKEezqSNuJSD5Nbrs9bhG"
       },
       "artists": [
         {
-          "name": "Feby Putri",
-          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
-        },
-        {
-          "name": "Fiersa Besari",
-          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+          "name": "Raim Laode",
+          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
         }
       ],
-      "duration_ms": 223973,
-      "name": "Runtuh",
-      "url": "https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO"
+      "duration_ms": 225153,
+      "name": "Lesung Pipi",
+      "url": "https://open.spotify.com/track/2OxvanM5m1Na9OVlXyXmUp"
     },
     {
       "added_at": "2025-10-07 11:00:23",
@@ -219,6 +215,26 @@
     {
       "added_at": "2025-10-07 11:00:23",
       "album": {
+        "name": "Runtuh",
+        "url": "https://open.spotify.com/album/5boeKAXsTkdFlm6OnkQxQW"
+      },
+      "artists": [
+        {
+          "name": "Feby Putri",
+          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
+        },
+        {
+          "name": "Fiersa Besari",
+          "url": "https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV"
+        }
+      ],
+      "duration_ms": 223973,
+      "name": "Runtuh",
+      "url": "https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO"
+    },
+    {
+      "added_at": "2025-10-07 11:00:23",
+      "album": {
         "name": "Sentimental",
         "url": "https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 234204,
       "name": "Lantas",
       "url": "https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW"
-    },
-    {
-      "added_at": "2025-10-07 11:00:23",
-      "album": {
-        "name": "Lihat Kebunku (Taman Bunga)",
-        "url": "https://open.spotify.com/album/1K1gVX9mqTJuCaLvxL7AIq"
-      },
-      "artists": [
-        {
-          "name": "Aku Jeje",
-          "url": "https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f"
-        }
-      ],
-      "duration_ms": 189897,
-      "name": "Lihat Kebunku (Taman Bunga)",
-      "url": "https://open.spotify.com/track/5dvIK269hL3eZXQMG4Vc2C"
     },
     {
       "added_at": "2025-10-07 11:00:23",
@@ -281,6 +281,22 @@
       "url": "https://open.spotify.com/track/1cvtW4ZA6Tfmap44lhb5GG"
     },
     {
+      "added_at": "2025-12-09 07:36:31",
+      "album": {
+        "name": "TEATER NESTAPA",
+        "url": "https://open.spotify.com/album/6z3bQ2C26jxl3sSCRJgNUf"
+      },
+      "artists": [
+        {
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+        }
+      ],
+      "duration_ms": 213047,
+      "name": "Memori",
+      "url": "https://open.spotify.com/track/2ZEXytbCABVSSV7wn47941"
+    },
+    {
       "added_at": "2025-10-07 11:00:23",
       "album": {
         "name": "Lyodra",
@@ -295,6 +311,22 @@
       "duration_ms": 261299,
       "name": "Pesan Terakhir",
       "url": "https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ"
+    },
+    {
+      "added_at": "2025-10-07 11:00:23",
+      "album": {
+        "name": "Looking for Love in Wrong Places",
+        "url": "https://open.spotify.com/album/1KN2KKeuWwdkimahJ0lmFp"
+      },
+      "artists": [
+        {
+          "name": "Assia Keva",
+          "url": "https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8"
+        }
+      ],
+      "duration_ms": 245421,
+      "name": "Looking for Love in Wrong Places",
+      "url": "https://open.spotify.com/track/4gngdFoZ9jGJcHAlbjWmIZ"
     },
     {
       "added_at": "2025-10-07 11:00:23",
@@ -315,22 +347,6 @@
       "duration_ms": 207898,
       "name": "Kembali Pulang",
       "url": "https://open.spotify.com/track/6xeqCawPZngDVqw2W2aGaR"
-    },
-    {
-      "added_at": "2025-10-07 11:00:23",
-      "album": {
-        "name": "Looking for Love in Wrong Places",
-        "url": "https://open.spotify.com/album/1KN2KKeuWwdkimahJ0lmFp"
-      },
-      "artists": [
-        {
-          "name": "Assia Keva",
-          "url": "https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8"
-        }
-      ],
-      "duration_ms": 245421,
-      "name": "Looking for Love in Wrong Places",
-      "url": "https://open.spotify.com/track/4gngdFoZ9jGJcHAlbjWmIZ"
     },
     {
       "added_at": "2025-10-07 11:00:23",
@@ -599,22 +615,6 @@
     {
       "added_at": "2025-10-07 11:00:23",
       "album": {
-        "name": "Rumah",
-        "url": "https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn"
-      },
-      "artists": [
-        {
-          "name": "Salma Salsabil",
-          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
-        }
-      ],
-      "duration_ms": 258845,
-      "name": "Rumah",
-      "url": "https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk"
-    },
-    {
-      "added_at": "2025-10-07 11:00:23",
-      "album": {
         "name": "Mesin Waktu",
         "url": "https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 262734,
       "name": "Mesin Waktu",
       "url": "https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd"
+    },
+    {
+      "added_at": "2025-10-07 11:00:23",
+      "album": {
+        "name": "Rumah",
+        "url": "https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn"
+      },
+      "artists": [
+        {
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+        }
+      ],
+      "duration_ms": 258845,
+      "name": "Rumah",
+      "url": "https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk"
     },
     {
       "added_at": "2025-10-07 11:00:23",
@@ -871,22 +887,6 @@
     {
       "added_at": "2025-10-07 11:00:23",
       "album": {
-        "name": "Hit Singles BCL And More",
-        "url": "https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j"
-      },
-      "artists": [
-        {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
-        }
-      ],
-      "duration_ms": 292306,
-      "name": "Karena Kucinta Kau",
-      "url": "https://open.spotify.com/track/3OO0GMQomNOnhFli960HDz"
-    },
-    {
-      "added_at": "2025-10-07 11:00:23",
-      "album": {
         "name": "Musim Yang Baik",
         "url": "https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG"
       },
@@ -899,6 +899,22 @@
       "duration_ms": 216295,
       "name": "Lapang Dada",
       "url": "https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4"
+    },
+    {
+      "added_at": "2025-10-07 11:00:23",
+      "album": {
+        "name": "Hit Singles BCL And More",
+        "url": "https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j"
+      },
+      "artists": [
+        {
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+        }
+      ],
+      "duration_ms": 292306,
+      "name": "Karena Kucinta Kau",
+      "url": "https://open.spotify.com/track/3OO0GMQomNOnhFli960HDz"
     },
     {
       "added_at": "2025-10-07 11:00:23",
@@ -951,22 +967,6 @@
     {
       "added_at": "2025-10-07 11:00:23",
       "album": {
-        "name": "Tentang Kamu",
-        "url": "https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8"
-      },
-      "artists": [
-        {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Kecewa",
-      "url": "https://open.spotify.com/track/1sDfnkQge4Nmkp8sgLgH1i"
-    },
-    {
-      "added_at": "2025-10-07 11:00:23",
-      "album": {
         "name": "The Best of Dewa 19",
         "url": "https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS"
       },
@@ -979,6 +979,22 @@
       "duration_ms": 241266,
       "name": "Kamulah Satu - Satunya",
       "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
+    },
+    {
+      "added_at": "2025-10-07 11:00:23",
+      "album": {
+        "name": "Tentang Kamu",
+        "url": "https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8"
+      },
+      "artists": [
+        {
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "Kecewa",
+      "url": "https://open.spotify.com/track/1sDfnkQge4Nmkp8sgLgH1i"
     },
     {
       "added_at": "2025-10-07 11:00:23",
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2025-10-07 11:00:23",
       "album": {
-        "name": "Cinta Pertama",
-        "url": "https://open.spotify.com/album/5XZhAtlW5rKTZS2THwL8ju"
-      },
-      "artists": [
-        {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
-        }
-      ],
-      "duration_ms": 262253,
-      "name": "Cinta Pertama (Sunny)",
-      "url": "https://open.spotify.com/track/0E8e3Fy9Rh2C8K9rRnB2ih"
-    },
-    {
-      "added_at": "2025-10-07 11:00:23",
-      "album": {
         "name": "Peace, Love And Respect",
         "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
       },
@@ -1059,6 +1059,22 @@
       "duration_ms": 212026,
       "name": "11 Januari",
       "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
+    },
+    {
+      "added_at": "2025-10-07 11:00:23",
+      "album": {
+        "name": "Cinta Pertama",
+        "url": "https://open.spotify.com/album/5XZhAtlW5rKTZS2THwL8ju"
+      },
+      "artists": [
+        {
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+        }
+      ],
+      "duration_ms": 262253,
+      "name": "Cinta Pertama (Sunny)",
+      "url": "https://open.spotify.com/track/0E8e3Fy9Rh2C8K9rRnB2ih"
     },
     {
       "added_at": "2025-10-07 11:00:23",
@@ -1331,22 +1347,6 @@
       "duration_ms": 211965,
       "name": "Aku Wanita (with Dipha Barus)",
       "url": "https://open.spotify.com/track/3GYxLBhbX1bJH0zoC8zXa7"
-    },
-    {
-      "added_at": "2025-10-07 11:00:23",
-      "album": {
-        "name": "Muara",
-        "url": "https://open.spotify.com/album/45nwYGZMMBIXEKl1SUzYMj"
-      },
-      "artists": [
-        {
-          "name": "Adera",
-          "url": "https://open.spotify.com/artist/5puPe9ODwSfnmqy5cx90TC"
-        }
-      ],
-      "duration_ms": 241392,
-      "name": "Muara",
-      "url": "https://open.spotify.com/track/4lCtZZktwgQqzCoJxK3ZxR"
     }
   ],
   "unique_name": "Santai Sejenak",

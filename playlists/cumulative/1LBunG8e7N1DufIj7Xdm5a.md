@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,676 songs - 8 day 3 hr 4 min
+3,677 songs - 8 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1922,6 +1922,7 @@
 | [Machine of Doom \(another\)](https://open.spotify.com/track/4pP9nA7dwWdeksr4yp4hps) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Electronic Techno Metal](https://open.spotify.com/album/3QGQOQiU2ULfdIXSSp3w2y) | 3:37 | 2025-09-17 |  |
 | [Made Sum Plans](https://open.spotify.com/track/5sE9XpE2ukIwC2sYhIvUrs) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Jump Out](https://open.spotify.com/album/5Vb4K4Xf4KPFupmhHi5COM) | 2:07 | 2025-07-28 |  |
 | [Made Up Of Dreams](https://open.spotify.com/track/1z1iTJ3Y2xg13nqcd02nJs) | [The Lovves](https://open.spotify.com/artist/0D1Pm8FvVpv0CUoawzKyO2) | [I Am The Sun](https://open.spotify.com/album/5t27Jx1oOWTDbwj3of26s4) | 3:24 | 2025-08-02 |  |
+| [Mafala](https://open.spotify.com/track/4PAhL19b0PrdKs4a3DFxs2) | [Presenter Kai](https://open.spotify.com/artist/5SVqEOQ0V3lJbzjWp5pfx4), [Diana Yegon & The Duo](https://open.spotify.com/artist/1XzbBZqXFZIYh9G0w1VXTa) | [Mafala](https://open.spotify.com/album/2AZjgzueIcQ0FK1xEBgbin) | 4:12 | 2025-12-09 |  |
 | [Magdalene](https://open.spotify.com/track/1OFF9CUPCokNb8A24iyHqz) | [Railway Athletic](https://open.spotify.com/artist/4i5DLwG9DeSmYHTgh8rxD9) | [Alco\-Pop](https://open.spotify.com/album/4PMlLGxFM68fEBMRqNKqG5) | 3:42 | 2025-11-05 |  |
 | [Magic Stars](https://open.spotify.com/track/02HXbXer3RygM8jy9rMB68) | [Loris](https://open.spotify.com/artist/0NNVqu4vFNvDhWFfaHmXGB) | [Magic Stars](https://open.spotify.com/album/5SidTnfDmZlPsjRfWi4ul8) | 2:30 | 2025-05-27 |  |
 | [MAGNET](https://open.spotify.com/track/1RF6zZReSNe8j5OcWkQDxR) | [Borilin](https://open.spotify.com/artist/65km278PALH7Kv41YHQCey) | [MAGNET](https://open.spotify.com/album/12EJ7ILlLpOUTVI04KT70G) | 3:08 | 2025-05-16 |  |

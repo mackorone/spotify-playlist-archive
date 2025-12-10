@@ -1,12 +1,12 @@
 {
   "description": "all we want for christmas is... che finisca \ud83d\ude43",
-  "num_followers": 140013,
+  "num_followers": 139973,
   "original_name": "pov: odi il natale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANaNN8NMhWDbGgp/aNZ49eMAwjP2",
+  "snapshot_id": "AAAAANzWU33PA6cm5SJxDg7RDDKP62hO",
   "tracks": [
     {
       "added_at": "2025-12-01 15:05:23",
@@ -471,6 +471,22 @@
     {
       "added_at": "2025-12-01 15:05:23",
       "album": {
+        "name": "DJ Play A Christmas Song",
+        "url": "https://open.spotify.com/album/6s5Q4m7eVFpdPwzGCLiYX8"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "DJ Play A Christmas Song",
+      "url": "https://open.spotify.com/track/2ljUUoqlnRUGGa7bmpvevC"
+    },
+    {
+      "added_at": "2025-12-01 15:05:23",
+      "album": {
         "name": "folklore (deluxe version)",
         "url": "https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 285640,
       "name": "exile (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/5S4aYQAJOwJMAamANWlICO"
-    },
-    {
-      "added_at": "2025-12-01 15:05:23",
-      "album": {
-        "name": "DJ Play A Christmas Song",
-        "url": "https://open.spotify.com/album/6s5Q4m7eVFpdPwzGCLiYX8"
-      },
-      "artists": [
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "DJ Play A Christmas Song",
-      "url": "https://open.spotify.com/track/2ljUUoqlnRUGGa7bmpvevC"
     }
   ],
   "unique_name": "pov: odi il natale",

@@ -1,12 +1,12 @@
 {
   "description": "This is Ice Spice. The essential tracks, all in one playlist.",
-  "num_followers": 75087,
+  "num_followers": 75102,
   "original_name": "This Is Ice Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTTDgAAAAABSEftpOrZ366FkYcyZepM3",
+  "snapshot_id": "aTYVAAAAAADh9bHwVuLzr5/Ljl6RJQ0L",
   "tracks": [
     {
       "added_at": null,
@@ -383,8 +383,24 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y2K! : I\u2019m Just A Girl (Deluxe)",
+        "url": "https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 158740,
+      "name": "So What?",
+      "url": "https://open.spotify.com/track/7vU7SxAdwjgbqvyCKmXy3X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fisherrr (Remix)",
-        "url": "https://open.spotify.com/album/12MvGwLQqtkCUCMw0IsAyz"
+        "url": "https://open.spotify.com/album/2Mhfqu46p2zR69GXjboHNO"
       },
       "artists": [
         {
@@ -402,23 +418,7 @@
       ],
       "duration_ms": 235354,
       "name": "Fisherrr - Remix",
-      "url": "https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y2K! : I\u2019m Just A Girl (Deluxe)",
-        "url": "https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 158740,
-      "name": "So What?",
-      "url": "https://open.spotify.com/track/7vU7SxAdwjgbqvyCKmXy3X"
+      "url": "https://open.spotify.com/track/4dP2hz4yArHH91xIkuWZTD"
     },
     {
       "added_at": null,

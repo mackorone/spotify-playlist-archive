@@ -595,6 +595,28 @@
     },
     {
       "album": {
+        "name": "christmas.wav",
+        "url": "https://open.spotify.com/album/5lbkOntAn2fe657duD0s6b"
+      },
+      "artists": [
+        {
+          "name": "Reggie Dartey",
+          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
+        },
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156624,
+      "name": "deck the halls.wav",
+      "url": "https://open.spotify.com/track/3ZufhwNN7uZfVrjKID7gOS"
+    },
+    {
+      "album": {
         "name": "Drummer Boy",
         "url": "https://open.spotify.com/album/6xUPYvryDEeFstO2P2ECEH"
       },
@@ -1575,6 +1597,24 @@
     },
     {
       "album": {
+        "name": "Let it Snow",
+        "url": "https://open.spotify.com/album/0yeuE7D7HRe0XTrTn6kSm7"
+      },
+      "artists": [
+        {
+          "name": "Alexia Jayy",
+          "url": "https://open.spotify.com/artist/13qhBGFWNzC29m0Cq2inta"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161605,
+      "name": "Let it Snow",
+      "url": "https://open.spotify.com/track/0k1F8zsS5dMzHhG12c0VSf"
+    },
+    {
+      "album": {
         "name": "The Best Of/20th Century Masters: The Christmas Collection",
         "url": "https://open.spotify.com/album/1x6bJdWl3Imquoi2Mu0BsC"
       },
@@ -2002,7 +2042,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 213600,
       "name": "My Only Christmas Wish",
       "url": "https://open.spotify.com/track/1wHzxntsy0HjTLGvTuFi5a"
@@ -2154,7 +2194,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 217626,
       "name": "O Come All Ye Faithful",
       "url": "https://open.spotify.com/track/1UvZ54idvsgA7PyubRFjRl"
@@ -2238,6 +2278,24 @@
       "duration_ms": 160981,
       "name": "presents (feat. Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/4QyO5yNf3W534HK5gI1lMA"
+    },
+    {
+      "album": {
+        "name": "For You, My Love",
+        "url": "https://open.spotify.com/album/1NVIZhe7MaVnSlWJXYzAtC"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248502,
+      "name": "Rudolph Guide Me Home",
+      "url": "https://open.spotify.com/track/5VDkuIjhAHfZHAmdxqkO4G"
     },
     {
       "album": {
@@ -3084,7 +3142,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 283560,
       "name": "This Christmas (Could Be The One)",
       "url": "https://open.spotify.com/track/02fFV8eUDKAyLayxw77RCQ"

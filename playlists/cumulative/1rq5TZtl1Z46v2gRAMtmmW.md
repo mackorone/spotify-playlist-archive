@@ -4,7 +4,7 @@
 
 > 
 
-479 songs - 1 day 7 hr 33 min
+480 songs - 1 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Cars Pass By Like Childhood Sweethearts](https://open.spotify.com/track/1qrIziSX4GwjlUMfmMhO3x) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [About To Begin / Cars Pass By Like Childhood Sweethearts](https://open.spotify.com/album/0SQV9DefT0wIBz9aCYehmu) | 3:05 | 2025-05-22 | 2025-11-07 |
 | [Cash](https://open.spotify.com/track/3aHiz7IyBKr9vNynIQJykZ) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Cash](https://open.spotify.com/album/5C7l2U2lJrjLSMg8p13J14) | 2:42 | 2023-12-11 | 2023-12-20 |
 | [Caught Up In The Fire](https://open.spotify.com/track/1cskXAWztObojI6r2j60Al) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Caught Up In The Fire](https://open.spotify.com/album/6stjuO04Rw5O2xqog9u8dA) | 3:43 | 2025-11-17 |  |
+| [Caught Up In The Fire \(An Apparition\)](https://open.spotify.com/track/3ojRt2l1Zq9YMd8eD7O4WX) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Caught Up In The Fire \(An Apparition\)](https://open.spotify.com/album/0Kylm5pCQ5cUlRb6EvHLEw) | 3:46 | 2025-12-09 |  |
 | [Chaos Space Marine](https://open.spotify.com/track/6kNYZ2Hf2QCpQhIuPxffkp) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Chaos Space Marine](https://open.spotify.com/album/2huSLowZzNhStzbu9C1Eko) | 3:36 | 2021-10-12 | 2022-06-22 |
 | [chasing the bus](https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [chasing the bus](https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp) | 3:08 | 2024-02-02 | 2024-04-27 |
 | [Childhood](https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 3:51 | 2025-07-14 |  |

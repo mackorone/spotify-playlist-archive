@@ -99,6 +99,6 @@
 | [있잖아](https://open.spotify.com/track/52tumwEdCAp7TrJ1QLNAho) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [연애 플레이리스트 OST Part.2](https://open.spotify.com/album/1Tpxwdd6eUwMJxzpv7rfpt) | 3:27 | 2024-12-19 | 2025-04-23 |
 | [청혼](https://open.spotify.com/track/2UjGbR7piN0icx797oWVCk) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [영화에서 처럼](https://open.spotify.com/album/1CRsM2hwwOafWQKXjlCS1E) | 3:49 | 2024-12-19 |  |
 | [청혼](https://open.spotify.com/track/7lw00DJUCg0P7HtOb4Ee1W) | [Noel](https://open.spotify.com/artist/7zpkDJ62XdmBpd5ZYM9l5o) | [These Are The Times](https://open.spotify.com/album/10yDCvVFY9b0ztvDZOwDtF) | 4:27 | 2024-12-19 |  |
-| [한 페이지가 될 수 있게](https://open.spotify.com/track/0EhdXt3y460mTRsi97Pyk5) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Gravity](https://open.spotify.com/album/6mAKMlMj09Vsdk05zkQ2MG) | 3:25 | 2024-12-19 |  |
+| [한 페이지가 될 수 있게 Time of Our Life](https://open.spotify.com/track/0EhdXt3y460mTRsi97Pyk5) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Gravity](https://open.spotify.com/album/6mAKMlMj09Vsdk05zkQ2MG) | 3:25 | 2024-12-19 |  |
 
 \*This playlist was first scraped on 2024-12-20. Prior content cannot be recovered.

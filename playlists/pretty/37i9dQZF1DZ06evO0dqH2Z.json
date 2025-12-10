@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 4380,
+  "num_followers": 4385,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTTDgAAAAABRZr66BNShDa1xUUOLAovx",
+  "snapshot_id": "aTYVAAAAAACCW9sg3G4qkQRn+sQqLjSr",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "spin",
+        "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "June",
+      "url": "https://open.spotify.com/track/4ztx0lpE5Vx3yg7FereOtS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Constant Headache",
         "url": "https://open.spotify.com/album/7bjfE4DXQd0lN46FX4wIwK"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 181430,
       "name": "Constant Headache",
       "url": "https://open.spotify.com/track/2xJV9FaGKNMIecMOtjGxX0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "spin",
-        "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 203546,
-      "name": "June",
-      "url": "https://open.spotify.com/track/4ztx0lpE5Vx3yg7FereOtS"
     },
     {
       "added_at": null,
@@ -127,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "spin",
+        "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 232920,
+      "name": "Escape Plan",
+      "url": "https://open.spotify.com/track/22q0Q9kJrricJ75sIp7gTy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cocaine & Lexapro / Berlin",
         "url": "https://open.spotify.com/album/0m9cBqgc5SKrKVsdy2Zp77"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 186135,
       "name": "Berlin (feat. Tigers Jaw)",
       "url": "https://open.spotify.com/track/3uT1R0JkBVNmEqU7w1cE1N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "spin",
-        "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 232920,
-      "name": "Escape Plan",
-      "url": "https://open.spotify.com/track/22q0Q9kJrricJ75sIp7gTy"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
+        "name": "Eyes Shut",
+        "url": "https://open.spotify.com/album/0gFa8rxnAO3XOBTjX0ETfR"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 148733,
-      "name": "Two Worlds",
-      "url": "https://open.spotify.com/track/36Xh8ttDu0NOUvTQ4KhjpT"
+      "duration_ms": 165466,
+      "name": "Eyes Shut",
+      "url": "https://open.spotify.com/track/6JzgPzivpGAf1Nu5nKHahR"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eyes Shut",
-        "url": "https://open.spotify.com/album/0gFa8rxnAO3XOBTjX0ETfR"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 165466,
-      "name": "Eyes Shut",
-      "url": "https://open.spotify.com/track/6JzgPzivpGAf1Nu5nKHahR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Two Worlds",
         "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
       },
@@ -656,9 +640,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 100613,
-      "name": "Let Go/Trashed Floors",
-      "url": "https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC"
+      "duration_ms": 148733,
+      "name": "Two Worlds",
+      "url": "https://open.spotify.com/track/36Xh8ttDu0NOUvTQ4KhjpT"
     },
     {
       "added_at": null,
@@ -768,9 +752,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 102186,
-      "name": "Return",
-      "url": "https://open.spotify.com/track/1rK3riOSALoAw3dKxluP8m"
+      "duration_ms": 100613,
+      "name": "Let Go/Trashed Floors",
+      "url": "https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC"
     },
     {
       "added_at": null,
@@ -787,6 +771,22 @@
       "duration_ms": 180070,
       "name": "Danielson",
       "url": "https://open.spotify.com/track/1Bpq1VpKteNzOLkqz9BHDK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Two Worlds",
+        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 102186,
+      "name": "Return",
+      "url": "https://open.spotify.com/track/1rK3riOSALoAw3dKxluP8m"
     },
     {
       "added_at": null,

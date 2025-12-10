@@ -4,7 +4,7 @@
 
 > Bollywood crooner's essential songs.
 
-187 songs - 12 hr 13 min
+188 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Fanaa Kar Lo \(From "Starfish"\)](https://open.spotify.com/track/0IaEyE64bL7LSA7C4skjgV) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Fanaa Kar Lo \(From "Starfish"\)](https://open.spotify.com/album/6axmA3sLnmy9z8byddrjoI) | 3:09 | 2023-11-09 | 2023-12-08 |
 | [Fateh Kar Fateh \- From "Fateh"](https://open.spotify.com/track/5aYbIAA0ws4fsyl67LQDNN) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Haroon\-Gavin](https://open.spotify.com/artist/61TMIueHFQCPav1PmET3ce), [Mandeep Khurana](https://open.spotify.com/artist/0y6Vd3mRsVm1UCRKX38eeZ) | [Fateh Kar Fateh \(From "Fateh"\)](https://open.spotify.com/album/1pfSFaAHYKFcJ0RKpQDv1U) | 3:40 | 2024-12-12 | 2025-03-29 |
 | [Fitoor](https://open.spotify.com/track/7eNSk0grNnO7MqjLZzs6MM) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Karan Malhotra](https://open.spotify.com/artist/77tAOnDaIyO7H70yxk3bMF) | [Shamshera](https://open.spotify.com/album/3jcMB9o34xcc9VlOyyZ1yx) | 5:08 | 2022-07-07 | 2023-06-27 |
+| [Fitratein](https://open.spotify.com/track/7gjFn9wqcdSFxJAHYQbbMk) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Fitratein](https://open.spotify.com/album/76x9TiVITMmsA5KjSDSPUl) | 3:49 | 2025-12-09 |  |
 | [Galtiyan](https://open.spotify.com/track/2RQbfbmqh13otxU98ngG2F) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Galtiyan](https://open.spotify.com/album/0IGNZGDA2Sjntx73xf8hV5) | 5:02 | 2023-06-19 | 2023-08-09 |
 | [Gehra Hua \(From "Dhurandhar"\)](https://open.spotify.com/track/72EW32eRMEnrHY4ZJf2Z96) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP), [Armaan Khan](https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ) | [Gehra Hua \(From "Dhurandhar"\)](https://open.spotify.com/album/19tZ6ucshEQgvZy3v9RNYW) | 6:02 | 2025-11-27 |  |
 | [Gerua \(From "Dilwale"\)](https://open.spotify.com/track/6V0cw3ZOtm5oQJrSv4QluQ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Gerua \(From "Dilwale"\)](https://open.spotify.com/album/4UdX8yGAWSZADs8cDxInY8) | 5:45 | 2021-12-08 | 2023-11-22 |

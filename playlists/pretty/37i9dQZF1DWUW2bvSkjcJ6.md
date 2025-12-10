@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Kane und Sido, Paula Hartmann und Berq, Ivo Martin und mehr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 895,217 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 895,155 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 8 | [Weihnachtslied 2025](https://open.spotify.com/track/0g2jqBLV5y7VYXrE2NeKxF) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Weihnachtslied 2025](https://open.spotify.com/album/5m5IV1KRZdXeJTj0HCLUyT) | 2:38 |
 | 9 | [juli](https://open.spotify.com/track/0rbvydYLBS92meYf6S0b7D) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [freddy](https://open.spotify.com/artist/1wZSsamMhiSbUH81WUUNik) | [juli](https://open.spotify.com/album/74Ol3ScDT8UobOYD6e5Ba9) | 2:42 |
 | 10 | [Crazy Crazy](https://open.spotify.com/track/1dKniAOvNaElbWgpVUI0Mx) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Crazy Crazy](https://open.spotify.com/album/7fIUpOMSe3NB1tWYN6cQqQ) | 2:39 |
-| 11 | [EKESEB](https://open.spotify.com/track/1xzeiFRhWID8WXb3IIZKnx) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [benno!](https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053), [Lord Jko](https://open.spotify.com/artist/1kiKJNF8pnlncgTIpoTxAI) | [Ekeseb](https://open.spotify.com/album/0ZvRH8xgs5FSi1flRJ1niZ) | 2:26 |
+| 11 | [EKESEB](https://open.spotify.com/track/1xzeiFRhWID8WXb3IIZKnx) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [benno!](https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053), [Lord Jko](https://open.spotify.com/artist/1kiKJNF8pnlncgTIpoTxAI) | [EKESEB](https://open.spotify.com/album/0ZvRH8xgs5FSi1flRJ1niZ) | 2:26 |
 | 12 | [Red Eyes](https://open.spotify.com/track/2GAsClEKgfAlU3lyIdCrUK) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Red Eyes](https://open.spotify.com/album/5hwLvoCc9yBVa8Arvv44kW) | 2:33 |
 | 13 | [die welt geht vor die hunde](https://open.spotify.com/track/3uIHHIE5MiDrPj0YdpfeDO) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [die welt geht vor die hunde](https://open.spotify.com/album/2WDVP6HevVbI5AmJZqunYY) | 2:51 |
 | 14 | [Rap aus Herzen](https://open.spotify.com/track/6BJSrJ8YAJvy6gancxscVt) | [Aymo](https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Rap aus Herzen](https://open.spotify.com/album/5qJPa6UNET1tynFlB8o1r2) | 1:55 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 28 | [SCHAUFENSTER](https://open.spotify.com/track/2aEm7tPxBCAWZb1ThM3EL9) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [SCHAUFENSTER](https://open.spotify.com/album/60ShzvcI3O4wGWgq3aPEHS) | 2:16 |
 | 29 | [Deeper](https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Deeper](https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP) | 4:48 |
 | 30 | [Memories Never Go](https://open.spotify.com/track/78KhFb5pjqxnz948yRS0dh) | [Myle](https://open.spotify.com/artist/1EhPRkK8hf1SzrDhzPlaMw) | [Memories Never Go](https://open.spotify.com/album/6UUdweELIvWwftw1NtxWxu) | 3:18 |
-| 31 | [J'aimerais](https://open.spotify.com/track/3hJwN37tfEiFMfdfIYo9O2) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA), [Orlane](https://open.spotify.com/artist/2hw9I0HXNDcxp3jQAq6r22) | [ENDLESS RECESS](https://open.spotify.com/album/3OhzYZ9lAGHFevjvIMZUF6) | 4:26 |
+| 31 | [J'aimerais](https://open.spotify.com/track/3hJwN37tfEiFMfdfIYo9O2) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA), [Orlane](https://open.spotify.com/artist/1rdoaK2hCE8hLoOjKXSDNF) | [ENDLESS RECESS](https://open.spotify.com/album/3OhzYZ9lAGHFevjvIMZUF6) | 4:26 |
 | 32 | [Walk Away](https://open.spotify.com/track/1LZOh9k6qtQ4nUyZvDuVA1) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P), [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [2025](https://open.spotify.com/album/6rhlQi13LyDs5JzrZShE0C) | 2:46 |
 | 33 | [Nicht an meinem Tisch](https://open.spotify.com/track/4EGzDCiY49NnqKBsltrkKx) | [Tabea](https://open.spotify.com/artist/2Ln4MnBIgYIjosyhXvgvW3) | [Nicht an meinem Tisch](https://open.spotify.com/album/5Pd21h0oZXLUNsJmBnrKCo) | 3:11 |
 | 34 | [Sunday My Heart Hurts](https://open.spotify.com/track/7jHZ78k0uz8h2CpXO2oZda) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Girl In A Bottle](https://open.spotify.com/album/415W2je9J0gsgUKKGBBRHG) | 2:56 |

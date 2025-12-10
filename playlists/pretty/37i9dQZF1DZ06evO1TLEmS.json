@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 4212,
+  "num_followers": 4211,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTTDgAAAAABgilmf2u6MU4LGQSvQtGU6",
+  "snapshot_id": "aTYVAAAAAABhilfzKgOkZfVJzk4myG8P",
   "tracks": [
     {
       "added_at": null,
@@ -47,26 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 186813,
-      "name": "Blood On The Page",
-      "url": "https://open.spotify.com/track/6ceBMpWX4Xd3qAgJjPSImg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Children of God Acoustic Sessions",
         "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 283785,
       "name": "The Secret Place - Acoustic",
       "url": "https://open.spotify.com/track/1ZwyRRW5zGjt9gGOwSO5YM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 186813,
+      "name": "Blood On The Page",
+      "url": "https://open.spotify.com/track/6ceBMpWX4Xd3qAgJjPSImg"
     },
     {
       "added_at": null,

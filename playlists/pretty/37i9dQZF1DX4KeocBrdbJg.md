@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 
 > las mejores canciones del internet en 2025 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,401,307 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,401,256 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 | 22 | [Hecho para ti](https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Hecho para ti](https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC) | 2:32 |
 | 23 | [Anxiety](https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal \(Extended\)](https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq) | 4:09 |
 | 24 | [PONTE LOKITA](https://open.spotify.com/track/0Lahr7sUDdtYnX3n3KobR6) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [PONTE LOKITA](https://open.spotify.com/album/23x1J2mnb1oMcD1ib0gCVx) | 3:03 |
-| 25 | [Valentina](https://open.spotify.com/track/5xjglZ2nhz8dmsl1Qw4BLM) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Aprendiendo a Aprender](https://open.spotify.com/album/27D8ocwRauxTXCZKIbpZKg) | 1:47 |
-| 26 | [CORA DE HIELO](https://open.spotify.com/track/4ZzxVQZcZWcLjfiOA3hRH8) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH), [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q) | [CORA DE HIELO](https://open.spotify.com/album/2ktxw6j04fB9NmqOv5ck0z) | 2:44 |
+| 25 | [CORA DE HIELO](https://open.spotify.com/track/4ZzxVQZcZWcLjfiOA3hRH8) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH), [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q) | [CORA DE HIELO](https://open.spotify.com/album/2ktxw6j04fB9NmqOv5ck0z) | 2:44 |
+| 26 | [Valentina](https://open.spotify.com/track/5xjglZ2nhz8dmsl1Qw4BLM) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Aprendiendo a Aprender](https://open.spotify.com/album/27D8ocwRauxTXCZKIbpZKg) | 1:47 |
 | 27 | [Dame Un Grrr](https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Dame Un Grrr](https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65) | 2:13 |
 | 28 | [Secunena](https://open.spotify.com/track/04vz25NeqrGvqqL219tlhM) | [Sayuri & Sopholov](https://open.spotify.com/artist/6IcW0vncoYwp4NQWSm4uXc), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [Secunena](https://open.spotify.com/album/7LSWqWZtU9bQ4SZAxWhkXa) | 2:39 |
 | 29 | [¿Cómo Pasó?](https://open.spotify.com/track/3bMu8pSm3EFVcWQk3n5HAN) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 2:54 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 | 43 | [Lágrima](https://open.spotify.com/track/0LWEHyHhC3HRwBjbgPbAmI) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [Lágrima](https://open.spotify.com/album/3NJqjNq8VAcUwM2M8F6L51) | 2:29 |
 | 44 | [pasarella 👠](https://open.spotify.com/track/5jX8y3uTztypaMgOinxYMw) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [perfectas](https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl) | 2:42 |
 | 45 | [SENDA](https://open.spotify.com/track/0SI2PdREZzZkqNTHLctnNG) | [DISHYPE](https://open.spotify.com/artist/2cVtX6cwi2dGV4WZDwU39q) | [SENDA](https://open.spotify.com/album/3lxP0GZQgzJIEUFYvL2IRh) | 4:04 |
-| 46 | [So what we get drunk?](https://open.spotify.com/track/4syuf5oCm8QzvVVraRC8ah) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Porque Quise](https://open.spotify.com/album/7Li5d7RHE3DkHzi9KoeHBM) | 1:55 |
-| 47 | [Como Un Pájaro](https://open.spotify.com/track/2qRiMr3Gy4Vz643Q6sNMx5) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 3:30 |
+| 46 | [Como Un Pájaro](https://open.spotify.com/track/2qRiMr3Gy4Vz643Q6sNMx5) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 3:30 |
+| 47 | [So what we get drunk?](https://open.spotify.com/track/4syuf5oCm8QzvVVraRC8ah) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Porque Quise](https://open.spotify.com/album/7Li5d7RHE3DkHzi9KoeHBM) | 1:55 |
 | 48 | [DUEÑO DE TI](https://open.spotify.com/track/72x2PO7XxA6tDMf26rlJqW) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MONCHI](https://open.spotify.com/album/2TklXDFi4BGQ6HTQy0o5Mg) | 3:32 |
 | 49 | [TUTA](https://open.spotify.com/track/01AdFmUSxe3QXQ0wkp8O7Y) | [Kiyo](https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM) | [CRUJIN](https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2) | 2:01 |
 | 50 | [La Sin Sentimientos](https://open.spotify.com/track/2bHJApowIgaWMnohasLUvF) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [BLANKO](https://open.spotify.com/artist/2tsxhfhrjoqKy2okihHP0x) | [Ruido, El Silencio y Yo](https://open.spotify.com/album/5hdcFOmZmRSilC72c0g7wP) | 2:59 |

@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388560,
+  "num_followers": 388550,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Anyone In Love",
-        "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 186990,
-      "name": "Anyone In Love",
-      "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
         "name": "Still In Love",
         "url": "https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 161164,
       "name": "Still In Love",
       "url": "https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
+        "name": "Anyone In Love",
+        "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 186990,
+      "name": "Anyone In Love",
+      "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
+        "name": "Wally",
+        "url": "https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 128332,
+      "name": "Wally",
+      "url": "https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 158546,
       "name": "you chose this",
       "url": "https://open.spotify.com/track/12CcA3RDkKo5U0lbNsCbSX"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
-        "name": "Wally",
-        "url": "https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 128332,
-      "name": "Wally",
-      "url": "https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -511,18 +511,18 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Rent California",
-        "url": "https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV"
+        "name": "postcard season",
+        "url": "https://open.spotify.com/album/1jrrjvl5djCDh5fBN8ZE0q"
       },
       "artists": [
         {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+          "name": "November Ultra",
+          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
         }
       ],
-      "duration_ms": 243595,
-      "name": "Rent California",
-      "url": "https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8"
+      "duration_ms": 172300,
+      "name": "sunflower \u201824",
+      "url": "https://open.spotify.com/track/4B5bFK1CWLg3MHo56HNizi"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -543,18 +543,18 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "postcard season",
-        "url": "https://open.spotify.com/album/1jrrjvl5djCDh5fBN8ZE0q"
+        "name": "Rent California",
+        "url": "https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV"
       },
       "artists": [
         {
-          "name": "November Ultra",
-          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 172300,
-      "name": "sunflower \u201824",
-      "url": "https://open.spotify.com/track/4B5bFK1CWLg3MHo56HNizi"
+      "duration_ms": 243595,
+      "name": "Rent California",
+      "url": "https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Una lunghissima ombra",
-        "url": "https://open.spotify.com/album/53VuM2XxkSpzalMQqmM7Jb"
-      },
-      "artists": [
-        {
-          "name": "Andrea Laszlo De Simone",
-          "url": "https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh"
-        }
-      ],
-      "duration_ms": 389173,
-      "name": "Ricordo tattile",
-      "url": "https://open.spotify.com/track/3Gk1uoZYoQ3dq3UqCEHdDC"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
         "name": "Welcome to the Mood / Sundown",
         "url": "https://open.spotify.com/album/41XgAI6YFm0zl6bwDWLXhk"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 135866,
       "name": "Welcome to the Mood",
       "url": "https://open.spotify.com/track/1zaVcXWNLLL4sgLg8q9uvD"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
+        "name": "Una lunghissima ombra",
+        "url": "https://open.spotify.com/album/53VuM2XxkSpzalMQqmM7Jb"
+      },
+      "artists": [
+        {
+          "name": "Andrea Laszlo De Simone",
+          "url": "https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh"
+        }
+      ],
+      "duration_ms": 389173,
+      "name": "Ricordo tattile",
+      "url": "https://open.spotify.com/track/3Gk1uoZYoQ3dq3UqCEHdDC"
     },
     {
       "added_at": "2025-11-13 23:00:19",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-11-13 23:00:19",
       "album": {
-        "name": "Learning to Live",
-        "url": "https://open.spotify.com/album/74g5xcLgklxM0bu3UxBCCs"
-      },
-      "artists": [
-        {
-          "name": "Octave Lissner",
-          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
-        }
-      ],
-      "duration_ms": 185344,
-      "name": "My Whole Life",
-      "url": "https://open.spotify.com/track/34GAk6onUPTSyOsISSQY3L"
-    },
-    {
-      "added_at": "2025-11-13 23:00:19",
-      "album": {
         "name": "Grateful For",
         "url": "https://open.spotify.com/album/78y8zxdtwe1dIuMkPED0Wc"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 219779,
       "name": "Grateful For",
       "url": "https://open.spotify.com/track/5cE0uS4VSGwOGYc1K6joDH"
+    },
+    {
+      "added_at": "2025-11-13 23:00:19",
+      "album": {
+        "name": "Learning to Live",
+        "url": "https://open.spotify.com/album/74g5xcLgklxM0bu3UxBCCs"
+      },
+      "artists": [
+        {
+          "name": "Octave Lissner",
+          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
+        }
+      ],
+      "duration_ms": 185344,
+      "name": "My Whole Life",
+      "url": "https://open.spotify.com/track/34GAk6onUPTSyOsISSQY3L"
     },
     {
       "added_at": "2025-11-13 23:00:19",

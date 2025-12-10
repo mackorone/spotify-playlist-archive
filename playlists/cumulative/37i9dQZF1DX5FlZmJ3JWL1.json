@@ -53,6 +53,24 @@
     },
     {
       "album": {
+        "name": "A Love Confessed",
+        "url": "https://open.spotify.com/album/2rzgkzqBPaVf9ResZ329K1"
+      },
+      "artists": [
+        {
+          "name": "The Hitmen",
+          "url": "https://open.spotify.com/artist/44de5I8rbCwTAjBF1xYv75"
+        }
+      ],
+      "date_added": "2025-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236643,
+      "name": "A Love Confessed",
+      "url": "https://open.spotify.com/track/5eRDeqewn5no4JaPiCwW2l"
+    },
+    {
+      "album": {
         "name": "A New Day (feat. Celine Dion)",
         "url": "https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0"
       },
@@ -1688,7 +1706,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 137592,
       "name": "La La La",
       "url": "https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv"

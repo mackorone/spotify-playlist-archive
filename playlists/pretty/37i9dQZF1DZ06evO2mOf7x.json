@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 46820,
+  "num_followers": 46827,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTTDgAAAAACugaHRDVHODXPENr6f7V/4",
+  "snapshot_id": "aTYVAAAAAAAj+oFjQouXS4Vo2uHyBZfS",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mentiras Bonitas",
-        "url": "https://open.spotify.com/album/2DJxdcXzxMOjD0xOehFRxj"
+        "name": "Ven a Cantar",
+        "url": "https://open.spotify.com/album/3HzOOi5kJxfrCpbX96L82F"
       },
       "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        },
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 188644,
-      "name": "Mentiras Bonitas",
-      "url": "https://open.spotify.com/track/6ddbm2i15TgUdzSV3YGOMA"
+      "duration_ms": 261497,
+      "name": "Ven a Cantar",
+      "url": "https://open.spotify.com/track/5mldPrwCyzAlq9fNsi5aYg"
     },
     {
       "added_at": null,
@@ -559,18 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ven a Cantar",
-        "url": "https://open.spotify.com/album/3HzOOi5kJxfrCpbX96L82F"
+        "name": "Mentiras Bonitas",
+        "url": "https://open.spotify.com/album/2DJxdcXzxMOjD0xOehFRxj"
       },
       "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        },
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 261497,
-      "name": "Ven a Cantar",
-      "url": "https://open.spotify.com/track/5mldPrwCyzAlq9fNsi5aYg"
+      "duration_ms": 188644,
+      "name": "Mentiras Bonitas",
+      "url": "https://open.spotify.com/track/6ddbm2i15TgUdzSV3YGOMA"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gente Gacha",
-        "url": "https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 175285,
-      "name": "Gente Gacha",
-      "url": "https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yo Soy La Mujer",
         "url": "https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 198853,
       "name": "Tu Ingratitud",
       "url": "https://open.spotify.com/track/6kwg6ENvPRdscevp2XE8cR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gente Gacha",
+        "url": "https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 175285,
+      "name": "Gente Gacha",
+      "url": "https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6"
     },
     {
       "added_at": null,
@@ -923,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Caminos de la Vida",
-        "url": "https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 228436,
-      "name": "Los Caminos de la Vida",
-      "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor y Veneno",
         "url": "https://open.spotify.com/album/0SgEoi2WKqtJw4JJZhbLsn"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 209732,
       "name": "Amor y Veneno",
       "url": "https://open.spotify.com/track/7BwMGZyHpH5pGFJWdnQDKh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Caminos de la Vida",
+        "url": "https://open.spotify.com/album/6fLWZpVOV0wfKTGa8UZmBA"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 228436,
+      "name": "Los Caminos de la Vida",
+      "url": "https://open.spotify.com/track/1s00VGw9NHb7F6FDScqaTa"
     },
     {
       "added_at": null,

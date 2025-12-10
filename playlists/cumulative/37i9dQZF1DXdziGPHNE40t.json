@@ -4543,6 +4543,24 @@
     },
     {
       "album": {
+        "name": "I Grew Up",
+        "url": "https://open.spotify.com/album/4AbMQmDWTQaeWwmStg8qSa"
+      },
+      "artists": [
+        {
+          "name": "Jacky Bonnet Group",
+          "url": "https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202523,
+      "name": "I Grew Up",
+      "url": "https://open.spotify.com/track/5skOaR9WQvHzKUShMc6oqB"
+    },
+    {
+      "album": {
         "name": "I Know Too Well",
         "url": "https://open.spotify.com/album/2CkXWv8Yaq4Si9IXgAVvbc"
       },
@@ -6192,7 +6210,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 249869,
       "name": "Living Is Easy (When I'm In Love With You)",
       "url": "https://open.spotify.com/track/6JEWpl5wGIwAo3yKbrIwKs"
@@ -9239,6 +9257,24 @@
     },
     {
       "album": {
+        "name": "She Will See",
+        "url": "https://open.spotify.com/album/2wlYTTs2V7LEFlk3M0M7dq"
+      },
+      "artists": [
+        {
+          "name": "Jamie Wilkis",
+          "url": "https://open.spotify.com/artist/7AR39D72TBnUWV8rn3F6gZ"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221313,
+      "name": "She Will See",
+      "url": "https://open.spotify.com/track/0s0AhYDW4jPHJJhDRAtFEx"
+    },
+    {
+      "album": {
         "name": "She's A Class Act",
         "url": "https://open.spotify.com/album/0MpvWeiSTn4OERhT97V4sw"
       },
@@ -11538,7 +11574,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 198894,
       "name": "Thursday Afternoon",
       "url": "https://open.spotify.com/track/0OxIW2YPKXFNkskaZfNFk5"

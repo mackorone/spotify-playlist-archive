@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31684,
+  "num_followers": 31681,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAQ/vi65YdXqwmZeCM41crSLwTfZ3nS",
+  "snapshot_id": "AAARAYAoUKsJFcCrGq2P9lAAxxDavYrC",
   "tracks": [
     {
       "added_at": "2025-11-06 21:08:43",
@@ -133,26 +133,6 @@
       "url": "https://open.spotify.com/track/5J5mQKqZVxMDKZ3xPKgABa"
     },
     {
-      "added_at": "2025-11-17 15:16:13",
-      "album": {
-        "name": "Caught Up In The Fire",
-        "url": "https://open.spotify.com/album/6stjuO04Rw5O2xqog9u8dA"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
-        }
-      ],
-      "duration_ms": 223538,
-      "name": "Caught Up In The Fire",
-      "url": "https://open.spotify.com/track/1cskXAWztObojI6r2j60Al"
-    },
-    {
       "added_at": "2025-11-05 11:34:20",
       "album": {
         "name": "Yume",
@@ -207,6 +187,26 @@
       "duration_ms": 189386,
       "name": "Sender Receiver",
       "url": "https://open.spotify.com/track/7zZGLUnTyGPKPAod5hSF1U"
+    },
+    {
+      "added_at": "2025-12-09 14:00:57",
+      "album": {
+        "name": "Caught Up In The Fire (An Apparition)",
+        "url": "https://open.spotify.com/album/0Kylm5pCQ5cUlRb6EvHLEw"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 226454,
+      "name": "Caught Up In The Fire (An Apparition)",
+      "url": "https://open.spotify.com/track/3ojRt2l1Zq9YMd8eD7O4WX"
     },
     {
       "added_at": "2025-12-03 12:21:32",
@@ -931,6 +931,26 @@
       "duration_ms": 206060,
       "name": "Could Have Been So Good",
       "url": "https://open.spotify.com/track/4QOi1ZUOxZzDXvKn7nm0Ro"
+    },
+    {
+      "added_at": "2025-11-17 15:16:13",
+      "album": {
+        "name": "Caught Up In The Fire",
+        "url": "https://open.spotify.com/album/6stjuO04Rw5O2xqog9u8dA"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 223538,
+      "name": "Caught Up In The Fire",
+      "url": "https://open.spotify.com/track/1cskXAWztObojI6r2j60Al"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

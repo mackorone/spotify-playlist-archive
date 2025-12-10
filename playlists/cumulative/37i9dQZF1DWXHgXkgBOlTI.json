@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "CHANCE",
+        "url": "https://open.spotify.com/album/23zLtoecBw8w0K9HOFO4tS"
+      },
+      "artists": [
+        {
+          "name": "TRIX",
+          "url": "https://open.spotify.com/artist/6bQlQn3QZhhTtcO4TG9lkE"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323975,
+      "name": "ARISTOTELES",
+      "url": "https://open.spotify.com/track/7AYVvhSHziAX3Myjr1glEp"
+    },
+    {
+      "album": {
         "name": "story",
         "url": "https://open.spotify.com/album/1DVDZf2wezbNIYjkWDbXR8"
       },
@@ -1850,7 +1868,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 256133,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/7ESu5dNSc30xnlQkWlSN9d"

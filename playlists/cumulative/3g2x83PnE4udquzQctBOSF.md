@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-423 songs - 1 day 1 hr 12 min
+424 songs - 1 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Badman Sound](https://open.spotify.com/track/7FcxEutyfHTCKlN2MltRAh) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Badman Sound](https://open.spotify.com/album/7lkg1Kbn6G00QskjBlEVsR) | 2:56 | 2023-01-22 | 2023-02-20 |
 | [Baila](https://open.spotify.com/track/4axzFhDS0RnJPTUwFhm7m3) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Conga](https://open.spotify.com/album/4nowK3zy4mq38HDXun5d5T) | 2:51 | 2023-05-28 | 2023-07-03 |
 | [Bass Go Boom](https://open.spotify.com/track/6iRBFQQpLU9BSRnUBBmPQh) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Bass Go Boom](https://open.spotify.com/album/4t1FInCRUjdO1iPSwUrBMG) | 2:58 | 2023-03-26 | 2023-04-17 |
+| [Bass Xpress](https://open.spotify.com/track/4hJq68WXFjJ9NmAL4Np1k6) | [Marco Moncada](https://open.spotify.com/artist/4CEdbPWnMu8xKhZIhCxOai) | [Reissues 017](https://open.spotify.com/album/3bc8xU0hGc9zdzQvYJjJdD) | 4:55 | 2025-12-09 |  |
 | [Bassline Phenomena](https://open.spotify.com/track/4Bt3hOOoxEzjOM3crYro4O) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Bassline Phenomena](https://open.spotify.com/album/64fSyVklb0r3Xn0EuezI8A) | 4:03 | 2023-01-22 | 2023-02-13 |
 | [Be What You Want](https://open.spotify.com/track/1bcsIhfIuOTSLb7lFzPEwv) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Let's Dance / Be What You Want](https://open.spotify.com/album/7Dt5XJMCSg3hPICh3yjvA5) | 3:13 | 2023-03-31 | 2023-04-17 |
 | [Beat](https://open.spotify.com/track/41zbZ3ed6BYG3cGgG0Csk2) | [Jamie G](https://open.spotify.com/artist/6BDpVmQwKZSv0lQL83wN7i) | [Beat](https://open.spotify.com/album/1dQbJzsDTiMZxKwc4Xe7fv) | 3:21 | 2024-02-04 | 2024-03-11 |

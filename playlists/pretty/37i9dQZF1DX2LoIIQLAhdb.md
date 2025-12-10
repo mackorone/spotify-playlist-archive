@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Tayc x Abou Tall
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,047 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,061 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LA NUIT](https://open.spotify.com/track/4pHVdkN98bY0UoEHcvGVMw) | [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [MONSIEUR SAUDADE II](https://open.spotify.com/album/4oOAczTfPAahAERfNmWEAt) | 3:54 |
+| 1 | [LA NUIT](https://open.spotify.com/track/4pHVdkN98bY0UoEHcvGVMw) | [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [MONSIEUR SAUDADE II](https://open.spotify.com/album/4oOAczTfPAahAERfNmWEAt) | 3:53 |
 | 2 | [Discret](https://open.spotify.com/track/6eNd2xLnFgbcbb7Yv2OSLp) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ), [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [Discret](https://open.spotify.com/album/1gJUwC37VZGJGxZSmFtYRY) | 3:08 |
 | 3 | [Solide](https://open.spotify.com/track/68oBz6xab6ATAobLCbtZXX) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [OMW](https://open.spotify.com/album/1APrydqpXaHpfA3RZcbu07) | 3:32 |
 | 4 | [Les Mots](https://open.spotify.com/track/5liA8qCrPwHJklLDy0RMBi) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Les Mots](https://open.spotify.com/album/6CYMffTfmeFxEewRVKptDF) | 3:26 |

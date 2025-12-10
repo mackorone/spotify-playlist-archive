@@ -1,6 +1,6 @@
 {
   "description": "drinks em casa, nada melhor",
-  "num_followers": 123250,
+  "num_followers": 123245,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-10-25 00:54:02",
       "album": {
+        "name": "Sticky",
+        "url": "https://open.spotify.com/album/3bbWimQMs8QB4634y9BRDd"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 196754,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/1rfGO3N4DPGodJLSSY9Re5"
+    },
+    {
+      "added_at": "2025-10-25 00:54:02",
+      "album": {
         "name": "Os Garotin Session 2",
         "url": "https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 142396,
       "name": "Calor e Arrepio",
       "url": "https://open.spotify.com/track/2XrEARXWEdoExuzJiUfgO4"
-    },
-    {
-      "added_at": "2025-10-25 00:54:02",
-      "album": {
-        "name": "Sticky",
-        "url": "https://open.spotify.com/album/3bbWimQMs8QB4634y9BRDd"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 196754,
-      "name": "Sticky",
-      "url": "https://open.spotify.com/track/1rfGO3N4DPGodJLSSY9Re5"
     },
     {
       "added_at": "2025-10-25 00:54:02",
@@ -983,26 +983,6 @@
     {
       "added_at": "2025-10-25 00:54:02",
       "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        },
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 192931,
-      "name": "PAPO DE EDREDOM",
-      "url": "https://open.spotify.com/track/5v3dDDH14tXlNkgcKxhplo"
-    },
-    {
-      "added_at": "2025-10-25 00:54:02",
-      "album": {
         "name": "el sur",
         "url": "https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 160695,
       "name": "el sur",
       "url": "https://open.spotify.com/track/0XztUZe3YjkeHByWXKLlyM"
+    },
+    {
+      "added_at": "2025-10-25 00:54:02",
+      "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        },
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 192931,
+      "name": "PAPO DE EDREDOM",
+      "url": "https://open.spotify.com/track/5v3dDDH14tXlNkgcKxhplo"
     },
     {
       "added_at": "2025-10-25 00:54:02",

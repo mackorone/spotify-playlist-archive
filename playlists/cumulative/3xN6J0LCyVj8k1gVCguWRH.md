@@ -4,7 +4,7 @@
 
 > The best tracks of 2025\. A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,488 songs - 12 day 18 hr 37 min
+5,491 songs - 12 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2960,6 +2960,7 @@
 | [Make Me Feel](https://open.spotify.com/track/2mN8KvkPnminY7wnbXAsjy) | [Tatiana DeMaria](https://open.spotify.com/artist/4AMHe2q7lq8woNeHgRCXD6) | [Make Me Feel](https://open.spotify.com/album/3QjcMIRk4HkPyyaqwB5NMZ) | 3:13 | 2021-10-22 | 2022-01-23 |
 | [Make Me Feel](https://open.spotify.com/track/4twAYTaw4ajCxeCp1ozBaS) | [WSF](https://open.spotify.com/artist/3v2kSsptCd84twCxGk3Qg2) | [Make Me Feel](https://open.spotify.com/album/3xQZIU2kzprCl2pYwYjrO6) | 2:37 | 2024-08-10 | 2024-08-22 |
 | [Make Me Good](https://open.spotify.com/track/3GTbHljscEF7MKkbobn6xQ) | [Rainbow Ranger](https://open.spotify.com/artist/203eQbwo7ruUIKI02jOZmO) | [Make Me Good](https://open.spotify.com/album/5YdzqxZM8DRKuzQSFgf92a) | 4:03 | 2022-09-02 | 2022-09-18 |
+| [Make The Rules](https://open.spotify.com/track/4m7ge3fE9ay3pct878OSr6) | [Blaque Eyeland](https://open.spotify.com/artist/4oCoIlJDPEY67Fkig7uX9o) | [Make The Rules](https://open.spotify.com/album/2ZL9brQp4xH8SLOPWhK59N) | 2:16 | 2025-12-09 |  |
 | [Make The World Go Away](https://open.spotify.com/track/35VKy1zrVoI1J15bG1lHqq) | [Bruce Sudano](https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ) | [Make The World Go Away](https://open.spotify.com/album/6ShhPTB3n5cudXdwhUMOYT) | 3:32 | 2023-03-10 | 2023-04-02 |
 | [Make Time](https://open.spotify.com/track/4wznhUFYOrJBmueQaS1rJ3) | [Arpita](https://open.spotify.com/artist/6X1ZOnfJtkNfTVMH3aYVS0) | [Make Time](https://open.spotify.com/album/5IsgeqTbAzKKSIMk5U5ygp) | 3:24 | 2025-05-28 | 2025-06-18 |
 | [Make You](https://open.spotify.com/track/6cr9JxifS1bfI1bj3rUgCM) | [chae](https://open.spotify.com/artist/04bDQYNj7Aos39p2b1Vm31) | [Make You](https://open.spotify.com/album/3TXQ2243awOWcyHvGjzU91) | 3:41 | 2022-02-28 | 2022-03-17 |
@@ -3258,6 +3259,7 @@
 | [neon](https://open.spotify.com/track/4zEm4YEzLLqWrizzLnai02) | [The Jungle](https://open.spotify.com/artist/5abM1eZljsV95pCXQ89JSs) | [neon](https://open.spotify.com/album/4vE1Y0bLEXRKDrX8OFytas) | 4:26 | 2020-03-09 | 2020-04-04 |
 | [Neon Faucet](https://open.spotify.com/track/7y6o9yxc6ZGUoYveQHV3ax) | [Bone Nest](https://open.spotify.com/artist/0xWjVpyUgTeXnYWScqBEdq) | [Neon Faucet](https://open.spotify.com/album/53Bf6iOfAAjsakOUfPfxft) | 2:24 | 2019-10-27 | 2019-11-10 |
 | [Neon Skyline](https://open.spotify.com/track/6CJM0s9pqIDTbSQ9KPnRqa) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Neon Skyline](https://open.spotify.com/album/41M6R2mWLgqU9aKFUvZv8S) | 3:38 | 2020-08-20 | 2023-08-28 |
+| [Never](https://open.spotify.com/track/3vFVRDoWzaLqDJrNPF2r7N) | [Prince Siphon](https://open.spotify.com/artist/409xEsaKgEuDEpkjsn9nqL) | [Never](https://open.spotify.com/album/5vFQNnXE8AEXMiG3yMB3k8) | 3:08 | 2025-12-09 |  |
 | [Never Be Another](https://open.spotify.com/track/5oLWTngm5vZIfgoTdO7Hv7) | [Jr\. Thomas](https://open.spotify.com/artist/4rlASrO81ZjHrd70G6swdV), [Eraserhood Sound](https://open.spotify.com/artist/3GJ1qWWMdMQNXMmwTnyqtZ) | [Never Be Another](https://open.spotify.com/album/0ecDKWbsEVThZu0tKYYph2) | 3:50 | 2025-07-26 | 2025-09-03 |
 | [never be mine](https://open.spotify.com/track/4zwGUUWoFbxQq3ymI1zhL7) | [Jake Benjamin](https://open.spotify.com/artist/3b4oPeInmBt33lJrCxSFzN) | [never be mine](https://open.spotify.com/album/52Q1J8GPhmJ5pe9ERGJkyV) | 4:22 | 2024-05-29 | 2024-06-10 |
 | [Never Forget](https://open.spotify.com/track/649UGlGggCOPwvAIT7FKf1) | [Charlotte Lansman](https://open.spotify.com/artist/6Pd9ZD8S1T1wJ2xa1lko8X) | [Never Forget](https://open.spotify.com/album/7nI0GXKzOdxXvTNU2Srkrs) | 3:21 | 2020-10-10 | 2020-11-06 |
@@ -4346,6 +4348,7 @@
 | [Speed of Light](https://open.spotify.com/track/0Dl2nrGqxIEh2zmWnXn9Q3) | [Mahdi](https://open.spotify.com/artist/1OkLHAfHm0bWtdaYGCuARa) | [Speed of Light](https://open.spotify.com/album/0xd5uUnMCNy1TY5ToyL2Mu) | 2:45 | 2024-11-06 | 2024-11-18 |
 | [Speeding Lanes](https://open.spotify.com/track/5y5Mx8Z7OV4QPZoZFTw5bn) | [LTB](https://open.spotify.com/artist/0T5S2f6DGFpJAGavX5TSLh) | [Speeding Lanes](https://open.spotify.com/album/4WUo9SgwB1TTTDSbRDBEeR) | 3:12 | 2024-09-28 | 2024-10-10 |
 | [Spells Me Under](https://open.spotify.com/track/5W6fuhOICEbXmHzJK6sKuX) | [Mathilde Widding](https://open.spotify.com/artist/7yiilgx7kKijTeHJs2FoWb) | [Spells Me Under](https://open.spotify.com/album/5MBthw34DHiOyOloVIZksC) | 4:46 | 2024-08-02 | 2025-03-22 |
+| [Spinning Around \- Radio Edit](https://open.spotify.com/track/4hADtejU4tDI2BIeTPXFU8) | [Kristo](https://open.spotify.com/artist/1RrVpgU9PiDBWMySEXUTgN) | [Spinning Around](https://open.spotify.com/album/5kx8G3VBLbGvQqTR49ZGGl) | 3:09 | 2025-12-09 |  |
 | [Spiral](https://open.spotify.com/track/1WVKamUNm7hBCFrbXMyPWY) | [Luna Jones](https://open.spotify.com/artist/6ZAC4z2jh5hlryaE1pv0pN) | [Spiral](https://open.spotify.com/album/7qcRGXRDEsNa4A8NnbZKDs) | 3:40 | 2025-05-30 | 2025-06-14 |
 | [Spiraling](https://open.spotify.com/track/0zBnBtzSrxjRs5oYOJj3Ta) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x) | [Funky Bohemia](https://open.spotify.com/album/7pXuu4jDWDScC6s8DOu0aK) | 3:35 | 2020-05-26 | 2020-06-10 |
 | [Split](https://open.spotify.com/track/2zZZkPENB1UpWvAyS36nNi) | [Nematode](https://open.spotify.com/artist/6OTtPIzDOFUAO1CnTK84da) | [Split](https://open.spotify.com/album/6fEcf3BRaZziOnBjc3L7CQ) | 1:56 | 2024-08-23 | 2024-09-18 |

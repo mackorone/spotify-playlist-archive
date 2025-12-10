@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: ziproom",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: AOTO",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -628,7 +628,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 155114,
       "name": "2MUCH",
       "url": "https://open.spotify.com/track/0DdOEJOx6LNcHzMoRYJIRK"
@@ -1999,6 +1999,24 @@
     },
     {
       "album": {
+        "name": "Baby...",
+        "url": "https://open.spotify.com/album/2e1NfaHeKazhRwD8DfMYN9"
+      },
+      "artists": [
+        {
+          "name": "yura",
+          "url": "https://open.spotify.com/artist/1fdU76nbdxEwt2OkXmpP7f"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136153,
+      "name": "Baby...",
+      "url": "https://open.spotify.com/track/0XBWgHQ4gtMp6DdQoCPM3w"
+    },
+    {
+      "album": {
         "name": "Back and Forth",
         "url": "https://open.spotify.com/album/5WezzeLLpbwdtmjb8sZbbq"
       },
@@ -2636,7 +2654,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 249909,
       "name": "BeTBeT",
       "url": "https://open.spotify.com/track/26YjEvQkETqhO0Mskf7P50"
@@ -2800,6 +2818,24 @@
       "duration_ms": 175915,
       "name": "BIGGUWAPSHIT",
       "url": "https://open.spotify.com/track/6orKdpjY52CGDBRsv7sbVs"
+    },
+    {
+      "album": {
+        "name": "BIGMAN",
+        "url": "https://open.spotify.com/album/0aLj3AiPv9vxtBlT50mK1I"
+      },
+      "artists": [
+        {
+          "name": "AOTO",
+          "url": "https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171511,
+      "name": "BIGMAN",
+      "url": "https://open.spotify.com/track/4QcJ480QrpsKJEWTN6LZQk"
     },
     {
       "album": {
@@ -3214,6 +3250,28 @@
       "duration_ms": 198637,
       "name": "Booster",
       "url": "https://open.spotify.com/track/6Uy4hqwAMF3IK2E61Zhbwl"
+    },
+    {
+      "album": {
+        "name": "BOP BOP",
+        "url": "https://open.spotify.com/album/64Y2qqmt6s2QWswHIzOmUF"
+      },
+      "artists": [
+        {
+          "name": "Reichi",
+          "url": "https://open.spotify.com/artist/5BQWK2wChHTnJKqmgR9D3D"
+        },
+        {
+          "name": "Yvngboi P",
+          "url": "https://open.spotify.com/artist/6OpF456GdtGi3oqOafqVWW"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "BOP BOP",
+      "url": "https://open.spotify.com/track/7c11wBbnLJj7FewkftryXe"
     },
     {
       "album": {
@@ -4227,6 +4285,28 @@
     },
     {
       "album": {
+        "name": "chocomimi (feat. Manaka)",
+        "url": "https://open.spotify.com/album/23iqFhCnwZXpmfhr8WQCJC"
+      },
+      "artists": [
+        {
+          "name": "Lilniina",
+          "url": "https://open.spotify.com/artist/2sQQn4m6eLqk0wt3TOkaGw"
+        },
+        {
+          "name": "Manaka",
+          "url": "https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175135,
+      "name": "chocomimi (feat. Manaka)",
+      "url": "https://open.spotify.com/track/7Gth39G5w8OxjyROHPYeAv"
+    },
+    {
+      "album": {
         "name": "Loco Lunch",
         "url": "https://open.spotify.com/album/5dkYXP7OLnKNmMrXNdcNcg"
       },
@@ -4510,6 +4590,28 @@
       "duration_ms": 194375,
       "name": "Conclusion",
       "url": "https://open.spotify.com/track/4cmbrjnTyMLy7DCnRpxh2Q"
+    },
+    {
+      "album": {
+        "name": "Crash Shell (feat. Sitissy luvit)",
+        "url": "https://open.spotify.com/album/6OjJ3UjArRZmY2GZcc0WnI"
+      },
+      "artists": [
+        {
+          "name": "lonelow",
+          "url": "https://open.spotify.com/artist/0xkIfCndwknyPtwIYXaDMs"
+        },
+        {
+          "name": "Sitissy luvit",
+          "url": "https://open.spotify.com/artist/7aYDI4vH01zznjy69ze9X5"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178382,
+      "name": "Crash Shell (feat. Sitissy luvit)",
+      "url": "https://open.spotify.com/track/2b1IqAoWOfWVspr3Qw0YpG"
     },
     {
       "album": {
@@ -4808,7 +4910,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 151740,
       "name": "Day After Tomorrow",
       "url": "https://open.spotify.com/track/2WkvhtHXDvImXFcN6QCIsY"
@@ -5815,6 +5917,24 @@
     },
     {
       "album": {
+        "name": "DREAMS COME TRUE",
+        "url": "https://open.spotify.com/album/7yrWn3kDO6z9hc6PXYzgBN"
+      },
+      "artists": [
+        {
+          "name": "11",
+          "url": "https://open.spotify.com/artist/07hIPEXm3FKpcfsFEvZnMa"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "DREAMS COME TRUE",
+      "url": "https://open.spotify.com/track/4lNAolOACIO4o3NuIsWLY5"
+    },
+    {
+      "album": {
         "name": "DRILL STAR 2024 (from CHIBA)",
         "url": "https://open.spotify.com/album/2kL7rDyx4vUtQNNmbCqoRN"
       },
@@ -6760,6 +6880,28 @@
       "duration_ms": 138600,
       "name": "Fall in down (feat. dizzy)",
       "url": "https://open.spotify.com/track/4ljonzmKbSI4uVzw6VEfqx"
+    },
+    {
+      "album": {
+        "name": "Stories I Owe",
+        "url": "https://open.spotify.com/album/73AqZs5r7Ik9ZhO4LfXQ1e"
+      },
+      "artists": [
+        {
+          "name": "storm",
+          "url": "https://open.spotify.com/artist/0ZNbi5CMdUDlRo9DMorCD5"
+        },
+        {
+          "name": "crea",
+          "url": "https://open.spotify.com/artist/6MLKKEtUAGwU4BWeTrKIU9"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203075,
+      "name": "Family (feat. crea)",
+      "url": "https://open.spotify.com/track/6xZWh4nIrUDVdGRr9UsGyJ"
     },
     {
       "album": {
@@ -9345,6 +9487,24 @@
     },
     {
       "album": {
+        "name": "Still ARuM",
+        "url": "https://open.spotify.com/album/1A578mlTwyO6TBGYRoCXlh"
+      },
+      "artists": [
+        {
+          "name": "ARuM",
+          "url": "https://open.spotify.com/artist/2W46oY5sDSCWXrZq8sljQx"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Honne",
+      "url": "https://open.spotify.com/track/10R8AMJHO6PKoe2aYJRgFi"
+    },
+    {
+      "album": {
         "name": "HOPE",
         "url": "https://open.spotify.com/album/4eB0ap6Y6KR9MZxfyGAgai"
       },
@@ -9656,7 +9816,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 108035,
       "name": "I don't like",
       "url": "https://open.spotify.com/track/3yJtT8dYke5Pp5Df1G4mKW"
@@ -9796,6 +9956,28 @@
       "duration_ms": 247252,
       "name": "I Told You (feat. Crazy-K, ACHA, Flight-A, Swag-A, BARCO & DJ PIG)",
       "url": "https://open.spotify.com/track/6KFcN7dopxIMesrFVoUjjk"
+    },
+    {
+      "album": {
+        "name": "I'm drunk purple potion at plugg midnight",
+        "url": "https://open.spotify.com/album/6A3d3GjM3tPzZOs1k9e9CU"
+      },
+      "artists": [
+        {
+          "name": "v3geboy",
+          "url": "https://open.spotify.com/artist/6o5b0gyvclyErlTzoECnJ8"
+        },
+        {
+          "name": "ibu",
+          "url": "https://open.spotify.com/artist/7wES4DtZ2ftjwynm0bqyJG"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89177,
+      "name": "I'm drunk purple potion at plugg midnight",
+      "url": "https://open.spotify.com/track/6sHKQRlGA5OS0fOLmZvAXy"
     },
     {
       "album": {
@@ -12672,7 +12854,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 153750,
       "name": "make u sweat",
       "url": "https://open.spotify.com/track/7iYQFuLJxiwKZZiDrqFZkM"
@@ -13218,7 +13400,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 102400,
       "name": "MITOMA KAORU",
       "url": "https://open.spotify.com/track/2Dd1l6eXiXT1gThO407AL2"
@@ -13276,7 +13458,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 92307,
       "name": "MONSTER",
       "url": "https://open.spotify.com/track/0NL5bwVAGiD9ombG98W2Ff"
@@ -15430,7 +15612,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 127650,
       "name": "OUTSIDE",
       "url": "https://open.spotify.com/track/483ekik6jaeruwNejsLvej"
@@ -18096,7 +18278,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 193875,
       "name": "SH!TTO",
       "url": "https://open.spotify.com/track/69pKfbBycC5wvv7TZvBpLl"
@@ -18231,6 +18413,24 @@
     },
     {
       "album": {
+        "name": "IDOL",
+        "url": "https://open.spotify.com/album/1mHmZvySkbCkE0bHKvZ4CM"
+      },
+      "artists": [
+        {
+          "name": "Filix\u738b",
+          "url": "https://open.spotify.com/artist/2a58G4RDpD2sloCYWYkMXC"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116679,
+      "name": "Shen Long Flow",
+      "url": "https://open.spotify.com/track/3wKXhxLMLbkRMKFuJuGRmS"
+    },
+    {
+      "album": {
         "name": "TWO SIDES",
         "url": "https://open.spotify.com/album/6OokLDgyfhzrP4jijFgTpL"
       },
@@ -18290,6 +18490,24 @@
       "duration_ms": 125142,
       "name": "Shibuya",
       "url": "https://open.spotify.com/track/4Um8NyP5SrQIfDFeDd2pQ3"
+    },
+    {
+      "album": {
+        "name": "MAVERICK",
+        "url": "https://open.spotify.com/album/6Jvlg32vKGyLtdrBsGk6wH"
+      },
+      "artists": [
+        {
+          "name": "Back Street Blues",
+          "url": "https://open.spotify.com/artist/3rCf49MZAEGvV1eAhV3R5E"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165957,
+      "name": "Shimmy",
+      "url": "https://open.spotify.com/track/6MXlCWMvEUKxssBoQbwTaK"
     },
     {
       "album": {
@@ -19009,6 +19227,24 @@
     },
     {
       "album": {
+        "name": "Stand Tall",
+        "url": "https://open.spotify.com/album/1pajCJdx9c5ICtX2oMzcEJ"
+      },
+      "artists": [
+        {
+          "name": "ESTEY",
+          "url": "https://open.spotify.com/artist/5xOWjigTHU7QSkpbTQeY4L"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Stand Tall",
+      "url": "https://open.spotify.com/track/7s3MRARUHP9ki4QGxmKROz"
+    },
+    {
+      "album": {
         "name": "star",
         "url": "https://open.spotify.com/album/66Eeg0qt8yxP4qKSlbgJQQ"
       },
@@ -19020,7 +19256,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 121391,
       "name": "star",
       "url": "https://open.spotify.com/track/2RkTmVwkPemAvlRZMiSODS"
@@ -19628,6 +19864,24 @@
       "duration_ms": 172355,
       "name": "Super Fresh",
       "url": "https://open.spotify.com/track/3LnFzIurGFJBqNexZodUg0"
+    },
+    {
+      "album": {
+        "name": "SUPER SUB",
+        "url": "https://open.spotify.com/album/21mqLpnOPcguQaAAAC7ZCQ"
+      },
+      "artists": [
+        {
+          "name": "Will Support",
+          "url": "https://open.spotify.com/artist/2EM6vlLvBitmQnERk6cUNt"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "SUPER SUB",
+      "url": "https://open.spotify.com/track/29Gx5rUWWh3m8Vtj8Nes8H"
     },
     {
       "album": {
@@ -21356,7 +21610,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 201379,
       "name": "VISIONARIES - CETLO REMIX",
       "url": "https://open.spotify.com/track/1X5OzMG6BiaChwUjezkqdE"
@@ -22296,7 +22550,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 173892,
       "name": "Y.N's",
       "url": "https://open.spotify.com/track/3P4zFZrex1twZ4CZXmIhqe"
@@ -22420,7 +22674,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 115197,
       "name": "YAMIBOI GUAP",
       "url": "https://open.spotify.com/track/1ppWb5OSbCaQD3G7qEvyTD"

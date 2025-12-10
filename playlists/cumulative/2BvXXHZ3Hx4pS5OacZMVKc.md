@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-429 songs - 22 hr 11 min
+430 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Need Ya](https://open.spotify.com/track/2S1JV3N08V5poRs2RbIMOp) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Need Ya](https://open.spotify.com/album/7shTamr3MYWd0OOIBWcwwu) | 2:40 | 2022-07-29 | 2022-08-01 |
 | [Need You](https://open.spotify.com/track/7JYG1EVlbe62e8UadeRqGV) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [YOU](https://open.spotify.com/album/6bqaOob66pWCH2dlvQU1cf) | 3:16 | 2022-02-03 | 2022-09-15 |
 | [Need You Again](https://open.spotify.com/track/5pk9UVSYYJawxl6D2g9HgL) | [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Need You Again](https://open.spotify.com/album/3I9CFa50uQSVc7dosPzNsQ) | 3:56 | 2025-06-24 |  |
+| [NEEDED YOU](https://open.spotify.com/track/6eiwufnobY9Bhc30WJ6fOC) | [NOON](https://open.spotify.com/artist/0ti6gqypU694oZbPzyoi2N), [Martin Bravi](https://open.spotify.com/artist/3OG22V4iOqWi8DoG6LN56I) | [Needed You](https://open.spotify.com/album/4L0xsI4QFcHkCIpsO5N315) | 2:02 | 2025-12-09 |  |
 | [Never Give Up On Loving You](https://open.spotify.com/track/3cd2zbZkfxt4olZ7ajzqe7) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Never Give Up On Loving You](https://open.spotify.com/album/6bAPrs5Jw78jM9G318v2Ba) | 3:36 | 2025-12-05 |  |
 | [Never Have I Felt This](https://open.spotify.com/track/1w2HhzB1ptdBzIeTh9NmxG) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Never Have I Felt This](https://open.spotify.com/album/54s0kvex9na7wTYAGWTztM) | 4:06 | 2022-02-03 | 2022-09-15 |
 | [Never Have I Felt This \- VIP](https://open.spotify.com/track/6WSwigBgXcpDVkEZ05cWuH) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Never Have I Felt This \(VIP\)](https://open.spotify.com/album/1YCHXGgn9HrKsZMHXLMbw6) | 3:12 | 2023-10-27 |  |

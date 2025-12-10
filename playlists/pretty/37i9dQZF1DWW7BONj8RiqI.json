@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Klassik Frescobar",
-  "num_followers": 241166,
+  "num_followers": 241204,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
+        "name": "DAP (Drink and Party)",
+        "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
+      },
+      "artists": [
+        {
+          "name": "Viking Ding Dong",
+          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "DAP (Drink and Party)",
+      "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
         "name": "The Carnival Jumbies Experiment",
         "url": "https://open.spotify.com/album/1NfQNys9lc4W2uARBNPPga"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 169743,
       "name": "Take Bamboo",
       "url": "https://open.spotify.com/track/1CCES5F70iAo8Mp54uFe9s"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
-        "name": "DAP (Drink and Party)",
-        "url": "https://open.spotify.com/album/1cjMY1vnt4Bn5Xz6jtNxYq"
-      },
-      "artists": [
-        {
-          "name": "Viking Ding Dong",
-          "url": "https://open.spotify.com/artist/2vQWBz2IFxhcvg06vd9spK"
-        }
-      ],
-      "duration_ms": 169142,
-      "name": "DAP (Drink and Party)",
-      "url": "https://open.spotify.com/track/3okMhvztfxK8m0RJ67n2yt"
     },
     {
       "added_at": "2025-08-29 14:56:22",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2025-08-29 14:56:22",
       "album": {
-        "name": "Erupt",
-        "url": "https://open.spotify.com/album/3iy6Yo9PjVy9OSDQqZzBqx"
-      },
-      "artists": [
-        {
-          "name": "Skinny Fabulous",
-          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
-        },
-        {
-          "name": "Fireman Hooper",
-          "url": "https://open.spotify.com/artist/3zuZixv8wHya7KVinVss9T"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Erupt",
-      "url": "https://open.spotify.com/track/48y8ZvIDhRd1iU7hffnzL2"
-    },
-    {
-      "added_at": "2025-08-29 14:56:22",
-      "album": {
         "name": "Red, White, Black",
         "url": "https://open.spotify.com/album/56IFFrMpS3MDkvZS5UFADc"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 231874,
       "name": "Carnival (feat. Machel Montano)",
       "url": "https://open.spotify.com/track/2dNzMOqfoezlaLJ6uAqLq3"
+    },
+    {
+      "added_at": "2025-08-29 14:56:22",
+      "album": {
+        "name": "Erupt",
+        "url": "https://open.spotify.com/album/3iy6Yo9PjVy9OSDQqZzBqx"
+      },
+      "artists": [
+        {
+          "name": "Skinny Fabulous",
+          "url": "https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x"
+        },
+        {
+          "name": "Fireman Hooper",
+          "url": "https://open.spotify.com/artist/3zuZixv8wHya7KVinVss9T"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Erupt",
+      "url": "https://open.spotify.com/track/48y8ZvIDhRd1iU7hffnzL2"
     },
     {
       "added_at": "2025-08-29 14:56:22",

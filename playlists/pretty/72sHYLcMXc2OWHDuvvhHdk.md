@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 550 likes - 2,087 songs - 5 day 2 hr 13 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 552 likes - 2,097 songs - 5 day 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2095,5 +2095,15 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2085 | [Technicolour Dreams \- Single Mix](https://open.spotify.com/track/256UhhlUeFPnaOcaskzT77) | [Echomatica](https://open.spotify.com/artist/75uNvdIOOLgUT6Gs2hkRVQ) | [Technicolour Dreams \- Single Mix](https://open.spotify.com/album/0qoHyAR40cwYd1B06OMs4r) | 3:55 |
 | 2086 | [Tren del Duende](https://open.spotify.com/track/0JakhfPYZOJ5JrRJ8YUifj) | [Juan Pablo Vitali](https://open.spotify.com/artist/0U0rAvWfvb3NUwiROiUgis) | [29904325 \(RADIO EDIT\)](https://open.spotify.com/album/39kH1oxVsgp6Sn9ofCErv4) | 4:01 |
 | 2087 | [All Alone](https://open.spotify.com/track/4rsNsMiy5sUi80hzpuAPZc) | [Riccardo Cantarelli](https://open.spotify.com/artist/58JQ6umDec53Xhx0yJz2Wf), [Roberto Cazzola](https://open.spotify.com/artist/2vfKDyqiPUJiQsCDVq815m) | [Dark Suite \(2023, 2022, 1984\)](https://open.spotify.com/album/6FMkwtZyFym0fvao6KyfS9) | 3:04 |
+| 2088 | [Don't Close Your Eyes](https://open.spotify.com/track/137EFl57ceIvKLnBYb2MhV) | [Saya](https://open.spotify.com/artist/38uvObNn78wrEaxv3NCLHi) | [Don't Close Your Eyes](https://open.spotify.com/album/1JJJqlyEJDLQeFIqf0mF4A) | 4:56 |
+| 2089 | [En mi barrio](https://open.spotify.com/track/2UrCkwQ2iBFJeIiqNr7W74) | [EnRockecidos](https://open.spotify.com/artist/6j4BNmLmFMCkyszhxBDdnr) | [En mi barrio](https://open.spotify.com/album/187BqzNNPpH2xexSS7IzEA) | 3:18 |
+| 2090 | [Un Gran Hombre, Un Gran Corazón](https://open.spotify.com/track/2LI6FZAfb3z6KTsPsO8Btu) | [Tobi Rabat](https://open.spotify.com/artist/3rAw85LiCiT61QHQhxHyn4) | [Una Carta Al Cielo](https://open.spotify.com/album/330TPz1pyad1c9WeZmpA5w) | 6:14 |
+| 2091 | [Falling into the Void](https://open.spotify.com/track/78cIrudzqU1eQGHoKG1ELh) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 3:56 |
+| 2092 | [Summer Breeze](https://open.spotify.com/track/3dJPtBftrY0rT72HLQXRgS) | [Pantelis Gargoulakis](https://open.spotify.com/artist/19x1fWiBGN3WtvkondLLU8) | [Summer Breeze](https://open.spotify.com/album/50g7sfYAE9pqS5j01tMe22) | 2:39 |
+| 2093 | [Hideaway](https://open.spotify.com/track/4jSPMYtvmTjQBQDs7KfTrc) | [Hurricane Shack](https://open.spotify.com/artist/7zYuBzs79HZttqyua6cDVa) | [Hideaway](https://open.spotify.com/album/06q1RtQYbCzc2DjBcUZLqh) | 3:11 |
+| 2094 | [Tenerte](https://open.spotify.com/track/28V8OZuzkfjPDuuPt3BhJF) | [honguitofeliz](https://open.spotify.com/artist/6CpCPwbmVBaXBNtV9FLGaC) | [Tenerte](https://open.spotify.com/album/7Ing0YEOZHzVOc4OycVOur) | 2:58 |
+| 2095 | [SENZA DI TE](https://open.spotify.com/track/4GNDipDJncEuCDJmawYjvY) | [Sickz](https://open.spotify.com/artist/0Tl8ruPXKi84dOL2eNaQB7), [Davi](https://open.spotify.com/artist/7Cy5G4mtH41oRL8Eot9Pzn), [Maximilian Heart](https://open.spotify.com/artist/1ZyGuyy2dk8eyrO0h4w0E6), [Dolly](https://open.spotify.com/artist/34kaEAOnTRU2nGw0PN9ET3) | [SENZA DI TE](https://open.spotify.com/album/5uAyRDKG8FMtnNe5GmUIxh) | 3:46 |
+| 2096 | [Old Ancient Tree](https://open.spotify.com/track/6ZI4Ucss1ZhgVrQRcnfjO3) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 4:20 |
+| 2097 | [Blind Faith](https://open.spotify.com/track/3nntpWzSUm61YaLy5MYqTm) | [Oscat!](https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA) | [Blind Faith](https://open.spotify.com/album/2dvToE0xWlFUbh0GhFxaWB) | 3:38 |
 
-Snapshot ID: `AAAItbVuH3Qz3k3RGurouucD4xIjJGJ+`
+Snapshot ID: `AAAIvwgRXROShG7+8WfT14312B6tTZtR`

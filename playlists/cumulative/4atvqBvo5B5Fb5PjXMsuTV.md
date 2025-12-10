@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 09 Dec 23:05 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 09 Dec 09:06 UTC.
 
-5,918 songs - 13 day 16 hr 54 min
+5,920 songs - 13 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3301,6 +3301,7 @@
 | [methamphetamine blues](https://open.spotify.com/track/4jhBliatdMbdwYQZlrnvKi) | [Scrim](https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy) | [methamphetamine blues](https://open.spotify.com/album/0mh5I0PSuJU9iMch88OzbN) | 3:12 | 2025-04-11 | 2025-04-23 |
 | [METHANAL DOLL](https://open.spotify.com/track/6WUcQtvI1kqS8KQ34CfB2w) | [Pharmakon](https://open.spotify.com/artist/1ix1aDOd7GSOeT9iqNh5KO) | [METHANAL DOLL](https://open.spotify.com/album/6K9BMoBuSNqO0NGeNNMM3O) | 5:20 | 2024-09-10 | 2024-09-13 |
 | [Metropolis](https://open.spotify.com/track/5fXOgsysYHIOKh3lT7qQWG) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Metropolis](https://open.spotify.com/album/0qCFJreQmYWvUUJjWos6eP) | 3:21 | 2024-07-31 | 2024-08-02 |
+| [MEU CEMITÉRIO](https://open.spotify.com/track/0h9GmCGvM0meVHfF0XrnHJ) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [MEU CEMITÉRIO](https://open.spotify.com/album/3Cqy67s3ZgJXzpTTEOV3EL) | 3:27 | 2025-12-09 |  |
 | [MF Mosh Pit](https://open.spotify.com/track/6N7Ky2l0OMjNjIPQuYNwlF) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Und3rsound](https://open.spotify.com/artist/6Mu4CynRtQyYX8al5IJO47) | [MF Mosh Pit](https://open.spotify.com/album/2TzphxYpyPBilfWRJClNPk) | 2:14 | 2024-12-20 | 2025-01-09 |
 | [MIAMI](https://open.spotify.com/track/3KH7W2zKlPHeLc2dS9UQe4) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MIAMI](https://open.spotify.com/album/46Aw6DwBHIqyFVHhljg8la) | 3:01 | 2025-07-18 | 2025-07-29 |
 | [mice band](https://open.spotify.com/track/63vLLRlmKWPrhSmW4D1Sk3) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [mice band](https://open.spotify.com/album/4UH7rJDKBJu36MyzCeGTtr) | 1:28 | 2025-01-11 | 2025-01-18 |
@@ -3852,7 +3853,7 @@
 | [PARANOIA.](https://open.spotify.com/track/4fbNiLNjjCTHZAIkcG5aIh) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PARANOIA.](https://open.spotify.com/album/4S65UMxUGogJERqXWAdEXU) | 3:06 | 2025-05-23 | 2025-06-04 |
 | [Paranoid](https://open.spotify.com/track/6wZ9zc4U7XGcXRdlyDLfBK) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Paranoid](https://open.spotify.com/album/2B23QII7brSpBxobhnAXfr) | 3:25 | 2025-01-09 | 2025-01-19 |
 | [PARASITE](https://open.spotify.com/track/6j69bnzsC2K5qnrqNDpJi4) | [Baby Kia](https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [PARASITE](https://open.spotify.com/album/59Lxtyv1wKwyVReWqGgOyD) | 2:35 | 2024-10-09 | 2024-10-12 |
-| [Parasocial Christ](https://open.spotify.com/track/5v2qSbA4BeIKhhBSHbfH6i) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Parasocial Christ](https://open.spotify.com/album/66PcSynAzKA0YtIU7Drb9x) | 3:20 | 2025-11-22 |  |
+| [Parasocial Christ](https://open.spotify.com/track/5v2qSbA4BeIKhhBSHbfH6i) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Parasocial Christ](https://open.spotify.com/album/66PcSynAzKA0YtIU7Drb9x) | 3:20 | 2025-11-22 | 2025-12-10 |
 | [Paraíso](https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Paraíso](https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs) | 3:25 | 2025-06-10 | 2025-06-14 |
 | [Pardon Me](https://open.spotify.com/track/0knXzoSajm0kMXOVH1dJNV) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Pardon Me](https://open.spotify.com/album/78dVcjFWUKnkpdyCVIb8AA) | 4:00 | 2025-02-18 | 2025-02-28 |
 | [Parklife \- Live at Wembley Stadium](https://open.spotify.com/track/1iJXeKNHHAX9ZqoXW0NPsS) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife \(Live at Wembley Stadium\)](https://open.spotify.com/album/3ZzDxJVNHIgXbeiSXwtDqY) | 3:50 | 2024-06-05 | 2024-06-07 |
@@ -3887,7 +3888,7 @@
 | [people person](https://open.spotify.com/track/3VPK6iuF4qbHfibpmiOw0c) | [Mclusky](https://open.spotify.com/artist/3xA9AB0f4BVjsSlyQc12iE) | [people person](https://open.spotify.com/album/3QPjj35fwclpXKBT1aFJAr) | 3:19 | 2025-03-17 | 2025-03-22 |
 | [People Ruin Paintings](https://open.spotify.com/track/2CqvMjkMP1YXLVdK0zBLCQ) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [People Ruin Paintings](https://open.spotify.com/album/6F6Q9dnHcdjNFG2cfvo17P) | 4:22 | 2025-01-12 | 2025-01-20 |
 | [People Still Show Up](https://open.spotify.com/track/6RifRYhCPJhpNXTr8iCkpA) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [People Still Show Up](https://open.spotify.com/album/4RAsOX4JG7hH7BCvGoBfK4) | 2:52 | 2024-10-25 | 2024-10-30 |
-| [PEPPER](https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [PEPPER](https://open.spotify.com/album/60ezZtdljXaUupTkmZjTn8) | 1:58 | 2025-11-21 |  |
+| [PEPPER](https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [PEPPER](https://open.spotify.com/album/60ezZtdljXaUupTkmZjTn8) | 1:58 | 2025-11-21 | 2025-12-10 |
 | [Per un paio di dollari](https://open.spotify.com/track/6ay7V0EJQ43hrNgYI3E2tg) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [Per un paio di dollari](https://open.spotify.com/album/62GrAgEymztEQlcnOVRNGf) | 3:01 | 2024-10-25 | 2024-10-30 |
 | [Perfect](https://open.spotify.com/track/2xYtEzR8YNnqtE2HlcFOtw) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Perfect](https://open.spotify.com/album/4ByTPuHvTEFlEYSfjstrOe) | 2:18 | 2024-08-29 | 2024-08-31 |
 | [Perfect Crime](https://open.spotify.com/track/4yJSTICwkb1yEHaTJwMtPJ) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Perfect Crime](https://open.spotify.com/album/5JhzWK5USSOibCz5xbwuKx) | 3:16 | 2025-04-10 | 2025-04-19 |
@@ -4222,6 +4223,7 @@
 | [Riley \- FAAAHHH Remix](https://open.spotify.com/track/41JieZnmKWocQgwJjuJujh) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Riley \(FAAAHHH Remix\)](https://open.spotify.com/album/72bYVsRhWzg37zjmX3F2Q7) | 3:24 | 2025-10-16 | 2025-10-25 |
 | [Ring of Chaos](https://open.spotify.com/track/6QnZf9uIUEqxohWHTPlPi7) | [JinSoul](https://open.spotify.com/artist/1rAZr0bwMTcobwrOFHhfJr) | [<Ring of Chaos>](https://open.spotify.com/album/3DMdQcyOIyqFEeyHnNw2cT) | 2:42 | 2025-10-25 | 2025-11-01 |
 | [Ring Ring](https://open.spotify.com/track/0lJvkAuv7HLOz13qdmbpNx) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Ring Ring](https://open.spotify.com/album/16dV4I2SPOOR4X1oiSIkXS) | 2:51 | 2024-09-04 | 2024-09-07 |
+| [RING THE ALARM](https://open.spotify.com/track/4ewxZwUwLeMZEMWF1CRLeG) | [TOMORA](https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [RING THE ALARM](https://open.spotify.com/album/28NiaM4URrr1SBbJG0WcTV) | 5:31 | 2025-12-09 |  |
 | [Rio](https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rio](https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl) | 3:08 | 2025-01-25 | 2025-02-05 |
 | [Rio de Janeiro](https://open.spotify.com/track/6boyn4SXKOUuHpJlJGugaK) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [Rio de Janeiro](https://open.spotify.com/album/5p6O62jnMxocLxsR9mW0x2) | 3:46 | 2024-10-02 | 2024-10-05 |
 | [Riots](https://open.spotify.com/track/4KQmxxzUgo1zBQwBM6jPtU) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Riots](https://open.spotify.com/album/1N2bmwYs5cQlI0BdcmKs8d) | 2:45 | 2024-06-05 | 2024-06-07 |

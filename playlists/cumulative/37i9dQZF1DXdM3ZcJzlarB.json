@@ -595,6 +595,24 @@
     },
     {
       "album": {
+        "name": "Back To The Old School",
+        "url": "https://open.spotify.com/album/3vUnrVdQYByao4bTIvg1hK"
+      },
+      "artists": [
+        {
+          "name": "DJ JMP",
+          "url": "https://open.spotify.com/artist/2geAfV62NcOizrpcKg01Pk"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330491,
+      "name": "Back To The Old School",
+      "url": "https://open.spotify.com/track/0lOGclvTM8Eo2EcEu3GdbX"
+    },
+    {
+      "album": {
         "name": "Bailarina (Pyura Remix)",
         "url": "https://open.spotify.com/album/47knKqo7d15Q9ZA5HIWUG3"
       },
@@ -850,7 +868,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 386976,
       "name": "Bring It",
       "url": "https://open.spotify.com/track/2yGaZEhpOmLecvPHvvj52v"
@@ -2150,7 +2168,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 478000,
       "name": "Falling",
       "url": "https://open.spotify.com/track/19FnRm1hzOicpLTworESy0"
@@ -2934,7 +2952,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 372096,
       "name": "I Have a Dream",
       "url": "https://open.spotify.com/track/2guBiZM0rN4326uoCrDATF"
@@ -3300,6 +3318,46 @@
       "duration_ms": 431173,
       "name": "Landscape",
       "url": "https://open.spotify.com/track/0lL7N936MmkQGNfGMzgu74"
+    },
+    {
+      "album": {
+        "name": "Let's Talk",
+        "url": "https://open.spotify.com/album/0uQPkMEkucJfEkCotw5IVP"
+      },
+      "artists": [
+        {
+          "name": "Agustin Giri",
+          "url": "https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326557,
+      "name": "Let's Talk",
+      "url": "https://open.spotify.com/track/2urMoiu8biLlRt4J3lrvHW"
+    },
+    {
+      "album": {
+        "name": "Lick It",
+        "url": "https://open.spotify.com/album/1uvpOdGh9Z8r13mDhAUfx6"
+      },
+      "artists": [
+        {
+          "name": "Mateo Dufour",
+          "url": "https://open.spotify.com/artist/5BhU8yBWfPZN2J2OCefip6"
+        },
+        {
+          "name": "Pablo Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/5ZJcLDAlidHV1DvhdenGSI"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198199,
+      "name": "Lick It (feat. Pablo Aristimu\u00f1o)",
+      "url": "https://open.spotify.com/track/0mWebM26qFivYA24xX6olo"
     },
     {
       "album": {
@@ -4964,7 +5022,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 441068,
       "name": "Relief",
       "url": "https://open.spotify.com/track/2xTUyqLZCKpXZzIZRRTRNJ"
@@ -5530,7 +5588,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 169534,
       "name": "Something Like This",
       "url": "https://open.spotify.com/track/1kNCtmGN7BKuWZZC3coMDV"
@@ -6039,6 +6097,32 @@
     },
     {
       "album": {
+        "name": "Thousand Miles (Hernan Cattaneo & Kevin Di Serna Remix)",
+        "url": "https://open.spotify.com/album/4psJIHvBkE0rZL0iZVnspR"
+      },
+      "artists": [
+        {
+          "name": "Imbermind",
+          "url": "https://open.spotify.com/artist/2tWWexhcLvL1CN2fswv3xt"
+        },
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        },
+        {
+          "name": "Kevin Di Serna",
+          "url": "https://open.spotify.com/artist/6wktCejPtNcStIDD24buEm"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429929,
+      "name": "Thousand Miles - Hernan Cattaneo & Kevin Di Serna Remix",
+      "url": "https://open.spotify.com/track/2xc2ThngGh590Q3aYiy87H"
+    },
+    {
+      "album": {
         "name": "Ticket To Ride",
         "url": "https://open.spotify.com/album/4HIlXQlxMO5CUVJkRtgvln"
       },
@@ -6280,7 +6364,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 647594,
       "name": "Tribute To Miles Davis",
       "url": "https://open.spotify.com/track/0Kira2tDs8pI6osxYqusdZ"
@@ -6696,7 +6780,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 240085,
       "name": "What Is Music",
       "url": "https://open.spotify.com/track/0lGDsoLtji9duYiO6yjSlc"

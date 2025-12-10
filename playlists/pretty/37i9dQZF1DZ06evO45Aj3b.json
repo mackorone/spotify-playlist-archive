@@ -1,12 +1,12 @@
 {
   "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
-  "num_followers": 95699,
+  "num_followers": 95762,
   "original_name": "This Is Dominic Fike",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTTDgAAAAACYh/teKXpSdNtl707F5yfW",
+  "snapshot_id": "aTYVAAAAAACy/4KfREfro+KKwWvieGNQ",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 140318,
-      "name": "Quite the Opposite",
-      "url": "https://open.spotify.com/track/52001S5hssoZCucIE15ALw"
+      "duration_ms": 89894,
+      "name": "One Glass",
+      "url": "https://open.spotify.com/track/5cm8sMvF8qskWFUrDdDIhr"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 89894,
-      "name": "One Glass",
-      "url": "https://open.spotify.com/track/5cm8sMvF8qskWFUrDdDIhr"
+      "duration_ms": 140318,
+      "name": "Quite the Opposite",
+      "url": "https://open.spotify.com/track/52001S5hssoZCucIE15ALw"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+        "name": "14 minutes",
+        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 108533,
-      "name": "Falling Asleep",
-      "url": "https://open.spotify.com/track/4Q09JEsHAZhHOIPTqDGeB2"
+      "duration_ms": 65091,
+      "name": "coast2coast",
+      "url": "https://open.spotify.com/track/4AmwnuAtTh4aK0GqPiwzJA"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "14 minutes",
-        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 65091,
-      "name": "coast2coast",
-      "url": "https://open.spotify.com/track/4AmwnuAtTh4aK0GqPiwzJA"
+      "duration_ms": 108533,
+      "name": "Falling Asleep",
+      "url": "https://open.spotify.com/track/4Q09JEsHAZhHOIPTqDGeB2"
     },
     {
       "added_at": null,
@@ -675,6 +675,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Images of Love (with Dominic Fike)",
+        "url": "https://open.spotify.com/album/2Fwe7dJvmbzU3m2gJKXn2D"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 209942,
+      "name": "Images of Love (with Dominic Fike)",
+      "url": "https://open.spotify.com/track/1Vj11Vm95STtBEL7hSB5Sh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A\u00e7a\u00ed Bowl",
         "url": "https://open.spotify.com/album/20mfnTTQTPZ4MHVOg0R83D"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 121630,
       "name": "1.23.23",
       "url": "https://open.spotify.com/track/4w1esviQOM4f8uZ6RuAjyY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Images of Love (with Dominic Fike)",
-        "url": "https://open.spotify.com/album/2Fwe7dJvmbzU3m2gJKXn2D"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 209942,
-      "name": "Images of Love (with Dominic Fike)",
-      "url": "https://open.spotify.com/track/1Vj11Vm95STtBEL7hSB5Sh"
     }
   ],
   "unique_name": "This Is Dominic Fike",

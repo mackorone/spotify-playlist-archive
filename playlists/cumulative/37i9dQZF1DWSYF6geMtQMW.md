@@ -4,7 +4,7 @@
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: נועה קירל
 
-188 songs - 10 hr 4 min
+189 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Which One \(feat\. Central Cee\)](https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Which One](https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0) | 2:49 | 2025-07-28 | 2025-08-20 |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-11-11 | 2025-04-08 |
 | [אהבה](https://open.spotify.com/track/34aKXUhVdHGTzWOt85RjGq) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [Part II](https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e) | 3:25 | 2024-07-01 | 2024-07-30 |
+| [אהבת חיי](https://open.spotify.com/track/4T87Z2bkvgdLI9sECWYF7i) | [חנן בן ארי](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [אהבת חיי](https://open.spotify.com/album/74pNigP1FQzmaxpCt5cOxq) | 3:27 | 2025-12-09 |  |
 | [אהובתי כבר לא רואה אותי](https://open.spotify.com/track/2QkVXq7dLpefWAiETsvIOs) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 3:10 | 2024-11-18 | 2025-07-01 |
 | [אחי](https://open.spotify.com/track/33KkOQIrkeKi3kOYwFdCxu) | [חנן בן ארי](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [אחי](https://open.spotify.com/album/13U7rF5uDRFyPUNF73VBNk) | 3:10 | 2025-09-11 | 2025-10-07 |
 | [אחת ממיליון](https://open.spotify.com/track/7kFo0ivGlvuzIWmODfmrjF) | [רון חיון](https://open.spotify.com/artist/6ca0SCH3NvU9lEQKW7RM1H) | [אחת ממיליון](https://open.spotify.com/album/2LFWvIFP6k3YWjhgkiaVgo) | 3:21 | 2025-04-07 |  |
@@ -161,7 +162,7 @@
 | [סטלות](https://open.spotify.com/track/2KBtuxA73fMKyj37wr1XKM) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [סטלות](https://open.spotify.com/album/3zSwmJLTtkEFvtbQP9zeCn) | 3:57 | 2024-07-01 | 2024-09-10 |
 | [סיפורי צדיקים](https://open.spotify.com/track/5wXHoXp3DCnzuqZOE6rY0a) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [סיפורי צדיקים](https://open.spotify.com/album/0H4KNTwvPhg3ENilzrgtbw) | 2:52 | 2025-03-10 | 2025-10-21 |
 | [סליחה](https://open.spotify.com/track/3bNMJufCrUTvulgd5XhUKs) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE), [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [סליחה](https://open.spotify.com/album/7fDRe1qM9w0Dq7UyDgu4C8) | 3:45 | 2025-04-22 | 2025-07-08 |
-| [עבד כי ימלוך](https://open.spotify.com/track/0VgQrZgWmIDO20EqbVCiLX) | [Tamir Bar](https://open.spotify.com/artist/1UpRHyPDQSJ3qKmRb45d1L), [שם טוב האבי](https://open.spotify.com/artist/5eqZ0thqANZTXbAXqt0MY2), [Michael Swissa](https://open.spotify.com/artist/2oTKVerbNO0kejs87fV4jA), [Yishay Swissa](https://open.spotify.com/artist/5nFs4FcGSYufpaoEVpNbEW) | [שם טוב האבי 2](https://open.spotify.com/album/5o7E8eXdJOMiEGG07OFHIM) | 3:40 | 2025-11-18 |  |
+| [עבד כי ימלוך](https://open.spotify.com/track/0VgQrZgWmIDO20EqbVCiLX) | [Tamir Bar](https://open.spotify.com/artist/1UpRHyPDQSJ3qKmRb45d1L), [שם טוב האבי](https://open.spotify.com/artist/5eqZ0thqANZTXbAXqt0MY2), [Michael Swissa](https://open.spotify.com/artist/2oTKVerbNO0kejs87fV4jA), [Yishay Swissa](https://open.spotify.com/artist/5nFs4FcGSYufpaoEVpNbEW) | [שם טוב האבי 2](https://open.spotify.com/album/5o7E8eXdJOMiEGG07OFHIM) | 3:40 | 2025-11-18 | 2025-12-10 |
 | [עברנו הכל](https://open.spotify.com/track/4L5Uj4Dt6rjFL0H7hl2qHF) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [עברנו הכל](https://open.spotify.com/album/3PIMlTzSQFaYRYcsD2pwPn) | 3:15 | 2024-09-23 | 2025-06-04 |
 | [עובד בכפר](https://open.spotify.com/track/4Od2pzQuJXMpaClr2IwxjR) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [עובד בכפר](https://open.spotify.com/album/63aFSZxyANJzJYu4dQCLrw) | 3:02 | 2024-08-26 | 2025-03-11 |
 | [עוד אוהבת אותך](https://open.spotify.com/track/15leAeXFh1WX1QOxp1LnOS) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [עוד אוהבת אותך](https://open.spotify.com/album/4MKFSpjafLqBkzJuyhLkVJ) | 3:01 | 2025-01-13 | 2025-05-06 |

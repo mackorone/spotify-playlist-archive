@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2025 \| Happy Easter 2025! Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>
 
-667 songs - 2 day 16 hr 32 min
+668 songs - 2 day 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Healer](https://open.spotify.com/track/3U22Erp29T2a36lYMNjDrx) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Holy Ground](https://open.spotify.com/album/2SZGr3sHy7EwrVFKjJ44j6) | 5:17 | 2022-02-17 | 2023-01-05 |
 | [HEART AND MIND](https://open.spotify.com/track/38qTTS1JyeS1SUGp6LA8Qq) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [MEFA](https://open.spotify.com/album/4vOJUiqS8ppQgcS0YPOe79) | 3:47 | 2024-11-01 | 2025-03-21 |
 | [Heart Cries Holy](https://open.spotify.com/track/5EdKhtiWCSP97UFkXoGER9) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK), [Michael Monroe](https://open.spotify.com/artist/2DjzwlGxl8RUPTvvB9hgHv) | [Heart Cries Holy](https://open.spotify.com/album/7fsu4YWjnGzlzLudN1ny1g) | 4:26 | 2024-01-26 | 2025-03-21 |
+| [Here Comes The Church](https://open.spotify.com/track/0XCgphxtg9U1kmh4Q2icrq) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Here Comes The Church](https://open.spotify.com/album/6Kins0wY4xpDneb5oQ8nDr) | 5:43 | 2025-12-09 |  |
 | [Here I Am To Worship \- Live](https://open.spotify.com/track/18Bgya13bGqmHGLRdyaBdu) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [Ultimate Worship: Hillsong \(Live\)](https://open.spotify.com/album/1s6FttxkLZGqWKRllRkOsL) | 3:40 | 2023-07-14 | 2023-12-14 |
 | [Hidden \- Live](https://open.spotify.com/track/0Hee4SozP6cEevr9I0oa1m) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Holy Spirit \(Live\)](https://open.spotify.com/album/4UfZeGdn1aTzeeaD3HMoAq) | 5:36 | 2023-08-18 | 2023-12-14 |
 | [Highest Praise \- Live](https://open.spotify.com/track/7i0VDcrLmc8M39MN2i77qz) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc), [Brett Shaw](https://open.spotify.com/artist/0cPXxP2NntqpqKvXqRjbfP), [Emma Munns](https://open.spotify.com/artist/7MTo3pAwxkYBoySu334Det) | [Highest Praise \(Live\)](https://open.spotify.com/album/6oe0qlvrWEBwfVZCIqqTEz) | 6:57 | 2024-06-07 | 2025-03-21 |

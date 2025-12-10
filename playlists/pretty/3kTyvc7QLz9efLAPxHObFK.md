@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,719 songs - 5 day 21 hr 31 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 17 likes - 2,720 songs - 5 day 21 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2727,5 +2727,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 2717 | [The Goblin](https://open.spotify.com/track/4VgiIKssGtaMT5wQZPX6E0) | [Noise Of Aggression](https://open.spotify.com/artist/3IUHsnxMykEgZX9K1v94F1) | [The Goblin](https://open.spotify.com/album/2fY48pm3eEXbfpJoGtNbfq) | 2:36 |
 | 2718 | [All I Need](https://open.spotify.com/track/6AIVUD88vxeXlEGNgDawNl) | [Tharoza](https://open.spotify.com/artist/5RxJJVYFSWDQHI8tRNjFJB) | [All I Need](https://open.spotify.com/album/4asWJ9o3H0Gz5Ck1BdXenI) | 2:15 |
 | 2719 | [I Need Your Lovin' \(Like The Sunshine\)](https://open.spotify.com/track/2tvhfItMoRiHmo9QuCnKem) | [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY) | [I Need Your Lovin' \(Like The Sunshine\)](https://open.spotify.com/album/0JvvciT216TxsmNWsgUq0Y) | 2:43 |
+| 2720 | [I KISSED A GIRL](https://open.spotify.com/track/2gFfuGo4w1spOiuGxyOt6p) | [illuszion](https://open.spotify.com/artist/1SxMLa74v5XKzGwdxWNhgp), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [I KISSED A GIRL](https://open.spotify.com/album/2adsjX5nbQ3DIqAhEHk81Z) | 3:07 |
 
-Snapshot ID: `AAAK7Eo32oWYohGz66j/zKt/ZXG4uI4R`
+Snapshot ID: `AAAK7fJEN8npmi1+YLW86vjKbBJzc07f`

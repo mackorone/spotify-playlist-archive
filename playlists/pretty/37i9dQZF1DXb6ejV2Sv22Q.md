@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > aquí está la nueva ola 🌊  Foudeqush en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,341 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,354 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FOLEN ENYELS](https://open.spotify.com/track/0JSuQuNITcNEYYJfJwJpeA) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [ANGELA \(Deluxe\)](https://open.spotify.com/album/2CYVt3PAiW3vQ4gcrOUfJx) | 2:56 |
+| 1 | [FOLEN ENYELS](https://open.spotify.com/track/0JSuQuNITcNEYYJfJwJpeA) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [2AT](https://open.spotify.com/artist/2caaLhxVxlELPUOEI9TrcL) | [ANGELA \(Deluxe\)](https://open.spotify.com/album/2CYVt3PAiW3vQ4gcrOUfJx) | 2:56 |
 | 2 | [DizEN](https://open.spotify.com/track/1WG6o5c2OkYSchH4EoTH4v) | [Miko.666](https://open.spotify.com/artist/7wun6kOabfdY0WjXVm6aZY) | [MAIKOL IS DA PLUGG!!](https://open.spotify.com/album/2fca5clghuVlSaz9s9tkqC) | 2:07 |
 | 3 | [tu nombre](https://open.spotify.com/track/6l86tnT24ec7bp1PuddTMS) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tu nombre](https://open.spotify.com/album/1pw9hHStOaBhgtzmmJd4aw) | 3:31 |
 | 4 | [La Ocasión](https://open.spotify.com/track/3iIeSkdQB6mXQ8HUGhkZgU) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [angely2k](https://open.spotify.com/artist/4gt3Ws8Q3RY6yabs4U5Egl) | [La Ocasión](https://open.spotify.com/album/1b31iLB0KUcUq9NCtHPu6V) | 2:37 |

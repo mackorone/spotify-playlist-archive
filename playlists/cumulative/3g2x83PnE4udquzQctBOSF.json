@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "Reissues 017",
+        "url": "https://open.spotify.com/album/3bc8xU0hGc9zdzQvYJjJdD"
+      },
+      "artists": [
+        {
+          "name": "Marco Moncada",
+          "url": "https://open.spotify.com/artist/4CEdbPWnMu8xKhZIhCxOai"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295384,
+      "name": "Bass Xpress",
+      "url": "https://open.spotify.com/track/4hJq68WXFjJ9NmAL4Np1k6"
+    },
+    {
+      "album": {
         "name": "Bassline Phenomena",
         "url": "https://open.spotify.com/album/64fSyVklb0r3Xn0EuezI8A"
       },

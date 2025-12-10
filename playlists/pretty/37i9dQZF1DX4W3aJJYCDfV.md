@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from JADE, Sam Fender, Elmiene and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,939 likes - 95 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,913 likes - 95 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

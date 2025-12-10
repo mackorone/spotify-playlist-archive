@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8rY0740lkSF.md) - [plain]
 
 > Music from "Tales of Series!"\. 『テイルズ オブ』シリーズの楽曲を1つのプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,198 likes - 94 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,200 likes - 94 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

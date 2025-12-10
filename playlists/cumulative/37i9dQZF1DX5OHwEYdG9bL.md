@@ -4,7 +4,7 @@
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: NCT DREAM\) \(Enjoy a playlist of songs that support music video features!\)
 
-174 songs - 9 hr 37 min
+175 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/3c8XJaxue3pvT2bq0W6cna) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Bad Desire \(With or Without You\)](https://open.spotify.com/album/7sidGuLHbrH2Vug76JRo26) | 2:46 | 2025-07-15 |  |
 | [BBUU!](https://open.spotify.com/track/2eRPvAVimwqU0LTIBPNlut) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [BBUU!](https://open.spotify.com/album/40NtdpmgyeLNRR6SGksIIb) | 2:58 | 2025-12-03 |  |
 | [Beat It Up](https://open.spotify.com/track/6UbIw69jzYJabksNHobINQ) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beat It Up](https://open.spotify.com/album/1WjJDIxuJC7aTAXSNdGe9K) | 3:28 | 2025-12-03 |  |
+| [Beat It Up \| Spotify Performance Video](https://open.spotify.com/track/5B5SLuIkevqp9KlCzxhupw) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beat It Up \| Spotify Performance Video](https://open.spotify.com/album/2H001xNfwbodUi051OEO6Y) | 3:56 | 2025-12-03 |  |
 | [Beautiful Strangers](https://open.spotify.com/track/2hOpoSL862RFX2rvjaZdCG) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Beautiful Strangers](https://open.spotify.com/album/2Jv4foRbcSTwFkrzHiSWQi) | 3:12 | 2025-08-13 |  |
 | [Beautiful Strangers](https://open.spotify.com/track/19ATlltGZxoYLBallj64nV) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Beautiful Strangers](https://open.spotify.com/album/4wg920jmXzQFTstRzODmHK) | 3:14 | 2025-08-13 |  |
 | [BIG BANDS \(狂想曲\)](https://open.spotify.com/track/1njLqea3MtJCFQYRcz6K6D) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [BIG BANDS \(狂想曲\)](https://open.spotify.com/album/0iZHacBPz21y0VbKh9hxjU) | 3:07 | 2025-08-13 |  |

@@ -418,7 +418,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 184000,
       "name": "Can't Hide",
       "url": "https://open.spotify.com/track/7CotyU8EcChJlqOFnxPPmI"
@@ -1530,6 +1530,24 @@
       "duration_ms": 190453,
       "name": "Is It Too Much To Ask",
       "url": "https://open.spotify.com/track/2UkoyDNn9bJbGl6sH87xXc"
+    },
+    {
+      "album": {
+        "name": "It's fine",
+        "url": "https://open.spotify.com/album/6IQk5FiKzylrpts1maZT6y"
+      },
+      "artists": [
+        {
+          "name": "rhyu",
+          "url": "https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305714,
+      "name": "It's fine",
+      "url": "https://open.spotify.com/track/2D7lRROAOXXV7qW6XRoitb"
     },
     {
       "album": {

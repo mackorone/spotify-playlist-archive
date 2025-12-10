@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik",
-  "num_followers": 80034,
+  "num_followers": 80055,
   "original_name": "90's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
+        "name": "Voltooid Verleden Tijd",
+        "url": "https://open.spotify.com/album/7qYL5WgJIzwEYCZszBG5vO"
+      },
+      "artists": [
+        {
+          "name": "Bram Vermeulen",
+          "url": "https://open.spotify.com/artist/4ymKPNzHwzhCvJbOGWLviV"
+        }
+      ],
+      "duration_ms": 301506,
+      "name": "De wedstrijd",
+      "url": "https://open.spotify.com/track/5Dxa2mLRNttIlADdbUjY1e"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
         "name": "Verbazing",
         "url": "https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 214733,
       "name": "Zo Ver Weg",
       "url": "https://open.spotify.com/track/0NdeYpnRgbzT30Inci6LZL"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
-        "name": "Voltooid Verleden Tijd",
-        "url": "https://open.spotify.com/album/7qYL5WgJIzwEYCZszBG5vO"
-      },
-      "artists": [
-        {
-          "name": "Bram Vermeulen",
-          "url": "https://open.spotify.com/artist/4ymKPNzHwzhCvJbOGWLviV"
-        }
-      ],
-      "duration_ms": 301506,
-      "name": "De wedstrijd",
-      "url": "https://open.spotify.com/track/5Dxa2mLRNttIlADdbUjY1e"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -811,8 +811,8 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Vier Weken",
-        "url": "https://open.spotify.com/album/7H9PsA2EZCZE9c7HiV2T20"
+        "name": "Van Dik Hout - 15 Jaar",
+        "url": "https://open.spotify.com/album/1fx3pJ493QkiRPSa3GozGk"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo"
         }
       ],
-      "duration_ms": 291533,
-      "name": "Laat Het Los",
-      "url": "https://open.spotify.com/track/0oFXW0Mqbx4iIGnVKDRIBu"
+      "duration_ms": 222853,
+      "name": "Meer Dan Een Ander",
+      "url": "https://open.spotify.com/track/0IA7H00CDMcOqoOmCpla7u"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -891,8 +891,8 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Van Dik Hout - 15 Jaar",
-        "url": "https://open.spotify.com/album/1fx3pJ493QkiRPSa3GozGk"
+        "name": "Vier Weken",
+        "url": "https://open.spotify.com/album/7H9PsA2EZCZE9c7HiV2T20"
       },
       "artists": [
         {
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo"
         }
       ],
-      "duration_ms": 222853,
-      "name": "Meer Dan Een Ander",
-      "url": "https://open.spotify.com/track/0IA7H00CDMcOqoOmCpla7u"
+      "duration_ms": 291533,
+      "name": "Laat Het Los",
+      "url": "https://open.spotify.com/track/0oFXW0Mqbx4iIGnVKDRIBu"
     },
     {
       "added_at": "2024-07-09 16:41:04",

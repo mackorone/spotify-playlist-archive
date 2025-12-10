@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "El Ejemplar",
+        "url": "https://open.spotify.com/album/4lijBURHkEvFWWNpvLSsqW"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "El Ejemplar",
+      "url": "https://open.spotify.com/track/5CDt26cBTTD90wyM5oMZ8I"
+    },
+    {
+      "album": {
         "name": "El Gabito",
         "url": "https://open.spotify.com/album/1toEeNk0tz2X6J0bVwZGlR"
       },
@@ -1722,7 +1740,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 159133,
       "name": "Soy De Durango",
       "url": "https://open.spotify.com/track/0UYyOOBVLROnK0gpJp5lOP"

@@ -2,7 +2,7 @@
 
 ### [Tamil Indie](https://open.spotify.com/playlist/37i9dQZF1DWVPZhZJQP9HE)
 
-> Tune into the finest of Tamil Indie music!<br/>Cover : Rakhoo
+> Tune into the finest of Tamil Indie music!<br/>Cover : Rakhooo
 
 728 songs - 1 day 18 hr 43 min
 

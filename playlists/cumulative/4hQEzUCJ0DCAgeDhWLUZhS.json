@@ -5773,6 +5773,24 @@
     },
     {
       "album": {
+        "name": "New Wave",
+        "url": "https://open.spotify.com/album/1sLMeUdZZFw0Jtn9haCuIl"
+      },
+      "artists": [
+        {
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244229,
+      "name": "New Wave",
+      "url": "https://open.spotify.com/track/1NB1NajzztHLM3s1b6xNxb"
+    },
+    {
+      "album": {
         "name": "nightmare",
         "url": "https://open.spotify.com/album/5b0b5rlf8IaXxGuUrxiFn2"
       },

@@ -979,28 +979,6 @@
     },
     {
       "album": {
-        "name": "Harmony",
-        "url": "https://open.spotify.com/album/4SnEzerWvY2jHhNiMu0iKE"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Stadiumx",
-          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
-        }
-      ],
-      "date_added": "2022-04-11",
-      "date_added_asterisk": false,
-      "date_removed": "2022-10-07",
-      "duration_ms": 213750,
-      "name": "Harmony",
-      "url": "https://open.spotify.com/track/0qwPUvS4Eofc19Uw2IDodG"
-    },
-    {
-      "album": {
         "name": "Harmony (Stadiumx Remix)",
         "url": "https://open.spotify.com/album/166oI2CSmmp0Wk4IaVbNrU"
       },
@@ -1020,6 +998,28 @@
       "duration_ms": 325645,
       "name": "Harmony - Extended Stadiumx Remix",
       "url": "https://open.spotify.com/track/11SwOkvwTXlCfprgPCA5yP"
+    },
+    {
+      "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/4SnEzerWvY2jHhNiMu0iKE"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Stadiumx",
+          "url": "https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Harmony - Radio Edit",
+      "url": "https://open.spotify.com/track/0qwPUvS4Eofc19Uw2IDodG"
     },
     {
       "album": {
@@ -2338,7 +2338,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 180461,
       "name": "Rave Music",
       "url": "https://open.spotify.com/track/6WkwgLD8a7Dr8nnPRVe9BK"

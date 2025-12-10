@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Higgo
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,659 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,672 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 64 | [IF I CAN'T BE YOURS](https://open.spotify.com/track/1CURVg07JNoRfEBylXcVnG) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [IF I CAN'T BE YOURS](https://open.spotify.com/album/31p4g4SiFB9oAkAUYsPOHB) | 3:35 |
 | 65 | [Like This Like That](https://open.spotify.com/track/14xIALfiHAkxoKAfrTJ9j0) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [EVERY TIME](https://open.spotify.com/album/2xPlGIl6FCLFbfuC0Sv0vg) | 4:13 |
 | 66 | [Needed You](https://open.spotify.com/track/4K8aOmtSHM45q9O6bN8Hc0) | [Strn.](https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH), [ALEXYS](https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT) | [Needed You](https://open.spotify.com/album/3xCd2AgD9A19DfwGz41nNp) | 2:03 |
-| 67 | [Feel Da Same](https://open.spotify.com/track/5Ajc6oBvDdeO09GlzYFW7f) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Feel Da Same](https://open.spotify.com/album/4YCC3uBhkoVU0Ku21mM3nx) | 2:37 |
-| 68 | [King Steps](https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [King Steps](https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt) | 3:01 |
-| 69 | [MasterBlaster 2025](https://open.spotify.com/track/7ADmyaXnqmU6POxnmLjdh2) | [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF), [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [SWN](https://open.spotify.com/artist/72kUoZtNxzO942bjFr66IM) | [MasterBlaster 2025](https://open.spotify.com/album/67qyXWMARqxZaGTcwAXu4z) | 2:54 |
+| 67 | [King Steps](https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [King Steps](https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt) | 3:01 |
+| 68 | [Feel Da Same](https://open.spotify.com/track/5Ajc6oBvDdeO09GlzYFW7f) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Feel Da Same](https://open.spotify.com/album/4YCC3uBhkoVU0Ku21mM3nx) | 2:37 |
+| 69 | [My Mind](https://open.spotify.com/track/2PQOSqKLsPRWoFhQWm0BJz) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Refraction](https://open.spotify.com/album/2R2BtdlMg4A44CzaQdmFfa) | 3:52 |
 | 70 | [Time Of Our Lives](https://open.spotify.com/track/1FTyUvELRNIOpiZXjcVW4D) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Time Of Our Lives](https://open.spotify.com/album/0hrtCwQoVienxal6lQVPLJ) | 3:31 |
 
 Snapshot ID: `AAAAAFQkLl2bj+mJ6Fyvt8AsInpIf+eq`

@@ -2831,6 +2831,24 @@
     },
     {
       "album": {
+        "name": "tower of memories",
+        "url": "https://open.spotify.com/album/5fZahPiBBEr15SgNs9h5s6"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208510,
+      "name": "tower of memories",
+      "url": "https://open.spotify.com/track/0qhVpwKivK3u4OMLb7Z9Ah"
+    },
+    {
+      "album": {
         "name": "Veckatimest",
         "url": "https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk"
       },

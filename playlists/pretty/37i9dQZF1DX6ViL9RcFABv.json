@@ -1,33 +1,13 @@
 {
-  "description": "Uma playlist de pura alma pop! Foto: B\u00e1rbara Tinoco, Mari Froes",
-  "num_followers": 121440,
+  "description": "Uma playlist de pura alma pop! Foto: ZARKO",
+  "num_followers": 121436,
   "original_name": "Pop PT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD8zpad4r+VxddX6j1Fe8jxi2l4x",
+  "snapshot_id": "AAAAACNRG224OYDvJLhbQguK/dTAEwus",
   "tracks": [
-    {
-      "added_at": "2025-12-05 00:00:34",
-      "album": {
-        "name": "Tem l\u00e1 uma tristeza",
-        "url": "https://open.spotify.com/album/3rwON1RikuIdaY40Di9CzY"
-      },
-      "artists": [
-        {
-          "name": "B\u00e1rbara Tinoco",
-          "url": "https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT"
-        },
-        {
-          "name": "Mari Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 160799,
-      "name": "Tem l\u00e1 uma tristeza",
-      "url": "https://open.spotify.com/track/3QjkUHKTlsbiKsROCPYZF2"
-    },
     {
       "added_at": "2025-12-05 00:00:34",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 176869,
       "name": "SERENATA",
       "url": "https://open.spotify.com/track/0Z7kEnuStWYC1MOOfAnM4u"
+    },
+    {
+      "added_at": "2025-12-05 00:00:34",
+      "album": {
+        "name": "Tem l\u00e1 uma tristeza",
+        "url": "https://open.spotify.com/album/3rwON1RikuIdaY40Di9CzY"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Tinoco",
+          "url": "https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT"
+        },
+        {
+          "name": "Mari Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 160799,
+      "name": "Tem l\u00e1 uma tristeza",
+      "url": "https://open.spotify.com/track/3QjkUHKTlsbiKsROCPYZF2"
     },
     {
       "added_at": "2025-12-05 00:00:34",

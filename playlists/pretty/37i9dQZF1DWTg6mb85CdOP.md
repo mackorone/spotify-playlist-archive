@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTg6mb85CdOP.md) - [plain]
 
 > más es más\. FLVCKKA y Régulo Caro lo saben.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,568 likes - 30 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,575 likes - 30 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La Ocasión](https://open.spotify.com/track/3iIeSkdQB6mXQ8HUGhkZgU) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [angely2k](https://open.spotify.com/artist/4gt3Ws8Q3RY6yabs4U5Egl) | [La Ocasión](https://open.spotify.com/album/1b31iLB0KUcUq9NCtHPu6V) | 2:37 |
 | 2 | [BANDIDO](https://open.spotify.com/track/0ipaxkftHTQ8tlOh3OYW59) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK), [Jencko el Shinobi](https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf) | [BANDIDO](https://open.spotify.com/album/4THyYcXm5vqpxl6vo5UBqa) | 3:14 |
 | 3 | [Fiera](https://open.spotify.com/track/0ENGyZDiSDSSgW2UtbBBMD) | [KOKÔ CECÊ](https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V), [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [UNIVERSA](https://open.spotify.com/album/0pkDgzR2swhxw0BEMqaKc1) | 3:42 |
-| 4 | [FOLEN ENYELS](https://open.spotify.com/track/0JSuQuNITcNEYYJfJwJpeA) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [ANGELA \(Deluxe\)](https://open.spotify.com/album/2CYVt3PAiW3vQ4gcrOUfJx) | 2:56 |
+| 4 | [FOLEN ENYELS](https://open.spotify.com/track/0JSuQuNITcNEYYJfJwJpeA) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [2AT](https://open.spotify.com/artist/2caaLhxVxlELPUOEI9TrcL) | [ANGELA \(Deluxe\)](https://open.spotify.com/album/2CYVt3PAiW3vQ4gcrOUfJx) | 2:56 |
 | 5 | [forgetyou:\(](https://open.spotify.com/track/61O1QuGxNPHb1jkesPDqmN) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy), [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp) | [forgetyou:\(](https://open.spotify.com/album/6p9DZYw11XNJXLovSAgCpa) | 2:26 |
 | 6 | [No me veas así](https://open.spotify.com/track/4cBQQHyBxnKqKnUWnZqfFm) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [No me veas así](https://open.spotify.com/album/3AYLv5UWmFW4rAb1ld407Z) | 2:48 |
 | 7 | [Fairy Michelle](https://open.spotify.com/track/4nXbAtULRNMKJTt3PWeA1S) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Fairy Michelle](https://open.spotify.com/album/1DH0FDcZLfnZWqzsc8FpsG) | 3:05 |

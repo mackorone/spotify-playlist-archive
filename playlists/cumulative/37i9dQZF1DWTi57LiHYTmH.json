@@ -2209,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "Dappled",
+        "url": "https://open.spotify.com/album/29NxKDpFSKYIQsocS59Yig"
+      },
+      "artists": [
+        {
+          "name": "John Lenehan",
+          "url": "https://open.spotify.com/artist/2duXUWJifjMXqWzVG1jIB9"
+        }
+      ],
+      "date_added": "2025-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154230,
+      "name": "Dappled",
+      "url": "https://open.spotify.com/track/5ZBtOcvLBT4EuQtI3vA8Gv"
+    },
+    {
+      "album": {
         "name": "Morning Piano - Debussy: Arabesque No. 1",
         "url": "https://open.spotify.com/album/0adEp5xlFx8ZbOyNn8nkPf"
       },
@@ -3384,7 +3402,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 166810,
       "name": "Last Trip Around the Sun",
       "url": "https://open.spotify.com/track/2X2bsPfqB3ih1iS8KSqU1c"

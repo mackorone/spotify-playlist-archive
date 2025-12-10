@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 132055,
+  "num_followers": 132068,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "SuperLove",
+        "url": "https://open.spotify.com/album/5fVKH7ReWO441v5LIFJ2fU"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 193163,
+      "name": "SuperLove",
+      "url": "https://open.spotify.com/track/15KUiWZCdAq458QQR9eygf"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Record Collection",
         "url": "https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 297933,
       "name": "Somebody to Love Me",
       "url": "https://open.spotify.com/track/2Tky1eOpdLXo8yYawnTMcj"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "SuperLove",
-        "url": "https://open.spotify.com/album/5fVKH7ReWO441v5LIFJ2fU"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 193163,
-      "name": "SuperLove",
-      "url": "https://open.spotify.com/track/15KUiWZCdAq458QQR9eygf"
     },
     {
       "added_at": "2024-06-02 21:23:10",

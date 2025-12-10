@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 18433,
+  "num_followers": 18443,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -223,26 +223,22 @@
     {
       "added_at": "2025-12-05 00:01:16",
       "album": {
-        "name": "PAY ME",
-        "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         },
         {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 210574,
-      "name": "PAY ME (feat. Stormzy and Zlatan)",
-      "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
+      "duration_ms": 208500,
+      "name": "Beggie Beggie",
+      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
     },
     {
       "added_at": "2025-12-05 00:01:16",
@@ -291,22 +287,26 @@
     {
       "added_at": "2025-12-05 00:01:16",
       "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+        "name": "PAY ME",
+        "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         },
         {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 208500,
-      "name": "Beggie Beggie",
-      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
+      "duration_ms": 210574,
+      "name": "PAY ME (feat. Stormzy and Zlatan)",
+      "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
     },
     {
       "added_at": "2025-12-05 00:01:16",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-12-05 00:01:16",
       "album": {
-        "name": "Lord I'm Amazed",
-        "url": "https://open.spotify.com/album/3u7exEZx2J3pCtvQxGHiQ9"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 146776,
-      "name": "Lord I'm Amazed",
-      "url": "https://open.spotify.com/track/6u1G4pHAwnkOQBJCvl6D3O"
-    },
-    {
-      "added_at": "2025-12-05 00:01:16",
-      "album": {
         "name": "BALENCIAGA",
         "url": "https://open.spotify.com/album/4xA3y8qPxOG6zRjk1ZE0G9"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 140014,
       "name": "BALENCIAGA",
       "url": "https://open.spotify.com/track/1v50F7vK31Czts54YID73W"
+    },
+    {
+      "added_at": "2025-12-05 00:01:16",
+      "album": {
+        "name": "Lord I'm Amazed",
+        "url": "https://open.spotify.com/album/3u7exEZx2J3pCtvQxGHiQ9"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 146776,
+      "name": "Lord I'm Amazed",
+      "url": "https://open.spotify.com/track/6u1G4pHAwnkOQBJCvl6D3O"
     },
     {
       "added_at": "2025-12-05 00:01:16",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-12-05 00:01:16",
       "album": {
-        "name": "IRON BOY",
-        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 137727,
-      "name": "Eye Open",
-      "url": "https://open.spotify.com/track/0lyZHhlrCzh3A74aWN8GdH"
-    },
-    {
-      "added_at": "2025-12-05 00:01:16",
-      "album": {
         "name": "Run Away (OMALICHA)",
         "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 176200,
       "name": "Run Away (OMALICHA)",
       "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
+    },
+    {
+      "added_at": "2025-12-05 00:01:16",
+      "album": {
+        "name": "IRON BOY",
+        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 137727,
+      "name": "Eye Open",
+      "url": "https://open.spotify.com/track/0lyZHhlrCzh3A74aWN8GdH"
     },
     {
       "added_at": "2025-12-05 00:01:16",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-12-05 00:01:16",
       "album": {
-        "name": "Too Late",
-        "url": "https://open.spotify.com/album/7mQQiuo6jLbmE3aZeSaXaR"
-      },
-      "artists": [
-        {
-          "name": "Wendy Shay",
-          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
-        }
-      ],
-      "duration_ms": 194181,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh"
-    },
-    {
-      "added_at": "2025-12-05 00:01:16",
-      "album": {
         "name": "Rent Free",
         "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 136842,
       "name": "Rent Free",
       "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
+    },
+    {
+      "added_at": "2025-12-05 00:01:16",
+      "album": {
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/7mQQiuo6jLbmE3aZeSaXaR"
+      },
+      "artists": [
+        {
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        }
+      ],
+      "duration_ms": 194181,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh"
     },
     {
       "added_at": "2025-12-05 00:01:16",
@@ -883,6 +883,26 @@
     {
       "added_at": "2025-12-05 00:01:16",
       "album": {
+        "name": "Have Mercy 2",
+        "url": "https://open.spotify.com/album/4iVKlmCDADFXGJOP30ABDj"
+      },
+      "artists": [
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 201627,
+      "name": "Have Mercy 2",
+      "url": "https://open.spotify.com/track/14EbD3WNLZCFvhd6mEuW8m"
+    },
+    {
+      "added_at": "2025-12-05 00:01:16",
+      "album": {
         "name": "Shoulder",
         "url": "https://open.spotify.com/album/04v5bEZUuDeS0orgjeaTJZ"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 168346,
       "name": "Fefe Ne Fe",
       "url": "https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV"
-    },
-    {
-      "added_at": "2025-12-05 00:01:16",
-      "album": {
-        "name": "Have Mercy 2",
-        "url": "https://open.spotify.com/album/4iVKlmCDADFXGJOP30ABDj"
-      },
-      "artists": [
-        {
-          "name": "Kofi Kinaata",
-          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 201627,
-      "name": "Have Mercy 2",
-      "url": "https://open.spotify.com/track/14EbD3WNLZCFvhd6mEuW8m"
     },
     {
       "added_at": "2025-12-05 00:01:16",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2025-12-05 00:01:16",
       "album": {
-        "name": "After Midnight",
-        "url": "https://open.spotify.com/album/76fGDuks8oWP7yumsfunzL"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 177015,
-      "name": "damn u",
-      "url": "https://open.spotify.com/track/5XT1UyE4dVm8DsqVGir9PG"
-    },
-    {
-      "added_at": "2025-12-05 00:01:16",
-      "album": {
         "name": "BALANCE (with Lasmid)",
         "url": "https://open.spotify.com/album/7pSHlYExOSYZf0g67YUmED"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 185660,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/1mUPiWUDXCQvkiNpzNa0yk"
+    },
+    {
+      "added_at": "2025-12-05 00:01:16",
+      "album": {
+        "name": "After Midnight",
+        "url": "https://open.spotify.com/album/76fGDuks8oWP7yumsfunzL"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 177015,
+      "name": "damn u",
+      "url": "https://open.spotify.com/track/5XT1UyE4dVm8DsqVGir9PG"
     },
     {
       "added_at": "2025-12-05 00:01:16",
@@ -1299,30 +1299,6 @@
     {
       "added_at": "2025-12-05 00:01:16",
       "album": {
-        "name": "Normally",
-        "url": "https://open.spotify.com/album/416GBquOnS63wjc41I2aA8"
-      },
-      "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 235703,
-      "name": "Normally",
-      "url": "https://open.spotify.com/track/1HFWDB5E1JY0XdezP2DPkf"
-    },
-    {
-      "added_at": "2025-12-05 00:01:16",
-      "album": {
         "name": "Favourite Story",
         "url": "https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC"
       },
@@ -1367,6 +1343,30 @@
     {
       "added_at": "2025-12-05 00:01:16",
       "album": {
+        "name": "Normally",
+        "url": "https://open.spotify.com/album/416GBquOnS63wjc41I2aA8"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 235703,
+      "name": "Normally",
+      "url": "https://open.spotify.com/track/1HFWDB5E1JY0XdezP2DPkf"
+    },
+    {
+      "added_at": "2025-12-05 00:01:16",
+      "album": {
         "name": "Agya",
         "url": "https://open.spotify.com/album/5RRH1A3hPL1TvcOseyuEOn"
       },
@@ -1379,6 +1379,22 @@
       "duration_ms": 138035,
       "name": "Agya",
       "url": "https://open.spotify.com/track/3mkxopCUD9KXldJJ1c743w"
+    },
+    {
+      "added_at": "2025-12-05 00:01:16",
+      "album": {
+        "name": "Outside / obaa sima",
+        "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "obaa sima",
+      "url": "https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA"
     },
     {
       "added_at": "2025-12-05 00:01:16",
@@ -1399,22 +1415,6 @@
       "duration_ms": 164705,
       "name": "Likor (feat. Stonebwoy)",
       "url": "https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn"
-    },
-    {
-      "added_at": "2025-12-05 00:01:16",
-      "album": {
-        "name": "Outside / obaa sima",
-        "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "obaa sima",
-      "url": "https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA"
     },
     {
       "added_at": "2025-12-05 00:01:16",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-12-05 00:01:16",
       "album": {
-        "name": "Tracking You",
-        "url": "https://open.spotify.com/album/796ArCT8MVsMRDZ0qGHnu6"
-      },
-      "artists": [
-        {
-          "name": "Oseikrom Sikanii",
-          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
-        }
-      ],
-      "duration_ms": 183719,
-      "name": "Tracking You",
-      "url": "https://open.spotify.com/track/03l6Kj3GCCp0kxnzJXrUVw"
-    },
-    {
-      "added_at": "2025-12-05 00:01:16",
-      "album": {
         "name": "Contour",
         "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 189014,
       "name": "Contour",
       "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
+    },
+    {
+      "added_at": "2025-12-05 00:01:16",
+      "album": {
+        "name": "Tracking You",
+        "url": "https://open.spotify.com/album/796ArCT8MVsMRDZ0qGHnu6"
+      },
+      "artists": [
+        {
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+        }
+      ],
+      "duration_ms": 183719,
+      "name": "Tracking You",
+      "url": "https://open.spotify.com/track/03l6Kj3GCCp0kxnzJXrUVw"
     },
     {
       "added_at": "2025-12-05 00:01:16",
@@ -1527,18 +1527,22 @@
     {
       "added_at": "2025-12-05 00:01:16",
       "album": {
-        "name": "SAME TIMBS",
-        "url": "https://open.spotify.com/album/0AjcqAkU6McINORVRb5bZV"
+        "name": "B A H D",
+        "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
       },
       "artists": [
         {
-          "name": "Gonaboy",
-          "url": "https://open.spotify.com/artist/4jSujazuMMQ5Pe2QV1Ca1s"
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
         }
       ],
-      "duration_ms": 141176,
-      "name": "SAME TIMBS",
-      "url": "https://open.spotify.com/track/6kSFCS2GbbctaZ4KbWTqrA"
+      "duration_ms": 147326,
+      "name": "Knee Down",
+      "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"
     }
   ],
   "unique_name": "Troski Rhythms",

@@ -2,7 +2,7 @@
 
 ### [Best of EQUAL Africa 2025](https://open.spotify.com/playlist/37i9dQZF1DX35vibahyjHG)
 
-> The best songs by African women in 2025, selected by our editors\. Cover: <a href="https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK?si=9Y35PBX5R467eG2Yvm3Sww">Moliy</a>
+> Highlights from 2025, listen to women at full volume.<br/>Cover: <a href="https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK?si=9Y35PBX5R467eG2Yvm3Sww">Moliy</a>
 
 561 songs - 1 day 7 hr 48 min
 

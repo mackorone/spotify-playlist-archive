@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Marine, Jul, et Alan Walker x Steve Aoki au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,314 likes - 85 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,290 likes - 85 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 25 | [solo](https://open.spotify.com/track/6U5h4WhbYufaRGXQhnileY) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [solo](https://open.spotify.com/album/1FdXEZw2E4Z7HBsmhkV5E7) | 4:51 |
 | 26 | [En tombant à la mer](https://open.spotify.com/track/5eZ9mjUKqMSJ9WbMJizraE) | [Pascal Obispo](https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS) | [L'archipel des séquelles](https://open.spotify.com/album/3KtDIWE1DcwOw8kz5Oy7GD) | 3:10 |
 | 27 | [Thootie \(feat\. Tokischa\)](https://open.spotify.com/track/6mHIYI9coRzaIlqE6rPNN5) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Thootie \(feat\. Tokischa\)](https://open.spotify.com/album/0TodY9XIuBX1k3DUhigXuG) | 2:31 |
-| 28 | [LA NUIT](https://open.spotify.com/track/4pHVdkN98bY0UoEHcvGVMw) | [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [MONSIEUR SAUDADE II](https://open.spotify.com/album/4oOAczTfPAahAERfNmWEAt) | 3:54 |
+| 28 | [LA NUIT](https://open.spotify.com/track/4pHVdkN98bY0UoEHcvGVMw) | [Abou Tall](https://open.spotify.com/artist/2AD97sdXTycPyTc9rHN2s2), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [MONSIEUR SAUDADE II](https://open.spotify.com/album/4oOAczTfPAahAERfNmWEAt) | 3:53 |
 | 29 | [DA BASS](https://open.spotify.com/track/4A7MPZCy7rVSCdIePZzJUb) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [DA BASS](https://open.spotify.com/album/593Cl6jCgUwLJ5KpNIzVhV) | 2:24 |
 | 30 | [GOSTOSIN](https://open.spotify.com/track/2s4nhrlWTnmzSnGFH5pyAM) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Ensaios Da Anitta](https://open.spotify.com/album/6EkCnMeO4zOURLKlTKbl39) | 2:09 |
 | 31 | [La vérité des baisers](https://open.spotify.com/track/1Xd6H1K9Lq1Owqux3UDsZg) | [Cyril Mokaiesh](https://open.spotify.com/artist/1SDpo7FeZDqdk329wj2wRk) | [La vérité des baisers](https://open.spotify.com/album/5ZoBThw0ygoWQ5qw5KK3nl) | 3:52 |

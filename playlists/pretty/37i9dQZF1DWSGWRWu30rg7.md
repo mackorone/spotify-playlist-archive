@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: RACH?
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,283 likes - 149 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,282 likes - 149 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 56874,
+  "num_followers": 56877,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTTDgAAAAACkBfAdd594wDxLC0BQ2c36",
+  "snapshot_id": "aTYVAAAAAABNzrmPmGWopvOlLAON3gBV",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cora",
-        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 197198,
-      "name": "Para Que Vuelvas",
-      "url": "https://open.spotify.com/track/2c7Ukir0D12XpgRvFmsEb6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monte Fuji",
         "url": "https://open.spotify.com/album/76ShoKZtDVnABmchT2APYJ"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 224400,
       "name": "Monte Fuji",
       "url": "https://open.spotify.com/track/2GEcLZkMr3wZB7zM8gRRBe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cora",
+        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 197198,
+      "name": "Para Que Vuelvas",
+      "url": "https://open.spotify.com/track/2c7Ukir0D12XpgRvFmsEb6"
     },
     {
       "added_at": null,
@@ -675,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ma\u00f1ana Ser\u00e1 Otro D\u00eda",
-        "url": "https://open.spotify.com/album/6LOpEa2PQnIhwMzeE9levS"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Mamoncita y Chula",
-      "url": "https://open.spotify.com/track/2fh0e0swlDpasM5SaMvdO9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Tu Piel",
         "url": "https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 221413,
       "name": "Por Tu Piel",
       "url": "https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ma\u00f1ana Ser\u00e1 Otro D\u00eda",
+        "url": "https://open.spotify.com/album/6LOpEa2PQnIhwMzeE9levS"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Mamoncita y Chula",
+      "url": "https://open.spotify.com/track/2fh0e0swlDpasM5SaMvdO9"
     },
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caricatura",
-        "url": "https://open.spotify.com/album/3kB9EDW0zOZz0Lns1enMTb"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "Caricatura",
-      "url": "https://open.spotify.com/track/3FRHFTC7xJqezSrNIhHySg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Pista",
         "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 222171,
       "name": "\u00bfY si bailamos?",
       "url": "https://open.spotify.com/track/34hlv8mV3qVxQZcJ4A5Aib"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Caricatura",
+        "url": "https://open.spotify.com/album/3kB9EDW0zOZz0Lns1enMTb"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Caricatura",
+      "url": "https://open.spotify.com/track/3FRHFTC7xJqezSrNIhHySg"
     },
     {
       "added_at": null,
@@ -1119,6 +1119,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "que mach\u00edn la cagaste",
+        "url": "https://open.spotify.com/album/3FS9HfjLDPZ6sQ00Csk0vk"
+      },
+      "artists": [
+        {
+          "name": "FREEKIDS",
+          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "que mach\u00edn la cagaste",
+      "url": "https://open.spotify.com/track/48Eac78I4uzj7O5zkApfdA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/0IZVbbPAIaQaFqDYTOyljc"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 345652,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/1yuSIU8jZxvoXX1QERfWKE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "que mach\u00edn la cagaste",
-        "url": "https://open.spotify.com/album/3FS9HfjLDPZ6sQ00Csk0vk"
-      },
-      "artists": [
-        {
-          "name": "FREEKIDS",
-          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "que mach\u00edn la cagaste",
-      "url": "https://open.spotify.com/track/48Eac78I4uzj7O5zkApfdA"
     },
     {
       "added_at": null,
@@ -1211,26 +1211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aunque Me Llames",
-        "url": "https://open.spotify.com/album/43lkEvf58jkDaTFYOBOHsp"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 298778,
-      "name": "Aunque Me Llames",
-      "url": "https://open.spotify.com/track/51e4EQSoahGmUlH5Hn9AVK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Inmensidades",
         "url": "https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 189078,
       "name": "Tequila y Lim\u00f3n",
       "url": "https://open.spotify.com/track/72zs1y5Oe4LmORRE3DmthP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aunque Me Llames",
+        "url": "https://open.spotify.com/album/43lkEvf58jkDaTFYOBOHsp"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 298778,
+      "name": "Aunque Me Llames",
+      "url": "https://open.spotify.com/track/51e4EQSoahGmUlH5Hn9AVK"
     },
     {
       "added_at": null,

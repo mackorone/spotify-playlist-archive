@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 고고학\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 김푸름\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,915 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,903 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Side by side](https://open.spotify.com/track/4sMRRM73otAmc4NjNiqJmE) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [VOL.08](https://open.spotify.com/album/7v7LGUgrXQibAVw7HTFZl2) | 5:06 |
-| 2 | [Me, Forever \(feat\. Car, the garden\)](https://open.spotify.com/track/6nNTYLF4VszdIETzoAenvw) | [Samui](https://open.spotify.com/artist/0HPaAAfUL4k7xE45xXi5yb), [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Dis/Balance](https://open.spotify.com/album/4zYBL8XXK7QfOa1JL1YyVK) | 3:32 |
-| 3 | [The Hedgehog Who Loved a Chestnut Burr](https://open.spotify.com/track/0A1myH9fu09orCGJnyZez0) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [polarity](https://open.spotify.com/album/43Z7XchjEhczYHvyQuDR07) | 4:12 |
+| 1 | [The Hedgehog Who Loved a Chestnut Burr](https://open.spotify.com/track/0A1myH9fu09orCGJnyZez0) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [polarity](https://open.spotify.com/album/43Z7XchjEhczYHvyQuDR07) | 4:12 |
+| 2 | [Side by side](https://open.spotify.com/track/4sMRRM73otAmc4NjNiqJmE) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [VOL.08](https://open.spotify.com/album/7v7LGUgrXQibAVw7HTFZl2) | 5:06 |
+| 3 | [Me, Forever \(feat\. Car, the garden\)](https://open.spotify.com/track/6nNTYLF4VszdIETzoAenvw) | [Samui](https://open.spotify.com/artist/0HPaAAfUL4k7xE45xXi5yb), [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Dis/Balance](https://open.spotify.com/album/4zYBL8XXK7QfOa1JL1YyVK) | 3:32 |
 | 4 | [40 Something](https://open.spotify.com/track/3Yh8bCr87YilTxwCpUd1gi) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [40 Something / Those Unready Years](https://open.spotify.com/album/0FS5czCk4kQGqovOzd9qTg) | 4:07 |
 | 5 | [dim,](https://open.spotify.com/track/1E49d9HooEuunfjJhmFJO1) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [dim,](https://open.spotify.com/album/01ukw9s9qzsLMNljPja6LN) | 3:24 |
 | 6 | [Back to zero](https://open.spotify.com/track/3xDCorvyyw6kwnRVo6wYdG) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Back to zero](https://open.spotify.com/album/3QQ2iixWjRfdk25MMks8zO) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [Make\-believe](https://open.spotify.com/track/0vwAG82C6lgnmrojDP5qsU) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Make\-believe](https://open.spotify.com/album/43BAHAUk1NvSY8UlD59yGS) | 2:46 |
 | 50 | [Someday, With You Again](https://open.spotify.com/track/3zCpxJLcDmmfklrBvfk5Bn) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Someday, With You Again](https://open.spotify.com/album/6DgOYZr2IYEtyhz623SFcY) | 3:42 |
 
-Snapshot ID: `AAAAAE5VVQDXzTYo9ym819u6lRqt0hsR`
+Snapshot ID: `AAAAAOvpqUORzpTjZW0dqYFjKiWOZmB6`

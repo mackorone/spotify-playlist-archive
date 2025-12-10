@@ -6213,6 +6213,24 @@
     },
     {
       "album": {
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/3aQTx32k5INUFrjCepPgTO"
+      },
+      "artists": [
+        {
+          "name": "James Leeluck",
+          "url": "https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179116,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/6tlFACf9nEplYqUAr4ppBG"
+    },
+    {
+      "album": {
         "name": "Drifting Apart",
         "url": "https://open.spotify.com/album/7DTe3QXy4XrjCmu3lQUFhU"
       },
@@ -7585,6 +7603,24 @@
     },
     {
       "album": {
+        "name": "Finders Keepers",
+        "url": "https://open.spotify.com/album/0XNluBfZ1FTXjuc01E82De"
+      },
+      "artists": [
+        {
+          "name": "Vernon Sanders",
+          "url": "https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Finders Keepers",
+      "url": "https://open.spotify.com/track/6L84AuO4VX49v1CeobEmlb"
+    },
+    {
+      "album": {
         "name": "First Call",
         "url": "https://open.spotify.com/album/4wZFlDHSxEZ5UVUiFgZrpA"
       },
@@ -8280,7 +8316,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 173672,
       "name": "Four And Moment",
       "url": "https://open.spotify.com/track/0bjdnGERLF53etzOiyRKrf"
@@ -9786,6 +9822,24 @@
       "duration_ms": 279206,
       "name": "How She Walks",
       "url": "https://open.spotify.com/track/1OsZpyWuQeukRtfB9U8Tmk"
+    },
+    {
+      "album": {
+        "name": "How Sincere",
+        "url": "https://open.spotify.com/album/2R6o8e0quIy1TSjjZOVnRN"
+      },
+      "artists": [
+        {
+          "name": "Frank Guardiola",
+          "url": "https://open.spotify.com/artist/5gcPk6Qs7bOVFQDwH5xRcl"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224174,
+      "name": "How Sincere",
+      "url": "https://open.spotify.com/track/2rULXVAzHRCfkeb4EzOEPo"
     },
     {
       "album": {
@@ -17066,7 +17120,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 207949,
       "name": "Next Step",
       "url": "https://open.spotify.com/track/4fopXpSuN9Ki2lcwdMJf3c"
@@ -22586,7 +22640,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 208217,
       "name": "Summer In Central Park",
       "url": "https://open.spotify.com/track/74NmDsFZbbS0T7Zc2z74Cd"

@@ -19377,6 +19377,28 @@
     },
     {
       "album": {
+        "name": "Slowmotion",
+        "url": "https://open.spotify.com/album/6AJGsWEyP8tnC4ZB6jSr9K"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+        },
+        {
+          "name": "WLZN",
+          "url": "https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128500,
+      "name": "Slowmotion",
+      "url": "https://open.spotify.com/track/11v4G7wg4Kql7CgKwpqfe0"
+    },
+    {
+      "album": {
         "name": "Small Rain",
         "url": "https://open.spotify.com/album/4X9efgVf9owu5fcZOjqVIc"
       },

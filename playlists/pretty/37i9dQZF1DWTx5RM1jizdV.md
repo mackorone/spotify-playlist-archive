@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTx5RM1jizdV.md) - [plain]
 
 > Music from "ASSASSINATION CLASSROOM"! /アニメ「暗殺教室」の世界を彩る楽曲をプレイリストで。©松井優征／集英社・アニメ「暗殺教室」製作委員会2025
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,287 likes - 20 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,300 likes - 20 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

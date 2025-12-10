@@ -4,7 +4,7 @@
 
 > J\-Rock acts who have broken the border and are making global impact\.   Cover: Vaundy
 
-1,446 songs - 3 day 22 hr 40 min
+1,447 songs - 3 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Bloody Power Fame](https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Bloody Power Fame](https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI) | 3:58 | 2022-06-30 | 2023-02-08 |
 | [bloodYhell.](https://open.spotify.com/track/3hK0jJVeMYsie1nnQhvy2N) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [bloodYhell.](https://open.spotify.com/album/5TVZ4thQkBJS3fFAKt11Su) | 3:41 | 2025-04-01 | 2025-06-25 |
 | [BLUE DIVER](https://open.spotify.com/track/3n07Xv1MuzLx76mmHn0lly) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [BLUE DIVER](https://open.spotify.com/album/7y1qT6eKNtrlMs3QbCJ3db) | 5:28 | 2025-11-04 | 2025-12-03 |
-| [Blue Map](https://open.spotify.com/track/5ne17uMtfqeNWlPGSbfgoL) | [UZ](https://open.spotify.com/artist/3aGfrrPQDiYyitc80dbwaT) | [STATE OF RHYMES](https://open.spotify.com/album/5NqfhvCpVUFMOukl2uNnzC) | 2:53 | 2025-12-02 |  |
+| [Blue Map](https://open.spotify.com/track/5ne17uMtfqeNWlPGSbfgoL) | [UZ](https://open.spotify.com/artist/3aGfrrPQDiYyitc80dbwaT) | [STATE OF RHYMES](https://open.spotify.com/album/5NqfhvCpVUFMOukl2uNnzC) | 2:53 | 2025-12-02 | 2025-12-10 |
 | [Bongiri koiuta](https://open.spotify.com/track/0POtzhZLoUX2bsFatFD4rD) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Bongiri koiuta](https://open.spotify.com/album/7bUQB59SHqlbzJsHg4lRlM) | 4:19 | 2023-07-18 | 2023-09-13 |
 | [Boogie Woogie](https://open.spotify.com/track/2d4864DEKNKv2B1zkWiDuG) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [IZORA](https://open.spotify.com/album/7COwrUcqO3yWY4zXsdeXgI) | 3:57 | 2023-04-25 | 2023-05-10 |
 | [Boogie Woogie](https://open.spotify.com/track/4sJmUGSQRuaXU2lzaslHFI) | [BUCK\-TICK](https://open.spotify.com/artist/2DiecQcRbDuSJuSPKtirrX) | [Boogie Woogie](https://open.spotify.com/album/3lkurRziZZ3vg0PprumXcU) | 3:57 | 2023-04-04 | 2023-04-06 |
@@ -157,6 +157,7 @@
 | [Dark Crow](https://open.spotify.com/track/5aJg39ukLHsiCtCwoIHcF3) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Dark Crow](https://open.spotify.com/album/1Rny5KOdByNfkZ9ww76NfT) | 4:38 | 2023-06-27 | 2023-12-20 |
 | [Daydream Believer](https://open.spotify.com/track/1nU5tT6UviZ15mXJBg8XEN) | [MUCC](https://open.spotify.com/artist/2OfxY8WbbZZu7GiRJLb0P5) | [Daydream Believer](https://open.spotify.com/album/6ejYf5GlsvtVZ43gDxvR2C) | 3:52 | 2025-03-04 | 2025-03-12 |
 | [Daydreaming](https://open.spotify.com/track/1FGMOYigI47jlDeckQCjvq) | [Lucie,Too](https://open.spotify.com/artist/5PhoNkzWUeTayL3gJv4Gvn) | [Daydreaming](https://open.spotify.com/album/2HEd3TIi5tw3wPZJ9j6Vk9) | 3:12 | 2024-07-16 | 2024-07-31 |
+| [Daydreaming Ⅰ](https://open.spotify.com/track/0F1YeN3S1L0dSiU371a4Sd) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [Daydreaming](https://open.spotify.com/album/1eb263XS9jW2t0nMVXOaxq) | 7:36 | 2025-12-09 |  |
 | [Days](https://open.spotify.com/track/6XCLKrmhexbkfHAL8H3gGE) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [REARRANGE THE BACK HORN](https://open.spotify.com/album/7yZouODY50zeShsVwq4wDB) | 3:53 | 2023-06-13 | 2023-06-15 |
 | [Days](https://open.spotify.com/track/70FouyEWKM0a6tV4nITxxZ) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [REARRANGE THE BACK HORN](https://open.spotify.com/album/19WApxqGz4x06rBgNGBPnz) | 3:53 | 2023-06-13 | 2023-06-21 |
 | [DEAR](https://open.spotify.com/track/2cFLdP5wBMfc3gycDgEOaw) | [OTOGIVANASHI](https://open.spotify.com/artist/44D2YJddv2yvBrrnCEJrN7) | [DEAR](https://open.spotify.com/album/4OBpKvxYrXgkL3In9SoP5q) | 3:54 | 2022-06-09 | 2022-07-08 |
@@ -340,7 +341,7 @@
 | [It's not too late](https://open.spotify.com/track/6msygryLZFEN7Fw7laGcAA) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [It's not too late](https://open.spotify.com/album/03Dx5bwpehJewD0236CHfe) | 4:33 | 2022-07-19 | 2022-07-27 |
 | [It’s only lonely crazy days](https://open.spotify.com/track/7AYbM2IImncnflOBbGIih9) | [Elephant Kashimashi](https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm) | [yes\. I\. do](https://open.spotify.com/album/0FHJHsRQBd3U2vjYd6FJjo) | 3:37 | 2023-03-07 | 2023-03-22 |
 | [Jane](https://open.spotify.com/track/4AadyyEVbQuhLV9FggUJPj) | [Flying Kids](https://open.spotify.com/artist/7okQeABLQpbyFXz1L9sTpd) | [Jane](https://open.spotify.com/album/6H4Xeb4atKRrpojmtfiS3g) | 4:38 | 2024-01-09 | 2024-01-17 |
-| [JOOOOKE](https://open.spotify.com/track/6XdHXowM9CEZICEQPu71F2) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [JOOOOKE](https://open.spotify.com/album/5Db4faF7Qcj7RUH5po6Xor) | 3:03 | 2025-03-18 |  |
+| [JOOOOKE](https://open.spotify.com/track/6XdHXowM9CEZICEQPu71F2) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [JOOOOKE](https://open.spotify.com/album/5Db4faF7Qcj7RUH5po6Xor) | 3:03 | 2025-03-18 | 2025-12-10 |
 | [JOY](https://open.spotify.com/track/4qm684B9C9kVHvHJuWLuOQ) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [アントロギア](https://open.spotify.com/album/3buKVNQCasGoLW9lz9hY8D) | 4:50 | 2022-05-12 | 2022-07-25 |
 | [Judgement Day](https://open.spotify.com/track/0MxKjHqwplq23za7oz8HBp) | [LOVEBITES](https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa) | [JUDGEMENT DAY](https://open.spotify.com/album/1jV4Ke1D2IzyRPI1NMOQdL) | 5:52 | 2022-12-27 | 2023-01-25 |
 | [JULIUS](https://open.spotify.com/track/027xIoTAUMI0WSCDKRVEZI) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [PROVOKE](https://open.spotify.com/album/16e51QIO4jxTpRvbsHJdah) | 2:27 | 2025-04-22 | 2025-06-11 |
@@ -663,7 +664,7 @@
 | [Silver Lining](https://open.spotify.com/track/2j7AIjrvfx9hpMhZ5oQGb9) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [Silver Lining](https://open.spotify.com/album/2NLxbBx2W8DpuypxMiZ5y3) | 3:37 | 2023-09-05 | 2023-10-04 |
 | [Ska Fandango!](https://open.spotify.com/track/6mqLEDj098UYHbpc87WaI8) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [35](https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk) | 3:35 | 2024-10-22 | 2024-12-04 |
 | [SKILLAWAKE](https://open.spotify.com/track/1fycgoG1JYggpd8Kr6le4c) | [PassCode](https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo) | [SKILLAWAKE](https://open.spotify.com/album/4pYctGdMDsCT71ODKGNUQH) | 3:51 | 2024-12-17 | 2024-12-25 |
-| [Sleep Walking Orchestra](https://open.spotify.com/track/0vMBqdJIkmflvFk728hKH7) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Sleep Walking Orchestra](https://open.spotify.com/album/565KNcvUbOCDBIdCNFqiWl) | 3:55 | 2023-12-12 | 2025-10-01 |
+| [Sleep Walking Orchestra](https://open.spotify.com/track/0vMBqdJIkmflvFk728hKH7) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Sleep Walking Orchestra](https://open.spotify.com/album/565KNcvUbOCDBIdCNFqiWl) | 3:55 | 2023-12-12 |  |
 | [SLEEPLESS](https://open.spotify.com/track/6Xizy6cbIVFGuOFMvj1btX) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [SLEEPLESS](https://open.spotify.com/album/5qZBvVlYiHtz5jAfJDQp5k) | 3:38 | 2022-06-23 | 2023-06-22 |
 | [Slow Dance](https://open.spotify.com/track/1j8b2kx4h4JIpSw600rxeQ) | [BRAHMAN](https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5) | [Slow Dance](https://open.spotify.com/album/027kJFq2aEKN1y53MFq1LZ) | 4:23 | 2022-05-19 | 2022-07-27 |
 | [slowboat](https://open.spotify.com/track/5rtc1aVVpRccHDNfagpZO2) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [see you, frail angel\. sea adore you.](https://open.spotify.com/album/4jTSkoy7zC33s4GS4znEba) | 3:55 | 2024-11-13 | 2025-01-08 |

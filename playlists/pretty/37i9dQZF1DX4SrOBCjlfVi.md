@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Baby, GloRilla, A Boogie Wit da Hoodie and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,551 likes - 49 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,649 likes - 49 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 29 | [Area 29](https://open.spotify.com/track/5st5NdZsS9ZUUWDWB22rD0) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Area 29](https://open.spotify.com/album/2MmKj63xF02bAGjkyOzAFj) | 2:09 |
 | 30 | [Options](https://open.spotify.com/track/6v9mfppMGeusTxuauQ4r2P) | [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Options](https://open.spotify.com/album/6O6QQyRj5A4lRMIwrE7Wlr) | 2:40 |
 | 31 | [5k for the Draco](https://open.spotify.com/track/2ynkjghe47nb0fQvAgEvBI) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Press Machine II](https://open.spotify.com/album/4mj1vxNK3hdh1AnSKZ2GvX) | 1:50 |
-| 32 | [Test Me](https://open.spotify.com/track/1hr2B4z81xHuQWLl1N628j) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ), [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Dynamic Duos](https://open.spotify.com/album/1A8L5KGLJiZ5Hthi4eiIRX) | 2:32 |
+| 32 | [Test Me](https://open.spotify.com/track/1hr2B4z81xHuQWLl1N628j) | [Erick Sermon](https://open.spotify.com/artist/2VX0o9LDIVmKIgpnwdJpOJ), [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Dynamic Duos \(Volume 1\)](https://open.spotify.com/album/1A8L5KGLJiZ5Hthi4eiIRX) | 2:32 |
 | 33 | [BLACC TRUCK \(feat\. Traetwothree & Reech.FrFr\)](https://open.spotify.com/track/5inQX8u0ZsDWpvAUGr58Uw) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz), [Chimchilla](https://open.spotify.com/artist/5JyCcXa7efIN5sFq37f9hn), [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV), [Reech.FrFr](https://open.spotify.com/artist/7G0tooUPxc1dl2bdIUjcxw) | [Rhythm & Zoe](https://open.spotify.com/album/6DRxTUsUL1d7RaPGfn1eem) | 3:17 |
 | 34 | [best\. \(feat\. Kalan.FrFr & CUZZOS\)](https://open.spotify.com/track/6QYm0rw6lKf5auaxhW9Ebz) | [Mark Lux](https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ) | [opened gates](https://open.spotify.com/album/6tj7EUZVnjQoQv4gibzw8w) | 3:03 |
 | 35 | [Pussy Pink](https://open.spotify.com/track/2l1CssM0Jd3muJcJcvr0wR) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Nightmares and Dreams](https://open.spotify.com/album/4DV5J4PIRPxizoICairCcX) | 2:51 |

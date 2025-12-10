@@ -4,7 +4,7 @@
 
 > Find your study focus with calm instrumental Jazz.
 
-992 songs - 2 day 10 hr 7 min
+993 songs - 2 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Downtrodden](https://open.spotify.com/track/08oIyomJzeb3f79sWVT24b) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Downtrodden](https://open.spotify.com/album/2VWoktWJQb1VQyzjjdC8vU) | 3:08 | 2023-01-05 | 2024-11-12 |
 | [Dreams in Blue](https://open.spotify.com/track/4C6M1M5EkA5XABc7ol3EEz) | [Chops & Coda](https://open.spotify.com/artist/6n4Dbzp4CXCS3JzkqTU5cc) | [Dreams in Blue](https://open.spotify.com/album/0NBehQ2CzTrBMo2jZhWgUm) | 2:37 | 2024-09-27 | 2025-11-15 |
 | [Dreamsville](https://open.spotify.com/track/4AnJZTcx01nxo47QyYbskV) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Dreamsville](https://open.spotify.com/album/60rdAuFzDeyUJIJRneqY3A) | 4:21 | 2022-04-11 | 2025-06-06 |
+| [Drift](https://open.spotify.com/track/6tlFACf9nEplYqUAr4ppBG) | [James Leeluck](https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ) | [Drift](https://open.spotify.com/album/3aQTx32k5INUFrjCepPgTO) | 2:59 | 2025-12-09 |  |
 | [Early Morning Thoughts](https://open.spotify.com/track/4QUlDSxJVMTYKaz3xBQ8F9) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 6:44 | 2022-09-13 | 2023-02-03 |
 | [Early Spring](https://open.spotify.com/track/1g9DjsrhhqP4crNrYsS1TY) | [Tom Francis](https://open.spotify.com/artist/6uaneVpX351id57reqAEff) | [Early Spring](https://open.spotify.com/album/4k0FkqzLrEgDovXfESljSk) | 2:49 | 2024-03-08 | 2025-06-06 |
 | [Earnestly](https://open.spotify.com/track/1cwJs07Bx640tEkvHfDemy) | [Novo Stella](https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32) | [Earnestly](https://open.spotify.com/album/4MdQCiNqlEXsbXxf3w08Nn) | 4:12 | 2023-06-08 | 2024-12-04 |
@@ -640,7 +641,7 @@
 | [Our Best Year Yet](https://open.spotify.com/track/628mswwaHdp8bFEKsOCwCa) | [Andi Weiss Trio](https://open.spotify.com/artist/7pMhB3Lo7q9XPC4pbNdRlp) | [Our Best Year Yet](https://open.spotify.com/album/1T3kqQSoxwY8hjM8CkJIcL) | 4:38 | 2022-04-11 | 2025-06-06 |
 | [Our Love Story](https://open.spotify.com/track/1FW1U15nbWIAteWTI2Iy9L) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Our Love Story](https://open.spotify.com/album/3G7vIhBdcwdmKTMdr4NcYt) | 2:40 | 2023-04-13 | 2025-09-24 |
 | [Out Of Nowhere](https://open.spotify.com/track/6jpA5MMr6k4dE6TxAT9STe) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Out Of Nowhere](https://open.spotify.com/album/1Pda3ApoPc1jIsftQXhYg4) | 2:56 | 2024-10-21 | 2025-06-06 |
-| [Out Of The Blue](https://open.spotify.com/track/6pGvi1k9FL1p27JwYDuB8S) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [Out Of The Blue](https://open.spotify.com/album/6emBxjRNaXLFFBJUtzpUQI) | 2:58 | 2023-02-02 |  |
+| [Out Of The Blue](https://open.spotify.com/track/6pGvi1k9FL1p27JwYDuB8S) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [Out Of The Blue](https://open.spotify.com/album/6emBxjRNaXLFFBJUtzpUQI) | 2:58 | 2023-02-02 | 2025-12-10 |
 | [Out of Wilma](https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Out of Wilma](https://open.spotify.com/album/1xHX7TFDWntXbStEw02s5Y) | 2:49 | 2022-12-22 | 2025-11-15 |
 | [P.S\. I Love You](https://open.spotify.com/track/1cdNkKJhTzAWW5yMBlvc0v) | [Paddington St\. Group](https://open.spotify.com/artist/2wgAdNr1UerjSdYbhcagSO) | [Detour Ahead](https://open.spotify.com/album/3qH33VNF4bKmgjk9Y3BWk4) | 4:05 | 2023-08-17 | 2024-04-03 |
 | [Part of the moment](https://open.spotify.com/track/0Ayv05nqaQxZZaidg0kE0A) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [Part of the moment](https://open.spotify.com/album/67xV4VBBWbQ7FGoGjkWH19) | 2:50 | 2023-08-10 |  |

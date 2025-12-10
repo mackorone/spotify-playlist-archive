@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 116571,
+  "num_followers": 116570,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
-        "name": "Fineste i bygda",
-        "url": "https://open.spotify.com/album/7JFPf1f5pWX81h6EMxolbY"
-      },
-      "artists": [
-        {
-          "name": "Bare Andy",
-          "url": "https://open.spotify.com/artist/6IpOWXE5U9K6vYTBgaRkrU"
-        }
-      ],
-      "duration_ms": 191982,
-      "name": "Fineste i bygda",
-      "url": "https://open.spotify.com/track/0ao1DL2cMdCuh4mB8r1y9z"
-    },
-    {
-      "added_at": "2025-11-06 23:00:18",
-      "album": {
         "name": "Om igjen",
         "url": "https://open.spotify.com/album/16f2U7RUhhchDESg3o81hV"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 175250,
       "name": "Om igjen",
       "url": "https://open.spotify.com/track/1xjH8AXPen7QsInIual4yF"
+    },
+    {
+      "added_at": "2025-11-06 23:00:18",
+      "album": {
+        "name": "Fineste i bygda",
+        "url": "https://open.spotify.com/album/7JFPf1f5pWX81h6EMxolbY"
+      },
+      "artists": [
+        {
+          "name": "Bare Andy",
+          "url": "https://open.spotify.com/artist/6IpOWXE5U9K6vYTBgaRkrU"
+        }
+      ],
+      "duration_ms": 191982,
+      "name": "Fineste i bygda",
+      "url": "https://open.spotify.com/track/0ao1DL2cMdCuh4mB8r1y9z"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

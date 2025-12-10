@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Santa RM en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,361 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,365 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Los Más Odiados](https://open.spotify.com/track/2SaGuh1LZ7qIxZE8h7SXwx) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q), [Porta](https://open.spotify.com/artist/3p7Bs02UWDt5ENoJeUGqaB) | [Salto de Fe](https://open.spotify.com/album/46onTMzi9FlGypnp4NgzqI) | 3:33 |
 | 2 | [X Tu Bien](https://open.spotify.com/track/3mCh2kLXoTWTW7lpWpJR0X) | [West Gold](https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM) | [X Tu Bien](https://open.spotify.com/album/46jNxRCrT9yx61CCjci4mH) | 3:38 |
 | 3 | [North Carolina](https://open.spotify.com/track/1LDotypwGna612cNstP5pK) | [Keyviem](https://open.spotify.com/artist/69Y1YezofG2Ljgnd7iUbjw) | [North Carolina](https://open.spotify.com/album/71pufSccYxTQifr78KAbL0) | 1:50 |
-| 4 | [Guten Morgen](https://open.spotify.com/track/6qLpgjKuXXGqq0YYYAkU5Z) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c), [Ibzen](https://open.spotify.com/artist/5U9DkPMcXVr9AAQ46xxThb), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Guten Morgen](https://open.spotify.com/album/15UtZR9kcTQN4B087RUBPS) | 3:00 |
+| 4 | [Guten Morgen](https://open.spotify.com/track/6qLpgjKuXXGqq0YYYAkU5Z) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c), [Ibzen](https://open.spotify.com/artist/5U9DkPMcXVr9AAQ46xxThb), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Guten Morgen](https://open.spotify.com/album/15UtZR9kcTQN4B087RUBPS) | 2:54 |
 | 5 | [TU POPOLA](https://open.spotify.com/track/5GGqHD1tyLt3juS8AiG1zh) | [Tipo El Que Sabe](https://open.spotify.com/artist/2gqzuEr6ytKqa4KyrzlYmk), [Yaii King](https://open.spotify.com/artist/25djYlx2ehwJwLS9qd9qYf) | [TU POPOLA](https://open.spotify.com/album/46c9qQ7bHJryYVGrbfNA6Y) | 1:56 |
 | 6 | [La Flor en los Escombros](https://open.spotify.com/track/7FrUUknbSJqcw6Uf4oc9jC) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [KYR4](https://open.spotify.com/artist/1nm61H1nuw0QZ86AuH0wv2) | [La Flor en los Escombros](https://open.spotify.com/album/3VKWT3pOphnXt3hd9jOtMV) | 3:06 |
 | 7 | [Fugazi](https://open.spotify.com/track/00KQzHBnuGHts0vFofRMdk) | [Mike Diaz](https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz), [Bizor](https://open.spotify.com/artist/7F6fxMv0tz2Clj8H02Y2k7), [Mantequilloso](https://open.spotify.com/artist/5ZFEiJL7RrUvHPM98RSolq) | [Fugazi](https://open.spotify.com/album/4JsY6g3bXETFjcK2L7VFV4) | 2:51 |

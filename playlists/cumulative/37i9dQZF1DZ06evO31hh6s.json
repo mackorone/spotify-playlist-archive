@@ -370,7 +370,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 181500,
       "name": "Born Alone, Die Alone",
       "url": "https://open.spotify.com/track/2eGum7AB3y8Rn9Cnxezr6q"
@@ -699,6 +699,36 @@
     },
     {
       "album": {
+        "name": "Dyin' 4 Rap",
+        "url": "https://open.spotify.com/album/4ybgKPv8PqRNc4EnV7PJ9g"
+      },
+      "artists": [
+        {
+          "name": "Cuban Link",
+          "url": "https://open.spotify.com/artist/5sitIVVORnNPCeyU2hCMeU"
+        },
+        {
+          "name": "Fredro Starr",
+          "url": "https://open.spotify.com/artist/5OsWN8awq2bN7q5upCCgWf"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Capone-N-Noreaga",
+          "url": "https://open.spotify.com/artist/6KVPfr3ujUkKOrJf4QeRWD"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224208,
+      "name": "Dyin' 4 Rap",
+      "url": "https://open.spotify.com/track/2ToAFQideOZHpmzqHO1QbY"
+    },
+    {
+      "album": {
         "name": "Son of God",
         "url": "https://open.spotify.com/album/3urVMZt4Oej0afNgNRuJuD"
       },
@@ -728,7 +758,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 425664,
       "name": "EUTHANASIA",
       "url": "https://open.spotify.com/track/6QGf4VLfZARAD4ZlMeUIUg"
@@ -1376,7 +1406,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 301239,
       "name": "IMMORTALIZED",
       "url": "https://open.spotify.com/track/5IKnQVhGUxRnviKa8pk37T"
@@ -2406,7 +2436,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 289163,
       "name": "Rolling 200 Deep XI",
       "url": "https://open.spotify.com/track/58n5t84X5mmRlzda7fZaOZ"
@@ -2542,7 +2572,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 227925,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/5kFV2qrbtsBjIsNNeT2LQk"

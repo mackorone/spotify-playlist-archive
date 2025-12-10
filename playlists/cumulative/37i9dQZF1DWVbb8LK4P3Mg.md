@@ -4,7 +4,7 @@
 
 > Enjoy the wonderful holiday season with K\-Pop! \(Cover: fromis\_9\(프로미스나인\)\)
 
-239 songs - 13 hr 57 min
+240 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Christmassy!](https://open.spotify.com/track/1KMc5CXwEkjklwSqPMQjB1) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ Special Single 'Christmassy!'](https://open.spotify.com/album/5KR9XuMapeh6JjUdcy4MHM) | 3:25 | 2021-12-21 |  |
 | [Confession Song](https://open.spotify.com/track/60uS4DyHMAdsNwJXn89C8R) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [MAD Winter Edition](https://open.spotify.com/album/2CbU9JhqInjKPgsYdSAKAk) | 3:32 | 2023-01-10 | 2024-04-19 |
 | [D\-day](https://open.spotify.com/track/5u7y6dLbCVbCGZCwEz8RBE) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 3:57 | 2022-12-23 |  |
+| [Dancing on Christmas](https://open.spotify.com/track/1tHnzNY5NgKkTEcM3lYi3s) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Dancing on Christmas](https://open.spotify.com/album/3Lhq5jOH1ki9Tck6PnNdb3) | 3:16 | 2025-12-08 |  |
 | [Dear My Winter](https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo) | [죠지](https://open.spotify.com/artist/0MoN0PUslF5GIOPK5f7bfr), [츄\(Chuu\)](https://open.spotify.com/artist/2rEkanqYeFOVdPNUhNCkDL) | [Dear My Winter](https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN) | 3:20 | 2022-12-07 | 2024-12-30 |
 | [Dear Santa](https://open.spotify.com/track/7Do5qY5GCZr0T2wk3eKzmi) | [Girls' Generation\-TTS](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | [Dear Santa \- X\-Mas Special](https://open.spotify.com/album/2nFsRoEaoFtISD0Czsvx2x) | 3:58 | 2021-12-21 | 2022-07-29 |
 | [Dear Santa](https://open.spotify.com/track/7khMBZeWJMPIyHehQ5aXuf) | [Girls' Generation\-TTS](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | [Dear Santa \- X\-Mas Special](https://open.spotify.com/album/0OES8nSgtEOXl1RgmXMkrj) | 3:58 | 2021-12-21 | 2024-04-19 |
@@ -161,7 +162,7 @@
 | [PRESENT](https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [The Present](https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j) | 3:42 | 2022-12-23 |  |
 | [Santa For You](https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [Santa For You](https://open.spotify.com/album/7zmo5Zl70iQSjpgJ2jnJSI) | 3:17 | 2021-12-21 |  |
 | [Santa is Busy](https://open.spotify.com/track/36WLp4oVkESgTBCaR3eiaz) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [Santa is Busy](https://open.spotify.com/album/3Klxv71LYDsMhQ7wiAbzJF) | 3:34 | 2021-12-21 | 2022-07-29 |
-| [Santa, Give Me What I Need](https://open.spotify.com/track/2vj3Iau5rMHiNMgQB1LTcl) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Letters to Santa](https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0) | 1:58 | 2023-11-15 |  |
+| [Santa, Give Me What I Need](https://open.spotify.com/track/2vj3Iau5rMHiNMgQB1LTcl) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Letters to Santa](https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0) | 1:58 | 2023-11-15 | 2025-12-10 |
 | [Santa,I have a Wish…](https://open.spotify.com/track/2ZAF7QSsI5xTMo8kAH79BU) | [Jueun](https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U) | [Santa,I have a Wish…](https://open.spotify.com/album/7u38QbYaTHAnXXFVqdEKTl) | 3:34 | 2024-12-06 | 2025-12-09 |
 | [SATELLITE](https://open.spotify.com/track/2jvYOUaoyzaq9RIvyaYw9r) | [LEE DAE HWI](https://open.spotify.com/artist/5j4ZfrjfKJhMBbDgTFxIwB), [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [SATELLITE](https://open.spotify.com/album/48AZZ4Ry6QARCUWLC7dqpW) | 2:45 | 2024-12-11 |  |
 | [Save Our Christmas](https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Love Again](https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO) | 4:29 | 2022-12-21 |  |

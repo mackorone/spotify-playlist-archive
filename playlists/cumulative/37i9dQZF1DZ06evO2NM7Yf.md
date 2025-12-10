@@ -4,7 +4,7 @@
 
 > This is Meg Smith\. The essential tracks, all in one playlist.
 
-71 songs - 3 hr 21 min
+72 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [blasphemy!](https://open.spotify.com/track/3l0M0HdBZ3SsinWP2alYlG) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 2:58 | 2025-10-11 |  |
 | [breakup with a friend](https://open.spotify.com/track/4yJxFiGDaCOIB5FlodmBWH) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [breakup with a friend](https://open.spotify.com/album/7FejhBpvLo5ciYkURuFnW7) | 2:42 | 2025-10-11 |  |
 | [breakup with a friend](https://open.spotify.com/track/5jO40JD6eHrxuHnnhG676n) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [breakup with a friend](https://open.spotify.com/album/0CYC2EhUKwBOQzyroumu3i) | 2:42 | 2024-01-10 | 2025-10-11 |
-| [Carlos, Get in the Car!](https://open.spotify.com/track/0qUKGLsD5NIv2KK5KjAA3L) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Carlos, Get in the Car!](https://open.spotify.com/album/2Wk3M83LeaiyacfDhiqKyY) | 2:55 | 2025-10-26 |  |
+| [Carlos, Get in the Car!](https://open.spotify.com/track/0qUKGLsD5NIv2KK5KjAA3L) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Carlos, Get in the Car!](https://open.spotify.com/album/2Wk3M83LeaiyacfDhiqKyY) | 2:55 | 2025-10-26 | 2025-12-10 |
+| [Carlos, Get in the Car!](https://open.spotify.com/track/5656maKIcmpPxsH0XKFIV3) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 2:55 | 2025-12-10 |  |
 | [Cautiously Optimistic](https://open.spotify.com/track/1mwGaFe4piAkPGFzGS5tm4) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cautiously Optimistic](https://open.spotify.com/album/6EsfaTMIMrW1LJTNK85z4x) | 2:25 | 2025-10-11 |  |
 | [Cautiously Optimistic](https://open.spotify.com/track/5DnCw5nWO9DnDIAhn96gx2) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cautiously Optimistic](https://open.spotify.com/album/1YZQRY1Xu5FJZ6kaxaZXsD) | 2:25 | 2024-01-10 | 2025-10-11 |
 | [Cool 4 U](https://open.spotify.com/track/2E1Esh3QgFWafXkJDfREPV) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cool 4 U](https://open.spotify.com/album/1ADKl4iKK2T5Cx0yzNost7) | 2:19 | 2024-01-10 | 2025-10-26 |
@@ -31,7 +32,7 @@
 | [cupids on cocaine](https://open.spotify.com/track/11RsKyyMsurzmtjBD3a5G1) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [cupids on cocaine](https://open.spotify.com/album/4XdcZz88Its2ktA7lbRabC) | 2:28 | 2024-10-20 | 2025-01-07 |
 | [cupids on cocaine](https://open.spotify.com/track/1a8I2Xf2oz9wUcYUJq5vxF) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 2:28 | 2025-07-25 | 2025-10-11 |
 | [cupids on cocaine](https://open.spotify.com/track/2q9w5xYo26ly8nFMnGQEcV) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/4Nwbe22wAV9Y3UszN4SQ9S) | 2:28 | 2025-01-07 | 2025-07-18 |
-| [Dancing with the Devil](https://open.spotify.com/track/1NVUAB4CT1mKBdLKkQphrr) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 3:34 | 2025-11-09 |  |
+| [Dancing with the Devil](https://open.spotify.com/track/1NVUAB4CT1mKBdLKkQphrr) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 3:34 | 2025-11-09 | 2025-12-10 |
 | [Disco Dystopia](https://open.spotify.com/track/1G6fd7WK2vYogmHdaqugT9) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 3:16 | 2025-11-09 |  |
 | [Dive Bar Opera](https://open.spotify.com/track/1WBy88hoogwNohh3PPwpRb) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Dive Bar Opera](https://open.spotify.com/album/5y8vYUf5I66jv3OHOAFxPn) | 2:26 | 2025-07-20 | 2025-11-24 |
 | [Dive Bar Opera](https://open.spotify.com/track/63jnwFJTt2iHKu5ibHNsrb) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 2:26 | 2025-11-24 |  |
@@ -70,7 +71,7 @@
 | [Sideways \(feat\. Meg Smith\)](https://open.spotify.com/track/5XnHGjcnDMw0KWe4lJzqSD) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Nosebleeds: Encore](https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ) | 2:44 | 2024-07-27 | 2025-08-24 |
 | [Wake Me up When My 20's End](https://open.spotify.com/track/1Un2pcWyuv5cbQpPX1mu8X) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Wake Me up When My 20's End](https://open.spotify.com/album/7cNEaCkk9aR3DeTXxyYgID) | 3:14 | 2024-01-10 | 2024-08-22 |
 | [Who Not to Love](https://open.spotify.com/track/2vDtDVAnCMvaKmKtSPTedt) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Who Not to Love](https://open.spotify.com/album/4P0RKhQn50VKzyJbBYnf3v) | 3:03 | 2024-01-10 | 2025-10-25 |
-| [Who Not to Love](https://open.spotify.com/track/0p69ggdl6UOeBnSf4dn8o8) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Who Not to Love](https://open.spotify.com/album/5y0KsMeMor5EGBOtsVIfzw) | 3:05 | 2025-10-25 |  |
+| [Who Not to Love](https://open.spotify.com/track/0p69ggdl6UOeBnSf4dn8o8) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Who Not to Love](https://open.spotify.com/album/5y0KsMeMor5EGBOtsVIfzw) | 3:05 | 2025-10-25 | 2025-12-10 |
 | [Why Do I Keep Playing It](https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx) | 2:45 | 2024-01-10 |  |
 | [Winner](https://open.spotify.com/track/32Fi0ERaMduzL4QsiCenk1) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Winner](https://open.spotify.com/album/1yDIgEYCqnXgNRfPcd2isc) | 2:46 | 2025-10-05 | 2025-11-02 |
 | [Winner](https://open.spotify.com/track/3kdDO7ps4sxZcczWLVtO2K) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Winner](https://open.spotify.com/album/6YPCUqVABaC1qHsWXBARme) | 2:46 | 2025-11-02 |  |

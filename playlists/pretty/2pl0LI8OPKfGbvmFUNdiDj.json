@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 434,
+  "num_followers": 436,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAACdMJqdT+JnjNLZ0/6XeJyHaMBPx5s",
+  "snapshot_id": "AAACd28fidUgz1Ieo9y4xp7PoFYyPcAw",
   "tracks": [
     {
       "added_at": "2025-10-21 13:53:17",
@@ -1727,6 +1727,54 @@
       "duration_ms": 236250,
       "name": "Tears",
       "url": "https://open.spotify.com/track/19ky0ma1R4uoD4Pr5qDZXM"
+    },
+    {
+      "added_at": "2025-12-09 12:42:58",
+      "album": {
+        "name": "Out of My Head",
+        "url": "https://open.spotify.com/album/5Z3RNFwJKXBuRLwbciu0hC"
+      },
+      "artists": [
+        {
+          "name": "TERRYBYLE",
+          "url": "https://open.spotify.com/artist/7K2VzqINjhPCownMrZ9Hr4"
+        }
+      ],
+      "duration_ms": 177608,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/5qAl5Z38toPiMucpIJr20z"
+    },
+    {
+      "added_at": "2025-12-09 12:44:00",
+      "album": {
+        "name": "Mr. Collision / Awhile Longer",
+        "url": "https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw"
+      },
+      "artists": [
+        {
+          "name": "Starikova",
+          "url": "https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA"
+        }
+      ],
+      "duration_ms": 261760,
+      "name": "Awhile Longer",
+      "url": "https://open.spotify.com/track/2oIeeJEISUZqeEy0tP1KFV"
+    },
+    {
+      "added_at": "2025-12-09 12:44:20",
+      "album": {
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/7vtpUhuSrPg6OJW8PYgTQX"
+      },
+      "artists": [
+        {
+          "name": "Madame Babilonia",
+          "url": "https://open.spotify.com/artist/1U1z22LC7vMv8sVmPImg1b"
+        }
+      ],
+      "duration_ms": 257142,
+      "name": "Despierta",
+      "url": "https://open.spotify.com/track/3DfMMtS8g3P3NvmaBKcCdB"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

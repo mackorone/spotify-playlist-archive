@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k1b9eIxnmB.md) - [plain]
 
 > Here comes the Maestro with his best of 90s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,475 likes - 100 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,536 likes - 100 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k1b9eIxnmB.md) - [plain]
 | 7 | [Aagaya Vennilavae](https://open.spotify.com/track/3G8sRzjzOsNue8yUHBWvZO) | [Uma Ramanan](https://open.spotify.com/artist/6GpH0yFzkhoxcoNrX6kw48), [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52) | [Arangetra Velai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5DCwLGLFXIVs2sZoZ9WrCE) | 4:37 |
 | 8 | [Kadhal Kavithaigal](https://open.spotify.com/track/2VNsIpwEBYJ1feER0uo19d) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Gopura Vasalile \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ETw51SBQpRsr9CKkg5ba3) | 5:10 |
 | 9 | [Maalayil Yaro Manathodu](https://open.spotify.com/track/2o74yd2eqvGyF0RByJSQne) | [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Chatriyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4mFPKnYF5EXwWpzzN87SiH) | 5:31 |
-| 10 | [Thalattum Poongkaatru](https://open.spotify.com/track/2xLMPdqjsIQ8SyABGg8oVJ) | [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Gopura Vasalile \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ETw51SBQpRsr9CKkg5ba3) | 5:14 |
+| 10 | [Nee Partha](https://open.spotify.com/track/2Hf0Puh1w4HvTae2HSw6Hu) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Heyram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5qhBG5YYYn9qeI6mDjeGii) | 4:48 |
 | 11 | [Oru Sandhana Kaattukkulle](https://open.spotify.com/track/7KHwJb4xt1Q1t6tTFqD6Yj) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Ellame En Rasathan](https://open.spotify.com/album/5t2sZXGhWES7W1WW08NVQ6) | 5:26 |
-| 12 | [Nee Partha](https://open.spotify.com/track/2Hf0Puh1w4HvTae2HSw6Hu) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Heyram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5qhBG5YYYn9qeI6mDjeGii) | 4:48 |
+| 12 | [Thalattum Poongkaatru](https://open.spotify.com/track/2xLMPdqjsIQ8SyABGg8oVJ) | [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Gopura Vasalile \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ETw51SBQpRsr9CKkg5ba3) | 5:14 |
 | 13 | [Maasi Masam Alana Ponnu](https://open.spotify.com/track/7mqVlAqdk16J7JACoUeAN3) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Dharma Durai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5OAKyz8gLqbQcz9KHETsoB) | 4:59 |
 | 14 | [Deepangal Pesum](https://open.spotify.com/track/4GieeqxAyuXrzLM8ugxyBF) | [Sandhya](https://open.spotify.com/artist/5pBJLl0z3HoPLzPI95P6PN), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja) | [Devadai](https://open.spotify.com/album/0BSb0V9tdDtEMjVFHDSTKn) | 5:01 |
 | 15 | [Dhevadhai Pol](https://open.spotify.com/track/2l6EMBHsl26cnhWlsGSdeK) | [Deepan Chakravarthy](https://open.spotify.com/artist/6r7P5L1lGFToFz6vwDcGdT), [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um), [Malaysia Vasudevan](https://open.spotify.com/artist/0qS0rxCY4YfrUx9GCTlDIW), [S\. N\. Surendar](https://open.spotify.com/artist/2jWcPu3qauf20L8qNaWltU) | [Gopura Vasalile \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ETw51SBQpRsr9CKkg5ba3) | 5:05 |

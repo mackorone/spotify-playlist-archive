@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Saquen las pre\-posadas yo pongo lo nuevo de RØZ y más rolitas finas 🪅
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,095,865 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,095,860 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 78 | [Achantao en 80bpm](https://open.spotify.com/track/6BY1NmONEbtL2sY9ZRk7QC) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln) | [Achantao en 80bpm](https://open.spotify.com/album/160ORYcPxX0QK9Tx49z7Vj) | 2:31 |
 | 79 | [Pecadora](https://open.spotify.com/track/1599bMWWkIn041P87kqtmB) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [Pecadora](https://open.spotify.com/album/5HxKLEE75MZGKDPFPl37Hl) | 2:33 |
 | 80 | [Mi Propuesta](https://open.spotify.com/track/3AxjjKsawM795Lbt5LtBhw) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Mi Propuesta](https://open.spotify.com/album/66OerMY7mydzEnlj67c98v) | 2:54 |
-| 81 | [FOLEN ENYELS](https://open.spotify.com/track/0JSuQuNITcNEYYJfJwJpeA) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [ANGELA \(Deluxe\)](https://open.spotify.com/album/2CYVt3PAiW3vQ4gcrOUfJx) | 2:56 |
+| 81 | [FOLEN ENYELS](https://open.spotify.com/track/0JSuQuNITcNEYYJfJwJpeA) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [2AT](https://open.spotify.com/artist/2caaLhxVxlELPUOEI9TrcL) | [ANGELA \(Deluxe\)](https://open.spotify.com/album/2CYVt3PAiW3vQ4gcrOUfJx) | 2:56 |
 | 82 | [BANDIDO](https://open.spotify.com/track/0ipaxkftHTQ8tlOh3OYW59) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK), [Jencko el Shinobi](https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf) | [BANDIDO](https://open.spotify.com/album/4THyYcXm5vqpxl6vo5UBqa) | 3:14 |
 | 83 | [Chevrolet, Mercedes\-Benz](https://open.spotify.com/track/1tIiTQUkUsZjQMVdGEpn4K) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ), [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [No Quiero Aprenderme Este Disco](https://open.spotify.com/album/3rqwOO5Ze60ca27XBSEh8C) | 2:29 |
 | 84 | [KIA](https://open.spotify.com/track/32ga1tB2S40jROHEhb0opl) | [Alnz G](https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf), [Tensec](https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB) | [KIA](https://open.spotify.com/album/1J5uVvrz4s9LEtfA19mqzr) | 2:17 |

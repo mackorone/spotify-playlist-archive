@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYKYreD7bmFK.md) - [plain]
 
 > Tutti i brani in gara a Sanremo Giovani 2025, man mano che escono 🎧
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,199 likes - 24 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,203 likes - 24 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,370 likes - 105 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,409 likes - 105 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 104 | [Ya tara](https://open.spotify.com/track/6qbRPn1f9ZdVlIsH7VmIIf) | [Alemayehu Eshete](https://open.spotify.com/artist/1IqLubILFDd8vFQhhAHwN9) | [Ethiopiques, Vol\. 9: Alèmayèhu Eshèté 1969\-1974](https://open.spotify.com/album/6ExvBlGwoUl19Fv1jth6eD) | 2:23 |
 | 105 | [Ené yèwèdèdkwat](https://open.spotify.com/track/5wgAKC4awJYizs0IbOsU2o) | [Tamrat Molla](https://open.spotify.com/artist/0HJNHryykMm06vJjHe2FDi), [Venus Band](https://open.spotify.com/artist/5OSfNKHKPD3zCtE1raSdbp) | [Ethiopiques, Vol\. 24: Golden years of Modern Ethiopian Music \(1969\-1975\)](https://open.spotify.com/album/4PIVIEBOwwkT5PNhGkrN3o) | 4:13 |
 
-Snapshot ID: `AAAAAPyHMcv5ngH3zxCaSfFQEjgIqDIg`
+Snapshot ID: `AAAAAHhPv3N9HCxyrXvDK8pTyy/JyKJp`

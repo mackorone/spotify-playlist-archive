@@ -389,6 +389,28 @@
     },
     {
       "album": {
+        "name": "Christmas Time (Special Edition)",
+        "url": "https://open.spotify.com/album/0ujJnLcLguStzmFCvGFQCa"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        },
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192100,
+      "name": "Christmas Isn't Christmas",
+      "url": "https://open.spotify.com/track/1OkSDa89hoBwhFIsItK9Pa"
+    },
+    {
+      "album": {
         "name": "Charlie Brown Holiday Hits",
         "url": "https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9"
       },
@@ -1435,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "O Holy Night - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/7CtbtLDxCIS5bhtVCHTSvL"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180711,
+      "name": "O Holy Night - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/7L3OGWgJMQdXSbY3zgUt1Q"
+    },
+    {
+      "album": {
         "name": "A Charlie Brown Christmas (Remastered & Expanded Edition)",
         "url": "https://open.spotify.com/album/5IXrTfjX17PpdhgRJvQc7N"
       },
@@ -2127,6 +2167,24 @@
     },
     {
       "album": {
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229638,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
+    },
+    {
+      "album": {
         "name": "Warm In December (Edit)",
         "url": "https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM"
       },
@@ -2422,7 +2480,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 174004,
       "name": "You For Christmas",
       "url": "https://open.spotify.com/track/0JnT4HGgwKZspTP55W7EaN"

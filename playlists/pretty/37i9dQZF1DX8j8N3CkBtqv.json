@@ -1,6 +1,6 @@
 {
   "description": "Naye Indie gaano ka khazana, featuring Utsavi Jha, Parvaaz, and other exciting artists.\n",
-  "num_followers": 100332,
+  "num_followers": 100337,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,26 @@
     {
       "added_at": "2025-12-05 09:52:12",
       "album": {
+        "name": "Marammatein",
+        "url": "https://open.spotify.com/album/3fNUyCBvpJXAINIrKEPFWb"
+      },
+      "artists": [
+        {
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+        },
+        {
+          "name": "Janisht Joshi",
+          "url": "https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z"
+        }
+      ],
+      "duration_ms": 231250,
+      "name": "Marammatein",
+      "url": "https://open.spotify.com/track/5IvcYdbyPCoFocOu5hoZyN"
+    },
+    {
+      "added_at": "2025-12-05 09:52:12",
+      "album": {
         "name": "Kariyaa Haan",
         "url": "https://open.spotify.com/album/4JSpyzuOJE0ORItYPvrf3M"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 221052,
       "name": "Kariyaa Haan",
       "url": "https://open.spotify.com/track/7aR4nGalo99Zjnh6Re5CPO"
-    },
-    {
-      "added_at": "2025-12-05 09:52:12",
-      "album": {
-        "name": "Marammatein",
-        "url": "https://open.spotify.com/album/3fNUyCBvpJXAINIrKEPFWb"
-      },
-      "artists": [
-        {
-          "name": "Utsavi Jha",
-          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
-        },
-        {
-          "name": "Janisht Joshi",
-          "url": "https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z"
-        }
-      ],
-      "duration_ms": 231250,
-      "name": "Marammatein",
-      "url": "https://open.spotify.com/track/5IvcYdbyPCoFocOu5hoZyN"
     },
     {
       "added_at": "2025-12-05 09:52:12",
@@ -543,26 +543,6 @@
     {
       "added_at": "2025-12-05 09:52:12",
       "album": {
-        "name": "Tumhare Liye",
-        "url": "https://open.spotify.com/album/7jiMxfqjDLlKm4WmE3xQuH"
-      },
-      "artists": [
-        {
-          "name": "Priyanshi Srivastava",
-          "url": "https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo"
-        },
-        {
-          "name": "Nihal Tauro",
-          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
-        }
-      ],
-      "duration_ms": 276359,
-      "name": "Tumhare Liye",
-      "url": "https://open.spotify.com/track/3X3BnAkWoadSsoMxyBBq27"
-    },
-    {
-      "added_at": "2025-12-05 09:52:12",
-      "album": {
         "name": "Dariaa",
         "url": "https://open.spotify.com/album/3kgwWQdxryWLeRfxhAJaxm"
       },
@@ -583,18 +563,22 @@
     {
       "added_at": "2025-12-05 09:52:12",
       "album": {
-        "name": "Black Magic",
-        "url": "https://open.spotify.com/album/7maD5HUpzqayiV4qjDceas"
+        "name": "Tumhare Liye",
+        "url": "https://open.spotify.com/album/7jiMxfqjDLlKm4WmE3xQuH"
       },
       "artists": [
         {
-          "name": "Kanika Malhotra",
-          "url": "https://open.spotify.com/artist/5gjsevqOsPyRsQVf8JhOH6"
+          "name": "Priyanshi Srivastava",
+          "url": "https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo"
+        },
+        {
+          "name": "Nihal Tauro",
+          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
         }
       ],
-      "duration_ms": 154943,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/77JADpb4QoY4roz5oxEWX4"
+      "duration_ms": 276359,
+      "name": "Tumhare Liye",
+      "url": "https://open.spotify.com/track/3X3BnAkWoadSsoMxyBBq27"
     },
     {
       "added_at": "2025-12-05 09:52:12",
@@ -619,18 +603,18 @@
     {
       "added_at": "2025-12-05 09:52:12",
       "album": {
-        "name": "No Deal",
-        "url": "https://open.spotify.com/album/6gya1hEzsN8ZuJmH0GiJIF"
+        "name": "Black Magic",
+        "url": "https://open.spotify.com/album/7maD5HUpzqayiV4qjDceas"
       },
       "artists": [
         {
-          "name": "Komorebi",
-          "url": "https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS"
+          "name": "Kanika Malhotra",
+          "url": "https://open.spotify.com/artist/5gjsevqOsPyRsQVf8JhOH6"
         }
       ],
-      "duration_ms": 243427,
-      "name": "No Deal",
-      "url": "https://open.spotify.com/track/3xbEEIT1Nt6sjOCekNBjeV"
+      "duration_ms": 154943,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/77JADpb4QoY4roz5oxEWX4"
     },
     {
       "added_at": "2025-12-05 09:52:12",
@@ -651,6 +635,22 @@
       "duration_ms": 159973,
       "name": "Bhaage Naina",
       "url": "https://open.spotify.com/track/1VGTeXWTqjpwCBP5n3kwrI"
+    },
+    {
+      "added_at": "2025-12-05 09:52:12",
+      "album": {
+        "name": "No Deal",
+        "url": "https://open.spotify.com/album/6gya1hEzsN8ZuJmH0GiJIF"
+      },
+      "artists": [
+        {
+          "name": "Komorebi",
+          "url": "https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS"
+        }
+      ],
+      "duration_ms": 243427,
+      "name": "No Deal",
+      "url": "https://open.spotify.com/track/3xbEEIT1Nt6sjOCekNBjeV"
     },
     {
       "added_at": "2025-12-05 09:52:12",
@@ -695,34 +695,26 @@
     {
       "added_at": "2025-12-05 09:52:12",
       "album": {
-        "name": "Na Gul Na Gulistan",
-        "url": "https://open.spotify.com/album/3iHvPWrqP5RrcMyp4yYzm7"
+        "name": "Nikhar Gaya",
+        "url": "https://open.spotify.com/album/1Ws95dIgp62LYeZ5BWfHjo"
       },
       "artists": [
         {
-          "name": "Parvaaz",
-          "url": "https://open.spotify.com/artist/6vwSAnfnlO6Sy37KubGrLh"
-        }
-      ],
-      "duration_ms": 295639,
-      "name": "Na Gul Na Gulistan",
-      "url": "https://open.spotify.com/track/3mTMHsQBJRpfUaN4gTA3zt"
-    },
-    {
-      "added_at": "2025-12-05 09:52:12",
-      "album": {
-        "name": "Rukna Nahin Hai",
-        "url": "https://open.spotify.com/album/2goUDAwuzqAXk3CJgo7io8"
-      },
-      "artists": [
+          "name": "Aasa Singh",
+          "url": "https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF"
+        },
         {
-          "name": "Akash Kaushal",
-          "url": "https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84"
+          "name": "Mahendra Dhirajlal Kamdar",
+          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
+        },
+        {
+          "name": "Sagnik Kolay",
+          "url": "https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc"
         }
       ],
-      "duration_ms": 243298,
-      "name": "Rukna Nahin Hai",
-      "url": "https://open.spotify.com/track/3zIZTlSNeoFxR2JJh2Sc7a"
+      "duration_ms": 291021,
+      "name": "Nikhar Gaya",
+      "url": "https://open.spotify.com/track/4i9oWrSNrLjXSlHmSSKdXM"
     },
     {
       "added_at": "2025-12-05 09:52:12",
@@ -751,46 +743,18 @@
     {
       "added_at": "2025-12-05 09:52:12",
       "album": {
-        "name": "Aavenga Kade O Maahi?",
-        "url": "https://open.spotify.com/album/7g3ej9AKDGiEOK0yWONCwc"
+        "name": "Na Gul Na Gulistan",
+        "url": "https://open.spotify.com/album/3iHvPWrqP5RrcMyp4yYzm7"
       },
       "artists": [
         {
-          "name": "Mansa Jimmy",
-          "url": "https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu"
-        },
-        {
-          "name": "Ramneek Singh",
-          "url": "https://open.spotify.com/artist/5DqUQrH3OLXw8i0RFmJMb1"
+          "name": "Parvaaz",
+          "url": "https://open.spotify.com/artist/6vwSAnfnlO6Sy37KubGrLh"
         }
       ],
-      "duration_ms": 196762,
-      "name": "Aavenga Kade O Maahi?",
-      "url": "https://open.spotify.com/track/5T4Hi7KjxtKkBHy1kOiwaG"
-    },
-    {
-      "added_at": "2025-12-05 09:52:12",
-      "album": {
-        "name": "Nikhar Gaya",
-        "url": "https://open.spotify.com/album/1Ws95dIgp62LYeZ5BWfHjo"
-      },
-      "artists": [
-        {
-          "name": "Aasa Singh",
-          "url": "https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF"
-        },
-        {
-          "name": "Mahendra Dhirajlal Kamdar",
-          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
-        },
-        {
-          "name": "Sagnik Kolay",
-          "url": "https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc"
-        }
-      ],
-      "duration_ms": 291021,
-      "name": "Nikhar Gaya",
-      "url": "https://open.spotify.com/track/4i9oWrSNrLjXSlHmSSKdXM"
+      "duration_ms": 295639,
+      "name": "Na Gul Na Gulistan",
+      "url": "https://open.spotify.com/track/3mTMHsQBJRpfUaN4gTA3zt"
     },
     {
       "added_at": "2025-12-05 09:52:12",
@@ -807,6 +771,42 @@
       "duration_ms": 161200,
       "name": "Rehna Tum",
       "url": "https://open.spotify.com/track/5Yj1HrxmyTPVNQ3k7kY6FV"
+    },
+    {
+      "added_at": "2025-12-05 09:52:12",
+      "album": {
+        "name": "Rukna Nahin Hai",
+        "url": "https://open.spotify.com/album/2goUDAwuzqAXk3CJgo7io8"
+      },
+      "artists": [
+        {
+          "name": "Akash Kaushal",
+          "url": "https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84"
+        }
+      ],
+      "duration_ms": 243298,
+      "name": "Rukna Nahin Hai",
+      "url": "https://open.spotify.com/track/3zIZTlSNeoFxR2JJh2Sc7a"
+    },
+    {
+      "added_at": "2025-12-05 09:52:12",
+      "album": {
+        "name": "Aavenga Kade O Maahi?",
+        "url": "https://open.spotify.com/album/7g3ej9AKDGiEOK0yWONCwc"
+      },
+      "artists": [
+        {
+          "name": "Mansa Jimmy",
+          "url": "https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu"
+        },
+        {
+          "name": "Ramneek Singh",
+          "url": "https://open.spotify.com/artist/5DqUQrH3OLXw8i0RFmJMb1"
+        }
+      ],
+      "duration_ms": 196762,
+      "name": "Aavenga Kade O Maahi?",
+      "url": "https://open.spotify.com/track/5T4Hi7KjxtKkBHy1kOiwaG"
     },
     {
       "added_at": "2025-12-05 09:52:12",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-12-05 09:52:12",
       "album": {
-        "name": "Kaua\u02bbi \u02bb\u014d\u02bb\u014d",
-        "url": "https://open.spotify.com/album/0723LakZfEFENUHxNZ35LT"
-      },
-      "artists": [
-        {
-          "name": "Parvaaz",
-          "url": "https://open.spotify.com/artist/6vwSAnfnlO6Sy37KubGrLh"
-        }
-      ],
-      "duration_ms": 324063,
-      "name": "Kaua\u02bbi \u02bb\u014d\u02bb\u014d",
-      "url": "https://open.spotify.com/track/3oaiL00o9EZjTvmJeocdxy"
-    },
-    {
-      "added_at": "2025-12-05 09:52:12",
-      "album": {
         "name": "Intehaa",
         "url": "https://open.spotify.com/album/57hIHWSrlnbFJ7kOcPL6hG"
       },
@@ -891,18 +875,38 @@
     {
       "added_at": "2025-12-05 09:52:12",
       "album": {
-        "name": "Main Na Raha",
-        "url": "https://open.spotify.com/album/4G1nVsik96niFdvh7WiXmA"
+        "name": "Kaua\u02bbi \u02bb\u014d\u02bb\u014d",
+        "url": "https://open.spotify.com/album/0723LakZfEFENUHxNZ35LT"
       },
       "artists": [
         {
-          "name": "Parth Srivastava",
-          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
+          "name": "Parvaaz",
+          "url": "https://open.spotify.com/artist/6vwSAnfnlO6Sy37KubGrLh"
         }
       ],
-      "duration_ms": 272141,
-      "name": "Main Na Raha",
-      "url": "https://open.spotify.com/track/2ruXIFfx8OI7uXnzC8Mkc5"
+      "duration_ms": 324063,
+      "name": "Kaua\u02bbi \u02bb\u014d\u02bb\u014d",
+      "url": "https://open.spotify.com/track/3oaiL00o9EZjTvmJeocdxy"
+    },
+    {
+      "added_at": "2025-12-05 09:52:12",
+      "album": {
+        "name": "Jaa Tujhe Ishq Ho",
+        "url": "https://open.spotify.com/album/1nf3Grd82k3UdU7Mh9BnCt"
+      },
+      "artists": [
+        {
+          "name": "Snehdeep Singh Kalsi",
+          "url": "https://open.spotify.com/artist/5aFZ2WlD4ry5rc20mXTOa9"
+        },
+        {
+          "name": "Siddhant Kaushal",
+          "url": "https://open.spotify.com/artist/18Y28RRuXPliKAa253retJ"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Jaa Tujhe Ishq Ho",
+      "url": "https://open.spotify.com/track/3nsJy2UpjJyo14sqcbgJGH"
     },
     {
       "added_at": "2025-12-05 09:52:12",
@@ -931,30 +935,18 @@
     {
       "added_at": "2025-12-05 09:52:12",
       "album": {
-        "name": "MARYO (feat. Mahira Sharma)",
-        "url": "https://open.spotify.com/album/7nW43VAJT5sQyunJeKblre"
+        "name": "Main Na Raha",
+        "url": "https://open.spotify.com/album/4G1nVsik96niFdvh7WiXmA"
       },
       "artists": [
         {
-          "name": "Noor Mohammad",
-          "url": "https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG"
-        },
-        {
-          "name": "Shikha Joshi",
-          "url": "https://open.spotify.com/artist/7aiEauo7tSnrEgxTjIQh0E"
-        },
-        {
-          "name": "Dixit Seth",
-          "url": "https://open.spotify.com/artist/2vKDhoyeBijAcWJzSiOny4"
-        },
-        {
-          "name": "Mahira Sharma",
-          "url": "https://open.spotify.com/artist/0o5cnfOKpV0THKVRD0HwBO"
+          "name": "Parth Srivastava",
+          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
         }
       ],
-      "duration_ms": 207857,
-      "name": "MARYO (feat. Mahira Sharma)",
-      "url": "https://open.spotify.com/track/66Ld3SCNj8BwkPpDkszkPr"
+      "duration_ms": 272141,
+      "name": "Main Na Raha",
+      "url": "https://open.spotify.com/track/2ruXIFfx8OI7uXnzC8Mkc5"
     }
   ],
   "unique_name": "Naya Indiestan",

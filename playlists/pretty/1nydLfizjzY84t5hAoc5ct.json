@@ -6,10 +6,26 @@
     "name": "newfoundsound",
     "url": "https://open.spotify.com/user/newfoundsound"
   },
-  "snapshot_id": "AABrvw/pJOBsP6esxgWmszUbbXViOmWv",
+  "snapshot_id": "AABrx1XnbKW2hhag61XcwXU0gHasqzqV",
   "tracks": [
     {
-      "added_at": "2025-11-30 12:26:33",
+      "added_at": "2025-12-07 17:12:01",
+      "album": {
+        "name": "Blue-Boy's Dreams",
+        "url": "https://open.spotify.com/album/6UVsgNAwJAedkBhGXWvEFA"
+      },
+      "artists": [
+        {
+          "name": "Clay Rings",
+          "url": "https://open.spotify.com/artist/3tr227jMYMc1Qygz3A4Unp"
+        }
+      ],
+      "duration_ms": 295000,
+      "name": "Blue-Boy's Dreams",
+      "url": "https://open.spotify.com/track/5rfd1i6hcL43i5kV4sg5fQ"
+    },
+    {
+      "added_at": "2025-12-07 17:12:21",
       "album": {
         "name": "Don't Fool Me Twice",
         "url": "https://open.spotify.com/album/5IwL2KbW2ULwP8RyfZIMy9"
@@ -39,22 +55,6 @@
       "duration_ms": 177172,
       "name": "No Sound",
       "url": "https://open.spotify.com/track/3PPFlKH9JsyHz9mHQkDNX7"
-    },
-    {
-      "added_at": "2025-12-07 17:12:01",
-      "album": {
-        "name": "Blue-Boy's Dreams",
-        "url": "https://open.spotify.com/album/6UVsgNAwJAedkBhGXWvEFA"
-      },
-      "artists": [
-        {
-          "name": "Clay Rings",
-          "url": "https://open.spotify.com/artist/3tr227jMYMc1Qygz3A4Unp"
-        }
-      ],
-      "duration_ms": 295000,
-      "name": "Blue-Boy's Dreams",
-      "url": "https://open.spotify.com/track/5rfd1i6hcL43i5kV4sg5fQ"
     },
     {
       "added_at": "2025-12-07 17:12:05",
@@ -89,22 +89,6 @@
       "url": "https://open.spotify.com/track/3G2VbE60uj5r1zFMOyqWYz"
     },
     {
-      "added_at": "2025-12-07 17:12:14",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/4s60dNq1K5VraiT14LT9Xf"
-      },
-      "artists": [
-        {
-          "name": "Mercy Girl",
-          "url": "https://open.spotify.com/artist/1lwbviKaSPeuUgIqAgNpdn"
-        }
-      ],
-      "duration_ms": 247692,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/16uyfRXUNtJPLMmnJUK9nj"
-    },
-    {
       "added_at": "2025-12-07 17:12:17",
       "album": {
         "name": "I Feel Fine",
@@ -119,22 +103,6 @@
       "duration_ms": 143068,
       "name": "I Feel Fine",
       "url": "https://open.spotify.com/track/6jhf0Wr4YPPq5V7L4x2PNk"
-    },
-    {
-      "added_at": "2025-12-07 17:12:21",
-      "album": {
-        "name": "Don't Fool Me Twice",
-        "url": "https://open.spotify.com/album/5IwL2KbW2ULwP8RyfZIMy9"
-      },
-      "artists": [
-        {
-          "name": "The Marches",
-          "url": "https://open.spotify.com/artist/33CBupe8XtMytDavmFsAYK"
-        }
-      ],
-      "duration_ms": 219664,
-      "name": "Don't Fool Me Twice",
-      "url": "https://open.spotify.com/track/0QYzIuOesT0hjgI0mOaLEt"
     },
     {
       "added_at": "2025-12-07 17:12:25",
@@ -153,6 +121,22 @@
       "url": "https://open.spotify.com/track/3ugL72Ej1a4UeeDhHdc1RM"
     },
     {
+      "added_at": "2025-12-07 17:12:14",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4s60dNq1K5VraiT14LT9Xf"
+      },
+      "artists": [
+        {
+          "name": "Mercy Girl",
+          "url": "https://open.spotify.com/artist/1lwbviKaSPeuUgIqAgNpdn"
+        }
+      ],
+      "duration_ms": 247692,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/16uyfRXUNtJPLMmnJUK9nj"
+    },
+    {
       "added_at": "2025-12-07 17:12:28",
       "album": {
         "name": "Mi Verdad",
@@ -167,22 +151,6 @@
       "duration_ms": 183706,
       "name": "Mi Verdad",
       "url": "https://open.spotify.com/track/611xI7A5jwxuAElsmPhKom"
-    },
-    {
-      "added_at": "2025-12-07 17:12:34",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/4s60dNq1K5VraiT14LT9Xf"
-      },
-      "artists": [
-        {
-          "name": "Mercy Girl",
-          "url": "https://open.spotify.com/artist/1lwbviKaSPeuUgIqAgNpdn"
-        }
-      ],
-      "duration_ms": 177172,
-      "name": "No Sound",
-      "url": "https://open.spotify.com/track/3PPFlKH9JsyHz9mHQkDNX7"
     },
     {
       "added_at": "2025-12-07 17:12:37",

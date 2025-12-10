@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist Of JADE, Fred again.., ICE SPICE og m\u00f6rgum fleiri!",
-  "num_followers": 9580,
+  "num_followers": 9581,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2025-12-05 00:00:33",
       "album": {
+        "name": "DUE\u00d1O DEL CIELO",
+        "url": "https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 192897,
+      "name": "HARRY STAMPER",
+      "url": "https://open.spotify.com/track/54oMTaZ94z2bwgQccWfc15"
+    },
+    {
+      "added_at": "2025-12-05 00:00:33",
+      "album": {
         "name": "Death Wish",
         "url": "https://open.spotify.com/album/2uDeSxmbT8XFv0uxQyz3hA"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 199395,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE"
-    },
-    {
-      "added_at": "2025-12-05 00:00:33",
-      "album": {
-        "name": "DUE\u00d1O DEL CIELO",
-        "url": "https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 192897,
-      "name": "HARRY STAMPER",
-      "url": "https://open.spotify.com/track/54oMTaZ94z2bwgQccWfc15"
     },
     {
       "added_at": "2025-12-05 00:00:33",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-12-05 00:00:33",
       "album": {
-        "name": "Despair",
-        "url": "https://open.spotify.com/album/34cZf5fQe0iw5Q2YWVznsH"
-      },
-      "artists": [
-        {
-          "name": "Mayhem",
-          "url": "https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM"
-        }
-      ],
-      "duration_ms": 401080,
-      "name": "Despair",
-      "url": "https://open.spotify.com/track/7ooym9YG6gfeugKXTSGv29"
-    },
-    {
-      "added_at": "2025-12-05 00:00:33",
-      "album": {
         "name": "Point Zero / Lift Me Up",
         "url": "https://open.spotify.com/album/49IPEHPL1alOTzFgXfVTl7"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 192957,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/18TnCQ3tnJVvvF2KdACTgE"
+    },
+    {
+      "added_at": "2025-12-05 00:00:33",
+      "album": {
+        "name": "Despair",
+        "url": "https://open.spotify.com/album/34cZf5fQe0iw5Q2YWVznsH"
+      },
+      "artists": [
+        {
+          "name": "Mayhem",
+          "url": "https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM"
+        }
+      ],
+      "duration_ms": 401080,
+      "name": "Despair",
+      "url": "https://open.spotify.com/track/7ooym9YG6gfeugKXTSGv29"
     },
     {
       "added_at": "2025-12-05 00:00:33",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-12-05 00:00:33",
       "album": {
-        "name": "Change of the Wind",
-        "url": "https://open.spotify.com/album/0oj2fOqxUFC0M23WMw4FXc"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 229427,
-      "name": "Change of the Wind",
-      "url": "https://open.spotify.com/track/6y0czURsSIIdDXnWlhgqxf"
-    },
-    {
-      "added_at": "2025-12-05 00:00:33",
-      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/26ngT168TbWrmMyiumtu3R"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 163250,
       "name": "TV",
       "url": "https://open.spotify.com/track/2BzZWVP6UJF5eKl9T8fSvL"
+    },
+    {
+      "added_at": "2025-12-05 00:00:33",
+      "album": {
+        "name": "Change of the Wind",
+        "url": "https://open.spotify.com/album/0oj2fOqxUFC0M23WMw4FXc"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 229427,
+      "name": "Change of the Wind",
+      "url": "https://open.spotify.com/track/6y0czURsSIIdDXnWlhgqxf"
     },
     {
       "added_at": "2025-12-05 00:00:33",
@@ -1023,34 +1023,22 @@
     {
       "added_at": "2025-12-05 00:00:33",
       "album": {
-        "name": "Runrunrunrun",
-        "url": "https://open.spotify.com/album/1N15Wlc2sq5iEljPSj9UgI"
+        "name": "Gnarly",
+        "url": "https://open.spotify.com/album/4nO0gNJNSb4XuSyJ4s9sUn"
       },
       "artists": [
         {
-          "name": "ALBA",
-          "url": "https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p"
-        }
-      ],
-      "duration_ms": 218285,
-      "name": "Runrunrunrun",
-      "url": "https://open.spotify.com/track/3jqThr5s8GwfpOlCPiLXSQ"
-    },
-    {
-      "added_at": "2025-12-05 00:00:33",
-      "album": {
-        "name": "Monarkiet",
-        "url": "https://open.spotify.com/album/2N1RJNl3qjq3QhAej0DhYl"
-      },
-      "artists": [
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        },
         {
-          "name": "Klikkmonopolet",
-          "url": "https://open.spotify.com/artist/49801AhfB2xOoOqtRZXv4H"
+          "name": "\u5bfa\u4e45\u4fdd\u4f36\u77e2",
+          "url": "https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE"
         }
       ],
-      "duration_ms": 133363,
-      "name": "Monarkiet",
-      "url": "https://open.spotify.com/track/75t29epSPxWrDFvBZYvuba"
+      "duration_ms": 162474,
+      "name": "Your techno (feat. Reiya Terakubo)",
+      "url": "https://open.spotify.com/track/4n8vBaC4uU13izmOyTKN3Y"
     },
     {
       "added_at": "2025-12-05 00:00:33",
@@ -1075,22 +1063,34 @@
     {
       "added_at": "2025-12-05 00:00:33",
       "album": {
-        "name": "Gnarly",
-        "url": "https://open.spotify.com/album/4nO0gNJNSb4XuSyJ4s9sUn"
+        "name": "Monarkiet",
+        "url": "https://open.spotify.com/album/2N1RJNl3qjq3QhAej0DhYl"
       },
       "artists": [
         {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
-        },
-        {
-          "name": "\u5bfa\u4e45\u4fdd\u4f36\u77e2",
-          "url": "https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE"
+          "name": "Klikkmonopolet",
+          "url": "https://open.spotify.com/artist/49801AhfB2xOoOqtRZXv4H"
         }
       ],
-      "duration_ms": 162474,
-      "name": "Your techno (feat. Reiya Terakubo)",
-      "url": "https://open.spotify.com/track/4n8vBaC4uU13izmOyTKN3Y"
+      "duration_ms": 133363,
+      "name": "Monarkiet",
+      "url": "https://open.spotify.com/track/75t29epSPxWrDFvBZYvuba"
+    },
+    {
+      "added_at": "2025-12-05 00:00:33",
+      "album": {
+        "name": "Runrunrunrun",
+        "url": "https://open.spotify.com/album/1N15Wlc2sq5iEljPSj9UgI"
+      },
+      "artists": [
+        {
+          "name": "ALBA",
+          "url": "https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p"
+        }
+      ],
+      "duration_ms": 218285,
+      "name": "Runrunrunrun",
+      "url": "https://open.spotify.com/track/3jqThr5s8GwfpOlCPiLXSQ"
     },
     {
       "added_at": "2025-12-05 00:00:33",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-12-05 00:00:33",
       "album": {
-        "name": "Destinies and Melodies",
-        "url": "https://open.spotify.com/album/5zMmEBwc2zkcr8HfKLijg9"
-      },
-      "artists": [
-        {
-          "name": "Melodi Ghazal",
-          "url": "https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Destinies and Melodies",
-      "url": "https://open.spotify.com/track/6RwUZYCQSo6OUl6SxJ5214"
-    },
-    {
-      "added_at": "2025-12-05 00:00:33",
-      "album": {
         "name": "Two-Star Prison",
         "url": "https://open.spotify.com/album/7HgtURdjQvK7HAoq9jxGaQ"
       },
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2025-12-05 00:00:33",
       "album": {
-        "name": "Burning Bridges",
-        "url": "https://open.spotify.com/album/7IijFR4n0Rqqz80TtzziCz"
+        "name": "Destinies and Melodies",
+        "url": "https://open.spotify.com/album/5zMmEBwc2zkcr8HfKLijg9"
       },
       "artists": [
         {
-          "name": "Trevis",
-          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
+          "name": "Melodi Ghazal",
+          "url": "https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm"
         }
       ],
-      "duration_ms": 205500,
-      "name": "Burning Bridges",
-      "url": "https://open.spotify.com/track/7keFwT1Uc2lysbHxS6ZdFu"
+      "duration_ms": 165500,
+      "name": "Destinies and Melodies",
+      "url": "https://open.spotify.com/track/6RwUZYCQSo6OUl6SxJ5214"
     },
     {
       "added_at": "2025-12-05 00:00:33",
@@ -1255,6 +1239,22 @@
       "duration_ms": 192000,
       "name": "REGNET",
       "url": "https://open.spotify.com/track/0h9unaaPEzBFHyiPG0nuxu"
+    },
+    {
+      "added_at": "2025-12-05 00:00:33",
+      "album": {
+        "name": "Burning Bridges",
+        "url": "https://open.spotify.com/album/7IijFR4n0Rqqz80TtzziCz"
+      },
+      "artists": [
+        {
+          "name": "Trevis",
+          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "Burning Bridges",
+      "url": "https://open.spotify.com/track/7keFwT1Uc2lysbHxS6ZdFu"
     },
     {
       "added_at": "2025-12-05 00:00:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,296 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,303 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 27 | [DMR \(Drink Meh Rum\)](https://open.spotify.com/track/4vQXm47LMMUaBeqdLU3zdK) | [M1 aka Menace](https://open.spotify.com/artist/0AHSB80KwafVJAMKH2PsXh), [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [DMR \(Drink Meh Rum\)](https://open.spotify.com/album/3372WUhOaaZFLza7Tzb8UE) | 2:18 |
 | 28 | [Blessed](https://open.spotify.com/track/4VyDFKj5icaZCzXncBgDIE) | [Prince JP](https://open.spotify.com/artist/7aABRrarbHYwuDXabHm3l0) | [Blessed](https://open.spotify.com/album/0v4CzWYukhcYMp4GRCt5AZ) | 3:30 |
 | 29 | [Hot Up \- Marc Farfan Roadmix](https://open.spotify.com/track/434mGAieof1vAHaiKmOCKr) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj), [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL), [Marc Marfan](https://open.spotify.com/artist/0BnTr459qNonFoeEOsCEmS) | [Hot Up \(Marc Farfan Roadmix\)](https://open.spotify.com/album/5KtPF2i3l4FjLoIIeKlAQe) | 3:00 |
-| 30 | [Bholo Bholo](https://open.spotify.com/track/6t4PpvS1hC2DD0v99WQjHN) | [Shelly G](https://open.spotify.com/artist/64uXi7R2MSQU7FStLJ1VLq), [Fojo](https://open.spotify.com/artist/1LOWdqg4PUzzIDEXagG4Ft), [Fiona Singh](https://open.spotify.com/artist/5Z02QXCya9wAsOd9qVUZMf) | [Chutney](https://open.spotify.com/album/5uWew2QJ2sDJwssXruyPmS) | 3:56 |
-| 31 | [I will never](https://open.spotify.com/track/1Z52ZHbHD6jFaDyMHdnXiH) | [Tony Cuttz](https://open.spotify.com/artist/1RKtqg73XAszkc4ueaWLKU) | [I will never](https://open.spotify.com/album/6D6iPF4XKRayqMGV4W5qrN) | 3:29 |
+| 30 | [I will never](https://open.spotify.com/track/1Z52ZHbHD6jFaDyMHdnXiH) | [Tony Cuttz](https://open.spotify.com/artist/1RKtqg73XAszkc4ueaWLKU) | [I will never](https://open.spotify.com/album/6D6iPF4XKRayqMGV4W5qrN) | 3:29 |
+| 31 | [Bholo Bholo](https://open.spotify.com/track/6t4PpvS1hC2DD0v99WQjHN) | [Shelly G](https://open.spotify.com/artist/64uXi7R2MSQU7FStLJ1VLq), [Fojo](https://open.spotify.com/artist/1LOWdqg4PUzzIDEXagG4Ft), [Fiona Singh](https://open.spotify.com/artist/5Z02QXCya9wAsOd9qVUZMf) | [Chutney](https://open.spotify.com/album/5uWew2QJ2sDJwssXruyPmS) | 3:56 |
 | 32 | [TOO MUCH PAIN](https://open.spotify.com/track/48Sk7Bq3mJwQvFCSZfi035) | [Kenneth Salick](https://open.spotify.com/artist/4LSkHL3aVB8OFKYbXOwi6r) | [TOO MUCH PAIN](https://open.spotify.com/album/0uyGcygVKupEkXxSniQ0fR) | 5:07 |
 | 33 | [I Had a Dream](https://open.spotify.com/track/1qBPnv40Y1PeNHGotuFdEE) | [Richard](https://open.spotify.com/artist/5O5pBb0lDnZFEhycNbIykZ) | [I Had a Dream](https://open.spotify.com/album/3W3PN2lVM0mQF5vgm250d2) | 3:47 |
 | 34 | [Ghunghat Gira Ke](https://open.spotify.com/track/1rrMTRjIFM1WagI90xACXm) | [Kem Chanlall](https://open.spotify.com/artist/02DRaDXadgSH5g0Zq1ZuWy) | [Ghunghat Gira Ke](https://open.spotify.com/album/37w3vdaNrfevzGU2rDnh1f) | 5:54 |
-| 35 | [This Gyal Claim](https://open.spotify.com/track/4tSEMmTIESmG5QmkvzIUlO) | [Shelly G](https://open.spotify.com/artist/64uXi7R2MSQU7FStLJ1VLq) | [Chutney](https://open.spotify.com/album/5uWew2QJ2sDJwssXruyPmS) | 3:31 |
-| 36 | [No Sweetness](https://open.spotify.com/track/6NJneVB6XCTHnrGaYoG55N) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Big Links Riddim](https://open.spotify.com/album/6MR9ljY1pMxGDJYjkasUPi) | 3:09 |
+| 35 | [No Sweetness](https://open.spotify.com/track/6NJneVB6XCTHnrGaYoG55N) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Big Links Riddim](https://open.spotify.com/album/6MR9ljY1pMxGDJYjkasUPi) | 3:09 |
+| 36 | [This Gyal Claim](https://open.spotify.com/track/4tSEMmTIESmG5QmkvzIUlO) | [Shelly G](https://open.spotify.com/artist/64uXi7R2MSQU7FStLJ1VLq) | [Chutney](https://open.spotify.com/album/5uWew2QJ2sDJwssXruyPmS) | 3:31 |
 | 37 | [Kaylat Raha](https://open.spotify.com/track/1ynopzLTx72TqrkD9KyZLr) | [Sally Sagram](https://open.spotify.com/artist/3h2YMkiocFuXM0jfTGMNB3) | [Kaylat Raha](https://open.spotify.com/album/3UwRZEzfyvvQ9fvx5DIf7O) | 4:01 |
 | 38 | [Butterfly](https://open.spotify.com/track/6Xz4fhzvk63Dq9E9DYV8rP) | [Boyie Basdeo](https://open.spotify.com/artist/0pvWvE1P4HYC578HJaF50c) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:55 |
 | 39 | [Kariaiyan Na Toro](https://open.spotify.com/track/63dPUEVIPdpwhML1EVS4CX) | [Ameena Ramsaran](https://open.spotify.com/artist/13oaDW0k8DbnU6HJ4n7I3v) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:39 |

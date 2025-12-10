@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 46 songs - 2 hr 49 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 48 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,5 +54,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 44 | [petals](https://open.spotify.com/track/0GsXXXDp8JNIPHuZ8EpOb7) | [Coleus](https://open.spotify.com/artist/0grvUIIGuaFZQuCyqkGRhC) | [Echoes Of The Unseen](https://open.spotify.com/album/3ScFhqwhhxKJlsTdkzSmOU) | 2:08 |
 | 45 | [DREAMPRINT](https://open.spotify.com/track/2zTYEsdtL8NBfuSFRXEX3h) | [NAMUT](https://open.spotify.com/artist/1kTGu1IKWqHRaCxx3RpzyH), [JULYX](https://open.spotify.com/artist/1uXd5rYQ8uoTxNEfwuvZX0) | [DREAMPRINT](https://open.spotify.com/album/0ishP3v2Lf1U7q7TFpD8jb) | 2:09 |
 | 46 | [Diamond Heart](https://open.spotify.com/track/37KoS6sJSBBMFa5trmgnAB) | [Savannah Strand](https://open.spotify.com/artist/68FlWXB4GVJsD920sPw1Lv) | [Diamond Heart](https://open.spotify.com/album/4ujXStmyOUakTcn9XlXUVp) | 2:55 |
+| 47 | [Therapy](https://open.spotify.com/track/1U1FTBN5znCUUDB3JqKOSK) | [Phoeno](https://open.spotify.com/artist/5KnD9mAsf1y1TYEqpeew7B) | [Therapy](https://open.spotify.com/album/7sNvJT5XBn7EPUqfeyDmtA) | 3:29 |
+| 48 | [People Run Dry](https://open.spotify.com/track/66lBvRguoKVNAIBymIP17G) | [Vinther](https://open.spotify.com/artist/5T6gYcFjSGU9batnL7c4LA) | [People Run Dry](https://open.spotify.com/album/05EJHnYqtEVjtoK9oMkcKe) | 3:13 |
 
-Snapshot ID: `AAAjsHvVlI4fb5qi5uKcae9qsLC2MBKJ`
+Snapshot ID: `AAAjsjqovtqE0Ufp9QWNP2RxE8fB2SAV`

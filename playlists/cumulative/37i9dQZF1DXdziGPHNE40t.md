@@ -4,7 +4,7 @@
 
 > start your day right ☕️ wake up with some calm and slow Jazz
 
-739 songs - 1 day 19 hr 45 min
+741 songs - 1 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [I Cover the Waterfront](https://open.spotify.com/track/2gGerDB2Wi5BgPTUQiwYUJ) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [I Cover the Waterfront](https://open.spotify.com/album/2Xot33Eg7gVwDGGv7BS7Bz) | 2:28 | 2022-05-17 | 2023-05-04 |
 | [I dreamt that i lost you](https://open.spotify.com/track/3DHyUb4jHz1gMiKir8uuBC) | [Catalano Trio](https://open.spotify.com/artist/14HvdAFCqZPvawZWs20Qu8) | [I dreamt that i lost you](https://open.spotify.com/album/4BSz6fMHQwczrLqScAjlg6) | 2:28 | 2025-07-15 | 2025-09-24 |
 | [I Get Along Without You Very Well](https://open.spotify.com/track/4ohcFjpEZL4puF3N1VLDBS) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [I Get Along Without You Very Well](https://open.spotify.com/album/5vuJzfoymsh3VnwGiN09X7) | 5:25 | 2024-03-08 | 2024-08-20 |
+| [I Grew Up](https://open.spotify.com/track/5skOaR9WQvHzKUShMc6oqB) | [Jacky Bonnet Group](https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX) | [I Grew Up](https://open.spotify.com/album/4AbMQmDWTQaeWwmStg8qSa) | 3:22 | 2025-12-09 |  |
 | [I Know Too Well](https://open.spotify.com/track/6tKDtGWfRkozO6r0kwsyYr) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [I Know Too Well](https://open.spotify.com/album/2CkXWv8Yaq4Si9IXgAVvbc) | 3:26 | 2022-09-29 | 2024-04-24 |
 | [I Love the Way You Smile](https://open.spotify.com/track/6hufmiqs1HOt6585VQZbPl) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [I Love the Way You Smile](https://open.spotify.com/album/4jSX3loHpkuPn7SrO5UxN2) | 3:29 | 2024-08-19 | 2025-04-24 |
 | [I Loves You, Porgy](https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [I Loves You, Porgy](https://open.spotify.com/album/6OwHbZzxOCbGgOvi3rnl1A) | 3:30 | 2022-05-17 | 2024-06-01 |
@@ -348,7 +349,7 @@
 | [Little by Little](https://open.spotify.com/track/7g7Vv0WnwNwOFnrdHVVepW) | [Black Door Band](https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni) | [Little by Little](https://open.spotify.com/album/4LKa943xAqsfz0sU9n2y4m) | 4:30 | 2024-07-01 | 2024-08-27 |
 | [Live Apart](https://open.spotify.com/track/69ijCnLmC5LIefYwgjGRj8) | [Erik Moreau](https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG) | [Live Apart](https://open.spotify.com/album/1U82CHlzsOh8YPoW4eEH26) | 2:15 | 2024-07-12 |  |
 | [Living In Paradise](https://open.spotify.com/track/4wKOWUjEmHH3CqTvKFNjkm) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [Lover For The Day](https://open.spotify.com/album/0kFGMriy7x1Kxdx5aTCGtq) | 4:48 | 2022-05-24 | 2023-03-25 |
-| [Living Is Easy \(When I'm In Love With You\)](https://open.spotify.com/track/6JEWpl5wGIwAo3yKbrIwKs) | [Malcolm Edmonstone Trio](https://open.spotify.com/artist/1zLUuGQGwGHs9hTDz4hR1H) | [Living Is Easy \(When I'm In Love With You\)](https://open.spotify.com/album/7IfhDHsTpLYeUomcShrzxB) | 4:09 | 2025-03-24 |  |
+| [Living Is Easy \(When I'm In Love With You\)](https://open.spotify.com/track/6JEWpl5wGIwAo3yKbrIwKs) | [Malcolm Edmonstone Trio](https://open.spotify.com/artist/1zLUuGQGwGHs9hTDz4hR1H) | [Living Is Easy \(When I'm In Love With You\)](https://open.spotify.com/album/7IfhDHsTpLYeUomcShrzxB) | 4:09 | 2025-03-24 | 2025-12-10 |
 | [Locals](https://open.spotify.com/track/0hJLXx1jRHsYyS9oaTC5wd) | [Marc & Friends](https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV) | [Locals](https://open.spotify.com/album/1n2qGaHUFwfkobTJE3OO5r) | 2:39 | 2024-05-23 | 2024-07-23 |
 | [Lola and Kirby](https://open.spotify.com/track/1vQoF7wKfKt2WWIDePABo3) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Lola and Kirby](https://open.spotify.com/album/7fqu9OmxRkQ9Vsmlj2xaKi) | 4:41 | 2022-09-29 | 2024-06-12 |
 | [London Plane](https://open.spotify.com/track/7nNFqTKI5xbtmk1iGPmz4n) | [Light Hands Trio](https://open.spotify.com/artist/6knUJcKkiLfAUyLNbE5Ilf) | [London Plane](https://open.spotify.com/album/0i5kK5lQhDiuPmjhMmesXo) | 3:03 | 2022-05-17 | 2025-03-19 |
@@ -517,6 +518,7 @@
 | [Seven Sisters](https://open.spotify.com/track/4OWvaKUoGcfoONsIMs1NYc) | [London Dunes](https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t) | [Seven Sisters](https://open.spotify.com/album/1c8r3yfU1kAbJNl8m1TCaq) | 3:37 | 2024-02-02 | 2024-10-08 |
 | [Shadows](https://open.spotify.com/track/08WnE2pJN9r7WirMgSFlJf) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [Shadows](https://open.spotify.com/album/6F1iyLE5hOfOxYLBP0PUmZ) | 3:36 | 2023-01-19 | 2023-03-10 |
 | [Share Your Thoughts](https://open.spotify.com/track/7FFDuCnA89MRFx8uLlXExl) | [Neil Dunker](https://open.spotify.com/artist/0tJbegEI1Xa3pUnlGhwph8) | [Share Your Thoughts](https://open.spotify.com/album/3Y64njpBy4PbXBgXr9OsK3) | 4:26 | 2024-10-07 | 2025-07-16 |
+| [She Will See](https://open.spotify.com/track/0s0AhYDW4jPHJJhDRAtFEx) | [Jamie Wilkis](https://open.spotify.com/artist/7AR39D72TBnUWV8rn3F6gZ) | [She Will See](https://open.spotify.com/album/2wlYTTs2V7LEFlk3M0M7dq) | 3:41 | 2025-12-09 |  |
 | [She's A Class Act](https://open.spotify.com/track/7L8qE08pnMxr4JvvtYJxis) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [She's A Class Act](https://open.spotify.com/album/0MpvWeiSTn4OERhT97V4sw) | 3:37 | 2023-02-02 | 2024-07-13 |
 | [Shepherd's Waltz](https://open.spotify.com/track/129rHAg0Oyio84aX7IngRu) | [Erik Vårdstedt](https://open.spotify.com/artist/4PTKCoxmZgZigpelRdhQgY) | [Shepherd's Waltz](https://open.spotify.com/album/66V7L7DyJg4Y5BsrAtY0QG) | 2:50 | 2023-05-25 | 2025-07-02 |
 | [Sidewalk](https://open.spotify.com/track/6Zzs5cbn5V6M3NkIfdLh8x) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Sidewalk](https://open.spotify.com/album/3QUPNKcifdHWwhsUPWVbFJ) | 4:32 | 2024-05-23 | 2024-08-20 |
@@ -643,7 +645,7 @@
 | [This tape is good](https://open.spotify.com/track/07TfDT1EBdvlZ0yBwdiLkI) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [This tape is good](https://open.spotify.com/album/7H56DNh2zsZbm0UR1Y2ODw) | 3:41 | 2023-04-27 | 2025-07-16 |
 | [Thoughts](https://open.spotify.com/track/6SdHpLrH3wy6d3TkCTFG7B) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Thoughts](https://open.spotify.com/album/4jModUd4sAWM4hBfyxNHwu) | 3:25 | 2024-06-11 | 2024-11-19 |
 | [Through Her Eyes](https://open.spotify.com/track/63CimzK4s3z84Koj9yvqIx) | [Joe Monder](https://open.spotify.com/artist/1MFKCh7c4J90T9NjgAV8xl) | [Through Her Eyes](https://open.spotify.com/album/0aF4Fq93UcTrjP2OLDWSFL) | 3:23 | 2024-11-18 | 2025-04-05 |
-| [Thursday Afternoon](https://open.spotify.com/track/0OxIW2YPKXFNkskaZfNFk5) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Thursday Afternoon](https://open.spotify.com/album/7mLrCwcnBKZgY7YcedbkW1) | 3:18 | 2024-05-10 |  |
+| [Thursday Afternoon](https://open.spotify.com/track/0OxIW2YPKXFNkskaZfNFk5) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Thursday Afternoon](https://open.spotify.com/album/7mLrCwcnBKZgY7YcedbkW1) | 3:18 | 2024-05-10 | 2025-12-10 |
 | [Tidewater](https://open.spotify.com/track/2o8qn04QtYku0WNWxcGps6) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Tidewater](https://open.spotify.com/album/3hX9C1BMAHerJlzLfhupta) | 3:36 | 2022-06-28 | 2023-03-31 |
 | [Time After Time](https://open.spotify.com/track/1b027Iusu7sUPRNk1T7ZKo) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Time After Time](https://open.spotify.com/album/5S3nYxOStnKHFmzduinNco) | 3:36 | 2022-05-17 | 2023-02-03 |
 | [Time After Time](https://open.spotify.com/track/3GQ6FWgL0Sfr2JH085HAQt) | [Urban Jazz Junction](https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd) | [Time After Time](https://open.spotify.com/album/3PllPoR4LIRfIBqzyKbcv6) | 3:20 | 2024-02-02 | 2024-08-13 |

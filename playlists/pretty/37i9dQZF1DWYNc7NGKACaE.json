@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 84300,
+  "num_followers": 84290,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,30 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/28Ie3Vq0wTIfjnrfrHsFS6"
+      },
+      "artists": [
+        {
+          "name": "Gapes",
+          "url": "https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu"
+        },
+        {
+          "name": "fallkee",
+          "url": "https://open.spotify.com/artist/6Hchz4vXMjAxlkpjiwQC4o"
+        },
+        {
+          "name": "Dougb",
+          "url": "https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh"
+        }
+      ],
+      "duration_ms": 120100,
+      "name": "Karma - Speed",
+      "url": "https://open.spotify.com/track/1cX47FI8Fasq3pY6p6kXV4"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Put0 & Cheiroso (Speed Plug)",
         "url": "https://open.spotify.com/album/2ybG6TaxLTpdxlD3iKSE1D"
       },
@@ -383,30 +407,6 @@
       "duration_ms": 159937,
       "name": "Put0 & Cheiroso (Speed Plug)",
       "url": "https://open.spotify.com/track/4A8qiMlkmXJDo9D8G3coYr"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/28Ie3Vq0wTIfjnrfrHsFS6"
-      },
-      "artists": [
-        {
-          "name": "Gapes",
-          "url": "https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu"
-        },
-        {
-          "name": "fallkee",
-          "url": "https://open.spotify.com/artist/6Hchz4vXMjAxlkpjiwQC4o"
-        },
-        {
-          "name": "Dougb",
-          "url": "https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh"
-        }
-      ],
-      "duration_ms": 120100,
-      "name": "Karma - Speed",
-      "url": "https://open.spotify.com/track/1cX47FI8Fasq3pY6p6kXV4"
     },
     {
       "added_at": "2024-07-08 19:10:57",

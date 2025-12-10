@@ -1,6 +1,6 @@
 {
   "description": "De allerbeste songs van de 10's! Cover: Martin Garrix",
-  "num_followers": 54354,
+  "num_followers": 54355,
   "original_name": "10's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Hey",
-        "url": "https://open.spotify.com/album/0blPiZeFeUsC6zlCx2w5EH"
-      },
-      "artists": [
-        {
-          "name": "F\u00c4IS",
-          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 215625,
-      "name": "Hey",
-      "url": "https://open.spotify.com/track/6KZmDucZFfvxGJkrHInbix"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "Shed a Light",
         "url": "https://open.spotify.com/album/6yKhjUoOsHa60DSqpugerw"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 191379,
       "name": "Shed a Light",
       "url": "https://open.spotify.com/track/1cG0umU5TKStygKsPFZ9pY"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "Hey",
+        "url": "https://open.spotify.com/album/0blPiZeFeUsC6zlCx2w5EH"
+      },
+      "artists": [
+        {
+          "name": "F\u00c4IS",
+          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 215625,
+      "name": "Hey",
+      "url": "https://open.spotify.com/track/6KZmDucZFfvxGJkrHInbix"
     },
     {
       "added_at": "2021-02-22 12:39:10",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2021-02-22 12:39:10",
       "album": {
-        "name": "Wanted on Voyage",
-        "url": "https://open.spotify.com/album/5tF2lAa2rh2kU2xIiBzWia"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 200720,
-      "name": "Budapest",
-      "url": "https://open.spotify.com/track/7GJClzimvMSghjcrKxuf1M"
-    },
-    {
-      "added_at": "2021-02-22 12:39:10",
-      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/55bbXORm6ZrVq52zfZnxBf"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 205946,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/4pdPtRcBmOSQDlJ3Fk945m"
+    },
+    {
+      "added_at": "2021-02-22 12:39:10",
+      "album": {
+        "name": "Wanted on Voyage",
+        "url": "https://open.spotify.com/album/5tF2lAa2rh2kU2xIiBzWia"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 200720,
+      "name": "Budapest",
+      "url": "https://open.spotify.com/track/7GJClzimvMSghjcrKxuf1M"
     },
     {
       "added_at": "2021-02-22 12:39:10",

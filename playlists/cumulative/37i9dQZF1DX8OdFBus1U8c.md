@@ -2,9 +2,9 @@
 
 ### [RAP 91 Malayalam](https://open.spotify.com/playlist/37i9dQZF1DX8OdFBus1U8c)
 
-> Best of Malayalam Hip\-Hop! <br/>Cover :  ThirumaLi and ThudWiser
+> Best of Malayalam Hip\-Hop! <br/>Cover :  Fejo
 
-526 songs - 1 day 3 hr 6 min
+527 songs - 1 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,7 +478,7 @@
 | [Thilapp](https://open.spotify.com/track/0ewX7A6yy1LOlsvIakRQwn) | [MC Mushti](https://open.spotify.com/artist/4IeboPJbQPfxDC04f2FmGm), [PRODBYRSHN](https://open.spotify.com/artist/7AIIKBwYWMjvta486nCU2w) | [Thilapp](https://open.spotify.com/album/6MWLdJ97oinWbHgcvrCMkm) | 2:36 | 2025-08-01 | 2025-09-18 |
 | [Thinnua Orangua](https://open.spotify.com/track/0BpwI9BApncyL9IcRCRVHZ) | [Hyper KR](https://open.spotify.com/artist/3s3KFYdMQq3mshkQtdE3OL), [CHNGRA](https://open.spotify.com/artist/4wbA2Yb2wNI3ycw1TEATiO) | [Thinnua Orangua](https://open.spotify.com/album/3zckeKqr4M8aYRj6ZekDWs) | 2:51 | 2025-08-29 |  |
 | [THIRA](https://open.spotify.com/track/4egydfHME98aHJhxcKzKb2) | [draeKo](https://open.spotify.com/artist/66r04nyBXUCeKq9CVk3kaq), [SULTHAN](https://open.spotify.com/artist/2igXuXwesIHwPoEn8hWqkl) | [THIRA](https://open.spotify.com/album/6R76RD5b6TqtsH1ZtFSOLx) | 3:38 | 2025-08-25 | 2025-11-11 |
-| [THIRICHARIVU](https://open.spotify.com/track/6pcncqvQOTN0g1E9rQ67B7) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Jay Stellar](https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk) | [THIRICHARIVU](https://open.spotify.com/album/2n3uTWXYmQiHxftXVNvjFZ) | 2:43 | 2025-06-10 |  |
+| [THIRICHARIVU](https://open.spotify.com/track/6pcncqvQOTN0g1E9rQ67B7) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Jay Stellar](https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk) | [THIRICHARIVU](https://open.spotify.com/album/2n3uTWXYmQiHxftXVNvjFZ) | 2:43 | 2025-06-10 | 2025-12-10 |
 | [Thirumbi Varuvathu \(From "Neymar"\)](https://open.spotify.com/track/2qJE0biPkcyUlmxXx5lny4) | [Arunraja Kamaraj](https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe), [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Vishnu Edavan](https://open.spotify.com/artist/0EESJaBQY5fiBeQOGvDi3T) | [Thirumbi Varuvathu \(From "Neymar"\)](https://open.spotify.com/album/7Gl8rMy67Br16RVGdN0F72) | 2:27 | 2023-07-19 | 2024-03-01 |
 | [Thokku](https://open.spotify.com/track/09d7fEb8T8DipTtGfbqjdA) | [Azuran](https://open.spotify.com/artist/1OxvhhZ38t4JAe6tIRPmLQ), [Pakarcha Vyadhi](https://open.spotify.com/artist/1laDdJtAMkry4ChFpeQV1K), [Zeusheelan](https://open.spotify.com/artist/1qfr8yoyXA3bnan7cexvSN) | [Thokku](https://open.spotify.com/album/0NiPKGCDAmRRAkPqyMw4XK) | 3:18 | 2023-07-23 | 2024-02-13 |
 | [Thollal](https://open.spotify.com/track/66u5SJ10AGPHpBREOhZFhW) | [NISHAD MECHERI](https://open.spotify.com/artist/5GkjcNLMN7z0ayMhCSWb7p), [NAJRAN KABEER](https://open.spotify.com/artist/3GyKlyUkAUXO5JkMgD4ar4), [Ashi](https://open.spotify.com/artist/1r4Ag1UH92ToySUnpmsHaL) | [Thollal](https://open.spotify.com/album/3rNFIhf2s1s7Q37scScpdA) | 3:54 | 2025-01-10 | 2025-04-17 |
@@ -506,6 +506,7 @@
 | [Vattu](https://open.spotify.com/track/43SSNPwidKrrbgbIb1A29j) | [BG BLACKGOAT](https://open.spotify.com/artist/4P6OHqlLgbb2JmlqMt3gQd) | [Vattu](https://open.spotify.com/album/0GM9wM8gelca8iCKsSB02W) | 2:44 | 2025-08-18 | 2025-10-11 |
 | [Vayassethrayayi \(From "Vayassethrayayi Muppathi"\)](https://open.spotify.com/track/61LuvKi1wLtwpB9FJLBIzy) | [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz), [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [Anurag Ram](https://open.spotify.com/artist/0TcPzzzoOrgzGEEWbp4um5), [Vishnu Subhash](https://open.spotify.com/artist/4oWJLj6pDpogL4fgojO8zQ), [Rag Sagar](https://open.spotify.com/artist/3QPRVJ6ltAtG3vKYPBYeeA) | [Vayassethrayayi \(From "Vayassethrayayi Muppathi"\)](https://open.spotify.com/album/5afYG1riDPocWvyYFtyVS3) | 4:13 | 2024-01-23 | 2024-02-13 |
 | [Vayyaveli](https://open.spotify.com/track/7foOcAmVozH37pMMCdv4I0) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Vayyaveli](https://open.spotify.com/album/4s7DeJy6LGA7RcwwodVaXQ) | 2:57 | 2022-06-23 | 2024-12-19 |
+| [Vazhikatti](https://open.spotify.com/track/1UpbpQDIKTc1XxRyF3Xgi0) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Jeffin Jestin](https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC), [Daleema](https://open.spotify.com/artist/0jlxYQ9CNS8IT8epEELwnA) | [Vazhikatti](https://open.spotify.com/album/1yYiqvaSkcpQAD3JlTQBao) | 2:22 | 2025-12-09 |  |
 | [Vedakk Chekka](https://open.spotify.com/track/0PGJHryop4kfDskuNmNnEn) | [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp), [ItsPc](https://open.spotify.com/artist/4Z78kY2ARZxZDGbCxtuxBx), [MUSLI](https://open.spotify.com/artist/05XtLThhzw83Gcv3kFV9BO) | [Vedakk Chekka](https://open.spotify.com/album/6zMqolSY0IiUh6eRPcWOa6) | 2:21 | 2025-02-25 | 2025-10-08 |
 | [Vedi](https://open.spotify.com/track/1hF2EpIVu1pOK2AtRq9Wod) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Shyam Krishna](https://open.spotify.com/artist/3EOMc5YFWjnbULJWR4zP3G), [Mallu Gomez](https://open.spotify.com/artist/02YDDhHdxAQCYMUUKIGUEt), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [Vedi](https://open.spotify.com/album/46IOg4n8hRcFt6TiBApEzN) | 3:35 | 2025-01-27 | 2025-03-22 |
 | [VEDIKETTU](https://open.spotify.com/track/2795oItUjV8j1eQmg4z67M) | [DeXterDuke](https://open.spotify.com/artist/7pgCk3NAxxOTwBPm2dmZOa), [Rakz Radiant](https://open.spotify.com/artist/2NXRGks1DHfqliMFosGcYJ) | [VEDIKETTU](https://open.spotify.com/album/2M6MmMwaX9J7KcpPuCMgOr) | 2:55 | 2025-10-10 | 2025-11-21 |

@@ -4874,7 +4874,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 238182,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/1Ys7tQV4mNK3BbjLdZX18B"
@@ -36252,7 +36252,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 263180,
       "name": "Nothin'",
       "url": "https://open.spotify.com/track/49u9MlLKXc0NLg6m775ecd"
@@ -59452,10 +59452,36 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 212175,
       "name": "Wild Woman - Lainey Wilson Version",
       "url": "https://open.spotify.com/track/0hdlsXpOCPyDF3NZ0HFSDf"
+    },
+    {
+      "album": {
+        "name": "Wild Woman (Lainey Wilson Version)",
+        "url": "https://open.spotify.com/album/4AXJv2lxOUj6eOyMRxJ2gA"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212175,
+      "name": "Wild Woman - Lainey Wilson Version",
+      "url": "https://open.spotify.com/track/1Dl7benysRqzPFFynBmYCt"
     },
     {
       "album": {

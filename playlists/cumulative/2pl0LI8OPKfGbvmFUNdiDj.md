@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-206 songs - 11 hr 26 min
+209 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Anti Romantic](https://open.spotify.com/track/16Gat5a1EIYm4QYmvsAlUR) | [Penny Deluxe](https://open.spotify.com/artist/4IqTVknJLCF3Z1gjDPKe2t) | [Luxed Out](https://open.spotify.com/album/2Ig92MoXAouPQuWWZ2pBGP) | 3:25 | 2025-11-05 | 2025-12-01 |
 | [Apocalypticated](https://open.spotify.com/track/7afKSNMqHE9RTEurgxjXRi) | [Met1hod](https://open.spotify.com/artist/1l40FvIvVg9uZyRZpwMXql) | [Apocalypticated](https://open.spotify.com/album/55is4wGGblko5h6K5RE2ZK) | 4:08 | 2025-11-17 |  |
 | [Astrifer](https://open.spotify.com/track/66NCwHAAArMOhD6aduLl6g) | [IDŌL](https://open.spotify.com/artist/3nmBN4kK0iZ0yoYymH7RMS) | [Spectra](https://open.spotify.com/album/0dRFvEUEt5gg9u4TVhLJpe) | 4:08 | 2025-11-08 | 2025-12-01 |
+| [Awhile Longer](https://open.spotify.com/track/2oIeeJEISUZqeEy0tP1KFV) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 4:21 | 2025-12-09 |  |
 | [Bags Full Of Money](https://open.spotify.com/track/6s6ycfcQBla88TX9SmTkkD) | [Dawn Muzik Legionnaires](https://open.spotify.com/artist/0PoD2dNSuiKzEst4CfIwOl) | [Bags Full Of Money](https://open.spotify.com/album/69DIxggZ7kwksKWQotolnz) | 3:55 | 2025-11-08 | 2025-12-01 |
 | [Banana Trees And Heart Deals](https://open.spotify.com/track/4hgHjUTRvAm4qAKYmkHvUN) | [Matty Mannant](https://open.spotify.com/artist/7Md4vnO1EzzzwN716kEXtR) | [Banana Trees And Heart Deals](https://open.spotify.com/album/68m2WfcBHGBgA4rkWRYwFX) | 3:59 | 2025-11-17 |  |
 | [Bangkok Jam](https://open.spotify.com/track/3bt6ASkwDUQOcIrQf4ufFS) | [John Taratsas](https://open.spotify.com/artist/4VkfNtbWEZMiOMm4NjNPnf) | [Bangkok Jam](https://open.spotify.com/album/2lldcVHNQyPzeWFrNZo0Oq) | 3:05 | 2025-11-08 | 2025-12-01 |
@@ -61,6 +62,7 @@
 | [Dalc'h Mad](https://open.spotify.com/track/38LLINhJkOS0vfh2BcWPBO) | [Eric Hartereau](https://open.spotify.com/artist/05AKy1V7dOPuFuzLZHRtu7), [Naëlle White](https://open.spotify.com/artist/6QbDuTbGVVA6mbYr2opYZo) | [Accroche toi](https://open.spotify.com/album/16ppv7cPXmMdz8lB9hPKYg) | 3:58 | 2025-11-30 |  |
 | [Depura](https://open.spotify.com/track/6BdrfMdQctqRzDyLo1DuuZ) | [mattia salvadori](https://open.spotify.com/artist/0vZtIijmaCyiXHayb24OIK) | [Depura](https://open.spotify.com/album/5ga8Nd3RVhQjAV103LGmC2) | 3:06 | 2025-11-08 | 2025-12-01 |
 | [Der letzte Atemzug](https://open.spotify.com/track/6tlekuUGxDNQzFPYvKlhwU) | [binichwer](https://open.spotify.com/artist/66IcuW0n8YtbJnVM73ZQDK) | [Der letzte Atemzug](https://open.spotify.com/album/3uS9SEJqOrXjBjVQykpvRv) | 2:46 | 2025-11-10 | 2025-12-01 |
+| [Despierta](https://open.spotify.com/track/3DfMMtS8g3P3NvmaBKcCdB) | [Madame Babilonia](https://open.spotify.com/artist/1U1z22LC7vMv8sVmPImg1b) | [Despierta](https://open.spotify.com/album/7vtpUhuSrPg6OJW8PYgTQX) | 4:17 | 2025-12-09 |  |
 | [Destino](https://open.spotify.com/track/3ZzXAcYmNtY1LaEXvEKzI8) | [Harmada](https://open.spotify.com/artist/7n7lcKO8out5UWWm8aqhNP), [1LUM3](https://open.spotify.com/artist/01JSyuJJh1WCHIuM3Zx7hn) | [Os Fugitivos](https://open.spotify.com/album/5dEBKULs3xbFyKxyMA1rEk) | 3:54 | 2025-11-01 | 2025-12-01 |
 | [Difícil Ser Yo](https://open.spotify.com/track/17r9q4k5OSHfHd4TzDqDa0) | [Taa Prandi](https://open.spotify.com/artist/1YM7Tybd4BSrM9SrLJHxXX) | [Difícil Ser Yo](https://open.spotify.com/album/5meEldQC8AdbduXg64Xgt2) | 2:55 | 2025-11-30 |  |
 | [do you think about us?](https://open.spotify.com/track/4w8aURQyqUbnlOjNG6dLa3) | [Tapeweather](https://open.spotify.com/artist/7bB7CFWjPlDD8fZKUMwg2w) | [do you think about us?](https://open.spotify.com/album/4X3oFaVDqbBsVQZ2wSmjs2) | 2:37 | 2025-11-08 | 2025-12-01 |
@@ -139,6 +141,7 @@
 | [ONE BODY](https://open.spotify.com/track/7bNPlDONCuxL5E0wwOwnhI) | [Stickz](https://open.spotify.com/artist/1L5SQPV7d93Xrr0f1pRy1D) | [ONE BODY](https://open.spotify.com/album/6u2jgWebuvICCnUnkZTbiK) | 2:25 | 2025-11-17 |  |
 | [One Stop Shop](https://open.spotify.com/track/1QKElGLbQn31oYe2vTtngF) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Eviction Notice](https://open.spotify.com/album/2vSRvfh99w8GfaaZpbUkjS) | 4:38 | 2025-11-01 | 2025-12-01 |
 | [online](https://open.spotify.com/track/3BzxQivN0x4x3JuLfYFkWi) | [Derkio](https://open.spotify.com/artist/6xAtLIBTpWdHrQczoHef7W) | [online](https://open.spotify.com/album/17gqNoTRTvng56g69iwHQ7) | 1:45 | 2025-11-22 |  |
+| [Out of My Head](https://open.spotify.com/track/5qAl5Z38toPiMucpIJr20z) | [TERRYBYLE](https://open.spotify.com/artist/7K2VzqINjhPCownMrZ9Hr4) | [Out of My Head](https://open.spotify.com/album/5Z3RNFwJKXBuRLwbciu0hC) | 2:57 | 2025-12-09 |  |
 | [Persephone](https://open.spotify.com/track/54bU2JvnZ03zsHNaNaU98v) | [The Night Herons](https://open.spotify.com/artist/4L6aCmOtfPzMjIfCNukBK0) | [Persephone](https://open.spotify.com/album/4jwuM7kTSJEE7IHelVBVnw) | 4:08 | 2025-11-17 |  |
 | [Picket Fences On Fire](https://open.spotify.com/track/7wTmXJVVrhDYpYXceSNupJ) | [Crooked Cat Adams](https://open.spotify.com/artist/3bJ6ZrdsE17kTt9hqQV42i) | [Hernando County, F.L.A](https://open.spotify.com/album/0bTEZg0TQmkwnBwG73LRiW) | 5:04 | 2025-11-24 |  |
 | [Piece Of The Pie](https://open.spotify.com/track/01SzDzVKiUZzwgsxkgxCqp) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Piece Of The Pie](https://open.spotify.com/album/458bpgTUEVcU1q51PS6h6R) | 3:41 | 2025-11-02 | 2025-12-01 |

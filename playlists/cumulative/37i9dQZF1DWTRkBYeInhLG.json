@@ -2589,6 +2589,24 @@
     },
     {
       "album": {
+        "name": "TEATER NESTAPA",
+        "url": "https://open.spotify.com/album/6z3bQ2C26jxl3sSCRJgNUf"
+      },
+      "artists": [
+        {
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213047,
+      "name": "Memori",
+      "url": "https://open.spotify.com/track/2ZEXytbCABVSSV7wn47941"
+    },
+    {
+      "album": {
         "name": "Menceritakanmu",
         "url": "https://open.spotify.com/album/4eOwfpR9h2e2uSnG2GtBkI"
       },
@@ -2716,7 +2734,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 241392,
       "name": "Muara",
       "url": "https://open.spotify.com/track/4lCtZZktwgQqzCoJxK3ZxR"

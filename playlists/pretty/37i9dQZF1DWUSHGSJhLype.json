@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Anitta, Felipe Amorim",
-  "num_followers": 744699,
+  "num_followers": 744774,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
@@ -331,26 +331,6 @@
     {
       "added_at": "2025-12-05 03:00:31",
       "album": {
-        "name": "Turma no Quintal (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1N4vxCa92pFS7jdcLBTOqu"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        },
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 216818,
-      "name": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1N19UVD4GRBFT6UrDaX6rk"
-    },
-    {
-      "added_at": "2025-12-05 03:00:31",
-      "album": {
         "name": "Homem \u00c9 Homem, Moleque \u00c9 Moleque",
         "url": "https://open.spotify.com/album/0szJT51Wsr88AhBpL7Q2ss"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 144812,
       "name": "Homem \u00c9 Homem, Moleque \u00c9 Moleque",
       "url": "https://open.spotify.com/track/5cGieTJ0FQC2JXqSH4OJpg"
+    },
+    {
+      "added_at": "2025-12-05 03:00:31",
+      "album": {
+        "name": "Turma no Quintal (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1N4vxCa92pFS7jdcLBTOqu"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 216818,
+      "name": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1N19UVD4GRBFT6UrDaX6rk"
     },
     {
       "added_at": "2025-12-05 03:00:31",
@@ -443,38 +443,6 @@
     {
       "added_at": "2025-12-05 03:00:31",
       "album": {
-        "name": "Ana Castela - Spotify Sessions",
-        "url": "https://open.spotify.com/album/6pHZSdvQhTIP1APJWFUN6Q"
-      },
-      "artists": [
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 224223,
-      "name": "Neon - Spotify Sessions",
-      "url": "https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe"
-    },
-    {
-      "added_at": "2025-12-05 03:00:31",
-      "album": {
-        "name": "Churrasquinho 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4o4fRzbvBpmoiSpkr68mmC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 311077,
-      "name": "Jejum de Amor / Caixa Postal / Vida Vazia - Ao Vivo",
-      "url": "https://open.spotify.com/track/2je7f5dovpUabOqTSfyD5V"
-    },
-    {
-      "added_at": "2025-12-05 03:00:31",
-      "album": {
         "name": "Saudade do Carai",
         "url": "https://open.spotify.com/album/3PWOSqpHDsgbSNFjnsDTLn"
       },
@@ -495,6 +463,38 @@
       "duration_ms": 170777,
       "name": "Saudade do Carai",
       "url": "https://open.spotify.com/track/0HixceBFegrCY3GFBB7SlQ"
+    },
+    {
+      "added_at": "2025-12-05 03:00:31",
+      "album": {
+        "name": "Churrasquinho 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4o4fRzbvBpmoiSpkr68mmC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 311077,
+      "name": "Jejum de Amor / Caixa Postal / Vida Vazia - Ao Vivo",
+      "url": "https://open.spotify.com/track/2je7f5dovpUabOqTSfyD5V"
+    },
+    {
+      "added_at": "2025-12-05 03:00:31",
+      "album": {
+        "name": "Ana Castela - Spotify Sessions",
+        "url": "https://open.spotify.com/album/6pHZSdvQhTIP1APJWFUN6Q"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "duration_ms": 224223,
+      "name": "Neon - Spotify Sessions",
+      "url": "https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe"
     },
     {
       "added_at": "2025-12-05 03:00:31",
@@ -911,6 +911,26 @@
     {
       "added_at": "2025-12-05 03:00:31",
       "album": {
+        "name": "Fazer Amor \u00e9 Diferente de Amar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5lpahNrIoCFIwVId5XbA8d"
+      },
+      "artists": [
+        {
+          "name": "Natanzinho Lima",
+          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
+        },
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 191830,
+      "name": "Fazer Amor \u00e9 Diferente de Amar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4FwkgX5ZqCqoYubP3S1zGv"
+    },
+    {
+      "added_at": "2025-12-05 03:00:31",
+      "album": {
         "name": "NEM S\u00d3 DE MALUQUICE VIVE O HOMEM",
         "url": "https://open.spotify.com/album/3lHprza8hVWcc19Ouj48jy"
       },
@@ -935,22 +955,18 @@
     {
       "added_at": "2025-12-05 03:00:31",
       "album": {
-        "name": "Fazer Amor \u00e9 Diferente de Amar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5lpahNrIoCFIwVId5XbA8d"
+        "name": "\u00daltima Noite (Solo)",
+        "url": "https://open.spotify.com/album/1kvxwru59TxOAvrRUIPTG5"
       },
       "artists": [
         {
-          "name": "Natanzinho Lima",
-          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
-        },
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
         }
       ],
-      "duration_ms": 191830,
-      "name": "Fazer Amor \u00e9 Diferente de Amar - Ao Vivo",
-      "url": "https://open.spotify.com/track/4FwkgX5ZqCqoYubP3S1zGv"
+      "duration_ms": 154553,
+      "name": "\u00daltima Noite - Solo",
+      "url": "https://open.spotify.com/track/2Doe6AaIpyDy4JvFTsxSDn"
     },
     {
       "added_at": "2025-12-05 03:00:31",
@@ -967,22 +983,6 @@
       "duration_ms": 171335,
       "name": "Gosta De Rua - Ao Vivo",
       "url": "https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a"
-    },
-    {
-      "added_at": "2025-12-05 03:00:31",
-      "album": {
-        "name": "\u00daltima Noite (Solo)",
-        "url": "https://open.spotify.com/album/1kvxwru59TxOAvrRUIPTG5"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Foguete",
-          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
-        }
-      ],
-      "duration_ms": 154553,
-      "name": "\u00daltima Noite - Solo",
-      "url": "https://open.spotify.com/track/2Doe6AaIpyDy4JvFTsxSDn"
     },
     {
       "added_at": "2025-12-05 03:00:31",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2025-12-05 03:00:31",
       "album": {
+        "name": "Resenha do Arrocha 4.0",
+        "url": "https://open.spotify.com/album/2T7BeLGczS8r3xcwPzzfGU"
+      },
+      "artists": [
+        {
+          "name": "J. Eskine",
+          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
+        },
+        {
+          "name": "Alef Donk",
+          "url": "https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Resenha do Arrocha 4.0",
+      "url": "https://open.spotify.com/track/2Ls4iRSyXUjoE27QEbfdhX"
+    },
+    {
+      "added_at": "2025-12-05 03:00:31",
+      "album": {
         "name": "Obrigado Deus",
         "url": "https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG"
       },
@@ -1143,22 +1163,6 @@
     {
       "added_at": "2025-12-05 03:00:31",
       "album": {
-        "name": "Batom de Ouro",
-        "url": "https://open.spotify.com/album/7nvdFAVwTz9D2ioC8polNu"
-      },
-      "artists": [
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 158432,
-      "name": "J\u00e1 Que Me Ensinou a Beber",
-      "url": "https://open.spotify.com/track/6nWPzkaAjRdjAGSFhpGc3O"
-    },
-    {
-      "added_at": "2025-12-05 03:00:31",
-      "album": {
         "name": "Gemidinha",
         "url": "https://open.spotify.com/album/4ae75JiQZjp7JO3RvxifF8"
       },
@@ -1175,22 +1179,18 @@
     {
       "added_at": "2025-12-05 03:00:31",
       "album": {
-        "name": "Resenha do Arrocha 4.0",
-        "url": "https://open.spotify.com/album/2T7BeLGczS8r3xcwPzzfGU"
+        "name": "Batom de Ouro",
+        "url": "https://open.spotify.com/album/7nvdFAVwTz9D2ioC8polNu"
       },
       "artists": [
         {
-          "name": "J. Eskine",
-          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
-        },
-        {
-          "name": "Alef Donk",
-          "url": "https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I"
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
         }
       ],
-      "duration_ms": 372000,
-      "name": "Resenha do Arrocha 4.0",
-      "url": "https://open.spotify.com/track/2Ls4iRSyXUjoE27QEbfdhX"
+      "duration_ms": 158432,
+      "name": "J\u00e1 Que Me Ensinou a Beber",
+      "url": "https://open.spotify.com/track/6nWPzkaAjRdjAGSFhpGc3O"
     },
     {
       "added_at": "2025-12-05 03:00:31",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2025-12-05 03:00:31",
       "album": {
+        "name": "Mu\u00eddo Do Original (Ao Vivo Em Caruaru)",
+        "url": "https://open.spotify.com/album/5ZqEDypPktIpwRZnKuGfmw"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "duration_ms": 136709,
+      "name": "Solteira Que \u00c9 Fiel - Ao Vivo em Caruaru",
+      "url": "https://open.spotify.com/track/6Fm0DxUyOYZOqSJXXyancI"
+    },
+    {
+      "added_at": "2025-12-05 03:00:31",
+      "album": {
         "name": "Brega do Bruxo",
         "url": "https://open.spotify.com/album/2pABm4fBCMvlyCvq6zIxRY"
       },
@@ -1231,30 +1251,6 @@
       "duration_ms": 163208,
       "name": "Sorri, Sou Rei",
       "url": "https://open.spotify.com/track/0u6xEmvDwwVOLIywwu6xKN"
-    },
-    {
-      "added_at": "2025-12-05 03:00:31",
-      "album": {
-        "name": "CAVALINHO",
-        "url": "https://open.spotify.com/album/0bbhibmbqLzyNrNonJeZX4"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Gasparzinho",
-          "url": "https://open.spotify.com/artist/2OhGFAwMFjVYGWXgUKgxQG"
-        },
-        {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
-        }
-      ],
-      "duration_ms": 138591,
-      "name": "CAVALINHO",
-      "url": "https://open.spotify.com/track/1MAveYqPQN88vAvsrHCCCw"
     },
     {
       "added_at": "2025-12-05 03:00:31",
@@ -1299,22 +1295,46 @@
     {
       "added_at": "2025-12-05 03:00:31",
       "album": {
-        "name": "Mu\u00eddo Do Original (Ao Vivo Em Caruaru)",
-        "url": "https://open.spotify.com/album/5ZqEDypPktIpwRZnKuGfmw"
+        "name": "CAVALINHO",
+        "url": "https://open.spotify.com/album/0bbhibmbqLzyNrNonJeZX4"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
         },
         {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+          "name": "Gasparzinho",
+          "url": "https://open.spotify.com/artist/2OhGFAwMFjVYGWXgUKgxQG"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
         }
       ],
-      "duration_ms": 136709,
-      "name": "Solteira Que \u00c9 Fiel - Ao Vivo em Caruaru",
-      "url": "https://open.spotify.com/track/6Fm0DxUyOYZOqSJXXyancI"
+      "duration_ms": 138591,
+      "name": "CAVALINHO",
+      "url": "https://open.spotify.com/track/1MAveYqPQN88vAvsrHCCCw"
+    },
+    {
+      "added_at": "2025-12-05 03:00:31",
+      "album": {
+        "name": "Pega Pega",
+        "url": "https://open.spotify.com/album/5hbmDXVfBit3tgCCidiZlx"
+      },
+      "artists": [
+        {
+          "name": "Kiko Chicabana",
+          "url": "https://open.spotify.com/artist/6XcDYZyF8otmTfCS6xseyl"
+        },
+        {
+          "name": "Natanzinho Lima",
+          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
+        }
+      ],
+      "duration_ms": 184250,
+      "name": "Pega Pega",
+      "url": "https://open.spotify.com/track/1q75dfmlgQYqaR9X0slTI3"
     },
     {
       "added_at": "2025-12-05 03:00:31",
@@ -1343,26 +1363,6 @@
       "duration_ms": 186352,
       "name": "Te Amo, Te Odeio",
       "url": "https://open.spotify.com/track/2YHn7o5nEpXMdy4xvFIuJs"
-    },
-    {
-      "added_at": "2025-12-05 03:00:31",
-      "album": {
-        "name": "Pega Pega",
-        "url": "https://open.spotify.com/album/5hbmDXVfBit3tgCCidiZlx"
-      },
-      "artists": [
-        {
-          "name": "Kiko Chicabana",
-          "url": "https://open.spotify.com/artist/6XcDYZyF8otmTfCS6xseyl"
-        },
-        {
-          "name": "Natanzinho Lima",
-          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
-        }
-      ],
-      "duration_ms": 184250,
-      "name": "Pega Pega",
-      "url": "https://open.spotify.com/track/1q75dfmlgQYqaR9X0slTI3"
     },
     {
       "added_at": "2025-12-05 03:00:31",

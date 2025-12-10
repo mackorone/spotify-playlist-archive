@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Hip\-Hop con Ñ, aquí lxs que dominan el juego de las rimas\. Victor Mendivil y Eladio Carrion en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,651 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,639 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 3 | [Fugazi](https://open.spotify.com/track/00KQzHBnuGHts0vFofRMdk) | [Mike Diaz](https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz), [Bizor](https://open.spotify.com/artist/7F6fxMv0tz2Clj8H02Y2k7), [Mantequilloso](https://open.spotify.com/artist/5ZFEiJL7RrUvHPM98RSolq) | [Fugazi](https://open.spotify.com/album/4JsY6g3bXETFjcK2L7VFV4) | 2:51 |
 | 4 | [Amor y Locura](https://open.spotify.com/track/78IK0iQlCHk2O8d77VOsBQ) | [Daske Gaitán](https://open.spotify.com/artist/6X4iDmQtuCcuyILe3D00E6), [Shaiel Rodriguez](https://open.spotify.com/artist/6NGHYuzDu0A7QbfNMUzR6X) | [Amor y Locura](https://open.spotify.com/album/22YTSg09YzcRdJ0XVMaQLY) | 3:29 |
 | 5 | [North Carolina](https://open.spotify.com/track/1LDotypwGna612cNstP5pK) | [Keyviem](https://open.spotify.com/artist/69Y1YezofG2Ljgnd7iUbjw) | [North Carolina](https://open.spotify.com/album/71pufSccYxTQifr78KAbL0) | 1:50 |
-| 6 | [Guten Morgen](https://open.spotify.com/track/6qLpgjKuXXGqq0YYYAkU5Z) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c), [Ibzen](https://open.spotify.com/artist/5U9DkPMcXVr9AAQ46xxThb), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Guten Morgen](https://open.spotify.com/album/15UtZR9kcTQN4B087RUBPS) | 3:00 |
+| 6 | [Guten Morgen](https://open.spotify.com/track/6qLpgjKuXXGqq0YYYAkU5Z) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c), [Ibzen](https://open.spotify.com/artist/5U9DkPMcXVr9AAQ46xxThb), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Guten Morgen](https://open.spotify.com/album/15UtZR9kcTQN4B087RUBPS) | 2:54 |
 | 7 | [Gamechangers](https://open.spotify.com/track/40XdD9lMfNBn9bubZzTBo2) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C), [Gabino](https://open.spotify.com/artist/0BIT9nxBlhSRe8DsreQmcN), [Malapraxxis](https://open.spotify.com/artist/7oVL05pJCDuTxYtD0bLNPx), [Bruno Cammá](https://open.spotify.com/artist/6TMLl5HJtRsq3RcU932WJE) | [Gamechangers](https://open.spotify.com/album/4HsaDu5WgAQ3XCPjxDiXkc) | 4:46 |
 | 8 | [Sin Playback](https://open.spotify.com/track/4Ua7guGiWab0J366BwrLWG) | [Primobeatz](https://open.spotify.com/artist/72LTyD9Rh8nqOCvb3uyLxG), [El Paisa](https://open.spotify.com/artist/1vrbE3QmPUcydcuZCB294t) | [Sin Playback](https://open.spotify.com/album/7d7sDcJ8NiRlE91kl2Q33A) | 3:35 |
 | 9 | [NAQUETO](https://open.spotify.com/track/7uK3HaXFTO5b6bkVfTJKlG) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [NAQUETO](https://open.spotify.com/album/5Yq5Ib5xa8SVLV0YroU3N2) | 3:55 |

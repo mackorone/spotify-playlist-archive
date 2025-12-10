@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,134 songs - 2 day 15 hr 24 min
+1,135 songs - 2 day 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Fall](https://open.spotify.com/track/4zh4Xvbh2FXYbWgY3eYm5C) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo), [Blosso](https://open.spotify.com/artist/5Jn30mbNDGHLSxfCUZc7XM) | [Fall](https://open.spotify.com/album/3rK8FMzL3ggRX8e8AaQSXE) | 3:00 | 2021-11-25 | 2022-03-02 |
 | [Fall Apart](https://open.spotify.com/track/5put6ich4wtW7pZXb1Jore) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Fall Apart](https://open.spotify.com/album/79PySKP56KJLCaGgl94Lal) | 5:20 | 2023-02-23 | 2023-05-18 |
 | [Fall Apart \- GHENGAR Remix](https://open.spotify.com/track/5iL0iMVwZVVfi3VxlVzf1A) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [GHENGAR](https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf) | [Fall Apart \(GHENGAR Remix\)](https://open.spotify.com/album/6fIBa7iKh7dbFt9m13o35N) | 3:48 | 2023-11-14 | 2024-02-24 |
+| [fall back](https://open.spotify.com/track/6OM3iwZdRPpgxI3j6kNfGR) | [oncor](https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX), [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [fall back](https://open.spotify.com/album/3lMswHWl4cOJ3uiHITg9VW) | 2:45 | 2025-12-09 |  |
 | [fallen](https://open.spotify.com/track/7aiv9KI14BSQ1syfHIvmdF) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu) | [fallen](https://open.spotify.com/album/0lV2fwEZ74jxwquxMxwWUc) | 2:36 | 2022-09-20 | 2022-11-15 |
 | [Falling Apart](https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart](https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom) | 3:58 | 2022-01-21 | 2022-03-31 |
 | [Falling Apart \- Acoustic](https://open.spotify.com/track/5hdxWJkiBKH6STOH7na5zB) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart \(Acoustic\)](https://open.spotify.com/album/5uWAbKZAgeBkT8bHqJZHJV) | 2:56 | 2022-06-14 | 2022-08-26 |

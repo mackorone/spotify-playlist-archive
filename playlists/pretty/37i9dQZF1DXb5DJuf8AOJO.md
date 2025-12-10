@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5DJuf8AOJO.md) - [plain]
 
 > Celebrating Christmas with JESCOM's holiday favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,584 likes - 29 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,585 likes - 29 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5DJuf8AOJO.md) - [plain]
 | 28 | [Sa Pasko Sasapit Din](https://open.spotify.com/track/5u40x4t7UUsUJ37sqAsXjL) | [Bukas Palad Music Ministry](https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI) | [Sa Pasko Sasapit Din](https://open.spotify.com/album/5a39rVj8mAStHAcUhTxWfN) | 5:48 |
 | 29 | [Ilang Tulog Pa Ba](https://open.spotify.com/track/1rJZJcCwXSoFmGJwHu4KVF) | [Ateneo Chamber Singers](https://open.spotify.com/artist/6BhC65tVU4pWgyZMs5fv3U) | [Ang Ating Pasko](https://open.spotify.com/album/0T9Cu9b1kvQZ8Cg5XCuZxH) | 3:55 |
 
-Snapshot ID: `AAAAAC9G+I75Nax85QkQIuyYdTPJ3uon`
+Snapshot ID: `AAAAAAHT7si5PTfJTzbb9uRIqqydwPRQ`

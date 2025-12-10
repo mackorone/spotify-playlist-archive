@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Drake Milligan",
-  "num_followers": 404789,
+  "num_followers": 404763,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-12-05 05:00:22",
       "album": {
+        "name": "Mobile",
+        "url": "https://open.spotify.com/album/0eVXtzAghSs9oiwP4NE9nO"
+      },
+      "artists": [
+        {
+          "name": "Logan Ryan Band",
+          "url": "https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P"
+        }
+      ],
+      "duration_ms": 256588,
+      "name": "Mobile",
+      "url": "https://open.spotify.com/track/7Le2gLXrJkTvj6wFEUiLcf"
+    },
+    {
+      "added_at": "2025-12-05 05:00:22",
+      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/5fSCA9ESxtQPp2njYQlDBp"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 296875,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2z8n9qmI7YDfO2IA7dssja"
-    },
-    {
-      "added_at": "2025-12-05 05:00:22",
-      "album": {
-        "name": "Mobile",
-        "url": "https://open.spotify.com/album/0eVXtzAghSs9oiwP4NE9nO"
-      },
-      "artists": [
-        {
-          "name": "Logan Ryan Band",
-          "url": "https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P"
-        }
-      ],
-      "duration_ms": 256588,
-      "name": "Mobile",
-      "url": "https://open.spotify.com/track/7Le2gLXrJkTvj6wFEUiLcf"
     },
     {
       "added_at": "2025-12-05 05:00:22",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-12-05 05:00:22",
       "album": {
-        "name": "Just Call My Number",
-        "url": "https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb"
-      },
-      "artists": [
-        {
-          "name": "Tristan Roberson",
-          "url": "https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Just Call My Number",
-      "url": "https://open.spotify.com/track/1bTYabk6wOSvIapt1orxg1"
-    },
-    {
-      "added_at": "2025-12-05 05:00:22",
-      "album": {
         "name": "I Keep Your Memory Around",
         "url": "https://open.spotify.com/album/7waJk7mvaaMcC6lauq5KbE"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 186133,
       "name": "I Keep Your Memory Around",
       "url": "https://open.spotify.com/track/2mESfK7oU1V1CHr1j78FE8"
+    },
+    {
+      "added_at": "2025-12-05 05:00:22",
+      "album": {
+        "name": "Just Call My Number",
+        "url": "https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb"
+      },
+      "artists": [
+        {
+          "name": "Tristan Roberson",
+          "url": "https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Just Call My Number",
+      "url": "https://open.spotify.com/track/1bTYabk6wOSvIapt1orxg1"
     },
     {
       "added_at": "2025-12-05 05:00:22",
@@ -1219,8 +1219,8 @@
     {
       "added_at": "2025-12-05 05:00:22",
       "album": {
-        "name": "Old Fashioned Feeling",
-        "url": "https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9"
+        "name": "Up In Texas",
+        "url": "https://open.spotify.com/album/6ECMDvNJ3mAY49NiYxE3eW"
       },
       "artists": [
         {
@@ -1228,9 +1228,9 @@
           "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
         }
       ],
-      "duration_ms": 202280,
-      "name": "Old Fashioned Feeling",
-      "url": "https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo"
+      "duration_ms": 191269,
+      "name": "Up In Texas",
+      "url": "https://open.spotify.com/track/7KJVh9zU77dzRVs9ZDyztF"
     },
     {
       "added_at": "2025-12-05 05:00:22",
@@ -1299,8 +1299,8 @@
     {
       "added_at": "2025-12-05 05:00:22",
       "album": {
-        "name": "Up In Texas",
-        "url": "https://open.spotify.com/album/6ECMDvNJ3mAY49NiYxE3eW"
+        "name": "Old Fashioned Feeling",
+        "url": "https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9"
       },
       "artists": [
         {
@@ -1308,9 +1308,9 @@
           "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
         }
       ],
-      "duration_ms": 191269,
-      "name": "Up In Texas",
-      "url": "https://open.spotify.com/track/7KJVh9zU77dzRVs9ZDyztF"
+      "duration_ms": 202280,
+      "name": "Old Fashioned Feeling",
+      "url": "https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo"
     },
     {
       "added_at": "2025-12-05 05:00:22",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-12-05 05:00:22",
       "album": {
-        "name": "The Greys Between",
-        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
-      },
-      "artists": [
-        {
-          "name": "Shane Smith & the Saints",
-          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
-        }
-      ],
-      "duration_ms": 255159,
-      "name": "The Greys Between",
-      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
-    },
-    {
-      "added_at": "2025-12-05 05:00:22",
-      "album": {
         "name": "A Few Years Back",
         "url": "https://open.spotify.com/album/2wrVam2afUpoHkXrl1n0J4"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 220474,
       "name": "A Few Years Back",
       "url": "https://open.spotify.com/track/0d5M9KS7uuKr1dfY9rcYPX"
+    },
+    {
+      "added_at": "2025-12-05 05:00:22",
+      "album": {
+        "name": "The Greys Between",
+        "url": "https://open.spotify.com/album/2knRBE5vCLo3hWio4y56zg"
+      },
+      "artists": [
+        {
+          "name": "Shane Smith & the Saints",
+          "url": "https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ"
+        }
+      ],
+      "duration_ms": 255159,
+      "name": "The Greys Between",
+      "url": "https://open.spotify.com/track/3roru1yN2PhTPLvNpwMiqf"
     },
     {
       "added_at": "2025-12-05 05:00:22",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2025-12-05 05:00:22",
       "album": {
+        "name": "John Wayne",
+        "url": "https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M"
+      },
+      "artists": [
+        {
+          "name": "Rachel LaRen",
+          "url": "https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv"
+        }
+      ],
+      "duration_ms": 188995,
+      "name": "John Wayne",
+      "url": "https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u"
+    },
+    {
+      "added_at": "2025-12-05 05:00:22",
+      "album": {
         "name": "Your Bar Now",
         "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 214253,
       "name": "Your Bar Now",
       "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
-    },
-    {
-      "added_at": "2025-12-05 05:00:22",
-      "album": {
-        "name": "John Wayne",
-        "url": "https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M"
-      },
-      "artists": [
-        {
-          "name": "Rachel LaRen",
-          "url": "https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv"
-        }
-      ],
-      "duration_ms": 188995,
-      "name": "John Wayne",
-      "url": "https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u"
     },
     {
       "added_at": "2025-12-05 05:00:22",

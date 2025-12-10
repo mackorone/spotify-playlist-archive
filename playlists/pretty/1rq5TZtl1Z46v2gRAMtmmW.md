@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,684 likes - 51 songs - 2 hr 57 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,681 likes - 52 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 5 | [CHROMA 012 TANGZ II](https://open.spotify.com/track/03Y8fcQB5esucnR1CiG1Vh) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [CHROMA 012 TANGZ II](https://open.spotify.com/album/63NzSW7kCDtPjes17viCxU) | 4:42 |
 | 6 | [Children of the Baked Potato](https://open.spotify.com/track/0sCjYTtc6PW1vkKJcKO00b) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 4:06 |
 | 7 | [Rest Easy](https://open.spotify.com/track/5J5mQKqZVxMDKZ3xPKgABa) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Rest Easy](https://open.spotify.com/album/3AKzDK0hhKvBpIpKEZxT38) | 2:47 |
-| 8 | [Caught Up In The Fire](https://open.spotify.com/track/1cskXAWztObojI6r2j60Al) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Caught Up In The Fire](https://open.spotify.com/album/6stjuO04Rw5O2xqog9u8dA) | 3:43 |
-| 9 | [Career Climbing](https://open.spotify.com/track/5bkxmQ4Im03LVDQsX78gdZ) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Yume](https://open.spotify.com/album/1jwaDkTXk5HQOcWCmFFXZX) | 3:25 |
-| 10 | [You Thought!](https://open.spotify.com/track/3CoNCkH0WixzONEFBoVApf) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [You Thought!](https://open.spotify.com/album/52Qw5zCKPoWJCIv3W6S24i) | 3:46 |
-| 11 | [Sender Receiver](https://open.spotify.com/track/7zZGLUnTyGPKPAod5hSF1U) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [The Last Sound On Earth](https://open.spotify.com/album/3As3lUHkyOqE0gJTzdu7ZY) | 3:09 |
+| 8 | [Career Climbing](https://open.spotify.com/track/5bkxmQ4Im03LVDQsX78gdZ) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Yume](https://open.spotify.com/album/1jwaDkTXk5HQOcWCmFFXZX) | 3:25 |
+| 9 | [You Thought!](https://open.spotify.com/track/3CoNCkH0WixzONEFBoVApf) | [Brian Nasty](https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [You Thought!](https://open.spotify.com/album/52Qw5zCKPoWJCIv3W6S24i) | 3:46 |
+| 10 | [Sender Receiver](https://open.spotify.com/track/7zZGLUnTyGPKPAod5hSF1U) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [The Last Sound On Earth](https://open.spotify.com/album/3As3lUHkyOqE0gJTzdu7ZY) | 3:09 |
+| 11 | [Caught Up In The Fire \(An Apparition\)](https://open.spotify.com/track/3ojRt2l1Zq9YMd8eD7O4WX) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Caught Up In The Fire \(An Apparition\)](https://open.spotify.com/album/0Kylm5pCQ5cUlRb6EvHLEw) | 3:46 |
 | 12 | [Smile On My Face](https://open.spotify.com/track/4ube140Sc6I4YXTVJSrrJr) | [Nohr](https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82) | [Smile On My Face](https://open.spotify.com/album/75T1Da2YB3joxiWpu69dVw) | 2:54 |
 | 13 | [Silverlight](https://open.spotify.com/track/1R8qJRSmyAbEew2mtPQFJo) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Silverlight](https://open.spotify.com/album/5vpDjbRlku61UAeFzqm09E) | 3:20 |
 | 14 | [Too Slow \(All Night\)](https://open.spotify.com/track/4ywDQlrX9XdJB19bvl3cvU) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [Too Slow \(All Night\)](https://open.spotify.com/album/35IN0y8EZRBW3qVEkvr8bx) | 2:51 |
@@ -59,5 +59,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 49 | [I Linger On](https://open.spotify.com/track/3sBTfd5t7LcysBp29olGq3) | [Elliott Skinner](https://open.spotify.com/artist/0wccm4Qe9ErYas4CRed0yJ) | [I Linger On](https://open.spotify.com/album/6Hls5qPu4TaBp7E5IVdXjU) | 5:00 |
 | 50 | [DON’T LISTEN](https://open.spotify.com/track/6T7XVB4A3sDkcD22DgzeqJ) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [DON’T LISTEN](https://open.spotify.com/album/7KXlRAmcindMlfpXMZskIN) | 2:57 |
 | 51 | [Could Have Been So Good](https://open.spotify.com/track/4QOi1ZUOxZzDXvKn7nm0Ro) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Could Have Been So Good](https://open.spotify.com/album/0TSPTOLyYN00EZ74iQelK8) | 3:26 |
+| 52 | [Caught Up In The Fire](https://open.spotify.com/track/1cskXAWztObojI6r2j60Al) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Caught Up In The Fire](https://open.spotify.com/album/6stjuO04Rw5O2xqog9u8dA) | 3:43 |
 
-Snapshot ID: `AAAQ/vi65YdXqwmZeCM41crSLwTfZ3nS`
+Snapshot ID: `AAARAYAoUKsJFcCrGq2P9lAAxxDavYrC`

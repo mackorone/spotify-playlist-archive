@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Bcfs9StvNM.md) - [plain]
 
 > Spotify×サザンのムードプレイリストシリーズ第3弾。切なさの中にも希望が光る、至高の「せつなソング」を集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,377 likes - 45 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,380 likes - 45 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

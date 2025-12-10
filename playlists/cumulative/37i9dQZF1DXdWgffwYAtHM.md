@@ -2,7 +2,7 @@
 
 ### [RADAR Creators Brasil](https://open.spotify.com/playlist/37i9dQZF1DXdWgffwYAtHM)
 
-> Creators que você precisa ter no RADAR\. Creators do mês: <a href="spotify:show:6tm0VBIICzSjddzmSN7BmS">Irrisório Show</a>
+> Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:6tm0VBIICzSjddzmSN7BmS">Irrisório Show</a>
 
 194 songs - 5 day 12 hr 43 min
 

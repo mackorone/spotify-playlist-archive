@@ -1,6 +1,6 @@
 {
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
-  "num_followers": 3037083,
+  "num_followers": 3037019,
   "original_name": "Canciones del Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "Debut Y Despedida",
-      "url": "https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Dos Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 316840,
       "name": "Due\u00f1o de Nada",
       "url": "https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "Debut Y Despedida",
+      "url": "https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Exclusive Ricchi E Poveri - 15 Exitos",
-        "url": "https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC"
-      },
-      "artists": [
-        {
-          "name": "Ricchi E Poveri",
-          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
-        }
-      ],
-      "duration_ms": 191792,
-      "name": "Me Enamoro De Ti",
-      "url": "https://open.spotify.com/track/7tK0PM1fKK0g4scuqmAnts"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Mocedades 5",
         "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 187000,
       "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
       "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Exclusive Ricchi E Poveri - 15 Exitos",
+        "url": "https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC"
+      },
+      "artists": [
+        {
+          "name": "Ricchi E Poveri",
+          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
+        }
+      ],
+      "duration_ms": 191792,
+      "name": "Me Enamoro De Ti",
+      "url": "https://open.spotify.com/track/7tK0PM1fKK0g4scuqmAnts"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2SaCGdWp6n8aCnXJpR8fdn"
-      },
-      "artists": [
-        {
-          "name": "Chiquetete",
-          "url": "https://open.spotify.com/artist/3ELZjZr6LsTejHFIhpoB6z"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Esta Cobard\u00eda",
-      "url": "https://open.spotify.com/track/7xT0YNKaOkvntYehrbRWen"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "La M\u00e1s Completa Colecci\u00f3n (CD2)",
         "url": "https://open.spotify.com/album/33Ng6NDvjCn5FfWN14Z3F5"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 242693,
       "name": "Enamorandonos (Just Like Starting Over)",
       "url": "https://open.spotify.com/track/1hbk34GiyNamnyGtKLe44U"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2SaCGdWp6n8aCnXJpR8fdn"
+      },
+      "artists": [
+        {
+          "name": "Chiquetete",
+          "url": "https://open.spotify.com/artist/3ELZjZr6LsTejHFIhpoB6z"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Esta Cobard\u00eda",
+      "url": "https://open.spotify.com/track/7xT0YNKaOkvntYehrbRWen"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Manoella Torres",
-        "url": "https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi"
-      },
-      "artists": [
-        {
-          "name": "Manoella Torres",
-          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
-        }
-      ],
-      "duration_ms": 197360,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/2c2m8IPUiQaMCjEABKJ1kx"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/20jzOl6wKNK5KB7Kj1WU58"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 234546,
       "name": "Amandote",
       "url": "https://open.spotify.com/track/4FNzQAFYz8A2a7k5cyn3E2"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Manoella Torres",
+        "url": "https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi"
+      },
+      "artists": [
+        {
+          "name": "Manoella Torres",
+          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
+        }
+      ],
+      "duration_ms": 197360,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/2c2m8IPUiQaMCjEABKJ1kx"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Manoella Torres",
-        "url": "https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi"
-      },
-      "artists": [
-        {
-          "name": "Manoella Torres",
-          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
-        }
-      ],
-      "duration_ms": 196200,
-      "name": "Te Voy a Ense\u00f1ar a Querer",
-      "url": "https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "My Life: The Greatest Hits",
         "url": "https://open.spotify.com/album/21GSy4UKShEpEfrojAEK9U"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 263906,
       "name": "My Way (with Paul Anka)",
       "url": "https://open.spotify.com/track/2komT9UQNsUDo7qvTDAZKn"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Manoella Torres",
+        "url": "https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi"
+      },
+      "artists": [
+        {
+          "name": "Manoella Torres",
+          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
+        }
+      ],
+      "duration_ms": 196200,
+      "name": "Te Voy a Ense\u00f1ar a Querer",
+      "url": "https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/2ysuZe6xyKlpVzuNKAJUuL"
-      },
-      "artists": [
-        {
-          "name": "Menudo",
-          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
-        }
-      ],
-      "duration_ms": 211480,
-      "name": "S\u00fabete a Mi Moto",
-      "url": "https://open.spotify.com/track/1CNUozOLzsqVQxrct155hY"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Yo Mismo",
         "url": "https://open.spotify.com/album/29DAJADvZkzgHfYTPpZijS"
       },
@@ -1887,18 +1871,18 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Ave F\u00e9nix",
-        "url": "https://open.spotify.com/album/4aStIaNBxADfhovPLw7LUO"
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/2ysuZe6xyKlpVzuNKAJUuL"
       },
       "artists": [
         {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+          "name": "Menudo",
+          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
         }
       ],
-      "duration_ms": 304853,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/3xbymP6jIcdN0O2PB420bz"
+      "duration_ms": 211480,
+      "name": "S\u00fabete a Mi Moto",
+      "url": "https://open.spotify.com/track/1CNUozOLzsqVQxrct155hY"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1915,6 +1899,22 @@
       "duration_ms": 288733,
       "name": "Qu\u00e9 Canten los Ni\u00f1os - Homenaje a las Aldeas SOS",
       "url": "https://open.spotify.com/track/27ZrFLElsXCUIrSvgGD497"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Ave F\u00e9nix",
+        "url": "https://open.spotify.com/album/4aStIaNBxADfhovPLw7LUO"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 304853,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/3xbymP6jIcdN0O2PB420bz"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Solo Una Mujer",
-        "url": "https://open.spotify.com/album/2g9dQlpIYrdpe1Q6NigI5Q"
-      },
-      "artists": [
-        {
-          "name": "Luc\u00eda M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "Coraz\u00f3n de Piedra",
-      "url": "https://open.spotify.com/track/4eyKVFrTZmRdGU3bNYiC6f"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Marinero De Luces",
         "url": "https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 289293,
       "name": "Hoy Quiero Confesarme",
       "url": "https://open.spotify.com/track/5wI6PpGIGw25jewhrbnxWG"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Solo Una Mujer",
+        "url": "https://open.spotify.com/album/2g9dQlpIYrdpe1Q6NigI5Q"
+      },
+      "artists": [
+        {
+          "name": "Luc\u00eda M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "Coraz\u00f3n de Piedra",
+      "url": "https://open.spotify.com/track/4eyKVFrTZmRdGU3bNYiC6f"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2175,18 +2175,18 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Denise De Kalafe 10 Exitos",
-        "url": "https://open.spotify.com/album/73YPWzhJAthVPAkj1UojYR"
+        "name": "El Ultimo Beso",
+        "url": "https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo"
       },
       "artists": [
         {
-          "name": "Denise De Kalafe",
-          "url": "https://open.spotify.com/artist/6Uzmax0z90qEQiH8ryLDjr"
+          "name": "Polo",
+          "url": "https://open.spotify.com/artist/6uVofP20iSu79YzFaBVXkj"
         }
       ],
-      "duration_ms": 183213,
-      "name": "Se\u00f1ora... Se\u00f1ora... Se\u00f1ora",
-      "url": "https://open.spotify.com/track/1gpnjVCS2P9BPug3FvHpgW"
+      "duration_ms": 162186,
+      "name": "El \u00faltimo beso - The Last Kiss",
+      "url": "https://open.spotify.com/track/0XrGUM48yLYhS13v4NsGuj"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2207,34 +2207,18 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "El Ultimo Beso",
-        "url": "https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo"
+        "name": "Denise De Kalafe 10 Exitos",
+        "url": "https://open.spotify.com/album/73YPWzhJAthVPAkj1UojYR"
       },
       "artists": [
         {
-          "name": "Polo",
-          "url": "https://open.spotify.com/artist/6uVofP20iSu79YzFaBVXkj"
+          "name": "Denise De Kalafe",
+          "url": "https://open.spotify.com/artist/6Uzmax0z90qEQiH8ryLDjr"
         }
       ],
-      "duration_ms": 162186,
-      "name": "El \u00faltimo beso - The Last Kiss",
-      "url": "https://open.spotify.com/track/0XrGUM48yLYhS13v4NsGuj"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/1YAzo6TPK5unqNDydM4CVb"
-      },
-      "artists": [
-        {
-          "name": "Sab\u00fa",
-          "url": "https://open.spotify.com/artist/4n3J3bRVaUm9R4txtKTVuu"
-        }
-      ],
-      "duration_ms": 162626,
-      "name": "Vuelvo A vivir, Vuelvo A Cantar",
-      "url": "https://open.spotify.com/track/7vnQd31ZtmPkw4nWsHiFCz"
+      "duration_ms": 183213,
+      "name": "Se\u00f1ora... Se\u00f1ora... Se\u00f1ora",
+      "url": "https://open.spotify.com/track/1gpnjVCS2P9BPug3FvHpgW"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2251,6 +2235,22 @@
       "duration_ms": 256093,
       "name": "Como una Ola",
       "url": "https://open.spotify.com/track/1gNXYvLc14OmqK6gSJKLUM"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/1YAzo6TPK5unqNDydM4CVb"
+      },
+      "artists": [
+        {
+          "name": "Sab\u00fa",
+          "url": "https://open.spotify.com/artist/4n3J3bRVaUm9R4txtKTVuu"
+        }
+      ],
+      "duration_ms": 162626,
+      "name": "Vuelvo A vivir, Vuelvo A Cantar",
+      "url": "https://open.spotify.com/track/7vnQd31ZtmPkw4nWsHiFCz"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2423,18 +2423,30 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Lo Mejor de Massiel",
-        "url": "https://open.spotify.com/album/1h2ucRNe6wSDRNlHHvHxu6"
+        "name": "Mi Tierra",
+        "url": "https://open.spotify.com/album/7tpRFmImdA2lXhq86OLz25"
       },
       "artists": [
         {
-          "name": "Massiel",
-          "url": "https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T"
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "name": "G. M. Estefan",
+          "url": "https://open.spotify.com/artist/3fwDX6XhB3R3VAcqWUMX6P"
+        },
+        {
+          "name": "Emilio Estefan, Jr.",
+          "url": "https://open.spotify.com/artist/6j4bc1DLzLoUqGztsvG5KT"
+        },
+        {
+          "name": "E. Estefan Jr.",
+          "url": "https://open.spotify.com/artist/5b3AxUEl9NygoZlNuCPtii"
         }
       ],
-      "duration_ms": 215706,
-      "name": "Brindaremos por \u00e9l",
-      "url": "https://open.spotify.com/track/1TRsgYfke7OMfK7fyszgeY"
+      "duration_ms": 276933,
+      "name": "Con los A\u00f1os Que Me Quedan",
+      "url": "https://open.spotify.com/track/2tD5O7XOMyF9dsnChcN4n2"
     }
   ],
   "unique_name": "Canciones del Recuerdo",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > bailando en el antro con FLVCKKA y Regulo Caro hasta el amanecer
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,186 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,201 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La Ocasión](https://open.spotify.com/track/3iIeSkdQB6mXQ8HUGhkZgU) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [angely2k](https://open.spotify.com/artist/4gt3Ws8Q3RY6yabs4U5Egl) | [La Ocasión](https://open.spotify.com/album/1b31iLB0KUcUq9NCtHPu6V) | 2:37 |
-| 2 | [FOLEN ENYELS](https://open.spotify.com/track/0JSuQuNITcNEYYJfJwJpeA) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [ANGELA \(Deluxe\)](https://open.spotify.com/album/2CYVt3PAiW3vQ4gcrOUfJx) | 2:56 |
+| 2 | [FOLEN ENYELS](https://open.spotify.com/track/0JSuQuNITcNEYYJfJwJpeA) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [2AT](https://open.spotify.com/artist/2caaLhxVxlELPUOEI9TrcL) | [ANGELA \(Deluxe\)](https://open.spotify.com/album/2CYVt3PAiW3vQ4gcrOUfJx) | 2:56 |
 | 3 | [Necesito Respirar](https://open.spotify.com/track/1UDwWNsG7bAB9NcDmyy2LD) | [INTTI FR](https://open.spotify.com/artist/1eMe5uZzCa1kpBVdTn7mRB) | [Necesito Respirar](https://open.spotify.com/album/2P48PgW8gk5uTY5mtEtCjU) | 2:50 |
 | 4 | [NÃO TEM FIN \(garota fav\)](https://open.spotify.com/track/7DPnyFu4HRTC2KkAYV6KH1) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [HOTCORE](https://open.spotify.com/album/74nnCDVDlxRljxy32H3YXB) | 2:43 |
 | 5 | [No veo bien](https://open.spotify.com/track/4ikQtfAnZn5SP3w2FjxQ4k) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [mañana, temprano](https://open.spotify.com/album/6Y2sfEJBZbqrHTKtRB0Bmi) | 3:31 |

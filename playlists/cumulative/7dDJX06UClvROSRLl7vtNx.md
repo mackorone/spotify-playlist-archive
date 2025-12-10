@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,108 songs - 1 day 23 hr 59 min
+1,109 songs - 2 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -860,6 +860,7 @@
 | [Sleep](https://open.spotify.com/track/0rMuFOja3DhVSuXQeae25C) | [ConKi](https://open.spotify.com/artist/2oBcbbUQy8Md3FYXifyPTF), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Runforrest](https://open.spotify.com/artist/6m4TPomVwYgFtvzRDjaaF5) | [Sleep](https://open.spotify.com/album/49rPIZxBEwNFxZSdhcjiMr) | 2:58 | 2024-04-21 | 2024-11-05 |
 | [Sleepwalking](https://open.spotify.com/track/24dat5FuBrBOtXNcxygpny) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Sleepwalking](https://open.spotify.com/album/6qnNL37RrTFrc63BZXAqVu) | 2:50 | 2024-11-01 | 2025-01-06 |
 | [Slow Down](https://open.spotify.com/track/0fmiU57491EXzACkiKJrLN) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Slow Down](https://open.spotify.com/album/1tzUJiSHMB30oeNy1EHRQW) | 2:17 | 2023-10-01 | 2024-01-28 |
+| [Slowmotion](https://open.spotify.com/track/11v4G7wg4Kql7CgKwpqfe0) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v), [WLZN](https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce) | [Slowmotion](https://open.spotify.com/album/6AJGsWEyP8tnC4ZB6jSr9K) | 2:08 | 2025-12-09 |  |
 | [Small Rain](https://open.spotify.com/track/3v6ltrfN8z7ZG0MdZNgxi9) | [simplesun](https://open.spotify.com/artist/1WxW90xSu4iYzfw9fg5fb3), [PETER EDGE](https://open.spotify.com/artist/7sVkXFblUFCDSWp6IqBPgV), [Madom](https://open.spotify.com/artist/0IenaxU3u6R2sQPWHStOrM) | [Small Rain](https://open.spotify.com/album/4X9efgVf9owu5fcZOjqVIc) | 2:29 | 2025-09-07 | 2025-10-06 |
 | [Smalltown Boy](https://open.spotify.com/track/2rMogniPbEZEDIBnZmg9MY) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Mecdoux](https://open.spotify.com/artist/2LEcQU88INN9wulB59Xo0Q), [Chill Covers](https://open.spotify.com/artist/4p81rIKtC7M8Ax5pRKcSNc) | [Smalltown Boy](https://open.spotify.com/album/2YplDs9AvBIDnz2YX9W40D) | 2:30 | 2023-11-12 | 2024-06-19 |
 | [Smell The Roses](https://open.spotify.com/track/7nQ74Lp7FvDTCzmP4CXzpy) | [Survol](https://open.spotify.com/artist/3NGnHk3VEx1z4Yihzzc6Ou), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X), [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US) | [Smell The Roses](https://open.spotify.com/album/6vVIdug5q8YayFDgKOx3MG) | 2:42 | 2024-06-01 | 2024-07-14 |

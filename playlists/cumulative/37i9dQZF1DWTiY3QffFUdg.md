@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-315 songs - 16 hr 27 min
+316 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Play It Loud](https://open.spotify.com/track/2OzIpR52uwLnHJgjbeMIsT) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug) | [Play It Loud](https://open.spotify.com/album/6pcUFkYv5xtyV6t3APaXHX) | 2:51 | 2025-03-14 | 2025-06-07 |
 | [Play With Me](https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF) | [Spiritual Driveby](https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr) | 3:38 | 2024-10-04 |  |
 | [Poker Face](https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3), [Joe Kox](https://open.spotify.com/artist/0aN6ilg8tbD71OTn12qx1G) | [Poker Face](https://open.spotify.com/album/6J3PjOxzJIi3swdqbXklDA) | 2:37 | 2023-12-15 |  |
-| [Pretty Friends](https://open.spotify.com/track/6jRn6lpHAioyD8PY4NKNQE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Pretty Friends](https://open.spotify.com/album/42brGrydPMIqlWl2hVHsPp) | 1:59 | 2025-10-10 |  |
+| [Pretty Friends](https://open.spotify.com/track/6jRn6lpHAioyD8PY4NKNQE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Pretty Friends](https://open.spotify.com/album/42brGrydPMIqlWl2hVHsPp) | 1:59 | 2025-10-10 | 2025-12-10 |
 | [Promise](https://open.spotify.com/track/02iid7jLIDPuI4JyHTtyBz) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy) | [Promise](https://open.spotify.com/album/7BUxsv49YApxUBSwfYgG0e) | 4:04 | 2025-11-28 |  |
 | [Pulse](https://open.spotify.com/track/5IWZWLUlFAKT2NJBwnN7NO) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Pulse](https://open.spotify.com/album/4tm7JzxqqnqzzjDwvf0jAj) | 1:59 | 2024-11-29 | 2024-12-07 |
 | [PURA VIDA \- Wehbba Remix](https://open.spotify.com/track/1ch4P5LTDHoHulGC5lhNYT) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [PURA VIDA \(Wehbba Remix\)](https://open.spotify.com/album/5g3umWr9sJoUut6pOoyWUb) | 3:53 | 2023-08-11 | 2023-08-18 |
@@ -264,6 +264,7 @@
 | [Silver Spark](https://open.spotify.com/track/2oMMOQL2NiNC97TEDmyjMk) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg) | [Silver Spark](https://open.spotify.com/album/0SWoFlfVjModLr3r5qeVNi) | 4:21 | 2024-05-17 | 2024-07-16 |
 | [Simulator](https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Simulator](https://open.spotify.com/album/6gP0CsJDvNuJJfCjXamjFJ) | 3:40 | 2023-08-11 | 2023-09-11 |
 | [Skank In The Rave](https://open.spotify.com/track/4nceOR9TnmePBmrnDwFGMS) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [&NUFF](https://open.spotify.com/artist/2YkJrlTkGR18M3y76ejF0C), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Slingshot \- EP](https://open.spotify.com/album/4TX4tKeZZzeszn0SoPJAWs) | 2:25 | 2024-11-27 | 2025-05-31 |
+| [Smoke](https://open.spotify.com/track/21W3RPkVc9mYVp7wVvllUg) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Nico Dei](https://open.spotify.com/artist/5E6pulGHvlCWw1GnQHjs3I) | [Smoke](https://open.spotify.com/album/2QTkvw3AYXqhaiYo9XATNY) | 2:57 | 2025-12-05 |  |
 | [Spicey \- Original](https://open.spotify.com/track/4V8WSDvLpCtcmeXn5ZZLCd) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Spicey \(Original\)](https://open.spotify.com/album/25RnjGOl1DrXiXDlG6axld) | 2:31 | 2023-08-11 | 2023-08-21 |
 | [Stumblin' In \(Sonny Wern Remix\)](https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Stumblin' In \(Sonny Wern Remix\)](https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY) | 2:32 | 2024-04-26 |  |
 | [SUBMARINE](https://open.spotify.com/track/2ajKYSNnU7l89EJV8job8k) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [SUBMARINE](https://open.spotify.com/album/3t3RRbPtY3llgrDrI8ceLC) | 3:23 | 2024-01-26 | 2024-08-03 |

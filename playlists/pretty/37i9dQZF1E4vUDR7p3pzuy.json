@@ -1,5 +1,5 @@
 {
-  "description": "With Synthetik Blonde, Amulet, Corlyx and more",
+  "description": "With Synthetik Blonde, Corlyx, Amulet and more",
   "num_followers": 9,
   "original_name": "DePitcha Radio",
   "owner": {
@@ -31,6 +31,38 @@
       "duration_ms": 214000,
       "name": "Protected",
       "url": "https://open.spotify.com/track/0LsgbtfzDFsSC1bqPWjbNN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "identity crisis",
+        "url": "https://open.spotify.com/album/6qA7NqB5x2iNjCOuFuHYsV"
+      },
+      "artists": [
+        {
+          "name": "gothcandy",
+          "url": "https://open.spotify.com/artist/56MVdvfH0k4FvVBUMFxuyl"
+        }
+      ],
+      "duration_ms": 145343,
+      "name": "runaway",
+      "url": "https://open.spotify.com/track/1Oo3fHQdocsqzbo4CxlrzB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soldier",
+        "url": "https://open.spotify.com/album/7Fmg0CPq928snilQeO48mi"
+      },
+      "artists": [
+        {
+          "name": "2099.mp3",
+          "url": "https://open.spotify.com/artist/4NVezhmrndcBg0xJmp7XUV"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Soldier",
+      "url": "https://open.spotify.com/track/0P1n7Y5JoBcDeag9BOPvFR"
     },
     {
       "added_at": null,
@@ -71,38 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/3lMSFNys1MDKE9JFfqoZZh"
-      },
-      "artists": [
-        {
-          "name": "Cozmicsoulfire",
-          "url": "https://open.spotify.com/artist/4j8dYpGIgGJYWmstb2Ek0M"
-        }
-      ],
-      "duration_ms": 387527,
-      "name": "I Got It Bad",
-      "url": "https://open.spotify.com/track/2vwG74jskPYPrZaKu24XAy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soldier",
-        "url": "https://open.spotify.com/album/7Fmg0CPq928snilQeO48mi"
-      },
-      "artists": [
-        {
-          "name": "2099.mp3",
-          "url": "https://open.spotify.com/artist/4NVezhmrndcBg0xJmp7XUV"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Soldier",
-      "url": "https://open.spotify.com/track/0P1n7Y5JoBcDeag9BOPvFR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Short Way Home",
         "url": "https://open.spotify.com/album/6r8d7Gm02NbuDcV0HiHEUe"
       },
@@ -115,182 +115,6 @@
       "duration_ms": 110117,
       "name": "Cotton Candy Cloud",
       "url": "https://open.spotify.com/track/66qhpcJigoaxyGabUuzC90"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Purification",
-        "url": "https://open.spotify.com/album/45p8zyNpcBs849RcrUzTAE"
-      },
-      "artists": [
-        {
-          "name": "Amulet",
-          "url": "https://open.spotify.com/artist/0MIXqJTzEdqxtggC1GsfHy"
-        },
-        {
-          "name": "MJ Phoenix",
-          "url": "https://open.spotify.com/artist/3TyS8m03vBfP5CTaPQkYDq"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "So Cold - Rising Phoenix",
-      "url": "https://open.spotify.com/track/0P479qWIPJeJdWAoJxa5Ec"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Embers Are My Crown",
-        "url": "https://open.spotify.com/album/7pRniM5SuqfWgqFTpzpyWC"
-      },
-      "artists": [
-        {
-          "name": "Synthetik Blonde",
-          "url": "https://open.spotify.com/artist/21RqrCPQcyKkjQfX9UsgFD"
-        }
-      ],
-      "duration_ms": 252461,
-      "name": "Embers Are My Crown",
-      "url": "https://open.spotify.com/track/21NMXyzPTTR5SQAMLzGqgL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart-Shaped Box",
-        "url": "https://open.spotify.com/album/7gWGEWCqsDw7fdxGtj6roA"
-      },
-      "artists": [
-        {
-          "name": "Yellow Jam",
-          "url": "https://open.spotify.com/artist/6nis8jlqzngHly0plz6OPU"
-        }
-      ],
-      "duration_ms": 256634,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/4zR3I8wrWs1lW3wHW507qU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1jKe4oSbVCPGklGzhtZLS3"
-      },
-      "artists": [
-        {
-          "name": "Cozmicsoulfire",
-          "url": "https://open.spotify.com/artist/4j8dYpGIgGJYWmstb2Ek0M"
-        }
-      ],
-      "duration_ms": 239571,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/74aKgevp2qFK2TxdeSq2DA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Takin' Out The Trash",
-        "url": "https://open.spotify.com/album/3yvLjdPXujJZBd746reFbq"
-      },
-      "artists": [
-        {
-          "name": "DePitcha",
-          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
-        },
-        {
-          "name": "JUST LIZZY",
-          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Takin' Out The Trash",
-      "url": "https://open.spotify.com/track/4ssET8R9IELNKsXXHkbMil"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1000 Years Too Deep (Silence Mix)",
-        "url": "https://open.spotify.com/album/1844iAEmvuUF7vYMaV1RuJ"
-      },
-      "artists": [
-        {
-          "name": "Scream Idol",
-          "url": "https://open.spotify.com/artist/6CcYZYb69G037NhYG3khdw"
-        }
-      ],
-      "duration_ms": 172075,
-      "name": "1000 Years Too Deep (Silence Mix)",
-      "url": "https://open.spotify.com/track/2mxnJ5qna5oZ7yFYo6nAZK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Silver Bullet",
-        "url": "https://open.spotify.com/album/2vECnZcp7MUW09hrhpJYlu"
-      },
-      "artists": [
-        {
-          "name": "Color Noir",
-          "url": "https://open.spotify.com/artist/5bJSmdjGA7t3W3lkayHX38"
-        },
-        {
-          "name": "Corlyx",
-          "url": "https://open.spotify.com/artist/2K8LJm6DxnMVU6fQklN5Z5"
-        }
-      ],
-      "duration_ms": 189475,
-      "name": "Silver Bullet",
-      "url": "https://open.spotify.com/track/2B8xf4vxUlj8cElqgtgzOU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deadtime Stories",
-        "url": "https://open.spotify.com/album/6LNJswYZkDk5BpEw299Id2"
-      },
-      "artists": [
-        {
-          "name": "LOVELORN DOLLS",
-          "url": "https://open.spotify.com/artist/5LRTjy2y6L1hn8JcdpOqVz"
-        },
-        {
-          "name": "Dero Goi",
-          "url": "https://open.spotify.com/artist/4oT317XjfNqi7Iv2VLTrDV"
-        }
-      ],
-      "duration_ms": 287265,
-      "name": "Dancing At Your Funeral",
-      "url": "https://open.spotify.com/track/3YoDIncK2ZLGyxBe2leno7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Silicon Queens",
-        "url": "https://open.spotify.com/album/3aUw1b1No5iZBi83Uey6ER"
-      },
-      "artists": [
-        {
-          "name": "Fused",
-          "url": "https://open.spotify.com/artist/5jns7kisdne3HvnYrFoJFF"
-        }
-      ],
-      "duration_ms": 236335,
-      "name": "Queens of the Electro Show",
-      "url": "https://open.spotify.com/track/2lVjEjYyXyPkEJx6cXg2CN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Short Way Home",
-        "url": "https://open.spotify.com/album/6r8d7Gm02NbuDcV0HiHEUe"
-      },
-      "artists": [
-        {
-          "name": "DePitcha",
-          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "I Never Had The Chance - Instrumental",
-      "url": "https://open.spotify.com/track/1u5nNIXufOky5fASaMu81b"
     },
     {
       "added_at": null,
@@ -311,122 +135,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "temporary space",
-        "url": "https://open.spotify.com/album/0WNhrl1hcWzPQ4zl2ZZgce"
+        "name": "Embers Are My Crown",
+        "url": "https://open.spotify.com/album/7pRniM5SuqfWgqFTpzpyWC"
       },
       "artists": [
         {
-          "name": "tommy eliot",
-          "url": "https://open.spotify.com/artist/0wbK1N9tUf56TqczjPMug7"
+          "name": "Synthetik Blonde",
+          "url": "https://open.spotify.com/artist/21RqrCPQcyKkjQfX9UsgFD"
         }
       ],
-      "duration_ms": 127090,
-      "name": "temporary space",
-      "url": "https://open.spotify.com/track/3r622IaCgSfTDiivuD80uk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Martyr Box",
-        "url": "https://open.spotify.com/album/4nVEHRoGA1lvivJomvrjU6"
-      },
-      "artists": [
-        {
-          "name": "crucifera",
-          "url": "https://open.spotify.com/artist/3gKfd2CO8tDMwNHtVMruoh"
-        }
-      ],
-      "duration_ms": 273272,
-      "name": "Martyr Box",
-      "url": "https://open.spotify.com/track/6AZTZhPZ6b63FZI5TPeLL9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moment of Pleasure",
-        "url": "https://open.spotify.com/album/0LCmm3paS0YwrJKGEA3esY"
-      },
-      "artists": [
-        {
-          "name": "Nox Novacula",
-          "url": "https://open.spotify.com/artist/7kNH9Eo1oB8yI9lEwekRvp"
-        },
-        {
-          "name": "Profit Prison",
-          "url": "https://open.spotify.com/artist/1WXoWDSEUPhNB7SYILjntB"
-        }
-      ],
-      "duration_ms": 293836,
-      "name": "Moment Of Pleasure",
-      "url": "https://open.spotify.com/track/3ioYSXnszDiOKEbYDdwhbr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/2bUpH20lfCVuMtmTFAMK6c"
-      },
-      "artists": [
-        {
-          "name": "DePitcha",
-          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
-        },
-        {
-          "name": "JUST LIZZY",
-          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
-        }
-      ],
-      "duration_ms": 314181,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/3V8Nde6e1ziLaNsh5dxrHl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In This Twilight",
-        "url": "https://open.spotify.com/album/38UbIY8B1lhUpuy5bYYJxk"
-      },
-      "artists": [
-        {
-          "name": "Raven Numan",
-          "url": "https://open.spotify.com/artist/5q0maXiCoZPaoULNxL8gDI"
-        }
-      ],
-      "duration_ms": 218428,
-      "name": "In This Twilight",
-      "url": "https://open.spotify.com/track/2H7nItOVCGqhJmDfXoGtlm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Screens",
-        "url": "https://open.spotify.com/album/5UU0RYeH7ooDqxz9LGtICw"
-      },
-      "artists": [
-        {
-          "name": "ELEON",
-          "url": "https://open.spotify.com/artist/5g27UeEPuaYA7BLRoeRbnn"
-        }
-      ],
-      "duration_ms": 264662,
-      "name": "Screens",
-      "url": "https://open.spotify.com/track/2Ic49nqCcxn8bKvnA0fcQU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mentor",
-        "url": "https://open.spotify.com/album/2j2rQwKqISSAOFDHuPfPcU"
-      },
-      "artists": [
-        {
-          "name": "Esoterik",
-          "url": "https://open.spotify.com/artist/1x7SlHy6WYeOvqTBdGNfUF"
-        }
-      ],
-      "duration_ms": 240558,
-      "name": "Mentor",
-      "url": "https://open.spotify.com/track/1TVH2nJqz9DM5Kv1wwq6Tm"
+      "duration_ms": 252461,
+      "name": "Embers Are My Crown",
+      "url": "https://open.spotify.com/track/21NMXyzPTTR5SQAMLzGqgL"
     },
     {
       "added_at": null,
@@ -451,8 +171,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Elegant Deal",
-        "url": "https://open.spotify.com/album/4nh13tkfPRPTQcFrvD9nfn"
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/3lMSFNys1MDKE9JFfqoZZh"
+      },
+      "artists": [
+        {
+          "name": "Cozmicsoulfire",
+          "url": "https://open.spotify.com/artist/4j8dYpGIgGJYWmstb2Ek0M"
+        }
+      ],
+      "duration_ms": 387527,
+      "name": "I Got It Bad",
+      "url": "https://open.spotify.com/track/2vwG74jskPYPrZaKu24XAy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Takin' Out The Trash",
+        "url": "https://open.spotify.com/album/3yvLjdPXujJZBd746reFbq"
       },
       "artists": [
         {
@@ -464,9 +200,241 @@
           "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
         }
       ],
-      "duration_ms": 187252,
-      "name": "This Elegant Deal",
-      "url": "https://open.spotify.com/track/4Xq0EMZ7jFlJixF8L7WssA"
+      "duration_ms": 152000,
+      "name": "Takin' Out The Trash",
+      "url": "https://open.spotify.com/track/4ssET8R9IELNKsXXHkbMil"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "temporary space",
+        "url": "https://open.spotify.com/album/0WNhrl1hcWzPQ4zl2ZZgce"
+      },
+      "artists": [
+        {
+          "name": "tommy eliot",
+          "url": "https://open.spotify.com/artist/0wbK1N9tUf56TqczjPMug7"
+        }
+      ],
+      "duration_ms": 127090,
+      "name": "temporary space",
+      "url": "https://open.spotify.com/track/3r622IaCgSfTDiivuD80uk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deadtime Stories",
+        "url": "https://open.spotify.com/album/6LNJswYZkDk5BpEw299Id2"
+      },
+      "artists": [
+        {
+          "name": "LOVELORN DOLLS",
+          "url": "https://open.spotify.com/artist/5LRTjy2y6L1hn8JcdpOqVz"
+        },
+        {
+          "name": "Dero Goi",
+          "url": "https://open.spotify.com/artist/4oT317XjfNqi7Iv2VLTrDV"
+        }
+      ],
+      "duration_ms": 287265,
+      "name": "Dancing At Your Funeral",
+      "url": "https://open.spotify.com/track/3YoDIncK2ZLGyxBe2leno7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Purification",
+        "url": "https://open.spotify.com/album/45p8zyNpcBs849RcrUzTAE"
+      },
+      "artists": [
+        {
+          "name": "Amulet",
+          "url": "https://open.spotify.com/artist/0MIXqJTzEdqxtggC1GsfHy"
+        },
+        {
+          "name": "MJ Phoenix",
+          "url": "https://open.spotify.com/artist/3TyS8m03vBfP5CTaPQkYDq"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "So Cold - Rising Phoenix",
+      "url": "https://open.spotify.com/track/0P479qWIPJeJdWAoJxa5Ec"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Silver Bullet",
+        "url": "https://open.spotify.com/album/2vECnZcp7MUW09hrhpJYlu"
+      },
+      "artists": [
+        {
+          "name": "Color Noir",
+          "url": "https://open.spotify.com/artist/5bJSmdjGA7t3W3lkayHX38"
+        },
+        {
+          "name": "Corlyx",
+          "url": "https://open.spotify.com/artist/2K8LJm6DxnMVU6fQklN5Z5"
+        }
+      ],
+      "duration_ms": 189475,
+      "name": "Silver Bullet",
+      "url": "https://open.spotify.com/track/2B8xf4vxUlj8cElqgtgzOU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Short Way Home",
+        "url": "https://open.spotify.com/album/6r8d7Gm02NbuDcV0HiHEUe"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "I Never Had The Chance - Instrumental",
+      "url": "https://open.spotify.com/track/1u5nNIXufOky5fASaMu81b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unbound",
+        "url": "https://open.spotify.com/album/3eIhoulM8N8HmZinvJKFHd"
+      },
+      "artists": [
+        {
+          "name": "Neural Groove Machine",
+          "url": "https://open.spotify.com/artist/3ec16T2vMbjJi4luOqt6ps"
+        }
+      ],
+      "duration_ms": 168716,
+      "name": "Unbound",
+      "url": "https://open.spotify.com/track/12KKoSZN4BkrAD3Z6B4dMj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let The Flowers Grow (Juno Reactor Remix)",
+        "url": "https://open.spotify.com/album/2rnDlUmYxg3jstWqwf9Unz"
+      },
+      "artists": [
+        {
+          "name": "Peter Murphy",
+          "url": "https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY"
+        },
+        {
+          "name": "Boy George",
+          "url": "https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45"
+        },
+        {
+          "name": "Juno Reactor",
+          "url": "https://open.spotify.com/artist/1Pe3z1UqRzKsQtHsl25dm6"
+        }
+      ],
+      "duration_ms": 397000,
+      "name": "Let The Flowers Grow (Juno Reactor Remix)",
+      "url": "https://open.spotify.com/track/5tcGXxXX1amKFMUiuIgd0e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Innocent Smile (Radio Edit)",
+        "url": "https://open.spotify.com/album/7rizwGTJtm956P79N53NhU"
+      },
+      "artists": [
+        {
+          "name": "Gong Wah",
+          "url": "https://open.spotify.com/artist/3jsiPDOBtRJDPWbRzb4fiO"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Innocent Smile - Radio Edit",
+      "url": "https://open.spotify.com/track/44hsPYYhQgZY16sXACbQgZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dunkelziffer & Ransom",
+        "url": "https://open.spotify.com/album/0reOLmlXtj2g8c8hn7cHkT"
+      },
+      "artists": [
+        {
+          "name": "A Shrine to Failure",
+          "url": "https://open.spotify.com/artist/0nXYxiS5VC7eoz5YR986oS"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Dunkelziffer",
+      "url": "https://open.spotify.com/track/4aVNpU3Dgii5jlq0G4TBVR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/2bUpH20lfCVuMtmTFAMK6c"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        },
+        {
+          "name": "JUST LIZZY",
+          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
+        }
+      ],
+      "duration_ms": 314181,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/3V8Nde6e1ziLaNsh5dxrHl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/4aAyiTpuJbD5ydadcEh2ti"
+      },
+      "artists": [
+        {
+          "name": "Ann My Guard",
+          "url": "https://open.spotify.com/artist/1z4OkNfVgoXZ89IvFmelwV"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/0FroTXXoQx1s7wKmdBbvFH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crosses",
+        "url": "https://open.spotify.com/album/6PfDTIkqQRaGFxIcHuStgh"
+      },
+      "artists": [
+        {
+          "name": "White Ritual",
+          "url": "https://open.spotify.com/artist/4ViBxzvwRILo9rpgYUmlHD"
+        }
+      ],
+      "duration_ms": 351780,
+      "name": "Crosses",
+      "url": "https://open.spotify.com/track/309AyKk5Ctat3UX0pcPqPz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Capture Reveal",
+        "url": "https://open.spotify.com/album/0GbqBTGmHFzgVerMfswF8i"
+      },
+      "artists": [
+        {
+          "name": "Fig by Four",
+          "url": "https://open.spotify.com/artist/2GEAXLGTZsR2R2N0ARiaJD"
+        }
+      ],
+      "duration_ms": 145838,
+      "name": "It Is, Is It?",
+      "url": "https://open.spotify.com/track/0cQVbQqiMtwCKJA4O19Jqc"
     },
     {
       "added_at": null,
@@ -487,6 +455,78 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Elegant Deal",
+        "url": "https://open.spotify.com/album/4nh13tkfPRPTQcFrvD9nfn"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        },
+        {
+          "name": "JUST LIZZY",
+          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
+        }
+      ],
+      "duration_ms": 187252,
+      "name": "This Elegant Deal",
+      "url": "https://open.spotify.com/track/4Xq0EMZ7jFlJixF8L7WssA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mentor",
+        "url": "https://open.spotify.com/album/2j2rQwKqISSAOFDHuPfPcU"
+      },
+      "artists": [
+        {
+          "name": "Esoterik",
+          "url": "https://open.spotify.com/artist/1x7SlHy6WYeOvqTBdGNfUF"
+        }
+      ],
+      "duration_ms": 240558,
+      "name": "Mentor",
+      "url": "https://open.spotify.com/track/1TVH2nJqz9DM5Kv1wwq6Tm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Screens",
+        "url": "https://open.spotify.com/album/5UU0RYeH7ooDqxz9LGtICw"
+      },
+      "artists": [
+        {
+          "name": "ELEON",
+          "url": "https://open.spotify.com/artist/5g27UeEPuaYA7BLRoeRbnn"
+        }
+      ],
+      "duration_ms": 264662,
+      "name": "Screens",
+      "url": "https://open.spotify.com/track/2Ic49nqCcxn8bKvnA0fcQU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Closing the Dark",
+        "url": "https://open.spotify.com/album/7eynHKSMqXgYnhKXxc5D85"
+      },
+      "artists": [
+        {
+          "name": "Anne Bennett",
+          "url": "https://open.spotify.com/artist/65cHEEp4oU3GUYSshjw3yL"
+        },
+        {
+          "name": "Ben Christo",
+          "url": "https://open.spotify.com/artist/50W4KugA9ZtpG8b5TMh5Kr"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "Closing the Dark",
+      "url": "https://open.spotify.com/track/7IAoMCaOE9ad5qcjo8Z7vu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Disco Ball",
         "url": "https://open.spotify.com/album/69iZAFWSjmcUJMm2jMtADa"
       },
@@ -499,38 +539,6 @@
       "duration_ms": 277500,
       "name": "Disco Ball",
       "url": "https://open.spotify.com/track/77d0eVrZ78UKNP7u3Hcwl8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "As Above",
-        "url": "https://open.spotify.com/album/6KMVygRI6RjByXQnvqULYA"
-      },
-      "artists": [
-        {
-          "name": "AL1CE",
-          "url": "https://open.spotify.com/artist/0OEswCup9P8ou9tFbOUSE5"
-        }
-      ],
-      "duration_ms": 298514,
-      "name": "For Dead",
-      "url": "https://open.spotify.com/track/4Fq84rkGebbqwZoTJxn2OC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electronic Saviors: Industrial Music to Cure Cancer, Vol. 7 ReUnion",
-        "url": "https://open.spotify.com/album/0Ljr0IB6gYI5tcoggCymGT"
-      },
-      "artists": [
-        {
-          "name": "Amulet",
-          "url": "https://open.spotify.com/artist/0MIXqJTzEdqxtggC1GsfHy"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Queen of Codependency",
-      "url": "https://open.spotify.com/track/53VjOVF0jUG3ueScsJ75AO"
     },
     {
       "added_at": null,
@@ -559,6 +567,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ritual Lust",
+        "url": "https://open.spotify.com/album/1uDwsOc8zP61kCnQ8lJIYP"
+      },
+      "artists": [
+        {
+          "name": "White Ritual",
+          "url": "https://open.spotify.com/artist/4ViBxzvwRILo9rpgYUmlHD"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Ritual Lust",
+      "url": "https://open.spotify.com/track/5zpTKGkHOmn26p3U4n7fT3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Silicon Queens",
+        "url": "https://open.spotify.com/album/3aUw1b1No5iZBi83Uey6ER"
+      },
+      "artists": [
+        {
+          "name": "Fused",
+          "url": "https://open.spotify.com/artist/5jns7kisdne3HvnYrFoJFF"
+        }
+      ],
+      "duration_ms": 236335,
+      "name": "Queens of the Electro Show",
+      "url": "https://open.spotify.com/track/2lVjEjYyXyPkEJx6cXg2CN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1jKe4oSbVCPGklGzhtZLS3"
+      },
+      "artists": [
+        {
+          "name": "Cozmicsoulfire",
+          "url": "https://open.spotify.com/artist/4j8dYpGIgGJYWmstb2Ek0M"
+        }
+      ],
+      "duration_ms": 239571,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/74aKgevp2qFK2TxdeSq2DA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Dreams Are Calling You",
         "url": "https://open.spotify.com/album/7jM1rGOqa4vHhm3eT9vXns"
       },
@@ -571,142 +627,6 @@
       "duration_ms": 201104,
       "name": "The Passengers",
       "url": "https://open.spotify.com/track/68rIFfMmZCP75TXUPbZe5B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Don\u2019t Bleed",
-        "url": "https://open.spotify.com/album/56cbUV4i2RjQwpQx1ifXoq"
-      },
-      "artists": [
-        {
-          "name": "Marc Schuster",
-          "url": "https://open.spotify.com/artist/6yHvSo7nxlU27sOBX4XyWA"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "I Don't Bleed",
-      "url": "https://open.spotify.com/track/2aD1FaM5wXo3az8bC28uCt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PIECES",
-        "url": "https://open.spotify.com/album/6ntJNABlm4o6BhBgDrygSM"
-      },
-      "artists": [
-        {
-          "name": "Synthetik Blonde",
-          "url": "https://open.spotify.com/artist/21RqrCPQcyKkjQfX9UsgFD"
-        }
-      ],
-      "duration_ms": 266646,
-      "name": "Under My Skin",
-      "url": "https://open.spotify.com/track/5KYBf6L4mpJQkvSlAhUKsj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "#1 Crush",
-        "url": "https://open.spotify.com/album/3SlZeIApAgIxxHlLbV9ZRl"
-      },
-      "artists": [
-        {
-          "name": "LIIS",
-          "url": "https://open.spotify.com/artist/380mi6DOBeEhevLL0hUiIf"
-        },
-        {
-          "name": "Julien-K",
-          "url": "https://open.spotify.com/artist/6a82pdlhS6SsAq7HDUSZKN"
-        }
-      ],
-      "duration_ms": 227258,
-      "name": "#1 Crush",
-      "url": "https://open.spotify.com/track/7nI32tjGZmL54z1CUfAXj0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "So, this is a thing?",
-        "url": "https://open.spotify.com/album/1XTwlXVCPusLV0D0n5KBxS"
-      },
-      "artists": [
-        {
-          "name": "DePitcha",
-          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
-        }
-      ],
-      "duration_ms": 216032,
-      "name": "Friday Escape",
-      "url": "https://open.spotify.com/track/5OBnjLijavtXpnzEQKbYxL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Purple Pain",
-        "url": "https://open.spotify.com/album/5p8ArHFTxDnWWoiaI7DyB8"
-      },
-      "artists": [
-        {
-          "name": "Corlyx",
-          "url": "https://open.spotify.com/artist/2K8LJm6DxnMVU6fQklN5Z5"
-        },
-        {
-          "name": "Suzi Sabotage",
-          "url": "https://open.spotify.com/artist/4Xg5IOdSKG15oMi05Xf1yn"
-        }
-      ],
-      "duration_ms": 250273,
-      "name": "Kill Cave",
-      "url": "https://open.spotify.com/track/7AmgEbUvDmUCsPMhM2u6eU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Capture Reveal",
-        "url": "https://open.spotify.com/album/0GbqBTGmHFzgVerMfswF8i"
-      },
-      "artists": [
-        {
-          "name": "Fig by Four",
-          "url": "https://open.spotify.com/artist/2GEAXLGTZsR2R2N0ARiaJD"
-        }
-      ],
-      "duration_ms": 145838,
-      "name": "It Is, Is It?",
-      "url": "https://open.spotify.com/track/0cQVbQqiMtwCKJA4O19Jqc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Up at Night",
-        "url": "https://open.spotify.com/album/0axdkgjROl5yQNaJrMgfB5"
-      },
-      "artists": [
-        {
-          "name": "Camp Crush",
-          "url": "https://open.spotify.com/artist/1Md43tDItXhquLZPaxsEOO"
-        }
-      ],
-      "duration_ms": 227047,
-      "name": "Mind's Eye",
-      "url": "https://open.spotify.com/track/2vbbgLRnzwY6SWB5FHCKdU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Innocent Smile (Radio Edit)",
-        "url": "https://open.spotify.com/album/7rizwGTJtm956P79N53NhU"
-      },
-      "artists": [
-        {
-          "name": "Gong Wah",
-          "url": "https://open.spotify.com/artist/3jsiPDOBtRJDPWbRzb4fiO"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Innocent Smile - Radio Edit",
-      "url": "https://open.spotify.com/track/44hsPYYhQgZY16sXACbQgZ"
     },
     {
       "added_at": null,
@@ -731,66 +651,154 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dunkelziffer & Ransom",
-        "url": "https://open.spotify.com/album/0reOLmlXtj2g8c8hn7cHkT"
+        "name": "Doppelganger",
+        "url": "https://open.spotify.com/album/1iakMwV4N327xJaXDYuTEq"
       },
       "artists": [
         {
-          "name": "A Shrine to Failure",
-          "url": "https://open.spotify.com/artist/0nXYxiS5VC7eoz5YR986oS"
+          "name": "Nick Luddite",
+          "url": "https://open.spotify.com/artist/5JW6XHyFvz9WOZidRZwYq5"
         }
       ],
-      "duration_ms": 246000,
-      "name": "Dunkelziffer",
-      "url": "https://open.spotify.com/track/4aVNpU3Dgii5jlq0G4TBVR"
+      "duration_ms": 276000,
+      "name": "Doppelganger",
+      "url": "https://open.spotify.com/track/0oXmJgdT7jPYTjOmN2GUWY"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Ritual Lust",
-        "url": "https://open.spotify.com/album/1uDwsOc8zP61kCnQ8lJIYP"
+        "name": "The Internet",
+        "url": "https://open.spotify.com/album/6tKueLDkCdKmS8yuNP9l0i"
       },
       "artists": [
         {
-          "name": "White Ritual",
-          "url": "https://open.spotify.com/artist/4ViBxzvwRILo9rpgYUmlHD"
+          "name": "Le Junk",
+          "url": "https://open.spotify.com/artist/1D7t491zeHBWe0mOQZNySz"
         }
       ],
-      "duration_ms": 240600,
-      "name": "Ritual Lust",
-      "url": "https://open.spotify.com/track/5zpTKGkHOmn26p3U4n7fT3"
+      "duration_ms": 206435,
+      "name": "The Internet",
+      "url": "https://open.spotify.com/track/3JjQpezBYZXEb6KVNJfmS1"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Unbound",
-        "url": "https://open.spotify.com/album/3eIhoulM8N8HmZinvJKFHd"
+        "name": "1000 Years Too Deep (Silence Mix)",
+        "url": "https://open.spotify.com/album/1844iAEmvuUF7vYMaV1RuJ"
       },
       "artists": [
         {
-          "name": "Neural Groove Machine",
-          "url": "https://open.spotify.com/artist/3ec16T2vMbjJi4luOqt6ps"
+          "name": "Scream Idol",
+          "url": "https://open.spotify.com/artist/6CcYZYb69G037NhYG3khdw"
         }
       ],
-      "duration_ms": 168716,
-      "name": "Unbound",
-      "url": "https://open.spotify.com/track/12KKoSZN4BkrAD3Z6B4dMj"
+      "duration_ms": 172075,
+      "name": "1000 Years Too Deep (Silence Mix)",
+      "url": "https://open.spotify.com/track/2mxnJ5qna5oZ7yFYo6nAZK"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Paradigm",
-        "url": "https://open.spotify.com/album/5ofXLk4VWev8PyAqqtMnxB"
+        "name": "IIII",
+        "url": "https://open.spotify.com/album/0s0V5Km6C8vP3IjKuP8Kxp"
       },
       "artists": [
         {
-          "name": "Stridulum",
-          "url": "https://open.spotify.com/artist/1aie9nmU7Gq5F45W7nZK6r"
+          "name": "Pain in the Yeahs",
+          "url": "https://open.spotify.com/artist/2h3u3wJ0xRr93FoibwB3hd"
         }
       ],
-      "duration_ms": 236487,
-      "name": "Flesh",
-      "url": "https://open.spotify.com/track/6RBRTnyS7sdZ6ZmZhONs2p"
+      "duration_ms": 208500,
+      "name": "Cocoon - Redux",
+      "url": "https://open.spotify.com/track/4fxBZYoB8NYG01fjZUvzVg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So, this is a thing?",
+        "url": "https://open.spotify.com/album/1XTwlXVCPusLV0D0n5KBxS"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        }
+      ],
+      "duration_ms": 216032,
+      "name": "Friday Escape",
+      "url": "https://open.spotify.com/track/5OBnjLijavtXpnzEQKbYxL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moment of Pleasure",
+        "url": "https://open.spotify.com/album/0LCmm3paS0YwrJKGEA3esY"
+      },
+      "artists": [
+        {
+          "name": "Nox Novacula",
+          "url": "https://open.spotify.com/artist/7kNH9Eo1oB8yI9lEwekRvp"
+        },
+        {
+          "name": "Profit Prison",
+          "url": "https://open.spotify.com/artist/1WXoWDSEUPhNB7SYILjntB"
+        }
+      ],
+      "duration_ms": 293836,
+      "name": "Moment Of Pleasure",
+      "url": "https://open.spotify.com/track/3ioYSXnszDiOKEbYDdwhbr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PIECES",
+        "url": "https://open.spotify.com/album/6ntJNABlm4o6BhBgDrygSM"
+      },
+      "artists": [
+        {
+          "name": "Synthetik Blonde",
+          "url": "https://open.spotify.com/artist/21RqrCPQcyKkjQfX9UsgFD"
+        }
+      ],
+      "duration_ms": 266646,
+      "name": "Under My Skin",
+      "url": "https://open.spotify.com/track/5KYBf6L4mpJQkvSlAhUKsj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As Above",
+        "url": "https://open.spotify.com/album/6KMVygRI6RjByXQnvqULYA"
+      },
+      "artists": [
+        {
+          "name": "AL1CE",
+          "url": "https://open.spotify.com/artist/0OEswCup9P8ou9tFbOUSE5"
+        }
+      ],
+      "duration_ms": 298514,
+      "name": "For Dead",
+      "url": "https://open.spotify.com/track/4Fq84rkGebbqwZoTJxn2OC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/0Yq6UY6aVVYpgIBFpdK57g"
+      },
+      "artists": [
+        {
+          "name": "Deer Fang",
+          "url": "https://open.spotify.com/artist/0jw4n2l8CqhDcLLxecvBtV"
+        },
+        {
+          "name": "Seventh Dose",
+          "url": "https://open.spotify.com/artist/4mEuEaZY0Med2WBAfZvjyP"
+        }
+      ],
+      "duration_ms": 255489,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/1rnD9JroIvpYq8eLYoN2kC"
     },
     {
       "added_at": null,
@@ -815,18 +823,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHORE",
-        "url": "https://open.spotify.com/album/65rlGSMKmjvWU3Tyl6J5BM"
+        "name": "Paradise Lost 86",
+        "url": "https://open.spotify.com/album/6vvSUTN2jekVQaG1OmMPWf"
       },
       "artists": [
         {
-          "name": "The Proper Spirits",
-          "url": "https://open.spotify.com/artist/5lApFVJHng8bLP1ZNVe5Bp"
+          "name": "Neon Black Dreams",
+          "url": "https://open.spotify.com/artist/4WBSRe9Je3yjj6h8qIeEpQ"
         }
       ],
-      "duration_ms": 200919,
-      "name": "Welcome To Salem (intro)",
-      "url": "https://open.spotify.com/track/3VSU3WGhiR524TtvonIU3c"
+      "duration_ms": 263706,
+      "name": "Paradise Lost - Heavy Emotion Version",
+      "url": "https://open.spotify.com/track/3w89E12aKXTSrIBgpvZMI4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electronic Saviors: Industrial Music to Cure Cancer, Vol. 7 ReUnion",
+        "url": "https://open.spotify.com/album/0Ljr0IB6gYI5tcoggCymGT"
+      },
+      "artists": [
+        {
+          "name": "Amulet",
+          "url": "https://open.spotify.com/artist/0MIXqJTzEdqxtggC1GsfHy"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Queen of Codependency",
+      "url": "https://open.spotify.com/track/53VjOVF0jUG3ueScsJ75AO"
     },
     {
       "added_at": null,
@@ -847,38 +871,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Closing the Dark",
-        "url": "https://open.spotify.com/album/7eynHKSMqXgYnhKXxc5D85"
+        "name": "Deathrock Devotionals",
+        "url": "https://open.spotify.com/album/7sEAyQrUZy4jTds6xvWF71"
       },
       "artists": [
         {
-          "name": "Anne Bennett",
-          "url": "https://open.spotify.com/artist/65cHEEp4oU3GUYSshjw3yL"
-        },
-        {
-          "name": "Ben Christo",
-          "url": "https://open.spotify.com/artist/50W4KugA9ZtpG8b5TMh5Kr"
+          "name": "WARFIELD",
+          "url": "https://open.spotify.com/artist/3Jb5mSCM0lBdaACWt4XM3y"
         }
       ],
-      "duration_ms": 219500,
-      "name": "Closing the Dark",
-      "url": "https://open.spotify.com/track/7IAoMCaOE9ad5qcjo8Z7vu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/4aAyiTpuJbD5ydadcEh2ti"
-      },
-      "artists": [
-        {
-          "name": "Ann My Guard",
-          "url": "https://open.spotify.com/artist/1z4OkNfVgoXZ89IvFmelwV"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/0FroTXXoQx1s7wKmdBbvFH"
+      "duration_ms": 294155,
+      "name": "A Love So Bold",
+      "url": "https://open.spotify.com/track/6ylEbDvwHvCHl0KlrOAEiH"
     }
   ],
   "unique_name": "DePitcha Radio",

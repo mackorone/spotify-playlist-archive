@@ -4,7 +4,7 @@
 
 > 
 
-2,726 songs - 5 day 21 hr 54 min
+2,727 songs - 5 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1196,6 +1196,7 @@
 | [I Got You](https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [I Got You](https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv) | 2:44 | 2024-07-18 |  |
 | [I Hate You](https://open.spotify.com/track/3aJnQtCcxsbwDgPkhrvz1O) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [I Hate You](https://open.spotify.com/album/4dQEgdmJK9kMuDLu71m9G3) | 4:01 | 2025-08-13 |  |
 | [I Just Want To Dance](https://open.spotify.com/track/0YkMAr3ag9YRaloxCTcifq) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq) | [I Just Want To Dance](https://open.spotify.com/album/1tKHVkOU6U92BajHvMqeSn) | 2:29 | 2024-04-19 |  |
+| [I KISSED A GIRL](https://open.spotify.com/track/2gFfuGo4w1spOiuGxyOt6p) | [illuszion](https://open.spotify.com/artist/1SxMLa74v5XKzGwdxWNhgp), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [I KISSED A GIRL](https://open.spotify.com/album/2adsjX5nbQ3DIqAhEHk81Z) | 3:07 | 2025-12-10 |  |
 | [I Know You Like It](https://open.spotify.com/track/3dIrZ1BLv4Imy9OwYQwB9C) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [System Overload](https://open.spotify.com/artist/2AlQBkucn6HkL30qRmyOmW) | [Masters Of Hardcore Chapter XLIV](https://open.spotify.com/album/2Y0PWBnphib2osozApxHou) | 1:57 | 2022-09-09 |  |
 | [I Like Bass](https://open.spotify.com/track/7eNFtBAwul6cqskHAtlRbN) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [I Like Bass](https://open.spotify.com/album/2TYqqDD5mwdd72JGvl4jOy) | 4:29 | 2023-06-26 |  |
 | [I LIKE THE NOISE \(I made this song in 1 hour while I was pooping\)](https://open.spotify.com/track/0mvVeTGKXF8UWWtd30cF5n) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [I LIKE THE NOISE \(I made this song in 1 hour while I was pooping\)](https://open.spotify.com/album/1rjKnAtdflGvQlxkvbmAJI) | 2:45 | 2024-06-04 |  |

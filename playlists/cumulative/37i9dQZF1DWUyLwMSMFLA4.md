@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-353 songs - 20 hr 30 min
+354 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [Ocho Cuarenta](https://open.spotify.com/track/6jDx3MNG0yJdrvEBZohKBE) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 5:54 | 2023-05-05 | 2025-11-21 |
 | [Ojitos Chiquititos](https://open.spotify.com/track/2bGEoSwvtIi5el0jyeLbmn) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Ojitos Chiquititos](https://open.spotify.com/album/0qDTsPJg1GZhUmRj3m7udK) | 2:15 | 2023-05-05 | 2024-10-12 |
 | [Ojitos Chiquititos Rmx](https://open.spotify.com/track/4kFy0tnbfdxBQtQsReCd16) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Ojitos Chiquititos Rmx](https://open.spotify.com/album/6qpWbmlEY7vakNiKeRhVxJ) | 2:38 | 2025-06-10 | 2025-06-28 |
-| [OJITOS ROJOS](https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [OJITOS ROJOS](https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV) | 3:41 | 2023-07-21 |  |
+| [OJITOS ROJOS](https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [OJITOS ROJOS](https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV) | 3:41 | 2023-07-21 | 2025-12-10 |
 | [Olvídala](https://open.spotify.com/track/19oggfRyJpBt68pSKbFofW) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Voló la Paloma](https://open.spotify.com/album/3CVPHYjfA1obSJsehR7C03) | 4:50 | 2023-05-05 | 2024-04-19 |
 | [Orgullosa](https://open.spotify.com/track/7bgzGkSLclStkyn3WAUGv0) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 3:07 | 2024-04-19 |  |
 | [Otra Como Tu](https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Otra Como Tu](https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX) | 3:40 | 2025-10-24 |  |
@@ -298,6 +298,7 @@
 | [Soy Favela \- En Vivo](https://open.spotify.com/track/4G4Ml1TZ2NEKxlbhzS2dPp) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Soy Favela \(En Vivo\)](https://open.spotify.com/album/45vcCBdIHoS8Sil8FZNJlB) | 2:57 | 2024-10-11 | 2025-06-11 |
 | [Soy Sabalero](https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Soy Sabalero](https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W) | 2:59 | 2023-05-05 |  |
 | [Su Florcita](https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:44 | 2023-05-05 | 2025-11-21 |
+| [Tarjetita de Invitacion](https://open.spotify.com/track/4DxGfLYbOD32hr5EMF8HV1) | [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Todo Bien](https://open.spotify.com/album/7qbyuCscYdunQu1IMTmQpv) | 3:25 | 2025-11-20 |  |
 | [Te Amo](https://open.spotify.com/track/50WtswE20cDFRHe183OXkW) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT) | [Te Amo](https://open.spotify.com/album/260Sbv1NKuKSMi9QunvtsI) | 2:50 | 2024-06-07 | 2024-10-26 |
 | [Te Amo X Nos Cruzamos](https://open.spotify.com/track/2N9CiKGk11gNLG90io1D1L) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [La Fusion](https://open.spotify.com/artist/2F09CbW6hmjxeboIJ03TmN) | [Te Amo X Nos Cruzamos](https://open.spotify.com/album/4iCxlTuoSMfvYM7CumWsFz) | 4:11 | 2024-05-10 | 2024-10-12 |
 | [Te Arrepentirás](https://open.spotify.com/track/2J2mlJCRpkPSURHZtFv5eU) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Sonidero Soy](https://open.spotify.com/album/0AbPq586w8qOeaSqN5ZOmX) | 3:30 | 2023-05-05 | 2023-11-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 
 > Las grandes del Despecho y el Género Popular\. Foto: Luis Alfonso
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,545 likes - 85 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,586 likes - 85 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 | 4 | [Stylacho](https://open.spotify.com/track/5t0GQz0k1NW89N0cxFqlth) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Stylacho](https://open.spotify.com/album/5Y15IFNMM01qtXOHS9bnXi) | 2:45 |
 | 5 | [Tu cuarto de hora](https://open.spotify.com/track/76FxJmndkNGzmBELUvV106) | [Alan Ramirez](https://open.spotify.com/artist/1yHjFDDYePdq3KcGBEJkRw), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Tu cuarto de hora](https://open.spotify.com/album/6YkNmlGI3AmGBpSJ2a7xJc) | 3:08 |
 | 6 | [El Embustero RMX](https://open.spotify.com/track/72q1JMsCJbKNbWgzipGi6x) | [Yeison Maje](https://open.spotify.com/artist/4bV3t2Z8IKptPZKtRxDtZi), [Ciro Quiñonez](https://open.spotify.com/artist/5xaXYXef87CBDufNh0kHnK), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [El Embustero RMX](https://open.spotify.com/album/4kh6zY4pspQVF3KKHzjQXn) | 3:42 |
-| 7 | [El Mozo](https://open.spotify.com/track/3JneBHxVFNoys9wYrOg4cM) | [El Andariego](https://open.spotify.com/artist/7umWQMinvyqkJIWOdo02OW), [Daniel Merak](https://open.spotify.com/artist/2L6yVNlAxswKK2Lv2qS9BK) | [El Mozo](https://open.spotify.com/album/4uquyLXvfIUlXkeZQqc8ss) | 3:24 |
+| 7 | [El Mozo](https://open.spotify.com/track/3JneBHxVFNoys9wYrOg4cM) | [Daniel Merak](https://open.spotify.com/artist/2L6yVNlAxswKK2Lv2qS9BK), [El Andariego](https://open.spotify.com/artist/7umWQMinvyqkJIWOdo02OW) | [El Mozo](https://open.spotify.com/album/4uquyLXvfIUlXkeZQqc8ss) | 3:24 |
 | 8 | [GPS \#3 \- Yatusa](https://open.spotify.com/track/7hZvxE2DY0ND6J6u926qyv) | [Georgy Parra Salvaje](https://open.spotify.com/artist/2TSFKNn3DSAG05oMMkLeJs), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [GPS \#3 \- Yatusa](https://open.spotify.com/album/7ycedD4oQJDWI3Z3t91VgZ) | 2:47 |
 | 9 | [DIME QUE PREFIERES](https://open.spotify.com/track/5VjnGtCGUgCYdDxHzDevzA) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [DIME QUE PREFIERES](https://open.spotify.com/album/3bVsJZ2rfxeMBVN6VmX7Uq) | 3:21 |
 | 10 | [Mujeriego](https://open.spotify.com/track/1bygAjLggvdiFzDdBX155d) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mujeriego](https://open.spotify.com/album/7zkCZgGHkGyzBfLCoTastp) | 3:12 |

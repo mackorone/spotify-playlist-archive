@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 121764,
+  "num_followers": 121792,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTTDgAAAAABRQJQxdR7zsgRMDCXTLKQz",
+  "snapshot_id": "aTYVAAAAAADh0Ok3CkyoEWfwYRYj2kaa",
   "tracks": [
     {
       "added_at": null,
@@ -247,6 +247,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eden Vol. II",
+        "url": "https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 217318,
+      "name": "Amargo Adi\u00f3s",
+      "url": "https://open.spotify.com/track/61gYpH7WnkEc4lDVxjc4fm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unidad, Cerveza y Ska",
         "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
       },
@@ -259,22 +279,6 @@
       "duration_ms": 236346,
       "name": "Inspiracional",
       "url": "https://open.spotify.com/track/6rpuI5wb7070I1ZpMvRpzh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 270860,
-      "name": "Yo No Naci Para Amar",
-      "url": "https://open.spotify.com/track/7qQMiNcXYmkx6G3sZ5ljDm"
     },
     {
       "added_at": null,
@@ -295,22 +299,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eden Vol. II",
-        "url": "https://open.spotify.com/album/1XA7mSFpMYANghXkxe9eml"
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
       },
       "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 217318,
-      "name": "Amargo Adi\u00f3s",
-      "url": "https://open.spotify.com/track/61gYpH7WnkEc4lDVxjc4fm"
+      "duration_ms": 270860,
+      "name": "Yo No Naci Para Amar",
+      "url": "https://open.spotify.com/track/7qQMiNcXYmkx6G3sZ5ljDm"
     },
     {
       "added_at": null,

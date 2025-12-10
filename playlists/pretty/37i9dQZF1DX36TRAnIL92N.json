@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 457001,
+  "num_followers": 457157,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -939,26 +939,6 @@
     {
       "added_at": "2025-12-05 05:00:16",
       "album": {
-        "name": "YKSI",
-        "url": "https://open.spotify.com/album/4YEzU9BML2f64xUlFfJEfD"
-      },
-      "artists": [
-        {
-          "name": "Bart Skils",
-          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
-        },
-        {
-          "name": "Heerhorst",
-          "url": "https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR"
-        }
-      ],
-      "duration_ms": 233059,
-      "name": "YKSI",
-      "url": "https://open.spotify.com/track/7nsd1DNX2HrZQEDPdTSMQg"
-    },
-    {
-      "added_at": "2025-12-05 05:00:16",
-      "album": {
         "name": "Cathedral",
         "url": "https://open.spotify.com/album/5sf5dvrHT0c3TPR3n7fQ2H"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 251138,
       "name": "Cathedral",
       "url": "https://open.spotify.com/track/6xqpsapUDne75YlKSfVgPA"
+    },
+    {
+      "added_at": "2025-12-05 05:00:16",
+      "album": {
+        "name": "YKSI",
+        "url": "https://open.spotify.com/album/4YEzU9BML2f64xUlFfJEfD"
+      },
+      "artists": [
+        {
+          "name": "Bart Skils",
+          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+        },
+        {
+          "name": "Heerhorst",
+          "url": "https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR"
+        }
+      ],
+      "duration_ms": 233059,
+      "name": "YKSI",
+      "url": "https://open.spotify.com/track/7nsd1DNX2HrZQEDPdTSMQg"
     }
   ],
   "unique_name": "Techno Workout",

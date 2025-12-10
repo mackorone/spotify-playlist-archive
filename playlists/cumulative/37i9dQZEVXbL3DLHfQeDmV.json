@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/5DPKoI1BRcpfNlhKJ5qWQN"
+      },
+      "artists": [
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/5MgR6ObEMU2DIfYbS44SPC"
+    },
+    {
+      "album": {
         "name": "Learning to Crawl (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
       },
@@ -52,7 +70,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 220426,
       "name": "2000 Miles - 2007 Remaster",
       "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
@@ -74,6 +92,24 @@
       "duration_ms": 146666,
       "name": "4 Raws",
       "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
+    },
+    {
+      "album": {
+        "name": "99 Eyes",
+        "url": "https://open.spotify.com/album/0nmQxTbmZUI5uzva3xIA9L"
+      },
+      "artists": [
+        {
+          "name": "Daydream Affiliate",
+          "url": "https://open.spotify.com/artist/367fs93DnQD5h2QQEFZioV"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154990,
+      "name": "99 Eyes",
+      "url": "https://open.spotify.com/track/2kWwTQdFg2Phlu5grf9bQg"
     },
     {
       "album": {
@@ -357,6 +393,36 @@
     },
     {
       "album": {
+        "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
+      },
+      "artists": [
+        {
+          "name": "Hazbin Hotel",
+          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
+        },
+        {
+          "name": "Christian Borle",
+          "url": "https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158838,
+      "name": "Brighter",
+      "url": "https://open.spotify.com/track/0l6JC8K9Z4n9Gj4KBfgSvA"
+    },
+    {
+      "album": {
         "name": "Everybody Scream",
         "url": "https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF"
       },
@@ -444,7 +510,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 151555,
       "name": "cheap talks",
       "url": "https://open.spotify.com/track/0SDqhvk0rm4HzgDASA4DGC"
@@ -462,7 +528,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 151555,
       "name": "cheap talks",
       "url": "https://open.spotify.com/track/3lYvI38cjz2EuENIFPvwZf"
@@ -532,7 +598,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 67558,
       "name": "Clean It Up!",
       "url": "https://open.spotify.com/track/53CnanPxbhecUExO9EIinJ"
@@ -550,7 +616,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 185152,
       "name": "Cobra",
       "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf"
@@ -604,7 +670,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 218954,
       "name": "December",
       "url": "https://open.spotify.com/track/4oVdhvxZrKQTM9ZsUIZa3S"
@@ -826,7 +892,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 105569,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1p7K0GCeGcRexeVApuIKnN"
@@ -974,7 +1040,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 268519,
       "name": "FEAR",
       "url": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz"
@@ -1036,6 +1102,28 @@
       "duration_ms": 197539,
       "name": "Fool's Gold",
       "url": "https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU"
+    },
+    {
+      "album": {
+        "name": "Wicked: For Good \u2013 The Soundtrack",
+        "url": "https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377098,
+      "name": "For Good",
+      "url": "https://open.spotify.com/track/5shGj5OOnpmg4tQlFjyzZY"
     },
     {
       "album": {
@@ -1839,6 +1927,24 @@
     },
     {
       "album": {
+        "name": "House Is Gettin' Raw",
+        "url": "https://open.spotify.com/album/4szlsAbwcDD7DT11PzysWR"
+      },
+      "artists": [
+        {
+          "name": "PAULY!",
+          "url": "https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178153,
+      "name": "House Is Gettin' Raw",
+      "url": "https://open.spotify.com/track/1sGGXzDr5bjEHBpGjwvNdq"
+    },
+    {
+      "album": {
         "name": "Unfolded",
         "url": "https://open.spotify.com/album/0cYJClDG6CvXa602NesGFf"
       },
@@ -1966,7 +2072,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 129565,
       "name": "I Run",
       "url": "https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g"
@@ -2056,7 +2162,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 228840,
       "name": "I Think We're Alone Now",
       "url": "https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY"
@@ -2331,6 +2437,24 @@
     },
     {
       "album": {
+        "name": "Look Good",
+        "url": "https://open.spotify.com/album/71DApqhcYDfibOT9unRwuf"
+      },
+      "artists": [
+        {
+          "name": "Ethan Walsh",
+          "url": "https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134095,
+      "name": "Look Good",
+      "url": "https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk"
+    },
+    {
+      "album": {
         "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
       },
@@ -2354,7 +2478,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 109128,
       "name": "Losin' Streak",
       "url": "https://open.spotify.com/track/6ly0Zc4mrK1W0XLeuAk5Dv"
@@ -2432,7 +2556,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/2hY9mOKGblxfNFl2GOQKj4"
@@ -2852,7 +2976,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 251637,
       "name": "Nausica\u00e4 (Love Will Be Revealed)",
       "url": "https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N"
@@ -2878,6 +3002,28 @@
       "duration_ms": 125480,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i"
+    },
+    {
+      "album": {
+        "name": "The Fall That Saved Us",
+        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170013,
+      "name": "Nights In The Sun (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q"
     },
     {
       "album": {
@@ -2984,6 +3130,24 @@
       "duration_ms": 162853,
       "name": "Nonmonogamummy",
       "url": "https://open.spotify.com/track/0dBRiasmDpHou4JmNBe8cq"
+    },
+    {
+      "album": {
+        "name": "NOT CUTE ANYMORE",
+        "url": "https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131997,
+      "name": "NOT CUTE ANYMORE",
+      "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
     },
     {
       "album": {
@@ -3172,10 +3336,28 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 110885,
       "name": "Paid to Exist",
       "url": "https://open.spotify.com/track/3wquNCH2wx2Lb9baWLVKpD"
+    },
+    {
+      "album": {
+        "name": "Paradise Runner",
+        "url": "https://open.spotify.com/album/2llFvkt14pwvA4XzsSC9I5"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276477,
+      "name": "Paradise Runner",
+      "url": "https://open.spotify.com/track/3L7TOZvbuTsxH5EM8LVHUZ"
     },
     {
       "album": {
@@ -3344,7 +3526,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 153722,
       "name": "Push It",
       "url": "https://open.spotify.com/track/7ADkaL9vcA3wZAgxZIGy7M"
@@ -3456,7 +3638,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -3616,7 +3798,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 171289,
       "name": "Satellite Signal",
       "url": "https://open.spotify.com/track/3pMuJthG4asb1jPrP2Llnu"
@@ -4674,7 +4856,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 225404,
       "name": "VOX POPULI",
       "url": "https://open.spotify.com/track/7KWeKiDy7GqFjQ5e7xiPxy"
@@ -4696,6 +4878,32 @@
       "duration_ms": 213159,
       "name": "Walk My Walk",
       "url": "https://open.spotify.com/track/17HsyeI0Eq06n3XRntZ4DT"
+    },
+    {
+      "album": {
+        "name": "Wanna Party (feat. Dennis G)",
+        "url": "https://open.spotify.com/album/4YVg92vxNbOUMyTxjW4QwI"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Wideboys",
+          "url": "https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi"
+        },
+        {
+          "name": "Dennis G.",
+          "url": "https://open.spotify.com/artist/1DlMYV41CeNcwmNZ3wc9SW"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Wanna Party (feat. Dennis G)",
+      "url": "https://open.spotify.com/track/7ww9dHtVXHoJEbGGLSH7m2"
     },
     {
       "album": {
@@ -4772,6 +4980,24 @@
       "duration_ms": 246293,
       "name": "West End Girl",
       "url": "https://open.spotify.com/track/6gafVG02AvcZou1oz7titv"
+    },
+    {
+      "album": {
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234080,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
     },
     {
       "album": {
@@ -4882,6 +5108,32 @@
       "duration_ms": 177111,
       "name": "WILDFIRE",
       "url": "https://open.spotify.com/track/6xxnwhLLbwoLzw9znCjLDL"
+    },
+    {
+      "album": {
+        "name": "Winny",
+        "url": "https://open.spotify.com/album/63ITryjqkiwjmk3GABslAj"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Winny",
+          "url": "https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264666,
+      "name": "Winny",
+      "url": "https://open.spotify.com/track/4qhrMsB4w2pHYB3BhX5WPr"
     },
     {
       "album": {

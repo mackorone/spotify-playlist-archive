@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Stripped back vibes\. Cover:  SABRI
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,583 likes - 156 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,569 likes - 156 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

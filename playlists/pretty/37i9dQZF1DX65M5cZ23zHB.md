@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65M5cZ23zHB.md) - [plain]
 
 > A collection of timeless queer love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,879 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,885 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65M5cZ23zHB.md) - [plain]
 | 38 | [Men In Love](https://open.spotify.com/track/4YJByhpWsORTTFgSl5tL76) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Music For Men](https://open.spotify.com/album/1GB8gZTSdbiup5FzxNknRo) | 3:40 |
 | 39 | [Daniel](https://open.spotify.com/track/4SerjQeo3bR6As5BsR8liB) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Crying on the Bathroom Floor](https://open.spotify.com/album/6LpOq2g6EKNdl07wo3qyWJ) | 4:37 |
 | 40 | [Let Us Dance](https://open.spotify.com/track/79eAhQg3DC770z8t1tzIPL) | [Beverly Glenn\-Copeland](https://open.spotify.com/artist/2bN5hXtWZXEIfnHO34eXfe) | [Keyboard Fantasies](https://open.spotify.com/album/3U4V4WwMxXaHIjRnDQqaXK) | 7:24 |
-| 41 | [Take Me I'm Yours](https://open.spotify.com/track/1lZV08zhFneKACPkVnjScM) | [Jobriath](https://open.spotify.com/artist/4FxPaLo3DIZCmKsYuhjkhA) | [Jobriath](https://open.spotify.com/album/2yQtSuU9flHpz4LbeNVfKT) | 4:18 |
-| 42 | [Count On My Love](https://open.spotify.com/track/42uyTxp8q9TpPkoyB4FG1M) | [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Somebody's Miracle](https://open.spotify.com/album/36v4Zu6EghgWxv7GHJfdcv) | 3:41 |
+| 41 | [Count On My Love](https://open.spotify.com/track/42uyTxp8q9TpPkoyB4FG1M) | [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Somebody's Miracle](https://open.spotify.com/album/36v4Zu6EghgWxv7GHJfdcv) | 3:41 |
+| 42 | [Take Me I'm Yours](https://open.spotify.com/track/1lZV08zhFneKACPkVnjScM) | [Jobriath](https://open.spotify.com/artist/4FxPaLo3DIZCmKsYuhjkhA) | [Jobriath](https://open.spotify.com/album/2yQtSuU9flHpz4LbeNVfKT) | 4:18 |
 | 43 | [Tender Comrade](https://open.spotify.com/track/2Rdocl8BdYWOSMAyZgTh4v) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO) | [Workers Playtime](https://open.spotify.com/album/3IDRk9hZRyYpq8DzN6jOKT) | 2:50 |
 | 44 | [Power of Love](https://open.spotify.com/track/1KI50zrJFiJ8GgJMmi4EI8) | [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Call Me](https://open.spotify.com/album/4KKh9HkIgvLZWaMpsF200Y) | 5:25 |
 | 45 | [John & Joe](https://open.spotify.com/track/4WAC6mosPEmNANxBATKDdC) | [Paxton](https://open.spotify.com/artist/20s9zlqU2bhwkhfUQsKSik) | [Paxton](https://open.spotify.com/album/7aToO8WdlovzS8oAlLHqxy) | 4:46 |

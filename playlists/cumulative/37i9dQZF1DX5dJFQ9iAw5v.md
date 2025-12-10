@@ -4,7 +4,7 @@
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-125 songs - 10 hr 34 min
+126 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Luna](https://open.spotify.com/track/2H1sdS7KlyjPhnEVa7IOej) | [Mariano Otero](https://open.spotify.com/artist/48Dbz6uh32ESOMasfSP1DV) | [Umbral de Mí](https://open.spotify.com/album/7MTwHtpJEAa2ACYFBbkmUR) | 4:56 | 2022-08-12 |  |
 | [Luna en Nueva York](https://open.spotify.com/track/1j560dxQliIc8rUNnpmGwg) | [Leo Genovese](https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk) | [Piano Tuerto](https://open.spotify.com/album/5xSxPnYoNTjREFPiozE5W8) | 5:26 | 2022-09-09 | 2024-07-12 |
 | [Lunfardo](https://open.spotify.com/track/31YRQ4zys4YOJp4VgxeGWy) | [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [Piazzolla Plays Piazzolla](https://open.spotify.com/album/2i0WUHuYFeVTCTY0JSmhpv) | 6:22 | 2022-08-12 | 2024-04-19 |
+| [Masche](https://open.spotify.com/track/0xizSuVkSAW319P54gzhwU) | [Sergio Wagner](https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm) | [Edén](https://open.spotify.com/album/2P2fyMDSr96sznG3d2GvzR) | 6:37 | 2025-04-14 |  |
 | [Mezcalero](https://open.spotify.com/track/0rHGwlFislu1y0aSqugWWN) | [Manto de Carne](https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy), [Martín Telechanski](https://open.spotify.com/artist/15mKP2cwyHpXFFbYfir1A1) | [Mezcalero](https://open.spotify.com/album/1vp5pXPedKpfRJL5THQYSj) | 4:57 | 2023-12-08 |  |
 | [Mi Elemento](https://open.spotify.com/track/6kdT5qRuBmiQDhegDgvkrU) | [Fabio Cadore](https://open.spotify.com/artist/2wG1MDWKCj8pxBuDG6NNbp), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Acto 2](https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK) | 5:53 | 2022-08-12 |  |
 | [Milonga Del Fin Del Mundo](https://open.spotify.com/track/2CnSanS2rSfDiITYgTGtws) | [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [Milonga Del Fin Del Mundo](https://open.spotify.com/album/42nKiBgNdt7oWrY6uOGUcw) | 5:24 | 2023-12-08 |  |
@@ -120,7 +121,7 @@
 | [The Way You Look Tonight](https://open.spotify.com/track/0LCSdYyHmz8Qcr3cmeqpu8) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu), [Jan Smigmator](https://open.spotify.com/artist/6iZZuD8jZoqc1vZ1M0CWBo) | [The Way You Look Tonight](https://open.spotify.com/album/47dOChRxiDb1MCaJRo6Kl4) | 3:07 | 2025-02-28 |  |
 | [There Will Never Be Another You](https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD) | [Walter Malosetti](https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp) | [All of Me](https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE) | 4:39 | 2022-08-12 |  |
 | [Tico Tico No Fubà](https://open.spotify.com/track/3Q8ZbV1ebQ1vVZHcst39I8) | [Oscar Aleman](https://open.spotify.com/artist/6WlZKlAR4zNkqXreMiZ2aK) | [Bésame Mucho](https://open.spotify.com/album/0rqeGYuxdTWXiWekx5J1H5) | 2:49 | 2022-08-12 |  |
-| [Titi](https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne) | [Patricio Carpossi](https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX) | [El Dragón Blanco](https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF) | 4:46 | 2023-05-05 |  |
+| [Titi](https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne) | [Patricio Carpossi](https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX) | [El Dragón Blanco](https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF) | 4:46 | 2023-05-05 | 2025-12-10 |
 | [Todavía Quedan Cosas \- Remastered 2022](https://open.spotify.com/track/3QSEcqzwzoidLP7Q9600RC) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT), [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ) | [Rosario \(Remastered 2022\)](https://open.spotify.com/album/5CeWD0ca25q5bzcBfdp8D7) | 5:18 | 2022-08-12 |  |
 | [Tour de Force](https://open.spotify.com/track/2foU99quuAqqJTCn04P1cy) | [Arturo Puertas](https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ) | [Viva Jujuy](https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm) | 6:43 | 2023-12-08 |  |
 | [Trapos Colgantes](https://open.spotify.com/track/77e7WFSnVtgafRllsTW89d) | [Juan Cruz De Urquiza](https://open.spotify.com/artist/0nRwYzrk9wrf5ZIsvPuxwl) | [Lentes](https://open.spotify.com/album/3nQvu36vQOrnLla0fEd7gy) | 9:04 | 2023-12-08 | 2025-10-12 |

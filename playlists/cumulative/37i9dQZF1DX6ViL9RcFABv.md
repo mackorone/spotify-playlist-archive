@@ -2,7 +2,7 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto: Bárbara Tinoco, Mari Froes
+> Uma playlist de pura alma pop! Foto: ZARKO
 
 375 songs - 19 hr 48 min
 

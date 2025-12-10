@@ -2,9 +2,9 @@
 
 ### [Varsity Bars](https://open.spotify.com/playlist/37i9dQZF1DXdWMJMjqz9bm)
 
-> A little bit of pop, a little bit of rap, a little bit of country? Cover: bbno
+> A little bit of pop, a little bit of rap, a little bit of country? Cover: bbno$
 
-802 songs - 1 day 12 hr 43 min
+806 songs - 1 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [3, 2, 1](https://open.spotify.com/track/2hx8cZug1bgRMXgW5RCTUV) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:11 | 2022-07-12 | 2023-02-04 |
 | [3005](https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU) | 3:54 | 2022-04-04 | 2022-07-07 |
 | [500lbs](https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:24 | 2024-05-31 | 2025-05-17 |
+| [700 CLUB](https://open.spotify.com/track/3Jphy67bYJzDwmag3PKDAK) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [700 CLUB](https://open.spotify.com/album/4nw9TlcaIoNpw2nE53nXJz) | 3:00 | 2025-12-09 |  |
 | [95 DEGREES](https://open.spotify.com/track/55BJoJzQuogFLeqihumlm9) | [Ryan Hall](https://open.spotify.com/artist/22bvUzi8MgkpSKBWGB2vTJ) | [95 DEGREES](https://open.spotify.com/album/3RyBiLA0PeYZvz8IGU5ffO) | 3:02 | 2022-09-09 | 2022-10-15 |
 | [a letter from Anxiety](https://open.spotify.com/track/53pDouQQTGlSr4xYXoly6b) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [a letter from Anxiety](https://open.spotify.com/album/2aERHl2AJm4ODYswrJ9KR1) | 2:41 | 2022-10-21 | 2022-12-24 |
 | [Accusations](https://open.spotify.com/track/1f2lZUBaJBb0zlOCoqXfoB) | [Anella](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [831: The Series](https://open.spotify.com/album/46pKds8x2maGzkFGlcZncY) | 2:59 | 2025-05-30 | 2025-08-09 |
@@ -94,6 +95,7 @@
 | [bluebonnets](https://open.spotify.com/track/0bIHWAGW7gahdRc4JP2Eup) | [Austin George](https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D) | [bluebonnets](https://open.spotify.com/album/3m8HsFAaoCkcBq0dsk3ZpM) | 2:06 | 2021-11-16 | 2022-02-19 |
 | [Body Language](https://open.spotify.com/track/07ubAt43hun1eLEacA47Ew) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [Body Language](https://open.spotify.com/album/3RN5zcotxToQqV0q0m50Kg) | 2:22 | 2022-03-04 | 2022-06-04 |
 | [Bongo](https://open.spotify.com/track/42cYy1Sr8JfdgqJITI91aL) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [Bongo](https://open.spotify.com/album/1vhhvaZbVUwTa8YjqAJZMm) | 2:20 | 2021-11-16 | 2022-02-26 |
+| [BOO](https://open.spotify.com/track/5z3lA9udc15kVQ4S4OcTsa) | [H3adband](https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk) | [BOO](https://open.spotify.com/album/6eCKw4JH2vzTXGutRJ2Rhj) | 2:18 | 2025-12-09 |  |
 | [boom](https://open.spotify.com/track/6zhyXTuRkMSabSHvmMchpp) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [boom](https://open.spotify.com/album/2F9Hj91XXDt5FRvJyyLG6X) | 2:43 | 2025-05-02 | 2025-10-06 |
 | [Boom \(feat\. JID\)](https://open.spotify.com/track/512YmmPt5AELP0TLAdzSUW) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Pink Is Better](https://open.spotify.com/album/4Y17kPa7ZinOjwfpy6TW7A) | 2:34 | 2022-01-14 | 2022-05-20 |
 | [bootleg jordans](https://open.spotify.com/track/6zTAR03lZyin6kUopphnX6) | [Saint Lane](https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX), [Lily Papas](https://open.spotify.com/artist/2LDsVxtrG9fVXTNaL9oJNi) | [bootleg jordans](https://open.spotify.com/album/7fa2Uqk9DzkZySS50VBxmS) | 3:09 | 2022-03-18 | 2022-07-07 |
@@ -485,6 +487,7 @@
 | [NAUSEOUS](https://open.spotify.com/track/4L5ATobsBdlUoHgVG5LdKa) | [PERRIS](https://open.spotify.com/artist/28g5e8S0umbeXJOxmRZFMw) | [NAUSEOUS](https://open.spotify.com/album/61ZmBqFS4wXTwky1qojCvC) | 2:30 | 2025-05-27 | 2025-06-21 |
 | [Need To Know](https://open.spotify.com/track/6520wpFoQ6OdCjWIjGEbJa) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Need To Know](https://open.spotify.com/album/6lGyRPJfCuMSz93LqJBXuZ) | 2:54 | 2023-06-30 | 2023-09-09 |
 | [Neiman Marcus \(Hollywood\)](https://open.spotify.com/track/0ypg4T6esIqndywe7fiSUG) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Neiman Marcus \(Hollywood\)](https://open.spotify.com/album/0fOriXAONaoenGQi5nfOcl) | 2:10 | 2021-11-16 | 2022-02-19 |
+| [Nevada](https://open.spotify.com/track/2cEnKRR4dYBB2VA1mjlb1z) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Sincerely, Kentrell](https://open.spotify.com/album/4ssppGN0Qy4OeJTUDr1Etd) | 2:35 | 2025-12-09 |  |
 | [Never Enough](https://open.spotify.com/track/5EuDiFKa6RYAKOUz9XznSv) | [Kyle Beats Collective](https://open.spotify.com/artist/1jt0slkwCPorL4PeFoQtWZ), [Carter Cook](https://open.spotify.com/artist/0KHc7N6EG0MPyIgJCsEGff), [Justin Starling](https://open.spotify.com/artist/6W1bAsrekT64MxjeN9UCg0) | [Never Enough](https://open.spotify.com/album/4OCBrFbkWVm1CxNyOduQBO) | 2:39 | 2022-06-28 | 2022-09-10 |
 | [new girl](https://open.spotify.com/track/1fDzrEgkSL3T4pvYA1mWwa) | [Yung Crusha](https://open.spotify.com/artist/6y7kchnUStkpVQ0ul44fwv) | [new girl](https://open.spotify.com/album/56nmGuok31cjdoeFX0OyQR) | 2:05 | 2024-03-15 | 2024-10-19 |
 | [Nice For What](https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:30 | 2022-04-04 | 2022-04-09 |
@@ -550,6 +553,7 @@
 | [Pedal to Metal 2.0](https://open.spotify.com/track/1JO9geiAkd9qmfRDXmBJPT) | [Tyler Pigg](https://open.spotify.com/artist/4nJeXFj0prRJ1jWSa8x9K7), [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Pedal to Metal 2.0](https://open.spotify.com/album/4kalNj3jR7R0eIZVIJ5B3v) | 2:57 | 2025-04-14 | 2025-06-07 |
 | [Perfect](https://open.spotify.com/track/77cj905zkxzZ0BOUaMd9SM) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Perfect](https://open.spotify.com/album/6HFU5gAvlDMV22aoFeyRC8) | 3:34 | 2021-12-16 | 2022-02-26 |
 | [Peso](https://open.spotify.com/track/3tTpvK7QgjjQCKGnHt5xn3) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LIVE.LOVE.A$AP](https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5) | 2:49 | 2022-04-04 | 2022-04-09 |
+| [Phantom](https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:49 | 2025-12-09 |  |
 | [piccolo](https://open.spotify.com/track/5sG5EZKp6PoT7RnGEjjmUz) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [piccolo](https://open.spotify.com/album/6CawCRs087xs45bGR0Wz8K) | 2:00 | 2022-05-20 | 2022-07-09 |
 | [pick up the phone](https://open.spotify.com/track/4GXl8l1MfZPf2GvpyRPJBf) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [pick up the phone](https://open.spotify.com/album/4MDMfOdhV1IyoRnklwOHG9) | 4:12 | 2022-04-04 | 2022-07-07 |
 | [Pickup Lines](https://open.spotify.com/track/0q0PbcckJ29zcMkHqevGyB) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Pickup Lines](https://open.spotify.com/album/1SlVtVG8JmqGMOeXZaT9HF) | 2:59 | 2022-07-22 | 2022-10-01 |

@@ -1,12 +1,12 @@
 {
   "description": "Feel good songs yang bikin kamu happy",
-  "num_followers": 205861,
+  "num_followers": 205859,
   "original_name": "Yang Penting Happy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABcAz/CssnyyqXadCwf22rh3rPGs",
+  "snapshot_id": "AAAAACGTTOKamkt9miSaD6NHxNQuX78o",
   "tracks": [
     {
       "added_at": "2025-10-07 03:56:51",
@@ -93,6 +93,26 @@
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
     },
     {
+      "added_at": "2025-12-09 07:27:34",
+      "album": {
+        "name": "GHOST WORLD",
+        "url": "https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw"
+    },
+    {
       "added_at": "2025-11-12 04:22:03",
       "album": {
         "name": "Supermarket",
@@ -107,6 +127,38 @@
       "duration_ms": 184155,
       "name": "Supermarket",
       "url": "https://open.spotify.com/track/5TQq3QfG2tXGZum3GvBmkm"
+    },
+    {
+      "added_at": "2025-12-09 07:27:34",
+      "album": {
+        "name": "bandaids",
+        "url": "https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 188802,
+      "name": "bandaids",
+      "url": "https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh"
+    },
+    {
+      "added_at": "2025-12-09 07:27:34",
+      "album": {
+        "name": "Andalucia",
+        "url": "https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh"
+      },
+      "artists": [
+        {
+          "name": "IV OF SPADES",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "duration_ms": 180803,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/2WXfwMREEeDXnuhLF7TLtp"
     },
     {
       "added_at": "2025-11-04 14:16:21",

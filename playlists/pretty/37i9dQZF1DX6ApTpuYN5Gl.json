@@ -1,6 +1,6 @@
 {
   "description": "sad beats. deep vibes. ",
-  "num_followers": 243426,
+  "num_followers": 243419,
   "original_name": "melancholia",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,26 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/7aLYQgzGLy8duSSdTJa1ik"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
         "name": "Begin Again",
         "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
       },
@@ -459,42 +479,6 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 285093,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/7aLYQgzGLy8duSSdTJa1ik"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
-        "name": "Dancing Thing",
-        "url": "https://open.spotify.com/album/3Lc3AX7Ta7WsefbEAFplQr"
-      },
-      "artists": [
-        {
-          "name": "VisionV",
-          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
-        }
-      ],
-      "duration_ms": 184045,
-      "name": "Dancing Thing",
-      "url": "https://open.spotify.com/track/4M2pTJYh02HGpH3KqkGvoP"
-    },
-    {
-      "added_at": "2024-08-01 10:59:15",
-      "album": {
         "name": "The Last Goodbye Remixes N\u00b0.2",
         "url": "https://open.spotify.com/album/6DKA6hXo5KPvSBGLUL1kky"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 251903,
       "name": "This Version Of You - Joseph Ray Remix",
       "url": "https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy"
+    },
+    {
+      "added_at": "2024-08-01 10:59:15",
+      "album": {
+        "name": "Dancing Thing",
+        "url": "https://open.spotify.com/album/3Lc3AX7Ta7WsefbEAFplQr"
+      },
+      "artists": [
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        }
+      ],
+      "duration_ms": 184045,
+      "name": "Dancing Thing",
+      "url": "https://open.spotify.com/track/4M2pTJYh02HGpH3KqkGvoP"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -803,22 +803,22 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/7zA83f7raZgu5ve9msmeLH"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/3QEx4nahZb3ewLKs8b87UV"
       },
       "artists": [
         {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+          "name": "TCTS",
+          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
         },
         {
-          "name": "Sam Welch",
-          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
         }
       ],
-      "duration_ms": 177120,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/3vzBf1egEjRliBlnIJTW1T"
+      "duration_ms": 162644,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/3vkzxY2aRL7uhz2BIFzT0V"
     },
     {
       "added_at": "2024-08-01 10:59:15",
@@ -847,22 +847,22 @@
     {
       "added_at": "2024-08-01 10:59:15",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/3QEx4nahZb3ewLKs8b87UV"
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/7zA83f7raZgu5ve9msmeLH"
       },
       "artists": [
         {
-          "name": "TCTS",
-          "url": "https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io"
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
         },
         {
-          "name": "Non\u00f4",
-          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
+          "name": "Sam Welch",
+          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
         }
       ],
-      "duration_ms": 162644,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/3vkzxY2aRL7uhz2BIFzT0V"
+      "duration_ms": 177120,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/3vzBf1egEjRliBlnIJTW1T"
     },
     {
       "added_at": "2024-08-01 10:59:15",

@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-701 songs - 1 day 9 hr 58 min
+702 songs - 1 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Diamonds](https://open.spotify.com/track/0UEct6UTSjqEex8AHOUf5z) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 2:29 | 2024-01-15 | 2024-11-22 |
 | [Diamonds \(feat\. Fireboy DML\)](https://open.spotify.com/track/09JFIHQ8IPDKrbaDxTICxY) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Still The Mayor](https://open.spotify.com/album/0Ev8VZe0x9bTzf55gVQNeR) | 2:20 | 2025-06-13 | 2025-10-09 |
 | [Dis Kain Luv](https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Dis Kain Luv](https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1) | 2:32 | 2024-06-28 | 2025-05-26 |
-| [DIVE IN](https://open.spotify.com/track/4zwGCsh0qWBJYpKCJk2wBl) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [DIVE IN](https://open.spotify.com/album/0wcF2eQIGacMilWO8F3hTM) | 3:02 | 2025-09-19 |  |
+| [DIVE IN](https://open.spotify.com/track/4zwGCsh0qWBJYpKCJk2wBl) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [DIVE IN](https://open.spotify.com/album/0wcF2eQIGacMilWO8F3hTM) | 3:02 | 2025-09-19 | 2025-12-10 |
 | [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 | 2022-06-09 | 2023-12-08 |
 | [Do What U Want](https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Do What U Want](https://open.spotify.com/album/5h5r3CJHQL2fPrg1oMqCib) | 1:52 | 2023-11-03 | 2024-02-08 |
 | [Do You Mind?](https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Do You Mind?](https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw) | 2:27 | 2023-05-26 | 2023-09-29 |
@@ -242,6 +242,7 @@
 | [Fé](https://open.spotify.com/track/6bp9ivNIHLHqHFPIaqC40u) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [ÉLLÀH](https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt) | [Fé](https://open.spotify.com/album/2GDBdMFXsZRxL5fe7GnL5a) | 2:32 | 2024-10-04 | 2025-02-20 |
 | [Galbi](https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Galbi](https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1) | 2:23 | 2024-05-03 | 2024-11-22 |
 | [Gangnam Style](https://open.spotify.com/track/7wKzYOEaBcSBMHFRR7rUTF) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [That Uzere Boy](https://open.spotify.com/album/67Ba42lVPrFR5NzbuwE3i6) | 2:24 | 2023-07-14 | 2023-08-23 |
+| [Gaslighting](https://open.spotify.com/track/4NRPSJfx4FzTrPdP0R47Jx) | [Lemon Adisa](https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3), [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [Gaslighting](https://open.spotify.com/album/2rbWB52UsvVY0TGCSsNisf) | 2:51 | 2025-11-28 |  |
 | [Gbera](https://open.spotify.com/track/38jJ418fF4oKxZ4vTvZdvU) | [Pryme](https://open.spotify.com/artist/2BfAlovyHR2zzxNVhFo1VK), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Gbera](https://open.spotify.com/album/1hdcBkpvXUrsHaFFnbjEXh) | 2:46 | 2024-05-03 | 2024-05-18 |
 | [Gen\-Z Fuji](https://open.spotify.com/track/513bT5hsTWaLwIiwktuAPG) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5) | [Gen\-Z Fuji](https://open.spotify.com/album/0AkymHIm0pp983pVtsz9T9) | 2:02 | 2024-01-26 | 2024-03-29 |
 | [Girlie](https://open.spotify.com/track/5HVNHyJLAPhlmekOcn3US5) | [LOTi](https://open.spotify.com/artist/0urGBe1Pism9xlVVwOmExn) | [Girlie](https://open.spotify.com/album/06IU0KMq7bot1ayF7J3Vfc) | 2:27 | 2025-09-19 | 2025-10-24 |

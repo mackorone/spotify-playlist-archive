@@ -1,12 +1,12 @@
 {
   "description": "Groove to Desi chart-toppers and Bollywood\u2019s top TikTok hits &amp; Reels Anthems \u2014featuring Arijit Singh, Badshah, AP Dhillon, Shreya Ghoshal, Neha Kakkar, Sunidhi Chauhan, A.R. Rahman, Pritam, and Tanishk Bagchi!",
-  "num_followers": 227898,
+  "num_followers": 227943,
   "original_name": "Bollywood Top 50",
   "owner": {
     "name": "Filtr India",
     "url": "https://open.spotify.com/user/filtrindia"
   },
-  "snapshot_id": "AAAYDT31KVVX56H2bj4TKGR5TZFt4RX+",
+  "snapshot_id": "AAAYEfON7WGPrd4KAd9+2hPZMINJF6Mf",
   "tracks": [
     {
       "added_at": "2025-07-29 06:36:28",
@@ -427,6 +427,30 @@
       "duration_ms": 155590,
       "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/3QspmlfK7myCWJWWl2bywt"
+    },
+    {
+      "added_at": "2025-12-09 14:00:59",
+      "album": {
+        "name": "Ban Ke Dikha Ikkis (From \"Ikkis\")",
+        "url": "https://open.spotify.com/album/4J2vnSGmsEhlhkqczdt1Xf"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "White Noise Collectives",
+          "url": "https://open.spotify.com/artist/73vvjIbxF9MP8VZG3tthUC"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Ban Ke Dikha Ikkis (From \"Ikkis\")",
+      "url": "https://open.spotify.com/track/6Ivg5PNRGL5jsZJdHVliTi"
     },
     {
       "added_at": "2025-07-29 06:36:46",
@@ -2253,50 +2277,6 @@
       "url": "https://open.spotify.com/track/6bdpj89aYEBjhpsenXAsmO"
     },
     {
-      "added_at": "2023-03-20 10:48:09",
-      "album": {
-        "name": "Kal Ho Naa Ho (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE"
-      },
-      "artists": [
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
-        }
-      ],
-      "duration_ms": 321240,
-      "name": "Kal Ho Naa Ho",
-      "url": "https://open.spotify.com/track/251PNRmJU9KcUnFQAB5t6I"
-    },
-    {
-      "added_at": "2023-03-20 10:48:53",
-      "album": {
-        "name": "Dilwale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Antara Mitra",
-          "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
-        }
-      ],
-      "duration_ms": 237896,
-      "name": "Janam Janam",
-      "url": "https://open.spotify.com/track/4km0RUkMMFdx8iDuq36o2w"
-    },
-    {
       "added_at": "2023-03-20 10:49:55",
       "album": {
         "name": "Dilwale (Original Motion Picture Soundtrack)",
@@ -2319,6 +2299,26 @@
       "duration_ms": 345558,
       "name": "Gerua",
       "url": "https://open.spotify.com/track/7iLA6PQeQWRjLDHOJgGpj5"
+    },
+    {
+      "added_at": "2023-03-20 10:48:09",
+      "album": {
+        "name": "Kal Ho Naa Ho (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        }
+      ],
+      "duration_ms": 321240,
+      "name": "Kal Ho Naa Ho",
+      "url": "https://open.spotify.com/track/251PNRmJU9KcUnFQAB5t6I"
     },
     {
       "added_at": "2022-03-04 05:23:44",
@@ -2351,6 +2351,30 @@
       "duration_ms": 182400,
       "name": "Tere Bina - Khanvict Remix",
       "url": "https://open.spotify.com/track/2GVVNhSq5gq3rZF2b0UY5a"
+    },
+    {
+      "added_at": "2023-03-20 10:48:53",
+      "album": {
+        "name": "Dilwale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Antara Mitra",
+          "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
+        }
+      ],
+      "duration_ms": 237896,
+      "name": "Janam Janam",
+      "url": "https://open.spotify.com/track/4km0RUkMMFdx8iDuq36o2w"
     }
   ],
   "unique_name": "Bollywood Top 50",

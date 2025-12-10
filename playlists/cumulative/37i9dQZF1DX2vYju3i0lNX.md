@@ -4,7 +4,7 @@
 
 > Mellow jazz to stay focused or unwind.
 
-1,277 songs - 3 day 3 hr 5 min
+1,279 songs - 3 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Anja](https://open.spotify.com/track/4YKkseeTzwK9jMpgE3GvGY) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Anja](https://open.spotify.com/album/6XjE4PEl7HtfEOoKsGhPOO) | 4:14 | 2024-08-12 | 2025-11-19 |
 | [Another Day Gone By](https://open.spotify.com/track/5ovqTZt3VA1vVsVDv0ecE7) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Another Day Gone By](https://open.spotify.com/album/46hpO6Ecbxhs5FTzJtySpo) | 3:05 | 2023-10-06 | 2025-11-19 |
 | [Another Fairytale](https://open.spotify.com/track/6q49DPa2Q5D8ZNi6Hz62uJ) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Another Fairytale](https://open.spotify.com/album/5uCV7xBcsS9iJXd6UPKUr6) | 2:33 | 2024-04-10 | 2025-11-19 |
-| [Another way](https://open.spotify.com/track/280Vd5Lf980YfIJIc67vUr) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Another way](https://open.spotify.com/album/2kBYyZ9ufAfsQqoY5SYqaE) | 3:31 | 2024-05-23 |  |
+| [Another way](https://open.spotify.com/track/280Vd5Lf980YfIJIc67vUr) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Another way](https://open.spotify.com/album/2kBYyZ9ufAfsQqoY5SYqaE) | 3:31 | 2024-05-23 | 2025-12-10 |
 | [Answer Me](https://open.spotify.com/track/2fTGteXpvwsNG8K83YyhRb) | [Emergence Quartet](https://open.spotify.com/artist/0VzjGHBEq1AjqXabKQIRUm) | [A Promise](https://open.spotify.com/album/1XgXxxdonnIbTNWF4SZ5nz) | 5:53 | 2023-09-08 | 2024-08-13 |
 | [Anything Valuable](https://open.spotify.com/track/3CQ1gEocVfoT1qCm6jRs66) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [Anything Valuable](https://open.spotify.com/album/5WmYl5Ty01xWXOGBFndMcu) | 3:00 | 2023-08-10 | 2024-09-10 |
 | [Anything Valuable](https://open.spotify.com/track/5a7Q73tRHa4y1qXPT1VCdC) | [Jill & Henry](https://open.spotify.com/artist/4QkzpeG7jg03J4HrpXoTUi) | [Anything Valuable](https://open.spotify.com/album/7aDY8EF18etZAMxa1Rm2R7) | 3:46 | 2023-12-22 | 2024-12-10 |
@@ -237,6 +237,7 @@
 | [Closing Time](https://open.spotify.com/track/2qLTH8o4woaUd81rgUAeZp) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [Closing Time](https://open.spotify.com/album/6uvsg6dcwLw85DY6z4jMvh) | 3:36 | 2023-10-20 | 2025-11-19 |
 | [Cloud Gazing with Her](https://open.spotify.com/track/2It5saSY1cKq4b3F9TiEWT) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Cloud Gazing with Her](https://open.spotify.com/album/5qf0OJFsADPqkTNPSUGMGB) | 3:35 | 2024-02-02 | 2024-10-08 |
 | [Clouded Mind](https://open.spotify.com/track/1HaE5tQ6TF3XA0on2OgO7T) | [Par Noir](https://open.spotify.com/artist/0AbbEMo6kKsdeH9dDEMFG9) | [Clouded Mind](https://open.spotify.com/album/2ocMON2Jz9IaFlyUVDeqiV) | 3:27 | 2024-07-08 |  |
+| [Clouded Mirror](https://open.spotify.com/track/4gfr6S23jT6b6ioW1RLSTs) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Clouded Mirror](https://open.spotify.com/album/4iXl5dkAqUzi8sntOFvaWl) | 3:34 | 2025-12-09 |  |
 | [Clouds Across the Sky](https://open.spotify.com/track/0OUhJHr2nci0RHw8GPYL0q) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Clouds Across the Sky](https://open.spotify.com/album/4zEyjWpg4T9qTvF4JifMZ9) | 2:35 | 2024-06-11 |  |
 | [Cloudy Days](https://open.spotify.com/track/1pODhqs4Aha6fD3Suxfv0d) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Cloudy Days](https://open.spotify.com/album/542dNOx7fG1JsFFiEZaW2j) | 4:36 | 2023-10-06 | 2024-07-23 |
 | [Clown](https://open.spotify.com/track/2VTjEJyQl7vJbCvbza5112) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Clown](https://open.spotify.com/album/4Yd9VVoPUs5Fzu0cVVZ2uc) | 2:47 | 2025-04-15 |  |
@@ -456,6 +457,7 @@
 | [How About You](https://open.spotify.com/track/4tVteS21UzbqesfNG7uT8D) | [Neo Fourths Trio](https://open.spotify.com/artist/5lWDE7rJapJvf0NUUHc6xe) | [How About You](https://open.spotify.com/album/5DUxax2EBK8DvoRMmiEi7m) | 3:22 | 2023-10-13 | 2024-08-13 |
 | [How Long Has This Been Going On?](https://open.spotify.com/track/4C4nNem1wGqL8xXrE1Ak1e) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [How Long Has This Been Going On?](https://open.spotify.com/album/3W0jGlzSvEXMh9tL3d2x3P) | 4:57 | 2021-12-07 | 2022-09-20 |
 | [How She Walks](https://open.spotify.com/track/1OsZpyWuQeukRtfB9U8Tmk) | [West Village Trio](https://open.spotify.com/artist/6cIFYOs23Aowktaez0d6ew) | [How She Walks](https://open.spotify.com/album/3MJxreK1iSr3LH02oElQkp) | 4:39 | 2024-04-02 | 2024-11-06 |
+| [How Sincere](https://open.spotify.com/track/2rULXVAzHRCfkeb4EzOEPo) | [Frank Guardiola](https://open.spotify.com/artist/5gcPk6Qs7bOVFQDwH5xRcl) | [How Sincere](https://open.spotify.com/album/2R6o8e0quIy1TSjjZOVnRN) | 3:44 | 2025-12-09 |  |
 | [Hum Sweet Serenades](https://open.spotify.com/track/4HCsxaiFhQ5J6JZbsv9TUm) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [Hum Sweet Serenades](https://open.spotify.com/album/0XrvNpJzc7mLeoHBiuzbzF) | 3:03 | 2023-03-02 | 2025-11-19 |
 | [Hush of Dawn](https://open.spotify.com/track/5SWxseJy6QzD3bgIdHhA0I) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Hush of Dawn](https://open.spotify.com/album/1aNlMzhxcpkEKeNGUeQm6d) | 2:30 | 2024-05-30 |  |
 | [I Adore You](https://open.spotify.com/track/4LF5NvC0jVrKsevrY1kYJA) | [Santiago Brown](https://open.spotify.com/artist/48ApFINfc4zrFBfjNeFnQ1) | [I Adore You](https://open.spotify.com/album/7seM3v1aCwaJesoLWpNaQM) | 4:04 | 2025-03-18 |  |
@@ -1214,7 +1216,7 @@
 | [What's Life Without You](https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [In My Own Small World](https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl) | 4:18 | 2022-06-28 | 2025-06-06 |
 | [What's New](https://open.spotify.com/track/7KkuAiPMECCD5FB2sbDyU2) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [What's New](https://open.spotify.com/album/4EGFMBsIGjesECjoVb2uSD) | 2:51 | 2022-01-18 | 2025-02-04 |
 | [What’s It About?](https://open.spotify.com/track/3Boo42xOD5ZfPiCYjEXx1h) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [What’s It About?](https://open.spotify.com/album/0OryfredcYeA9NjVWMqhb7) | 2:41 | 2024-09-27 |  |
-| [When I Fall in Love](https://open.spotify.com/track/7n60jr6nUHjkc17NcdevpI) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [When I Fall in Love](https://open.spotify.com/album/3RLsGmAsvrEfy8KqmJEl5C) | 3:24 | 2025-05-05 |  |
+| [When I Fall in Love](https://open.spotify.com/track/7n60jr6nUHjkc17NcdevpI) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [When I Fall in Love](https://open.spotify.com/album/3RLsGmAsvrEfy8KqmJEl5C) | 3:24 | 2025-05-05 | 2025-12-10 |
 | [When I'm With You](https://open.spotify.com/track/65OGRaRlS5lnuj4AE0YVoj) | [Marc & Friends](https://open.spotify.com/artist/4jCJXUMoxVJn5ZVYMxLwnV) | [When I'm With You](https://open.spotify.com/album/4CssNcD3fXb3XZCtqnwTAe) | 3:37 | 2024-07-01 | 2025-01-08 |
 | [When Love Is Gone](https://open.spotify.com/track/2Nczjj8yaXkh6Q3w68N2Q6) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [When Love Is Gone](https://open.spotify.com/album/7oTWawtHkR0ZoDl63wlXBl) | 3:35 | 2023-09-22 | 2025-01-21 |
 | [When Sunny Gets Blue](https://open.spotify.com/track/4BD8y4GDB03dHeFnAMEtlz) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Before You Leave](https://open.spotify.com/album/009Rfs9urNO7gmuxYWkrWf) | 3:59 | 2021-12-07 | 2022-08-31 |

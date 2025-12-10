@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 38023,
+  "num_followers": 38028,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTTDgAAAAABlZ4tdeJ2DZ3LCeaf01DhO",
+  "snapshot_id": "aTYVAAAAAADIl/jM8SCVhk6yFTmXMz2U",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 148580,
-      "name": "VOIDWARD, I BEND BACK",
-      "url": "https://open.spotify.com/track/1X3cCp55Pui90xhNa8X6zL"
+      "duration_ms": 198003,
+      "name": "Ash Speck in a Green Eye",
+      "url": "https://open.spotify.com/track/3MIpe4qqcTLRKsWEyaxnfx"
     },
     {
       "added_at": null,
@@ -260,15 +260,15 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 198003,
-      "name": "Ash Speck in a Green Eye",
-      "url": "https://open.spotify.com/track/3MIpe4qqcTLRKsWEyaxnfx"
+      "duration_ms": 148580,
+      "name": "VOIDWARD, I BEND BACK",
+      "url": "https://open.spotify.com/track/1X3cCp55Pui90xhNa8X6zL"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Crash Love",
-        "url": "https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I"
+        "name": "Shut Your Mouth And Open Your Eyes",
+        "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 226026,
-      "name": "Beautiful Thieves",
-      "url": "https://open.spotify.com/track/1HZsS7bmZvn3TzCyI0Vs2C"
+      "duration_ms": 132000,
+      "name": "A Single Second",
+      "url": "https://open.spotify.com/track/3kAxXpkSl233HRCa5V8OGr"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shut Your Mouth And Open Your Eyes",
-        "url": "https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB"
+        "name": "Crash Love",
+        "url": "https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 132000,
-      "name": "A Single Second",
-      "url": "https://open.spotify.com/track/3kAxXpkSl233HRCa5V8OGr"
+      "duration_ms": 226026,
+      "name": "Beautiful Thieves",
+      "url": "https://open.spotify.com/track/1HZsS7bmZvn3TzCyI0Vs2C"
     },
     {
       "added_at": null,

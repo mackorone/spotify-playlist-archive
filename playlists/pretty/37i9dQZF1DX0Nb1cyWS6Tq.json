@@ -1,6 +1,6 @@
 {
   "description": "Release the bats... The Cure on cover.",
-  "num_followers": 935606,
+  "num_followers": 935695,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
+        "name": "In Flickers",
+        "url": "https://open.spotify.com/album/3bBAVkxSwk1ZzNH1873nUI"
+      },
+      "artists": [
+        {
+          "name": "Lycia",
+          "url": "https://open.spotify.com/artist/6D2FZCqwDafnI49jrFYROE"
+        }
+      ],
+      "duration_ms": 297330,
+      "name": "A Failure",
+      "url": "https://open.spotify.com/track/7m7tomE2aqrzEBuVpflp2l"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
         "name": "Cosm\u00f3dromo",
         "url": "https://open.spotify.com/album/2oxzZvPi4tKqFj6rh3FfTC"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 231506,
       "name": "Watersong",
       "url": "https://open.spotify.com/track/60kgQtJNMGRaFfzwy18XUY"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "In Flickers",
-        "url": "https://open.spotify.com/album/3bBAVkxSwk1ZzNH1873nUI"
-      },
-      "artists": [
-        {
-          "name": "Lycia",
-          "url": "https://open.spotify.com/artist/6D2FZCqwDafnI49jrFYROE"
-        }
-      ],
-      "duration_ms": 297330,
-      "name": "A Failure",
-      "url": "https://open.spotify.com/track/7m7tomE2aqrzEBuVpflp2l"
     }
   ],
   "unique_name": "Dark & Gothic",

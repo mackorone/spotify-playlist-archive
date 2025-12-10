@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs this year, handpicked by Spotify Canada editors\. Cover: Rochelle Jordan
 
-[Spotify](https://open.spotify.com/user/spotify) - 174 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 185 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 34 | [Feeling Fine](https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Feeling Fine](https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx) | 2:48 |
 | 35 | [Lost In Time](https://open.spotify.com/track/5bcttbbSEVPrDZE7Z11xMZ) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [GET BENT!](https://open.spotify.com/album/2HywdkQAKc7OzWUr90ZT5h) | 2:52 |
 | 36 | [Big Wop](https://open.spotify.com/track/3T5InY7wLZTcZi64wtQwrc) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Big Wop](https://open.spotify.com/album/5tIUGhDgouDAJzJCb2ZOVz) | 1:38 |
-| 37 | [Sleeping With The Lights On](https://open.spotify.com/track/2zRdyubV53J3YUiTLR8pDl) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Sleeping With The Lights On \(Slowed Down & Sped Up\)](https://open.spotify.com/album/6eZHdpbkAXvoHxulVhcLO2) | 4:59 |
+| 37 | [Sleeping with the Lights On](https://open.spotify.com/track/2zRdyubV53J3YUiTLR8pDl) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Sleeping with the Lights On \(Slowed Down & Sped Up\)](https://open.spotify.com/album/6eZHdpbkAXvoHxulVhcLO2) | 4:59 |
 | 38 | [Focus](https://open.spotify.com/track/4NS6CJXfOgTT7INXPEwOQM) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Falling Into Place](https://open.spotify.com/album/6kiNbfqDF1N0OVOc58W2EQ) | 3:03 |
 | 39 | [Art of War](https://open.spotify.com/track/7FdS8jLabsc3ym9VY8kGjK) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Art of War](https://open.spotify.com/album/3PqJN4iYjY0IpMBPZqspwm) | 2:06 |
 | 40 | [THE FALL](https://open.spotify.com/track/3etZS43RlC7tGPG5M90aN4) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [The Sky Is Recording Me: 100 Years Later, Vol\. 3](https://open.spotify.com/album/2ghjL5JT1VKSNcshmqjrbM) | 3:20 |

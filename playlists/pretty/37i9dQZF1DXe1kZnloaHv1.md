@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1kZnloaHv1.md) - [plain]
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,851 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,857 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1kZnloaHv1.md) - [plain]
 | 50 | [Myself](https://open.spotify.com/track/08GrGvZfn5yHsfSjyP5Jal) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Myself](https://open.spotify.com/album/29izPD2H1NDTySqBFuLBzH) | 3:18 |
 | 51 | [나인데](https://open.spotify.com/track/03a3V3WdtWcNCvFr8S2i26) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [나인데](https://open.spotify.com/album/6EhGT1web7FrTH942QvH1B) | 2:41 |
 | 52 | [When do I get that chicken?](https://open.spotify.com/track/2qeNam9eMMKZ5TuFjbDMkF) | [OFF THE TOWN](https://open.spotify.com/artist/51BaBbyJMybOQKMUSYhi0z) | [When do I get that chicken?](https://open.spotify.com/album/3gio8FNEYMEB9CwKyzOtjI) | 3:16 |
-| 53 | [놀래!](https://open.spotify.com/track/7i7UcFcEpbY3Ihzv1KZBi7) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Every DAY6 August](https://open.spotify.com/album/3ElTy5eVezQCNrgAbTii5m) | 3:16 |
+| 53 | [놀래! Whatever!](https://open.spotify.com/track/7i7UcFcEpbY3Ihzv1KZBi7) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Every DAY6 August](https://open.spotify.com/album/3ElTy5eVezQCNrgAbTii5m) | 3:16 |
 | 54 | [원래 이래](https://open.spotify.com/track/01B3FayTL6QIffJ2dK5fHf) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [The Way I Am](https://open.spotify.com/album/6E1Qw5tiLmmIErOTfOfGiG) | 2:37 |
 | 55 | [Idle Idle](https://open.spotify.com/track/1UQwsPOADoGFZJG4niN2dt) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Idle Idle](https://open.spotify.com/album/7qXsLvOkV8q01jNSINeGrb) | 3:38 |
 | 56 | [naps!](https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [naps!](https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq) | 3:25 |

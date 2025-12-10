@@ -168,7 +168,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 184823,
       "name": "Cocaina (feat. Emy Perez)",
       "url": "https://open.spotify.com/track/6M7SrgWmctDecpmE31qDzO"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 146083,
       "name": "HUTS - Outsiders & The Darkraver Remix",
       "url": "https://open.spotify.com/track/5flW9RYORo5SH5XEF7dcIf"
@@ -1410,6 +1410,28 @@
     {
       "album": {
         "name": "We Komen Terug",
+        "url": "https://open.spotify.com/album/5UqxdIOij5LRc15mdauC07"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Django Wagner",
+          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274377,
+      "name": "We Komen Terug",
+      "url": "https://open.spotify.com/track/1apqmtB0RRQuF7YMgNd5aF"
+    },
+    {
+      "album": {
+        "name": "We Komen Terug",
         "url": "https://open.spotify.com/album/2eUhnvTuJRayijNLBOzHoG"
       },
       "artists": [
@@ -1424,7 +1446,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 274377,
       "name": "We Komen Terug",
       "url": "https://open.spotify.com/track/7fzc0VslkvObn5VfBw6cr7"

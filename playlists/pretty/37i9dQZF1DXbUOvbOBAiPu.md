@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from FLEMMING & Metejoor, Jul, Selah Sue, Sam Fender and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,966 likes - 94 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,962 likes - 94 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 30 | [Kroegentocht](https://open.spotify.com/track/4La3UzkRZnOUmF4b5Dfton) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Kroegentocht](https://open.spotify.com/album/1wl7El00tpdFrdCqC8kPMP) | 2:33 |
 | 31 | [Your Girl](https://open.spotify.com/track/0k3roLtPavP9mELw0F11Aa) | [Blu Samu](https://open.spotify.com/artist/6RcPiWIVptnyi8y3EIbDLB) | [Your Girl](https://open.spotify.com/album/58DtrUMkV1VwMQBk0TkAAL) | 3:53 |
 | 32 | [Constant Wave On A Rock](https://open.spotify.com/track/3haUjpR8bZdpOy6FNqCjf5) | [The Hickey Underworld](https://open.spotify.com/artist/2MQPjAyvdDotQXwvKPAxam) | [Constant Wave On A Rock](https://open.spotify.com/album/1RsWCfda5CeLJqYCWLGRaQ) | 3:21 |
-| 33 | [J'aimerais](https://open.spotify.com/track/3hJwN37tfEiFMfdfIYo9O2) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA), [Orlane](https://open.spotify.com/artist/2hw9I0HXNDcxp3jQAq6r22) | [ENDLESS RECESS](https://open.spotify.com/album/3OhzYZ9lAGHFevjvIMZUF6) | 4:26 |
+| 33 | [J'aimerais](https://open.spotify.com/track/3hJwN37tfEiFMfdfIYo9O2) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA), [Orlane](https://open.spotify.com/artist/1rdoaK2hCE8hLoOjKXSDNF) | [ENDLESS RECESS](https://open.spotify.com/album/3OhzYZ9lAGHFevjvIMZUF6) | 4:26 |
 | 34 | [Come With Me](https://open.spotify.com/track/1l9fvcwmcOrrffYbFHiG2D) | [FÄM](https://open.spotify.com/artist/0GRkFcHaRm50dImpZMc8eG) | [A Little Something](https://open.spotify.com/album/7fCnC3hvrz399ruuyUVNvB) | 3:04 |
 | 35 | [Smooth Boy](https://open.spotify.com/track/26vQYGNXtd4Qz3yavoq2J7) | [Hulk](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [Smooth Boy](https://open.spotify.com/album/7eUGHFdB2vChzStX6avBQ0) | 2:28 |
 | 36 | [behind the wheel](https://open.spotify.com/track/78Fld0peZ9MvuCxM7GRuRb) | [MEYY](https://open.spotify.com/artist/6ovTUUvyWpxSigzDhtfVs5) | [behind the wheel](https://open.spotify.com/album/2I7F2BYMBUpJN85dO1okbp) | 3:07 |

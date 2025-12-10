@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Dec 23:05 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Dec 09:06 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -62763,6 +62763,24 @@
     },
     {
       "album": {
+        "name": "MEU CEMIT\u00c9RIO",
+        "url": "https://open.spotify.com/album/3Cqy67s3ZgJXzpTTEOV3EL"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207179,
+      "name": "MEU CEMIT\u00c9RIO",
+      "url": "https://open.spotify.com/track/0h9GmCGvM0meVHfF0XrnHJ"
+    },
+    {
+      "album": {
         "name": "MF Mosh Pit",
         "url": "https://open.spotify.com/album/2TzphxYpyPBilfWRJClNPk"
       },
@@ -73340,7 +73358,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 200963,
       "name": "Parasocial Christ",
       "url": "https://open.spotify.com/track/5v2qSbA4BeIKhhBSHbfH6i"
@@ -73982,7 +74000,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-10",
       "duration_ms": 118356,
       "name": "PEPPER",
       "url": "https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE"
@@ -80262,6 +80280,32 @@
       "duration_ms": 171973,
       "name": "Ring Ring",
       "url": "https://open.spotify.com/track/0lJvkAuv7HLOz13qdmbpNx"
+    },
+    {
+      "album": {
+        "name": "RING THE ALARM",
+        "url": "https://open.spotify.com/album/28NiaM4URrr1SBbJG0WcTV"
+      },
+      "artists": [
+        {
+          "name": "TOMORA",
+          "url": "https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331413,
+      "name": "RING THE ALARM",
+      "url": "https://open.spotify.com/track/4ewxZwUwLeMZEMWF1CRLeG"
     },
     {
       "album": {

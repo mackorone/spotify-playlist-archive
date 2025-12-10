@@ -4,7 +4,7 @@
 
 > Feel good songs yang bikin kamu happy
 
-325 songs - 18 hr 15 min
+328 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Baddie](https://open.spotify.com/track/6dSQWc2BR0btXmnOgasn49) | [Muztang](https://open.spotify.com/artist/2rRnMRqRBtiMVldHf2Zplw), [Yacko](https://open.spotify.com/artist/0UzB5HoYpXb7PtfrggXQqo) | [Baddie](https://open.spotify.com/album/5wJ4CLODqLMhn4VaOarivQ) | 3:21 | 2025-08-03 | 2025-09-08 |
 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 | 2023-06-20 | 2024-08-30 |
 | [Bahagia YHA!](https://open.spotify.com/track/3v6Y2Mzb7oK4GzfCW9Z89z) | [GAC \(Gamaliél Audrey Cantika\)](https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW) | [Lagu\-Lagu Cemara \(OST\. Musikal Keluarga Cemara\)](https://open.spotify.com/album/6XX5LqreD0BoqQmTbQYiJq) | 4:03 | 2025-07-28 |  |
+| [bandaids](https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [bandaids](https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX) | 3:08 | 2025-12-09 |  |
 | [Batman Kasarung](https://open.spotify.com/track/5eSX2bWSKWHuviCw4mDRTA) | [Iwa K](https://open.spotify.com/artist/5V4Bmxj6CowUoOdcLUEQPt) | [Kuingin Kembali](https://open.spotify.com/album/6csTMn4GNFA9KwMTnlFW3C) | 4:26 | 2025-08-03 | 2025-09-08 |
 | [Bawa Daku Pergi](https://open.spotify.com/track/7mZOZpsfwVOnLjznR8XtiR) | [Soundwave](https://open.spotify.com/artist/2KMR8kfHQCPYJ2SatjkIEu), [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh), [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O) | [Bawa Daku Pergi](https://open.spotify.com/album/15CnCIgyXksZs7sZBS8o0h) | 3:11 | 2025-06-23 | 2025-10-08 |
 | [Bebas](https://open.spotify.com/track/7uNOlS0fNOYI1ZSzpvGqGm) | [Iwa K](https://open.spotify.com/artist/5V4Bmxj6CowUoOdcLUEQPt) | [Topeng](https://open.spotify.com/album/25Z8rOQfqkOspgEjVmZdCM) | 3:36 | 2025-08-03 | 2025-09-08 |
@@ -126,6 +127,7 @@
 | [Heat](https://open.spotify.com/track/7gn1dVwAYxmzpj5peCAOWt) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Heat](https://open.spotify.com/album/3fAes6kOJqF8H5IumD0aik) | 2:51 | 2025-07-07 | 2025-09-17 |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2022-12-13 | 2024-08-30 |
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-03-30 | 2024-04-19 |
+| [Heaven](https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [GHOST WORLD](https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK) | 3:25 | 2025-12-09 |  |
 | [Heaven](https://open.spotify.com/track/0vtnYQ2A6o2fuEWim7DRYy) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk), [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Heaven](https://open.spotify.com/album/3ZlxavMQWzOa0dfcRrCUpi) | 3:44 | 2023-01-09 | 2024-08-08 |
 | [Herex](https://open.spotify.com/track/2H2fxumEgZPbfC4GxO930D) | [GNARLY CLUB](https://open.spotify.com/artist/3r0OEatK1jmPYA8Yz9dbZ7), [CHA1NZ](https://open.spotify.com/artist/0vtUTiCQ0kEuBcSzbRdhcF), [Trico](https://open.spotify.com/artist/1F9dlchjFRruemNF373U61), [Jafarsnd](https://open.spotify.com/artist/4yoyBwgp5SusGJUrgT5WdO), [JBK](https://open.spotify.com/artist/634peVyWfpfvrKiDzIESs6) | [Face the Reaper \(Guide to Gnarcissist Realm\)](https://open.spotify.com/album/6SWMnAOio5Z9h566k7D7z0) | 2:24 | 2025-08-03 | 2025-09-08 |
 | [High School in Jakarta](https://open.spotify.com/track/0r6oCPoDuCOXvEPOPV6UXN) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [High School in Jakarta](https://open.spotify.com/album/3QtwI1FUvH2kCD9Y5HaG9y) | 3:39 | 2022-12-13 | 2025-06-03 |
@@ -202,6 +204,7 @@
 | [Miliki Aku](https://open.spotify.com/track/6oe0zbMjH8rQAbQQUjVZ0u) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Miliki Aku](https://open.spotify.com/album/3OFKmugE12oDluNxHELmry) | 3:11 | 2025-03-24 | 2025-06-03 |
 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-06-20 | 2023-10-12 |
 | [Monokrom](https://open.spotify.com/track/4GfK1qOF3uBWidbPlTCQRL) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Monokrom](https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ) | 3:34 | 2022-12-23 | 2023-01-10 |
+| [Monster](https://open.spotify.com/track/2WXfwMREEeDXnuhLF7TLtp) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:00 | 2025-12-09 |  |
 | [Mood \(feat\. iann dior\)](https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:20 | 2022-12-13 | 2023-06-21 |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-22 |  |
 | [N.B.S.M](https://open.spotify.com/track/3DvJfW57cLBmhsqGDIZ9VJ) | [GNARLY CLUB](https://open.spotify.com/artist/3r0OEatK1jmPYA8Yz9dbZ7), [CHA1NZ](https://open.spotify.com/artist/0vtUTiCQ0kEuBcSzbRdhcF), [Bamskee](https://open.spotify.com/artist/45DRdlbDYzu44HEFCrJOue) | [Face the Reaper \(Guide to Gnarcissist Realm\)](https://open.spotify.com/album/6SWMnAOio5Z9h566k7D7z0) | 2:04 | 2025-08-03 | 2025-09-08 |

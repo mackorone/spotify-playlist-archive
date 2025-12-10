@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: metro",
-  "num_followers": 24533,
+  "num_followers": 24535,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2025-12-05 11:37:40",
       "album": {
+        "name": "Happy End",
+        "url": "https://open.spotify.com/album/3mX7EsVUFJWupywxSmmOVa"
+      },
+      "artists": [
+        {
+          "name": "Aria Martelle",
+          "url": "https://open.spotify.com/artist/4eD0JcSnBvEtyvY3QF2U0K"
+        }
+      ],
+      "duration_ms": 146068,
+      "name": "Happy End",
+      "url": "https://open.spotify.com/track/0HkaC7DTxaRhYZToZBK0lc"
+    },
+    {
+      "added_at": "2025-12-05 11:37:40",
+      "album": {
         "name": "Wyjmij mnie",
         "url": "https://open.spotify.com/album/5jm4PXSEak02Eknn9Iimfj"
       },
@@ -403,18 +419,18 @@
     {
       "added_at": "2025-12-05 11:37:40",
       "album": {
-        "name": "Happy End",
-        "url": "https://open.spotify.com/album/3mX7EsVUFJWupywxSmmOVa"
+        "name": "Czemu pozwoli\u0142e\u015b kocha\u0107?",
+        "url": "https://open.spotify.com/album/4iz3J2ypdRCNHmF406gHOx"
       },
       "artists": [
         {
-          "name": "Aria Martelle",
-          "url": "https://open.spotify.com/artist/4eD0JcSnBvEtyvY3QF2U0K"
+          "name": "Iga Jaworska",
+          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
         }
       ],
-      "duration_ms": 146068,
-      "name": "Happy End",
-      "url": "https://open.spotify.com/track/0HkaC7DTxaRhYZToZBK0lc"
+      "duration_ms": 150000,
+      "name": "Czemu pozwoli\u0142e\u015b kocha\u0107?",
+      "url": "https://open.spotify.com/track/00ITfmQnKbU69YUMimdI1U"
     },
     {
       "added_at": "2025-12-05 11:37:40",
@@ -455,22 +471,6 @@
       "duration_ms": 317013,
       "name": "Czerwiec",
       "url": "https://open.spotify.com/track/5DOmpafBNAJrBoZZHigYfX"
-    },
-    {
-      "added_at": "2025-12-05 11:37:40",
-      "album": {
-        "name": "Czemu pozwoli\u0142e\u015b kocha\u0107?",
-        "url": "https://open.spotify.com/album/4iz3J2ypdRCNHmF406gHOx"
-      },
-      "artists": [
-        {
-          "name": "Iga Jaworska",
-          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Czemu pozwoli\u0142e\u015b kocha\u0107?",
-      "url": "https://open.spotify.com/track/00ITfmQnKbU69YUMimdI1U"
     },
     {
       "added_at": "2025-12-05 11:37:40",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-12-05 11:37:40",
       "album": {
-        "name": "Rany, chyba nie daj\u0119 rady",
-        "url": "https://open.spotify.com/album/3AHA96h9aCxmLQky5ci8F2"
-      },
-      "artists": [
-        {
-          "name": "dezydery",
-          "url": "https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE"
-        }
-      ],
-      "duration_ms": 151038,
-      "name": "Rany, chyba nie daj\u0119 rady",
-      "url": "https://open.spotify.com/track/7p5U4cxuko3T7GuIG8nXx7"
-    },
-    {
-      "added_at": "2025-12-05 11:37:40",
-      "album": {
         "name": "Nienawidzisz",
         "url": "https://open.spotify.com/album/2FKdXqSCSlmXVcaBlZzxMk"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 236249,
       "name": "Nienawidzisz",
       "url": "https://open.spotify.com/track/3hZY4ACHC3uSFZo4h8DWp8"
+    },
+    {
+      "added_at": "2025-12-05 11:37:40",
+      "album": {
+        "name": "Rany, chyba nie daj\u0119 rady",
+        "url": "https://open.spotify.com/album/3AHA96h9aCxmLQky5ci8F2"
+      },
+      "artists": [
+        {
+          "name": "dezydery",
+          "url": "https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE"
+        }
+      ],
+      "duration_ms": 151038,
+      "name": "Rany, chyba nie daj\u0119 rady",
+      "url": "https://open.spotify.com/track/7p5U4cxuko3T7GuIG8nXx7"
     },
     {
       "added_at": "2025-12-05 11:37:40",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-12-05 11:37:40",
       "album": {
+        "name": "To nie by\u0142o ciep\u0142e lato :(",
+        "url": "https://open.spotify.com/album/6gOXOvZJlD7AzXne8Rbb7y"
+      },
+      "artists": [
+        {
+          "name": "nago",
+          "url": "https://open.spotify.com/artist/1SffW2FKbStzVnMBdBwSy6"
+        }
+      ],
+      "duration_ms": 181249,
+      "name": "Satelita",
+      "url": "https://open.spotify.com/track/2hM6x0FnAA0lLONNf4JmQA"
+    },
+    {
+      "added_at": "2025-12-05 11:37:40",
+      "album": {
         "name": "To dopiero pocz\u0105tek",
         "url": "https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 205120,
       "name": "Koniec",
       "url": "https://open.spotify.com/track/71bxgWtZXnLiJwEYqywrwV"
-    },
-    {
-      "added_at": "2025-12-05 11:37:40",
-      "album": {
-        "name": "To nie by\u0142o ciep\u0142e lato :(",
-        "url": "https://open.spotify.com/album/6gOXOvZJlD7AzXne8Rbb7y"
-      },
-      "artists": [
-        {
-          "name": "nago",
-          "url": "https://open.spotify.com/artist/1SffW2FKbStzVnMBdBwSy6"
-        }
-      ],
-      "duration_ms": 181249,
-      "name": "Satelita",
-      "url": "https://open.spotify.com/track/2hM6x0FnAA0lLONNf4JmQA"
     },
     {
       "added_at": "2025-12-05 11:37:40",
@@ -795,34 +795,18 @@
     {
       "added_at": "2025-12-05 11:37:40",
       "album": {
-        "name": "jesie\u0144",
-        "url": "https://open.spotify.com/album/3SJym37rMN5fMO5H5E06WZ"
+        "name": "Umiem kocha\u0107 Ci\u0119 tak ca\u0142kiem na powa\u017cnie",
+        "url": "https://open.spotify.com/album/3hSt7QkmnsUPgl8zkr9Pom"
       },
       "artists": [
         {
-          "name": "stickxr",
-          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+          "name": "Fida",
+          "url": "https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6"
         }
       ],
-      "duration_ms": 124347,
-      "name": "jesie\u0144",
-      "url": "https://open.spotify.com/track/6pty2jiElxYbooIRAnXnfe"
-    },
-    {
-      "added_at": "2025-12-05 11:37:40",
-      "album": {
-        "name": "Kwiaty",
-        "url": "https://open.spotify.com/album/2pMNIDatMHgxf3T5CdjiTB"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0142osz Skierski",
-          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
-        }
-      ],
-      "duration_ms": 168661,
-      "name": "Kwiaty",
-      "url": "https://open.spotify.com/track/17oIHzuMJopfkzLuvSHzSR"
+      "duration_ms": 161519,
+      "name": "Za kulisami",
+      "url": "https://open.spotify.com/track/1tlywl3igNTLsJGdZ1pTJf"
     },
     {
       "added_at": "2025-12-05 11:37:40",
@@ -843,18 +827,18 @@
     {
       "added_at": "2025-12-05 11:37:40",
       "album": {
-        "name": "NAD RANEM",
-        "url": "https://open.spotify.com/album/5QXG3wphlrSN8iF97n7Mkv"
+        "name": "Kwiaty",
+        "url": "https://open.spotify.com/album/2pMNIDatMHgxf3T5CdjiTB"
       },
       "artists": [
         {
-          "name": "Piotr Odoszewski",
-          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
         }
       ],
-      "duration_ms": 273000,
-      "name": "NAD RANEM",
-      "url": "https://open.spotify.com/track/3WOdMYBgZJBKKqMVzU3ndj"
+      "duration_ms": 168661,
+      "name": "Kwiaty",
+      "url": "https://open.spotify.com/track/17oIHzuMJopfkzLuvSHzSR"
     },
     {
       "added_at": "2025-12-05 11:37:40",
@@ -871,6 +855,38 @@
       "duration_ms": 238978,
       "name": "KEEPITUP",
       "url": "https://open.spotify.com/track/0JRvK2JDWcQ6lduFvJgdCv"
+    },
+    {
+      "added_at": "2025-12-05 11:37:40",
+      "album": {
+        "name": "NAD RANEM",
+        "url": "https://open.spotify.com/album/5QXG3wphlrSN8iF97n7Mkv"
+      },
+      "artists": [
+        {
+          "name": "Piotr Odoszewski",
+          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "NAD RANEM",
+      "url": "https://open.spotify.com/track/3WOdMYBgZJBKKqMVzU3ndj"
+    },
+    {
+      "added_at": "2025-12-05 11:37:40",
+      "album": {
+        "name": "jesie\u0144",
+        "url": "https://open.spotify.com/album/3SJym37rMN5fMO5H5E06WZ"
+      },
+      "artists": [
+        {
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+        }
+      ],
+      "duration_ms": 124347,
+      "name": "jesie\u0144",
+      "url": "https://open.spotify.com/track/6pty2jiElxYbooIRAnXnfe"
     },
     {
       "added_at": "2025-12-05 11:37:40",
@@ -951,22 +967,6 @@
     {
       "added_at": "2025-12-05 11:37:40",
       "album": {
-        "name": "8 piosenek o mi\u0142o\u015bci",
-        "url": "https://open.spotify.com/album/3ahEDNAQfFCsUZqjRYaXcG"
-      },
-      "artists": [
-        {
-          "name": "Marcin Maciejczak",
-          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Mi\u0142o\u015bci",
-      "url": "https://open.spotify.com/track/3HlomvmvwMNdo1z7DCuG93"
-    },
-    {
-      "added_at": "2025-12-05 11:37:40",
-      "album": {
         "name": "Nikt nie kocha tak jak my",
         "url": "https://open.spotify.com/album/6lhSc2frDZ90V9cEUx46ii"
       },
@@ -983,18 +983,34 @@
     {
       "added_at": "2025-12-05 11:37:40",
       "album": {
-        "name": "Umiem kocha\u0107 Ci\u0119 tak ca\u0142kiem na powa\u017cnie",
-        "url": "https://open.spotify.com/album/3hSt7QkmnsUPgl8zkr9Pom"
+        "name": "8 piosenek o mi\u0142o\u015bci",
+        "url": "https://open.spotify.com/album/3ahEDNAQfFCsUZqjRYaXcG"
       },
       "artists": [
         {
-          "name": "Fida",
-          "url": "https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6"
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
         }
       ],
-      "duration_ms": 161519,
-      "name": "Za kulisami",
-      "url": "https://open.spotify.com/track/1tlywl3igNTLsJGdZ1pTJf"
+      "duration_ms": 150000,
+      "name": "Mi\u0142o\u015bci",
+      "url": "https://open.spotify.com/track/3HlomvmvwMNdo1z7DCuG93"
+    },
+    {
+      "added_at": "2025-12-05 11:37:40",
+      "album": {
+        "name": "dooko\u0142a mnie",
+        "url": "https://open.spotify.com/album/7AF2nxYKHzJM1C7PpI94og"
+      },
+      "artists": [
+        {
+          "name": "emi",
+          "url": "https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu"
+        }
+      ],
+      "duration_ms": 124259,
+      "name": "dooko\u0142a mnie",
+      "url": "https://open.spotify.com/track/34QjFSfFR6oi9nUKb0jLWA"
     },
     {
       "added_at": "2025-12-05 11:37:40",
@@ -1015,22 +1031,6 @@
       "duration_ms": 184390,
       "name": "A\u0142\u0142tobus",
       "url": "https://open.spotify.com/track/2z7xuv9dKI7ECJwMXREnyC"
-    },
-    {
-      "added_at": "2025-12-05 11:37:40",
-      "album": {
-        "name": "dooko\u0142a mnie",
-        "url": "https://open.spotify.com/album/7AF2nxYKHzJM1C7PpI94og"
-      },
-      "artists": [
-        {
-          "name": "emi",
-          "url": "https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu"
-        }
-      ],
-      "duration_ms": 124259,
-      "name": "dooko\u0142a mnie",
-      "url": "https://open.spotify.com/track/34QjFSfFR6oi9nUKb0jLWA"
     },
     {
       "added_at": "2025-12-05 11:37:40",

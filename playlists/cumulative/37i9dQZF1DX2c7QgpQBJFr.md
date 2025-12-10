@@ -4,7 +4,7 @@
 
 > La nuova scena pop italiana 🇮🇹  cover: Voga
 
-1,000 songs - 1 day 23 hr 22 min
+1,001 songs - 1 day 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -769,6 +769,7 @@
 | [Ragione e Follia](https://open.spotify.com/track/3AKqs2n900YLNiayeLnTUJ) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc), [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [Ragione e Follia](https://open.spotify.com/album/1CBt7d71THAwB6RL2d3Yio) | 3:12 | 2025-06-26 | 2025-09-05 |
 | [ragnatela](https://open.spotify.com/track/3et4jbxdPRhdQrK4uXuPty) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [ragnatela](https://open.spotify.com/album/6MfIKxVINuS5YIgB0k1JQ5) | 3:00 | 2025-11-13 |  |
 | [RAGNATELE](https://open.spotify.com/track/7n1JhHrHJqHyos9gb4PIr1) | [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC) | [RAGNATELE](https://open.spotify.com/album/4xr32bpeTj2Dp3h2AZmGZq) | 2:36 | 2025-08-07 | 2025-09-26 |
+| [RAVE, ECLISSI](https://open.spotify.com/track/0GuO6UjrzW2F0d2z0aOjmV) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [RAVE, ECLISSI](https://open.spotify.com/album/0FfVgNTW9aFaHOYAzerA7I) | 2:57 | 2025-12-09 |  |
 | [RED](https://open.spotify.com/track/0jwm30oXN08kVO9JwqrCPL) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [RED](https://open.spotify.com/album/2Ddi22NvLWIP9MUAYqEil5) | 2:14 | 2024-10-07 | 2024-11-22 |
 | [RELAX](https://open.spotify.com/track/5onR9s5xFHJMovlUECcSyS) | [ANTONIA](https://open.spotify.com/artist/7FHXOCS4B6dXsf5x3KmRr0) | [RELAX](https://open.spotify.com/album/2FjLBW7Ms9y0xi81Ox9zWL) | 2:49 | 2025-05-08 | 2025-07-11 |
 | [REPLAY](https://open.spotify.com/track/5pz1YEoos6C9R2CNOTGjcx) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [REPLAY](https://open.spotify.com/album/5dm3wk4h6JCZzM46lImPIP) | 2:07 | 2025-11-27 |  |

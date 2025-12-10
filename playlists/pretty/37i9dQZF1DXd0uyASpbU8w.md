@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Sam Deep, Shallipopi, Makhadzi and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,729 likes - 86 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,821 likes - 86 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 54 | [Proving Me Right](https://open.spotify.com/track/5cMXjUFvxrppQsmeXoJ2tt) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Proving Me Right](https://open.spotify.com/album/4Sy5ZQvGVhxbVZDUPY4UC2) | 2:54 |
 | 55 | [Y4 \(feat\. Madlisa\)](https://open.spotify.com/track/4jSJ4ELt1X61lKZ8M61GFI) | [Sia\_TheBee](https://open.spotify.com/artist/67251zPa3CwjUPl7tZAmtB), [Beekay da deejay](https://open.spotify.com/artist/0s3XvcqWP6ABda54UeAkYS), [BigBaller\_Ceo](https://open.spotify.com/artist/4lQGYXmayFYVFeZYEU8zla), [Madlisa](https://open.spotify.com/artist/1ZD3wytR0fM661dKPhLAuR) | [Loyalty Over Fame Vol\. 2](https://open.spotify.com/album/2h8HGxks1SfQDCO3znp5fw) | 3:31 |
 | 56 | [True North](https://open.spotify.com/track/7hVCZTwRfCzYOwsktY6ZO7) | [Lash T](https://open.spotify.com/artist/5UrNvnWzl5h7RFOxSUVpkp), [ShennyDaDeejay](https://open.spotify.com/artist/0X0or8ECPXZc84oBEekeOH), [Candy Flow RSA](https://open.spotify.com/artist/1b5fRGLPLWV69MK4HGohFo) | [True North](https://open.spotify.com/album/1jbbNEo0UFGuHydsLxCy6Y) | 6:52 |
-| 57 | [OTS](https://open.spotify.com/track/4Wq6zxgdDDHqsVOYv9T0bz) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Efosa](https://open.spotify.com/artist/6bMDcfWfOVl5mWw8DUgLO3) | [A Street Kid's Diary](https://open.spotify.com/album/03CVM99wc5g02qpBGKgfYM) | 3:46 |
+| 57 | [OTS](https://open.spotify.com/track/4Wq6zxgdDDHqsVOYv9T0bz) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Efosa](https://open.spotify.com/artist/6bMDcfWfOVl5mWw8DUgLO3) | [A Street Kid's Diary](https://open.spotify.com/album/03CVM99wc5g02qpBGKgfYM) | 3:43 |
 | 58 | [Ngeke Bak'thande Bonke](https://open.spotify.com/track/6kHdVTdFWbiWiYvqcxGAaS) | [Sobzeen](https://open.spotify.com/artist/15NUCBzkuF0VbkybGMUTPw), [Youme](https://open.spotify.com/artist/0kgK64SIuInLUon0mn9o4h) | [Ngeke Bak'thande Bonke](https://open.spotify.com/album/7tR3uudpZRB2T4QgMlCb8B) | 8:29 |
 | 59 | [You'll Find The Light](https://open.spotify.com/track/4MoisVBPerxFbxekq3k2eX) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [You'll Find The Light](https://open.spotify.com/album/3Oy0QfAhn4CSNaDkzWYZ82) | 3:32 |
 | 60 | [Mabulala Amakhosi](https://open.spotify.com/track/4SJh72AVSRZrVqbsYDM5Ez) | [Lowfeye](https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn) | [Mabulala Amakhosi](https://open.spotify.com/album/4sMsYEMw8Na5F0BlvBiKSq) | 2:48 |

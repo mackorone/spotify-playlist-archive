@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,889 songs - 4 day 6 hr 40 min
+1,890 songs - 4 day 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Cadillac](https://open.spotify.com/track/6mD72xe3AEuJkTOIYaB2FJ) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Euphorie](https://open.spotify.com/album/2f1y0eNkIK9RQdwhWdNJ8a) | 2:24 | 2023-11-11 | 2023-11-13 |
 | [Cage](https://open.spotify.com/track/1imo54hHKWgJl5vzREfNHk) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [Metamorphose](https://open.spotify.com/album/3fkr5EHa2WgdxVulin2pGU) | 3:38 | 2024-11-16 | 2024-12-01 |
 | [CAGE](https://open.spotify.com/track/50ILvEnP8vCHPeMvMjgN27) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [METAMORPHOSE](https://open.spotify.com/album/7vef7odtEo16WahTWsZSeY) | 3:38 | 2023-02-22 | 2023-03-08 |
+| [Cagoulé pt2](https://open.spotify.com/track/3f1GODLf3GYUH6ReHyTrKR) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Cagoulé pt2](https://open.spotify.com/album/0G9fkhG7XtdYDSwGVwWWtV) | 2:55 | 2025-12-09 |  |
 | [Calimero](https://open.spotify.com/track/6Zi9TslYIV1k2bJkXVJPFX) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Calimero](https://open.spotify.com/album/2L6SnmxBrxSd58adc4ZFX3) | 4:22 | 2024-07-14 | 2024-09-06 |
 | [Call Me](https://open.spotify.com/track/245uFKckEiO9yfJT37edH9) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [360](https://open.spotify.com/album/398Fh5aL7eVdWRNosUR6pm) | 2:45 | 2021-05-23 | 2021-06-27 |
 | [CALLIN' U](https://open.spotify.com/track/2ZZ9T7RSc3YH21vt6SBazV) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [U](https://open.spotify.com/album/0v2J5eoU0WEch02rZ7xVZs) | 3:23 | 2025-07-19 | 2025-07-28 |
@@ -809,7 +810,7 @@
 | [JCVDEMS](https://open.spotify.com/track/1HCJ5RO87crtux9fWtXvDQ) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 3:48 | 2025-05-31 | 2025-06-02 |
 | [Je M'appelle](https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh) | [Je M'appelle](https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ) | 2:19 | 2022-06-12 | 2022-07-16 |
 | [Jean](https://open.spotify.com/track/34prmUEDgxpFbHSszyFqpV) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Jean](https://open.spotify.com/album/1sCtfqdWwq1olAlPwUTfEQ) | 2:27 | 2025-08-10 | 2025-09-25 |
-| [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 | 2025-02-18 |  |
+| [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 | 2025-02-18 | 2025-12-10 |
 | [JEFE](https://open.spotify.com/track/70oobY95oHVXYPpYthV9gz) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [JEFE](https://open.spotify.com/album/0eRlilYJYju9RqugJ2BZlM) | 2:27 | 2024-10-27 | 2024-10-31 |
 | [Jefe](https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:57 | 2021-12-05 | 2022-04-16 |
 | [Jelaba](https://open.spotify.com/track/2R3LdO45fHZvI0emsSyu8j) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Jelaba](https://open.spotify.com/album/7iQGFJd51Xe1UA1dseLtmM) | 3:06 | 2024-04-20 | 2024-04-28 |
@@ -1192,7 +1193,7 @@
 | [N.I](https://open.spotify.com/track/52UT99qy9z0YfQ0CQLCmAu) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Le monde est méchant](https://open.spotify.com/album/4htdMrekIHwLEHhyw4ArcX) | 2:59 | 2021-11-07 | 2021-11-09 |
 | [N13](https://open.spotify.com/track/0fekY543uGW1pGoSLuyvTr) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [N13](https://open.spotify.com/album/0plsfXFZk3RNyHMWBimiWS) | 2:39 | 2023-03-18 | 2023-03-20 |
 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-05-14 | 2022-05-29 |
-| [Nabra](https://open.spotify.com/track/0bQzTbyG0KppLpnMkS9SSe) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [B4](https://open.spotify.com/album/1WPhX0Sfh6MHHGqw14JvR5) | 2:42 | 2025-11-29 | 2025-12-08 |
+| [Nabra](https://open.spotify.com/track/0bQzTbyG0KppLpnMkS9SSe) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [B4](https://open.spotify.com/album/1WPhX0Sfh6MHHGqw14JvR5) | 2:42 | 2025-11-29 |  |
 | [Nada Frontera](https://open.spotify.com/track/4rn3BSiy61O4oGkusBaMQH) | [Ali Ssamid](https://open.spotify.com/artist/7naCkywRMOSMBnYhFbiM3G) | [Nada Frontera](https://open.spotify.com/album/5ReVuiTr6SowfC8EepWK8a) | 3:02 | 2021-11-10 | 2021-11-11 |
 | [Nadi Canadi](https://open.spotify.com/track/14WP9aPMpre8L1u0RcRO5Q) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Nadi Canadi](https://open.spotify.com/album/2jpvgjBgN35oVu0bkQ0eTE) | 3:41 | 2021-03-27\* | 2023-05-18 |
 | [Namasté](https://open.spotify.com/track/1375s9UvwpHaB9MH8tLlXc) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [XXXRAYS](https://open.spotify.com/artist/71S3b5lQHZQgtsQHGyoj52), [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Weld Fatima II](https://open.spotify.com/album/6La450FX0EOdrjQzlWuNrF) | 3:48 | 2021-06-24 | 2021-06-25 |
@@ -1366,7 +1367,7 @@
 | [Poney](https://open.spotify.com/track/66ku4Gq4k5xUqdVL4Oam2r) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Diamant Noir](https://open.spotify.com/album/7LNFnwCFOuBNmlLwywpT3q) | 3:50 | 2025-04-13 | 2025-06-12 |
 | [POP OUT](https://open.spotify.com/track/3j3SfV4hAcR4XjCvW393Gr) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:41 | 2025-03-15 | 2025-03-18 |
 | [POPO](https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [POPO](https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo) | 3:11 | 2024-02-01 | 2024-02-11 |
-| [POPO](https://open.spotify.com/track/7B0k8YTfKzj9BGVaLYXtub) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:11 | 2024-02-10 |  |
+| [POPO](https://open.spotify.com/track/7B0k8YTfKzj9BGVaLYXtub) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:11 | 2024-02-10 | 2025-12-10 |
 | [Popular \(with Playboi Carti & Madonna\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[From The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 | 2023-06-03 | 2023-06-05 |
 | [Porfavor](https://open.spotify.com/track/15cDIk2T5mwrn9m665Xap2) | [CHAOS333](https://open.spotify.com/artist/1vzG3duFDLlVVwWvH8pTrD) | [Porfavor](https://open.spotify.com/album/36eW5E8tOgwEXVSATUCHME) | 2:45 | 2021-07-26 | 2021-07-28 |
 | [POUFA](https://open.spotify.com/track/7MuRSU9xnerubuGi5N3z0B) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [POUFA](https://open.spotify.com/album/3w9oMrzeFfETRFpKyHlmhf) | 2:31 | 2023-06-18 | 2023-07-03 |

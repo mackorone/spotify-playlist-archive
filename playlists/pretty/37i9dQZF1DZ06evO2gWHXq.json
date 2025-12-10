@@ -1,12 +1,12 @@
 {
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 227711,
+  "num_followers": 227708,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTTDgAAAAAAvHFtWTU1mdpxdYgvCOu1y",
+  "snapshot_id": "aTYVAAAAAADH1tgwRqqpssExqxALB+Eo",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 180053,
-      "name": "Debes de saber",
-      "url": "https://open.spotify.com/track/06T04xn5eDNWfzblgZ88P8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TRAPPERZ A Mafia Da Sicilia (feat. MC Davo & Fuego)",
         "url": "https://open.spotify.com/album/6yhlebu0jF2fxxdfk1oDon"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 302250,
       "name": "TRAPPERZ A Mafia Da Sicilia (feat. MC Davo & Fuego)",
       "url": "https://open.spotify.com/track/1KfIZjptrvN6jUpUzzRYiD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Dominio",
+        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 180053,
+      "name": "Debes de saber",
+      "url": "https://open.spotify.com/track/06T04xn5eDNWfzblgZ88P8"
     },
     {
       "added_at": null,
@@ -1135,34 +1135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AY MAR\u00cdA",
-        "url": "https://open.spotify.com/album/5efmZWVgIrpNmtO8coOC2w"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
-        {
-          "name": "Juanpa Salazar",
-          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        }
-      ],
-      "duration_ms": 152967,
-      "name": "AY MAR\u00cdA",
-      "url": "https://open.spotify.com/track/3ChU4ffZzIhNRpOnjFxicj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuern\u00fa (Remix)",
         "url": "https://open.spotify.com/album/5pdGU20ApbWD65z17UM7aJ"
       },
@@ -1199,8 +1171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psicosis 2",
-        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
+        "name": "AY MAR\u00cdA",
+        "url": "https://open.spotify.com/album/5efmZWVgIrpNmtO8coOC2w"
       },
       "artists": [
         {
@@ -1208,13 +1180,21 @@
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         },
         {
-          "name": "Ad\u00e1n Zapata",
-          "url": "https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl"
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
         }
       ],
-      "duration_ms": 190435,
-      "name": "Aparentan (feat. Ad\u00e1n Zapata)",
-      "url": "https://open.spotify.com/track/1ZBJsZZkxVuTI1fCnk3MsU"
+      "duration_ms": 152967,
+      "name": "AY MAR\u00cdA",
+      "url": "https://open.spotify.com/track/3ChU4ffZzIhNRpOnjFxicj"
     },
     {
       "added_at": null,
@@ -1239,6 +1219,26 @@
       "duration_ms": 216263,
       "name": "Lo Que Antes Eramos",
       "url": "https://open.spotify.com/track/0W9CE8nRywgykCOnz8mVvE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psicosis 2",
+        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Ad\u00e1n Zapata",
+          "url": "https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl"
+        }
+      ],
+      "duration_ms": 190435,
+      "name": "Aparentan (feat. Ad\u00e1n Zapata)",
+      "url": "https://open.spotify.com/track/1ZBJsZZkxVuTI1fCnk3MsU"
     }
   ],
   "unique_name": "This Is MC Davo",

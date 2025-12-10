@@ -1,12 +1,12 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Elmer",
-  "num_followers": 11029,
+  "num_followers": 11030,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABsiNsMpRF8EahXlGFvDW8gwUp1E",
+  "snapshot_id": "AAAAAPKOeTb8ZBmPddYCH5uMGU2Nznse",
   "tracks": [
     {
       "added_at": "2025-12-01 15:31:55",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-12-01 15:31:55",
       "album": {
-        "name": "God Los",
-        "url": "https://open.spotify.com/album/2jZgFBqWNfZSlBMneFoQXS"
-      },
-      "artists": [
-        {
-          "name": "Eefje de Visser",
-          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
-        }
-      ],
-      "duration_ms": 223013,
-      "name": "God Los",
-      "url": "https://open.spotify.com/track/5oQ9DL4oTFPjzS3hVbKO0R"
-    },
-    {
-      "added_at": "2025-12-01 15:31:55",
-      "album": {
         "name": "Ik Geloof Dat Wij Iets Delen",
         "url": "https://open.spotify.com/album/2li4Roi5D0L2W5AhADHfwR"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 165872,
       "name": "Ik Geloof Dat Wij Iets Delen",
       "url": "https://open.spotify.com/track/5RydxLGNvlzrHfhxUQUoI9"
+    },
+    {
+      "added_at": "2025-12-01 15:31:55",
+      "album": {
+        "name": "God Los",
+        "url": "https://open.spotify.com/album/2jZgFBqWNfZSlBMneFoQXS"
+      },
+      "artists": [
+        {
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+        }
+      ],
+      "duration_ms": 223013,
+      "name": "God Los",
+      "url": "https://open.spotify.com/track/5oQ9DL4oTFPjzS3hVbKO0R"
     },
     {
       "added_at": "2025-12-01 15:31:55",
@@ -847,18 +847,18 @@
     {
       "added_at": "2025-12-01 15:31:55",
       "album": {
-        "name": "Stilte Voor De Storm",
-        "url": "https://open.spotify.com/album/5toCH66amP3H7TmVoc2ZCq"
+        "name": "De Lucht",
+        "url": "https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi"
       },
       "artists": [
         {
-          "name": "Don Melody Club",
-          "url": "https://open.spotify.com/artist/0gnt5Tp8lW6u8obPtO3kuY"
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
         }
       ],
-      "duration_ms": 280539,
-      "name": "Stilte Voor De Storm",
-      "url": "https://open.spotify.com/track/4ZTHGemuV1WczgxVarJsi4"
+      "duration_ms": 166663,
+      "name": "WijTwee",
+      "url": "https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ"
     }
   ],
   "unique_name": "indie.nl",

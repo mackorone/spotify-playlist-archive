@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,004 likes - 130 songs - 7 hr 26 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,017 likes - 145 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,5 +138,20 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 128 | [Hands Up](https://open.spotify.com/track/5uLxFsB0XLqtiRGMgC4x80) | [Miguelito Loveless](https://open.spotify.com/artist/5QB8ZoAPCu3jM5PP0Guhzn) | [Wake up Call](https://open.spotify.com/album/3Zzd8qmOSV8pdWUupuvhBj) | 3:08 |
 | 129 | [If You Want To Be Famous](https://open.spotify.com/track/7e6X8Ur99dU8spGoXF1Isp) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [If You Want To Be Famous](https://open.spotify.com/album/7bKu0dMVjSIJMRFomyajuc) | 4:41 |
 | 130 | [Falling into the Void](https://open.spotify.com/track/78cIrudzqU1eQGHoKG1ELh) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 3:56 |
+| 131 | [Farewell](https://open.spotify.com/track/5GdjvwCtofhDovXaAHFl2y) | [Gregg Lindor](https://open.spotify.com/artist/6objSyYBvfA8DCERGN7ukc) | [Farewell](https://open.spotify.com/album/2e7IZdBUvJnb325fR5S1V2) | 4:23 |
+| 132 | [Mais Alto Com Cristo \- Acoustic](https://open.spotify.com/track/4AY6D9mDxjVZXOXchspd8W) | [Virgilio alc](https://open.spotify.com/artist/2yKbDLuTiE1kKT2AiBY1Tl) | [Tempo de vitória \(Acoustic\)](https://open.spotify.com/album/1XWYl2rrAwoR0cDIJQjtpP) | 3:08 |
+| 133 | [原來發現](https://open.spotify.com/track/7MNkxlV4Oj4OgEOS0RfQRs) | [Relic](https://open.spotify.com/artist/3didQr0Ljzt9uzRsSSynXO) | [原來發現](https://open.spotify.com/album/0w8ZelBC2rT1qa58kwWu2S) | 3:50 |
+| 134 | [Oh Yeah](https://open.spotify.com/track/6N1EqR6nzR89JMBmbOvplf) | [Nine Feet Underground](https://open.spotify.com/artist/6mFyzC7PyeOpDHGhhn7wv4) | [Oh Yeah](https://open.spotify.com/album/1ukoyTIian9yntW6G2dPoK) | 4:29 |
+| 135 | [Biting Nails](https://open.spotify.com/track/4xzrSXj0pAhRoqRFQNLFHT) | [5EX](https://open.spotify.com/artist/3V4tS2RGFGFRyAPoXk11Q2) | [Biting Nails](https://open.spotify.com/album/3SheatGGao2NNE7l5L4Jvi) | 1:56 |
+| 136 | [Falling in Love](https://open.spotify.com/track/2MKPa3GKO45HF0r2HXYISS) | [FreeRider X](https://open.spotify.com/artist/6SWiYmuroeOupS9tZDSsy2) | [Falling in Love](https://open.spotify.com/album/4i4RbGOEc9CHtqN0vR9BBq) | 2:45 |
+| 137 | [Diamond Heart](https://open.spotify.com/track/37KoS6sJSBBMFa5trmgnAB) | [Savannah Strand](https://open.spotify.com/artist/68FlWXB4GVJsD920sPw1Lv) | [Diamond Heart](https://open.spotify.com/album/4ujXStmyOUakTcn9XlXUVp) | 2:55 |
+| 138 | [Delay](https://open.spotify.com/track/6SY5BLYfK4mmb9fcU7q38X) | [Barrie Johnson](https://open.spotify.com/artist/1Y5kb8pZVSA6CH12qTROX4) | [Delay](https://open.spotify.com/album/6tfhd6qt2y9QhbBaOQeq8N) | 3:14 |
+| 139 | [Tiempos malos](https://open.spotify.com/track/58Ew7nIxymuVUtR8hWFQVk) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Mal Presagio](https://open.spotify.com/album/0IhrnjkKKD2Gf9u87acMLR) | 2:20 |
+| 140 | [Impuntual](https://open.spotify.com/track/5cGt9k9ar2HdVY8Z2zr5IB) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Impuntual](https://open.spotify.com/album/6pWfBmdwlcZaDFYAMPyImo) | 2:50 |
+| 141 | [Milenios de Amor](https://open.spotify.com/track/5SKERroWJAtPprqyweRjuO) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [¿A dónde irá el amor?](https://open.spotify.com/album/70mPEYs6WVlLBIDXtP4m0R) | 3:28 |
+| 142 | [Dual](https://open.spotify.com/track/5vN9W5CbFtWYv17mp6bzLR) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Dual](https://open.spotify.com/album/15P2VvizUmctB7VhJ6Obk2) | 2:59 |
+| 143 | [Love is](https://open.spotify.com/track/47fnHzZbyVzoun68XD6ZV0) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [Love is](https://open.spotify.com/album/7xboQruZ4Wj5ypbkTR3ZQT) | 2:24 |
+| 144 | [Memories](https://open.spotify.com/track/5Jpq2l82zrAp0IxgeLR8c2) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:32 |
+| 145 | [Sweet Girls](https://open.spotify.com/track/77qyDQXVcgz8MzuUme9zwn) | [Nina Gabriela](https://open.spotify.com/artist/2S5l1YffxlvE9SD3I3dW3Q) | [Sweet Girls](https://open.spotify.com/album/25aLcpfG4Z6NVOQb7Vo9tm) | 3:44 |
 
-Snapshot ID: `AAANld2ExtU+wK6A+c7u/WltquaykVoM`
+Snapshot ID: `AAANpGSNyQ4O8vAF0y1SafZPyTJ+wQOZ`

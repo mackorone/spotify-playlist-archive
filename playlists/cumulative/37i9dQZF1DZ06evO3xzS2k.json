@@ -809,6 +809,24 @@
     },
     {
       "album": {
+        "name": "purple strings",
+        "url": "https://open.spotify.com/album/3CRRMLGRHxX1OTF70U6RfH"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282253,
+      "name": "purple strings",
+      "url": "https://open.spotify.com/track/6xn74oHg2FAN4I9ejNajun"
+    },
+    {
+      "album": {
         "name": "Flowing Harmony: River's Serenading Tunes",
         "url": "https://open.spotify.com/album/3nT0dPS7oXPAmf838XLmYR"
       },

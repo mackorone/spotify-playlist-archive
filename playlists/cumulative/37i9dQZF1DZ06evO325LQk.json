@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/0t7eXVo3XPdNtn41iFb7wf"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261387,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/3w0pK4LovS3sdONz9IWbb8"
+    },
+    {
+      "album": {
         "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
         "url": "https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR"
       },

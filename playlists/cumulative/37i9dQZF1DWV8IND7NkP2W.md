@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-821 songs - 1 day 13 hr 7 min
+822 songs - 1 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Elevator Lover](https://open.spotify.com/track/2ChdsbxUUFspNnBKL7Lzr5) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [tender \(Deluxe Edition\)](https://open.spotify.com/album/4ciRzg4BTydpzSGuOruXCx) | 2:38 | 2025-03-06 |  |
 | [ema](https://open.spotify.com/track/3c7yVAHMxcSpi5Ezn8KLWn) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [ema](https://open.spotify.com/album/7eOizuifiVV6kRU2tbTiiQ) | 2:19 | 2021-12-23 | 2022-07-28 |
 | [Emoda](https://open.spotify.com/track/1JiPQ4JDXAeOoPjRkwq0ur) | [U\-LEE](https://open.spotify.com/artist/5brBirPSajSulsPdYTRAtf), [100KILOGRAMS](https://open.spotify.com/artist/6zzok5REMtPHkxSKU0MFWP) | [BEAT TAPE VOL.1](https://open.spotify.com/album/1j7AF82YktleBZEnfPLKgk) | 1:44 | 2022-02-15 | 2022-07-28 |
+| [Empty Streets](https://open.spotify.com/track/0x7HABmP1yFASTR6WPBYhn) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Early Hours](https://open.spotify.com/album/3NwPKrQtGsMZBfEZZy4F6O) | 2:12 | 2025-12-02 |  |
 | [Encore](https://open.spotify.com/track/5m6FIUzhuX8g6fTb4djxQt) | [Grey October Sound](https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76) | [Encore](https://open.spotify.com/album/11OHgVHOdjwOaKtV2kfD5o) | 2:11 | 2022-01-13 | 2022-07-25 |
 | [Endless Everything](https://open.spotify.com/track/6AGvuWY1sA0NHVM2zSC1Ry) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Endless Everything](https://open.spotify.com/album/6aYA3FLvWB2Rqs9RUkX9UE) | 2:45 | 2022-01-27 | 2022-07-22 |
 | [enoshima dolphins](https://open.spotify.com/track/3ep6R8V0tLDaAs42iUwtmw) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [enoshima dolphins](https://open.spotify.com/album/5nHFa1yTKninzl134sdQmv) | 2:33 | 2023-12-07 | 2023-12-15 |
@@ -520,7 +521,7 @@
 | [Oak](https://open.spotify.com/track/4QrLXFESrpnpf6TXJsM1rX) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Oak](https://open.spotify.com/album/0vdKiuQsAHix0sDjoiwngg) | 2:50 | 2021-12-23 | 2025-06-24 |
 | [Ocean Avenue](https://open.spotify.com/track/5Bv8KRYPE7w6S9bZfrUYiz) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe), [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Ocean Avenue](https://open.spotify.com/album/26MxpI4CnZlMXJoD7IoiGU) | 3:53 | 2022-02-24 | 2022-07-04 |
 | [ode to N](https://open.spotify.com/track/0irCGSOIclpG2yGISXD8bN) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/1kGbYL4jMy8db0QHbskJcp) | 2:14 | 2022-09-22 | 2024-04-19 |
-| [ode to N](https://open.spotify.com/track/3kKypbU1yMlHWc33em5aIO) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/0Og7hHFQfX0OW028kjJelF) | 2:14 | 2022-09-22 |  |
+| [ode to N](https://open.spotify.com/track/3kKypbU1yMlHWc33em5aIO) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/0Og7hHFQfX0OW028kjJelF) | 2:14 | 2022-09-22 | 2025-12-10 |
 | [On Golden Pond](https://open.spotify.com/track/0w2qPXThCA5AxbolFra2Ap) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [On Golden Pond](https://open.spotify.com/album/62q6SGct1PhpQ9beHT38zw) | 3:16 | 2023-04-27 | 2023-12-30 |
 | [On My Way Home](https://open.spotify.com/track/3UwKfXx1SdJSxnzG2gYkgc) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [On My Way Home](https://open.spotify.com/album/6bO5QKKe9OAyMHQ2RryMou) | 3:14 | 2021-12-23 |  |
 | [On My Way Home \- Blue Lab Beats Remix](https://open.spotify.com/track/7ysDqM3kH3U6YleSSIhWRc) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [On My Way Home \(Blue Lab Beats Remix\)](https://open.spotify.com/album/5o3VQdQ5Mp8TZzKKDkZ1fI) | 3:48 | 2024-05-23 |  |

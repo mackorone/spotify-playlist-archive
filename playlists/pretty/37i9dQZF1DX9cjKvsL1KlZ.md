@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 
 > Sounds of New York curated by <a href="https://www.instagram.com/sidetalknyc/">Sidetalk</a>, New York’s one\-minute street show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,335 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,363 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cjKvsL1KlZ.md) - [plain]
 | 49 | [PICASSO](https://open.spotify.com/track/1XNftuHylWlfWbPx9MVS2a) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4), [Eli Fross](https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg) | [Just 4 Yall](https://open.spotify.com/album/4X8Ups0dQHxxnEdE4KP6FJ) | 3:32 |
 | 50 | [Enjoy Yourself \(feat\. Karol G\)](https://open.spotify.com/track/3NWrHCwvyII4fTx05PN3IO) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:17 |
 
-Snapshot ID: `AAAAAEM38luwW8h7CStpspv+5QKsDnbH`
+Snapshot ID: `AAAAALnbFKxqc+lGbM2EAFNQAuhP9eSJ`

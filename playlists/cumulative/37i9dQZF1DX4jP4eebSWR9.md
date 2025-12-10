@@ -2,13 +2,13 @@
 
 ### [Hot Hits Deutschland](https://open.spotify.com/playlist/37i9dQZF1DX4jP4eebSWR9)
 
-> 50 Hits in einer Playlist! Cover: Taylor Swift
+> 50 Hits in einer Playlist! Cover: Kraftklub
 
-297 songs - 14 hr 7 min
+299 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [069](https://open.spotify.com/track/1B2s3CpX2PV0YN7DkLSQ4b) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5), [Bazzazian](https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn) | [Unzensiert](https://open.spotify.com/album/2e8rOyMcK9LsUwZp6Wt5W0) | 3:42 | 2025-11-04 |  |
+| [069](https://open.spotify.com/track/1B2s3CpX2PV0YN7DkLSQ4b) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5), [Bazzazian](https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn) | [Unzensiert](https://open.spotify.com/album/2e8rOyMcK9LsUwZp6Wt5W0) | 3:42 | 2025-11-04 | 2025-12-10 |
 | [12 to 12](https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 4:02 | 2025-09-09 |  |
 | [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 | 2024-11-19 | 2024-12-12 |
 | [25grad](https://open.spotify.com/track/5UCcH62PMCio1kiV14zcEU) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [25grad](https://open.spotify.com/album/5wWy3JKVtp8E70RHHWtjjc) | 1:50 | 2025-05-13 | 2025-06-11 |
@@ -144,6 +144,7 @@
 | [K.O.](https://open.spotify.com/track/7r2cCbhAbGUE4Izor1ZnlZ) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [K.O.](https://open.spotify.com/album/1EC9EHPbmFJr9W3rmR2Jee) | 2:17 | 2024-09-10 | 2025-01-08 |
 | [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 | 2024-09-10 | 2024-10-02 |
 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34) | 2:18 | 2024-09-10 | 2025-04-16 |
+| [Knopf](https://open.spotify.com/track/38ZbazlMYsu5qWhaSTOHtO) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Gegenteil von Glück](https://open.spotify.com/album/4PoyaGgQRQdEPALQgLAyuY) | 4:12 | 2025-12-09 |  |
 | [küss mich doch](https://open.spotify.com/track/23H67W1NWkB4DOVVT8QOfV) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [küss mich doch](https://open.spotify.com/album/3FDVht0xgDOJVTGJsg2OXN) | 2:25 | 2024-12-30 | 2025-01-11 |
 | [La La La](https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i) | 3:42 | 2025-01-21 | 2025-04-16 |
 | [lass es gehen \(feat\. Max Raabe\)](https://open.spotify.com/track/177wfMc2GyarTDKEAkdlY8) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Max Raabe](https://open.spotify.com/artist/0d2e8VbttQLewZySpLQudr) | [lass es gehen \(feat\. Max Raabe\)](https://open.spotify.com/album/78509kJPacnQlVAakLhIM6) | 2:18 | 2025-02-20 | 2025-03-13 |
@@ -163,7 +164,7 @@
 | [Ma Shawty](https://open.spotify.com/track/56DjIeqZidDufg6H3yoTr5) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Ma Shawty](https://open.spotify.com/album/5JSNMtTqZNLIp0ro62PvLQ) | 2:57 | 2025-10-22 | 2025-12-03 |
 | [Make Me Feel](https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Make Me Feel](https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva) | 3:06 | 2025-08-12 |  |
 | [Mama hat gesagt](https://open.spotify.com/track/086edN2nz8TjB3zddIdlPn) | [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [Mama hat gesagt](https://open.spotify.com/album/3396TEBenjqgtH7GskkRXu) | 3:16 | 2024-09-10 | 2024-10-17 |
-| [MAMA HATTE IMMER RECHT](https://open.spotify.com/track/6Gfbu9oUqUabKtnd6QM31o) | [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [MAMA HATTE IMMER RECHT](https://open.spotify.com/album/0o7zQk8fjAhiwvBaeXBy1X) | 2:28 | 2025-08-12 |  |
+| [MAMA HATTE IMMER RECHT](https://open.spotify.com/track/6Gfbu9oUqUabKtnd6QM31o) | [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [MAMA HATTE IMMER RECHT](https://open.spotify.com/album/0o7zQk8fjAhiwvBaeXBy1X) | 2:28 | 2025-08-12 | 2025-12-10 |
 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-09-05 |  |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-10 | 2025-09-03 |
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-22 | 2024-11-06 |
@@ -176,6 +177,7 @@
 | [Miami](https://open.spotify.com/track/4nBfq4hPT6U8Qs4gAx0mv8) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Unlock](https://open.spotify.com/album/32AdtNsHkF7EOKUdXZrlla) | 2:44 | 2025-12-02 |  |
 | [mit dir ist es anders](https://open.spotify.com/track/5pYwlWa3wwKlTEyt4jvWvS) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [pass auf mein herz auf](https://open.spotify.com/album/1Cyp8PDZmddPo100wHR09j) | 2:36 | 2024-10-16 | 2025-01-11 |
 | [Mittelmeer](https://open.spotify.com/track/4gxAezF8MafmWSZ0KCsRGj) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Mittelmeer](https://open.spotify.com/album/2HOaHc9820Ds6YD76BbU9j) | 2:59 | 2024-09-10 | 2024-10-09 |
+| [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 | 2025-12-09 |  |
 | [Mona Lisa Motion](https://open.spotify.com/track/18o2gKM9pMyEWWAT9ZaGvr) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd) | [Mona Lisa Motion](https://open.spotify.com/album/5pFWfukC0k2EAdOhzEtDch) | 2:12 | 2025-03-04 | 2025-04-23 |
 | [Mona Lisa Motion \(Einmal um die Welt\)](https://open.spotify.com/track/2xlCVJw334z27pGN8P7dhc) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd) | [Mona Lisa Motion \(Einmal um die Welt\)](https://open.spotify.com/album/14dy0tmdDBbvdxDngiztgO) | 2:30 | 2025-04-22 | 2025-05-28 |
 | [Morgen](https://open.spotify.com/track/4YHB7lnoeFEHWtL0KtSklh) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Morgen](https://open.spotify.com/album/2BUNxpK33SP0ctBYz1qlHp) | 3:10 | 2025-05-27 | 2025-06-11 |

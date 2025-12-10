@@ -4,12 +4,13 @@
 
 > Holiday cheer from your Disney favorites!
 
-146 songs - 6 hr 39 min
+148 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Zat You, Santa Claus?](https://open.spotify.com/track/71CYeO8QuGeIyCAdk1eTeH) | [Dr\. Teeth and The Electric Mayhem](https://open.spotify.com/artist/2ga7tr3zy7iQ9r2VQ6AMGF) | [The Muppets: A Green and Red Christmas](https://open.spotify.com/album/2SRnKY8vy3G72k8D55tWoA) | 2:34 | 2021-12-03 |  |
 | [\(There's No Place Like\) Home for the Holidays](https://open.spotify.com/track/5EL6xzLY5Fup53pWO1J6KW) | [Meg Donnelly](https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6) | [Disney Channel Holiday Hits 2019](https://open.spotify.com/album/1PWiY3EfzKaYUsL8SSkxOe) | 2:28 | 2024-12-17 |  |
+| [A Christmas Carol Main Title](https://open.spotify.com/track/1swBDEKTSMyTbhNc3KVwSZ) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [A Christmas Carol](https://open.spotify.com/album/35N2paA3Tb44f0a3beEU3V) | 4:21 | 2025-12-09 |  |
 | [A Little More](https://open.spotify.com/track/3iQyxNq8TnhYimIMrKbEwa) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [A Little More](https://open.spotify.com/album/6jx4akSZu1hcJVADH1JUZd) | 3:06 | 2022-11-05 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0yJI0V4U9cy59pGFR7SQui) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Rockin' Holiday](https://open.spotify.com/album/2yKCih4uWRew4GFBpWDdTA) | 3:47 | 2021-12-03 |  |
 | [Ariel's Christmas Island](https://open.spotify.com/track/0aCVcGoCbdnfFowNu6IzvU) | [Ariel](https://open.spotify.com/artist/1RJ9qwSsCfnOcTXBSqotNk), [Sebastian](https://open.spotify.com/artist/3SDQzHnLxVFNK6hvg9Lrks) | [Princess Christmas](https://open.spotify.com/album/1WJHhN69hjNuQPG2iJ36BY) | 2:53 | 2021-12-03 |  |
@@ -143,6 +144,7 @@
 | [We Wish You a Merry Christmas \- From "The Santa Clauses: Season 2"](https://open.spotify.com/track/0fMSRi3f7CBLQ6BROBqVhH) | [The Santa Clauses \- Cast](https://open.spotify.com/artist/1fcqHgM7myURz9HBW2jEQU) | [We Wish You A Merry Christmas \(From "The Santa Clauses: Season 2"\)](https://open.spotify.com/album/1F06xtgHCyekJfrnKbklOV) | 1:52 | 2023-12-01 |  |
 | [Welcome to Christmas \- 2024](https://open.spotify.com/track/4W8xZtZJsdUykH4yrecKSj) | [Kaho Shimada](https://open.spotify.com/artist/5f3bK61MPrJ94WSj4RrRHi) | [Welcome to Christmas \(2024\)](https://open.spotify.com/album/2yhj9psSlGARlSSBxzhBFk) | 4:24 | 2024-12-17 |  |
 | [What Christmas Means to Me](https://open.spotify.com/track/1ZRq7JZzM3Q26xweRKz0SF) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [What Christmas Means to Me](https://open.spotify.com/album/1RcoVRUDGhepaBcxeEp4A0) | 3:11 | 2022-09-09 |  |
+| [What the Holidays Mean](https://open.spotify.com/track/6292YCl1JakpcgG7vKJRy2) | [Emily Deler](https://open.spotify.com/artist/2DzOrgxSw1xXi2jlWEbnvj), [The Holidays in Hollywood Singers](https://open.spotify.com/artist/5mzRYG6JZ5rG1snyNy7h5X), [The Holidays in Hollywood Big Band](https://open.spotify.com/artist/3NoFEU3xJYepLYv6Gj9egq) | [Music from Disney Holidays in Hollywood](https://open.spotify.com/album/2wU8S4nglc3ZiJBoZITAHb) | 3:34 | 2025-12-09 |  |
 | [What's This?](https://open.spotify.com/track/3fytQQcjEOWXlvI9BDXVcK) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:05 | 2021-12-03 |  |
 | [When I Am Older](https://open.spotify.com/track/1Tt7zr1yDbKbT8L4jzSZ74) | [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 1:51 | 2022-12-08 |  |
 | [When We're Together](https://open.spotify.com/track/6xsanHBuSwNCTESsldlB0o) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI), [Josh Gad](https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY), [Jonathan Groff](https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB) | [Olaf's Frozen Adventure \(Original Soundtrack\)](https://open.spotify.com/album/2XaJcrXkpMvHaVJqr4FbPa) | 2:50 | 2021-12-03 |  |

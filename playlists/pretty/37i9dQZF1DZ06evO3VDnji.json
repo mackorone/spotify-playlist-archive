@@ -1,12 +1,12 @@
 {
   "description": "This is DannyLux. The essential tracks, all in one playlist.",
-  "num_followers": 75012,
+  "num_followers": 75023,
   "original_name": "This Is DannyLux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTTDgAAAAABPoPEt/t0fiRs6hvTXMjeJ",
+  "snapshot_id": "aTYVAAAAAAASPLCLKdbGKOdYqpzV8WuO",
   "tracks": [
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Mi Otra Mitad",
-      "url": "https://open.spotify.com/track/5JQNO0rhJUdOevWVvSWjro"
+      "duration_ms": 219000,
+      "name": "Tristeza Y Traicion",
+      "url": "https://open.spotify.com/track/3otr23EypFovRCjnPODejZ"
     },
     {
       "added_at": null,
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Tristeza Y Traicion",
-      "url": "https://open.spotify.com/track/3otr23EypFovRCjnPODejZ"
+      "duration_ms": 171000,
+      "name": "Mi Otra Mitad",
+      "url": "https://open.spotify.com/track/5JQNO0rhJUdOevWVvSWjro"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEYENDA",
-        "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
+        "name": "24:7",
+        "url": "https://open.spotify.com/album/3S9EK27YNoSrqH35mVB93R"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 253605,
-      "name": "SIRENA",
-      "url": "https://open.spotify.com/track/0Ap4GNJxy2n1Z0tJcXU9GE"
+      "duration_ms": 181511,
+      "name": "24:7",
+      "url": "https://open.spotify.com/track/02SyNfy3oA30Mnw8c0iCMb"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "24:7",
-        "url": "https://open.spotify.com/album/3S9EK27YNoSrqH35mVB93R"
+        "name": "LEYENDA",
+        "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 181511,
-      "name": "24:7",
-      "url": "https://open.spotify.com/track/02SyNfy3oA30Mnw8c0iCMb"
+      "duration_ms": 253605,
+      "name": "SIRENA",
+      "url": "https://open.spotify.com/track/0Ap4GNJxy2n1Z0tJcXU9GE"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perdido En Ti",
-        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 192626,
-      "name": "La Perfecta",
-      "url": "https://open.spotify.com/track/4wg1dDQscqUEGBzorYpSx8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nos Pertenecemos",
         "url": "https://open.spotify.com/album/55KfSnGyQ3GinF9smV4J8c"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 185290,
       "name": "Nos Pertenecemos",
       "url": "https://open.spotify.com/track/7adiaSAw1ij3ZAyzteXHLh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perdido En Ti",
+        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 192626,
+      "name": "La Perfecta",
+      "url": "https://open.spotify.com/track/4wg1dDQscqUEGBzorYpSx8"
     },
     {
       "added_at": null,
@@ -815,18 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL HOMBRE PERFECTO",
-        "url": "https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW"
+        "name": "ma\u00f1ana, temprano",
+        "url": "https://open.spotify.com/album/6Y2sfEJBZbqrHTKtRB0Bmi"
       },
       "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
         {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 216960,
-      "name": "EL HOMBRE PERFECTO",
-      "url": "https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT"
+      "duration_ms": 211680,
+      "name": "VENENO",
+      "url": "https://open.spotify.com/track/3PUnHlf7ujQ9N5KUtI4jkH"
     },
     {
       "added_at": null,
@@ -847,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EL HOMBRE PERFECTO",
+        "url": "https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "EL HOMBRE PERFECTO",
+      "url": "https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lluvia Y Sol",
         "url": "https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 222191,
       "name": "Me Voy Contigo",
       "url": "https://open.spotify.com/track/6BNaBJvHM85qDtsw9pUCD0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ma\u00f1ana, temprano",
-        "url": "https://open.spotify.com/album/6Y2sfEJBZbqrHTKtRB0Bmi"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "VENENO",
-      "url": "https://open.spotify.com/track/3PUnHlf7ujQ9N5KUtI4jkH"
     },
     {
       "added_at": null,

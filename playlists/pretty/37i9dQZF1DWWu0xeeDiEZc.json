@@ -1,6 +1,6 @@
 {
   "description": "Get your kids singing along with this fun playlist! They're sure to know these kid-friendly classics.",
-  "num_followers": 403564,
+  "num_followers": 403584,
   "original_name": "Sing Along",
   "owner": {
     "name": "Spotify",
@@ -509,30 +509,6 @@
       "url": "https://open.spotify.com/track/5GjXNfKlNfOgacGtTUMXKe"
     },
     {
-      "added_at": "2022-07-25 13:31:43",
-      "album": {
-        "name": "Aladdin: Special Edition Soundtrack",
-        "url": "https://open.spotify.com/album/1Eq5qk8DnHWGOZT2cAASP2"
-      },
-      "artists": [
-        {
-          "name": "Lea Salonga",
-          "url": "https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv"
-        },
-        {
-          "name": "Brad Kane",
-          "url": "https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "A Whole New World",
-      "url": "https://open.spotify.com/track/506nvAQgHmkGd13ipZuBwo"
-    },
-    {
       "added_at": "2023-11-08 20:23:20",
       "album": {
         "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
@@ -555,6 +531,30 @@
       "duration_ms": 184946,
       "name": "Under the Sea",
       "url": "https://open.spotify.com/track/79juTmh89v1xqOLYsr6wSq"
+    },
+    {
+      "added_at": "2022-07-25 13:31:43",
+      "album": {
+        "name": "Aladdin: Special Edition Soundtrack",
+        "url": "https://open.spotify.com/album/1Eq5qk8DnHWGOZT2cAASP2"
+      },
+      "artists": [
+        {
+          "name": "Lea Salonga",
+          "url": "https://open.spotify.com/artist/1GlMjIezcLwV3OFlX0uXOv"
+        },
+        {
+          "name": "Brad Kane",
+          "url": "https://open.spotify.com/artist/3dAzSJ9lQnJSq5Z0OgDBep"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "A Whole New World",
+      "url": "https://open.spotify.com/track/506nvAQgHmkGd13ipZuBwo"
     },
     {
       "added_at": "2022-07-25 13:31:43",

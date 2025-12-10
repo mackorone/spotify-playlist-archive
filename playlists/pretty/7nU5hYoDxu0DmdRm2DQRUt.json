@@ -1,13 +1,97 @@
 {
   "description": "New Arrivals keeps you posted on the latest records arriving in our record store and online shop &#x2F; kompakt.fm",
-  "num_followers": 7820,
+  "num_followers": 7823,
   "original_name": "KOMPAKT: New Arrivals",
   "owner": {
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAOgu4q43Xm8gDadek/qCMhehz+b94L",
+  "snapshot_id": "AAAOiQmP80HVOIydx9cAl9+q9g9xhWQb",
   "tracks": [
+    {
+      "added_at": "2025-12-09 13:10:34",
+      "album": {
+        "name": "Pop Ambient 2026",
+        "url": "https://open.spotify.com/album/3N7bCqSjxnsX2FDAfEQKgQ"
+      },
+      "artists": [
+        {
+          "name": "Pass Into Silence",
+          "url": "https://open.spotify.com/artist/5I2Upsicrkkkmr1ECiISq4"
+        }
+      ],
+      "duration_ms": 399522,
+      "name": "Pale Blue Dot",
+      "url": "https://open.spotify.com/track/1SqGXqXivIG7LbUPRLRxvZ"
+    },
+    {
+      "added_at": "2025-12-09 13:10:09",
+      "album": {
+        "name": "DYSTORTION",
+        "url": "https://open.spotify.com/album/4vEjetnErjdXDbPTndtJLF"
+      },
+      "artists": [
+        {
+          "name": "Extrawelt",
+          "url": "https://open.spotify.com/artist/3VRvi42U8SsiT4YKP5LNCB"
+        },
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        }
+      ],
+      "duration_ms": 416786,
+      "name": "Clapland",
+      "url": "https://open.spotify.com/track/45YXeuH1v1kB6R0Lz5igyF"
+    },
+    {
+      "added_at": "2025-12-09 13:10:47",
+      "album": {
+        "name": "Unlimited Dreams Corporation",
+        "url": "https://open.spotify.com/album/3ZZggnDcLmRknnJxyw6Kvs"
+      },
+      "artists": [
+        {
+          "name": "Brigade",
+          "url": "https://open.spotify.com/artist/01fvPLDc345ENWorJWLqV4"
+        }
+      ],
+      "duration_ms": 183003,
+      "name": "Always a Pleasure",
+      "url": "https://open.spotify.com/track/6oKDuGDt9ebK44wgYupxUV"
+    },
+    {
+      "added_at": "2025-12-09 13:11:11",
+      "album": {
+        "name": "Br\u00fccke",
+        "url": "https://open.spotify.com/album/0LxL46akJvTI8SpXVInhcS"
+      },
+      "artists": [
+        {
+          "name": "Lb Honne",
+          "url": "https://open.spotify.com/artist/2YPdf4qm4mzQQYEjxY1lWo"
+        }
+      ],
+      "duration_ms": 418999,
+      "name": "Br\u00fccke",
+      "url": "https://open.spotify.com/track/4AuglUcavMMM0Ylidd1WCz"
+    },
+    {
+      "added_at": "2025-12-09 13:12:26",
+      "album": {
+        "name": "In and Out EP",
+        "url": "https://open.spotify.com/album/5E9mSGi09f1Zae7OCMavYp"
+      },
+      "artists": [
+        {
+          "name": "Imp\u00e9rieux",
+          "url": "https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK"
+        }
+      ],
+      "duration_ms": 337259,
+      "name": "Trampa",
+      "url": "https://open.spotify.com/track/6JJ3SfaQF9jbC2dwLeozCy"
+    },
     {
       "added_at": "2025-11-21 11:37:31",
       "album": {

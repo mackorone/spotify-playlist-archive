@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,951 likes - 311 songs - 1 day 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,964 likes - 311 songs - 1 day 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -320,4 +320,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 310 | [Beat Bunny](https://open.spotify.com/track/03aGl91oeW7EZolJTFFNlM) | [Povoa](https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC), [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Beat Bunny](https://open.spotify.com/album/4918fSnTl2rA30dykzTrXG) | 3:14 |
 | 311 | [Song for You \- Kink Remix](https://open.spotify.com/track/1Ul24qfMjltxX5tEQcMpd8) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb) | [Song for You \(Kink Remix\)](https://open.spotify.com/album/51hcx5FC1XBpK9uqvMGNuk) | 4:41 |
 
-Snapshot ID: `AAAAALQokkNuCTcwAoaxw28BVfukcpve`
+Snapshot ID: `AAAAANy0/N2QVMz7DjYBB7OTzlDOSa7G`

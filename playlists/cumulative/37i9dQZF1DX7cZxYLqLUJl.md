@@ -4,7 +4,7 @@
 
 > Wake up at your own pace with gentle piano music.
 
-173 songs - 7 hr 31 min
+174 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Shoreland](https://open.spotify.com/track/13jcWPcMR0plz1TlIaqqSR) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Clandestine](https://open.spotify.com/album/5svnulUJ4RuhBt6mD8UEoF) | 2:50 | 2021-04-21 |  |
 | [Signs of Yesterday](https://open.spotify.com/track/469gImU7TX8pyIXefZhr0c) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:22 | 2021-04-21 | 2024-10-01 |
 | [Silent Currents](https://open.spotify.com/track/14ef9hqfpbc1aLkDs9gnf8) | [Sine Hats](https://open.spotify.com/artist/3QotXq2Hkg6Shoivd6GP71) | [Silent Currents](https://open.spotify.com/album/1DX172AwlZMpWRtCrT9M7p) | 2:02 | 2025-04-28 |  |
+| [Sleeper](https://open.spotify.com/track/0iBbGki63rW9UuSZYghy6R) | [M\. Lapis](https://open.spotify.com/artist/7yapVPB4FRlHJJ3IsOpbaO) | [Sleeper](https://open.spotify.com/album/5vVTSM53W8XLV7NByXhKPa) | 2:17 | 2025-12-09 |  |
 | [Small Steps](https://open.spotify.com/track/1hdv5ClhtXr3ObgFCSjNVw) | [Valentia Serrano](https://open.spotify.com/artist/1OCi9l2I6jEaENzD8MuSAJ) | [Small Steps](https://open.spotify.com/album/1rRyxVqesdCGq4KQhDxytO) | 2:10 | 2024-10-21 |  |
 | [Snefri](https://open.spotify.com/track/61WmSJkNz048nns7uCmn1E) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 3:43 | 2022-03-18 | 2024-04-19 |
 | [Snefri](https://open.spotify.com/track/6Ox51SkYx2CyHuWIHMfTUq) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Snefri](https://open.spotify.com/album/25trn66ey7ahbAD2OMI7bN) | 3:43 | 2021-04-21 | 2025-06-05 |

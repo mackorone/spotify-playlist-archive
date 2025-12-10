@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 434 likes - 105 songs - 5 hr 49 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 436 likes - 108 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,5 +113,8 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 103 | [young frankenstein](https://open.spotify.com/track/35r1UEv4bYbwxHT7MqoPX8) | [open](https://open.spotify.com/artist/0BGu5l3ttSeSQq7yhqBTjB) | [young frankenstein](https://open.spotify.com/album/3HUqK5fRKaBOMUJGJFYPrf) | 2:59 |
 | 104 | [Share the Time](https://open.spotify.com/track/4ki7evOfn3UGZrAJWB6mQ1) | [Telmar Basement](https://open.spotify.com/artist/5Ciapx4vtgLVF7JFCrJwxG) | [Refreezer](https://open.spotify.com/album/5Ai7nAjTEBZyglBLmCuhj5) | 2:57 |
 | 105 | [Tears](https://open.spotify.com/track/19ky0ma1R4uoD4Pr5qDZXM) | [Swink](https://open.spotify.com/artist/17UK86hbSdJ53N6jEHOLIB) | [Tears](https://open.spotify.com/album/0Y9gc7GLoIyCQBSEErfSxF) | 3:56 |
+| 106 | [Out of My Head](https://open.spotify.com/track/5qAl5Z38toPiMucpIJr20z) | [TERRYBYLE](https://open.spotify.com/artist/7K2VzqINjhPCownMrZ9Hr4) | [Out of My Head](https://open.spotify.com/album/5Z3RNFwJKXBuRLwbciu0hC) | 2:57 |
+| 107 | [Awhile Longer](https://open.spotify.com/track/2oIeeJEISUZqeEy0tP1KFV) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 4:21 |
+| 108 | [Despierta](https://open.spotify.com/track/3DfMMtS8g3P3NvmaBKcCdB) | [Madame Babilonia](https://open.spotify.com/artist/1U1z22LC7vMv8sVmPImg1b) | [Despierta](https://open.spotify.com/album/7vtpUhuSrPg6OJW8PYgTQX) | 4:17 |
 
-Snapshot ID: `AAACdMJqdT+JnjNLZ0/6XeJyHaMBPx5s`
+Snapshot ID: `AAACd28fidUgz1Ieo9y4xp7PoFYyPcAw`

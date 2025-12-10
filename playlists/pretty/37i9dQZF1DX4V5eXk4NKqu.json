@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring Bebo Dumont.",
-  "num_followers": 168115,
+  "num_followers": 168111,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,22 @@
     {
       "added_at": "2025-11-21 05:00:35",
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 208351,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq"
+    },
+    {
+      "added_at": "2025-11-21 05:00:35",
+      "album": {
         "name": "VISTO",
         "url": "https://open.spotify.com/album/5cCKiC4c4S5wap5EbyjXHR"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 163026,
       "name": "VISTO",
       "url": "https://open.spotify.com/track/5atvafpwTItCJk0YVAZLzz"
-    },
-    {
-      "added_at": "2025-11-21 05:00:35",
-      "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 208351,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq"
     },
     {
       "added_at": "2025-11-21 05:00:35",

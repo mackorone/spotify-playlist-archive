@@ -4,7 +4,7 @@
 
 > This is Nothing\. The essential tracks, all in one playlist.
 
-67 songs - 4 hr 59 min
+68 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Our Plague](https://open.spotify.com/track/52GxXiWKYRCy1z8RxGYWiT) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 5:29 | 2024-05-24 | 2024-07-22 |
 | [Pattern After Us \- DOTB B Side](https://open.spotify.com/track/0W2TihuUErag5W2UeWnMQp) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Spirit of the Stairs \- B\-Sides & Rarities](https://open.spotify.com/album/1FhTscmvDVVPQhTipBqsxF) | 3:40 | 2022-09-16 | 2025-10-06 |
 | [Plastic Migraine](https://open.spotify.com/track/2K4MJk3z1GgNKIElhcwT44) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Dance on the Blacktop](https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ) | 4:44 | 2022-09-16 |  |
+| [purple strings](https://open.spotify.com/track/6xn74oHg2FAN4I9ejNajun) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [purple strings](https://open.spotify.com/album/3CRRMLGRHxX1OTF70U6RfH) | 4:42 | 2025-12-10 |  |
 | [Rhythmic Waterside Dreams](https://open.spotify.com/track/03zzARsjqHmGksgczjTkK6) | [Ambient Quokka](https://open.spotify.com/artist/11Fsp1uMcnrDlwjqM2kxzk), [At The End Of Times](https://open.spotify.com/artist/7CoryHVKlglEp1s0zkchc5), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Flowing Harmony: River's Serenading Tunes](https://open.spotify.com/album/3nT0dPS7oXPAmf838XLmYR) | 2:00 | 2024-01-06 | 2024-01-10 |
 | [Rose Tinted World](https://open.spotify.com/track/67vYna8TF0R0kQfN92x933) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 8:11 | 2023-12-13 |  |
 | [Say Less](https://open.spotify.com/track/1TG4piLlwdCJOQWpsnpLWm) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 4:15 | 2022-09-16 |  |

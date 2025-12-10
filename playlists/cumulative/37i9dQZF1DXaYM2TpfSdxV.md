@@ -4,7 +4,7 @@
 
 > Ruido blanco para ayudarte a dormir.
 
-331 songs - 14 hr 37 min
+332 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [36,201 feet](https://open.spotify.com/track/2i28I5oI7HrkYxX1zS91AK) | [Year of the Deer](https://open.spotify.com/artist/65chksgBebbDOYHu3agg0r) | [Rainy Day in Okinawa](https://open.spotify.com/album/3BtDOqfu1IhCctUzZl3iOv) | 3:00 | 2023-03-09 |  |
 | [A Waterfall of Noise](https://open.spotify.com/track/75F6mSyntGM0rpInOaOP0r) | [Doctor Sleep](https://open.spotify.com/artist/3MwKjfr5kxBuFhTZJUimC5) | [A Waterfall of Noise](https://open.spotify.com/album/0Zwsr67zu7UodgvugtKzex) | 2:09 | 2023-03-09 | 2023-04-13 |
 | [Above The Clouds](https://open.spotify.com/track/4Iw1akg0jFjkE52LSGR5dr) | [Relaxing Noises](https://open.spotify.com/artist/3uMJsDLenRrP1soBlu3YKq) | [Above The Clouds](https://open.spotify.com/album/2T6N06lvJ5dHdoQgdLyapI) | 1:58 | 2023-04-12 | 2023-06-29 |
-| [Aclara Tu Mente](https://open.spotify.com/track/2jYTrauspptMjNSICeH8lL) | [Ruido Blanco Tranquilo](https://open.spotify.com/artist/0TYm2NOYehHcHBaFkNNs47) | [Aclara Tu Mente](https://open.spotify.com/album/7aAYXYwDBz5lV9pXruwmEj) | 2:25 | 2023-04-12 |  |
+| [Aclara Tu Mente](https://open.spotify.com/track/2jYTrauspptMjNSICeH8lL) | [Ruido Blanco Tranquilo](https://open.spotify.com/artist/0TYm2NOYehHcHBaFkNNs47) | [Aclara Tu Mente](https://open.spotify.com/album/7aAYXYwDBz5lV9pXruwmEj) | 2:25 | 2023-04-12 | 2025-12-10 |
 | [Addormentarsi](https://open.spotify.com/track/5CJwgyuXlhfXiZzJI53BUw) | [Natural Sample Makers](https://open.spotify.com/artist/2kAU05Lt29wxhRj3BpiwhA) | [Rumori Di Notte](https://open.spotify.com/album/1S9SdBPsQCziWWoXSO8azE) | 2:30 | 2023-04-12 |  |
 | [Airplane Sleep Pt.1](https://open.spotify.com/track/53PHCS3cgaXm3JCIlAw6z8) | [Larnac HD](https://open.spotify.com/artist/1cRsTwM4gsatUmJwts7hYJ) | [Airplane Sleep](https://open.spotify.com/album/5bkoo0uYmf8YyGvNb8Bbq0) | 2:29 | 2023-03-09 |  |
 | [Analog Rest](https://open.spotify.com/track/4fvI0jKdS7WgbGgAMmCuHT) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Analog Noise](https://open.spotify.com/album/3YgYrdFv17ic0uiqWMc0Xp) | 2:10 | 2023-04-12 |  |
@@ -26,6 +26,7 @@
 | [Breathe Easy](https://open.spotify.com/track/7LnDKGTwMoLv3XSgxOnj83) | [High Res Lo Fi](https://open.spotify.com/artist/2EHYuRVxkX0f9VsvoOSCI1) | [Weekly White Noise](https://open.spotify.com/album/1HMBbQKH4GveqLBuITbvWf) | 2:35 | 2023-04-12 |  |
 | [Bright Sound](https://open.spotify.com/track/1tK5k6HSQDKd46LpreI55I) | [Only Noise Machine](https://open.spotify.com/artist/7cdo1ksUSETbrK7XFZ90Xh) | [Bright Sound](https://open.spotify.com/album/7mzk5MEmi4P31ln34bZsAD) | 2:12 | 2023-04-12 |  |
 | [Bruit Apaisant](https://open.spotify.com/track/3bwsjtYOVEFWtLSQBujmbj) | [Di Melting Point](https://open.spotify.com/artist/00BUyp4ARwFm96JWiIaDFK) | [Bruit Inconscient](https://open.spotify.com/album/3ZKjY9ByrYwyTUc5NkwyiM) | 2:36 | 2023-03-09 | 2023-04-13 |
+| [Buzzing](https://open.spotify.com/track/1vQKwIcjUZPbpFu6nExDZT) | [Pentadecimal](https://open.spotify.com/artist/6N70t9WnJfxcRSzxMmFF1R) | [Buzzing](https://open.spotify.com/album/4fD8l4PgXb6xQ2dqZKskMR) | 2:51 | 2025-01-30 |  |
 | [Cabin Back Noise](https://open.spotify.com/track/0KByxc2bldSo9PtAQQnipz) | [High Altitude Samples](https://open.spotify.com/artist/3T9Rn6sxhCylmpTyWCuu1f) | [Sleep Over the Ocean](https://open.spotify.com/album/433vYcfr0ssW6wMmdq4lv0) | 2:51 | 2023-03-09 | 2023-04-13 |
 | [Cabin Noise \- LRMax \- Relaxed Flow](https://open.spotify.com/track/37zh91cPMsMsHH47GuG8Fk) | [Flow Fabric](https://open.spotify.com/artist/2jozuvJzUtwmFetivm4ae6) | [Cabin Noise](https://open.spotify.com/album/7b2xRhFyIjJwob9qd13zTZ) | 1:50 | 2023-03-09 | 2023-04-13 |
 | [Cabin Noise \- LRMax \- Soft Flow](https://open.spotify.com/track/7Jh4HR92wguMNtG2tH179U) | [Flow Fabric](https://open.spotify.com/artist/2jozuvJzUtwmFetivm4ae6) | [Cabin Noise](https://open.spotify.com/album/7b2xRhFyIjJwob9qd13zTZ) | 1:49 | 2023-03-09 | 2023-04-13 |
