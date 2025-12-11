@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 15835,
+  "num_followers": 15836,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAClrSaDskz0DUcu9bbDxGbt",
+  "snapshot_id": "aTdmgAAAAADkf+u386uDChp/y6FaDFVv",
   "tracks": [
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "moo",
-        "url": "https://open.spotify.com/album/5RHHriIsaO6PnS4DodUsat"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "jaded (feat. BIA)",
-      "url": "https://open.spotify.com/track/02Qel05Z1siC6oZUWjeP3p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Su\u00e9ltate (From Sing 2)",
         "url": "https://open.spotify.com/album/1XVamMw0XzgCe7SStQTlai"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 210631,
       "name": "Su\u00e9ltate (From Sing 2) (with Sam i & Jarina De Marco feat. Anitta, BIA)",
       "url": "https://open.spotify.com/track/5GFcYCn3ciDSFTRYOi4oVY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "moo",
+        "url": "https://open.spotify.com/album/5RHHriIsaO6PnS4DodUsat"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "jaded (feat. BIA)",
+      "url": "https://open.spotify.com/track/02Qel05Z1siC6oZUWjeP3p"
     },
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real World",
-        "url": "https://open.spotify.com/album/1oOQ3NNONlroyPGbElifW3"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 132537,
-      "name": "It's You (feat. BIA)",
-      "url": "https://open.spotify.com/track/1JwxfXrNbw2tfh0X4ZzQtR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect (Remix) (feat. Doja Cat & BIA)",
         "url": "https://open.spotify.com/album/2S5f607kus6aZo5UcA3gPS"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 197461,
       "name": "Perfect (Remix) (feat. Doja Cat & BIA)",
       "url": "https://open.spotify.com/track/31tgCy8mn6sFuIiHSHfEhm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Real World",
+        "url": "https://open.spotify.com/album/1oOQ3NNONlroyPGbElifW3"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 132537,
+      "name": "It's You (feat. BIA)",
+      "url": "https://open.spotify.com/track/1JwxfXrNbw2tfh0X4ZzQtR"
     },
     {
       "added_at": null,
@@ -923,6 +923,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Distrito Federal",
+        "url": "https://open.spotify.com/album/6ojf6Hfhj5NtQLRMiCRaFt"
+      },
+      "artists": [
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 172078,
+      "name": "Vamos",
+      "url": "https://open.spotify.com/track/4gbRykMoB7dM0okw4DHj5J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trampoline (feat. Missy Elliott, BIA and Doechii)",
         "url": "https://open.spotify.com/album/1bFphUB9uHCPapPwdAxCWI"
       },
@@ -971,30 +995,6 @@
       "duration_ms": 181812,
       "name": "Eat It Up (feat. BIA)",
       "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Distrito Federal",
-        "url": "https://open.spotify.com/album/6ojf6Hfhj5NtQLRMiCRaFt"
-      },
-      "artists": [
-        {
-          "name": "Mexican Institute Of Sound",
-          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        }
-      ],
-      "duration_ms": 172078,
-      "name": "Vamos",
-      "url": "https://open.spotify.com/track/4gbRykMoB7dM0okw4DHj5J"
     },
     {
       "added_at": null,
@@ -1055,22 +1055,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "JAMES.",
-        "url": "https://open.spotify.com/album/3iJKtRqFUIbu7s2jjwvoQR"
+        "name": "The End of an Era",
+        "url": "https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD"
       },
       "artists": [
         {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
         },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 169925,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/3568VPmvBoVC3Jb67JtWat"
+      "duration_ms": 170899,
+      "name": "Is That Right",
+      "url": "https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF"
     }
   ],
   "unique_name": "This Is BIA",

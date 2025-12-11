@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Satoshi",
-  "num_followers": 22120,
+  "num_followers": 22122,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -667,26 +667,6 @@
     {
       "added_at": "2025-12-04 22:00:31",
       "album": {
-        "name": "Asta-i \u021aara Mea",
-        "url": "https://open.spotify.com/album/0cfv8rktcvzj2O2WmIByeO"
-      },
-      "artists": [
-        {
-          "name": "Satoshi",
-          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
-        },
-        {
-          "name": "Vasile Advahov",
-          "url": "https://open.spotify.com/artist/6Gg0PWo2x17nxM3EFomXyn"
-        }
-      ],
-      "duration_ms": 169711,
-      "name": "Asta-i \u021aara Mea",
-      "url": "https://open.spotify.com/track/3Itiryt0igEXRtf5KcinDC"
-    },
-    {
-      "added_at": "2025-12-04 22:00:31",
-      "album": {
         "name": "Copiii Care Am Fost",
         "url": "https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 178064,
       "name": "Copiii Care Am Fost",
       "url": "https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz"
+    },
+    {
+      "added_at": "2025-12-04 22:00:31",
+      "album": {
+        "name": "Asta-i \u021aara Mea",
+        "url": "https://open.spotify.com/album/0cfv8rktcvzj2O2WmIByeO"
+      },
+      "artists": [
+        {
+          "name": "Satoshi",
+          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
+        },
+        {
+          "name": "Vasile Advahov",
+          "url": "https://open.spotify.com/artist/6Gg0PWo2x17nxM3EFomXyn"
+        }
+      ],
+      "duration_ms": 169711,
+      "name": "Asta-i \u021aara Mea",
+      "url": "https://open.spotify.com/track/3Itiryt0igEXRtf5KcinDC"
     },
     {
       "added_at": "2025-12-04 22:00:31",

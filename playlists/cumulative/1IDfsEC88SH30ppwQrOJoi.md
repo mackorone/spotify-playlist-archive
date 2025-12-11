@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/1IDfsEC88SH30ppwQrOJoi.md) - cumulative - [plain](/playlists/plain/1IDfsEC88SH30ppwQrOJoi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1IDfsEC88SH30ppwQrOJoi)
 
-### [Ultra Club Hits](https://open.spotify.com/playlist/1IDfsEC88SH30ppwQrOJoi)
+### [NYE Party Vibes](https://open.spotify.com/playlist/1IDfsEC88SH30ppwQrOJoi)
 
-> High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
+> High energy, club songs from around the world! &lt;3
 
 454 songs - 23 hr 22 min
 

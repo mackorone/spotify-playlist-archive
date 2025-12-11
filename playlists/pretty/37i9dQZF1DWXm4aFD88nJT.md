@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXm4aFD88nJT.md) - [plain]
 
 > Улюблені пісні українською мовою в 2025 році\. Обкладинка: The Maneken
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,665 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,678 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

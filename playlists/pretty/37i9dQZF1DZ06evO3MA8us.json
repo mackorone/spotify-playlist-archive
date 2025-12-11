@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 35248,
+  "num_followers": 35250,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAATCGAozBvtuQK6L0JXKsnd",
+  "snapshot_id": "aTdmgAAAAAA7noWp8+eJY7A+5W5PKRP+",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Glorioso D\u00eda",
+        "url": "https://open.spotify.com/album/4Xe7CGMiMfH2QG0folDw1i"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 260160,
+      "name": "Glorioso D\u00eda",
+      "url": "https://open.spotify.com/track/0ksqrKoeNvywkfeqltzVQ3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Call on Heaven (Live)",
         "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
       },
@@ -51,26 +71,6 @@
       "duration_ms": 415768,
       "name": "Fall Like Rain - Live From Passion 2024",
       "url": "https://open.spotify.com/track/1e1HPM8FnWNSzap6ZI6s4f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Glorioso D\u00eda",
-        "url": "https://open.spotify.com/album/4Xe7CGMiMfH2QG0folDw1i"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 260160,
-      "name": "Glorioso D\u00eda",
-      "url": "https://open.spotify.com/track/0ksqrKoeNvywkfeqltzVQ3"
     },
     {
       "added_at": null,
@@ -407,6 +407,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "At Easter",
+        "url": "https://open.spotify.com/album/5RqbrQhdemPBZRt0Nv14Fx"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chidima",
+          "url": "https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 402973,
+      "name": "Agnus Dei / King of Kings",
+      "url": "https://open.spotify.com/track/2GwhmLK4T0l15MRxy56PCu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "He Who Is To Come",
         "url": "https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or"
       },
@@ -447,38 +479,6 @@
       "duration_ms": 303653,
       "name": "There\u2019s Nothing That Our God Can\u2019t Do - Live",
       "url": "https://open.spotify.com/track/0KigSoVvXDoiuCr1NcEU1k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At Easter",
-        "url": "https://open.spotify.com/album/5RqbrQhdemPBZRt0Nv14Fx"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Chidima",
-          "url": "https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 402973,
-      "name": "Agnus Dei / King of Kings",
-      "url": "https://open.spotify.com/track/2GwhmLK4T0l15MRxy56PCu"
     },
     {
       "added_at": null,
@@ -867,6 +867,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Passion: Our Love Is Loud (Live)",
+        "url": "https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 278440,
+      "name": "God Of Wonders - Live",
+      "url": "https://open.spotify.com/track/4VvhdAJYKkQoVqug73IeOL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Passion: A Generation United For His Renown",
         "url": "https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 352653,
       "name": "Marvelous Light - Live",
       "url": "https://open.spotify.com/track/2CniJL7x5qnBiCDJuV9pzL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Passion: Everything Glorious",
-        "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 396666,
-      "name": "I Stand Amazed (How Marvelous)",
-      "url": "https://open.spotify.com/track/5I49PGcxUCZFoMpZ6s9lj5"
     },
     {
       "added_at": null,
@@ -927,8 +927,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: Our Love Is Loud (Live)",
-        "url": "https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy"
+        "name": "Passion: Everything Glorious",
+        "url": "https://open.spotify.com/album/1plOtC0txpyPtkeb6tlixF"
       },
       "artists": [
         {
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 278440,
-      "name": "God Of Wonders - Live",
-      "url": "https://open.spotify.com/track/4VvhdAJYKkQoVqug73IeOL"
+      "duration_ms": 396666,
+      "name": "I Stand Amazed (How Marvelous)",
+      "url": "https://open.spotify.com/track/5I49PGcxUCZFoMpZ6s9lj5"
     },
     {
       "added_at": null,
@@ -963,6 +963,26 @@
       "duration_ms": 291600,
       "name": "How Great Is Our God - Live",
       "url": "https://open.spotify.com/track/6mOjAGbAr6yZFxuhC2cAYx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: Our Love Is Loud (Live)",
+        "url": "https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 291626,
+      "name": "Here I Am To Worship - Live",
+      "url": "https://open.spotify.com/track/2Cg6FXKNsP1JV4Nzoz2six"
     },
     {
       "added_at": null,
@@ -1007,8 +1027,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: Our Love Is Loud (Live)",
-        "url": "https://open.spotify.com/album/1NgdxA1GTFVNUvb2dxOaqy"
+        "name": "The Best Of Passion (So Far) [Live]",
+        "url": "https://open.spotify.com/album/4XEkJ32aRYJ85OnaEykBEc"
       },
       "artists": [
         {
@@ -1016,13 +1036,13 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "David Crowder Band",
+          "url": "https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS"
         }
       ],
-      "duration_ms": 291626,
-      "name": "Here I Am To Worship - Live",
-      "url": "https://open.spotify.com/track/2Cg6FXKNsP1JV4Nzoz2six"
+      "duration_ms": 325280,
+      "name": "O Praise Him (All This For A King) - Live",
+      "url": "https://open.spotify.com/track/2EVF3pxll6FplxIUyXGZOd"
     },
     {
       "added_at": null,
@@ -1043,26 +1063,6 @@
       "duration_ms": 260306,
       "name": "Buen Padre",
       "url": "https://open.spotify.com/track/2CmidRjwtCBIvxUfNAv4Ye"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Passion (So Far) [Live]",
-        "url": "https://open.spotify.com/album/4XEkJ32aRYJ85OnaEykBEc"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "David Crowder Band",
-          "url": "https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS"
-        }
-      ],
-      "duration_ms": 325280,
-      "name": "O Praise Him (All This For A King) - Live",
-      "url": "https://open.spotify.com/track/2EVF3pxll6FplxIUyXGZOd"
     }
   ],
   "unique_name": "This Is Passion",

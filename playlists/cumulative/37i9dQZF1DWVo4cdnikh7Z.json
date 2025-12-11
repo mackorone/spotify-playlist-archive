@@ -7907,6 +7907,32 @@
     },
     {
       "album": {
+        "name": "Chikku Chikko (From \"Mellisai\")",
+        "url": "https://open.spotify.com/album/4PCAsPWnw4FcG5GtXbbtGO"
+      },
+      "artists": [
+        {
+          "name": "Shankar Rangarajan",
+          "url": "https://open.spotify.com/artist/6eBRmUN4QlzaBa1f7IC4uj"
+        },
+        {
+          "name": "Dhirav",
+          "url": "https://open.spotify.com/artist/4b38Dcs0134MuY0Xr9FsUK"
+        },
+        {
+          "name": "U. Sai Gayatri",
+          "url": "https://open.spotify.com/artist/2ktwdagQXXQVtbEUILLReJ"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176560,
+      "name": "Chikku Chikko (From \"Mellisai\")",
+      "url": "https://open.spotify.com/track/6Lfu2473cNwTCYJv3LPSve"
+    },
+    {
+      "album": {
         "name": "Good Night (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mtdCzPkXkjtTkYev6EgPQ"
       },
@@ -21230,7 +21256,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 195000,
       "name": "Karuppu Car - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/7tYuCHklj9cSjkI2l5i0R1"
@@ -27124,10 +27150,6 @@
         {
           "name": "Chinmayi",
           "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        },
-        {
-          "name": "Kailas",
-          "url": "https://open.spotify.com/artist/2y67yyQYTtfZsXMP6CmZ61"
         }
       ],
       "date_added": "2025-12-09",

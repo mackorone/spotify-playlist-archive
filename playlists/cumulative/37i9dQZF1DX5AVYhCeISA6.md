@@ -4,7 +4,7 @@
 
 > KAROL G nos inspira 🌼
 
-240 songs - 13 hr 1 min
+241 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Al Lau](https://open.spotify.com/track/1oeIC89Q2kH7pBhUnGGFi0) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Al Lau](https://open.spotify.com/album/3ub3CVweJ2BJAZD1PTm4st) | 2:44 | 2021-12-06 | 2023-03-02 |
 | [algo así](https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamantes y espinas](https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T) | 3:33 | 2022-08-31 | 2023-05-13 |
 | [Alguien Más](https://open.spotify.com/track/0xfmcMetmQwClfYRarKtyY) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:22 | 2021-12-06 | 2023-03-02 |
+| [ALMA](https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 2:56 | 2025-12-10 |  |
 | [AMANECER](https://open.spotify.com/track/1JsmV1V1IRPR44tVDHpYUZ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 3:23 | 2024-04-13 |  |
 | [Amiga Mía](https://open.spotify.com/track/1tTEcJKC5uAtIoPrWCkmXZ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:44 | 2025-06-27 | 2025-11-25 |
 | [Amor Eterno](https://open.spotify.com/track/5b2uPv5SDLm39Wtp5I7ljQ) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Amor Eterno](https://open.spotify.com/album/6buOIhNwPXqiwJgVSOlCSa) | 5:33 | 2021-12-06 | 2021-12-28 |
@@ -146,7 +147,7 @@
 | [Me Lo Merezco](https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco](https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio) | 2:52 | 2024-07-24 |  |
 | [Mi Música](https://open.spotify.com/track/2AlHpf178cwGhoBUEyhBUv) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Mi Musica](https://open.spotify.com/album/6OfEz0fEQiNmmJiKtOGWvQ) | 2:42 | 2021-12-06 | 2022-05-07 |
 | [Minifalda](https://open.spotify.com/track/4cccqGxzMZXzBrdNUKjnIl) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Minifalda](https://open.spotify.com/album/67Pk3PkpV1j7xYf4dw001k) | 2:58 | 2021-12-06 |  |
-| [MiuMiu](https://open.spotify.com/track/06P2zNCmRsB8aQBZo78D2o) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [MiuMiu](https://open.spotify.com/album/1fWk1CMAtVYbXJTUZKUohA) | 2:59 | 2025-06-27 |  |
+| [MiuMiu](https://open.spotify.com/track/06P2zNCmRsB8aQBZo78D2o) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [MiuMiu](https://open.spotify.com/album/1fWk1CMAtVYbXJTUZKUohA) | 2:59 | 2025-06-27 | 2025-12-11 |
 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 | 2021-12-06 | 2023-03-02 |
 | [Muñecas](https://open.spotify.com/track/4yPmTUkWmUfLPQLCccp0DR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:36 | 2023-03-01 | 2024-07-25 |
 | [Nada](https://open.spotify.com/track/79oKiAQpS92aJgIS5HvC2I) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Nada](https://open.spotify.com/album/2HVtwbx35kUdU82UEUPcdq) | 3:21 | 2021-12-06 | 2022-05-07 |

@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1970s. Cover: ABBA",
-  "num_followers": 5778232,
+  "num_followers": 5778434,
   "original_name": "All Out 70s",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 199396,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "American Pie",
         "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 516893,
       "name": "American Pie",
       "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 199396,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -927,18 +927,18 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "The Game (2011 Remaster)",
-        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 163373,
-      "name": "Crazy Little Thing Called Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
+      "duration_ms": 252960,
+      "name": "Fernando",
+      "url": "https://open.spotify.com/track/4BM8yJ0PzBi2ZewpMTOxtx"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -959,6 +959,22 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
+        "name": "The Game (2011 Remaster)",
+        "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Crazy Little Thing Called Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
         "name": "Agents Of Fortune",
         "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 308123,
       "name": "(Don't Fear) The Reaper",
       "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 252960,
-      "name": "Fernando",
-      "url": "https://open.spotify.com/track/4BM8yJ0PzBi2ZewpMTOxtx"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "Don't Stop - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 171533,
       "name": "Burning Love",
       "url": "https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "Don't Stop - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Minute by Minute",
-        "url": "https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "What a Fool Believes",
-      "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "A Night At The Opera (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+        "name": "Minute by Minute",
+        "url": "https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB"
       },
       "artists": [
         {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
         }
       ],
-      "duration_ms": 300400,
-      "name": "Baba O'Riley",
-      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
+      "duration_ms": 223866,
+      "name": "What a Fool Believes",
+      "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1227,6 +1211,22 @@
       "duration_ms": 276493,
       "name": "Escape (The Pina Colada Song)",
       "url": "https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 300400,
+      "name": "Baba O'Riley",
+      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "The Captain and Me",
-        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 207266,
-      "name": "Long Train Runnin'",
-      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "City to City",
         "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
       },
@@ -1291,22 +1275,6 @@
       "duration_ms": 267773,
       "name": "Right Down the Line",
       "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 243132,
-      "name": "Don't Bring Me Down",
-      "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1343,6 +1311,38 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
+        "name": "The Captain and Me",
+        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 207266,
+      "name": "Long Train Runnin'",
+      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 243132,
+      "name": "Don't Bring Me Down",
+      "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Stranger In Town",
-        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "Old Time Rock & Roll",
-      "url": "https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Some Girls",
         "url": "https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 288666,
       "name": "Miss You - Remastered",
       "url": "https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Stranger In Town",
+        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 194146,
+      "name": "Old Time Rock & Roll",
+      "url": "https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 286920,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Sticky Fingers (Remastered)",
         "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 341773,
       "name": "Wild Horses - 2009 Mix",
       "url": "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 286920,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "L.A. Woman",
-        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 434720,
-      "name": "Riders on the Storm",
-      "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Goats Head Soup (Remastered 2009)",
         "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
       },
@@ -1555,18 +1539,18 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Still Bill",
-        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+        "name": "L.A. Woman",
+        "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
       },
       "artists": [
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 258834,
-      "name": "Lean on Me",
-      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
+      "duration_ms": 434720,
+      "name": "Riders on the Storm",
+      "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1583,6 +1567,22 @@
       "duration_ms": 300000,
       "name": "Play That Funky Music",
       "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 258834,
+      "name": "Lean on Me",
+      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "Sir Duke",
-      "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 215319,
       "name": "Blame It on the Boogie",
       "url": "https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "Sir Duke",
+      "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Imagination (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
-        }
-      ],
-      "duration_ms": 279144,
-      "name": "Midnight Train to Georgia",
-      "url": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "The Age Of Plastic",
         "url": "https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 252773,
       "name": "Video Killed The Radio Star",
       "url": "https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Imagination (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "duration_ms": 279144,
+      "name": "Midnight Train to Georgia",
+      "url": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
+        "name": "Why Can't We Be Friends?",
+        "url": "https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN"
+      },
+      "artists": [
+        {
+          "name": "War",
+          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
+        }
+      ],
+      "duration_ms": 190826,
+      "name": "Low Rider",
+      "url": "https://open.spotify.com/track/7Bz8yww6UMbTgTVLG6zbI4"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
@@ -1943,22 +1959,6 @@
       "duration_ms": 216906,
       "name": "Summer Nights - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
-        "name": "Why Can't We Be Friends?",
-        "url": "https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN"
-      },
-      "artists": [
-        {
-          "name": "War",
-          "url": "https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I"
-        }
-      ],
-      "duration_ms": 190826,
-      "name": "Low Rider",
-      "url": "https://open.spotify.com/track/7Bz8yww6UMbTgTVLG6zbI4"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Every Picture Tells A Story",
-        "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 350266,
-      "name": "Maggie May",
-      "url": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
         "name": "London Calling (Remastered)",
         "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
       },
@@ -2043,34 +2027,18 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Talking Book",
-        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+        "name": "Every Picture Tells A Story",
+        "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 266133,
-      "name": "Superstition",
-      "url": "https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
-        "name": "Hotel California (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 286219,
-      "name": "Life in the Fast Lane - 2013 Remaster",
-      "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
+      "duration_ms": 350266,
+      "name": "Maggie May",
+      "url": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -2091,6 +2059,38 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 286219,
+      "name": "Life in the Fast Lane - 2013 Remaster",
+      "url": "https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 266133,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
         "name": "Get The Knack",
         "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
       },
@@ -2103,6 +2103,22 @@
       "duration_ms": 295400,
       "name": "My Sharona",
       "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
+    },
+    {
+      "added_at": "2025-05-28 20:15:31",
+      "album": {
+        "name": "Take The Heat Off Me",
+        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -2135,22 +2151,6 @@
       "duration_ms": 204800,
       "name": "Because the Night",
       "url": "https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u"
-    },
-    {
-      "added_at": "2025-05-28 20:15:31",
-      "album": {
-        "name": "Take The Heat Off Me",
-        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 242240,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -2395,18 +2395,18 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "In Through the out Door (Remaster)",
-        "url": "https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2"
+        "name": "Electric Warrior",
+        "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
       },
       "artists": [
         {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
         }
       ],
-      "duration_ms": 353720,
-      "name": "All My Love - Remaster",
-      "url": "https://open.spotify.com/track/5hhVpGIBlqAU5yJEOmrk5o"
+      "duration_ms": 262613,
+      "name": "Get It On",
+      "url": "https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF"
     },
     {
       "added_at": "2025-05-28 20:15:31",
@@ -2427,18 +2427,18 @@
     {
       "added_at": "2025-05-28 20:15:31",
       "album": {
-        "name": "Electric Warrior",
-        "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
+        "name": "In Through the out Door (Remaster)",
+        "url": "https://open.spotify.com/album/1W5CtQ7Ng0kP3lXyz7PIT2"
       },
       "artists": [
         {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         }
       ],
-      "duration_ms": 262613,
-      "name": "Get It On",
-      "url": "https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF"
+      "duration_ms": 353720,
+      "name": "All My Love - Remaster",
+      "url": "https://open.spotify.com/track/5hhVpGIBlqAU5yJEOmrk5o"
     }
   ],
   "unique_name": "All Out 70s",

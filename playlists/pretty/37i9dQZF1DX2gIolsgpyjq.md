@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > Editor's picks from Fresh Finds Nordics in 2025\. Cover: Olga Myko
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,622 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,629 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 49 | [What It Feels Like](https://open.spotify.com/track/33ejPqwHiMJGVMSqbBmaJc) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [What It Feels Like](https://open.spotify.com/album/0Dw2vUpQUBBkNGM85o0ltK) | 2:58 |
 | 50 | [Dreams](https://open.spotify.com/track/4JlNq9ivHuNlxlOaag67Dc) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Dreams](https://open.spotify.com/album/6tWZEkyND0CHp8tbXA1Zr6) | 4:07 |
 
-Snapshot ID: `AAAAABGgE4mowcfoGJqTYfXjaMacVlhu`
+Snapshot ID: `AAAAANedO0/QIVzNSh4tD9Osa5acFVxn`

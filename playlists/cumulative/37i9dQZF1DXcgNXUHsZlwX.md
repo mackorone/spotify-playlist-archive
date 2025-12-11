@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-539 songs - 1 day 8 hr 1 min
+540 songs - 1 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Hostage](https://open.spotify.com/track/1ndqHrik6dcm5ZIu7bZUY0) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Satellite](https://open.spotify.com/album/7cTthdPgZAHv44s7VCar46) | 3:49 | 2022-03-18 | 2022-09-26 |
 | [Hôtel W](https://open.spotify.com/track/1m4j2CTdFInGzB9LhUx3ST) | [Tina\-Ève](https://open.spotify.com/artist/5Qx0enclC0G69AWx3CUIq8) | [Hôtel W](https://open.spotify.com/album/2OHrWg2fgiBqDTbpi97yYD) | 3:08 | 2021-01-03\* | 2021-01-27 |
 | [I Came Here to Leave You](https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1) | 2:58 | 2024-05-17 |  |
-| [I Can't Say No](https://open.spotify.com/track/3EIuvIdROGqSO17ZmLS9gZ) | [Bennett Sobel](https://open.spotify.com/artist/10xsha6upLn5rjO5ubnLCX) | [At Least There Was Sun](https://open.spotify.com/album/1zXmCKIvv5xFaocmUzOxkf) | 3:11 | 2025-10-24 |  |
+| [I Can't Say No](https://open.spotify.com/track/3EIuvIdROGqSO17ZmLS9gZ) | [Bennett Sobel](https://open.spotify.com/artist/10xsha6upLn5rjO5ubnLCX) | [At Least There Was Sun](https://open.spotify.com/album/1zXmCKIvv5xFaocmUzOxkf) | 3:11 | 2025-10-24 | 2025-12-11 |
 | [If Life Were a Movie](https://open.spotify.com/track/1NbVr5Rjhr1cFRGaYTNhGw) | [Hanorah](https://open.spotify.com/artist/3RxOQic8AVfAfIb17hVKUo) | [If Life Were a Movie](https://open.spotify.com/album/6HZMfM4tBRQz93HsRouDti) | 2:15 | 2022-07-08 | 2022-07-25 |
 | [Incandescente](https://open.spotify.com/track/1pnL2LoyZmKtxsWjsfRlHN) | [Lonny](https://open.spotify.com/artist/4tqlnth2QyipMf30eETFcL) | [Incandescente](https://open.spotify.com/album/5QEaxcY9qsIq1E4Rp8fc8F) | 2:17 | 2021-01-03\* | 2021-05-03 |
 | [Insensible](https://open.spotify.com/track/6HQY0FUesf8elD9rUXtZb8) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Légèrement](https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc) | 3:27 | 2022-07-08 | 2023-09-23 |
@@ -534,6 +534,7 @@
 | [Y'a un vent qui me ramene](https://open.spotify.com/track/6rnHABZ9tb7BKy5kaGjOuI) | [Zachary Richard](https://open.spotify.com/artist/6mpIGgvVVlb1m1OwoGKRuY) | [Y'a un vent qui me ramene](https://open.spotify.com/album/3pBkX3gEaYehrwiNvhOa18) | 3:48 | 2021-01-15 | 2021-01-30 |
 | [Ya sé ya sé](https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068) | [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [Ya sé ya sé](https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe) | 3:43 | 2025-11-14 |  |
 | [You Can Dance](https://open.spotify.com/track/7qJEpe7TlhgdRSnj0uSbNZ) | [Charlie Flood](https://open.spotify.com/artist/3F7GIoG742wl7pyfVz6BSx) | [You Can Dance](https://open.spotify.com/album/6aYaK2B0XlQmOPoTbIikYG) | 4:07 | 2025-12-05 |  |
+| [You Turned the Tables on Me](https://open.spotify.com/track/5I8hJGC9av0vwixbnP9G9P) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [You Turned the Tables on Me](https://open.spotify.com/album/10vEhaXhvSrI1o6xxCyjM2) | 4:40 | 2025-12-05 |  |
 | [À bientôt](https://open.spotify.com/track/2hQqWfiludT87JzCvNVW5U) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [À bientôt](https://open.spotify.com/album/4nrDrQTrCS5re6HQNRoP6S) | 3:24 | 2022-08-30 | 2022-12-02 |
 | [À l'aube de nous](https://open.spotify.com/track/6CzyUPXfxPfbb5fy078dhD) | [Amelie Mandeville](https://open.spotify.com/artist/4yvYNGWWLPkqEnP4d9gNk0) | [À l'aube de nous](https://open.spotify.com/album/2IRh7BduO3bjEehDT5g6jq) | 3:13 | 2021-01-15 | 2022-07-28 |
 | [À l'ombre dans le désert](https://open.spotify.com/track/5IMkll6yUMCqJIYWPkyVEY) | [Michel Rivard](https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN) | [Après, on va où?](https://open.spotify.com/album/26EVICDblNF9U2qYDtQm8F) | 3:13 | 2025-10-31 |  |

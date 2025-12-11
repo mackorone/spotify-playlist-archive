@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Bryson Tiller
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,115,171 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,115,256 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 | 21 | [Options](https://open.spotify.com/track/6v9mfppMGeusTxuauQ4r2P) | [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Options](https://open.spotify.com/album/6O6QQyRj5A4lRMIwrE7Wlr) | 2:40 |
 | 22 | [MIXED EMOTIONS \(feat\. Leon Thomas\)](https://open.spotify.com/track/606zbOQvuTi9dNxnlZJ31q) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [TYCOON](https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK) | 4:03 |
 | 23 | [Drunk Sex](https://open.spotify.com/track/7IaUQ5gFilm6gCdmzEaI6L) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Drunk Sex](https://open.spotify.com/album/13jgn0pGFcJeFlOIQzGC9d) | 3:46 |
-| 24 | [Tomorrow Today](https://open.spotify.com/track/3747dAjh9Z8S5kADdi8Uht) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:56 |
+| 24 | [Tomorrow Today \(with Kel\-P\)](https://open.spotify.com/track/3747dAjh9Z8S5kADdi8Uht) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 2:56 |
 | 25 | [Smoke n Drank](https://open.spotify.com/track/1ZdJs4bRHZ3SxQZbsN7GK1) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [Smoke n Drank](https://open.spotify.com/album/5lB05a1yY6RezxtXAOkU9y) | 2:31 |
 | 26 | [Can't Hide It \(feat\. Jhené Aiko\)](https://open.spotify.com/track/0jl2VaNUWun3uwy5LPbDyx) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Can't Hide It \(feat\. Jhené Aiko\)](https://open.spotify.com/album/0gIhjFBD2U7TX7O7ZGRsb4) | 2:42 |
 | 27 | [Tiramisu](https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Tiramisu](https://open.spotify.com/album/20CiqvzgoerVOQraNJT7t3) | 2:18 |

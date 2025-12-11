@@ -1,6 +1,6 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 808870,
+  "num_followers": 808925,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "A New Flame (Expanded Version)",
-        "url": "https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew"
-      },
-      "artists": [
-        {
-          "name": "Simply Red",
-          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "If You Don't Know Me by Now - 2008 Remaster",
-      "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Armageddon - The Album",
         "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 298760,
       "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
       "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "A New Flame (Expanded Version)",
+        "url": "https://open.spotify.com/album/0R8Pl54TXSwXWtAEVaP7ew"
+      },
+      "artists": [
+        {
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "If You Don't Know Me by Now - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7DFawVSjI88xR9mjnWwURg"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Time, Love & Tenderness",
-        "url": "https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm"
-      },
-      "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/3ascnOSOR5MX901ylGuhcl"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1DjxZpmeR9Dzu9tF4J44S7"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 236760,
       "name": "I'll Make Love To You",
       "url": "https://open.spotify.com/track/7dfl9X38RhIvB3oSmmneq3"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Time, Love & Tenderness",
+        "url": "https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/3ascnOSOR5MX901ylGuhcl"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The One Thing",
-        "url": "https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX"
-      },
-      "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        }
-      ],
-      "duration_ms": 304866,
-      "name": "Said I Loved You...But I Lied",
-      "url": "https://open.spotify.com/track/2nfMrwg3aRhSAv4HX7IzJL"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Paid Vacation",
         "url": "https://open.spotify.com/album/4Rrm9Du0htwyux1jNjsYCx"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 214826,
       "name": "Now And Forever",
       "url": "https://open.spotify.com/track/2V2pxcEfn5zs79sE7qcewA"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The One Thing",
+        "url": "https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 304866,
+      "name": "Said I Loved You...But I Lied",
+      "url": "https://open.spotify.com/track/2nfMrwg3aRhSAv4HX7IzJL"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Amos Lee",
-        "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 251440,
-      "name": "Arms Of A Woman",
-      "url": "https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "The Best of Luther Vandross The Best of Love",
         "url": "https://open.spotify.com/album/5rrSO0mgkVmZF1qjPn0TKD"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 323000,
       "name": "Here and Now",
       "url": "https://open.spotify.com/track/042pmCix7CPth3l3X28jl1"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Amos Lee",
+        "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 251440,
+      "name": "Arms Of A Woman",
+      "url": "https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Give Me The Reason",
-        "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 285727,
-      "name": "There's Nothing Better Than Love",
-      "url": "https://open.spotify.com/track/5ufz4Pc89GU8FBAp1lPatq"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Vital Signs",
         "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 252613,
       "name": "The Search Is Over",
       "url": "https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Give Me The Reason",
+        "url": "https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 285727,
+      "name": "There's Nothing Better Than Love",
+      "url": "https://open.spotify.com/track/5ufz4Pc89GU8FBAp1lPatq"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Sweet Baby James",
-        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 200579,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Teaser And The Firecat",
         "url": "https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo"
       },
@@ -2119,6 +2103,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Sweet Baby James",
+        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 200579,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "...Hits",
         "url": "https://open.spotify.com/album/7hV0YSxAQSng8H0zMR0HBf"
       },
@@ -2131,38 +2131,6 @@
       "duration_ms": 204600,
       "name": "Against All Odds (Take A Look At Me Now)",
       "url": "https://open.spotify.com/track/2hMF7H2dO3oMz1WwIQnQw1"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Exclusive",
-        "url": "https://open.spotify.com/album/5t7BjMUC2HXa5cWDOWmnVg"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 252160,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/1j3H54xdahpAkNI0q6S89q"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Take Me Home: Yearbook Edition",
-        "url": "https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 219640,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2199,6 +2167,38 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Exclusive",
+        "url": "https://open.spotify.com/album/5t7BjMUC2HXa5cWDOWmnVg"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 252160,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/1j3H54xdahpAkNI0q6S89q"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Take Me Home: Yearbook Edition",
+        "url": "https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 219640,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "David Soul",
         "url": "https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx"
       },
@@ -2231,38 +2231,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Original Soundtrack",
-        "url": "https://open.spotify.com/album/7pHLyF1GWxk65WE6Rkrod3"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 366640,
-      "name": "I'm Not In Love",
-      "url": "https://open.spotify.com/track/6cuKJ1bFFy4OjfkCI9YBqc"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Waking Up The Neighbours",
-        "url": "https://open.spotify.com/album/0RhmLffWf3oRr6ahOS6G47"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 393640,
-      "name": "(Everything I Do) I Do It For You",
-      "url": "https://open.spotify.com/track/76qB2ZEZlEJAMqMqUjKusp"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Too Good At Goodbyes",
         "url": "https://open.spotify.com/album/7oiRNdTfUWmsx6DAjEe7DB"
       },
@@ -2275,22 +2243,6 @@
       "duration_ms": 201000,
       "name": "Too Good At Goodbyes - Edit",
       "url": "https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Let's Get It On (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 290960,
-      "name": "Let's Get It On",
-      "url": "https://open.spotify.com/track/0jHkgTtTaqg5LNCiYDQPUB"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2311,18 +2263,34 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Deep Cuts: The Best Of The Ballads",
-        "url": "https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR"
+        "name": "Waking Up The Neighbours",
+        "url": "https://open.spotify.com/album/0RhmLffWf3oRr6ahOS6G47"
       },
       "artists": [
         {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 208066,
-      "name": "To Be With You",
-      "url": "https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw"
+      "duration_ms": 393640,
+      "name": "(Everything I Do) I Do It For You",
+      "url": "https://open.spotify.com/track/76qB2ZEZlEJAMqMqUjKusp"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The Original Soundtrack",
+        "url": "https://open.spotify.com/album/7pHLyF1GWxk65WE6Rkrod3"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "duration_ms": 366640,
+      "name": "I'm Not In Love",
+      "url": "https://open.spotify.com/track/6cuKJ1bFFy4OjfkCI9YBqc"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2339,6 +2307,38 @@
       "duration_ms": 204326,
       "name": "You Are The Reason",
       "url": "https://open.spotify.com/track/2d3NAGCKudIYpTlRI6BI0s"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Let's Get It On (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 290960,
+      "name": "Let's Get It On",
+      "url": "https://open.spotify.com/track/0jHkgTtTaqg5LNCiYDQPUB"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Deep Cuts: The Best Of The Ballads",
+        "url": "https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 208066,
+      "name": "To Be With You",
+      "url": "https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2407,18 +2407,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "A Love Song Collection",
-        "url": "https://open.spotify.com/album/0AtWFXOdX6hnMIXRfpYoyS"
+        "name": "Shawn Mendes",
+        "url": "https://open.spotify.com/album/6AjREacSERvnQTe6GFTx3c"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 235720,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/4jPKdEJ5DNYv08C0BXaC11"
+      "duration_ms": 235746,
+      "name": "Fallin' All In You",
+      "url": "https://open.spotify.com/track/5I8oEqbk2ZBmQfXCrZbUFb"
     }
   ],
   "unique_name": "In the Arms of a Woman",

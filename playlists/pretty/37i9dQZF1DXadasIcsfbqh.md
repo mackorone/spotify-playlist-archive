@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 
 > Pop country hits of today and tomorrow\. Cover: Kelsea Ballerini
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,866 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,931 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 57 | [Single Again](https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Single Again](https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P) | 2:59 |
 | 58 | [Project](https://open.spotify.com/track/6TpqWzySgiHLoXvQvyGtqH) | [Chase McDaniel](https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz) | [Project](https://open.spotify.com/album/1G8cAFBiy4I0B2kri57wll) | 2:59 |
 | 59 | [I Can Feel It](https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [I Can Feel It](https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi) | 2:43 |
-| 60 | [Fragile](https://open.spotify.com/track/5LD1SWmhzKPPkRimY7BDM6) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Fragile](https://open.spotify.com/album/7teyHwrVJgZjPgdIx5oHtE) | 3:22 |
-| 61 | [Dancin’ In The Country](https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Dancin' In The Country](https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn) | 2:59 |
+| 60 | [Dancin’ In The Country](https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Dancin' In The Country](https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn) | 2:59 |
+| 61 | [Fragile](https://open.spotify.com/track/5LD1SWmhzKPPkRimY7BDM6) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Fragile](https://open.spotify.com/album/7teyHwrVJgZjPgdIx5oHtE) | 3:22 |
 | 62 | [Keith](https://open.spotify.com/track/7pcekwb2T8L4MIc29f9GXB) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Keith](https://open.spotify.com/album/7dWCUs7VGjsopOEB6VoQYv) | 2:51 |
 | 63 | [Beautiful As You](https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Beautiful As You](https://open.spotify.com/album/4vxNYdHwi4uGsgYDHlKLVG) | 2:43 |
 | 64 | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu) | 2:43 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 81 | [Talk Of The Town](https://open.spotify.com/track/3vDnYNZK21uZxBAGsPuWjz) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Talk Of The Town](https://open.spotify.com/album/02Azszdh3FeMdvKOwWRiS9) | 3:05 |
 | 82 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 |
 | 83 | [Better Liar](https://open.spotify.com/track/4HykouKy5aX0JT3oplCi1O) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Better Liar](https://open.spotify.com/album/6GQ5SLUlVBc95MZiDJrU2j) | 2:49 |
-| 84 | [Body Talk](https://open.spotify.com/track/3thdlnGijHmj46ZJkxBah7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Body Talk](https://open.spotify.com/album/2vBsfFIaHeUvmyXIWUpx5I) | 2:27 |
-| 85 | [All I Forgot \(feat\. Joe Jonas\)](https://open.spotify.com/track/4fuLKB0OQsrvsPh9lQWepR) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [All I Forgot](https://open.spotify.com/album/439gP9SIn0l4lOAeK9i7YV) | 2:58 |
+| 84 | [All I Forgot \(feat\. Joe Jonas\)](https://open.spotify.com/track/4fuLKB0OQsrvsPh9lQWepR) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [All I Forgot](https://open.spotify.com/album/439gP9SIn0l4lOAeK9i7YV) | 2:58 |
+| 85 | [Body Talk](https://open.spotify.com/track/3thdlnGijHmj46ZJkxBah7) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Body Talk](https://open.spotify.com/album/2vBsfFIaHeUvmyXIWUpx5I) | 2:27 |
 | 86 | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8) | 2:39 |
 | 87 | [Home Sweet](https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Home Sweet](https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8) | 3:25 |
 | 88 | [Woman You Got](https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Woman You Got](https://open.spotify.com/album/19GuJrC5nV45shkMHbBEXm) | 2:57 |

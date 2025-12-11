@@ -4,7 +4,7 @@
 
 > Where afrobeats meets amapiano.<br/>Cover:  Young Jonn
 
-106 songs - 5 hr 13 min
+107 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [NBA](https://open.spotify.com/track/6SYSI5Fol8vWUexnGsCY0E) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [NBA](https://open.spotify.com/album/2ALybwwwe9YvLxFV7Ok5nK) | 2:49 | 2025-10-24 | 2025-12-05 |
 | [NO SLEEP $$$ \(feat\. Young Jonn\)](https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 3:07 | 2025-10-24 |  |
 | [Ojapiano](https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Ojapiano](https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e) | 2:48 | 2025-10-24 |  |
+| [Ok \(feat\. Olamide & Ayanfe\)](https://open.spotify.com/track/5V5psOq4X9OYGEeMoyjigp) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Ayanfe](https://open.spotify.com/artist/6JRUGmX8hxwvYGHtw374eq) | [Unfinished Business](https://open.spotify.com/album/13O4oJwTFrStW5mCj1rVUD) | 3:04 | 2025-12-05 |  |
 | [ONE CALL](https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [ONE CALL](https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a) | 2:38 | 2025-10-24 |  |
 | [PALAZZO](https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [PALAZZO](https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf) | 3:06 | 2025-10-24 |  |
 | [Para](https://open.spotify.com/track/7AbI4k9HsEcBX115clkBct) | [XVI](https://open.spotify.com/artist/0utiBmutysHdb0zXFCLMT2), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Para](https://open.spotify.com/album/1UM6CkIqcgHX2xhEQz3csf) | 2:26 | 2025-10-24 | 2025-12-05 |
@@ -101,7 +102,7 @@
 | [Seedy](https://open.spotify.com/track/1fIvn2nWi30rf1a7aBPNXZ) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [CHELLA CHANT](https://open.spotify.com/album/51Ges1TwmyOb5ZTThiIjlA) | 2:15 | 2025-11-28 |  |
 | [Shakabulizzy](https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Shakabulizzy](https://open.spotify.com/album/3C9TWb7MPEM0gOJOmEk54s) | 2:45 | 2025-10-24 |  |
 | [Shona Phantsi / On Da Floor](https://open.spotify.com/track/0F4NG5PvVdTMB5YV4j0fQa) | [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn), [Ney The Bae](https://open.spotify.com/artist/2ejPIS2ocEAjCNhqkEtblo), [Smilo](https://open.spotify.com/artist/23l0XAl8H66TddrdGFVYQL) | [Shona Phantsi / On Da Floor](https://open.spotify.com/album/2cM4DYlvErJdKVeQcEPKlG) | 5:57 | 2025-12-05 |  |
-| [Something Something \- Remix](https://open.spotify.com/track/74sqFS4eNKJnHAldLufGt3) | [Tspykes](https://open.spotify.com/artist/04qW0qIvhP5JIUU8z34uaw), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Something Something \(Remix\)](https://open.spotify.com/album/6jPutLhafLfSu78EZkqfZs) | 2:57 | 2025-12-05 |  |
+| [Something Something \- Remix](https://open.spotify.com/track/74sqFS4eNKJnHAldLufGt3) | [Tspykes](https://open.spotify.com/artist/04qW0qIvhP5JIUU8z34uaw), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Something Something \(Remix\)](https://open.spotify.com/album/6jPutLhafLfSu78EZkqfZs) | 2:57 | 2025-12-05 | 2025-12-11 |
 | [Speed](https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Speed](https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo) | 2:54 | 2025-11-14 |  |
 | [Stronger](https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Jiggy Forever](https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp) | 2:21 | 2025-10-24 |  |
 | [Suru](https://open.spotify.com/track/347Lf3F7lGmiKXBPNE3GdA) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 2:18 | 2025-10-24 | 2025-11-05 |

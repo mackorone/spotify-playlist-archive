@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,752,783 likes - 120 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,752,980 likes - 120 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,18 +89,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 79 | [Call On Me \- Radio Edit](https://open.spotify.com/track/3uLSUZEmTY50H6Kw17lpfW) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call On Me](https://open.spotify.com/album/4FN8F3aiiUagVSBBGW5ULu) | 2:51 |
 | 80 | [Exploration of Space \- Radio Edit](https://open.spotify.com/track/4iLL2yVVG19TAJYssbMeBT) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Exploration of Space](https://open.spotify.com/album/5ibY1QH7VwnDLnye7mTzvx) | 3:36 |
 | 81 | [World, Hold On](https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [Western Dream](https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq) | 6:41 |
-| 82 | [Cry for You](https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb) | [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Cry for You](https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD) | 3:31 |
-| 83 | [In White Rooms](https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r) | 5:26 |
+| 82 | [In White Rooms](https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r) | 5:26 |
+| 83 | [Cry for You](https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb) | [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Cry for You](https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD) | 3:31 |
 | 84 | [Adagio For Strings](https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Just Be](https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA) | 7:23 |
 | 85 | [Heartbroken \- Edit](https://open.spotify.com/track/3dhzZ068rKh2fRB2uitX18) | [T2](https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd) | [Heartbroken](https://open.spotify.com/album/64swz2DD6MbqPA2hXTvdru) | 2:58 |
 | 86 | [Sun Is Up \- Play & Win Radio Edit](https://open.spotify.com/track/6eU60ONpRUQPIOiWaxfWOF) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [I Am The Club Rocker](https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6) | 3:44 |
 | 87 | [Love Is Gone \- Fred Rister & Joachim Garraud Radio Edit Mix](https://open.spotify.com/track/4V9HEnprK5MfCGL8bHHy7y) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Pop Life](https://open.spotify.com/album/48hy8LYht8Gv9sOp1x7DyF) | 3:21 |
-| 88 | [Swoon](https://open.spotify.com/track/1xrr9bAS0zfjCXdLKpLJnA) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Further](https://open.spotify.com/album/5EOAvD6xmE1g9XV49wFzNG) | 6:05 |
+| 88 | [Go](https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Moby](https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4) | 3:37 |
 | 89 | [Dance4Life \(feat\. Maxi Jazz\) \- Radio Edit](https://open.spotify.com/track/1uVeunZcBInXIQOwFWxSKL) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Maxi Jazz](https://open.spotify.com/artist/2GKn4JgqBrRxt1UK12D6Rq) | [Dance4Life \(feat\. Maxi Jazz\)](https://open.spotify.com/album/2rZSgNPIi2STnDDx6snIQ5) | 3:33 |
-| 90 | [Day 'N' Night \- Club Mix](https://open.spotify.com/track/5BsRZqHI8oLMc1YKsHtauE) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Pacha Ibiza \- The House Collection \(2000\-2009\)](https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo) | 4:41 |
-| 91 | [Go](https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Moby](https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4) | 3:37 |
-| 92 | [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0) | [Back 2 House](https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm) | 3:31 |
-| 93 | [Take Me Away \- Vocal Radio Mix](https://open.spotify.com/track/2DBZoeYzOGURGY3nj8XpC7) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Believe](https://open.spotify.com/album/3SvVvqBTl3M5AftNbcSLdn) | 3:10 |
+| 90 | [Lady \(Hear Me Tonight\)](https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0) | [Back 2 House](https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm) | 3:31 |
+| 91 | [Take Me Away \- Vocal Radio Mix](https://open.spotify.com/track/2DBZoeYzOGURGY3nj8XpC7) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Believe](https://open.spotify.com/album/3SvVvqBTl3M5AftNbcSLdn) | 3:10 |
+| 92 | [Swoon](https://open.spotify.com/track/1xrr9bAS0zfjCXdLKpLJnA) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Further](https://open.spotify.com/album/5EOAvD6xmE1g9XV49wFzNG) | 6:05 |
+| 93 | [Day 'N' Night \- Club Mix](https://open.spotify.com/track/5BsRZqHI8oLMc1YKsHtauE) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Pacha Ibiza \- The House Collection \(2000\-2009\)](https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo) | 4:41 |
 | 94 | [Traffic \- Radio Edit](https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Just Be](https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA) | 2:57 |
 | 95 | [Put Your Hands Up for Detroit \- MC Mario Edit](https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Put Your Hands Up For Detroit](https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1) | 6:33 |
 | 96 | [The Longest Road \(feat\. Lissie\) \- Deadmau5 Remix Edit](https://open.spotify.com/track/0cP5GxZrtKCRQu7cbOqsBe) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [The Longest Road](https://open.spotify.com/album/3gAWkt3YKBDuaGWZdV46bt) | 3:59 |

@@ -2,9 +2,9 @@
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر\. غلاف: كريم كريستيانو
+> 🔥 أجمد المهرجانات في مصر\. الغلاف: عصام صاصا الكروان
 
-328 songs - 20 hr 25 min
+329 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [الحنين والمعلم](https://open.spotify.com/track/4fcFD3cOSNnyDs1GH97rQS) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [الحنين والمعلم](https://open.spotify.com/album/4UuqcNEutgvA1kKMmh6uye) | 2:33 | 2023-05-30 | 2024-02-01 |
 | [الخيانه مبدأ](https://open.spotify.com/track/0QN9AuFpqglmFR7enfH6CQ) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Ordony](https://open.spotify.com/artist/7MDBPW2W5Bs3BfRIym4H37) | [الخيانه مبدأ](https://open.spotify.com/album/1gMYpmTsZf4glH6ylR5RxX) | 2:39 | 2023-08-20 | 2024-05-11 |
 | [الدنيا قاسيه اتشقلبت بيا في ثواني](https://open.spotify.com/track/4IS4AYwUc96yYger9dMCow) | [Esaam Saasa](https://open.spotify.com/artist/6Zvk1o5BoBH9uZ89bK6TuG) | [الدنيا قاسيه اتشقلبت بيا في ثواني](https://open.spotify.com/album/5Alf5kSqGBco48J89enBIf) | 3:26 | 2025-04-07 | 2025-06-17 |
+| [الزم معايا حدودك \( بما ان كلو اتجاحد \)](https://open.spotify.com/track/2QScm7uOWDXD26SVII5GJr) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [الزم معايا حدودك \( بما ان كلو اتجاحد \)](https://open.spotify.com/album/2cKHDvqBjabqXHxGMcc8Gj) | 3:45 | 2025-12-10 |  |
 | [السكر جي \(خوجة في الجمب\)](https://open.spotify.com/track/3Hf81fxwZmFrTgqaSqyTfw) | [Fares Sokar](https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw) | [السكر جي \(خوجة في الجمب\)](https://open.spotify.com/album/1hzQl9blk5h3tZI5BGbqS7) | 3:31 | 2024-01-31 | 2024-05-11 |
 | [الشارع اتفسد \- اهلا بيكو يا مظابيط](https://open.spotify.com/track/5EVxFpZ5tYE8o0cYnoHoQy) | [Mostafa Elgen](https://open.spotify.com/artist/6waWgmPILhG345nVwJfb4N), [Hady El Soghayar](https://open.spotify.com/artist/60peYSKKIhlh480uUFP7yP) | [الشارع اتفسد \(اهلا بيكو يا مظابيط\)](https://open.spotify.com/album/5AASREJYv8UztFh6i1zjCS) | 3:17 | 2025-02-12 |  |
 | [الصبر طيب يا عيوني](https://open.spotify.com/track/6MlfIdyeZRo0yRWIvMojGQ) | [فرامل](https://open.spotify.com/artist/6xLqSnm62lhtPR82fNG0uT) | [الصبر طيب يا عيوني](https://open.spotify.com/album/091A89Fi8UwATSmL97THJ8) | 3:26 | 2023-06-16 | 2023-08-09 |
@@ -312,7 +313,7 @@
 | [نفسي ثم نفسي](https://open.spotify.com/track/361NL1PciW2K8iDsR0YRJj) | [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl), [Mody Amin](https://open.spotify.com/artist/65PQtmRWkjiL4TrRyLo2Gx) | [نفسي ثم نفسي](https://open.spotify.com/album/044urXR20UqWyDbYmQ7moP) | 4:04 | 2021-12-16 |  |
 | [هدي في قلبك طلقه \( لو عوزت تكلمني \)](https://open.spotify.com/track/3Ab2U2Yvs9kM0IuXxC1HmT) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [هدي في قلبك طلقه \( لو عوزت تكلمني \)](https://open.spotify.com/album/4UuC0L72EoVpiUo02fjolL) | 4:44 | 2022-10-16 | 2023-02-03 |
 | [هل تعلم ان المصلحه](https://open.spotify.com/track/4dbEBMii9RAuklJe8QQu6i) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [هل تعلم ان المصلحه](https://open.spotify.com/album/08D2FBmma4ZQWHICYpqywb) | 6:20 | 2022-01-10 | 2022-07-20 |
-| [هلا انا جيت تريح يلا](https://open.spotify.com/track/17H3IfzbBDHZQsR49cCqkA) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7), [مودي امين](https://open.spotify.com/artist/5KyjLQ01zRYXx6wLuiM8gI) | [هلا انا جيت تريح يلا](https://open.spotify.com/album/2HaoiAQBLEzr6b7b5BQXl5) | 6:25 | 2022-07-19 |  |
+| [هلا انا جيت تريح يلا](https://open.spotify.com/track/17H3IfzbBDHZQsR49cCqkA) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7), [مودي امين](https://open.spotify.com/artist/5KyjLQ01zRYXx6wLuiM8gI) | [هلا انا جيت تريح يلا](https://open.spotify.com/album/2HaoiAQBLEzr6b7b5BQXl5) | 6:25 | 2022-07-19 | 2025-12-11 |
 | [هلا انا جيت تريح يلا](https://open.spotify.com/track/4qE4iUKv7mH6mdpsiBJSko) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t), [مودي امين](https://open.spotify.com/artist/5KyjLQ01zRYXx6wLuiM8gI) | [هلا انا جيت تريح يلا](https://open.spotify.com/album/7LgRSY8OKHAGmejreFPGwz) | 6:25 | 2021-12-16 | 2022-07-29 |
 | [هنط جامب بالاوكابي](https://open.spotify.com/track/7kNyHl1MLu8p3jQmqRgFgQ) | [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI), [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [هنط جامب بالاوكابي](https://open.spotify.com/album/7tiZjF4gHx4Ocnts7Pb5yP) | 3:32 | 2024-04-24 |  |
 | [واخد علي خطري من الدنيا\( غصب عني \)](https://open.spotify.com/track/6YXMo6FHDrTLG0ksd9vWeP) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [واخد علي خطري من الدنيا\( غصب عني \)](https://open.spotify.com/album/2o4PSrpaRP4yvaAtB5HPL5) | 4:10 | 2023-09-05 | 2023-10-12 |

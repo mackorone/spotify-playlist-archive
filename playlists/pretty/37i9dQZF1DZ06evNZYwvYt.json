@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 19492,
+  "num_followers": 19493,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAABL7Adc7wWkcicGQUWhehIT",
+  "snapshot_id": "aTdmgAAAAABWzlU6988cIY8xTtCP7DIZ",
   "tracks": [
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morder",
-        "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
+        "name": "Mar de nubes",
+        "url": "https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 232653,
-      "name": "Extra\u00f1arte",
-      "url": "https://open.spotify.com/track/54A9l2wNN875pViIqfbtb8"
+      "duration_ms": 242000,
+      "name": "Virtual",
+      "url": "https://open.spotify.com/track/3RsdLfvSVFZn74haerjDfY"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar de nubes",
-        "url": "https://open.spotify.com/album/3WAWWUnOLSvwcPldQ3H3nk"
+        "name": "Morder",
+        "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Virtual",
-      "url": "https://open.spotify.com/track/3RsdLfvSVFZn74haerjDfY"
+      "duration_ms": 232653,
+      "name": "Extra\u00f1arte",
+      "url": "https://open.spotify.com/track/54A9l2wNN875pViIqfbtb8"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morder",
-        "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 218786,
-      "name": "Asfixiar",
-      "url": "https://open.spotify.com/track/6BELut3GHFznGKbftZC8qu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Bueno De Morir De Amor",
         "url": "https://open.spotify.com/album/4vSwsgx95TJGwGXOnQbE5w"
       },
@@ -731,22 +715,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resiste M\u00e1s Que Yo (En Vivo)",
-        "url": "https://open.spotify.com/album/2fKBLpOOof8HnAJqp16mGf"
+        "name": "Morder",
+        "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
       },
       "artists": [
         {
           "name": "De Saloon",
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        },
-        {
-          "name": "Denisse Malebr\u00e1n",
-          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
         }
       ],
-      "duration_ms": 359233,
-      "name": "Resiste M\u00e1s Que Y\u00f3 - En Vivo",
-      "url": "https://open.spotify.com/track/6kvtQTHtCnHP6xfX1gEK0J"
+      "duration_ms": 218786,
+      "name": "Asfixiar",
+      "url": "https://open.spotify.com/track/6BELut3GHFznGKbftZC8qu"
     },
     {
       "added_at": null,
@@ -767,6 +747,26 @@
       "duration_ms": 161964,
       "name": "Respeta el Flow",
       "url": "https://open.spotify.com/track/3yawMrvzCoa6uR7mr88Dzi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resiste M\u00e1s Que Yo (En Vivo)",
+        "url": "https://open.spotify.com/album/2fKBLpOOof8HnAJqp16mGf"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        },
+        {
+          "name": "Denisse Malebr\u00e1n",
+          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
+        }
+      ],
+      "duration_ms": 359233,
+      "name": "Resiste M\u00e1s Que Y\u00f3 - En Vivo",
+      "url": "https://open.spotify.com/track/6kvtQTHtCnHP6xfX1gEK0J"
     }
   ],
   "unique_name": "This Is De Saloon",

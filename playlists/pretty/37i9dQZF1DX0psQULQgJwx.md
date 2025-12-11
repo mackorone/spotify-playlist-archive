@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 
 > Relaxing sounds for a pampering spa experience
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,654 likes - 215 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,690 likes - 215 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0psQULQgJwx.md) - [plain]
 | 214 | [Yang Tenang](https://open.spotify.com/track/2jj4eYsP3fVRAh5xgtkmyY) | [Dalkhan Panova](https://open.spotify.com/artist/6KMc22ewdnaUlXvuijYVaV) | [Yang Tenang](https://open.spotify.com/album/63C8mJAbdv69NXZ0yVz6bH) | 2:47 |
 | 215 | [Arbor](https://open.spotify.com/track/6a2lx8QLDhzYYpUP2U0VBE) | [Melatonement](https://open.spotify.com/artist/1ZlMvBVYhelNe23PPk4mBN) | [Arbor](https://open.spotify.com/album/0FDE3Nk8b7YCAd25aaUiZm) | 2:32 |
 
-Snapshot ID: `AAAAAC2iN8VHQ0PZuCXeVVCTo2aAR5CK`
+Snapshot ID: `AAAAAIjOSkSv5cnSqmxPQnc678yuuIfs`

@@ -1,12 +1,12 @@
 {
   "description": "This is Rauw Alejandro. The essential tracks, all in one playlist.",
-  "num_followers": 870185,
+  "num_followers": 870322,
   "original_name": "This Is Rauw Alejandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAACEtMYC3pD7RhE2dPgfxYh9",
+  "snapshot_id": "aTdmgAAAAABt7JAThP+IbMhC6T9WYgB5",
   "tracks": [
     {
       "added_at": null,
@@ -823,6 +823,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dopamina",
+        "url": "https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 216107,
+      "name": "La Nota",
+      "url": "https://open.spotify.com/track/5VzNsUnLmYcRfRfxpQsusa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buenos T\u00e9rminos",
         "url": "https://open.spotify.com/album/5GOVje4CqyYLQIFrE7yVYX"
       },
@@ -851,30 +875,6 @@
       "duration_ms": 162857,
       "name": "NO ME SUELTES",
       "url": "https://open.spotify.com/track/7xDBtwxsife3u8luqSbSPR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dopamina",
-        "url": "https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 216107,
-      "name": "La Nota",
-      "url": "https://open.spotify.com/track/5VzNsUnLmYcRfRfxpQsusa"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 
 > Unearth the year's most exciting rock and alternative hidden gems\. Cover: Chloe Slater
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,407 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,423 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 11 | [We Don't Wanna Talk](https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Nowhere](https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO) | 2:39 |
 | 12 | [Iconic](https://open.spotify.com/track/21WBLBnlfaelcFQz0Qvegw) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Iconic](https://open.spotify.com/album/4XCUSQq5jRc6B8E6tR7SaZ) | 2:26 |
 | 13 | [Sad In Carolina](https://open.spotify.com/track/7mPrr3n1aRFRxIOS7qZlJc) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Western Space Grunge](https://open.spotify.com/album/4mlKggiLCcQHagOfwSDALt) | 3:10 |
-| 14 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 |
+| 14 | [Heaven](https://open.spotify.com/track/4tgikaa2iJTVUreVxW2Us6) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Heaven](https://open.spotify.com/album/1fGz20GixDffHCqGjg1bjP) | 3:10 |
 | 15 | [the garden](https://open.spotify.com/track/70yMk0UK1BTtPvhqcSXvnF) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [the garden](https://open.spotify.com/album/4iHuwtCHVOlMC4u09kbIYg) | 3:23 |
 | 16 | [The Plan](https://open.spotify.com/track/14k3Iz1IkfJPNF3smNCxz4) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [The Plan](https://open.spotify.com/album/18PTt4ep1M8tRUbsSs0atb) | 2:53 |
-| 17 | [Heaven](https://open.spotify.com/track/4tgikaa2iJTVUreVxW2Us6) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Heaven](https://open.spotify.com/album/1fGz20GixDffHCqGjg1bjP) | 3:10 |
+| 17 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 |
 | 18 | [On The Floor](https://open.spotify.com/track/6PuqQXLHlsKM4f8NwE87r8) | [THUS LOVE](https://open.spotify.com/artist/26hW7zYB4V3PGMPBKoBdgl) | [All Pleasure](https://open.spotify.com/album/5m12jRRk1yITUd7s6KfMCJ) | 3:50 |
 | 19 | [La fiesta](https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [La fiesta](https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw) | 2:38 |
 | 20 | [I Wish I Never Loved You](https://open.spotify.com/track/15Y5h2JcW69wSP8Nz5cOVZ) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [\(un\)adored](https://open.spotify.com/album/4uksMStCaXPtyuCrJryFzd) | 3:43 |
@@ -59,24 +59,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2H2Plf6Ogpv.md) - [plain]
 | 49 | [shut up!](https://open.spotify.com/track/4ynDEgatB1rZTDN0AxoaVB) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [shut up!](https://open.spotify.com/album/5wF8Hszo6VWcMrX3m5AspW) | 1:43 |
 | 50 | [ONE TULIP//](https://open.spotify.com/track/05EqkaNF2149cACYq1bQSI) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [ONE TULIP//](https://open.spotify.com/album/5gsKdAaibHqG8nyWohWKhf) | 3:48 |
 | 51 | [lightweight](https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [lightweight](https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO) | 3:47 |
-| 52 | [Under The Table](https://open.spotify.com/track/351TRYuSxdSyiStrTtq97p) | [Balancing Act](https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6) | [Under The Table](https://open.spotify.com/album/3VQZlED22fi0QsJwVj3WfW) | 2:59 |
-| 53 | [Close Call](https://open.spotify.com/track/0F2MGkdHHRCCY38LSZ6WRN) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Come And See](https://open.spotify.com/album/4DHXkFCDz154lGUlAWvLPE) | 2:43 |
-| 54 | [The Curb](https://open.spotify.com/track/33w5GjWZ6HfR4UPtxmuEq2) | [Humane The Moon](https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m) | [Debris Joice](https://open.spotify.com/album/78yiDQnS2cf6zoS6pSTOa4) | 3:45 |
+| 52 | [Close Call](https://open.spotify.com/track/0F2MGkdHHRCCY38LSZ6WRN) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Come And See](https://open.spotify.com/album/4DHXkFCDz154lGUlAWvLPE) | 2:43 |
+| 53 | [The Curb](https://open.spotify.com/track/33w5GjWZ6HfR4UPtxmuEq2) | [Humane The Moon](https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m) | [Debris Joice](https://open.spotify.com/album/78yiDQnS2cf6zoS6pSTOa4) | 3:45 |
+| 54 | [Under The Table](https://open.spotify.com/track/351TRYuSxdSyiStrTtq97p) | [Balancing Act](https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6) | [Under The Table](https://open.spotify.com/album/3VQZlED22fi0QsJwVj3WfW) | 2:59 |
 | 55 | [Ode To Clio](https://open.spotify.com/track/6gJaZclCQVvDdHl4m5reGj) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Ode To Clio](https://open.spotify.com/album/7vNo8NiWR3gco9DhEYg4sP) | 3:17 |
 | 56 | [Your Ghost](https://open.spotify.com/track/6Qqw9m2tS2I3wJOOEWyE7S) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Before I Die](https://open.spotify.com/album/65v7rU2IHRuhmxnMqgjjQ1) | 3:05 |
 | 57 | [Start A Comeback](https://open.spotify.com/track/2Fq6lhMu7yxGe4ksk4OPIu) | [Flash Forward](https://open.spotify.com/artist/7tdC77yyABquZ7vEAscwvB), [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [Start A Comeback](https://open.spotify.com/album/3MUabEx9hHnZAcDXTA1POx) | 3:01 |
 | 58 | [pinky boy](https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [pinky boy](https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9) | 4:45 |
 | 59 | [Crispy Skin](https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Crispy Skin](https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA) | 6:19 |
 | 60 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 |
-| 61 | [Heavy Pour](https://open.spotify.com/track/6PRM5tpuPQbv7y7Jr4lU5m) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Name Your Sorrow](https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF) | 3:50 |
-| 62 | [Ahead Of Myself](https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/4476oK9dDwXluywz166CT1) | 3:44 |
+| 61 | [Ahead Of Myself](https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/4476oK9dDwXluywz166CT1) | 3:44 |
+| 62 | [Heavy Pour](https://open.spotify.com/track/6PRM5tpuPQbv7y7Jr4lU5m) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Name Your Sorrow](https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF) | 3:50 |
 | 63 | [Sprinter Brain](https://open.spotify.com/track/2451GJRkRV6UdVL59nboTC) | [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Dulling The Horns](https://open.spotify.com/album/5YUxzS2nBOqjbNITdnCitW) | 3:43 |
 | 64 | [Cold World](https://open.spotify.com/track/0aPx5BNEE3BGBCnZBso0Wt) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI) | 3:17 |
 | 65 | [Floods](https://open.spotify.com/track/2coR8cnby3QnwRR1eH9Lg0) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [7](https://open.spotify.com/album/60blq04fivxFDr2whVvM5r) | 4:03 |
 | 66 | [Break the Tension](https://open.spotify.com/track/0xDcb79YbOWM9izkdd26gi) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Break the Tension](https://open.spotify.com/album/4oMSL9GDnGiU7wkFjkChvo) | 3:45 |
 | 67 | [ATTENTION](https://open.spotify.com/track/0v8Zc1htL0Z6LI0BC55Vwj) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [ATTENTION](https://open.spotify.com/album/75rSyZ1VksQpRlXGkDyCwM) | 2:58 |
-| 68 | [Crashing](https://open.spotify.com/track/6ER2Pe6DX7ocWIr3yAVYEq) | [Lonely Spring](https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f) | [It Is What It Is Till It Is What It Isn't](https://open.spotify.com/album/3tTDnSYNjyf37CDZN00u3Y) | 2:42 |
-| 69 | [Under The Skin](https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Under The Skin](https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs) | 4:12 |
+| 68 | [Under The Skin](https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Under The Skin](https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs) | 4:12 |
+| 69 | [Crashing](https://open.spotify.com/track/6ER2Pe6DX7ocWIr3yAVYEq) | [Lonely Spring](https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f) | [It Is What It Is Till It Is What It Isn't](https://open.spotify.com/album/3tTDnSYNjyf37CDZN00u3Y) | 2:42 |
 | 70 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
 | 71 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/47llw29VMRqLBcAZt0KmBQ) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/51358heB7GDrz5qCSkXshW) | 2:57 |
 | 72 | [Teething](https://open.spotify.com/track/3M1AOV25ZrXc4bLdHcDzEf) | [Ain't](https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD) | [Teething](https://open.spotify.com/album/26eGjM6GpvS9ht85XNKAdl) | 3:40 |

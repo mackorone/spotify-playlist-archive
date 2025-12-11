@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > This year's best new music by women artists chosen by our editors\. Cover: Zsá Zsá
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,738 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,940 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 30 | [Regen](https://open.spotify.com/track/2l2wNPaYwGqjysr0E7XJPY) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v) | [Erst wenn die Sterne](https://open.spotify.com/album/2S14O3ETclu1djAEUQsUTe) | 2:29 |
 | 31 | [Everybody Knows](https://open.spotify.com/track/41CZBcABG1VKlQ3b9VLhgi) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Everybody Knows](https://open.spotify.com/album/1CXEsKrvQkYYZImAwoVidy) | 4:48 |
 | 32 | [Girl With A Gun, Angry](https://open.spotify.com/track/60ZpuNRzuxKvgC7Dsi0mUa) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Girl With A Gun, Angry](https://open.spotify.com/album/7425eZpGDF8LYZfUsVbmrq) | 2:26 |
-| 33 | [ariadne](https://open.spotify.com/track/77g2kugdY7tdQzUNgMio2N) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [1jahr ep](https://open.spotify.com/album/7tVwgdD9G6VItWdXY3OiU8) | 2:26 |
-| 34 | [Mein schönstes Kleid](https://open.spotify.com/track/7CJFf6MhxIPd1UAEb3J0v3) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Mein schönstes Kleid](https://open.spotify.com/album/74TPidIDXSIp7Fq4hcVeW0) | 2:44 |
-| 35 | [Doppel H](https://open.spotify.com/track/5OGpkbJvl6TBhLRfHjSzF7) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW), [2woEazy](https://open.spotify.com/artist/4eMUW0y2GksbfKbcTYRSOh) | [Doppel H](https://open.spotify.com/album/1d9ixH32tOX4xPAfHN2dfN) | 1:45 |
-| 36 | [Voyage](https://open.spotify.com/track/4eBcSz15E4pg0EAEsOdWYR) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Loup Garou](https://open.spotify.com/album/2Peslf5kduT4RFrCZZBhRM) | 2:59 |
+| 33 | [Mein schönstes Kleid](https://open.spotify.com/track/7CJFf6MhxIPd1UAEb3J0v3) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Mein schönstes Kleid](https://open.spotify.com/album/74TPidIDXSIp7Fq4hcVeW0) | 2:44 |
+| 34 | [ariadne](https://open.spotify.com/track/77g2kugdY7tdQzUNgMio2N) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [1jahr ep](https://open.spotify.com/album/7tVwgdD9G6VItWdXY3OiU8) | 2:26 |
+| 35 | [Voyage](https://open.spotify.com/track/4eBcSz15E4pg0EAEsOdWYR) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Loup Garou](https://open.spotify.com/album/2Peslf5kduT4RFrCZZBhRM) | 2:59 |
+| 36 | [Doppel H](https://open.spotify.com/track/5OGpkbJvl6TBhLRfHjSzF7) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW), [2woEazy](https://open.spotify.com/artist/4eMUW0y2GksbfKbcTYRSOh) | [Doppel H](https://open.spotify.com/album/1d9ixH32tOX4xPAfHN2dfN) | 1:45 |
 | 37 | [AUTO](https://open.spotify.com/track/6e0cofC3xE1aU6n9kueTGE) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [AUTO](https://open.spotify.com/album/66KrOYM5q4DWdEO0Lxk8vq) | 2:51 |
 | 38 | [Beef mit Cheese](https://open.spotify.com/track/1tKXOrv0ZjYMQyoNxmqAzx) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ) | [Magazin](https://open.spotify.com/album/4Fn2M3fRqA3QD4GL3Vqot6) | 2:30 |
 | 39 | [Baby](https://open.spotify.com/track/2K8LotZ71D5sK93rEYYMyF) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Baby](https://open.spotify.com/album/2ojwkJeYa4FCVmqKMK4XTo) | 2:15 |
@@ -53,20 +53,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 43 | [Sterben Baby](https://open.spotify.com/track/2alYxyOxq0IdCGRawbGFka) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [mp2](https://open.spotify.com/album/6ekEjSoI6AMcTudUFKH6Vr) | 3:04 |
 | 44 | [The Carpet Song](https://open.spotify.com/track/3QA4uU73gQS6QlU9IjcvmG) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [The Carpet Song](https://open.spotify.com/album/4KXnWJXu7b6iC8spLIsEQF) | 3:17 |
 | 45 | [Liebe machen](https://open.spotify.com/track/1d5MMrqtzT3F2jVuT77z8c) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va) | [Wann Album? \(Bonus EP\)](https://open.spotify.com/album/2dOblou1MabNG7PHtgSG4H) | 2:23 |
-| 46 | [Glückssträhne](https://open.spotify.com/track/0E8ZYRW3RjJwaFxkZSIDiP) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [SIE!](https://open.spotify.com/album/4bwdGOVIFSpZDTU4Pe6Cgx) | 2:55 |
-| 47 | [If You Wanna Scream](https://open.spotify.com/track/2hGb8HWWbKNQ5MnXdJZpUc) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [If You Wanna Scream](https://open.spotify.com/album/1BCR9EGD8PONhIkaKp9xul) | 4:18 |
-| 48 | [Unsichtbar](https://open.spotify.com/track/7Kh3FVsFuXKVurHWgUW5Fb) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Nie wieder](https://open.spotify.com/album/7BAhNlFV3TubNxQMyBDMiP) | 2:23 |
+| 46 | [Unsichtbar](https://open.spotify.com/track/7Kh3FVsFuXKVurHWgUW5Fb) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Nie wieder](https://open.spotify.com/album/7BAhNlFV3TubNxQMyBDMiP) | 2:23 |
+| 47 | [Glückssträhne](https://open.spotify.com/track/0E8ZYRW3RjJwaFxkZSIDiP) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [SIE!](https://open.spotify.com/album/4bwdGOVIFSpZDTU4Pe6Cgx) | 2:55 |
+| 48 | [seele berührst](https://open.spotify.com/track/4CPrh62klaqHBEU7yAKheE) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [du küsst jetzt jemand anderen :/](https://open.spotify.com/album/00qt21e2vgTWtDs69djSBe) | 2:31 |
 | 49 | [Delusional](https://open.spotify.com/track/62aBKD0BTV1sSelm0JuDk7) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Boyfriend Of The Year](https://open.spotify.com/album/64JVMpLwZvNhtlfAgBad4a) | 3:18 |
-| 50 | [Es ist schon ok](https://open.spotify.com/track/5EU1QWDyRlaJEUDl8TfgUp) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Es ist schon ok](https://open.spotify.com/album/1haLxvPEXH2i6397ZFIXWj) | 2:39 |
-| 51 | [kissing you at midnight](https://open.spotify.com/track/0qvfeApV15jDpsmvacOiH9) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [Hearts Lust](https://open.spotify.com/album/2TDqdAcDobWRHzGeisJQyj) | 3:13 |
-| 52 | [Scherben](https://open.spotify.com/track/08EqzaIXwVBF7bkaSNpPaz) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Scherben](https://open.spotify.com/album/3n7LyUXg6kAu4qOzhxgbXK) | 3:24 |
-| 53 | [seele berührst](https://open.spotify.com/track/4CPrh62klaqHBEU7yAKheE) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [du küsst jetzt jemand anderen :/](https://open.spotify.com/album/00qt21e2vgTWtDs69djSBe) | 2:31 |
-| 54 | [don't want u to die](https://open.spotify.com/track/3WIRyyYOi6eF3nc7MuPlN9) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Avalanche](https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX) | 3:08 |
+| 50 | [If You Wanna Scream](https://open.spotify.com/track/2hGb8HWWbKNQ5MnXdJZpUc) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [If You Wanna Scream](https://open.spotify.com/album/1BCR9EGD8PONhIkaKp9xul) | 4:18 |
+| 51 | [Scherben](https://open.spotify.com/track/08EqzaIXwVBF7bkaSNpPaz) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Scherben](https://open.spotify.com/album/3n7LyUXg6kAu4qOzhxgbXK) | 3:24 |
+| 52 | [kissing you at midnight](https://open.spotify.com/track/0qvfeApV15jDpsmvacOiH9) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [Hearts Lust](https://open.spotify.com/album/2TDqdAcDobWRHzGeisJQyj) | 3:13 |
+| 53 | [Like a Song](https://open.spotify.com/track/5eeVou7p7383NQDyPkEXCy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Gloria](https://open.spotify.com/album/6ZD3guVXCEBQbqZntbxiHP) | 3:27 |
+| 54 | [Es ist schon ok](https://open.spotify.com/track/5EU1QWDyRlaJEUDl8TfgUp) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Es ist schon ok](https://open.spotify.com/album/1haLxvPEXH2i6397ZFIXWj) | 2:39 |
 | 55 | [Blüten am Block](https://open.spotify.com/track/6iUrisG2WYefYaJrIslsSw) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [ETAGE 3](https://open.spotify.com/album/54uzQar0welzGmd3hWxm6h) | 2:47 |
-| 56 | [Like a Song](https://open.spotify.com/track/5eeVou7p7383NQDyPkEXCy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Gloria](https://open.spotify.com/album/6ZD3guVXCEBQbqZntbxiHP) | 3:27 |
+| 56 | [don't want u to die](https://open.spotify.com/track/3WIRyyYOi6eF3nc7MuPlN9) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Avalanche](https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX) | 3:08 |
 | 57 | [Marianne](https://open.spotify.com/track/2OxbbgFAomXZNFMKnL5IpD) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [Marianne](https://open.spotify.com/album/298YOXEzZ3utVyUGsiP74R) | 2:06 |
 | 58 | [i love you don't worry xx](https://open.spotify.com/track/5EA6isOGU7VqSlVzOuvTmT) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [No Room For Two](https://open.spotify.com/album/6fE8mUVWPj7tO5e8O2lrId) | 3:05 |
-| 59 | [Wenn die Stadt schläft](https://open.spotify.com/track/6HElf5HIlS9c644BJLPMoG) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Wenn die Stadt schläft](https://open.spotify.com/album/2E09awpdLFO7HmWG5IT6Nx) | 2:39 |
-| 60 | [Contrast](https://open.spotify.com/track/2BVUG7qH0DoAWdQi1hYzqr) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [Fanny](https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm) | [Cringey Core](https://open.spotify.com/album/6HknlOztL3xdYvZaH8Mu5e) | 3:28 |
+| 59 | [Contrast](https://open.spotify.com/track/2BVUG7qH0DoAWdQi1hYzqr) | [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q), [Fanny](https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm) | [Cringey Core](https://open.spotify.com/album/6HknlOztL3xdYvZaH8Mu5e) | 3:28 |
+| 60 | [Wenn die Stadt schläft](https://open.spotify.com/track/6HElf5HIlS9c644BJLPMoG) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Wenn die Stadt schläft](https://open.spotify.com/album/2E09awpdLFO7HmWG5IT6Nx) | 2:39 |
 
 Snapshot ID: `AAAAAJ6AOqhy0T8jbw4tAImes5frfIXx`

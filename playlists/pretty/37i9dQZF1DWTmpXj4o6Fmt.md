@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmpXj4o6Fmt.md) - [plain]
 
 > go back in time and \(re\) discover these gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,794 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,811 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmpXj4o6Fmt.md) - [plain]
 | 17 | [Vivir Así Es Morir de Amor](https://open.spotify.com/track/3yzHIAzk3zVE1WgspS8W21) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Sentimientos](https://open.spotify.com/album/4jaAmmz5L8AlfaLpZJ7Mf3) | 3:30 |
 | 18 | [Llorar](https://open.spotify.com/track/7qjelT2ay3rsDk1cLWDJpE) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Colección De Oro, Vol\. 5: Mariachi](https://open.spotify.com/album/5nCibJfM8LvlVDRVk2GKIa) | 2:39 |
 | 19 | [Detalles \(Detalhes\)](https://open.spotify.com/track/4tAwP9QKeLEQJ2fgd1RWcY) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Un Gato En La Oscuridad](https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm) | 5:08 |
-| 20 | [Spanish Girl](https://open.spotify.com/track/15T2Fk5WwgAxszxyHD7gJV) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Emociones](https://open.spotify.com/album/0mvXH32wQdtXKqXlKd7vUY) | 3:29 |
-| 21 | [Todo Pasa](https://open.spotify.com/track/0U0ahY5GZOnhiLLG7wE5vB) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Amor Supremo](https://open.spotify.com/album/0Jo8yyj5aHXkj6rCJUVbT5) | 5:44 |
+| 20 | [Todo Pasa](https://open.spotify.com/track/0U0ahY5GZOnhiLLG7wE5vB) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Amor Supremo](https://open.spotify.com/album/0Jo8yyj5aHXkj6rCJUVbT5) | 5:44 |
+| 21 | [Spanish Girl](https://open.spotify.com/track/15T2Fk5WwgAxszxyHD7gJV) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Emociones](https://open.spotify.com/album/0mvXH32wQdtXKqXlKd7vUY) | 3:29 |
 | 22 | [De todo el mundo](https://open.spotify.com/track/3yYStumyNYWPHCPHLDxy99) | [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [Las Consecuencias](https://open.spotify.com/album/2oOUx7YZnwBm4tshQbhdyO) | 4:58 |
 | 23 | [Ella Usó Mi Cabeza Como Un Revólver \- Remasterizado 2007](https://open.spotify.com/track/5RzXSxR7BUhEtpqh77lMbR) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Sueño Stereo \(Remastered\)](https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg) | 4:29 |
 | 24 | [Octavo Día](https://open.spotify.com/track/4g5ucHrtIEM4LrIbrLo8Oz) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 4:31 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmpXj4o6Fmt.md) - [plain]
 | 41 | [Pienso en Ti](https://open.spotify.com/track/73XnXExVUlmvjctSEdZjpa) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado a Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:17 |
 | 42 | [El bosque de palo](https://open.spotify.com/track/7nUgWhIFgwCJDX1ELjxZP5) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp) | 3:29 |
 | 43 | [Se Que Ya No Volverás](https://open.spotify.com/track/3FHQWc6FgVTNJAmdqo268D) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Luna Nueva](https://open.spotify.com/album/1IrGYjnsdUyC8wEw9ffBIA) | 4:18 |
-| 44 | [Luna](https://open.spotify.com/track/7sCu8xWNkxfzjoZU6aQSf1) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:33 |
-| 45 | [Si se que te tengo a ti](https://open.spotify.com/track/3sCArErjYD4mjbycnNO49O) | [Nek](https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ) | [Entre tu y yo](https://open.spotify.com/album/6RPHUA73IxKl4WZx8kJp2p) | 3:48 |
+| 44 | [Si se que te tengo a ti](https://open.spotify.com/track/3sCArErjYD4mjbycnNO49O) | [Nek](https://open.spotify.com/artist/5mXMQJHLLfym1KyNcDrhoZ) | [Entre tu y yo](https://open.spotify.com/album/6RPHUA73IxKl4WZx8kJp2p) | 3:48 |
+| 45 | [Luna](https://open.spotify.com/track/7sCu8xWNkxfzjoZU6aQSf1) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:33 |
 | 46 | [Perfidia](https://open.spotify.com/track/0eA05aCSWWJIBd0ygePgTK) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Los Indios Tabajaras y los Panchos, Vol\. 1](https://open.spotify.com/album/084OeFEJkQUFmMGgJtpRGM) | 2:52 |
 | 47 | [Madrid Amanecio](https://open.spotify.com/track/7qximKkYyLP5lBAFBOQfgX) | [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Buenos Muchachos](https://open.spotify.com/album/5a1eBYCKsIcd5yIHtKBUzM) | 3:47 |
 | 48 | [La casa azul](https://open.spotify.com/track/6hKJOrPCJhG3iKM3RTPfR0) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [Supernova](https://open.spotify.com/album/5FQ5rAaWi3lSfblD13jqlF) | 3:50 |

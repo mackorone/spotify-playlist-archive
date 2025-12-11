@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 62197,
+  "num_followers": 62202,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAATaFQO1zPx9BZxZnsVT6GA",
+  "snapshot_id": "aTdmgAAAAAAKGs0jM9ZHWE3oDWnf6HRh",
   "tracks": [
     {
       "added_at": null,
@@ -735,18 +735,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jo\u00e3o Voz E Viol\u00e3o",
-        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
+        "name": "Do the Bossa Nova",
+        "url": "https://open.spotify.com/album/5ixHJ7BYhydHcI6QyOkipX"
       },
       "artists": [
         {
+          "name": "Herbie Mann",
+          "url": "https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo"
+        },
+        {
           "name": "Jo\u00e3o Gilberto",
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 176173,
-      "name": "Nao Vou Pra Casa",
-      "url": "https://open.spotify.com/track/4sw0RHCif9pADb47PxGDMk"
+      "duration_ms": 201839,
+      "name": "One Note Samba",
+      "url": "https://open.spotify.com/track/5xTt7WCmlfdSa9aP3MV56A"
     },
     {
       "added_at": null,
@@ -771,6 +779,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jo\u00e3o Voz E Viol\u00e3o",
+        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 176173,
+      "name": "Nao Vou Pra Casa",
+      "url": "https://open.spotify.com/track/4sw0RHCif9pADb47PxGDMk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corcovado",
+        "url": "https://open.spotify.com/album/3VaF3JOXtiv2nGFTMydLza"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 118661,
+      "name": "Corcovado",
+      "url": "https://open.spotify.com/track/3fYeqensiAoHgs645ttWnK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Do the Bossa Nova",
         "url": "https://open.spotify.com/album/5ixHJ7BYhydHcI6QyOkipX"
       },
@@ -788,9 +828,9 @@
           "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 201839,
-      "name": "One Note Samba",
-      "url": "https://open.spotify.com/track/5xTt7WCmlfdSa9aP3MV56A"
+      "duration_ms": 258733,
+      "name": "Deve Ser Amor (It Must Be Love)",
+      "url": "https://open.spotify.com/track/69QK0UBbAX20uVhjXMX5t4"
     },
     {
       "added_at": null,
@@ -819,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corcovado",
-        "url": "https://open.spotify.com/album/3VaF3JOXtiv2nGFTMydLza"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 118661,
-      "name": "Corcovado",
-      "url": "https://open.spotify.com/track/3fYeqensiAoHgs645ttWnK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chega de Saudade (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH"
       },
@@ -847,30 +871,6 @@
       "duration_ms": 137186,
       "name": "H\u00f3-B\u00e1-L\u00e1-L\u00e1",
       "url": "https://open.spotify.com/track/5tz84YvDa00QbsNb1COTuk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Do the Bossa Nova",
-        "url": "https://open.spotify.com/album/5ixHJ7BYhydHcI6QyOkipX"
-      },
-      "artists": [
-        {
-          "name": "Herbie Mann",
-          "url": "https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 258733,
-      "name": "Deve Ser Amor (It Must Be Love)",
-      "url": "https://open.spotify.com/track/69QK0UBbAX20uVhjXMX5t4"
     },
     {
       "added_at": null,
@@ -907,22 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chega de Saudade (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 107560,
-      "name": "Saudade F\u00eaz Um Samba",
-      "url": "https://open.spotify.com/track/7r2HdCkn6sF10POTjvlhne"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jo\u00e3o Gilberto",
         "url": "https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 397453,
       "name": "Undi\u00fa",
       "url": "https://open.spotify.com/track/5DPhD44bQHEOBPGRzc3Ebl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chega de Saudade (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 107560,
+      "name": "Saudade F\u00eaz Um Samba",
+      "url": "https://open.spotify.com/track/7r2HdCkn6sF10POTjvlhne"
     }
   ],
   "unique_name": "This Is Jo\u00e3o Gilberto",

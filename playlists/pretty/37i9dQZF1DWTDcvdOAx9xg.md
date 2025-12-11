@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDcvdOAx9xg.md) - [plain]
 
 > il meglio dei brani  <a href="spotify:playlist:37i9dQZF1DWYCIYGXn56uz">gen\-z</a> italiani di quest'anno, secondo voi e i nostri editor 📞 Cover: Gaia
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,022 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,023 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CHIAMO IO CHIAMI TU](https://open.spotify.com/track/2hOVaWpnPpTdqvaRTvI9L5) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [CHIAMO IO CHIAMI TU](https://open.spotify.com/album/67CDPNyRvebdAgpdlxcoaS) | 3:38 |
 | 2 | [Questa domenica](https://open.spotify.com/track/1OzmC9yrffo4samDgOzg27) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Questa domenica](https://open.spotify.com/album/2MAslE3CpEJAIvLG8EW1Gh) | 3:36 |
-| 3 | [a me mi piace \(feat\. Manu Chao\)](https://open.spotify.com/track/2QtnkkxwmsGm84fPAx8uTP) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [a me mi piace \(feat\. Manu Chao\)](https://open.spotify.com/album/50KsSqMmKIcModa3dbbNzW) | 2:20 |
+| 3 | [a me mi piace \(feat\. Manu Chao\)](https://open.spotify.com/track/2QtnkkxwmsGm84fPAx8uTP) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [a me mi piace](https://open.spotify.com/album/50KsSqMmKIcModa3dbbNzW) | 2:20 |
 | 4 | [Un'ora di follia](https://open.spotify.com/track/5hojWT0xph2Xi1TkRQQWSv) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [Un'ora di follia](https://open.spotify.com/album/7Kgc8z9VisZxj3hUxQMk6F) | 2:57 |
 | 5 | [URAGANI](https://open.spotify.com/track/2v0nUjtFhY0VujLTEgGSBm) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [URAGANI](https://open.spotify.com/album/2fPVbFkyMsLMfLjodpZ1yC) | 2:49 |
 | 6 | [Piangere a 90](https://open.spotify.com/track/0Pq53cPG2DSuPXABoZrYes) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Piangere a 90](https://open.spotify.com/album/1hnBudoNBHLZuExBjV3mM3) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDcvdOAx9xg.md) - [plain]
 | 49 | [Le ragazze della valle](https://open.spotify.com/track/4vJGG2hBGKMizpxf7CovgL) | [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ), [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [Le ragazze della valle](https://open.spotify.com/album/3zoFvFtix0uIdntQ65aRrt) | 2:52 |
 | 50 | [Vent'Anni](https://open.spotify.com/track/1vYQZVpjtroRaTYmQHMtKo) | [Seltsam](https://open.spotify.com/artist/0stiPQBq14QBNQ1Uc8778V) | [Vent'Anni](https://open.spotify.com/album/2G9spXt42A6VZxLLnCGNF3) | 2:14 |
 
-Snapshot ID: `AAAAAM5AfYhcUjTkeDq36jhScJmY9z44`
+Snapshot ID: `AAAAAKpl+SuCiYpyeantaztffSr5Ehck`

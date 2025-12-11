@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Calero LDN.",
-  "num_followers": 113440,
+  "num_followers": 113462,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
+        "name": "Cicatriz en la Matrix",
+        "url": "https://open.spotify.com/album/51o67b23wyqqkYGN738zMG"
+      },
+      "artists": [
+        {
+          "name": "Lendakaris Muertos",
+          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
+        }
+      ],
+      "duration_ms": 118986,
+      "name": "Tenemos a la Pasma",
+      "url": "https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
         "name": "Los Fantasmas",
         "url": "https://open.spotify.com/album/5pAzx5gDZpEnMgmXlMH8Kw"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 189032,
       "name": "Los Fantasmas",
       "url": "https://open.spotify.com/track/2q4y2vy1FAuzuqQBB2qZeZ"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
-        "name": "Cicatriz en la Matrix",
-        "url": "https://open.spotify.com/album/51o67b23wyqqkYGN738zMG"
-      },
-      "artists": [
-        {
-          "name": "Lendakaris Muertos",
-          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
-        }
-      ],
-      "duration_ms": 118986,
-      "name": "Tenemos a la Pasma",
-      "url": "https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "Himnos desde el Infierno",
-        "url": "https://open.spotify.com/album/49KlmVmf1aFKXpXuQ65C0x"
-      },
-      "artists": [
-        {
-          "name": "Maldito Matas",
-          "url": "https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5"
-        }
-      ],
-      "duration_ms": 143581,
-      "name": "Le\u00f1a Al Fuego",
-      "url": "https://open.spotify.com/track/2pJuGbbOLT6P2wv0xyCfnj"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
         "name": "Ya No Me Divierto",
         "url": "https://open.spotify.com/album/0jPYDc9Kf4VKxd0VSVX8HL"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 223200,
       "name": "Ya No Me Divierto",
       "url": "https://open.spotify.com/track/4VRq1m4iV8NTZ4tzm423qS"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
+        "name": "Himnos desde el Infierno",
+        "url": "https://open.spotify.com/album/49KlmVmf1aFKXpXuQ65C0x"
+      },
+      "artists": [
+        {
+          "name": "Maldito Matas",
+          "url": "https://open.spotify.com/artist/2MMpbJh1RmzGkh87DVXTS5"
+        }
+      ],
+      "duration_ms": 143581,
+      "name": "Le\u00f1a Al Fuego",
+      "url": "https://open.spotify.com/track/2pJuGbbOLT6P2wv0xyCfnj"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "El Mutante del Barrio Chino",
-        "url": "https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j"
+        "name": "Figurante",
+        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
       },
       "artists": [
         {
-          "name": "El \u00daltimo Ke Zierre",
-          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
+          "name": "Hijos De Nacho Vidal",
+          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
         }
       ],
-      "duration_ms": 192946,
-      "name": "Empacho de Orfidal",
-      "url": "https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs"
+      "duration_ms": 150701,
+      "name": "Figurante",
+      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -1055,6 +1055,22 @@
       "duration_ms": 137963,
       "name": "Putos Nazis",
       "url": "https://open.spotify.com/track/5JG9QWTdBjfjJnXSDRWP1h"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
+        "name": "El Mutante del Barrio Chino",
+        "url": "https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo Ke Zierre",
+          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
+        }
+      ],
+      "duration_ms": 192946,
+      "name": "Empacho de Orfidal",
+      "url": "https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -1099,18 +1115,22 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "Figurante",
-        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
+        "name": "no quiero irme",
+        "url": "https://open.spotify.com/album/5oqJC5aOyKm22QgwyoBZOR"
       },
       "artists": [
         {
-          "name": "Hijos De Nacho Vidal",
-          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
+          "name": "Galgo Diamante",
+          "url": "https://open.spotify.com/artist/36I1EHmwcYh6yIBl57eGta"
+        },
+        {
+          "name": "TETAS FR\u00cdAS",
+          "url": "https://open.spotify.com/artist/6Lplaf8qcklV41FjuyBw8S"
         }
       ],
-      "duration_ms": 150701,
-      "name": "Figurante",
-      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
+      "duration_ms": 131125,
+      "name": "no quiero irme",
+      "url": "https://open.spotify.com/track/17OaJWKUg7PtCzsqMFwezi"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -1147,26 +1167,6 @@
       "duration_ms": 165750,
       "name": "Incomunicado",
       "url": "https://open.spotify.com/track/0t5spY5W5ArBj5lv7UIH6E"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
-        "name": "no quiero irme",
-        "url": "https://open.spotify.com/album/5oqJC5aOyKm22QgwyoBZOR"
-      },
-      "artists": [
-        {
-          "name": "Galgo Diamante",
-          "url": "https://open.spotify.com/artist/36I1EHmwcYh6yIBl57eGta"
-        },
-        {
-          "name": "TETAS FR\u00cdAS",
-          "url": "https://open.spotify.com/artist/6Lplaf8qcklV41FjuyBw8S"
-        }
-      ],
-      "duration_ms": 131125,
-      "name": "no quiero irme",
-      "url": "https://open.spotify.com/track/17OaJWKUg7PtCzsqMFwezi"
     },
     {
       "added_at": "2025-12-05 13:00:12",
@@ -1347,38 +1347,6 @@
     {
       "added_at": "2025-12-05 13:00:12",
       "album": {
-        "name": "Presa",
-        "url": "https://open.spotify.com/album/6m1XbIXmuClVFa4lBCMlve"
-      },
-      "artists": [
-        {
-          "name": "Inkandescencia",
-          "url": "https://open.spotify.com/artist/6JkbwndQtzYnRH5hGbJx3l"
-        }
-      ],
-      "duration_ms": 192173,
-      "name": "Presa",
-      "url": "https://open.spotify.com/track/1D1W1kKQjb1q76FZfUgsFf"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
-        "name": "Borratxos y Orgullosos",
-        "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
-      },
-      "artists": [
-        {
-          "name": "Josetxu Piperrak & The Riber Rock Band",
-          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
-        }
-      ],
-      "duration_ms": 223950,
-      "name": "Borratxos y Orgullosos",
-      "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
-    },
-    {
-      "added_at": "2025-12-05 13:00:12",
-      "album": {
         "name": "Una y Nos Vamos (Versi\u00f3n 2024)",
         "url": "https://open.spotify.com/album/6xPQrDpm7oCRNRpJOyWkdK"
       },
@@ -1399,6 +1367,38 @@
       "duration_ms": 220942,
       "name": "Una y Nos Vamos - Versi\u00f3n 2024",
       "url": "https://open.spotify.com/track/1ojM4BgQqqAMeOVhuoSaqx"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
+        "name": "Borratxos y Orgullosos",
+        "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
+      },
+      "artists": [
+        {
+          "name": "Josetxu Piperrak & The Riber Rock Band",
+          "url": "https://open.spotify.com/artist/3CMa7KMGEivE5STGjWSlxG"
+        }
+      ],
+      "duration_ms": 223950,
+      "name": "Borratxos y Orgullosos",
+      "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
+    },
+    {
+      "added_at": "2025-12-05 13:00:12",
+      "album": {
+        "name": "Presa",
+        "url": "https://open.spotify.com/album/6m1XbIXmuClVFa4lBCMlve"
+      },
+      "artists": [
+        {
+          "name": "Inkandescencia",
+          "url": "https://open.spotify.com/artist/6JkbwndQtzYnRH5hGbJx3l"
+        }
+      ],
+      "duration_ms": 192173,
+      "name": "Presa",
+      "url": "https://open.spotify.com/track/1D1W1kKQjb1q76FZfUgsFf"
     },
     {
       "added_at": "2025-12-05 13:00:12",

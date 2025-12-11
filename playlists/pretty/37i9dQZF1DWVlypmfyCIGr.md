@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Vuat
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,055 likes - 79 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,058 likes - 79 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 31 | [メルカリで愛が買える時代になったら](https://open.spotify.com/track/5RnU14CgzAH1DwhzXIavQ6) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy) | [百面相](https://open.spotify.com/album/6HRDwYzRlOBfUNk3IzzGoO) | 3:25 |
 | 32 | [ODOLIEN](https://open.spotify.com/track/43brpSMDX60KadCgq0aHxz) | [やさしいみらい](https://open.spotify.com/artist/6vKcbLaY4bwJbTz0HZAtbW) | [ODOLIEN](https://open.spotify.com/album/4K4sPqpUFDKQWVGkRyoC7J) | 3:16 |
 | 33 | [D.U.S.K.\* \- heiakim Remix](https://open.spotify.com/track/2r40EZn5U5rUoNVd1TlCC8) | [Kohei Shimizu](https://open.spotify.com/artist/3zX8cCqgrhnASsckLs4ZI9), [星宮とと](https://open.spotify.com/artist/2gLRAkIfasw2ydt1omK41j), [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [D.U.S.K.\* \(heiakim Remix\)](https://open.spotify.com/album/6o8xU4u2l7shxZEJaudOj4) | 2:01 |
-| 34 | [Vital](https://open.spotify.com/track/1eXMiNw65XrQuM6ZWNM62w) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz), [Sountrive](https://open.spotify.com/artist/32mscr7vJEU0mxNshZzKp1) | [Vital](https://open.spotify.com/album/2OstU6wl8YxR3z3Qy5yvek) | 3:36 |
+| 34 | [Vital](https://open.spotify.com/track/1eXMiNw65XrQuM6ZWNM62w) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz), [Sountrive](https://open.spotify.com/artist/7yzvXayu1sh00kdXrlyKjm) | [Vital](https://open.spotify.com/album/2OstU6wl8YxR3z3Qy5yvek) | 3:36 |
 | 35 | [純文学](https://open.spotify.com/track/4uZmKZsgkcuHJm4JQIR95Y) | [ミーマイナー](https://open.spotify.com/artist/7G8KRjagUdAsleZIfe2juo) | [純文学](https://open.spotify.com/album/0L2dkbDNLI1ZuiNzGz0AGh) | 3:59 |
 | 36 | [Calling](https://open.spotify.com/track/5uE61Hgy7nIiLvVVczJRl6) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB) | [Calling](https://open.spotify.com/album/14cpZqduLlAIOhIVaRTn3m) | 3:15 |
 | 37 | [YUUREI](https://open.spotify.com/track/3nDl4IiKulPxFy8rTwWyzm) | [HARUKATOMIYUKI](https://open.spotify.com/artist/6NEfWGRmyUfFmRTzlfWUWl) | [YUUREI](https://open.spotify.com/album/2LVY2e2z5DdeEGuR47C6e1) | 3:40 |

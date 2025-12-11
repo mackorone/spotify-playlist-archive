@@ -1,6 +1,6 @@
 {
   "description": "Sabrina Carpenter. Period.",
-  "num_followers": 4196688,
+  "num_followers": 4197005,
   "original_name": "Confidence Boost",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "emails i can\u2019t send fwd:",
-        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 185552,
-      "name": "Feather",
-      "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "TALKING IS HARD",
         "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 199080,
       "name": "Shut Up and Dance",
       "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "emails i can\u2019t send fwd:",
+        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 185552,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -709,22 +709,6 @@
       "url": "https://open.spotify.com/track/24GdDBCqLhHEe2cAFvgUrL"
     },
     {
-      "added_at": "2025-09-26 04:00:20",
-      "album": {
-        "name": "Vie",
-        "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 266021,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph"
-    },
-    {
       "added_at": "2025-03-16 17:27:52",
       "album": {
         "name": "MAYHEM",
@@ -739,6 +723,22 @@
       "duration_ms": 238886,
       "name": "How Bad Do U Want Me",
       "url": "https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Boss Bitch",
+        "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 134239,
+      "name": "Boss Bitch",
+      "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -775,38 +775,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Cannibal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "We R Who We R",
-      "url": "https://open.spotify.com/track/3LUWWox8YYykohBbHUrrxd"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Boss Bitch",
-        "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 134239,
-      "name": "Boss Bitch",
-      "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
       },
@@ -821,20 +789,36 @@
       "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
+        "name": "Cannibal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23"
       },
       "artists": [
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         }
       ],
-      "duration_ms": 136627,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
+      "duration_ms": 204760,
+      "name": "We R Who We R",
+      "url": "https://open.spotify.com/track/3LUWWox8YYykohBbHUrrxd"
+    },
+    {
+      "added_at": "2025-09-26 04:00:20",
+      "album": {
+        "name": "Vie",
+        "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 266021,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -851,6 +835,22 @@
       "duration_ms": 196853,
       "name": "Try Everything",
       "url": "https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 136627,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
     },
     {
       "added_at": "2024-08-23 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 690792,
+  "num_followers": 690867,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -307,26 +307,6 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
-        "name": "Reggaeton Viejo",
-        "url": "https://open.spotify.com/album/4GMkQYncdGgsXtXxquk2An"
-      },
-      "artists": [
-        {
-          "name": "La Secta",
-          "url": "https://open.spotify.com/artist/7Gl1xRfbxCfInNRvy1JGZW"
-        },
-        {
-          "name": "Eddie Dee",
-          "url": "https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR"
-        }
-      ],
-      "duration_ms": 245346,
-      "name": "La Locura Autom\u00e1tica - Reggaeton",
-      "url": "https://open.spotify.com/track/1xEBxyr5QI0uvIoRa3WPi4"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
         "name": "La Forma en Que Me Miras",
         "url": "https://open.spotify.com/album/4C1RvpT7vJ7H8j21larWQU"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 307435,
       "name": "La Forma en Que Me Miras",
       "url": "https://open.spotify.com/track/6t94PGXYAuo9GbJEnMpPcW"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
+        "name": "Reggaeton Viejo",
+        "url": "https://open.spotify.com/album/4GMkQYncdGgsXtXxquk2An"
+      },
+      "artists": [
+        {
+          "name": "La Secta",
+          "url": "https://open.spotify.com/artist/7Gl1xRfbxCfInNRvy1JGZW"
+        },
+        {
+          "name": "Eddie Dee",
+          "url": "https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR"
+        }
+      ],
+      "duration_ms": 245346,
+      "name": "La Locura Autom\u00e1tica - Reggaeton",
+      "url": "https://open.spotify.com/track/1xEBxyr5QI0uvIoRa3WPi4"
     },
     {
       "added_at": "2025-11-20 12:09:53",
@@ -455,42 +455,6 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
-        "name": "Inocente",
-        "url": "https://open.spotify.com/album/1IwuM5jEXE9v58NVKUyrwk"
-      },
-      "artists": [
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        },
-        {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "Inocente",
-      "url": "https://open.spotify.com/track/6gV8ALkSHfJi7Bprabr1FC"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
-        "name": "Buenos T\u00e9rminos",
-        "url": "https://open.spotify.com/album/5GOVje4CqyYLQIFrE7yVYX"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 150823,
-      "name": "Buenos T\u00e9rminos",
-      "url": "https://open.spotify.com/track/0cpMZWmQnyjkoh9BrNgTMb"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
         "name": "La Curiosidad (Blue Grand Prix Remix) [feat. Dj Nelson, JHAYCO, Lunay & Kendo Kaponi]",
         "url": "https://open.spotify.com/album/0KhKYoSXQqEnXDRmIKMmGm"
       },
@@ -527,6 +491,42 @@
       "duration_ms": 382555,
       "name": "La Curiosidad (feat. Dj Nelson, JHAYCO, Lunay & Kendo Kaponi) - Blue Grand Prix Remix",
       "url": "https://open.spotify.com/track/7LE1K0lZyRFZjSlrnm7lfD"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
+        "name": "Buenos T\u00e9rminos",
+        "url": "https://open.spotify.com/album/5GOVje4CqyYLQIFrE7yVYX"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 150823,
+      "name": "Buenos T\u00e9rminos",
+      "url": "https://open.spotify.com/track/0cpMZWmQnyjkoh9BrNgTMb"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
+        "name": "Inocente",
+        "url": "https://open.spotify.com/album/1IwuM5jEXE9v58NVKUyrwk"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "Inocente",
+      "url": "https://open.spotify.com/track/6gV8ALkSHfJi7Bprabr1FC"
     },
     {
       "added_at": "2025-11-20 12:09:53",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
-        "name": "Sigo Por El Objetivo",
-        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 146240,
-      "name": "Deja De Llorar",
-      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
         "name": "Linda (Remix)",
         "url": "https://open.spotify.com/album/31O1cXWZUf4yRC28MwJ1wb"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 234105,
       "name": "Linda - Remix",
       "url": "https://open.spotify.com/track/7HrgGbnNKZKhBL70aFKpXk"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
+        "name": "Sigo Por El Objetivo",
+        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 146240,
+      "name": "Deja De Llorar",
+      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
     },
     {
       "added_at": "2025-11-20 12:09:53",
@@ -819,6 +819,22 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
+        "name": "POSEIDON",
+        "url": "https://open.spotify.com/album/0oHVJ97dewqN8vxZGNn79L"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        }
+      ],
+      "duration_ms": 142234,
+      "name": "POSEIDON",
+      "url": "https://open.spotify.com/track/174aKoJaBUSw87F0erUV5y"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
         "name": "No Aguanto M\u00e1s",
         "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 194690,
       "name": "No Aguanto M\u00e1s",
       "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
-        "name": "POSEIDON",
-        "url": "https://open.spotify.com/album/0oHVJ97dewqN8vxZGNn79L"
-      },
-      "artists": [
-        {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
-        }
-      ],
-      "duration_ms": 142234,
-      "name": "POSEIDON",
-      "url": "https://open.spotify.com/track/174aKoJaBUSw87F0erUV5y"
     },
     {
       "added_at": "2025-11-20 12:09:53",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
+        "name": "Peipper | Mission 11",
+        "url": "https://open.spotify.com/album/5OIK0OmBzjnYVS0geBsSRM"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Peipper | Mission 11",
+      "url": "https://open.spotify.com/track/3RHh5CYBVN1XP0MS3cg1Bz"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
         "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) [Remix]",
         "url": "https://open.spotify.com/album/4Pg9HfkoILc1bvEUSUfv1J"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 229426,
       "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) - Remix",
       "url": "https://open.spotify.com/track/4IkSOwB9JRhq7oScl4pCW9"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
-        "name": "Peipper | Mission 11",
-        "url": "https://open.spotify.com/album/5OIK0OmBzjnYVS0geBsSRM"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Peipper | Mission 11",
-      "url": "https://open.spotify.com/track/3RHh5CYBVN1XP0MS3cg1Bz"
     },
     {
       "added_at": "2025-11-20 12:09:53",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
-      },
-      "artists": [
-        {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
-        }
-      ],
-      "duration_ms": 172386,
-      "name": "Besame",
-      "url": "https://open.spotify.com/track/7y8V5gDcZavd1ks95ktB49"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
         "name": "Yendo No, Llegando",
         "url": "https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP"
       },
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+      },
+      "artists": [
+        {
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+        }
+      ],
+      "duration_ms": 172386,
+      "name": "Besame",
+      "url": "https://open.spotify.com/track/7y8V5gDcZavd1ks95ktB49"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
         "name": "Ojitos Chiquititos",
         "url": "https://open.spotify.com/album/0qDTsPJg1GZhUmRj3m7udK"
       },
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
-        "name": "Te Mentir\u00eda",
-        "url": "https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 218431,
-      "name": "Te Mentir\u00eda",
-      "url": "https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
         "name": "Los Maleantes",
         "url": "https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 164780,
       "name": "Sentado en la Esquina",
       "url": "https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
+        "name": "Te Mentir\u00eda",
+        "url": "https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 218431,
+      "name": "Te Mentir\u00eda",
+      "url": "https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx"
     },
     {
       "added_at": "2025-11-20 12:09:53",
@@ -1691,30 +1691,6 @@
       "duration_ms": 197142,
       "name": "Quiero Verte Bailar (Remix)",
       "url": "https://open.spotify.com/track/3Ln8SNwGSNMMmvjx2W982s"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
-        "name": "Guaracha, Vol. 1",
-        "url": "https://open.spotify.com/album/2lqhMjGO8U2yAIPpvpRMXW"
-      },
-      "artists": [
-        {
-          "name": "DJ Cuba",
-          "url": "https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE"
-        },
-        {
-          "name": "DJ Pirata",
-          "url": "https://open.spotify.com/artist/4MlPk7Q5wc1b5KRKSCDNnh"
-        },
-        {
-          "name": "Pity DJ",
-          "url": "https://open.spotify.com/artist/5g97L1SY9pc0tHrgvDG29a"
-        }
-      ],
-      "duration_ms": 118153,
-      "name": "Nunca Me Amo - Guaracha",
-      "url": "https://open.spotify.com/track/0K1QWo15h39YEYneBLzqJT"
     },
     {
       "added_at": "2025-11-20 12:09:53",
@@ -1751,6 +1727,30 @@
       "duration_ms": 130613,
       "name": "LUCK RA | DJ TAO Turreo Sessions #19",
       "url": "https://open.spotify.com/track/2WOEp6Kyh7CKCq4FTpUOtA"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
+        "name": "Guaracha, Vol. 1",
+        "url": "https://open.spotify.com/album/2lqhMjGO8U2yAIPpvpRMXW"
+      },
+      "artists": [
+        {
+          "name": "DJ Cuba",
+          "url": "https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE"
+        },
+        {
+          "name": "DJ Pirata",
+          "url": "https://open.spotify.com/artist/4MlPk7Q5wc1b5KRKSCDNnh"
+        },
+        {
+          "name": "Pity DJ",
+          "url": "https://open.spotify.com/artist/5g97L1SY9pc0tHrgvDG29a"
+        }
+      ],
+      "duration_ms": 118153,
+      "name": "Nunca Me Amo - Guaracha",
+      "url": "https://open.spotify.com/track/0K1QWo15h39YEYneBLzqJT"
     },
     {
       "added_at": "2025-11-20 12:09:53",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
-        "name": "Una Cerveza",
-        "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 204640,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/5PBglLuGrJFWg7Z3mRqFYi"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
         "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
         "url": "https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 140109,
       "name": "LA T Y LA M | DJ TAO Turreo Sessions #16",
       "url": "https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
+        "name": "Una Cerveza",
+        "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 204640,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/5PBglLuGrJFWg7Z3mRqFYi"
     },
     {
       "added_at": "2025-11-20 12:09:53",
@@ -1903,6 +1903,26 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
+        "name": "BM | DJ TAO Turreo Sessions #17",
+        "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/43bRAoXHmsKR7rt92ciFU3"
+        }
+      ],
+      "duration_ms": 176144,
+      "name": "BM | DJ TAO Turreo Sessions #17",
+      "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
         "name": "Ah\u00ed Ah\u00ed (feat. L-Gante y La T y la M) [Remix]",
         "url": "https://open.spotify.com/album/5FFJnLghKYOcGmovytmUGy"
       },
@@ -1931,26 +1951,6 @@
       "duration_ms": 253340,
       "name": "Ah\u00ed Ah\u00ed (feat. L-Gante y La T y la M) - Remix",
       "url": "https://open.spotify.com/track/1FNdZuZ02FowKC6NrwG9CL"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
-        "name": "BM | DJ TAO Turreo Sessions #17",
-        "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/43bRAoXHmsKR7rt92ciFU3"
-        }
-      ],
-      "duration_ms": 176144,
-      "name": "BM | DJ TAO Turreo Sessions #17",
-      "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
     },
     {
       "added_at": "2025-11-20 12:09:53",
@@ -2135,6 +2135,26 @@
     {
       "added_at": "2025-11-20 12:09:53",
       "album": {
+        "name": "ALEJO ISAKK | DJ TAO Turreo Sessions #14",
+        "url": "https://open.spotify.com/album/0keCqTJB00DAwHML5qknRH"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Alejo Isakk",
+          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
+        }
+      ],
+      "duration_ms": 160171,
+      "name": "ALEJO ISAKK | DJ TAO Turreo Sessions #14",
+      "url": "https://open.spotify.com/track/5OZ4ske7GzEE6fOy9qjWdh"
+    },
+    {
+      "added_at": "2025-11-20 12:09:53",
+      "album": {
         "name": "Mix Los Palmeras - (Fer Palacio Remix)",
         "url": "https://open.spotify.com/album/23uaZbNiaoyRW3ajEQaP4G"
       },
@@ -2155,22 +2175,6 @@
       "duration_ms": 593909,
       "name": "Mix Los Palmeras (Fer Palacio Remix) El Bomb\u00f3n/ El Embrujo/ Perra/ La Cola/ Ll\u00e9vame Contigo/ Qu\u00e9 Quiere La Chola/ Sabalero",
       "url": "https://open.spotify.com/track/2K23Qshovdda3cgSRbHQKu"
-    },
-    {
-      "added_at": "2025-11-20 12:09:53",
-      "album": {
-        "name": "El Bonaerense",
-        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 213264,
-      "name": "Alza las Manos",
-      "url": "https://open.spotify.com/track/11Np353ExW9cTo1HxI1Pfe"
     }
   ],
   "unique_name": "Joda",

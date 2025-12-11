@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,630 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,725 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 9 | [Onde Existe Amor](https://open.spotify.com/track/6b6YVmtwd65R1HizYKKm1l) | [Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm) | [OCANV \(Cap\. I\)](https://open.spotify.com/album/1HsTv5Cy3zBYcmHlh72LIQ) | 3:36 |
 | 10 | [Refletir \(Resista\)](https://open.spotify.com/track/0MI5P7TQYEjyTnQVQisbZB) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr), [Toni Garrido](https://open.spotify.com/artist/6102bVgHhOwz9NGawJPJOL) | [Refletir \(Resista\)](https://open.spotify.com/album/4q8jyiEtpecQblVyRUASht) | 4:00 |
 | 11 | [Desejo Paz](https://open.spotify.com/track/1YonaHaWEs6yIP4WErsdHg) | [MENSANA](https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL) | [Desejo Paz](https://open.spotify.com/album/0xqIXUwcFXolufH3ynFAKa) | 3:33 |
-| 12 | [Envolvidão](https://open.spotify.com/track/51ps6uorlcN8Q7jVJqIkuB) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Diversoficando](https://open.spotify.com/album/2TjXXr70261KZWHACRWEtR) | 3:25 |
-| 13 | [RASTAFARI](https://open.spotify.com/track/1vK57Ufl3GsX5zrT9ZiRf7) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [RASTAFARI](https://open.spotify.com/album/63qxJ2WUYGI97N0litTHEG) | 2:07 |
+| 12 | [RASTAFARI](https://open.spotify.com/track/1vK57Ufl3GsX5zrT9ZiRf7) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [RASTAFARI](https://open.spotify.com/album/63qxJ2WUYGI97N0litTHEG) | 2:07 |
+| 13 | [Envolvidão](https://open.spotify.com/track/51ps6uorlcN8Q7jVJqIkuB) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Diversoficando](https://open.spotify.com/album/2TjXXr70261KZWHACRWEtR) | 3:25 |
 | 14 | [Rindo À Toa \- Ao Vivo](https://open.spotify.com/track/6Pq6UIpaE63jczCOB2hIJs) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Rindo À Toa \(Ao Vivo\)](https://open.spotify.com/album/5gp2QQU4bgpE8OpZo10kBo) | 3:15 |
 | 15 | [Vitória](https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Vitória](https://open.spotify.com/album/0ZVIlN470lRMTipVeCUkJw) | 3:29 |
 | 16 | [O Bem](https://open.spotify.com/track/7pj80cYmGQvxudCfxGETrN) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Amores E Flores](https://open.spotify.com/album/6rqpxYPwbgn348n8b5j7ne) | 3:22 |

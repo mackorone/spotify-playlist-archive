@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Colter Wall
 
-645 songs - 1 day 15 hr 2 min
+646 songs - 1 day 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Encinal Canyon](https://open.spotify.com/track/7l02bzJ5vV8wk67iEpeotE) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [Encinal Canyon](https://open.spotify.com/album/0KPk5jj3IJzBo01Klqrrzn) | 3:26 | 2023-08-25 | 2024-02-07 |
 | [Especially a Paint \- Dark Horse Acoustic](https://open.spotify.com/track/6ZuKLsikgjxC0YHon3tnA1) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Horse Soldier! Horse Soldier! \(Dark Horse Edition\)](https://open.spotify.com/album/6wr4NvzNS05jqbx2WEgkl2) | 2:54 | 2025-11-07 |  |
 | [Evangelina](https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Evangelina](https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib) | 3:47 | 2023-04-28 | 2025-10-18 |
-| [Everybody Loves My Little Darling](https://open.spotify.com/track/792fQejq2ZtI3SvapaWxAt) | [Jake Vaadeland](https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3) | [Everybody Loves My Little Darling](https://open.spotify.com/album/6cL7E045MCT6M72Ij7xkIT) | 2:10 | 2025-10-06 |  |
+| [Everybody Loves My Little Darling](https://open.spotify.com/track/792fQejq2ZtI3SvapaWxAt) | [Jake Vaadeland](https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3) | [Everybody Loves My Little Darling](https://open.spotify.com/album/6cL7E045MCT6M72Ij7xkIT) | 2:10 | 2025-10-06 | 2025-12-11 |
 | [Everyday](https://open.spotify.com/track/4MhSHMQnlowD8yrHmnK6j9) | [Noah Reid](https://open.spotify.com/artist/0h3ltaoCYAfisEeddUYDZT) | [Everyday](https://open.spotify.com/album/0dgI0FRXO5KR5jdKhE7q4c) | 3:21 | 2022-05-13 | 2022-07-23 |
 | [Everything Burns](https://open.spotify.com/track/0lL6aruZNHj9NdWEVni3MX) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [So Long Little Miss Sunshine](https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr) | 3:44 | 2025-08-14 |  |
 | [Everywhere I Go](https://open.spotify.com/track/1D9jGMIvyONAaD16DeHlGR) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/3vFxPWFA56HSBQr096PbUO) | 2:19 | 2024-04-19 | 2025-08-29 |
@@ -262,6 +262,7 @@
 | [Heaven Passing Through](https://open.spotify.com/track/66Mk4Rd6A08oa6bF27uQxj) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [The Price of Admission](https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq) | 4:00 | 2025-06-06 |  |
 | [Heaven's Touch](https://open.spotify.com/track/3bHfBsUAC23VN6oHwvLCwZ) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Heaven's Touch](https://open.spotify.com/album/2ebFuRMHOl8YI6pH6cZAJx) | 3:17 | 2022-05-13 | 2022-08-13 |
 | [Heavy, Heavy Love](https://open.spotify.com/track/5Eionir5dOajqqJmmJHOWM) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [A Crater Wide](https://open.spotify.com/album/1oeGWPa9719wEmCR9bUHp4) | 3:10 | 2025-10-09 |  |
+| [Hell of a Daydream](https://open.spotify.com/track/7ms1WciH0qEHlehZn9xtPc) | [Richard Inman](https://open.spotify.com/artist/0eha96FtThymbm5svvfopg) | [Hell of a Daydream](https://open.spotify.com/album/5XrPFUGISdfR7hGIE1G5kV) | 3:18 | 2025-10-17 |  |
 | [Here If You Want Me](https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Venus Copper Rose](https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95) | 3:01 | 2022-10-28 | 2023-07-22 |
 | [Here To Stay](https://open.spotify.com/track/6I9nTnwUOzb8hHukEoBkeH) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Here To Stay](https://open.spotify.com/album/5jm0SNnhwVAVpOp7AIvCWN) | 3:12 | 2024-04-12 | 2024-08-16 |
 | [Hey Baby](https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0KP0kzTCtYthC6dVndh1Jj) | 2:50 | 2023-04-28 | 2024-04-19 |

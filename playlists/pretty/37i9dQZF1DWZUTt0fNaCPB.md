@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,092,274 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,349 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 64 | [Run Run Run](https://open.spotify.com/track/144fBZWn4968hszzQkXV9q) | [Black Paisley](https://open.spotify.com/artist/6mGp1hXgz27GRQOkHD8d5m) | [Late Bloomer](https://open.spotify.com/album/6ArbLISzajVrvRQ95O25il) | 4:30 |
 | 65 | [Trouble](https://open.spotify.com/track/4xlxojOaZyOQi7P8ig1BvH) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Trouble](https://open.spotify.com/album/4vNOIupUcx5xCsGgbBImRp) | 3:12 |
 | 66 | [Bear the Cross](https://open.spotify.com/track/0KU8BYpNr112tz68grzVVp) | [Poisonblack](https://open.spotify.com/artist/1mBXJUab9jbcHhYxMuWbxO) | [A Dead Heavy Day](https://open.spotify.com/album/1Nt7VK5YdHhI1ZeCq15RxK) | 3:50 |
-| 67 | [Bird On A Chain](https://open.spotify.com/track/4IF5tqSLknKGYp0uQPZw6P) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [Bird On A Chain](https://open.spotify.com/album/5eY8X2zrWWaHlm7kMPV7qu) | 2:52 |
-| 68 | [Faster Than God](https://open.spotify.com/track/6JrYwuGZMWACjBMoERSwBH) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Faster Than God](https://open.spotify.com/album/63prBELvWhQTomik1YTaUv) | 3:31 |
+| 67 | [Faster Than God](https://open.spotify.com/track/6JrYwuGZMWACjBMoERSwBH) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Faster Than God](https://open.spotify.com/album/63prBELvWhQTomik1YTaUv) | 3:31 |
+| 68 | [Bird On A Chain](https://open.spotify.com/track/4IF5tqSLknKGYp0uQPZw6P) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [Bird On A Chain](https://open.spotify.com/album/5eY8X2zrWWaHlm7kMPV7qu) | 2:52 |
 | 69 | [Witch Hunt](https://open.spotify.com/track/6ye8AdkpHcYQLlHUXZkrUn) | [Nicumo](https://open.spotify.com/artist/7z2nNVchTS9FTHP9qnJqDt) | [Witch Hunt](https://open.spotify.com/album/4vvW52mcvUtJb2PvhbgtXl) | 4:43 |
 | 70 | [Fake](https://open.spotify.com/track/36Aa21IPeeNE3IU1zLQo5g) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Fake](https://open.spotify.com/album/0gdStv72Ej1fxyiv4SlFHd) | 3:30 |
 | 71 | [War Is Killing Us All](https://open.spotify.com/track/65b1ds24VRmAsCAWef8RgQ) | [Righteous Vendetta](https://open.spotify.com/artist/0H9lbVkJq2aj6SbqJKBVy5) | [War Is Killing Us All](https://open.spotify.com/album/2p19Bf53q3lieWDazEtHU7) | 3:38 |

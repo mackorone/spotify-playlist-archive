@@ -547,6 +547,32 @@
     },
     {
       "album": {
+        "name": "Seven Days Walking (Day 2)",
+        "url": "https://open.spotify.com/album/4GRrwMMcFXZUGIPX6ltBj5"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        },
+        {
+          "name": "Federico Mecozzi",
+          "url": "https://open.spotify.com/artist/1KGN2lEFFhc1rGJNcQPsfU"
+        },
+        {
+          "name": "Redi Hasa",
+          "url": "https://open.spotify.com/artist/7HlXH3lEJtM1yO38Ghi20f"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357122,
+      "name": "Golden Butterflies Var. 1 - Day 2",
+      "url": "https://open.spotify.com/track/7ebwPw0FolDDPU3nmgYMJr"
+    },
+    {
+      "album": {
         "name": "Islands - Essential Einaudi",
         "url": "https://open.spotify.com/album/7k1Ki5pYinGM3lME2Tv3AM"
       },
@@ -1282,32 +1308,6 @@
       "duration_ms": 325280,
       "name": "Seven Days Walking / Day 2: Birdsong",
       "url": "https://open.spotify.com/track/7EF5cPm1zN8Jvy4FvcQOee"
-    },
-    {
-      "album": {
-        "name": "Seven Days Walking (Day 2)",
-        "url": "https://open.spotify.com/album/4GRrwMMcFXZUGIPX6ltBj5"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        },
-        {
-          "name": "Federico Mecozzi",
-          "url": "https://open.spotify.com/artist/1KGN2lEFFhc1rGJNcQPsfU"
-        },
-        {
-          "name": "Redi Hasa",
-          "url": "https://open.spotify.com/artist/7HlXH3lEJtM1yO38Ghi20f"
-        }
-      ],
-      "date_added": "2025-01-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 357122,
-      "name": "Seven Days Walking / Day 2: Golden Butterflies Var. 1",
-      "url": "https://open.spotify.com/track/7ebwPw0FolDDPU3nmgYMJr"
     },
     {
       "album": {

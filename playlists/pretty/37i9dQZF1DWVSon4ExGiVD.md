@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSon4ExGiVD.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Darkchild
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,954 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,955 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

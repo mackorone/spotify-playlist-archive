@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 
 > Zenék, amik félreugranak a műfaji határok elől\. A Carson Comával közösen összeállított lejátszási lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,944 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,978 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 | 54 | [Magam sem tudom](https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk) | [Bohemian Betyars](https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow) | [Magam sem tudom](https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r) | 3:10 |
 | 55 | [Dorodango](https://open.spotify.com/track/4QPn4xdd16uPtoKZoH7Tgi) | [Ivan & The Parazol](https://open.spotify.com/artist/0arW2wuAryC7RMZpjpw3N8), [Yuki Kawamura](https://open.spotify.com/artist/5cIVT5Vnkk0oDDyL7Dg5oO) | [Dorodango](https://open.spotify.com/album/3SndELrZ85zlgPOJ0E69b0) | 2:58 |
 | 56 | [Elszállnék](https://open.spotify.com/track/6AeHaBOwRw4IbdV8Rxc4iq) | [imago mundi](https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO) | [Elszállnék](https://open.spotify.com/album/4k5jW5VJ4LyfFjo4QWYagM) | 2:36 |
-| 57 | [SÖRSEGGŰ LÁNY](https://open.spotify.com/track/0WNJF2hXPt6XmPIYfWrf4s) | [cserihanna](https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl) | [Hirtelen mélyül](https://open.spotify.com/album/1JpVOO3Ncy4yNWk8yawm0R) | 3:26 |
+| 57 | [Télbe át](https://open.spotify.com/track/2yhLSp2tSxQsKdaYBJ1vNl) | [Kolibri](https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72) | [Télbe át](https://open.spotify.com/album/1zXzbm4fRPft8o8rJBruSQ) | 2:41 |
 | 58 | [Én vagyok az aki nem jó](https://open.spotify.com/track/01P21N3rbuulKkskjgDXCI) | [Csinszka](https://open.spotify.com/artist/5Tnw6MRgzvpCp6iH0YHKJ6) | [TRANSFORMANIA](https://open.spotify.com/album/43q2bqCPhvFRjIC6p64VtO) | 3:51 |
-| 59 | [Télbe át](https://open.spotify.com/track/2yhLSp2tSxQsKdaYBJ1vNl) | [Kolibri](https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72) | [Télbe át](https://open.spotify.com/album/1zXzbm4fRPft8o8rJBruSQ) | 2:41 |
+| 59 | [SÖRSEGGŰ LÁNY](https://open.spotify.com/track/0WNJF2hXPt6XmPIYfWrf4s) | [cserihanna](https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl) | [Hirtelen mélyül](https://open.spotify.com/album/1JpVOO3Ncy4yNWk8yawm0R) | 3:26 |
 | 60 | [Kontakthiba](https://open.spotify.com/track/5MWMzP0Kx3aMcZXA8J0OTH) | [laurie.](https://open.spotify.com/artist/6RNq4wuvQfF7WbDtBkiuET) | [Kontakthiba](https://open.spotify.com/album/19y6cLO0OetFxyVBRngZjV) | 3:01 |
 | 61 | [Szegénykém](https://open.spotify.com/track/6XhfEL3mr7xf8vtPC74v0X) | [Csaknekedkislány](https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ) | [Szegénykém](https://open.spotify.com/album/1G46zBdtFuMm0hPwFF9OYJ) | 4:42 |
 | 62 | [Blicc](https://open.spotify.com/track/2lXERDGIK7xnA6klLbMFy6) | [Duckshell](https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9) | [Blicc](https://open.spotify.com/album/6XjzZGNmJh7cAfrxI5WiKS) | 3:48 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 | 76 | [ÉLEK ÉS VIRULOK](https://open.spotify.com/track/7EknOyrrRIVBQNWrwOkuSl) | [Hűvös](https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA), [Bíró Bence](https://open.spotify.com/artist/7wZnYDn8PGMZ8A0ziYrSmz) | [ÉLEK ÉS VIRULOK](https://open.spotify.com/album/0PuEl5Tdjlt0bF4vFdzUaT) | 2:56 |
 | 77 | [Menj](https://open.spotify.com/track/7kk5ouFxBgw5e2TZitUsZ9) | [Aurevoir.](https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw) | [Menj](https://open.spotify.com/album/3eiwFheSvjaecLq4PpNsB9) | 3:47 |
 | 78 | [hovászöktél?](https://open.spotify.com/track/3Dp1DSaQEVU9HP7nZM2Ne3) | [STAiR](https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai) | [hovászöktél?](https://open.spotify.com/album/6ozRjx8jd0Iddux3HxqWhL) | 2:12 |
-| 79 | [ÉLEK](https://open.spotify.com/track/6sttYMGxhalSlGfLWVgYle) | [HIPERKARMA](https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs) | [ÍRD ÉS MONDD!](https://open.spotify.com/album/2gksqqUvlxfp5sqephMSTC) | 3:37 |
+| 79 | [KICSIKE FÉNY](https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb) | [HIPERKARMA](https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs) | [SZÓLNI KELL](https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l) | 3:43 |
 | 80 | [Kis Kece](https://open.spotify.com/track/62MujMMhnGOJB1gGTYbCAC) | [Дeva](https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ), [Balint Boldizsar](https://open.spotify.com/artist/5xFU79pSKrEpSiTVysdTY3) | [Avar](https://open.spotify.com/album/3IIniqQIPnxvogMPs3qLek) | 4:45 |
 
 Snapshot ID: `AAAAAPXI5UpVyflBLTjJi/NyeWY7j8uW`

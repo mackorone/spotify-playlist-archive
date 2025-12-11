@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-800 songs - 1 day 15 hr 58 min
+801 songs - 1 day 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -672,6 +672,7 @@
 | [Sunrise](https://open.spotify.com/track/6WV6aIFluFdtoqnhUmmgKA) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Sunrise](https://open.spotify.com/album/5KXb5CBBV5HucBeRRus7K6) | 4:16 | 2024-01-05 | 2024-08-28 |
 | [Sunrise](https://open.spotify.com/track/357x1BfwwLGoqdA3UGZRJ2) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [fawlin](https://open.spotify.com/artist/1u5hEHvd4fpHDUye3r9lAm) | [Sunrise](https://open.spotify.com/album/6e9ki1EUSCUoEitQIVjfgJ) | 2:43 | 2025-11-07 |  |
 | [Sunshine](https://open.spotify.com/track/3LcuxzO1gLRhcRZbZJh0hE) | [Gelow](https://open.spotify.com/artist/1XOwklRW1AGECnhcL0lvfj), [BPRTS](https://open.spotify.com/artist/37oLcPpZmGMirasruONASH) | [Sunshine](https://open.spotify.com/album/5yPX9eTafy1WFFtWtIJ1Ak) | 2:40 | 2022-07-21 | 2023-04-28 |
+| [Superhero](https://open.spotify.com/track/3F01egp8emkhIfDZ61CxV5) | [Alex Hagen](https://open.spotify.com/artist/7qZBzygfPUSIn3VAO1QybW) | [Superhero](https://open.spotify.com/album/12weYcq5Cz3NbSPITZJ5v9) | 2:58 | 2025-12-10 |  |
 | [Superhero](https://open.spotify.com/track/4tF4f9GwL52a4VruWF5Brp) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Superhero](https://open.spotify.com/album/2H6vrT8YGOtWEZgj0DmJSm) | 2:59 | 2023-08-08 | 2024-01-04 |
 | [Surrender](https://open.spotify.com/track/54ZWd8JaiBPeKR2DWRyMLs) | [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Surrender](https://open.spotify.com/album/5CXQBoYlUCBZjDuC6z4wd5) | 4:19 | 2023-05-12 | 2023-08-10 |
 | [Surrender](https://open.spotify.com/track/6PRMRlSzHca1q0wYvGzU5f) | [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0) | [Playing with Fire](https://open.spotify.com/album/19wkkvKkqO1SY9M3jYD8Nl) | 4:19 | 2023-07-07 | 2023-08-10 |

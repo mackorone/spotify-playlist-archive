@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 
 > This is Oasis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,279 likes - 37 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,283 likes - 38 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 15 | [The Importance Of Being Idle](https://open.spotify.com/track/2RUfZnDBLgXeO2A1XOj0ss) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/18ACIuiPrMJMkRPtNL9G7h) | 3:39 |
 | 16 | [Whatever \- Remastered](https://open.spotify.com/track/7rpUsVjQyitDQ27NRybgZl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Remastered\)](https://open.spotify.com/album/50xG9YujTzMGaLHfJTskBy) | 6:22 |
 | 17 | [Roll with It \- Remastered](https://open.spotify.com/track/05CNnC9ugYgnJgg6fIgyeQ) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:00 |
-| 18 | [Go Let It Out](https://open.spotify.com/track/3eFL9jPBBALueXfjhe0jCd) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6F2iD5c7Aca3E0wmmPhgax) | 4:38 |
-| 19 | [Sad Song \- Mauldeth Road West Demo, Nov' 92](https://open.spotify.com/track/4LFwqwVGdViVgDIvJNIqqV) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(30th Anniversary\)](https://open.spotify.com/album/4J0amttxitKO3C2qCab3YA) | 4:34 |
+| 18 | [Sad Song \- Mauldeth Road West Demo, Nov' 92](https://open.spotify.com/track/4LFwqwVGdViVgDIvJNIqqV) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(30th Anniversary\)](https://open.spotify.com/album/4J0amttxitKO3C2qCab3YA) | 4:34 |
+| 19 | [Go Let It Out](https://open.spotify.com/track/3eFL9jPBBALueXfjhe0jCd) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6F2iD5c7Aca3E0wmmPhgax) | 4:38 |
 | 20 | [Half The World Away \- Remastered](https://open.spotify.com/track/0if8wueNrAVLfwSH7l1ANJ) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:27 |
 | 21 | [She's Electric \- Remastered](https://open.spotify.com/track/60QLLec3yKDwloXCyummPy) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 3:40 |
 | 22 | [D'You Know What I Mean? \- Remastered](https://open.spotify.com/track/4yWTh6qETpN1Vlfg5LBHEV) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 7:43 |
@@ -39,11 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vHAZO.md) - [plain]
 | 29 | [Keep The Dream Alive](https://open.spotify.com/track/6OBvONDIuhYRsR1DKwlbaW) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Believe The Truth](https://open.spotify.com/album/56VuARmradZgJcSaVucTWn) | 5:45 |
 | 30 | [The Girl In The Dirty Shirt \- Remastered](https://open.spotify.com/track/1MkwGdfDRDpDe0y2LkHAFO) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 5:49 |
 | 31 | [She Is Love](https://open.spotify.com/track/78BHYuPCnUBh9wlbNWTCqC) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Heathen Chemistry](https://open.spotify.com/album/4mMan8IGNJUhZ6du15ki5T) | 3:09 |
-| 32 | [Gas Panic!](https://open.spotify.com/track/2klLrvEu0OroEWsJWeafWp) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 6:08 |
+| 32 | [Sunday Morning Call](https://open.spotify.com/track/6foXkrv79wyo9RMfZIMB6z) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 5:12 |
 | 33 | [The Shock Of The Lightning](https://open.spotify.com/track/72pRggptACNxeYG0vG3V3Q) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:59 |
 | 34 | [I Hope, I Think, I Know \- Remastered](https://open.spotify.com/track/5g4IouEbo38FZi8M1Ga4ey) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now \(Deluxe Remastered Edition\)](https://open.spotify.com/album/4XBCWqCXqCdN72K9SklIjy) | 4:22 |
 | 35 | [My Big Mouth \(Live at Knebworth, 10 August '96\)](https://open.spotify.com/track/7rkqDEXEdL0zg9B7IDakLF) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Knebworth 1996 \(Live\)](https://open.spotify.com/album/5TC9oSol9ZQwXQk8XcsD7i) | 5:10 |
-| 36 | [Sunday Morning Call](https://open.spotify.com/track/6foXkrv79wyo9RMfZIMB6z) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 5:12 |
+| 36 | [Gas Panic!](https://open.spotify.com/track/2klLrvEu0OroEWsJWeafWp) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 6:08 |
 | 37 | [Falling Down](https://open.spotify.com/track/7Do5xcVXgjNEbXzYUSrPvg) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Dig Out Your Soul](https://open.spotify.com/album/0qzmQzJH4ZDYMHvfN1Px15) | 4:20 |
+| 38 | [Let's All Make Believe](https://open.spotify.com/track/4iM2s0WZFznvgoC0HxZekI) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Go Let It Out](https://open.spotify.com/album/1ggiOXW9IWnJrwYOCBttGM) | 3:53 |
 
-Snapshot ID: `aTYVAAAAAADYbM8mflmWu6OSS9pD/c0M`
+Snapshot ID: `aTdmgAAAAAAvxGxEasz959Aru8r/NBlR`

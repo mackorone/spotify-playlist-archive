@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Mizzy Miles entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,309 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,305 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 4 | [Manda Fogo](https://open.spotify.com/track/3TzLz0o0ilVEmc2EUGl7zM) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX) | [Novo Messi 3](https://open.spotify.com/album/7KdHxhow3v6OPsdVrGfSSz) | 2:42 |
 | 5 | [Aplausos](https://open.spotify.com/track/6aR1vmIXugRUPPusdZEfaj) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Aplausos](https://open.spotify.com/album/6o4tdPrgwYVsaYdPPbEbHu) | 3:58 |
 | 6 | [Salo](https://open.spotify.com/track/4lDQoq2cyhMcz5gg5y2Zr6) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Intervenção Social](https://open.spotify.com/album/0oyQBDFWkiuBmavLa69PfP) | 2:48 |
-| 7 | [Radiante](https://open.spotify.com/track/2DdIXdp6VsXfzzLt9pvstJ) | [Atlas](https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb) | [Radiante](https://open.spotify.com/album/4bqR2RU9tbz1FkLy5CGVH3) | 5:08 |
+| 7 | [Radiante](https://open.spotify.com/track/2DdIXdp6VsXfzzLt9pvstJ) | [Atlas](https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb) | [Radiante](https://open.spotify.com/album/4bqR2RU9tbz1FkLy5CGVH3) | 3:41 |
 | 8 | [A Salvação](https://open.spotify.com/track/6UEv8n4yNipFSnLBp2d8wA) | [Prodígio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Valete](https://open.spotify.com/artist/32rAgIN6jhUQYhyoKa8agj) | [A Salvação](https://open.spotify.com/album/4Xvv4e47lj9JiCsFCKTZni) | 4:03 |
 | 9 | [Blessed](https://open.spotify.com/track/0WlMw7Ztdnnq0ZyYRTRpuD) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Último Rapper](https://open.spotify.com/album/64KqejTQOkpLtFFFelIHLU) | 3:53 |
 | 10 | [Antigamente](https://open.spotify.com/track/0nzxggtFw6r1Irsxrs99bO) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Antigamente](https://open.spotify.com/album/67C3Jbhb6j21kCAYF6Fmgx) | 2:46 |

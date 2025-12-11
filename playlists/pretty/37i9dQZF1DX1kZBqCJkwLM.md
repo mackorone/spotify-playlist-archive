@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,649 likes - 71 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,650 likes - 71 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 20 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 |
 | 21 | [Dolls](https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls](https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe) | 2:12 |
 | 22 | [UNDEFEATED](https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [UNDEFEATED](https://open.spotify.com/album/7kHjcTey5ZAewZLWtuCqzK) | 2:53 |
-| 23 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 |
-| 24 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 |
+| 23 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 |
+| 24 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 |
 | 25 | [Idol](https://open.spotify.com/track/1zVsw1SqQKgtzE4aqmE8nE) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Idol](https://open.spotify.com/album/2t5eAUqMwN0Kb2JGTxW2w0) | 3:33 |
 | 26 | [figured u out](https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 3:12 |
 | 27 | [CUT UP](https://open.spotify.com/track/6409bzRqrc9guKehKXiEcN) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [CUT UP](https://open.spotify.com/album/6hTtCdrTGIb5hzksetYw0u) | 2:56 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 39 | [Oops! Ur Single Now](https://open.spotify.com/track/5RBGrAXylxMWJhCEGWb4AS) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Oops! Ur Single Now](https://open.spotify.com/album/1UXUSIB2VlwmeCdkQncGtC) | 2:02 |
 | 40 | [Cellulite](https://open.spotify.com/track/0DqriIxLtWa47JbuZ3mAgX) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Cellulite](https://open.spotify.com/album/7LngWCTBR5pDbi8yQRoNVN) | 3:10 |
 | 41 | [What if I jump from a Bridge?](https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [What if I jump from a Bridge?](https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto) | 2:04 |
-| 42 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 |
-| 43 | [NOT RN!](https://open.spotify.com/track/4x3wN3dxBnVyyb1dGhLqKT) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [NOT RN!](https://open.spotify.com/album/2UWNrYj81L7B8XcQLByOm3) | 2:40 |
+| 42 | [NOT RN!](https://open.spotify.com/track/4x3wN3dxBnVyyb1dGhLqKT) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [NOT RN!](https://open.spotify.com/album/2UWNrYj81L7B8XcQLByOm3) | 2:40 |
+| 43 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 |
 | 44 | [Bad Girls Behave](https://open.spotify.com/track/0xPwQnlwiZM1StSik1g4a4) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Bad Girls Behave](https://open.spotify.com/album/4NCyhZpzN5gAvuuVnDpRTT) | 2:50 |
 | 45 | [Jokes On Me](https://open.spotify.com/track/0TjUJXqUH9CPfoC30y4fWx) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Jokes On Me](https://open.spotify.com/album/6fPSHoFjViSZSnxwsYC8Yl) | 2:37 |
 | 46 | [APESHIT](https://open.spotify.com/track/3tkduPvfebrlyttUxtXq8V) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [APESHIT](https://open.spotify.com/album/6L1nBEEqTueYzXqFXgjR8Y) | 2:31 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 56 | [Broken English](https://open.spotify.com/track/15K6Qae0N8GCqKy3PepT3Z) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Broken English](https://open.spotify.com/album/2x90iNz3Rr7QewJq7kpAGA) | 3:02 |
 | 57 | [fire sign fuck u](https://open.spotify.com/track/5ZzGcke5Lcf4pld0cKyOwE) | [SANJ](https://open.spotify.com/artist/5EDOYY1FujchLVQLI7OVD4) | [Poster Child](https://open.spotify.com/album/3a6zOO4obG0ra20SqJ5EYe) | 2:26 |
 | 58 | [one last fucc](https://open.spotify.com/track/1cGDDTx0HKg1ydelOa3Fkf) | [Ka Lia Universe](https://open.spotify.com/artist/75PGoEd8qGidSNjc5isdtb) | [one last fucc](https://open.spotify.com/album/2doYY3cdRUHPG4nJam6aQX) | 3:54 |
-| 59 | [Stomachache](https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Stomachache](https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP) | 3:04 |
-| 60 | [GANG$TA](https://open.spotify.com/track/58RYwmQUJVcn9jJPc5wVLa) | [SILVY](https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA) | [GANG$TA](https://open.spotify.com/album/3NKZL0lQVVroMxKYBaZ4Je) | 3:27 |
+| 59 | [GANG$TA](https://open.spotify.com/track/58RYwmQUJVcn9jJPc5wVLa) | [SILVY](https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA) | [GANG$TA](https://open.spotify.com/album/3NKZL0lQVVroMxKYBaZ4Je) | 3:27 |
+| 60 | [Stomachache](https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Stomachache](https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP) | 3:04 |
 | 61 | [TRIGGER HAPPY](https://open.spotify.com/track/0Xl7RPKEaAM2fyh1pXNAt2) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [TRIGGER HAPPY](https://open.spotify.com/album/16Bgi95HqT33ldu0ZQWttU) | 3:39 |
 | 62 | [cut my tongue](https://open.spotify.com/track/7L47uCaC1eus1QhkrzjlyT) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [cut my tongue](https://open.spotify.com/album/6tGJ69kZvMdlR676WPcWIR) | 3:01 |
 | 63 | [i deserve better](https://open.spotify.com/track/61N6k78p44EXKHAovZd6EX) | [Ka Lia Universe](https://open.spotify.com/artist/75PGoEd8qGidSNjc5isdtb) | [i deserve better](https://open.spotify.com/album/0yMEpVkWmfE2NSrL0sjLG4) | 3:26 |

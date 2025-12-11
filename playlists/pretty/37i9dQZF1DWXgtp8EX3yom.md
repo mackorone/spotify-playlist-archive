@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtp8EX3yom.md) - [plain]
 
 > Największe polskie przeboje w 2025 według naszej redakcji\. Cover: Kuban, Zalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,485 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,518 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtp8EX3yom.md) - [plain]
 | 49 | [Pół na pół](https://open.spotify.com/track/4S8PXtXDPcHsJCyA6EnJAH) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Pół na pół](https://open.spotify.com/album/3hyEeIghFGbEf9YU33qNkl) | 3:21 |
 | 50 | [Mała ja](https://open.spotify.com/track/1VdfW4WwZAQdEYCMN1O7IL) | [Monika Kociołek](https://open.spotify.com/artist/2HRF1rQF94wr5xbwQmPfg8) | [Mała ja](https://open.spotify.com/album/2lwzDJbrqUBcXw1FGaGLI3) | 2:44 |
 
-Snapshot ID: `AAAAAM0zfEJEs4rx5YS3rR4LxciSO4vY`
+Snapshot ID: `AAAAAAjREdCozX8HbJmQT1C+ASATBc9Q`

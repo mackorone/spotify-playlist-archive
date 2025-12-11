@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 9290,
+  "num_followers": 9292,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAABqL2VC3MAp6JhinC2nw6mw",
+  "snapshot_id": "aTdmgAAAAACXIbgEgdxE6iloQgCuI+Xu",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30b5\u30dc\u30bf\u30fc\u30b8\u30e5 (VS. ALI)",
-        "url": "https://open.spotify.com/album/6mFPQaQNRgWZNbFzsep3AD"
+        "name": "LOVE, MUSIC AND DANCE",
+        "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
       },
       "artists": [
         {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "Shing02",
+          "url": "https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9"
         }
       ],
-      "duration_ms": 256006,
-      "name": "\u30b5\u30dc\u30bf\u30fc\u30b8\u30e5 - VS. ALI",
-      "url": "https://open.spotify.com/track/5VKxSh8WcTp5M3Uv9SD81Y"
+      "duration_ms": 243000,
+      "name": "DAZE N SUNSHINE",
+      "url": "https://open.spotify.com/track/4AbZXj7bkhxmnhFab2Ej8l"
     },
     {
       "added_at": null,
@@ -391,22 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVE, MUSIC AND DANCE",
-        "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
+        "name": "\u30b5\u30dc\u30bf\u30fc\u30b8\u30e5 (VS. ALI)",
+        "url": "https://open.spotify.com/album/6mFPQaQNRgWZNbFzsep3AD"
       },
       "artists": [
         {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
         },
         {
-          "name": "Shing02",
-          "url": "https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9"
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 243000,
-      "name": "DAZE N SUNSHINE",
-      "url": "https://open.spotify.com/track/4AbZXj7bkhxmnhFab2Ej8l"
+      "duration_ms": 256006,
+      "name": "\u30b5\u30dc\u30bf\u30fc\u30b8\u30e5 - VS. ALI",
+      "url": "https://open.spotify.com/track/5VKxSh8WcTp5M3Uv9SD81Y"
     },
     {
       "added_at": null,
@@ -423,38 +423,6 @@
       "duration_ms": 209200,
       "name": "Dance You, Matilda",
       "url": "https://open.spotify.com/track/3zhx8K4SxwHLWtAZRiNdsq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VIVA LA MUSICA",
-        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 191966,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/2EmBdXIg3R7pWTTaA0g2RH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUSIC WORLD",
-        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 266133,
-      "name": "MELLOW CRUISE",
-      "url": "https://open.spotify.com/track/5rwjc8p9p8jDcuyzWWKvKA"
     },
     {
       "added_at": null,
@@ -483,6 +451,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "MUSIC WORLD",
+        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 266133,
+      "name": "MELLOW CRUISE",
+      "url": "https://open.spotify.com/track/5rwjc8p9p8jDcuyzWWKvKA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VIVA LA MUSICA",
+        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 191966,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/2EmBdXIg3R7pWTTaA0g2RH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wild Side",
         "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
       },
@@ -495,38 +495,6 @@
       "duration_ms": 189466,
       "name": "Jungle Love",
       "url": "https://open.spotify.com/track/63QCUBOTQHjSU4Vawd5dNA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Tomorrow (Give It Up)",
-        "url": "https://open.spotify.com/album/6w42YzfePjrV7RWiJeIXoS"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 266406,
-      "name": "No Tomorrow (Give It Up)",
-      "url": "https://open.spotify.com/track/54CxfEHBo4orjryP30IcDy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUSIC WORLD",
-        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "CLIMAX BULLETS",
-      "url": "https://open.spotify.com/track/6Hmv7N9nVGPziEslVoHnoz"
     },
     {
       "added_at": null,
@@ -547,6 +515,38 @@
       "duration_ms": 305106,
       "name": "BETTER DAYS",
       "url": "https://open.spotify.com/track/5qNZWyunNyD505JVslU1TE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUSIC WORLD",
+        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "CLIMAX BULLETS",
+      "url": "https://open.spotify.com/track/6Hmv7N9nVGPziEslVoHnoz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Tomorrow (Give It Up)",
+        "url": "https://open.spotify.com/album/6w42YzfePjrV7RWiJeIXoS"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 266406,
+      "name": "No Tomorrow (Give It Up)",
+      "url": "https://open.spotify.com/track/54CxfEHBo4orjryP30IcDy"
     },
     {
       "added_at": null,
@@ -575,38 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STAYING IN THE GROOVE",
-        "url": "https://open.spotify.com/album/0G6HaT2usfAR4Y7WmFPp1q"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 290833,
-      "name": "STAYING IN THE GROOVE",
-      "url": "https://open.spotify.com/track/2nQFemzvvRyC2B6UM0zRME"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUSIC WORLD",
-        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 265300,
-      "name": "SPARKLE",
-      "url": "https://open.spotify.com/track/2IIE9qJNoazhj61870dgkO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOVE, MUSIC AND DANCE",
         "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
       },
@@ -627,6 +595,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "MUSIC WORLD",
+        "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 265300,
+      "name": "SPARKLE",
+      "url": "https://open.spotify.com/track/2IIE9qJNoazhj61870dgkO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STAYING IN THE GROOVE",
+        "url": "https://open.spotify.com/album/0G6HaT2usfAR4Y7WmFPp1q"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 290833,
+      "name": "STAYING IN THE GROOVE",
+      "url": "https://open.spotify.com/track/2nQFemzvvRyC2B6UM0zRME"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VIVA LA MUSICA",
         "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
       },
@@ -639,6 +639,26 @@
       "duration_ms": 220800,
       "name": "WILD ANGEL",
       "url": "https://open.spotify.com/track/5rng1DB3PaY6KSQCHVWyFM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOVE, MUSIC AND DANCE",
+        "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "Hiyadam",
+          "url": "https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e"
+        }
+      ],
+      "duration_ms": 246866,
+      "name": "METROPOLIS",
+      "url": "https://open.spotify.com/track/6K67HToFgqOrit9qtRJZdB"
     },
     {
       "added_at": null,
@@ -675,26 +695,6 @@
       "duration_ms": 314282,
       "name": "Vim",
       "url": "https://open.spotify.com/track/3gX6jimRbB0Cdy1dPsWCWu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LOVE, MUSIC AND DANCE",
-        "url": "https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "Hiyadam",
-          "url": "https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e"
-        }
-      ],
-      "duration_ms": 246866,
-      "name": "METROPOLIS",
-      "url": "https://open.spotify.com/track/6K67HToFgqOrit9qtRJZdB"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tokyo Pharaoh",
+        "url": "https://open.spotify.com/album/3wJMXwks4RkMQfnVrO23n0"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 213406,
+      "name": "Tokyo Pharaoh",
+      "url": "https://open.spotify.com/track/2ddh4hVyDNFt6gBvqOmTW7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MY LIFE. MY DESTINY",
         "url": "https://open.spotify.com/album/3sOmp9cI7NafWSHkFNUs4b"
       },
@@ -771,34 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tokyo Pharaoh",
-        "url": "https://open.spotify.com/album/3wJMXwks4RkMQfnVrO23n0"
+        "name": "INGLOURIOUS EASTERN COWBOY",
+        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 213406,
-      "name": "Tokyo Pharaoh",
-      "url": "https://open.spotify.com/track/2ddh4hVyDNFt6gBvqOmTW7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ALI",
-        "url": "https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ"
-      },
-      "artists": [
+        },
         {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
         }
       ],
-      "duration_ms": 284433,
-      "name": "BONNIE",
-      "url": "https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3"
+      "duration_ms": 289300,
+      "name": "FOUND BLUE",
+      "url": "https://open.spotify.com/track/3a75OF0QEnrn8LqWXWpC67"
     },
     {
       "added_at": null,
@@ -819,22 +823,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "INGLOURIOUS EASTERN COWBOY",
-        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
+        "name": "ALI",
+        "url": "https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ"
       },
       "artists": [
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "Takuya Kuroda",
-          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
         }
       ],
-      "duration_ms": 289300,
-      "name": "FOUND BLUE",
-      "url": "https://open.spotify.com/track/3a75OF0QEnrn8LqWXWpC67"
+      "duration_ms": 284433,
+      "name": "BONNIE",
+      "url": "https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3"
     },
     {
       "added_at": null,

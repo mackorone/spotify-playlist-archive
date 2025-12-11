@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAA3pdCA0HvSEiYJ9UeHgy5F",
+  "snapshot_id": "aTdmgAAAAADqlmVKQXtKV8RlVvSbbtXt",
   "tracks": [
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COLORS",
-        "url": "https://open.spotify.com/album/2eRkUeDSQpD0AuSUyR39nB"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 93786,
-      "name": "COLORS -CODE GEASS OPENING MIX-",
-      "url": "https://open.spotify.com/track/6xUBXdVdzs50AvqARndD1A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Butter-Fly - From THE FIRST TAKE",
         "url": "https://open.spotify.com/album/3vmlgAoH6zQfcwEZRyKNfM"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 318045,
       "name": "Butter-Fly - From THE FIRST TAKE",
       "url": "https://open.spotify.com/track/7b80lqESPsx5ccfLQYAYrr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COLORS",
+        "url": "https://open.spotify.com/album/2eRkUeDSQpD0AuSUyR39nB"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 93786,
+      "name": "COLORS -CODE GEASS OPENING MIX-",
+      "url": "https://open.spotify.com/track/6xUBXdVdzs50AvqARndD1A"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 243640,
-      "name": "\u30b7\u30eb\u30a8\u30c3\u30c8",
-      "url": "https://open.spotify.com/track/6iWvPnegQ0KyaqgpTxmwGc"
+      "duration_ms": 207706,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/7LXqkSIXTDs1D4GLA0GTHE"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 207706,
-      "name": "CLOSER",
-      "url": "https://open.spotify.com/track/7LXqkSIXTDs1D4GLA0GTHE"
+      "duration_ms": 243640,
+      "name": "\u30b7\u30eb\u30a8\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/6iWvPnegQ0KyaqgpTxmwGc"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MICROCOSM",
-        "url": "https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa"
+        "name": "TRIBALYTHM",
+        "url": "https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 214773,
-      "name": "CALLING",
-      "url": "https://open.spotify.com/track/3BSBk36aL1s8W2idgESjGk"
+      "duration_ms": 252120,
+      "name": "PENDULUM",
+      "url": "https://open.spotify.com/track/5HlyhgXglM2BSJocbcfeih"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MICROCOSM",
+        "url": "https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 214773,
+      "name": "CALLING",
+      "url": "https://open.spotify.com/track/3BSBk36aL1s8W2idgESjGk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "INNOSENSE Special Edition",
         "url": "https://open.spotify.com/album/3JxLf3XTj5Qw3jrnJeqjgV"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 242373,
       "name": "INNOSENSE",
       "url": "https://open.spotify.com/track/1rRy8TzvkjTxvI2moGqmDl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TRIBALYTHM",
-        "url": "https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 252120,
-      "name": "PENDULUM",
-      "url": "https://open.spotify.com/track/5HlyhgXglM2BSJocbcfeih"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Coast",
-        "url": "https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Realize",
-      "url": "https://open.spotify.com/track/4pwLHkVcHkLNPl8GjwEft1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u70c8\u706b",
         "url": "https://open.spotify.com/album/2jE9xYfV1vRFslp3uPZMs7"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 250440,
       "name": "\u70c8\u706b",
       "url": "https://open.spotify.com/track/6XiU17DEkiJiX1BpD2r72Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golden Coast",
+        "url": "https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/4pwLHkVcHkLNPl8GjwEft1"
     },
     {
       "added_at": null,

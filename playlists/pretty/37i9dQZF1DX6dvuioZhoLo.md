@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Orville Peck
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,431 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,437 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 69 | [southwest serenade](https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO) | [Story Slaughter](https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY) | [southwest serenade](https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY) | 1:46 |
 | 70 | [Margo](https://open.spotify.com/track/5Mn82vItGPWekMoCE4GrhU) | [Haroula Rose](https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG) | [Margo](https://open.spotify.com/album/4tSX4JSEeC1bedmrv0KjJk) | 3:40 |
 | 71 | [True Love's Face](https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [True Love's Face](https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK) | 3:20 |
-| 72 | [Nothing Wrong with Texas](https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:19 |
-| 73 | [Trouble Me Anytime](https://open.spotify.com/track/0VW1XlmXrdB1H27SWKzN9k) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Violets as Camouflage](https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk) | 3:43 |
-| 74 | [BROKEN PIECES](https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [For When It Hurts](https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH) | 3:02 |
+| 72 | [BROKEN PIECES](https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [For When It Hurts](https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH) | 3:02 |
+| 73 | [Nothing Wrong with Texas](https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:19 |
+| 74 | [Trouble Me Anytime](https://open.spotify.com/track/0VW1XlmXrdB1H27SWKzN9k) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Violets as Camouflage](https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk) | 3:43 |
 | 75 | [That's How I Feel](https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [Every Single Star](https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2) | 2:43 |
 | 76 | [Ice Cream and Liquor](https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO) | [The Reckless Electric](https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM) | [Comeback](https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb) | 3:26 |
 | 77 | [Long Haul](https://open.spotify.com/track/64FAakgrlFtznRkDwgWAmg) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:01 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 92 | [Buddies](https://open.spotify.com/track/2LIOtDQuQ3mJuB1OOHPxIk) | [Lauren Barth](https://open.spotify.com/artist/21aYYkFIsLevgFeEFKbiC1) | [The Oklahoma Room at Folk Alliance 2017](https://open.spotify.com/album/5sBVk8l6NJ4H82qOkMjKHF) | 3:22 |
 | 93 | [I'll Be the One](https://open.spotify.com/track/01JkrDSrakX5UO5knhpKNA) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [My Gospel](https://open.spotify.com/album/25uC3BzETi50E1xFm05JcK) | 4:21 |
 | 94 | [Cowpoke](https://open.spotify.com/track/1FJDhcC36CbA16lMIxgT1F) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Western Swing & Waltzes and Other Punchy Songs](https://open.spotify.com/album/1RbJr45fQ7wvjfT2poSHwI) | 3:12 |
-| 95 | [Good Kisser](https://open.spotify.com/track/4PcNBh7bpbk5kpe4rwllY5) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Good Kisser](https://open.spotify.com/album/6wlY5ll8yN2ZEgp7qBrgU4) | 3:38 |
-| 96 | [I Left My One Spot \(Back at the 5 Spot\)](https://open.spotify.com/track/2TLkwZyAWcKJI9LT0ZXVKx) | [Elijah Ocean](https://open.spotify.com/artist/0MulydXXWmaMh1GxLKXtrS) | [Blue Jeans & Barstools](https://open.spotify.com/album/2XamjjM47WBYSIt0ToYj8k) | 3:00 |
+| 95 | [Walkin' After Midnight](https://open.spotify.com/track/5TklECQ3x2MybRjaeIsTlm) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Patsy Cline](https://open.spotify.com/album/7nicBOHkAJ944utrDrR3kv) | 2:34 |
+| 96 | [Good Kisser](https://open.spotify.com/track/4PcNBh7bpbk5kpe4rwllY5) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Good Kisser](https://open.spotify.com/album/6wlY5ll8yN2ZEgp7qBrgU4) | 3:38 |
 | 97 | [Half a Heart Keychain](https://open.spotify.com/track/6Ff6tdQfdEyHm71P6mLpc5) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Half a Heart Keychain](https://open.spotify.com/album/3pglOjTAYQHnd8uZu9g86j) | 3:20 |
-| 98 | [Walkin' After Midnight](https://open.spotify.com/track/5TklECQ3x2MybRjaeIsTlm) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Patsy Cline](https://open.spotify.com/album/7nicBOHkAJ944utrDrR3kv) | 2:34 |
-| 99 | [Holy Ghost Fire](https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 3:59 |
+| 98 | [Holy Ghost Fire](https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 3:59 |
+| 99 | [I Left My One Spot \(Back at the 5 Spot\)](https://open.spotify.com/track/2TLkwZyAWcKJI9LT0ZXVKx) | [Elijah Ocean](https://open.spotify.com/artist/0MulydXXWmaMh1GxLKXtrS) | [Blue Jeans & Barstools](https://open.spotify.com/album/2XamjjM47WBYSIt0ToYj8k) | 3:00 |
 | 100 | [Hey Baby](https://open.spotify.com/track/6kyUPFuPaaprlnKeVaQQMS) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0kVNpxNis78JrqQgsir4QN) | 2:50 |
 
 Snapshot ID: `AAAAAFInd+tl3MHBNhrgfxEQY+OYgV6l`

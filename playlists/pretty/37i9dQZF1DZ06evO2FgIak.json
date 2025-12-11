@@ -1,12 +1,12 @@
 {
   "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
-  "num_followers": 51504,
+  "num_followers": 51513,
   "original_name": "This Is Muddy Waters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAAro/qrlm9eAsYrhZoNpvjY",
+  "snapshot_id": "aTdmgAAAAAA5A8Kxt6zmhHoRMvS6pTlF",
   "tracks": [
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
+        "name": "You Shook Me - The Chess Masters, Vol. 3, 1958 To 1963",
+        "url": "https://open.spotify.com/album/7H6gYOQY7PQX5CMBr8r3ol"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 164293,
-      "name": "Walkin' Thru The Park",
-      "url": "https://open.spotify.com/track/4MWQ0HRkPlWq70BKxeY1S1"
+      "duration_ms": 149626,
+      "name": "Crawlin' Kingsnake",
+      "url": "https://open.spotify.com/track/2fXcmQZ7lYoCxzQmZoDN06"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Shook Me - The Chess Masters, Vol. 3, 1958 To 1963",
-        "url": "https://open.spotify.com/album/7H6gYOQY7PQX5CMBr8r3ol"
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 149626,
-      "name": "Crawlin' Kingsnake",
-      "url": "https://open.spotify.com/track/2fXcmQZ7lYoCxzQmZoDN06"
+      "duration_ms": 164293,
+      "name": "Walkin' Thru The Park",
+      "url": "https://open.spotify.com/track/4MWQ0HRkPlWq70BKxeY1S1"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muddy Waters: Live (At Mr. Kelly's) [Reissue]",
-        "url": "https://open.spotify.com/album/4aOBXSIhfR0jqT0cLdHXqk"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 280293,
-      "name": "What Is That She Got - Live At Mr. Kelly's/1971",
-      "url": "https://open.spotify.com/track/6f42YOJ6Lc3s6osTbVQAZ5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Super Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -795,22 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
-        "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
+        "name": "Muddy Waters: Live (At Mr. Kelly's) [Reissue]",
+        "url": "https://open.spotify.com/album/4aOBXSIhfR0jqT0cLdHXqk"
       },
       "artists": [
         {
           "name": "Muddy Waters",
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
         }
       ],
-      "duration_ms": 388826,
-      "name": "Back to the Chicken Shack - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
-      "url": "https://open.spotify.com/track/3losOKYp0VStjuhL9t4XGi"
+      "duration_ms": 280293,
+      "name": "What Is That She Got - Live At Mr. Kelly's/1971",
+      "url": "https://open.spotify.com/track/6f42YOJ6Lc3s6osTbVQAZ5"
     },
     {
       "added_at": null,
@@ -827,6 +807,26 @@
       "duration_ms": 165840,
       "name": "I Want To Be Loved",
       "url": "https://open.spotify.com/track/348vMftVTCp10l8C90s2kE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
+        "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 388826,
+      "name": "Back to the Chicken Shack - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
+      "url": "https://open.spotify.com/track/3losOKYp0VStjuhL9t4XGi"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 116570,
+  "num_followers": 116567,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
+        "name": "Her og n\u00e5",
+        "url": "https://open.spotify.com/album/2oZjPro9gaPNlzECFyFy9e"
+      },
+      "artists": [
+        {
+          "name": "River",
+          "url": "https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5"
+        }
+      ],
+      "duration_ms": 136981,
+      "name": "Her og n\u00e5",
+      "url": "https://open.spotify.com/track/6MUNgJiHbzHPKwMzLseH5X"
+    },
+    {
+      "added_at": "2025-11-06 23:00:18",
+      "album": {
         "name": "Velkommen til \u00d8stfold",
         "url": "https://open.spotify.com/album/77bx4BwFo76C57mYqDnHtt"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 143861,
       "name": "Velkommen til \u00d8stfold",
       "url": "https://open.spotify.com/track/2DwItGwSNTYI4E8RtmJwUX"
-    },
-    {
-      "added_at": "2025-11-06 23:00:18",
-      "album": {
-        "name": "Her og n\u00e5",
-        "url": "https://open.spotify.com/album/2oZjPro9gaPNlzECFyFy9e"
-      },
-      "artists": [
-        {
-          "name": "River",
-          "url": "https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5"
-        }
-      ],
-      "duration_ms": 136981,
-      "name": "Her og n\u00e5",
-      "url": "https://open.spotify.com/track/6MUNgJiHbzHPKwMzLseH5X"
     },
     {
       "added_at": "2025-11-06 23:00:18",

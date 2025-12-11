@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 
 > ¡PUEEERTAAAAAAAAS!
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,829 likes - 125 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,868 likes - 125 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 86 | [Rumbo a la Cañada](https://open.spotify.com/track/3EhVdAJv8cqxNdL2Aj1NfY) | [Banda Sinaloense Acero de Pablo Molina Jr.](https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc) | [¡¡La Explosiva!!](https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP) | 2:32 |
 | 87 | [Las Güilotas](https://open.spotify.com/track/1D5gzAE5R84Ub01oVsDHxh) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 2:42 |
 | 88 | [11 Pueblos \(Carlillos Guerrero\) \- En Vivo](https://open.spotify.com/track/11IDEme7XMApgERLgpTxEW) | [Banda La Maxima Escuela](https://open.spotify.com/artist/1jWdAKdi41k3LswEE4zTW0) | [Sones Tradicionales \(En Vivo\)](https://open.spotify.com/album/7G1v1Iad6PBNTxCV5gPLtc) | 3:11 |
-| 89 | [Homenaje a Un Barbaro ..\. Son Del Muerto / Juan Colorado / Toro De Once / Arriba Pichataro /Son De Los Chinelos /Flor De Piña](https://open.spotify.com/track/28cM4koCwfkUIprAMLHNRd) | [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [Puros Popurris De Sones](https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ) | 4:48 |
-| 90 | [El Novillo Despuntado](https://open.spotify.com/track/0GIzpXOlN76DoUWnK2F3bR) | [Banda la Fascinante del Merito Zirahuen](https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W) | [Que Chulo Es el Jaripeo](https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F) | 2:57 |
+| 89 | [El Novillo Despuntado](https://open.spotify.com/track/0GIzpXOlN76DoUWnK2F3bR) | [Banda la Fascinante del Merito Zirahuen](https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W) | [Que Chulo Es el Jaripeo](https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F) | 2:57 |
+| 90 | [Homenaje a Un Barbaro ..\. Son Del Muerto / Juan Colorado / Toro De Once / Arriba Pichataro /Son De Los Chinelos /Flor De Piña](https://open.spotify.com/track/28cM4koCwfkUIprAMLHNRd) | [La Razza del Compa Edgar](https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K) | [Puros Popurris De Sones](https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ) | 4:48 |
 | 91 | [Arriba Tonichi](https://open.spotify.com/track/7qcJmo4GYSfTVKaZaAkNRO) | [Banda Sinaloense Acero de Pablo Molina Jr.](https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc) | [¡¡La Explosiva!!](https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP) | 2:38 |
 | 92 | [Los Enanitos](https://open.spotify.com/track/3FJoKq6hH2RNZdPOW0E3FP) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 3:17 |
 | 93 | [Las Calandrias](https://open.spotify.com/track/7hrnVefqSjCAcTpS02KiG3) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [De Michoacán al Guamuchil \(Los Mejores Sones de Jaripeo\)](https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ) | 2:08 |

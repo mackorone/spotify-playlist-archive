@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM2q8VIgl2rW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4sOuCZZM60YHkWWZVqZPXn">Robert Lopez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231 likes - 179 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 230 likes - 179 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM2q8VIgl2rW.md) - [plain]
 | 178 | [You Don't Belong](https://open.spotify.com/track/25cxwxkIgXBD5HtdBWd4aH) | [Up Here \- Cast](https://open.spotify.com/artist/69aGXX2T28iQOy1teJy61L), [Emilia Suárez](https://open.spotify.com/artist/63N2LyprPztDL4WwgiZ7L5), [MaKena Jackson](https://open.spotify.com/artist/5BAHeUrDhy4RUC55ZLYeaC), [Maya Sistruck](https://open.spotify.com/artist/2AgDl5kTDamgT6g5EeJAXQ) | [Up Here \(Original Series Soundtrack\)](https://open.spotify.com/album/4ytsQEFFvWKALIRLkMBZxx) | 0:24 |
 | 179 | [Wonders of Animation Music: D100 Animation Beloved Medley](https://open.spotify.com/track/7ejDfZmn3aQNizsCfvvVun) | [Zhou Shen](https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD) | [Wonders of Animation Music: D100 Animation Beloved Medley](https://open.spotify.com/album/2EOMWbfgnAsuJNDtGBsEGF) | 6:34 |
 
-Snapshot ID: `AcDy0gAAAADFEFzdCaTez0qpjgZGnotN`
+Snapshot ID: `AcD4aAAAAACQlrTARAJl/oM0GIvi0Ktf`

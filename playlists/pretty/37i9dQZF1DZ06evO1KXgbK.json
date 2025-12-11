@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 254416,
+  "num_followers": 254424,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAC7P9U0S//T6u6qwkfK6W69",
+  "snapshot_id": "aTdmgAAAAAANrgdxIucI7JKgt2jd/Lyl",
   "tracks": [
     {
       "added_at": null,
@@ -543,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Butterfly (feat. Dolly Parton)",
-        "url": "https://open.spotify.com/album/76gBsiqpVZFxfpXkfrm1LQ"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 244029,
-      "name": "Butterfly (feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/12O9XNeFb0Eu67faSZK3bj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trio (2016 Remaster)",
         "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
@@ -603,6 +583,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Butterfly (feat. Dolly Parton)",
+        "url": "https://open.spotify.com/album/76gBsiqpVZFxfpXkfrm1LQ"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 244029,
+      "name": "Butterfly (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/12O9XNeFb0Eu67faSZK3bj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eagle When She Flies",
         "url": "https://open.spotify.com/album/2YWXeKsHZVctFXi45IiS4n"
       },
@@ -623,26 +623,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honky Tonk Angels",
-        "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
       },
       "artists": [
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        },
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
         }
       ],
-      "duration_ms": 143333,
-      "name": "Silver Threads and Golden Needles",
-      "url": "https://open.spotify.com/track/0IQ0qn8a2TN9Tmo7p5KmUs"
+      "duration_ms": 188871,
+      "name": "Two Doors Down",
+      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
     },
     {
       "added_at": null,
@@ -667,18 +659,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
+        "name": "Honky Tonk Angels",
+        "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
       },
       "artists": [
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        },
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
         }
       ],
-      "duration_ms": 188871,
-      "name": "Two Doors Down",
-      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
+      "duration_ms": 143333,
+      "name": "Silver Threads and Golden Needles",
+      "url": "https://open.spotify.com/track/0IQ0qn8a2TN9Tmo7p5KmUs"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 157427,
+      "name": "Baby I'm Burnin'",
+      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bebe",
         "url": "https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs"
       },
@@ -843,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 157427,
-      "name": "Baby I'm Burnin'",
-      "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Harvest...First Gathering",
         "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
       },
@@ -871,46 +871,6 @@
       "duration_ms": 318844,
       "name": "You Are",
       "url": "https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If You Hadn\u2019t Been There",
-        "url": "https://open.spotify.com/album/2N09fTgE3daKnVujeFEyLD"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 208789,
-      "name": "If You Hadn\u2019t Been There",
-      "url": "https://open.spotify.com/track/5Tq0KrovwGWdApFORSRgN3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Honky Tonk Angels",
-        "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        },
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 171133,
-      "name": "It Wasn't God Who Made Honky Tonk Angels",
-      "url": "https://open.spotify.com/track/0zUXyDr4tSc7iSfdX7Zjtd"
     },
     {
       "added_at": null,
@@ -935,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "If You Hadn\u2019t Been There",
+        "url": "https://open.spotify.com/album/2N09fTgE3daKnVujeFEyLD"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 208789,
+      "name": "If You Hadn\u2019t Been There",
+      "url": "https://open.spotify.com/track/5Tq0KrovwGWdApFORSRgN3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
         "url": "https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV"
       },
@@ -955,6 +931,30 @@
       "duration_ms": 267859,
       "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
       "url": "https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Honky Tonk Angels",
+        "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        },
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 171133,
+      "name": "It Wasn't God Who Made Honky Tonk Angels",
+      "url": "https://open.spotify.com/track/0zUXyDr4tSc7iSfdX7Zjtd"
     },
     {
       "added_at": null,

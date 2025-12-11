@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gaAoN.md) - [plain]
 
 > This is Tyla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,783 likes - 33 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,026 likes - 33 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gaAoN.md) - [plain]
 | 17 | [MR\. MEDIA](https://open.spotify.com/track/2d3QwiqKhKGm03xr3RlnYH) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [WWP](https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q) | 3:01 |
 | 18 | [Memories](https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [XOXO](https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1) | 3:07 |
 | 19 | [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 |
-| 20 | [BACK to YOU](https://open.spotify.com/track/4Oh1zkPShpImBJOBOKMMAq) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:35 |
+| 20 | [Safer](https://open.spotify.com/track/2sghtIUWplVFKBRIHsVmFu) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:39 |
 | 21 | [PBT](https://open.spotify.com/track/5820PtzfB116EIALe50F6t) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 4:10 |
 | 22 | [Been Thinking](https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Been Thinking](https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn) | 3:07 |
 | 23 | [Girls Need Love \(Girls Mix\) \(feat\. Tyla\)](https://open.spotify.com/track/2SPr7EDc5WBw1tM6bNgcZC) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Girls Need Love \(Girls Mix\)](https://open.spotify.com/album/06oN7xkWw9ZJcbK6tIAI71) | 2:38 |
-| 24 | [Safer](https://open.spotify.com/track/2sghtIUWplVFKBRIHsVmFu) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:39 |
+| 24 | [BACK to YOU](https://open.spotify.com/track/4Oh1zkPShpImBJOBOKMMAq) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:35 |
 | 25 | [Getting Late](https://open.spotify.com/track/79RAX0NTNBnzuLieO4zYcr) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [KOOLDRINK](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Getting Late](https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6) | 4:14 |
 | 26 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
 | 27 | [Pum Pum Jump \(feat\. Jill Scott & Tyla\)](https://open.spotify.com/track/6slFpFRzS8WJPbr25ega3p) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Escape Room](https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf) | 2:38 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gaAoN.md) - [plain]
 | 32 | [Ngowam \(feat\. Makhanj & Nvcho & Tyla & 2woshort\)](https://open.spotify.com/track/1gndZIkGbPO28wfhE2qSgg) | [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [2woshort](https://open.spotify.com/artist/2CsKNR9HBBs3bAswmPz825), [Makhanj](https://open.spotify.com/artist/1uYUUIkkkal5V3mIqk6KnV), [Nvcho](https://open.spotify.com/artist/3W0DeGwe5EHJwydiL6ECaC), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Amukelani](https://open.spotify.com/album/7LZDrSxVlyIXv2tVKmB5Nf) | 7:11 |
 | 33 | [Bana Ba \(feat\. Tyla & Shaunmusiq & Ftears\)](https://open.spotify.com/track/67J5DZeYwWOdJ1p0Az0jSA) | [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [ShaunMusiq & Ftears](https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [DALI DALI](https://open.spotify.com/album/7nXYx6bxFcyqnJENfgdEkc) | 6:05 |
 
-Snapshot ID: `aTYVAAAAAACbHjQE4ocUulX+F0NCisnk`
+Snapshot ID: `aTdmgAAAAAB78VSH4bOId0NJ3Ndd+3Is`

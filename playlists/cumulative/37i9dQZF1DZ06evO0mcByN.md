@@ -4,12 +4,12 @@
 
 > This is Kemilly Santos\. The essential tracks, all in one playlist.
 
-73 songs - 6 hr 16 min
+74 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [360 Graus](https://open.spotify.com/track/5SU7gkuU0jQerzQL44Tz2K) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Vai Valer a Pena](https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx) | 5:01 | 2023-07-09 |  |
-| [A Porta do meu Quarto \- Ao Vivo](https://open.spotify.com/track/7j22XYPTYKpk7QPdG2fCLI) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 4:18 | 2023-07-09 |  |
+| [A Porta do meu Quarto \- Ao Vivo](https://open.spotify.com/track/7j22XYPTYKpk7QPdG2fCLI) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 4:18 | 2023-07-09 | 2025-12-11 |
 | [A Promessa](https://open.spotify.com/track/1fRw17yPVFjRS6lPovRbrL) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Vai Valer a Pena](https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx) | 4:09 | 2023-07-09 |  |
 | [A Resposta](https://open.spotify.com/track/4oNXwuFag2I7YMDLvlldtW) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Plano Original](https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI) | 4:33 | 2023-07-09 |  |
 | [Acredite](https://open.spotify.com/track/1mdMSYPevGNZMfGnSWCxzN) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Acredite](https://open.spotify.com/album/64d1ePypGZFgGwXL2ZoWk7) | 5:04 | 2025-04-19 |  |
@@ -46,7 +46,8 @@
 | [Frente A Frente Com Deus \(Acústico\)](https://open.spotify.com/track/6EUFfvzF68RouKfxuEJRUc) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Frente A Frente Com Deus \(Acústico\)](https://open.spotify.com/album/0Hwrf0mtEhOQqfHQGcrxYM) | 4:53 | 2024-03-13 | 2024-03-16 |
 | [Grito Aflito](https://open.spotify.com/track/4eagNWRJ2IET4RsWa9mH9E) | [Rayssa Peres](https://open.spotify.com/artist/7cOiQi1jlP9H4JRA9IBBvA), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Grito Aflito](https://open.spotify.com/album/7004Y9QzkFf5IRZbz9Yq3P) | 4:40 | 2023-07-09 |  |
 | [La Paloma](https://open.spotify.com/track/4eGqQrzZnq85k876sjVJkO) | [Dianette Mendez](https://open.spotify.com/artist/3jRJ0ZwP995rXGeeB0EjNL), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [La Paloma](https://open.spotify.com/album/16MAWdvY4cAKki9UB4X9W6) | 11:56 | 2025-02-02 | 2025-10-26 |
-| [Limite \(Ao Vivo\)](https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Limite \(Ao Vivo\)](https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC) | 4:38 | 2023-07-09 |  |
+| [Limite \(Ao Vivo\)](https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Limite \(Ao Vivo\)](https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC) | 4:38 | 2023-07-09 | 2025-12-11 |
+| [Limite \(Ao Vivo\)](https://open.spotify.com/track/2YKHuAYlhQoJrKDBVeMG6x) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 4:38 | 2025-12-11 |  |
 | [Mais Que Vencedor](https://open.spotify.com/track/2QBRoV43fAg9flDyVgos1C) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Fica Tranquilo](https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV) | 3:58 | 2024-04-02 |  |
 | [Mais Que Vencedor](https://open.spotify.com/track/5QUYNKUZAVpkDUijbPnQLo) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Fica Tranquilo](https://open.spotify.com/album/5G5paqxJJFa4kygDLadlNy) | 3:58 | 2023-07-09 | 2024-04-02 |
 | [Maravilhosa Graça \(feat\. Rebeca Carvalho\)](https://open.spotify.com/track/0jl5MElelZG8K8qH3XEn0L) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Maravilhosa Graça \(feat\. Rebeca Carvalho\)](https://open.spotify.com/album/1igRu2gmmWySSID0sgMLvb) | 6:33 | 2023-07-09 |  |

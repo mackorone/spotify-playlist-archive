@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124687,
+  "num_followers": 124683,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAU6Kesyv2KKoNt9hwWXPYA9klCYiut",
+  "snapshot_id": "AAAU6dcyZRV5RTNUARcWN+b6IOCb3UJS",
   "tracks": [
+    {
+      "added_at": "2025-12-10 14:52:50",
+      "album": {
+        "name": "Caught Between",
+        "url": "https://open.spotify.com/album/1eJ9aC4RMU10ZtBBTbw4on"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        },
+        {
+          "name": "Elipsa",
+          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
+        }
+      ],
+      "duration_ms": 213931,
+      "name": "Caught Between",
+      "url": "https://open.spotify.com/track/36oJ6fOZHn0dEjGY9EPb9y"
+    },
     {
       "added_at": "2025-12-09 15:42:26",
       "album": {

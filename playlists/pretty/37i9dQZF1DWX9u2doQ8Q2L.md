@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,747 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,759 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,12 +78,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 68 | [Wind Rise](https://open.spotify.com/track/7ft8cpFbv0E9SOUiUMcPuW) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Speed Tape](https://open.spotify.com/album/0pYpedPWmSW8BABYhG4QDD) | 3:05 |
 | 69 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 |
 | 70 | [声](https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [声](https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc) | 4:23 |
-| 71 | [貴方観測日和](https://open.spotify.com/track/3o0TLdQhfLLyicwjlXYVo4) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [貴方観測日和](https://open.spotify.com/album/52lmLSXU6HmDYwWUmhNtob) | 2:58 |
-| 72 | [デジタルラブ](https://open.spotify.com/track/5KnwvP9pWs5hPIijK7b26m) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [デジタル・ラブ](https://open.spotify.com/album/4BMR0iTGRG76xRmH6K1QmG) | 2:19 |
+| 71 | [デジタルラブ](https://open.spotify.com/track/5KnwvP9pWs5hPIijK7b26m) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [デジタル・ラブ](https://open.spotify.com/album/4BMR0iTGRG76xRmH6K1QmG) | 2:19 |
+| 72 | [貴方観測日和](https://open.spotify.com/track/3o0TLdQhfLLyicwjlXYVo4) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [貴方観測日和](https://open.spotify.com/album/52lmLSXU6HmDYwWUmhNtob) | 2:58 |
 | 73 | [Mom & Dad](https://open.spotify.com/track/2iqnWaABeoHev1hcKP5BzL) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [Mom & Dad](https://open.spotify.com/album/51O48NKvrF5rk1rq0FJDUa) | 2:51 |
 | 74 | [ミッドナイト・リフレクション](https://open.spotify.com/track/3sAlrCLgPW8hzoG4QNsMIi) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [ミッドナイト・リフレクション](https://open.spotify.com/album/2ikaiGXxmfc3ENG4BjxMcq) | 3:41 |
-| 75 | [本日のおすすめ](https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [本日のおすすめ](https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa) | 2:49 |
-| 76 | [Don't Tell Nobody](https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [Don't Tell Nobody](https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN) | 2:53 |
+| 75 | [Don't Tell Nobody](https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [Don't Tell Nobody](https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN) | 2:53 |
+| 76 | [本日のおすすめ](https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [本日のおすすめ](https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa) | 2:49 |
 | 77 | [by my side](https://open.spotify.com/track/47FdTZdjdRJikiBNA8LXdu) | [SUTEZENI](https://open.spotify.com/artist/5M4LfrkfAT02o9M5HCI3Mt) | [by my side](https://open.spotify.com/album/5awZWNPfit7cn7YQQwEfi6) | 4:49 |
 | 78 | [mild days](https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [mild days](https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd) | 3:08 |
 | 79 | [Luv Myself \(feat\. AKLO & KEIJU\)](https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Luv Myself \(feat\. AKLO & KEIJU\)](https://open.spotify.com/album/3Oz0Tx9z3PMNMX3Owo2CGA) | 4:28 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 95 | [爆速論理ness](https://open.spotify.com/track/3JT0OG84nHM2wjomQRwgiR) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [爆速論理ness](https://open.spotify.com/album/7bFYDEEKvOPkOft06Tvf8L) | 2:32 |
 | 96 | [明るい部屋](https://open.spotify.com/track/2iIWIiSKpKzuDuxmGt05S1) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [明るい部屋](https://open.spotify.com/album/2LR5kIDao2NU9Y3nfjgPLK) | 2:54 |
 | 97 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 |
-| 98 | [KIRA KIRA](https://open.spotify.com/track/12Br6Xz71WNxT8CRu28n0X) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [OWARI DIARY](https://open.spotify.com/album/0MLxNB6bjESj8Ag3v24Rfm) | 2:56 |
-| 99 | [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 |
+| 98 | [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 |
+| 99 | [KIRA KIRA](https://open.spotify.com/track/12Br6Xz71WNxT8CRu28n0X) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [OWARI DIARY](https://open.spotify.com/album/0MLxNB6bjESj8Ag3v24Rfm) | 2:56 |
 | 100 | [幸せのまわり道](https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [幸せのまわり道](https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN) | 3:45 |
 
 Snapshot ID: `AAAAAGFZ7DjcTFreyDq0HIA5B4EiFiAS`

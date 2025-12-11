@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 名誉伝説
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,878 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,880 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 44 | [月並みに輝け](https://open.spotify.com/track/22IFbzcuLrK7ZAoj6Ms9I0) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [月並みに輝け / 今、僕、アンダーグラウンドから](https://open.spotify.com/album/7zLObKK7vTZaVbrM12bLVT) | 4:07 |
 | 45 | [MAISIE](https://open.spotify.com/track/24JAm9Rp43KfcCJAb3186t) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [MAISIE](https://open.spotify.com/album/2JquzazGAECf177YfAXHNx) | 3:13 |
 | 46 | [CRAZZZY](https://open.spotify.com/track/2SzkK2z0uUQr6cR5IwRM6L) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [CRAZZZY](https://open.spotify.com/album/6epSwi19HQpi4fZERo4jni) | 3:05 |
-| 47 | [ブルーモーション](https://open.spotify.com/track/7sxfPGktYFgla21DiCvMBZ) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ブルーモーション](https://open.spotify.com/album/5KLKpuOrCE8Gfc5Blx1anM) | 3:31 |
-| 48 | [dedede](https://open.spotify.com/track/6AXRnD6llYIIzhnvKAgIVB) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [dedede](https://open.spotify.com/album/1milw7dUgsSddL6wCxRQEI) | 2:55 |
+| 47 | [dedede](https://open.spotify.com/track/6AXRnD6llYIIzhnvKAgIVB) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [dedede](https://open.spotify.com/album/1milw7dUgsSddL6wCxRQEI) | 2:55 |
+| 48 | [ブルーモーション](https://open.spotify.com/track/7sxfPGktYFgla21DiCvMBZ) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ブルーモーション](https://open.spotify.com/album/5KLKpuOrCE8Gfc5Blx1anM) | 3:31 |
 | 49 | [PLAYER 1](https://open.spotify.com/track/6pEUfda5EvMmTcCjdoh6Bm) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Channel U](https://open.spotify.com/album/086HxFr00ZoUPUewk20f6s) | 3:14 |
 | 50 | [絶絶絶絶対聖域](https://open.spotify.com/track/3n4p9wJEgt4szBc92wPwmu) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [絶絶絶絶対聖域](https://open.spotify.com/album/0qsnfQzcoZgycLGjJ9zKom) | 3:33 |
 | 51 | [魔法はスパイス](https://open.spotify.com/track/73Jga6MTClvMJtBenx2S8V) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [Fooocus](https://open.spotify.com/album/6GMdck1kasizpyASeI18i7) | 3:56 |
@@ -74,11 +74,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 64 | [夢中猫](https://open.spotify.com/track/1FhgrTEc1C96Pm7OeY62RA) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [夢中猫](https://open.spotify.com/album/6CcurU0qUHoUWLhYo9iZyp) | 2:36 |
 | 65 | [KILL LOVE](https://open.spotify.com/track/2OrNoZhXPmWcJQLMyTEjop) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [呪いをかけて、まぼろしをといて。](https://open.spotify.com/album/0m4QPfwdOiuvYojWJuYklp) | 4:45 |
 | 66 | [白日のもと](https://open.spotify.com/track/12NL4lcmDpoWwFNyq0lf1d) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [実験中 / 白日のもと](https://open.spotify.com/album/1vVyhztEqbzHqPLKsGjIk9) | 3:30 |
-| 67 | [Geeek](https://open.spotify.com/track/2nKqe0pTqsP5IyA748HlT0) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [Geeek](https://open.spotify.com/album/1C9Of3Hj5JujNDdVZ93HJt) | 3:08 |
-| 68 | [恋の8秒ルール](https://open.spotify.com/track/26TnbXOgpNt5tIsAl5Qezv) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [恋の8秒ルール](https://open.spotify.com/album/4xveKS1fmSQAFotuTEaM76) | 3:28 |
-| 69 | [踊っていたいわ](https://open.spotify.com/track/3MN2qDrRBUCe4m3yJ8zTcS) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [handmade](https://open.spotify.com/album/04lBkRbV1tnWD42ZV0ZBTi) | 3:03 |
+| 67 | [恋の8秒ルール](https://open.spotify.com/track/26TnbXOgpNt5tIsAl5Qezv) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [恋の8秒ルール](https://open.spotify.com/album/4xveKS1fmSQAFotuTEaM76) | 3:28 |
+| 68 | [Geeek](https://open.spotify.com/track/2nKqe0pTqsP5IyA748HlT0) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [Geeek](https://open.spotify.com/album/1C9Of3Hj5JujNDdVZ93HJt) | 3:08 |
+| 69 | [yummy goodday](https://open.spotify.com/track/56YtgeLZZz9mWWcbPu569O) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms) | [yummy goodday](https://open.spotify.com/album/2cFgZ4OOUSTsvTek9hqtvT) | 3:20 |
 | 70 | [No one](https://open.spotify.com/track/02f1kLS0yKhvEHI7Lt7NWD) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [No one](https://open.spotify.com/album/1BECn2HvgHI7XT9nDeQI9x) | 3:06 |
-| 71 | [yummy goodday](https://open.spotify.com/track/56YtgeLZZz9mWWcbPu569O) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms) | [yummy goodday](https://open.spotify.com/album/2cFgZ4OOUSTsvTek9hqtvT) | 3:20 |
+| 71 | [踊っていたいわ](https://open.spotify.com/track/3MN2qDrRBUCe4m3yJ8zTcS) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [handmade](https://open.spotify.com/album/04lBkRbV1tnWD42ZV0ZBTi) | 3:03 |
 | 72 | [愛してるって嘘ついた](https://open.spotify.com/track/5IPSx9FDU5qvx9rZVj6vdv) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [愛してるって嘘ついた](https://open.spotify.com/album/6tGdCjC6xKBAHg2o2LKWss) | 2:50 |
 | 73 | [A8番出口](https://open.spotify.com/track/0i9q3Cw9GwnvuSQltZRTYx) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [A8番出口](https://open.spotify.com/album/1GqgKYbjOxhU8TtzsUsQHl) | 3:35 |
 | 74 | [Present Perfect](https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [SCOOOOOP](https://open.spotify.com/album/73yP70Vn8ufvR0N2JoSAJ4) | 3:51 |

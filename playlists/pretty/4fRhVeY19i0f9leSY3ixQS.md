@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,061 likes - 214 songs - 12 hr 11 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,060 likes - 225 songs - 13 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,5 +222,16 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 212 | [Drowning Into You](https://open.spotify.com/track/18mYfxvwpVVXli6HgmJXpm) | [Faith in Faces](https://open.spotify.com/artist/5nTj6k2ZmbVOZICHFz1BPY) | [Drowning Into You](https://open.spotify.com/album/7LyIYQb75whKjUXyhWB6oI) | 3:24 |
 | 213 | [Line Them Up](https://open.spotify.com/track/1qpnSa87IPUX0u5xl0JIMx) | [The Ratskins](https://open.spotify.com/artist/6ge5wjSR7ea1mgxcodIF8V) | [Line Them Up](https://open.spotify.com/album/7xXnNyCNRY0vortmzd7shM) | 2:47 |
 | 214 | [Keep on Running](https://open.spotify.com/track/5W2RZqDpxq1NmulBL9E4Mh) | [The Mondays](https://open.spotify.com/artist/28myhZRVQ8kBkNLKKscJfb) | [Look How the Sky Turns Blue](https://open.spotify.com/album/3GQX0GkGCn4IUwjrlhWOiQ) | 2:37 |
+| 215 | [Shine](https://open.spotify.com/track/4Z4XWCv7Kamr8YWMjwWY1g) | [In The Blind](https://open.spotify.com/artist/4K8sERQcjuHdGq692MMb01) | [Sulphur Moon](https://open.spotify.com/album/2MGtiDm0n79VzZhCqXZ8wF) | 4:19 |
+| 216 | [Hallelujah](https://open.spotify.com/track/1PjtZThLPYY2DZSfkv5YgY) | [Diagram For June](https://open.spotify.com/artist/4gtTD7x3IRglHpBgkzCVkg) | [Putting The Ex In XMas](https://open.spotify.com/album/4MsJGwIsQfgCTkQvrx1xby) | 5:00 |
+| 217 | [Existential Crisis](https://open.spotify.com/track/6wSiqUJedYplEe3mJWb20x) | [Diagram For June](https://open.spotify.com/artist/4gtTD7x3IRglHpBgkzCVkg) | [Existential Crisis](https://open.spotify.com/album/4zLpFAPMNRgzNItHIUyaKJ) | 3:51 |
+| 218 | [I Will Take You To Hell](https://open.spotify.com/track/6jcFAG4Tqw2klTj8KPFEZF) | [Highway Queen](https://open.spotify.com/artist/6HV2ATap9CHsc4EcZnzc4u) | [Extendead Play](https://open.spotify.com/album/5kf27yA2pk86epIZc20WlB) | 4:00 |
+| 219 | [Adrenaline](https://open.spotify.com/track/1qE3TZ2HuQS7JdxiK9ADv8) | [Banner Of The Sun](https://open.spotify.com/artist/2mXehPu27jCUu7PuQgYoZq) | [Adrenaline](https://open.spotify.com/album/47rhqCKcQVozQ7fcJWosVr) | 4:30 |
+| 220 | [The Friends of Joey Coyle](https://open.spotify.com/track/1Z50QG15gl43om5JALNq4a) | [Tony Mecca](https://open.spotify.com/artist/3FEarLAYejR4vLifQcpiRb) | [Heavy Mental Gypsies](https://open.spotify.com/album/432choLFbupQ8Us7b8m7I1) | 6:45 |
+| 221 | [Old Ancient Tree](https://open.spotify.com/track/6ZI4Ucss1ZhgVrQRcnfjO3) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 4:20 |
+| 222 | [Truemetal](https://open.spotify.com/track/7ud1d1jZCnodHBHY4mwLPP) | [Cyrax](https://open.spotify.com/artist/4O3WfGMmFAXWupm9cG2rFI) | [Experiences](https://open.spotify.com/album/3TjQI8Q3ZMJ3mwrKPCd2cK) | 7:04 |
+| 223 | [Wake Up Call \(feat\. F R E D U A of Bad Rabbits\)](https://open.spotify.com/track/1gx2AOizi4LUrSgFySLEM7) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR), [F R E D U A](https://open.spotify.com/artist/6QEn6c2h9fzN7TTGdUSxGs), [Bad Rabbits](https://open.spotify.com/artist/534rgZ76LDMlM7xLt9xSGR) | [GUTS](https://open.spotify.com/album/3F5Oy8DHLFQxqnfvwkOnS7) | 4:03 |
+| 224 | [51/50](https://open.spotify.com/track/2BShuIJijCPXorbwOpkZvv) | [GallowSaint](https://open.spotify.com/artist/7yfmYrqzRUJb9yDwem95dk) | [51/50](https://open.spotify.com/album/5TWyBHCkQjBD1xZuaBrOLC) | 2:44 |
+| 225 | [Dancing machine](https://open.spotify.com/track/7x7WL2BbEC5LQCPDMEFGMR) | [shirehead](https://open.spotify.com/artist/5bPUoqHpLmbCiSgtPSHL9b) | [Dancing machine](https://open.spotify.com/album/0JS42XNAennnRPLbIDb50R) | 2:57 |
 
-Snapshot ID: `AAAIJbD7UUnTJ9I+G7VoV4WdmftD+Db2`
+Snapshot ID: `AAAIMMWpnDkSLJWFVqEGblSbP/cHap8g`

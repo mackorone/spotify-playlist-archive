@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 
 > This is Isadora Pompeo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,428 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,435 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 | 22 | [Sua Paz](https://open.spotify.com/track/6IxxbIlg3rgzaULZm3DDxG) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Processo](https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP) | 3:25 |
 | 23 | [Azeite \(Ao Vivo\)](https://open.spotify.com/track/2ZfhftG3iFfUEdb7tpMlsz) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tetelestai \(Ao Vivo\)](https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj) | 4:32 |
 | 24 | [Toca em Mim de Novo \- Ao Vivo](https://open.spotify.com/track/5jztY2semlZDUkLAmwxq9f) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 4:33 |
-| 25 | [A Casa é Sua + Labareda](https://open.spotify.com/track/5C4touLyxRJB5ES63KyX6r) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Aurora](https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6) | 8:07 |
+| 25 | [Vou Me Humilhar](https://open.spotify.com/track/6vHDtEpISkhjaYE5TDAHx3) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Vou Me Humilhar](https://open.spotify.com/album/3nAXxJENtLPyNVLJL2pV2B) | 3:56 |
 | 26 | [História](https://open.spotify.com/track/5dnPxV8jRadA1sClQEtNSX) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Processo](https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP) | 3:46 |
-| 27 | [Vou Me Humilhar](https://open.spotify.com/track/6vHDtEpISkhjaYE5TDAHx3) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Vou Me Humilhar](https://open.spotify.com/album/3nAXxJENtLPyNVLJL2pV2B) | 3:56 |
+| 27 | [A Casa é Sua + Labareda](https://open.spotify.com/track/5C4touLyxRJB5ES63KyX6r) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Aurora](https://open.spotify.com/album/7FTp91oOUfaKfOrSDW9zT6) | 8:07 |
 | 28 | [Eu Tenho Você \(Remix\)](https://open.spotify.com/track/6scM0ZJ4QxPaAXkl7OCxcl) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Me Faz Viver](https://open.spotify.com/album/2BKs37OkjYgVvrzDnhxXqN) | 3:11 |
 | 29 | [Seu Amor](https://open.spotify.com/track/0MUqcBCI1UV1LezKrBh7dG) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Seu Amor](https://open.spotify.com/album/08J3DhJqaCRwIGeIZL7FBl) | 3:12 |
 | 30 | [Máscaras](https://open.spotify.com/track/1nrJ9z7TpHGZjcN55Qzwu1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [João Figueiredo](https://open.spotify.com/artist/15CxFRwagxbz4bOHEeTGXL) | [Processo](https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04Bs6I.md) - [plain]
 | 49 | [Tetelestai \(Ao Vivo\) \(feat\. Carol Tauber\)](https://open.spotify.com/track/1nJkvTusEGVYzqeF1R3Pq3) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Carol Tauber](https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK) | [Tetelestai \(Ao Vivo\) \(feat\. Carol Tauber\)](https://open.spotify.com/album/3KEDeUTss9pszz8D9I0c6Q) | 8:38 |
 | 50 | [Não Há o Que Temer](https://open.spotify.com/track/0OF4D4FGn9epxkXAJKFD86) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Não Há o Que Temer](https://open.spotify.com/album/7eTkm4rpXnIKxfbQXSIIoQ) | 4:12 |
 
-Snapshot ID: `aTYVAAAAAADntmRXv7g7pWEEkARjb45J`
+Snapshot ID: `aTdmgAAAAACjNk0/pQoDx0dp1cSiwbQL`

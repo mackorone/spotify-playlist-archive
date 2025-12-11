@@ -4,7 +4,7 @@
 
 > When the dancefloor calls your name, that's amore.
 
-203 songs - 16 hr 44 min
+204 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Color My Love](https://open.spotify.com/track/5zjZoxnYK6stTB2AxL0Fzp) | [Fun Fun](https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ) | [The Hits Collection](https://open.spotify.com/album/3KTH5Tquwf5kOkHA1KeQam) | 4:06 | 2022-07-01 | 2022-11-18 |
 | [Color My Love](https://open.spotify.com/track/7F1FamJw5Vy5cAYzkDAtJx) | [Fun Fun](https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ) | [Color My Love](https://open.spotify.com/album/5PMIGV61YVeA6mJim1LqJg) | 4:06 | 2022-02-11 | 2022-07-17 |
 | [Comanchero \- Vocal Radio](https://open.spotify.com/track/1Oqt89VF7VM172bY8DCuB9) | [Moon Ray](https://open.spotify.com/artist/0ipBu57ONv2AW0Pxpc2etO), [Gatto](https://open.spotify.com/artist/7Fe0ln6Y2R1l05ZeIpV2Aa), [Martinelli](https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L) | [Comanchero](https://open.spotify.com/album/3faEyz0PVK8IWWXSlDtxij) | 3:57 | 2022-02-11 | 2022-03-22 |
-| [Come On Closer \- \(Dub Version\) Prod\. by Roberto Ferrante \- 2020 Remaster](https://open.spotify.com/track/6kuJUlAVljF251MvyvdcPP) | [Pineapples](https://open.spotify.com/artist/2XT4eexHFaKdv4Jm1NT9r0), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1), [Douglas Roop](https://open.spotify.com/artist/37nfoS8kfCxK8tzAsbq5vY) | [Come On Closer \(2020 Remaster\)](https://open.spotify.com/album/1bdDfDXBhrMZQZqLDbmGdL) | 6:30 | 2023-04-19 |  |
+| [Come On Closer \- \(Dub Version\) Prod\. by Roberto Ferrante \- 2020 Remaster](https://open.spotify.com/track/6kuJUlAVljF251MvyvdcPP) | [Pineapples](https://open.spotify.com/artist/2XT4eexHFaKdv4Jm1NT9r0), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1), [Douglas Roop](https://open.spotify.com/artist/37nfoS8kfCxK8tzAsbq5vY) | [Come On Closer \(2020 Remaster\)](https://open.spotify.com/album/1bdDfDXBhrMZQZqLDbmGdL) | 6:30 | 2023-04-19 | 2025-12-11 |
 | [Cotton & Silk](https://open.spotify.com/track/6oFA9zdx6geUC6uCqQKhJc) | [Tiger & Woods](https://open.spotify.com/artist/0AEi1DK5ehyvkZzOUlqEVz), [' EM](https://open.spotify.com/artist/51Iui0ghqgBcmLE7B12lBR) | [Cotton & Silk](https://open.spotify.com/album/667kJuZEkDLZtV7j1K4gSS) | 3:43 | 2024-05-03 | 2025-08-27 |
 | [Croccante](https://open.spotify.com/track/4GFe5vaZYjORRV0pBt66Ya) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [Croccante](https://open.spotify.com/album/0K95zImK465Wa8M0AZLcPJ) | 2:33 | 2025-06-19 |  |
 | [Curiosa Scoperta](https://open.spotify.com/track/6jwovHRnlHpGDjEChm57Os) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Autostrada Galattica](https://open.spotify.com/album/3SskDYQ8hL0tZQwZrhy1p9) | 5:00 | 2022-02-11 | 2022-08-05 |
@@ -181,6 +181,7 @@
 | [The Moment](https://open.spotify.com/track/00vlD9qcr7byOApyOiYsmq) | [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf) | [The Moment](https://open.spotify.com/album/4mqANx1lBbXx9hz6IeYOkK) | 3:19 | 2024-06-14 | 2025-05-31 |
 | [The Night \- Original Remastered Version 2020](https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4) | [Valerie Dore](https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs) | [The Night \(Original Remastered Version 2020\)](https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc) | 6:16 | 2022-02-11 |  |
 | [The Voice of Q \(12" Mix\)](https://open.spotify.com/track/4DoxBUKSlnZwe30Y23mGbH) | [Q](https://open.spotify.com/artist/1na8Q5qKP8amvDCoLkvhLD) | [The Voice of Q](https://open.spotify.com/album/6tKNLeKZ8UJyO7A5QG2wjF) | 5:16 | 2022-02-11 | 2025-04-16 |
+| [Ti Penso \- Sam Ruffillo Version](https://open.spotify.com/track/6ZqMMXKF7o84CZL43RBVoV) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [Ti Penso \(Sam Ruffillo Version\)](https://open.spotify.com/album/6QrNWPk0r8ppTd9rMaoLdp) | 3:06 | 2025-12-10 |  |
 | [Ti Sento](https://open.spotify.com/track/72BnKkKnrOeCDY9vy2avFk) | [Matia Bazar](https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5) | [Melanchólia](https://open.spotify.com/album/7fK9JzCaIIIWehaWd7IoUE) | 4:15 | 2022-02-11 |  |
 | [Ti voglio](https://open.spotify.com/track/14dvepiFqD3a2lBwmVbhB3) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Io fuori](https://open.spotify.com/album/3GX7QYZPcjbXC8q7yB03bh) | 5:49 | 2022-02-11 | 2022-07-29 |
 | [Ti voglio](https://open.spotify.com/track/5Z8A2y3IxNvkRzEMxWu01u) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Io Fuori](https://open.spotify.com/album/2vxXavw8SrYsHR707Novja) | 5:49 | 2022-07-01 | 2024-04-19 |

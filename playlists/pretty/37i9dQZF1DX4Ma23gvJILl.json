@@ -1,6 +1,6 @@
 {
   "description": "Los temas que nunca paras de escuchar. En portada: Maluma baby",
-  "num_followers": 289186,
+  "num_followers": 289269,
   "original_name": "\u00c9xitos del Ayer",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,18 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "God's Project",
-        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
+        "name": "PAPI JUANCHO",
+        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
       },
       "artists": [
         {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        },
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 267786,
-      "name": "Ella Y Yo - Featuring Don Omar",
-      "url": "https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3"
+      "duration_ms": 199112,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -419,42 +415,38 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "PAPI JUANCHO",
-        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
+        "name": "God's Project",
+        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
         }
       ],
-      "duration_ms": 199112,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp"
+      "duration_ms": 267786,
+      "name": "Ella Y Yo - Featuring Don Omar",
+      "url": "https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3"
     },
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
+        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Marciano Cantero",
-          "url": "https://open.spotify.com/artist/5QzDzXfXC5lepOBeQXBiVO"
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
         }
       ],
-      "duration_ms": 277106,
-      "name": "UN PESO",
-      "url": "https://open.spotify.com/track/7hynhxDoDpgMIV12JuVtNa"
+      "duration_ms": 194080,
+      "name": "Devu\u00e9lveme a mi chica",
+      "url": "https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -479,18 +471,26 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
-        "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
       "artists": [
         {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Marciano Cantero",
+          "url": "https://open.spotify.com/artist/5QzDzXfXC5lepOBeQXBiVO"
         }
       ],
-      "duration_ms": 194080,
-      "name": "Devu\u00e9lveme a mi chica",
-      "url": "https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"
+      "duration_ms": 277106,
+      "name": "UN PESO",
+      "url": "https://open.spotify.com/track/7hynhxDoDpgMIV12JuVtNa"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "King Of Kings",
-        "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 229026,
-      "name": "Ojitos Chiquitos",
-      "url": "https://open.spotify.com/track/4f49sFQko7jHLEFd3tCf5p"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "C\u00d3MO SE SIENTE (Remix)",
         "url": "https://open.spotify.com/album/0VLl6NV05DjwNE2lZFdCEI"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
+        "name": "King Of Kings",
+        "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 229026,
+      "name": "Ojitos Chiquitos",
+      "url": "https://open.spotify.com/track/4f49sFQko7jHLEFd3tCf5p"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
         "name": "Des/Amor",
         "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
       },
@@ -599,26 +599,6 @@
       "duration_ms": 204173,
       "name": "Ya Me Enter\u00e9",
       "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
-        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
-      },
-      "artists": [
-        {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        },
-        {
-          "name": "Marta S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
-        }
-      ],
-      "duration_ms": 230280,
-      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
-      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -639,6 +619,26 @@
       "duration_ms": 231532,
       "name": "Besos En Guerra",
       "url": "https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
+        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
+      },
+      "artists": [
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        },
+        {
+          "name": "Marta S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
+        }
+      ],
+      "duration_ms": 230280,
+      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
+      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 247196,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
         "name": "Meet The Orphans",
         "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 237973,
       "name": "Hooka",
       "url": "https://open.spotify.com/track/0BenZn1xELuxhb7Pjwyjxv"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "San Lucas",
-        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 247196,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "VIVES",
         "url": "https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 194742,
       "name": "Robarte un Beso",
       "url": "https://open.spotify.com/track/0JcNysfWVWaMS7R6vzGB2k"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2024-05-22 11:01:00",

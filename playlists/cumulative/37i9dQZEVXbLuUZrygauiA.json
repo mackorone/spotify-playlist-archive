@@ -40319,6 +40319,24 @@
     },
     {
       "album": {
+        "name": "Montagem Miau",
+        "url": "https://open.spotify.com/album/5xuRynu6hXiqcyThDDsosi"
+      },
+      "artists": [
+        {
+          "name": "Lenar",
+          "url": "https://open.spotify.com/artist/2QHpjaiPhG7uvtvjqEpU4E"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72727,
+      "name": "Montagem Miau",
+      "url": "https://open.spotify.com/track/4hfzUjG7A5fsr0xoMfdxMA"
+    },
+    {
+      "album": {
         "name": "MONTAGEM MUEVELOU",
         "url": "https://open.spotify.com/album/5cUDQKJg4uSeYjiWTQVBz4"
       },
@@ -40711,24 +40729,6 @@
     },
     {
       "album": {
-        "name": "DUE\u00d1O DEL CIELO",
-        "url": "https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "date_added": "2025-12-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 350488,
-      "name": "Morfina",
-      "url": "https://open.spotify.com/track/157wPeRYJa2mHLl3DxQA3k"
-    },
-    {
-      "album": {
         "name": "Morfina",
         "url": "https://open.spotify.com/album/3XA0Zax9bAGsnvMcElA16n"
       },
@@ -40744,6 +40744,24 @@
       "duration_ms": 350488,
       "name": "Morfina",
       "url": "https://open.spotify.com/track/7lYKq59aOgRnRlrjuTIvJv"
+    },
+    {
+      "album": {
+        "name": "DUE\u00d1O DEL CIELO",
+        "url": "https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2025-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350919,
+      "name": "Morfina",
+      "url": "https://open.spotify.com/track/157wPeRYJa2mHLl3DxQA3k"
     },
     {
       "album": {
@@ -53812,7 +53830,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 127984,
       "name": "Sabado",
       "url": "https://open.spotify.com/track/3TO3FwXdf8UAFgpt7PCRHL"
@@ -56548,7 +56566,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 152459,
       "name": "SiNoMeLloranVivo",
       "url": "https://open.spotify.com/track/28L5hz89OMvfcyu9Ef89wC"
@@ -69694,7 +69712,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 207026,
       "name": "YOKO",
       "url": "https://open.spotify.com/track/5JHB8QusYhTWdRw2KJekj6"

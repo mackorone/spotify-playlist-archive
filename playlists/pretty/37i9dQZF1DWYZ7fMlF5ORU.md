@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Kleber Lucas
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,540 likes - 80 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,573 likes - 80 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 22 | [Vem Com Josué Lutar Em Jericó \- Ao Vivo](https://open.spotify.com/track/0i741ZJuqsCBpy4tLavpqA) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Vem Com Josué Lutar Em Jericó \(Ao Vivo\)](https://open.spotify.com/album/2mOlSeea90ofSIub7MyyWw) | 4:09 |
 | 23 | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made in My Life\)](https://open.spotify.com/track/1PwbhJqb9IucLGt7NXF4oo) | [Pablo Simplicio](https://open.spotify.com/artist/6ftRI57Dy5WBwjZb8bk4f5) | [Jesus Cristo Mudou Meu Viver \(What a Difference You've Made in My Life\)](https://open.spotify.com/album/0q1ZWtWIRqQyZfr9RX1Ws4) | 2:49 |
 | 24 | [Atenção \- Ao Vivo](https://open.spotify.com/track/3SS018aCGCgHI1Hcn0fAYS) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Silas Simões](https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r) | [Atenção \(Ao Vivo\)](https://open.spotify.com/album/3RSielfFcEPyj7XiFN8H87) | 3:18 |
-| 25 | [Sossegai \- Ao Vivo](https://open.spotify.com/track/6iZdTEd3zJ8UpO6hFQMvTG) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leandro Rodrigues](https://open.spotify.com/artist/3sPrLEud945nswy3EMr7YK), [PVAP](https://open.spotify.com/artist/7L6zOJDqVGy8lf7nesvo1a) | [Piano e Voz, Amigos e Pertences 3a \(Ao Vivo\)](https://open.spotify.com/album/1SVQIMyfmdpVeSiaT1w2OF) | 5:32 |
-| 26 | [Um Pedido](https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Um Pedido](https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE) | 4:15 |
+| 25 | [Um Pedido](https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Um Pedido](https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE) | 4:15 |
+| 26 | [Sossegai \- Ao Vivo](https://open.spotify.com/track/6iZdTEd3zJ8UpO6hFQMvTG) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leandro Rodrigues](https://open.spotify.com/artist/3sPrLEud945nswy3EMr7YK), [PVAP](https://open.spotify.com/artist/7L6zOJDqVGy8lf7nesvo1a) | [Piano e Voz, Amigos e Pertences 3a \(Ao Vivo\)](https://open.spotify.com/album/1SVQIMyfmdpVeSiaT1w2OF) | 5:32 |
 | 27 | [Nada Se Compara](https://open.spotify.com/track/7n7uvCFKSs9bO3Vsf4efTo) | [Coral Unasp](https://open.spotify.com/artist/67cOQCgsrJVge8gh0etuB2), [Garnet Lima](https://open.spotify.com/artist/5nIt3IhM8XjCA7LVFCgp9S) | [Nada Se Compara](https://open.spotify.com/album/3UeS120DmaRg42viHosGU6) | 3:01 |
 | 28 | [Pirei \- Ao Vivo](https://open.spotify.com/track/3qowb3VU8LBMd2FL3tOmoU) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Ton Carfi 20 anos \(Ao Vivo\)](https://open.spotify.com/album/2vNkUge260SMhGlBBbQP4p) | 5:13 |
 | 29 | [Ele Vem \- Ao Vivo](https://open.spotify.com/track/7hQHwgb9BVVL6NYIUIUiLr) | [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP), [Julio Cesar](https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr) | [Ele Vem \(Ao Vivo\)](https://open.spotify.com/album/5HWqHBnIpw1welskR8ym0r) | 5:51 |

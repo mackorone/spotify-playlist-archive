@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-1,869 songs - 4 day 13 hr 38 min
+1,876 songs - 4 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Babbo Natale Trap](https://open.spotify.com/track/3Sy33SrWCHoyI2h2VKySKH) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Babbo Natale Trap](https://open.spotify.com/album/4oQlx9ml5V4mIWSAevAjSK) | 2:17 | 2025-11-24 |  |
 | [Baby's Gone](https://open.spotify.com/track/6WzdTrR7HjeCCCo0nfEiQ1) | [Captain Buckles](https://open.spotify.com/artist/3q8yPNmKITP14G9YOEnnrV) | [Baby's Gone](https://open.spotify.com/album/0nP75l7OfVY1yWoynu58EU) | 5:08 | 2025-03-21 |  |
 | [Babylon \(Demo\)](https://open.spotify.com/track/44Wx2WAG2RSbae7pY33cQD) | [The Trees](https://open.spotify.com/artist/5RfQnHitydzhcHZXwi02lt) | [Old Continent](https://open.spotify.com/album/2P7YZC43RfulOqgPMdrg3X) | 5:01 | 2025-06-23 |  |
+| [Back to Maine](https://open.spotify.com/track/2XXmEDEUYAEZcKIDirk1cs) | [Ben Leavitt](https://open.spotify.com/artist/69loAVGOEQPjQEeKXQ43qT) | [Back to Maine](https://open.spotify.com/album/0tkkAsUhnSqciNvOGtACIk) | 3:26 | 2025-12-10 |  |
 | [Back to the River](https://open.spotify.com/track/2Eu2FUKNhEdwTDBe6e6XGX) | [Bobby L](https://open.spotify.com/artist/15ixB83Qrz8Ts6GK2bMrgE), [Drew Ryn](https://open.spotify.com/artist/2MrItpfbmgJJw1vJpjujGv) | [Back to the River](https://open.spotify.com/album/4VVpTZm5MXfic6qECXa50C) | 3:43 | 2025-09-30 |  |
 | [Back to Zero](https://open.spotify.com/track/5h4P5D7fapPvJE2u9Z4V03) | [Aaron Friend & the Enemies](https://open.spotify.com/artist/1w0QljQB8KWyuRWEnBgTeM) | [Back to Zero](https://open.spotify.com/album/2YVLvdyUCUsHdT9dhzUxHv) | 2:55 | 2025-11-17 |  |
 | [Back Wit You](https://open.spotify.com/track/62622HPUTlGseloj0r2UWi) | [Zenten999](https://open.spotify.com/artist/4QkbAb9Iveu8VAgqGWgZsG) | [How strange](https://open.spotify.com/album/49laip9jdZOdSilzr4N7p9) | 2:56 | 2025-11-17 |  |
@@ -262,6 +263,7 @@
 | [Choke On Shame](https://open.spotify.com/track/3Uj9MWSuSluWsAwvLB9r5H) | [Wildchains](https://open.spotify.com/artist/6LTDVLBOAZYAcrn459uQf8) | [Choke On Shame](https://open.spotify.com/album/1PwPl6Nf3pfmr4gVvVu5SM) | 5:15 | 2025-08-26 |  |
 | [Choose](https://open.spotify.com/track/4DsmWfIglh1lXjd6yyPc6q) | [Jamie Frick](https://open.spotify.com/artist/4ILTgmVelzVYBgRaw08NUd) | [Choose](https://open.spotify.com/album/0tnlQdwVZvz9xGRRpX9ACp) | 2:46 | 2025-03-29 |  |
 | [Choose Love](https://open.spotify.com/track/32vSeH0yJEvqdUr4LVxuoa) | [Joselyn & Don](https://open.spotify.com/artist/0aPNQejuOJ9winrYgyjvbF), [Chris Pierce](https://open.spotify.com/artist/559oVBc653k5TOpiwhhr3r) | [Choose Love](https://open.spotify.com/album/6SqpktYwB7KcHNmJhW7gOd) | 3:52 | 2024-10-18 |  |
+| [Christmas Song](https://open.spotify.com/track/4iZn4HLTRM6cjkQP7pcxwI) | [DrLoveWorldMusic](https://open.spotify.com/artist/3t82rccHxWNFR3zchAkZat) | [Christmas Song](https://open.spotify.com/album/01jMdTVcu9jO7lNW9ZyyOC) | 4:29 | 2025-12-10 |  |
 | [Christmas Without Grandma](https://open.spotify.com/track/5YtbMPZIQIJxlK0LLACKRL) | [Mckai](https://open.spotify.com/artist/4emtw8l93u2ub1FdLdnm5X) | [Christmas Without Grandma](https://open.spotify.com/album/0swGvOzcSnsOYOa1u5zvqa) | 3:42 | 2025-03-04 |  |
 | [Chrysalis](https://open.spotify.com/track/04pheIs31t063ZRIpKLZFu) | [Ghostcake](https://open.spotify.com/artist/5Bw8ybOh68aelvHDJEsoNb) | [Chrysalis](https://open.spotify.com/album/6CeMscb9cI5SUUQT2FgFbx) | 3:53 | 2024-11-26 |  |
 | [Ciencia Ficción](https://open.spotify.com/track/2Y9ADo3CbBxvbvMy170Uwm) | [David Send](https://open.spotify.com/artist/31MXafStikNQHwXXa2h61m) | [Cruce de Caminos](https://open.spotify.com/album/5Lj79EJCbFbQltR11jauGL) | 3:22 | 2024-08-20 |  |
@@ -837,6 +839,7 @@
 | [Jealous \- Acoustic](https://open.spotify.com/track/7jJn9GrSrbi3hCIQ7QP2bC) | [Aura Ritual](https://open.spotify.com/artist/5PCWNC5aDhPkwRfs4Xc3DE) | [FEEDBACK \(Acoustic\)](https://open.spotify.com/album/4BBZlrb0uFTlIDR3RdwGqM) | 4:33 | 2025-09-16 |  |
 | [Jean Jackets in June](https://open.spotify.com/track/5tqQHPwOJW9TGfu5PPJ0Vh) | [Protagonist](https://open.spotify.com/artist/0GGweWaK18jB7DStgHn5id) | [Jean Jackets in June](https://open.spotify.com/album/0qjbqvrZkJ4pJMh9ups42M) | 4:35 | 2025-12-04 |  |
 | [jester](https://open.spotify.com/track/0czLzptXOO935bvU3fo3Yj) | [Brandon Hawkins](https://open.spotify.com/artist/5hBELGzR8N3PvQGSDcuR71) | [jester](https://open.spotify.com/album/0Ae6q5NVm8lkhhpY9GYdWo) | 1:38 | 2025-02-18 |  |
+| [Jingle Bells](https://open.spotify.com/track/0rfwnKFRTahPdHCEFhESsZ) | [Darryn Zewalk](https://open.spotify.com/artist/7HysNhewedcRygAC3H8h9f) | [Jingle A New Way](https://open.spotify.com/album/5LiKN2ONQnHx7h8Dtb9ZGx) | 3:23 | 2025-12-10 |  |
 | [Jorja](https://open.spotify.com/track/54M8GDEBmnQFiWXDzi0uFx) | [Polo Cortez](https://open.spotify.com/artist/555iIvNAQ1vlfXVNa4Kxu6), [Ssba](https://open.spotify.com/artist/67PGP6fO4LbiwvNtm6Ggdf), [Double S](https://open.spotify.com/artist/5qVyv07iwXspQDo4F5zJcS) | [Jorja](https://open.spotify.com/album/3IqsVC7q6DaW0wW55yDw7J) | 3:32 | 2025-12-08 |  |
 | [Joshua Davis](https://open.spotify.com/track/1bKLwKyKrK72J2Lyy9GhmO) | [The Irish Lassies](https://open.spotify.com/artist/0lUMz3jYXEKl0b8FHFV8ic) | [Joshua Davis](https://open.spotify.com/album/5NkP56WUvExZQoCUuXDamY) | 4:53 | 2025-07-29 |  |
 | [Joy](https://open.spotify.com/track/5eihoC4uwsZZHV0TtZgGXU) | [Hjörvar](https://open.spotify.com/artist/3mHZS0Enwpb4M0hNmLZOln) | [Joy](https://open.spotify.com/album/4tLbOHFqcRrouZznyr7V0v) | 3:37 | 2024-05-24 |  |
@@ -1469,6 +1472,7 @@
 | [Stunned & Confused](https://open.spotify.com/track/08dh3soqgoWLTpg3L1a5Si) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 5:17 | 2025-06-02 |  |
 | [Submix](https://open.spotify.com/track/4YrrjGtMg6G9mLDStIlM0N) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/7287Xttv3A5IdTikDJZZG0) | 2:28 | 2025-10-16 |  |
 | [Suburban Boy](https://open.spotify.com/track/6ZqUCwZRq1gHzGyotbVI8l) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Suburban Boy](https://open.spotify.com/album/5TI5aQjuAm3JOWV6ZxNFyl) | 3:13 | 2024-09-09 |  |
+| [Suerte](https://open.spotify.com/track/3Ep75XNkKEz3meQlzCjJ3M) | [Los de Marte](https://open.spotify.com/artist/3IswqnIMsJKqBzGplTP91r) | [Suerte](https://open.spotify.com/album/0BX5xTASG4jk84rbv4Y1Pr) | 2:47 | 2025-12-10 |  |
 | [Sueño con esto \(radio version\)](https://open.spotify.com/track/3Ls7IJFyQNlKtBvr1a3qg5) | [Ayoona Bay](https://open.spotify.com/artist/3w1N70ai2u9Vfrpc3bO4eq) | [Sueño con esto \(radio version\)](https://open.spotify.com/album/0tirRWXYTEwoy8ftcQvbY1) | 3:55 | 2024-10-17 |  |
 | [Summer](https://open.spotify.com/track/04DzfUCfNKFjCeynB2JI9r) | [Bliss On The Stars](https://open.spotify.com/artist/6mVn8YjdSG1C5PxcksAeiU) | [Summer](https://open.spotify.com/album/5HPhhjTjQ60yHu9sSP4418) | 3:18 | 2025-09-12 |  |
 | [Summer](https://open.spotify.com/track/0bEUI3D89zW8YfxBoCHCwk) | [Nathan Leaman](https://open.spotify.com/artist/27LSlBnWjyUfpJ5BxgwBoX) | [Summer](https://open.spotify.com/album/20UG6JZXmLU4XeIhmkZbPB) | 3:39 | 2025-09-02 |  |
@@ -1502,6 +1506,7 @@
 | [Sweet Sounds](https://open.spotify.com/track/69FByupDXU2QXwp8tToqxe) | [Matthew Bruce](https://open.spotify.com/artist/0gOjczvkySl2dLCAzhp52M) | [Change of Pace](https://open.spotify.com/album/4G9gwmzLpi5j7a6rvfU61C) | 3:01 | 2025-10-01 |  |
 | [SWEET TREAT](https://open.spotify.com/track/6B8FA8og78EWarwCyI5bhz) | [Sam Keath](https://open.spotify.com/artist/09tPQy5t4I29YOTq0DPaN1) | [SWEET TREAT](https://open.spotify.com/album/3QySV5ApRoTON6S7jmE9bp) | 2:40 | 2024-10-18 |  |
 | [Sweetness](https://open.spotify.com/track/4xlxpbGQ9at7HAIi9vh6uS) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Sweetness](https://open.spotify.com/album/391cgXOGgQ54rZJJE2fBds) | 3:10 | 2025-05-01 |  |
+| [Symmetric](https://open.spotify.com/track/2M6bYplgzxDWiU3vuGcl4L) | [Good Sunset](https://open.spotify.com/artist/1XeexwpjUws2EwUOUaO56Z) | [Cinema Everything](https://open.spotify.com/album/3Kp3powxVaQz0RA3bLOiRf) | 3:13 | 2025-12-10 |  |
 | [Synchronicity](https://open.spotify.com/track/2cEwm4HMumDFEukmHvzpwY) | [AYU](https://open.spotify.com/artist/1sjcTXZESni2B5F8LERoSw) | [Synchronicity](https://open.spotify.com/album/1PAKndvvrxK5PhDjoWfU0S) | 3:54 | 2025-08-25 |  |
 | [Sí](https://open.spotify.com/track/0HEUYBboxxjbBfqTPYtQ6Q) | [Kmpoy](https://open.spotify.com/artist/58I0270Xk0eCdscoHHIVfr) | [Sí](https://open.spotify.com/album/5bloXCPKR4EpphePofWk8w) | 3:36 | 2025-10-27 |  |
 | [Tabibu Mkuu Huyu](https://open.spotify.com/track/2bZj2UKYZaz5RktgcWQjys) | [Sda Songs](https://open.spotify.com/artist/0qQ3BIZnYojHhx7QiV5mS2), [Accapela](https://open.spotify.com/artist/6VuGyCEELe5dbzzyGp7iUk) | [Tabibu Mkuu Huyu](https://open.spotify.com/album/3coCu28KDVCeJlp7Ha9dyi) | 5:30 | 2025-05-30 |  |
@@ -1688,6 +1693,7 @@
 | [Universal Love](https://open.spotify.com/track/5Q1Bxxv1BIKVHkBydW72sU) | [Holly Lee Jones](https://open.spotify.com/artist/1lhYuMgpOjrG7D1iBWD9Co) | [Sacred Clearing](https://open.spotify.com/album/06RbLAyBPCGie3Y2xBUXOr) | 4:45 | 2024-10-22 |  |
 | [Unravel](https://open.spotify.com/track/24bevjfgrbjJbu6mMuBIbp) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Low Fidelity](https://open.spotify.com/album/6NYA18h0U4PtpFe5hOYNoE) | 1:42 | 2025-09-29 |  |
 | [Unravelled](https://open.spotify.com/track/16TJy7ebeq79nae0FpewtN) | [Jane Marie](https://open.spotify.com/artist/4RjRKI0bYrhNIiUX0qzKf3), [Jessica Mia](https://open.spotify.com/artist/1EEnRNZ0QEgzpSGRj957B5) | [Unravelled](https://open.spotify.com/album/0mR5eiwc8lHSFNcqrqCdTD) | 3:04 | 2025-10-02 |  |
+| [Until It's Time](https://open.spotify.com/track/77v6TueXjlHHOOBsFOrNGl) | [Cut Flowers](https://open.spotify.com/artist/5qRls3Usdh6jOe0ek8ZCXS) | [Until It's Time](https://open.spotify.com/album/6Ulxw0G7DRwcWy6FG0Yq0Z) | 2:48 | 2025-12-10 |  |
 | [unworthy](https://open.spotify.com/track/1OS0rLCeymbwEgsVE3sb4q) | [Mckai](https://open.spotify.com/artist/4emtw8l93u2ub1FdLdnm5X) | [unworthy](https://open.spotify.com/album/2leURSCne6PJu3tGwQEPaZ) | 3:03 | 2025-04-08 |  |
 | [Uranus](https://open.spotify.com/track/6ZETLl0yKNfZOS2jrXcUqJ) | [Trashbbx](https://open.spotify.com/artist/3QRXwXbNNP3QV10XKGvj1y) | [Uranus](https://open.spotify.com/album/0ihWq0SzyLZx26mIVhXoNa) | 2:50 | 2024-09-05 |  |
 | [Useless](https://open.spotify.com/track/4esx4ebizopp6tpseuUYYj) | [Spenny Sinatra](https://open.spotify.com/artist/1jRX2hDEOgoQY4388hlTEu) | [Useless](https://open.spotify.com/album/1BG8pKblUmopsSugrkBeV8) | 3:58 | 2025-10-21 |  |
@@ -1852,6 +1858,7 @@
 | [Åbne Vidder](https://open.spotify.com/track/4xJsM6FLdibPJNvCRWYE1R) | [Hagemann](https://open.spotify.com/artist/5snFYmXyP3zLFZ833UHtfV) | [Åbne Vidder](https://open.spotify.com/album/7aBeDfpd0fTSMyNUiCgXUf) | 3:20 | 2025-07-16 |  |
 | [Ça ira pas en s'améliorant](https://open.spotify.com/track/5y6XNYuSfnOd2qWZaOELi0) | [Union Thugs](https://open.spotify.com/artist/0ZkFtd2aeyoBeUfrFIiVtQ) | [Coup de Grisou](https://open.spotify.com/album/6GdNb9Wg92lZbZCufGiX0O) | 2:42 | 2025-03-03 |  |
 | [Él ha resucitado](https://open.spotify.com/track/4s7lk1do7oDi9HHbvJQzzR) | [RenaceMusic](https://open.spotify.com/artist/6ZFX0dxVEl9PKuzbrvPAb7) | [Él ha resucitado](https://open.spotify.com/album/4ktoB1iNp6U1HK1PMVfDiZ) | 3:56 | 2025-04-21 |  |
+| [Élite Mundial](https://open.spotify.com/track/3MtOrsLxv31SNJeMl3pqlv) | [Velx](https://open.spotify.com/artist/4rGwpY6x2VsXxZ1iAevcGw) | [Élite Mundial](https://open.spotify.com/album/6ZKD1o5vXu3f9cDOr8KJ7e) | 3:17 | 2025-12-10 |  |
 | [Şafaklarımda Kan](https://open.spotify.com/track/1Nx4FGHFMkOZjanLCIuAwg) | [Sayha](https://open.spotify.com/artist/0PYyK6diD6tSqESYVDf9WO) | [Şafaklarımda Kan](https://open.spotify.com/album/0HOcvMXS2VeJcudpNjtEdU) | 1:26 | 2025-09-24 |  |
 | [Αν εχεις κατι να μου πεις](https://open.spotify.com/track/3ejFO9XwltNTpUgOP1eINT) | [Marios Papalexis](https://open.spotify.com/artist/4LVxkX59xWHTrIhwI78A6K) | [My Demo Tapes, Pt\. 2](https://open.spotify.com/album/4EGZ3XtODxpUzCpIA7gBFR) | 3:17 | 2025-11-06 |  |
 | [Κρατησε με](https://open.spotify.com/track/5rB8xV3RPeS2INkFFdW2ME) | [Marios Papalexis](https://open.spotify.com/artist/4LVxkX59xWHTrIhwI78A6K) | [My Demo Tapes, Pt\. 2](https://open.spotify.com/album/4EGZ3XtODxpUzCpIA7gBFR) | 3:55 | 2025-01-22 |  |

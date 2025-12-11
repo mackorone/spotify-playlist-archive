@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 
 ### [Mooi Nederlands](https://open.spotify.com/playlist/37i9dQZF1DXdaeKeYefGeI)
 
-> Wat kan het Nederlands toch mooi zijn\. Cover: Herman van Veen & Gerson Main
+> Wat kan het Nederlands toch mooi zijn\. Cover: Claudia de Breij
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,630 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,642 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Zo Stil](https://open.spotify.com/track/08HQVzUkFF7QjUs9FmO4VH) | [Jan Dulles](https://open.spotify.com/artist/0BAXn1g8tr7qMwiVuOwEAw), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(KiKa aflevering\)](https://open.spotify.com/album/4PE10sIWGmeGCGyoFCseQP) | 3:54 |
-| 2 | [Dans](https://open.spotify.com/track/47JBXznQqDtATWPNBZPwBc) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Een hoop](https://open.spotify.com/album/4EZ4fZ33JLMzzm9DBFGavm) | 4:36 |
+| 1 | [Dans](https://open.spotify.com/track/47JBXznQqDtATWPNBZPwBc) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Een hoop](https://open.spotify.com/album/4EZ4fZ33JLMzzm9DBFGavm) | 4:36 |
+| 2 | [Zo Stil](https://open.spotify.com/track/08HQVzUkFF7QjUs9FmO4VH) | [Jan Dulles](https://open.spotify.com/artist/0BAXn1g8tr7qMwiVuOwEAw), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(KiKa aflevering\)](https://open.spotify.com/album/4PE10sIWGmeGCGyoFCseQP) | 3:54 |
 | 3 | [Mama Huil Niet](https://open.spotify.com/track/3Nq9OzwDXWVRSBiM5SFSRA) | [Jacqueline Govaert](https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(Jacqueline Govaert\)](https://open.spotify.com/album/3JV5C1wGCb3gOyIfRE2D0M) | 3:28 |
 | 4 | [We Doen Alsof](https://open.spotify.com/track/0LJ1hlleIO9JARlO2eyo2g) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [We Doen Alsof](https://open.spotify.com/album/3gOXgH4AVBI1dpnKHoxT8x) | 4:06 |
 | 5 | [Kijk Niet Achterom](https://open.spotify.com/track/3qBkuKl5sThSlYOgDoFy7X) | [Babette Van Veen](https://open.spotify.com/artist/5GUosf9oyNKzoKSzyguTax), [Soy Kroon](https://open.spotify.com/artist/16V5a3d99qj5d7xQxYD0IT) | [Kijk Niet Achterom](https://open.spotify.com/album/0fMXDvkCObFINs9pgcDKCT) | 3:58 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 | 59 | [Laat Me / Vivre \- Lange versie](https://open.spotify.com/track/1IpdAKuSYrQKTXs0KpypFb) | [Gerard Alderliefste](https://open.spotify.com/artist/718CHttAO54nPQXP00EzmD), [Alderliefste](https://open.spotify.com/artist/5J8ns43YpsiTRsG45N1cDi) | [Laat Me / Vivre](https://open.spotify.com/album/0d4Dr3RCYyHXFgWz0PFD1M) | 6:25 |
 | 60 | [Zonder Jou](https://open.spotify.com/track/7dIuHfrJskIy7ynwRkptkb) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT), [Simone Kleinsma](https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0) | [Mooi Weer Een CD](https://open.spotify.com/album/2SqhO69ScHJePoFmMesQs6) | 3:56 |
 
-Snapshot ID: `AAAAAJBP0AOMy3srY4KiacSMfNj8SBPM`
+Snapshot ID: `AAAAAJLXzbZ1KFjZ2ZAP4dZE1tsqMMjJ`

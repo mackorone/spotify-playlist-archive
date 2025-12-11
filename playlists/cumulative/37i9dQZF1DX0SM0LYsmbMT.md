@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,471 songs - 7 day 2 hr 0 min
+4,472 songs - 7 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Best Time](https://open.spotify.com/track/3pZNpqJSgC6fKGk1Q7E9za) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Best Time](https://open.spotify.com/album/5zhTTfKgc60Gv2W04vTGjc) | 2:32 | 2023-12-21 | 2024-01-05 |
 | [Better Life](https://open.spotify.com/track/32jgxWTiEcXChtfT4BdFyK) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [Better Life](https://open.spotify.com/album/43SGwBqaSpuOA5D9stfmLy) | 2:40 | 2021-10-22 | 2022-02-18 |
 | [Better Times](https://open.spotify.com/track/1Ku09oZae2A0jmznumSKWN) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Better Times](https://open.spotify.com/album/2cxoKTF3fhtaIl6clGW3B1) | 1:50 | 2021-06-25 | 2021-07-23 |
+| [Between Lines](https://open.spotify.com/track/6SclOVpNh2ywfJqvL4AI4X) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Between Lines](https://open.spotify.com/album/03mWePSptboX3CKAsVzoDn) | 1:58 | 2025-12-04 |  |
 | [Between Us](https://open.spotify.com/track/2f5xVcBa3jG3qpoQEiNz7d) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Otaam](https://open.spotify.com/artist/0yABOXFZ5fJ1KyoXXgj5B0), [Dubillard](https://open.spotify.com/artist/2UNd8V88DmE0Fa2FVIX4h8) | [Between Us](https://open.spotify.com/album/3dEqqPnCmN9FDMsMKz06J5) | 2:41 | 2024-09-16 |  |
 | [Between Waves](https://open.spotify.com/track/7BlRx52vRmpTUXYLRiNZsR) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [Between Waves](https://open.spotify.com/album/2MGgUdBvYITe0PU5kQB43M) | 2:37 | 2020-05-30 | 2020-08-07 |
 | [Beyond](https://open.spotify.com/track/6jDf8XD3fMm3P1vMLvHZ6w) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [Beyond](https://open.spotify.com/album/3QCEvkw9ddTF5WOyL3nPkl) | 1:46 | 2022-07-21 | 2022-12-26 |
@@ -852,7 +853,7 @@
 | [Crescent Moon](https://open.spotify.com/track/5OhYCwdrUO5a3QIOdIWJGs) | [Alecs DeLarge](https://open.spotify.com/artist/6748zpPL23DmNFwloBW90u) | [Crescent Moon](https://open.spotify.com/album/1DxwPbB3b6c2nWqIFEy2Zj) | 1:39 | 2021-10-01 | 2022-07-08 |
 | [Crimea](https://open.spotify.com/track/5VwXSBEgJMp4cd5TeWGeK9) | [Boora](https://open.spotify.com/artist/1xkhstLVWw3eDL1pRMN0Z7) | [Crimea](https://open.spotify.com/album/5o4CyEZXkntl65XCR6PimT) | 2:46 | 2020-07-11 | 2020-09-11 |
 | [Crimson](https://open.spotify.com/track/0lHKUq3vasc9eAKVdMVcG3) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Crimson](https://open.spotify.com/album/7jWYq4jLHtPtmgMvA4m8aD) | 1:52 | 2023-12-01 |  |
-| [Crooked Mirror of the Soul](https://open.spotify.com/track/6rx7YJo2x8GxKowxkvH8Qe) | [NEKOB](https://open.spotify.com/artist/3tMMTfUIzDEm4qxPMrV1Mi) | [Crooked Mirror of the Soul](https://open.spotify.com/album/10bXkjlaEHrIEhuDRiDAle) | 1:51 | 2024-01-26 |  |
+| [Crooked Mirror of the Soul](https://open.spotify.com/track/6rx7YJo2x8GxKowxkvH8Qe) | [NEKOB](https://open.spotify.com/artist/3tMMTfUIzDEm4qxPMrV1Mi) | [Crooked Mirror of the Soul](https://open.spotify.com/album/10bXkjlaEHrIEhuDRiDAle) | 1:51 | 2024-01-26 | 2025-12-11 |
 | [Crossing](https://open.spotify.com/track/7u9kOrf7JEHe2wwUPhPabi) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C) | [Crossing](https://open.spotify.com/album/3HhTOt70nt48DzGChnJZuY) | 1:50 | 2019-05-28 | 2019-09-17 |
 | [Cruisin](https://open.spotify.com/track/5mvrMYNZvxj7GPcS66XemB) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Cruisin](https://open.spotify.com/album/01DGzYPUkJ7cN7ek3GlGEV) | 2:51 | 2021-05-21 | 2021-09-22 |
 | [Cruisin'](https://open.spotify.com/track/6bJdh8j8HbZV0WPu5FGAgb) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an), [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Cruisin'](https://open.spotify.com/album/2tFq1aPNX5mo7zSKBfYs2p) | 2:06 | 2021-10-08 | 2023-02-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 
 > This is Skillet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,896 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,969 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 | 9 | [Finish Line](https://open.spotify.com/track/2GJ1xx5ZoeIJYbQKLSpoZ3) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:26 |
 | 10 | [Awake and Alive](https://open.spotify.com/track/0nkzd3yNniB767zSDDdLZ3) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:29 |
 | 11 | [Rise](https://open.spotify.com/track/1W0YS64vF9qgMVLuN76aqg) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 4:20 |
-| 12 | [Psycho In My Head](https://open.spotify.com/track/3cWQDKcIhP74CTfkxoCN0J) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:17 |
-| 13 | [Falling Inside the Black](https://open.spotify.com/track/4AVxmpwfXH7p4YyTbg9nS4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:30 |
+| 12 | [Falling Inside the Black](https://open.spotify.com/track/4AVxmpwfXH7p4YyTbg9nS4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:30 |
+| 13 | [Psycho In My Head](https://open.spotify.com/track/3cWQDKcIhP74CTfkxoCN0J) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:17 |
 | 14 | [Back from the Dead](https://open.spotify.com/track/7y9l4rJLsXQMHciCNSgZmi) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:33 |
 | 15 | [Legendary](https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:04 |
-| 16 | [No Survivors](https://open.spotify.com/track/4rjFbBwvAOkBWFqGPcqmJF) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [No Survivors](https://open.spotify.com/album/40HxW3w0otYnlVSd6tiJU9) | 2:20 |
-| 17 | [Rebirthing](https://open.spotify.com/track/1OG0QQa2zZe4QeFwVhCiiA) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:53 |
+| 16 | [Rebirthing](https://open.spotify.com/track/1OG0QQa2zZe4QeFwVhCiiA) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:53 |
+| 17 | [No Survivors](https://open.spotify.com/track/4rjFbBwvAOkBWFqGPcqmJF) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [No Survivors](https://open.spotify.com/album/40HxW3w0otYnlVSd6tiJU9) | 2:20 |
 | 18 | [I Want to Live](https://open.spotify.com/track/4Ahphc0UzRSoMpJRHgnGQK) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:28 |
 | 19 | [Take It All Back](https://open.spotify.com/track/1486GTNZyKS12K9NSP1QRj) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/0JNxzwUAvDPOboU7nmP9GU) | 3:24 |
 | 20 | [Sick of It](https://open.spotify.com/track/4EYpOdL69yWuIRc49AyeZa) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 3:10 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 | 31 | [It's Not Me, It's You](https://open.spotify.com/track/1swaR8iEKe5qyCoyCWjyvP) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:24 |
 | 32 | [Those Nights](https://open.spotify.com/track/1ZWEsoqJSrtZA1qjlG02Hp) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:46 |
 | 33 | [Not Afraid](https://open.spotify.com/track/1TnAZhq4cp6K2I4UmHJzZ4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:13 |
-| 34 | [Anchor](https://open.spotify.com/track/6EwnYm73XEibpAPOnTc8li) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:36 |
+| 34 | [Surviving The Game](https://open.spotify.com/track/0urubGmXiODfWyGL6o6W4P) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 3:58 |
 | 35 | [One Day Too Late](https://open.spotify.com/track/6JLnc7pF4WUzQ6BWONpc7j) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:40 |
-| 36 | [Surviving The Game](https://open.spotify.com/track/0urubGmXiODfWyGL6o6W4P) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 3:58 |
+| 36 | [Anchor](https://open.spotify.com/track/6EwnYm73XEibpAPOnTc8li) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:36 |
 | 37 | [All That Matters](https://open.spotify.com/track/4TXAA3r1m7CaGoUnDRBAJ2) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Revolution](https://open.spotify.com/album/10ZHxI5PePZZqVwtSw4RNq) | 3:27 |
 | 38 | [Breaking Free \(feat\. Lacey Sturm\)](https://open.spotify.com/track/3sT99jz232QWq5Q2LEaFJ5) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Unleashed Beyond \(Special Edition\)](https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37) | 3:52 |
 | 39 | [Salvation](https://open.spotify.com/track/6qYTL4IxHaHTfum39X62tr) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qgZOg.md) - [plain]
 | 49 | [Wolf \(feat\. John Cooper of Skillet\)](https://open.spotify.com/track/2TotmUJiZqzDh7OMjD7zGr) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Wolf \(feat\. John Cooper of Skillet\)](https://open.spotify.com/album/6q3tBwBS5uMSeeWD3JRhDZ) | 3:18 |
 | 50 | [Open Wounds](https://open.spotify.com/track/2UfKuGYONPAuopJtpGfZyA) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Collide](https://open.spotify.com/album/77JbhmUqfoId7D2AHKU4zW) | 3:14 |
 
-Snapshot ID: `aTYVAAAAAADDWX8klebkZc2IZkinVsv3`
+Snapshot ID: `aTdmgAAAAACcIEsQILWKK9mmWlNMIZoF`

@@ -4,11 +4,12 @@
 
 > This is Jimmy Cliff\. The essential tracks, all in one playlist.
 
-53 songs - 3 hr 27 min
+54 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Better Days Are Coming](https://open.spotify.com/track/7KrFKOGBY7J7ewu7ckCcHC) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Universal Masters Collection](https://open.spotify.com/album/47E8XMszHalHIxLdk7D49n) | 3:14 | 2025-11-25 |  |
+| [Baby Let Me Feel It](https://open.spotify.com/track/36iR1iNaoaqV5z640aoBJ5) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Have Fun On Christmas With Reggae](https://open.spotify.com/album/4g0WFtV86mRFJk7oZgeUBV) | 4:12 | 2025-12-11 |  |
+| [Better Days Are Coming](https://open.spotify.com/track/7KrFKOGBY7J7ewu7ckCcHC) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Universal Masters Collection](https://open.spotify.com/album/47E8XMszHalHIxLdk7D49n) | 3:14 | 2025-11-25 | 2025-12-11 |
 | [Bongo Man](https://open.spotify.com/track/4NDt0POuq7rRff55MGUU8n) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Goodbye Yesterday](https://open.spotify.com/album/4pCihmj6KBWAPZe4MiGRt5) | 4:05 | 2025-11-25 |  |
 | [Born to Win](https://open.spotify.com/track/2n0uoqw6J3aaiQ4cFzkKeb) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The EMI Years 1973\-'75](https://open.spotify.com/album/58Cr3LLfMc3opkezTyXxeS) | 2:52 | 2025-11-25 |  |
 | [Brown Eyes](https://open.spotify.com/track/6TJxXzueYaZ3ZsDfXO3jWB) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Cliff Hanger](https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN) | 3:39 | 2025-11-25 |  |

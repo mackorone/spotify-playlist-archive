@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,283 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,282 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 18 | [D.U.S.K.\* \- heiakim Remix](https://open.spotify.com/track/2r40EZn5U5rUoNVd1TlCC8) | [Kohei Shimizu](https://open.spotify.com/artist/3zX8cCqgrhnASsckLs4ZI9), [星宮とと](https://open.spotify.com/artist/2gLRAkIfasw2ydt1omK41j), [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1) | [D.U.S.K.\* \(heiakim Remix\)](https://open.spotify.com/album/6o8xU4u2l7shxZEJaudOj4) | 2:01 |
 | 19 | [チョコミミ \(feat\. Manaka\)](https://open.spotify.com/track/3dNVnWctlcO8io2iW0kUUb) | [Lilniina](https://open.spotify.com/artist/2sQQn4m6eLqk0wt3TOkaGw), [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN) | [チョコミミ \(feat\. Manaka\)](https://open.spotify.com/album/4KM147WBWrs79aIgFJig3b) | 2:55 |
 | 20 | [HOME PARTY \- Remix](https://open.spotify.com/track/08FNddbbQORxQjXRCX2OfJ) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP), [Bain](https://open.spotify.com/artist/7iTvQXjSsstZgnMFfLloYy) | [sweetest, me \(Deluxe Edition\)](https://open.spotify.com/album/1BQMabrdj2ETMR2YCXD3mJ) | 2:00 |
-| 21 | [Vital](https://open.spotify.com/track/1eXMiNw65XrQuM6ZWNM62w) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz), [Sountrive](https://open.spotify.com/artist/32mscr7vJEU0mxNshZzKp1) | [Vital](https://open.spotify.com/album/2OstU6wl8YxR3z3Qy5yvek) | 3:36 |
+| 21 | [Vital](https://open.spotify.com/track/1eXMiNw65XrQuM6ZWNM62w) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz), [Sountrive](https://open.spotify.com/artist/7yzvXayu1sh00kdXrlyKjm) | [Vital](https://open.spotify.com/album/2OstU6wl8YxR3z3Qy5yvek) | 3:36 |
 | 22 | [TENTEKO MINE feat, 森](https://open.spotify.com/track/0hEs1ONsl8sC4NXRbEtBhd) | [KENTACATS](https://open.spotify.com/artist/0bmFxuu38S0esyG6Dwqeik), [森](https://open.spotify.com/artist/1WogYMR7JvF1zRKLEjrp0I) | [CMS\`S WAREHOUSE](https://open.spotify.com/album/0UQ09S88Zsvx5sdxraMvbC) | 4:52 |
 | 23 | [Don’t SAY!](https://open.spotify.com/track/3naXdZUMT0ipifjKvhOVsP) | [sysmo](https://open.spotify.com/artist/0qSGNUDupbksAYO3fjanl9) | [Don’t SAY! / richmantypesh\*t](https://open.spotify.com/album/6FiBb2n8Tb7FwKQjYfGerJ) | 2:53 |
 | 24 | [why not](https://open.spotify.com/track/5LZ2QmkL6FqezVdtpubkDC) | [It\-Works](https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0) | [why not](https://open.spotify.com/album/4iY6mVhvwlbMH4FbkrYSc1) | 2:39 |

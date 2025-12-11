@@ -4,7 +4,7 @@
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : Coolie
 
-219 songs - 6 hr 38 min
+220 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Barotta Master \- Background Score](https://open.spotify.com/track/07ifNHZUt3BZTwXkdhjGwu) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jagame Thandhiram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UJzrIeqV0yj1tpLihFk07) | 2:30 | 2021-11-01 | 2023-04-21 |
 | [Battery Theme](https://open.spotify.com/track/6bbvGxJtUBrR9YNEAtFH5a) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vettaiyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Xw7XAQQwpsy9KfUnJTrHz) | 1:38 | 2024-10-14 | 2025-06-06 |
 | [Beast Announcement Theme \(From "Beast"\)](https://open.spotify.com/track/6jiMGpaN4Sx7xYlSQqfjnz) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Beast Announcement Theme \(From "Beast"\)](https://open.spotify.com/album/7rkELhEEUEuqWRmDdTCNZF) | 1:02 | 2022-02-24 |  |
-| [Beat of Master \- Instrumental](https://open.spotify.com/track/7wQR696XF4L91Zr9groP8v) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 1:15 | 2021-11-01 |  |
+| [Beat of Master \- Instrumental](https://open.spotify.com/track/7wQR696XF4L91Zr9groP8v) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 1:15 | 2021-11-01 | 2025-12-11 |
 | [Benz In The Universe Theme \- From "Benz"](https://open.spotify.com/track/0fHJMPTfOZX4ief6dp8UgO) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc) | [Benz In The Universe Theme \(From "Benz"\)](https://open.spotify.com/album/4QYeVQr1Uvy5Pm2G5iPclD) | 2:00 | 2024-11-07 |  |
 | [Bhavani Theme \- Background Score](https://open.spotify.com/track/4SwrKUWClv1t4HqK5SeMCo) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 1:20 | 2021-11-01 | 2025-05-28 |
 | [Bigil Bigil Bigiluma](https://open.spotify.com/track/71MYQe743EBq3RvLqidTLi) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Bigil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2G7JyChJHrZYCBb0jL2N5t) | 2:02 | 2021-11-01 |  |
@@ -199,6 +199,7 @@
 | [The Rise](https://open.spotify.com/track/3M0yJxkUkEyn8ku3zBPLfX) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Viduthalai \(Original Background Score\)](https://open.spotify.com/album/640AWcG0puLErrZs6J6uCd) | 1:16 | 2024-03-19 | 2024-05-16 |
 | [The Theri Theme](https://open.spotify.com/track/5F6QjI9stjXP8yNzu60SEP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vedalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KOvSxSNXC7mPvVESt1rVT) | 1:52 | 2021-11-01 |  |
 | [The Vikram Squad \- Background Score](https://open.spotify.com/track/0hEUT9CpY3R2nvYzdvxGLE) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:34 | 2022-07-08 |  |
+| [Theme](https://open.spotify.com/track/4CNDukte38IXyjvSFR55I3) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Padaiyappa \(Original Background Score\)](https://open.spotify.com/album/6o4v88RU1YBb0mjjQPt83k) | 0:46 | 2025-12-10 |  |
 | [Theme Music 1](https://open.spotify.com/track/5U9EsOlN3BOGKSDTlOKNkA) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Kadhal Kondaen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/72FEBJg0kJl4axCBYzktGI) | 1:06 | 2021-11-01 | 2025-06-06 |
 | [Theme of 3](https://open.spotify.com/track/7vXNWKJJsuflJZwDtrQgRO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Mandolin Seenu](https://open.spotify.com/artist/2Wuq8f0T8XhQzjPSpMWY0i) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 1:29 | 2021-11-01 |  |
 | [Thiruppi Kudukkum Neram](https://open.spotify.com/track/2oxZzvIiInIGtFDLia33w2) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Varisu Original Sound Track](https://open.spotify.com/album/1BQenhYzXw2QwFgva3d8RL) | 1:56 | 2023-08-18 |  |

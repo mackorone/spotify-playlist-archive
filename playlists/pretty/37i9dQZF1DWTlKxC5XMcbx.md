@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,837 likes - 75 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,834 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 33 | [When Your Lover Has Gone](https://open.spotify.com/track/7m4OEcDjdVPVKRhXmnQko5) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ben Webster Meets Oscar Peterson](https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ) | 3:56 |
 | 34 | [Over The Rainbow](https://open.spotify.com/track/08lUeu1CxXvAoaKkemoEk8) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Everything I Play Is Funky](https://open.spotify.com/album/4bonZNozN5B3PO7nXJ317E) | 7:11 |
 | 35 | [I'm A Fool To Want You](https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Ballads](https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K) | 6:45 |
-| 36 | [Maybe September](https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Scott Hamilton Plays Ballads](https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm) | 3:40 |
-| 37 | [Reacquainted](https://open.spotify.com/track/0MdFNrukQ56KurgxVNTNm2) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [Reacquainted](https://open.spotify.com/album/7jttkH7iYONN0AoY3jTyeD) | 3:29 |
+| 36 | [Reacquainted](https://open.spotify.com/track/0MdFNrukQ56KurgxVNTNm2) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [Reacquainted](https://open.spotify.com/album/7jttkH7iYONN0AoY3jTyeD) | 3:29 |
+| 37 | [Maybe September](https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Scott Hamilton Plays Ballads](https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm) | 3:40 |
 | 38 | [Blue Ballad](https://open.spotify.com/track/6f6OQJv9qjqyJq9NHin45n) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f), [Space Jazz Trio](https://open.spotify.com/artist/2sLufQ8lc6cZL6YIO1oD65) | [Phil's Mood](https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43) | 6:34 |
 | 39 | [Travels](https://open.spotify.com/track/6juyk5UBrXxqeyPfKRvsc9) | [Pat Metheny Trio](https://open.spotify.com/artist/3oia5FyHn6OyDQnRDDwpFv) | [Trio 99\-00](https://open.spotify.com/album/2EtkrLObwfJ8cdgbJXz2lP) | 5:43 |
 | 40 | [Lullaby Of The Leaves \- 1998 Digital Remaster](https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [The Original Quartet With Chet Baker](https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA) | 3:15 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 72 | [The Ansible](https://open.spotify.com/track/31MCSGCZylxFfi9iWLtM0l) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [The Ansible](https://open.spotify.com/album/5eabCRB9zmiOQyxtmy7Pbd) | 3:34 |
 | 73 | [I Have Dreamed](https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 8:27 |
 | 74 | [You've Changed](https://open.spotify.com/track/1bzWQAERd8mtwpxH8R4vjB) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Ballads](https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K) | 7:27 |
-| 75 | [Born To Be Blue](https://open.spotify.com/track/6X94pvu9uxSEbIipBs63Ym) | [Martin Wind](https://open.spotify.com/artist/3wozHMPLuqajGrQWyiwrxT), [Bill Mays](https://open.spotify.com/artist/1ilp455TV1iDOBdrxrqKTQ), [Keith Copeland](https://open.spotify.com/artist/3fsxFG2I0ZO5Gbl6GWyMIe) | [Gone With The Wind](https://open.spotify.com/album/485SZ10AUeaKMJ5u5d1N5r) | 8:19 |
+| 75 | [One Quiet Night](https://open.spotify.com/track/4XdoeWiOIDg2VMVUZSnHlO) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [One Quiet Night](https://open.spotify.com/album/6lUW37ehhdAZNF3cJPkSpK) | 5:01 |
 
 Snapshot ID: `AAAAAFXMeelVZKvq5JmVR+TbUDS4LQJI`

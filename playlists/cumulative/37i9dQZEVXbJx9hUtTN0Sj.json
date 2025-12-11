@@ -4972,7 +4972,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 178853,
       "name": "Berghain",
       "url": "https://open.spotify.com/track/2T8yuUKl1nhmtaIocqWo4i"
@@ -11682,7 +11682,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 159000,
       "name": "Do It",
       "url": "https://open.spotify.com/track/56Fu41EhpsPqqfDZsj3eaN"
@@ -14224,7 +14224,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 268519,
       "name": "FEAR",
       "url": "https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz"
@@ -14836,7 +14836,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 377098,
       "name": "For Good",
       "url": "https://open.spotify.com/track/5shGj5OOnpmg4tQlFjyzZY"
@@ -19574,7 +19574,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 102008,
       "name": "I follow rivers x melodrama",
       "url": "https://open.spotify.com/track/03rdMiXxr8uWx5QRqomU3U"
@@ -23098,7 +23098,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
@@ -23928,7 +23928,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 233737,
       "name": "Left For Good",
       "url": "https://open.spotify.com/track/4pjSe7n2609YnMWnrJ3OVJ"
@@ -24376,6 +24376,24 @@
       "duration_ms": 202648,
       "name": "Life",
       "url": "https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am"
+    },
+    {
+      "album": {
+        "name": "There Is Nothing In The Dark That Isn't There In The Light",
+        "url": "https://open.spotify.com/album/3skYNW6jr0A74PoHjmu7ZB"
+      },
+      "artists": [
+        {
+          "name": "Tom Smith",
+          "url": "https://open.spotify.com/artist/5nw0YnxEyqweUJ4Piu9TWM"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248778,
+      "name": "Life Is For Living",
+      "url": "https://open.spotify.com/track/3BU1YruNRetS73hIWNLrkF"
     },
     {
       "album": {
@@ -28288,7 +28306,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 105437,
       "name": "mirrors demo",
       "url": "https://open.spotify.com/track/5Jh7Gc5aF6leolD64pNRD5"
@@ -35192,7 +35210,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 126106,
       "name": "Rebanav 126bpm",
       "url": "https://open.spotify.com/track/0zJ73feFCS8807usUclLWo"

@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 123852,
+  "num_followers": 123858,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAB55/sKULAjCeX33uTKcLC7",
+  "snapshot_id": "aTdmgAAAAABBh49gh/k1HzMAspZHHYDg",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clancy's Tavern",
-        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 193133,
-      "name": "Made in America",
-      "url": "https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Toby Keith",
         "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 184533,
       "name": "He Ain't Worth Missing",
       "url": "https://open.spotify.com/track/21O5QoGEqBTZgnWb3yDlZa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clancy's Tavern",
+        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 193133,
+      "name": "Made in America",
+      "url": "https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C"
     },
     {
       "added_at": null,

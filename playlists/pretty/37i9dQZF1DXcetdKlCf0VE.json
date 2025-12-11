@@ -1,6 +1,6 @@
 {
   "description": "Jean Sibelius: Finnish hero, notorious lobster enthusiast, and composer of truly monumental music. Discover his famous works in this essential playlist.",
-  "num_followers": 29952,
+  "num_followers": 29971,
   "original_name": "This Is Sibelius",
   "owner": {
     "name": "Spotify",
@@ -323,30 +323,6 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
-        "name": "Sibelius Symphonies No 4 & 6",
-        "url": "https://open.spotify.com/album/1PTjXCHlzdVev7qZrsW1xK"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Hall\u00e9",
-          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
-        },
-        {
-          "name": "Sir Mark Elder",
-          "url": "https://open.spotify.com/artist/5jKPZpM5NojkLVEXxxWZwG"
-        }
-      ],
-      "duration_ms": 766933,
-      "name": "Symphony No.4 in A Minor, Op. 63: III. Il tempo largo",
-      "url": "https://open.spotify.com/track/0MlZNthCGTUf2tn5NzdJY4"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
         "name": "Sibelius: Symphonies Nos.5 & 7; Karelia Suite",
         "url": "https://open.spotify.com/album/6hrfVaWYyH3hWYEl2zqt5u"
       },
@@ -387,6 +363,30 @@
       "duration_ms": 273213,
       "name": "Rakastava, Op. 14: The Lover",
       "url": "https://open.spotify.com/track/7FS2NhkWBEgLEkKm7h5vGf"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
+        "name": "Sibelius Symphonies No 4 & 6",
+        "url": "https://open.spotify.com/album/1PTjXCHlzdVev7qZrsW1xK"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Hall\u00e9",
+          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
+        },
+        {
+          "name": "Sir Mark Elder",
+          "url": "https://open.spotify.com/artist/5jKPZpM5NojkLVEXxxWZwG"
+        }
+      ],
+      "duration_ms": 766933,
+      "name": "Symphony No.4 in A Minor, Op. 63: III. Il tempo largo",
+      "url": "https://open.spotify.com/track/0MlZNthCGTUf2tn5NzdJY4"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -435,30 +435,6 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
-        "name": "Sibelius: Symphony No. 4; Finlandia; Luonnotar",
-        "url": "https://open.spotify.com/album/0zeqpsvDkcWy7VgvBeHCAH"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        }
-      ],
-      "duration_ms": 581066,
-      "name": "Symphony No. 4 in A Minor, Op. 63: I. Tempo molto moderato, quasi adagio",
-      "url": "https://open.spotify.com/track/0XhydK0yl8bGwCFiBJtqlU"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
         "name": "Suite for Violin and String Orchestra, Js 185 (Live)",
         "url": "https://open.spotify.com/album/77smjWFvvpixNL5HSWzieK"
       },
@@ -483,6 +459,30 @@
       "duration_ms": 267962,
       "name": "Suite for Violin and String Orchestra, JS 185: II. Evening in Spring - Live",
       "url": "https://open.spotify.com/track/2zUwZxKDexOexKkQPHDqs6"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
+        "name": "Sibelius: Symphony No. 4; Finlandia; Luonnotar",
+        "url": "https://open.spotify.com/album/0zeqpsvDkcWy7VgvBeHCAH"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "duration_ms": 581066,
+      "name": "Symphony No. 4 in A Minor, Op. 63: I. Tempo molto moderato, quasi adagio",
+      "url": "https://open.spotify.com/track/0XhydK0yl8bGwCFiBJtqlU"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -535,26 +535,6 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
-        "name": "Sibelius/Grieg: String Quartets",
-        "url": "https://open.spotify.com/album/0Fy1swlKcvYXleEEXLy0js"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Guarneri Quartet",
-          "url": "https://open.spotify.com/artist/20w7d77cK8uJbgV8SDdaIS"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 5. Allegro",
-      "url": "https://open.spotify.com/track/0I8by5gcOfJ1KXyA2LDK3j"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
         "name": "Sibelius: Songs",
         "url": "https://open.spotify.com/album/1t9yxMlQZM7nOYClXz7Aqs"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 108133,
       "name": "Segelfahrt (Under Sail)",
       "url": "https://open.spotify.com/track/71AD2BFesI6fQcHzhuaaWs"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
+        "name": "Sibelius/Grieg: String Quartets",
+        "url": "https://open.spotify.com/album/0Fy1swlKcvYXleEEXLy0js"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Guarneri Quartet",
+          "url": "https://open.spotify.com/artist/20w7d77cK8uJbgV8SDdaIS"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "String Quartet in D minor, Op. 56 \"Voces intimae\": 5. Allegro",
+      "url": "https://open.spotify.com/track/0I8by5gcOfJ1KXyA2LDK3j"
     },
     {
       "added_at": "2025-09-15 14:00:16",
@@ -711,26 +711,6 @@
     {
       "added_at": "2025-09-15 14:00:16",
       "album": {
-        "name": "Colin Davis conducts Sibelius",
-        "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Sir Colin Davis",
-          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
-        }
-      ],
-      "duration_ms": 477613,
-      "name": "Rakastava, Op. 14: Good Evening... Farewell!",
-      "url": "https://open.spotify.com/track/6xMJI052R1mlEFtT6ej2Va"
-    },
-    {
-      "added_at": "2025-09-15 14:00:16",
-      "album": {
         "name": "Grieg & Sibelius : Orchestral Songs",
         "url": "https://open.spotify.com/album/21FnafVuFwae4ciZcmf01t"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 314800,
       "name": "Sibelius: 5 Songs, Op. 38: No. 1, H\u00f6stkv\u00e4ll (Orchestral Version)",
       "url": "https://open.spotify.com/track/4yaGabbDEJ1f6i8qnyzoi0"
+    },
+    {
+      "added_at": "2025-09-15 14:00:16",
+      "album": {
+        "name": "Colin Davis conducts Sibelius",
+        "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+        }
+      ],
+      "duration_ms": 477613,
+      "name": "Rakastava, Op. 14: Good Evening... Farewell!",
+      "url": "https://open.spotify.com/track/6xMJI052R1mlEFtT6ej2Va"
     },
     {
       "added_at": "2025-09-15 14:00:16",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Chily
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,009,691 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,009,806 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 35 | [Wrong Places](https://open.spotify.com/track/5Ub2eXiU36Sn5yfCAPca5I) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Wrong Places](https://open.spotify.com/album/43gw4TBIji6NCNs6F8W6NJ) | 2:57 |
 | 36 | [BADMAN GANGSTA](https://open.spotify.com/track/0FU7ERQTOECwmEIaWDgdIG) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BADMAN GANGSTA](https://open.spotify.com/album/2SbCA6xhQQ2cvE5yylnl01) | 2:23 |
 | 37 | [Miami](https://open.spotify.com/track/4nBfq4hPT6U8Qs4gAx0mv8) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Unlock](https://open.spotify.com/album/32AdtNsHkF7EOKUdXZrlla) | 2:44 |
-| 38 | [wumela](https://open.spotify.com/track/4bUrxRSAlJJpBEw3A9WCJn) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [wumela](https://open.spotify.com/album/6aQTkUGu5FHK7kX1H0GyhZ) | 3:54 |
+| 38 | [mieux en mieux](https://open.spotify.com/track/296ihu9ccdjOhiE2igeHjZ) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [mieux en mieux](https://open.spotify.com/album/2O4x7UD7LHPIys6mlCJQqp) | 2:46 |
 | 39 | [Touch me \(feat\. Ya Levis\)](https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:39 |
 | 40 | [Désarmer](https://open.spotify.com/track/3Sk2eNbuIke4QGkP8bjAVC) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Désarmer](https://open.spotify.com/album/6OZlA4Xv52ah7v17rY3Kus) | 2:38 |
 | 41 | [Ordinary Things](https://open.spotify.com/track/6k0SRtfpOvDqjplj5YF8XO) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 3:04 |
-| 42 | [mieux en mieux](https://open.spotify.com/track/296ihu9ccdjOhiE2igeHjZ) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [mieux en mieux](https://open.spotify.com/album/2O4x7UD7LHPIys6mlCJQqp) | 2:46 |
+| 42 | [BOUNCE AFRICA](https://open.spotify.com/track/0LhtFvcXXkJSMVWUhbSS3Y) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [LES DENTS DU BONHEUR](https://open.spotify.com/album/4jvY8C0lsRWtbxtOEOtU00) | 2:19 |
 | 43 | [DYNAMITE](https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [WWP](https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q) | 2:57 |
-| 44 | [BOUNCE AFRICA](https://open.spotify.com/track/0LhtFvcXXkJSMVWUhbSS3Y) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [LES DENTS DU BONHEUR](https://open.spotify.com/album/4jvY8C0lsRWtbxtOEOtU00) | 2:19 |
+| 44 | [wumela](https://open.spotify.com/track/4bUrxRSAlJJpBEw3A9WCJn) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [wumela](https://open.spotify.com/album/6aQTkUGu5FHK7kX1H0GyhZ) | 3:54 |
 | 45 | [FUN](https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [FUN](https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ) | 3:08 |
 | 46 | [Analyser](https://open.spotify.com/track/5zHjAtkKtN3HUhIxXaQrbq) | [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Analyser](https://open.spotify.com/album/0ErJ4NbacpQWefi5nubFUD) | 3:01 |
 | 47 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [HIM \(feat\. Gunna\)](https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HIM](https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV) | 3:22 |
 | 50 | [EASY WITH ME](https://open.spotify.com/track/3gvi43dx7YWnQX0Tb5T2NV) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EASY WITH ME](https://open.spotify.com/album/2GNIedD3ftWWWBdG7i3ftM) | 3:37 |
 
-Snapshot ID: `AAAAAIDE/nfYHsyjavn3B5NPB1i06QQR`
+Snapshot ID: `AAAAACf7cYo2MLAMWjCA4eKtfWeQFHRc`

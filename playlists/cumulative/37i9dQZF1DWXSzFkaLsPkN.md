@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- Shrinidhi Ghatate
 
-307 songs - 16 hr 52 min
+308 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Aise Ho Tum](https://open.spotify.com/track/4wgDpX6DPzCjsAX6XK5KV0) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Aise Ho Tum](https://open.spotify.com/album/5YXNlo7YoApvoyvLDBETlA) | 4:12 | 2023-05-02 | 2024-06-19 |
 | [Aisi Raaton](https://open.spotify.com/track/0RSGPiykniIg8m7JhiAVv7) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L) | [Aisi Raaton](https://open.spotify.com/album/1m45OoirgSzgEF5sLT8i2R) | 3:38 | 2023-05-02 | 2025-09-17 |
 | [Alfaazo](https://open.spotify.com/track/6KvXpACADAz73IPrCgXobL) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Alfaazo](https://open.spotify.com/album/6xy5HvqMaDhB1EGlqE5iju) | 2:38 | 2023-05-02 |  |
+| [Aur Kya Chahiye](https://open.spotify.com/track/6BudRkYZ0VxGnKJbmBVEq3) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN) | [Aur Kya Chahiye](https://open.spotify.com/album/5ajvlIWZj5aHiZhSuQLXNe) | 3:53 | 2025-12-10 |  |
 | [Awaara Ho](https://open.spotify.com/track/1wYzvT6Ek0rJSyVu848CzN) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Awaara Ho](https://open.spotify.com/album/5S42rvQq7Ix5LvUZNCu1Qu) | 3:29 | 2023-05-02 | 2025-07-26 |
 | [Baaraat](https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Baaraat](https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn) | 3:42 | 2023-05-02 | 2024-04-19 |
 | [Baarish Mein Phir](https://open.spotify.com/track/3PbjRHCyZmK84h0qMMIRPw) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Baarish Mein Phir](https://open.spotify.com/album/1Gayp4bOKWoJOc9wbGtEwv) | 2:56 | 2025-12-05 |  |
@@ -119,7 +120,7 @@
 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 | 2023-05-02 |  |
 | [Jee Le](https://open.spotify.com/track/1lnqjp37JJOHsrjCCJ3UJy) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Khud Ko Miloon](https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29) | 3:33 | 2025-09-18 | 2025-10-15 |
 | [Jhoom Jhoom](https://open.spotify.com/track/0rdoFMxuzx24AsnvfHjBEx) | [Priyakshi Pachani](https://open.spotify.com/artist/5Mm8IaGkfrjF4ZF6eIjj1P), [Ayesha Mukherjee](https://open.spotify.com/artist/6UmnySzyIpaZjAu6Rs5lA0), [Arnab Bashistha](https://open.spotify.com/artist/0nLfD8OW4b380nSxUKB12t) | [Jhoom Jhoom](https://open.spotify.com/album/1DNtCbU6N2lKue5fNTqbQT) | 3:15 | 2025-06-24 | 2025-08-06 |
-| [Ji Huzoor](https://open.spotify.com/track/39ggRcAkMFo9V1dFDVFBNr) | [Sparsh Shrivastava](https://open.spotify.com/artist/1y8VAILCAHObUlajKTm2mv) | [Ji Huzoor](https://open.spotify.com/album/3PFgdRRFP4QjH7LX7XrUah) | 2:46 | 2025-05-13 |  |
+| [Ji Huzoor](https://open.spotify.com/track/39ggRcAkMFo9V1dFDVFBNr) | [Sparsh Shrivastava](https://open.spotify.com/artist/1y8VAILCAHObUlajKTm2mv) | [Ji Huzoor](https://open.spotify.com/album/3PFgdRRFP4QjH7LX7XrUah) | 2:46 | 2025-05-13 | 2025-12-11 |
 | [Jogan](https://open.spotify.com/track/0Szj0LBTvfXmxgIXFGqg4H) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Devashri Manohar](https://open.spotify.com/artist/3RZPXSfPo0Fqr18tVXeuW1) | [Jogan / Preet](https://open.spotify.com/album/7wLuY53xqzFDf52LvxW4qS) | 2:38 | 2023-12-15 | 2024-01-25 |
 | [Jogiya](https://open.spotify.com/track/7MU4WVkk08iWn61vLxGU9C) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Chandreyee Bhattacharya](https://open.spotify.com/artist/3mH3uFlFhSCBJ9iJRrTtxy), [Nilanjan Samadder](https://open.spotify.com/artist/534gzAUm9B9d5jFkWR0y4A) | [Jogiya](https://open.spotify.com/album/3HDp3VjwowVEIkWkVpP15W) | 3:16 | 2023-10-11 | 2023-11-07 |
 | [Kaahe](https://open.spotify.com/track/2gHbnFPYYswMfT5nu1UPnr) | [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [BLUK](https://open.spotify.com/artist/5VwEh2dfVTTVtQ0Q3C1e4r), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Kaahe](https://open.spotify.com/album/26gTNAxkAQpM0gO6r8Jnf0) | 2:33 | 2024-07-26 | 2024-11-08 |

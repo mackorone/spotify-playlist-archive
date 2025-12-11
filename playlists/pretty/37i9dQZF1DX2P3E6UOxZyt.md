@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 精選 2025 年度最受歡迎 RADAR 新勢力歌手及最受歡迎作品全出列！Cover: 王ADEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,577 likes - 36 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,581 likes - 36 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 35 | [還是我已學壞 Good Girl Gone](https://open.spotify.com/track/5BM7ZHUn11XoawA5kH2gD5) | [Eileen Yo游宇潼](https://open.spotify.com/artist/4L2NMVuHynGLY9FXlQbogX) | [楚門 Dream Sober](https://open.spotify.com/album/7vxlr1fQ9xfkx5tkVuquNo) | 3:49 |
 | 36 | [Went Blurry](https://open.spotify.com/track/62oSWLXBHWTBhwiDZURQLm) | [PPlin 林芃逸](https://open.spotify.com/artist/6w4UFdB9juoTUzWhBJeOlw) | [林](https://open.spotify.com/album/6rkMnXR21pzpwIlqa27uUV) | 2:46 |
 
-Snapshot ID: `AAAAAJKptLBXvqUurKw5+3ZeE4S2AM2O`
+Snapshot ID: `AAAAACRFs9VNKtpxvBCAbZLhuDrURnJF`

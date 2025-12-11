@@ -1,6 +1,6 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 120974,
+  "num_followers": 120990,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Signals",
-        "url": "https://open.spotify.com/album/2bpCpF6l5TSdiK6tvlDTp8"
-      },
-      "artists": [
-        {
-          "name": "The Echelon Effect",
-          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
-        }
-      ],
-      "duration_ms": 160465,
-      "name": "Goodbye Sierra",
-      "url": "https://open.spotify.com/track/6wpJHhMHSvyiPlnSpdNPSA"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Vespertine",
         "url": "https://open.spotify.com/album/5oImgyFgLAwsfkWKu5EWE5"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 350228,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/63AXbG0B9D4g0ZHzfu4jLn"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/2bpCpF6l5TSdiK6tvlDTp8"
+      },
+      "artists": [
+        {
+          "name": "The Echelon Effect",
+          "url": "https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2"
+        }
+      ],
+      "duration_ms": 160465,
+      "name": "Goodbye Sierra",
+      "url": "https://open.spotify.com/track/6wpJHhMHSvyiPlnSpdNPSA"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -443,26 +443,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Healing Is A Miracle",
-        "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
-      },
-      "artists": [
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        },
-        {
-          "name": "J\u00f3nsi",
-          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
-        }
-      ],
-      "duration_ms": 366290,
-      "name": "In Light",
-      "url": "https://open.spotify.com/track/3de74WrhYh5VKf6t86acCb"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "41 Longfield Street Late \u201880s",
         "url": "https://open.spotify.com/album/481bf9qdap2XkqmAxdVVZG"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 474353,
       "name": "Secret City",
       "url": "https://open.spotify.com/track/5oz5y1prGxpPfEZOugHP5C"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Healing Is A Miracle",
+        "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        },
+        {
+          "name": "J\u00f3nsi",
+          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+        }
+      ],
+      "duration_ms": 366290,
+      "name": "In Light",
+      "url": "https://open.spotify.com/track/3de74WrhYh5VKf6t86acCb"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "These Small Spaces",
-        "url": "https://open.spotify.com/album/7ACcoSiFkGjT3TlntaogzB"
-      },
-      "artists": [
-        {
-          "name": "This Patch of Sky",
-          "url": "https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf"
-        }
-      ],
-      "duration_ms": 419333,
-      "name": "Her Beating Wings",
-      "url": "https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Migration",
         "url": "https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "nothing is real, part XI",
-        "url": "https://open.spotify.com/album/09Z8BtKPBmpHhKoLzwCWvD"
+        "name": "These Small Spaces",
+        "url": "https://open.spotify.com/album/7ACcoSiFkGjT3TlntaogzB"
       },
       "artists": [
         {
-          "name": "my head is empty",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+          "name": "This Patch of Sky",
+          "url": "https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf"
         }
       ],
-      "duration_ms": 187406,
-      "name": "i meet myself, again",
-      "url": "https://open.spotify.com/track/5OBR6IOU4nsn35cK6HThVr"
+      "duration_ms": 419333,
+      "name": "Her Beating Wings",
+      "url": "https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -739,6 +723,22 @@
       "duration_ms": 209115,
       "name": "Release",
       "url": "https://open.spotify.com/track/1UmB2g2Ibz7E7OltVQuJcq"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "nothing is real, part XI",
+        "url": "https://open.spotify.com/album/09Z8BtKPBmpHhKoLzwCWvD"
+      },
+      "artists": [
+        {
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+        }
+      ],
+      "duration_ms": 187406,
+      "name": "i meet myself, again",
+      "url": "https://open.spotify.com/track/5OBR6IOU4nsn35cK6HThVr"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
+        "name": "Love in the Void",
+        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "duration_ms": 392374,
+      "name": "I Would Stare into the Sun with You Forever",
+      "url": "https://open.spotify.com/track/4KS0VLY87D2eHBhuvYoUDc"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
         "name": "Farewell, Stars (The American Dollar Rework)",
         "url": "https://open.spotify.com/album/7MNXIkzZJo7oNOezVyDTXW"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 228973,
       "name": "Farewell, Stars - The American Dollar Rework",
       "url": "https://open.spotify.com/track/7oEKxSpVRJo4SgBMl6DAhR"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
-        "name": "Love in the Void",
-        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
-      },
-      "artists": [
-        {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
-        }
-      ],
-      "duration_ms": 392374,
-      "name": "I Would Stare into the Sun with You Forever",
-      "url": "https://open.spotify.com/track/4KS0VLY87D2eHBhuvYoUDc"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -863,18 +863,18 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Volcan",
-        "url": "https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW"
+        "name": "Mockingbird Love",
+        "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
       },
       "artists": [
         {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
         }
       ],
-      "duration_ms": 284000,
-      "name": "Deliveries",
-      "url": "https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3"
+      "duration_ms": 173853,
+      "name": "My Courtesan",
+      "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -895,18 +895,18 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Mockingbird Love",
-        "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
+        "name": "Volcan",
+        "url": "https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW"
       },
       "artists": [
         {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
         }
       ],
-      "duration_ms": 173853,
-      "name": "My Courtesan",
-      "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
+      "duration_ms": 284000,
+      "name": "Deliveries",
+      "url": "https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -943,38 +943,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "I Dreamt Our Whole City Burned",
-        "url": "https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN"
-      },
-      "artists": [
-        {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
-        }
-      ],
-      "duration_ms": 284076,
-      "name": "I Dreamt Our Whole City Burned",
-      "url": "https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
-        "name": "frau eva",
-        "url": "https://open.spotify.com/album/4pMLMMQS9M3gjcvShhgKqj"
-      },
-      "artists": [
-        {
-          "name": "Mieke",
-          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
-        }
-      ],
-      "duration_ms": 345994,
-      "name": "nuclear",
-      "url": "https://open.spotify.com/track/6Ac9CNl0phKklRp2BFZUmY"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "Love is a Shelter",
         "url": "https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX"
       },
@@ -995,18 +963,34 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Lakeshore",
-        "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
+        "name": "frau eva",
+        "url": "https://open.spotify.com/album/4pMLMMQS9M3gjcvShhgKqj"
       },
       "artists": [
         {
-          "name": "Lost Horse Mine",
-          "url": "https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV"
+          "name": "Mieke",
+          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
         }
       ],
-      "duration_ms": 164589,
-      "name": "Lakeshore",
-      "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
+      "duration_ms": 345994,
+      "name": "nuclear",
+      "url": "https://open.spotify.com/track/6Ac9CNl0phKklRp2BFZUmY"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "I Dreamt Our Whole City Burned",
+        "url": "https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN"
+      },
+      "artists": [
+        {
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+        }
+      ],
+      "duration_ms": 284076,
+      "name": "I Dreamt Our Whole City Burned",
+      "url": "https://open.spotify.com/track/5F1VGx7gOrhdhet8rTehZ6"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1023,6 +1007,22 @@
       "duration_ms": 226760,
       "name": "Enfold",
       "url": "https://open.spotify.com/track/28NPBeo0MgVDYCJnu2C5Hq"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Lakeshore",
+        "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
+      },
+      "artists": [
+        {
+          "name": "Lost Horse Mine",
+          "url": "https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV"
+        }
+      ],
+      "duration_ms": 164589,
+      "name": "Lakeshore",
+      "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
+        "name": "kissing maggots",
+        "url": "https://open.spotify.com/album/1Nc0BTwUDnr8OfzRTxkdYe"
+      },
+      "artists": [
+        {
+          "name": "Mieke",
+          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
+        }
+      ],
+      "duration_ms": 230157,
+      "name": "kissing maggots",
+      "url": "https://open.spotify.com/track/7Lsj6QFCZsqoiutAoSxP8H"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
         "name": "Reflection",
         "url": "https://open.spotify.com/album/3NHWpKIN1ykhWepSyzBglP"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 152260,
       "name": "Les Amourettes",
       "url": "https://open.spotify.com/track/6eOmK8yn18IqGAHrNpXf9b"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
-        "name": "kissing maggots",
-        "url": "https://open.spotify.com/album/1Nc0BTwUDnr8OfzRTxkdYe"
-      },
-      "artists": [
-        {
-          "name": "Mieke",
-          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
-        }
-      ],
-      "duration_ms": 230157,
-      "name": "kissing maggots",
-      "url": "https://open.spotify.com/track/7Lsj6QFCZsqoiutAoSxP8H"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "Massive",
-        "url": "https://open.spotify.com/album/1GgwPjS8K4SXSM1ysW86WB"
-      },
-      "artists": [
-        {
-          "name": "Moseqar",
-          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
-        }
-      ],
-      "duration_ms": 240461,
-      "name": "Massive",
-      "url": "https://open.spotify.com/track/1aNNaa21QtAjw8V8LBNI7h"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "A Dream to Call My Own (feat. Janell Rosa)",
         "url": "https://open.spotify.com/album/2VX4sX25BcOUOY7sofYgaq"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 229186,
       "name": "A Dream to Call My Own (feat. Janell Rosa)",
       "url": "https://open.spotify.com/track/1QRbOx5X5oCNla0mfHJOH3"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "Massive",
+        "url": "https://open.spotify.com/album/1GgwPjS8K4SXSM1ysW86WB"
+      },
+      "artists": [
+        {
+          "name": "Moseqar",
+          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
+        }
+      ],
+      "duration_ms": 240461,
+      "name": "Massive",
+      "url": "https://open.spotify.com/track/1aNNaa21QtAjw8V8LBNI7h"
     },
     {
       "added_at": "2025-09-25 12:08:17",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-09-25 12:08:17",
       "album": {
-        "name": "As She Bends Towards the Sun",
-        "url": "https://open.spotify.com/album/0QAn5hfWiRk6VqAAmp8sF7"
-      },
-      "artists": [
-        {
-          "name": "Teoay",
-          "url": "https://open.spotify.com/artist/34Zt4C6Z2S3i6VLuc1ErV1"
-        }
-      ],
-      "duration_ms": 287388,
-      "name": "As She Bends Towards the Sun",
-      "url": "https://open.spotify.com/track/4cOjEjKJjIefvdz66ejMOc"
-    },
-    {
-      "added_at": "2025-09-25 12:08:17",
-      "album": {
         "name": "endless, somewhere",
         "url": "https://open.spotify.com/album/5p6OGDLBZksOVhgqUCFuLK"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 216000,
       "name": "endless, somewhere",
       "url": "https://open.spotify.com/track/3AtSW2JF4TQXjCJNxb5hpu"
+    },
+    {
+      "added_at": "2025-09-25 12:08:17",
+      "album": {
+        "name": "As She Bends Towards the Sun",
+        "url": "https://open.spotify.com/album/0QAn5hfWiRk6VqAAmp8sF7"
+      },
+      "artists": [
+        {
+          "name": "Teoay",
+          "url": "https://open.spotify.com/artist/34Zt4C6Z2S3i6VLuc1ErV1"
+        }
+      ],
+      "duration_ms": 287388,
+      "name": "As She Bends Towards the Sun",
+      "url": "https://open.spotify.com/track/4cOjEjKJjIefvdz66ejMOc"
     },
     {
       "added_at": "2025-09-25 12:08:17",

@@ -1,12 +1,12 @@
 {
   "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
-  "num_followers": 3230,
+  "num_followers": 3229,
   "original_name": "This Is Vanessa Zamora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAAajLT3xfGuVvBFJpd2LGx9",
+  "snapshot_id": "aTdmgAAAAAACZwIQa5oDdP1U+x0AFDCi",
   "tracks": [
     {
       "added_at": null,
@@ -415,42 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta la Fantas\u00eda",
-        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 189760,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/4uCHHK49lwYfn0qWTWtWDs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DAMALEONA",
-        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "DAMALEONA",
-          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
-        }
-      ],
-      "duration_ms": 205576,
-      "name": "CONTRACORRIENTE",
-      "url": "https://open.spotify.com/track/1hxyGrsOZYyJM2NvwtDDIE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nave Especial",
         "url": "https://open.spotify.com/album/60d7LXNCFHzJke9A1bZo2t"
       },
@@ -475,6 +439,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "DAMALEONA",
+        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "DAMALEONA",
+          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
+        }
+      ],
+      "duration_ms": 205576,
+      "name": "CONTRACORRIENTE",
+      "url": "https://open.spotify.com/track/1hxyGrsOZYyJM2NvwtDDIE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta la Fantas\u00eda",
+        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 189760,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/4uCHHK49lwYfn0qWTWtWDs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Encontr\u00e9",
         "url": "https://open.spotify.com/album/5ddBTNmz3PTFRRvW3mmcZJ"
       },
@@ -495,18 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Muchacho De Los Ojos Tristes",
-        "url": "https://open.spotify.com/album/3P2c9Akr55Z2L6BBKN5zZ8"
+        "name": "GRAVEDAD",
+        "url": "https://open.spotify.com/album/2yV4CHrPLbeYTB9U0jbrOB"
       },
       "artists": [
         {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
         }
       ],
-      "duration_ms": 265017,
-      "name": "El Muchacho De Los Ojos Tristes",
-      "url": "https://open.spotify.com/track/2xylHY11vfS4dxGmQC7J3i"
+      "duration_ms": 179586,
+      "name": "GRAVEDAD - feat. \u00c7antamarta",
+      "url": "https://open.spotify.com/track/3g1ag6GtD3ntvNWfw0ub04"
     },
     {
       "added_at": null,
@@ -531,22 +535,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRAVEDAD",
-        "url": "https://open.spotify.com/album/2yV4CHrPLbeYTB9U0jbrOB"
+        "name": "El Muchacho De Los Ojos Tristes",
+        "url": "https://open.spotify.com/album/3P2c9Akr55Z2L6BBKN5zZ8"
       },
       "artists": [
         {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "\u00c7antamarta",
-          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
         }
       ],
-      "duration_ms": 179586,
-      "name": "GRAVEDAD - feat. \u00c7antamarta",
-      "url": "https://open.spotify.com/track/3g1ag6GtD3ntvNWfw0ub04"
+      "duration_ms": 265017,
+      "name": "El Muchacho De Los Ojos Tristes",
+      "url": "https://open.spotify.com/track/2xylHY11vfS4dxGmQC7J3i"
     },
     {
       "added_at": null,
@@ -663,38 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At Claustro de Sor Juana \u2014 Mexico City (Live Acoustic)",
-        "url": "https://open.spotify.com/album/7x4dshpPcTtYuEPJF2iRLN"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 239082,
-      "name": "Nada Se Perdi\u00f3 - Live Acoustic",
-      "url": "https://open.spotify.com/track/2INVWQtIkJ2099o9qJOMgU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "m\u00fasica para una pel\u00edcula que no existe",
-        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 90875,
-      "name": "caballos",
-      "url": "https://open.spotify.com/track/4nB5jUpHTAsUb3JTQWffTx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like Giants in The Sky (Le Tour Du Monde - Austin)",
         "url": "https://open.spotify.com/album/4wIgKW4bpkn3NU0YpBy2wX"
       },
@@ -723,6 +691,38 @@
       "duration_ms": 182849,
       "name": "Like Giants in The Sky - Le Tour Du Monde - Austin",
       "url": "https://open.spotify.com/track/60BflIegTdhXQrXjlpUdpd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "m\u00fasica para una pel\u00edcula que no existe",
+        "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 90875,
+      "name": "caballos",
+      "url": "https://open.spotify.com/track/4nB5jUpHTAsUb3JTQWffTx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live At Claustro de Sor Juana \u2014 Mexico City (Live Acoustic)",
+        "url": "https://open.spotify.com/album/7x4dshpPcTtYuEPJF2iRLN"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 239082,
+      "name": "Nada Se Perdi\u00f3 - Live Acoustic",
+      "url": "https://open.spotify.com/track/2INVWQtIkJ2099o9qJOMgU"
     },
     {
       "added_at": null,
@@ -803,22 +803,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caminando en Fuego",
-        "url": "https://open.spotify.com/album/7x9q5ua9T2N8JAcuDVoIoS"
+        "name": "Hasta la Fantas\u00eda",
+        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
       },
       "artists": [
-        {
-          "name": "Los Claxons",
-          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
-        },
         {
           "name": "Vanessa Zamora",
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 269601,
-      "name": "Fluir",
-      "url": "https://open.spotify.com/track/5ukDCQhC0fruXukPKRiXJm"
+      "duration_ms": 188687,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/6PGLPvCkSt4RIFVPd4HZ61"
     },
     {
       "added_at": null,
@@ -859,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta la Fantas\u00eda",
-        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 188687,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/6PGLPvCkSt4RIFVPd4HZ61"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memento",
         "url": "https://open.spotify.com/album/1cPTdgytERhvbR8eQYyjUT"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 130021,
       "name": "Te Choca Te Checa",
       "url": "https://open.spotify.com/track/2GaivpfWlIkneFGII8xwXA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Caminando en Fuego",
+        "url": "https://open.spotify.com/album/7x9q5ua9T2N8JAcuDVoIoS"
+      },
+      "artists": [
+        {
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 269601,
+      "name": "Fluir",
+      "url": "https://open.spotify.com/track/5ukDCQhC0fruXukPKRiXJm"
     }
   ],
   "unique_name": "This Is Vanessa Zamora",

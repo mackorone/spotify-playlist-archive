@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 
 > Indie folk that defined the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,500 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,542 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,20 +82,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 72 | [Abilene](https://open.spotify.com/track/3NJaTv311TiINuJpRa6UG7) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Where Shall You Take Me? \(Deluxe Reissue\)](https://open.spotify.com/album/5zkvaLpSAbwyu9XjHbpfzs) | 2:26 |
 | 73 | [Since You've Been Around](https://open.spotify.com/track/5SXvXwYx8xpYw0a4A7BKG7) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr) | [If Songs Could Be Held](https://open.spotify.com/album/5VjrAV4Cs0LIbHAI21DS5i) | 3:18 |
 | 74 | [The Orchids](https://open.spotify.com/track/3wgONxKYvwtH1fECL3D810) | [Califone](https://open.spotify.com/artist/3mv2eHwrIONSkviASDMRMa) | [Roots & Crowns](https://open.spotify.com/album/3Tvn8fHZjGCPX18ldQZ9BJ) | 2:55 |
-| 75 | [5 Years Time](https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Peaceful, The World Lays Me Down](https://open.spotify.com/album/4bzNinbJcnth182w03fSL2) | 3:34 |
-| 76 | [So Far Around the Bend](https://open.spotify.com/track/3VBgeexCnoYt5u1iGW7lSf) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Dark Was The Night \(Red Hot Compilation\)](https://open.spotify.com/album/1ZgPLRwQF58fsgciZl1PO4) | 3:42 |
+| 75 | [So Far Around the Bend](https://open.spotify.com/track/3VBgeexCnoYt5u1iGW7lSf) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Dark Was The Night \(Red Hot Compilation\)](https://open.spotify.com/album/1ZgPLRwQF58fsgciZl1PO4) | 3:42 |
+| 76 | [5 Years Time](https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Peaceful, The World Lays Me Down](https://open.spotify.com/album/4bzNinbJcnth182w03fSL2) | 3:34 |
 | 77 | [Lives Of Crime](https://open.spotify.com/track/4gRbjbr3ch96FgvojEjhCu) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Spelled In Bones](https://open.spotify.com/album/1H6hPwBGxlYLzNwCW9P2CP) | 3:53 |
 | 78 | [The Modern Leper](https://open.spotify.com/track/2xALofmnFyFRXwG7ncQLdv) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [The Midnight Organ Fight](https://open.spotify.com/album/0aEKqpGQL492khPyXtZiLC) | 3:50 |
-| 79 | [Let’s Dance](https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 5:00 |
-| 80 | [Thin Blue Flame](https://open.spotify.com/track/54CighVkEb2QiKBbus2ua9) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [The Animal Years](https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw) | 9:38 |
+| 79 | [Thin Blue Flame](https://open.spotify.com/track/54CighVkEb2QiKBbus2ua9) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [The Animal Years](https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw) | 9:38 |
+| 80 | [Let’s Dance](https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Transfiguration of Vincent](https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS) | 5:00 |
 | 81 | [Between Two Mysteries](https://open.spotify.com/track/1YyRRRrgFCCkVSBsQ3Pc0P) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [Wind's Poem](https://open.spotify.com/album/5GYhXZgCMiQFkck0RREyCJ) | 4:18 |
 | 82 | [The Best Ever Death Metal Band in Denton](https://open.spotify.com/track/4AtUqjDgRO2S3jBzAjRvh7) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K) | 2:36 |
 | 83 | [Painter in Your Pocket](https://open.spotify.com/track/2h2FLYLTGP3wKSbZAPrnes) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Destroyer's Rubies](https://open.spotify.com/album/1VTq7Bn60Qic2E9nMhZ0Ii) | 4:10 |
 | 84 | [I Was Only Going Out](https://open.spotify.com/track/0Xe1rsTfcVgPf9PJPLX3gA) | [Loney dear](https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph) | [Dear John](https://open.spotify.com/album/4vURCpWl7MDH9OrihML0c9) | 3:38 |
 | 85 | [Cold Discovery](https://open.spotify.com/track/7eP5OpMpDJaUz3DL1LPbDi) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Dongs Of Sevotion](https://open.spotify.com/album/7nmRFyTp3Ybj9QRNFxlT27) | 5:56 |
 | 86 | [A Stone](https://open.spotify.com/track/4QhtSV2TGKbX5SPM5Y6GJm) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [Black Sheep Boy & Appendix](https://open.spotify.com/album/6rYEC1BEkqfSQ6LpDzFoOm) | 5:23 |
-| 87 | [For Prayer](https://open.spotify.com/track/6Stq4ZHP1XJXbMAmTckQ3d) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [The Knot](https://open.spotify.com/album/14skaJogkbq0YBkQqMEahg) | 3:50 |
-| 88 | [Desert](https://open.spotify.com/track/3icR9JafZdxFmSat5EyZLs) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Ghost Of David](https://open.spotify.com/album/5sgHW8d88e5C3v1G1CKw7t) | 2:57 |
+| 87 | [Desert](https://open.spotify.com/track/3icR9JafZdxFmSat5EyZLs) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Ghost Of David](https://open.spotify.com/album/5sgHW8d88e5C3v1G1CKw7t) | 2:57 |
+| 88 | [For Prayer](https://open.spotify.com/track/6Stq4ZHP1XJXbMAmTckQ3d) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [The Knot](https://open.spotify.com/album/14skaJogkbq0YBkQqMEahg) | 3:50 |
 | 89 | [Saturday Waits](https://open.spotify.com/track/2pprnAsYv3qvelEO4DG1vX) | [Loney dear](https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph) | [Loney, Noir](https://open.spotify.com/album/1tJa3GN7NV5MT79PIVxDyq) | 3:39 |
 | 90 | [Red Sea, Black Sea](https://open.spotify.com/track/2ouxMZsKhP2P32Qge1HdAX) | [Shearwater](https://open.spotify.com/artist/0CoiIc6ZLBvF9Cjmb1Cj49) | [Palo Santo \(Expanded Edition\)](https://open.spotify.com/album/66u6ytOmJrm0APoya7mokt) | 3:09 |
 | 91 | [Cold and On My Mind](https://open.spotify.com/track/7KQ1WE9cUQcrUjorhP1hGK) | [Edith Frost](https://open.spotify.com/artist/3cmq7YmDFFy99rpgJipF2E) | [Shanti Project Collection 2](https://open.spotify.com/album/7CAuZdJ6sKPX4UUe6tHfCN) | 3:04 |

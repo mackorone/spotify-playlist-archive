@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,055 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,074 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 | 37 | [Hemel & Aarde](https://open.spotify.com/track/16kFUvzMPTUEcE4rQjT2n5) | [Edsilia Rombley](https://open.spotify.com/artist/1gdEZYmSkbreRam9wU3upg) | [Meer Dan Ooit](https://open.spotify.com/album/1CdfRQ9JgqHO19ERy3HkSr) | 3:01 |
 | 38 | [Woorden Zonder Woorden](https://open.spotify.com/track/63Ulbl3LNcl2ba5C7eTCzJ) | [De Kast](https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy) | [Noorderzon](https://open.spotify.com/album/3hgDxj0bkrbBH099Mq7Zzv) | 3:30 |
 | 39 | [De wedstrijd](https://open.spotify.com/track/5Dxa2mLRNttIlADdbUjY1e) | [Bram Vermeulen](https://open.spotify.com/artist/4ymKPNzHwzhCvJbOGWLviV) | [Voltooid Verleden Tijd](https://open.spotify.com/album/7qYL5WgJIzwEYCZszBG5vO) | 5:01 |
-| 40 | [Zo Ver Weg](https://open.spotify.com/track/0NdeYpnRgbzT30Inci6LZL) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [Vagant](https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA) | [Verbazing](https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ) | 3:34 |
-| 41 | [Blijf Bij Mij](https://open.spotify.com/track/46JficY43b896FGzy0cAKH) | [Volumia!](https://open.spotify.com/artist/1YajfeXETQGtYNQJkOMupS) | [Wakker](https://open.spotify.com/album/1pMpfVivqsNgsF5mR7Y0bG) | 3:29 |
+| 40 | [Blijf Bij Mij](https://open.spotify.com/track/46JficY43b896FGzy0cAKH) | [Volumia!](https://open.spotify.com/artist/1YajfeXETQGtYNQJkOMupS) | [Wakker](https://open.spotify.com/album/1pMpfVivqsNgsF5mR7Y0bG) | 3:29 |
+| 41 | [Zo Ver Weg](https://open.spotify.com/track/0NdeYpnRgbzT30Inci6LZL) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [Vagant](https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA) | [Verbazing](https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ) | 3:34 |
 | 42 | [Mooi Was Die Tijd](https://open.spotify.com/track/5IyD0833vUHAZG4w2TvsVq) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Hollands Glorie](https://open.spotify.com/album/31fhPugCfBmbpfjQx64Zd1) | 4:07 |
 | 43 | [De Zee](https://open.spotify.com/track/256gv8gWTVbEI1SIhC5YlO) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [The Essential Total Touch & Trijntje Oosterhuis](https://open.spotify.com/album/4q59SeuZwxLtIt4izAQ0i8) | 4:32 |
 | 44 | [Leun Op Mij](https://open.spotify.com/track/1AHSLMouCoEwrwNgQB92me) | [Ruth Jacott](https://open.spotify.com/artist/0NM27i2hSW1lbc7rYa5D6u) | [Alle 40 Goed](https://open.spotify.com/album/1ba5louPwSaXr0BBuHEjsc) | 3:57 |
@@ -64,18 +64,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 | 54 | [Laat Het Los](https://open.spotify.com/track/0oFXW0Mqbx4iIGnVKDRIBu) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Vier Weken](https://open.spotify.com/album/7H9PsA2EZCZE9c7HiV2T20) | 4:51 |
 | 55 | [Wat Zou Je Doen?](https://open.spotify.com/track/5iKaPg25J8rrEBHXsM8SLx) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 4:50 |
 | 56 | [Ome Jan](https://open.spotify.com/track/6UWOJvPjoFA4NoCbLw8wzI) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Hollandse Sterren Collectie](https://open.spotify.com/album/1FJhxTagODYnKjA4PJakmk) | 4:31 |
-| 57 | [Ik Wil Niet Dat Je Liegt](https://open.spotify.com/track/76ikfBK8uCzlSmhlYKQMLm) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [ParaCDmol](https://open.spotify.com/album/2zWo1Ql9eSAWxXxKqYU3yW) | 3:55 |
-| 58 | [Kleine Jongen](https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/0EsXBeEagSo9xrbKW17FBq) | 3:43 |
+| 57 | [Kleine Jongen](https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/0EsXBeEagSo9xrbKW17FBq) | 3:43 |
+| 58 | [Ik Wil Niet Dat Je Liegt](https://open.spotify.com/track/76ikfBK8uCzlSmhlYKQMLm) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [ParaCDmol](https://open.spotify.com/album/2zWo1Ql9eSAWxXxKqYU3yW) | 3:55 |
 | 59 | [Op Fietse](https://open.spotify.com/track/0C8H9i00fPS3fJkjQ2eTOF) | [Skik](https://open.spotify.com/artist/1ezIAAhRJCCU5C6gRWX4xc) | [Niks Is Zoas 't Lek](https://open.spotify.com/album/6NMjDUpZ4HlJpW4A6OZjWL) | 4:50 |
 | 60 | [Aan De Kust](https://open.spotify.com/track/7mvxl7tRdYZsJ9jxgIJrVa) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:33 |
 | 61 | [Ademnood](https://open.spotify.com/track/4MtbnO2jRAtFwMagTAYJwE) | [Linda Roos & Jessica](https://open.spotify.com/artist/6cMX0sjDf0CJQMI3lVY5Xc) | [Linda Roos & Jessica](https://open.spotify.com/album/15vMNA7eaNpwu3h8m3siCz) | 3:58 |
-| 62 | ['k Heb Je Lief](https://open.spotify.com/track/0lhD98JGwGzR16lJTERuO3) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [Lief](https://open.spotify.com/album/7DLAUjfxtg8iADMhPjGhbP) | 4:44 |
-| 63 | [Oude Maasweg](https://open.spotify.com/track/0rY0wiJbmpy42X0EUtgkd6) | [The Amazing Stroopwafels](https://open.spotify.com/artist/4j32y3UVJaypInH9lOKcZ4) | [Badmuts Verplicht](https://open.spotify.com/album/3hiFSfbf6VOf0EfTEUvhem) | 3:25 |
+| 62 | [Oude Maasweg](https://open.spotify.com/track/0rY0wiJbmpy42X0EUtgkd6) | [The Amazing Stroopwafels](https://open.spotify.com/artist/4j32y3UVJaypInH9lOKcZ4) | [Badmuts Verplicht](https://open.spotify.com/album/3hiFSfbf6VOf0EfTEUvhem) | 3:25 |
+| 63 | ['k Heb Je Lief](https://open.spotify.com/track/0lhD98JGwGzR16lJTERuO3) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [Lief](https://open.spotify.com/album/7DLAUjfxtg8iADMhPjGhbP) | 4:44 |
 | 64 | [Zelfs Je Naam Is Mooi](https://open.spotify.com/track/0BGiXFcfWNE1ZOJYwtbWbX) | [Henk Westbroek](https://open.spotify.com/artist/178yD2iAVWr5qYldTaWBA2) | [Het Beste Uit De Q Music Top 500 Van Het Foute Uur](https://open.spotify.com/album/2EbhHZgmdy362RoEAE3Rbt) | 4:28 |
 | 65 | [Banger Hart \- Radio Mix](https://open.spotify.com/track/7wXI1Z6evrwG5ujxmeo57c) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K), [Ellert Driessen](https://open.spotify.com/artist/7qd0FFy6IEMv634lendv01) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:21 |
 | 66 | [Liefdesliedjes](https://open.spotify.com/track/0wD43UCEku61GIZB89O0vP) | [De Jazzpolitie](https://open.spotify.com/artist/1nOTwY0FfKdXCBQiuQILbG) | [Liefdesliedjes](https://open.spotify.com/album/7CdAzPf0nk3FfsXGuZWiI7) | 4:44 |
-| 67 | [Vlieg Met Me Mee \- Live](https://open.spotify.com/track/46SS7vgm5bQ9wBfu1o5LjC) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [Van U Wil Ik Zingen](https://open.spotify.com/album/5tIHLBGIpPwvSmjLvZWqfo) | 5:11 |
-| 68 | [Geen Kind Meer](https://open.spotify.com/track/4ZMBna8ky5JR1gocyYCiML) | [Karin Bloemen](https://open.spotify.com/artist/7CKdAdmSeZxUgSZqugSkKx) | [Kameleon](https://open.spotify.com/album/7bEv36tsd3IBSvP4TJRDpA) | 4:23 |
+| 67 | [Geen Kind Meer](https://open.spotify.com/track/4ZMBna8ky5JR1gocyYCiML) | [Karin Bloemen](https://open.spotify.com/artist/7CKdAdmSeZxUgSZqugSkKx) | [Kameleon](https://open.spotify.com/album/7bEv36tsd3IBSvP4TJRDpA) | 4:23 |
+| 68 | [Vlieg Met Me Mee \- Live](https://open.spotify.com/track/46SS7vgm5bQ9wBfu1o5LjC) | [Paul de Leeuw](https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT) | [Van U Wil Ik Zingen](https://open.spotify.com/album/5tIHLBGIpPwvSmjLvZWqfo) | 5:11 |
 | 69 | [V.V.T.](https://open.spotify.com/track/32PR7yBDk99gKE1ihEcKQB) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Hemel & Aarde](https://open.spotify.com/album/0Jgb5SBxUJOPRRL0H6SNMz) | 4:54 |
 | 70 | [Daar Gaat Ze](https://open.spotify.com/track/7kMPC3vgXk3o9xUP3GWAJ0) | [Clouseau](https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts) | [Clouseau30](https://open.spotify.com/album/5jy4Ndvb4aJcbt9Cy8LDFJ) | 3:47 |
 

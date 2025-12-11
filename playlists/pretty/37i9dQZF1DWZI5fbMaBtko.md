@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZI5fbMaBtko.md) - [plain]
 
 > Our editors' picks for the best reggaeton songs of the year! \#SpotifyWrapped Cover: Katteyes, Jere Klein, Lucky Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,689 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,787 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZI5fbMaBtko.md) - [plain]
 | 49 | [Chaparrita](https://open.spotify.com/track/7cxxLMhV6XyM3pOHXZig22) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M) | [Chaparrita](https://open.spotify.com/album/2MkMRB6c583f0eINaVLXHL) | 2:38 |
 | 50 | [MONSTRUO](https://open.spotify.com/track/2ToF4unFUMMKGfu7KYhy1j) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MONSTRUO](https://open.spotify.com/album/1zCc2EaQzif2IzspBCpwuG) | 3:33 |
 
-Snapshot ID: `AAAAANiD2N4OU5I5hn13f0LkdWatWklB`
+Snapshot ID: `AAAAAJZoizTWnONdCmWdY+JaklyaO9s0`

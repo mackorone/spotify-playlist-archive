@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-715 songs - 1 day 6 hr 57 min
+716 songs - 1 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Beat Brunch](https://open.spotify.com/track/2Xy4Cl8PGYRRzIBniRrVra) | [Bipeula](https://open.spotify.com/artist/5Kcv07Jj6RthywQndqvfh2), [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv) | [Beat Brunch](https://open.spotify.com/album/2HnId5ukRSiZ4AoKlgPfWX) | 2:13 | 2024-08-23 | 2025-09-13 |
 | [Beaujolais](https://open.spotify.com/track/7Gkd6kMDczipeBRu795NhH) | [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu), [Paxkalito](https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f), [PBdR](https://open.spotify.com/artist/2f4COA6IKZu722NBWix5od) | [Beaujolais](https://open.spotify.com/album/7Lwsyj1DmE5JYuuzNjX3fZ) | 2:18 | 2024-11-29 |  |
 | [Bebop](https://open.spotify.com/track/563RQEdL2To3aMcsFkvoBr) | [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Bebop](https://open.spotify.com/album/1WwiH2u1PxiFAzFAgDj5zY) | 2:06 | 2025-06-13 | 2025-09-13 |
-| [Behind The Moon](https://open.spotify.com/track/1WZNNiA67dO5mAUTWh1NWI) | [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lemon Kids](https://open.spotify.com/artist/5AUN0NmzPlINdLMmzCjvI6) | [Behind The Moon](https://open.spotify.com/album/3VxL9r8XIrHEvz4onMCKxk) | 2:05 | 2025-01-10 |  |
+| [Behind The Moon](https://open.spotify.com/track/1WZNNiA67dO5mAUTWh1NWI) | [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Lemon Kids](https://open.spotify.com/artist/5AUN0NmzPlINdLMmzCjvI6) | [Behind The Moon](https://open.spotify.com/album/3VxL9r8XIrHEvz4onMCKxk) | 2:05 | 2025-01-10 | 2025-12-11 |
 | [BEING LOST \- Instrumental](https://open.spotify.com/track/7lq2ulYIlMEdj0z8dbV37q) | [New Fossils](https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm) | [Ecosphere B\-Sides](https://open.spotify.com/album/6TVeU2jaiqlXeNmJoAXlEw) | 3:43 | 2025-06-13 | 2025-07-05 |
 | [Bella Vista](https://open.spotify.com/track/2UrJHvGEOXDMY8jHgzGkwU) | [Unwind Project](https://open.spotify.com/artist/1pKbeFgKBZ7fk5UVIxo6mf), [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [aronsmith](https://open.spotify.com/artist/009g6snuAvcjh2QJHcmQCu), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX) | [Bella Vista](https://open.spotify.com/album/3CTkvlYkHej43Ha301QEQ5) | 2:30 | 2024-09-13 | 2025-05-10 |
 | [Best Time](https://open.spotify.com/track/3pZNpqJSgC6fKGk1Q7E9za) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Best Time](https://open.spotify.com/album/5zhTTfKgc60Gv2W04vTGjc) | 2:32 | 2023-12-20 | 2025-04-12 |
@@ -374,6 +374,7 @@
 | [Midnight Blue](https://open.spotify.com/track/3pKMgBB1ekswonKouOA9Vq) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Midnight Blue](https://open.spotify.com/album/5ideol9Vlwaj7p8g0H31za) | 2:01 | 2025-06-06 | 2025-07-31 |
 | [Midnight Groove](https://open.spotify.com/track/4C4o9gN2yrifR5k7FIsDze) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I) | [Storytelling](https://open.spotify.com/album/08Y9RaMwqw9G2kv9xW7NZU) | 2:00 | 2024-09-06 | 2025-09-13 |
 | [Midnight Tokyo](https://open.spotify.com/track/1NkMK6oNQXBtfyz6T2zRrJ) | [Dreamlike Studio](https://open.spotify.com/artist/3VlRT5debonTpgMwGxtLtF) | [Midnight Tokyo](https://open.spotify.com/album/1vIQMLWca2bhhBYnyDq2b0) | 2:09 | 2023-08-22 | 2025-04-12 |
+| [Midwinter](https://open.spotify.com/track/54HrOr8kE2HJZb1af5qBuD) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Midwinter](https://open.spotify.com/album/1xt4asJhgJkJrHP3DAELoz) | 2:09 | 2025-12-05 |  |
 | [Milan](https://open.spotify.com/track/6xPcweC9D2b71oNuDKHaGX) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Milan](https://open.spotify.com/album/1ArWhIgs9AndfjneCPIPJj) | 1:52 | 2024-10-11 | 2025-09-06 |
 | [Milky Way](https://open.spotify.com/track/7zY3iKICuyYyIYTcclrM9N) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Milky Way](https://open.spotify.com/album/1QgZrwiERIJs7TeRXHzxz4) | 2:28 | 2025-09-12 |  |
 | [Minding My Business](https://open.spotify.com/track/3NaH4hu4TzPWn2C6NFNL4q) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [Realm of Ideas](https://open.spotify.com/album/4pVmtV0zKvpv0yhneUtdj1) | 3:45 | 2023-08-22 | 2025-03-25 |

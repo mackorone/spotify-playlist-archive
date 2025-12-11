@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Leozin
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,238 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,232 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [PIRÂMIDE](https://open.spotify.com/track/0Ncw19NyVuxNsKaQmUnNg6) | [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4) | [CHTC?](https://open.spotify.com/album/1vEV2f6XN0j4hhDHIXf5I4) | 2:38 |
 | 75 | [Festa Particular](https://open.spotify.com/track/2ji2piqR8ffzgD7th4CaqO) | [2B](https://open.spotify.com/artist/3KpCpmkK2irJKgRDagnieE), [Real BLK](https://open.spotify.com/artist/0dkMPGEi7HnzhVcJGrvhDY) | [Festa Particular](https://open.spotify.com/album/0tisB2xjTIxkvm0CteyIw9) | 2:08 |
 
-Snapshot ID: `AAAAAF9nVqxkB2obKnwIZ9JvqNzODKFu`
+Snapshot ID: `AAAAAOXDK0GyfnqL+E0WaIdV+7jSPuay`

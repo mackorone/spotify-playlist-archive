@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 
 > Don’t Sweat It!
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,052 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,042 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,12 +94,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 84 | [Again & Again](https://open.spotify.com/track/7aHluiddcgODmeZ2rW6dju) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA) | [Gift \(Explicit Version\)](https://open.spotify.com/album/6vPDxNI1I3FFSMmc7MLoDT) | 3:58 |
 | 85 | [Black Flame \- Single Edit](https://open.spotify.com/track/6REc2Tq4G2RW5zKXtusTLF) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Black Flame](https://open.spotify.com/album/3wTcqfTsKuDvDdbKYPTE2I) | 3:53 |
 | 86 | [Keep It In The Family](https://open.spotify.com/track/6S3oeZ5RKR8Tl9DTPAjGLt) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Persistence Of Time \(30th Anniversary Remaster\)](https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA) | 7:08 |
-| 87 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6eoXUi0mNXFd2yhqH1sxJK) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Venom](https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP) | 3:36 |
-| 88 | [Bye Bye Beautiful](https://open.spotify.com/track/6uwjUM0Y0NfPmLBKVAbUXW) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE) | 4:14 |
+| 87 | [Bye Bye Beautiful](https://open.spotify.com/track/6uwjUM0Y0NfPmLBKVAbUXW) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE) | 4:14 |
+| 88 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6eoXUi0mNXFd2yhqH1sxJK) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Venom](https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP) | 3:36 |
 | 89 | [The End of All We Know](https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [The End of All We Know](https://open.spotify.com/album/2OqIRPnTsoVKem3kLhP6pi) | 4:11 |
 | 90 | [Under and Over It](https://open.spotify.com/track/3CBoWhq9cd7WGQZ9EDQVnn) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Standard\)](https://open.spotify.com/album/18bHWmCOOKsAQSHdfFQ0WI) | 3:38 |
-| 91 | [Necessary Evil](https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Necessary Evil](https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV) | 2:56 |
-| 92 | [The Blood, the Sweat, the Tears](https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 4:11 |
+| 91 | [The Blood, the Sweat, the Tears](https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 4:11 |
+| 92 | [Necessary Evil](https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Necessary Evil](https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV) | 2:56 |
 | 93 | [Dante](https://open.spotify.com/track/6jjx1KvWK4OAzD0JimzHiY) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Dante](https://open.spotify.com/album/5BC58VTUf4aaoGVkjhtx9U) | 5:46 |
 | 94 | [backfire](https://open.spotify.com/track/2Tt5CzJzz53tVCicnDwh2a) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [backfire](https://open.spotify.com/album/2KqvKZtVLgLolUw2AMMWB6) | 2:00 |
 | 95 | [The Optimist \(feat\. Conquer Divide\)](https://open.spotify.com/track/00ihJcZ6PxA6OxDJmlbvGl) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph), [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Inner Darkness](https://open.spotify.com/album/2FgZ9LfQxQfUPGhHYtFTTG) | 2:58 |

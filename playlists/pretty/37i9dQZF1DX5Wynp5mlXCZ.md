@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: ONUKA & The Maneken
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,894 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,901 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 21 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 |
 | 22 | [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:57 |
 | 23 | [The Dead Dance](https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Dead Dance](https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6) | 3:48 |
-| 24 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 |
-| 25 | [i wish i knew how to quit you](https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:52 |
+| 24 | [i wish i knew how to quit you](https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:52 |
+| 25 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 |
 | 26 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 |
 | 27 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
 | 28 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 |
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 62 | [Earth \(Dradada\)](https://open.spotify.com/track/3waCGj1YKEYeaVs07lbWtX) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Earth \(Dradada\)](https://open.spotify.com/album/5xXILGfkz9CDVg2cV0V4me) | 3:29 |
 | 63 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 |
 | 64 | [Небесами](https://open.spotify.com/track/1sEXmH4Ch0o6p2EETkgErS) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Небесами](https://open.spotify.com/album/6fa4E3bm7kDmxKomRw0nyv) | 3:07 |
-| 65 | [Zombie Lady](https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:08 |
+| 65 | [Чай \- «Ховаючи колишню»](https://open.spotify.com/track/7EbBBVkxknlzRi20czbAws) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Чай \(«Ховаючи колишню»\)](https://open.spotify.com/album/3yHBRGlcTKvOkl0J9PC2SB) | 3:09 |
 | 66 | [FENOMENAL'](https://open.spotify.com/track/1b977NIX97rPhUrvt57udY) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [FENOMENAL'](https://open.spotify.com/album/5c6g5EqMjyhZYGDgVHGiSS) | 2:57 |
-| 67 | [Чай \- «Ховаючи колишню»](https://open.spotify.com/track/7EbBBVkxknlzRi20czbAws) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Чай \(«Ховаючи колишню»\)](https://open.spotify.com/album/3yHBRGlcTKvOkl0J9PC2SB) | 3:09 |
+| 67 | [Zombie Lady](https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:08 |
 | 68 | [Walk of Fame \(feat\. Brittany Howard\) \- Edit](https://open.spotify.com/track/22tmzHt5QJ2sMKJefaqkjn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Walk of Fame \(feat\. Brittany Howard\) \[Edit\]](https://open.spotify.com/album/1vnLbFcRPUR6q9vkFuJY26) | 3:37 |
 | 69 | [If you know what I mean](https://open.spotify.com/track/6LOGjbEFqTrjfNsGgtd1eC) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q), [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Вічно Танцююча Людина](https://open.spotify.com/album/5gBKxnzXdF8eR8M5yos90c) | 3:37 |
 | 70 | [Галіція](https://open.spotify.com/track/4yNvkYzXH9Sn3a5mvz4Elr) | [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa) | [Галіція](https://open.spotify.com/album/7e4CpwI6XNosDUS6bpYz6r) | 3:22 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-14",
-  "description": "Bringing out the best of latest love tracks\nCover : Andhra King Taluka",
+  "description": "Bringing out the best of latest love tracks\nCover : Bhartha Mahasayulaku Wignyapthi",
   "name": "Latest Romance Telugu",
   "tracks": [
     {
@@ -72,6 +72,36 @@
       "duration_ms": 228000,
       "name": "Adavilona Aadapilla (From \"Rebels of Thupakulagudem\")",
       "url": "https://open.spotify.com/track/1NQ3HJq5RklgerKBPW5RF4"
+    },
+    {
+      "album": {
+        "name": "Addham Mundhu (From \"Bhartha Mahasayulaku Wignyapthi\")",
+        "url": "https://open.spotify.com/album/7BvnglHPVWLbqHBA8uTpk5"
+      },
+      "artists": [
+        {
+          "name": "Bheems Ceciroleo",
+          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231157,
+      "name": "Addham Mundhu (From \"Bhartha Mahasayulaku Wignyapthi\")",
+      "url": "https://open.spotify.com/track/7vA6wVaGtdU4M520JX4IAG"
     },
     {
       "album": {
@@ -3738,7 +3768,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 322535,
       "name": "Madhuram Kadha (From \"Sri Sri Sri Rajavaru\")",
       "url": "https://open.spotify.com/track/0PFL8yNrE8I07fd8w34n5U"

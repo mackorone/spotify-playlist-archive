@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-278 songs - 13 hr 1 min
+279 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Catacea Animals](https://open.spotify.com/track/65nwy2Gx3Om5fuyySr1RAS) | [Aya Morata](https://open.spotify.com/artist/6ryTZyH1Vnxas1vzYPzE0L) | [Catacea Animals](https://open.spotify.com/album/38yEh4LCIMJil5LsbUVT6m) | 2:28 | 2023-10-16 | 2025-06-12 |
 | [Ceredona Peace \(Nature\)](https://open.spotify.com/track/253f7Tp8DzFA5q1xKlyF4K) | [Lars Peters](https://open.spotify.com/artist/6UFCmfl7djtHECEfm4Vhcx) | [Ceredona Peace \(Nature\)](https://open.spotify.com/album/58qI5TV9Qdnj65CQtzldvH) | 2:42 | 2024-03-05 | 2025-09-25 |
 | [Changing Colors](https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf) | [Hiwet Tesmi](https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T) | [Changing Colors](https://open.spotify.com/album/2FPYTlqy2N3I8wicQabdTf) | 3:00 | 2023-03-03 | 2024-07-19 |
+| [Clarity](https://open.spotify.com/track/67cezPqLN4qeuNW4ZfQkfK) | [Eomir](https://open.spotify.com/artist/6MPefoqWwiigHX975Qxuhx) | [Clarity](https://open.spotify.com/album/1NlafdSdABNYHHBoEUypDg) | 2:23 | 2025-12-03 |  |
 | [Clearing](https://open.spotify.com/track/6Mwk3R7MPHpUHXutMKS80e) | [Luminary Night](https://open.spotify.com/artist/1nWniKVaY64039kcA7kfRj) | [Clearing](https://open.spotify.com/album/48OGNEQhJhWsFeGE6kRAoH) | 2:37 | 2025-06-11 | 2025-10-05 |
 | [Clearing](https://open.spotify.com/track/0f5GfTuUqptnN2GOUbeCZJ) | [Memories of the Forgotten](https://open.spotify.com/artist/5OUR7rNt23Phqm1l40YCYD) | [Clearing](https://open.spotify.com/album/280KxJyB75D1qmYZTeBGYS) | 2:40 | 2024-01-25 |  |
 | [Clearing Away](https://open.spotify.com/track/3mT1CQmG7ndvpqDLidJ7rf) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Clearing Away](https://open.spotify.com/album/3ioIRza0mtQiHvBfnZnIqk) | 2:51 | 2025-02-21 |  |
@@ -192,7 +193,7 @@
 | [Portobelloh](https://open.spotify.com/track/2SE0r08kOZJiIB2DwtDZX1) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Portobelloh](https://open.spotify.com/album/6sQqMQqYtyXGBT7mJHW2M3) | 2:56 | 2025-09-24 |  |
 | [quiet plateau \- ambient room mix](https://open.spotify.com/track/4ED5zjEGxTIY2oUHgqidGB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [the piano next door](https://open.spotify.com/album/7pVqb2flsJL6zX6ly0VoR2) | 2:40 | 2023-03-03 | 2025-05-08 |
 | [Quiet Soul](https://open.spotify.com/track/0BHSOKE86hjSpxuUrnsLpo) | [The Sun Door](https://open.spotify.com/artist/4mIc8FKCkWqviS6jlZ4cyc) | [Quiet Soul](https://open.spotify.com/album/31jhmj4AZRdyLy2HcYozXz) | 3:18 | 2023-07-28 |  |
-| [Raindrop Manor](https://open.spotify.com/track/3xFNORPASQf8H8UyDFUMWC) | [Tuiren](https://open.spotify.com/artist/16NpFw9d7RglZF6qA07Y1G) | [Raindrop Manor](https://open.spotify.com/album/4xARhHojltdgbg3F0Eb2zO) | 2:37 | 2025-12-03 |  |
+| [Raindrop Manor](https://open.spotify.com/track/3xFNORPASQf8H8UyDFUMWC) | [Tuiren](https://open.spotify.com/artist/16NpFw9d7RglZF6qA07Y1G) | [Raindrop Manor](https://open.spotify.com/album/4xARhHojltdgbg3F0Eb2zO) | 2:37 | 2025-12-03 | 2025-12-11 |
 | [Rainy Day Alone](https://open.spotify.com/track/7sLGSLFtNwNKCCiv2QlvTc) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [A Cottage in a Storm](https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1) | 2:15 | 2023-03-03 | 2024-03-02 |
 | [Rakapar](https://open.spotify.com/track/3gHOHwVZudqg5q3GEszdHL) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Rakapar](https://open.spotify.com/album/1cPajSjSWgSSApGAzREwb5) | 3:15 | 2024-11-22 |  |
 | [Rays of Sunshine](https://open.spotify.com/track/44mxjw5BP9Oj9pJBOZmLUV) | [Logan Collier](https://open.spotify.com/artist/5vTfIKgJyV3oLVyxd7CiZ1) | [At Dawn](https://open.spotify.com/album/7DgsDQ6bxgZQxRQf9jigzg) | 2:32 | 2023-03-03 | 2025-05-17 |

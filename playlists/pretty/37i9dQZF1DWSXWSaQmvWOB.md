@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: SABRI
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,646 likes - 112 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,849 likes - 112 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You've Got Another Thing Coming \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [You've Got Another Thing Coming \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s) | 2:59 |
-| 2 | [Day To Night](https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN) | 4:24 |
-| 3 | [Make Me Feel](https://open.spotify.com/track/6mnZghSd48G0jM5f2FF47p) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Make Me Feel](https://open.spotify.com/album/6pZglm4JbKCzcDmSyDPObU) | 3:03 |
-| 4 | [End of Time](https://open.spotify.com/track/2ue3TmvamovoPGDywzzYSj) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Colour On The Wall](https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT) | 3:46 |
+| 2 | [End of Time](https://open.spotify.com/track/2ue3TmvamovoPGDywzzYSj) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Colour On The Wall](https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT) | 3:46 |
+| 3 | [Day To Night](https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN) | 4:24 |
+| 4 | [Make Me Feel](https://open.spotify.com/track/6mnZghSd48G0jM5f2FF47p) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Make Me Feel](https://open.spotify.com/album/6pZglm4JbKCzcDmSyDPObU) | 3:03 |
 | 5 | [In Orbit](https://open.spotify.com/track/2kIf597NUWIpU5oDUpl0Rl) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [In Orbit](https://open.spotify.com/album/5leolC7OvoQGbX1Hn1UxYe) | 2:40 |
 | 6 | [Herbs & Wine](https://open.spotify.com/track/2jqOdhAQIFJseY4FnnphGX) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk) | [Velvet Seas](https://open.spotify.com/album/0MZqGkVl2NJpjEkoPUD8cQ) | 4:05 |
 | 7 | [I'm Sorry](https://open.spotify.com/track/0e9DuoeA41HOatmsPdQChK) | [Kymara](https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7) | [In the Works](https://open.spotify.com/album/6G5sFEjLo515bziYyusTAh) | 3:40 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 111 | [Peace of Mind](https://open.spotify.com/track/3eEgJ541GSqgOOymD3W8HU) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Peace of Mind](https://open.spotify.com/album/6jEc0H3Mk3PBxggMLd4ADF) | 3:02 |
 | 112 | [Care For You](https://open.spotify.com/track/2MJnBcjAG2buyUZ7zQLGMO) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Care For You](https://open.spotify.com/album/4PjDf7b4OxTxWuiY0nO8Xu) | 3:38 |
 
-Snapshot ID: `AAAAAOnVU+1C8S1coB4N1/AH+P95UWPv`
+Snapshot ID: `AAAAAAIxGKsCH/8YyCQzzZG95ahuCO8j`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,699 likes - 38 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,704 likes - 38 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 12 | [Misogyny](https://open.spotify.com/track/4Oy6eTbEaMj1ouejqVt0N3) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Misogyny](https://open.spotify.com/album/1UzUVAimqdkb7u4YEFAvr2) | 3:08 |
 | 13 | [Control](https://open.spotify.com/track/1nJIYo1g5V4aOnglr7qhnj) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 3:43 |
 | 14 | [Neighbourhood Villain](https://open.spotify.com/track/2y2RqF6ojE92lv9wYDo6GY) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Copies of Old Masters Vol\. 1](https://open.spotify.com/album/4lXM612ThfDUoPZJCGPUqH) | 4:32 |
-| 15 | [We Are the End](https://open.spotify.com/track/2xSXidQMWwJOhH0x22uePn) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 3:46 |
+| 15 | [Rough Hands](https://open.spotify.com/track/1qWWnRhkr50brRpXpThodc) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/1707YW8weHIje0KhkNogkg) | 5:30 |
 | 16 | [Born and Raised](https://open.spotify.com/track/2cMOVqd7pTOoj3yUHuxbj7) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 4:00 |
 | 17 | [Side Walk When She Walks](https://open.spotify.com/track/0ZQtCXF4oA6vz4W7A9iDT0) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 4:22 |
 | 18 | [Waterwings \(And Other Poolside Fashion Faux Pas\)](https://open.spotify.com/track/4Hcv9D5PkjFUvJqDme4CeB) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 2:38 |
-| 19 | [Rough Hands](https://open.spotify.com/track/7MLB8n8YqUV4cRV8pl70g2) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 5:30 |
+| 19 | [We Are the End](https://open.spotify.com/track/2xSXidQMWwJOhH0x22uePn) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 3:46 |
 | 20 | [Blue Spade](https://open.spotify.com/track/4CDZqDBSTDHzmQKE46wCTq) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 5:31 |
 | 21 | [Happiness by the Kilowatt](https://open.spotify.com/track/1WkBlSjsAy200erfndrRU5) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 5:11 |
 | 22 | [Adelleda](https://open.spotify.com/track/2USjkYb3JFNr9HDZcMUQ8H) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 5:14 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 37 | [Emerald Street](https://open.spotify.com/track/5l85aKbiWzcvUTMwBqC5AJ) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 3:15 |
 | 38 | [Sons of Privilege](https://open.spotify.com/track/5EjRUfxJXIj7jKGcbIymQ6) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 3:21 |
 
-Snapshot ID: `aTYVAAAAAAACtDvZq3FOJwcmHYVV9OAT`
+Snapshot ID: `aTdmgAAAAAA7IOZEAKc9EDqq/+6+U/t8`

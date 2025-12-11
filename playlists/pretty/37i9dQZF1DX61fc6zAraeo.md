@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 
 > Dance tracks for your power moves
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,693 likes - 90 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,711 likes - 90 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 | 77 | [Feel Better](https://open.spotify.com/track/1UOatZnMxpHnbKBVDyLVUf) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Feel Better](https://open.spotify.com/album/5cONRb78gsiZdp8we3vIUm) | 2:54 |
 | 78 | [Pegasus](https://open.spotify.com/track/3m32ApgNXyT8qmON7oSK9U) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [PEGASUS](https://open.spotify.com/album/0mA286b0mXmbRDSxy2W7P1) | 3:00 |
 | 79 | [California \(feat\. CLOVES\)](https://open.spotify.com/track/7rEcQbBkgpeipMDvi9xd1z) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [California \(feat\. CLOVES\)](https://open.spotify.com/album/0UiYSVlJTFDNQUXljpEuhw) | 3:18 |
-| 80 | [Elektro](https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Elektro](https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq) | 2:40 |
-| 81 | [Never Fall Down](https://open.spotify.com/track/3NS4Ig26lvvVoIz0CngOmm) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [LAUWEND](https://open.spotify.com/artist/12QQZ0RBLnfB2MS8FrwmmM) | [Never Fall Down](https://open.spotify.com/album/3KC6P4Pq4CWaNLIPgJtTzQ) | 2:24 |
+| 80 | [Never Fall Down](https://open.spotify.com/track/3NS4Ig26lvvVoIz0CngOmm) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [LAUWEND](https://open.spotify.com/artist/12QQZ0RBLnfB2MS8FrwmmM) | [Never Fall Down](https://open.spotify.com/album/3KC6P4Pq4CWaNLIPgJtTzQ) | 2:24 |
+| 81 | [Elektro](https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Elektro](https://open.spotify.com/album/06F26Q4nAKjQAbr3I4QRMq) | 2:40 |
 | 82 | [Lost My Way](https://open.spotify.com/track/5jPFtwxkrKbpsqFgVE1czX) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Lost My Way](https://open.spotify.com/album/3jqAZ70Mmyq8arzZnSBiBX) | 2:22 |
 | 83 | [Beat Of The Drum](https://open.spotify.com/track/5maUP6kkmNTMtoKNxstN7T) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Beat Of The Drum](https://open.spotify.com/album/4HFWXFBNtVdC4JuRJRI7LC) | 2:54 |
 | 84 | [Chemistry](https://open.spotify.com/track/56Boy642GbI4FKJYmkCqVZ) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Chemistry](https://open.spotify.com/album/6xlkTPHi1ANWAlKBsFXxaa) | 2:31 |

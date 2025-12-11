@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 
 > Rock y rumba para esos días de sol, sangría y amigxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,604 likes - 90 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,618 likes - 90 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 18 | [Tu Calorro](https://open.spotify.com/track/0DXI6c9tNWsI4tvUftkQN8) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Estopa](https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs) | 3:10 |
 | 19 | [El universo sobre mí](https://open.spotify.com/track/1jJn6iK6o2Vg7iUKHztRTk) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Pájaros En La Cabeza](https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW) | 4:09 |
 | 20 | [Nada Fue Un Error \- Live In Spain / 2005](https://open.spotify.com/track/4DtFbe2JQrH3dDQVcOkVp6) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Esta Mañana Y Otros Cuentos](https://open.spotify.com/album/7elo2R4JcIfWyQkFz40F5M) | 3:45 |
-| 21 | [Quiero tener tu presencia](https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [Furia Latina](https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe) | 3:40 |
-| 22 | [Búscate un hombre que te quiera](https://open.spotify.com/track/4ppxWzgjvst4Mv1Kpwooeh) | [El Arrebato](https://open.spotify.com/artist/2dJyJptNE5bMmbN6z08iNJ) | [Que Salga El Sol Por Donde Quiera](https://open.spotify.com/album/2fU7l8soMPUrdJHPrso2ya) | 3:48 |
+| 21 | [Búscate un hombre que te quiera](https://open.spotify.com/track/4ppxWzgjvst4Mv1Kpwooeh) | [El Arrebato](https://open.spotify.com/artist/2dJyJptNE5bMmbN6z08iNJ) | [Que Salga El Sol Por Donde Quiera](https://open.spotify.com/album/2fU7l8soMPUrdJHPrso2ya) | 3:48 |
+| 22 | [Quiero tener tu presencia](https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [Furia Latina](https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe) | 3:40 |
 | 23 | [Desde Brasil](https://open.spotify.com/track/7H0PDJwUMTdwQEBb3gXMeI) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [La taberna del Buda](https://open.spotify.com/album/3y9cYm531Ep362lZZtCNxw) | 3:52 |
 | 24 | [Cómo hablar](https://open.spotify.com/track/3DYm7Lp7Fc3xf6WSCq5ntE) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Una Pequeña Parte Del Mundo](https://open.spotify.com/album/4dPBUpgpgdXdeeUyEOh8jT) | 4:01 |
 | 25 | [Pan y mantequilla](https://open.spotify.com/track/2kZJ5wrpq1gCdHmVEjahoH) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3) | [El misterioso caso de Efecto Pasillo](https://open.spotify.com/album/0eXjOfykk3LkiqPtFnFMji) | 3:22 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 36 | [A la luz del Lorenzo](https://open.spotify.com/track/6bMRELN9nclL87w9XEMMnw) | [Los Delinqüentes](https://open.spotify.com/artist/38LYyZ9hZEEQeEfeYoydqd) | [El Sentimiento Garrapatero Que Nos Traen Las Flores](https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt) | 4:11 |
 | 37 | [Cómo Quieres Que Te Quiera](https://open.spotify.com/track/6jAs8GeDUmnr6l7u1HU2zB) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Muchas Flores](https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg) | 4:27 |
 | 38 | [Puedes Contar Conmigo](https://open.spotify.com/track/3xQbgIqO1tmJMAz91CRiCK) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:58 |
-| 39 | [No Puedo Vivir Sin Ti](https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [4 Canciones](https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8) | 4:14 |
-| 40 | [Todo](https://open.spotify.com/track/09QG9D1BI4TRvGq64NghRg) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Animales](https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe) | 4:20 |
+| 39 | [Todo](https://open.spotify.com/track/09QG9D1BI4TRvGq64NghRg) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Animales](https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe) | 4:20 |
+| 40 | [No Puedo Vivir Sin Ti](https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [4 Canciones](https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8) | 4:14 |
 | 41 | [Felicidad](https://open.spotify.com/track/1pX5XE5hajZQ4lB6HuMVKa) | [La Cabra Mecanica](https://open.spotify.com/artist/1g2kmC27Pg8fcsT3O9ecje) | [Vestidos De Domingo \(+ Remixes\)](https://open.spotify.com/album/1zIyzZFhqB27mVPqnwJpTs) | 4:14 |
 | 42 | [El talismán](https://open.spotify.com/track/5NXYUnjruvZd3mXiJNJVeA) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 3:39 |
 | 43 | [Salta!!!](https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Confidencial/New Booklet](https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU) | 3:09 |
@@ -83,13 +83,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 73 | [La Ultima Carta](https://open.spotify.com/track/0snvfum1KpU3X8DdAvV9bo) | [Los Cucas](https://open.spotify.com/artist/3OWk7QjNjgERkwOAqhZeMW) | [El Ser Humano Es Raro](https://open.spotify.com/album/5fSWHnEpxK10oYZrK7DOTK) | 4:52 |
 | 74 | [Noche En Vela](https://open.spotify.com/track/3PvcPcIj8lh53Zb0FwstTm) | [Guaraná](https://open.spotify.com/artist/14xTevnO8kfFWuP8pXiykn) | [Noche En Vela](https://open.spotify.com/album/0okEU4q3SOHt7DBLEht0EB) | 3:46 |
 | 75 | [Bonito Es](https://open.spotify.com/track/3F7LwUGXeXIm7Br3QCxvd5) | [Los Sencillos](https://open.spotify.com/artist/4tckU58lAHcyNaWWswLubb) | [Doctor Amor](https://open.spotify.com/album/2ll1b7hDO1Js4I9cMukxBx) | 2:59 |
-| 76 | [Una Lagrima](https://open.spotify.com/track/0PoUyBBEghT7ufac3soDiB) | [Peret](https://open.spotify.com/artist/2bhNZ8x8k2VfVhNRKESlcj) | [Orígenes](https://open.spotify.com/album/4moi9DmSUydEzm7N8VbbeT) | 1:56 |
-| 77 | [Al Son Del Tambor](https://open.spotify.com/track/6KpEeLn57CE8rw3yg8HtdQ) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Muchas Flores](https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg) | 3:57 |
+| 76 | [Al Son Del Tambor](https://open.spotify.com/track/6KpEeLn57CE8rw3yg8HtdQ) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Muchas Flores](https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg) | 3:57 |
+| 77 | [Una Lagrima](https://open.spotify.com/track/0PoUyBBEghT7ufac3soDiB) | [Peret](https://open.spotify.com/artist/2bhNZ8x8k2VfVhNRKESlcj) | [Orígenes](https://open.spotify.com/album/4moi9DmSUydEzm7N8VbbeT) | 1:56 |
 | 78 | [Aguardiente](https://open.spotify.com/track/6CpBRucGBV8c2ztigPg6C4) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Con la Fiesta a Cuestas](https://open.spotify.com/album/3hQfz8GVtX9q71VAIm7kmR) | 3:16 |
 | 79 | [Joselito](https://open.spotify.com/track/72Fm5e7KPBEQwCeIcSU33g) | [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [Puro Veneno](https://open.spotify.com/album/65S9zOtZi43kFdHB8y91vY) | 3:50 |
 | 80 | [Sarandonga](https://open.spotify.com/track/4ER9YbR8kOke5g2vpanmq7) | [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Takatá, a toda rumba](https://open.spotify.com/album/5ilGbKanSfk9Q4cOctfe3D) | 4:00 |
-| 81 | [My skinny flacca](https://open.spotify.com/track/4XLvVcGUmItGqkHXOJMT5r) | [Huecco](https://open.spotify.com/artist/6Zd2JZF0kIBpeyv2FlPh8i) | [Lobbo](https://open.spotify.com/album/2tUF2G5o5ZpYW1Ano31nDJ) | 3:13 |
-| 82 | [Mi Gato](https://open.spotify.com/track/5Hu3Y13dE9rEZire0tlAMW) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Esencial Rosario](https://open.spotify.com/album/3jkmHCl1q6GWJUfhqF4URo) | 3:22 |
+| 81 | [Mi Gato](https://open.spotify.com/track/5Hu3Y13dE9rEZire0tlAMW) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Esencial Rosario](https://open.spotify.com/album/3jkmHCl1q6GWJUfhqF4URo) | 3:22 |
+| 82 | [My skinny flacca](https://open.spotify.com/track/4XLvVcGUmItGqkHXOJMT5r) | [Huecco](https://open.spotify.com/artist/6Zd2JZF0kIBpeyv2FlPh8i) | [Lobbo](https://open.spotify.com/album/2tUF2G5o5ZpYW1Ano31nDJ) | 3:13 |
 | 83 | [Grita](https://open.spotify.com/track/3zz4oi4aiOUV6lcQfKP5pU) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 3:32 |
 | 84 | [Que Puedo Pedir](https://open.spotify.com/track/11QBPkSlXTr00bOj5SQqbm) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Dile Al Sol](https://open.spotify.com/album/3gf35Jrzpwy233vwcAe3ux) | 3:02 |
 | 85 | [El Toro y la Luna \- 20 Aniversario](https://open.spotify.com/track/0hgens24d8G02NNiIlZ9Ug) | [Los Centellas](https://open.spotify.com/artist/76j0WVvCs9F775KuXwqTeG) | [El Toro y la Luna \(20 Aniversario\)](https://open.spotify.com/album/2sTqLFdRN5kp3hBkrV7QYN) | 3:38 |

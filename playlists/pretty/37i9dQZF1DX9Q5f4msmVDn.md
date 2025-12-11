@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/archdvs/">Archie Davis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,989 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,987 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Devil In A New Dress](https://open.spotify.com/track/1UGD3lW3tDmgZfAVDh6w7r) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 5:51 |
 | 2 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 |
 | 3 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:09 |
-| 4 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |
-| 5 | [m y \. l i f e \(with 21 Savage & Morray\)](https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 |
+| 4 | [m y \. l i f e \(with 21 Savage & Morray\)](https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 |
+| 5 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |
 | 6 | [Sweet Life](https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 4:22 |
 | 7 | [I Keep Forgettin' \(Every Time You're Near\)](https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [If That's What It Takes](https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1) | 3:42 |
 | 8 | [Eternal Light](https://open.spotify.com/track/1CbxG199T0fzfUV5EO7aPV) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 3:13 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 | 45 | [Overall \(feat\. Chinx\)](https://open.spotify.com/track/0gqGG4IiuGwFqECqDyubjE) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Chinx](https://open.spotify.com/artist/2DctCFD8X80VeY7WLC86PS) | [The Plugs I Met 2](https://open.spotify.com/album/20XfOL0gmcOQhupwC2bMDj) | 3:25 |
 | 46 | [About That Time \(with G\-Eazy, P\-Lo & White Dave\)](https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ) | [Dame D.O.L.L.A](https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [OG DAYV](https://open.spotify.com/artist/2eSQStXY58BrvMNOWJcIrr) | [Space Jam: A New Legacy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP) | 3:11 |
 | 47 | [Shhh](https://open.spotify.com/track/6jaLhbtCCj0FyIf8ddYSKw) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Shhh](https://open.spotify.com/album/74kNuwmmF4oX5K45mK21IQ) | 2:19 |
-| 48 | [Angelic Hoodrat](https://open.spotify.com/track/0WcUDVYyI8qOdkesji6kdT) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Angelic Hoodrat](https://open.spotify.com/album/48xxKST8oEwMRSVjF93gB3) | 2:52 |
-| 49 | [Boyz To Men](https://open.spotify.com/track/4SCZOft290qQSfl4MLUMId) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Beyond Bulletproof](https://open.spotify.com/album/3Ud5r7QHfMF1UhH8a5M1cH) | 2:35 |
+| 48 | [Boyz To Men](https://open.spotify.com/track/4SCZOft290qQSfl4MLUMId) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Beyond Bulletproof](https://open.spotify.com/album/3Ud5r7QHfMF1UhH8a5M1cH) | 2:35 |
+| 49 | [Angelic Hoodrat](https://open.spotify.com/track/0WcUDVYyI8qOdkesji6kdT) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Angelic Hoodrat](https://open.spotify.com/album/48xxKST8oEwMRSVjF93gB3) | 2:52 |
 | 50 | [gold fronts \(feat\. Lil Wayne\)](https://open.spotify.com/track/7yOEBtOgzkgN52pfM7SOnm) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [gold fronts \(feat\. Lil Wayne\)](https://open.spotify.com/album/6zrhRSr8mkBjiklBDFtMub) | 3:55 |
 
 Snapshot ID: `AAAAACjee9LpwaUpGIB00PsIwtitkgHV`

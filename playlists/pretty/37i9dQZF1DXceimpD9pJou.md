@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Madiel Lara
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,548 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,564 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 68 | [Hay Una Ofrenda](https://open.spotify.com/track/7zbo1OTC95oLKJQusgspxT) | [GaVriel](https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2), [The Blessed Steps Choir](https://open.spotify.com/artist/3KCug4eYRhgnmg7z356a5w) | [Hay Una Ofrenda](https://open.spotify.com/album/6rIcZT0N8GlvOPY7bGvEq3) | 10:57 |
 | 69 | [Como En El Cielo](https://open.spotify.com/track/72pIz5am8TmPFHbIjIM7nE) | [Toni Romero](https://open.spotify.com/artist/69BWizWNZTCdBWLb1zllgw) | [Como En El Cielo](https://open.spotify.com/album/2CvoOVYVrjV5yrBWzIbRzC) | 7:05 |
 | 70 | [Salmo 27](https://open.spotify.com/track/2qCKaFrPkx1oDmmk92pLWR) | [Conquistando Fronteras](https://open.spotify.com/artist/4wSfiTrdcKdVZ7L7wNSaE3) | [Salmo 27](https://open.spotify.com/album/0lYOvHJ23IPRNzx1m7xZWp) | 6:41 |
-| 71 | [Rey Jesús \- Estudio](https://open.spotify.com/track/6ik0P1Ojft6rcY1VdSLFXj) | [Lakepointe Música](https://open.spotify.com/artist/7Iydkuaj5RLeSY02mxo6CP), [Nathan Ironside](https://open.spotify.com/artist/61tv5wBp8BSzZ1S6mNqvJ8), [Keila Marin](https://open.spotify.com/artist/1QSS1kD3lKJSfT453osaKB) | [Rey Jesús](https://open.spotify.com/album/4m9ZP5UGtMsOt9NKjCjJZy) | 5:38 |
+| 71 | [Rey Jesús \(feat\. Keila Marin\) \- Estudio](https://open.spotify.com/track/6ik0P1Ojft6rcY1VdSLFXj) | [Lakepointe Música](https://open.spotify.com/artist/7Iydkuaj5RLeSY02mxo6CP), [Nathan Ironside](https://open.spotify.com/artist/61tv5wBp8BSzZ1S6mNqvJ8), [Keila Marin](https://open.spotify.com/artist/1QSS1kD3lKJSfT453osaKB) | [Rey Jesús](https://open.spotify.com/album/4m9ZP5UGtMsOt9NKjCjJZy) | 5:38 |
 | 72 | [Caminar Sobre Promesas](https://open.spotify.com/track/7a7sI04Z0qCdarn5KjbzlX) | [Jehú J\. Pinares](https://open.spotify.com/artist/2qjYcvvVZGYnIHNAUpIBAq) | [El Canto Que Abrió el Mar](https://open.spotify.com/album/3wB2GIe1vf02i9fQjOjEkU) | 4:42 |
 | 73 | [Muéstrame](https://open.spotify.com/track/2b3MsUq23BZZsntXdy5XOu) | [Anna Blasco](https://open.spotify.com/artist/67ANV54MfHMt2nccdtkMHr) | [Yo Soy](https://open.spotify.com/album/7FIO0UdvzQvRkt4eHFJPHD) | 2:11 |
 | 74 | [Let Go](https://open.spotify.com/track/6jgTpgCEsaBww39iQWdUY9) | [Cardec Drums](https://open.spotify.com/artist/1uVtllLSmvkfPRozmSmxzG) | [El Gordito Lindo: Part 1](https://open.spotify.com/album/1fwsCxlsui2AoT4qaFplzX) | 2:35 |

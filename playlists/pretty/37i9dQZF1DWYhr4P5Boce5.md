@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,033 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,029 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,11 +76,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 66 | [YOU](https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [YOU](https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4) | 3:08 |
 | 67 | [Beautiful](https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [A Little Crazy](https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0) | 3:18 |
 | 68 | [Junto a Ti](https://open.spotify.com/track/309976H25vNibcds9nAH5A) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Junto a Ti](https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH) | 3:07 |
-| 69 | [fall \(when we fell in love\)](https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F) | [fall \(when we fell in love\)](https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm) | 2:37 |
-| 70 | [Forever the Love of My Life](https://open.spotify.com/track/2p6K4Am9Izdgv2t73Kasog) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Forever the Love of My Life](https://open.spotify.com/album/4CcwJrmuGoIuKvsBt6HRIq) | 2:51 |
+| 69 | [Forever the Love of My Life](https://open.spotify.com/track/2p6K4Am9Izdgv2t73Kasog) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Forever the Love of My Life](https://open.spotify.com/album/4CcwJrmuGoIuKvsBt6HRIq) | 2:51 |
+| 70 | [fall \(when we fell in love\)](https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F) | [fall \(when we fell in love\)](https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm) | 2:37 |
 | 71 | [Route 777](https://open.spotify.com/track/5Svbl0YXDpkldV4cR3VsKC) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Songs from the Cloud](https://open.spotify.com/album/30cmnuBUnxQUFOzp46TsJu) | 3:29 |
-| 72 | [Adam & Eve'n](https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY) | [Sir & Saint](https://open.spotify.com/artist/5QViTcKEFqMplW00ZtIsVL), [Sir the Baptist](https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg), [Saint Ashleey](https://open.spotify.com/artist/1YlTWm8RugjwYRWrjnYvv5) | [Adam & Eve'n](https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk) | 2:05 |
-| 73 | [Capuchino de Amor](https://open.spotify.com/track/728IJV3v0u5NK7t9buT7wh) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Capuchino de Amor](https://open.spotify.com/album/5KLzoTKa5UXJzJGkuwgpfq) | 4:58 |
+| 72 | [Capuchino de Amor](https://open.spotify.com/track/728IJV3v0u5NK7t9buT7wh) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Capuchino de Amor](https://open.spotify.com/album/5KLzoTKa5UXJzJGkuwgpfq) | 4:58 |
+| 73 | [Adam & Eve'n](https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY) | [Sir & Saint](https://open.spotify.com/artist/5QViTcKEFqMplW00ZtIsVL), [Sir the Baptist](https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg), [Saint Ashleey](https://open.spotify.com/artist/1YlTWm8RugjwYRWrjnYvv5) | [Adam & Eve'n](https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk) | 2:05 |
 | 74 | [Here for You](https://open.spotify.com/track/04D4ANfSUYYOZQqYjwt2ae) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Here for You](https://open.spotify.com/album/460gb1Qn7I9OwESRjiXrHl) | 2:32 |
 | 75 | [Loving Me Like Jesus](https://open.spotify.com/track/6qJKkWCwkIqu9qAyTIjp99) | [Franchesca](https://open.spotify.com/artist/5xgXj0clLJ7jCasOAaAuGM), [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [Loving Me Like Jesus](https://open.spotify.com/album/6gvTi3AZ3njMAchWY4Rsfz) | 3:12 |
 | 76 | [Without The Risk](https://open.spotify.com/track/4NGDxlAyoPtW46HaHjMI5W) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Without The Risk](https://open.spotify.com/album/1AGraDGjg0M10B8HVJqAtS) | 3:43 |

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,546 likes - 110 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,551 likes - 110 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Free Fallin' \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 4:23 |
 | 2 | [Take Me Home, Country Roads](https://open.spotify.com/track/154t1fkfSU7zyJojSN6gvR) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Take Me Home, Country Roads](https://open.spotify.com/album/4hL63mh3FYiIQp35YAKNoo) | 3:05 |
-| 3 | [You Are So Beautiful](https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [I Can Stand A Little Rain](https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q) | 2:39 |
+| 3 | [You've Got The Love](https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 2:48 |
 | 4 | [Beautiful Child](https://open.spotify.com/track/1U4W9yf793IQYRIpTIDYVI) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr), [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Beautiful Child](https://open.spotify.com/album/0W2LChHrjeeV7OYEl43Plc) | 7:03 |
-| 5 | [You've Got The Love](https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 2:48 |
+| 5 | [You Are So Beautiful](https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [I Can Stand A Little Rain](https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q) | 2:39 |
 | 6 | [Perfect Day](https://open.spotify.com/track/1IvmggBcaMBHaJaVaNak69) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Perfect Day](https://open.spotify.com/album/5NHcQLzfaRMSKkZDTLPv4H) | 4:01 |
 | 7 | [If We Were Vampires \(feat\. Wesley Schultz\) \- Spotify Singles](https://open.spotify.com/track/6LKvzEJQTIm2RrWAMPwQH6) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Spotify Singles](https://open.spotify.com/album/6WdZ6j0Mm6fOzpyHXKx8PP) | 3:37 |
 | 8 | [In My Life](https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In My Life](https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM) | 2:56 |
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 97 | [Five Years](https://open.spotify.com/track/71Nk88z1SInD0QNYMs9rNR) | [Cowboy Junkies](https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j) | [Five Years](https://open.spotify.com/album/73Rq2ZuDni5smSCDB03St0) | 4:23 |
 | 98 | [Help \- Recorded at East West Studios](https://open.spotify.com/track/5FY4iA2mqnJiYwWh3JB2gA) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Spotify Singles](https://open.spotify.com/album/15vSZCbdEfZAXWIuwVvhca) | 3:42 |
 | 99 | [Stranger In A Strange Land](https://open.spotify.com/track/6yGXIjPdJXL0Sj9ZKC1aNN) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Stranger In A Strange Land](https://open.spotify.com/album/2MvZ4DqKXTCpKJxcgbl8SY) | 4:48 |
-| 100 | [Hallelujah](https://open.spotify.com/track/74X1epeRufHckhuX1KFD04) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace \(Legacy Edition\)](https://open.spotify.com/album/07Fr36M0hRPJrSJMFWGnvD) | 6:53 |
-| 101 | [Heart Of Glass \(Live from the iHeart Festival\)](https://open.spotify.com/track/5i7ThJfYLAzp2DyZuFpF6j) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Heart Of Glass / Midnight Sky](https://open.spotify.com/album/4shNUtOEh07Rco2Jy5ArAF) | 3:33 |
+| 100 | [Heart Of Glass \(Live from the iHeart Festival\)](https://open.spotify.com/track/5i7ThJfYLAzp2DyZuFpF6j) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Heart Of Glass / Midnight Sky](https://open.spotify.com/album/4shNUtOEh07Rco2Jy5ArAF) | 3:33 |
+| 101 | [Hallelujah](https://open.spotify.com/track/74X1epeRufHckhuX1KFD04) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace \(Legacy Edition\)](https://open.spotify.com/album/07Fr36M0hRPJrSJMFWGnvD) | 6:53 |
 | 102 | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh) | 3:43 |
 | 103 | [Make You Feel My Love](https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1) | 3:32 |
 | 104 | [Sweet Child O' Mine](https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Sweet Child o’ Mine](https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7) | 5:02 |

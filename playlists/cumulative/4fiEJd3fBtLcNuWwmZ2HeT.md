@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-405 songs - 23 hr 30 min
+407 songs - 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Brain Revolution Girl 2016 ver.](https://open.spotify.com/track/0yb2qOhzja2F2KMuIgcr6L) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 3:40 | 2022-08-18 |  |
 | [Burn My Dread \-Reload\-](https://open.spotify.com/track/1NG7bEQxL6ZfRuqHb1DFm8) | [Azumi Takahashi](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 4:40 | 2024-04-26 |  |
 | [Burning Pile](https://open.spotify.com/track/0zMAvsQmaQ4DGsmXtKixpn) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 4:22 | 2022-08-02 |  |
+| [Cantarella](https://open.spotify.com/track/2VD4DrLIkfItv7grWXCXpW) | [KurousaP](https://open.spotify.com/artist/5MXgcxigANkVcaDC670CU1), [Michaon](https://open.spotify.com/artist/2oC9pyZuesjV6X3NFksKgh) | [Meet Your Only World](https://open.spotify.com/album/3zepiSGgf7ErRVhlGqlSi4) | 3:02 | 2025-12-10 |  |
 | [Can′t Slow Me Down](https://open.spotify.com/track/66wSpvsxSBGBBnHax8VB9S) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [VALORANT / Can′t Slow Me Down](https://open.spotify.com/album/0KcTPJHY7Icv9WYHXmcun1) | 2:18 | 2023-09-16 |  |
 | [CapSule](https://open.spotify.com/track/4M7mmhZvhN1wBypbu0Z0zY) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [CapSule](https://open.spotify.com/album/6GsX8yyTYKzLxYoKoSdydQ) | 2:54 | 2023-09-13 |  |
 | [CARAMEL GiRLS](https://open.spotify.com/track/3zqUXbPZmNN3ebEACQg1lz) | [CARAMEL CANDiD](https://open.spotify.com/artist/4nDSmohFDEuowSQQjTAStH) | [CARAMEL GiRLS](https://open.spotify.com/album/0Q2N3hiG7l86Shfwau7zMd) | 3:31 | 2025-08-12 |  |
@@ -287,7 +288,7 @@
 | [カルミア・ラティフォリア](https://open.spotify.com/track/6Y0khuGz96c6Lc5Mgnm7GL) | [neo:niruni](https://open.spotify.com/artist/2fa8KhPhC09GO17ThPq4Fv) | [カルミア・ラティフォリア](https://open.spotify.com/album/3pdbPxHHoSsfifyKjIqhcf) | 3:55 | 2025-05-25 |  |
 | [カルメン](https://open.spotify.com/track/2trg5QP7LvutSwDmApo7JN) | [未完成モノローグ](https://open.spotify.com/artist/26QVC80GmRRg4EbeTHs3H3) | [カルメン](https://open.spotify.com/album/2dExwUIiMTzFb2by9bnWmY) | 2:27 | 2023-09-07 |  |
 | [カワキヲアメク](https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [カワキヲアメク](https://open.spotify.com/album/2oN5rPuojBnqH0uQMUMVAl) | 4:11 | 2022-08-18 |  |
-| [カンタレラ](https://open.spotify.com/track/5nvcwCiRhUMHPSSUZCUqbz) | [KuroUsa\(WhiteFlame\)](https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF) | [カンタレラ](https://open.spotify.com/album/3EqhWMBLgBl30dhOvLvn2K) | 2:59 | 2025-09-30 |  |
+| [カンタレラ](https://open.spotify.com/track/5nvcwCiRhUMHPSSUZCUqbz) | [KuroUsa\(WhiteFlame\)](https://open.spotify.com/artist/1fyLCDf7gQRXZ1hRNtL2UF) | [カンタレラ](https://open.spotify.com/album/3EqhWMBLgBl30dhOvLvn2K) | 2:59 | 2025-09-30 | 2025-12-11 |
 | [キスミィ・ショット](https://open.spotify.com/track/0kK60FcUhtR2WGuR3I7k9g) | [ないきすと！](https://open.spotify.com/artist/6LjAPlaRzCuuoih9wyrS1k) | [キスミィ・ショット](https://open.spotify.com/album/18vOGU3v1TTFwJ3wb8hGpA) | 2:44 | 2024-11-18 |  |
 | [ギターと孤独と蒼い惑星](https://open.spotify.com/track/17rhDgnYYryQU4uS71ZxFu) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [ギターと孤独と蒼い惑星](https://open.spotify.com/album/6PmIi4asxDdrpIcZKHYfWp) | 3:48 | 2023-05-06 |  |
 | [ゲシュタルト後悔](https://open.spotify.com/track/2V4nd8UC7PrhKpZAWcxHpB) | [CARAMEL CANDiD](https://open.spotify.com/artist/4nDSmohFDEuowSQQjTAStH) | [ゲシュタルト後悔](https://open.spotify.com/album/7tJhkSSOzBgYiOduOLIx6o) | 3:09 | 2025-09-12 |  |
@@ -296,6 +297,7 @@
 | [シグナル](https://open.spotify.com/track/2vxAPTwp7mIMctVCeqsYMN) | [雨宿り](https://open.spotify.com/artist/59BLjrTwyCqE9R4W1BovYK) | [傘をなくして](https://open.spotify.com/album/5UnX9tVyGbUI7yOgJ5qWBq) | 2:34 | 2025-04-05 |  |
 | [シュガーコート](https://open.spotify.com/track/0zIQRErzk1eNU4Pd1Tnxcg) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [orbit](https://open.spotify.com/album/5pdTN60HCRnXnTP3kDUS8Y) | 3:05 | 2025-01-05 |  |
 | [シロガネ](https://open.spotify.com/track/1r6RyFGvZ2fnTaYyki8M78) | [麻婆豆腐](https://open.spotify.com/artist/4rDjKnJ4UDzfROtTs37kDT) | [シロガネ](https://open.spotify.com/album/1bz2zVtFmsvAS2eeAAelBt) | 3:31 | 2024-09-08 |  |
+| [ジターバグ](https://open.spotify.com/track/0Gc8R0bC03tMW1RO5d0X7u) | [Nanashi Hachiya](https://open.spotify.com/artist/3PZGJx5D1p3KvpvVsK2v8P) | [ジターバグ](https://open.spotify.com/album/68VL4A6GTN7ZaYsLhalxCW) | 3:30 | 2025-12-10 |  |
 | [ジャンキーナイトタウンオーケストラ](https://open.spotify.com/track/3ASzfo5SRD3TioeUWJbHse) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [pandemic](https://open.spotify.com/album/6KTTXEM3HpdEv4iAmyKPZJ) | 3:33 | 2022-07-06 |  |
 | [ジンクス \(feat\. Such\)](https://open.spotify.com/track/7kR1OuHrMYjtgb5yAE9dkf) | [RuLu](https://open.spotify.com/artist/0xFS8oBdlugpwYgW8dxoQm), [Such](https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io) | [RuLu](https://open.spotify.com/album/38J7AksAHQ2EIIlmzuMYza) | 3:53 | 2024-01-22 |  |
 | [ダウナーウィッチ](https://open.spotify.com/track/2A8iKOvDG8ZCd8rgN6tPmE) | [廉](https://open.spotify.com/artist/7yDJ7xS3dASPaycSUqRy9G) | [ダウナーウィッチ](https://open.spotify.com/album/4suGRNsYYdIruxNhF2yXTP) | 3:33 | 2024-09-02 |  |

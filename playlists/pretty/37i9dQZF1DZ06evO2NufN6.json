@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 971832,
+  "num_followers": 971978,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAAWGOCaSHfwFjvDciIjw5e9",
+  "snapshot_id": "aTdmgAAAAACziNdkctccy2H8yJkxBVlk",
   "tracks": [
     {
       "added_at": null,
@@ -23,26 +23,6 @@
       "duration_ms": 161840,
       "name": "Come Back to Earth",
       "url": "https://open.spotify.com/track/01z2fBGB8Hl3Jd3zXe4IXR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "K.I.D.S. (Deluxe)",
-        "url": "https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 195873,
-      "name": "The Spins",
-      "url": "https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh"
     },
     {
       "added_at": null,
@@ -87,6 +67,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Love Life, Thank You",
+        "url": "https://open.spotify.com/album/0GNGyTAEBRRB98jKmgDwgd"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 162875,
+      "name": "Love Lost",
+      "url": "https://open.spotify.com/track/1gooIGZGh22TOPqaogU9bs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Swimming",
         "url": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk"
       },
@@ -119,8 +119,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Love Life, Thank You",
-        "url": "https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn"
+        "name": "K.I.D.S. (Deluxe)",
+        "url": "https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R"
       },
       "artists": [
         {
@@ -128,13 +128,13 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         },
         {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],
-      "duration_ms": 162875,
-      "name": "Love Lost",
-      "url": "https://open.spotify.com/track/2z9iuAxKv4TTeCrPAxxKg9"
+      "duration_ms": 195873,
+      "name": "The Spins",
+      "url": "https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Slide Park",
-        "url": "https://open.spotify.com/album/17mAoDs7T8EA9zzlj6QPBv"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 178902,
-      "name": "Missed Calls",
-      "url": "https://open.spotify.com/track/2ySc7XpO3sdt01UG986MwE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free Nationals",
         "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
       },
@@ -459,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 330506,
-      "name": "Surf",
-      "url": "https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faces",
         "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
       },
@@ -495,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "K.I.D.S.",
-        "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
       },
       "artists": [
         {
@@ -504,25 +472,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 164631,
-      "name": "Nikes on My Feet",
-      "url": "https://open.spotify.com/track/7cAFB83sEKAmwekVvQtGZj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GO:OD AM",
-        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 292466,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/19CkkPInDRDIOlqfrz1mVn"
+      "duration_ms": 330506,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR"
     },
     {
       "added_at": null,
@@ -551,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 292466,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/19CkkPInDRDIOlqfrz1mVn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Balloonerism",
         "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
       },
@@ -563,6 +531,22 @@
       "duration_ms": 263941,
       "name": "Funny Papers",
       "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Watching Movies with the Sound Off",
+        "url": "https://open.spotify.com/album/6iJ9Zu9fujJ9HHNt7cRauP"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 259143,
+      "name": "Objects in the Mirror",
+      "url": "https://open.spotify.com/track/5Tvqb0G5ePEWiOB6Gh2o3d"
     },
     {
       "added_at": null,
@@ -619,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GO:OD AM",
-        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+        "name": "K.I.D.S.",
+        "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
       },
       "artists": [
         {
@@ -628,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 180866,
-      "name": "Clubhouse",
-      "url": "https://open.spotify.com/track/7rdyAfIm1t6h6I1gyLtD17"
+      "duration_ms": 164631,
+      "name": "Nikes on My Feet",
+      "url": "https://open.spotify.com/track/7cAFB83sEKAmwekVvQtGZj"
     },
     {
       "added_at": null,
@@ -651,38 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watching Movies with the Sound Off",
-        "url": "https://open.spotify.com/album/6iJ9Zu9fujJ9HHNt7cRauP"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 259143,
-      "name": "Objects in the Mirror",
-      "url": "https://open.spotify.com/track/5Tvqb0G5ePEWiOB6Gh2o3d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Programs",
-        "url": "https://open.spotify.com/album/4RRqzZEFULTx6pafDBvOqZ"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 190186,
-      "name": "Programs",
-      "url": "https://open.spotify.com/track/1883mCuSqnfnrWoq8i3myH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GO:OD AM",
         "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
       },
@@ -692,41 +644,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 201840,
-      "name": "Rush Hour",
-      "url": "https://open.spotify.com/track/09VACB0akCnPueTFnjN5Pn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Circles (Deluxe)",
-        "url": "https://open.spotify.com/album/1YZ3k65Mqw3G8FzYlW1mmp"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 287871,
-      "name": "Right",
-      "url": "https://open.spotify.com/track/165cwz4wGlGz0uDBhxdKLY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Faces",
-        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 223794,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/2CNaYt7KbFqUrATbZZPY21"
+      "duration_ms": 180866,
+      "name": "Clubhouse",
+      "url": "https://open.spotify.com/track/7rdyAfIm1t6h6I1gyLtD17"
     },
     {
       "added_at": null,
@@ -747,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GO:OD AM (10th Anniversary)",
-        "url": "https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR"
+        "name": "Programs",
+        "url": "https://open.spotify.com/album/4RRqzZEFULTx6pafDBvOqZ"
       },
       "artists": [
         {
@@ -756,15 +676,15 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 78014,
-      "name": "Doors",
-      "url": "https://open.spotify.com/track/3gxEBah97U5N7UKFBBJrQR"
+      "duration_ms": 190186,
+      "name": "Programs",
+      "url": "https://open.spotify.com/track/1883mCuSqnfnrWoq8i3myH"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Macadelic",
-        "url": "https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q"
+        "name": "Circles (Deluxe)",
+        "url": "https://open.spotify.com/album/1YZ3k65Mqw3G8FzYlW1mmp"
       },
       "artists": [
         {
@@ -772,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 185779,
-      "name": "Thoughts from a Balcony",
-      "url": "https://open.spotify.com/track/1DWDoxqAXqMJ4B8QUMaQUw"
+      "duration_ms": 287871,
+      "name": "Right",
+      "url": "https://open.spotify.com/track/165cwz4wGlGz0uDBhxdKLY"
     },
     {
       "added_at": null,
@@ -788,9 +708,57 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 278506,
-      "name": "100 Grandkids",
-      "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
+      "duration_ms": 201840,
+      "name": "Rush Hour",
+      "url": "https://open.spotify.com/track/09VACB0akCnPueTFnjN5Pn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 223794,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/2CNaYt7KbFqUrATbZZPY21"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Slide Park",
+        "url": "https://open.spotify.com/album/17mAoDs7T8EA9zzlj6QPBv"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 178902,
+      "name": "Missed Calls",
+      "url": "https://open.spotify.com/track/2ySc7XpO3sdt01UG986MwE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GO:OD AM (10th Anniversary)",
+        "url": "https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 78014,
+      "name": "Doors",
+      "url": "https://open.spotify.com/track/3gxEBah97U5N7UKFBBJrQR"
     },
     {
       "added_at": null,
@@ -811,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 278506,
+      "name": "100 Grandkids",
+      "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Balloonerism",
         "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 222119,
       "name": "5 Dollar Pony Rides",
       "url": "https://open.spotify.com/track/1xKGnsdKOh8jx8pzSZAgXE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
+        "url": "https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 243034,
+      "name": "BDE Bonus",
+      "url": "https://open.spotify.com/track/4Pafh2Ndd9O4NgO53rqJxI"
     },
     {
       "added_at": null,
@@ -843,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
-        "url": "https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj"
+        "name": "Macadelic",
+        "url": "https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 243034,
-      "name": "BDE Bonus",
-      "url": "https://open.spotify.com/track/4Pafh2Ndd9O4NgO53rqJxI"
+      "duration_ms": 185779,
+      "name": "Thoughts from a Balcony",
+      "url": "https://open.spotify.com/track/1DWDoxqAXqMJ4B8QUMaQUw"
     }
   ],
   "unique_name": "This Is Mac Miller",

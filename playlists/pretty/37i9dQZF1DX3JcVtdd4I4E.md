@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 
 > Welcome to the Nordic queendom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,787 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,786 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,14 +26,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 16 | [Wild Geese, Wild Love](https://open.spotify.com/track/7wNUuMw0R3gtYBpxaoGb64) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Your Hand Forever Checking On My Fever](https://open.spotify.com/album/3NEBgveq4crE0VXBZVw4Q9) | 5:23 |
 | 17 | [Picking Up](https://open.spotify.com/track/6tNIRsPksF7AO6dzE2zjlP) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Romeo](https://open.spotify.com/album/4JILgQ2bXqNFc0QvIGb0LR) | 3:19 |
 | 18 | [Bad B\*tch](https://open.spotify.com/track/515DlGs3ur3soKeIomMFbL) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Eurostar](https://open.spotify.com/album/5WWpnaOe9Jq6EV8wHNHD3m) | 1:31 |
-| 19 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 |
-| 20 | [MANIC](https://open.spotify.com/track/68M0lk2tYUaQf1TVsEYSXS) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MANIC](https://open.spotify.com/album/7aZzOXdbZOl9A8FL3z1c20) | 2:18 |
-| 21 | [Pretty Boy](https://open.spotify.com/track/557jdZsn0FAltJXgenminf) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Pretty Boy](https://open.spotify.com/album/4gEi05Cy4bNjoa3Dme7tH5) | 3:51 |
-| 22 | [Du ska få en dag i mårgå](https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Du ska få en dag i mårgå](https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u) | 3:26 |
-| 23 | [Gravity](https://open.spotify.com/track/2wi2zCS4dz5a3yOcZ1u3Hd) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Gravity](https://open.spotify.com/album/5wn1hHXo5llTUY3vaahWfd) | 2:50 |
+| 19 | [Pretty Boy](https://open.spotify.com/track/557jdZsn0FAltJXgenminf) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Pretty Boy](https://open.spotify.com/album/4gEi05Cy4bNjoa3Dme7tH5) | 3:51 |
+| 20 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 |
+| 21 | [MANIC](https://open.spotify.com/track/68M0lk2tYUaQf1TVsEYSXS) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MANIC](https://open.spotify.com/album/7aZzOXdbZOl9A8FL3z1c20) | 2:18 |
+| 22 | [Gravity](https://open.spotify.com/track/2wi2zCS4dz5a3yOcZ1u3Hd) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Gravity](https://open.spotify.com/album/5wn1hHXo5llTUY3vaahWfd) | 2:50 |
+| 23 | [Du ska få en dag i mårgå](https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Du ska få en dag i mårgå](https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u) | 3:26 |
 | 24 | [How I Love You](https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 3:12 |
-| 25 | [Record Deal](https://open.spotify.com/track/6FdrYNu0r4XEK2jHTMq6Yx) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Record Deal](https://open.spotify.com/album/6mEUw9i8bI2eXDevJJHiVv) | 3:07 |
-| 26 | [24K Gold](https://open.spotify.com/track/78NhuVWEaTukGw1I61Wd1c) | [Malou Prytz](https://open.spotify.com/artist/70Pq7N5g2i37OP54Uwj42T) | [24K Gold](https://open.spotify.com/album/4oXZ87dBtRWJuLE9NzzKfT) | 2:42 |
+| 25 | [24K Gold](https://open.spotify.com/track/78NhuVWEaTukGw1I61Wd1c) | [Malou Prytz](https://open.spotify.com/artist/70Pq7N5g2i37OP54Uwj42T) | [24K Gold](https://open.spotify.com/album/4oXZ87dBtRWJuLE9NzzKfT) | 2:42 |
+| 26 | [Record Deal](https://open.spotify.com/track/6FdrYNu0r4XEK2jHTMq6Yx) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Record Deal](https://open.spotify.com/album/6mEUw9i8bI2eXDevJJHiVv) | 3:07 |
 | 27 | [Pornography](https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T), [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Pornography](https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK) | 3:46 |
 | 28 | [Dirt](https://open.spotify.com/track/2xGG2OZyI8Z5jlWRBAdfFa) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Dirt](https://open.spotify.com/album/193Hqvyp5LbPRv9jBd03uB) | 3:38 |
 | 29 | [The Hype](https://open.spotify.com/track/7KC8vYxJYGVugTqZRhrC5y) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [The Hype](https://open.spotify.com/album/7wl14HB2GYgR6ptsVuLq8z) | 3:34 |
@@ -58,14 +58,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 48 | [No Room For Love](https://open.spotify.com/track/3Xz5IqnHEeyJ9xnMJwXtla) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [No Room For Love](https://open.spotify.com/album/75Vumdz8ONJyJX3LGXHpf8) | 2:57 |
 | 49 | [Portland](https://open.spotify.com/track/43IbZJjKp3vo7t88TGjocB) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Portland](https://open.spotify.com/album/44HhRymrweWh8rKCHOpsWf) | 2:52 |
 | 50 | [Beautiful Woman](https://open.spotify.com/track/3awrIDBFGaAgR1NVoUwNjs) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Beautiful Woman](https://open.spotify.com/album/6XH2lCmGJBs3yCUSglARXW) | 3:33 |
-| 51 | [Psycho](https://open.spotify.com/track/7kw7fwv5oOs1jKnx8FfwMU) | [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [Psycho](https://open.spotify.com/album/17TD5aiZAItTy2ToJofnDp) | 2:42 |
-| 52 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 |
+| 51 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 |
+| 52 | [Psycho](https://open.spotify.com/track/7kw7fwv5oOs1jKnx8FfwMU) | [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [Psycho](https://open.spotify.com/album/17TD5aiZAItTy2ToJofnDp) | 2:42 |
 | 53 | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk) | 3:31 |
-| 54 | [I Hate San Francisco](https://open.spotify.com/track/604ZOG5yxHW5tqxUIFzIJ0) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [I Hate San Francisco](https://open.spotify.com/album/6pF4utdDeVRkUmHyny2C36) | 3:13 |
+| 54 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 |
 | 55 | [Test It](https://open.spotify.com/track/1UMAHQ2G23kmost9bTNv26) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Still](https://open.spotify.com/album/7ArSPwsw4Su6nyeId06SZH) | 2:46 |
-| 56 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 |
-| 57 | [It Takes a Fool to Remain Sane \- Spotify Singles](https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [It Takes a Fool to Remain Sane \(Spotify Singles\)](https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf) | 3:48 |
-| 58 | [When she holds me](https://open.spotify.com/track/7ELpkrJcANe6KBZi9KitCx) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Only music makes me cry now](https://open.spotify.com/album/6vHbkd7FkuJkyFZmp7Y8qS) | 4:03 |
+| 56 | [I Hate San Francisco](https://open.spotify.com/track/604ZOG5yxHW5tqxUIFzIJ0) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [I Hate San Francisco](https://open.spotify.com/album/6pF4utdDeVRkUmHyny2C36) | 3:13 |
+| 57 | [When she holds me](https://open.spotify.com/track/7ELpkrJcANe6KBZi9KitCx) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Only music makes me cry now](https://open.spotify.com/album/6vHbkd7FkuJkyFZmp7Y8qS) | 4:03 |
+| 58 | [It Takes a Fool to Remain Sane \- Spotify Singles](https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [It Takes a Fool to Remain Sane \(Spotify Singles\)](https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf) | 3:48 |
 | 59 | [Growing Pains](https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Growing Pains](https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk) | 3:08 |
 | 60 | [What It Feels Like](https://open.spotify.com/track/33ejPqwHiMJGVMSqbBmaJc) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [What It Feels Like](https://open.spotify.com/album/0Dw2vUpQUBBkNGM85o0ltK) | 2:58 |
 | 61 | [Always Hurts](https://open.spotify.com/track/7fj1Ny96E195t9mKIYYXFy) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Always Hurts](https://open.spotify.com/album/6usyLl3Ji7N9chhotFYZPR) | 3:17 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 75 | [Lupins In Blue](https://open.spotify.com/track/1JDepuBvpnzV4BLIPvA2re) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Lupins In Blue](https://open.spotify.com/album/5h0x1dJtmfnVwVBY3rNNyc) | 3:46 |
 | 76 | [h4msterb0y](https://open.spotify.com/track/6PNDkp573Zsb1yZDd4wjcD) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Live a Little Die a Lot](https://open.spotify.com/album/777Seg8Mc1blsN0SwnWu9l) | 2:48 |
 | 77 | [Drip](https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw) | [Tamara Mneney](https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV) | [Drip](https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R) | 3:50 |
-| 78 | [Love Me](https://open.spotify.com/track/7r7cr1PPSnGip1XdjlVLp2) | [ELIA](https://open.spotify.com/artist/6C7i0F5F27BbECshZENO8G) | [Love Me](https://open.spotify.com/album/7lFSkaGS5qrNBLIFswxn8H) | 2:24 |
-| 79 | [All I need](https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Desires](https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD) | 2:42 |
+| 78 | [All I need](https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Desires](https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD) | 2:42 |
+| 79 | [Love Me](https://open.spotify.com/track/7r7cr1PPSnGip1XdjlVLp2) | [ELIA](https://open.spotify.com/artist/6C7i0F5F27BbECshZENO8G) | [Love Me](https://open.spotify.com/album/7lFSkaGS5qrNBLIFswxn8H) | 2:24 |
 | 80 | [PARASITE](https://open.spotify.com/track/4L5jAC9hM6uJ9T7wW7SlXI) | [Wilma Vidal](https://open.spotify.com/artist/15rEuZ5MAH3TAzOWkEOj6O) | [PARASITE](https://open.spotify.com/album/4XWYTwYbIQ5Av9dcMrheEH) | 3:40 |
 
 Snapshot ID: `AAAAANr+4XnZvqTOAnxs18nXCIALzpYZ`

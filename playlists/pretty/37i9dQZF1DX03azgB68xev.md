@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Pop bops for the saints!  Cover: Taylor Hill
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,214 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,245 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

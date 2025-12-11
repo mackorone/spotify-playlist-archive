@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Es La Primera Vez",
+        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212733,
+      "name": "La Ingrata",
+      "url": "https://open.spotify.com/track/6Tj2PELeC20VCOspiyAfdc"
+    },
+    {
+      "album": {
         "name": "LA PLEBADA",
         "url": "https://open.spotify.com/album/4vP24qYsJChHCHPUvjFM5T"
       },

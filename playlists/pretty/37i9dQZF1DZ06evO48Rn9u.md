@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 
 > This is Kacey Musgraves\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,984 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,993 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
-| 2 | [Lost In Translation](https://open.spotify.com/track/2DQ4xJf4xm1Ho8yKQkOqgi) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Lost In Translation](https://open.spotify.com/album/31KEwBStOtt70o9CQk59vM) | 3:16 |
-| 3 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0MpQPb1hrwk4dPiyWEGmer) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:03 |
+| 2 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0MpQPb1hrwk4dPiyWEGmer) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:03 |
+| 3 | [Lost In Translation](https://open.spotify.com/track/2DQ4xJf4xm1Ho8yKQkOqgi) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Lost In Translation](https://open.spotify.com/album/31KEwBStOtt70o9CQk59vM) | 3:16 |
 | 4 | [Slow Burn](https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:06 |
 | 5 | [If The World Burns Down](https://open.spotify.com/track/5KChTqWwve2Z5JUE9AxJd9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Nobody Wants This Season 2: The Soundtrack](https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe) | 3:52 |
 | 6 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 | 49 | [Lost Highway](https://open.spotify.com/track/7okG4aydS3Sb8xZvI3BvLH) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Lost Highway](https://open.spotify.com/album/75xRAiBzaIxASbYLy8EJdf) | 3:09 |
 | 50 | [Ruthless](https://open.spotify.com/track/6eFNtM0QMmRxi6VphwDS1E) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 3:26 |
 
-Snapshot ID: `aTYVAAAAAABYIryIufCULqTkcc0KrQDV`
+Snapshot ID: `aTdmgAAAAACNairb//vJ1Xwx1rZjJzW3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yJCtG.md) - [plain]
 
 > This is Ella Mai\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,347 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,374 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yJCtG.md) - [plain]
 | 17 | [Piece of Me \(feat\. Ella Mai\)](https://open.spotify.com/track/6m4SEnC7eZLrgroEvwAmCF) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:16 |
 | 18 | [Our Song](https://open.spotify.com/track/0yRitNCPCHtBwOuHh88rzf) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs) | 3:19 |
 | 19 | [Close](https://open.spotify.com/track/3KVlk3I9qKGTPFpkWA20nh) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 4:11 |
-| 20 | [A Thousand Times](https://open.spotify.com/track/3ZzKKSPEOIfaSqkZ0cwXtN) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Time](https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu) | 3:57 |
-| 21 | [24/7 \(feat\. Ella Mai\)](https://open.spotify.com/track/6irE4Fbjbry3czv7mTxVSB) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:41 |
+| 20 | [24/7 \(feat\. Ella Mai\)](https://open.spotify.com/track/6irE4Fbjbry3czv7mTxVSB) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:41 |
+| 21 | [A Thousand Times](https://open.spotify.com/track/3ZzKKSPEOIfaSqkZ0cwXtN) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Time](https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu) | 3:57 |
 | 22 | [Trying](https://open.spotify.com/track/2EHaJElgdxeZG2bzCMVmMN) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:17 |
 | 23 | [Everything \(feat\. John Legend\)](https://open.spotify.com/track/0V6imIPZVXJEtl2umdNILO) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 3:01 |
 | 24 | [My Way](https://open.spotify.com/track/3x4Zx0rPoW6kErSDK8SSnW) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [READY](https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yJCtG.md) - [plain]
 | 49 | [IYKYK \(feat\. Ella Mai & A Boogie Wit Da Hoodie\)](https://open.spotify.com/track/76Nm6QNruFMrQc3HWTfreR) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [7220 \(Deluxe\)](https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX) | 3:03 |
 | 50 | [Surface](https://open.spotify.com/track/0y1lLLaSzHIVQZKHEfwOrm) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:14 |
 
-Snapshot ID: `aTYVAAAAAAAEMu2DgJ52/gJZ4++osCpp`
+Snapshot ID: `aTdmgAAAAAD9s/Ke354PzazymhBE1FEs`

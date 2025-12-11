@@ -646,7 +646,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 193364,
       "name": "Alice the Flower",
       "url": "https://open.spotify.com/track/30FZIAhj6ujNdp8rUyDrpK"
@@ -3040,7 +3040,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 182122,
       "name": "Circulate",
       "url": "https://open.spotify.com/track/6KLiC9xdmpnmAnymiHjHyW"
@@ -6327,6 +6327,24 @@
     },
     {
       "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/7ghjS8xQeygPmDwgwPR91J"
+      },
+      "artists": [
+        {
+          "name": "Ilumina",
+          "url": "https://open.spotify.com/artist/7nvOsk2E0bUlBJ0R4sakht"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189949,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/6rwtwwnopScHmRv5UWuwtQ"
+    },
+    {
+      "album": {
         "name": "Glowing",
         "url": "https://open.spotify.com/album/4DitEOWiNtUc6kl4KOUk5l"
       },
@@ -9456,7 +9474,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 158333,
       "name": "Momentary Respite",
       "url": "https://open.spotify.com/track/5v9S3XB8kXoR0ij9Vv9xyH"
@@ -12264,7 +12282,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 165555,
       "name": "Retrospective",
       "url": "https://open.spotify.com/track/0V56t7IiLWfF3YsXG8sB6i"
@@ -13801,6 +13819,24 @@
     },
     {
       "album": {
+        "name": "Soft Silence",
+        "url": "https://open.spotify.com/album/7k6hb8gseKUUQ91UWAlVmv"
+      },
+      "artists": [
+        {
+          "name": "Emberlace",
+          "url": "https://open.spotify.com/artist/7a7GAIop7VfMQgWiSphyQC"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154683,
+      "name": "Soft Silence",
+      "url": "https://open.spotify.com/track/7yg5waOHNjXVl3cdCGeL8D"
+    },
+    {
+      "album": {
         "name": "Softly Drift",
         "url": "https://open.spotify.com/album/7GpqbUVy8lUymLnjVEtmDL"
       },
@@ -14496,7 +14532,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 176698,
       "name": "Straight Ahead",
       "url": "https://open.spotify.com/track/15SPWU4M4H0yhK5Nto68Kb"
@@ -15954,7 +15990,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 172307,
       "name": "Twilight Reverie",
       "url": "https://open.spotify.com/track/5vpOK7O8ELpzq3vezWNnvx"
@@ -16858,6 +16894,24 @@
       "duration_ms": 135723,
       "name": "Within Reach",
       "url": "https://open.spotify.com/track/3exsS4AVm9MhF7iW7R0WqT"
+    },
+    {
+      "album": {
+        "name": "Without End",
+        "url": "https://open.spotify.com/album/1aLlpLqHOC6I2oxTMqeAIL"
+      },
+      "artists": [
+        {
+          "name": "Enviromental State",
+          "url": "https://open.spotify.com/artist/5tHKsyArg710bnAL9MAL42"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185945,
+      "name": "Without End",
+      "url": "https://open.spotify.com/track/1prY27FoKwXE1NwxOR3ChI"
     },
     {
       "album": {

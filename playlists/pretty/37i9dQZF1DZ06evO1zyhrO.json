@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 103799,
+  "num_followers": 103792,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAADzpQ2bMdKkRWBAWrgDK7F9",
+  "snapshot_id": "aTdmgAAAAAAXr4pBqMZWPTMzMjJ5jFLx",
   "tracks": [
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/6effz36583EebaQcS3ZOrM"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 214884,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/7kY1WABmdU172DhChtsdAP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What Is Love? (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 209133,
       "name": "We Were Just Kids (feat. Craig David & Kirsten Joy)",
       "url": "https://open.spotify.com/track/4w1Lnjryh7voWNEfNdj37G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/6effz36583EebaQcS3ZOrM"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 214884,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/7kY1WABmdU172DhChtsdAP"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/5jw97P9AddXp0lYCs5wRJO"
+        "name": "Commitment",
+        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 173244,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/7FnkxloNV0PSuwa5ruPhio"
+      "duration_ms": 178019,
+      "name": "Your Way",
+      "url": "https://open.spotify.com/track/2g7uNji2ayan37eqJEemka"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Commitment",
-        "url": "https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi"
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/5jw97P9AddXp0lYCs5wRJO"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 178019,
-      "name": "Your Way",
-      "url": "https://open.spotify.com/track/2g7uNji2ayan37eqJEemka"
+      "duration_ms": 173244,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/7FnkxloNV0PSuwa5ruPhio"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slicker than Your Average",
-        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 303400,
-      "name": "Spanish",
-      "url": "https://open.spotify.com/track/30QxFizyyxB7sPE8n7RWNJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Addicted (Radio Edit)",
         "url": "https://open.spotify.com/album/70XtossftXZXhbL4ZKfKWs"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 214970,
       "name": "Addicted - Radio Edit",
       "url": "https://open.spotify.com/track/627SOpaFBewVhekDAu5b8v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slicker than Your Average",
+        "url": "https://open.spotify.com/album/6USRXUZXe4keGs2yUj3Fis"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 303400,
+      "name": "Spanish",
+      "url": "https://open.spotify.com/track/30QxFizyyxB7sPE8n7RWNJ"
     },
     {
       "added_at": null,

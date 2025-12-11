@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,058 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,085 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 41 | [The Virus \- Alan Rosales Remix](https://open.spotify.com/track/5rl4Gu9AmRwqdXTaSbqeUZ) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z), [Saul Williams](https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm), [Chippewa Travellers](https://open.spotify.com/artist/4AaS8zEHLC20ExfrnuSMmV), [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs) | [The Virus \(Alan Rosales Remix\)](https://open.spotify.com/album/6O7PasfSomfuahcbJ20IXA) | 4:31 |
 | 42 | [Teneloa Kuikayotl](https://open.spotify.com/track/2mfIS4UaVhXS0wbWWyIBW7) | [Syztema](https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1), [Klpuyi](https://open.spotify.com/artist/1cA6ivn5bqKKiHOYegYPzk) | [Teneloa Kuikayotl](https://open.spotify.com/album/5pEcECmzDCO3lzDuZ7VI1W) | 2:54 |
 | 43 | [Trippyal](https://open.spotify.com/track/68r7Jv0bRXStZVCFII2os3) | [XAVO](https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM) | [Trippyal](https://open.spotify.com/album/0iZ8wdFNWdKEmgfy1aHmQY) | 2:50 |
-| 44 | [Alegría](https://open.spotify.com/track/1Ktzh5ku3Uej6jKls3cNWN) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [Dj Otto](https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK) | [Tu\-Ku\-Tu\-Tu\-Ku](https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O) | 3:22 |
-| 45 | [Rey de Reyes](https://open.spotify.com/track/1V5YTw9TVDAqebL0COO7A2) | [María y José](https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX) | [Club Negro](https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ) | 3:32 |
+| 44 | [Rey de Reyes](https://open.spotify.com/track/1V5YTw9TVDAqebL0COO7A2) | [María y José](https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX) | [Club Negro](https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ) | 3:32 |
+| 45 | [Alegría](https://open.spotify.com/track/1Ktzh5ku3Uej6jKls3cNWN) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [Dj Otto](https://open.spotify.com/artist/3ldc155y9UrrgKp8GPqVhK) | [Tu\-Ku\-Tu\-Tu\-Ku](https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O) | 3:22 |
 | 46 | [World 2014 \- Original Mix](https://open.spotify.com/track/0PKkZ8g0jX0Us85KGWER9A) | [DJ Giovanni Rios](https://open.spotify.com/artist/76Did245rD3G41QKmgu3Cx) | [Tribal Evolution](https://open.spotify.com/album/0jIJ8Io1ZLZHlHoNDYFm4b) | 2:38 |
 | 47 | [Aborigen](https://open.spotify.com/track/0srCM4dc9VUGoBgImfidCs) | [Klpuyi](https://open.spotify.com/artist/1cA6ivn5bqKKiHOYegYPzk) | [Aborigen](https://open.spotify.com/album/4CJTY5eoKpGU5n8dOBtyTy) | 2:32 |
 | 48 | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7) | 3:09 |
-| 49 | [Fuego](https://open.spotify.com/track/09E7BhLRJzvbZu764omlgl) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [DJ Mouse](https://open.spotify.com/artist/1Drh9VlADqYyM1RXvTVvsk) | [Tu\-Ku\-Tu\-Tu\-Ku](https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O) | 3:05 |
-| 50 | [Violentao \(Feat\. Sheeqo Beat\)](https://open.spotify.com/track/1pFruucew24311dJNbcjMZ) | [María y José](https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX) | [Club Negro](https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ) | 4:58 |
+| 49 | [Violentao \(Feat\. Sheeqo Beat\)](https://open.spotify.com/track/1pFruucew24311dJNbcjMZ) | [María y José](https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX) | [Club Negro](https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ) | 4:58 |
+| 50 | [Fuego](https://open.spotify.com/track/09E7BhLRJzvbZu764omlgl) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [DJ Mouse](https://open.spotify.com/artist/1Drh9VlADqYyM1RXvTVvsk) | [Tu\-Ku\-Tu\-Tu\-Ku](https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O) | 3:05 |
 
 Snapshot ID: `AAAAALtFeFvwHQkxqj3q7puF3PrlH/Nd`

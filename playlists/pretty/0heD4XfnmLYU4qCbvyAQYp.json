@@ -6,7 +6,7 @@
     "name": "Reinhard Zwisler",
     "url": "https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi"
   },
-  "snapshot_id": "AAAOHpzv2opGrPO6bOrxQmX4UwubmG55",
+  "snapshot_id": "AAAOIrTSJbxXTOR4fE9hcRG3ZfWoFh69",
   "tracks": [
     {
       "added_at": "2025-11-02 19:58:22",
@@ -397,6 +397,22 @@
       "url": "https://open.spotify.com/track/0EpdxqFRCUeyVMF60GEBx3"
     },
     {
+      "added_at": "2025-12-10 15:07:33",
+      "album": {
+        "name": "Nomads",
+        "url": "https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm"
+      },
+      "artists": [
+        {
+          "name": "Synthetic Broadcast",
+          "url": "https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ"
+        }
+      ],
+      "duration_ms": 159012,
+      "name": "Ascent",
+      "url": "https://open.spotify.com/track/07jLXJM0cPtkusSIsggBPx"
+    },
+    {
       "added_at": "2025-05-04 12:14:33",
       "album": {
         "name": "Better Not Be Late",
@@ -767,6 +783,54 @@
       "duration_ms": 308593,
       "name": "Apolitico",
       "url": "https://open.spotify.com/track/1bBKdkkz0ohLg1ACo17kl7"
+    },
+    {
+      "added_at": "2025-12-10 13:52:05",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/7zJxan3akf2KbCg6snqX3L"
+      },
+      "artists": [
+        {
+          "name": "Flying Earrings",
+          "url": "https://open.spotify.com/artist/4rIm3b1CR7sR47AG5qzjcy"
+        }
+      ],
+      "duration_ms": 405666,
+      "name": "Warpaint",
+      "url": "https://open.spotify.com/track/3YUxt5V51agQZDIBTn2Wp2"
+    },
+    {
+      "added_at": "2025-12-10 13:52:06",
+      "album": {
+        "name": "All That We Need",
+        "url": "https://open.spotify.com/album/3aFfX6KlURt9DGYVDEk0Qq"
+      },
+      "artists": [
+        {
+          "name": "Southern States",
+          "url": "https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2"
+        }
+      ],
+      "duration_ms": 172988,
+      "name": "All That We Need",
+      "url": "https://open.spotify.com/track/6YdIHTbtkfjXuE1sDTQzAy"
+    },
+    {
+      "added_at": "2025-12-10 15:06:41",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/6ixZhNfLmOmNP07YNXBpvw"
+      },
+      "artists": [
+        {
+          "name": "Amber View",
+          "url": "https://open.spotify.com/artist/4PFFRw0s8pAuo96glIcFBC"
+        }
+      ],
+      "duration_ms": 222705,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/1aac1kuHZNKvUCPbNkPrjd"
     }
   ],
   "unique_name": "Indie Rock",

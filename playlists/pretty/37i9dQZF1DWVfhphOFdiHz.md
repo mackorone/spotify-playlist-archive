@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops and LGBTQIA+ artists only\. Cover: Eli
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,388 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,399 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Glitter](https://open.spotify.com/track/0y9S3dw1MBzHqmTpMTTd0M) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Glitter](https://open.spotify.com/album/3ISicmxJuaKEZEbKDJuOdo) | 3:11 |
 | 2 | [SADDERN RETURN](https://open.spotify.com/track/54Gpi6bYNBcLTD2c48aTP7) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [SADDERN RETURN](https://open.spotify.com/album/5yvaaQvRCrCkbbTdHWtyZ8) | 2:28 |
-| 3 | [Giant Armadillo \(feat\. NATURE\)](https://open.spotify.com/track/5NvFdae8idGVQPSdVg2rJm) | [On The Edge](https://open.spotify.com/artist/79DNIFQSRxq7DUGgs9QpqE), [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Giant Armadillo \(feat\. NATURE\)](https://open.spotify.com/album/07DVPd1gMbaTPxBHyc35zv) | 1:02 |
+| 3 | [Giant Armadillo](https://open.spotify.com/track/5NvFdae8idGVQPSdVg2rJm) | [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj), [On The Edge](https://open.spotify.com/artist/79DNIFQSRxq7DUGgs9QpqE), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Giant Armadillo](https://open.spotify.com/album/07DVPd1gMbaTPxBHyc35zv) | 1:02 |
 | 4 | [Pinup Boy \(Cello Remix\)](https://open.spotify.com/track/3XNDTxorLcjCWcbFamtvZX) | [Kat Cunning](https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK) | [Pinup Boy \(Stripped\)](https://open.spotify.com/album/7BpeCKLCMOgagsSCAc28hV) | 3:26 |
 | 5 | [Close](https://open.spotify.com/track/45rhLThw1B8pVCRHPp8XKk) | [MERLYN](https://open.spotify.com/artist/5wU0O4GVGiJe1NKtheSHWr) | [Close](https://open.spotify.com/album/2htlUER9ivGAGGzTf5h9Z7) | 4:38 |
 | 6 | [Hurt My Feelings](https://open.spotify.com/track/7FQT5zAGge0PhvZysUozXB) | [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | [Scandalous](https://open.spotify.com/album/2o1HYObYf8GEYznCsvSLfO) | 2:56 |

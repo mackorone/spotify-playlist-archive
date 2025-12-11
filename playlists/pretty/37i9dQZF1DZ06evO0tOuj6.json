@@ -1,12 +1,12 @@
 {
   "description": "This is Tokyo Ska Paradise Orchestra. The essential tracks, all in one playlist.",
-  "num_followers": 39032,
+  "num_followers": 39031,
   "original_name": "This Is Tokyo Ska Paradise Orchestra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAADwCrrg7WxndAJbY9skt4mV",
+  "snapshot_id": "aTdmgAAAAABTDpZMg7b4fQhBW+j87Kcz",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIGH NUMBERS",
-        "url": "https://open.spotify.com/album/2Oeay5NypddOiNOgtBbXgr"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 253266,
-      "name": "\u9280\u6cb3\u3068\u8ff7\u8def",
-      "url": "https://open.spotify.com/track/0rTWtMSSpo7SLXJh2N9r4G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u308b\u308d\u3046\u306e\u5f62\u4ee3",
         "url": "https://open.spotify.com/album/1z3z4NyD2ZqalZB8HsumO4"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 204373,
       "name": "\u308b\u308d\u3046\u306e\u5f62\u4ee3",
       "url": "https://open.spotify.com/track/5CIkjGfSK8B46So8gmbwCV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HIGH NUMBERS",
+        "url": "https://open.spotify.com/album/2Oeay5NypddOiNOgtBbXgr"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 253266,
+      "name": "\u9280\u6cb3\u3068\u8ff7\u8def",
+      "url": "https://open.spotify.com/track/0rTWtMSSpo7SLXJh2N9r4G"
     },
     {
       "added_at": null,
@@ -467,22 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "to live (feat.LEO)",
-        "url": "https://open.spotify.com/album/7DXJlxeTigq0dYr3ashRvb"
+        "name": "Coco (Original Motion Picture Soundtrack/Japanese Version)",
+        "url": "https://open.spotify.com/album/0UYGH1uVYPr2Fzqw6lyjd9"
       },
       "artists": [
         {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+          "name": "Kavka Shishido",
+          "url": "https://open.spotify.com/artist/0dlbyoDrOHqBVQpKdPuUB8"
         },
         {
-          "name": "LEO",
-          "url": "https://open.spotify.com/artist/09SM0HFZW4tOpELk4yDF6v"
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
         }
       ],
-      "duration_ms": 329306,
-      "name": "to live - feat.LEO",
-      "url": "https://open.spotify.com/track/47IsOwtg6R1jVu12E5sKgZ"
+      "duration_ms": 178973,
+      "name": "Remember Me (End Credit Version) - Japanese Version",
+      "url": "https://open.spotify.com/track/43bGrywq4gIWKawbTKVUUk"
     },
     {
       "added_at": null,
@@ -507,22 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coco (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/0UYGH1uVYPr2Fzqw6lyjd9"
+        "name": "to live (feat.LEO)",
+        "url": "https://open.spotify.com/album/7DXJlxeTigq0dYr3ashRvb"
       },
       "artists": [
         {
-          "name": "Kavka Shishido",
-          "url": "https://open.spotify.com/artist/0dlbyoDrOHqBVQpKdPuUB8"
-        },
-        {
           "name": "Tokyo Ska Paradise Orchestra",
           "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "LEO",
+          "url": "https://open.spotify.com/artist/09SM0HFZW4tOpELk4yDF6v"
         }
       ],
-      "duration_ms": 178973,
-      "name": "Remember Me (End Credit Version) - Japanese Version",
-      "url": "https://open.spotify.com/track/43bGrywq4gIWKawbTKVUUk"
+      "duration_ms": 329306,
+      "name": "to live - feat.LEO",
+      "url": "https://open.spotify.com/track/47IsOwtg6R1jVu12E5sKgZ"
     },
     {
       "added_at": null,
@@ -611,42 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u3081\u3067\u305f\u3057\u30bd\u30f3\u30b0 feat.\u30e0\u30ed\u30c4\u30e8\u30b7",
-        "url": "https://open.spotify.com/album/4jQPR3IaxMJkH8e8gCwZoH"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "\u30e0\u30ed\u30c4\u30e8\u30b7",
-          "url": "https://open.spotify.com/artist/5Tqul890RRqMSDkmLNw5Jr"
-        }
-      ],
-      "duration_ms": 282363,
-      "name": "\u3081\u3067\u305f\u3057\u30bd\u30f3\u30b0 feat.\u30e0\u30ed\u30c4\u30e8\u30b7",
-      "url": "https://open.spotify.com/track/61aXifFjpzPth7uaCPUjEx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30b9\u30ab\u30d1\u30e9\u767b\u5834",
-        "url": "https://open.spotify.com/album/3Isu8uqZJR9rpLQUsrOJA0"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 131893,
-      "name": "\u541b\u3068\u50d5",
-      "url": "https://open.spotify.com/track/0SAJaOuI1rksHdpxJWbpeb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u6563\u308a\u3086\u304f\u82b1\u306e\u305b\u3044\u3067",
         "url": "https://open.spotify.com/album/5rYnsyLY11mDwQVJVwxu5u"
       },
@@ -663,6 +627,26 @@
       "duration_ms": 269500,
       "name": "\u6563\u308a\u3086\u304f\u82b1\u306e\u305b\u3044\u3067",
       "url": "https://open.spotify.com/track/10JVAH3MIlfRzyYWvzLQpz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u3081\u3067\u305f\u3057\u30bd\u30f3\u30b0 feat.\u30e0\u30ed\u30c4\u30e8\u30b7",
+        "url": "https://open.spotify.com/album/4jQPR3IaxMJkH8e8gCwZoH"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "\u30e0\u30ed\u30c4\u30e8\u30b7",
+          "url": "https://open.spotify.com/artist/5Tqul890RRqMSDkmLNw5Jr"
+        }
+      ],
+      "duration_ms": 282363,
+      "name": "\u3081\u3067\u305f\u3057\u30bd\u30f3\u30b0 feat.\u30e0\u30ed\u30c4\u30e8\u30b7",
+      "url": "https://open.spotify.com/track/61aXifFjpzPth7uaCPUjEx"
     },
     {
       "added_at": null,
@@ -687,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u307e\u3060\u3001\u8ae6\u3081\u3066\u306a\u3044\u3060\u308d\uff1f",
-        "url": "https://open.spotify.com/album/2gGIqRRZSoG5OPJTWHO0SD"
+        "name": "\u30b9\u30ab\u30d1\u30e9\u767b\u5834",
+        "url": "https://open.spotify.com/album/3Isu8uqZJR9rpLQUsrOJA0"
       },
       "artists": [
         {
@@ -696,9 +680,9 @@
           "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
         }
       ],
-      "duration_ms": 182366,
-      "name": "\u307e\u3060\u3001\u8ae6\u3081\u3066\u306a\u3044\u3060\u308d\uff1f",
-      "url": "https://open.spotify.com/track/6ys35dKFL6Z2RiBPqhqfDT"
+      "duration_ms": 131893,
+      "name": "\u541b\u3068\u50d5",
+      "url": "https://open.spotify.com/track/0SAJaOuI1rksHdpxJWbpeb"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u307e\u3060\u3001\u8ae6\u3081\u3066\u306a\u3044\u3060\u308d\uff1f",
+        "url": "https://open.spotify.com/album/2gGIqRRZSoG5OPJTWHO0SD"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 182366,
+      "name": "\u307e\u3060\u3001\u8ae6\u3081\u3066\u306a\u3044\u3060\u308d\uff1f",
+      "url": "https://open.spotify.com/track/6ys35dKFL6Z2RiBPqhqfDT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SKA ME FOREVER",
         "url": "https://open.spotify.com/album/7FRUaVNNKto1z5YAbThI4P"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamond In Your Heart",
-        "url": "https://open.spotify.com/album/579Nh3mt3qtwk9q3jRNkNC"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 337186,
-      "name": "Diamond In Your Heart",
-      "url": "https://open.spotify.com/track/7aqiDKiC83zDz54vzp0QtV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30b0\u30e9\u30f3\u30d7\u30ea",
         "url": "https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 336933,
       "name": "WATERMELON",
       "url": "https://open.spotify.com/track/081ccCOe9myoXhqDm9uNTh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamond In Your Heart",
+        "url": "https://open.spotify.com/album/579Nh3mt3qtwk9q3jRNkNC"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 337186,
+      "name": "Diamond In Your Heart",
+      "url": "https://open.spotify.com/track/7aqiDKiC83zDz54vzp0QtV"
     },
     {
       "added_at": null,

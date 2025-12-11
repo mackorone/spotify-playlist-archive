@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 
 > 2000년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,988 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,008 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 57 | [파도](https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [Traveling You](https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2) | 4:11 |
 | 58 | [아로하](https://open.spotify.com/track/1uRB9bYGCSvLSsF4e65UYj) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 4:25 |
 | 59 | [혜성](https://open.spotify.com/track/1JrzvYMdLqHGBa6jmnBXia) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [혜성](https://open.spotify.com/album/2hGIulY9CjIWsQ8Rqed6fZ) | 3:14 |
-| 60 | [Tears](https://open.spotify.com/track/02laG0v03OGNH74mEWOH3V) | [So Chan\-Whee](https://open.spotify.com/artist/7fgBlQWIOLXuOwQ2nLS2FI) | [DJ Chully's Handsome Vol.1](https://open.spotify.com/album/5QqBi6noPokRSDtKOdXaTH) | 3:25 |
-| 61 | [Pretty Girl](https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Pretty Girl \(2nd Mini Album\)](https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH) | 3:29 |
-| 62 | [김밥](https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f) | [The Jadu](https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU) | [The Jadu 3](https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4) | 3:45 |
-| 63 | [그녀를 사랑해줘요](https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Stand Alone](https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i) | 4:19 |
+| 60 | [Pretty Girl](https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Pretty Girl \(2nd Mini Album\)](https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH) | 3:29 |
+| 61 | [Tears](https://open.spotify.com/track/02laG0v03OGNH74mEWOH3V) | [So Chan\-Whee](https://open.spotify.com/artist/7fgBlQWIOLXuOwQ2nLS2FI) | [DJ Chully's Handsome Vol.1](https://open.spotify.com/album/5QqBi6noPokRSDtKOdXaTH) | 3:25 |
+| 62 | [그녀를 사랑해줘요](https://open.spotify.com/track/4YQGPR4KGFMnSS8lUQPdbs) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Stand Alone](https://open.spotify.com/album/67ibv6vTadhuxdFgZ4eV4i) | 4:19 |
+| 63 | [김밥](https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f) | [The Jadu](https://open.spotify.com/artist/6JVKVXmG208oS6QxiidDAU) | [The Jadu 3](https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4) | 3:45 |
 | 64 | [죄와 벌 \(罪와 罰\)](https://open.spotify.com/track/2yfD1eKDVlNRxDUE5Q1n3Y) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [살다가](https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe) | 4:03 |
 | 65 | [Girls On Top](https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Girls On Top](https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6) | 3:38 |
 | 66 | [날 그만 잊어요](https://open.spotify.com/track/48019yKa8kJowllkqICDIi) | [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [It's Different](https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf) | 4:31 |
@@ -98,13 +98,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 88 | [I drink again](https://open.spotify.com/track/68SpcwzDfyFYaM6dMSEtRk) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Re \- Feel](https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w) | 4:05 |
 | 89 | [Saturday Night](https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj) | [Son Dam Bi](https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU) | [Type B \(1\)](https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC) | 3:42 |
 | 90 | [사랑은 봄비처럼...이별은 겨울비처럼](https://open.spotify.com/track/2cCC4S226r1tws0d2vDDdO) | [Lim Hyun Jung](https://open.spotify.com/artist/7qUALZhWSQIwqTw1auwwCc) | [A Year Out...In The Island](https://open.spotify.com/album/1dBnTVRHXXPUsDch7FIkV8) | 4:40 |
-| 91 | [In dreams](https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Op\. 4](https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F) | 5:37 |
-| 92 | [You Don't Know Men](https://open.spotify.com/track/5HlhynrLSnGBWfZaTOXkGc) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [fuzz \. Buzz](https://open.spotify.com/album/0gLmRYm4KjIRmYM9jUcEux) | 4:13 |
-| 93 | [Seulpun honjatmal](https://open.spotify.com/track/0JRVGUATX7IKaKVwsgExmj) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Gugip: C.J.2002](https://open.spotify.com/album/706OvChSHJpCoIeyfpZQEs) | 4:20 |
-| 94 | [Wild Eyes](https://open.spotify.com/track/5uvNlHJPu9mOcYT64rxRbl) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [HEY, COME ON! \- The 4th Album](https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul) | 3:21 |
-| 95 | [Snow Prince](https://open.spotify.com/track/1RDa57Qh5kWFYUHkQuwSJa) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [SS501 \(Single\) 2집](https://open.spotify.com/album/5r0EVa4QA5EHKSzFQLwFeq) | 3:24 |
-| 96 | [Descent of Warriors](https://open.spotify.com/track/0HiKR0bVxA7VJCShQ6HrUC) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [We Hate All Kinds of Violence..\. \- The 1st Album](https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP) | 4:24 |
-| 97 | [미인](https://open.spotify.com/track/68fLjAO2M0FuG7OPXZDg9U) | [Lee Ki\-chan](https://open.spotify.com/artist/06lmDAKbe4tXjN9m7bRaQj) | [Para Ti](https://open.spotify.com/album/18lNhdkcBXHKkCG4HFnNZo) | 3:38 |
+| 91 | [Snow Prince](https://open.spotify.com/track/1RDa57Qh5kWFYUHkQuwSJa) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [SS501 \(Single\) 2집](https://open.spotify.com/album/5r0EVa4QA5EHKSzFQLwFeq) | 3:24 |
+| 92 | [In dreams](https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Op\. 4](https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F) | 5:37 |
+| 93 | [You Don't Know Men](https://open.spotify.com/track/5HlhynrLSnGBWfZaTOXkGc) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [fuzz \. Buzz](https://open.spotify.com/album/0gLmRYm4KjIRmYM9jUcEux) | 4:13 |
+| 94 | [Seulpun honjatmal](https://open.spotify.com/track/0JRVGUATX7IKaKVwsgExmj) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Gugip: C.J.2002](https://open.spotify.com/album/706OvChSHJpCoIeyfpZQEs) | 4:20 |
+| 95 | [Wild Eyes](https://open.spotify.com/track/5uvNlHJPu9mOcYT64rxRbl) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [HEY, COME ON! \- The 4th Album](https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul) | 3:21 |
+| 96 | [미인](https://open.spotify.com/track/68fLjAO2M0FuG7OPXZDg9U) | [Lee Ki\-chan](https://open.spotify.com/artist/06lmDAKbe4tXjN9m7bRaQj) | [Para Ti](https://open.spotify.com/album/18lNhdkcBXHKkCG4HFnNZo) | 3:38 |
+| 97 | [Descent of Warriors](https://open.spotify.com/track/0HiKR0bVxA7VJCShQ6HrUC) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [We Hate All Kinds of Violence..\. \- The 1st Album](https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP) | 4:24 |
 | 98 | [Ice Cream](https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [The Way I Am](https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk) | 3:36 |
 | 99 | [Nothing Better](https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 4:23 |
 | 100 | [Missing you](https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Longing](https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva) | 3:52 |

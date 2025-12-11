@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 
 > Defining songs of the riot grrrl era and the artists keeping its spirit alive
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,331 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,368 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 32 | [Sweet '69](https://open.spotify.com/track/55oE1XL7HceNY7VR7Nz4yu) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Nemesisters](https://open.spotify.com/album/7KGRLGS0Bwc494GS7awFsL) | 4:04 |
 | 33 | [Wargasm](https://open.spotify.com/track/7b1snQi3wWfUPmRrPvK0ny) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 2:42 |
 | 34 | [I Wanna Be Your Joey Ramone](https://open.spotify.com/track/1WDqjH0PJ8ruWQXsp3bN2Z) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Call the Doctor \(Remastered\)](https://open.spotify.com/album/3ULIRcAOMyaT6K4gIhX8aJ) | 2:36 |
-| 35 | [White Flag](https://open.spotify.com/track/3qlmCOHjmpGUISp5nXU9LJ) | [Slutever](https://open.spotify.com/artist/4TBQj88AvHlzsLhzP12GuD) | [White Flag](https://open.spotify.com/album/0yFMCvJNbUpkiWxzANvkzA) | 2:26 |
-| 36 | [50ft Queenie](https://open.spotify.com/track/3fJprjhRxTVtOp18EHdNfu) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 2:23 |
+| 35 | [50ft Queenie](https://open.spotify.com/track/3fJprjhRxTVtOp18EHdNfu) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 2:23 |
+| 36 | [White Flag](https://open.spotify.com/track/3qlmCOHjmpGUISp5nXU9LJ) | [Slutever](https://open.spotify.com/artist/4TBQj88AvHlzsLhzP12GuD) | [White Flag](https://open.spotify.com/album/0yFMCvJNbUpkiWxzANvkzA) | 2:26 |
 | 37 | [superiority complex \(big noise\)](https://open.spotify.com/track/4RAPGBiC5HJN7sFr1B6EsG) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [FREE I.H: This Is Not the One You've Been Waiting For](https://open.spotify.com/album/2Epa4HydFeZJ6rxm8OZ7aw) | 1:34 |
 | 38 | [Eating Toothpaste](https://open.spotify.com/track/3woDV8HAFSwgS8uTWrjYFI) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Ladies, Women and Girls](https://open.spotify.com/album/6kRFwx5Yj0sFOMeXgm8PbQ) | 2:26 |
 | 39 | [Luxury Problem](https://open.spotify.com/track/7KB9Su9uFdJDgk5iKOmDhF) | [Lunachicks](https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X) | [Luxury Problem](https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr) | 2:53 |

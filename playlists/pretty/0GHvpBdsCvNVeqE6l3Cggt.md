@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 48 songs - 2 hr 56 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 49 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,6 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 46 | [Diamond Heart](https://open.spotify.com/track/37KoS6sJSBBMFa5trmgnAB) | [Savannah Strand](https://open.spotify.com/artist/68FlWXB4GVJsD920sPw1Lv) | [Diamond Heart](https://open.spotify.com/album/4ujXStmyOUakTcn9XlXUVp) | 2:55 |
 | 47 | [Therapy](https://open.spotify.com/track/1U1FTBN5znCUUDB3JqKOSK) | [Phoeno](https://open.spotify.com/artist/5KnD9mAsf1y1TYEqpeew7B) | [Therapy](https://open.spotify.com/album/7sNvJT5XBn7EPUqfeyDmtA) | 3:29 |
 | 48 | [People Run Dry](https://open.spotify.com/track/66lBvRguoKVNAIBymIP17G) | [Vinther](https://open.spotify.com/artist/5T6gYcFjSGU9batnL7c4LA) | [People Run Dry](https://open.spotify.com/album/05EJHnYqtEVjtoK9oMkcKe) | 3:13 |
+| 49 | [Algebra](https://open.spotify.com/track/1vLEUjeuQeLI4GX3eLSkqY) | [Tellaro](https://open.spotify.com/artist/40eY19JGg5JAtZ0FwDNOx7) | [Algebra](https://open.spotify.com/album/6EjjadiT6PZLInrMyr6gsy) | 4:13 |
 
-Snapshot ID: `AAAjsjqovtqE0Ufp9QWNP2RxE8fB2SAV`
+Snapshot ID: `AAAjs6PGTsj8epff1QQaLOWaATtPcpT9`

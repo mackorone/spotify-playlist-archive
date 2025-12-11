@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24BqQE.md) - [plain]
 
 > This is BNXN\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,292 likes - 42 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,313 likes - 42 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24BqQE.md) - [plain]
 | 26 | [Ilashe](https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:40 |
 | 27 | [Lenu \- Remix](https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Lenu \(Remix\)](https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb) | 3:33 |
 | 28 | [Bad Since '97](https://open.spotify.com/track/5t5oLw5209yleTnJSqM097) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:14 |
-| 29 | [Feeling](https://open.spotify.com/track/1z567QCaLLuRE7ZxQS5oYS) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Feeling](https://open.spotify.com/album/3JtqyAW9kr3vMKWyHlo6wD) | 3:44 |
+| 29 | [Best Of Me](https://open.spotify.com/track/3Z19t8pNaAHqlLmz2LuwNa) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:51 |
 | 30 | [Calculate Love](https://open.spotify.com/track/6SQNUYQB4FEMS3UfTDZ5kd) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 3:01 |
-| 31 | [Best Of Me](https://open.spotify.com/track/3Z19t8pNaAHqlLmz2LuwNa) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:51 |
+| 31 | [Feeling](https://open.spotify.com/track/1z567QCaLLuRE7ZxQS5oYS) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Feeling](https://open.spotify.com/album/3JtqyAW9kr3vMKWyHlo6wD) | 3:44 |
 | 32 | [Loose Emotions](https://open.spotify.com/track/6PAHjYMVquDNSYAA8nvgkd) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:45 |
 | 33 | [Never Stopped](https://open.spotify.com/track/3uxhxNWTwL9kYJNbXKRGDm) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sorry I'm Late](https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u) | 3:20 |
 | 34 | [Traboski](https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Traboski](https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN) | 2:35 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24BqQE.md) - [plain]
 | 41 | [Hustle](https://open.spotify.com/track/1IcnpAY3JjK8b0dkpCZjdS) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [ATSG, Vol\. 1](https://open.spotify.com/album/0eVa4HR3x7BlftG6OsvTAn) | 3:09 |
 | 42 | [No Spoil My Steeze](https://open.spotify.com/track/7vT1tAmx5F8P2Fat7gqsZz) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [No Spoil My Steeze](https://open.spotify.com/album/7keuk7sJUYxoVCDaZTeve6) | 3:31 |
 
-Snapshot ID: `aTYVAAAAAAAFczA9XEXH6qVkNjKgKodj`
+Snapshot ID: `aTdmgAAAAAAHVBlskhwFEqFGZ5Z2uxIu`

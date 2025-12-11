@@ -4,7 +4,7 @@
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-165 songs - 8 hr 13 min
+166 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [STAY](https://open.spotify.com/track/2cEt3vw0bEhhdeJsp6hk0u) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 2:19 | 2023-02-16 | 2024-11-03 |
 | [Stick Season](https://open.spotify.com/track/3rnzQyGibuUqEJgVKL7lew) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Stick Season](https://open.spotify.com/album/50bMFXY8AbOMdSXvfu9CAl) | 3:00 | 2024-03-30 | 2024-07-16 |
 | [Strangers](https://open.spotify.com/track/2cdV8rABAvNCoXtyDIUhCI) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Strangers](https://open.spotify.com/album/1LyxWPM9OifFw2Yi6UNSqK) | 2:52 | 2024-03-16 | 2024-09-06 |
+| [Style](https://open.spotify.com/track/3lJImcZQoAsUJMeuqeybiX) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Non Stop Pop](https://open.spotify.com/album/5F79wN6kif0PJ7zkWaCyqW) | 3:09 | 2025-12-11 |  |
 | [Sunroof](https://open.spotify.com/track/7dWpEhaV9bcooDdf9i78sz) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023](https://open.spotify.com/album/5YOe3aJeBjlLA9IuOWyWD5) | 2:27 | 2023-02-16 |  |
 | [Sure Thing](https://open.spotify.com/track/6xK0Wl7bMml6WIVpf1T7Rp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Sure Thing](https://open.spotify.com/album/0yHOOLzYRp9n05wnXCF9Lw) | 3:17 | 2023-05-27 | 2023-10-05 |
 | [SÚPER ULTRA MEGA](https://open.spotify.com/track/7jhjNn4QQjIfzwltcUpGW5) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [SÚPER ULTRA MEGA](https://open.spotify.com/album/66dVrkPQI572wGVDrysD4F) | 2:50 | 2023-11-10 | 2023-12-31 |
@@ -145,7 +146,7 @@
 | [This Is Halloween](https://open.spotify.com/track/2kKLdZHp3Tfj140BgnbiuJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 3:27 | 2023-11-10 | 2023-12-14 |
 | [This Is Halloween](https://open.spotify.com/track/3QsptSGRAWjnCXfyZpTCxS) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween \- 2025](https://open.spotify.com/album/0zpp0s65RPkN4RTu1NSOlj) | 3:27 | 2025-10-29 | 2025-11-01 |
 | [Thriller](https://open.spotify.com/track/4wlwlAi9yyJkRpZA0NTXaS) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 3:51 | 2023-11-10 | 2025-01-06 |
-| [Thriller \- 2022](https://open.spotify.com/track/5WKSxaM7lert3Bp6vI6VZ3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween \- 2025](https://open.spotify.com/album/0zpp0s65RPkN4RTu1NSOlj) | 3:57 | 2025-10-25 |  |
+| [Thriller \- 2022](https://open.spotify.com/track/5WKSxaM7lert3Bp6vI6VZ3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween \- 2025](https://open.spotify.com/album/0zpp0s65RPkN4RTu1NSOlj) | 3:57 | 2025-10-25 | 2025-12-11 |
 | [Thunder](https://open.spotify.com/track/6zJiQz6bAScLMLn2OzhN6o) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 37](https://open.spotify.com/album/48NOB9lIic6YIouK1B4GMj) | 2:26 | 2025-03-23 |  |
 | [Thunder](https://open.spotify.com/track/7KrJI4fnTBGYIWzkEuCi1V) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 2:35 | 2024-10-26 | 2025-01-27 |
 | [Timber](https://open.spotify.com/track/5OKuFJwEG73Ni7TXbCMZKW) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 26](https://open.spotify.com/album/6AsZVhKAx8srkIJugNmYOj) | 3:10 | 2024-11-18 |  |

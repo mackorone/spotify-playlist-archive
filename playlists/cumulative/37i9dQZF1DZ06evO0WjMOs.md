@@ -4,7 +4,7 @@
 
 > This is Lizzy McAlpine\. The essential tracks, all in one playlist.
 
-95 songs - 5 hr 22 min
+96 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Everything Ends \(feat\. Lizzy McAlpine and Tiny Habits\)](https://open.spotify.com/track/5f2aqqLjBh5xRt35Ji2xq7) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Everything Ends \(feat\. Lizzy McAlpine and Tiny Habits\)](https://open.spotify.com/album/1TItTZNumF7HQTkxXoNROA) | 2:13 | 2023-06-24 | 2023-11-11 |
 | [False Art](https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [False Art](https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ) | 3:03 | 2022-09-16 |  |
 | [For Months Now \(III\)](https://open.spotify.com/track/2Ux1CJbtrJoAEf5YswahfX) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Weird Faith \(Deluxe\)](https://open.spotify.com/album/7tLh0C7KXRxfS3z38zLBIa) | 4:07 | 2024-11-09 | 2025-02-16 |
-| [For Sale Sign \(feat\. Lizzy McAlpine\)](https://open.spotify.com/track/0WYip0MXpOGYvNH2h7q8ng) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [For Sale Sign \(feat\. Lizzy McAlpine\)](https://open.spotify.com/album/6Ew8bEDBgeYcl7wmyA2P1P) | 4:26 | 2024-11-23 |  |
+| [For Sale Sign \(feat\. Lizzy McAlpine\)](https://open.spotify.com/track/0WYip0MXpOGYvNH2h7q8ng) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [For Sale Sign \(feat\. Lizzy McAlpine\)](https://open.spotify.com/album/6Ew8bEDBgeYcl7wmyA2P1P) | 4:26 | 2024-11-23 | 2025-12-11 |
+| [For Sale Sign \(feat\. Lizzy McAlpine\)](https://open.spotify.com/track/5a570f5BDhCMMxFISQEfGK) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [For Sale Sign \(feat\. Lizzy McAlpine\)](https://open.spotify.com/album/47W7z5eJUpLZfYeb261okX) | 4:26 | 2025-12-11 |  |
 | [Force of Nature](https://open.spotify.com/track/3gRJynimeVjLlVoGtjzhtE) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 4:02 | 2024-10-07 |  |
 | [Give Me A Minute](https://open.spotify.com/track/0d0iBmyaaywSWyEjN9NQla) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 2:37 | 2022-09-16 | 2022-10-31 |
 | [Give Me A Minute](https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 2:37 | 2022-10-30 |  |

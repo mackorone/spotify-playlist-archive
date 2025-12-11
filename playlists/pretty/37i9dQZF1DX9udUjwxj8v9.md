@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 
 > minha carne é de carnaval, meu coração é igual
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,066 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,067 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 12 | [O Canto da Cidade](https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [O Canto da Cidade](https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl) | 3:24 |
 | 13 | [Margarida Perfumada \(Ao Vivo\)](https://open.spotify.com/track/2XoeCdi8REPsSNmqeNXFQz) | [Timbalada](https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Tribal Bahia](https://open.spotify.com/album/6VYGsl41yXhkEimis7ikqI) | 5:07 |
 | 14 | [Frevo Mulher \- Ao Vivo](https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [O Grande Encontro 20 Anos: Alceu, Elba e Geraldo \(Ao Vivo\)](https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC) | 5:06 |
-| 15 | [Toda Menina Baiana](https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Realce](https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr) | 3:46 |
-| 16 | [Faraó](https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX) | [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD) | [Tete a Tete Margareth](https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK) | 5:34 |
+| 15 | [Faraó](https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX) | [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD) | [Tete a Tete Margareth](https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK) | 5:34 |
+| 16 | [Toda Menina Baiana](https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Realce](https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr) | 3:46 |
 | 17 | [Deusa do amor \- Ao vivo](https://open.spotify.com/track/7c60MUlDMw6ZI1Ft4LxLBY) | [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw) | [A Música do Olodum](https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm) | 3:47 |
 | 18 | [Vai Passar](https://open.spotify.com/track/6xTxXhEXQyJJGlQtGSNsIp) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque](https://open.spotify.com/album/7gPPAMMYpqGNrhKwLGNibG) | 6:11 |
 | 19 | [Haja Amor](https://open.spotify.com/track/07aDFrAVLD02sKGzlZby46) | [Luiz Caldas](https://open.spotify.com/artist/4fLuPn1SvWJVFmooqIkvWh) | [Lá Vem O Guarda](https://open.spotify.com/album/60IRlbKPEpYmIQCOQoaX4l) | 3:35 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 45 | [Taj Mahal](https://open.spotify.com/track/1aLapJuVyaunImwQiPxETz) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben Jor \- iCollection](https://open.spotify.com/album/3kqTi0mxbXfk9Bh3kx5fhk) | 4:56 |
 | 46 | [Nobre Vagabundo](https://open.spotify.com/track/2LUSX1OqewkHC3oCdxSZAF) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [20 Grandes Êxitos](https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R) | 3:53 |
 | 47 | [Que bloco é esse?](https://open.spotify.com/track/4njPA0lM6wexbn6L9eY8oQ) | [Ilê Aiyê](https://open.spotify.com/artist/7ntfJVmjXJqHALQ89SVmLY) | [Canto Negro](https://open.spotify.com/album/3WgPAI060b6EN6UayPTKa5) | 3:13 |
-| 48 | [Portela Na Avenida](https://open.spotify.com/track/1zVuzDifwftaRGzj4AZCv2) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Meus Momentos](https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk) | 3:45 |
+| 48 | [Fala tamborim](https://open.spotify.com/track/4zY7bjnkTGdc70CFQSFqWi) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Dois Momentos](https://open.spotify.com/album/2Q76MOA6Hs8KPk3brm8V6I) | 2:29 |
 | 49 | [Massa Real](https://open.spotify.com/track/6aiTiZ3CKpwVpusZpmjbLX) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Fantasia](https://open.spotify.com/album/7CnmrVFElrgMKUSuIvYqgE) | 2:46 |
-| 50 | [Fala tamborim](https://open.spotify.com/track/4zY7bjnkTGdc70CFQSFqWi) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Dois Momentos](https://open.spotify.com/album/2Q76MOA6Hs8KPk3brm8V6I) | 2:29 |
+| 50 | [Portela Na Avenida](https://open.spotify.com/track/1zVuzDifwftaRGzj4AZCv2) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Meus Momentos](https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk) | 3:45 |
 
 Snapshot ID: `AAAAAL/RkVLbYifL+cxBQWLYnqtoYctU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haiti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,772 likes - 40 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,768 likes - 40 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 19 | [Ti doudou](https://open.spotify.com/track/2smDVXQFS3NNinZZO4i1TZ) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Option](https://open.spotify.com/album/277RwBDM8eq0dUZnbOaMYz) | 4:34 |
 | 20 | [DIS MOI](https://open.spotify.com/track/3XY89uVwerVVtRNiWWxvt6) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [DIS MOI](https://open.spotify.com/album/2gzMGjPQE1x5FTSoJlaOwy) | 3:50 |
 | 21 | [Rete La](https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Quoi qu'il advienne \(QQA\)](https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og) | 5:03 |
-| 22 | [Incroyable](https://open.spotify.com/track/0iGkRoudiByXaDvuakB18Q) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Degaje](https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF) | 6:12 |
-| 23 | [It's Getting Late](https://open.spotify.com/track/3xyHkaONRVaVFt6iOtzB1B) | [J\-BEATZ](https://open.spotify.com/artist/5lAmUypm7Pmextgjxe1qwU) | [Our Own World](https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD) | 4:53 |
+| 22 | [It's Getting Late](https://open.spotify.com/track/3xyHkaONRVaVFt6iOtzB1B) | [J\-BEATZ](https://open.spotify.com/artist/5lAmUypm7Pmextgjxe1qwU) | [Our Own World](https://open.spotify.com/album/23Gcw0J4M7u0Lp3llF3EGD) | 4:53 |
+| 23 | [Incroyable](https://open.spotify.com/track/0iGkRoudiByXaDvuakB18Q) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Degaje](https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF) | 6:12 |
 | 24 | [Metro Gouyad](https://open.spotify.com/track/32txcWZeusEWrCZAM14yJS) | [Massiv3](https://open.spotify.com/artist/22HBKoiiXj1Klki0QDWcrr) | [Chambre 12](https://open.spotify.com/album/49ooEM5Xre2NvBHVcg6aFe) | 3:36 |
 | 25 | [Malade \(feat\. Richard Cave\)](https://open.spotify.com/track/3iLrjLIUl8lCmMK3WUr3VE) | [KAI](https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef), [Richard Cavé](https://open.spotify.com/artist/0FaUMI5rw8I5C7T77ZCNvm) | [Malade \(feat\. Richard Cave\)](https://open.spotify.com/album/53lq2o7F4w7SGHDFpDYvsQ) | 5:09 |
 | 26 | [Magic Gouyad \#3](https://open.spotify.com/track/32SZRFOF9JUQRxAIOfaEkd) | [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m) | [Magic Gouyad \#3](https://open.spotify.com/album/7ydEyjwDsDDH0tdoRKnwZA) | 5:04 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 35 | [Pam Pam Pam](https://open.spotify.com/track/5DeceTNgeKTn3uUI0JBxq4) | [Tantan](https://open.spotify.com/artist/5WLcU8GQxU9yOK4oqNICJL) | [Tantan\- Pam Pam Pam](https://open.spotify.com/album/58JTifvM1LyBP6WUqaijU8) | 6:26 |
 | 36 | [Habitude](https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Nou Pap Dòmi Deyò: Ou Pa Kontan,Vi’n Bat Mwen](https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np) | 5:32 |
 | 37 | [Kilot](https://open.spotify.com/track/33uWg45QHtMCgnTJLxQlJ5) | [5Lan](https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ), [Alan Cavé](https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2) | [Kilot](https://open.spotify.com/album/4YJhcOZ1ASsZiPpd5d3vcl) | 5:09 |
-| 38 | [Kompa SHATTA](https://open.spotify.com/track/4LNVUNUOPf5Ri12DkJeFH3) | [Ken'zii Bwa](https://open.spotify.com/artist/7HfJlmFUw8mkc0dWcy3sVn) | [Kompa SHATTA](https://open.spotify.com/album/3l874CUmQOgaLRNy2V4hMm) | 1:54 |
-| 39 | [Lè Nap Fè Lanmou](https://open.spotify.com/track/5RvED3NaFaXNDEhoJh5Cv2) | [Mizik Mizik](https://open.spotify.com/artist/5mwMhNxf3qump0lhn7w6AA) | [De Ger](https://open.spotify.com/album/326B0vsovArwhIildjVOdc) | 5:08 |
+| 38 | [Lè Nap Fè Lanmou](https://open.spotify.com/track/5RvED3NaFaXNDEhoJh5Cv2) | [Mizik Mizik](https://open.spotify.com/artist/5mwMhNxf3qump0lhn7w6AA) | [De Ger](https://open.spotify.com/album/326B0vsovArwhIildjVOdc) | 5:08 |
+| 39 | [Kompa SHATTA](https://open.spotify.com/track/4LNVUNUOPf5Ri12DkJeFH3) | [Ken'zii Bwa](https://open.spotify.com/artist/7HfJlmFUw8mkc0dWcy3sVn) | [Kompa SHATTA](https://open.spotify.com/album/3l874CUmQOgaLRNy2V4hMm) | 1:54 |
 | 40 | [San Limit](https://open.spotify.com/track/0jMJvojL24cI32yYm8l43z) | [T\-Vice](https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N) | [3 Tou 9](https://open.spotify.com/album/1IwaIw7A5aN8sYmvwyvz5m) | 4:49 |
 
 Snapshot ID: `AAAAAL3NMLv+W1BkDfO/7cIOZoJrYjlH`

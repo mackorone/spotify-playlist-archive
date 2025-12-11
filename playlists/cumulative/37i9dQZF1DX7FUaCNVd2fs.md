@@ -4,7 +4,7 @@
 
 > Sleepy, cosy piano music for snoozing, power naps and relaxation.
 
-233 songs - 10 hr 10 min
+234 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 | 2023-10-27 | 2024-02-22 |
 | [A bed of tulips](https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm) | [Luanna Averie](https://open.spotify.com/artist/0rDO43Kf4w2sLN4pezlscB) | [A bed of tulips](https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc) | 2:40 | 2023-10-27 |  |
 | [A Different Story](https://open.spotify.com/track/2kk5IhP7CETo9dlG9yMaa5) | [Jonam Breuer](https://open.spotify.com/artist/70wQIh59h8RCbhUE61arYu) | [A Different Story](https://open.spotify.com/album/6cOPkFFcRnazHp6wYRp2R6) | 2:10 | 2025-04-09 |  |
+| [A Moment of Peace](https://open.spotify.com/track/3rVwDrLrVPL5igVD1jdInR) | [Joseph Fina](https://open.spotify.com/artist/5BZjycpMPqgrPbJJq43szv) | [A Moment of Peace](https://open.spotify.com/album/39E4FKykNiCeUheicVL3On) | 2:14 | 2025-12-10 |  |
 | [A Quiet Triumph](https://open.spotify.com/track/6z80w3KsiHTJioRQYGlPDx) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [A Quiet Triumph](https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj) | 2:04 | 2023-10-27 | 2024-09-25 |
 | [A Rose](https://open.spotify.com/track/0XAHH61ykmd5UpOF7w7Ky8) | [Natalee Marlowe](https://open.spotify.com/artist/0xpi7Cnrj85a5mifMxgCfS) | [A Rose](https://open.spotify.com/album/4uZB2x6Fnj3JznsdZY2tBA) | 2:27 | 2023-10-27 |  |
 | [Absence](https://open.spotify.com/track/605vPvBlmE54bJUiT8BKm0) | [Narelle Dane](https://open.spotify.com/artist/2tUmApwmWcZGro1Key17fG) | [Absence](https://open.spotify.com/album/3PLBke5XtxhEDQ57DpP8uC) | 3:00 | 2023-10-27 | 2024-12-18 |

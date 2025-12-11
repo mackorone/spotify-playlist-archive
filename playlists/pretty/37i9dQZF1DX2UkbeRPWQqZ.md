@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 
 > Sweet lullabies on guitar for little dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,011 likes - 99 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,017 likes - 99 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

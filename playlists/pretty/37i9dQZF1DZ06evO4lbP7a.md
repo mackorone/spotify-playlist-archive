@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 
 > This is yama\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,804 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,802 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 | 8 | [Oz.](https://open.spotify.com/track/1Aq9S5teUzfZucr7rVRpSj) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 3:15 |
 | 9 | [偽顔](https://open.spotify.com/track/1CuCtAmIi4Gjk3q9wkWOKw) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 2:30 |
 | 10 | [doku](https://open.spotify.com/track/7r5gbT0sRLKfyTqD0VomNS) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9) | [doku](https://open.spotify.com/album/4F1u2KnQwfVR9Rb8sd7v8P) | 2:56 |
-| 11 | [BURN](https://open.spotify.com/track/6NYHXyWnurns3vjIsohSGX) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BURN](https://open.spotify.com/album/0QZoJceyKXNb33SEmFMlr4) | 2:16 |
-| 12 | [血流](https://open.spotify.com/track/0bBl2jjpCFCgRd60BowZoV) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 3:28 |
-| 13 | [TWILIGHT](https://open.spotify.com/track/3FXDTuvtmQ8RE9l5HaBwGR) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [TWILIGHT](https://open.spotify.com/album/6yMhfBAG7yQziGEXSAWN5N) | 3:32 |
+| 11 | [TWILIGHT](https://open.spotify.com/track/3FXDTuvtmQ8RE9l5HaBwGR) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [TWILIGHT](https://open.spotify.com/album/6yMhfBAG7yQziGEXSAWN5N) | 3:32 |
+| 12 | [BURN](https://open.spotify.com/track/6NYHXyWnurns3vjIsohSGX) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BURN](https://open.spotify.com/album/0QZoJceyKXNb33SEmFMlr4) | 2:16 |
+| 13 | [血流](https://open.spotify.com/track/0bBl2jjpCFCgRd60BowZoV) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 3:28 |
 | 14 | [憧れのままに](https://open.spotify.com/track/6cRZpoOfi9kBOTFxeN8X3t) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 3:25 |
 | 15 | [アイタリナイ](https://open.spotify.com/track/58tyTrZH1pt8esOLGynycj) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [ニト。](https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE) | [Noisy Love Songs \- MAISONdes × URUSEIYATSURA Complete Collection \-](https://open.spotify.com/album/25FyQq2VGgXuqw8nWEIRxx) | 2:43 |
 | 16 | [Lost](https://open.spotify.com/track/3sz0hi6mkqq0hfRMN8RGrs) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 4:05 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 | 32 | [Film](https://open.spotify.com/track/33Cdpy0wIKa6le6kNaD6Ya) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [; semicolon](https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe) | 3:15 |
 | 33 | [Sleepless Night](https://open.spotify.com/track/4QudMialF8Y73NNyCdDD0G) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 4:18 |
 | 34 | [カーテンコール](https://open.spotify.com/track/5EBkv7Vl47e674Yi6Gk7zi) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [カーテンコール](https://open.spotify.com/album/4FNbJK6K73qKy9TuxggkVY) | 3:39 |
-| 35 | [砂の城](https://open.spotify.com/track/3GRFoiwlWZKMtdEm8TRpb7) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [砂の城](https://open.spotify.com/album/6QcCfQ7J4VLNiHikcwbqLz) | 4:02 |
+| 35 | [こだま](https://open.spotify.com/track/45UVorDHdb5BugXpHjuorv) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [こだま](https://open.spotify.com/album/1RlXyJ5oN0EfFQPZXDriLq) | 3:04 |
 | 36 | [レコード](https://open.spotify.com/track/6wG7V7gPdYl85QScNKqRBc) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [; semicolon](https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe) | 3:00 |
-| 37 | [こだま](https://open.spotify.com/track/45UVorDHdb5BugXpHjuorv) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [こだま](https://open.spotify.com/album/1RlXyJ5oN0EfFQPZXDriLq) | 3:04 |
+| 37 | [砂の城](https://open.spotify.com/track/3GRFoiwlWZKMtdEm8TRpb7) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [砂の城](https://open.spotify.com/album/6QcCfQ7J4VLNiHikcwbqLz) | 4:02 |
 | 38 | [一寸の赤](https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [一寸の赤](https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj) | 3:51 |
 | 39 | [オリジン](https://open.spotify.com/track/7sqlWfsAcENRdsrN6BuyTr) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [オリジン](https://open.spotify.com/album/5pRmvEqEFcbS83hcQPNWrb) | 3:26 |
 | 40 | [a.m.3:21（safmusic Remix）](https://open.spotify.com/track/7g7uPUI6kO8ru6JzpbZtVZ) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [safmusic](https://open.spotify.com/artist/6Iq2QcwNckedD5LwLDusw7) | [doku](https://open.spotify.com/album/4F1u2KnQwfVR9Rb8sd7v8P) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 | 49 | [雫](https://open.spotify.com/track/2GlZ3RBOFSVKPQrUpCxDCZ) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [雫](https://open.spotify.com/album/5SGGfrQE7GWyszuzISp8Wa) | 4:36 |
 | 50 | [いぶき](https://open.spotify.com/track/6Bt9IlFTlLrEn8ZoDGQ60p) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [いぶき](https://open.spotify.com/album/0wf3C30gLk0n3gaMo4CAiW) | 3:17 |
 
-Snapshot ID: `aTYVAAAAAAA/7560wT7aNO3BIbpW1Xtg`
+Snapshot ID: `aTdmgAAAAACp/wDMLrnWe/iaco5lwKec`

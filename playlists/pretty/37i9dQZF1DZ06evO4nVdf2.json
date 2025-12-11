@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 64849,
+  "num_followers": 64852,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAA3y0fl3ne98wMD7o1t63Q3",
+  "snapshot_id": "aTdmgAAAAACI13EQcaU7VnfXZv38LJiT",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No todo lo puedes dar",
-        "url": "https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 275160,
-      "name": "Sin Ti No Puede Estar Tan Mal",
-      "url": "https://open.spotify.com/track/6GIQckKtzHYA8MHoRWRkcy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ECOS",
         "url": "https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 190500,
       "name": "Contracorriente",
       "url": "https://open.spotify.com/track/1CPHQNAp1sZddA0Wr0Ty6e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No todo lo puedes dar",
+        "url": "https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 275160,
+      "name": "Sin Ti No Puede Estar Tan Mal",
+      "url": "https://open.spotify.com/track/6GIQckKtzHYA8MHoRWRkcy"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Cosas Simples",
-        "url": "https://open.spotify.com/album/4lZ99ROEF6NGeIOmce5bIW"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 217168,
-      "name": "Las Cosas Simples",
-      "url": "https://open.spotify.com/track/0o0F4TAYTl4U9BUfvg7KFW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
         "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 188813,
       "name": "Si T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/5fncLNZgQmsV3535P2k5RP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Cosas Simples",
+        "url": "https://open.spotify.com/album/4lZ99ROEF6NGeIOmce5bIW"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 217168,
+      "name": "Las Cosas Simples",
+      "url": "https://open.spotify.com/track/0o0F4TAYTl4U9BUfvg7KFW"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALV",
-        "url": "https://open.spotify.com/album/79NYLb4A4a1OwBRbLAsyfk"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 217541,
-      "name": "ALV",
-      "url": "https://open.spotify.com/track/0czJDMboe5qf9NTHisp6kO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N.I.T.",
         "url": "https://open.spotify.com/album/5WSfrhTQlfko7kG6fHkAEE"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 209220,
       "name": "N.I.T.",
       "url": "https://open.spotify.com/track/1PE7FaEownPL5NTipf0PYC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ALV",
+        "url": "https://open.spotify.com/album/79NYLb4A4a1OwBRbLAsyfk"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 217541,
+      "name": "ALV",
+      "url": "https://open.spotify.com/track/0czJDMboe5qf9NTHisp6kO"
     },
     {
       "added_at": null,

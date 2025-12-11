@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 165929,
+  "num_followers": 165922,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,26 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
+        "name": "Antisocial",
+        "url": "https://open.spotify.com/album/2dgTHDk0BK6abCf6QUJvJB"
+      },
+      "artists": [
+        {
+          "name": "Gray",
+          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
+        },
+        {
+          "name": "Donae'o",
+          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
+        }
+      ],
+      "duration_ms": 171508,
+      "name": "Man Down VIP",
+      "url": "https://open.spotify.com/track/1XGgN6rRknZQppgbEpBKoD"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
         "name": "Legends (feat. P Money)",
         "url": "https://open.spotify.com/album/2uExlr2sev8xKTkZg5KdeT"
       },
@@ -955,26 +975,6 @@
       "duration_ms": 167314,
       "name": "Legends (feat. P Money)",
       "url": "https://open.spotify.com/track/6cLjygh85zqBwqvsZbDuCF"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Antisocial",
-        "url": "https://open.spotify.com/album/2dgTHDk0BK6abCf6QUJvJB"
-      },
-      "artists": [
-        {
-          "name": "Gray",
-          "url": "https://open.spotify.com/artist/2Ve4sev1tC5CGEeP5fUb5Y"
-        },
-        {
-          "name": "Donae'o",
-          "url": "https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp"
-        }
-      ],
-      "duration_ms": 171508,
-      "name": "Man Down VIP",
-      "url": "https://open.spotify.com/track/1XGgN6rRknZQppgbEpBKoD"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
-        "name": "RUN",
-        "url": "https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN"
-      },
-      "artists": [
-        {
-          "name": "\u00c6ON:MODE",
-          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
-        }
-      ],
-      "duration_ms": 180689,
-      "name": "RUN",
-      "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
         "name": "BODY DROP (Won't Stop)",
         "url": "https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A"
       },
@@ -1211,6 +1195,38 @@
       "duration_ms": 224914,
       "name": "BODY DROP (Won't Stop)",
       "url": "https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
+        "name": "Bear Trap",
+        "url": "https://open.spotify.com/album/3KT9XMUbKyJGOWkndLK6wI"
+      },
+      "artists": [
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "duration_ms": 165214,
+      "name": "Bear Trap",
+      "url": "https://open.spotify.com/track/7Jt5Vr2l0IhEkI11SkRglU"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN"
+      },
+      "artists": [
+        {
+          "name": "\u00c6ON:MODE",
+          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
+        }
+      ],
+      "duration_ms": 180689,
+      "name": "RUN",
+      "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -1231,22 +1247,6 @@
       "duration_ms": 279069,
       "name": "On Your Feet",
       "url": "https://open.spotify.com/track/75KWXVroEfF79xQPDOG9js"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Bear Trap",
-        "url": "https://open.spotify.com/album/3KT9XMUbKyJGOWkndLK6wI"
-      },
-      "artists": [
-        {
-          "name": "Casey Club",
-          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
-        }
-      ],
-      "duration_ms": 165214,
-      "name": "Bear Trap",
-      "url": "https://open.spotify.com/track/7Jt5Vr2l0IhEkI11SkRglU"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -1295,22 +1295,18 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
-        "name": "Satan's Alley",
-        "url": "https://open.spotify.com/album/12GOuAO4h3wsOrHHOwCPFs"
+        "name": "Spag Bol",
+        "url": "https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq"
       },
       "artists": [
         {
           "name": "Voltage",
           "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
-        },
-        {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
         }
       ],
-      "duration_ms": 244114,
-      "name": "Satan's Alley",
-      "url": "https://open.spotify.com/track/0hMFRwnaH2l3vAPfwp0m8h"
+      "duration_ms": 202281,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -1371,6 +1367,46 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
+        "name": "MOTION",
+        "url": "https://open.spotify.com/album/2nbddblRCfy4MTsOwVoutS"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        },
+        {
+          "name": "Oliverse",
+          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "MOTION",
+      "url": "https://open.spotify.com/track/3zOHSTVeWT8qwTESyFdZoy"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
+        "name": "Satan's Alley",
+        "url": "https://open.spotify.com/album/12GOuAO4h3wsOrHHOwCPFs"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        },
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        }
+      ],
+      "duration_ms": 244114,
+      "name": "Satan's Alley",
+      "url": "https://open.spotify.com/track/0hMFRwnaH2l3vAPfwp0m8h"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
         "name": "Sell My Soul (VIP)",
         "url": "https://open.spotify.com/album/0i1uC1hcfO2iAZELFriz5N"
       },
@@ -1391,42 +1427,6 @@
       "duration_ms": 176571,
       "name": "Sell My Soul - VIP",
       "url": "https://open.spotify.com/track/4KrFmNJ0QThBfcsda3HOnx"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Spag Bol",
-        "url": "https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
-        }
-      ],
-      "duration_ms": 202281,
-      "name": "Love Me Right",
-      "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "MOTION",
-        "url": "https://open.spotify.com/album/2nbddblRCfy4MTsOwVoutS"
-      },
-      "artists": [
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        },
-        {
-          "name": "Oliverse",
-          "url": "https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "MOTION",
-      "url": "https://open.spotify.com/track/3zOHSTVeWT8qwTESyFdZoy"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
-        "name": "Whose It",
-        "url": "https://open.spotify.com/album/2Nsnu2j7lJvxDybj7z5Slp"
-      },
-      "artists": [
-        {
-          "name": "Sustance",
-          "url": "https://open.spotify.com/artist/3069G1J62ioGObj518Umm2"
-        },
-        {
-          "name": "Sylla",
-          "url": "https://open.spotify.com/artist/3X2JC3TRBV13ERKkcIguiG"
-        }
-      ],
-      "duration_ms": 204137,
-      "name": "Whose It",
-      "url": "https://open.spotify.com/track/3HvMWWY1wkKG7MFIVUme1o"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/3RgzJTmaUnzkUG0piagj7N"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 146122,
       "name": "TAKEOVER",
       "url": "https://open.spotify.com/track/0kPgP8ZzA4vifLskKkHFQn"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
+        "name": "Whose It",
+        "url": "https://open.spotify.com/album/2Nsnu2j7lJvxDybj7z5Slp"
+      },
+      "artists": [
+        {
+          "name": "Sustance",
+          "url": "https://open.spotify.com/artist/3069G1J62ioGObj518Umm2"
+        },
+        {
+          "name": "Sylla",
+          "url": "https://open.spotify.com/artist/3X2JC3TRBV13ERKkcIguiG"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "Whose It",
+      "url": "https://open.spotify.com/track/3HvMWWY1wkKG7MFIVUme1o"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
+        "name": "TANK IT",
+        "url": "https://open.spotify.com/album/081KqR46idkIxhnf5TgQLD"
+      },
+      "artists": [
+        {
+          "name": "Sentimento",
+          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
+        }
+      ],
+      "duration_ms": 157570,
+      "name": "TANK IT",
+      "url": "https://open.spotify.com/track/4ubO4kObhIGP6kHN1QPE3r"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
         "name": "The Samurai",
         "url": "https://open.spotify.com/album/4KixaoegcviwhbvACyYj1H"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 231586,
       "name": "The Samurai",
       "url": "https://open.spotify.com/track/1CfQ6NhnjR4JO9wnHKzleb"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "TANK IT",
-        "url": "https://open.spotify.com/album/081KqR46idkIxhnf5TgQLD"
-      },
-      "artists": [
-        {
-          "name": "Sentimento",
-          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
-        }
-      ],
-      "duration_ms": 157570,
-      "name": "TANK IT",
-      "url": "https://open.spotify.com/track/4ubO4kObhIGP6kHN1QPE3r"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
-        "name": "Born Again",
-        "url": "https://open.spotify.com/album/0FEnXxXa9qM9GJaL4o69SD"
-      },
-      "artists": [
-        {
-          "name": "AC13",
-          "url": "https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn"
-        },
-        {
-          "name": "Ragdoll",
-          "url": "https://open.spotify.com/artist/1b5ySdJlXoI66RZLyxKxLl"
-        }
-      ],
-      "duration_ms": 200423,
-      "name": "Born Again",
-      "url": "https://open.spotify.com/track/2ehJK0PvxALIbdFtVAFfAV"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
         "name": "Flex / Who Pree",
         "url": "https://open.spotify.com/album/6aIiR6OUlH3NLuif02zW0Q"
       },
@@ -1791,6 +1771,26 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/0FEnXxXa9qM9GJaL4o69SD"
+      },
+      "artists": [
+        {
+          "name": "AC13",
+          "url": "https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn"
+        },
+        {
+          "name": "Ragdoll",
+          "url": "https://open.spotify.com/artist/1b5ySdJlXoI66RZLyxKxLl"
+        }
+      ],
+      "duration_ms": 200423,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/2ehJK0PvxALIbdFtVAFfAV"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
         "name": "Pelican",
         "url": "https://open.spotify.com/album/4RSP3GwgUEidQYbGF870D8"
       },
@@ -1803,6 +1803,30 @@
       "duration_ms": 154285,
       "name": "Pelican",
       "url": "https://open.spotify.com/track/3vrdgIcTToKlIeakWuAOcy"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
+        "name": "Good Things Come To Those Who Wait",
+        "url": "https://open.spotify.com/album/4plXV7C5h42LpsBZ80hFmy"
+      },
+      "artists": [
+        {
+          "name": "Skream & Benga",
+          "url": "https://open.spotify.com/artist/6TaOlqfpegMP5IpO3fZo38"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        },
+        {
+          "name": "Benga",
+          "url": "https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Good Things Come To Those Who Wait",
+      "url": "https://open.spotify.com/track/3favmuDfpgYp3poSyGokVD"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -1839,30 +1863,6 @@
       "duration_ms": 282000,
       "name": "Mudcrab",
       "url": "https://open.spotify.com/track/1awqLWOY994AEUtnHM9Nlp"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Good Things Come To Those Who Wait",
-        "url": "https://open.spotify.com/album/4plXV7C5h42LpsBZ80hFmy"
-      },
-      "artists": [
-        {
-          "name": "Skream & Benga",
-          "url": "https://open.spotify.com/artist/6TaOlqfpegMP5IpO3fZo38"
-        },
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
-        },
-        {
-          "name": "Benga",
-          "url": "https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Good Things Come To Those Who Wait",
-      "url": "https://open.spotify.com/track/3favmuDfpgYp3poSyGokVD"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -1923,34 +1923,22 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
-        "name": "Goldikus (feat. Cleveland Watkiss) [Phase Remix]",
-        "url": "https://open.spotify.com/album/2EZBkH6L8Xlq7muOyzkYNd"
+        "name": "Baby Daddy",
+        "url": "https://open.spotify.com/album/6Nuc91gIYUyty9zuVTpNp8"
       },
       "artists": [
         {
-          "name": "Rufige Kru",
-          "url": "https://open.spotify.com/artist/0MgahdBy1vfsp1loFoGIAm"
+          "name": "Latte",
+          "url": "https://open.spotify.com/artist/63RlEaEuJxvoGSoO7nBQK3"
         },
         {
-          "name": "Goldie",
-          "url": "https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M"
-        },
-        {
-          "name": "Submotive",
-          "url": "https://open.spotify.com/artist/18IDmJ9TpGsEp3mQqixaUE"
-        },
-        {
-          "name": "Cleveland Watkiss",
-          "url": "https://open.spotify.com/artist/4O3uTQDgtY11QKfX4VJruc"
-        },
-        {
-          "name": "Phase",
-          "url": "https://open.spotify.com/artist/3VNrSQLu9M0oEoybY7mL53"
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
         }
       ],
-      "duration_ms": 335233,
-      "name": "Goldikus (feat. Cleveland Watkiss) - Phase Remix",
-      "url": "https://open.spotify.com/track/3qFC07G7mup6YO7rxe57tQ"
+      "duration_ms": 222171,
+      "name": "Baby Daddy",
+      "url": "https://open.spotify.com/track/4WjK1YrQIMoZqaBeeBQ1gY"
     }
   ],
   "unique_name": "Proper Naughty ",

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : 45",
-  "num_followers": 66078,
+  "num_followers": 66083,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPqrhC25o5qEHPWl8ZQXDSLD2hV/",
+  "snapshot_id": "AAAAADxalrEdLmc8T+b9pR5k+YPsddbm",
   "tracks": [
     {
       "added_at": "2025-12-01 06:47:42",
@@ -79,6 +79,26 @@
       "duration_ms": 290000,
       "name": "Hope (From \"Peotu\")",
       "url": "https://open.spotify.com/track/4FUAHBsGXwMgXpUdRtlbRr"
+    },
+    {
+      "added_at": "2025-12-10 08:28:48",
+      "album": {
+        "name": "Nambida Bhootayiye (From \"Bicchugatthiya Bantana Ballirena\") (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0FmmrDhJCw2mDUABRGfTfJ"
+      },
+      "artists": [
+        {
+          "name": "Madhuri Seshadri",
+          "url": "https://open.spotify.com/artist/4so2LO2B3OqrAlpG9ulXqx"
+        },
+        {
+          "name": "Shri Sastha",
+          "url": "https://open.spotify.com/artist/48o6CxQdWZwIagBSllp2hu"
+        }
+      ],
+      "duration_ms": 299356,
+      "name": "Nambida Bhootayiye (From \"Bicchugatthiya Bantana Ballirena\") (Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/1bYyqbZMCOiPwbFZyiD1CX"
     },
     {
       "added_at": "2025-12-09 12:36:45",
@@ -1695,26 +1715,6 @@
       "duration_ms": 294843,
       "name": "Manaveega Aluvaaga",
       "url": "https://open.spotify.com/track/6KeE264eLU1kWeSPDMdwTg"
-    },
-    {
-      "added_at": "2025-10-22 09:47:59",
-      "album": {
-        "name": "Goota Itta (From \"Kona\") (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3AdiB0sBkfDtoyiidjnxbC"
-      },
-      "artists": [
-        {
-          "name": "Sharan",
-          "url": "https://open.spotify.com/artist/3gwJl06k82NzSnDZrE89Nq"
-        },
-        {
-          "name": "Shashank Sheshagiri",
-          "url": "https://open.spotify.com/artist/4VbeDQpfiX1x8FFDuxmrXy"
-        }
-      ],
-      "duration_ms": 247714,
-      "name": "Goota Itta (From \"Kona\") (Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/22o7cKvYzNQkcCE12ygjWA"
     },
     {
       "added_at": "2025-10-09 11:00:41",

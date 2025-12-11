@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Lil Baby, GloRilla and Lil Uzi Vert.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,835,646 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,834,911 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [Cable Box](https://open.spotify.com/track/6rzoDBnmTFt035KRtNRKRe) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [GO:OD AM \(10th Anniversary\)](https://open.spotify.com/album/39yycJHBG2dIjrRVXqyYFR) | 4:43 |
 | 50 | [LOVER GIRL](https://open.spotify.com/track/3t6kNqWEd1CPE2nPz6wcQg) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [LOVER GIRL](https://open.spotify.com/album/5919KmtJqUR1VqkXJEH2US) | 4:24 |
 
-Snapshot ID: `AAAAADI5/vTQJxo88TlE/3H6/lrC/pD9`
+Snapshot ID: `AAAAALYtQuBVheOgiInS6mzoJJeGkXd4`

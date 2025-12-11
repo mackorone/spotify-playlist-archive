@@ -4,7 +4,7 @@
 
 > 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
 
-295 songs - 14 hr 9 min
+301 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [528 Hz Cosmic Force](https://open.spotify.com/track/5jvFawEboT2AxRviSZVvEp) | [Sky Anthus](https://open.spotify.com/artist/7hE0pmhnT3UIyN2kHBuc6f) | [528 Hz Cosmic Force](https://open.spotify.com/album/39TKT1ECPUwPmVWPbBpEKC) | 3:19 | 2025-02-10 |  |
 | [528 Hz Deep Rain.](https://open.spotify.com/track/2adVXaEzFP0DeDlHWslzAg) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [528 Hz Deep Rain.](https://open.spotify.com/album/0NlyM5XLn1ySNnRJnHZ198) | 2:41 | 2023-09-28 | 2025-01-10 |
 | [528 Hz Deep Restfulness](https://open.spotify.com/track/54jscUFNK1fnHGi9JRsLUv) | [Pan Galactic Vibration](https://open.spotify.com/artist/5LD5A8M950t4R7S2coaZER) | [528 Hz Deep Restfulness](https://open.spotify.com/album/2vRxKulQnkz2lgY8yoISSt) | 2:41 | 2025-10-01 |  |
+| [528 Hz Deep Serene](https://open.spotify.com/track/5Flz6iBjt7HAAdUoQ4fqC6) | [Edda Prado](https://open.spotify.com/artist/0PAg1jsa3Fn4R8XmcoYUWc) | [528 Hz Deep Serene](https://open.spotify.com/album/4g8FDN88QLzQRJOz6SbAaW) | 2:31 | 2025-12-10 |  |
 | [528 Hz Dimensional Manifold](https://open.spotify.com/track/3HVyZKSOij2T0DlisHG5XK) | [Binaural Exploration Solfeggio](https://open.spotify.com/artist/69FqgXw1kDOqbP9rx3t7Kg) | [528 Hz Dimensional Manifold](https://open.spotify.com/album/0fcNAEXjH4vwFVQlCLUPxR) | 2:20 | 2025-10-21 |  |
 | [528 Hz Divine Energy](https://open.spotify.com/track/2seZdf0u3tyffFeB3g2PLn) | [Solfonia Dreamweaver](https://open.spotify.com/artist/4FlIVXufr8qUuH3LjiJA5f) | [528 Hz Divine Energy](https://open.spotify.com/album/5oPSsPk3l64z8Jenf4THkp) | 2:55 | 2024-06-11 |  |
 | [528 Hz DNA Repair](https://open.spotify.com/track/3orHWYTBLSAnTqFf1yLcXv) | [Frozen Voices](https://open.spotify.com/artist/6CHiV1LMP7HIwJWk1CJDfz) | [528 Hz DNA Repair](https://open.spotify.com/album/7eGZ63j2ZjTys2jwD9OSsh) | 3:24 | 2024-03-13 |  |
@@ -65,6 +66,7 @@
 | [528 Hz Emotional Moment](https://open.spotify.com/track/1bMyilHM8iUR8GB37c6hCv) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [528 Hz Frequencies for Mind and Body Vol 1](https://open.spotify.com/album/35JMHwBhv21ehQgncjx2S4) | 2:55 | 2023-02-08 |  |
 | [528 Hz Endless Space](https://open.spotify.com/track/3K7PdooNAr7jbLBoG5MFDr) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [528 Hz Endless Space](https://open.spotify.com/album/438A16Lf4OdYXAoktf6CYS) | 3:32 | 2023-09-19 | 2025-05-28 |
 | [528 Hz Ethereal Wavelengths](https://open.spotify.com/track/0IYdJWqE3sZ0joQRolqwJb) | [Sacred Vibrational Sense](https://open.spotify.com/artist/5d7zpEJw3hhXugS5UFTQvg) | [528 Hz Ethereal Wavelengths](https://open.spotify.com/album/41RMfX1OGZLfG820A7Wvz6) | 3:00 | 2023-11-30 |  |
+| [528 Hz Far Horizon](https://open.spotify.com/track/2Rm6c5rnzodTYxATrItF6P) | [Inner Peace Champions](https://open.spotify.com/artist/5bSKwZCrNCkL4EWOkxvkHK) | [528 Hz Far Horizon](https://open.spotify.com/album/4Tooc0K4PhCDPvr9z5cIB9) | 2:37 | 2025-12-10 |  |
 | [528 Hz For Sleep](https://open.spotify.com/track/1gNRGjfmGqugm1IcTaKtKE) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [528 Hz For Sleep](https://open.spotify.com/album/1fCG0xvhQCXFTalIoqTbNY) | 3:20 | 2023-08-07 | 2025-10-22 |
 | [528 Hz for Sleep and Relaxation](https://open.spotify.com/track/1wHaatSSIRbGCiwfJus66x) | [Lynx XII](https://open.spotify.com/artist/4NkftNKnmddqOOVCrSvOOa) | [528 Hz Sleep & Relaxation](https://open.spotify.com/album/4qaU7LnjZmjwmwF3ar9p4U) | 3:02 | 2023-04-06 | 2025-05-15 |
 | [528 Hz Frequency of Love](https://open.spotify.com/track/2hwE1wOLW1YAlODCcqRR9G) | [Particle Guidance](https://open.spotify.com/artist/2Ol6nr2IZ1Jqs1scycbjLZ) | [Harmonic Intonation](https://open.spotify.com/album/4L17rtwyeMNeQJDnoxwgET) | 3:10 | 2023-02-08 | 2025-10-22 |
@@ -91,6 +93,8 @@
 | [528 Hz Morning Miracle](https://open.spotify.com/track/3DZulX7snXKBp91TG8tTje) | [Dynamic Dimension](https://open.spotify.com/artist/2PWrvQ39kze8AxXW31eP69) | [Morning Miracle](https://open.spotify.com/album/4A2KCK3kY9pOVWdmVmFWoW) | 3:02 | 2023-02-08 | 2023-12-01 |
 | [528 Hz Movement](https://open.spotify.com/track/32856LzLm17UlDxgT1RBNb) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [528 Hz Movement](https://open.spotify.com/album/1XUQqP4lRwZwj1pVma4BIf) | 2:41 | 2023-09-19 | 2025-10-22 |
 | [528 Hz Nothing Between Us](https://open.spotify.com/track/26j1tD2LAtxD2JOYWVGd8C) | [Somaya Kudri](https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys) | [Nothing Between Us \(Solfeggio Frequencies\)](https://open.spotify.com/album/0WDiHhlPC3P2TNDV4d9gYx) | 2:30 | 2023-09-19 |  |
+| [528 Hz Peaceful Awakening](https://open.spotify.com/track/0QLuaktURIFDfTcfbpR7hm) | [Pan Galactic Vibration](https://open.spotify.com/artist/5LD5A8M950t4R7S2coaZER) | [528 Hz Peaceful Awakening](https://open.spotify.com/album/0lu2iZtMDZpFUF2L9rUIZe) | 2:12 | 2025-12-10 |  |
+| [528 Hz Peaceful Morning](https://open.spotify.com/track/4neGVEu2YcGEn64P4Mfkdn) | [Binaural Exploration Solfeggio](https://open.spotify.com/artist/69FqgXw1kDOqbP9rx3t7Kg) | [528 Hz Peaceful Morning](https://open.spotify.com/album/1ZsSN99r6azBkfwKygx6fw) | 2:27 | 2025-12-10 |  |
 | [528 Hz Peaceful Swirling](https://open.spotify.com/track/5XxGlAvIctaON6WqTRgZrI) | [Binaural Exploration Solfeggio](https://open.spotify.com/artist/69FqgXw1kDOqbP9rx3t7Kg) | [528 Hz Peaceful Swirling](https://open.spotify.com/album/3zrRiNoMxBhvkTuE2KXe3X) | 2:26 | 2025-07-08 |  |
 | [528 Hz Perpetuity](https://open.spotify.com/track/39AMNbMrmM5Kwyy1WNyzvU) | [Brett McLaughlin](https://open.spotify.com/artist/0vQpcjQ759LHyXKgSdHweo) | [528 Hz Perpetuity](https://open.spotify.com/album/1A2Bqwv86Szq3HvyS3sn5x) | 2:25 | 2025-03-26 |  |
 | [528 Hz Quiet Mind](https://open.spotify.com/track/1XstVR60j8UZknphvF5f1E) | [Orvalis](https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz) | [528 Hz Quiet Mind](https://open.spotify.com/album/6jP4KV0E6u5efGvtQQd6Ch) | 2:59 | 2023-09-19 | 2025-10-22 |
@@ -215,6 +219,7 @@
 | [Imagine 528 Hz](https://open.spotify.com/track/7pQc01eRvQffBpMRPGwBO2) | [Sapphire Frequencies](https://open.spotify.com/artist/7En7YqTxnz9HE6lSByaML4) | [Imagine 528 Hz](https://open.spotify.com/album/6TaaGvZYF6h1gbLAdBkQ0E) | 2:50 | 2024-04-07 |  |
 | [Imrindan 528Hz](https://open.spotify.com/track/0XC9SPZWaxDH3MUQdU2yiR) | [Music of Achelous](https://open.spotify.com/artist/3lTn2bnYB9xanBMSXgZ87y) | [Imrindan 528Hz](https://open.spotify.com/album/4EN1lxWddSBPxLM6c8FNui) | 2:28 | 2024-04-07 |  |
 | [Infinity Release 528 Hz](https://open.spotify.com/track/0ooXzoNronTKXyKrOrkVKp) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [Infinity Release 528 Hz](https://open.spotify.com/album/3HmC16zoRgt7rnWUy6ceVH) | 2:16 | 2023-09-19 | 2025-05-28 |
+| [Inner Path 528Hz](https://open.spotify.com/track/27EZqfmylguh8To7DmbHea) | [Solfjord](https://open.spotify.com/artist/01Lia3RrLFYftxXx5DgHG0) | [Inner Path 528Hz](https://open.spotify.com/album/2cVgVvTPbRbArLY37vt8ze) | 2:41 | 2025-12-10 |  |
 | [Inner Strength 528 Hz](https://open.spotify.com/track/5MX3NeA4MH0JGEc6KAxYuX) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [Inner Strength 528 Hz](https://open.spotify.com/album/4TVnnt217UYm5DX3qG1d2k) | 2:28 | 2025-10-01 |  |
 | [Instincts 528 Hz](https://open.spotify.com/track/0Zhgcle6jS4c3q046sGnPU) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Frame of Frequencies](https://open.spotify.com/album/2ADv7aRLplDrzNQVmQyDGd) | 3:49 | 2023-02-08 | 2025-05-28 |
 | [Into Nothing 528 Hz](https://open.spotify.com/track/1k3qD89JD6WzlYuWlvopph) | [The Anodic](https://open.spotify.com/artist/6fZhUg52Jqu49syExDuKII) | [Into Nothing 528 Hz](https://open.spotify.com/album/0KUwBzQ5rFWHGoBvKCj2zD) | 2:31 | 2023-04-06 |  |
@@ -239,6 +244,7 @@
 | [no boundaries 528hz](https://open.spotify.com/track/35sus4JfE3hjBKdYUplymv) | [Dazielle](https://open.spotify.com/artist/2F28GAcpSCxrZ1TLW6S7NM) | [no boundaries 528hz](https://open.spotify.com/album/6GHGouueXDcrGO8GcUM69L) | 2:57 | 2023-08-07 | 2023-09-20 |
 | [Nu Och Då](https://open.spotify.com/track/6NFfWWPPT29ZlkJrEwC2JN) | [Mira Appelquist](https://open.spotify.com/artist/7duj1Wl88dFeqsgmXdxoDW) | [Nu Och Då](https://open.spotify.com/album/495epNYdGBDMYDF7tU6PWT) | 2:24 | 2023-02-08 |  |
 | [Oceanic Stillness](https://open.spotify.com/track/6o10wnw1QPiaworKWXy3PA) | [Celeste Soma](https://open.spotify.com/artist/1b7j7QRse9XXdbZxK3wILz) | [Oceanic Stillness](https://open.spotify.com/album/2FdXI9r0C7Y1LPrnB7Uif6) | 2:20 | 2023-02-08 | 2023-12-01 |
+| [Open Seas 528 Hz](https://open.spotify.com/track/1eKc4x5iPVFTNDH9QDp2MI) | [Profundum](https://open.spotify.com/artist/3vMoRqV2KfqX5kxbNhBrfN) | [Open Seas 528 Hz](https://open.spotify.com/album/53Su4Ldi6dXLIsQTSq0Fi5) | 3:13 | 2025-12-10 |  |
 | [Orbit of 528 Hz](https://open.spotify.com/track/4tJb23cIGGz1R7WX66ugRa) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Orbits of Solfeggio](https://open.spotify.com/album/4R9TBgClDPveS014jD786q) | 2:42 | 2025-10-01 |  |
 | [Osceola](https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Osceola](https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY) | 2:45 | 2023-02-08 |  |
 | [Pineal Activation 528 Hz](https://open.spotify.com/track/6nzBiYFsQQRSIP5WukPuCK) | [luneal](https://open.spotify.com/artist/0K3OhoieXF4QBij6aRe5bP) | [Pineal Activation 528 Hz](https://open.spotify.com/album/5nCTMMk2lYGfH1KIG2W7VP) | 3:09 | 2025-10-01 |  |

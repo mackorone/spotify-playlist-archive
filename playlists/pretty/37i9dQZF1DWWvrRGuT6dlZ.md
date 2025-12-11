@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Highlights and editor's picks from Fresh Finds Singapore & Malaysia in 2025; featuring our Top Fresh Finds Singapore and Malaysia artists, El Riss and WHYLUCAS! Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,038 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,037 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 49 | [Bury It All](https://open.spotify.com/track/7MgSHTJ4z5N3TCx5o8yi1K) | [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [Bury It All](https://open.spotify.com/album/0OATTB3sJhXNu7xIkefBsO) | 3:17 |
 | 50 | [我还是会想他](https://open.spotify.com/track/6Kv80Ap9kUKglc5pH6ykNZ) | [d00nuts](https://open.spotify.com/artist/5HhB2I4VDq7HzEm7Ay1Lmv) | [我还是会想他](https://open.spotify.com/album/5FFH7W2V3N8I1KDu1X1FmR) | 4:44 |
 
-Snapshot ID: `AAAAAKnZQZVLOTM98VII6FC+MC6AvoFB`
+Snapshot ID: `AAAAAPImWnUXJlMHSlXRAN888bIRQIA1`

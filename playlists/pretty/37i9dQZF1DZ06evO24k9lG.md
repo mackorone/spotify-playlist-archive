@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24k9lG.md) - [plain]
 
 > This is Binomio de Oro de América\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,951 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,956 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24k9lG.md) - [plain]
 | 3 | [Olvídala](https://open.spotify.com/track/3QorC3YeHA1zuGHwGCmBja) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [2.000](https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c) | 5:04 |
 | 4 | [Niña Bonita](https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 5:10 |
 | 5 | [Me Vas A Extrañar](https://open.spotify.com/track/012cYVnGDH4YYAyKhSdIus) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Más Cerca De Ti](https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI) | 4:47 |
-| 6 | [Distintos Destinos](https://open.spotify.com/track/3klDMS8I5WdQMD82aAhbha) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Seguimos Por Lo Alto](https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0) | 3:41 |
-| 7 | [Dime Como Te Olvido](https://open.spotify.com/track/3rlwfFCQsq5GYr2XlKRltD) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Haciendo Historia](https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr) | 4:49 |
+| 6 | [Dime Como Te Olvido](https://open.spotify.com/track/3rlwfFCQsq5GYr2XlKRltD) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Haciendo Historia](https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr) | 4:49 |
+| 7 | [Distintos Destinos](https://open.spotify.com/track/3klDMS8I5WdQMD82aAhbha) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Seguimos Por Lo Alto](https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0) | 3:41 |
 | 8 | [Me Ilusioné](https://open.spotify.com/track/20jSoyCuEIjuq9eKCYHpLK) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE) | 5:00 |
 | 9 | [Realízame mis sueños](https://open.spotify.com/track/5uFmiw2BfcTPmjXyLzkmRk) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Más Cerca De Ti](https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI) | 4:40 |
 | 10 | [Un Osito Dormilón](https://open.spotify.com/track/2kfy5uzINhvThNfTqgXNPt) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [2.000](https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c) | 4:49 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24k9lG.md) - [plain]
 | 31 | [Amigo el Corazón](https://open.spotify.com/track/4N4HpuGlzf9lOmVTvrta2K) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Seguimos Por Lo Alto](https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0) | 4:55 |
 | 32 | [Un Recuerdo Que Mata](https://open.spotify.com/track/6olio6TmfjrE5Jmnq3F1VV) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [En Todo Su Esplendor](https://open.spotify.com/album/2yPa1lc5cCJ3YMYZHcbh5v) | 4:39 |
 | 33 | [No Te Vayas](https://open.spotify.com/track/235RP8gmp1yl5wWvp9oLh7) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Todo Corazón](https://open.spotify.com/album/6IJ6INX6TF29ZLLCXLpfbD) | 4:06 |
-| 34 | [Como Hago?](https://open.spotify.com/track/61PSeaG0rMXe7KYfmLpXir) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ), [Gigantes Del Vallenato](https://open.spotify.com/artist/5Xze4GSrC0iPwUdulpUxSu) | [Solo Hits](https://open.spotify.com/album/0TuwCPLmXFqqbbeVuQjAR3) | 4:49 |
-| 35 | [Todo Se Acaba](https://open.spotify.com/track/7yRdBOPaGYhvHFMXbVJCPj) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Haciendo Historia](https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr) | 4:20 |
+| 34 | [Todo Se Acaba](https://open.spotify.com/track/7yRdBOPaGYhvHFMXbVJCPj) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Haciendo Historia](https://open.spotify.com/album/4KHJDRsqmmLBODEC4ajvmr) | 4:20 |
+| 35 | [Como Hago?](https://open.spotify.com/track/61PSeaG0rMXe7KYfmLpXir) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ), [Gigantes Del Vallenato](https://open.spotify.com/artist/5Xze4GSrC0iPwUdulpUxSu) | [Solo Hits](https://open.spotify.com/album/0TuwCPLmXFqqbbeVuQjAR3) | 4:49 |
 | 36 | [Dejate Atrapar](https://open.spotify.com/track/55FtrIkYrKHAhQsCzPdn3e) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE) | 4:52 |
 | 37 | [Un Camino Lejano](https://open.spotify.com/track/34dXtfHp5Zf8TV4dwqXGGg) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [2.000](https://open.spotify.com/album/4CS4Z7cXj4VtuqBsvECU6c) | 5:01 |
 | 38 | [Impredecible](https://open.spotify.com/track/0cNy83OqUpNDJ0OfHcoodK) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Impredecible](https://open.spotify.com/album/2SDcMM27B25Z4ZHfkcVqA0) | 4:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24k9lG.md) - [plain]
 | 49 | [Que Bonito](https://open.spotify.com/track/0Mwsok9mGp5jpyVWBQqCID) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Todo Corazón](https://open.spotify.com/album/6IJ6INX6TF29ZLLCXLpfbD) | 4:53 |
 | 50 | [Solo Por Ti](https://open.spotify.com/track/5biz82cvckw47XRp26iJwT) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [De La Mano Con El Pueblo](https://open.spotify.com/album/5nCKUZvev5ocWCIICjFvO8) | 5:02 |
 
-Snapshot ID: `aTYVAAAAAADiNENsia+NTWNFtlvyl0zQ`
+Snapshot ID: `aTdmgAAAAAB3JN6nWZjxZeW7Py+5ZijM`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,502 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,506 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 31 | [4 MY CULT](https://open.spotify.com/track/1fKeLutFtUHBleFW010cNp) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [4 MY CULT](https://open.spotify.com/album/2jk9bSrhkHp2XAVXi22BDz) | 2:45 |
 | 32 | [Hooligan](https://open.spotify.com/track/3Ijtgzo3xvQx6pScNesUQi) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI) | [THE NEVER SURRENDERS COMPILATION](https://open.spotify.com/album/4TckoJML1WUe5agHaARdri) | 2:37 |
 | 33 | [ヘビー \(feat\. DADA & Watson\)](https://open.spotify.com/track/2zonAMygHIUK6CfdxHVfFK) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [激アツ](https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl) | 4:01 |
-| 34 | [27CLUB feat\. LEX](https://open.spotify.com/track/4g2SQ8DLccn8dLtbUSCsE1) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [DISTORTION](https://open.spotify.com/album/2nKHK0XJNGksRIFK4xnaBI) | 2:41 |
-| 35 | [FFNM](https://open.spotify.com/track/3EPKoSpFOUULrkUEQRcrMF) | [Bank.Somsaart](https://open.spotify.com/artist/5sBMNCNuKL52Z5gS066PJT) | [Who ride wit us](https://open.spotify.com/album/1uJQ4jsQqIJb7EaWwhtvA8) | 2:44 |
+| 34 | [FFNM](https://open.spotify.com/track/3EPKoSpFOUULrkUEQRcrMF) | [Bank.Somsaart](https://open.spotify.com/artist/5sBMNCNuKL52Z5gS066PJT) | [Who ride wit us](https://open.spotify.com/album/1uJQ4jsQqIJb7EaWwhtvA8) | 2:44 |
+| 35 | [27CLUB feat\. LEX](https://open.spotify.com/track/4g2SQ8DLccn8dLtbUSCsE1) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [DISTORTION](https://open.spotify.com/album/2nKHK0XJNGksRIFK4xnaBI) | 2:41 |
 | 36 | [YW](https://open.spotify.com/track/2TaoYfJcOMXsiDZPI9FPwA) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [YW](https://open.spotify.com/album/3kr26yMOA0X7MoIBXMd9ms) | 2:28 |
 | 37 | [NEW REAL \(feat\. Young Zetton\)](https://open.spotify.com/track/5ttpHK1EfoHGkz9c7ggnT5) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS) | [NEW REAL \(feat\. Young Zetton\)](https://open.spotify.com/album/5yXjW5J8B1OhqbOVFWQHdt) | 3:15 |
 | 38 | [Talk 2 Me](https://open.spotify.com/track/62mAKN9Ntrp9MFjBrbuTps) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [KJ SEASON2](https://open.spotify.com/album/28iWqw8fyWr0ls4qUzf2I0) | 2:02 |

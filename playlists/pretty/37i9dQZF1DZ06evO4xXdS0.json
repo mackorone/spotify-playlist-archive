@@ -1,12 +1,12 @@
 {
   "description": "This is Nina Simone. The essential tracks, all in one playlist.",
-  "num_followers": 504472,
+  "num_followers": 504529,
   "original_name": "This Is Nina Simone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAADe7n8oy+s8Mr3jLaIPzl4L",
+  "snapshot_id": "aTdmgAAAAACmWalkRITKoG7m4tuErR8g",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "'Nuff Said (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1ZRMX4V4gDAJzRmwUfjMYg"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 127800,
-      "name": "Ain't Got No - I Got Life (From the musical production \"Hair\")",
-      "url": "https://open.spotify.com/track/5VgcM58bybW45T2WgTdbeY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "High Priestess Of Soul",
         "url": "https://open.spotify.com/album/1M2ktinB3DcTbrVXD45jxn"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 183666,
       "name": "Work Song",
       "url": "https://open.spotify.com/track/628A54HsxBPfgJPShyD7gx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "'Nuff Said (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1ZRMX4V4gDAJzRmwUfjMYg"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 127800,
+      "name": "Ain't Got No - I Got Life (From the musical production \"Hair\")",
+      "url": "https://open.spotify.com/track/5VgcM58bybW45T2WgTdbeY"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silk & Soul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 202053,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/395JOroUb1RLcDp5BCN7F5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Little Girl Blue (2013 - Remaster)",
         "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 190370,
       "name": "Don't Smoke in Bed (2013 - Remaster)",
       "url": "https://open.spotify.com/track/32wq8cLbp3qaOlkNcDneIT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Silk & Soul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/395JOroUb1RLcDp5BCN7F5"
     },
     {
       "added_at": null,

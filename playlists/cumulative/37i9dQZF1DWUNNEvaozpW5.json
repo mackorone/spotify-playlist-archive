@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Fito y Fitipaldis.",
+  "description": "Robe, siempre en nuestros corazones.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -28,6 +28,24 @@
       "duration_ms": 156235,
       "name": "(incontrolable)",
       "url": "https://open.spotify.com/track/5fpiMcL81I9166vrKkKTBJ"
+    },
+    {
+      "album": {
+        "name": "Lo Que Aletea en Nuestras Cabezas",
+        "url": "https://open.spotify.com/album/7vrBmaIDGFTdQvbrPW35ET"
+      },
+      "artists": [
+        {
+          "name": "Robe",
+          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203440,
+      "name": "...Y Rozar Contigo",
+      "url": "https://open.spotify.com/track/5JCL5SDmXcn9vA3gr8EqiQ"
     },
     {
       "album": {
@@ -172,7 +190,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 261862,
       "name": "A contraluz",
       "url": "https://open.spotify.com/track/2AWqAyzKpKS83r4kpJxDmt"
@@ -400,7 +418,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 375119,
       "name": "Acabo de llegar",
       "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
@@ -828,7 +846,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 289626,
       "name": "Aquellas Cosas Que Sol\u00edamos Hacer",
       "url": "https://open.spotify.com/track/1CrN92KYQTOePdubueHipL"
@@ -1624,7 +1642,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 380973,
       "name": "Calle Melancol\u00eda",
       "url": "https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG"
@@ -4016,6 +4034,24 @@
       "duration_ms": 381000,
       "name": "El hombre p\u00e1jaro",
       "url": "https://open.spotify.com/track/08mTUZxZ95GSrAnGi7sYuK"
+    },
+    {
+      "album": {
+        "name": "Se nos lleva el aire",
+        "url": "https://open.spotify.com/album/6Dgq1Ptc2f9Er4LPgWSqSS"
+      },
+      "artists": [
+        {
+          "name": "Robe",
+          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381000,
+      "name": "El hombre p\u00e1jaro",
+      "url": "https://open.spotify.com/track/1RO9fcejkWoqOFj6W4tFVI"
     },
     {
       "album": {
@@ -7510,7 +7546,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 256821,
       "name": "Llorar\u00e9",
       "url": "https://open.spotify.com/track/0T74LiMmqOu1rUlpEhEdzp"
@@ -10450,7 +10486,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 242005,
       "name": "Punto de Colisi\u00f3n",
       "url": "https://open.spotify.com/track/0W5WdG9xYM22G2GbJEanNd"

@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 49960,
+  "num_followers": 49963,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAB2b6qkdJLmyY9SwGyLxRsH",
+  "snapshot_id": "aTdmgAAAAABHJYnC5bXmCT8mSLETIzg/",
   "tracks": [
     {
       "added_at": null,
@@ -199,18 +199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Werewolf",
-        "url": "https://open.spotify.com/album/4we9ShOxtvFbb9qGTrSP8u"
+        "name": "Rocky Mountain Low (feat. Koe Wetzel)",
+        "url": "https://open.spotify.com/album/34UbZH97R1t0TR1IoV5alN"
       },
       "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        },
         {
           "name": "Koe Wetzel",
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 222578,
-      "name": "Werewolf",
-      "url": "https://open.spotify.com/track/0CRd1nB5QpxEf4n9YWNr4w"
+      "duration_ms": 168333,
+      "name": "Rocky Mountain Low - feat. Koe Wetzel",
+      "url": "https://open.spotify.com/track/6sP76Z6IeqyCOcTHArKOR3"
     },
     {
       "added_at": null,
@@ -231,22 +235,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rocky Mountain Low (feat. Koe Wetzel)",
-        "url": "https://open.spotify.com/album/34UbZH97R1t0TR1IoV5alN"
+        "name": "Werewolf",
+        "url": "https://open.spotify.com/album/4we9ShOxtvFbb9qGTrSP8u"
       },
       "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        },
         {
           "name": "Koe Wetzel",
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 168333,
-      "name": "Rocky Mountain Low - feat. Koe Wetzel",
-      "url": "https://open.spotify.com/track/6sP76Z6IeqyCOcTHArKOR3"
+      "duration_ms": 222578,
+      "name": "Werewolf",
+      "url": "https://open.spotify.com/track/0CRd1nB5QpxEf4n9YWNr4w"
     },
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hell Paso",
+        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "Oklahoma Sun",
+      "url": "https://open.spotify.com/track/0j3wDCVzAyUEtNsbjKyJZs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Six String Sorrow Sessions",
         "url": "https://open.spotify.com/album/3W2n5UdnvUgvWumZhnZ2OP"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 288128,
       "name": "Gunshy - Rerecorded",
       "url": "https://open.spotify.com/track/6jp0oU7XztnQveIP2FJoJ5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hell Paso",
-        "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 216160,
-      "name": "Oklahoma Sun",
-      "url": "https://open.spotify.com/track/0j3wDCVzAyUEtNsbjKyJZs"
     },
     {
       "added_at": null,

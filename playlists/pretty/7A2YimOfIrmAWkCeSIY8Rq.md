@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7A2YimOfIrmAWkCeSIY8Rq.md) - [plain]
 
 > Breathe in, breathe out and let this relaxing playlist help you focus on the task at hand.
 
-[Peaceful Classics](https://open.spotify.com/user/peacefulclassics) - 31,662 likes - 89 songs - 5 hr 6 min
+[Peaceful Classics](https://open.spotify.com/user/peacefulclassics) - 31,661 likes - 89 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/7A2YimOfIrmAWkCeSIY8Rq.md) - [plain]
 | 23 | [Open](https://open.spotify.com/track/4XPq8MBYuWi4Z5PzmebwYo) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [Open](https://open.spotify.com/album/1Bqt4IAh5SgCWyN42nHKDD) | 3:02 |
 | 24 | [Sol And Luna \- Piano Version](https://open.spotify.com/track/6HQQYlpcguN2OfCvgyR9Hy) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Henosis \(Deluxe\)](https://open.spotify.com/album/7jQl1Ta8H2sUOgx3pKyAQa) | 4:25 |
 | 25 | [Waltz in B Minor](https://open.spotify.com/track/1LBi3IBNE2UMIGOeQzGva7) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Waltz in B Minor](https://open.spotify.com/album/6PIROg3KP7VB7pb5UvB7v3) | 4:19 |
-| 26 | [Seven Days Walking / Day 2: Birdsong](https://open.spotify.com/track/0F1pVTcaKrTcomRTAaCOnx) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Seven Days Walking \(Day 2\)](https://open.spotify.com/album/4GRrwMMcFXZUGIPX6ltBj5) | 5:25 |
+| 26 | [Birdsong \- Day 2](https://open.spotify.com/track/0F1pVTcaKrTcomRTAaCOnx) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Seven Days Walking \(Day 2\)](https://open.spotify.com/album/4GRrwMMcFXZUGIPX6ltBj5) | 5:25 |
 | 27 | [Solitude](https://open.spotify.com/track/21UkknmSYISvDaQbaMIOgq) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Solitude](https://open.spotify.com/album/1XmDqoUApujiLgpDFAYszk) | 3:45 |
 | 28 | [Slow Slow](https://open.spotify.com/track/0gLsQfRQsf1yoMFhji83mh) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Lambert](https://open.spotify.com/album/4GN3nai8rLluQTkdQF94WR) | 1:52 |
 | 29 | [September](https://open.spotify.com/track/4ZAR3wI6uq1ZEIcQPDNIzq) | [Isobel Waller\-Bridge](https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ) | [September](https://open.spotify.com/album/2HZaUUcFEa9X87d0cZX3dc) | 2:09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,549,485 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,549,444 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 75 | [ザ・レンチキュラーズ](https://open.spotify.com/track/7g80ERTENN36dFb71olxaC) | [Scenarioart](https://open.spotify.com/artist/4yHLkC0Z5EYVyinSP2AHvV) | [ザ・レンチキュラーズ](https://open.spotify.com/album/4VBiV3AQtvkeymxtoVFr7D) | 3:53 |
 | 76 | [Giver](https://open.spotify.com/track/6da8RpwQMKltnju2HcHfjG) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [Giver](https://open.spotify.com/album/4hWbsnlLgo3S4eb3lFaepu) | 3:14 |
 | 77 | [1, 2, Play](https://open.spotify.com/track/3eo7iY4K5jsKjPZkHhgiwd) | [Toshinobu Kubota](https://open.spotify.com/artist/45JvI0rkPkFFL14Cj0eput) | [1, 2, Play / Left & Right](https://open.spotify.com/album/1VhfknXFuQCoAqZZu6Mvtq) | 2:55 |
-| 78 | [All or None \(feat\. Jua\)](https://open.spotify.com/track/6bpABVRPoeSYd3HQPMxqjG) | [Hidetake Takayama](https://open.spotify.com/artist/1g9ljMQR4hwkikhrk8vI2i), [Jua](https://open.spotify.com/artist/26dHoylWMGUzXl9oY2zG99) | [All or None \(feat\. Jua\)](https://open.spotify.com/album/4gGuVpcAIAtIYVpUbF1S7d) | 2:35 |
+| 78 | [All or None \(feat\. Jua\)](https://open.spotify.com/track/6bpABVRPoeSYd3HQPMxqjG) | [Hidetake Takayama](https://open.spotify.com/artist/1g9ljMQR4hwkikhrk8vI2i), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [All or None \(feat\. Jua\)](https://open.spotify.com/album/4gGuVpcAIAtIYVpUbF1S7d) | 2:35 |
 | 79 | [Senko Hanabi](https://open.spotify.com/track/37L0lM6vwGwkZSUgen1Q5N) | [H△G](https://open.spotify.com/artist/7GsiDAKduqD0ezEeOWeldb), [Luna Ishikawa \(CV: Minami Tanaka\)](https://open.spotify.com/artist/2yPpY5sDkHF5RQZ5ZOqm2g) | [Senko Hanabi](https://open.spotify.com/album/3VVb78qpNJeZAzXOxLKaEY) | 3:14 |
 | 80 | [Stellar Days](https://open.spotify.com/track/56R6MDNhB1lOt4TpPygUoq) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [Stellar Days](https://open.spotify.com/album/1pDRQrG8cWQttO5fEVXHBU) | 4:01 |
 | 81 | [ダイアリー](https://open.spotify.com/track/5Gnig5J8kZVohlZyLql4Mh) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [ダイアリー](https://open.spotify.com/album/7ISMep3bRygs9hXyl1digu) | 3:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 
 > Hits, repackaged by Bollywood\. Cover \- Badrinath Ki Dulhania
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,983 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,040 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 | 49 | [So Gaya Yeh Jahan \(From "Bypass Road"\)](https://open.spotify.com/track/6HlKDKcgvwjvWPrYIqMSaK) | [Nitin Mukesh](https://open.spotify.com/artist/4ec676jWgAuvEZZg0y7dBy), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Saloni Thakkar](https://open.spotify.com/artist/7haLHbJDuh7ZPdFM78PtPg), [Raaj Aashoo](https://open.spotify.com/artist/3jNaDQZQjbidKVJrIhhibh) | [So Gaya Yeh Jahan \(From "Bypass Road"\)](https://open.spotify.com/album/3iGSnvNeUwTFxoKCE6t4hw) | 2:32 |
 | 50 | [Kisi Se Pyar Ho Jaye](https://open.spotify.com/track/2RIFyeYTPMHesJsWPW2Z8v) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Gourov\-Roshin](https://open.spotify.com/artist/65nLHsd1qvpjrzK4pGbEpC), [Rajesh Roshan](https://open.spotify.com/artist/5c3Qxc5sTis0Oq3XcOdIJD), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Anand Bakshi](https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy) | [Kaabil](https://open.spotify.com/album/1YQ3etszbfhZZNDqWmKdLa) | 4:10 |
 
-Snapshot ID: `AAAAAD/4SCRhkVKzxUYquhUCJ40ftbMn`
+Snapshot ID: `AAAAAKm2flLsuDKjO0fFBZW9k9JjkmUn`

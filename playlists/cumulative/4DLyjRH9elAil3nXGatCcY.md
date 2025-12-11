@@ -4,7 +4,7 @@
 
 > 
 
-519 songs - 1 day 10 hr 28 min
+520 songs - 1 day 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Birdsong \- Extended Mix](https://open.spotify.com/track/262uyHkGuKbi7qrnRYnQQB) | [Kabuki](https://open.spotify.com/artist/2PYwh6PcmNFSq6UOEp3GPW), [James Landino](https://open.spotify.com/artist/6xMMOflXnoIA3grU3seMjh) | [Birdsong \(Extended Mix\)](https://open.spotify.com/album/288nz0WEah9TKPOwrtGUMU) | 3:46 | 2020-08-20 |  |
 | [Black Wave](https://open.spotify.com/track/6B69v0kDUWJqWz1W3lNrz2) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Every Where Is Some Where](https://open.spotify.com/album/5ddpf5pxYjw9ob4DjPLuiz) | 3:38 | 2025-10-15 |  |
 | [Blatant Plagiarism](https://open.spotify.com/track/3a99nVOjWIe2vWXmOEKEpX) | [GHOST DATA](https://open.spotify.com/artist/042mLfOBpH8OoX8A6sUYhf) | [Blatant Plagiarism](https://open.spotify.com/album/4LYyTXz9KS5JKPUrVwJu4Z) | 2:50 | 2020-03-11 |  |
+| [Bliss Beat](https://open.spotify.com/track/0qcBGGXFgAUd1sb8HwMk9e) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L) | [This Infinite](https://open.spotify.com/album/3y9JzXqiUFmPQJy0jxlCq4) | 3:33 | 2025-12-10 |  |
 | [Bloom \- D.V.S\* Remix](https://open.spotify.com/track/4fZxp4iqZNOHSZ56v7zY7c) | [Minnesota](https://open.spotify.com/artist/4XIIdT0K7u7d1Tz5Vfx0JG), [D.V.S\*](https://open.spotify.com/artist/5205s7O2uBpVggPfzdnT89) | [Eternal Frequencies: Equinox Remixes](https://open.spotify.com/album/7KEQxj2Ldsi30A6uL9y7Xf) | 4:54 | 2025-10-15 |  |
 | [Blossom](https://open.spotify.com/track/6N5QUrxpUVOMJGCb4zeUr5) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [a liquid breakfast](https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb) | 1:54 | 2022-05-09 |  |
 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック　OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 | 2025-10-15 |  |

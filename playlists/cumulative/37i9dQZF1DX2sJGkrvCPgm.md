@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-508 songs - 1 day 7 hr 39 min
+509 songs - 1 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Being Home for Christmas](https://open.spotify.com/track/6C5kkTtjWio0ah4AZDEiFS) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Home for Christmas](https://open.spotify.com/album/63XoYgQykqbqTiGa3jBvki) | 4:16 | 2021-12-24 | 2024-11-18 |
 | [Born a King \- Reimagined](https://open.spotify.com/track/34qhtucHZ0VKASva6lFJD8) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [Born a King](https://open.spotify.com/album/2XckCbcJxb6HwFjzah1DlG) | 3:18 | 2021-12-24 | 2025-05-14 |
 | [Born In Bethlehem](https://open.spotify.com/track/0bx2d5fwkiVtipA1JT7Qdm) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Christmas Offerings](https://open.spotify.com/album/0ytvxlV9CcT0IAke7hxdfj) | 3:43 | 2021-12-24 |  |
+| [Born In Bethlehem \(DEMO\)](https://open.spotify.com/track/4hlSRzpsYF9IMO5htmVURt) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [Born In Bethlehem \(DEMO\)](https://open.spotify.com/album/5fJRgdNxnj5YerP9t2LSPh) | 3:30 | 2025-12-07 |  |
 | [Born in Me \(Album Version\)](https://open.spotify.com/track/7xcHCg6V2oVDlfTCmZKNbE) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [JJ Heller Christmas](https://open.spotify.com/album/6xdcCHqI8RfvzVqhE3J320) | 3:03 | 2025-11-16 |  |
 | [Born Is The King \(It's Christmas\)](https://open.spotify.com/track/43mAbdlwkCFKSFF0pvbz4s) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [We Have A Savior](https://open.spotify.com/album/1DltfgAtgRgLmXbhve2g4B) | 3:21 | 2021-12-24 | 2024-08-02 |
 | [Born on That Day](https://open.spotify.com/track/3wlUyTYyx0XBsk2IoKu6R7) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Advent of Christmas](https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg) | 4:35 | 2021-12-24 |  |
@@ -178,7 +179,7 @@
 | [Hallelujah, Christ Is Born \- Live](https://open.spotify.com/track/1ZtwQJQKm5yJTjzSpoTCFu) | [Caroline Cobb](https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM) | [The Advent Sessions \(Live\)](https://open.spotify.com/album/5MOnuCg941VDAAgfxd9aJJ) | 4:23 | 2025-11-22 |  |
 | [Hark \(Hear the Angels Sing\)](https://open.spotify.com/track/2zJiEuecwS1rhFqhhBOUFA) | [Faith Worship Arts](https://open.spotify.com/artist/7lMdRbr3ZYJ98Kyhf3r2ex), [John Dreher](https://open.spotify.com/artist/2xPTT6nveKcSqdSdHLsDtM), [Sydney James](https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ) | [Hark \(Hear the Angels Sing\)](https://open.spotify.com/album/1lVBIOGjJChfkEE3ynUNUo) | 3:37 | 2024-10-27 | 2024-12-10 |
 | [Hark the Herald Angels Sing \(Glory Forever Be\)](https://open.spotify.com/track/4SRNdljZnrqyZrs2IdisXR) | [Stillcreek](https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW) | [Hark the Herald Angels Sing \(Glory Forever Be\)](https://open.spotify.com/album/03Bqn4pOdfjtu3US7Ev079) | 5:09 | 2025-11-28 |  |
-| [Hark! The Herald Angels Sing](https://open.spotify.com/track/3SrvLPdiK7TpraE8gZ2BJw) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/2saqIsSf0pCBCViucnHK2a) | 3:04 | 2024-10-27 |  |
+| [Hark! The Herald Angels Sing](https://open.spotify.com/track/3SrvLPdiK7TpraE8gZ2BJw) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/2saqIsSf0pCBCViucnHK2a) | 3:04 | 2024-10-27 | 2025-12-11 |
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6J2CmPOqOD3Bdi5rf9u4zc) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Advent of Christmas](https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg) | 4:13 | 2021-12-24 |  |
 | [Hark! the Herald Angels Sing](https://open.spotify.com/track/75oikFsOz5Kq08fOK4AXIb) | [Tim Timmons](https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX) | [Hark! the Herald Angels Sing](https://open.spotify.com/album/75icngRr6YHEM26hvLUBoa) | 3:13 | 2024-11-17 | 2025-11-27 |
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6ROvyTNjYgIM7UmBdFwW74) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/4cwPn3HcOg2Xil0QFInOFu) | 3:22 | 2024-10-27 |  |

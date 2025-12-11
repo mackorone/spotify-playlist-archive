@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,926 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,930 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,19 +34,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 24 | [勇者](https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [勇者](https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO) | 3:14 |
 | 25 | [ギルティ \- Guilty](https://open.spotify.com/track/6T39ocn30lHZqy9PCMGdSc) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [ギルティ \- Guilty](https://open.spotify.com/album/5b2yWdyyfJhDIFuJjPlsxZ) | 3:29 |
 | 26 | [いのちのパレヱド](https://open.spotify.com/track/0IerodT2kkmffBh02FflGJ) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [いのちのパレヱド](https://open.spotify.com/album/1rVMxPiU2H6GVFLEmZV695) | 2:49 |
-| 27 | [メトロシティ](https://open.spotify.com/track/7hZ2wV0F3Ca17GTSYHH2f1) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [メトロシティ](https://open.spotify.com/album/3CMnxRCZE31EU1UQO571bd) | 3:20 |
+| 27 | [ROCKSTAR](https://open.spotify.com/track/22wzqoECjwKEZEw37WbAXX) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Best Adobum](https://open.spotify.com/album/4G1L7sZheq5RAFNbqSbp3O) | 3:43 |
 | 28 | [ヒッチコック](https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:42 |
 | 29 | [Watch me!](https://open.spotify.com/track/2XlTBc7XOzyunDf3Oqsfpk) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Watch me!](https://open.spotify.com/album/1M2XEzXjHUbVfMVfwMTPYc) | 3:06 |
 | 30 | [To Be Alive](https://open.spotify.com/track/0KgZSae308sPk5yh39jm8c) | [HACHI](https://open.spotify.com/artist/2ksMoRs5T9ErEe5H7gxv7C) | [To Be Alive](https://open.spotify.com/album/0vr01ZdWCT3LwFzvsu5Azk) | 4:06 |
-| 31 | [TAIDADA](https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [TAIDADA](https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6) | 3:46 |
-| 32 | [ROCKSTAR](https://open.spotify.com/track/22wzqoECjwKEZEw37WbAXX) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Best Adobum](https://open.spotify.com/album/4G1L7sZheq5RAFNbqSbp3O) | 3:43 |
+| 31 | [メトロシティ](https://open.spotify.com/track/7hZ2wV0F3Ca17GTSYHH2f1) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [メトロシティ](https://open.spotify.com/album/3CMnxRCZE31EU1UQO571bd) | 3:20 |
+| 32 | [TAIDADA](https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [TAIDADA](https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6) | 3:46 |
 | 33 | [鬼ノ宴](https://open.spotify.com/track/096KHkONhQm4MQNH35mU22) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [鬼ノ宴](https://open.spotify.com/album/4hHgHqD2J1D4bvlzmzzCeT) | 2:55 |
 | 34 | [フライデー・ナイト](https://open.spotify.com/track/4W3rP2KZkKEykdWvlWLgyc) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [劇場](https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc) | 2:56 |
 | 35 | [B.B.M\. \(feat\. ピノキオピー\)](https://open.spotify.com/track/73PSS7LzOveJNlOp7Z3q55) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [GRAND POP](https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H) | 3:06 |
-| 36 | [ずうっといっしょ！](https://open.spotify.com/track/291j3B0q0RBJ15y3TRTzA5) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ずうっといっしょ！](https://open.spotify.com/album/0WcvYEwpmtLdlNsRNVeLU4) | 3:04 |
-| 37 | [唱](https://open.spotify.com/track/2tlOVDJ3lQsUxz22vPJ4c4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [唱](https://open.spotify.com/album/18jn1n7WP5aYQcJORKwTxp) | 3:09 |
-| 38 | [もうどうなってもいいや](https://open.spotify.com/track/17oTdCFRG5Vp4381jehV3U) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [もうどうなってもいいや](https://open.spotify.com/album/6XMeBVW9xA5buvS6EAVbGG) | 3:23 |
-| 39 | [Gold Unbalance](https://open.spotify.com/track/5QNhLQXwvqwC97oRSqsIae) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [Gold Unbalance](https://open.spotify.com/album/6YZgsSoo9i8Kxw1t6zXB36) | 3:12 |
+| 36 | [唱](https://open.spotify.com/track/2tlOVDJ3lQsUxz22vPJ4c4) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [唱](https://open.spotify.com/album/18jn1n7WP5aYQcJORKwTxp) | 3:09 |
+| 37 | [ずうっといっしょ！](https://open.spotify.com/track/291j3B0q0RBJ15y3TRTzA5) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ずうっといっしょ！](https://open.spotify.com/album/0WcvYEwpmtLdlNsRNVeLU4) | 3:04 |
+| 38 | [Gold Unbalance](https://open.spotify.com/track/5QNhLQXwvqwC97oRSqsIae) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [Gold Unbalance](https://open.spotify.com/album/6YZgsSoo9i8Kxw1t6zXB36) | 3:12 |
+| 39 | [もうどうなってもいいや](https://open.spotify.com/track/17oTdCFRG5Vp4381jehV3U) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [もうどうなってもいいや](https://open.spotify.com/album/6XMeBVW9xA5buvS6EAVbGG) | 3:23 |
 | 40 | [マジカルシンドローム](https://open.spotify.com/track/1tzce9prdmxYbPwDSfYV1g) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [マジカルシンドローム](https://open.spotify.com/album/0JfZQAF3ONStszQOiywvpl) | 2:45 |
 | 41 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 |
 | 42 | [若者のすべて](https://open.spotify.com/track/0bolEYwnvGkCjy38QACpBt) | [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [若者のすべて](https://open.spotify.com/album/2pS9ATc0f1xRthcOaTVXvb) | 5:01 |

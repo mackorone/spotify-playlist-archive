@@ -1,12 +1,12 @@
 {
   "description": "This is Nicholas Craven. The essential tracks, all in one playlist.",
-  "num_followers": 686,
+  "num_followers": 688,
   "original_name": "This Is Nicholas Craven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAD8so5FC0fdZu4G8NX4FWvp",
+  "snapshot_id": "aTdmgAAAAABxIgj2P4GMsEJE/i8xjRvo",
   "tracks": [
     {
       "added_at": null,
@@ -511,6 +511,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ultimate Dump Gawd",
+        "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Otha World",
+      "url": "https://open.spotify.com/track/1iatfY3poPxuYbvWLh8Gua"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Craven N 3",
         "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
       },
@@ -531,22 +551,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ultimate Dump Gawd",
-        "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
+        "name": "WIN!",
+        "url": "https://open.spotify.com/album/2bRRe5RbiE3OZtFSiSh0nn"
       },
       "artists": [
         {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+          "name": "Rowjay",
+          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
+        },
+        {
+          "name": "FREAKEY!",
+          "url": "https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY"
+        },
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
         },
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Doomx",
+          "url": "https://open.spotify.com/artist/4fJBrg5idY49VWCkyVIFGA"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Otha World",
-      "url": "https://open.spotify.com/track/1iatfY3poPxuYbvWLh8Gua"
+      "duration_ms": 162253,
+      "name": "WIN!",
+      "url": "https://open.spotify.com/track/2LlilWXyPXCZNtcAUWxnHh"
     },
     {
       "added_at": null,
@@ -595,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deleted Scenes",
-        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
-      },
-      "artists": [
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 188414,
-      "name": "Final Destination",
-      "url": "https://open.spotify.com/track/4OAEMH3QS3o69ww6wKrNQS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ultimate Dump Gawd",
         "url": "https://open.spotify.com/album/7BY0QMRC18N9sxaXqYkzNP"
       },
@@ -635,34 +647,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "WIN!",
-        "url": "https://open.spotify.com/album/2bRRe5RbiE3OZtFSiSh0nn"
+        "name": "Deleted Scenes",
+        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
       },
       "artists": [
         {
-          "name": "Rowjay",
-          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
         },
         {
-          "name": "FREAKEY!",
-          "url": "https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY"
-        },
-        {
-          "name": "Mike Shabb",
-          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
-        },
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 188414,
+      "name": "Final Destination",
+      "url": "https://open.spotify.com/track/4OAEMH3QS3o69ww6wKrNQS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Craven N 3",
+        "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
+      },
+      "artists": [
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         },
         {
-          "name": "Doomx",
-          "url": "https://open.spotify.com/artist/4fJBrg5idY49VWCkyVIFGA"
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
         }
       ],
-      "duration_ms": 162253,
-      "name": "WIN!",
-      "url": "https://open.spotify.com/track/2LlilWXyPXCZNtcAUWxnHh"
+      "duration_ms": 222040,
+      "name": "Opulence",
+      "url": "https://open.spotify.com/track/0CQpw44VyarpOO0YPZm37A"
     },
     {
       "added_at": null,
@@ -678,35 +698,15 @@
         {
           "name": "Boldy James",
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 185027,
-      "name": "Jack Frost",
-      "url": "https://open.spotify.com/track/0dhBMRNxWrBZ6hmZXSC2lT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE PRYCE YOU PAY",
-        "url": "https://open.spotify.com/album/2cuQyw05LhSMjnTMejPUNS"
-      },
-      "artists": [
-        {
-          "name": "Slik Jack",
-          "url": "https://open.spotify.com/artist/2zfwgqJzNi5OdfJwFxpMYZ"
         },
         {
-          "name": "Vincent Pryce",
-          "url": "https://open.spotify.com/artist/2NOvOuKq4vuXLVKyxx8MC8"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+          "name": "Double Dee",
+          "url": "https://open.spotify.com/artist/0VCa5LsylPVCUo93jxHCYe"
         }
       ],
-      "duration_ms": 183000,
-      "name": "LOOT-CRATIVE",
-      "url": "https://open.spotify.com/track/5zk1MUiLf53dJAc9iXM9NS"
+      "duration_ms": 182857,
+      "name": "Early Worms Get Birds",
+      "url": "https://open.spotify.com/track/2Jhku0aj90zNf1d1S8HECm"
     },
     {
       "added_at": null,
@@ -731,22 +731,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Craven N 3",
-        "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
+        "name": "THE PRYCE YOU PAY",
+        "url": "https://open.spotify.com/album/2cuQyw05LhSMjnTMejPUNS"
       },
       "artists": [
         {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+          "name": "Slik Jack",
+          "url": "https://open.spotify.com/artist/2zfwgqJzNi5OdfJwFxpMYZ"
         },
         {
-          "name": "Stove God Cooks",
-          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+          "name": "Vincent Pryce",
+          "url": "https://open.spotify.com/artist/2NOvOuKq4vuXLVKyxx8MC8"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 222040,
-      "name": "Opulence",
-      "url": "https://open.spotify.com/track/0CQpw44VyarpOO0YPZm37A"
+      "duration_ms": 183000,
+      "name": "LOOT-CRATIVE",
+      "url": "https://open.spotify.com/track/5zk1MUiLf53dJAc9iXM9NS"
     },
     {
       "added_at": null,

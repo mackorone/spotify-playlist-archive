@@ -1,6 +1,6 @@
 {
   "description": "Die beste country musiek. Omslag: Eloff",
-  "num_followers": 41695,
+  "num_followers": 41703,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
@@ -67,18 +67,22 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "A Bar Song (Tipsy)",
-        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
+        "name": "Restless Mind",
+        "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
       },
       "artists": [
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        },
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
         }
       ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+      "duration_ms": 286634,
+      "name": "Indigo (feat. Avery Anna)",
+      "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
     },
     {
       "added_at": "2025-10-23 22:00:50",
@@ -99,22 +103,18 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "Restless Mind",
-        "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
       },
       "artists": [
         {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        },
-        {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 286634,
-      "name": "Indigo (feat. Avery Anna)",
-      "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -305,22 +305,6 @@
       "url": "https://open.spotify.com/track/5x3yY9PowNbGRIOyHVbIUp"
     },
     {
-      "added_at": "2025-05-22 22:00:25",
-      "album": {
-        "name": "The Foundation",
-        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 238146,
-      "name": "Chicken Fried",
-      "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
-    },
-    {
       "added_at": "2025-06-19 22:00:57",
       "album": {
         "name": "6 Months Later",
@@ -335,6 +319,22 @@
       "duration_ms": 182868,
       "name": "6 Months Later",
       "url": "https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom"
+    },
+    {
+      "added_at": "2025-05-22 22:00:25",
+      "album": {
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 238146,
+      "name": "Chicken Fried",
+      "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
     },
     {
       "added_at": "2025-10-02 22:00:48",
@@ -387,6 +387,22 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
+        "name": "Am I Okay?",
+        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 235002,
+      "name": "Am I Okay?",
+      "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
+    },
+    {
+      "added_at": "2025-05-22 22:00:25",
+      "album": {
         "name": "Backup Plan (feat. Luke Combs)",
         "url": "https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 181518,
       "name": "Backup Plan (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
-    },
-    {
-      "added_at": "2025-05-22 22:00:25",
-      "album": {
-        "name": "Am I Okay?",
-        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
-      },
-      "artists": [
-        {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
-        }
-      ],
-      "duration_ms": 235002,
-      "name": "Am I Okay?",
-      "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
     },
     {
       "added_at": "2025-05-22 22:00:25",
@@ -487,22 +487,18 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "Bottle Rockets (feat. Hootie & The Blowfish)",
-        "url": "https://open.spotify.com/album/5gXncoYdko6hXM08RQKgsB"
+        "name": "I'm The Problem",
+        "url": "https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD"
       },
       "artists": [
         {
-          "name": "Scotty McCreery",
-          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
-        },
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 235773,
-      "name": "Bottle Rockets (feat. Hootie & The Blowfish)",
-      "url": "https://open.spotify.com/track/5Xl87hTgoBbSnEXKNse77Q"
+      "duration_ms": 177811,
+      "name": "I'm The Problem",
+      "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
     },
     {
       "added_at": "2025-09-25 22:00:26",
@@ -539,18 +535,22 @@
     {
       "added_at": "2025-05-22 22:00:25",
       "album": {
-        "name": "I'm The Problem",
-        "url": "https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD"
+        "name": "Bottle Rockets (feat. Hootie & The Blowfish)",
+        "url": "https://open.spotify.com/album/5gXncoYdko6hXM08RQKgsB"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Scotty McCreery",
+          "url": "https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29"
+        },
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
         }
       ],
-      "duration_ms": 177811,
-      "name": "I'm The Problem",
-      "url": "https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ"
+      "duration_ms": 235773,
+      "name": "Bottle Rockets (feat. Hootie & The Blowfish)",
+      "url": "https://open.spotify.com/track/5Xl87hTgoBbSnEXKNse77Q"
     },
     {
       "added_at": "2025-05-22 22:00:25",

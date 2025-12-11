@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,135 songs - 2 day 15 hr 27 min
+1,136 songs - 2 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Carry Me Home](https://open.spotify.com/track/6XQdsLReArC59ZTSLa0Whw) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Eddie Thoneick](https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt) | [Carry Me Home](https://open.spotify.com/album/3UpvA7dYUfSmJ7JY6N6hAN) | 3:16 | 2023-01-27 | 2023-04-15 |
 | [CASHMERE](https://open.spotify.com/track/5NJkNOXKEfThIuCNOjraGy) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [boler mani](https://open.spotify.com/artist/7uAzXw50IscCTZwLGTP2nc) | [CASHMERE](https://open.spotify.com/album/7n2XaVtj6fO1MFnKz5yh8V) | 2:59 | 2022-09-12 | 2022-11-11 |
 | [Catharsis X](https://open.spotify.com/track/7ktbuWqGUsNmAS9OoNwgWk) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Catharsis X](https://open.spotify.com/album/3ryV1s0kjVYKwRR4Is6Dqs) | 4:04 | 2022-02-03 | 2022-04-14 |
+| [Caught Between](https://open.spotify.com/track/36oJ6fOZHn0dEjGY9EPb9y) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Caught Between](https://open.spotify.com/album/1eJ9aC4RMU10ZtBBTbw4on) | 3:33 | 2025-12-10 |  |
 | [Changing](https://open.spotify.com/track/1kQpog4exXjcld0wSfB8Yq) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM) | [Changing](https://open.spotify.com/album/3YQ1hVACVI6ZQmkLvDj0O9) | 3:59 | 2021-11-19 | 2022-02-05 |
 | [CHAOS WILL BRING PEACE](https://open.spotify.com/track/6OBJOJLrj6X3rr4O09ROKa) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [CHAOS WILL BRING PEACE](https://open.spotify.com/album/4cBCMwA1k3oOwFd1RSGs7r) | 2:40 | 2025-01-24 | 2025-05-01 |
 | [Charmer](https://open.spotify.com/track/0qlcVvGMXn1aRB9nGPlaYN) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [Charmer](https://open.spotify.com/album/24LzfYkJVldWDPJWfilfoM) | 3:36 | 2023-04-20 | 2023-07-15 |

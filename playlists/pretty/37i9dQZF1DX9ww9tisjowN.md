@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > Gacha Pop presents Neo J\-Pop songs we loved the most in 2025\. \#SpotifyWrapped cover: Ado
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,174 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,706 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 49 | [心の奥](https://open.spotify.com/track/0tbeRI5RFnZlqufHP7bMnS) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [溜息](https://open.spotify.com/album/3U0cY8IL5mhYjIveWhZa6g) | 2:40 |
 | 50 | [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 |
 
-Snapshot ID: `AAAAAHKcdAqcVsB+jDtEkTp9RHTpBdju`
+Snapshot ID: `AAAAALW7T9zYBg1eraoj5i8aOpmNQNGI`

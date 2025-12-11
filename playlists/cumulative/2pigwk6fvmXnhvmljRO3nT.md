@@ -4,7 +4,7 @@
 
 > 
 
-8,214 songs - 20 day 20 hr 56 min
+8,215 songs - 20 day 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1835,7 +1835,7 @@
 | [Endless Carnival](https://open.spotify.com/track/3cYVcsBK1CZkXoKaSYZqoj) | [ミツキヨ](https://open.spotify.com/artist/2yzcoSqo3ZOCguk7T0Msa9) | [Blue Archive Original Soundtrack \(Vol.1 \~Longing for the memorable days\~\)](https://open.spotify.com/album/0BTiFYoYsuKefaM1HIQqCC) | 2:42 | 2025-03-08 |  |
 | [Endless Days](https://open.spotify.com/track/4c3mvGLs5py7PuvtO0AzR2) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 0:44 | 2025-04-20 |  |
 | [Endless Echoes](https://open.spotify.com/track/0ooolJPrLaktBacYuKWehQ) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- City of Winds and Idylls \(Original Game Soundtrack\)](https://open.spotify.com/album/4B5efqHkeq0UaDGx8nYOuf) | 4:12 | 2025-03-23 |  |
-| [Endless love](https://open.spotify.com/track/3eTDHurXzczQc0AHAIq8BK) | [김민종](https://open.spotify.com/artist/1wEyGbuSlgNqFKT7bH5Y9p) | [귀천도애](https://open.spotify.com/album/1sg9vVigMgOllmsyfyoJeR) | 4:52 | 2025-01-15 |  |
+| [Endless love](https://open.spotify.com/track/3eTDHurXzczQc0AHAIq8BK) | [김민종](https://open.spotify.com/artist/1wEyGbuSlgNqFKT7bH5Y9p) | [김민종 3집 "귀천도애"](https://open.spotify.com/album/1sg9vVigMgOllmsyfyoJeR) | 4:52 | 2025-01-15 |  |
 | [Endtroduction \- Live At Electric Lady](https://open.spotify.com/track/30oxTR4bZTSVB2vNlVCb7N) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Live At Electric Lady](https://open.spotify.com/album/1ZJIrjZ6OVtVC2TMAVlEQ4) | 4:01 | 2025-01-03 |  |
 | [Enemies](https://open.spotify.com/track/2p2DLGuXtnLLClzpmKkyCx) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage](https://open.spotify.com/album/5WrbKW1nRN4vSsu70uizxX) | 4:08 | 2025-01-03 |  |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2025-01-03 |  |
@@ -7218,6 +7218,7 @@
 | [「戦場ヶ原、蕩れ」](https://open.spotify.com/track/3Q3imRo9qj57EBpfRkMCFD) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Bakemonogatari Gekihanongakushu \(Original Soundtrack\)](https://open.spotify.com/album/2sEpN2bNZaS8xgpaPDNJej) | 2:10 | 2025-09-07 |  |
 | [「戦場ヶ原、蕩れ」](https://open.spotify.com/track/5VnEefSSvS7XE4gpsbS9CE) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [化物語 劇伴音楽集](https://open.spotify.com/album/6nqItKDZGhXjA6uu21Yupd) | 2:10 | 2025-01-15 |  |
 | [「１」](https://open.spotify.com/track/2FC278fNjwwobfflw0MGec) | [日野森志歩](https://open.spotify.com/artist/2WnmLDD0X7ZtJYQfFZegDO) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク　アナザーボーカルアルバム　Leo/need](https://open.spotify.com/album/7xlXLAD6g3OD5bX1hpk7xa) | 3:24 | 2025-10-03 |  |
+| [「１」](https://open.spotify.com/track/3kGShum3K7s4I5ASiO3gnI) | [星乃一歌](https://open.spotify.com/artist/0gIbpvrqmPtHQ8zyQpBDFt) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク　アナザーボーカルアルバム　Leo/need](https://open.spotify.com/album/7xlXLAD6g3OD5bX1hpk7xa) | 3:24 | 2025-12-10 |  |
 | [あいことば \- Secret Word](https://open.spotify.com/track/1PmOyrbXWh03R4idV6ei62) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Ⅴ](https://open.spotify.com/album/0WLus88gcccGasIpW2tb5c) | 5:49 | 2025-01-04 |  |
 | [あいつら全員同窓会](https://open.spotify.com/track/2VIK6jaaKghS4QPHr6sAkv) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [あいつら全員同窓会](https://open.spotify.com/album/3JV0AKw3HatCzJgSEDq450) | 4:14 | 2025-01-15 |  |
 | [あたしが隣にいるうちに](https://open.spotify.com/track/2OIDODhCwRMp217BXRgkRM) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [ライカ \(Special Edition\)](https://open.spotify.com/album/3KSkxrfrvDqPwNiAYBahUn) | 5:55 | 2024-12-14 |  |
@@ -7873,7 +7874,7 @@
 | [광화문에서 \(At Gwanghwamun\)](https://open.spotify.com/track/1YqGY2dW0a9ocyxaB5PtrR) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [광화문에서 At Gwanghwamun \- The 1st Mini Album](https://open.spotify.com/album/0hfvOkRJnV2eVhdy41bbvv) | 4:42 | 2025-04-20 |  |
 | [굿바이데이](https://open.spotify.com/track/4Xjs8WcNzUgDuIybvDXaAU) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [Bridal Mask \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/6UrKATpz7QOhJPN6IH2K1A) | 3:54 | 2025-01-15 |  |
 | [귀로](https://open.spotify.com/track/5B6ewNeXBcIDHqzsgAn6Dk) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 4:26 | 2025-01-04 |  |
-| [귀천도애](https://open.spotify.com/track/2IJ8eg2VNK7oSU8frSKDFb) | [김민종](https://open.spotify.com/artist/1wEyGbuSlgNqFKT7bH5Y9p) | [귀천도애](https://open.spotify.com/album/1sg9vVigMgOllmsyfyoJeR) | 5:00 | 2025-01-15 |  |
+| [귀천도애](https://open.spotify.com/track/2IJ8eg2VNK7oSU8frSKDFb) | [김민종](https://open.spotify.com/artist/1wEyGbuSlgNqFKT7bH5Y9p) | [김민종 3집 "귀천도애"](https://open.spotify.com/album/1sg9vVigMgOllmsyfyoJeR) | 5:00 | 2025-01-15 |  |
 | [그것만이 내 세상](https://open.spotify.com/track/5fUHeKHYntekbkf6FybjLs) | [Deul Guk Hwa](https://open.spotify.com/artist/1sgkTCF42JGJUIaBP68n6H) | [들국화 1집 행진/사랑일 뿐야](https://open.spotify.com/album/1xiw5yg4K5TAaGEt56pR2K) | 5:26 | 2025-06-04 |  |
 | [그것만이 내 세상](https://open.spotify.com/track/0w8np2H7yaus3ySGuLGjvH) | [Deul Guk Hwa](https://open.spotify.com/artist/1sgkTCF42JGJUIaBP68n6H) | [들국화 베스트 12](https://open.spotify.com/album/3fJ38PCtvM906PtVDqBrqI) | 5:29 | 2025-01-03 |  |
 | [그것만이 내 세상](https://open.spotify.com/track/2bE4wberMurwLeVwiS4UOi) | [Deul Guk Hwa](https://open.spotify.com/artist/1sgkTCF42JGJUIaBP68n6H) | [Deulgukhwa](https://open.spotify.com/album/6kXHLEGOgqAduk9ZD7nvEX) | 5:30 | 2025-06-03 |  |
@@ -8171,7 +8172,7 @@
 | [진혼](https://open.spotify.com/track/4bb15RYxa6Xy93bkgJSvW1) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Return To The Rock](https://open.spotify.com/album/4zDVnS4MFbmPNteEQBknoB) | 3:50 | 2025-01-03 |  |
 | [진혼](https://open.spotify.com/track/2BxUjHQRrYX82cP3wDvOTU) | [야다](https://open.spotify.com/artist/3YB77fanbqqyPS7NstYpOE) | [Restructure](https://open.spotify.com/album/6NEUkvavXv0GoJYxWPpfLp) | 5:06 | 2025-01-15 |  |
 | [째즈 카페](https://open.spotify.com/track/0SwSiNArqc58nd21Zfj1Ow) | [Byun Jin\-Sub](https://open.spotify.com/artist/19TSeYJNZVClzoWb6hUVr7), [Shin Hae Chul](https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn) | [신해철](https://open.spotify.com/album/4m0fkoRpLFiJALSqwZ1ibX) | 4:58 | 2024-12-14 |  |
-| [착한 사랑](https://open.spotify.com/track/6STfH93Dthmk0VMZCD5Hgn) | [김민종](https://open.spotify.com/artist/1wEyGbuSlgNqFKT7bH5Y9p) | [애](https://open.spotify.com/album/5DbE0NBVjUrhIh5C44Gz3i) | 5:05 | 2025-01-15 |  |
+| [착한 사랑](https://open.spotify.com/track/6STfH93Dthmk0VMZCD5Hgn) | [김민종](https://open.spotify.com/artist/1wEyGbuSlgNqFKT7bH5Y9p) | [김민종 4집 "애"](https://open.spotify.com/album/5DbE0NBVjUrhIh5C44Gz3i) | 5:05 | 2025-01-15 |  |
 | [찾았다](https://open.spotify.com/track/6QikGnXxJcliCmTkmP0GhG) | [JYJ](https://open.spotify.com/artist/23pnZUOyyTzYzg5GZSvj4Y) | [성균관 스캔들 OST \(Soundtrack\)](https://open.spotify.com/album/7LvIurK4UM0atGzhvZuqAk) | 3:22 | 2025-06-10 |  |
 | [챔피언](https://open.spotify.com/track/6h0DkyZqIuWFFdWRo7n8l2) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Psy 3](https://open.spotify.com/album/7cEeYqp2ltesGDkU2niTtL) | 3:06 | 2025-01-15 |  |
 | [천년의 사랑](https://open.spotify.com/track/29FS4aopbu0HWQ2GSFalvy) | [Park Wan Kyu](https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB) | [천년지애](https://open.spotify.com/album/3TQXaDuauGf8syAkPbYrex) | 4:25 | 2025-01-15 |  |

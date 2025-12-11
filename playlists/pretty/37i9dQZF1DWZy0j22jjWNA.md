@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > Start you day with God and let these songs set you up to have a GOoD morning!
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,985 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,997 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 50 | [All Eyes On You](https://open.spotify.com/track/4EYPGsRXQHnItdVT2jrNqP) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [All Eyes On You](https://open.spotify.com/album/1mVMcsbi2aYFXH9AWm7O95) | 4:49 |
 | 51 | [So Blessed](https://open.spotify.com/track/316ezycEDNS7M5AGWt1YAr) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Chris Cleveland](https://open.spotify.com/artist/5Z6gnOe0q5LWQ6jWaIhyne) | [So Blessed](https://open.spotify.com/album/3EktI6lc5MDYt1JpyPmbYt) | 3:16 |
 | 52 | [GOOD THING](https://open.spotify.com/track/2XGAo5OoJFwaauhyxgwKlq) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [GOOD THING](https://open.spotify.com/album/0WTOcneeZqfL5RwvmiBAo7) | 2:33 |
-| 53 | [Good Morning \- Capital Kings Remix](https://open.spotify.com/track/6UzMzphhijZY0MnrCqx1PC) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [Get Up: The Remixes](https://open.spotify.com/album/2B5gNl8mQt6LpqXTcBGsoe) | 4:13 |
-| 54 | [Hallow](https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Hallow](https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6) | 2:38 |
+| 53 | [Hallow](https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Hallow](https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6) | 2:38 |
+| 54 | [Good Morning \- Capital Kings Remix](https://open.spotify.com/track/6UzMzphhijZY0MnrCqx1PC) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [Get Up: The Remixes](https://open.spotify.com/album/2B5gNl8mQt6LpqXTcBGsoe) | 4:13 |
 | 55 | [New Day](https://open.spotify.com/track/7ilYm200byu5tpaXE97NVR) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 3:43 |
 | 56 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 |
 | 57 | [Power \- Acoustic](https://open.spotify.com/track/3XwxvufJ0ve4BdOOCJ5OEb) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr) | [Meditations](https://open.spotify.com/album/7emwnr2wmTB84uXqIkMYxk) | 3:18 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 62 | [Good Morning](https://open.spotify.com/track/2A4gRO5i9fZvmS5rRyVRhF) | [Jubril](https://open.spotify.com/artist/14wFCdihbMYV9y8Ba0VtHX) | [Good Morning](https://open.spotify.com/album/5C47DQlpqPQ2tBIWOlmkGB) | 2:25 |
 | 63 | [No Bad Days](https://open.spotify.com/track/4LinlODPKgF3shJ7TdwOYs) | [KJ\-52](https://open.spotify.com/artist/0kSHocNBxQeP9pr25l1scP), [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [No Bad Days](https://open.spotify.com/album/4D76v3NTX7MowOgOiQHasl) | 2:17 |
 | 64 | [Sunday Morning](https://open.spotify.com/track/0meZ1wG8nZT8Yw7edBonju) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Sunday Morning](https://open.spotify.com/album/2H6J9gtIWRPJkBwqAq97z6) | 2:19 |
-| 65 | [WAKE UP](https://open.spotify.com/track/2xrEND8nyYh9TQjkJoonVQ) | [Kkah$o](https://open.spotify.com/artist/3TmFsLdilzP3JlrhUK2Edp), [RaJan Monroe](https://open.spotify.com/artist/0oF0QUoqa0NGRgXTNtFtkT) | [WAKE UP](https://open.spotify.com/album/6GSCGstsgnXEGlCauEB9Xi) | 2:30 |
-| 66 | [Joy Comes](https://open.spotify.com/track/11cM33H4S1YN6iSjB7uAvQ) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Joy Comes](https://open.spotify.com/album/6zZi74NcUwGK0uX7lvnACy) | 3:51 |
+| 65 | [Joy Comes](https://open.spotify.com/track/11cM33H4S1YN6iSjB7uAvQ) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [Joy Comes](https://open.spotify.com/album/6zZi74NcUwGK0uX7lvnACy) | 3:51 |
+| 66 | [WAKE UP](https://open.spotify.com/track/2xrEND8nyYh9TQjkJoonVQ) | [Kkah$o](https://open.spotify.com/artist/3TmFsLdilzP3JlrhUK2Edp), [RaJan Monroe](https://open.spotify.com/artist/0oF0QUoqa0NGRgXTNtFtkT) | [WAKE UP](https://open.spotify.com/album/6GSCGstsgnXEGlCauEB9Xi) | 2:30 |
 | 67 | [Surrounded](https://open.spotify.com/track/060RZ3PLJSvIxuxIhFv5gA) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Surrounded](https://open.spotify.com/album/3nN8aSgpM6zDKZEd4Wu7zs) | 3:03 |
 | 68 | [Seeking](https://open.spotify.com/track/1Od2rkHMK2AfGyZ0LgqGB8) | [WYLD](https://open.spotify.com/artist/5Rw6396SuRpo6CRSLrZzKt), [Cether](https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7), [Emely Williams](https://open.spotify.com/artist/0LC1yPnOQaj6VIz5gtZ82H) | [Seeking](https://open.spotify.com/album/4CR9mh2tbBq6OqCRPokdBf) | 3:34 |
 | 69 | [Don't Run Away](https://open.spotify.com/track/260GZLqtxDDQGAJ4EpQCyZ) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v), [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Don't Run Away](https://open.spotify.com/album/3Xi4X6KM4PsNmc6c9Cshau) | 3:08 |

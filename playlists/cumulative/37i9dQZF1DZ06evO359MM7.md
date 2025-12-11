@@ -4,7 +4,7 @@
 
 > This is Lil Baby\. The essential tracks, all in one playlist.
 
-125 songs - 6 hr 7 min
+126 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Listen Up](https://open.spotify.com/track/4y8ZziqKtReDDWhA7JbmpS) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [WHAM](https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb) | 2:35 | 2025-01-05 | 2025-01-27 |
 | [Low Down](https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn \(Deluxe\)](https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r) | 2:24 | 2024-01-12 |  |
 | [Me or Sum \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/2HHLfzE7PkljuqyYU4vwmh) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 3:45 | 2024-01-12 | 2024-07-24 |
+| [Mrs\. Trendsetter](https://open.spotify.com/track/7KSe5wIvvaKCrPN8ySgSfg) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 2:28 | 2025-12-11 |  |
 | [Never Hating \(feat\. Young Thug\)](https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:40 | 2024-01-12 | 2025-01-05 |
 | [Never Needed No Help](https://open.spotify.com/track/7cEZShpmZ7dencnV8ibyUS) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 3:15 | 2024-05-16 | 2024-12-11 |
 | [Never Recover \(Lil Baby & Gunna, Drake\)](https://open.spotify.com/track/6wWaVoUOzLQJHd3bWAUpdZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 3:14 | 2024-01-12 |  |
@@ -103,7 +104,7 @@
 | [Ramen & OJ](https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Ramen & OJ](https://open.spotify.com/album/48ahZJLcagb8VTgRAuv6WQ) | 3:38 | 2024-01-12 |  |
 | [Ready \(feat\. Gunna\)](https://open.spotify.com/track/4F6yN5FsFW10Ucx7cLCzBh) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 3:33 | 2024-01-12 |  |
 | [Real As It Gets \(feat\. EST Gee\)](https://open.spotify.com/track/7eX3um6NpOQKWJMGCi97XD) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Real As It Gets \(feat\. EST Gee\)](https://open.spotify.com/album/0SO86DCFiwaTqchBpujace) | 3:12 | 2024-05-29 | 2024-07-05 |
-| [Real Shit](https://open.spotify.com/track/4CoCcdnntCmfEbOO91IgO5) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Real Shit](https://open.spotify.com/album/4CvXQ6bvjOiA9N5PYMJOrn) | 2:39 | 2025-11-28 |  |
+| [Real Shit](https://open.spotify.com/track/4CoCcdnntCmfEbOO91IgO5) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Real Shit](https://open.spotify.com/album/4CvXQ6bvjOiA9N5PYMJOrn) | 2:39 | 2025-11-28 | 2025-12-11 |
 | [Real Spill](https://open.spotify.com/track/4OkFBMU18NidtaefaTjUq1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 3:18 | 2024-01-12 | 2024-08-08 |
 | [Rich Off Pain \(feat\. Rod Wave\)](https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 3:55 | 2024-05-10 |  |
 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 | 2024-01-12 | 2025-07-22 |

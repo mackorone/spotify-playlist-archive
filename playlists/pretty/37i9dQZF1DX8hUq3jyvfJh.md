@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > A escolha de nossos editores do Melhor de EQUAL Brasil 2025\. Cover: Gaby Amarantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,791 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,808 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 18 | [Pé na Rua \- Ao Vivo](https://open.spotify.com/track/3qsw6I4oLBmuW1XwxA8Uja) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Mari no Barzinho \(Ao Vivo em BH\)](https://open.spotify.com/album/4PRblm6wGLlXfYT3UfAZrW) | 2:21 |
 | 19 | [No Meu Club](https://open.spotify.com/track/7K9SL09rkjRVbORQULf2Qq) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [SIX.](https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr) | 1:57 |
 | 20 | [Marra de Bandido](https://open.spotify.com/track/1s2nR9gBz50NE7TC3HYotD) | [Ellen Nery](https://open.spotify.com/artist/4LBVNF15h6yFNBVjjYjr6O), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Marra de Bandido](https://open.spotify.com/album/2ZbLB7VW1Rxxzbs4BIXyvM) | 1:35 |
-| 21 | [Amor ou Ressentimento](https://open.spotify.com/track/4FRk1wmtB9JfFey0xEpNM9) | [Mannda Lym](https://open.spotify.com/artist/78WvOgIBo2emAnJLbv7nXO) | [Amor ou Ressentimento](https://open.spotify.com/album/2X2OyxL5P0wBToVT29irgF) | 2:31 |
-| 22 | [Sua Onda](https://open.spotify.com/track/0aRDSJHPIyPBGfOqxkLyTE) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Sua Onda](https://open.spotify.com/album/2aQRL0B3OTraPeCftGgK4I) | 3:36 |
+| 21 | [Sua Onda](https://open.spotify.com/track/0aRDSJHPIyPBGfOqxkLyTE) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Sua Onda](https://open.spotify.com/album/2aQRL0B3OTraPeCftGgK4I) | 3:36 |
+| 22 | [Amor ou Ressentimento](https://open.spotify.com/track/4FRk1wmtB9JfFey0xEpNM9) | [Mannda Lym](https://open.spotify.com/artist/78WvOgIBo2emAnJLbv7nXO) | [Amor ou Ressentimento](https://open.spotify.com/album/2X2OyxL5P0wBToVT29irgF) | 2:31 |
 | 23 | [seis anos depois](https://open.spotify.com/track/4Prv4PDe3KiVJ5BLmTutGo) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [claraboia](https://open.spotify.com/album/78YxhXedN9CkDBEvBW7HNm) | 1:37 |
 | 24 | [Manifestação do Amor](https://open.spotify.com/track/1QxfiSKbs0x9FIljyq5XqF) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Manifestação do Amor](https://open.spotify.com/album/6JLg48mqCPlSxQZkLP8RQR) | 2:42 |
 | 25 | [Aquém](https://open.spotify.com/track/0LBT6TP41Co8TS0e67uEM1) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Aquém](https://open.spotify.com/album/6NZZi9wN1XTX9dtKEoa90y) | 2:34 |

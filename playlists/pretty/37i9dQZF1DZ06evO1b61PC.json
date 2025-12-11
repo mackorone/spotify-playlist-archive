@@ -1,29 +1,13 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11332,
+  "num_followers": 11334,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAACoNgRDeqZJmX+V8CMzBU+5",
+  "snapshot_id": "aTdmgAAAAAALXjYbuA6Na6p5WPRCvzp9",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Your Love",
-        "url": "https://open.spotify.com/album/4EcmsY4avimrHEiYWgJxSD"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        }
-      ],
-      "duration_ms": 128142,
-      "name": "All Your Love",
-      "url": "https://open.spotify.com/track/54myGd3cApYi3ZSSXseWmr"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +31,22 @@
       "duration_ms": 221478,
       "name": "Moon Rider (feat. Wrabel) - OTR Remix",
       "url": "https://open.spotify.com/track/2dJruelM5pKxBJbiDYGiG0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Your Love",
+        "url": "https://open.spotify.com/album/4EcmsY4avimrHEiYWgJxSD"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 128142,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/54myGd3cApYi3ZSSXseWmr"
     },
     {
       "added_at": null,
@@ -163,26 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Look Down (feat. BANKS)",
-        "url": "https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 205423,
-      "name": "Don't Look Down (feat. BANKS)",
-      "url": "https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kindred Spirits",
         "url": "https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA"
       },
@@ -195,26 +175,6 @@
       "duration_ms": 222400,
       "name": "The World Is Ours",
       "url": "https://open.spotify.com/track/6mJIo03fCz9txSxE1ZhFSR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cure To Loneliness",
-        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Dresage",
-          "url": "https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2"
-        }
-      ],
-      "duration_ms": 234986,
-      "name": "Better Apart (feat. Dresage)",
-      "url": "https://open.spotify.com/track/1i9IdiNIgtlBvh9BUGm7Ta"
     },
     {
       "added_at": null,
@@ -235,6 +195,26 @@
       "duration_ms": 241040,
       "name": "Lost (feat. Chelsea Jade)",
       "url": "https://open.spotify.com/track/14ToOTiyJ6nLYNZb2Sa5WR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cure To Loneliness",
+        "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Dresage",
+          "url": "https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2"
+        }
+      ],
+      "duration_ms": 234986,
+      "name": "Better Apart (feat. Dresage)",
+      "url": "https://open.spotify.com/track/1i9IdiNIgtlBvh9BUGm7Ta"
     },
     {
       "added_at": null,
@@ -275,6 +255,26 @@
       "duration_ms": 228480,
       "name": "Gravity (feat. JMR)",
       "url": "https://open.spotify.com/track/4jo8IfDa6WLOlvexEEWLAz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Look Down (feat. BANKS)",
+        "url": "https://open.spotify.com/album/7CQsq8FQ9BPHTwgAK6ONXN"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 205423,
+      "name": "Don't Look Down (feat. BANKS)",
+      "url": "https://open.spotify.com/track/7nO01nUfeU6b6N6WxaRmdH"
     },
     {
       "added_at": null,
@@ -335,22 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Will Meet Again",
-        "url": "https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle"
+        "name": "Heaven Is Calling (SHAKING Dub)",
+        "url": "https://open.spotify.com/album/2Hkn1CAxLihCszfmJ8DeFO"
       },
       "artists": [
         {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "SHAKING",
+          "url": "https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6"
         }
       ],
-      "duration_ms": 201199,
-      "name": "We Will Meet Again",
-      "url": "https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn"
+      "duration_ms": 199714,
+      "name": "Heaven Is Calling (SHAKING Dub)",
+      "url": "https://open.spotify.com/track/1rZcOvYX5w9RytcyGmkufC"
     },
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 234813,
-      "name": "This Song Reminds Me Of You",
-      "url": "https://open.spotify.com/track/0b7vBIHMp6A4e8PxFElyhc"
+      "duration_ms": 286013,
+      "name": "Still Sleeping",
+      "url": "https://open.spotify.com/track/6KDDYv7WWi6hJl8HtTtXmq"
     },
     {
       "added_at": null,
@@ -391,22 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven Is Calling (SHAKING Dub)",
-        "url": "https://open.spotify.com/album/2Hkn1CAxLihCszfmJ8DeFO"
+        "name": "We Will Meet Again",
+        "url": "https://open.spotify.com/album/1nUmQRRZBF8sQTgPUmWo6d"
       },
       "artists": [
         {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
         },
         {
-          "name": "SHAKING",
-          "url": "https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6"
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 199714,
-      "name": "Heaven Is Calling (SHAKING Dub)",
-      "url": "https://open.spotify.com/track/1rZcOvYX5w9RytcyGmkufC"
+      "duration_ms": 201199,
+      "name": "We Will Meet Again",
+      "url": "https://open.spotify.com/track/0eneJjIdG1cAhjeK831bLt"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 286013,
-      "name": "Still Sleeping",
-      "url": "https://open.spotify.com/track/6KDDYv7WWi6hJl8HtTtXmq"
+      "duration_ms": 234813,
+      "name": "This Song Reminds Me Of You",
+      "url": "https://open.spotify.com/track/0b7vBIHMp6A4e8PxFElyhc"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE] [Demo]",
-        "url": "https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST"
+        "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE] (Demo)",
+        "url": "https://open.spotify.com/album/23xleOZIFdtabJmD7zl9bt"
       },
       "artists": [
         {
@@ -573,8 +573,8 @@
         }
       ],
       "duration_ms": 218581,
-      "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE] - Demo",
-      "url": "https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6"
+      "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE] (Demo)",
+      "url": "https://open.spotify.com/track/1bAGF9YEg0miDI2kacMeqU"
     },
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tennis Skirt (feat. Ella Boh) [Demo]",
-        "url": "https://open.spotify.com/album/6OtXCPzbIwmPPTLUDc9n7B"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Ella Boh",
-          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
-        }
-      ],
-      "duration_ms": 186363,
-      "name": "Tennis Skirt (feat. Ella Boh) - Demo",
-      "url": "https://open.spotify.com/track/3w74Pz5BG5OUq4clvB3iJ2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kindred Spirits",
         "url": "https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA"
       },
@@ -679,6 +659,22 @@
       "duration_ms": 95500,
       "name": "This Space In My Heart Is for You",
       "url": "https://open.spotify.com/track/6rCI8HOJiWlu7x79aDTpe3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cure To Loneliness (5 Year Anniversary Deluxe)",
+        "url": "https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "duration_ms": 294034,
+      "name": "Half Hearted - Demo",
+      "url": "https://open.spotify.com/track/741xMmf2lUWlGxJypbb7d5"
     },
     {
       "added_at": null,
@@ -703,18 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cure To Loneliness (5 Year Anniversary Deluxe)",
-        "url": "https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG"
+        "name": "Tennis Skirt (feat. Ella Boh) [Demo]",
+        "url": "https://open.spotify.com/album/32uCBCbvYtW2kqSQbaoj4C"
       },
       "artists": [
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
         }
       ],
-      "duration_ms": 294034,
-      "name": "Half Hearted - Demo",
-      "url": "https://open.spotify.com/track/741xMmf2lUWlGxJypbb7d5"
+      "duration_ms": 186363,
+      "name": "Tennis Skirt (feat. Ella Boh) (Demo)",
+      "url": "https://open.spotify.com/track/6Y77YLQpPg7NOY8f9UlnCx"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
         }
       ],
-      "duration_ms": 366000,
-      "name": "My Tears Could Fill A Well",
-      "url": "https://open.spotify.com/track/2mJQl9Uck5RRpx5pbUUaF4"
+      "duration_ms": 123692,
+      "name": "Flight Log 822",
+      "url": "https://open.spotify.com/track/2a6mctKwLyjHbZut4kOe0B"
     },
     {
       "added_at": null,
@@ -778,11 +778,15 @@
         {
           "name": "Jai Wolf",
           "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "SAYAK DAS",
+          "url": "https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A"
         }
       ],
-      "duration_ms": 123692,
-      "name": "Flight Log 822",
-      "url": "https://open.spotify.com/track/2a6mctKwLyjHbZut4kOe0B"
+      "duration_ms": 442868,
+      "name": "Melancholy Ave. / God Only Knows (feat. SAYAK DAS)",
+      "url": "https://open.spotify.com/track/0XDEx5srT9JpkNvvBg7D7B"
     }
   ],
   "unique_name": "This Is Jai Wolf",

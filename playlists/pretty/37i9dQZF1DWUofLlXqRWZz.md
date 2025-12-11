@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUofLlXqRWZz.md) - [plain]
 
 > This is Ludovico Einaudi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 737,875 likes - 84 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,020 likes - 84 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUofLlXqRWZz.md) - [plain]
 | 79 | [Seven Days Walking / Day 3: Full Moon](https://open.spotify.com/track/3SdFSdCerdFIQ0B1jyS2j4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Redi Hasa](https://open.spotify.com/artist/7HlXH3lEJtM1yO38Ghi20f), [Federico Mecozzi](https://open.spotify.com/artist/1KGN2lEFFhc1rGJNcQPsfU) | [Seven Days Walking \(Day 3\)](https://open.spotify.com/album/01u5oRKIW5wVrl2Ydg2EW5) | 3:38 |
 | 80 | [ABC](https://open.spotify.com/track/38SOnxOUa70jspnw81jI6g) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Elements \(Deluxe\)](https://open.spotify.com/album/5jzohQ50TA36qTumAG1rEA) | 3:05 |
 | 81 | [Orbits](https://open.spotify.com/track/3KkF5prL0SRBaOHqhMNH5n) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 2:57 |
-| 82 | [Seven Days Walking / Day 2: Golden Butterflies Var\. 1](https://open.spotify.com/track/7ebwPw0FolDDPU3nmgYMJr) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Federico Mecozzi](https://open.spotify.com/artist/1KGN2lEFFhc1rGJNcQPsfU), [Redi Hasa](https://open.spotify.com/artist/7HlXH3lEJtM1yO38Ghi20f) | [Seven Days Walking \(Day 2\)](https://open.spotify.com/album/4GRrwMMcFXZUGIPX6ltBj5) | 5:57 |
+| 82 | [Golden Butterflies Var\. 1 \- Day 2](https://open.spotify.com/track/7ebwPw0FolDDPU3nmgYMJr) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Federico Mecozzi](https://open.spotify.com/artist/1KGN2lEFFhc1rGJNcQPsfU), [Redi Hasa](https://open.spotify.com/artist/7HlXH3lEJtM1yO38Ghi20f) | [Seven Days Walking \(Day 2\)](https://open.spotify.com/album/4GRrwMMcFXZUGIPX6ltBj5) | 5:57 |
 | 83 | [Elements](https://open.spotify.com/track/1jrFczYf5NysHccOQPXnNP) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Amsterdam Sinfonietta](https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD) | [Elements \(Deluxe\)](https://open.spotify.com/album/5jzohQ50TA36qTumAG1rEA) | 6:05 |
 | 84 | [Taranta \- Remastered 2020](https://open.spotify.com/track/4zMdbrKpIMxe3RFTAptsjc) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Mauro Durante](https://open.spotify.com/artist/05SxaycC6mQpGMP2AEwEZM) | [Undiscovered](https://open.spotify.com/album/13N7JjBSjtRhNZwf6FpsLn) | 4:22 |
 

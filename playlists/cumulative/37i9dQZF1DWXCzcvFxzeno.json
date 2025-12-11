@@ -2979,6 +2979,24 @@
     },
     {
       "album": {
+        "name": "Hidden Frequencies EP",
+        "url": "https://open.spotify.com/album/6ZkwSGT6tVtglmp9zoTZRy"
+      },
+      "artists": [
+        {
+          "name": "Alignment",
+          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271661,
+      "name": "Hidden Frequencies",
+      "url": "https://open.spotify.com/track/0ihoHOy7es3FbtJKageQUn"
+    },
+    {
+      "album": {
         "name": "Verknipt ArenA",
         "url": "https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap"
       },
@@ -4590,7 +4608,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 210011,
       "name": "Post Punk",
       "url": "https://open.spotify.com/track/0ENwCtcM4AMJMacQRSUjGl"

@@ -1,6 +1,6 @@
 {
   "description": "wru? OTW!. Cover: Ernie Zakri, Andi Rianto",
-  "num_followers": 26849,
+  "num_followers": 26850,
   "original_name": "OTW",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-11-21 07:57:13",
       "album": {
-        "name": "Nonfiksi",
-        "url": "https://open.spotify.com/album/5Y5dkZeSlePrTopuETspAh"
-      },
-      "artists": [
-        {
-          "name": "Juicy Luicy",
-          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
-        }
-      ],
-      "duration_ms": 239416,
-      "name": "Lampu Kuning",
-      "url": "https://open.spotify.com/track/6Npkwd5gv61SR6QZbTyNf9"
-    },
-    {
-      "added_at": "2025-11-21 07:57:13",
-      "album": {
         "name": "SO ASU",
         "url": "https://open.spotify.com/album/00r0dUE6PBHPNVsBsddH7t"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 156000,
       "name": "SO ASU",
       "url": "https://open.spotify.com/track/56TRhAB4SqpRn5NdqHSAFy"
+    },
+    {
+      "added_at": "2025-11-21 07:57:13",
+      "album": {
+        "name": "Nonfiksi",
+        "url": "https://open.spotify.com/album/5Y5dkZeSlePrTopuETspAh"
+      },
+      "artists": [
+        {
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
+        }
+      ],
+      "duration_ms": 239416,
+      "name": "Lampu Kuning",
+      "url": "https://open.spotify.com/track/6Npkwd5gv61SR6QZbTyNf9"
     },
     {
       "added_at": "2025-11-21 07:57:13",
@@ -851,6 +851,22 @@
     {
       "added_at": "2025-11-21 07:57:13",
       "album": {
+        "name": "Jalan Terbaik",
+        "url": "https://open.spotify.com/album/2WrbuH0yPWAAc2oQ59J9Et"
+      },
+      "artists": [
+        {
+          "name": "Kaleb J",
+          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
+        }
+      ],
+      "duration_ms": 290707,
+      "name": "Jalan Terbaik",
+      "url": "https://open.spotify.com/track/2tvAYDXVbOyIQvKTlrqeKX"
+    },
+    {
+      "added_at": "2025-11-21 07:57:13",
+      "album": {
         "name": "Masih Hatiku",
         "url": "https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY"
       },
@@ -871,38 +887,18 @@
     {
       "added_at": "2025-11-21 07:57:13",
       "album": {
-        "name": "Jalan Terbaik",
-        "url": "https://open.spotify.com/album/2WrbuH0yPWAAc2oQ59J9Et"
+        "name": "Teganya Kau",
+        "url": "https://open.spotify.com/album/2MNxWXky396sx7AEf71fsE"
       },
       "artists": [
         {
-          "name": "Kaleb J",
-          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
         }
       ],
-      "duration_ms": 290707,
-      "name": "Jalan Terbaik",
-      "url": "https://open.spotify.com/track/2tvAYDXVbOyIQvKTlrqeKX"
-    },
-    {
-      "added_at": "2025-11-21 07:57:13",
-      "album": {
-        "name": "Bisakah?",
-        "url": "https://open.spotify.com/album/3usjmDEV1lOjmMAtCgQp2V"
-      },
-      "artists": [
-        {
-          "name": "Fabio Asher",
-          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
-        },
-        {
-          "name": "Sammy Simorangkir",
-          "url": "https://open.spotify.com/artist/374NOHOFF57pYs9QOhuKJq"
-        }
-      ],
-      "duration_ms": 218100,
-      "name": "Bisakah?",
-      "url": "https://open.spotify.com/track/4MGu11FYb0jdgNaeNQEekh"
+      "duration_ms": 207600,
+      "name": "Teganya Kau",
+      "url": "https://open.spotify.com/track/7BVtNEGHh8O2kLyciokFyl"
     }
   ],
   "unique_name": "OTW",

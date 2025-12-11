@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Shallipopi\. Kizz Daniel, BOJ, TML Vibes, Elestee and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,762 likes - 68 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,875 likes - 68 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 17 | [Pikito](https://open.spotify.com/track/4uincenPTAa44KUmUQXbQC) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Pikito](https://open.spotify.com/album/5lGdVKuivIsUF4bNSqAUQe) | 3:24 |
 | 18 | [Regular](https://open.spotify.com/track/3NZ3oBrDN9D2Bi1hykwXHb) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Regular](https://open.spotify.com/album/1xtnpw9zgawd67Q5AVdPqX) | 2:26 |
 | 19 | [Gumba Fire](https://open.spotify.com/track/0zCgk3w0E1ah1kGLhpWKTH) | [Goon Flavour](https://open.spotify.com/artist/5Uc6XVglgR7fb3Q5FSy0zW), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Danya Devs](https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza) | [Gumba Fire](https://open.spotify.com/album/70d1Hbb7nMsTgIvrD6HltG) | 6:21 |
-| 20 | [Easiest Goodbye \(feat\. Manana\)](https://open.spotify.com/track/6NpQxBXABg3PlNNY1f81NM) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N), [The Imports](https://open.spotify.com/artist/6lxZ4IurjpHXkrexbhUiKx), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Easiest Goodbye](https://open.spotify.com/album/7pxrvIi4o2vVi5KH6v5LQA) | 3:31 |
+| 20 | [Easiest Goodbye \(feat\. Manana\)](https://open.spotify.com/track/6NpQxBXABg3PlNNY1f81NM) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N), [The Imports](https://open.spotify.com/artist/0scPhUy5Yn2baMP06dvZAv), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Easiest Goodbye](https://open.spotify.com/album/7pxrvIi4o2vVi5KH6v5LQA) | 3:31 |
 | 21 | [Afa Relax Oo \(feat\. Young Jonn\)](https://open.spotify.com/track/4MMVmyb2AsdDjXkytVrqwJ) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Auracle](https://open.spotify.com/album/2zRkv0mDlxuIb7ZnQRwNF7) | 2:12 |
 | 22 | [Woman King \(T'as Capté\)](https://open.spotify.com/track/4PK87EGuXkX6fJYNj10Aqz) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [RÉSONANCE](https://open.spotify.com/album/3oTWVmJQnrNaRlyqiyarha) | 2:47 |
 | 23 | [BAD GIRLS](https://open.spotify.com/track/3iMipxwc2XBHI0Wlm1AYCm) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [M3GA VIBRATIONS](https://open.spotify.com/album/4PtL3WQC16kHPc2Ds395at) | 2:44 |

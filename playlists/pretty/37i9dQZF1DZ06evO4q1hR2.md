@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 
 > This is El Coyote Y Su Banda Tierra Santa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,535 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,567 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 | 25 | [El Federal De Caminos](https://open.spotify.com/track/0vttfYDZ6uLi6kStSxkTrB) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Amo](https://open.spotify.com/album/4YblOZueMvUtw52G7DETSj) | 2:26 |
 | 26 | [Sufro](https://open.spotify.com/track/2Kf5AQerl18JGFq5MQDhSD) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Grandes Exitos](https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA) | 3:13 |
 | 27 | [Me Dicen El Coyote](https://open.spotify.com/track/3GR7FYFiKo2IjcLdjtPXm8) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Décimo Aniversario](https://open.spotify.com/album/31w209dWhowxYQiiTqA83o) | 2:22 |
-| 28 | [Pase Y Pase](https://open.spotify.com/track/5sK1Tz6eqakvg6qpOtJxMg) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Rancheras](https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW) | 2:29 |
-| 29 | [Hablando Claro](https://open.spotify.com/track/4NiNF2TgroCObAR1iYX1MR) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Te Soñé](https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY) | 2:16 |
+| 28 | [Hablando Claro](https://open.spotify.com/track/4NiNF2TgroCObAR1iYX1MR) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Te Soñé](https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY) | 2:16 |
+| 29 | [Pase Y Pase](https://open.spotify.com/track/5sK1Tz6eqakvg6qpOtJxMg) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Puras Rancheras](https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW) | 2:29 |
 | 30 | [Qué Casualidad](https://open.spotify.com/track/0AFkOMz5UWiDQUMswNqT42) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Grandes Exitos](https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA) | 2:22 |
 | 31 | [Amargo Dolor](https://open.spotify.com/track/40Xi96Q11Z05FmQJCLqH2G) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Concedeme](https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY) | 2:26 |
 | 32 | [Piquetes De Hormiga](https://open.spotify.com/track/4u5dcho6aCcdwJoNPCm7bu) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Coleccion Suprema](https://open.spotify.com/album/5IUhaLA9PFfj1UgknJ0I5f) | 2:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4q1hR2.md) - [plain]
 | 49 | [La Loba del Mar](https://open.spotify.com/track/01l0Stxns89Z2b4UCRZQgZ) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Como Una Huella Digital](https://open.spotify.com/album/2dkCnatj0xFwKpng8Sxgn3) | 2:23 |
 | 50 | [El Último Trago](https://open.spotify.com/track/20UlSvvTAh3C0Mdxetu5OU) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [El Rancho Grande](https://open.spotify.com/album/2EsT6h6uz0AUyozpqoJh7e) | 2:01 |
 
-Snapshot ID: `aTYVAAAAAAAxMl502Y8zDd7JKfTi5KUn`
+Snapshot ID: `aTdmgAAAAACXnT7/I9iRKsuMgSzAiSWs`

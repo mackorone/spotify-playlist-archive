@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 
 > This is Mumford & Sons\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,561 likes - 39 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,739 likes - 39 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 | 31 | [Beloved](https://open.spotify.com/track/7HFgnF1oPMzkCqEMBOA2yI) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg) | 4:25 |
 | 32 | [Timshel](https://open.spotify.com/track/5OOGjZ2DGVyTrq2Ithcz41) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/1BnR65tSdg6ps8m3M8pezF) | 2:53 |
 | 33 | [Learn Me Right](https://open.spotify.com/track/7JWIKtAToWqvAl1qlpsjlC) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Indomable](https://open.spotify.com/album/3ywdCjvMj2iL372ajvu3Xx) | 3:45 |
-| 34 | [Harvest](https://open.spotify.com/track/7GSqPshxQCT92AV7ROD9VE) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Harvest](https://open.spotify.com/album/44w53chsw9RSUKkKeN3aw7) | 3:16 |
+| 34 | [Friend of the Devil](https://open.spotify.com/track/6O60CS8ck9bmHyOJOWp61m) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Day of the Dead](https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz) | 4:31 |
 | 35 | [Forever](https://open.spotify.com/track/4sUkoGq1ln1KmfxJEiOkUK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg) | 4:36 |
-| 36 | [Friend of the Devil](https://open.spotify.com/track/6O60CS8ck9bmHyOJOWp61m) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Day of the Dead](https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz) | 4:31 |
+| 36 | [Harvest](https://open.spotify.com/track/7GSqPshxQCT92AV7ROD9VE) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Harvest](https://open.spotify.com/album/44w53chsw9RSUKkKeN3aw7) | 3:16 |
 | 37 | [Blind Leading The Blind](https://open.spotify.com/track/7vM4aNsNhDsNCLIjgbh1Be) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Blind Leading The Blind](https://open.spotify.com/album/4O1GPscutuBiEMaYAEBzS4) | 3:44 |
 | 38 | [Good People](https://open.spotify.com/track/4Ybpltno0jRxFI4wH2yXOK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Good People](https://open.spotify.com/album/7D1a13Dz2xlg4LY0avlTni) | 3:06 |
 | 39 | [Hold on to What You Believe \(Live from Shepherd's Bush Empire, 2010\)](https://open.spotify.com/track/1CW58In68DanWsAtiNuu0T) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Live from Shepherd's Bush Empire](https://open.spotify.com/album/0KztyTPAryAod5xwE4hIfH) | 4:04 |
 
-Snapshot ID: `aTYVAAAAAAAU1hSK9/2bNKekbwz49EPM`
+Snapshot ID: `aTdmgAAAAAAnTcjpsJcAVro2xJ0APXo8`

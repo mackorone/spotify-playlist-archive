@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 
 > This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,320 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,338 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 3 | [Música Romántica](https://open.spotify.com/track/3FcZPkGjG64z5cJYXPlUHC) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mis 30 Aniversario \(Vol\. 2\)](https://open.spotify.com/album/3BqOgYXxME54BrztDdurEx) | 3:52 |
 | 4 | [Pero La Recuerdo \(Cumbia Santa María\)](https://open.spotify.com/track/7xbRLQyE9t7zkA3osC8S2d) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Mariachi Santa María](https://open.spotify.com/artist/54oub6uzta6IHPRNCQlttQ) | [Invéntame Un Amor](https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J) | 3:47 |
 | 5 | [Te Esperaré](https://open.spotify.com/track/3PFFlBz7EWEuT6VeckIoyI) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Sinvergüenza Y Mujeriego](https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo) | 3:32 |
-| 6 | [Mi Amor Y Mi Agonía](https://open.spotify.com/track/2LpDaTcq9mHmhIr43phoDd) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Cuenta Conmigo](https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se) | 2:51 |
-| 7 | [Nuestro Amor](https://open.spotify.com/track/5B2WmeLQzXIiMPB7yeiGpJ) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Hombre Enamorado](https://open.spotify.com/album/58kU4NbuZF48yK24YoT1Ff) | 3:31 |
+| 6 | [Nuestro Amor](https://open.spotify.com/track/5B2WmeLQzXIiMPB7yeiGpJ) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Hombre Enamorado](https://open.spotify.com/album/58kU4NbuZF48yK24YoT1Ff) | 3:31 |
+| 7 | [Mi Amor Y Mi Agonía](https://open.spotify.com/track/2LpDaTcq9mHmhIr43phoDd) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Cuenta Conmigo](https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se) | 2:51 |
 | 8 | [Mis Canciones de Amor \- Remastered 2025](https://open.spotify.com/track/1hvY2zM7APQW1H0AazMc4x) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor \(Remastered 2025\)](https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0) | 2:54 |
 | 9 | [Ya Se Fue](https://open.spotify.com/track/78oFf7Z5Kn6tMacUEPHrhl) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Mis 30 Aniversario \(Vol\. 3\)](https://open.spotify.com/album/2W976ZGy9qa8cI9mvBn9RO) | 3:21 |
 | 10 | [Donde Andará](https://open.spotify.com/track/0E8nEiE1PIVFf0Mex5NHsg) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Del Campo a la Ciudad](https://open.spotify.com/album/2Z7kNdzXDDRPZhQlyW6d67) | 3:47 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 47 | [Con El Alma Marchita](https://open.spotify.com/track/3qhOgv0VL70qBsU9qZlRHm) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Mis 30 Aniversario \(Vol\. 1\)](https://open.spotify.com/album/7ufHHLXyH5jninZcI4EVaL) | 3:20 |
 | 48 | [Arráncame La Vida](https://open.spotify.com/track/6xxPw0GEudMMCUKqmvdTCW) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Vuelve Por Favor](https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC) | 2:37 |
 | 49 | [Llorando Una Pena](https://open.spotify.com/track/7hAsVEHdN6ZNFVFl0uhey6) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Mariachi Santa María](https://open.spotify.com/artist/54oub6uzta6IHPRNCQlttQ) | [Invéntame Un Amor](https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J) | 3:20 |
-| 50 | [Acá Entre Nos \(En Vivo\)](https://open.spotify.com/track/6SHXtSKhx53gMd4V9zK5QS) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Viva México \(En Vivo\)](https://open.spotify.com/album/3D3QKcpxh5MPOYQVZJ4qdE) | 4:14 |
+| 50 | [Ignoraste mis Lágrimas](https://open.spotify.com/track/6b0CVkwv2COK0Xd7wyWy77) | [Toño Lizarraga](https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Ignoraste mis Lágrimas](https://open.spotify.com/album/6lOgMbZ0srl0VxkBAf7Rvy) | 2:58 |
 
-Snapshot ID: `aTYVAAAAAACvhvlDpwIDxAcfnnO5+Hum`
+Snapshot ID: `aTdmgAAAAAC1ynG+wNrYPm8mPYGVkwCH`

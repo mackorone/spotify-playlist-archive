@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: <a href=https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=P8rKhOF7RgKSexcLlO48SQ>Ebuka Songs</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,085 likes - 106 songs - 14 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,191 likes - 106 songs - 14 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

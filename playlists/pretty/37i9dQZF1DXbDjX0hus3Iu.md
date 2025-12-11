@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,537 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,581 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 34 | [Don't Misunderstand Me](https://open.spotify.com/track/7uODrkf1XnlIGMyUSCLbLU) | [Rossington Collins Band](https://open.spotify.com/artist/22vadBKWnw6sLJPML2MdKi) | [20th Century Masters: The Millennium Collection: Best Of The Rossington Collins Band](https://open.spotify.com/album/5x7R9IRVTa2Yb1IT14vNoH) | 3:56 |
 | 35 | [Champagne Jam](https://open.spotify.com/track/79uswZ7pqbHIqERDFqBDjS) | [Atlanta Rhythm Section](https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw) | [Champagne Jam](https://open.spotify.com/album/73BvB7c3P28ZAGtng7IMCt) | 4:33 |
 | 36 | [Pretty Little Lie](https://open.spotify.com/track/6b45yra2a9So8yTNeHZdgt) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [The Whippoorwill](https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi) | 3:34 |
-| 37 | [Ain't Life Grand](https://open.spotify.com/track/4YslG4WvV5eXviT2q0gO8K) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Ain't Life Grand](https://open.spotify.com/album/1dVzzHkYH4vs1qwtJOk0rU) | 4:47 |
-| 38 | [Left Turn on a Red Light](https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Strikes](https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM) | 4:37 |
+| 37 | [Left Turn on a Red Light](https://open.spotify.com/track/16pGi1ZNrsPvx5TD8oFleb) | [Blackfoot](https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV) | [Strikes](https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM) | 4:37 |
+| 38 | [Ain't Life Grand](https://open.spotify.com/track/4YslG4WvV5eXviT2q0gO8K) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Ain't Life Grand](https://open.spotify.com/album/1dVzzHkYH4vs1qwtJOk0rU) | 4:47 |
 | 39 | [Gator Country](https://open.spotify.com/track/2o6cfQNwM9njeMjhC2muaY) | [Molly Hatchet](https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10) | [Molly Hatchet](https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3) | 6:16 |
 | 40 | [Crazy](https://open.spotify.com/track/0F4sQ4O7wIHfw6kp1e4Sfi) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Right On Time](https://open.spotify.com/album/0HEuFHATf4xNesfim5EwMr) | 3:34 |
 | 41 | [Third Rate Romance \- Remastered](https://open.spotify.com/track/1oRvLqwJowH9JU0uO1iVzA) | [Amazing Rhythm Aces](https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH) | [Stacked Deck \(Remastered\)](https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9) | 3:21 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 92 | [Travelin' Shoes](https://open.spotify.com/track/156F2CPm7xEokUNSg4CLh4) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Southern Rock Gold](https://open.spotify.com/album/5idfJulAAtmCL4xoIcTrSN) | 7:16 |
 | 93 | [Soulshine](https://open.spotify.com/track/1oHdIbwsw3jJvrIKvZdB2e) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [The Deep End Vol\. 1](https://open.spotify.com/album/3E5cQw3IpyFqCM4VeFnOXR) | 7:47 |
 | 94 | [Shake 'Em On Down](https://open.spotify.com/track/0c89AX1OJlQM22def9hr0n) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Shake Hands With Shorty](https://open.spotify.com/album/2QoQtXjJhpQ5thjzBptKHq) | 4:08 |
-| 95 | [Take the Highway](https://open.spotify.com/track/4BH6AYJ1aIPPTk6l1oMIY7) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [The Marshall Tucker Band](https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz) | 6:15 |
+| 95 | [Heard It in a Love Song](https://open.spotify.com/track/3T3aWHBbX85hqRPsd8vhJB) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [Where a Country Boy Belongs](https://open.spotify.com/album/0rP1zFi6WyUG9TxKmGknG1) | 4:55 |
 | 96 | [Blue Sky](https://open.spotify.com/track/7uhGHDIJCKP5mbC0WidMAS) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Eat A Peach \(Deluxe Edition\)](https://open.spotify.com/album/4yvCI9bSiajFEvrYTgzmpe) | 5:09 |
 | 97 | [Midnight Rider](https://open.spotify.com/track/2I2Z3BMH3wjVVxNHcJG0kO) | [Gregg Allman](https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I) | [Laid Back](https://open.spotify.com/album/5F7PzrH7DqZg1LunR0zL23) | 4:28 |
 | 98 | [Bad Little Doggie](https://open.spotify.com/track/3ugXVwlV5FvbyeYRZ0YjFN) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Dark Side of the Mule \(Deluxe Edition\)](https://open.spotify.com/album/2V78RuVG8YmX509TP0DM51) | 3:43 |
 | 99 | [Duane's Tune](https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU) | [Dickey Betts](https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7) | [Dickey Betts Band: Live At The Lone Star Roadhouse](https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny) | 6:36 |
-| 100 | [Heard It in a Love Song](https://open.spotify.com/track/3T3aWHBbX85hqRPsd8vhJB) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [Where a Country Boy Belongs](https://open.spotify.com/album/0rP1zFi6WyUG9TxKmGknG1) | 4:55 |
+| 100 | [Take the Highway](https://open.spotify.com/track/4BH6AYJ1aIPPTk6l1oMIY7) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [The Marshall Tucker Band](https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz) | 6:15 |
 
 Snapshot ID: `AAAAAGM5PjmRZ/tOnbEt7gQQPI0BjiKT`

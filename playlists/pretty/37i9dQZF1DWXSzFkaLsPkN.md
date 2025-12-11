@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Shrinidhi Ghatate
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,360 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,369 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 7 | [Tu hi hai](https://open.spotify.com/track/36DwegUM4ExV8aNhB6jW5e) | [Twinkle Aggrwal](https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG) | [Tu hi hai](https://open.spotify.com/album/4BhDcGwNs1g3zfcqoOEbIZ) | 3:07 |
 | 8 | [Sabki Kahani](https://open.spotify.com/track/5Uzx2UcwkheIqUAJy9HpBw) | [Antariksh](https://open.spotify.com/artist/4RzIOJu74yNYeSHL3ri60l) | [Sabki Kahani](https://open.spotify.com/album/5SkGyMMb683cW0GehC4BPA) | 3:47 |
 | 9 | [Dear Maahiya \(From "UR Debut"\)](https://open.spotify.com/track/090K4Rhx3tnhrSxCFmlzye) | [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Dear Maahiya \(From "UR Debut"\)](https://open.spotify.com/album/7CrvLLU19X18lSGPJIsKgv) | 3:57 |
-| 10 | [Ji Huzoor](https://open.spotify.com/track/39ggRcAkMFo9V1dFDVFBNr) | [Sparsh Shrivastava](https://open.spotify.com/artist/1y8VAILCAHObUlajKTm2mv) | [Ji Huzoor](https://open.spotify.com/album/3PFgdRRFP4QjH7LX7XrUah) | 2:46 |
+| 10 | [Aur Kya Chahiye](https://open.spotify.com/track/6BudRkYZ0VxGnKJbmBVEq3) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN) | [Aur Kya Chahiye](https://open.spotify.com/album/5ajvlIWZj5aHiZhSuQLXNe) | 3:53 |
 | 11 | [Baarish Mein Phir](https://open.spotify.com/track/3PbjRHCyZmK84h0qMMIRPw) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Baarish Mein Phir](https://open.spotify.com/album/1Gayp4bOKWoJOc9wbGtEwv) | 2:56 |
 | 12 | [Sahiba](https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Sahiba](https://open.spotify.com/album/250nGZusEhq33ZIZYJ7eVb) | 3:10 |
 | 13 | [Finding Her](https://open.spotify.com/track/5ThyDv6aRVU8AH4vXQNldF) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Finding Her](https://open.spotify.com/album/69xcXWqK1aN73KgVA2i3Zq) | 3:27 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 35 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 |
 | 36 | [Goodbye](https://open.spotify.com/track/5JdeSgIBqpdoC3RudqPkCu) | [lekhak](https://open.spotify.com/artist/7EzXvSTOIXrtaL87k7aoBG) | [Goodbye](https://open.spotify.com/album/3IXc2Y2hrRoa8gFA87lfw7) | 2:58 |
 | 37 | [Saawariya](https://open.spotify.com/track/4iHO9d5IT1Jc0EgMVBROG0) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Bandana Datta](https://open.spotify.com/artist/6EATxS3z3eO59uPyDpt4rp) | [Saawariya](https://open.spotify.com/album/2cynpDKsuIrlveQmx2sOEY) | 2:02 |
-| 38 | [Narazi](https://open.spotify.com/track/0Dea6lSNStSGx3XiLqXIT9) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Narazi](https://open.spotify.com/album/4QsYPssQ2NAtPdM3sEQGbq) | 2:48 |
-| 39 | [Gulfam](https://open.spotify.com/track/0mBZE8eWukMO81EZZCIQZB) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Gulfam](https://open.spotify.com/album/6sAAUAH0jGj035rmZc99Kt) | 2:33 |
+| 38 | [Gulfam](https://open.spotify.com/track/0mBZE8eWukMO81EZZCIQZB) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Gulfam](https://open.spotify.com/album/6sAAUAH0jGj035rmZc99Kt) | 2:33 |
+| 39 | [Narazi](https://open.spotify.com/track/0Dea6lSNStSGx3XiLqXIT9) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Narazi](https://open.spotify.com/album/4QsYPssQ2NAtPdM3sEQGbq) | 2:48 |
 | 40 | [Sukoon](https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Sukoon](https://open.spotify.com/album/47WoZdif6vZZqDdgWCG4A1) | 3:06 |
 | 41 | [Uljhan](https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Uljhan](https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3) | 2:14 |
 | 42 | [Mann](https://open.spotify.com/track/3euf8ftyX9tjpqXJgF5NlM) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Mann](https://open.spotify.com/album/5Qq2PhlbpXN3GYNJ6gstup) | 3:11 |
 | 43 | [Kya Batayein](https://open.spotify.com/track/15WruziiMBbDObB8K0bnWp) | [Samyak Prasana](https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Kya Batayein](https://open.spotify.com/album/0yI5u4TLl0Gw3nfj1LQnZ7) | 3:00 |
 | 44 | [With You](https://open.spotify.com/track/3gR1FcXGPjt9dUKoSarG0N) | [Bhoomi](https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs) | [With You](https://open.spotify.com/album/5KvnDsNuSiLY4TxworhRLC) | 2:24 |
-| 45 | [Barse More Naina](https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Barse More Naina](https://open.spotify.com/album/0xVOTxx8rhWsD25L6sw6jg) | 3:18 |
-| 46 | [Befikar](https://open.spotify.com/track/0Qxis7LXvwqhCO2qOKCmLX) | [Tanzeel Khan](https://open.spotify.com/artist/64Bnlany1OG6esdJyOxyey), [Aashna Hegde](https://open.spotify.com/artist/69As4MCKWsge98Vh3kmiJe) | [Befikar](https://open.spotify.com/album/33KloUY2J8WBQI5BisMJ8E) | 3:24 |
+| 45 | [Befikar](https://open.spotify.com/track/0Qxis7LXvwqhCO2qOKCmLX) | [Tanzeel Khan](https://open.spotify.com/artist/64Bnlany1OG6esdJyOxyey), [Aashna Hegde](https://open.spotify.com/artist/69As4MCKWsge98Vh3kmiJe) | [Befikar](https://open.spotify.com/album/33KloUY2J8WBQI5BisMJ8E) | 3:24 |
+| 46 | [Barse More Naina](https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Barse More Naina](https://open.spotify.com/album/0xVOTxx8rhWsD25L6sw6jg) | 3:18 |
 | 47 | [Kaise Banu](https://open.spotify.com/track/4L0bU9ecxMP6U6o0ZnPyCt) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe) | [Kaise Banu](https://open.spotify.com/album/0RxzLq117wpoaAo4SN3FmF) | 2:54 |
 | 48 | [Sajna Ve](https://open.spotify.com/track/5uVdnHJtxvpy3BSmoxV5Kn) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Sajna Ve](https://open.spotify.com/album/6w95ZQtueW6uVxnkurfpqJ) | 2:55 |
 | 49 | [Aasmaan Jaley](https://open.spotify.com/track/2dEvh4AAZvD8qwq0VGTAe6) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Aasmaan Jaley](https://open.spotify.com/album/5XydWzMA9SpDyHVi7Z2H6u) | 2:46 |
 | 50 | [Yun Hi Kahin](https://open.spotify.com/track/5F4hwTVNZwutsNEG8OPnoJ) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Yun Hi Kahin](https://open.spotify.com/album/52e2XrnIrZJXzKTMxUSx9G) | 3:23 |
 
-Snapshot ID: `AAAAAEDYBrOyxu8jFJz+kUJefeGUt0KX`
+Snapshot ID: `AAAAAAeDRQnULFWFG+QbnBvzYyEY4FAq`

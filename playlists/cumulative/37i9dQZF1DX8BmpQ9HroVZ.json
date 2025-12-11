@@ -3235,6 +3235,24 @@
     },
     {
       "album": {
+        "name": "\u0641\u0635\u0644\u0629",
+        "url": "https://open.spotify.com/album/7yKD6ncXRSBTdbfH6yNsKw"
+      },
+      "artists": [
+        {
+          "name": "Flipperachi",
+          "url": "https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105271,
+      "name": "FA9LA",
+      "url": "https://open.spotify.com/track/23p1uP74XiVYCXjPP23Kz7"
+    },
+    {
+      "album": {
         "name": "Scars & Screws",
         "url": "https://open.spotify.com/album/0dNZ3ypCu19FqmRxB1ezBc"
       },
@@ -8606,7 +8624,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 166705,
       "name": "Ranjha",
       "url": "https://open.spotify.com/track/7xbKboQNFZR3A4unBPmYaJ"

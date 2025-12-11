@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 
 > This is Lil Tecca\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,226 likes - 44 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,248 likes - 44 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 7 | [Our Time](https://open.spotify.com/track/2WxUIiq06XXPYWl9YcRJnD) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 1:38 |
 | 8 | [NUMBER 2](https://open.spotify.com/track/3p1coqZaHyGvFVLb7EmmeE) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:17 |
 | 9 | [Did It Again](https://open.spotify.com/track/4guBZjUyrGoHsTahO3IHdj) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 1:56 |
-| 10 | [On Your Own](https://open.spotify.com/track/6paXxvEqAIa38FfPY2vuWB) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:14 |
-| 11 | [HVN ON EARTH \(with Kodak Black\)](https://open.spotify.com/track/4CIyxiObT9G35HrSItAblR) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 3:08 |
+| 10 | [HVN ON EARTH \(with Kodak Black\)](https://open.spotify.com/track/4CIyxiObT9G35HrSItAblR) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 3:08 |
+| 11 | [On Your Own](https://open.spotify.com/track/6paXxvEqAIa38FfPY2vuWB) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:14 |
 | 12 | [BAD TIME](https://open.spotify.com/track/1D9XWqsoNWIfLEzjHcrgMx) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 3:30 |
 | 13 | [Out Of Love \(feat\. Internet Money\)](https://open.spotify.com/track/0IJA9KP6rT55jrP1YpTdhx) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 2:33 |
 | 14 | [Down With Me](https://open.spotify.com/track/00n83h3zn2IrySO4Q4aTrG) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC \(Bonus\)](https://open.spotify.com/album/0pVQ3KO4jjqdeWJUrrkkWp) | 2:00 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 43 | [SHOW ME UP](https://open.spotify.com/track/4Whbjw2RncZLcNSDQbFWVY) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2 \(Deluxe\)](https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9) | 2:46 |
 | 44 | [All Star \(with Lil Tjay\)](https://open.spotify.com/track/62uolmVjOio9xIfwDM1ZvC) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [All Star](https://open.spotify.com/album/45LIS5vxDcdMniZcD6biUD) | 3:00 |
 
-Snapshot ID: `aTYVAAAAAAB5po6MJGNsAkwwtR6TnEiT`
+Snapshot ID: `aTdmgAAAAADtX6cA7yAvbybnL1Uj4ve1`

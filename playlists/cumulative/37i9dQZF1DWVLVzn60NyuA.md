@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-558 songs - 1 day 5 hr 16 min
+559 songs - 1 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Drogba \(Joanna\)](https://open.spotify.com/track/0dCOSNPQizhMMjO6UxGlzi) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Afrowave 2](https://open.spotify.com/album/15UXWmZZT8OhIWknUFot1c) | 3:19 | 2022-12-20 | 2023-03-02 |
 | [Drogba \(Joanna\)](https://open.spotify.com/track/4E0teOQQQwagLVvQ7VfYm1) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Afrowave 2](https://open.spotify.com/album/1R3refsYPuUJ4yl7sNqir1) | 3:19 | 2021-12-16 | 2022-12-25 |
 | [Drunk in Love \(Henny\)](https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Drunk in Love \(Henny\)](https://open.spotify.com/album/3AUvqkp5zza0MWlpv5OAwn) | 1:44 | 2023-03-16 |  |
+| [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-12-10 |  |
 | [Dumebi](https://open.spotify.com/track/0SjQBdIddPvKSWxr8vk6QX) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema](https://open.spotify.com/album/4l8Gg5qk0QodyJ12SNtdUf) | 2:59 | 2022-07-28 | 2024-04-19 |
 | [Dumebi](https://open.spotify.com/track/1sBX7EfLOgP3u6gHJBSqQg) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema](https://open.spotify.com/album/2S0vU69yNYqOkHA62JSjT8) | 2:59 | 2021-12-16 | 2025-05-09 |
 | [Dumpling \- Remix](https://open.spotify.com/track/4AaXmQvHMWNwZSoqi4kcsK) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Dumpling \(Remix\)](https://open.spotify.com/album/6Cjp5NnE0J5WD4XkrVt9ds) | 3:17 | 2021-12-16 | 2023-04-07 |
@@ -311,7 +312,7 @@
 | [Mad over You](https://open.spotify.com/track/56FUvV0o4FVhiKQPc6crQ7) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Mad over You](https://open.spotify.com/album/17GzyxRcs0DUg2MnmQfzhX) | 3:35 | 2021-12-16 | 2021-12-26 |
 | [Mad over You Mashup](https://open.spotify.com/track/4rJZ1Ij2rNt8hyCZOhokqc) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Mad over You Mashup](https://open.spotify.com/album/113Tc4vU82MI5wHlPW98dk) | 3:21 | 2021-12-16 | 2022-05-17 |
 | [Madiba Riddim](https://open.spotify.com/track/76gUmNLXGQVOsGhfcshkFP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:25 | 2021-12-16 | 2022-01-09 |
-| [Magic](https://open.spotify.com/track/7HJG4B32llcqQgqHzLhof5) | [Wiz Ofuasia](https://open.spotify.com/artist/0sRlnqmmepk0FBxtULhUrn), [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu) | [Magic \(with Amartey\)](https://open.spotify.com/album/5FBCdiSwNLrokFxpiR7c3C) | 3:26 | 2022-01-10 |  |
+| [Magic](https://open.spotify.com/track/7HJG4B32llcqQgqHzLhof5) | [Wiz Ofuasia](https://open.spotify.com/artist/0sRlnqmmepk0FBxtULhUrn), [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu) | [Magic \(with Amartey\)](https://open.spotify.com/album/5FBCdiSwNLrokFxpiR7c3C) | 3:26 | 2022-01-10 | 2025-12-11 |
 | [Make Me Feel \(feat\. Ari Lennox\) \- IzyBeats Dub Mix](https://open.spotify.com/track/60H3vKDbEFREGqEmUdMWGu) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [IzyBeats](https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn) | [Higher Place \(Anniversary Edition\)](https://open.spotify.com/album/6Ls6U4y9I6We3tXuilyEHX) | 3:38 | 2021-12-16 | 2022-07-29 |
 | [Mama Told Me](https://open.spotify.com/track/31MPV2K3de9I9GR3Bs5V36) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Jaskelis](https://open.spotify.com/artist/7IAxIlRjuMYFYTA36axW91), [Moses Kriss](https://open.spotify.com/artist/5SBoFp61NnGwvCpMeNMLlw) | [Mama Told Me](https://open.spotify.com/album/1OdtUgXaQw1F687zIiE8zm) | 3:56 | 2021-12-16 | 2023-04-07 |
 | [Mami So Bad](https://open.spotify.com/track/7HL6wIxsT3aRJrUxfVowFn) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Mami So Bad](https://open.spotify.com/album/4QX6zxCyytdRQDmR1IcW0R) | 3:01 | 2021-12-16 | 2022-05-17 |

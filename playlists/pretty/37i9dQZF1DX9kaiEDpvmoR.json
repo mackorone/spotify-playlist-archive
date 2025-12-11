@@ -571,26 +571,6 @@
     {
       "added_at": "2025-12-04 23:00:12",
       "album": {
-        "name": "St\u00f6rst av allt",
-        "url": "https://open.spotify.com/album/6vCVuDJ5q7IFz524YMQolr"
-      },
-      "artists": [
-        {
-          "name": "Uno Svenningsson",
-          "url": "https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR"
-        },
-        {
-          "name": "Mauro Scocco",
-          "url": "https://open.spotify.com/artist/0qC4DawW3xCirhuq5cvaKV"
-        }
-      ],
-      "duration_ms": 195139,
-      "name": "St\u00f6rst av allt",
-      "url": "https://open.spotify.com/track/4UUgcPXqR4TM8JfKmd7j0k"
-    },
-    {
-      "added_at": "2025-12-04 23:00:12",
-      "album": {
         "name": "B\u00e4ttre h\u00e4r",
         "url": "https://open.spotify.com/album/1wXJmcfz165NY32SoEaSVn"
       },
@@ -607,18 +587,22 @@
     {
       "added_at": "2025-12-04 23:00:12",
       "album": {
-        "name": "Ingen vet",
-        "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
+        "name": "St\u00f6rst av allt",
+        "url": "https://open.spotify.com/album/6vCVuDJ5q7IFz524YMQolr"
       },
       "artists": [
         {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+          "name": "Uno Svenningsson",
+          "url": "https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR"
+        },
+        {
+          "name": "Mauro Scocco",
+          "url": "https://open.spotify.com/artist/0qC4DawW3xCirhuq5cvaKV"
         }
       ],
-      "duration_ms": 160975,
-      "name": "Ingen vet",
-      "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
+      "duration_ms": 195139,
+      "name": "St\u00f6rst av allt",
+      "url": "https://open.spotify.com/track/4UUgcPXqR4TM8JfKmd7j0k"
     },
     {
       "added_at": "2025-12-04 23:00:12",
@@ -651,6 +635,22 @@
       "duration_ms": 172333,
       "name": "Stockholm",
       "url": "https://open.spotify.com/track/4K6UHA21e8KDpp31rKixEV"
+    },
+    {
+      "added_at": "2025-12-04 23:00:12",
+      "album": {
+        "name": "Ingen vet",
+        "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+        }
+      ],
+      "duration_ms": 160975,
+      "name": "Ingen vet",
+      "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
     },
     {
       "added_at": "2025-12-04 23:00:12",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-12-04 23:00:12",
       "album": {
-        "name": "Kaprifol",
-        "url": "https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 235230,
-      "name": "Kaprifol",
-      "url": "https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS"
-    },
-    {
-      "added_at": "2025-12-04 23:00:12",
-      "album": {
         "name": "The Forest Is The Path (Extended Edition)",
         "url": "https://open.spotify.com/album/6irdOmMm1renAtesHgETEv"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 179122,
       "name": "This Is The Silence",
       "url": "https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3"
+    },
+    {
+      "added_at": "2025-12-04 23:00:12",
+      "album": {
+        "name": "Kaprifol",
+        "url": "https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 235230,
+      "name": "Kaprifol",
+      "url": "https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS"
     },
     {
       "added_at": "2025-12-04 23:00:12",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-12-04 23:00:12",
       "album": {
+        "name": "Sweethearts",
+        "url": "https://open.spotify.com/album/0K3N8ymk6GgL4lxLMPGEOB"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 283480,
+      "name": "Sweethearts",
+      "url": "https://open.spotify.com/track/46pBokNsBdfRifhtpWHkhC"
+    },
+    {
+      "added_at": "2025-12-04 23:00:12",
+      "album": {
         "name": "Til the music starts again",
         "url": "https://open.spotify.com/album/5F7JWDPml2qSmPhLRAOtuK"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 243137,
       "name": "L\u00e5ngholmsgatan 2",
       "url": "https://open.spotify.com/track/5rwGiXG9q84ah927p7Vcdo"
-    },
-    {
-      "added_at": "2025-12-04 23:00:12",
-      "album": {
-        "name": "Sweethearts",
-        "url": "https://open.spotify.com/album/0K3N8ymk6GgL4lxLMPGEOB"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 283480,
-      "name": "Sweethearts",
-      "url": "https://open.spotify.com/track/46pBokNsBdfRifhtpWHkhC"
     },
     {
       "added_at": "2025-12-04 23:00:12",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-12-04 23:00:12",
       "album": {
-        "name": "Vill du ha mig?",
-        "url": "https://open.spotify.com/album/14KULSxBCHTaw036GPyJZv"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Vill du ha mig?",
-      "url": "https://open.spotify.com/track/4mfAUCnXYemDDjSs9SXL6V"
-    },
-    {
-      "added_at": "2025-12-04 23:00:12",
-      "album": {
         "name": "Bastard",
         "url": "https://open.spotify.com/album/6PLulYvcgXjXRHPKaaGoc5"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 222785,
       "name": "Don't Look Back in Anger",
       "url": "https://open.spotify.com/track/1aXG3oxcEYBvIztcrZOd0x"
+    },
+    {
+      "added_at": "2025-12-04 23:00:12",
+      "album": {
+        "name": "Vill du ha mig?",
+        "url": "https://open.spotify.com/album/14KULSxBCHTaw036GPyJZv"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Vill du ha mig?",
+      "url": "https://open.spotify.com/track/4mfAUCnXYemDDjSs9SXL6V"
     },
     {
       "added_at": "2025-12-04 23:00:12",
@@ -995,38 +995,6 @@
     {
       "added_at": "2025-12-04 23:00:12",
       "album": {
-        "name": "Two in This Story",
-        "url": "https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 234972,
-      "name": "Two in This Story",
-      "url": "https://open.spotify.com/track/7Etua9zkc2b11KDoRljJ77"
-    },
-    {
-      "added_at": "2025-12-04 23:00:12",
-      "album": {
-        "name": "Nothing\u2019s Gonna Change My Love for You",
-        "url": "https://open.spotify.com/album/6pkhd1iaxoTvOPAVqwNSgN"
-      },
-      "artists": [
-        {
-          "name": "Dad Harmony",
-          "url": "https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX"
-        }
-      ],
-      "duration_ms": 210844,
-      "name": "Nothing's Gonna Change My Love For You",
-      "url": "https://open.spotify.com/track/0nSid5s9n10MPfIwOkcef6"
-    },
-    {
-      "added_at": "2025-12-04 23:00:12",
-      "album": {
         "name": "Sunday Love",
         "url": "https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD"
       },
@@ -1039,6 +1007,22 @@
       "duration_ms": 316373,
       "name": "Sunday Love",
       "url": "https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz"
+    },
+    {
+      "added_at": "2025-12-04 23:00:12",
+      "album": {
+        "name": "Two in This Story",
+        "url": "https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 234972,
+      "name": "Two in This Story",
+      "url": "https://open.spotify.com/track/7Etua9zkc2b11KDoRljJ77"
     },
     {
       "added_at": "2025-12-04 23:00:12",
@@ -1075,6 +1059,22 @@
       "duration_ms": 258146,
       "name": "The Whole Woman",
       "url": "https://open.spotify.com/track/6pmFHNJmQKQEUioMUJk1h5"
+    },
+    {
+      "added_at": "2025-12-04 23:00:12",
+      "album": {
+        "name": "Nothing\u2019s Gonna Change My Love for You",
+        "url": "https://open.spotify.com/album/6pkhd1iaxoTvOPAVqwNSgN"
+      },
+      "artists": [
+        {
+          "name": "Dad Harmony",
+          "url": "https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX"
+        }
+      ],
+      "duration_ms": 210844,
+      "name": "Nothing's Gonna Change My Love For You",
+      "url": "https://open.spotify.com/track/0nSid5s9n10MPfIwOkcef6"
     },
     {
       "added_at": "2025-12-04 23:00:12",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2025-12-04 23:00:12",
       "album": {
+        "name": "Who Believes In Angels?",
+        "url": "https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 179719,
+      "name": "Little Richard\u2019s Bible",
+      "url": "https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR"
+    },
+    {
+      "added_at": "2025-12-04 23:00:12",
+      "album": {
         "name": "Two Of Us",
         "url": "https://open.spotify.com/album/0ED0rbxhIywSk2WP7Ym1OB"
       },
@@ -1179,22 +1199,18 @@
     {
       "added_at": "2025-12-04 23:00:12",
       "album": {
-        "name": "Who Believes In Angels?",
-        "url": "https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o"
+        "name": "Make Up Your Mind",
+        "url": "https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 179719,
-      "name": "Little Richard\u2019s Bible",
-      "url": "https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR"
+      "duration_ms": 218800,
+      "name": "Make Up Your Mind",
+      "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
     },
     {
       "added_at": "2025-12-04 23:00:12",
@@ -1215,38 +1231,6 @@
     {
       "added_at": "2025-12-04 23:00:12",
       "album": {
-        "name": "Make Up Your Mind",
-        "url": "https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Make Up Your Mind",
-      "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
-    },
-    {
-      "added_at": "2025-12-04 23:00:12",
-      "album": {
-        "name": "Stanna tiden",
-        "url": "https://open.spotify.com/album/5os2bSpWI8zm296QjpQyjK"
-      },
-      "artists": [
-        {
-          "name": "Casanovas",
-          "url": "https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT"
-        }
-      ],
-      "duration_ms": 192875,
-      "name": "Stanna tiden",
-      "url": "https://open.spotify.com/track/2pVBeLSMJuHMwGHDM5VtLm"
-    },
-    {
-      "added_at": "2025-12-04 23:00:12",
-      "album": {
         "name": "Hver Gang Vi M\u00f8tes 2025",
         "url": "https://open.spotify.com/album/6ZPSo0xF2xo2gQY5Tcz0xk"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 180677,
       "name": "Mamma sa",
       "url": "https://open.spotify.com/track/1vCGSR1n81hoPBkePWrAes"
+    },
+    {
+      "added_at": "2025-12-04 23:00:12",
+      "album": {
+        "name": "Stanna tiden",
+        "url": "https://open.spotify.com/album/5os2bSpWI8zm296QjpQyjK"
+      },
+      "artists": [
+        {
+          "name": "Casanovas",
+          "url": "https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT"
+        }
+      ],
+      "duration_ms": 192875,
+      "name": "Stanna tiden",
+      "url": "https://open.spotify.com/track/2pVBeLSMJuHMwGHDM5VtLm"
     },
     {
       "added_at": "2025-12-04 23:00:12",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-12-04 23:00:12",
       "album": {
-        "name": "Sjung Sjung",
-        "url": "https://open.spotify.com/album/7nqC7tt3AanJ0VCmiOPhBh"
-      },
-      "artists": [
-        {
-          "name": "Lili & Susie",
-          "url": "https://open.spotify.com/artist/3oXpnVT7kg367PfwhfwSvK"
-        }
-      ],
-      "duration_ms": 193124,
-      "name": "Sjung Sjung",
-      "url": "https://open.spotify.com/track/5udaIFwzOZjCb9y8ne9vDM"
-    },
-    {
-      "added_at": "2025-12-04 23:00:12",
-      "album": {
         "name": "Know You've Been Loved",
         "url": "https://open.spotify.com/album/2wA37r8oJRabkUrgzrkWUI"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 216594,
       "name": "Know You've Been Loved",
       "url": "https://open.spotify.com/track/7FLEPid2NVZg3TePBk3eHS"
+    },
+    {
+      "added_at": "2025-12-04 23:00:12",
+      "album": {
+        "name": "Sjung Sjung",
+        "url": "https://open.spotify.com/album/7nqC7tt3AanJ0VCmiOPhBh"
+      },
+      "artists": [
+        {
+          "name": "Lili & Susie",
+          "url": "https://open.spotify.com/artist/3oXpnVT7kg367PfwhfwSvK"
+        }
+      ],
+      "duration_ms": 193124,
+      "name": "Sjung Sjung",
+      "url": "https://open.spotify.com/track/5udaIFwzOZjCb9y8ne9vDM"
     },
     {
       "added_at": "2025-12-04 23:00:12",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-12-04 23:00:12",
       "album": {
-        "name": "Goodwill",
-        "url": "https://open.spotify.com/album/0HegWmmtx1ptOmFGDCvL7G"
-      },
-      "artists": [
-        {
-          "name": "Weeping Willows",
-          "url": "https://open.spotify.com/artist/6f3he2xOHHHSZ0JVhTRIVj"
-        }
-      ],
-      "duration_ms": 316125,
-      "name": "Love Is Everywhere",
-      "url": "https://open.spotify.com/track/0NRT9PQ5zQtGKPQqXAVbMb"
-    },
-    {
-      "added_at": "2025-12-04 23:00:12",
-      "album": {
         "name": "What I'm Running From",
         "url": "https://open.spotify.com/album/6acnHsy1zaSQuHh7t984lz"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 227654,
       "name": "What I'm Running From",
       "url": "https://open.spotify.com/track/0WHfeFf2idoHxPMHQ8bhI5"
+    },
+    {
+      "added_at": "2025-12-04 23:00:12",
+      "album": {
+        "name": "Goodwill",
+        "url": "https://open.spotify.com/album/0HegWmmtx1ptOmFGDCvL7G"
+      },
+      "artists": [
+        {
+          "name": "Weeping Willows",
+          "url": "https://open.spotify.com/artist/6f3he2xOHHHSZ0JVhTRIVj"
+        }
+      ],
+      "duration_ms": 316125,
+      "name": "Love Is Everywhere",
+      "url": "https://open.spotify.com/track/0NRT9PQ5zQtGKPQqXAVbMb"
     },
     {
       "added_at": "2025-12-04 23:00:12",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2025-12-04 23:00:12",
       "album": {
-        "name": "Mjuk extas",
-        "url": "https://open.spotify.com/album/5hMT1bc5eT9HQaHGwggoYP"
+        "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
+        "url": "https://open.spotify.com/album/6ePGb3D9DncLR78OOrcNza"
       },
       "artists": [
         {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
+          "name": "Titiyo",
+          "url": "https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM"
         }
       ],
-      "duration_ms": 271875,
-      "name": "L\u00e4gg den h\u00e4r, bredvid min",
-      "url": "https://open.spotify.com/track/1TkC227DT4BR0JycJbkPYJ"
+      "duration_ms": 324360,
+      "name": "Sakta l\u00e4gger b\u00e5ten ut fr\u00e5n land",
+      "url": "https://open.spotify.com/track/5WedJ2EitfzHR84d7YO2wi"
     }
   ],
   "unique_name": "Aktuellt",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 
 > This is The Cure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,767 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,844 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 | 23 | [And Nothing Is Forever](https://open.spotify.com/track/4NFptVazMTsSJTYvKENHJl) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 6:53 |
 | 24 | [Mint Car](https://open.spotify.com/track/7qq2OOmApODpp23lPP7ds1) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wild Mood Swings](https://open.spotify.com/album/4VArO919KzAphNk7Kei20g) | 3:32 |
 | 25 | [Primary](https://open.spotify.com/track/4fnx6Wman02ryvAOqKm6iI) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Faith](https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo) | 3:39 |
-| 26 | [The Walk](https://open.spotify.com/track/4UvcIxaBqIVlljqqncrpyr) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Japanese Whispers](https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN) | 3:29 |
+| 26 | [10:15 Saturday Night](https://open.spotify.com/track/2CdxmZfz23dIjK7iuxvvMO) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 3:42 |
 | 27 | [All I Ever Am](https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 5:21 |
-| 28 | [10:15 Saturday Night](https://open.spotify.com/track/2CdxmZfz23dIjK7iuxvvMO) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 3:42 |
+| 28 | [The Walk](https://open.spotify.com/track/4UvcIxaBqIVlljqqncrpyr) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Japanese Whispers](https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN) | 3:29 |
 | 29 | [From The Edge Of The Deep Green Sea](https://open.spotify.com/track/5Pmpq3bZzrjT9HuYbvMviP) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 7:40 |
 | 30 | [M](https://open.spotify.com/track/2iyEvZdipDeCmSW8v8PA32) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/6DCJNDiXeT5C8uSFNM8k56) | 3:03 |
 | 31 | [I Can Never Say Goodbye](https://open.spotify.com/track/1gXS1LBxTyfZ7Lf380CR9E) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 6:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 | 49 | [Apart](https://open.spotify.com/track/6g5yxNUBisdqOqBLHeWQFc) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 6:33 |
 | 50 | [Three Imaginary Boys](https://open.spotify.com/track/2rgYH8S363FAP3vunkUHnB) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 3:15 |
 
-Snapshot ID: `aTYVAAAAAABZWt3jPagHE8BC/D69PYWJ`
+Snapshot ID: `aTdmgAAAAABMZWL0fkqaswjUv1HZhbAz`

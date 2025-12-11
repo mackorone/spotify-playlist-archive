@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 
 > The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,570 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,572 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 27 | [Un banc, un arbre, une rue](https://open.spotify.com/track/0OInqhDtfYPcSpEQNtJx3n) | [Severine](https://open.spotify.com/artist/3EUjn8x9dDqyi5yrZNj0iH) | [Un banc, un arbre, une rue](https://open.spotify.com/album/76wwuBCyDmEEKecAEkFkCg) | 3:01 |
 | 28 | [Ding\-A\-Dong \(English\) \- Remastered](https://open.spotify.com/track/2dZ5FvhW12NB8mQPhdBu7U) | [Teach In](https://open.spotify.com/artist/0but8haas2eybMUZvFV90H) | [Ding\-A\-Dong Winner Eurovision Festival 1975 \(Remastered\)](https://open.spotify.com/album/7rCzZoWFHzNRqvnYgZYoh0) | 2:27 |
 | 29 | [Judy min vän](https://open.spotify.com/track/1Z4zGDjmHURFmHAd0OAV2t) | [Tommy Körberg](https://open.spotify.com/artist/6R21HSNyo7HVac8pyqY3T2) | [Tommy Körberg \- Judy min vän \(Remastered 2011\)](https://open.spotify.com/album/2hpjbMakww7UotrWJHsxkI) | 2:20 |
-| 30 | [Dansevise](https://open.spotify.com/track/1oIVUqdVUFouSa6xsSN5aM) | [Grethe Ingmann](https://open.spotify.com/artist/74NZRc4VtnABmp3rP9e1Gs), [Jørgen Ingmann](https://open.spotify.com/artist/1mUxA8Bcd9qdMgH9uMOIQb) | [16 Hits](https://open.spotify.com/album/74u48w2QLDrnp2neG6hzLN) | 2:57 |
-| 31 | [אי שם](https://open.spotify.com/track/6XTFPBCx1F8q9V2CgXnUWO) | [Ilanit](https://open.spotify.com/artist/6Rs5PyjfGBoAYfsA0Kocsj) | [אי שם](https://open.spotify.com/album/20DzOLF3saURVlu1S4SFY3) | 2:52 |
+| 30 | [אי שם](https://open.spotify.com/track/6XTFPBCx1F8q9V2CgXnUWO) | [Ilanit](https://open.spotify.com/artist/6Rs5PyjfGBoAYfsA0Kocsj) | [אי שם](https://open.spotify.com/album/20DzOLF3saURVlu1S4SFY3) | 2:52 |
+| 31 | [Dansevise](https://open.spotify.com/track/1oIVUqdVUFouSa6xsSN5aM) | [Grethe Ingmann](https://open.spotify.com/artist/74NZRc4VtnABmp3rP9e1Gs), [Jørgen Ingmann](https://open.spotify.com/artist/1mUxA8Bcd9qdMgH9uMOIQb) | [16 Hits](https://open.spotify.com/album/74u48w2QLDrnp2neG6hzLN) | 2:57 |
 | 32 | [I See A Star](https://open.spotify.com/track/7qsXX1PCCCsGusfjU7gTFu) | [Mouth & MacNeal](https://open.spotify.com/artist/51RYnAHfrE4xnMomva5kFq) | [How Do You Do?](https://open.spotify.com/album/48yOqmMIGCwGJIKSeQxeVJ) | 2:56 |
 | 33 | [Jennie Jennie](https://open.spotify.com/track/3BdAVTDazl0jW9Jpxz0VYh) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [Musik vi minns..\. / Lasse Berghagen](https://open.spotify.com/album/12dP4FPuOJu4ZDd2KXDEHH) | 3:26 |
 | 34 | [Save Your Kisses For Me \- Re\-Recording](https://open.spotify.com/track/6SLwazNlnXu3cwn9sYhRZd) | [Brotherhood of Man](https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo) | [The Definitive Collection](https://open.spotify.com/album/0zzbdqmC8w5izz5VxxDI43) | 3:03 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 36 | [Congratulations \- 1998 Remaster](https://open.spotify.com/track/2qs5ZcLByNTctJKbhAZ9JE) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [The Singles Collection](https://open.spotify.com/album/6YZb35WBIM7ZlJf782E6gO) | 2:35 |
 | 37 | [Oh Oh Ik Heb Zorgen](https://open.spotify.com/track/6pXIN9tdQzQINm6IRgm6v0) | [Louis Neefs](https://open.spotify.com/artist/4jmHq8tAQ2UziZo2BsPDDt) | [Het Beste Van Louis Neefs](https://open.spotify.com/album/4r46h8MXFOtBI7Ea7b6J8O) | 2:25 |
 | 38 | [Angelique](https://open.spotify.com/track/7ETXytirTgnMJzyxl4e7UI) | [Dario Campeotto](https://open.spotify.com/artist/1WILNNzCiLQRsDKIJPFYRE) | [Angelique](https://open.spotify.com/album/3CcczhxqVZaCyoRAKdOuqq) | 3:59 |
-| 39 | [Vita vidder](https://open.spotify.com/track/0xC2WfHIDroVb1FXHsyrLI) | [Family Four](https://open.spotify.com/artist/59G5sH1IBBPWNAIgOzfpGs) | [1971](https://open.spotify.com/album/7mLIJEPJI0tObeFsLuf0tI) | 3:11 |
-| 40 | [Su Canción](https://open.spotify.com/track/2YDMHFV05yjkhAbh2gDm6B) | [Betty Missiego](https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP) | [Lo Mejor de Betty Missiego](https://open.spotify.com/album/1JvPV0pEYkITh1BRze9Ufi) | 3:03 |
+| 39 | [Su Canción](https://open.spotify.com/track/2YDMHFV05yjkhAbh2gDm6B) | [Betty Missiego](https://open.spotify.com/artist/160HajXHxdQFEbwdvDaunP) | [Lo Mejor de Betty Missiego](https://open.spotify.com/album/1JvPV0pEYkITh1BRze9Ufi) | 3:03 |
+| 40 | [Vita vidder](https://open.spotify.com/track/0xC2WfHIDroVb1FXHsyrLI) | [Family Four](https://open.spotify.com/artist/59G5sH1IBBPWNAIgOzfpGs) | [1971](https://open.spotify.com/album/7mLIJEPJI0tObeFsLuf0tI) | 3:11 |
 | 41 | [Sol och vår](https://open.spotify.com/track/7xVrhpdprtkRTjU1Z3xG7H) | [Inger Berggren](https://open.spotify.com/artist/1M9FpVD8zpLVz1Ec4A70cS) | [Sol och vår](https://open.spotify.com/album/0a10uZCw2kGRbPDvL70EAE) | 3:08 |
 | 42 | [Parlez\-vous francais?](https://open.spotify.com/track/673foE9F1zexKf0VPCIB4k) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [Best Of](https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ) | 4:24 |
 | 43 | [Une petite française](https://open.spotify.com/track/4OMWFiBrBlA11tnJmNhi7y) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Universal Master](https://open.spotify.com/album/7kg1lYWJkHb0GbJbRcvN3K) | 2:53 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 59 | [Ein Hoch der Liebe](https://open.spotify.com/track/1SlsyDG3PMLZ57fLzp5WVI) | [Wencke Myhre](https://open.spotify.com/artist/6W5ilMykftL18jlBb7CHuo) | [Er steht im Tor \- Ihre grossen Erfolge](https://open.spotify.com/album/705ZSYIGNPIkRTwRaA9igw) | 2:31 |
 | 60 | [Festa da Vida](https://open.spotify.com/track/7wLYU9xbF3rGxN8ZYTy0NS) | [Carlos Mendes](https://open.spotify.com/artist/0rPo81L45W612Ke5Ezsqc4) | [A Festa da Vida](https://open.spotify.com/album/0ZlWPHxyCHxo70SQBSYZGm) | 2:40 |
 | 61 | [Marianne](https://open.spotify.com/track/6qjTf8vArMndh5BalX4qGv) | [Sergio Endrigo](https://open.spotify.com/artist/4ERMFbVCuwsv0eiUrG7LF3) | [Collection: Sergio Endrigo](https://open.spotify.com/album/3I41nPHRdOpInP57Noytru) | 3:10 |
-| 62 | [Wunder gibt es immer wieder](https://open.spotify.com/track/68pun2nSn33MONTnLYKgpm) | [Katja Ebstein](https://open.spotify.com/artist/4wvxXnEKj4ModbmMLGAKYZ) | [Wunder gibt es immer wieder](https://open.spotify.com/album/3MGGFKV8m5GEhq4nUgTRvw) | 3:32 |
-| 63 | [Judy et cie](https://open.spotify.com/track/73T2aSDbeMFuIN8CvDKCrg) | [Pierre Rapsat](https://open.spotify.com/artist/3Jsgw675Kwq2u5MxmBmW7g) | [L'essentiel](https://open.spotify.com/album/2mmOO4TUSuodwuFoao1rYd) | 2:50 |
+| 62 | [Judy et cie](https://open.spotify.com/track/73T2aSDbeMFuIN8CvDKCrg) | [Pierre Rapsat](https://open.spotify.com/artist/3Jsgw675Kwq2u5MxmBmW7g) | [L'essentiel](https://open.spotify.com/album/2mmOO4TUSuodwuFoao1rYd) | 2:50 |
+| 63 | [Wunder gibt es immer wieder](https://open.spotify.com/track/68pun2nSn33MONTnLYKgpm) | [Katja Ebstein](https://open.spotify.com/artist/4wvxXnEKj4ModbmMLGAKYZ) | [Wunder gibt es immer wieder](https://open.spotify.com/album/3MGGFKV8m5GEhq4nUgTRvw) | 3:32 |
 | 64 | [Et Bonjour A Toi l'Artiste](https://open.spotify.com/track/5eGnVU7C3mRbXMergmSz9Q) | [Nicole Rieu](https://open.spotify.com/artist/77eP94nF4XoaYvzx5W8CVC) | [Nicole Rieu](https://open.spotify.com/album/6pgSHh4Sb9J1ttOTDrgtwl) | 3:42 |
 | 65 | [Feuer \- Remastered 1996](https://open.spotify.com/track/1bBZVweXaAyLI8FkuhoOyb) | [Ireen Sheer](https://open.spotify.com/artist/6DtzOuUkjukrHLwgG4EnDw) | [Mega 50 \- Die 70er Jahre](https://open.spotify.com/album/4Jy5Oy9tA5kSnjsz0YyAls) | 3:03 |
 | 66 | [Tom Tom Tom](https://open.spotify.com/track/5r4mWGBL8NKQL02ARMP2dg) | [Marion Rung](https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym) | [Big\-5: Marion](https://open.spotify.com/album/1wLH0O9ZGMxKl9R9JbFM6U) | 2:55 |

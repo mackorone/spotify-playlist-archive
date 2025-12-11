@@ -1670,7 +1670,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 178700,
       "name": "Present",
       "url": "https://open.spotify.com/track/6haW837EW4wauotPmhUVAM"
@@ -3014,7 +3014,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 246840,
       "name": "\u3075\u308c\u3042\u3046\u3060\u3051\u3067 \u301cAlways with you\u301c",
       "url": "https://open.spotify.com/track/0mxAShonBvdqpCTlZ1Amvu"
@@ -3068,7 +3068,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 241626,
       "name": "\u3082\u3046\u3059\u3050\u591c\u304c\u3042\u3051\u308b",
       "url": "https://open.spotify.com/track/5pwNKKm5rN04L5boM59llf"
@@ -3177,6 +3177,24 @@
     },
     {
       "album": {
+        "name": "\u30b7\u30e3\u30f3\u30c7\u30ea\u30a2",
+        "url": "https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT"
+      },
+      "artists": [
+        {
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340080,
+      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su"
+    },
+    {
+      "album": {
         "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
         "url": "https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv"
       },
@@ -3246,6 +3264,24 @@
       "duration_ms": 213800,
       "name": "\u30b9\u30ab\u30fc\u30ec\u30c3\u30c8",
       "url": "https://open.spotify.com/track/5snNa3VGFhT80VzkVNPKTG"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30bf\u30fc\u30b5\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/740WJc46dcHEz0eVZDwj0b"
+      },
+      "artists": [
+        {
+          "name": "Aooo",
+          "url": "https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266954,
+      "name": "\u30b9\u30bf\u30fc\u30b5\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/7LsVLiojCVPKSjb7n5uwMj"
     },
     {
       "album": {
@@ -3920,6 +3956,24 @@
       "duration_ms": 367000,
       "name": "\u51ac\u7269\u8a9e",
       "url": "https://open.spotify.com/track/2N6MR0SNYzGHlApOwbmA2w"
+    },
+    {
+      "album": {
+        "name": "\u5207\u306a\u3044\u30e9\u30d6\u30bd\u30f3\u30b0\u306f\u3044\u3089\u306a\u3044",
+        "url": "https://open.spotify.com/album/0sTRPhbGBFYuFpSw3DNTqN"
+      },
+      "artists": [
+        {
+          "name": "I Don't Like Mondays.",
+          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235096,
+      "name": "\u5207\u306a\u3044\u30e9\u30d6\u30bd\u30f3\u30b0\u306f\u3044\u3089\u306a\u3044",
+      "url": "https://open.spotify.com/track/2OnBkllxuR4IdUyvxfPAk6"
     },
     {
       "album": {

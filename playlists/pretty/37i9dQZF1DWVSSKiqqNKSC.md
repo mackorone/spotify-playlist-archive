@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,340 likes - 48 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,361 likes - 48 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,6 +55,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 45 | [Que Tiene Que Te Mueve](https://open.spotify.com/track/5DYdF6YsSaXFdnrLe4XSUS) | [Maykel Blanco Y Su Salsa Mayor](https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp) | [Que Tiene Que Te Mueve](https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P) | 5:32 |
 | 46 | [Prohibido](https://open.spotify.com/track/6M645F7LHVaWGSrEbbt0wK) | [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu) | [Prohibido](https://open.spotify.com/album/2Uq6ubk7GvBestQXFmCPgM) | 4:25 |
 | 47 | [¡Ay! Ay Amor](https://open.spotify.com/track/5FxtsZEiJqNn9mCl4lAJKp) | [David Calzado y su Charanga Habanera](https://open.spotify.com/artist/1AqDIElf5SS51c2fpG6WQw) | [Lo Mejor de la Charanga](https://open.spotify.com/album/17BU5qXTnzlNo6ETqkBY2S) | 5:24 |
-| 48 | [Quiero Verte Otra Vez](https://open.spotify.com/track/6BsQn0pSEpiGvJOwdRQjxx) | [Havana D'primera](https://open.spotify.com/artist/5Y8dq9whdlog1KEay1JxpO) | [Quiero Verte Otra Vez](https://open.spotify.com/album/4862dwA64dtiFt42ezMima) | 4:48 |
+| 48 | [Havana City](https://open.spotify.com/track/6yYNnSuF2xbCpWq7yPq8KF) | [Havana NRG](https://open.spotify.com/artist/0NQisvahSHRFSfnUN0DYmp) | [Camino al Cielo](https://open.spotify.com/album/72Tes06RKTTqOuImJivudD) | 5:30 |
 
 Snapshot ID: `AAAAAME7JTm/rRxN4AIzxxlRW06DzwzE`

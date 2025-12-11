@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 371631,
+  "num_followers": 371668,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -140,12 +140,12 @@
       },
       "artists": [
         {
-          "name": "Edward Maya",
-          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
-        },
-        {
           "name": "Valentino Indy",
           "url": "https://open.spotify.com/artist/5zMBjWdfMwhZp28FMj5G9n"
+        },
+        {
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
         },
         {
           "name": "Klavdia",
@@ -153,8 +153,28 @@
         }
       ],
       "duration_ms": 132062,
-      "name": "Back to Blue",
+      "name": "Back To Blue",
       "url": "https://open.spotify.com/track/2AFXIwrUX3226xeydJ5fg0"
+    },
+    {
+      "added_at": "2025-09-15 10:24:21",
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/6IbPt727qgNcoRcd4Q9r2m"
+      },
+      "artists": [
+        {
+          "name": "Houssem Amari",
+          "url": "https://open.spotify.com/artist/0nVvRWWnt2xwqy290TfVAd"
+        },
+        {
+          "name": "Amelie Martinez",
+          "url": "https://open.spotify.com/artist/2ZUmKzZUZPBuvBrdTM6Rw1"
+        }
+      ],
+      "duration_ms": 200950,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/1ZcDRpVhC472Mziwkugu82"
     },
     {
       "added_at": "2025-09-15 10:24:21",
@@ -179,26 +199,6 @@
       "duration_ms": 158677,
       "name": "Overdose - Sait Esmeray Remix",
       "url": "https://open.spotify.com/track/7v3ARZ3TuBQGFA6fKdyIOW"
-    },
-    {
-      "added_at": "2025-09-15 10:24:21",
-      "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/6IbPt727qgNcoRcd4Q9r2m"
-      },
-      "artists": [
-        {
-          "name": "Houssem Amari",
-          "url": "https://open.spotify.com/artist/0nVvRWWnt2xwqy290TfVAd"
-        },
-        {
-          "name": "Amelie Martinez",
-          "url": "https://open.spotify.com/artist/2ZUmKzZUZPBuvBrdTM6Rw1"
-        }
-      ],
-      "duration_ms": 200950,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/1ZcDRpVhC472Mziwkugu82"
     },
     {
       "added_at": "2025-09-15 10:24:21",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-09-15 10:24:21",
       "album": {
-        "name": "Nomadic",
-        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
-      },
-      "artists": [
-        {
-          "name": "Hlm.Prod",
-          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
-        }
-      ],
-      "duration_ms": 206339,
-      "name": "Nomadic",
-      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
-    },
-    {
-      "added_at": "2025-09-15 10:24:21",
-      "album": {
         "name": "El Hawa",
         "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 347855,
       "name": "El Hawa",
       "url": "https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR"
+    },
+    {
+      "added_at": "2025-09-15 10:24:21",
+      "album": {
+        "name": "Nomadic",
+        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
+      },
+      "artists": [
+        {
+          "name": "Hlm.Prod",
+          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
+        }
+      ],
+      "duration_ms": 206339,
+      "name": "Nomadic",
+      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
     },
     {
       "added_at": "2025-09-15 10:24:21",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-09-15 10:24:21",
       "album": {
-        "name": "Arabic Nights",
-        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
-      },
-      "artists": [
-        {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Arabic Nights",
-      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
-    },
-    {
-      "added_at": "2025-09-15 10:24:21",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/2pdsZI9LOKyZMROMEFQ3qb"
       },
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2025-09-15 10:24:21",
       "album": {
+        "name": "Arabic Nights",
+        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Arabic Nights",
+      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
+    },
+    {
+      "added_at": "2025-09-15 10:24:21",
+      "album": {
         "name": "Ormila",
         "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
       },
@@ -1071,6 +1071,30 @@
       "duration_ms": 298867,
       "name": "Ormila",
       "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
+    },
+    {
+      "added_at": "2025-09-15 10:24:21",
+      "album": {
+        "name": "Y\u00e2r",
+        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
+      },
+      "artists": [
+        {
+          "name": "Avcio",
+          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
+        },
+        {
+          "name": "fidanson",
+          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
+        },
+        {
+          "name": "Ezgi Sa\u011fl\u0131k",
+          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
+        }
+      ],
+      "duration_ms": 97636,
+      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
+      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
     },
     {
       "added_at": "2025-09-15 10:24:21",
@@ -1095,22 +1119,6 @@
     {
       "added_at": "2025-09-15 10:24:21",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
-      },
-      "artists": [
-        {
-          "name": "H.A.Z.E",
-          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Letting Go - Radio Edit",
-      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
-    },
-    {
-      "added_at": "2025-09-15 10:24:21",
-      "album": {
         "name": "CASABLANCA",
         "url": "https://open.spotify.com/album/3OSxO7VBhOKJbHR1Vi1F7q"
       },
@@ -1123,6 +1131,22 @@
       "duration_ms": 133142,
       "name": "CASABLANCA",
       "url": "https://open.spotify.com/track/1G9sovv3F7P9nG2UBB8JaD"
+    },
+    {
+      "added_at": "2025-09-15 10:24:21",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
+      },
+      "artists": [
+        {
+          "name": "H.A.Z.E",
+          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Letting Go - Radio Edit",
+      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
     },
     {
       "added_at": "2025-09-15 10:24:21",
@@ -1167,26 +1191,6 @@
     {
       "added_at": "2025-09-15 10:24:21",
       "album": {
-        "name": "Sahra On The Moon",
-        "url": "https://open.spotify.com/album/14KzkAjFLB8uX6aPndfbg7"
-      },
-      "artists": [
-        {
-          "name": "Djamil",
-          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
-        },
-        {
-          "name": "Feras Naddaf",
-          "url": "https://open.spotify.com/artist/1DXyrlrEPGitPShvpLJd2b"
-        }
-      ],
-      "duration_ms": 159272,
-      "name": "Sahra On The Moon",
-      "url": "https://open.spotify.com/track/3ZjURSv9XIXmIJYbhhntFr"
-    },
-    {
-      "added_at": "2025-09-15 10:24:21",
-      "album": {
         "name": "Yasameen",
         "url": "https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h"
       },
@@ -1203,6 +1207,26 @@
       "duration_ms": 344000,
       "name": "Yasameen",
       "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
+    },
+    {
+      "added_at": "2025-09-15 10:24:21",
+      "album": {
+        "name": "Sahra On The Moon",
+        "url": "https://open.spotify.com/album/14KzkAjFLB8uX6aPndfbg7"
+      },
+      "artists": [
+        {
+          "name": "Djamil",
+          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
+        },
+        {
+          "name": "Feras Naddaf",
+          "url": "https://open.spotify.com/artist/1DXyrlrEPGitPShvpLJd2b"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "Sahra On The Moon",
+      "url": "https://open.spotify.com/track/3ZjURSv9XIXmIJYbhhntFr"
     },
     {
       "added_at": "2025-09-15 10:24:21",
@@ -1271,30 +1295,6 @@
       "duration_ms": 319851,
       "name": "Bladi B3ida",
       "url": "https://open.spotify.com/track/2h519R5O4HhdPjboqsOond"
-    },
-    {
-      "added_at": "2025-09-15 10:24:21",
-      "album": {
-        "name": "Y\u00e2r",
-        "url": "https://open.spotify.com/album/770XPLwAlImTgzG070HEvX"
-      },
-      "artists": [
-        {
-          "name": "Avcio",
-          "url": "https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau"
-        },
-        {
-          "name": "fidanson",
-          "url": "https://open.spotify.com/artist/6tGQx3MTd9VHHfnBDQ32Eh"
-        },
-        {
-          "name": "Ezgi Sa\u011fl\u0131k",
-          "url": "https://open.spotify.com/artist/6Bnre0kj3oc8DlFvg1cPk9"
-        }
-      ],
-      "duration_ms": 97636,
-      "name": "Y\u00e2r - Ezgi Sa\u011fl\u0131k Vocal Edit",
-      "url": "https://open.spotify.com/track/38hQgXEyAKU2uhSwfxRfg2"
     },
     {
       "added_at": "2025-09-15 10:24:21",

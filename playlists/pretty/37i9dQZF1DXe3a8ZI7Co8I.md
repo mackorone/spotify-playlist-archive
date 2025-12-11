@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3a8ZI7Co8I.md) - [plain]
 
 > Temitas chulos para acompañarte cuando vas de un sitio a otro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,915 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,860 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3a8ZI7Co8I.md) - [plain]
 | 44 | [Zapatillas](https://open.spotify.com/track/42VgiRyg0YjtRVLiPFNxPJ) | [El Canto Del Loco](https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj) | [Zapatillas](https://open.spotify.com/album/3dToFs6qDSWkR1HttqgpnF) | 2:52 |
 | 45 | [Princesas](https://open.spotify.com/track/3hlWUNjAlbZ6nOjAbrivBv) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Animales](https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe) | 3:36 |
 | 46 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 |
-| 47 | [com você](https://open.spotify.com/track/2UJsRfzFkeNtDncKvFDXr0) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [com você](https://open.spotify.com/album/2BuF1d5TBvEiD83KxRkeRR) | 2:34 |
-| 48 | [Marta, Sebas, Guille y los demás](https://open.spotify.com/track/30ddpolNHwXlrS5XO8MiiO) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Pájaros En La Cabeza](https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW) | 3:43 |
-| 49 | [El Fin del Mundo](https://open.spotify.com/track/5SeYlZyKVENMOxiSPQkKyw) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [El Fin del Mundo](https://open.spotify.com/album/4VfiuZYoSkkLs7N68l75jN) | 3:08 |
-| 50 | [why](https://open.spotify.com/track/6aWKjqvFULsZhpF8Nugfeu) | [D.Valentino](https://open.spotify.com/artist/01WzyfcDKX94myMXnGfU4N), [Sneaky wh](https://open.spotify.com/artist/0hUhE5n1TjnCHwNLp2mIKf) | [why](https://open.spotify.com/album/49qKeW5IBHWaHGILvsm050) | 2:54 |
+| 47 | [Marta, Sebas, Guille y los demás](https://open.spotify.com/track/30ddpolNHwXlrS5XO8MiiO) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Pájaros En La Cabeza](https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW) | 3:43 |
+| 48 | [com você](https://open.spotify.com/track/2UJsRfzFkeNtDncKvFDXr0) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [com você](https://open.spotify.com/album/2BuF1d5TBvEiD83KxRkeRR) | 2:34 |
+| 49 | [why](https://open.spotify.com/track/6aWKjqvFULsZhpF8Nugfeu) | [D.Valentino](https://open.spotify.com/artist/01WzyfcDKX94myMXnGfU4N), [Sneaky wh](https://open.spotify.com/artist/0hUhE5n1TjnCHwNLp2mIKf) | [why](https://open.spotify.com/album/49qKeW5IBHWaHGILvsm050) | 2:54 |
+| 50 | [Chica Ideal](https://open.spotify.com/track/21N4Buj4xsyLb218lYle61) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Chica Ideal](https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct) | 3:03 |
 
 Snapshot ID: `AAAAALSwsM0bApcf7UmedfdjJnorm9PK`

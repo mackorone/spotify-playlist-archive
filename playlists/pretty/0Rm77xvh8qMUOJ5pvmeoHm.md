@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Rm77xvh8qMUOJ5pvmeoHm.md) - [plain]
 
 > Celebrate with these recession pop &amp; hip\-hop party tracks everyone knows and loves!
 
-[Topsify](https://open.spotify.com/user/topsify) - 165,463 likes - 134 songs - 7 hr 20 min
+[Topsify](https://open.spotify.com/user/topsify) - 165,436 likes - 134 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

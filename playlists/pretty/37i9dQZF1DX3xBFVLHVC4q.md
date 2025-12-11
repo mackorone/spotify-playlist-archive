@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 
 > Music from "Love Live! Sunshine!!" ©2017 プロジェクトラブライブ！サンシャイン!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,829 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,828 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 18 | [DROPOUT!?](https://open.spotify.com/track/0sBNo8ePBkb9hKV1qrSWjg) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Awaken the power](https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf) | 3:56 |
 | 19 | [恋になりたいAQUARIUM](https://open.spotify.com/track/3nxrLaPGlW1EsAWn23bcPX) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [恋になりたいAQUARIUM](https://open.spotify.com/album/45b6rybZSrauqudZ4QYqQK) | 5:08 |
 | 20 | [決めたよHand in Hand](https://open.spotify.com/track/5Tebv0qRKNlFXlxd0TiYAy) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr), [桜内梨子 \(CV.逢田梨香子\)](https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O), [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB) | [決めたよHand in Hand/ダイスキだったらダイジョウブ!](https://open.spotify.com/album/5Ssi8gxeAfX6INMNyYKIuL) | 4:26 |
-| 21 | [Shadow gate to love](https://open.spotify.com/track/102b9XE1FmD4seoZrOBWoj) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [コワレヤスキ](https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO) | 4:05 |
+| 21 | [New Romantic Sailors](https://open.spotify.com/track/3JQFG9dQs2VGW6bJPDts3A) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [New Romantic Sailors](https://open.spotify.com/album/1mtGlnjCN7zDZWUP4zukwF) | 4:42 |
 | 22 | [Over The Next Rainbow](https://open.spotify.com/track/3bSp8XRroNBn1YCy7IaHRa) | [Saint Aqours Snow](https://open.spotify.com/artist/6Nq96md0RCaaBFlK4OJ3jQ) | [Believe again/Brightest Melody/Over The Next Rainbow](https://open.spotify.com/album/7JnPOBXbxdkrgzRPQ39ZkQ) | 4:59 |
 | 23 | [Lonely Snow Planet](https://open.spotify.com/track/4oYq3ZBW4v34rQbdzMrWab) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Dazzling White Town](https://open.spotify.com/album/07OQgrBCdszGK0JaU2s1Uv) | 4:15 |
 | 24 | [夜空はなんでも知ってるの?](https://open.spotify.com/track/1ORM9UcRS2m6sSCFHtGM9l) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [元気全開DAY! DAY! DAY!](https://open.spotify.com/album/0F1JBEDt9APY8kvHvACQYt) | 4:38 |
 | 25 | [夢で夜空を照らしたい](https://open.spotify.com/track/0x89IEs0NJHOULPx4wgPPB) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr), [桜内梨子 \(CV.逢田梨香子\)](https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O), [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB), [Yoshiko Tsushima \(CV: Aika Kobayashi\)](https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY), [国木田花丸 \(CV.高槻かなこ\)](https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an), [黒澤ルビィ \(CV.降幡 愛\)](https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO) | [夢で夜空を照らしたい/未熟DREAMER](https://open.spotify.com/album/3RC4kNrfwR8LXVbu6x85KM) | 5:34 |
-| 26 | [New Romantic Sailors](https://open.spotify.com/track/3JQFG9dQs2VGW6bJPDts3A) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [New Romantic Sailors](https://open.spotify.com/album/1mtGlnjCN7zDZWUP4zukwF) | 4:42 |
+| 26 | [Shadow gate to love](https://open.spotify.com/track/102b9XE1FmD4seoZrOBWoj) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [コワレヤスキ](https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO) | 4:05 |
 | 27 | [G線上のシンデレラ](https://open.spotify.com/track/1q8HSZgkbK1AAs32TjBiW6) | [松浦果南 \(CV.諏訪ななか\)](https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6), [黒澤ダイヤ \(CV.小宮有紗\)](https://open.spotify.com/artist/3fgvaQU1JQeuu63QOo62Tb), [小原鞠莉 \(CV.鈴木愛奈\)](https://open.spotify.com/artist/5AeHYcYFgZ8VHULQk0vHM2) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015〜2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:16 |
 | 28 | [もっとね!](https://open.spotify.com/track/3vXJrJULk98bQ4dG4WvqNY) | [松浦果南 \(CV.諏訪ななか\) from Aqours](https://open.spotify.com/artist/3qmeR7kGRtevhMxvZ0ls0i) | [LoveLive! Sunshine!! Matsuura Kanan First Solo Concert Album 〜さかなかなんだか?〜](https://open.spotify.com/album/3kp2CxXz4KVbtHxr3axkXG) | 3:49 |
 | 29 | [元気全開DAY! DAY! DAY!](https://open.spotify.com/track/472fNidp2NJoijcPKMvaZv) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [元気全開DAY! DAY! DAY!](https://open.spotify.com/album/0F1JBEDt9APY8kvHvACQYt) | 3:59 |

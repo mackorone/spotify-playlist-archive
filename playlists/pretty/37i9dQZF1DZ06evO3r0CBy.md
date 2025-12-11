@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 
 > This is Rodríguez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,985 likes - 22 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,997 likes - 22 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 | 21 | [Learnin' the Blues](https://open.spotify.com/track/29bfyiutyuxsWxoq4h6eN2) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 2:32 |
 | 22 | [Just One of Those Things](https://open.spotify.com/track/6kv8a1kYHKl9hWqamsbHlA) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 3:02 |
 
-Snapshot ID: `aTYVAAAAAAAW4dIT8fIH3C8zaFAk/obV`
+Snapshot ID: `aTdmgAAAAACGKdI6B18CH6FB6bsQ2moK`

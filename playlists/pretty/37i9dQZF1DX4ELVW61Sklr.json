@@ -1,6 +1,6 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 228820,
+  "num_followers": 229260,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
+        "name": "The Classic Christmas Album",
+        "url": "https://open.spotify.com/album/3kcs7Sy2LOxHuQpEbraEo5"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 305226,
+      "name": "Every Year, Every Christmas",
+      "url": "https://open.spotify.com/track/1NPGiRG86PFwXzwrYZRa2a"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
         "name": "A Different Christmas",
         "url": "https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 160981,
       "name": "presents (feat. Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/4QyO5yNf3W534HK5gI1lMA"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "The Classic Christmas Album",
-        "url": "https://open.spotify.com/album/3kcs7Sy2LOxHuQpEbraEo5"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 305226,
-      "name": "Every Year, Every Christmas",
-      "url": "https://open.spotify.com/track/1NPGiRG86PFwXzwrYZRa2a"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Red & Green",
-        "url": "https://open.spotify.com/album/2msUdJTMMBdkK30onLIAi2"
-      },
-      "artists": [
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        }
-      ],
-      "duration_ms": 235049,
-      "name": "Forever Mistletoe",
-      "url": "https://open.spotify.com/track/4ITRXrlcGDCfu7JRcajD5k"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
         "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
       },
@@ -951,6 +935,22 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
+        "name": "Red & Green",
+        "url": "https://open.spotify.com/album/2msUdJTMMBdkK30onLIAi2"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "duration_ms": 235049,
+      "name": "Forever Mistletoe",
+      "url": "https://open.spotify.com/track/4ITRXrlcGDCfu7JRcajD5k"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
         "name": "Coco By The Fireplace",
         "url": "https://open.spotify.com/album/6R4q2iVfJ66EUKIBxiKvZL"
       },
@@ -963,26 +963,6 @@
       "duration_ms": 161684,
       "name": "Santa Is Me",
       "url": "https://open.spotify.com/track/20to0dedvjOlBchbCvfBQD"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "Home For The Holidays",
-        "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
-      },
-      "artists": [
-        {
-          "name": "Love Renaissance (LVRN)",
-          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 140140,
-      "name": "Santa Baby (with Summer Walker)",
-      "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1007,18 +987,38 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Christmas With Brandy",
-        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
+        "name": "Home For The Holidays",
+        "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
       },
       "artists": [
         {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 181720,
-      "name": "Somebody's Waiting",
-      "url": "https://open.spotify.com/track/7MeJ8GQz5nUxjrai6tEf3J"
+      "duration_ms": 140140,
+      "name": "Santa Baby (with Summer Walker)",
+      "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
+        "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
+      },
+      "artists": [
+        {
+          "name": "K-Ci & JoJo",
+          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "In Love at Christmas",
+      "url": "https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1039,22 +1039,6 @@
       "duration_ms": 173961,
       "name": "What Christmas Means To Me",
       "url": "https://open.spotify.com/track/4pI7CEVufQCp9WAssZLecU"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
-        "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
-      },
-      "artists": [
-        {
-          "name": "K-Ci & JoJo",
-          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
-        }
-      ],
-      "duration_ms": 237666,
-      "name": "In Love at Christmas",
-      "url": "https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1087,6 +1071,22 @@
       "duration_ms": 214183,
       "name": "Wrap Me Up",
       "url": "https://open.spotify.com/track/6BH5Ls5uYLQCBwXResfDbw"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Christmas With Brandy",
+        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 181720,
+      "name": "Somebody's Waiting",
+      "url": "https://open.spotify.com/track/7MeJ8GQz5nUxjrai6tEf3J"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Christmas With Brandy",
-        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 212755,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/3KJLdBI3jRmVrS71p23RJC"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "Home For The Holidays",
         "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 155933,
       "name": "Ghetto Christmas (with 6LACK & Summer Walker)",
       "url": "https://open.spotify.com/track/5ycUatWaShR7L5aXhW4uf2"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Christmas With Brandy",
+        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 212755,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/3KJLdBI3jRmVrS71p23RJC"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1235,22 +1235,6 @@
       "duration_ms": 173207,
       "name": "Christmas All Year",
       "url": "https://open.spotify.com/track/27d6hPrn21lrr9l91d4L4I"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "Christmas With Brandy",
-        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 190799,
-      "name": "The Christmas Song",
-      "url": "https://open.spotify.com/track/4NZPiKXUHl6Iu5yslgAH2q"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1307,6 +1291,22 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
+        "name": "Christmas With Brandy",
+        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 190799,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/4NZPiKXUHl6Iu5yslgAH2q"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
         "name": "Spend Christmas With You",
         "url": "https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ"
       },
@@ -1323,42 +1323,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
-        "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
-      },
-      "artists": [
-        {
-          "name": "Xscape",
-          "url": "https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Christmas Without You",
-      "url": "https://open.spotify.com/track/1H6AKiklPGPjd7MTxiOJD8"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "The First Noel (feat. Cory Henry)",
-        "url": "https://open.spotify.com/album/4UUlh9XDS5gIPoCVAUN8zd"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 190286,
-      "name": "The First Noel (feat. Cory Henry) - Spotify Holiday Single",
-      "url": "https://open.spotify.com/track/3tqjlg9Ut8l3WWRe1J0cNQ"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "Merry Like This",
         "url": "https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c"
       },
@@ -1371,6 +1335,22 @@
       "duration_ms": 180588,
       "name": "Merry Like This",
       "url": "https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
+        "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
+      },
+      "artists": [
+        {
+          "name": "Xscape",
+          "url": "https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Christmas Without You",
+      "url": "https://open.spotify.com/track/1H6AKiklPGPjd7MTxiOJD8"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1407,6 +1387,26 @@
       "duration_ms": 179277,
       "name": "Secret Santa",
       "url": "https://open.spotify.com/track/47V1W4jo5cKR0bLEY3f9ET"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "The First Noel (feat. Cory Henry)",
+        "url": "https://open.spotify.com/album/4UUlh9XDS5gIPoCVAUN8zd"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 190286,
+      "name": "The First Noel (feat. Cory Henry) - Spotify Holiday Single",
+      "url": "https://open.spotify.com/track/3tqjlg9Ut8l3WWRe1J0cNQ"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
+        "name": "Christmas, Love And You",
+        "url": "https://open.spotify.com/album/55oTFa7qZbJW50tVnrJpN8"
+      },
+      "artists": [
+        {
+          "name": "Will Downing",
+          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
+        }
+      ],
+      "duration_ms": 261213,
+      "name": "Christmas, Love, and You",
+      "url": "https://open.spotify.com/track/7Inmp1hBrwS1PnV0zCxYwX"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
         "name": "In December",
         "url": "https://open.spotify.com/album/2ae65TpzMw6I9b8gJQG6Op"
       },
@@ -1491,26 +1507,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Still Home For The Holidays",
-        "url": "https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv"
-      },
-      "artists": [
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 175347,
-      "name": "Alone for Christmas (feat. Kiana Led\u00e9) - from Still Home For The Holidays (An R&B Christmas Album)",
-      "url": "https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "This Holiday",
         "url": "https://open.spotify.com/album/0PqbB0pvi22Y4I1P2ecr6z"
       },
@@ -1527,18 +1523,22 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Christmas, Love And You",
-        "url": "https://open.spotify.com/album/55oTFa7qZbJW50tVnrJpN8"
+        "name": "Still Home For The Holidays",
+        "url": "https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv"
       },
       "artists": [
         {
-          "name": "Will Downing",
-          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
         }
       ],
-      "duration_ms": 261213,
-      "name": "Christmas, Love, and You",
-      "url": "https://open.spotify.com/track/7Inmp1hBrwS1PnV0zCxYwX"
+      "duration_ms": 175347,
+      "name": "Alone for Christmas (feat. Kiana Led\u00e9) - from Still Home For The Holidays (An R&B Christmas Album)",
+      "url": "https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "His Gift",
-        "url": "https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 250266,
-      "name": "Glory To The King - His Gift Version",
-      "url": "https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/1y4RiFdd1TpCrWAx7dVkNd"
       },
@@ -1619,22 +1603,6 @@
       "duration_ms": 151600,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/7sCq3Z3xqytO4aOdsjx16A"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "Eazy Christmas",
-        "url": "https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 179435,
-      "name": "Kisses On Christmas",
-      "url": "https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1655,6 +1623,22 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
+        "name": "His Gift",
+        "url": "https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 250266,
+      "name": "Glory To The King - His Gift Version",
+      "url": "https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
         "name": "Still Home For The Holidays",
         "url": "https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 275902,
       "name": "Chimney [from Still Home For The Holidays (An R&B Christmas Album)]",
       "url": "https://open.spotify.com/track/1jU3jSkN5AYkiAsHlp4rDP"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Eazy Christmas",
+        "url": "https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 179435,
+      "name": "Kisses On Christmas",
+      "url": "https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m"
     },
     {
       "added_at": "2025-10-24 15:07:41",

@@ -1,6 +1,6 @@
 {
   "description": "The hip-hop party soundtrack of summer, past and present.",
-  "num_followers": 33769,
+  "num_followers": 33778,
   "original_name": "Dear Summer",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2025-05-22 17:25:19",
       "album": {
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
+    },
+    {
+      "added_at": "2025-05-22 17:25:19",
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 218364,
       "name": "Jimmy Cooks (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
-    },
-    {
-      "added_at": "2025-05-22 17:25:19",
-      "album": {
-        "name": "FUTURE",
-        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
     },
     {
       "added_at": "2025-05-22 17:25:19",
@@ -839,6 +839,30 @@
     {
       "added_at": "2025-05-22 17:25:19",
       "album": {
+        "name": "Teflon Don",
+        "url": "https://open.spotify.com/album/0jipZxGtkTDHjVerLkzO80"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Chrisette Michele",
+          "url": "https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj"
+        }
+      ],
+      "duration_ms": 270626,
+      "name": "Aston Martin Music",
+      "url": "https://open.spotify.com/track/5W7xC99N2Zzfh69r7I7zWK"
+    },
+    {
+      "added_at": "2025-05-22 17:25:19",
+      "album": {
         "name": "Funk Wav Bounces Vol.1",
         "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
       },
@@ -867,26 +891,22 @@
     {
       "added_at": "2025-05-22 17:25:19",
       "album": {
-        "name": "Teflon Don",
-        "url": "https://open.spotify.com/album/0jipZxGtkTDHjVerLkzO80"
+        "name": "Culture",
+        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
       },
       "artists": [
         {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Chrisette Michele",
-          "url": "https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 270626,
-      "name": "Aston Martin Music",
-      "url": "https://open.spotify.com/track/5W7xC99N2Zzfh69r7I7zWK"
+      "duration_ms": 343150,
+      "name": "Bad and Boujee (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1"
     },
     {
       "added_at": "2025-05-22 17:25:19",
@@ -907,26 +927,6 @@
       "duration_ms": 140733,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
-    },
-    {
-      "added_at": "2025-05-22 17:25:19",
-      "album": {
-        "name": "Culture",
-        "url": "https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 343150,
-      "name": "Bad and Boujee (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1"
     },
     {
       "added_at": "2025-05-22 17:25:19",

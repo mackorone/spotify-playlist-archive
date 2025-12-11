@@ -4,7 +4,7 @@
 
 > Soft and warm Christmas songs from recent years\. Cover: Laufey
 
-245 songs - 13 hr 18 min
+246 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,11 +239,12 @@
 | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg) | 4:02 | 2024-12-06 |  |
 | [Warm December](https://open.spotify.com/track/1xLBOnBn16AXmvDZ2WOTOw) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Warm December](https://open.spotify.com/album/1IudCFPdNr3NcTkfXLLcVx) | 3:15 | 2021-12-12 |  |
 | [We Wish You The Merriest](https://open.spotify.com/track/5kPu4qgd0a1e5e6kveFnNr) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Liz Gillies](https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB) | [We Wish You The Merriest](https://open.spotify.com/album/72cxgxGqEDuz8d60JuP6Ta) | 2:26 | 2023-11-15 |  |
-| [What Christmas Means To Me \(with Stevie Wonder\)](https://open.spotify.com/track/6DIA408m0Am7GDTqCzsI59) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 2:35 | 2023-12-13 |  |
+| [What Christmas Means To Me \(with Stevie Wonder\)](https://open.spotify.com/track/6DIA408m0Am7GDTqCzsI59) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 2:35 | 2023-12-13 | 2025-12-11 |
 | [When You Wish Upon A Star](https://open.spotify.com/track/5wSLnF8eeGq9LxtukSF6G2) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [We Need A Little Christmas](https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV) | 3:06 | 2021-12-12 | 2022-12-03 |
 | [White Christmas](https://open.spotify.com/track/4ud5nPW0fN8Li4FyIq0rh5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 3:02 | 2021-12-12 | 2023-11-08 |
 | [White Christmas](https://open.spotify.com/track/7EVeLwnM6KTokvCHEmAQPR) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Liz Gillies](https://open.spotify.com/artist/7pLntWGInZPQxc4kXxzzjB) | [White Christmas](https://open.spotify.com/album/639swiJ9q9k6wwqOSgi2w8) | 4:30 | 2024-11-04 |  |
 | [White Christmas \- Spotify Singles \- Christmas, Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/71azyw4EJDlGru5Uw6DGzT) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [White Christmas \(Spotify Singles \- Christmas, Recorded at Sound Stage Studios Nashville\)](https://open.spotify.com/album/4khvhw7hfvRpSU1EokuED4) | 3:14 | 2022-11-18 | 2024-11-05 |
+| [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy) | 3:54 | 2025-12-10 |  |
 | [Winter Song](https://open.spotify.com/track/0DE6CIExD51bL5qroihU1W) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Winter Songs](https://open.spotify.com/album/1RaBcI5wubfKYg4CFqtOyp) | 4:21 | 2021-12-12 | 2024-04-19 |
 | [Winter Song](https://open.spotify.com/track/4w25Oe4FGmHoT8PtPMACow) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Winter Songs](https://open.spotify.com/album/71FSyboE4QVkjrILNCus2m) | 4:21 | 2021-12-12 |  |
 | [Winter Things](https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:38 | 2021-12-12 |  |

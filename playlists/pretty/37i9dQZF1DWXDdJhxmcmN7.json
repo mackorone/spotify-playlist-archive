@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 36988,
+  "num_followers": 36991,
   "original_name": "LoFi mexa",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/4fbEwFpY5oaFqO8SK5JHuf"
+      },
+      "artists": [
+        {
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/0oqW0VCHqp7l7w2oxIkXVG"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
         "name": "Canciones para Escuchar Frente a la Ventana",
         "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Mirrors",
-        "url": "https://open.spotify.com/album/4fbEwFpY5oaFqO8SK5JHuf"
-      },
-      "artists": [
-        {
-          "name": "Jav Cast",
-          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/0oqW0VCHqp7l7w2oxIkXVG"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
         "name": "como los ni\u00f1os",
         "url": "https://open.spotify.com/album/0ssD2LaGvT4CqXgCDifQjz"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 150956,
       "name": "como los ni\u00f1os",
       "url": "https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "jazz y cdmx",
+        "url": "https://open.spotify.com/album/17tlWeBFchVYB4AykvA21z"
+      },
+      "artists": [
+        {
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        }
+      ],
+      "duration_ms": 121213,
+      "name": "jazz y cdmx",
+      "url": "https://open.spotify.com/track/4OGnyi9O4uc5zrTNyLgGrY"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -847,18 +863,22 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "jazz y cdmx",
-        "url": "https://open.spotify.com/album/17tlWeBFchVYB4AykvA21z"
+        "name": "lost in a dream",
+        "url": "https://open.spotify.com/album/1GxXT299HiVWL3tp3Tbogk"
       },
       "artists": [
         {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+          "name": "Lenny Loops",
+          "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
+        },
+        {
+          "name": "amlo",
+          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
         }
       ],
-      "duration_ms": 121213,
-      "name": "jazz y cdmx",
-      "url": "https://open.spotify.com/track/4OGnyi9O4uc5zrTNyLgGrY"
+      "duration_ms": 163333,
+      "name": "lost in a dream",
+      "url": "https://open.spotify.com/track/2Knc6s3lb5pAAVcetSmu7i"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -879,26 +899,6 @@
       "duration_ms": 134261,
       "name": "que chulada",
       "url": "https://open.spotify.com/track/6H58pGPGHVWaoK2JOe0r5y"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "lost in a dream",
-        "url": "https://open.spotify.com/album/1GxXT299HiVWL3tp3Tbogk"
-      },
-      "artists": [
-        {
-          "name": "Lenny Loops",
-          "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
-        },
-        {
-          "name": "amlo",
-          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "lost in a dream",
-      "url": "https://open.spotify.com/track/2Knc6s3lb5pAAVcetSmu7i"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1031,22 +1031,18 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "All Good in the Hood",
-        "url": "https://open.spotify.com/album/4uQFWwL68IbPDekcTVIX84"
+        "name": "LOFI CHRISTMAS VI",
+        "url": "https://open.spotify.com/album/3RvE29N2BO2daJq28Er9Wy"
       },
       "artists": [
         {
-          "name": "yermo7",
-          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
-        },
-        {
-          "name": "Dr. Octosax",
-          "url": "https://open.spotify.com/artist/2BOqGRO3gFNm0pECPIuJm2"
+          "name": "Akira The Don",
+          "url": "https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora"
         }
       ],
-      "duration_ms": 107294,
-      "name": "All Good in the Hood",
-      "url": "https://open.spotify.com/track/6glzOKKrShPuFB8aPWgafO"
+      "duration_ms": 132000,
+      "name": "THE CHRISTMAS SONG LOFI",
+      "url": "https://open.spotify.com/track/59GcIQB6MBjrPzBhcGXQ4q"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1087,34 +1083,42 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Good things take time",
-        "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
+        "name": "All Good in the Hood",
+        "url": "https://open.spotify.com/album/4uQFWwL68IbPDekcTVIX84"
       },
       "artists": [
         {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+          "name": "yermo7",
+          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
+        },
+        {
+          "name": "Dr. Octosax",
+          "url": "https://open.spotify.com/artist/2BOqGRO3gFNm0pECPIuJm2"
         }
       ],
-      "duration_ms": 99428,
-      "name": "Good things take time",
-      "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
+      "duration_ms": 107294,
+      "name": "All Good in the Hood",
+      "url": "https://open.spotify.com/track/6glzOKKrShPuFB8aPWgafO"
     },
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Birria",
-        "url": "https://open.spotify.com/album/2sKFNFgM5n3403t7LadLk0"
+        "name": "El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2k8iUgRjS8e9feuoPmb1eQ"
       },
       "artists": [
         {
-          "name": "Fallen_Kid",
-          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
+          "name": "Aguachill",
+          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
+        },
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
         }
       ],
-      "duration_ms": 119527,
-      "name": "Birria",
-      "url": "https://open.spotify.com/track/55W0BK2MwTy2PRiByysRTg"
+      "duration_ms": 140411,
+      "name": "El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7q8CNO6bRExzHx197q0oS1"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1159,22 +1163,34 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2k8iUgRjS8e9feuoPmb1eQ"
+        "name": "Birria",
+        "url": "https://open.spotify.com/album/2sKFNFgM5n3403t7LadLk0"
       },
       "artists": [
         {
-          "name": "Aguachill",
-          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
-        },
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+          "name": "Fallen_Kid",
+          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
         }
       ],
-      "duration_ms": 140411,
-      "name": "El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7q8CNO6bRExzHx197q0oS1"
+      "duration_ms": 119527,
+      "name": "Birria",
+      "url": "https://open.spotify.com/track/55W0BK2MwTy2PRiByysRTg"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "Good things take time",
+        "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+        }
+      ],
+      "duration_ms": 99428,
+      "name": "Good things take time",
+      "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1199,22 +1215,6 @@
       "duration_ms": 132134,
       "name": "Goldilocks Planet",
       "url": "https://open.spotify.com/track/2GYO0Fk7zixU9Q0py08ilV"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "LOFI CHRISTMAS VI",
-        "url": "https://open.spotify.com/album/3RvE29N2BO2daJq28Er9Wy"
-      },
-      "artists": [
-        {
-          "name": "Akira The Don",
-          "url": "https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "THE CHRISTMAS SONG LOFI",
-      "url": "https://open.spotify.com/track/59GcIQB6MBjrPzBhcGXQ4q"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "The Plant Whisperer",
-        "url": "https://open.spotify.com/album/1raEGgO92sAlrU3tP9A7te"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        }
-      ],
-      "duration_ms": 137923,
-      "name": "Maranta",
-      "url": "https://open.spotify.com/track/1LKFi6ekNYuhFfuEQ7QE44"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
         "name": "Zer",
         "url": "https://open.spotify.com/album/3vxAsKE2JVdmikgaSDCCXL"
       },
@@ -1327,6 +1311,38 @@
       "duration_ms": 186214,
       "name": "MexFi",
       "url": "https://open.spotify.com/track/6CyAiLN9Oh7dZo1t3sSU3U"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "todas las ma\u00f1anas",
+        "url": "https://open.spotify.com/album/2C8HdbAXTfMZamykf1ptqs"
+      },
+      "artists": [
+        {
+          "name": "Jose Bautista",
+          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
+        }
+      ],
+      "duration_ms": 147621,
+      "name": "todas las ma\u00f1anas",
+      "url": "https://open.spotify.com/track/6IHjrdyb7o1YxQ1tXlvjvv"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "The Plant Whisperer",
+        "url": "https://open.spotify.com/album/1raEGgO92sAlrU3tP9A7te"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        }
+      ],
+      "duration_ms": 137923,
+      "name": "Maranta",
+      "url": "https://open.spotify.com/track/1LKFi6ekNYuhFfuEQ7QE44"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1347,22 +1363,6 @@
       "duration_ms": 123000,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/6h3cn3k5lSMzJDjYri6NVX"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "todas las ma\u00f1anas",
-        "url": "https://open.spotify.com/album/2C8HdbAXTfMZamykf1ptqs"
-      },
-      "artists": [
-        {
-          "name": "Jose Bautista",
-          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
-        }
-      ],
-      "duration_ms": 147621,
-      "name": "todas las ma\u00f1anas",
-      "url": "https://open.spotify.com/track/6IHjrdyb7o1YxQ1tXlvjvv"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
+        "name": "wandering through soft colors",
+        "url": "https://open.spotify.com/album/2bDEjpAPGCaghmgZMRHq6T"
+      },
+      "artists": [
+        {
+          "name": "amlo",
+          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
+        }
+      ],
+      "duration_ms": 196721,
+      "name": "wandering through soft colors",
+      "url": "https://open.spotify.com/track/69nXRmLR97LqM5PZo3ODFi"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
         "name": "Childhood",
         "url": "https://open.spotify.com/album/3mZSAo3BYAk094HH8NEoYc"
       },
@@ -1527,18 +1543,22 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "wandering through soft colors",
-        "url": "https://open.spotify.com/album/2bDEjpAPGCaghmgZMRHq6T"
+        "name": "Oda a la Infancia",
+        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
       },
       "artists": [
         {
-          "name": "amlo",
-          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
         }
       ],
-      "duration_ms": 196721,
-      "name": "wandering through soft colors",
-      "url": "https://open.spotify.com/track/69nXRmLR97LqM5PZo3ODFi"
+      "duration_ms": 104013,
+      "name": "La Feria",
+      "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1563,26 +1583,6 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Oda a la Infancia",
-        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
-      },
-      "artists": [
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        }
-      ],
-      "duration_ms": 104013,
-      "name": "La Feria",
-      "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
         "name": "alone alone",
         "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
       },
@@ -1599,38 +1599,46 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Hora Azul",
-        "url": "https://open.spotify.com/album/6k4g02kI6zXRUYoGgAmlpo"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        },
-        {
-          "name": "Agustin Ayala",
-          "url": "https://open.spotify.com/artist/2P5faXVIQGWdqaW7uSZ3Iv"
-        }
-      ],
-      "duration_ms": 183370,
-      "name": "Martes Azul",
-      "url": "https://open.spotify.com/track/7C2znQxQdm8Ck7nvdJnitF"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "Trompo de Pastor",
-        "url": "https://open.spotify.com/album/4X5Mat6mNCuVho8vVqV9xk"
+        "name": "98 pasos",
+        "url": "https://open.spotify.com/album/3CxK8OH2UaRL4LdMALcWEZ"
       },
       "artists": [
         {
           "name": "Omar Ju\u00e1rez",
           "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
+        },
+        {
+          "name": "Lofitic",
+          "url": "https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM"
+        },
+        {
+          "name": "Patiotic Records",
+          "url": "https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Trompo de Pastor",
-      "url": "https://open.spotify.com/track/2ewKh1f0RA370x3EdikVxt"
+      "duration_ms": 133600,
+      "name": "98 pasos",
+      "url": "https://open.spotify.com/track/4DfTxshRgY238XqOHkxAnx"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/3y3Xc0LlcqTF8JDWDqx0pq"
+      },
+      "artists": [
+        {
+          "name": "Ajvsco",
+          "url": "https://open.spotify.com/artist/0mc5LR2ANAISecKpU5gzCQ"
+        },
+        {
+          "name": "El More",
+          "url": "https://open.spotify.com/artist/02PrSshND8fAVGs3G0YVdg"
+        }
+      ],
+      "duration_ms": 197802,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/4Reotx5u8AUlqEMkDhhuIQ"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1655,22 +1663,22 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/3y3Xc0LlcqTF8JDWDqx0pq"
+        "name": "Chill Mood",
+        "url": "https://open.spotify.com/album/44GdHFKFtyd0JK8a4nv9RP"
       },
       "artists": [
         {
-          "name": "Ajvsco",
-          "url": "https://open.spotify.com/artist/0mc5LR2ANAISecKpU5gzCQ"
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
         },
         {
-          "name": "El More",
-          "url": "https://open.spotify.com/artist/02PrSshND8fAVGs3G0YVdg"
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 197802,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/4Reotx5u8AUlqEMkDhhuIQ"
+      "duration_ms": 118567,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/7Kjsucw8st8IdclUhYNelw"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1707,6 +1715,42 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
+        "name": "Trompo de Pastor",
+        "url": "https://open.spotify.com/album/4X5Mat6mNCuVho8vVqV9xk"
+      },
+      "artists": [
+        {
+          "name": "Omar Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Trompo de Pastor",
+      "url": "https://open.spotify.com/track/2ewKh1f0RA370x3EdikVxt"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "Hora Azul",
+        "url": "https://open.spotify.com/album/6k4g02kI6zXRUYoGgAmlpo"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        },
+        {
+          "name": "Agustin Ayala",
+          "url": "https://open.spotify.com/artist/2P5faXVIQGWdqaW7uSZ3Iv"
+        }
+      ],
+      "duration_ms": 183370,
+      "name": "Martes Azul",
+      "url": "https://open.spotify.com/track/7C2znQxQdm8Ck7nvdJnitF"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
         "name": "Summer Purr",
         "url": "https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd"
       },
@@ -1719,50 +1763,6 @@
       "duration_ms": 156000,
       "name": "Summer Purr",
       "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "Chill Mood",
-        "url": "https://open.spotify.com/album/44GdHFKFtyd0JK8a4nv9RP"
-      },
-      "artists": [
-        {
-          "name": "SanelliX",
-          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 118567,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/7Kjsucw8st8IdclUhYNelw"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "98 pasos",
-        "url": "https://open.spotify.com/album/3CxK8OH2UaRL4LdMALcWEZ"
-      },
-      "artists": [
-        {
-          "name": "Omar Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
-        },
-        {
-          "name": "Lofitic",
-          "url": "https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM"
-        },
-        {
-          "name": "Patiotic Records",
-          "url": "https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ"
-        }
-      ],
-      "duration_ms": 133600,
-      "name": "98 pasos",
-      "url": "https://open.spotify.com/track/4DfTxshRgY238XqOHkxAnx"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1835,22 +1835,18 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "no tiene sentido (lofi)",
-        "url": "https://open.spotify.com/album/6mIl3LQM7JjX4w6uqBvnrQ"
+        "name": "making out",
+        "url": "https://open.spotify.com/album/42OHS8tVTTSscJXyH4LrDl"
       },
       "artists": [
         {
-          "name": "LatinoFi",
-          "url": "https://open.spotify.com/artist/5J47VDjGjTRzUrjxiacTMo"
-        },
-        {
-          "name": "The Remix Station",
-          "url": "https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX"
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
         }
       ],
-      "duration_ms": 133933,
-      "name": "no tiene sentido - lofi",
-      "url": "https://open.spotify.com/track/3AEi47jy9VlMllKVPXoofD"
+      "duration_ms": 159500,
+      "name": "making out",
+      "url": "https://open.spotify.com/track/3kkcCT7ULEtIyS288mYINQ"
     }
   ],
   "unique_name": "LoFi mexa",

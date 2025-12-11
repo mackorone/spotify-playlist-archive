@@ -322,7 +322,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 145054,
       "name": "A Spark, A Beginning",
       "url": "https://open.spotify.com/track/53Q8YAh03JoqrGQ5U9bZNx"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 171419,
       "name": "Avori",
       "url": "https://open.spotify.com/track/2Fq3ZwxleE9ahYEAvcZSji"
@@ -1049,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "Blossom",
+        "url": "https://open.spotify.com/album/1PsJVa3j0nHgQvZCqIBxeA"
+      },
+      "artists": [
+        {
+          "name": "Blue Cliff",
+          "url": "https://open.spotify.com/artist/0oOJXjzPzhvFU7kjSxpE5s"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133953,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/5M8UxcPWHjSUAnL5P3ArhW"
+    },
+    {
+      "album": {
         "name": "Blue Filter",
         "url": "https://open.spotify.com/album/4LYOHA2LHBYfYxIvxpM65U"
       },
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Bring in the Sun",
       "url": "https://open.spotify.com/track/1XuZoGfRIZyUvvHnzPG1Yg"
@@ -3243,6 +3261,24 @@
     },
     {
       "album": {
+        "name": "Into the formless",
+        "url": "https://open.spotify.com/album/3oCO2H6urPH4yQLMYD2UMn"
+      },
+      "artists": [
+        {
+          "name": "Bias Beats",
+          "url": "https://open.spotify.com/artist/2rufsSjAC70jRPV2oOxscT"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129729,
+      "name": "Into the formless",
+      "url": "https://open.spotify.com/track/1SGKdeJ6HdQAz8Pu7RpzR3"
+    },
+    {
+      "album": {
         "name": "Into The Light",
         "url": "https://open.spotify.com/album/5losUh2Qx9FbrjcESjo8sE"
       },
@@ -3492,6 +3528,24 @@
       "duration_ms": 183529,
       "name": "Komal",
       "url": "https://open.spotify.com/track/1jMYGXV4IDZcB3M4Bi3W16"
+    },
+    {
+      "album": {
+        "name": "Lacerta",
+        "url": "https://open.spotify.com/album/0kynlxeOiURbFwzRbxunLl"
+      },
+      "artists": [
+        {
+          "name": "Deneber",
+          "url": "https://open.spotify.com/artist/3PVhxeq0h8IPsVLVKmiluI"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151836,
+      "name": "Lacerta",
+      "url": "https://open.spotify.com/track/2NuJqRoft8sGj701c9v1SZ"
     },
     {
       "album": {
@@ -4778,7 +4832,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 255000,
       "name": "Proceed",
       "url": "https://open.spotify.com/track/7gNYToImB0Q4QLjptXOT5J"
@@ -4886,7 +4940,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 192156,
       "name": "Remeber",
       "url": "https://open.spotify.com/track/2UhEhSNnO7nNEwcOiy5Dxh"
@@ -4940,7 +4994,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": "2024-02-05",
+      "date_removed": null,
       "duration_ms": 189230,
       "name": "Response",
       "url": "https://open.spotify.com/track/0RxznT4d9yj4Uc70jYC95k"
@@ -5138,7 +5192,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 175483,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/4vKfeLftDJXcbaZyA6ftvZ"
@@ -5174,7 +5228,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 138500,
       "name": "Selina's Lullaby",
       "url": "https://open.spotify.com/track/5fuX8gwk2TGrpIKX6RR4Y3"
@@ -5606,7 +5660,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 301396,
       "name": "Song For No One",
       "url": "https://open.spotify.com/track/7d0F63Ynv9ZvPQlJPVZOql"
@@ -5754,6 +5808,24 @@
       "duration_ms": 180500,
       "name": "Stella",
       "url": "https://open.spotify.com/track/1ZLsZGzB04p76fyrUcnxOf"
+    },
+    {
+      "album": {
+        "name": "still waiting",
+        "url": "https://open.spotify.com/album/0cfXrYr1HQKNICTBqqGB2l"
+      },
+      "artists": [
+        {
+          "name": "soluneia",
+          "url": "https://open.spotify.com/artist/2xhXuKXaagqT7QOUe7Af7c"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111157,
+      "name": "still waiting",
+      "url": "https://open.spotify.com/track/454yeJafX48nm3ml9HKOxW"
     },
     {
       "album": {
@@ -6488,7 +6560,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 216000,
       "name": "Unkai",
       "url": "https://open.spotify.com/track/6KE0Eh4abncCTsZXodGGaQ"
@@ -6542,7 +6614,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 123359,
       "name": "Upwards",
       "url": "https://open.spotify.com/track/7AR7xW0wCscHZeYf2zj7Fc"
@@ -6982,7 +7054,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-07",
+      "date_removed": null,
       "duration_ms": 191000,
       "name": "With The Motions",
       "url": "https://open.spotify.com/track/3CUdK7G9Io6fFlu60KRkLu"

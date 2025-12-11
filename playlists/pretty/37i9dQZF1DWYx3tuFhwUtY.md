@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 
 > Buen indie rock para contar historietas...
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,820 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,812 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 44 | [Sing](https://open.spotify.com/track/0kqSGKnMo3JDbzaW0QrXmA) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Meet Glen Campbell](https://open.spotify.com/album/3DmfyjtfDRxMUCdoTgEWoz) | 3:45 |
 | 45 | [Centipede](https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Centipede](https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj) | 2:37 |
 | 46 | [Ur Mum](https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Ur Mum](https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG) | 3:21 |
-| 47 | [Tasmania](https://open.spotify.com/track/2rhJ5aL37Tc40c2lWUrsJB) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Tasmania](https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6) | 4:04 |
-| 48 | [Awkward \- EP Version](https://open.spotify.com/track/3qjF2EzZ7Kx0VD1AooRFjy) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Awkward](https://open.spotify.com/album/6llioHYeMH1V9LUM6QRnbX) | 2:33 |
+| 47 | [Awkward \- EP Version](https://open.spotify.com/track/3qjF2EzZ7Kx0VD1AooRFjy) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Awkward](https://open.spotify.com/album/6llioHYeMH1V9LUM6QRnbX) | 2:33 |
+| 48 | [Tasmania](https://open.spotify.com/track/2rhJ5aL37Tc40c2lWUrsJB) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Tasmania](https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6) | 4:04 |
 | 49 | [Carry You Home](https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Carry You Home](https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR) | 3:19 |
 | 50 | [Valentine](https://open.spotify.com/track/21brT2CZwKz8VPCf0nFxiP) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/4gYRifAy47Kiw1k152e6hv) | 3:16 |
 | 51 | [I Don't Know What You See In Me](https://open.spotify.com/track/3kgF5sMaCPSrWh4HV6wIpG) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [I Don't Know What You See In Me](https://open.spotify.com/album/7cB52qwhXPs0lEliJXoxmw) | 3:39 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 68 | [Salvation](https://open.spotify.com/track/1fwOLfBevvNiMoyTT2zUoh) | [The Limiñanas](https://open.spotify.com/artist/2joJCoCL4EmiVqic3vZn7n) | [Crystal Anis](https://open.spotify.com/album/4YrRNedrhlhpW4pGKfTPsw) | 3:21 |
 | 69 | [Strong Feelings](https://open.spotify.com/track/3xNfIWTsRdYbpEyildEMis) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Strong Feelings](https://open.spotify.com/album/0j4bRpHCdbcQrqoeay67iY) | 4:04 |
 | 70 | [Why Must A Building Burn?](https://open.spotify.com/track/2hR8cb1GFqK3BUYWke7P70) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Nature Always Wins](https://open.spotify.com/album/0QW5e9dUljhZyzU0sAtfA4) | 3:02 |
-| 71 | [En Tu Orilla](https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Tu Orilla](https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0) | 3:25 |
-| 72 | [Sand On The Beach](https://open.spotify.com/track/1zj7pjd6vpa7e2nhXelc99) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Sand On The Beach](https://open.spotify.com/album/3yzkkoOdyIq38nQ4dKTKPC) | 2:16 |
+| 71 | [Sand On The Beach](https://open.spotify.com/track/1zj7pjd6vpa7e2nhXelc99) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Sand On The Beach](https://open.spotify.com/album/3yzkkoOdyIq38nQ4dKTKPC) | 2:16 |
+| 72 | [En Tu Orilla](https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Tu Orilla](https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0) | 3:25 |
 | 73 | [Yo Cuidé a Tu Amor](https://open.spotify.com/track/2rlnTBTeAYRCiWRV5OiSug) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Yo Cuidé a Tu Amor](https://open.spotify.com/album/3wyR3TSvyR0tn6m3OFnyAU) | 3:54 |
 | 74 | [Worthy Girl](https://open.spotify.com/track/3yK73VxfoiDT1hCex7X09X) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Kills Birds](https://open.spotify.com/album/4ji7q0x2FcLB65vc9K3LUF) | 2:36 |
 | 75 | [Lost Day](https://open.spotify.com/track/7HPmkCbzEbz8QGnC2PvZIY) | [Other Lives](https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6) | [Lost Day](https://open.spotify.com/album/7Kt2H5kYFE1kpwkUitxDHG) | 2:55 |

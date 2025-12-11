@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,346 likes - 80 songs - 11 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,415 likes - 80 songs - 11 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 56 | [Flaunt Your Fire \(Holy Ghost\)](https://open.spotify.com/track/2zwltlr42APbCR1rnAsoOU) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Flaunt Your Fire \(Holy Ghost\)](https://open.spotify.com/album/754CwsqnhdY5y1EZKQqKPd) | 7:10 |
 | 57 | [Worship Session \- Live](https://open.spotify.com/track/3Wl0zyeRCieaF2hBN3q5du) | [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Seun Dede](https://open.spotify.com/artist/2EbUQQwtbJqZMhiK23HMFw) | [Worship Session \(Live\)](https://open.spotify.com/album/3u4zypZmoYigbASxOGbYPJ) | 51:01 |
 | 58 | [Holy Ghost](https://open.spotify.com/track/62iIcfToRxBNTZ1qstamVC) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 5:23 |
-| 59 | [We Bless You Lord \(Chant\)](https://open.spotify.com/track/2JekJNFUyLBsuqZPtSO0YJ) | [Adura Ojofeitimi](https://open.spotify.com/artist/135hnlf8uzG00qITSjtM2V) | [We Bless You Lord \(Chant\)](https://open.spotify.com/album/1W9K0AwSqAk22B63mvHZcC) | 8:14 |
-| 60 | [You Cover Me](https://open.spotify.com/track/37JvyLbD2sZqJb0xVYE80U) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [You Cover Me](https://open.spotify.com/album/3MpNFst8nlIyBLSt17ErjT) | 17:58 |
+| 59 | [You Cover Me](https://open.spotify.com/track/37JvyLbD2sZqJb0xVYE80U) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [You Cover Me](https://open.spotify.com/album/3MpNFst8nlIyBLSt17ErjT) | 17:58 |
+| 60 | [We Bless You Lord \(Chant\)](https://open.spotify.com/track/2JekJNFUyLBsuqZPtSO0YJ) | [Adura Ojofeitimi](https://open.spotify.com/artist/135hnlf8uzG00qITSjtM2V) | [We Bless You Lord \(Chant\)](https://open.spotify.com/album/1W9K0AwSqAk22B63mvHZcC) | 8:14 |
 | 61 | [Burning with the Holy Ghost](https://open.spotify.com/track/6etwAw9xwGZzr9Te2Mp9Dw) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 5:29 |
 | 62 | [Kadosh \(Live\)](https://open.spotify.com/track/78Fp5wJomAsTyP3Hiju3ud) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [Kadosh](https://open.spotify.com/album/4DsR36DsXQDyRLGfY5c7Y2) | 5:37 |
 | 63 | [Midnight Cry, Vol\. 2](https://open.spotify.com/track/4GReGQny43YTFYz6YXIJqd) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Midnight Cry, Vol\. 2](https://open.spotify.com/album/6ONKFW2nc1mznSaGdxoOJo) | 24:02 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 71 | [Hallelujah Chant \(Ruach Hakodesh\)](https://open.spotify.com/track/39sTVazPHh5IB8SdWNgLha) | [Noble G](https://open.spotify.com/artist/5QMR3QbX1ufqYCWPsphyUm), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Hallelujah Chant](https://open.spotify.com/album/6wWdwa33ovvntJ35BADYRv) | 4:55 |
 | 72 | [Intercession](https://open.spotify.com/track/2RXbpRdcxIq513gWw7tgn7) | [Caleb Music](https://open.spotify.com/artist/3tkHMoB4rBAXLjg0iq2jz0) | [Intercession](https://open.spotify.com/album/668d4mhaCYauZOunBEq7Vb) | 5:26 |
 | 73 | [Song of Angels \(The Call\)](https://open.spotify.com/track/11r7LKpoZzMQByA9gC9cgf) | [Tobi Walker](https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM), [Gwen Samuel](https://open.spotify.com/artist/3MKVPEAKVqjOWppgRRqIfK) | [Song of Angels \(The Call\)](https://open.spotify.com/album/758w7ppEQYjtKeLn0E9n4p) | 6:09 |
-| 74 | [Worship Chant](https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Worship Chant](https://open.spotify.com/album/6hg5OCeiiEkuyXBxFn8paI) | 4:32 |
-| 75 | [At All Cost](https://open.spotify.com/track/6GwE4OioGK8oOaC8nKJffy) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 8:56 |
+| 74 | [At All Cost](https://open.spotify.com/track/6GwE4OioGK8oOaC8nKJffy) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 8:56 |
+| 75 | [Worship Chant](https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Worship Chant](https://open.spotify.com/album/6hg5OCeiiEkuyXBxFn8paI) | 4:32 |
 | 76 | [Awake](https://open.spotify.com/track/70GaF6ifYZpt4i2IQNfw2y) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 6:20 |
 | 77 | [Intense Spontaneous Worship](https://open.spotify.com/track/3Q4IU160DfWbjRJnRVZwe0) | [Faith Captain](https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK) | [The Zamar Experience](https://open.spotify.com/album/4leEZEGBNamPXVBRUqDUQa) | 9:24 |
 | 78 | [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/track/0INx5pqvfPfD9ZkqsOaM03) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/album/35thPiCxJtZayMsEV1Resj) | 8:44 |

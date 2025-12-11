@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 
 > เพลงสากลฮิต และเพลงในกระแสตอนนี้\. ศิลปิน: Olivia Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,602 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,615 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX812gZSD3Ky1.md) - [plain]
 | 17 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 |
 | 18 | [Church](https://open.spotify.com/track/3Cz46bYvuuvDsUXDwrNFxn) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/4MR10rSYnclQoPXq6O9sw0) | 3:40 |
 | 19 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 |
-| 20 | [BEAST](https://open.spotify.com/track/0tT6RdTBuLZvKR9wIkRdFN) | [ALEX KIM](https://open.spotify.com/artist/5sddKp96a1L6W6OhmlLxgB) | [BEAST](https://open.spotify.com/album/5Ujq1bY1drYkJnyYGsVvP6) | 3:27 |
+| 20 | [BEAST](https://open.spotify.com/track/0tT6RdTBuLZvKR9wIkRdFN) | [ALEX KIM](https://open.spotify.com/artist/5sddKp96a1L6W6OhmlLxgB), [Diva, La Vie](https://open.spotify.com/artist/0HVGsSuoMGH2nn3j9ppLxH) | [BEAST](https://open.spotify.com/album/5Ujq1bY1drYkJnyYGsVvP6) | 3:27 |
 | 21 | [Passion Fruit](https://open.spotify.com/track/0gnWHXfhwbQ7hehZe76nwt) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Red Giant](https://open.spotify.com/album/3yvqjiQB5C1a7ML1XCCMpr) | 2:23 |
 | 22 | [Namaste](https://open.spotify.com/track/0cBKRNcM2uPHuiH5dgX9xd) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Boundary](https://open.spotify.com/album/5YWyPvOYit4QbQvQ8uYZkC) | 3:00 |
 | 23 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 |

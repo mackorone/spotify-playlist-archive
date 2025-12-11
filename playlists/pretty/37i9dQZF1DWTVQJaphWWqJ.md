@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVQJaphWWqJ.md) - [plain]
 
 > Sólo clásicos tropicales.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,574 likes - 60 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,586 likes - 60 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVQJaphWWqJ.md) - [plain]
 | 38 | [Anhelo](https://open.spotify.com/track/4HIeIbJeQMUurTM57KVQU7) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [La Historia..\. Los Éxitos](https://open.spotify.com/album/2qGqJrcsR1oXU5vPQbCCU8) | 4:05 |
 | 39 | [A Dormir Juntitos \- Liz featuring Eddy Herrera](https://open.spotify.com/track/3mra5ShNolELD0KNrMQo9D) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Paso Firme](https://open.spotify.com/album/2PTAdKOYVSne2pTCLnjRtP) | 4:42 |
 | 40 | [Abusadora](https://open.spotify.com/track/1uhiqrpEiYnWddrLgTAhZd) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Best Of The Best](https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs) | 4:40 |
-| 41 | [Cuando Casi Te Olvidaba](https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mas Vallenato](https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o) | 4:43 |
-| 42 | [Si Volveras a Mí](https://open.spotify.com/track/1PSD7RIsoOGQPgzmV7B2f6) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo de Amor](https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL) | 4:50 |
+| 41 | [Si Volveras a Mí](https://open.spotify.com/track/1PSD7RIsoOGQPgzmV7B2f6) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo de Amor](https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL) | 4:50 |
+| 42 | [Cuando Casi Te Olvidaba](https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mas Vallenato](https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o) | 4:43 |
 | 43 | [Tierra Mala](https://open.spotify.com/track/0fVroVR0FTRID4WoeQ6Jko) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Grandes Hits \- Los Chiches Vallenatos](https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx) | 4:48 |
 | 44 | [Dime que me quieres](https://open.spotify.com/track/44LHIHaC3UrhSt0KuYAfIR) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 5:16 |
 | 45 | [La Tanga](https://open.spotify.com/track/3LaiCiYtMqNvspJ6kXyfSa) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Best Of The Best](https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs) | 4:26 |

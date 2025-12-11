@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,692 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,698 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 91 | [Sagitario](https://open.spotify.com/track/3mnB1sPrhZNqEsywmwqN4E) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Sagitario](https://open.spotify.com/album/5lEYaDSKTg2dvBFf3Cj0vf) | 2:48 |
 | 92 | [Baja California](https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Baja California](https://open.spotify.com/album/3qbsCGFjewj30dvxqRJiJf) | 3:07 |
 | 93 | [Usame](https://open.spotify.com/track/38wIbM05SFodYw2fwiq5ut) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [Usame](https://open.spotify.com/album/2FuMEHblngX534yhdoSkag) | 2:45 |
-| 94 | [Cada loco con su tema](https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Cada loco con su tema](https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq) | 3:40 |
-| 95 | [Ánimo](https://open.spotify.com/track/7ze0MX6Gwoosk1QPia2GGZ) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Ánimo](https://open.spotify.com/album/4wVGGSFFjp7AhOs7LsdquC) | 2:37 |
+| 94 | [Ánimo](https://open.spotify.com/track/7ze0MX6Gwoosk1QPia2GGZ) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Ánimo](https://open.spotify.com/album/4wVGGSFFjp7AhOs7LsdquC) | 2:37 |
+| 95 | [Cada loco con su tema](https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Cada loco con su tema](https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq) | 3:40 |
 | 96 | [UNA COMO TÚ](https://open.spotify.com/track/5WroykksLsgGGMkjc1rNVP) | [Jhay P](https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1) | [UNA COMO TÚ](https://open.spotify.com/album/0r2l4seULfjhxvH3hOwQlY) | 2:16 |
 | 97 | [PORFA](https://open.spotify.com/track/6AXi31RtYc1YkSjie4H0V5) | [Pablo EEE](https://open.spotify.com/artist/08IR4c2MfZCUcN5CuMWGIP) | [PORFA](https://open.spotify.com/album/1Zl09NYrzyxPXOrx4RsemT) | 3:31 |
 | 98 | [Emociones](https://open.spotify.com/track/57z548LBvsCd01eZQn3l7v) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Emociones](https://open.spotify.com/album/1eJfdwJPgN8yZ5tNCbCjXu) | 2:14 |

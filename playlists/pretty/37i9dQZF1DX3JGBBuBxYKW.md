@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,509 likes - 65 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,514 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,6 +72,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 62 | [El Primero](https://open.spotify.com/track/0FW6NXDLRoav8lpodHfhhe) | [Mariana Bfly](https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw) | [El Primero](https://open.spotify.com/album/5cKLRicwM3olMiKKvUwoqm) | 2:31 |
 | 63 | [Ayer Pedi](https://open.spotify.com/track/0Tc0FMFV5Q0cAaXTCSmglI) | [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Ayer Pedi](https://open.spotify.com/album/2pXbX5czCgui6x2dq6TC5o) | 3:25 |
 | 64 | [El Mundo](https://open.spotify.com/track/4tlQaF2e3VSQTlK22WRf7L) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [El Mundo](https://open.spotify.com/album/2BvuzOIT0RG2emuTC1fpfI) | 3:33 |
-| 65 | [Chau Chau](https://open.spotify.com/track/6FMTafTDHX2Gt9EXONkBya) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Chau Chau](https://open.spotify.com/album/667cSzgfBITHyYcjrBb9ie) | 2:44 |
+| 65 | [Lo Que Fui para Ti](https://open.spotify.com/track/4zX4gJVNV5vVgLQNQ3zBkw) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Grandes Exitos](https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU) | 3:23 |
 
 Snapshot ID: `AAAAAMyrkr0pswxZ7bTBHWr8r1LHxqgv`

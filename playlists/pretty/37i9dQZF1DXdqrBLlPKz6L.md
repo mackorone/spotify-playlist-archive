@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Pirlo
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,788 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,821 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

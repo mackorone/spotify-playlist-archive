@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP2fCX7VhoW.md) - [plain]
 
 > Os artistas mais tocados do ano\. Foto: Plutonio
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,213 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,251 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP2fCX7VhoW.md) - [plain]
 | 49 | [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 |
 | 50 | [Saudade De Quem Eu Sou \- Ao Vivo](https://open.spotify.com/track/7tesyGMnAFNI0l2xaxcFKi) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo\)](https://open.spotify.com/album/3KWB57wZ3fZQLCr5jgbcbU) | 2:33 |
 
-Snapshot ID: `AAAAAJdQLMz5YyKgiukMFJXvy38MvC+r`
+Snapshot ID: `AAAAAC180fgdNyhptQdX52j1PimuPbpS`

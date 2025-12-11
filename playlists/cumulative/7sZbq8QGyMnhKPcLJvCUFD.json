@@ -14110,6 +14110,24 @@
     {
       "album": {
         "name": "Superhero",
+        "url": "https://open.spotify.com/album/12weYcq5Cz3NbSPITZJ5v9"
+      },
+      "artists": [
+        {
+          "name": "Alex Hagen",
+          "url": "https://open.spotify.com/artist/7qZBzygfPUSIn3VAO1QybW"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178324,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/3F01egp8emkhIfDZ61CxV5"
+    },
+    {
+      "album": {
+        "name": "Superhero",
         "url": "https://open.spotify.com/album/2H6vrT8YGOtWEZgj0DmJSm"
       },
       "artists": [

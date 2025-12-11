@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 
 > a hardcore home for slowcore fans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,679 likes - 84 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,674 likes - 84 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 47 | [Two Wrongs Won't Make Things Right](https://open.spotify.com/track/0cE2SGmO5eaatzBsCpYPKI) | [Tarnation](https://open.spotify.com/artist/5cVphcm0FP2N0GXVl9csxh) | [Gentle Creatures](https://open.spotify.com/album/2HXMG5PMDO4stERgmNORdx) | 4:09 |
 | 48 | [Save Yourself](https://open.spotify.com/track/4EIQZRKN4Qp44YRu5xOCsE) | [Rachel Goswell](https://open.spotify.com/artist/0prEgQscX7BEd2EvCFm6Se) | [Waves Are Universal](https://open.spotify.com/album/1JFDiOWdfuPWEwxieEHXFY) | 3:58 |
 | 49 | [Sloth](https://open.spotify.com/track/5u02Kr3YXTSbNO19hSeEK2) | [Brendan Perry](https://open.spotify.com/artist/448GEwyUiojEHd8vsFheaB) | [Eye of the Hunter](https://open.spotify.com/album/5Cx1d1H2EqaOs3OrYP64bR) | 3:32 |
-| 50 | [Bold Marauder](https://open.spotify.com/track/4AkLsoLJoc3wXjsVN3zsdH) | [Kendra Smith](https://open.spotify.com/artist/4baSCyV2xPPhakoOEOltou) | [Five Ways of Disappearing](https://open.spotify.com/album/6WmyaI6ciyv0XPfyQtf2NE) | 5:33 |
-| 51 | [Follow](https://open.spotify.com/track/3LzFKDTwf9YkJv2OBuApBM) | [Heidi Berry](https://open.spotify.com/artist/6qciBbmbIDojePKdKmGtiA) | [Heidi Berry](https://open.spotify.com/album/51LMFroWbhYEbcHxSOrWw3) | 5:19 |
+| 50 | [Follow](https://open.spotify.com/track/3LzFKDTwf9YkJv2OBuApBM) | [Heidi Berry](https://open.spotify.com/artist/6qciBbmbIDojePKdKmGtiA) | [Heidi Berry](https://open.spotify.com/album/51LMFroWbhYEbcHxSOrWw3) | 5:19 |
+| 51 | [Bold Marauder](https://open.spotify.com/track/4AkLsoLJoc3wXjsVN3zsdH) | [Kendra Smith](https://open.spotify.com/artist/4baSCyV2xPPhakoOEOltou) | [Five Ways of Disappearing](https://open.spotify.com/album/6WmyaI6ciyv0XPfyQtf2NE) | 5:33 |
 | 52 | [Sweet Unknown](https://open.spotify.com/track/1LpI5TBhhS8VAOebXksrPy) | [The Hope Blister](https://open.spotify.com/artist/0xm0RDlfj87r1uPa7srs33) | [...Smile's OK](https://open.spotify.com/album/2jccmYwkig1OPAeZte5cGi) | 4:17 |
 | 53 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 |
 | 54 | [Exit Music \(For a Film\)](https://open.spotify.com/track/4Na0siMtWOW9pJoWJ1Ponv) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 4:27 |

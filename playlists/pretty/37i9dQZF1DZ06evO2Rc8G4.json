@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 169832,
+  "num_followers": 169840,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAAR8FymnlDwrT55DwpaXQi5",
+  "snapshot_id": "aTdmgAAAAAAtMUW4O36nrVzcbSa037sL",
   "tracks": [
     {
       "added_at": null,
@@ -255,26 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/45ExIGcQlVPWC6jG9RYlrh"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Jason Donovan",
-          "url": "https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4"
-        }
-      ],
-      "duration_ms": 240370,
-      "name": "Especially for You",
-      "url": "https://open.spotify.com/track/4FtZb8xUFjcgjfnNR9xUau"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stampede",
         "url": "https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 211525,
       "name": "Midnight Ride",
       "url": "https://open.spotify.com/track/6J26td5uctWg0UlzdzCj7Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/45ExIGcQlVPWC6jG9RYlrh"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Jason Donovan",
+          "url": "https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4"
+        }
+      ],
+      "duration_ms": 240370,
+      "name": "Especially for You",
+      "url": "https://open.spotify.com/track/4FtZb8xUFjcgjfnNR9xUau"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension II",
-        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
+        "name": "I Believe in You",
+        "url": "https://open.spotify.com/album/0CiGpBVREJ9teXHMFMabgC"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 154706,
-      "name": "Someone For Me",
-      "url": "https://open.spotify.com/track/4RqWoB5cfvROXfgO8pYKzL"
+      "duration_ms": 200973,
+      "name": "I Believe in You",
+      "url": "https://open.spotify.com/track/1AKJnUOmNwlyXzOYptQhwx"
     },
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Believe in You",
-        "url": "https://open.spotify.com/album/0CiGpBVREJ9teXHMFMabgC"
+        "name": "Tension II",
+        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 200973,
-      "name": "I Believe in You",
-      "url": "https://open.spotify.com/track/1AKJnUOmNwlyXzOYptQhwx"
+      "duration_ms": 162253,
+      "name": "Lights Camera Action",
+      "url": "https://open.spotify.com/track/1vbhiBKv5Tyfx75BOoTbdU"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension II",
-        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 162253,
-      "name": "Lights Camera Action",
-      "url": "https://open.spotify.com/track/1vbhiBKv5Tyfx75BOoTbdU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Timebomb",
         "url": "https://open.spotify.com/album/1KFhdsYYnLd5nJGNSNg4Tl"
       },
@@ -495,22 +479,6 @@
       "duration_ms": 176240,
       "name": "Timebomb",
       "url": "https://open.spotify.com/track/5iXlbg16Fw84K2FwPsokzj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rhythm of Love",
-        "url": "https://open.spotify.com/album/30YW6lNcviVzg3FAF2kAXI"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 233362,
-      "name": "Better the Devil You Know",
-      "url": "https://open.spotify.com/track/1uiQNFERY6n5FxIEPGxzwA"
     },
     {
       "added_at": null,
@@ -540,9 +508,25 @@
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 189093,
-      "name": "Good As Gone",
-      "url": "https://open.spotify.com/track/43NWJe8jWCv6BhxmPep4gy"
+      "duration_ms": 154706,
+      "name": "Someone For Me",
+      "url": "https://open.spotify.com/track/4RqWoB5cfvROXfgO8pYKzL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rhythm of Love",
+        "url": "https://open.spotify.com/album/30YW6lNcviVzg3FAF2kAXI"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 233362,
+      "name": "Better the Devil You Know",
+      "url": "https://open.spotify.com/track/1uiQNFERY6n5FxIEPGxzwA"
     },
     {
       "added_at": null,
@@ -579,6 +563,22 @@
       "duration_ms": 300666,
       "name": "Chocolate",
       "url": "https://open.spotify.com/track/3RCX4p7p2WMjzxFGjoxY28"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tension II",
+        "url": "https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Good As Gone",
+      "url": "https://open.spotify.com/track/43NWJe8jWCv6BhxmPep4gy"
     },
     {
       "added_at": null,
@@ -621,7 +621,7 @@
         }
       ],
       "duration_ms": 181146,
-      "name": "My Oh My (with Bebe Rexha & Tove Lo)",
+      "name": "My Oh My - with Bebe Rexha & Tove Lo",
       "url": "https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP"
     },
     {
@@ -705,7 +705,7 @@
         }
       ],
       "duration_ms": 262893,
-      "name": "Real Groove (Studio 2054 Remix)",
+      "name": "Real Groove - Studio 2054 Remix",
       "url": "https://open.spotify.com/track/2AaMtxb9ipiZO6ItN1bJrq"
     },
     {

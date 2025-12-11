@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "A Moment of Peace",
+        "url": "https://open.spotify.com/album/39E4FKykNiCeUheicVL3On"
+      },
+      "artists": [
+        {
+          "name": "Joseph Fina",
+          "url": "https://open.spotify.com/artist/5BZjycpMPqgrPbJJq43szv"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134114,
+      "name": "A Moment of Peace",
+      "url": "https://open.spotify.com/track/3rVwDrLrVPL5igVD1jdInR"
+    },
+    {
+      "album": {
         "name": "A Quiet Triumph",
         "url": "https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj"
       },

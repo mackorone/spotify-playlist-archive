@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: Valentina Pesaresi
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,122 likes - 101 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,097 likes - 101 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 55 | [Buona Vita](https://open.spotify.com/track/23xdTDG6UCik1RWC5ye9wL) | [soap](https://open.spotify.com/artist/1HHQ5Lz44duNiQmpzKU0jd) | [Buona Vita](https://open.spotify.com/album/2M68rKgcpb3lcg69qXwgdc) | 2:45 |
 | 56 | [Taki](https://open.spotify.com/track/3MWVpWO4ecGNoiQo0xDV1v) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [Taki](https://open.spotify.com/album/4saRCI8Q95GWExjjO8FAJc) | 2:33 |
 | 57 | [BELLA MADONNINA](https://open.spotify.com/track/6hk4cRUBmCApsRNPP4DNFU) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [BELLA MADONNINA](https://open.spotify.com/album/5YlhFIV83wsndnCY4e7L3D) | 2:42 |
-| 58 | [a me mi piace \(feat\. Manu Chao\)](https://open.spotify.com/track/2QtnkkxwmsGm84fPAx8uTP) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [a me mi piace \(feat\. Manu Chao\)](https://open.spotify.com/album/50KsSqMmKIcModa3dbbNzW) | 2:20 |
+| 58 | [a me mi piace \(feat\. Manu Chao\)](https://open.spotify.com/track/2QtnkkxwmsGm84fPAx8uTP) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [a me mi piace](https://open.spotify.com/album/50KsSqMmKIcModa3dbbNzW) | 2:20 |
 | 59 | [Ragazzina](https://open.spotify.com/track/7FyxANPDgfcq4TXH4pDzRv) | [Trigno](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R) | [Ragazzina](https://open.spotify.com/album/6WE48UOg2niHYQjmGqWhU9) | 3:12 |
 | 60 | [SONO IO](https://open.spotify.com/track/7IGY8vi1QYTg8DHAF3UHVK) | [Dheo](https://open.spotify.com/artist/4cqOx4TqvaYkvSBIjoaeCf) | [LA STESSA COSA](https://open.spotify.com/album/1PBlLBOKV76JvG0RILY2iz) | 2:38 |
 | 61 | [velo sugli occhi](https://open.spotify.com/track/5C2xHN8kdVt4isVqLFZM8z) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [caramé](https://open.spotify.com/album/2quUnR742DXfpRAEUiq6le) | 2:37 |

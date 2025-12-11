@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 859,338 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 859,364 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 87 | [Tô de Boa \- Ao vivo](https://open.spotify.com/track/19u7ucz8tazDZL1daf5y23) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Vou pro Sereno](https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 2:52 |
 | 88 | [Ficamento \- Ao Vivo](https://open.spotify.com/track/4GnJbKg09MLvUtf85SCevB) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo\)](https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j) | 2:28 |
 | 89 | [Buzina \- Ao Vivo](https://open.spotify.com/track/2fK6kCPjXbQHReLi3H64xa) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/album/5oFcg58VXbLAvFFHEy4hd4) | 2:42 |
-| 90 | [Esse Barulho](https://open.spotify.com/track/67fTDdGkHk1G5IZokS4uML) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Pra Ouvir Tomando uma 3, Vol\. 1](https://open.spotify.com/album/3hJSkysKvEixdL54qbpj5m) | 2:24 |
-| 91 | [Aquele 1% \- Ao Vivo](https://open.spotify.com/track/0Eu1DRLKILhNqsYh48a2DP) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Duetos \(Ao Vivo\)](https://open.spotify.com/album/659HNwQlvbAt8vGOPDJspp) | 2:56 |
-| 92 | [Teste de Farmácia \- Ao Vivo](https://open.spotify.com/track/0ZwGhDJHceKPvg3UAb5OMQ) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston \(Ao Vivo\)](https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo) | 2:38 |
+| 90 | [Aquele 1% \- Ao Vivo](https://open.spotify.com/track/0Eu1DRLKILhNqsYh48a2DP) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Duetos \(Ao Vivo\)](https://open.spotify.com/album/659HNwQlvbAt8vGOPDJspp) | 2:56 |
+| 91 | [Teste de Farmácia \- Ao Vivo](https://open.spotify.com/track/0ZwGhDJHceKPvg3UAb5OMQ) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco in Boston \(Ao Vivo\)](https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo) | 2:38 |
+| 92 | [Esse Barulho](https://open.spotify.com/track/67fTDdGkHk1G5IZokS4uML) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Pra Ouvir Tomando uma 3, Vol\. 1](https://open.spotify.com/album/3hJSkysKvEixdL54qbpj5m) | 2:24 |
 | 93 | [Recairei \- Ao Vivo](https://open.spotify.com/track/7KBzs7p4IqxQ3GS06TvOwG) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Conquistas \(Ao Vivo\)](https://open.spotify.com/album/1GAEkzl2H1mXS5byOsrc5f) | 2:46 |
 | 94 | [ME USA \- Ao Vivo](https://open.spotify.com/track/16kELcGATL5IWb5RylAxBI) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY \(Ao Vivo\)](https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX) | 2:38 |
 | 95 | [Pirata e Tesouro / Duas Paixões / Idem / Livre pra Voar / Oi Amor \- Ao Vivo](https://open.spotify.com/track/2SaRCZqpayygyXxKb5sAfH) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [Pirata e Tesouro / Duas Paixões / Idem / Livre pra Voar / Oi Amor \(Ao Vivo\)](https://open.spotify.com/album/2nUov8cvXReM3gpk3Os8PR) | 8:00 |

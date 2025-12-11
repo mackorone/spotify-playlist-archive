@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,346 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,357 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 29 | [River](https://open.spotify.com/track/72ZnJg7SjGkcMhsF3scV73) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [River](https://open.spotify.com/album/4fb2OzG3Eq0Xp9bwl6HycJ) | 4:05 |
 | 30 | [Blame It on the Mistletoe](https://open.spotify.com/track/2COaokC9QUFmEVf6dCeXAh) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [For Christmas](https://open.spotify.com/album/6ZAI9hpgCoNtxpF0cpup0G) | 3:18 |
 | 31 | [Oh Holy Night](https://open.spotify.com/track/1Vzqu0XeCu2PbIm561Yxok) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 2:17 |
-| 32 | [That Christmasy Feeling](https://open.spotify.com/track/28lWAOcNZRnYvSLRMUws0p) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Tommy Cash](https://open.spotify.com/artist/4BzpR8p9ihgMQBHZ1fYNlR) | [The Johnny Cash Family Christmas](https://open.spotify.com/album/6IzlXNgiKR8HIZT5aK2Oqd) | 2:13 |
-| 33 | [I Heard The Bells on Christmas Day](https://open.spotify.com/track/3Oi83xSgtotKahPSTUFdH3) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH), [Jay Buchanan](https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7) | [I Heard The Bells on Christmas Day](https://open.spotify.com/album/4o5J8wjJkPOhvDQoVLBGVe) | 3:09 |
+| 32 | [I Heard The Bells on Christmas Day](https://open.spotify.com/track/3Oi83xSgtotKahPSTUFdH3) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH), [Jay Buchanan](https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7) | [I Heard The Bells on Christmas Day](https://open.spotify.com/album/4o5J8wjJkPOhvDQoVLBGVe) | 3:09 |
+| 33 | [That Christmasy Feeling](https://open.spotify.com/track/28lWAOcNZRnYvSLRMUws0p) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Tommy Cash](https://open.spotify.com/artist/4BzpR8p9ihgMQBHZ1fYNlR) | [The Johnny Cash Family Christmas](https://open.spotify.com/album/6IzlXNgiKR8HIZT5aK2Oqd) | 2:13 |
 | 34 | [Lonely on Christmas](https://open.spotify.com/track/5PfYhLWG9tiLdcr4oPE9XH) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC), [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [Lonely on Christmas](https://open.spotify.com/album/3oG3oJqYCWBFeuBznwd4ft) | 3:09 |
 | 35 | [One Bright Star](https://open.spotify.com/track/1AArIMr7UDV8HJ7kS50zP1) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Christmas Grass \- The Collection](https://open.spotify.com/album/2D2t6OQacfD3XgKM2HlGOp) | 3:14 |
 | 36 | [Jingle Bell Rock](https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Rockin' Around The Christmas Tree / Jingle Bell Rock](https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN) | 2:23 |

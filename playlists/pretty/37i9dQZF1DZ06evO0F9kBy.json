@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 27433,
+  "num_followers": 27437,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAADj9VlHdiPlj1hCyXAGGeDd",
+  "snapshot_id": "aTdmgAAAAABQkbBgexCCkKlw9/H7FIbn",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empty And Beautiful",
-        "url": "https://open.spotify.com/album/7C4ZFwSLusbV8DhsDGqqNs"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 265386,
-      "name": "Your Grace Is Enough",
-      "url": "https://open.spotify.com/track/1sfSQ2d6rTsCSQ2cbBIj8r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cling To The Cross",
         "url": "https://open.spotify.com/album/74iDwShIeRexXTCcU1QCtY"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 248531,
       "name": "Cling To The Cross",
       "url": "https://open.spotify.com/track/0lHFEiEZRINPS3y8xXHkkn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Empty And Beautiful",
+        "url": "https://open.spotify.com/album/7C4ZFwSLusbV8DhsDGqqNs"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 265386,
+      "name": "Your Grace Is Enough",
+      "url": "https://open.spotify.com/track/1sfSQ2d6rTsCSQ2cbBIj8r"
     },
     {
       "added_at": null,
@@ -523,6 +523,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Foundations (Live)",
+        "url": "https://open.spotify.com/album/45GjAZmIuUOsAkfSPEPNW6"
+      },
+      "artists": [
+        {
+          "name": "Worship Circle",
+          "url": "https://open.spotify.com/artist/413rdrGoO7cMzxZvwiFpos"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 289873,
+      "name": "Your Grace is Enough - Live",
+      "url": "https://open.spotify.com/track/0Kdp4tF3uto34upWjEYY4w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joyful Noise (feat. DOE) [Live]",
         "url": "https://open.spotify.com/album/0sCjoeW4EhfoMApELYKFOr"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 231586,
       "name": "Kyrie Eleison",
       "url": "https://open.spotify.com/track/29pV4KdhjtBuBu9KapmseW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Foundations (Live)",
-        "url": "https://open.spotify.com/album/45GjAZmIuUOsAkfSPEPNW6"
-      },
-      "artists": [
-        {
-          "name": "Worship Circle",
-          "url": "https://open.spotify.com/artist/413rdrGoO7cMzxZvwiFpos"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 289873,
-      "name": "Your Grace is Enough - Live",
-      "url": "https://open.spotify.com/track/0Kdp4tF3uto34upWjEYY4w"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All The People Said Amen",
-        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 365880,
-      "name": "Your Grace Is Enough/Here I Am Lord (Live)",
-      "url": "https://open.spotify.com/track/27TeIT5tc6vORm23A1gA4h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saints and Sinners",
         "url": "https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 190280,
       "name": "Abide With Me",
       "url": "https://open.spotify.com/track/0ocaDYnVGNWAvu037JI0Pt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 365880,
+      "name": "Your Grace Is Enough/Here I Am Lord (Live)",
+      "url": "https://open.spotify.com/track/27TeIT5tc6vORm23A1gA4h"
     },
     {
       "added_at": null,
@@ -939,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Jesus Is",
-        "url": "https://open.spotify.com/album/4wt596v2krOTyXqy1s1hcJ"
-      },
-      "artists": [
-        {
-          "name": "Alpha USA Music",
-          "url": "https://open.spotify.com/artist/6WCk6Dy4YXvEAncWcalS9M"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 259925,
-      "name": "Who Jesus Is",
-      "url": "https://open.spotify.com/track/4a6svF18UULlGpBB2m0WVt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Creation",
         "url": "https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 233080,
       "name": "Baptized",
       "url": "https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Jesus Is",
+        "url": "https://open.spotify.com/album/4wt596v2krOTyXqy1s1hcJ"
+      },
+      "artists": [
+        {
+          "name": "Alpha USA Music",
+          "url": "https://open.spotify.com/artist/6WCk6Dy4YXvEAncWcalS9M"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 259925,
+      "name": "Who Jesus Is",
+      "url": "https://open.spotify.com/track/4a6svF18UULlGpBB2m0WVt"
     },
     {
       "added_at": null,

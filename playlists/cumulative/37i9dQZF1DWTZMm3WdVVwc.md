@@ -4,7 +4,7 @@
 
 > 寒い冬は心を暖めるハートフルな楽曲をお供に。あなたの日々に音楽を。
 
-260 songs - 18 hr 16 min
+263 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [orion](https://open.spotify.com/track/6FHEL65apB44ucTqTfbhtG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [orion](https://open.spotify.com/album/1Vbibus80oIZ7GWnsYLNtp) | 4:43 | 2025-10-23 |  |
 | [Paper Crown](https://open.spotify.com/track/2fB0qwP98V9Yrv3mgR6IJJ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Paper Crown](https://open.spotify.com/album/7sQDzWYBQavRBvvamkslFe) | 3:12 | 2023-12-12 | 2024-02-07 |
 | [Pointless](https://open.spotify.com/track/44G9fSM6qI8zRoG6Qwn3eq) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:51 | 2023-12-12 | 2023-12-20 |
-| [Present](https://open.spotify.com/track/6haW837EW4wauotPmhUVAM) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Present](https://open.spotify.com/album/3SgSlkZv8rds5bMmD24AqD) | 2:58 | 2024-12-10 |  |
+| [Present](https://open.spotify.com/track/6haW837EW4wauotPmhUVAM) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Present](https://open.spotify.com/album/3SgSlkZv8rds5bMmD24AqD) | 2:58 | 2024-12-10 | 2025-12-11 |
 | [Pretender](https://open.spotify.com/track/58dxGXavrcagRqA58fNB0Z) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/2vwgYzudvFwyFe1Ho9gdUQ) | 5:26 | 2025-10-23 | 2025-10-25 |
 | [Razor Sharp](https://open.spotify.com/track/7ewZUzZQr5oiFxH5RcbwdJ) | [SUGIURUMN](https://open.spotify.com/artist/6SkHN5XI188oP4n7YhBRQm), [Jimme Armstrong](https://open.spotify.com/artist/4XJL3wjOswmJ2z5fu1TLof) | [Razor Sharp](https://open.spotify.com/album/1RdmMMGpxSXk5PFoh6F1mu) | 7:08 | 2023-12-12 | 2023-12-20 |
 | [Rely on winter](https://open.spotify.com/track/5PyzNTtWX0PXV7Q0HNtsVA) | [Saki Misaka](https://open.spotify.com/artist/3p6qvvJztwO1uCSnUSnpIC) | [Rely on winter](https://open.spotify.com/album/0jMjGRFQfkc7alrH6CyI5m) | 5:02 | 2023-12-19 | 2024-01-10 |
@@ -167,19 +167,21 @@
 | [たんぽぽ](https://open.spotify.com/track/0CyKFkdOh5Sqmtjf8CdbVL) | [松下洸平](https://open.spotify.com/artist/7awpVoD0w1oBBCDeGckNd1) | [R&ME](https://open.spotify.com/album/1d5Knm4BUcPigqlS98ocn3) | 4:13 | 2024-02-20 | 2025-10-24 |
 | [なごり雪](https://open.spotify.com/track/3ntXrq0GLtqddVD6Mais9H) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q), [Chitose Hajime](https://open.spotify.com/artist/0ii3SuIwfRs4pRH2sQ1J0U) | [福耳 THE BEST ACOUSTIC WORKS](https://open.spotify.com/album/6oH1VVOsOcDEEhhVbdCP6a) | 3:22 | 2025-10-24 |  |
 | [ばらの花](https://open.spotify.com/track/6iyKwsCmtdXvs19uKyBFfS) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [TEAM ROCK](https://open.spotify.com/album/0FJnTE821z9cp6edHW1pxB) | 5:01 | 2025-10-24 |  |
-| [ふれあうだけで 〜Always with you〜](https://open.spotify.com/track/0mxAShonBvdqpCTlZ1Amvu) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [FEVER](https://open.spotify.com/album/1vxnMxxHXdOtL6wYnpZGdm) | 4:06 | 2025-10-24 |  |
+| [ふれあうだけで 〜Always with you〜](https://open.spotify.com/track/0mxAShonBvdqpCTlZ1Amvu) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [FEVER](https://open.spotify.com/album/1vxnMxxHXdOtL6wYnpZGdm) | 4:06 | 2025-10-24 | 2025-12-11 |
 | [まっしろ](https://open.spotify.com/track/2PwOOgg8PavBNIWsPLIkr3) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [wizard](https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz) | 3:57 | 2024-01-30 |  |
 | [まっ白](https://open.spotify.com/track/1Wy03yAj72MppXCDNYWNYv) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [そうかな](https://open.spotify.com/album/543KpYnJUAHbMY8FgzjLf6) | 4:23 | 2023-12-12 |  |
-| [もうすぐ夜があける](https://open.spotify.com/track/5pwNKKm5rN04L5boM59llf) | [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [ケモノと魔法](https://open.spotify.com/album/3Lcdpg8rJFvlTYtybS7sxw) | 4:01 | 2025-10-24 |  |
+| [もうすぐ夜があける](https://open.spotify.com/track/5pwNKKm5rN04L5boM59llf) | [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [ケモノと魔法](https://open.spotify.com/album/3Lcdpg8rJFvlTYtybS7sxw) | 4:01 | 2025-10-24 | 2025-12-11 |
 | [やさしい舞踏会](https://open.spotify.com/track/1DSxhNf742bhxJzfhDuygH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SCOPE](https://open.spotify.com/album/4argo68WyfT6dGHp2ETKpm) | 4:54 | 2025-02-20 |  |
 | [ゆれる](https://open.spotify.com/track/5KqIUmgtUmFGlylW0cRiwc) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Dengaryu](https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru) | [ひとつになるとき](https://open.spotify.com/album/4wGwmvxA1aqH8Q5ObKN5oA) | 4:59 | 2025-10-24 |  |
 | [カブトムシ](https://open.spotify.com/track/2Os0vzke5CakbU3dkSHckx) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [カブトムシ](https://open.spotify.com/album/435g2ph49cnQXxyUbFbYTJ) | 5:13 | 2025-10-23 |  |
 | [クリスマスキャロルの頃には](https://open.spotify.com/track/41d7uC7xV3u82wMN0TOoGy) | [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [稲垣潤一25周年ベスト Rainy Voice](https://open.spotify.com/album/0dcJjG6zEoEJsaj90vM9Of) | 4:29 | 2025-10-23 |  |
 | [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/track/6lHajEScMpuYpc6TH6iQe4) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM), [ESME MORI](https://open.spotify.com/artist/76H8LGZ7isj2XG6ZRMYpzK), [Junichi Inagaki](https://open.spotify.com/artist/7tZ4vIF5bfR7cI1VOVPvpy) | [クリスマスキャロルの頃には COCKTAIL SOUNDS MIX](https://open.spotify.com/album/0pmb5QZgIJnpsNj6PvfEIE) | 3:11 | 2024-12-10 | 2025-10-25 |
+| [クリスマスソング](https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [シャンデリア](https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT) | 5:40 | 2025-12-11 |  |
 | [グッバイバイ](https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L) | [冨岡 愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [グッバイバイ](https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv) | 3:21 | 2024-02-20 | 2025-10-24 |
 | [サテライト](https://open.spotify.com/track/7HSvcRqLkfuPMnEYE94VSe) | [志摩陽立](https://open.spotify.com/artist/2XppGVZM0aitf8inKxorUG) | [サテライト](https://open.spotify.com/album/1rP1IeXCkGThqMLYsHW6xJ) | 5:19 | 2023-12-12 | 2023-12-20 |
 | [シンデレラボーイ](https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [レイジーサンデー](https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr) | 3:54 | 2025-10-23 |  |
 | [スカーレット](https://open.spotify.com/track/5snNa3VGFhT80VzkVNPKTG) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [フェイクファー](https://open.spotify.com/album/5ZBM9scaALwFaVODbGmPMc) | 3:33 | 2023-12-12 |  |
+| [スターサイン](https://open.spotify.com/track/7LsVLiojCVPKSjb7n5uwMj) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [スターサイン](https://open.spotify.com/album/740WJc46dcHEz0eVZDwj0b) | 4:26 | 2025-12-11 |  |
 | [スノースマイル](https://open.spotify.com/track/2l02YNthg1e2dyXrv8gacQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [ユグドラシル](https://open.spotify.com/album/6nAhyJYpMCLzRGeVLJrico) | 5:07 | 2023-12-12 |  |
 | [スノードーム](https://open.spotify.com/track/4OBzP1c7KL73CkLKmKziH0) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [スノードーム](https://open.spotify.com/album/1JiqiqZQkIlx8azFzzz3uV) | 3:18 | 2023-12-12 |  |
 | [チェリー](https://open.spotify.com/track/1ihCiJaXRl4f6Sy4LJov5z) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [インディゴ地平線](https://open.spotify.com/album/0GB573iZ4z6gre3eUJc56N) | 4:19 | 2025-10-23 | 2025-10-25 |
@@ -217,6 +219,7 @@
 | [冬夜のマジック](https://open.spotify.com/track/04vTS4khifc4SDKNMsWceR) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [冬夜のマジック](https://open.spotify.com/album/19mrSO2lXmuyCuVcQmgsy2) | 4:16 | 2025-10-24 |  |
 | [冬枯れのボレロ](https://open.spotify.com/track/7xkQJzI4hTZj0vK1G4vKi2) | [Naoto Inti Raymi](https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb) | [冬枯れのボレロ](https://open.spotify.com/album/3IT9wr6qYRawUAKkOrf5RL) | 3:49 | 2025-01-29 | 2025-05-03 |
 | [冬物語](https://open.spotify.com/track/2N6MR0SNYzGHlApOwbmA2w) | [Ketsumeishi](https://open.spotify.com/artist/4FyAgiZa3q0eeljDvcOXFh) | [ケツの嵐 ～冬BEST～](https://open.spotify.com/album/6iedA9ZZslROEaEjLFnesy) | 6:07 | 2025-10-23 |  |
+| [切ないラブソングはいらない](https://open.spotify.com/track/2OnBkllxuR4IdUyvxfPAk6) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [切ないラブソングはいらない](https://open.spotify.com/album/0sTRPhbGBFYuFpSw3DNTqN) | 3:55 | 2025-12-11 |  |
 | [君が好き](https://open.spotify.com/track/3eXHuJ6JHV7OKnyDyxeQ1F) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [君が好き](https://open.spotify.com/album/1DgqBQ9YmNFp0SCkvhE7jp) | 4:32 | 2025-10-24 |  |
 | [君と僕の挽歌 \- New York Ver.](https://open.spotify.com/track/5sLmVWxNX4CaRkYCsdKtxt) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y) | [さかいゆうのプレイリスト ［白と黒］](https://open.spotify.com/album/1YEB6EfeQrfG6qx1xpbUOB) | 5:53 | 2023-12-12 | 2024-01-17 |
 | [君の目、声](https://open.spotify.com/track/7xZkoRHEEnhQgFz37LjAUt) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [君の目、声](https://open.spotify.com/album/5WhzkiKwcckqnLBPWmfJiD) | 3:17 | 2024-01-23 | 2025-10-25 |

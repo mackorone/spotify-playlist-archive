@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 97058,
+  "num_followers": 97085,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "Club Negro",
+        "url": "https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda y Jos\u00e9",
+          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
+        }
+      ],
+      "duration_ms": 212097,
+      "name": "Rey de Reyes",
+      "url": "https://open.spotify.com/track/1V5YTw9TVDAqebL0COO7A2"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "Tu-Ku-Tu-Tu-Ku",
         "url": "https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 202272,
       "name": "Alegr\u00eda",
       "url": "https://open.spotify.com/track/1Ktzh5ku3Uej6jKls3cNWN"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Club Negro",
-        "url": "https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda y Jos\u00e9",
-          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
-        }
-      ],
-      "duration_ms": 212097,
-      "name": "Rey de Reyes",
-      "url": "https://open.spotify.com/track/1V5YTw9TVDAqebL0COO7A2"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
+        "name": "Club Negro",
+        "url": "https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda y Jos\u00e9",
+          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
+        }
+      ],
+      "duration_ms": 298697,
+      "name": "Violentao (Feat. Sheeqo Beat)",
+      "url": "https://open.spotify.com/track/1pFruucew24311dJNbcjMZ"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
         "name": "Tu-Ku-Tu-Tu-Ku",
         "url": "https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 185227,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/09E7BhLRJzvbZu764omlgl"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
-        "name": "Club Negro",
-        "url": "https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda y Jos\u00e9",
-          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
-        }
-      ],
-      "duration_ms": 298697,
-      "name": "Violentao (Feat. Sheeqo Beat)",
-      "url": "https://open.spotify.com/track/1pFruucew24311dJNbcjMZ"
     }
   ],
   "unique_name": "Fiesta Tribal",

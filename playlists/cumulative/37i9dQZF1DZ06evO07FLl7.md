@@ -4,7 +4,7 @@
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-126 songs - 7 hr 44 min
+127 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Paradoxo](https://open.spotify.com/track/6DkhnKObVAmjqTNSbFi4Ee) | [Rimas e Melodias](https://open.spotify.com/artist/3mkeZhsYgHmDg1l80UBOSJ), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Tatiana](https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8), [Karol de Souza](https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [Mayra Maldjian](https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk) | [Rimas & Melodias](https://open.spotify.com/album/55K5ih7JhMrNR6YecU84Vb) | 3:39 | 2024-02-08 | 2024-02-25 |
 | [Patrão](https://open.spotify.com/track/6qvJIyQ7VyA04jrIXEUarf) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Patrão](https://open.spotify.com/album/6NKfGwJVwcC6X0vcuzuIf7) | 3:38 | 2023-09-18 |  |
 | [Pegue na Mão de Isabel](https://open.spotify.com/track/02IN2mQslbKjd1DG9vOfSk) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 1:15 | 2024-11-18 | 2025-01-01 |
-| [Perfeito É o Mar](https://open.spotify.com/track/6KLaWP1J5jjCHYCdVaLm7R) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 3:09 | 2023-09-18 |  |
+| [Perfeito É o Mar](https://open.spotify.com/track/6KLaWP1J5jjCHYCdVaLm7R) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 3:09 | 2023-09-18 | 2025-12-11 |
+| [Perfeito É o Mar \- Ao Vivo](https://open.spotify.com/track/3shUMU2J7zVI8Bsvr3Pxc3) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Não é Só Isso \(Ao Vivo\)](https://open.spotify.com/album/7lrkQh5Pu4778kx6sx6Yll) | 3:41 | 2025-12-11 |  |
 | [Perigo](https://open.spotify.com/track/4hsE4edYcASyB8zUPzpiWJ) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/5QxMAMf9en3jK8sSb7RLPR) | 3:37 | 2025-11-24 |  |
 | [Perigo](https://open.spotify.com/track/62dj6pA6Tc7PYTpFhn3dLc) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v) | 3:37 | 2023-09-18 | 2025-11-24 |
 | [Pode Me Perdoar](https://open.spotify.com/track/2QmK2weO09GAb4qwCMF2w5) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 4:00 | 2024-03-28 | 2025-11-03 |

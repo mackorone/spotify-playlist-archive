@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 66265,
+  "num_followers": 66280,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAACLLrj0p1tyGMavLEYJ9pGQ",
+  "snapshot_id": "aTdmgAAAAAA8JYIuodUS5SuyTEusl8Qq",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 156640,
-      "name": "El Invencible",
-      "url": "https://open.spotify.com/track/43lAvFigqX6LF678oVPCBN"
+      "duration_ms": 218373,
+      "name": "Golondrina Viajera",
+      "url": "https://open.spotify.com/track/43p1EAcsehfb4eT6oSWhJs"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 218373,
-      "name": "Golondrina Viajera",
-      "url": "https://open.spotify.com/track/43p1EAcsehfb4eT6oSWhJs"
+      "duration_ms": 156640,
+      "name": "El Invencible",
+      "url": "https://open.spotify.com/track/43lAvFigqX6LF678oVPCBN"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuesta Arriba",
-        "url": "https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 236173,
-      "name": "Capricho Maldito",
-      "url": "https://open.spotify.com/track/1ErAOXMy6zdRam3O2WLsXj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Exitos Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 202840,
       "name": "Para Qu\u00e9 Quieres Que Vuelva",
       "url": "https://open.spotify.com/track/27WMmlAzzcQzj0IPrcXX4O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuesta Arriba",
+        "url": "https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "Capricho Maldito",
+      "url": "https://open.spotify.com/track/1ErAOXMy6zdRam3O2WLsXj"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castillo de Ilusi\u00f3n",
-        "url": "https://open.spotify.com/album/0UbMbsyZgnztk6z08mugvU"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/0LCgPftb1BoxaAmKe8RwY8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Eso o M\u00e1s",
         "url": "https://open.spotify.com/album/4k5tdo6nMpeMxS6SzOzjA3"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 187871,
       "name": "Es por Eso Que Te Quiero",
       "url": "https://open.spotify.com/track/2tbICfpEZEsBewG3hW2sCq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castillo de Ilusi\u00f3n",
+        "url": "https://open.spotify.com/album/0UbMbsyZgnztk6z08mugvU"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/0LCgPftb1BoxaAmKe8RwY8"
     },
     {
       "added_at": null,

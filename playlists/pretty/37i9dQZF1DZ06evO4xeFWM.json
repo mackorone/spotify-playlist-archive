@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 220122,
+  "num_followers": 220131,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAABs6keiTYXU+xnySvMZdnWO",
+  "snapshot_id": "aTdmgAAAAADcJdXlGeIhqpLAqadsoPF8",
   "tracks": [
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 270254,
-      "name": "Those Nights",
-      "url": "https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World Gone Mad (From Bright: The Album)",
         "url": "https://open.spotify.com/album/1eRw8LHFNcfucLRf0PWbHw"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 195700,
       "name": "World Gone Mad",
       "url": "https://open.spotify.com/track/1ZyQGXH9dZ4AecevHhKUxi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 270254,
+      "name": "Those Nights",
+      "url": "https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/5WpNa4vUaruzh0KISY4NkN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Planet Earth III (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2yiyCryQfCMScX04EdWbDu"
       },
@@ -615,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roots Of ReOrchestrated",
-        "url": "https://open.spotify.com/album/6F7mN2nWYIj4sAwTTOEFZY"
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
       },
       "artists": [
         {
@@ -624,9 +608,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 211746,
-      "name": "Good Grief - Live At Capitol Studios, Los Angeles / 2016",
-      "url": "https://open.spotify.com/track/22byEqX8buZheWfPKki5MW"
+      "duration_ms": 281866,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/5WpNa4vUaruzh0KISY4NkN"
     },
     {
       "added_at": null,
@@ -647,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+        "name": "Roots Of ReOrchestrated",
+        "url": "https://open.spotify.com/album/6F7mN2nWYIj4sAwTTOEFZY"
       },
       "artists": [
         {
@@ -656,9 +640,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 244135,
-      "name": "Fake It",
-      "url": "https://open.spotify.com/track/5OALp7wDh1vM2nza1qDArn"
+      "duration_ms": 211746,
+      "name": "Good Grief - Live At Capitol Studios, Los Angeles / 2016",
+      "url": "https://open.spotify.com/track/22byEqX8buZheWfPKki5MW"
     },
     {
       "added_at": null,
@@ -683,22 +667,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pompeii (Audien Remix)",
-        "url": "https://open.spotify.com/album/4QJKyqHqUUBWEGYD7wekvU"
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
       },
       "artists": [
         {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        },
-        {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
         }
       ],
-      "duration_ms": 352968,
-      "name": "Pompeii - Audien Remix",
-      "url": "https://open.spotify.com/track/2Kl1E3NdbzT7vVi93TffoX"
+      "duration_ms": 175880,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/7yrx5A6zDOsd7Bn02WvbLH"
     },
     {
       "added_at": null,
@@ -723,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+        "name": "Pompeii (Audien Remix)",
+        "url": "https://open.spotify.com/album/4QJKyqHqUUBWEGYD7wekvU"
       },
       "artists": [
         {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
         }
       ],
-      "duration_ms": 175880,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/7yrx5A6zDOsd7Bn02WvbLH"
+      "duration_ms": 352968,
+      "name": "Pompeii - Audien Remix",
+      "url": "https://open.spotify.com/track/2Kl1E3NdbzT7vVi93TffoX"
     },
     {
       "added_at": null,
@@ -755,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 244135,
+      "name": "Fake It",
+      "url": "https://open.spotify.com/track/5OALp7wDh1vM2nza1qDArn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vacation",
         "url": "https://open.spotify.com/album/08RH5oSOsDss5CuJBzaPzz"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 234410,
       "name": "Won't Let You Go",
       "url": "https://open.spotify.com/track/70F7cMgI25aFyipi4HsjoJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u201c&\u201d (Ampersand)",
+        "url": "https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "Eve & Paradise Lost",
+      "url": "https://open.spotify.com/track/3nsAgjl7PI0bcbdY6sDczi"
     },
     {
       "added_at": null,
@@ -811,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u201c&\u201d (Ampersand)",
-        "url": "https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "Eve & Paradise Lost",
-      "url": "https://open.spotify.com/track/3nsAgjl7PI0bcbdY6sDczi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liar Liar (Feat. Bastille)",
         "url": "https://open.spotify.com/album/1Z63CEuNOQf5UIZ1LoI9fP"
       },
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me The Future + Dreams Of The Past",
-        "url": "https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "Hope For The Future",
-      "url": "https://open.spotify.com/track/4fpypp2U7V67RvzEJxXYe9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u201c&\u201d (Ampersand)",
         "url": "https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 233506,
       "name": "Intros & Narrators",
       "url": "https://open.spotify.com/track/2DvAtokcDWk3acZkRT7OZD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give Me The Future + Dreams Of The Past",
+        "url": "https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "Hope For The Future",
+      "url": "https://open.spotify.com/track/4fpypp2U7V67RvzEJxXYe9"
     }
   ],
   "unique_name": "This Is Bastille",

@@ -1922,7 +1922,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 92218,
       "name": "Little by little",
       "url": "https://open.spotify.com/track/48HO4B8qWGEIYS8Sn3T6ZX"
@@ -3494,6 +3494,28 @@
       "duration_ms": 184508,
       "name": "Two Birds",
       "url": "https://open.spotify.com/track/741vcthcgaNVlg9Vtvb2OL"
+    },
+    {
+      "album": {
+        "name": "Two Breath EP",
+        "url": "https://open.spotify.com/album/3w1FAdL9TmDrcXsYGbriYi"
+      },
+      "artists": [
+        {
+          "name": "WAZGOGG",
+          "url": "https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5"
+        },
+        {
+          "name": "Koshun Nakao",
+          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233846,
+      "name": "Two Breath",
+      "url": "https://open.spotify.com/track/5BJZMtXqjsM8TzWlkR43yo"
     },
     {
       "album": {

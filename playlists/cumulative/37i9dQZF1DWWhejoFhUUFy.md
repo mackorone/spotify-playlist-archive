@@ -4,7 +4,7 @@
 
 > Soft chill for the dreamy  ✨
 
-183 songs - 11 hr 8 min
+184 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Aise Kyun \- Ghazal Version](https://open.spotify.com/track/02wf1NAQdIpe5S1NJYPwvB) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Raj Shekhar](https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK), [Mismatched \- Cast](https://open.spotify.com/artist/0NbgKDsEHiPzZBZkqZGkXm) | [Mismatched: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX) | 5:29 | 2023-04-17 | 2024-04-19 |
 | [Aisi Raaton](https://open.spotify.com/track/0RSGPiykniIg8m7JhiAVv7) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L) | [Aisi Raaton](https://open.spotify.com/album/1m45OoirgSzgEF5sLT8i2R) | 3:38 | 2023-04-17 | 2025-02-05 |
 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 | 2023-04-17 |  |
+| [Aur Kya Chahiye](https://open.spotify.com/track/6BudRkYZ0VxGnKJbmBVEq3) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN) | [Aur Kya Chahiye](https://open.spotify.com/album/5ajvlIWZj5aHiZhSuQLXNe) | 3:53 | 2025-12-10 |  |
 | [Aziyat 2.0 \- Reprise Version](https://open.spotify.com/track/3fwyItGexa88kR8j76dIqv) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Aziyat 2.0 \(Reprise Version\)](https://open.spotify.com/album/6Pe9mPc7ynVPgtBWwLVXgL) | 3:14 | 2023-04-17 |  |
 | [Baaki](https://open.spotify.com/track/4xOUx15uKcn2583G3Kd1CO) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Rajan Batra](https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c) | [Baaki](https://open.spotify.com/album/4M4AZLajLYMgSFg1m4dgpY) | 3:51 | 2023-11-16 | 2023-12-14 |
 | [Baarish Aa Jaave](https://open.spotify.com/track/7pZPY9x0GDmTyJDD4tzahy) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Baarish Aa Jaave](https://open.spotify.com/album/1W8INhKzTvHZ62LPUq31Rv) | 2:38 | 2023-04-17 | 2024-12-10 |
@@ -145,7 +146,7 @@
 | [Roshni](https://open.spotify.com/track/2HG7HYy6d5aVAPoBNdWjs6) | [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd), [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx) | [NIKAMMA](https://open.spotify.com/album/0sco8sEz0VIAuAoJiHIAIp) | 3:51 | 2023-12-07 | 2024-03-23 |
 | [Saawali Si Raat](https://open.spotify.com/track/4I5Xcdu5Hnki1aP0Uxbs4n) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Barfi! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4) | 5:08 | 2023-04-17 | 2023-08-18 |
 | [Sab Rab](https://open.spotify.com/track/04fUBhT63GeEuOhoIONitJ) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Sab Rab](https://open.spotify.com/album/6d31ZraM2g9FyRvsmbxSGp) | 3:04 | 2023-10-16 | 2024-07-02 |
-| [Sadiyan \- I\-Popstar: Vol\. 1](https://open.spotify.com/track/2CoWmo3eVb0QCyikAvWmc0) | [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [I\-Popstar: Vol\. 1 \| Episodes 4&5](https://open.spotify.com/album/4DsJYycQbtvQ1iKULeISuO) | 3:29 | 2025-11-27 |  |
+| [Sadiyan \- I\-Popstar: Vol\. 1](https://open.spotify.com/track/2CoWmo3eVb0QCyikAvWmc0) | [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [I\-Popstar: Vol\. 1 \| Episodes 4&5](https://open.spotify.com/album/4DsJYycQbtvQ1iKULeISuO) | 3:29 | 2025-11-27 | 2025-12-11 |
 | [Sadqay](https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Sadqay](https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD) | 2:34 | 2024-04-23 | 2025-06-26 |
 | [Sang Rahiyo](https://open.spotify.com/track/45PA9lW7U5LYnlpGrdTyHY) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Ujjwal Kashyap](https://open.spotify.com/artist/6RzPQpJ5z2JkOJlmsCVxJq) | [Sang Rahiyo](https://open.spotify.com/album/1dkHqiypZzME8gcoJCAfWZ) | 3:33 | 2024-07-01 |  |
 | [Savera](https://open.spotify.com/track/4XA2TXEycTQL3xhPV7L2kt) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Savera](https://open.spotify.com/album/3JEj0JqpBIbAiIJ3SyADpd) | 2:23 | 2024-07-01 |  |

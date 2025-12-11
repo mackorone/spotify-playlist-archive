@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 
 > This is Victor Thompson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,796 likes - 44 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,794 likes - 45 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 | 22 | [Carry me like Baby](https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 |
 | 23 | [Reckless Love](https://open.spotify.com/track/3TgwaMBjmLa8T0DGZgVaoH) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ROOTED](https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s) | 4:47 |
 | 24 | [20Minutes Spontaneous Deep Worship](https://open.spotify.com/track/1vyk4mYWTCURI39om3hWvA) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [20Minutes Spontaneous Deep Worship](https://open.spotify.com/album/7Hgz8JX3QN8SBD6lecp6Rr) | 21:10 |
-| 25 | [MERCY](https://open.spotify.com/track/5F1ceJaNlwFysU0olsXAwb) | [Toluwanimee](https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [GOOD and MORE](https://open.spotify.com/album/3BBPaV1dRK6AbrZ9tf9amu) | 6:11 |
-| 26 | [Onyeoma](https://open.spotify.com/track/56bI295LwjNMrrMfCKUf8h) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [According To Brother Nwachukwu](https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY) | 3:13 |
+| 25 | [Onyeoma](https://open.spotify.com/track/56bI295LwjNMrrMfCKUf8h) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [According To Brother Nwachukwu](https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY) | 3:13 |
+| 26 | [MERCY](https://open.spotify.com/track/5F1ceJaNlwFysU0olsXAwb) | [Toluwanimee](https://open.spotify.com/artist/5dfvaMnwLZAGCIp6YNsgiI), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [GOOD and MORE](https://open.spotify.com/album/3BBPaV1dRK6AbrZ9tf9amu) | 6:11 |
 | 27 | [Absolutely Nothing](https://open.spotify.com/track/4yuCAyPTdA7zVVEeLy7x6Y) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ROOTED](https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s) | 3:54 |
 | 28 | [Take it All \- Live](https://open.spotify.com/track/3d2aoEEBIKBChppdlXRexU) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Take It All \(Live\)](https://open.spotify.com/album/46cyf59YkYoltsykKt0tEr) | 10:21 |
 | 29 | [Urhobo/Isoko Worship Medley](https://open.spotify.com/track/5f8gZfxdVnY8PEQQj0OisD) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Urhobo/Isoko Worship Medley](https://open.spotify.com/album/2zt8IYtst7tlmKowEtf9uY) | 6:03 |
@@ -50,7 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 | 40 | [Na You](https://open.spotify.com/track/1GaztXz2h5pFWjPwgqjWHg) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 2:44 |
 | 41 | [You are Lifted \(Spontaneous Worship\)](https://open.spotify.com/track/4O9kmanzq6i11XhGOyNXfN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [You are Lifted \(Spontaneous Worship\)](https://open.spotify.com/album/3GL93N3e9sBtznX6BIHzng) | 41:01 |
 | 42 | [My Back](https://open.spotify.com/track/0u2ggZsmOkA7CflvenfJBN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [My Back](https://open.spotify.com/album/1GgRlW2o7EDLwYYgfdSsgH) | 3:23 |
-| 43 | [Halle](https://open.spotify.com/track/3b8q3iDLUUTEzkexbVgkxy) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 2:49 |
-| 44 | [Nkosi](https://open.spotify.com/track/6q7FFADahpKakWjXGVBxco) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:02 |
+| 43 | [Help Me To Remember](https://open.spotify.com/track/5cq2NNiAb2WfVaCOjkATmG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Help Me To Remember](https://open.spotify.com/album/0CW4S74Fg0iIOCOfnO503P) | 3:29 |
+| 44 | [Halle](https://open.spotify.com/track/3b8q3iDLUUTEzkexbVgkxy) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 2:49 |
+| 45 | [Nkosi](https://open.spotify.com/track/6q7FFADahpKakWjXGVBxco) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:02 |
 
-Snapshot ID: `aTYVAAAAAABU8onMjmiAgs0gNwdhgXqp`
+Snapshot ID: `aTdmgAAAAAAS/DkS2f3fsJqae5ZpzVCf`

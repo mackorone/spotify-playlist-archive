@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Eerie Todd",
+        "url": "https://open.spotify.com/album/51YZe3vuCfsYdtqJnHMxTd"
+      },
+      "artists": [
+        {
+          "name": "Opal Tribe",
+          "url": "https://open.spotify.com/artist/1bBQKUoCtoYlgz24976Jvd"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270623,
+      "name": "Eerie Todd",
+      "url": "https://open.spotify.com/track/6whH6etmbTlFgATsxMF7oC"
+    },
+    {
+      "album": {
         "name": "El Roi",
         "url": "https://open.spotify.com/album/6Y4jD74w37QHqwuf0zFD9y"
       },

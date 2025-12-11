@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The 50 best Latin songs from independent artists in 2025, as chosen by our editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,447 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,474 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Un Recuerdo +](https://open.spotify.com/track/0gT4OX3vTRmEDC1bSiPbRA) | [LIESSA](https://open.spotify.com/artist/6u28t5SJhQU96uzrgjsgsu) | [Un Recuerdo +](https://open.spotify.com/album/1epumk4CEFAuLBkPMkMBaf) | 3:00 |
 | 50 | [Eso no me salva de sentir tantas cosas](https://open.spotify.com/track/6HdU1up55esLPak28EP5Wg) | [Maria Nastenka](https://open.spotify.com/artist/3lBHS637GuNHZBVR3GIv1t) | [Eso no me salva de sentir tantas cosas](https://open.spotify.com/album/2HNQjOXOOWCwMs5fNcRrab) | 2:26 |
 
-Snapshot ID: `AAAAAJQEKnM8x6MQ5GQjy+dVo9lzZmxd`
+Snapshot ID: `AAAAAGchvU5wYQf4MFWz0JmCTbIxSwwg`

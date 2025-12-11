@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1216052,
+  "num_followers": 1216184,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAABDWhI3qRrvrexJ6rwofk+",
+  "snapshot_id": "aTdmgAAAAABOAdxF8SzjvKNeCX/s0CMJ",
   "tracks": [
     {
       "added_at": null,
@@ -231,26 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Happy Dictator (feat. Sparks)",
-        "url": "https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Sparks",
-          "url": "https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH"
-        }
-      ],
-      "duration_ms": 284775,
-      "name": "The Happy Dictator (feat. Sparks)",
-      "url": "https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 193463,
       "name": "Tormenta (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Happy Dictator (feat. Sparks)",
+        "url": "https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Sparks",
+          "url": "https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH"
+        }
+      ],
+      "duration_ms": 284775,
+      "name": "The Happy Dictator (feat. Sparks)",
+      "url": "https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d"
     },
     {
       "added_at": null,
@@ -311,6 +311,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Cracker Island (feat. Thundercat)",
+      "url": "https://open.spotify.com/track/4J3I4jpAtNjsclcs99jzeF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Plastic Beach",
         "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
       },
@@ -331,26 +351,6 @@
       "duration_ms": 227213,
       "name": "Plastic Beach (feat. Mick Jones and Paul Simonon)",
       "url": "https://open.spotify.com/track/2nZ33CKRbgpJQJJQKHuGXb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cracker Island",
-        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Cracker Island (feat. Thundercat)",
-      "url": "https://open.spotify.com/track/4J3I4jpAtNjsclcs99jzeF"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gorillaz",
+        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "Tomorrow Comes Today",
+      "url": "https://open.spotify.com/track/6BL4PpswVjH9BAajbIbpmZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Plastic Beach",
         "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 270520,
       "name": "Stylo (feat. Mos Def and Bobby Womack)",
       "url": "https://open.spotify.com/track/6LUfuyLgvgqrykiTE6sJHY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gorillaz",
-        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "Tomorrow Comes Today",
-      "url": "https://open.spotify.com/track/6BL4PpswVjH9BAajbIbpmZ"
     },
     {
       "added_at": null,
@@ -475,6 +475,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Now Now",
+        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Humility (feat. George Benson)",
+      "url": "https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Plastic Beach",
         "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
       },
@@ -495,26 +515,6 @@
       "duration_ms": 174866,
       "name": "Superfast Jellyfish (feat. Gruff Rhys and De La Soul)",
       "url": "https://open.spotify.com/track/1UJNbgfTzG1gZZTWFJdMf1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Now Now",
-        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Humility (feat. George Benson)",
-      "url": "https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Manifesto (feat. Trueno and Proof)",
-        "url": "https://open.spotify.com/album/7HBn6PIN42sUmSe6Ao694s"
+        "name": "Cracker Island (Deluxe)",
+        "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
       },
       "artists": [
         {
@@ -676,17 +676,13 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/1W7G3vXPeISR3Oi9ggVfyE"
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
         }
       ],
-      "duration_ms": 206516,
-      "name": "The Manifesto (feat. Trueno and Proof), Pt. 1",
-      "url": "https://open.spotify.com/track/4oZp2U3K7lxN1GWWYJbtbV"
+      "duration_ms": 150316,
+      "name": "Controllah (feat. MC Bin Laden)",
+      "url": "https://open.spotify.com/track/3BmGfswCrv2p1It4oCdtU6"
     },
     {
       "added_at": null,
@@ -743,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cracker Island (Deluxe)",
-        "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
+        "name": "The Manifesto (feat. Trueno and Proof)",
+        "url": "https://open.spotify.com/album/7HBn6PIN42sUmSe6Ao694s"
       },
       "artists": [
         {
@@ -752,13 +748,17 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "MC Bin Laden",
-          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/1W7G3vXPeISR3Oi9ggVfyE"
         }
       ],
-      "duration_ms": 150316,
-      "name": "Controllah (feat. MC Bin Laden)",
-      "url": "https://open.spotify.com/track/3BmGfswCrv2p1It4oCdtU6"
+      "duration_ms": 206516,
+      "name": "The Manifesto (feat. Trueno and Proof), Pt. 1",
+      "url": "https://open.spotify.com/track/4oZp2U3K7lxN1GWWYJbtbV"
     },
     {
       "added_at": null,

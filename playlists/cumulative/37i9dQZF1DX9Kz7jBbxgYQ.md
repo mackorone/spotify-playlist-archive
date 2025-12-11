@@ -4,7 +4,7 @@
 
 > Home to the best of South Asian Indie scene\. Cover: Parvaaz
 
-382 songs - 21 hr 25 min
+383 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [All I Need](https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:33 | 2022-05-20 | 2023-01-13 |
 | [anay wala kal/ghubaray](https://open.spotify.com/track/5oLXoUvHMQ7CQw5kUbPOSu) | [Rutaba Yaqub](https://open.spotify.com/artist/1jA3YcX1zKWTaWL7wp3PqI) | [anay wala kal/ghubaray](https://open.spotify.com/album/31lIz2jbV3iZJBs1YxnDyI) | 3:41 | 2022-05-20 | 2023-03-14 |
 | [Andaz E Karam](https://open.spotify.com/track/5z8KuGkXVelJFPxtpzyXJf) | [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm), [HAVI](https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4) | [Andaz E Karam](https://open.spotify.com/album/0GKiJHE5yAM4UUoILWLWZm) | 4:48 | 2024-10-23 | 2024-11-08 |
+| [Aur Kya Chahiye](https://open.spotify.com/track/6BudRkYZ0VxGnKJbmBVEq3) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN) | [Aur Kya Chahiye](https://open.spotify.com/album/5ajvlIWZj5aHiZhSuQLXNe) | 3:53 | 2025-12-10 |  |
 | [Aziyat](https://open.spotify.com/track/5DEp8hauuZ45oG38YOkkQq) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Aziyat](https://open.spotify.com/album/45ClrZZAaxYdWMG5FqsjfB) | 3:41 | 2023-01-12 |  |
 | [Baarish Ka Asar](https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baarish Ka Asar](https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj) | 4:05 | 2024-01-05 |  |
 | [Baarish Mein Phir](https://open.spotify.com/track/3PbjRHCyZmK84h0qMMIRPw) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Baarish Mein Phir](https://open.spotify.com/album/1Gayp4bOKWoJOc9wbGtEwv) | 2:56 | 2025-12-05 |  |
@@ -351,7 +352,7 @@
 | [Tittar Bittar](https://open.spotify.com/track/1IEqKWSF7CIPAOG8fsBdi7) | [Enarsii](https://open.spotify.com/artist/1uMjEOhLtHOlPOcFsSrl70) | [Tittar Bittar](https://open.spotify.com/album/7Ch7CBPwb3pKALwumKVnhw) | 2:49 | 2025-02-18 | 2025-04-19 |
 | [Toh Kya Ye Teh Hai](https://open.spotify.com/track/682n0ZYSJuHmxJ28Mxn7qK) | [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92) | [Toh Kya Ye Teh Hai](https://open.spotify.com/album/1vSk0RPSgkloOaJzNUsJ69) | 3:47 | 2023-02-28 | 2023-03-02 |
 | [Tu](https://open.spotify.com/track/2kleSbAWlMuc9NKtgLYibe) | [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw) | [Tu](https://open.spotify.com/album/5v5bByuOtxvqAeR5VAPoCd) | 2:53 | 2024-10-15 | 2024-10-24 |
-| [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 | 2023-10-19 |  |
+| [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 | 2023-10-19 | 2025-12-11 |
 | [Tu hai kahan \(feat\. ZAYN\)](https://open.spotify.com/track/7K6RLbkpqZI4OaoSnLcBiU) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Tu hai kahan \(feat\. ZAYN\)](https://open.spotify.com/album/64TpPq3QgOQUaX3GSNMEYt) | 4:29 | 2024-01-19 | 2025-07-22 |
 | [Tu hi hai](https://open.spotify.com/track/36DwegUM4ExV8aNhB6jW5e) | [Twinkle Aggrwal](https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG) | [Tu hi hai](https://open.spotify.com/album/4BhDcGwNs1g3zfcqoOEbIZ) | 3:07 | 2025-01-21 |  |
 | [Tu Kahaan Hai?](https://open.spotify.com/track/2UmL7Lg9B1vpDQoopwfYcD) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Tu Kahaan Hai?](https://open.spotify.com/album/7wnywQW8a2YFp2gpsaiC19) | 3:11 | 2023-07-24 | 2023-09-09 |

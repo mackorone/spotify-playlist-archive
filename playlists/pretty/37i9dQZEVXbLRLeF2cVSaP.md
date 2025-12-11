@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,496 likes - 50 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,500 likes - 50 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Casino](https://open.spotify.com/track/15AvaqwdQNlozX2RTVk9yx) | [Icegergert](https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r) | [Ave](https://open.spotify.com/album/75aK5xBLi3LqXuUrHU0RCr) | 1:57 |
 | 50 | [Дефффчонки](https://open.spotify.com/track/5HsqrOC7VaIdBMbrUeMY41) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [Скучаю, Но Ещё Работаю](https://open.spotify.com/album/7kLb2XBbn4ufPoqbFmAfAw) | 2:54 |
 
-Snapshot ID: `MMuVUAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MMzm0AAAAAAAAAAAAAAAAAAAAAAAAGVu`

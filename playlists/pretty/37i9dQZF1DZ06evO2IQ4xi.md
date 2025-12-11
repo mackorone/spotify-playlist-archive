@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 
 > This is Doechii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,825 likes - 42 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,846 likes - 42 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 19 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 |
 | 20 | [WAIT](https://open.spotify.com/track/3bnEbEdttscDToE3I8yOZD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 3:04 |
 | 21 | [MPH](https://open.spotify.com/track/6ziMwlEb8Q7vytSn4hYTe9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [MPH](https://open.spotify.com/album/05VbJ2wHHANXOdvEHiBr3q) | 1:59 |
-| 22 | [Pro Freak \(with Doechii, Fatman Scoop\)](https://open.spotify.com/track/16jl1W58vcK8Jd5ZGbvd5f) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 4:28 |
-| 23 | [Yucky Blucky Fruitcake](https://open.spotify.com/track/1j3SdMJfeRJXycCp50boYE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 4:35 |
+| 22 | [Yucky Blucky Fruitcake](https://open.spotify.com/track/1j3SdMJfeRJXycCp50boYE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 4:35 |
+| 23 | [Pro Freak \(with Doechii, Fatman Scoop\)](https://open.spotify.com/track/16jl1W58vcK8Jd5ZGbvd5f) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 4:28 |
 | 24 | [BULLFROG](https://open.spotify.com/track/27oSDhuYJWxdm9yjI6891v) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 1:34 |
 | 25 | [Swamp Bitches \(with Rico Nasty\)](https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [she / her / black bitch](https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb) | 3:00 |
-| 26 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 |
-| 27 | [Black Girl Memoir](https://open.spotify.com/track/6TmMjGz6kN1gHq1TCzkL6Z) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 3:40 |
+| 26 | [Black Girl Memoir](https://open.spotify.com/track/6TmMjGz6kN1gHq1TCzkL6Z) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 3:40 |
+| 27 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 |
 | 28 | [DEATH ROLL](https://open.spotify.com/track/4p3sIGdKAgRqrTvu3IpGnl) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:19 |
 | 29 | [EGYPT \- Remix](https://open.spotify.com/track/61b65LQ9rxhcMtDEusHPZL) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [EGYPT \(Remix\)](https://open.spotify.com/album/3XC0hyQcq2vsrpGXZKtGs2) | 2:45 |
 | 30 | [Stressed \- A COLORS SHOW](https://open.spotify.com/track/2LABRdDstu1xkm1A48PqX7) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Stressed \- A COLORS SHOW](https://open.spotify.com/album/5nhA2yEHizEgbcrhQANder) | 3:06 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 41 | [Universal Swamp Anthem](https://open.spotify.com/track/3vEzKZChwKqtMtnw0akleb) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Universal Swamp Anthem](https://open.spotify.com/album/4JHY4CcJw6HAzndCzZMaL1) | 2:31 |
 | 42 | [Oh The Places You'll Go](https://open.spotify.com/track/3yO5tcTaJcJwoWdlPfcacz) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 1:32 |
 
-Snapshot ID: `aTYVAAAAAABeVA7VEzrSZjGFBPjIn10w`
+Snapshot ID: `aTdmgAAAAAAldZMTDPFw9XDKT17NmSU/`

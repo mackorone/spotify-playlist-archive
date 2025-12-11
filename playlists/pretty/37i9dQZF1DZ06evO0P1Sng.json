@@ -1,12 +1,12 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 8226,
+  "num_followers": 8227,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAD1cqNsc41gHXGfVQly8IOj",
+  "snapshot_id": "aTdmgAAAAADj+/PSt4i14ZNiWKjjg0GZ",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Buzz Lightyear",
+        "url": "https://open.spotify.com/album/5GZUFukDPFGiRmVepQHjk7"
+      },
+      "artists": [
+        {
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "duration_ms": 253757,
+      "name": "Buzz Lightyear",
+      "url": "https://open.spotify.com/track/0kVRf1PsgGElhXAyWm0Js3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica 15",
         "url": "https://open.spotify.com/album/1FRHQdfzxbxAKjfh1jVLaK"
       },
@@ -179,34 +207,6 @@
       "duration_ms": 680816,
       "name": "Poesia Ac\u00fastica 15",
       "url": "https://open.spotify.com/track/1kolqJR4ZYYfuZy7v5GwBx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Buzz Lightyear",
-        "url": "https://open.spotify.com/album/5GZUFukDPFGiRmVepQHjk7"
-      },
-      "artists": [
-        {
-          "name": "Choice",
-          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 253757,
-      "name": "Buzz Lightyear",
-      "url": "https://open.spotify.com/track/0kVRf1PsgGElhXAyWm0Js3"
     },
     {
       "added_at": null,
@@ -635,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MC de Batalha",
-        "url": "https://open.spotify.com/album/2NNZqUGRmQEdAo8AyRQRRy"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "A.LBeats",
-          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
-        }
-      ],
-      "duration_ms": 188420,
-      "name": "MC de Batalha",
-      "url": "https://open.spotify.com/track/48sYhNCkx9es4AyTkIgHVJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desce & Sobe",
         "url": "https://open.spotify.com/album/4QSIqL32YPcxJPodgQdBSa"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 164571,
       "name": "Desce & Sobe",
       "url": "https://open.spotify.com/track/5ZUUFh13X6t1mJZfycWf8l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MC de Batalha",
+        "url": "https://open.spotify.com/album/2NNZqUGRmQEdAo8AyRQRRy"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "A.LBeats",
+          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
+        }
+      ],
+      "duration_ms": 188420,
+      "name": "MC de Batalha",
+      "url": "https://open.spotify.com/track/48sYhNCkx9es4AyTkIgHVJ"
     },
     {
       "added_at": null,
@@ -1139,6 +1139,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "2 Minutos",
+        "url": "https://open.spotify.com/album/5DPRUTrk79KG5HMKmsl6XQ"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
+        },
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        }
+      ],
+      "duration_ms": 215520,
+      "name": "2 Minutos",
+      "url": "https://open.spotify.com/track/3bZZd8qlz5WhRkxXfKxsw2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1910",
         "url": "https://open.spotify.com/album/2OpL0wEz7H75Yb62PLNF9g"
       },
@@ -1171,38 +1203,6 @@
       "duration_ms": 517894,
       "name": "1910",
       "url": "https://open.spotify.com/track/7HKydihmOppbDnnLlSJAbF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2 Minutos",
-        "url": "https://open.spotify.com/album/5DPRUTrk79KG5HMKmsl6XQ"
-      },
-      "artists": [
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Ryan Realcria",
-          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
-        },
-        {
-          "name": "Sobs",
-          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
-        },
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        }
-      ],
-      "duration_ms": 215520,
-      "name": "2 Minutos",
-      "url": "https://open.spotify.com/track/3bZZd8qlz5WhRkxXfKxsw2"
     },
     {
       "added_at": null,
@@ -1327,6 +1327,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Azzy On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/6s0KThTZpXuzg2Ww0BH1mV"
+      },
+      "artists": [
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 141923,
+      "name": "Azzy On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/6QLnn3fVXtn3YODq1Af0iI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e1 Influ\u00eancia",
         "url": "https://open.spotify.com/album/1enqkS1DrDducYiQkuYJWw"
       },
@@ -1355,30 +1379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Azzy On The Radar Freestyle",
-        "url": "https://open.spotify.com/album/6s0KThTZpXuzg2Ww0BH1mV"
-      },
-      "artists": [
-        {
-          "name": "On The Radar",
-          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 141923,
-      "name": "Azzy On The Radar Freestyle",
-      "url": "https://open.spotify.com/track/6QLnn3fVXtn3YODq1Af0iI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "R\u00edmel",
         "url": "https://open.spotify.com/album/2cqZQOpwquo3lu1aZXRkTQ"
       },
@@ -1399,26 +1399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Azzy (Ao Vivo no REP Festival)",
-        "url": "https://open.spotify.com/album/0hILiPum0Z7x4phAzYvRFx"
-      },
-      "artists": [
-        {
-          "name": "REP Festival",
-          "url": "https://open.spotify.com/artist/2V9BaqjysjWIIi3GePdYXu"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 106882,
-      "name": "Poesia Ac\u00fastica #11: Nada Mudou - Ao Vivo no REP Festival",
-      "url": "https://open.spotify.com/track/1KL1zF41NMIFaqiq9tBZOs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sua Inten\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/1wOwDz4f9eYZhZXG0KJgGS"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 131584,
       "name": "Sua Inten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4Yv4otyzNdft5wq4bMm3Xi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Azzy (Ao Vivo no REP Festival)",
+        "url": "https://open.spotify.com/album/0hILiPum0Z7x4phAzYvRFx"
+      },
+      "artists": [
+        {
+          "name": "REP Festival",
+          "url": "https://open.spotify.com/artist/2V9BaqjysjWIIi3GePdYXu"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 106882,
+      "name": "Poesia Ac\u00fastica #11: Nada Mudou - Ao Vivo no REP Festival",
+      "url": "https://open.spotify.com/track/1KL1zF41NMIFaqiq9tBZOs"
     },
     {
       "added_at": null,

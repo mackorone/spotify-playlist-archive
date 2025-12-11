@@ -3531,6 +3531,28 @@
     },
     {
       "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/6w6NUmlb68EbM1AyjEIoXS"
+      },
+      "artists": [
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        },
+        {
+          "name": "TRFN",
+          "url": "https://open.spotify.com/artist/5Wj4v7ri4aDONkGEIuo0zp"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135238,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/7koLP2DMvE3rmvFfjweYTb"
+    },
+    {
+      "album": {
         "name": "Feel Again, Pt. 1",
         "url": "https://open.spotify.com/album/25UHk7kHvvkRPvXmpkGaTd"
       },
@@ -7044,7 +7066,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 211273,
       "name": "Love Shop",
       "url": "https://open.spotify.com/track/2P7S7IZOIs70ApL9ddtYwL"
@@ -8055,6 +8077,24 @@
     },
     {
       "album": {
+        "name": "nocturnal",
+        "url": "https://open.spotify.com/album/6GNVg7nMm1kKw8kS2MNcOg"
+      },
+      "artists": [
+        {
+          "name": "Aaron Hibell",
+          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215734,
+      "name": "nocturnal",
+      "url": "https://open.spotify.com/track/0zpqJjeoccMVhzGuMqqz6G"
+    },
+    {
+      "album": {
         "name": "Not Over Yet (feat. Grace Grundy)",
         "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
       },
@@ -8454,7 +8494,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 228028,
       "name": "Only I",
       "url": "https://open.spotify.com/track/0vdrnfVsWCOtxOTO8z0vaV"

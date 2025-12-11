@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Weekly update for Indie releases\. Cover: Chet Faker
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,197 likes - 97 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,233 likes - 97 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Can You Swim?](https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Can You Swim?](https://open.spotify.com/album/3xiBXsB2pmzFwLh8WiWXEc) | 4:55 |
 | 2 | [Heaven Has No Wings](https://open.spotify.com/track/2Y4hGtm2AwkE0zge2CrqB8) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 2:50 |
-| 3 | [Colour On The Wall](https://open.spotify.com/track/5HE9cEXsyLuqSKptTd5RxV) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Colour On The Wall](https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT) | 3:18 |
-| 4 | [White Gloves ii](https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You ii](https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB) | 4:51 |
-| 5 | [Castle](https://open.spotify.com/track/6rjeSb8tAvgZZvGmQcQVOs) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Castle](https://open.spotify.com/album/5mYSajPEk2KpEvNajO4NST) | 2:50 |
-| 6 | [Bark](https://open.spotify.com/track/4uuoM3cpAJYuR8qCuf6DfT) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Bark](https://open.spotify.com/album/5x3TAHhEQoDNsNu2onC5mn) | 3:55 |
-| 7 | [Lipdance](https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now & Forever](https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0) | 3:35 |
+| 3 | [White Gloves ii](https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You ii](https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB) | 4:51 |
+| 4 | [Castle](https://open.spotify.com/track/6rjeSb8tAvgZZvGmQcQVOs) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Castle](https://open.spotify.com/album/5mYSajPEk2KpEvNajO4NST) | 2:50 |
+| 5 | [Bark](https://open.spotify.com/track/4uuoM3cpAJYuR8qCuf6DfT) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Bark](https://open.spotify.com/album/5x3TAHhEQoDNsNu2onC5mn) | 3:55 |
+| 6 | [Lipdance](https://open.spotify.com/track/5b2nQ3pCgh8hfM6DH2rt8S) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now & Forever](https://open.spotify.com/album/2Ez0tq5fIpDfI2L3jZQdU0) | 3:35 |
+| 7 | [Colour On The Wall](https://open.spotify.com/track/5HE9cEXsyLuqSKptTd5RxV) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Colour On The Wall](https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT) | 3:18 |
 | 8 | [High Road](https://open.spotify.com/track/70gjgZ9hREB49y3JnKMzAi) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [High Road](https://open.spotify.com/album/0LeC7dAH6ISyiqLzCVMkzO) | 3:26 |
 | 9 | [I Will Wait For You](https://open.spotify.com/track/7hiFzbTjQg3Xc1TrAAb7mR) | [Koa Rae](https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw) | [I Will Wait For You](https://open.spotify.com/album/1QSUuLr1vGrlLxu9yRk2nK) | 3:23 |
 | 10 | [Don't Get Quiet On My Soul](https://open.spotify.com/track/4qDfHx9SQyBQGF9XTzHRFl) | [Loupe](https://open.spotify.com/artist/23n2oObsIrvqtcOVwhyT3o) | [Oh, To Be Home](https://open.spotify.com/album/4tSrXCKbV6EXE9RVBgIqJs) | 3:09 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 96 | [California](https://open.spotify.com/track/2CVAdsRqhcvhoHez72K3Ap) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [California](https://open.spotify.com/album/5sD3YHYwddNakfaWUgxDoO) | 4:24 |
 | 97 | [Give Me More](https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Give Me More](https://open.spotify.com/album/42jsuMoNdmTPbr8msasO8e) | 3:10 |
 
-Snapshot ID: `AAAAAF1mizL73jETEoBK333J5aQY6FKe`
+Snapshot ID: `AAAAAMrhhQYHPjQne1VJ7HU267eef3HK`

@@ -1,6 +1,6 @@
 {
   "description": "A solid mix of favourites for any time, any place.",
-  "num_followers": 290203,
+  "num_followers": 290202,
   "original_name": "Even Flow",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-10-26 02:52:13",
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 199493,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
-    },
-    {
-      "added_at": "2022-10-26 02:52:13",
-      "album": {
         "name": "No Protection",
         "url": "https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 270333,
       "name": "Nothing's Gonna Stop Us Now",
       "url": "https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"
+    },
+    {
+      "added_at": "2022-10-26 02:52:13",
+      "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
     },
     {
       "added_at": "2022-10-26 02:52:13",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-10-26 02:52:13",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 226653,
-      "name": "Everywhere - 2017 Remaster",
-      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
-    },
-    {
-      "added_at": "2022-10-26 02:52:13",
-      "album": {
         "name": "An Innocent Man",
         "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
       },
@@ -491,18 +475,34 @@
     {
       "added_at": "2022-10-26 02:52:13",
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 216053,
-      "name": "Summer Of '69",
-      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
+      "duration_ms": 226653,
+      "name": "Everywhere - 2017 Remaster",
+      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
+    },
+    {
+      "added_at": "2022-10-26 02:52:13",
+      "album": {
+        "name": "Toto",
+        "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 235552,
+      "name": "Hold the Line",
+      "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
     },
     {
       "added_at": "2022-10-26 02:52:13",
@@ -523,18 +523,18 @@
     {
       "added_at": "2022-10-26 02:52:13",
       "album": {
-        "name": "Toto",
-        "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
       "artists": [
         {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 235552,
-      "name": "Hold the Line",
-      "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
+      "duration_ms": 216053,
+      "name": "Summer Of '69",
+      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
     },
     {
       "added_at": "2022-10-26 02:52:13",
@@ -619,8 +619,8 @@
     {
       "added_at": "2022-10-26 02:52:13",
       "album": {
-        "name": "Save Me, San Francisco (Golden Gate Edition)",
-        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
+        "name": "Drops Of Jupiter",
+        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
         }
       ],
-      "duration_ms": 216773,
-      "name": "Hey, Soul Sister",
-      "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
+      "duration_ms": 259933,
+      "name": "Drops of Jupiter (Tell Me)",
+      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
     },
     {
       "added_at": "2022-10-26 02:52:13",
@@ -699,8 +699,8 @@
     {
       "added_at": "2022-10-26 02:52:13",
       "album": {
-        "name": "Drops Of Jupiter",
-        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
+        "name": "Save Me, San Francisco (Golden Gate Edition)",
+        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
         }
       ],
-      "duration_ms": 259933,
-      "name": "Drops of Jupiter (Tell Me)",
-      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
+      "duration_ms": 216773,
+      "name": "Hey, Soul Sister",
+      "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
     },
     {
       "added_at": "2022-10-26 02:52:13",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-10-26 02:52:13",
       "album": {
-        "name": "Lungs (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 252818,
-      "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd"
-    },
-    {
-      "added_at": "2022-10-26 02:52:13",
-      "album": {
         "name": "Dream Your Life Away",
         "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
+    },
+    {
+      "added_at": "2022-10-26 02:52:13",
+      "album": {
+        "name": "Lungs (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 252818,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd"
     },
     {
       "added_at": "2022-10-26 02:52:13",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-10-26 02:52:13",
       "album": {
-        "name": "Face Value (Deluxe Editon)",
-        "url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 336453,
-      "name": "In The Air Tonight - 2015 Remastered",
-      "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
-    },
-    {
-      "added_at": "2022-10-26 02:52:13",
-      "album": {
         "name": "(What's The Story) Morning Glory? [Remastered]",
         "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
+    },
+    {
+      "added_at": "2022-10-26 02:52:13",
+      "album": {
+        "name": "Face Value (Deluxe Editon)",
+        "url": "https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 336453,
+      "name": "In The Air Tonight - 2015 Remastered",
+      "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
     },
     {
       "added_at": "2022-10-26 02:52:13",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-10-26 02:52:13",
       "album": {
+        "name": "Beautiful Trauma",
+        "url": "https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 269595,
+      "name": "What About Us",
+      "url": "https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb"
+    },
+    {
+      "added_at": "2022-10-26 02:52:13",
+      "album": {
         "name": "Homecoming",
         "url": "https://open.spotify.com/album/7eqBAR9pblivMBOI70q2um"
       },
@@ -1267,18 +1283,18 @@
     {
       "added_at": "2022-10-26 02:52:13",
       "album": {
-        "name": "Beautiful Trauma",
-        "url": "https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz"
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 269595,
-      "name": "What About Us",
-      "url": "https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb"
+      "duration_ms": 178000,
+      "name": "When I Come Around",
+      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
     },
     {
       "added_at": "2022-10-26 02:52:13",
@@ -1295,22 +1311,6 @@
       "duration_ms": 227266,
       "name": "Listen to the Music",
       "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
-    },
-    {
-      "added_at": "2022-10-26 02:52:13",
-      "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "When I Come Around",
-      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
     },
     {
       "added_at": "2022-10-26 02:52:13",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-10-26 02:52:13",
       "album": {
-        "name": "One of These Nights (2013 Remaster)",
-        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 291685,
-      "name": "One of These Nights - 2013 Remaster",
-      "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
-    },
-    {
-      "added_at": "2022-10-26 02:52:13",
-      "album": {
         "name": "Life Thru A Lens",
         "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 265000,
       "name": "Angels",
       "url": "https://open.spotify.com/track/1M2nd8jNUkkwrc1dgBPTJz"
+    },
+    {
+      "added_at": "2022-10-26 02:52:13",
+      "album": {
+        "name": "One of These Nights (2013 Remaster)",
+        "url": "https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 291685,
+      "name": "One of These Nights - 2013 Remaster",
+      "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
     },
     {
       "added_at": "2022-10-26 02:52:13",

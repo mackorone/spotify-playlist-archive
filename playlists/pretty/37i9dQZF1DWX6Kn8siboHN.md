@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 
 > ¡Viejitas pero bonitas! Qué suene el acordeón y el bajo sexto\. Ramón Ayala en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 948,019 likes - 150 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 948,317 likes - 150 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 13 | [Necesito Decírtelo](https://open.spotify.com/track/7L8S1GIS5CEysaT5zJUiMN) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [De Norte A Sur](https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw) | 3:29 |
 | 14 | [El Amor Soñado](https://open.spotify.com/track/587p8shYuTXUhThG3t9x60) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Me Gusta Vivir De Noche](https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd) | 2:44 |
 | 15 | [El Columpio](https://open.spotify.com/track/2OFmcOC5m9iAvt4kcdXBSz) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Invencible](https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB) | 3:19 |
-| 16 | [Morir De Amor](https://open.spotify.com/track/3opWtXcWfM3YFzrm0ffSII) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Morir De Amor](https://open.spotify.com/album/3AhuZYSOIefITqG353D25H) | 3:02 |
-| 17 | [El Palomito](https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 3:18 |
+| 16 | [El Palomito](https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 3:18 |
+| 17 | [Morir De Amor](https://open.spotify.com/track/3opWtXcWfM3YFzrm0ffSII) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Morir De Amor](https://open.spotify.com/album/3AhuZYSOIefITqG353D25H) | 3:02 |
 | 18 | [Si Yo Fuera Él](https://open.spotify.com/track/2mhV4BmW4uZWBS82bzqyFN) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Si Yo Fuera El](https://open.spotify.com/album/1AT0D64SmSe6CBCYtRKsBd) | 2:48 |
-| 19 | [Secuestro De Amor](https://open.spotify.com/track/6HXuOmqULXyiMeghRjiLsv) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro ..\. Secuestro De Amor](https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ) | 3:16 |
-| 20 | [La Puerta Negra](https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Gracias America Sin Fronteras](https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd) | 3:23 |
+| 19 | [La Puerta Negra](https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Gracias America Sin Fronteras](https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd) | 3:23 |
+| 20 | [Secuestro De Amor](https://open.spotify.com/track/6HXuOmqULXyiMeghRjiLsv) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro ..\. Secuestro De Amor](https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ) | 3:16 |
 | 21 | [Ni Que Valieras Tanto](https://open.spotify.com/track/4YEtrr6BJfUX61LrEBjgLK) | [El Poder Del Norte](https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x) | [A Ellas](https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u) | 3:32 |
 | 22 | [Viernes Sin Tu Amor](https://open.spotify.com/track/2Ud8SDPZjPI1QSMtOHw721) | [Vagon Chicano](https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k) | [Bodas De Engaño](https://open.spotify.com/album/2Kmg5CiuBTZxYPTEypKDpy) | 3:32 |
 | 23 | [Quiero Que Sepas](https://open.spotify.com/track/3aeYcDlH6mSwx7Nx63D7zS) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Ranchero](https://open.spotify.com/album/0AUmIwAzAwUXppgN2c7ceA) | 2:50 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 64 | [Los Años Viejos](https://open.spotify.com/track/6qMkl2h7yNZ3TsSuZcKBpR) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Los Años Viejos](https://open.spotify.com/album/3YBhOoGbY7QXM3hLQMKat7) | 4:09 |
 | 65 | [Era Cabrón El Viejo](https://open.spotify.com/track/39mFPN0z66M4azlAljnFHc) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Era Cabron El Viejo](https://open.spotify.com/album/4qkWGXtdS7AQDlqIpgjyP6) | 3:21 |
 | 66 | [Actos De Un Tonto](https://open.spotify.com/track/6X3uMhKVvCXhVxuUql4Vlh) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [35 Aniversario](https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh) | 3:47 |
-| 67 | [La Rubia Y La Morena](https://open.spotify.com/track/2aqsQyxUdXNQPvgWe6gqON) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [30 Primeros Exitos](https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf) | 3:15 |
-| 68 | [Acepto Mi Derrota](https://open.spotify.com/track/04WZrScUUzNGXExDtUrQe5) | [El Poder Del Norte](https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x) | [Aquí Están!..](https://open.spotify.com/album/05XTL5zW5DH7JvoFrRLPnF) | 3:29 |
+| 67 | [Acepto Mi Derrota](https://open.spotify.com/track/04WZrScUUzNGXExDtUrQe5) | [El Poder Del Norte](https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x) | [Aquí Están!..](https://open.spotify.com/album/05XTL5zW5DH7JvoFrRLPnF) | 3:29 |
+| 68 | [La Rubia Y La Morena](https://open.spotify.com/track/2aqsQyxUdXNQPvgWe6gqON) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [30 Primeros Exitos](https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf) | 3:15 |
 | 69 | [Sólo una Patada](https://open.spotify.com/track/34x84kiFbL2pdwlGT8BYcd) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Casas de Madera](https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM) | 2:46 |
 | 70 | [Sabiendo Quien Era Yo](https://open.spotify.com/track/5zqqZn6KxTKYCONNQh7OWJ) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Exitos De Oro](https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP) | 3:32 |
 | 71 | [Que Tristeza Me Acompaña](https://open.spotify.com/track/12lb8hUUEOihoN94n01UHw) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 2:26 |
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 146 | [Arboles De La Barranca](https://open.spotify.com/track/0F9rCRUV6oHrFh0JQHnOLO) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Flor De Capomo](https://open.spotify.com/album/0qXYL3wUOR1QpdSbJQwXIK) | 2:21 |
 | 147 | [Los Dos Amigos](https://open.spotify.com/track/6V6lgegjsKlcbBcJWmIz2S) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G), [Homero Guerrero y Lupe Tijerina](https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE) | [12 Kilates Puros Corridos](https://open.spotify.com/album/5ZsOBQSfpD3odo1vSIUmMR) | 2:58 |
 | 148 | [Ven a Buscarme](https://open.spotify.com/track/2d6mgfqjZ9IfuWd5rp4oiM) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [El Chubasco](https://open.spotify.com/album/71Ll6GBL3J9JXn2hGjZbuc) | 2:20 |
-| 149 | [Que La Dejen Ir Al Baile](https://open.spotify.com/track/5coPwNRFIF2jCQN6G3zdgT) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Amor A La Ligera](https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm) | 2:27 |
+| 149 | [Bajo Mil Llaves](https://open.spotify.com/track/5sbfCd8LLNJtP4MeSA1JyX) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 2:26 |
 | 150 | [Chaparra De Mi Amor](https://open.spotify.com/track/6dNEvfhpiy394j8bZ4pSbT) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:11 |
 
 Snapshot ID: `AAAAAKcrrI2MB+GC9E7cFl8MHvEP3iDt`

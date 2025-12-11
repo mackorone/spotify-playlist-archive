@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 
 > für deinen soft morning \- oder eine kleine Auszeit zwischendurch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,888 likes - 65 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,815 likes - 65 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 64 | [Peace](https://open.spotify.com/track/0SSJhttofZRl1mCyA0yOiM) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Peace](https://open.spotify.com/album/0Y51sbINvBPVZfzuXbDrml) | 2:47 |
 | 65 | [Brother \(with Post Malone & YoungBoy Never Broke Again\)](https://open.spotify.com/track/6mGzRR8T7NQouNu7V37XMp) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Brother](https://open.spotify.com/album/6XfKpQ5ncl00Zn1fc4iLsJ) | 3:37 |
 
-Snapshot ID: `AAAAAPr9tNpoJnOLcfqfacQ+QPnro+zk`
+Snapshot ID: `AAAAALmiUl6Bz9gsjcmmSV1CzHip5f0K`

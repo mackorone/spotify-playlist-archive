@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: ZAH1DE
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,583 likes - 99 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,499 likes - 99 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 75 | [Hätte Hätte](https://open.spotify.com/track/3floWjGaGNDPvJF41s6wck) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Tagebuch](https://open.spotify.com/album/2W2W5TRADkqW39u9eppWtE) | 2:20 |
 | 76 | [Regen](https://open.spotify.com/track/4kL0ehedFQyYGeLxRrlWgR) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Regen](https://open.spotify.com/album/07FvGpqKYC4jrhG7nyQMBx) | 3:29 |
 | 77 | [Song 4 ft Ansu](https://open.spotify.com/track/2u9aJAojnjrhQfMtyjDv7v) | [$OHO BANI](https://open.spotify.com/artist/3KQylwDxYE7Vxli0BSuwaf), [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [Song 4 ft Ansu](https://open.spotify.com/album/7fu1RpJ4xkrAaKQs3BX0mI) | 2:55 |
-| 78 | [Hunde](https://open.spotify.com/track/1l9ENpcYemz9iAYy5ZuLu1) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Hunde](https://open.spotify.com/album/1qm0apTk5hpPINgNE0sxWO) | 2:43 |
+| 78 | [Hunde](https://open.spotify.com/track/1l9ENpcYemz9iAYy5ZuLu1) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Hunde](https://open.spotify.com/album/1qm0apTk5hpPINgNE0sxWO) | 2:42 |
 | 79 | [1 ADLER](https://open.spotify.com/track/36an2kIaMv6GW7UaNXTWTw) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [GDA](https://open.spotify.com/artist/2qWlUlfE7zEJM20ec5Dk9T) | [1 ADLER](https://open.spotify.com/album/1Qv1Tys8HdyaAbB6BBwIgf) | 3:18 |
 | 80 | [Baltimore \(feat\. Trettmann\)](https://open.spotify.com/track/1lvlYhCmRTUZc8oad9sflb) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [orange \(Deluxe Version\)](https://open.spotify.com/album/3FbK9vwNoNAQttEOQFWpZZ) | 2:21 |
 | 81 | [alle märchen sind gelogen](https://open.spotify.com/track/7qkjnUILqzn2GjkZfRcH7Z) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [alle märchen sind gelogen](https://open.spotify.com/album/6SL3jtI8KT2kgJeM46vrCD) | 2:45 |

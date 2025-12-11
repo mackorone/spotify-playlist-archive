@@ -4,7 +4,7 @@
 
 > Try a little tenderness\. Cover: Donny Benét
 
-354 songs - 21 hr 57 min
+355 songs - 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Easier Done Than Said](https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Easier Done Than Said](https://open.spotify.com/album/08P5vVNLqPNiCyle8kRssE) | 3:35 | 2025-07-11 | 2025-08-29 |
 | [Eating out](https://open.spotify.com/track/3HPJLLqf4qdKm6xbXiW979) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Eating out](https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys) | 2:53 | 2024-02-01 | 2025-07-11 |
 | [Elegantly Wasted \[Feat\. Leon Bridges\]](https://open.spotify.com/track/4cKkrTYbkWnu96lWNRFcRq) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Elegantly Wasted \[Feat\. Leon Bridges\]](https://open.spotify.com/album/6ttrLfwlXpHv4HwoImyqqR) | 3:33 | 2025-07-24 |  |
+| [End of Time](https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [End of Time](https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q) | 3:46 | 2025-10-16 |  |
 | [Every Day and Every Night](https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Those Days Are Over](https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf) | 2:54 | 2023-02-02 | 2023-03-31 |
 | [Everything](https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9) | [Elle Eliades](https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i) | [Everything](https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ) | 3:39 | 2022-06-02 | 2025-07-11 |
 | [Evil In Your Eyes](https://open.spotify.com/track/6AEYrk9VWfrcHDZqGlD2IA) | [RISSA](https://open.spotify.com/artist/7dpSIP6tbo4EEovVDCpfCJ) | [Evil In Your Eyes](https://open.spotify.com/album/3D2q615OjU1YPeJjBcqubI) | 2:24 | 2023-08-31 | 2024-10-26 |
@@ -308,7 +309,7 @@
 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 | 2025-07-11 |  |
 | [Thank You \- 2008 Remaster](https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 2:50 | 2025-09-23 |  |
 | [Thats How I Know](https://open.spotify.com/track/4Sy8UUv3JNkkO2oQEOj6GH) | [Village90](https://open.spotify.com/artist/2hVgPPHw2Kk3kmN3dGre4B) | [Thats How I Know](https://open.spotify.com/album/32mjalzaWR50F42GMCDkjO) | 3:26 | 2022-08-18 | 2022-09-09 |
-| [The Garden](https://open.spotify.com/track/6ZQucKTplXdpBJlnnpqQHI) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Low End Love Songs](https://open.spotify.com/album/3BeoCT97pj90mbXYSTygee) | 3:47 | 2025-07-11 |  |
+| [The Garden](https://open.spotify.com/track/6ZQucKTplXdpBJlnnpqQHI) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Low End Love Songs](https://open.spotify.com/album/3BeoCT97pj90mbXYSTygee) | 3:47 | 2025-07-11 | 2025-12-11 |
 | [The Hardest Part](https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Hardest Part](https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA) | 2:56 | 2022-06-02 | 2025-07-11 |
 | [The Hop](https://open.spotify.com/track/7f1UEGMBMuXfLBP5XANfrW) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [Beats, Rhymes & Life](https://open.spotify.com/album/0EguP4tsJurU5I8ocCxdyb) | 3:27 | 2025-07-11 |  |
 | [The Room](https://open.spotify.com/track/3Xci1c096KD2T1A3rHBGYa) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [The Room](https://open.spotify.com/album/4BmVEUx3ViQkBVg85O20p3) | 2:17 | 2022-06-16 | 2023-02-02 |

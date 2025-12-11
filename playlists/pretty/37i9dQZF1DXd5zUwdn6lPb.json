@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 574560,
+  "num_followers": 574666,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,30 @@
     {
       "added_at": "2025-11-26 09:20:00",
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/4eZkYYbrLCdS5yjhIk8zxJ"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Jan-Peter Kl\u00f6pfel",
+          "url": "https://open.spotify.com/artist/7fpQh1lgdWnKPcAVJHsl4h"
+        },
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        }
+      ],
+      "duration_ms": 145859,
+      "name": "Mozart Piano Concerto Variation (After Piano Concerto No. 27 in B-Flat Major, K. 595, II. Larghetto) [Arr. for Piano by Jan-Peter Kl\u00f6pfel)",
+      "url": "https://open.spotify.com/track/0nSG4NazWgZo0jg8JJznha"
+    },
+    {
+      "added_at": "2025-11-26 09:20:00",
+      "album": {
         "name": "50 Masterworks - Arthur Rubinstein",
         "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
       },
@@ -811,30 +835,6 @@
       "duration_ms": 268461,
       "name": "Cantata, BWV 159: Es ist vollbracht (Arr. \u00d3lafsson for Piano)",
       "url": "https://open.spotify.com/track/14MG8dXMuUjylGn350RKtT"
-    },
-    {
-      "added_at": "2025-11-26 09:20:00",
-      "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/4eZkYYbrLCdS5yjhIk8zxJ"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Jan-Peter Kl\u00f6pfel",
-          "url": "https://open.spotify.com/artist/7fpQh1lgdWnKPcAVJHsl4h"
-        },
-        {
-          "name": "Louis Philippson",
-          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
-        }
-      ],
-      "duration_ms": 145859,
-      "name": "Mozart Piano Concerto Variation (After Piano Concerto No. 27 in B-Flat Major, K. 595, II. Larghetto) [Arr. for Piano by Jan-Peter Kl\u00f6pfel)",
-      "url": "https://open.spotify.com/track/0nSG4NazWgZo0jg8JJznha"
     },
     {
       "added_at": "2025-11-26 09:20:00",

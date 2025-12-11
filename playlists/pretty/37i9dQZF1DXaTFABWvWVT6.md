@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,010 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,024 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 54 | [Breathe](https://open.spotify.com/track/6TR0FGw4zhlGbQALN065AI) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Breathe](https://open.spotify.com/album/7c4A33WznTkdnqBEmLsWWF) | 3:14 |
 | 55 | [Can't Do Without You](https://open.spotify.com/track/35p0Z5yZDogaXoWXhMVEv4) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/5ysMC5s4nOCDtPBYrTa5pl) | 3:56 |
 | 56 | [Mind Still \(feat\. blythe\)](https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC) | [Mind Still \(feat\. blythe\)](https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ) | 2:36 |
-| 57 | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Kilo Ali](https://open.spotify.com/artist/6qbmEw8JjPrPV4HknWp0O1) | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/album/3XqYLQXudPtDBs73gZYLQG) | 2:25 |
-| 58 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
+| 57 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
+| 58 | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Kilo Ali](https://open.spotify.com/artist/6qbmEw8JjPrPV4HknWp0O1) | [BLOW \(WHITE GIRL IN TOWN\) \[feat\. Kilo Ali\]](https://open.spotify.com/album/3XqYLQXudPtDBs73gZYLQG) | 2:25 |
 | 59 | [Loud Places](https://open.spotify.com/track/1jy7SkRcmBCTcv4ZMtwz29) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh) | 4:43 |
 | 60 | [If Your Girl](https://open.spotify.com/track/17CXft3kDo4QNrO491EFOv) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ), [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm) | [If Your Girl](https://open.spotify.com/album/1N29DkWu39gZjMsU19Kn9k) | 3:50 |
 | 61 | [My Humps](https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4) | 3:06 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 67 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 |
 | 68 | [Into Dust \(Still Falling\)](https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Into Dust \(Still Falling\)](https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0) | 5:33 |
 | 69 | [Different Side](https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [Different Side](https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc) | 3:13 |
-| 70 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 |
+| 70 | [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [contra](https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 |
 
 Snapshot ID: `AAAAAISU4p4PRIp7nPhtTS+WM5qEeuj0`

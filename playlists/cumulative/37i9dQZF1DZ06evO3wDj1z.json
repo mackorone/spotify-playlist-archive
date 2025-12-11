@@ -1089,6 +1089,24 @@
     },
     {
       "album": {
+        "name": "Desde el Cielo",
+        "url": "https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163813,
+      "name": "Mujer Bonita",
+      "url": "https://open.spotify.com/track/2GR7paZ11mVZJMGYnj6RG4"
+    },
+    {
+      "album": {
         "name": "Me Gusta Estar Contigo",
         "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
@@ -1338,7 +1356,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 158520,
       "name": "Sepa Dios",
       "url": "https://open.spotify.com/track/6kqJnZAi3g4oH3NsxBPvtl"

@@ -4,7 +4,7 @@
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Camilo & Evaluna Montaner
 
-215 songs - 11 hr 30 min
+216 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [ESTE DICIEMBRE](https://open.spotify.com/track/0ZmIPz8CGosi4bwranJTbT) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [ESTE DICIEMBRE](https://open.spotify.com/album/6Up6WWPwItJ5Ze9BC5yt4w) | 3:02 | 2021-12-15 | 2023-11-18 |
 | [este diciembre.](https://open.spotify.com/track/1QWNbaeJ7tjSCfF0OQ1852) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [este diciembre.](https://open.spotify.com/album/0GvCjUOCj1CpfIRlBEC7GI) | 3:02 | 2023-12-08 |  |
 | [Feliz Año Nuevo, Feliz Navidad](https://open.spotify.com/track/5bEBGopE3OBIAo0lOMexAy) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Navidad Con Tatiana](https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z) | 3:27 | 2021-12-15 | 2022-12-20 |
+| [Feliz Navidad](https://open.spotify.com/track/6Ra9tH3xV7bN7oHwYol2hi) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Navidad Con Bebeto](https://open.spotify.com/album/6HiQ6te1m4K2WqHYmB09ql) | 3:07 | 2025-12-05 |  |
 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 | 2021-12-15 | 2022-12-20 |
 | [Feliz Navidad](https://open.spotify.com/track/3ERzzgIgx84qcS8RtUrjRO) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Feliz Navidad](https://open.spotify.com/album/0RmTfZy4N0l2q7EAzrbXH9) | 3:41 | 2021-12-15 | 2022-12-19 |
 | [Feliz Navidad \(feat\. Mon Laferte\)](https://open.spotify.com/track/4NyRyGgAdWJdovsFZUY9Fd) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [You Make It Feel Like Christmas \(Deluxe Edition \- 2020\)](https://open.spotify.com/album/0xXKtxOYqLBTjcefyh8Oz8) | 2:42 | 2023-11-21 |  |
@@ -185,7 +186,7 @@
 | [Silent Night](https://open.spotify.com/track/4BOgbho7QbeoHU36SrIa6s) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Silent Night](https://open.spotify.com/album/6cP4HiE5cYQPQgc6A6LWIs) | 2:41 | 2025-11-28 | 2025-12-06 |
 | [Silent Night \- English/Spanish Version](https://open.spotify.com/track/17a2eOhGG6DzhfDXsapqK1) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Silent Night \(English/Spanish Version\)](https://open.spotify.com/album/0a0S7ADF3QllsUOARlp8AS) | 3:27 | 2022-12-19 | 2023-11-22 |
 | [Snowman \(feat\. Belinda\)](https://open.spotify.com/track/7tQ5cliSQxT7kv2OAxgy7s) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Snowman](https://open.spotify.com/album/6ABuOE8UhKiIiG0nK0fyUb) | 2:59 | 2025-11-14 |  |
-| [Solo En Navidad](https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Solo En Navidad](https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs) | 3:11 | 2022-11-25 |  |
+| [Solo En Navidad](https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Solo En Navidad](https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs) | 3:11 | 2022-11-25 | 2025-12-11 |
 | [Te Deseo Muy Felices Fiestas](https://open.spotify.com/track/6xMrvcGXPWQ5T6Y0Njphw1) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [st\. Pedro's Christmas Special](https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O) | 4:02 | 2022-12-13 | 2022-12-19 |
 | [Te Deseo Muy Felices Fiestas \- Have Yourself a Merry Little Christmas](https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Te Deseo Muy Felices Fiestas \(Have Yourself a Merry Little Christmas\)](https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC) | 3:57 | 2022-12-19 |  |
 | [Te Fuiste](https://open.spotify.com/track/2gCa8rRD7zAJLBFJgnaru1) | [Daniela Blasco](https://open.spotify.com/artist/18Vhlc8r07wfrblTyfHEcg) | [Te Fuiste](https://open.spotify.com/album/0J8RBN49DLSWGIcR4A82Qf) | 3:34 | 2025-11-21 |  |

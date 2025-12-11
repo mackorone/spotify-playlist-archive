@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1okZ1ZeITst.md) - [plain]
 
 > Discover Disney songs to sing along to, including “Zoo” from Zootopia 2!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,120,654 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,065 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

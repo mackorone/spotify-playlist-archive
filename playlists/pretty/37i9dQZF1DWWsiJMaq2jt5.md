@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Najlepsze utwory EQUAL Polska w 2025 według naszej redakcji\. Słuchaj kobiet na cały głos! Cover: MODELKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,853 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,857 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Dawn](https://open.spotify.com/track/3Rl4Kd4oXYyNT0ldntO6xu) | [Yana Couto](https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt), [OS.SO](https://open.spotify.com/artist/5O11auA9UW7ZBACNBMBsBu) | [Isolde](https://open.spotify.com/album/0sGoqa6xLak1TmgCMLU2cj) | 2:45 |
 | 50 | [Na martwej planecie nie ma hajsu i dragów ani rozbieranych tańców](https://open.spotify.com/track/2NrnIAUlo6XpnCdEfmys6R) | [nath](https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd), [Expo 2000](https://open.spotify.com/artist/2mJaMgykjhvCzdLp8jltpu) | [Kanon](https://open.spotify.com/album/3kYfkdTfrCId614Ft11MWJ) | 2:39 |
 
-Snapshot ID: `AAAAAD7kkTkJEzKF2djxsywvSThCHK3v`
+Snapshot ID: `AAAAAAPIU43lPpoUf7+DtTCbT+ryzj0Z`

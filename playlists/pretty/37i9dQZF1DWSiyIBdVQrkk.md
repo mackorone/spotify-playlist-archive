@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in classic and contemporary Reggae\. Cover: Original Koffee
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,176,924 likes - 110 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,176,702 likes - 110 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 43 | [Do To Me](https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Do To Me](https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg) | 3:45 |
 | 44 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
 | 45 | [I Am That I Am](https://open.spotify.com/track/2PyDqCtFcXsucZqTF4rE3i) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Equal Rights \(Legacy Edition\)](https://open.spotify.com/album/4fUOOBGNI8k9cb4vD2hZ65) | 4:29 |
-| 46 | [Natty Rebel \- Remaster 1990](https://open.spotify.com/track/5FgdPuK51WBYhuMhV0XIBg) | [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra) | [Natty Rebel \(Extra Version\)](https://open.spotify.com/album/6HTLFNdjeW75Am1fKMHGyZ) | 3:31 |
-| 47 | [Zungguzungguguzungguzeng](https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Most Wanted Series \- Yellowman](https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N) | 6:27 |
+| 46 | [Zungguzungguguzungguzeng](https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Most Wanted Series \- Yellowman](https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N) | 6:27 |
+| 47 | [Natty Rebel \- Remaster 1990](https://open.spotify.com/track/5FgdPuK51WBYhuMhV0XIBg) | [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra) | [Natty Rebel \(Extra Version\)](https://open.spotify.com/album/6HTLFNdjeW75Am1fKMHGyZ) | 3:31 |
 | 48 | [Spanish Town Rockin'](https://open.spotify.com/track/4Qup2zholspnhLpgkO77C2) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 3:24 |
 | 49 | [King Without a Crown \- Live at Stubb's, Austin, TX \- February 2005](https://open.spotify.com/track/6yalDzJGNoUQ2qSDlAdqU8) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Live at Stubb's](https://open.spotify.com/album/6kfMhZYXTwm9HGMJuLl7HO) | 4:48 |
 | 50 | [It's A Pity](https://open.spotify.com/track/46oKpr00CmuPJGvPZ3y9uk) | [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Tanya...Collection Of Hits](https://open.spotify.com/album/0jeZIxOER2j9RbJqokIwja) | 4:13 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 57 | [Can't Breathe \(Genius T Remix\)](https://open.spotify.com/track/1MmSKeGyQtsw01TZ4P2AaQ) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Can't Breathe \(Genius T Remix\)](https://open.spotify.com/album/6Z1RymNPBPYeamjtuAergh) | 3:22 |
 | 58 | [\(You Gotta Walk\) Don't Look Back \- 2002 Remaster](https://open.spotify.com/track/2vDUqLZsaEEYmREcRo9gnn) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Bush Doctor](https://open.spotify.com/album/0K9oJKr8cOfWfdT33y3L9b) | 5:20 |
 | 59 | [Ice Cream Love](https://open.spotify.com/track/16DTl4nJDz444OcvTlbxxD) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Fally Lover](https://open.spotify.com/album/1KazY0vkz1QEHqnoF6ocUj) | 3:23 |
-| 60 | [Old Sunrise](https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 5:23 |
-| 61 | [Lady In Red](https://open.spotify.com/track/5OJ3X6sG29MQH3FgeYg66k) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Lady In Red](https://open.spotify.com/album/4e7IXAGjHgtqDAALVF75cn) | 3:54 |
+| 60 | [Lady In Red](https://open.spotify.com/track/5OJ3X6sG29MQH3FgeYg66k) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Lady In Red](https://open.spotify.com/album/4e7IXAGjHgtqDAALVF75cn) | 3:54 |
+| 61 | [Old Sunrise](https://open.spotify.com/track/3IZVcI4XBomuSZTF6CBd28) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Wisdom](https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1) | 5:23 |
 | 62 | [Nature](https://open.spotify.com/track/7o1OfwR349jSAodpOdTnlG) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb) | 2:46 |
 | 63 | [Never Give Up](https://open.spotify.com/track/4ANZGc4p6NJxQ81C7aqIGw) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Never Give Up](https://open.spotify.com/album/7vVxcQX012StUFPW9LzrNV) | 4:19 |
 | 64 | [Speak Life](https://open.spotify.com/track/21RALCUrU5kzPxas0f12hv) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 5:05 |
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 100 | [Look Deep](https://open.spotify.com/track/2kfNmluPa17SRaKtjFpQ2x) | [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM), [808 Delavega](https://open.spotify.com/artist/3dPuXCO7uQLHphYgFzUXCJ) | [Look Deep](https://open.spotify.com/album/4k5gEubeYKoHDOyVjxn8ex) | 2:57 |
 | 101 | [Gunman](https://open.spotify.com/track/5RfyhhgWY3RHlupIXsrgA5) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [Gunman](https://open.spotify.com/album/34l7xEJvkbXs2Ve85ddcKR) | 3:53 |
 | 102 | [Light My Way](https://open.spotify.com/track/6lbN9JJcWYCq0KrpHXqQ9d) | [Royal Blu](https://open.spotify.com/artist/5GZOZpWXKPAMPZQrcrnyzx), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [The Autos](https://open.spotify.com/artist/0UJa2HnlrNe3QueQ7MWTR0) | [Light My Way](https://open.spotify.com/album/4ebYOwCdrhNktMPMv8zrcZ) | 3:19 |
-| 103 | [Good Ol' Days \(featuring Cedella Marley\)](https://open.spotify.com/track/28Q2F391hseaFE88B3jki4) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 4:17 |
-| 104 | [Enemy](https://open.spotify.com/track/2Cc0WpZVvtzKNlFbpLGIqF) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Enemy](https://open.spotify.com/album/27kVp8H89oU90F0umUVzKL) | 2:18 |
+| 103 | [Enemy](https://open.spotify.com/track/2Cc0WpZVvtzKNlFbpLGIqF) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Enemy](https://open.spotify.com/album/27kVp8H89oU90F0umUVzKL) | 2:18 |
+| 104 | [Good Ol' Days \(featuring Cedella Marley\)](https://open.spotify.com/track/28Q2F391hseaFE88B3jki4) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 4:17 |
 | 105 | [Sweet Inspiration](https://open.spotify.com/track/3iZ9QBCxBJcKMqrighzSlB) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Sweet Inspiration](https://open.spotify.com/album/0kYYdZN5cSgmcBCcA8KmcE) | 3:36 |
 | 106 | [Africa Must Wake Up](https://open.spotify.com/track/2TjwK8EkwVUBty7eBUPCYD) | [Nas & Damian "Jr\. Gong" Marley](https://open.spotify.com/artist/3w2WYNyPCPkZFoC1EqfCMe), [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Distant Relatives](https://open.spotify.com/album/6Cj4gSdavyZCIhmeoCcrI6) | 6:40 |
 | 107 | [Ring The Alarm](https://open.spotify.com/track/1jxQKV6UlzV3scs6SMBHNX) | [Tenor Saw](https://open.spotify.com/artist/1LAgDHjyZvOQf39Fa9rtlT) | [Little Sound Boy](https://open.spotify.com/album/79q0gy6D49JPt0mUJPjw3k) | 2:56 |

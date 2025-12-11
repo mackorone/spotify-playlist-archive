@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Sinan Akçıl x Ece Mumay
 
-447 songs - 22 hr 27 min
+448 songs - 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Kaybolsam](https://open.spotify.com/track/3Qr4C2suSijySxbehezuNB) | [Berkay Altunyay](https://open.spotify.com/artist/7DDrfx7EEOeHSZUkpTIn59) | [Kaybolsam](https://open.spotify.com/album/6Yo1LuAKJTzBZJxNdPQ4dv) | 1:40 | 2025-09-25 | 2025-10-10 |
 | [Kaç Kez Öldüm?](https://open.spotify.com/track/4tXNPXBd4nzSi99XDqSjA8) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Kaç Kez Öldüm?](https://open.spotify.com/album/0sPKsSl0p5igQFbppBng3t) | 3:34 | 2025-10-09 | 2025-10-24 |
 | [Kaçak Göçek](https://open.spotify.com/track/4y0kg2hqDbEG04NevUqNPF) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Kaçak Göçek](https://open.spotify.com/album/5ckK7xIaAG6ZYxxdS6Emi5) | 3:43 | 2024-09-05 | 2025-07-29 |
+| [Kaçsam Gitsem](https://open.spotify.com/track/6vmhvj2k8RyAoOy4BmD5Nc) | [Elif Buse Doğan](https://open.spotify.com/artist/56hgP8k96P8s7hQyMvXCHS) | [Kaçsam Gitsem](https://open.spotify.com/album/4oxsJFAb6MdQpIBmOuoUGh) | 2:48 | 2025-12-04 |  |
 | [Kaçsana Bana \(Deli Kız Part II\)](https://open.spotify.com/track/6pz4uHZAKUawz4uj6c6GYk) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Kaçsana Bana \(Deli Kız Part II\)](https://open.spotify.com/album/1DdPAxtLx4Y27W4CMQ0HOM) | 2:56 | 2025-10-16 |  |
 | [Kehribar](https://open.spotify.com/track/3wtOAcctakLBwmzbCkRSHR) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Kehribar](https://open.spotify.com/album/2vJqCgVaPM5YpMlp9laiEX) | 2:48 | 2024-06-27 | 2025-07-18 |
 | [Kervan](https://open.spotify.com/track/4MsNwPBADIfVpQ9ZmXNc7B) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6), [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [Kervan](https://open.spotify.com/album/0xdqDsFfcbRRCYFVgeDr6P) | 2:34 | 2025-01-16 |  |
@@ -358,7 +359,7 @@
 | [SONUNDA KAYBOLMUŞ](https://open.spotify.com/track/1Z8WJAP3aAiiar4VR149yf) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [TEK KİŞİLİK MASA](https://open.spotify.com/album/1PNjEh6e0T28jszrn3Mwva) | 3:19 | 2025-05-22 | 2025-06-06 |
 | [Sor Bana](https://open.spotify.com/track/4VR2HssvJFXCyaZQchcXJy) | [Feride Hilal Akın](https://open.spotify.com/artist/2dLBhX7dIdWL6Fsk9l0n1n) | [Sor Bana](https://open.spotify.com/album/110eedqqHFMiIWFL1eaKxW) | 2:28 | 2025-09-25 | 2025-10-10 |
 | [Sur](https://open.spotify.com/track/5o8AA7rdZceZFV3hK1s5zT) | [Güliz Ayla](https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs) | [Sur](https://open.spotify.com/album/7iepaVJHrulbWXaXnuSxNt) | 3:04 | 2025-02-13 | 2025-02-21 |
-| [Susmayı Öğrendim](https://open.spotify.com/track/3lfvzkMQXnmaQLGiwRfAPi) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Susmayı Öğrendim](https://open.spotify.com/album/6jgyRe0ZVR4xdimu9ned2V) | 3:16 | 2025-10-23 |  |
+| [Susmayı Öğrendim](https://open.spotify.com/track/3lfvzkMQXnmaQLGiwRfAPi) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Susmayı Öğrendim](https://open.spotify.com/album/6jgyRe0ZVR4xdimu9ned2V) | 3:16 | 2025-10-23 | 2025-12-11 |
 | [Taksi](https://open.spotify.com/track/1zaRUHOFCtifiWjjhyi1Pp) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Taksi](https://open.spotify.com/album/7uYFRPl5MJSJ1ty0BZuFS0) | 2:28 | 2025-07-31 |  |
 | [Tam Da Şu Anda](https://open.spotify.com/track/3FmRJPzylI6fuDIso7jejM) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Tam Da Şu Anda](https://open.spotify.com/album/0iFTqZJlHdCMSSfPTMQ0Kt) | 2:19 | 2025-05-01 |  |
 | [Tane Tane](https://open.spotify.com/track/0vaQeqqDD8f6Bx5IZWg2Ld) | [AYDEED](https://open.spotify.com/artist/0YHObPo0wpyvS1VLHfwuVz) | [\#SOLO](https://open.spotify.com/album/0JZ9dahUOYdeNATgNMLvwS) | 2:40 | 2025-11-13 |  |

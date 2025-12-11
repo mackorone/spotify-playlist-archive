@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1S3Roy5fPEnChF8lNGIsbz.md) - [plain]
 
 > Set the tone, feel the vibe\. Upbeat tracks for your power walk\. 🎵 Submit: glitchgoldmusic.com
 
-[Glitch&Gold](https://open.spotify.com/user/31jnz6gb3osfynb3qtvugfnc6syq) - 723 likes - 791 songs - 1 day 21 hr 23 min
+[Glitch&Gold](https://open.spotify.com/user/31jnz6gb3osfynb3qtvugfnc6syq) - 728 likes - 791 songs - 1 day 21 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -334,7 +334,7 @@ pretty - [cumulative](/playlists/cumulative/1S3Roy5fPEnChF8lNGIsbz.md) - [plain]
 | 324 | [Rap Shqipe](https://open.spotify.com/track/0PWULCUIHiWqtvFbrk8KWy) | [Rizy](https://open.spotify.com/artist/4K8Gq42FXjAPEAK8L6KW6L) | [Tek Pull](https://open.spotify.com/album/5JjgzuhaU0EXVmADx4UeNj) | 3:42 |
 | 325 | [The Signal \- Extended Version](https://open.spotify.com/track/5OOf1tlYi2lrMMm0qvwytM) | [Ziozland](https://open.spotify.com/artist/46nIUadh3lmdRPgfO4ciC6) | [The Signal](https://open.spotify.com/album/1vo9I0x2TChzOrpynSRU8W) | 4:29 |
 | 326 | [What The Fuck?](https://open.spotify.com/track/5I29pcycb08FvxW5IELbFo) | [TSIMECA](https://open.spotify.com/artist/3qjKbpkDNtLc6X7xEScpKy) | [Groove Machine](https://open.spotify.com/album/3KXwSaVvIFwgmvrekRxvrV) | 3:55 |
-| 327 | [Take My Love \- Twisted Tales Version](https://open.spotify.com/track/5EMI4zItf3sI6BJWhsNXaJ) | [TSIMECA](https://open.spotify.com/artist/3qjKbpkDNtLc6X7xEScpKy) | [Twisted Tales, Vol\. 1](https://open.spotify.com/album/4Uf9N2q8ztx5kmBsDyM0jC) | 3:40 |
+| 327 | [Take My Love](https://open.spotify.com/track/5EMI4zItf3sI6BJWhsNXaJ) | [TSIMECA](https://open.spotify.com/artist/3qjKbpkDNtLc6X7xEScpKy) | [Twisted Tales, Vol\. 1](https://open.spotify.com/album/4Uf9N2q8ztx5kmBsDyM0jC) | 3:40 |
 | 328 | [Wet](https://open.spotify.com/track/25rtZTxNGHS3kXn7OnNcK0) | [IR1S](https://open.spotify.com/artist/0MXTbSvmj5W2OfKIsZDM6A) | [Confidential](https://open.spotify.com/album/38OZtbpMr0mekJ1169QrHF) | 3:19 |
 | 329 | [Una Possibile Storia Su Dio](https://open.spotify.com/track/1KjYGP2LiOsUkYcFGrGCfa) | [Frank Sinutre](https://open.spotify.com/artist/6WtgiGqvqVma7Iiuo94SZp) | [Musique Pour Les Poissons](https://open.spotify.com/album/3DTo2Hj9sIE7BJmONGmHIc) | 6:44 |
 | 330 | [Hay un Vinagre en mi grupo de Whatsapp](https://open.spotify.com/track/2Ns3e4rmYzomlLTrvhL9kg) | [Imageniero](https://open.spotify.com/artist/2VzPbTGvxeW8esDZmOH6VB) | [Hay un Vinagre en mi grupo de Whatsapp](https://open.spotify.com/album/1SLj9JcZerlpeuK5lxqZza) | 3:14 |
@@ -528,7 +528,7 @@ pretty - [cumulative](/playlists/cumulative/1S3Roy5fPEnChF8lNGIsbz.md) - [plain]
 | 518 | [Yo caminaré](https://open.spotify.com/track/6n3cAYqEicyKppKP2YkBD2) | [Giorgio Isgro'](https://open.spotify.com/artist/0mkcb7x8JISZOGHV8LdKcW), [José Maria Maldonado](https://open.spotify.com/artist/09sklErYNSOflPiFoQglOJ), [Adriano Gasperi](https://open.spotify.com/artist/5AP3F8vGLRoVc14QDEJ5mk) | [Yo caminaré](https://open.spotify.com/album/67g096LDtmuKaTydRbwHkO) | 3:59 |
 | 519 | [Salta Con Me](https://open.spotify.com/track/1MmZGDeNWIYhtpF3VtZxLK) | [Luvi!](https://open.spotify.com/artist/690tqqfa78b8LrE7wazaHi) | [Salta Con Me](https://open.spotify.com/album/0vwu44CS6Euj8YNtBOiPQj) | 2:54 |
 | 520 | [It\`s Raining](https://open.spotify.com/track/5DdQ8BCznkMeuWImGuuvun) | [Archi K](https://open.spotify.com/artist/2t0eG7qAMeAL62ZdVzlcRY) | [Here&Now](https://open.spotify.com/album/0gUuLG4LGy9E6mw6xswUIx) | 2:37 |
-| 521 | [Thunder \- Twisted Tales Version](https://open.spotify.com/track/1TwJhLoCFOII803RheHx0e) | [TSIMECA](https://open.spotify.com/artist/3qjKbpkDNtLc6X7xEScpKy) | [Twisted Tales, Vol\. 1](https://open.spotify.com/album/4Uf9N2q8ztx5kmBsDyM0jC) | 3:02 |
+| 521 | [Thunder](https://open.spotify.com/track/1TwJhLoCFOII803RheHx0e) | [TSIMECA](https://open.spotify.com/artist/3qjKbpkDNtLc6X7xEScpKy) | [Twisted Tales, Vol\. 1](https://open.spotify.com/album/4Uf9N2q8ztx5kmBsDyM0jC) | 3:02 |
 | 522 | [Felicità](https://open.spotify.com/track/6OuwGDTHj02RaM5YOKJTFd) | [Sergio Tesio](https://open.spotify.com/artist/7HD1DJDkgUqZH4ZSE1k1Li) | [Felicità](https://open.spotify.com/album/1Iazco0zqQbgHRdW9RtJNV) | 3:20 |
 | 523 | [Excusez mon français](https://open.spotify.com/track/6wxAUjNwfdiQkCj2I2S15v) | [Escaped Apple](https://open.spotify.com/artist/467ch0mj3q9fvf2j0Zgy6k), [Sebastian Eijasson](https://open.spotify.com/artist/1gmOZcs4zNv7pff7t4eUnN) | [I made it](https://open.spotify.com/album/3xwUEhVwJdagVrfjmglwjx) | 2:58 |
 | 524 | [Santiago](https://open.spotify.com/track/5MisrtocW8EjagLeQzsUgD) | [Jack Vultur](https://open.spotify.com/artist/4UIDVuQxTCzkVVNP2YAMf8) | [Passione Artificiale](https://open.spotify.com/album/5WP7WZTA8qZmWo0XLPKQPB) | 3:06 |
@@ -571,7 +571,7 @@ pretty - [cumulative](/playlists/cumulative/1S3Roy5fPEnChF8lNGIsbz.md) - [plain]
 | 561 | [No pondre Alarma](https://open.spotify.com/track/6XFUEyCup7puNZDgmVaZgE) | [Karlom](https://open.spotify.com/artist/4ryP8MJigbttk9v6nk53jy) | [No pondre Alarma](https://open.spotify.com/album/5ZSWrLISKVVpoxufhvp6mh) | 2:40 |
 | 562 | [Special Vacation](https://open.spotify.com/track/7KebbeERTeFXDwS47EzH4W) | [Sian Ella](https://open.spotify.com/artist/1RLpLyzpRJ7kGB8NrFbHUM) | [Special Vacation](https://open.spotify.com/album/0cAhHf7lFDJjoGn2xiL8DD) | 3:44 |
 | 563 | [Home](https://open.spotify.com/track/0REvn4nRnbu4PqfRy5iJoF) | [Marco Bonvicini](https://open.spotify.com/artist/3dRYS72mNNc8kwqdmaGdfG) | [Home](https://open.spotify.com/album/0y9vGGcQQKY2KgoJO9SP93) | 3:56 |
-| 564 | [Ebb + Flow \- Twisted Tales Version](https://open.spotify.com/track/4dFRua1gJ1JjxoBKe8GLIP) | [TSIMECA](https://open.spotify.com/artist/3qjKbpkDNtLc6X7xEScpKy) | [Twisted Tales, Vol\. 1](https://open.spotify.com/album/4Uf9N2q8ztx5kmBsDyM0jC) | 3:07 |
+| 564 | [Ebb + Flow](https://open.spotify.com/track/4dFRua1gJ1JjxoBKe8GLIP) | [TSIMECA](https://open.spotify.com/artist/3qjKbpkDNtLc6X7xEScpKy) | [Twisted Tales, Vol\. 1](https://open.spotify.com/album/4Uf9N2q8ztx5kmBsDyM0jC) | 3:07 |
 | 565 | [Forever](https://open.spotify.com/track/5bnIbIq7FFiDSF6jMeo0P9) | [TSIMECA](https://open.spotify.com/artist/3qjKbpkDNtLc6X7xEScpKy) | [Twisted Tales, Vol\. 1](https://open.spotify.com/album/4Uf9N2q8ztx5kmBsDyM0jC) | 2:49 |
 | 566 | [Spatial](https://open.spotify.com/track/3Fxceybn6mUOFlAHIz3Zsn) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Spatial](https://open.spotify.com/album/6b7WFerr0JRtw8X5H9L9IS) | 2:15 |
 | 567 | [I Will Kiss You](https://open.spotify.com/track/04gCGsdbqM6YJhxBLbkwBG) | [Mixdy](https://open.spotify.com/artist/45Aq6zFmD3OEHtOIYzuYnR) | [I Will Kiss You](https://open.spotify.com/album/3gUbGQNxOMYCG0ng5NuGYi) | 3:03 |

@@ -4,11 +4,12 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-61 songs - 3 hr 43 min
+62 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Song For The Lovers](https://open.spotify.com/track/7a90gal9tr3yS8bEXUvu8D) | [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Alone With Everybody](https://open.spotify.com/album/7rVo1K80X4sr88MxsD0vds) | 5:26 | 2021-03-29 |  |
+| [Algebra](https://open.spotify.com/track/1vLEUjeuQeLI4GX3eLSkqY) | [Tellaro](https://open.spotify.com/artist/40eY19JGg5JAtZ0FwDNOx7) | [Algebra](https://open.spotify.com/album/6EjjadiT6PZLInrMyr6gsy) | 4:13 | 2025-12-10 |  |
 | [Automático](https://open.spotify.com/track/5FUDj98ylGW4iUcFfiWo50) | [Boris Vian](https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8) | [Trans](https://open.spotify.com/album/1T2lmX3LY6Vrw0ZMI6eYry) | 3:45 | 2025-12-01 |  |
 | [Beyond Reach](https://open.spotify.com/track/0hbF6ks1K7QReqX5MDQUsz) | [A Walking Miracle](https://open.spotify.com/artist/6RAo7PsvIZKBkg8wOshSUM) | [Beyond Reach](https://open.spotify.com/album/5j30B79NqODEF1OeFgiTdd) | 2:48 | 2025-10-13 |  |
 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 | 2021-03-29 |  |

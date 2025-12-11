@@ -1,13 +1,29 @@
 {
-  "description": "Wat kan het Nederlands toch mooi zijn. Cover: Herman van Veen & Gerson Main",
-  "num_followers": 36630,
+  "description": "Wat kan het Nederlands toch mooi zijn. Cover: Claudia de Breij",
+  "num_followers": 36642,
   "original_name": "Mooi Nederlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJBP0AOMy3srY4KiacSMfNj8SBPM",
+  "snapshot_id": "AAAAAJLXzbZ1KFjZ2ZAP4dZE1tsqMMjJ",
   "tracks": [
+    {
+      "added_at": "2025-12-04 23:00:14",
+      "album": {
+        "name": "Een hoop",
+        "url": "https://open.spotify.com/album/4EZ4fZ33JLMzzm9DBFGavm"
+      },
+      "artists": [
+        {
+          "name": "Claudia De Breij",
+          "url": "https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "Dans",
+      "url": "https://open.spotify.com/track/47JBXznQqDtATWPNBZPwBc"
+    },
     {
       "added_at": "2025-12-04 23:00:14",
       "album": {
@@ -31,22 +47,6 @@
       "duration_ms": 234101,
       "name": "Zo Stil",
       "url": "https://open.spotify.com/track/08HQVzUkFF7QjUs9FmO4VH"
-    },
-    {
-      "added_at": "2025-12-04 23:00:14",
-      "album": {
-        "name": "Een hoop",
-        "url": "https://open.spotify.com/album/4EZ4fZ33JLMzzm9DBFGavm"
-      },
-      "artists": [
-        {
-          "name": "Claudia De Breij",
-          "url": "https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "Dans",
-      "url": "https://open.spotify.com/track/47JBXznQqDtATWPNBZPwBc"
     },
     {
       "added_at": "2025-12-04 23:00:14",

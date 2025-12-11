@@ -1,6 +1,6 @@
 {
   "description": "Der Sommer neigt sich dem Ende \ud83e\udd72 - und das waren die Sommerhits  2025.",
-  "num_followers": 1591209,
+  "num_followers": 1591057,
   "original_name": "Sommerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
         "name": "Vaitimbora",
         "url": "https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 135131,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
-        "name": "Running Around",
-        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 124620,
-      "name": "Running Around",
-      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
     },
     {
       "added_at": "2025-08-29 06:03:40",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
-        "name": "Your Body",
-        "url": "https://open.spotify.com/album/7BILrDqY2kO1SOhX2MUJVN"
-      },
-      "artists": [
-        {
-          "name": "Marten Lou",
-          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
-        }
-      ],
-      "duration_ms": 228099,
-      "name": "Your Body",
-      "url": "https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 118449,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
+        "name": "Your Body",
+        "url": "https://open.spotify.com/album/7BILrDqY2kO1SOhX2MUJVN"
+      },
+      "artists": [
+        {
+          "name": "Marten Lou",
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+        }
+      ],
+      "duration_ms": 228099,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3"
     },
     {
       "added_at": "2025-08-29 06:03:40",

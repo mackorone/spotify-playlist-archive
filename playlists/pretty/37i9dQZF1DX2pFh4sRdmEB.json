@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de M\u00fasica Mexicana de ayer y hoy para acompa\u00f1arte en la troca.",
-  "num_followers": 565291,
+  "num_followers": 565496,
   "original_name": "La Troca",
   "owner": {
     "name": "Spotify",
@@ -47,18 +47,22 @@
     {
       "added_at": "2025-11-14 05:32:20",
       "album": {
-        "name": "ONDEADO$",
-        "url": "https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK"
+        "name": "En Privado",
+        "url": "https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc"
       },
       "artists": [
         {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 114913,
-      "name": "SUIZA",
-      "url": "https://open.spotify.com/track/7585wxMp2e3IhBq3tJAXgw"
+      "duration_ms": 199399,
+      "name": "En Privado",
+      "url": "https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO"
     },
     {
       "added_at": "2025-11-14 05:32:20",
@@ -79,22 +83,18 @@
     {
       "added_at": "2025-11-14 05:32:20",
       "album": {
-        "name": "En Privado",
-        "url": "https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc"
+        "name": "ONDEADO$",
+        "url": "https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK"
       },
       "artists": [
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 199399,
-      "name": "En Privado",
-      "url": "https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO"
+      "duration_ms": 114913,
+      "name": "SUIZA",
+      "url": "https://open.spotify.com/track/7585wxMp2e3IhBq3tJAXgw"
     },
     {
       "added_at": "2025-11-14 05:32:20",
@@ -599,18 +599,22 @@
     {
       "added_at": "2025-11-14 05:32:20",
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
       "artists": [
         {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "COSME TADEO",
+          "url": "https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6"
         }
       ],
-      "duration_ms": 189293,
-      "name": "Mi C\u00f3mplice",
-      "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
+      "duration_ms": 175532,
+      "name": "La Nena",
+      "url": "https://open.spotify.com/track/2O3V4meZv0bEc1LPITGvcC"
     },
     {
       "added_at": "2025-11-14 05:32:20",
@@ -631,22 +635,18 @@
     {
       "added_at": "2025-11-14 05:32:20",
       "album": {
-        "name": "Como en los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "COSME TADEO",
-          "url": "https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6"
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 175532,
-      "name": "La Nena",
-      "url": "https://open.spotify.com/track/2O3V4meZv0bEc1LPITGvcC"
+      "duration_ms": 189293,
+      "name": "Mi C\u00f3mplice",
+      "url": "https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f"
     },
     {
       "added_at": "2025-11-14 05:32:20",
@@ -887,6 +887,22 @@
     {
       "added_at": "2025-11-14 05:32:20",
       "album": {
+        "name": "Palabra De To's",
+        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Lado Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/4k1bSVbcm2S8f3AXNu1ikQ"
+    },
+    {
+      "added_at": "2025-11-14 05:32:20",
+      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 153031,
       "name": "LA PEOPLE",
       "url": "https://open.spotify.com/track/1RzjXhgnzqb3dMa5852itx"
-    },
-    {
-      "added_at": "2025-11-14 05:32:20",
-      "album": {
-        "name": "Palabra De To's",
-        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Lado Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/4k1bSVbcm2S8f3AXNu1ikQ"
     },
     {
       "added_at": "2025-11-14 05:32:20",
@@ -983,6 +983,22 @@
     {
       "added_at": "2025-11-14 05:32:20",
       "album": {
+        "name": "Como Duele El Amor",
+        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 173088,
+      "name": "No Regreses",
+      "url": "https://open.spotify.com/track/6UiEpvKXPmLzi7UDMGzxeK"
+    },
+    {
+      "added_at": "2025-11-14 05:32:20",
+      "album": {
         "name": "MALEDUCADO",
         "url": "https://open.spotify.com/album/6lUUo7CpyEPN5zKUDJ1hmM"
       },
@@ -1035,38 +1051,6 @@
     {
       "added_at": "2025-11-14 05:32:20",
       "album": {
-        "name": "Como Duele El Amor",
-        "url": "https://open.spotify.com/album/78rP9LuwmD8RzpwjOmxFRP"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 173088,
-      "name": "No Regreses",
-      "url": "https://open.spotify.com/track/6UiEpvKXPmLzi7UDMGzxeK"
-    },
-    {
-      "added_at": "2025-11-14 05:32:20",
-      "album": {
-        "name": "Cada Noche",
-        "url": "https://open.spotify.com/album/1AqEaZch9JSzUywIbJscwy"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 221325,
-      "name": "Cada Noche",
-      "url": "https://open.spotify.com/track/70Aazne2E4HD5ateDYfsS5"
-    },
-    {
-      "added_at": "2025-11-14 05:32:20",
-      "album": {
         "name": "Alch Si",
         "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
       },
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2025-11-14 05:32:20",
       "album": {
+        "name": "Cada Noche",
+        "url": "https://open.spotify.com/album/1AqEaZch9JSzUywIbJscwy"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 221325,
+      "name": "Cada Noche",
+      "url": "https://open.spotify.com/track/70Aazne2E4HD5ateDYfsS5"
+    },
+    {
+      "added_at": "2025-11-14 05:32:20",
+      "album": {
         "name": "AMARTE ME HIZO ODIARTE",
         "url": "https://open.spotify.com/album/6atSyQI6H5zg6X6kOoDI0H"
       },
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-11-14 05:32:20",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
-    },
-    {
-      "added_at": "2025-11-14 05:32:20",
-      "album": {
         "name": "TQM",
         "url": "https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 158964,
       "name": "TQM",
       "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
+    },
+    {
+      "added_at": "2025-11-14 05:32:20",
+      "album": {
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
       "added_at": "2025-11-14 05:32:20",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-11-14 05:32:20",
       "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 189408,
-      "name": "Ya Acabo",
-      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
-    },
-    {
-      "added_at": "2025-11-14 05:32:20",
-      "album": {
         "name": "Somos Arrieros",
         "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 156792,
       "name": "Vida Ventajosa",
       "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
+    },
+    {
+      "added_at": "2025-11-14 05:32:20",
+      "album": {
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 189408,
+      "name": "Ya Acabo",
+      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
     },
     {
       "added_at": "2025-11-14 05:32:20",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2025-11-14 05:32:20",
       "album": {
+        "name": "El Chore",
+        "url": "https://open.spotify.com/album/4yyQAqJj38f5DD7BhZhCuh"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gael Valenzuela",
+          "url": "https://open.spotify.com/artist/6MUhWuKMY0Wo0S12d7FAgh"
+        }
+      ],
+      "duration_ms": 170259,
+      "name": "El Chore",
+      "url": "https://open.spotify.com/track/2k35RlqbpIPZPAOjzME0ZL"
+    },
+    {
+      "added_at": "2025-11-14 05:32:20",
+      "album": {
         "name": "Haganse A Un Lado",
         "url": "https://open.spotify.com/album/4VdIVXUaq3lQGNJSJiyO2B"
       },
@@ -1647,26 +1667,6 @@
       "duration_ms": 156223,
       "name": "Haganse A Un Lado",
       "url": "https://open.spotify.com/track/5qbQNw7iaPJPnhN4gyGjoX"
-    },
-    {
-      "added_at": "2025-11-14 05:32:20",
-      "album": {
-        "name": "El Chore",
-        "url": "https://open.spotify.com/album/4yyQAqJj38f5DD7BhZhCuh"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Gael Valenzuela",
-          "url": "https://open.spotify.com/artist/6MUhWuKMY0Wo0S12d7FAgh"
-        }
-      ],
-      "duration_ms": 170259,
-      "name": "El Chore",
-      "url": "https://open.spotify.com/track/2k35RlqbpIPZPAOjzME0ZL"
     },
     {
       "added_at": "2025-11-14 05:32:20",

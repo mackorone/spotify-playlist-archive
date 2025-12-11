@@ -4,7 +4,7 @@
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-197 songs - 12 hr 24 min
+198 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Me Duele Tu Partida](https://open.spotify.com/track/3VrE3hqJAqZ6vOcIKDQaF5) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Me Duele Tu Partida](https://open.spotify.com/album/3rreqEAgQUOo9XYDvLOF6S) | 3:12 | 2021-10-20 |  |
 | [Me Estoy Poniendo Viejo](https://open.spotify.com/track/4AhZ2PyD5xny2A8hltSuVr) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Me Estoy Poniendo Viejo](https://open.spotify.com/album/0FyBzQotrJGBsTwj2Vk7hv) | 3:54 | 2023-02-28 |  |
 | [Me Robaron Mi Runa Mula](https://open.spotify.com/track/5uCqb0M2YZMMvuKiXIf70a) | [Juaneco Y Su Combo](https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR) | [El Gran Cacique](https://open.spotify.com/album/6J6cfGUzdbLPKHBUWXFrXJ) | 3:12 | 2021-10-20 |  |
+| [Metamorfosis](https://open.spotify.com/track/1FDduS4e9CDhZ3UFmoGAWq) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow), [El Grupo Renacimiento](https://open.spotify.com/artist/6nKLOhfxHF891LIo15FQCZ) | [Metamorfosis](https://open.spotify.com/album/5Wbem5BnV8kCBFcoeZYaQO) | 4:55 | 2025-05-19 |  |
 | [Mi Gran Dolor](https://open.spotify.com/track/3XVA4rOpkLVHtrkCiCxiFh) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Mi Gran Dolor](https://open.spotify.com/album/62iKnAAlp6vwalTBkRCC3Y) | 4:14 | 2023-03-16 |  |
 | [Mi Gran Noche](https://open.spotify.com/track/7Ce3RwQrxYwih27gpRjJhE) | [Aniceto y sus Fabulosos](https://open.spotify.com/artist/3sj4WDoPYnrkC4dg84UtG5) | [Cumbia Beat Volume 1](https://open.spotify.com/album/55Zzh7zGhuAF0YnlpbjV0S) | 2:55 | 2021-10-20 | 2024-02-22 |
 | [Mi Gran Noche](https://open.spotify.com/track/7BXaYhgzihosqcGVk72AK2) | [Aniceto y sus Fabulosos](https://open.spotify.com/artist/3sj4WDoPYnrkC4dg84UtG5) | [Cumbias Chichadelicas: Peruvian Psychedelic Chicha](https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo) | 2:57 | 2021-10-20 | 2024-04-19 |
@@ -204,6 +205,6 @@
 | [Yo Bailo Sola](https://open.spotify.com/track/7fv20ywu4geYS8LpleMsFE) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Yo Bailo Sola](https://open.spotify.com/album/6M43g9QvBjq0vEPxhOf8q8) | 5:17 | 2021-10-20 |  |
 | [Ángeles y Demonios](https://open.spotify.com/track/2Yr9mWZoQDSjINYpEsoXgA) | [Eskorzo](https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8) | [Historias de amor y otras mierdas](https://open.spotify.com/album/1vvV6rMEPELqmSFcAK7wtt) | 2:59 | 2022-06-22 | 2024-04-19 |
 | [Ángeles y Demonios](https://open.spotify.com/track/4v4Qrj7MtYl6k0fqOhSOJa) | [Eskorzo](https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8) | [Ángeles y Demonios](https://open.spotify.com/album/1vfoYVSZLRxvQIHwlYE9EG) | 2:59 | 2022-06-22 | 2023-11-18 |
-| [Ñocoñoco](https://open.spotify.com/track/7jLgcwhZJCengjJmow08wb) | [Rizomagic](https://open.spotify.com/artist/4S3Z9ltQKcBL7BoKrJUaqt) | [Voltaje Raizal](https://open.spotify.com/album/2oS4zeQXSdMlClvizyKFIw) | 5:16 | 2023-06-30 |  |
+| [Ñocoñoco](https://open.spotify.com/track/7jLgcwhZJCengjJmow08wb) | [Rizomagic](https://open.spotify.com/artist/4S3Z9ltQKcBL7BoKrJUaqt) | [Voltaje Raizal](https://open.spotify.com/album/2oS4zeQXSdMlClvizyKFIw) | 5:16 | 2023-06-30 | 2025-12-11 |
 
 \*This playlist was first scraped on 2023-08-09. Prior content cannot be recovered.

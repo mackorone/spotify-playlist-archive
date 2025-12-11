@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 
 > This is Toby Keith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,852 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,858 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 | 12 | [Who's Your Daddy?](https://open.spotify.com/track/48OJNxzYVJNYzXDDY1xlnt) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Unleashed](https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY) | 3:57 |
 | 13 | [Whiskey Girl](https://open.spotify.com/track/2CaxgnHBHuiOYIGIyvMbCl) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 3:59 |
 | 14 | [Who's That Man](https://open.spotify.com/track/3KikW7dhYZkY1eGXkIKOmG) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Boomtown](https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS) | 4:55 |
-| 15 | [Made in America](https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Clancy's Tavern](https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C) | 3:13 |
-| 16 | [He Ain't Worth Missing](https://open.spotify.com/track/21O5QoGEqBTZgnWb3yDlZa) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 3:04 |
+| 15 | [He Ain't Worth Missing](https://open.spotify.com/track/21O5QoGEqBTZgnWb3yDlZa) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 3:04 |
+| 16 | [Made in America](https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Clancy's Tavern](https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C) | 3:13 |
 | 17 | [American Soldier](https://open.spotify.com/track/0oVWPlnK5eAqnJCVB0FvpP) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 4:23 |
 | 18 | [You Ain't Much Fun](https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Boomtown](https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS) | 2:27 |
 | 19 | [Don't Let the Old Man In](https://open.spotify.com/track/4DLSN6f2Cp5eWIa5Vfn9kj) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Don't Let the Old Man In](https://open.spotify.com/album/1lsOkbVF2Wk8U1IrF3FWLa) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 | 49 | [Big Ol' Truck](https://open.spotify.com/track/6eNCl3TFPlvO8n9I4CooTq) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Boomtown](https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS) | 3:41 |
 | 50 | [The Worst Country Song Of All Time](https://open.spotify.com/track/3dlkeKPc3pCveXvMFVJasK) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Worst Country Song Of All Time](https://open.spotify.com/album/6s9wR3rqVwA5Jbyx6K8R8h) | 3:17 |
 
-Snapshot ID: `aTYVAAAAAAB55/sKULAjCeX33uTKcLC7`
+Snapshot ID: `aTdmgAAAAABBh49gh/k1HzMAspZHHYDg`

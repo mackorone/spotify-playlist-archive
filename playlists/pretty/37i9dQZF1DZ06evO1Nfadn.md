@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,786 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,800 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 16 | [Aniversario de un Adiós](https://open.spotify.com/track/3iy4x55H6gGoC0NTbPLErg) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Para Que No Me Olvides](https://open.spotify.com/album/4HhljolOfX1qrERyoqog91) | 3:27 |
 | 17 | [Te Lavaste la Cara, El Mono No](https://open.spotify.com/track/4Ry7T6LuUM2Ljchtx7gzkT) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 2:50 |
 | 18 | [La Estrella De Los Bailes](https://open.spotify.com/track/6nL6rki8gwWb0b0fRPkgAq) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/1XUEpKccqhu7ww9kna6pv0) | 2:25 |
-| 19 | [Los Hombres No Deben Llorar \- Live Version](https://open.spotify.com/track/1Sv7fAl93sicX5qsFjpOgg) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Exitos En Vivo](https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF) | 2:42 |
-| 20 | [El Toro Pinto](https://open.spotify.com/track/1Bintm3VasQng30o97U9D3) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [El Toro Pinto](https://open.spotify.com/album/7l2PClmsLcKhI0p3FDL65N) | 3:31 |
+| 19 | [El Toro Pinto](https://open.spotify.com/track/1Bintm3VasQng30o97U9D3) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [El Toro Pinto](https://open.spotify.com/album/7l2PClmsLcKhI0p3FDL65N) | 3:31 |
+| 20 | [Los Hombres No Deben Llorar \- Live Version](https://open.spotify.com/track/1Sv7fAl93sicX5qsFjpOgg) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Exitos En Vivo](https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF) | 2:42 |
 | 21 | [Popurrí: Pelotero a la Bola/Micaela/Tri Triki Tri Traka \- 30 Aniversario En Vivo](https://open.spotify.com/track/15JD98fKtwBIjYOVKyhS3O) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Popurrí: Pelotero a la Bola/Micaela/Tri Triki Tri Traka \(30 Aniversario En Vivo\)](https://open.spotify.com/album/1fu4yPYuDChI0g6LhXWaJl) | 3:35 |
 | 22 | [Que Sacrificio](https://open.spotify.com/track/2K0pLW0bk9Lqji0pGAMrvj) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/1XUEpKccqhu7ww9kna6pv0) | 2:25 |
 | 23 | [Juan Colorado](https://open.spotify.com/track/2nVMZNKy25WDfy96XNqZKQ) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Éxitos de Oro](https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq) | 2:29 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 44 | [Hambriento Como Lobo](https://open.spotify.com/track/6r49n2ZMvRHE7ybe4ZT9lX) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [El Mundo Gira](https://open.spotify.com/album/6nHrWozXC34srv6OaCjihS) | 3:02 |
 | 45 | [Te Necesito](https://open.spotify.com/track/2PluXYGjpAci9UNY0EXhZj) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Metamorfosis](https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy) | 3:10 |
 | 46 | [Dos Camionetas](https://open.spotify.com/track/4MzFbkFoldveCNWW5MCBK2) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt) | 2:15 |
-| 47 | [La Ranchera Pajona](https://open.spotify.com/track/0ZvZGvz5fUAgRmq5KuTgqm) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 2:29 |
-| 48 | [Si la Ven por Ahí](https://open.spotify.com/track/4UtzBoFkJe8yFF10yPKW9C) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tesoros de Coleccion](https://open.spotify.com/album/32VXfWuobjTws2zbbs2rnM) | 2:50 |
+| 47 | [Si la Ven por Ahí](https://open.spotify.com/track/4UtzBoFkJe8yFF10yPKW9C) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tesoros de Coleccion](https://open.spotify.com/album/32VXfWuobjTws2zbbs2rnM) | 2:50 |
+| 48 | [La Ranchera Pajona](https://open.spotify.com/track/0ZvZGvz5fUAgRmq5KuTgqm) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 2:29 |
 | 49 | [Por Qué Te Querré Tanto](https://open.spotify.com/track/6Qydko2p4Vcr4WmQI615DA) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Éxitos de Oro](https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq) | 2:36 |
 | 50 | [Cecy](https://open.spotify.com/track/7kauAAbQZtUgHj1YN9mMEM) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt) | 2:30 |
 
-Snapshot ID: `aTYVAAAAAAA9s3YoFyBUyffPPOoDzLmT`
+Snapshot ID: `aTdmgAAAAABTnF9gzTf0pzA45De78M1U`

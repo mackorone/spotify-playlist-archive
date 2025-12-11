@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 190789,
       "name": "2 De La",
       "url": "https://open.spotify.com/track/2ImJtl2zKUto4nB34YJHBO"
@@ -312,7 +312,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 219906,
       "name": "Amo",
       "url": "https://open.spotify.com/track/0QieT45vFvqEkzrcbIz01s"
@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Breve Cuento",
+        "url": "https://open.spotify.com/album/6E2wCJSSgsmnbMxcVdi63D"
+      },
+      "artists": [
+        {
+          "name": "Uriel VR",
+          "url": "https://open.spotify.com/artist/6no3rwnpxxnZOqs5IIQJ6j"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166047,
+      "name": "Breve Cuento",
+      "url": "https://open.spotify.com/track/7ayroPpTf6cNpRLBTVBBF9"
+    },
+    {
+      "album": {
         "name": "Bye",
         "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
       },
@@ -902,7 +920,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 174817,
       "name": "Cambiaste",
       "url": "https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8"
@@ -964,6 +982,28 @@
       "duration_ms": 153827,
       "name": "Cartas",
       "url": "https://open.spotify.com/track/6mi1TWZQeYnK5BmSDC3q5N"
+    },
+    {
+      "album": {
+        "name": "CASI T\u00da",
+        "url": "https://open.spotify.com/album/25u60Pgm4jnY8NU8Hy3ghn"
+      },
+      "artists": [
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        },
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157927,
+      "name": "CASI T\u00da",
+      "url": "https://open.spotify.com/track/7MklqPSMrs22DGXSDIgxeO"
     },
     {
       "album": {
@@ -1492,7 +1532,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 235152,
       "name": "Desvelado",
       "url": "https://open.spotify.com/track/2BEVCbf561QZ5I9dWnqXCH"
@@ -2110,7 +2150,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 243029,
       "name": "Es Diferente",
       "url": "https://open.spotify.com/track/2jNBVmei23ag6hYbxiZr8A"
@@ -2136,6 +2176,24 @@
       "duration_ms": 182452,
       "name": "Es Evidente",
       "url": "https://open.spotify.com/track/5rHZ4n6XYINvM87eXuYnQr"
+    },
+    {
+      "album": {
+        "name": "Escorpi\u00f3n",
+        "url": "https://open.spotify.com/album/2hVvALKHpm0xqD27jYRlrA"
+      },
+      "artists": [
+        {
+          "name": "Ilusi\u00f3n",
+          "url": "https://open.spotify.com/artist/0NqbvouIKHznONQAYK2Zvo"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175936,
+      "name": "Escorpi\u00f3n",
+      "url": "https://open.spotify.com/track/1MDJQipVUqJdW3NS3YK8LG"
     },
     {
       "album": {
@@ -3185,6 +3243,24 @@
     },
     {
       "album": {
+        "name": "Leave Me Alone",
+        "url": "https://open.spotify.com/album/04WR9EHqrhRPrBhJJvQ6Dy"
+      },
+      "artists": [
+        {
+          "name": "Angel Tumbado",
+          "url": "https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173924,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/6ANOny2Gjon09e0ghIgSPA"
+    },
+    {
+      "album": {
         "name": "LHTL",
         "url": "https://open.spotify.com/album/6tMPbSFgYJjgfNx2kGnGbg"
       },
@@ -3688,7 +3764,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 259493,
       "name": "Me Vas A Llorar",
       "url": "https://open.spotify.com/track/5EO1p7yQgXPZom9N5lECvX"
@@ -5347,6 +5423,24 @@
     },
     {
       "album": {
+        "name": "Pvta Luna",
+        "url": "https://open.spotify.com/album/0Cw2JMk1YfzkuXk7B1yBYa"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198058,
+      "name": "Pvta Luna",
+      "url": "https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU"
+    },
+    {
+      "album": {
         "name": "The Green Trip",
         "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
       },
@@ -5358,7 +5452,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 203174,
       "name": "Que Envidia",
       "url": "https://open.spotify.com/track/3JZs9g9JBaCZfaUVbZatS9"
@@ -6639,6 +6733,24 @@
     },
     {
       "album": {
+        "name": "Te Juro Jam\u00e1s",
+        "url": "https://open.spotify.com/album/7qmbZJx55TMAJgQblzEa5x"
+      },
+      "artists": [
+        {
+          "name": "Ilusion Eterno",
+          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180322,
+      "name": "Te Juro Jam\u00e1s",
+      "url": "https://open.spotify.com/track/5L5AYy2Vh2QeWDbJm5Tm4I"
+    },
+    {
+      "album": {
         "name": "El Karma (Deluxe Version)",
         "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
       },
@@ -7884,6 +7996,28 @@
       "duration_ms": 179013,
       "name": "Y LLORO",
       "url": "https://open.spotify.com/track/6RcAHyC5sAUIbPTkhOQwd8"
+    },
+    {
+      "album": {
+        "name": "Agushto Papa Presents: Hidden Gems Vol. 1",
+        "url": "https://open.spotify.com/album/1YZjlOb4atenIItM3ljEyC"
+      },
+      "artists": [
+        {
+          "name": "Agushto Papa",
+          "url": "https://open.spotify.com/artist/1v04yGSzSyXhmxR1SD5hfS"
+        },
+        {
+          "name": "Ilusion Eterno",
+          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178638,
+      "name": "Y Que Voy Hacer",
+      "url": "https://open.spotify.com/track/5VuCkeLxzPmjMfdRsHhox8"
     },
     {
       "album": {

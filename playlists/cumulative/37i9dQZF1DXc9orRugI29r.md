@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc9orRugI29r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc9orRugI29r)
 
-### [HOT NOW \- HUMBE ](https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r)
+### [HOT NOW \- El Bogueto, Anuel AA, Fuerza Regida & Yung Beef ](https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r)
 
-> LAS CANCIONES MÁS 🔥🔥🔥  DUEÑO DEL CIELO
+> LAS CANCIONES MÁS 🔥🔥🔥  COMOOOO ANTEEEES
 
-995 songs - 2 day 4 hr 52 min
+996 songs - 2 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-01-31 | 2025-04-09 |
 | [Cuando No Era Cantante](https://open.spotify.com/track/3d0er23tJIl1H2j8ZvtDww) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [No Hay Loco Que No Corone](https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0) | 3:31 | 2025-01-10 | 2025-01-25 |
 | [Cuando No Era Cantante](https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [No Hay Loco Que No Corone](https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS) | 3:31 | 2025-05-30 |  |
+| [Cuando No Era Cantante \- Remix](https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [Cuando No Era Cantante \(Remix\)](https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ) | 5:27 | 2025-12-11 |  |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-11-04 | 2023-03-11 |
 | [Culpable](https://open.spotify.com/track/1J1TG8a9E5s3QxQhboX8Lc) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Culpable](https://open.spotify.com/album/5uBg7lBVNM46wEBFCzC34h) | 4:21 | 2025-09-26 |  |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-05-18 | 2024-02-17 |
@@ -612,7 +613,7 @@
 | [NIGHT DANCER](https://open.spotify.com/track/3gmn76fCtpDazGMnN0QMHX) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 3:30 | 2023-03-17 | 2023-03-25 |
 | [Niña Santa](https://open.spotify.com/track/6Nbzfm117HI6ImAuv2zrth) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg) | [ÑEROSTARS](https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU) | 2:52 | 2024-07-15 | 2024-08-09 |
 | [Niño](https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 3:30 | 2025-10-15 | 2025-12-06 |
-| [No Capea](https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Capea](https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd) | 3:14 | 2025-08-29 |  |
+| [No Capea](https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Capea](https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd) | 3:14 | 2025-08-29 | 2025-12-11 |
 | [no confies en mujeres](https://open.spotify.com/track/1JgsGofAL2rQ47MjgqCwk6) | [katsu energy](https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ) | [no confies en mujeres](https://open.spotify.com/album/0FCSzaCWgRsohk84Rmuzlx) | 2:03 | 2022-11-25 | 2022-12-16 |
 | [No digas nada](https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [No digas nada](https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3) | 3:42 | 2023-05-18 | 2023-09-01 |
 | [no lo ves](https://open.spotify.com/track/7qCMCckflYXyt518lLIWbb) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [no lo ves](https://open.spotify.com/album/7hpcGYh5e59jKEu5bby13Q) | 2:29 | 2025-10-03 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1704390,
+  "num_followers": 1704272,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
+        "name": "River Fools & Mountain Saints",
+        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "Tom Barrett",
+      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
         "name": "Outside Child",
         "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
       },
@@ -431,18 +447,18 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "River Fools & Mountain Saints",
-        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
+        "name": "A Way Forward",
+        "url": "https://open.spotify.com/album/2hPnsq6HZHcgkFlLclKrvv"
       },
       "artists": [
         {
-          "name": "Ian Noe",
-          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+          "name": "Nation of Language",
+          "url": "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
         }
       ],
-      "duration_ms": 193080,
-      "name": "Tom Barrett",
-      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
+      "duration_ms": 325325,
+      "name": "Across That Fine Line",
+      "url": "https://open.spotify.com/track/0naG5PyrfwJQ0xtuQ1BGCM"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -471,22 +487,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "A Way Forward",
-        "url": "https://open.spotify.com/album/2hPnsq6HZHcgkFlLclKrvv"
-      },
-      "artists": [
-        {
-          "name": "Nation of Language",
-          "url": "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
-        }
-      ],
-      "duration_ms": 325325,
-      "name": "Across That Fine Line",
-      "url": "https://open.spotify.com/track/0naG5PyrfwJQ0xtuQ1BGCM"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Someday, Somewhere",
         "url": "https://open.spotify.com/album/161a4wcY3Lh9xN8OEF0RMr"
       },
@@ -499,22 +499,6 @@
       "duration_ms": 192461,
       "name": "Someday, Somewhere",
       "url": "https://open.spotify.com/track/75Ibf9kajH52v2uBNc7pkp"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -547,6 +531,22 @@
       "duration_ms": 266706,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "(watch my moves)",
         "url": "https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 248560,
       "name": "Lemon Tree",
       "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Del Water Gap",
-        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 205905,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/1JKioiu4WVtEZojt2OdfmR"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "A Face Like Mine",
         "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 168316,
       "name": "GPS (w/ Felly)",
       "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Del Water Gap",
+        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 205905,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/1JKioiu4WVtEZojt2OdfmR"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Radio Silence",
-        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "Radio Silence",
-      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Way I Go",
         "url": "https://open.spotify.com/album/5YqVZuseoRLBTC5xoYVvFj"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 247829,
       "name": "Way I Go",
       "url": "https://open.spotify.com/track/6v0X2SMVKK9gXHH9y6ilA4"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Radio Silence",
+        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Radio Silence",
+      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Far In",
-        "url": "https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Outside the Outside",
-      "url": "https://open.spotify.com/track/73lkMzwEOTSJCzvsjJdWBS"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Faith Crisis Pt 1",
         "url": "https://open.spotify.com/album/0NxJjIo7cyOfhcW4Eh6j1z"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 177473,
       "name": "Dramamine",
       "url": "https://open.spotify.com/track/0RKLSRK8BXvNJsWyxiAoYQ"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Far In",
+        "url": "https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Outside the Outside",
+      "url": "https://open.spotify.com/track/73lkMzwEOTSJCzvsjJdWBS"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "Violet Light",
-        "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 173077,
-      "name": "How Bad I Wanna Live",
-      "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
         "name": "Fruit",
         "url": "https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 204240,
       "name": "Fruit",
       "url": "https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
+        "name": "Violet Light",
+        "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
+      },
+      "artists": [
+        {
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+        }
+      ],
+      "duration_ms": 173077,
+      "name": "How Bad I Wanna Live",
+      "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
+        "name": "A Southern Gothic",
+        "url": "https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        },
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+        }
+      ],
+      "duration_ms": 195746,
+      "name": "South For The Winter (feat. Matt Berninger)",
+      "url": "https://open.spotify.com/track/5WD7NduZx58sry7EbodMve"
+    },
+    {
+      "added_at": "2024-03-08 16:42:43",
+      "album": {
         "name": "My Golden Years",
         "url": "https://open.spotify.com/album/0cqMtiIhqVJMqjz8Tffsoj"
       },
@@ -1447,22 +1467,18 @@
     {
       "added_at": "2024-03-08 16:42:43",
       "album": {
-        "name": "A Southern Gothic",
-        "url": "https://open.spotify.com/album/05ZMEHBBxF23Qm0GDclz3n"
+        "name": "Distant Axis",
+        "url": "https://open.spotify.com/album/0sy4l7BHcw0a50DjvvZz0Q"
       },
       "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        },
         {
           "name": "Matt Berninger",
           "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
         }
       ],
-      "duration_ms": 195746,
-      "name": "South For The Winter (feat. Matt Berninger)",
-      "url": "https://open.spotify.com/track/5WD7NduZx58sry7EbodMve"
+      "duration_ms": 265160,
+      "name": "Distant Axis",
+      "url": "https://open.spotify.com/track/4ysVx7wS2J8dvk77ON8jVI"
     },
     {
       "added_at": "2024-03-08 16:42:43",
@@ -1495,22 +1511,6 @@
       "duration_ms": 222586,
       "name": "Blindsided",
       "url": "https://open.spotify.com/track/1v8R8ZlnD5brSRkPMSEWjm"
-    },
-    {
-      "added_at": "2024-03-08 16:42:43",
-      "album": {
-        "name": "Distant Axis",
-        "url": "https://open.spotify.com/album/0sy4l7BHcw0a50DjvvZz0Q"
-      },
-      "artists": [
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
-        }
-      ],
-      "duration_ms": 265160,
-      "name": "Distant Axis",
-      "url": "https://open.spotify.com/track/4ysVx7wS2J8dvk77ON8jVI"
     },
     {
       "added_at": "2024-03-08 16:42:43",

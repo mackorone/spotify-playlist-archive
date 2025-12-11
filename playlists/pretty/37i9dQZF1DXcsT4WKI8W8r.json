@@ -1,6 +1,6 @@
 {
   "description": "A playlist to get you through your whole workday.",
-  "num_followers": 346559,
+  "num_followers": 346644,
   "original_name": "Music for a Workday",
   "owner": {
     "name": "Spotify",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL"
     },
     {
-      "added_at": "2025-03-18 09:51:32",
-      "album": {
-        "name": "Next Summer",
-        "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 165676,
-      "name": "Next Summer",
-      "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
-    },
-    {
       "added_at": "2024-04-05 00:00:00",
       "album": {
         "name": "All Your Fault: Pt. 2",
@@ -835,6 +819,22 @@
       "duration_ms": 163870,
       "name": "Meant to Be (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
+    },
+    {
+      "added_at": "2025-03-18 09:51:32",
+      "album": {
+        "name": "Next Summer",
+        "url": "https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 165676,
+      "name": "Next Summer",
+      "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1297,6 +1297,30 @@
       "url": "https://open.spotify.com/track/62ljuuXo0zrcrtJnnOhfxT"
     },
     {
+      "added_at": "2025-03-18 09:51:32",
+      "album": {
+        "name": "Call Me When You Break Up (with Gracie Abrams)",
+        "url": "https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 126831,
+      "name": "Call Me When You Break Up (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d"
+    },
+    {
       "added_at": "2024-05-28 07:30:45",
       "album": {
         "name": "Love Me JeJe",
@@ -1327,30 +1351,6 @@
       "duration_ms": 253295,
       "name": "Walking on Broken Glass",
       "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
-    },
-    {
-      "added_at": "2025-03-18 09:51:32",
-      "album": {
-        "name": "Call Me When You Break Up (with Gracie Abrams)",
-        "url": "https://open.spotify.com/album/4hnX5vXj6JoAhZ2lUrxwn3"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 126831,
-      "name": "Call Me When You Break Up (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/4yFPKNzjkCS0PpRzhcvy1d"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "The Supremes Sing Holland, Dozier, Holland",
-        "url": "https://open.spotify.com/album/5BrLn546krr08d9UvOj73k"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 163280,
-      "name": "You Keep Me Hangin' On",
-      "url": "https://open.spotify.com/track/4a01ClusxuZiloOK5UgLUn"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Diamond Heart",
         "url": "https://open.spotify.com/album/6PZBlxE1awuzcZTkUwWa4C"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 239834,
       "name": "Diamond Heart",
       "url": "https://open.spotify.com/track/4J4zx8xGJpuGndrVc06KaT"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Let You Love Me",
+        "url": "https://open.spotify.com/album/4INRJMYMJrSPsf5mbW26Fm"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Let You Love Me",
+      "url": "https://open.spotify.com/track/6xtcFXSo8H9BZN637BMVKS"
     },
     {
       "added_at": "2024-05-28 07:30:45",
@@ -1983,18 +1983,18 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Let You Love Me",
-        "url": "https://open.spotify.com/album/4INRJMYMJrSPsf5mbW26Fm"
+        "name": "The Supremes Sing Holland, Dozier, Holland",
+        "url": "https://open.spotify.com/album/5BrLn546krr08d9UvOj73k"
       },
       "artists": [
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Let You Love Me",
-      "url": "https://open.spotify.com/track/6xtcFXSo8H9BZN637BMVKS"
+      "duration_ms": 163280,
+      "name": "You Keep Me Hangin' On",
+      "url": "https://open.spotify.com/track/4a01ClusxuZiloOK5UgLUn"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2119,6 +2119,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "VENUS",
+        "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 222489,
+      "name": "Ammunition",
+      "url": "https://open.spotify.com/track/16gu3zjAEer6t6c8qxaltf"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/3P3zn45t3NEjaFILRIsybN"
       },
@@ -2135,22 +2151,6 @@
       "duration_ms": 169453,
       "name": "Pride (with mxmtoon)",
       "url": "https://open.spotify.com/track/708HrtYYClY6j6EOiToEBy"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "VENUS",
-        "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 222489,
-      "name": "Ammunition",
-      "url": "https://open.spotify.com/track/16gu3zjAEer6t6c8qxaltf"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2327,26 +2327,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Moral of the Story (feat. Niall Horan)",
-        "url": "https://open.spotify.com/album/3pqw4TEWnaCDNK2xs0BKhr"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        },
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 198515,
-      "name": "Moral of the Story (feat. Niall Horan)",
-      "url": "https://open.spotify.com/track/2NWVdwbd2hPIzC2lyf4y63"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Eastside (with Halsey & Khalid) [Acoustic]",
         "url": "https://open.spotify.com/album/6T3cWvfXW2hSV27SENATUk"
       },
@@ -2367,6 +2347,26 @@
       "duration_ms": 173004,
       "name": "Eastside (with Halsey & Khalid) - Acoustic",
       "url": "https://open.spotify.com/track/5iQ0Va8Dt5Yky4TXuqO5TF"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Moral of the Story (feat. Niall Horan)",
+        "url": "https://open.spotify.com/album/3pqw4TEWnaCDNK2xs0BKhr"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        },
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 198515,
+      "name": "Moral of the Story (feat. Niall Horan)",
+      "url": "https://open.spotify.com/track/2NWVdwbd2hPIzC2lyf4y63"
     },
     {
       "added_at": "2024-04-05 00:00:00",

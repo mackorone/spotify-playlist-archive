@@ -1,8 +1,8 @@
 pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain](/playlists/plain/1IDfsEC88SH30ppwQrOJoi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1IDfsEC88SH30ppwQrOJoi)
 
-### [Ultra Club Hits](https://open.spotify.com/playlist/1IDfsEC88SH30ppwQrOJoi)
+### [NYE Party Vibes](https://open.spotify.com/playlist/1IDfsEC88SH30ppwQrOJoi)
 
-> High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
+> High energy, club songs from around the world! &lt;3
 
 [Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,197 likes - 94 songs - 4 hr 41 min
 
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 93 | [More](https://open.spotify.com/track/0lxaE62v5sW1FtSfN3qFGd) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis), [Zans](https://open.spotify.com/artist/6D7wW45mKNEFhf4vkXv79x) | [More](https://open.spotify.com/album/3UA4zhPsqRHungaY4m9hp3) | 2:38 |
 | 94 | [Eso Me Mata \(Logorogno\)](https://open.spotify.com/track/0AYCnIKzZirVfRWMsJBiXf) | [Longo](https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI), [matt](https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy) | [Eso Me Mata \(Logorogno\)](https://open.spotify.com/album/768XqVjukIkYWblWNq4WAa) | 2:56 |
 
-Snapshot ID: `AAAK/vrC2OVstMgPBTwHDD7+R21Qv6lq`
+Snapshot ID: `AAALAIz05HCutNshNEaAtWVoHLzvuPyE`

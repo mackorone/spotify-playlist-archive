@@ -1,12 +1,12 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 39470,
+  "num_followers": 39474,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAC/1LHKdxS5UsJML5QnZC/b",
+  "snapshot_id": "aTdmgAAAAAANyUXsU5tXqfge5nke3tTn",
   "tracks": [
     {
       "added_at": null,
@@ -299,26 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Love (feat. Usher)",
-        "url": "https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 232787,
-      "name": "Good Love (feat. Usher)",
-      "url": "https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 167370,
       "name": "Do It On The Tip (feat. City Girls & Hot Girl Meg)",
       "url": "https://open.spotify.com/track/2993VQSr7a2Dj5hI5xcWG0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Love (feat. Usher)",
+        "url": "https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 232787,
+      "name": "Good Love (feat. Usher)",
+      "url": "https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Top Notch (feat. Fivio Foreign)",
-        "url": "https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 169737,
-      "name": "Top Notch (feat. Fivio Foreign)",
-      "url": "https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 2",
         "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 160013,
       "name": "Pastor (Quavo, City Girls feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4awve4McsKOqVuOpAbg6BF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Top Notch (feat. Fivio Foreign)",
+        "url": "https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "duration_ms": 169737,
+      "name": "Top Notch (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu"
     },
     {
       "added_at": null,

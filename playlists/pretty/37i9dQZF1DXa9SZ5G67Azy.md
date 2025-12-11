@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9SZ5G67Azy.md) - [plain]
 
 > Un poco de esto, un poco de lo otro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,408 likes - 99 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,413 likes - 99 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Todas Mis Bitches](https://open.spotify.com/track/1WQzr4c5zNmEu3Fnf1Wlil) | [Julián Serrano & Joaco Ojeda](https://open.spotify.com/artist/4vZKTGkHd38D6VpTIQKIQf), [Biei Postiglioni](https://open.spotify.com/artist/0yDn9vO57UEB0t3kSluV7Q) | [Todas Mis Bitches](https://open.spotify.com/album/4Bz9N3JwOPMu4QvUL9850R) | 2:14 |
+| 1 | [Todas Mis Bitches](https://open.spotify.com/track/1WQzr4c5zNmEu3Fnf1Wlil) | [Julián Serrano & Joaco Ojeda](https://open.spotify.com/artist/4vZKTGkHd38D6VpTIQKIQf), [Biei Postiglioni](https://open.spotify.com/artist/0yDn9vO57UEB0t3kSluV7Q), [Joaco Ojeda](https://open.spotify.com/artist/3mvmjSMjKW4j3esB22sGvW) | [Todas Mis Bitches](https://open.spotify.com/album/4Bz9N3JwOPMu4QvUL9850R) | 2:14 |
 | 2 | [Los Dos](https://open.spotify.com/track/1wX6odZ3xOGSABkDbEwdFy) | [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e) | [Los Dos](https://open.spotify.com/album/6NBnUtmO9fCA8ZNismILXx) | 3:56 |
 | 3 | [Parte y Choke \- Tech House](https://open.spotify.com/track/4RI2L8t4teyAVJso5zlTP0) | [Fran Argiro](https://open.spotify.com/artist/6n4T60QDq3u6sIXGaDQBY7) | [Parte y Choke \(Tech House\)](https://open.spotify.com/album/061u6wfF4GJQ3KHYhc9NWj) | 4:49 |
 | 4 | [Los del Espacio \(House\) \- Remix](https://open.spotify.com/track/3mdvsFgPjsWmvdTgonIwsl) | [Fran Tapia DJ](https://open.spotify.com/artist/2Kk2M9tuolP8L9fWepeXgb), [Tibau Mascheroni](https://open.spotify.com/artist/0kVnIhVZLeVOQ9HOyjNRV7), [DJ Elias Villabrille](https://open.spotify.com/artist/7jZOMTLvJsSmVG5wPEKrhh) | [Los del Espacio \(House\) \[Remix\]](https://open.spotify.com/album/3dE8zZ7O4lB1jtmCCjUBGM) | 4:53 |

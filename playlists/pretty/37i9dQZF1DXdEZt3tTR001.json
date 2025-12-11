@@ -1,6 +1,6 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 216764,
+  "num_followers": 216783,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
@@ -871,6 +871,30 @@
     {
       "added_at": "2025-12-05 05:00:11",
       "album": {
+        "name": "Good & Plenty",
+        "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Jack Dine",
+          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
+        }
+      ],
+      "duration_ms": 204705,
+      "name": "Good & Plenty",
+      "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
+    },
+    {
+      "added_at": "2025-12-05 05:00:11",
+      "album": {
         "name": "Rufus Featuring Chaka Khan",
         "url": "https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX"
       },
@@ -911,30 +935,6 @@
     {
       "added_at": "2025-12-05 05:00:11",
       "album": {
-        "name": "Good & Plenty",
-        "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
-      },
-      "artists": [
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "Jack Dine",
-          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
-        }
-      ],
-      "duration_ms": 204705,
-      "name": "Good & Plenty",
-      "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
-    },
-    {
-      "added_at": "2025-12-05 05:00:11",
-      "album": {
         "name": "Between the Sheets",
         "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 340014,
       "name": "Between the Sheets",
       "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
-    },
-    {
-      "added_at": "2025-12-05 05:00:11",
-      "album": {
-        "name": "Julia",
-        "url": "https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 189780,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7"
     },
     {
       "added_at": "2025-12-05 05:00:11",
@@ -983,22 +967,6 @@
     {
       "added_at": "2025-12-05 05:00:11",
       "album": {
-        "name": "Adventures In Paradise",
-        "url": "https://open.spotify.com/album/0OoRiTZs9hsRz7KxB8JkSX"
-      },
-      "artists": [
-        {
-          "name": "Minnie Riperton",
-          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
-        }
-      ],
-      "duration_ms": 288066,
-      "name": "Inside My Love",
-      "url": "https://open.spotify.com/track/7yngji6ogBXvAJdeOSBHAP"
-    },
-    {
-      "added_at": "2025-12-05 05:00:11",
-      "album": {
         "name": "Art of War",
         "url": "https://open.spotify.com/album/3PqJN4iYjY0IpMBPZqspwm"
       },
@@ -1011,6 +979,38 @@
       "duration_ms": 126973,
       "name": "Art of War",
       "url": "https://open.spotify.com/track/7FdS8jLabsc3ym9VY8kGjK"
+    },
+    {
+      "added_at": "2025-12-05 05:00:11",
+      "album": {
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 189780,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7"
+    },
+    {
+      "added_at": "2025-12-05 05:00:11",
+      "album": {
+        "name": "Adventures In Paradise",
+        "url": "https://open.spotify.com/album/0OoRiTZs9hsRz7KxB8JkSX"
+      },
+      "artists": [
+        {
+          "name": "Minnie Riperton",
+          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
+        }
+      ],
+      "duration_ms": 288066,
+      "name": "Inside My Love",
+      "url": "https://open.spotify.com/track/7yngji6ogBXvAJdeOSBHAP"
     },
     {
       "added_at": "2025-12-05 05:00:11",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-12-05 05:00:11",
       "album": {
-        "name": "Mama's Gun",
-        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 430000,
-      "name": "Orange Moon",
-      "url": "https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx"
-    },
-    {
-      "added_at": "2025-12-05 05:00:11",
-      "album": {
         "name": "Back on 74 (Full Crate Remix)",
         "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 174233,
       "name": "Back On 74 - Full Crate Remix",
       "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
+    },
+    {
+      "added_at": "2025-12-05 05:00:11",
+      "album": {
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 430000,
+      "name": "Orange Moon",
+      "url": "https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx"
     },
     {
       "added_at": "2025-12-05 05:00:11",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-12-05 05:00:11",
       "album": {
-        "name": "A LA SALA",
-        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 229437,
-      "name": "Hold Me Up (Thank You)",
-      "url": "https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF"
-    },
-    {
-      "added_at": "2025-12-05 05:00:11",
-      "album": {
         "name": "pinot noir",
         "url": "https://open.spotify.com/album/5iOtQs0o3KpnAv2yIKtlws"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2025-12-05 05:00:11",
       "album": {
-        "name": "Son Of Spergy",
-        "url": "https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ"
+        "name": "A LA SALA",
+        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 265000,
-      "name": "Root of all Evil",
-      "url": "https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I"
+      "duration_ms": 229437,
+      "name": "Hold Me Up (Thank You)",
+      "url": "https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF"
     },
     {
       "added_at": "2025-12-05 05:00:11",
@@ -1299,6 +1283,22 @@
       "duration_ms": 193714,
       "name": "wASH U AWAY",
       "url": "https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x"
+    },
+    {
+      "added_at": "2025-12-05 05:00:11",
+      "album": {
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/115s3YJqm6iLblABdjtgzQ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Root of all Evil",
+      "url": "https://open.spotify.com/track/0NZKfcua68wuZePhjp8N2I"
     },
     {
       "added_at": "2025-12-05 05:00:11",

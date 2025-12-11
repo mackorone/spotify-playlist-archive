@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,197 likes - 80 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,209 likes - 80 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 57 | [Menghujam Jantungku](https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [My Happy Life](https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe) | 3:33 |
 | 58 | [Kamulah Satu \- Satunya](https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The Best of Dewa 19](https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS) | 4:01 |
 | 59 | [Kecewa](https://open.spotify.com/track/1sDfnkQge4Nmkp8sgLgH1i) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 3:49 |
-| 60 | [Hebat](https://open.spotify.com/track/5LU1VpAAJJ5FqKfZdNpfIG) | [Tangga](https://open.spotify.com/artist/2XcOYJZRPtn0BASWE7R66J) | [Tangga](https://open.spotify.com/album/4mcheIZyWPzUgH2dig6RSB) | 3:54 |
-| 61 | [Air & Api](https://open.spotify.com/track/0Z3E3USDNRILRhQBwy0ljP) | [Naif](https://open.spotify.com/artist/2MkcKj2nfk2qaJtkQocKXL) | [The Best](https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE) | 3:17 |
+| 60 | [Air & Api](https://open.spotify.com/track/0Z3E3USDNRILRhQBwy0ljP) | [Naif](https://open.spotify.com/artist/2MkcKj2nfk2qaJtkQocKXL) | [The Best](https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE) | 3:17 |
+| 61 | [Hebat](https://open.spotify.com/track/5LU1VpAAJJ5FqKfZdNpfIG) | [Tangga](https://open.spotify.com/artist/2XcOYJZRPtn0BASWE7R66J) | [Tangga](https://open.spotify.com/album/4mcheIZyWPzUgH2dig6RSB) | 3:54 |
 | 62 | [Teman Bahagia](https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Teman Bahagia](https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b) | 3:28 |
 | 63 | [11 Januari](https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld) | [Gigi](https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf) | [Peace, Love And Respect](https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I) | 3:32 |
 | 64 | [Cinta Pertama \(Sunny\)](https://open.spotify.com/track/0E8e3Fy9Rh2C8K9rRnB2ih) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Cinta Pertama](https://open.spotify.com/album/5XZhAtlW5rKTZS2THwL8ju) | 4:22 |
@@ -82,10 +82,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 72 | [Kembalikanku](https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [semua, semua.](https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49) | 3:21 |
 | 73 | [Senopati in the Rain](https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Senopati in the Rain](https://open.spotify.com/album/1MQWy0x00JEwubp9UAfR31) | 4:20 |
 | 74 | [Four Summers](https://open.spotify.com/track/4uqeKoMtmbl1FTlRMdXKx5) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Reality Club Presents…](https://open.spotify.com/album/3pFDtZ4T0kJuNFYQGfGvAK) | 2:32 |
-| 75 | [Tanpa Tergesa](https://open.spotify.com/track/66wRGrt1HmeVa1wtnWMj6C) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Tanpa Tergesa](https://open.spotify.com/album/4XaaGPX1xavHLo2vJJ2u03) | 3:38 |
-| 76 | [Menunggu Kamu \- OST Jelita Sejuba](https://open.spotify.com/track/5LP6x0DRwi69MGAYen999y) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Menunggu Kamu \- OST Jelita Sejuba](https://open.spotify.com/album/44CfF0k71uyqaIuegQo34v) | 3:49 |
-| 77 | [Dengan Caraku](https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Dengan Caraku](https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo) | 4:32 |
-| 78 | [Benar\-Benar](https://open.spotify.com/track/21h4Kd8KTMPpLtQ7vdc2Aq) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk), [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Benar\-Benar](https://open.spotify.com/album/1fkRzmZR6GU8BQOcvAfy69) | 4:22 |
+| 75 | [Benar\-Benar](https://open.spotify.com/track/21h4Kd8KTMPpLtQ7vdc2Aq) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk), [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Benar\-Benar](https://open.spotify.com/album/1fkRzmZR6GU8BQOcvAfy69) | 4:22 |
+| 76 | [Tanpa Tergesa](https://open.spotify.com/track/66wRGrt1HmeVa1wtnWMj6C) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Tanpa Tergesa](https://open.spotify.com/album/4XaaGPX1xavHLo2vJJ2u03) | 3:38 |
+| 77 | [Menunggu Kamu \- OST Jelita Sejuba](https://open.spotify.com/track/5LP6x0DRwi69MGAYen999y) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Menunggu Kamu \- OST Jelita Sejuba](https://open.spotify.com/album/44CfF0k71uyqaIuegQo34v) | 3:49 |
+| 78 | [Dengan Caraku](https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Dengan Caraku](https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo) | 4:32 |
 | 79 | [Katakan Saja](https://open.spotify.com/track/012WiZSgTedjCImYNyA1bF) | [Khifnu](https://open.spotify.com/artist/7eKNo6fozgNsKThGC40ol7) | [Katakan Saja](https://open.spotify.com/album/5bCGmjVjL7LfS6el6O0Nwp) | 4:23 |
 | 80 | [Aku Wanita \(with Dipha Barus\)](https://open.spotify.com/track/3GYxLBhbX1bJH0zoC8zXa7) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9), [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr) | [It's Me BCL](https://open.spotify.com/album/3lWkC6kEMXvboWSFEB6D1B) | 3:31 |
 

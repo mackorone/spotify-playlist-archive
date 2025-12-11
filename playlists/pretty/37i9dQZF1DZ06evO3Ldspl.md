@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 
 > This is Binomio de Oro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,510 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,512 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 | 32 | [Añoranzas](https://open.spotify.com/track/1yOTHafP8PK3lcWrql9Ttq) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Binomio De Oro 1986](https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5) | 4:10 |
 | 33 | [A Mano Dura](https://open.spotify.com/track/0NLKxo7am9HmdtjrndiKJL) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Mucha Calidad](https://open.spotify.com/album/2uW4TXsdJu4EmTVGaql57E) | 4:34 |
 | 34 | [Nostalgia](https://open.spotify.com/track/2QsMoDPNqfTz2kasOmBP1E) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W), [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7) | [Para Siempre Rafael Orozco Binomio De Oro](https://open.spotify.com/album/6PYwZuAWfqOJhS7L6JEop2) | 4:51 |
-| 35 | [Nuevo Juramento](https://open.spotify.com/track/6ZYnRnLnTtScu5XQgRlBYp) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Somos El Vallenato](https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr) | 4:27 |
+| 35 | [Miedo Al Amor](https://open.spotify.com/track/0XgnPjPP5ADbTqQzy7Gtad) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Superior](https://open.spotify.com/album/71e1jF8EwEx5bUBRHKnW3h) | 4:10 |
 | 36 | [Sólo un Recuerdo](https://open.spotify.com/track/6zeAz63YKD3IM5UG4KqlGm) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Binomio De Oro 1986](https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5) | 4:03 |
-| 37 | [Miedo Al Amor](https://open.spotify.com/track/0XgnPjPP5ADbTqQzy7Gtad) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Superior](https://open.spotify.com/album/71e1jF8EwEx5bUBRHKnW3h) | 4:10 |
+| 37 | [Nuevo Juramento](https://open.spotify.com/track/6ZYnRnLnTtScu5XQgRlBYp) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Somos El Vallenato](https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr) | 4:27 |
 | 38 | [Reconozco Que Te Amo](https://open.spotify.com/track/6UWxacchH4Cp35ModegMM4) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Sólo Clásicos: Rafael Orozco](https://open.spotify.com/album/6UsTetmSj6XUraFvepURzu) | 3:51 |
 | 39 | [Cien Años De Ausencia](https://open.spotify.com/track/7KYEei2wozzvHR80bpf63c) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W), [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Para Siempre Rafael Orozco Binomio De Oro](https://open.spotify.com/album/6PYwZuAWfqOJhS7L6JEop2) | 4:19 |
 | 40 | [Habíamos Terminado](https://open.spotify.com/track/3oIldtYrNvBqJzll1NqdPE) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Clase Aparte](https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 | 49 | [Juro Que Te Amo](https://open.spotify.com/track/79c4saLiw95dwN0D8UHgoW) | [Rafael Orozco](https://open.spotify.com/artist/5EQkvkaE9pNbtp3vrWBLh8), [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Los 30 Mejores](https://open.spotify.com/album/13DgbOsMXrslPXmZ9WC2JS) | 4:10 |
 | 50 | [Nuestra Separación](https://open.spotify.com/track/098CkrzOpQ4vP4FieXch5c) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Internacional](https://open.spotify.com/album/7eAMaa3wNUuI2NBVeeaRB0) | 4:11 |
 
-Snapshot ID: `aTYVAAAAAAASu05tQWQEozCkOvzRwlU8`
+Snapshot ID: `aTdmgAAAAADEkpvg+dEoY1XG7TxRyJi7`

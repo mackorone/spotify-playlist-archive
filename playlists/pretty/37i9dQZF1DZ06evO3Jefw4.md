@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 
 > This is Katy Perry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,212,117 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,212,102 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 | 49 | [ARTIFICIAL \(feat\. JID\)](https://open.spotify.com/track/3UxPCKSa8fPIhP7KMSD0HW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 2:43 |
 | 50 | [NO TEARS FOR NEW YEAR'S](https://open.spotify.com/track/29f9Fsie82gDA7PVdq3qrc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [1432](https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH) | 3:22 |
 
-Snapshot ID: `aTYVAAAAAABrOZmHXWi4kf8VP3XQvfCn`
+Snapshot ID: `aTdmgAAAAACCmp6TePKCMNY0H5bF3Fe+`

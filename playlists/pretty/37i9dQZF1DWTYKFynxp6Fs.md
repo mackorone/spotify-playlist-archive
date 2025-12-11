@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 
 > Every song that's Trending NOW from Malayalam! <br/>Cover: Aashaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,158 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,595 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 | 49 | [Sundaree Onnu Parayoo \- Version, 1](https://open.spotify.com/track/1HELfOdMwHZRwjyekjrrXx) | [Deepak Dev](https://open.spotify.com/artist/5xLhn0Pjced0oiBuLUISr3), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Lion \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HQe0XxXc7m4XdFd4oD6hS) | 5:40 |
 | 50 | [Kuthanthram](https://open.spotify.com/track/11BKSlBxpkxrHvPi8uxXzV) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Manjummel Boys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HJZ57XsMHMgYsa7PpuZML) | 4:00 |
 
-Snapshot ID: `AAAAAMjEWYnF2WCKI9d4yRlp5xyrSSvg`
+Snapshot ID: `AAAAAFLBDzVhh9no8d/OnOarKKSfe/rT`

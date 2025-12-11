@@ -4,7 +4,7 @@
 
 > This is Elaine Martins\. The essential tracks, all in one playlist.
 
-79 songs - 6 hr 0 min
+80 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Agradeço ao Senhor](https://open.spotify.com/track/22qiCAREmhEVRRmu6XzbzR) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Agradeço ao Senhor](https://open.spotify.com/album/5zD0MjBQpZlsZtzvPYkr0a) | 3:19 | 2023-07-09 |  |
 | [Ainda Existe Solução](https://open.spotify.com/track/0voAoS7sRwXfhWt6Z5Zcq4) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Muda\-me](https://open.spotify.com/album/7kynVcUjINLffSuV90P5yF) | 4:42 | 2023-07-09 | 2023-09-22 |
 | [Alvará \(Ao Vivo\) \(feat\. Elaine Martins\)](https://open.spotify.com/track/2XzJj6yWWBi5OXjfev5LAr) | [Waguinho](https://open.spotify.com/artist/4M07lyCKKh35z1V8iSeuLq), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Samba Adorador \(Ao Vivo\)](https://open.spotify.com/album/58lwb5qZDAftER6jvlNVTj) | 3:37 | 2023-07-09 |  |
-| [Bastidores da Alma](https://open.spotify.com/track/2Sd6m3jTSpw2KjlddLThWD) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Bastidores da Alma](https://open.spotify.com/album/3QfkwGrA68xYYcZbfPB7nv) | 4:03 | 2023-07-09 |  |
+| [Bastidores da Alma](https://open.spotify.com/track/2Sd6m3jTSpw2KjlddLThWD) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Bastidores da Alma](https://open.spotify.com/album/3QfkwGrA68xYYcZbfPB7nv) | 4:03 | 2023-07-09 | 2025-12-11 |
 | [Buscar Tua Face é Preciso](https://open.spotify.com/track/3kgzeH8RBJJ0hvKbjrOWTU) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Vencedor](https://open.spotify.com/album/3YRcrviBE1y6ogqSYiOHe4) | 4:31 | 2023-07-09 |  |
 | [Chegou Um Tempo Novo](https://open.spotify.com/track/2fwtvB5PDJ88Cnm3BuabjF) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Chegou Um Tempo Novo](https://open.spotify.com/album/1pJOzwn6LVrNtB5BvDQBYf) | 4:46 | 2025-02-02 |  |
 | [Colhendo Frutos](https://open.spotify.com/track/70NUGliFKWIQca4lC0YiQp) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 3:22 | 2025-09-18 |  |
@@ -61,6 +61,7 @@
 | [O Preço da Chamada](https://open.spotify.com/track/5rqa3b6OWWHAxLgU8Cw5Lv) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 3:50 | 2023-07-09 |  |
 | [O Projeto é Grande \(Ao Vivo\)](https://open.spotify.com/track/2XlkukouNE8qW5NbRqrK0o) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [O Projeto é Grande \(Ao Vivo\)](https://open.spotify.com/album/64QoMsxBrtNxaFttO3t8ZC) | 4:09 | 2024-01-28 |  |
 | [O Reino \(Ao Vivo\)](https://open.spotify.com/track/3s7xaNrVYc93UhrGrJyX2t) | [Álvaro Tito](https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Cumpra o Seu Chamado \(Ao Vivo\)](https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS) | 4:18 | 2023-07-09 |  |
+| [O Segredo Pra Vencer \(Ao Vivo\)](https://open.spotify.com/track/0nZ2CC7P8mGVsrC8dMEh8e) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [O Segredo Pra Vencer \(Ao Vivo\)](https://open.spotify.com/album/5a27utjw4fO7DB3TzcERmr) | 4:18 | 2025-12-11 |  |
 | [Oceano de Lágrimas \(Ao Vivo\)](https://open.spotify.com/track/1WiYrYNgvI7Bqc7LY2r40h) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Oceano de Lágrimas \(Ao Vivo\)](https://open.spotify.com/album/3Rb7OhdbUkLCe77OP7NGpS) | 4:17 | 2023-07-09 |  |
 | [Ora Um Pouco Mais](https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Ora Um Pouco Mais](https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702) | 4:38 | 2023-07-09 |  |
 | [Ouve Senhor](https://open.spotify.com/track/47ScrQ1RpNNmMrFRqwJh64) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 4:20 | 2023-07-09 | 2024-10-04 |

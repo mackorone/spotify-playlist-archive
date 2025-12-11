@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 37855,
+  "num_followers": 37859,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAABHFHVxa+tr6l7tKjHTZcXg",
+  "snapshot_id": "aTdmgAAAAACrAJ6XvmXxnPawKsuj9ZbZ",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PRODUCT",
+        "url": "https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 126686,
+      "name": "UNISIL",
+      "url": "https://open.spotify.com/track/5khNs3STHWSxRI0CczJzqM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOPHIE",
         "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 244839,
       "name": "My Forever (feat. Cecile Believe)",
       "url": "https://open.spotify.com/track/2JeGLHT0VuE2XHVXr4qcdT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRODUCT",
-        "url": "https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 126686,
-      "name": "UNISIL",
-      "url": "https://open.spotify.com/track/5khNs3STHWSxRI0CczJzqM"
     },
     {
       "added_at": null,
@@ -471,6 +471,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Forever (SOPHIE Remix)",
+        "url": "https://open.spotify.com/album/5SXIKYD7yyI78tN5b15r6Q"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 219212,
+      "name": "Forever - SOPHIE Remix",
+      "url": "https://open.spotify.com/track/3Wfxy69tnwong1WWXOEjyW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOPHIE",
         "url": "https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 244062,
       "name": "Live In My Truth (feat. BC Kingdom & LIZ)",
       "url": "https://open.spotify.com/track/5lnau4jYpzDIPIavlqQWPy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever (SOPHIE Remix)",
-        "url": "https://open.spotify.com/album/5SXIKYD7yyI78tN5b15r6Q"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        },
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 219212,
-      "name": "Forever - SOPHIE Remix",
-      "url": "https://open.spotify.com/track/3Wfxy69tnwong1WWXOEjyW"
     },
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOPHIE",
-        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "Evita Manji",
-          "url": "https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk"
-        }
-      ],
-      "duration_ms": 215021,
-      "name": "Berlin Nightmare (feat. Evita Manji)",
-      "url": "https://open.spotify.com/track/1paZEp8YMs5AIlrL2RsfEr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "clown shit (up the wall) [SOPHIE Remix]",
         "url": "https://open.spotify.com/album/0w3ZduXZIPEMktyyVmEAbr"
       },
@@ -603,22 +583,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHEETAH BEND",
-        "url": "https://open.spotify.com/album/2kVNzMqVeQItTdeebUtWnb"
+        "name": "SOPHIE",
+        "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
       },
       "artists": [
         {
-          "name": "JIMMY EDGAR",
-          "url": "https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M"
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         },
+        {
+          "name": "Evita Manji",
+          "url": "https://open.spotify.com/artist/3GJYQIEbjMlGeo4eXP8xqk"
+        }
+      ],
+      "duration_ms": 215021,
+      "name": "Berlin Nightmare (feat. Evita Manji)",
+      "url": "https://open.spotify.com/track/1paZEp8YMs5AIlrL2RsfEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/0t7eXVo3XPdNtn41iFb7wf"
+      },
+      "artists": [
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 200287,
-      "name": "METAL",
-      "url": "https://open.spotify.com/track/7afPjxQevZSbFzo77zDO2G"
+      "duration_ms": 261387,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/3w0pK4LovS3sdONz9IWbb8"
     },
     {
       "added_at": null,
@@ -639,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHEETAH BEND",
+        "url": "https://open.spotify.com/album/2kVNzMqVeQItTdeebUtWnb"
+      },
+      "artists": [
+        {
+          "name": "JIMMY EDGAR",
+          "url": "https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 200287,
+      "name": "METAL",
+      "url": "https://open.spotify.com/track/7afPjxQevZSbFzo77zDO2G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOPHIE",
         "url": "https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 117010,
       "name": "Gallop (feat. Evita Manji)",
       "url": "https://open.spotify.com/track/3fXgSZ7VbhZugr60ANeurK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/0t7eXVo3XPdNtn41iFb7wf"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 261387,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/3w0pK4LovS3sdONz9IWbb8"
     },
     {
       "added_at": null,
@@ -736,7 +736,7 @@
       "added_at": null,
       "album": {
         "name": "OIL OF EVERY PEARL'S UN-INSIDES NON-STOP REMIX ALBUM",
-        "url": "https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR"
+        "url": "https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 265788,
-      "name": "Cold World",
-      "url": "https://open.spotify.com/track/1N5PpWpMl66VDyhJ9bNfg5"
+      "duration_ms": 221202,
+      "name": "Cold Water",
+      "url": "https://open.spotify.com/track/3qNjFM6QCj0eWllhAXSFLy"
     }
   ],
   "unique_name": "This Is SOPHIE",

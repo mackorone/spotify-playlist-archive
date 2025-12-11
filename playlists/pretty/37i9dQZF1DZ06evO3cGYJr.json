@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAD0wiixJpqGvWokV2eLh6h9",
+  "snapshot_id": "aTdmgAAAAAAmmIzBRgx6DbzxhHPitmZn",
   "tracks": [
     {
       "added_at": null,
@@ -95,26 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "bewildered",
-        "url": "https://open.spotify.com/album/5PwallTBqFYwPL2INf0LxT"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        },
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 172314,
-      "name": "bewildered",
-      "url": "https://open.spotify.com/track/20cfcU6zgYlTmnZIaCt9y4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "tired brain analysis",
         "url": "https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 193103,
       "name": "Tell me!!",
       "url": "https://open.spotify.com/track/4JqNAoZkRgZZrZPgmQe2PI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "bewildered",
+        "url": "https://open.spotify.com/album/5PwallTBqFYwPL2INf0LxT"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        },
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 172314,
+      "name": "bewildered",
+      "url": "https://open.spotify.com/track/20cfcU6zgYlTmnZIaCt9y4"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Xernia (2021 Version)",
-        "url": "https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 130369,
-      "name": "Memory of a Different World - 2021 Version",
-      "url": "https://open.spotify.com/track/6YRMabYzzHeU3OBPjLbjrD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "tired brain analysis",
         "url": "https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 173000,
       "name": "Choker",
       "url": "https://open.spotify.com/track/51LrY0DllvahLhlbiqqaO1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Xernia (2021 Version)",
+        "url": "https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 130369,
+      "name": "Memory of a Different World - 2021 Version",
+      "url": "https://open.spotify.com/track/6YRMabYzzHeU3OBPjLbjrD"
     },
     {
       "added_at": null,
@@ -228,25 +228,9 @@
           "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
         }
       ],
-      "duration_ms": 162420,
-      "name": "NOT_ALIVE//NOT_DEAD",
-      "url": "https://open.spotify.com/track/4m5A3XxebTTWhoWG7jTsTX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RUSH.",
-        "url": "https://open.spotify.com/album/6xxcZKAWFVtvFoyEIBpHKi"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 241616,
-      "name": "RUSH.",
-      "url": "https://open.spotify.com/track/4uwkafvVxUWQF4tY0szToe"
+      "duration_ms": 124585,
+      "name": "CONFUS1NG",
+      "url": "https://open.spotify.com/track/1G07gbwkIQXRYXBQC6cnmG"
     },
     {
       "added_at": null,
@@ -267,6 +251,90 @@
       "duration_ms": 178500,
       "name": "Break my brain",
       "url": "https://open.spotify.com/track/4oGRoXvedZfVkhyl6gKJQG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "secrets!",
+        "url": "https://open.spotify.com/album/46yGNn4DLG05H0d7UMycEq"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 229213,
+      "name": "secrets",
+      "url": "https://open.spotify.com/track/3m4aTcX05179QxhphJVL2T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i don't think you understand what i mean",
+        "url": "https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 180425,
+      "name": "nine forty-five",
+      "url": "https://open.spotify.com/track/24fvzEgCw2rBjyBsvb2tAb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HALCYON",
+        "url": "https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 162420,
+      "name": "NOT_ALIVE//NOT_DEAD",
+      "url": "https://open.spotify.com/track/4m5A3XxebTTWhoWG7jTsTX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "tired brain analysis",
+        "url": "https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        },
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Stay true",
+      "url": "https://open.spotify.com/track/2lS3JK9ZgW47cMsxYbGV0x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RUSH.",
+        "url": "https://open.spotify.com/album/6xxcZKAWFVtvFoyEIBpHKi"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 241616,
+      "name": "RUSH.",
+      "url": "https://open.spotify.com/track/4uwkafvVxUWQF4tY0szToe"
     },
     {
       "added_at": null,
@@ -304,93 +372,9 @@
           "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
         }
       ],
-      "duration_ms": 183938,
-      "name": "Miscommunication",
-      "url": "https://open.spotify.com/track/0PBztltBiDhmTzCt3FuQps"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "secrets!",
-        "url": "https://open.spotify.com/album/46yGNn4DLG05H0d7UMycEq"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 229213,
-      "name": "secrets",
-      "url": "https://open.spotify.com/track/3m4aTcX05179QxhphJVL2T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "tired brain analysis",
-        "url": "https://open.spotify.com/album/0LiiAziPBESMJM0An8mctj"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        },
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Stay true",
-      "url": "https://open.spotify.com/track/2lS3JK9ZgW47cMsxYbGV0x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "i don't think you understand what i mean",
-        "url": "https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 180425,
-      "name": "nine forty-five",
-      "url": "https://open.spotify.com/track/24fvzEgCw2rBjyBsvb2tAb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "So long (waiting 4 this)",
-        "url": "https://open.spotify.com/album/5pniDD9B6Fw108FhGLGvog"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 156610,
-      "name": "So long (waiting 4 this)",
-      "url": "https://open.spotify.com/track/3kNeuB76ICOmIUljH4MJFJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HALCYON",
-        "url": "https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "better than i was",
-      "url": "https://open.spotify.com/track/07sn5SwgSMxhj2PJxK5i6s"
+      "duration_ms": 174000,
+      "name": "Display",
+      "url": "https://open.spotify.com/track/1NAWJSbwUJ8jWGRN5djmbf"
     },
     {
       "added_at": null,
@@ -411,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "So long (waiting 4 this)",
+        "url": "https://open.spotify.com/album/5pniDD9B6Fw108FhGLGvog"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 156610,
+      "name": "So long (waiting 4 this)",
+      "url": "https://open.spotify.com/track/3kNeuB76ICOmIUljH4MJFJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "i don't think you understand what i mean",
         "url": "https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C"
       },
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "maybe i need to know myself",
-        "url": "https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Filter",
-      "url": "https://open.spotify.com/track/2RsKdzQe6crT8oOYrl9X6S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HALCYON",
         "url": "https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ"
       },
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Display",
-      "url": "https://open.spotify.com/track/1NAWJSbwUJ8jWGRN5djmbf"
+      "duration_ms": 183938,
+      "name": "Miscommunication",
+      "url": "https://open.spotify.com/track/0PBztltBiDhmTzCt3FuQps"
     },
     {
       "added_at": null,
@@ -483,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "maybe i need to know myself",
+        "url": "https://open.spotify.com/album/50bBN4O8NSZTUHAELH1i1y"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Filter",
+      "url": "https://open.spotify.com/track/2RsKdzQe6crT8oOYrl9X6S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "i don't think you understand what i mean",
         "url": "https://open.spotify.com/album/1PhnK56zCk2aiDaTnU6A6C"
       },
@@ -495,6 +495,22 @@
       "duration_ms": 171210,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/12eTcYkNENioNzywUrPE5u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HALCYON",
+        "url": "https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "better than i was",
+      "url": "https://open.spotify.com/track/07sn5SwgSMxhj2PJxK5i6s"
     },
     {
       "added_at": null,
@@ -515,30 +531,6 @@
       "duration_ms": 211343,
       "name": "GRACE MY EYES",
       "url": "https://open.spotify.com/track/6eekhQ1JwiOdLfI9yupCvd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HALCYON",
-        "url": "https://open.spotify.com/album/4g0beZReJwfj3YH2camtAJ"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        },
-        {
-          "name": "N E H O C",
-          "url": "https://open.spotify.com/artist/5r2xS9xwGZzfuXovIyrm8f"
-        },
-        {
-          "name": "Torralba",
-          "url": "https://open.spotify.com/artist/65GGC5mwg4lkLMUqzeETKP"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Halcyon",
-      "url": "https://open.spotify.com/track/0StvsZs3EbWGSINUC5NEUT"
     },
     {
       "added_at": null,
@@ -632,22 +624,6 @@
           "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
         }
       ],
-      "duration_ms": 77185,
-      "name": "Darkness (Xaiyne's Interlude) - 2021 Version",
-      "url": "https://open.spotify.com/track/6cLOt6zFnx40frQxekiDE8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Xernia (2021 Version)",
-        "url": "https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy"
-      },
-      "artists": [
-        {
-          "name": "Learke",
-          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
-        }
-      ],
       "duration_ms": 151014,
       "name": "Square - 2021 Version",
       "url": "https://open.spotify.com/track/6RLolhTFuwRYW1erhineq5"
@@ -664,9 +640,25 @@
           "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
         }
       ],
-      "duration_ms": 58590,
-      "name": "Xaiyne - 2021 Version",
-      "url": "https://open.spotify.com/track/5P6n33YS2cZF4qtE4YF1t9"
+      "duration_ms": 77185,
+      "name": "Darkness (Xaiyne's Interlude) - 2021 Version",
+      "url": "https://open.spotify.com/track/6cLOt6zFnx40frQxekiDE8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Xernia (2021 Version)",
+        "url": "https://open.spotify.com/album/2tJMOJXvJnTAygvstRfMcy"
+      },
+      "artists": [
+        {
+          "name": "Learke",
+          "url": "https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A"
+        }
+      ],
+      "duration_ms": 146860,
+      "name": "Re:Start - 2021 Version",
+      "url": "https://open.spotify.com/track/3TJ2wxqp3kShbKczbVc2D0"
     }
   ],
   "unique_name": "This Is Learke",

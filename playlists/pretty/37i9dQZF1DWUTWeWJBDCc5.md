@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain]
 
 > 스포티파이 뮤직 에디터가 선정한 2025 올해의 노래를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,133 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,319 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain]
 | 50 | [Scared of Love](https://open.spotify.com/track/1fCdHI0EBnGabru914ap2f) | [Min Jiwoon](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [Pink, then grey](https://open.spotify.com/album/7m7Z7Qi4enLFgn1s8vgYgh) | 2:37 |
 | 51 | [Casanova](https://open.spotify.com/track/2VHn8lbvu0vjBn5mIugXoD) | [Giwon](https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV), [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva) | [Casanova](https://open.spotify.com/album/3nsTpFqwW2gsCcYtajKt23) | 2:44 |
 
-Snapshot ID: `AAAAADQRfwGfTHOpHqsRbd4raRjazLm0`
+Snapshot ID: `AAAAAGNmLEW2rDkttgQv/EplmZbj9DeL`

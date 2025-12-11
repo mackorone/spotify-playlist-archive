@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZabLDQymgK1.md) - [plain]
 
 > Homoelectric is a legendary queer\-clubbing utopia, creating a safe space at the heart of Manchester’s LGBTQIA+ scene\. This is their sound of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,723 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,724 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

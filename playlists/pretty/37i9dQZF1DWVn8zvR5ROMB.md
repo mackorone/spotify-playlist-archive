@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Zac Brown Band, Luke Combs, Tucker Wetmore and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,766 likes - 91 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,817 likes - 91 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 15 | [Oh The Things Men Do](https://open.spotify.com/track/0jbghI5IrOUr7ud15SeMN3) | [Elizabeth Nichols](https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA) | [Oh The Things Men Do](https://open.spotify.com/album/3moEbC72XlsWUtoVd0q6KF) | 3:23 |
 | 16 | [Fort Worth Losing](https://open.spotify.com/track/4AGEYrYyBJ6lnQ4N47NqZP) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai) | [Fort Worth Losing](https://open.spotify.com/album/2CLDvpSj5780yaYZ7hip0N) | 3:20 |
 | 17 | [Boys Don’t Cry](https://open.spotify.com/track/7nScDEPx4pFDQyTL2KjHHW) | [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1) | [Boys Don’t Cry](https://open.spotify.com/album/6kInmctf4Uk6gkh4uL20qs) | 4:42 |
-| 18 | [The Truth](https://open.spotify.com/track/08Eht6VDfQ5bxl0RmljFKM) | [Phix](https://open.spotify.com/artist/0B114ZpJddB3jl8AHu4OKT), [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [The Truth](https://open.spotify.com/album/66YII2uIaDqEpnzrYC7CLV) | 2:47 |
+| 18 | [The Truth \(feat\. Dax\)](https://open.spotify.com/track/08Eht6VDfQ5bxl0RmljFKM) | [Phix](https://open.spotify.com/artist/0B114ZpJddB3jl8AHu4OKT), [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [The Truth](https://open.spotify.com/album/66YII2uIaDqEpnzrYC7CLV) | 2:47 |
 | 19 | [Stay Twangin'](https://open.spotify.com/track/03ma0OHwCcv4MihSl6mBo1) | [Ryan Charles](https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS), [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Jiggy Buckaroo](https://open.spotify.com/album/7r8wdkl0PNeIYYqQb64Uab) | 3:13 |
 | 20 | [As If](https://open.spotify.com/track/5H4jRuDG0ZwrZLyO7Pk3OU) | [Cole Gibbs](https://open.spotify.com/artist/0BNxJMwew787OoGuw3RGCy) | [As If](https://open.spotify.com/album/3qTI7Od7VQxE8C0mhGlOjQ) | 2:22 |
 | 21 | [So Do I \(feat\. Demi Lee Moore\)](https://open.spotify.com/track/5nScZXqbrp818wcVoGhqdt) | [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U), [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [Thieves](https://open.spotify.com/album/4uOkq1Qki5o1vRcUyw9sDh) | 3:06 |

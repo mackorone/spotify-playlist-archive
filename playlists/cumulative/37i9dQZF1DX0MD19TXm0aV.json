@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Switzerland's biggest hits right now. Cover: RAYE",
+  "description": "Switzerland's biggest hits right now. Cover: EAZ",
   "name": "Hot Hits Switzerland",
   "tracks": [
     {
@@ -2473,6 +2473,24 @@
     },
     {
       "album": {
+        "name": "Heal Me",
+        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
+      },
+      "artists": [
+        {
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215300,
+      "name": "Heal Me",
+      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
+    },
+    {
+      "album": {
         "name": "Heart of Gold",
         "url": "https://open.spotify.com/album/5OFrWDpHvOkYyllO3AKPtS"
       },
@@ -4620,7 +4638,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 176010,
       "name": "QUE CE SOIT CLAIR",
       "url": "https://open.spotify.com/track/6eDKyG6jvCXaTyTdFOh9wA"

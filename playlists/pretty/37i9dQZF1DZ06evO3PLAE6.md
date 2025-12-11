@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 
 > This is Kasey Chambers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,730 likes - 45 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,732 likes - 46 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 | 24 | [A Little Bit Lonesome](https://open.spotify.com/track/203Lkzy5VCbp6KNpZe1eYi) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 2:59 |
 | 25 | [Lose Yourself \- Live at Civic Theater, Newcastle, Australia](https://open.spotify.com/track/4v0Lu9dboiL2jeGvtvBiQT) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Lose Yourself \- Live at Civic Theater, Newcastle, Australia](https://open.spotify.com/album/17Kt6yiwlPwzwiYesXk6wC) | 8:14 |
 | 26 | [Little Bird](https://open.spotify.com/track/29BFk3tVefQDnyrNEwUezI) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Little Bird](https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU) | 3:30 |
-| 27 | [If We Had a Child \(with Keith Urban\)](https://open.spotify.com/track/5ipsrUhNoP3WyNxFmGsGc0) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Dragonfly](https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM) | 3:40 |
-| 28 | [You Got The Car](https://open.spotify.com/track/4NbyFZ9pip8N3f4y6I3M3v) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB) | 4:05 |
+| 27 | [You Got The Car](https://open.spotify.com/track/4NbyFZ9pip8N3f4y6I3M3v) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB) | 4:05 |
+| 28 | [If We Had a Child \(with Keith Urban\)](https://open.spotify.com/track/5ipsrUhNoP3WyNxFmGsGc0) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Dragonfly](https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM) | 3:40 |
 | 29 | [I Still Pray](https://open.spotify.com/track/4oYgJotc49KtSyGALfwWVH) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 4:31 |
 | 30 | [Wildflower](https://open.spotify.com/track/2zKsKOqfi9bwIbCWgFz0Un) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk) | 3:55 |
 | 31 | [Like A River](https://open.spotify.com/track/1Cn42IQmhdOzxa2RkbKx4n) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 3:56 |
@@ -51,7 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 | 41 | [Arlo](https://open.spotify.com/track/2pNblSXrSYzkhecsaDl7hq) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 3:25 |
 | 42 | [Beautiful Mess](https://open.spotify.com/track/6ulbpCE5a3Lr4yHHEYm7HV) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Little Bird](https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU) | 3:14 |
 | 43 | [Saturated](https://open.spotify.com/track/17bC7BQoH9R4x5E9SDYTsa) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 4:00 |
-| 44 | [Silverado Girl](https://open.spotify.com/track/1MXxppXv0fwIXXKkQ9ruHG) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 3:50 |
-| 45 | [Broken Cup](https://open.spotify.com/track/1CCR0XMAP68OVNqdFDTSr6) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 3:14 |
+| 44 | [F U Cancer](https://open.spotify.com/track/31LIWxlhD7bnCBBRk7oITh) | [Catherine Britt](https://open.spotify.com/artist/2U7nIOFSqqsKaBdSIdL0iZ), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Beccy Cole](https://open.spotify.com/artist/5ed39W9I1i3LRpNa6Jk1bG), [Lyn Bowtell](https://open.spotify.com/artist/25rD775DJJ1JuBZfYYPxKK), [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH), [Wesley Dean](https://open.spotify.com/artist/4KvLfhBh83ARBAQ8Ynm5HI), [Wendy Matthews](https://open.spotify.com/artist/67PiUcvCvLFNUNBiKagzQm) | [F U Cancer](https://open.spotify.com/album/5ho3Zka2kZ3gDnoR8RvZcA) | 2:50 |
+| 45 | [My Kingdom Come](https://open.spotify.com/track/7qsoB70EFeKoCJOb2yiIYu) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 3:30 |
+| 46 | [Silverado Girl](https://open.spotify.com/track/1MXxppXv0fwIXXKkQ9ruHG) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 3:50 |
 
-Snapshot ID: `aTYVAAAAAADC/jb4gBgPvwgNL5FpzEta`
+Snapshot ID: `aTdmgAAAAAAZdD6oen2gqCryVugV9DhM`

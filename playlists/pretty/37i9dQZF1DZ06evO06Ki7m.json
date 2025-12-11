@@ -1,12 +1,12 @@
 {
   "description": "This is Metro Boomin. The essential tracks, all in one playlist.",
-  "num_followers": 409235,
+  "num_followers": 409250,
   "original_name": "This Is Metro Boomin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAA1RfzSSqJtHnZEL/j4HdkC",
+  "snapshot_id": "aTdmgAAAAADSDEeYNXaj6DCosu6K0j8G",
   "tracks": [
     {
       "added_at": null,
@@ -519,6 +519,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 220584,
+      "name": "n\u00e9e-nah",
+      "url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
         "url": "https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ"
       },
@@ -551,30 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 220584,
-      "name": "n\u00e9e-nah",
-      "url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -599,6 +599,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 319493,
+      "name": "Hummingbird (Metro Boomin & James Blake)",
+      "url": "https://open.spotify.com/track/6HexNTb392JS071DoTGo0y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WE STILL DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 414893,
       "name": "Red Leather",
       "url": "https://open.spotify.com/track/4Dx4e0X5dR6TW85dtFU42x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 319493,
-      "name": "Hummingbird (Metro Boomin & James Blake)",
-      "url": "https://open.spotify.com/track/6HexNTb392JS071DoTGo0y"
     },
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WE STILL DON'T TRUST YOU",
-        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 243040,
-      "name": "Out Of My Hands",
-      "url": "https://open.spotify.com/track/2BOpFmZQ89Rjm2wvmud1MU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 195386,
       "name": "Link Up (Metro Boomin & Don Toliver, Wizkid feat. BEAM & Toian) - Spider-Verse Remix (Spider-Man: Across the Spider-Verse )",
       "url": "https://open.spotify.com/track/0y8Pu7x5jXgUjOIJvQIF5L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WE STILL DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 243040,
+      "name": "Out Of My Hands",
+      "url": "https://open.spotify.com/track/2BOpFmZQ89Rjm2wvmud1MU"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Lil Baby on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,792 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,841 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 86 | [Idea \#5](https://open.spotify.com/track/1WQ1DsGnAbVhSzhvVfDITL) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Not Everyone Can Go \(Deluxe\)](https://open.spotify.com/album/6iieFjF7ntXUDXDCZo0YGW) | 3:56 |
 | 87 | [Remember To Dance \(Little Things\)](https://open.spotify.com/track/41eIrJ4BOf6l0QzJFB1vO8) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8), [Adrián Berenguer](https://open.spotify.com/artist/7rIUiy8qJEFQ5oooWdnhQv) | [Remember To Dance \(Little Things\)](https://open.spotify.com/album/4GncEvr8CcRpYsuMSnnAvR) | 2:43 |
 | 88 | [holding on](https://open.spotify.com/track/41PIXqq9CalEACV8zLMiJ7) | [Loose Goose](https://open.spotify.com/artist/5msje6sT4sS2XNeSZR9JZS), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [holding on](https://open.spotify.com/album/2ApQ0Ib3tSeUEW6Hbt7sfB) | 3:57 |
-| 89 | [Easiest Goodbye \(feat\. Manana\)](https://open.spotify.com/track/6NpQxBXABg3PlNNY1f81NM) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N), [The Imports](https://open.spotify.com/artist/6lxZ4IurjpHXkrexbhUiKx), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Easiest Goodbye](https://open.spotify.com/album/7pxrvIi4o2vVi5KH6v5LQA) | 3:31 |
+| 89 | [Easiest Goodbye \(feat\. Manana\)](https://open.spotify.com/track/6NpQxBXABg3PlNNY1f81NM) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N), [The Imports](https://open.spotify.com/artist/0scPhUy5Yn2baMP06dvZAv), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Easiest Goodbye](https://open.spotify.com/album/7pxrvIi4o2vVi5KH6v5LQA) | 3:31 |
 | 90 | [Barter](https://open.spotify.com/track/7MFbesTdcv5KiSFORxThgQ) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI) | [Barter](https://open.spotify.com/album/3Ygj0OorA80jw0W4EbViwK) | 2:01 |
 | 91 | [Point Zero](https://open.spotify.com/track/76e2lc0sV8N1jLFlw2CS5x) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [Point Zero / Lift Me Up](https://open.spotify.com/album/49IPEHPL1alOTzFgXfVTl7) | 3:11 |
 | 92 | [From The Back](https://open.spotify.com/track/5f5BVvemMmLZrnOgHaysJG) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Who Is Bankroll?](https://open.spotify.com/album/5I6AcuO3zFir65GHWY6pap) | 2:11 |

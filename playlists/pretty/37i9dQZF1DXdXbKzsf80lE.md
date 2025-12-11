@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,440 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,478 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 32 | [Inquilina \- Ao Vivo](https://open.spotify.com/track/0XwpOHWnRid52uc7IHSAot) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Xperience Na Praia \(ao Vivo\)](https://open.spotify.com/album/04wtAfOnYEQvi7i6Iu9tA5) | 4:05 |
 | 33 | [Amor ou o Litrão](https://open.spotify.com/track/7qmnP8Woc47dLSrMD5MxL1) | [Petter Ferraz](https://open.spotify.com/artist/6gGJH7joTDx9M3xREiAq9U), [Menor Nico](https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw) | [Amor ou o Litrão](https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn) | 2:53 |
 | 34 | [Você Me Conquistou](https://open.spotify.com/track/00SFicbFKGIT0ONRRD79Uw) | [Eric Land](https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH), [Ytalo Paulo](https://open.spotify.com/artist/1HBCU4PyKgKz6nFTuFyMbA), [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Você Me Conquistou](https://open.spotify.com/album/2A8fVvBedsIsoXtzdi3pfx) | 3:08 |
-| 35 | [Comunicação Falhou \- Ao Vivo](https://open.spotify.com/track/55L3RVujZtkR96JIEgTbQg) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Comunicação Falhou \(Ao Vivo\)](https://open.spotify.com/album/6Dlff39auFLb9esJgg5Fgm) | 3:00 |
-| 36 | [Paraquedas \- Live](https://open.spotify.com/track/208IlWWWgzeaNe53aHeoKO) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [Gabriel Diniz Na Ilha \(Ao Vivo\)](https://open.spotify.com/album/6byjd01Gc7WfKauc1zJfWp) | 2:49 |
+| 35 | [Paraquedas \- Live](https://open.spotify.com/track/208IlWWWgzeaNe53aHeoKO) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [Gabriel Diniz Na Ilha \(Ao Vivo\)](https://open.spotify.com/album/6byjd01Gc7WfKauc1zJfWp) | 2:49 |
+| 36 | [Comunicação Falhou \- Ao Vivo](https://open.spotify.com/track/55L3RVujZtkR96JIEgTbQg) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Comunicação Falhou \(Ao Vivo\)](https://open.spotify.com/album/6Dlff39auFLb9esJgg5Fgm) | 3:00 |
 | 37 | [Ela Aperta a Minha Mente](https://open.spotify.com/track/1T3hcBQRwacjWLuJJFt8co) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Todos Os Ritmos](https://open.spotify.com/album/2Jim2Tr9XtfwdDB5ZsmI6u) | 3:17 |
 | 38 | [Não Digita \- Ao Vivo](https://open.spotify.com/track/3pj8CGadPM5hYJjC1gxpP8) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Nossa História \- Pt.1 \(Ao Vivo\)](https://open.spotify.com/album/6ZgVLQPG1FsY7JCT5tFPeY) | 3:15 |
 | 39 | [Nem Vá](https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Nem Vá](https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9) | 2:39 |

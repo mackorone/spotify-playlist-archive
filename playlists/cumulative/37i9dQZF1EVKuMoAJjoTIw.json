@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIV5ihzgPnqBl>Olivia Rodrigo</a>, <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIYIe6aZAczQL>Harry Styles</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIVo4rgqc9CZa>ABBA</a>, <a href=spotify:playlist:37i9dQZF1EIYnCz0KRbdlN>Fuerza Regida</a>, <a href=spotify:playlist:37i9dQZF1EIVVqYYNA6ypy>John Legend</a> and more",
   "name": "Moody Mix",
   "tracks": [
     {
@@ -704,7 +704,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 269556,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
@@ -958,6 +958,24 @@
       "duration_ms": 288301,
       "name": "another love - slowed + reverb",
       "url": "https://open.spotify.com/track/35vvJihHyfYE0lp61fEi6I"
+    },
+    {
+      "album": {
+        "name": "111XPANTIA",
+        "url": "https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151836,
+      "name": "ANSIEDAD",
+      "url": "https://open.spotify.com/track/1a7onn7lPqqRWul5ogyMyX"
     },
     {
       "album": {
@@ -1264,7 +1282,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-18",
+      "date_removed": null,
       "duration_ms": 196493,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/5qrSlOut2rNAWv3ubArkNy"
@@ -1448,7 +1466,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 295993,
       "name": "Bernafas Tanpamu",
       "url": "https://open.spotify.com/track/1imyB3ufkQTtOnD2PYUSuu"
@@ -1898,7 +1916,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 220492,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG"
@@ -3232,7 +3250,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 233640,
       "name": "Di Ujung Jalan",
       "url": "https://open.spotify.com/track/70GUGyk1sJYFTqZpSJj2KM"
@@ -3286,7 +3304,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 317650,
       "name": "Diary Depresiku",
       "url": "https://open.spotify.com/track/4HPxh6IkRxCkb3T06Pltch"
@@ -5392,7 +5410,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 170240,
       "name": "I Bet on Losing Dogs",
       "url": "https://open.spotify.com/track/2Co0IjcLTSHMtodwD4gzfg"
@@ -5678,7 +5696,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 167538,
       "name": "I miss you, I\u2019m sorry",
       "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
@@ -6760,7 +6778,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 240600,
       "name": "Kenanglah Aku - Live",
       "url": "https://open.spotify.com/track/3UC9ao1T0yWsdrpC8cETTA"
@@ -6778,7 +6796,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 296800,
       "name": "Keras Kepala",
       "url": "https://open.spotify.com/track/5l3jhWIfRg1FeKgw7R1jWb"
@@ -10370,7 +10388,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 246730,
       "name": "Rumah Singgah",
       "url": "https://open.spotify.com/track/3OTbh1VVrhebUzDor9r4pH"
@@ -10908,7 +10926,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 263407,
       "name": "Seandainya",
       "url": "https://open.spotify.com/track/5NmjnghJGJRFg34KGGx8O0"
@@ -10926,7 +10944,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 230130,
       "name": "Sedia Aku Sebelum Hujan",
       "url": "https://open.spotify.com/track/64qfw9JZl3RYCrq4Mn0WvT"
@@ -11226,7 +11244,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 340706,
       "name": "Sign of the Times",
       "url": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN"
@@ -12074,7 +12092,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 278500,
       "name": "Tak Ingin Usai",
       "url": "https://open.spotify.com/track/0OHr74BS1CEwyZsyY9kml2"
@@ -12204,7 +12222,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 251599,
       "name": "Tapi Tahukah Kamu?",
       "url": "https://open.spotify.com/track/4ePs7pCU6Jc82Vp8xwVo6g"
@@ -12842,6 +12860,24 @@
       "duration_ms": 215341,
       "name": "The View Between Villages",
       "url": "https://open.spotify.com/track/6PdWPdgPoVCT9WLFMVnhxx"
+    },
+    {
+      "album": {
+        "name": "Super Trouper",
+        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294720,
+      "name": "The Winner Takes It All",
+      "url": "https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV"
     },
     {
       "album": {
@@ -13738,7 +13774,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 248821,
       "name": "We Hug Now",
       "url": "https://open.spotify.com/track/7zFio8WT0tTBqLs1pXYKqy"
@@ -13850,7 +13886,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 193393,
       "name": "When I Close My Eyes",
       "url": "https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF"

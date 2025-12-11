@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,621 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,622 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 49 | [Sazón](https://open.spotify.com/track/1hZ0AcMDdOv4C7lpgBfmpE) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Azúcar Negra](https://open.spotify.com/album/2bAGL36bY6yZluv8vGZeIt) | 4:49 |
 | 50 | [Oye Cómo Va](https://open.spotify.com/track/3a5UozLKx9KIg5XeinOiYr) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Celia Cruz Centennial](https://open.spotify.com/album/4UWhyS8tzlwpbkEm7DyNR1) | 4:32 |
 
-Snapshot ID: `aTYVAAAAAADQXI8+7Hp73Zn/t6j6tfFj`
+Snapshot ID: `aTdmgAAAAABlYumLIGfo7mvgwmzBa8Ob`

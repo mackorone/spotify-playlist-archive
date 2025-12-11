@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-201 songs - 10 hr 28 min
+202 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Lie](https://open.spotify.com/track/7MPSf8sY2Ry1XkMasl7mgb) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/6h8dWi1kVq0JA4Cg0GCrGJ) | 4:07 | 2022-11-15 | 2024-04-19 |
 | [Like I Do](https://open.spotify.com/track/2LXH4mOxhtBxC5yOFKr87J) | [Cherry Coke](https://open.spotify.com/artist/7EuKZk7nDtXrYI6QNTmtKi) | [Up](https://open.spotify.com/album/0uKwiWRcJYAQdIUM6PbU6L) | 2:19 | 2024-03-05 | 2025-11-20 |
 | [Like I Do](https://open.spotify.com/track/6aUqMFKWVu66RPcSFozJRo) | [Cherry Coke](https://open.spotify.com/artist/7EuKZk7nDtXrYI6QNTmtKi) | [Up](https://open.spotify.com/album/6BqJwMta8igGVnteOli3AW) | 2:20 | 2022-10-11 | 2024-04-19 |
-| [Little by little](https://open.spotify.com/track/48HO4B8qWGEIYS8Sn3T6ZX) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [Highteen Romance Anime](https://open.spotify.com/album/0mGwHQwFoFrlhK4dymMlmh) | 1:32 | 2022-10-11 |  |
+| [Little by little](https://open.spotify.com/track/48HO4B8qWGEIYS8Sn3T6ZX) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [Highteen Romance Anime](https://open.spotify.com/album/0mGwHQwFoFrlhK4dymMlmh) | 1:32 | 2022-10-11 | 2025-12-11 |
 | [Little by little](https://open.spotify.com/track/4eQdYqgRkt3nDuF5RJhGpT) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [Highteen Romance Anime](https://open.spotify.com/album/3HZGfT1HpX2kMupxk8k3Jv) | 1:32 | 2023-11-14 | 2024-04-19 |
 | [Love](https://open.spotify.com/track/3XeT86JyIocazYBBuKAnN5) | [Kastorbeats](https://open.spotify.com/artist/49iPLmqT2MJYoLqR1xzcMC) | [Love](https://open.spotify.com/album/4JqlARz1ulnW4QkaMEhuXe) | 2:18 | 2022-10-11 |  |
 | [Make You Mine](https://open.spotify.com/track/0h3UTKzYwj9tzWvwkAcjcM) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Make You Mine](https://open.spotify.com/album/7ujA7khAkrOrhr7eNSUjDK) | 2:34 | 2022-10-11 | 2023-03-08 |
@@ -188,6 +188,7 @@
 | [twilight](https://open.spotify.com/track/6xoab7Sxd9L2N43Gu9fIBd) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [twilight \(Deluxe Edition\)](https://open.spotify.com/album/35o0PH7bM6n9wjVpYrAzpY) | 8:40 | 2022-10-11 | 2023-11-08 |
 | [Two Birds](https://open.spotify.com/track/4curqk9ts644kS6Zh1l4JO) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Ouka](https://open.spotify.com/album/2LlAtMZyCFxHdrFAfDS1OA) | 3:04 | 2024-03-05 | 2025-02-07 |
 | [Two Birds](https://open.spotify.com/track/741vcthcgaNVlg9Vtvb2OL) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Ouka](https://open.spotify.com/album/3RVSO5PGXwOqDyTfJCLIe6) | 3:04 | 2022-10-11 | 2024-04-19 |
+| [Two Breath](https://open.spotify.com/track/5BJZMtXqjsM8TzWlkR43yo) | [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5), [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [Two Breath EP](https://open.spotify.com/album/3w1FAdL9TmDrcXsYGbriYi) | 3:53 | 2025-12-10 |  |
 | [ugotmyheart](https://open.spotify.com/track/3VbVcvK33AjjIC4iTvK0qK) | [Nezumi Coo](https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs), [Miyna Usui](https://open.spotify.com/artist/1TUVadr4tlnrjcvN4SSrqk) | [Nezumi Coo](https://open.spotify.com/album/1aJd14wjwAinjWL1tUMVSH) | 3:15 | 2022-10-11 | 2025-03-05 |
 | [wait a second](https://open.spotify.com/track/1ZwluDxiaPLD9Jj5ugwZ3R) | [Charlie](https://open.spotify.com/artist/5kkQK3efFeI8eIp9ck9ygK), [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt) | [wait a second](https://open.spotify.com/album/7MzaAFwzLGQR3r9vwW1bJb) | 3:22 | 2023-06-28 | 2023-11-16 |
 | [wait a second](https://open.spotify.com/track/2ikAkH39VoCr9X1Xuf10CZ) | [Charlie](https://open.spotify.com/artist/5kkQK3efFeI8eIp9ck9ygK), [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt) | [wait a second](https://open.spotify.com/album/5lMUo3dIPTSojGJfgyOQZv) | 3:22 | 2022-10-11 | 2023-06-29 |

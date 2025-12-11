@@ -2,9 +2,9 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Cover: Inkonnu
+> Cover: Mons
 
-461 songs - 1 day 0 hr 11 min
+462 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Cactus 2](https://open.spotify.com/track/6AHf10DIiUmD5cG6ksph48) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Cactus 2](https://open.spotify.com/album/5eNDvQ4ivZr8AmeTow7aL3) | 2:49 | 2024-08-15 | 2024-09-02 |
 | [CADABRA](https://open.spotify.com/track/5Tar0bByzTkBdCtAx1qDHv) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [ABRACADABRA](https://open.spotify.com/album/5gjYTipqa2zQnwG0LUkFUx) | 2:42 | 2024-09-13 | 2024-12-13 |
 | [Cagoulé](https://open.spotify.com/track/0IziqBIxOD80J4qV6WweHq) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Cagoulé](https://open.spotify.com/album/4JZVthFrUJYniHlpe8rODk) | 2:38 | 2025-04-09 | 2025-05-27 |
+| [Cagoulé pt2](https://open.spotify.com/track/3f1GODLf3GYUH6ReHyTrKR) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Cagoulé pt2](https://open.spotify.com/album/0G9fkhG7XtdYDSwGVwWWtV) | 2:55 | 2025-12-10 |  |
 | [Calimero](https://open.spotify.com/track/4W4KSpJ4ZLCP6IiqBjfLOu) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Calimero](https://open.spotify.com/album/1lhGymNRIst8WkZBMT2FSv) | 4:22 | 2024-10-02 | 2024-10-25 |
 | [Calimero](https://open.spotify.com/track/6Zi9TslYIV1k2bJkXVJPFX) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Calimero](https://open.spotify.com/album/2L6SnmxBrxSd58adc4ZFX3) | 4:22 | 2024-07-12 | 2024-10-03 |
 | [CALLE](https://open.spotify.com/track/5UpwX7ibkJrMJjBzK3Odya) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [CALLE](https://open.spotify.com/album/5NlqSqAiywEFNcRioOAhqU) | 4:15 | 2023-08-05 | 2023-08-24 |
@@ -423,7 +424,7 @@
 | [Unique](https://open.spotify.com/track/4SIEgCDS7h90gFP5MEU4ai) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Unique](https://open.spotify.com/album/0iVvvnQXwwLBQhiwX3WFQ8) | 3:03 | 2024-03-01 | 2024-08-11 |
 | [Uno Dos Tres](https://open.spotify.com/track/36qTNWXDs4ky3BfNilyltW) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [X TAPE CHROMOSOME](https://open.spotify.com/album/5ISYnbsE4c9II6aRyfbkNF) | 3:18 | 2023-07-27 | 2023-07-29 |
 | [Unplugged \- Spotify Singles](https://open.spotify.com/track/5Gk7ZvxmrBbRonwlFh9STN) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [Unplugged \(Spotify Singles\)](https://open.spotify.com/album/157sF3l27tLvkrIJzqFUeg) | 2:56 | 2023-12-07 | 2024-02-23 |
-| [Valluminati](https://open.spotify.com/track/7MVXEImcCVGCPhfqiTVSdn) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Valluminati](https://open.spotify.com/album/6elabSMRw648ju19QYg55P) | 2:20 | 2025-10-23 |  |
+| [Valluminati](https://open.spotify.com/track/7MVXEImcCVGCPhfqiTVSdn) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Valluminati](https://open.spotify.com/album/6elabSMRw648ju19QYg55P) | 2:20 | 2025-10-23 | 2025-12-11 |
 | [Vendetta](https://open.spotify.com/track/6XfQQBnqyVSPlEbi2seiRX) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Vendetta](https://open.spotify.com/album/5tsxi7fSM7cMsdGoqsKfao) | 2:23 | 2024-11-13 | 2025-01-30 |
 | [VFC](https://open.spotify.com/track/2DnJBydEt9oiXmavnLqIka) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [VFC](https://open.spotify.com/album/4qfeUdzNGUE6CcyQksttim) | 3:29 | 2025-08-08 |  |
 | [violet](https://open.spotify.com/track/2e8xfkiNnTxWeUcuM37nco) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [violet](https://open.spotify.com/album/598wiKlgE2ZgHMOhV9uMRe) | 2:16 | 2025-07-16 |  |

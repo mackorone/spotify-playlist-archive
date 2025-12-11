@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,077 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,082 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,10 +61,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 51 | [差し色](https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [差し色](https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W) | 3:03 |
 | 52 | [Every Second \- Japanese Version](https://open.spotify.com/track/7DaNgo0E0pFOkgX1eHtwoi) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days \(Japanese Edition\)](https://open.spotify.com/album/15VgsndSAQkLnlLoF38yBc) | 3:02 |
 | 53 | [pity dirty](https://open.spotify.com/track/1O12sL9Ekek4WY7U03cG06) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [pity dirty](https://open.spotify.com/album/5W332DB5DkfDUp6ma52tsJ) | 3:13 |
-| 54 | [dandelions](https://open.spotify.com/track/692Q0Ry0X0BV1C9XhORcVF) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [dandelions](https://open.spotify.com/album/4yWnb5waN424BvaVNA7N50) | 3:12 |
-| 55 | [ばらばら](https://open.spotify.com/track/0RFt3nrc40G6eJHgnvvDxv) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [ばかのうた](https://open.spotify.com/album/0Q8mx1yHMWGG69vXrpiDrX) | 3:22 |
+| 54 | [ばらばら](https://open.spotify.com/track/0RFt3nrc40G6eJHgnvvDxv) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [ばかのうた](https://open.spotify.com/album/0Q8mx1yHMWGG69vXrpiDrX) | 3:22 |
+| 55 | [Late summer waves](https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Late summer waves](https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU) | 2:35 |
 | 56 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 |
-| 57 | [Late summer waves](https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Late summer waves](https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU) | 2:35 |
+| 57 | [dandelions](https://open.spotify.com/track/692Q0Ry0X0BV1C9XhORcVF) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [dandelions](https://open.spotify.com/album/4yWnb5waN424BvaVNA7N50) | 3:12 |
 | 58 | [やさしいままで](https://open.spotify.com/track/12ILanij3qGao68KxZtwR9) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [やさしいままで](https://open.spotify.com/album/6JEsb8Gr0a1RyY4zSTMApM) | 3:44 |
 | 59 | [朝の歌](https://open.spotify.com/track/5UQf4EYF0KGwAsIe1eaNuW) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [sakanaction](https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr) | 4:14 |
 | 60 | [アイウタ](https://open.spotify.com/track/7xR4VYpFQmNoDEkNfkezO2) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [アイウタ](https://open.spotify.com/album/7BeFwx8a2LsM1tVJVqAO52) | 4:52 |
@@ -82,12 +82,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 72 | [Pools of Colour](https://open.spotify.com/track/4ivOVhC9eZzzK28qQMZdoC) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Pools of Colour](https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL) | 3:48 |
 | 73 | [Until June](https://open.spotify.com/track/4reIkCla73IpG17FZel0Hf) | [effe](https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX) | [Until June](https://open.spotify.com/album/7xlOzPNL2DyzVzwNoAvFJC) | 3:48 |
 | 74 | [burn blister](https://open.spotify.com/track/6osnNgkB3IkVFYeeDJqi88) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [burn blister](https://open.spotify.com/album/2shLrT8Uep0RA7uDq2GxEY) | 3:09 |
-| 75 | [夢じゃない](https://open.spotify.com/track/3aqBmRNL7ptMZ5PimLVif2) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [CYCLE HIT 1997\-2005 Spitz Complete Single Collection](https://open.spotify.com/album/6GIlUDPdLxPLpPfVJvIwgJ) | 4:29 |
+| 75 | [Focus](https://open.spotify.com/track/6Ux75sV7IrXlaBYsBHtQLy) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Focus](https://open.spotify.com/album/5gKTyNetgxKt9MoJUVbNVF) | 3:03 |
 | 76 | [Place Your Hands](https://open.spotify.com/track/3acARy7b8j8rJVpit7le4i) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Place Your Hands](https://open.spotify.com/album/30sRu1LqGjOL28ocUx6TPh) | 3:15 |
-| 77 | [Focus](https://open.spotify.com/track/6Ux75sV7IrXlaBYsBHtQLy) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Focus](https://open.spotify.com/album/5gKTyNetgxKt9MoJUVbNVF) | 3:03 |
-| 78 | [マシかもしれない](https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [マシかもしれない](https://open.spotify.com/album/4BQ5ivnlanw4yUuqL3ugdA) | 3:15 |
-| 79 | [stick of gum](https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [stick of gum](https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS) | 2:28 |
-| 80 | [ハツコイノウタ](https://open.spotify.com/track/1CZcdTOFmjWTO9MG0UMG2c) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [ハツコイノウタ](https://open.spotify.com/album/4VtLZNRYHHAe7esWR5eD93) | 3:18 |
+| 77 | [夢じゃない](https://open.spotify.com/track/3aqBmRNL7ptMZ5PimLVif2) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [CYCLE HIT 1997\-2005 Spitz Complete Single Collection](https://open.spotify.com/album/6GIlUDPdLxPLpPfVJvIwgJ) | 4:29 |
+| 78 | [ハツコイノウタ](https://open.spotify.com/track/1CZcdTOFmjWTO9MG0UMG2c) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [ハツコイノウタ](https://open.spotify.com/album/4VtLZNRYHHAe7esWR5eD93) | 3:18 |
+| 79 | [マシかもしれない](https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [マシかもしれない](https://open.spotify.com/album/4BQ5ivnlanw4yUuqL3ugdA) | 3:15 |
+| 80 | [stick of gum](https://open.spotify.com/track/7DvOMvKBZESff6Etf0v9MY) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [stick of gum](https://open.spotify.com/album/6PNhTNKOapN967ioSFJQkS) | 2:28 |
 | 81 | [Swedish Girl](https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Swedish Girl](https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo) | 2:33 |
 | 82 | [頬杖](https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [頬杖](https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X) | 3:40 |
 | 83 | [Crush](https://open.spotify.com/track/3Uqrh2vcziJBZABRExKDZP) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Crush](https://open.spotify.com/album/5MGp5wf1wD2DgFjRoAIs2D) | 3:15 |

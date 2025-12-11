@@ -1,6 +1,6 @@
 {
   "description": "\u56de\u5bb6\u7684\u8def\u4e0a\u3001\u7368\u6b65\u7684\u6642\u523b\uff0c\u5fc3\u60c5\u8173\u4e0b\u96e3\u514d\u6c88\u91cd\uff0c\u6709\u597d\u807d\u7684\u6b4c\u66f2\u966a\u4f34\uff0c\u6703\u8b93\u4eba\u66ab\u6642\u5fd8\u4e86\u75b2\u5026\u3002",
-  "num_followers": 94175,
+  "num_followers": 94205,
   "original_name": "\u966a\u4f60\u8d70\u4e00\u6bb5",
   "owner": {
     "name": "Spotify",
@@ -371,18 +371,18 @@
     {
       "added_at": "2025-12-04 16:00:22",
       "album": {
-        "name": "\u6709\u4e00\u7a2e\u60b2\u50b7 (\u96fb\u5f71\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf"
+        "name": "\u4e00\u842c\u516c\u91cc\u5916\u7684\u4f60",
+        "url": "https://open.spotify.com/album/23DF05WD9sISXewi09oS22"
       },
       "artists": [
         {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+          "name": "Juice Boy",
+          "url": "https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H"
         }
       ],
-      "duration_ms": 237000,
-      "name": "\u6709\u4e00\u7a2e\u60b2\u50b7 - \u96fb\u5f71\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG"
+      "duration_ms": 253500,
+      "name": "\u4e00\u842c\u516c\u91cc\u5916\u7684\u4f60",
+      "url": "https://open.spotify.com/track/6FIhcAp2lj45eFlUkTriAr"
     },
     {
       "added_at": "2025-12-04 16:00:22",
@@ -403,18 +403,18 @@
     {
       "added_at": "2025-12-04 16:00:22",
       "album": {
-        "name": "\u4e00\u842c\u516c\u91cc\u5916\u7684\u4f60",
-        "url": "https://open.spotify.com/album/23DF05WD9sISXewi09oS22"
+        "name": "\u6709\u4e00\u7a2e\u60b2\u50b7 (\u96fb\u5f71\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf"
       },
       "artists": [
         {
-          "name": "Juice Boy",
-          "url": "https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H"
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
         }
       ],
-      "duration_ms": 253500,
-      "name": "\u4e00\u842c\u516c\u91cc\u5916\u7684\u4f60",
-      "url": "https://open.spotify.com/track/6FIhcAp2lj45eFlUkTriAr"
+      "duration_ms": 237000,
+      "name": "\u6709\u4e00\u7a2e\u60b2\u50b7 - \u96fb\u5f71\u300a\u6bd4\u60b2\u50b7\u66f4\u60b2\u50b7\u7684\u6545\u4e8b\u300b\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG"
     },
     {
       "added_at": "2025-12-04 16:00:22",
@@ -847,6 +847,26 @@
     {
       "added_at": "2025-12-04 16:00:22",
       "album": {
+        "name": "\u537b\u9084\u662f\u8aaa\u4e86\u518d\u898b (feat. Ace)",
+        "url": "https://open.spotify.com/album/14wOSxClUPkcVPhuWbWINM"
+      },
+      "artists": [
+        {
+          "name": "8lak",
+          "url": "https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w"
+        },
+        {
+          "name": "Ace",
+          "url": "https://open.spotify.com/artist/13jNwSdQV837VJRwD04XF6"
+        }
+      ],
+      "duration_ms": 212808,
+      "name": "\u537b\u9084\u662f\u8aaa\u4e86\u518d\u898b (feat. Ace)",
+      "url": "https://open.spotify.com/track/4viNW9UkvsftFBLpf2sb9R"
+    },
+    {
+      "added_at": "2025-12-04 16:00:22",
+      "album": {
         "name": "\u8e8d",
         "url": "https://open.spotify.com/album/6BhcCeMEBlIwhafSD05aS8"
       },
@@ -895,22 +915,6 @@
     {
       "added_at": "2025-12-04 16:00:22",
       "album": {
-        "name": "#2019\u9084\u5728\u807d",
-        "url": "https://open.spotify.com/album/0687JPYolanYGONrSkOZtK"
-      },
-      "artists": [
-        {
-          "name": "Rachel Liang",
-          "url": "https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp"
-        }
-      ],
-      "duration_ms": 268875,
-      "name": "\u90a3\u5973\u5b69\u5c0d\u6211\u8aaa",
-      "url": "https://open.spotify.com/track/5Gip2UwE4f8L4MQWsvcvfA"
-    },
-    {
-      "added_at": "2025-12-04 16:00:22",
-      "album": {
         "name": "\u50cf\u6c34\u4e00\u6a23",
         "url": "https://open.spotify.com/album/1ACpdg4OuZtA5MfrK4mM5u"
       },
@@ -931,22 +935,18 @@
     {
       "added_at": "2025-12-04 16:00:22",
       "album": {
-        "name": "\u537b\u9084\u662f\u8aaa\u4e86\u518d\u898b (feat. Ace)",
-        "url": "https://open.spotify.com/album/14wOSxClUPkcVPhuWbWINM"
+        "name": "#2019\u9084\u5728\u807d",
+        "url": "https://open.spotify.com/album/0687JPYolanYGONrSkOZtK"
       },
       "artists": [
         {
-          "name": "8lak",
-          "url": "https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w"
-        },
-        {
-          "name": "Ace",
-          "url": "https://open.spotify.com/artist/13jNwSdQV837VJRwD04XF6"
+          "name": "Rachel Liang",
+          "url": "https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp"
         }
       ],
-      "duration_ms": 212808,
-      "name": "\u537b\u9084\u662f\u8aaa\u4e86\u518d\u898b (feat. Ace)",
-      "url": "https://open.spotify.com/track/4viNW9UkvsftFBLpf2sb9R"
+      "duration_ms": 268875,
+      "name": "\u90a3\u5973\u5b69\u5c0d\u6211\u8aaa",
+      "url": "https://open.spotify.com/track/5Gip2UwE4f8L4MQWsvcvfA"
     },
     {
       "added_at": "2025-12-04 16:00:22",
@@ -1079,38 +1079,6 @@
     {
       "added_at": "2025-12-04 16:00:22",
       "album": {
-        "name": "UNLOCKED",
-        "url": "https://open.spotify.com/album/0hW8LEPCKe0y4HhL2f3NDn"
-      },
-      "artists": [
-        {
-          "name": "Haezee",
-          "url": "https://open.spotify.com/artist/0LestIkVCbetqsJ3o72Yzn"
-        }
-      ],
-      "duration_ms": 229143,
-      "name": "\u61c2\u4e8b\u5f97\u53ef\u4ee5",
-      "url": "https://open.spotify.com/track/2hktUEtNzzjFjHOUsHAkr7"
-    },
-    {
-      "added_at": "2025-12-04 16:00:22",
-      "album": {
-        "name": "\u8def\u908a\u7684\u91ce\u82b1",
-        "url": "https://open.spotify.com/album/38aZXIyQvFGdoVlOExSFhh"
-      },
-      "artists": [
-        {
-          "name": "Sabrina \u80e1\u6042\u821e",
-          "url": "https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs"
-        }
-      ],
-      "duration_ms": 273818,
-      "name": "\u8def\u908a\u7684\u91ce\u82b1",
-      "url": "https://open.spotify.com/track/7GWZeRV0UdXItmS7MPZ348"
-    },
-    {
-      "added_at": "2025-12-04 16:00:22",
-      "album": {
         "name": "\u771f\u7684\u50bb (\u96fb\u5f71\u300a\u4e00\u543b\u5b9a\u60c5\u300b\u8ffd\u611b\u7248\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/1kwz2DPjIizXiCnWz6ru2s"
       },
@@ -1139,6 +1107,38 @@
       "duration_ms": 241000,
       "name": "\u60f3\u6084\u6084\u4f4f\u9032\u4f60\u7684\u9748\u9b42 (\u96fb\u8996\u5287\u300a\u96e3\u54c4\u300b\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/23y0POoEllY2LM9EwWJ3ab"
+    },
+    {
+      "added_at": "2025-12-04 16:00:22",
+      "album": {
+        "name": "UNLOCKED",
+        "url": "https://open.spotify.com/album/0hW8LEPCKe0y4HhL2f3NDn"
+      },
+      "artists": [
+        {
+          "name": "Haezee",
+          "url": "https://open.spotify.com/artist/0LestIkVCbetqsJ3o72Yzn"
+        }
+      ],
+      "duration_ms": 229143,
+      "name": "\u61c2\u4e8b\u5f97\u53ef\u4ee5",
+      "url": "https://open.spotify.com/track/2hktUEtNzzjFjHOUsHAkr7"
+    },
+    {
+      "added_at": "2025-12-04 16:00:22",
+      "album": {
+        "name": "\u8def\u908a\u7684\u91ce\u82b1",
+        "url": "https://open.spotify.com/album/38aZXIyQvFGdoVlOExSFhh"
+      },
+      "artists": [
+        {
+          "name": "Sabrina \u80e1\u6042\u821e",
+          "url": "https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs"
+        }
+      ],
+      "duration_ms": 273818,
+      "name": "\u8def\u908a\u7684\u91ce\u82b1",
+      "url": "https://open.spotify.com/track/7GWZeRV0UdXItmS7MPZ348"
     },
     {
       "added_at": "2025-12-04 16:00:22",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-12-04 16:00:22",
       "album": {
+        "name": "\u6bd2\u85e5",
+        "url": "https://open.spotify.com/album/49FXdUp7VMFszWjZSHlvWc"
+      },
+      "artists": [
+        {
+          "name": "\u856d\u79c9\u6cbb",
+          "url": "https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1"
+        }
+      ],
+      "duration_ms": 205005,
+      "name": "\u6bd2\u85e5",
+      "url": "https://open.spotify.com/track/34YwC7hZlGeIyIZGir8WHE"
+    },
+    {
+      "added_at": "2025-12-04 16:00:22",
+      "album": {
         "name": "\u6578\u5230\u5341",
         "url": "https://open.spotify.com/album/3hraLuOIsylxL46mXfYZAe"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 221500,
       "name": "\u4e00\u76f4\u90fd\u5728 - \u300a\u6211\u7684\u9ebb\u54094\u500b\u9b3c\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/2pjAig6rbTn1Th9p9yjjwd"
-    },
-    {
-      "added_at": "2025-12-04 16:00:22",
-      "album": {
-        "name": "\u6bd2\u85e5",
-        "url": "https://open.spotify.com/album/49FXdUp7VMFszWjZSHlvWc"
-      },
-      "artists": [
-        {
-          "name": "\u856d\u79c9\u6cbb",
-          "url": "https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1"
-        }
-      ],
-      "duration_ms": 205005,
-      "name": "\u6bd2\u85e5",
-      "url": "https://open.spotify.com/track/34YwC7hZlGeIyIZGir8WHE"
     },
     {
       "added_at": "2025-12-04 16:00:22",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2025-12-04 16:00:22",
       "album": {
-        "name": "\u540d\u5b57",
-        "url": "https://open.spotify.com/album/57aoNt9kmpzov7sBNSmPNq"
+        "name": "\u56e0\u70ba\u4f60 \u6240\u4ee5\u6211",
+        "url": "https://open.spotify.com/album/0bLc2MyuEEP8eiMnd6v5Rt"
       },
       "artists": [
         {
-          "name": "Ronghao Li",
-          "url": "https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K"
+          "name": "Mayday",
+          "url": "https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY"
         }
       ],
-      "duration_ms": 266342,
-      "name": "\u540d\u5b57",
-      "url": "https://open.spotify.com/track/2xP7OHLvsj2XJgVb5qbFUK"
+      "duration_ms": 281799,
+      "name": "\u56e0\u70ba\u4f60 \u6240\u4ee5\u6211",
+      "url": "https://open.spotify.com/track/3oRP6yGs5d0kFpGRRzzaS8"
     }
   ],
   "unique_name": "\u966a\u4f60\u8d70\u4e00\u6bb5",

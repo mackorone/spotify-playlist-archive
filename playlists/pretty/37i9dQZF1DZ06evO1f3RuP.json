@@ -1,12 +1,12 @@
 {
   "description": "This is BAYLI. The essential tracks, all in one playlist.",
-  "num_followers": 184,
+  "num_followers": 186,
   "original_name": "This Is BAYLI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAADBngyveyYcBeI/i9/j8fR2",
+  "snapshot_id": "aTdmgAAAAAATr3WfpWI1mcaT4GayfUYs",
   "tracks": [
     {
       "added_at": null,
@@ -290,15 +290,11 @@
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        },
-        {
-          "name": "Kevin Aviance",
-          "url": "https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ"
         }
       ],
-      "duration_ms": 134968,
-      "name": "Gospel",
-      "url": "https://open.spotify.com/track/7JWK1ujyuUTJnPauiLYpzK"
+      "duration_ms": 129264,
+      "name": "all of that",
+      "url": "https://open.spotify.com/track/1uX94wwKxWLmMZX3MIgiIg"
     },
     {
       "added_at": null,
@@ -378,11 +374,15 @@
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        },
+        {
+          "name": "Kevin Aviance",
+          "url": "https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ"
         }
       ],
-      "duration_ms": 129264,
-      "name": "all of that",
-      "url": "https://open.spotify.com/track/1uX94wwKxWLmMZX3MIgiIg"
+      "duration_ms": 134968,
+      "name": "Gospel",
+      "url": "https://open.spotify.com/track/7JWK1ujyuUTJnPauiLYpzK"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TELLY BAG",
-        "url": "https://open.spotify.com/album/40xQNubC2C2X2QcV3GQTTn"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 114484,
-      "name": "TELLY BAG",
-      "url": "https://open.spotify.com/track/2fre7Ba0EuJp578flYyYlO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "demon time",
         "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 130057,
       "name": "demon time (with BAYLI)",
       "url": "https://open.spotify.com/track/4bLUlN1VbZvCksmFpjABwf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TELLY BAG",
+        "url": "https://open.spotify.com/album/40xQNubC2C2X2QcV3GQTTn"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 114484,
+      "name": "TELLY BAG",
+      "url": "https://open.spotify.com/track/2fre7Ba0EuJp578flYyYlO"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Indie folk songs to help your worries get lost in the woods.",
-  "num_followers": 318862,
+  "num_followers": 318868,
   "original_name": "Lost In The Woods",
   "owner": {
     "name": "Spotify",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2025-11-21 19:59:49",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5QMbfVH8QFE6JhLNELYfEz"
+      },
+      "artists": [
+        {
+          "name": "Paper Planes",
+          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
+        }
+      ],
+      "duration_ms": 105913,
+      "name": "Girl Like You",
+      "url": "https://open.spotify.com/track/6j4mDM1LbxbTpiLC7FBCDd"
+    },
+    {
+      "added_at": "2025-11-21 19:59:49",
+      "album": {
         "name": "Skylight (feat. Tiny Habits)",
         "url": "https://open.spotify.com/album/0i9O0xlQPRxJ53Lgl4MWqd"
       },
@@ -1127,18 +1143,18 @@
     {
       "added_at": "2025-11-21 19:59:49",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5QMbfVH8QFE6JhLNELYfEz"
+        "name": "Cowboys of Los",
+        "url": "https://open.spotify.com/album/218OGsKxVoDNZwue6n2yXH"
       },
       "artists": [
         {
-          "name": "Paper Planes",
-          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 105913,
-      "name": "Girl Like You",
-      "url": "https://open.spotify.com/track/6j4mDM1LbxbTpiLC7FBCDd"
+      "duration_ms": 243403,
+      "name": "Cowboys of Los",
+      "url": "https://open.spotify.com/track/4sPsl1gLOaq5yiCKo1UbBc"
     },
     {
       "added_at": "2025-11-21 19:59:49",
@@ -1155,22 +1171,6 @@
       "duration_ms": 211187,
       "name": "Mansion",
       "url": "https://open.spotify.com/track/0dPrl278qhdSTxnIy4qsB3"
-    },
-    {
-      "added_at": "2025-11-21 19:59:49",
-      "album": {
-        "name": "Cowboys of Los",
-        "url": "https://open.spotify.com/album/218OGsKxVoDNZwue6n2yXH"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 243403,
-      "name": "Cowboys of Los",
-      "url": "https://open.spotify.com/track/4sPsl1gLOaq5yiCKo1UbBc"
     },
     {
       "added_at": "2025-11-21 19:59:49",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2025-11-21 19:59:49",
       "album": {
+        "name": "Glu",
+        "url": "https://open.spotify.com/album/0JW4jZeObDmFprj3mtxjkb"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 163673,
+      "name": "Glu",
+      "url": "https://open.spotify.com/track/1PLFWJz52Tt6SaAs6Srtmt"
+    },
+    {
+      "added_at": "2025-11-21 19:59:49",
+      "album": {
         "name": "Nightvisions",
         "url": "https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt"
       },
@@ -1287,34 +1303,18 @@
     {
       "added_at": "2025-11-21 19:59:49",
       "album": {
-        "name": "HEADPHONES",
-        "url": "https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2"
+        "name": "caroline 2",
+        "url": "https://open.spotify.com/album/1CmdanwOGnV5QevtJQL6bN"
       },
       "artists": [
         {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+          "name": "caroline",
+          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
         }
       ],
-      "duration_ms": 196200,
-      "name": "HEADPHONES",
-      "url": "https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx"
-    },
-    {
-      "added_at": "2025-11-21 19:59:49",
-      "album": {
-        "name": "Baghdad",
-        "url": "https://open.spotify.com/album/4Dz25Hgxa02gqv0D6ZTbqk"
-      },
-      "artists": [
-        {
-          "name": "Flo Perlin",
-          "url": "https://open.spotify.com/artist/2M9I6kX9POMfrxPfePZh05"
-        }
-      ],
-      "duration_ms": 206276,
-      "name": "Baghdad",
-      "url": "https://open.spotify.com/track/7rOXvlA2T7jDETJ107zZW0"
+      "duration_ms": 256308,
+      "name": "Coldplay cover",
+      "url": "https://open.spotify.com/track/2Ht1gsebaD2W5LWAZvYoPG"
     }
   ],
   "unique_name": "Lost In The Woods",

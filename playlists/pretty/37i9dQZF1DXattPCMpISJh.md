@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Say She She
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,409 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,458 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 77 | [Deafened \(feat\. Family Habits\)](https://open.spotify.com/track/2tlCCAR07k2G9ba67McxQc) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Family Habits](https://open.spotify.com/artist/7yxQ5wpTnQNvwNHYOplK0Y) | [Manifesto](https://open.spotify.com/album/4SBBGeRaboOnypEhVFRw38) | 3:21 |
 | 78 | [Voices \(feat\. Kylie Minogue\)](https://open.spotify.com/track/4NwqRvKoLaREF9Nt11sOka) | [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Last Man Dancing](https://open.spotify.com/album/3xm2whAWztIc9kHD3V0DMt) | 4:26 |
 | 79 | [Freak 54 \(Freak Out\)](https://open.spotify.com/track/5CAaHC3rBhhZyFR7JqgPbn) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Freak 54 \(Freak Out\)](https://open.spotify.com/album/5w5ybFZ5gewy0Lb9LA9lXc) | 2:08 |
-| 80 | [Tension \(Chromeo Remix\)](https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Tension \(The Remixes\)](https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9) | 4:06 |
+| 80 | [Tension \- Chromeo Remix](https://open.spotify.com/track/1FvLE1PSYgWy9t98gHyoz8) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Tension \(The Remixes\)](https://open.spotify.com/album/6OCoaXc7qY2Y39b8FMTEb9) | 4:06 |
 | 81 | [Young In California](https://open.spotify.com/track/4HEpz9QQ8uOViMf6K8tucK) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Young In California](https://open.spotify.com/album/77AL4lIpiSzEf4P6Z2j4XF) | 3:57 |
 | 82 | [Celebrate \- Radio Edit](https://open.spotify.com/track/5dEk9sFFB5jpi2RWXKep3Z) | [Micky More & Andy Tee](https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN), [Kathy Brown](https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq), [Sheree Hicks](https://open.spotify.com/artist/79dkWGNPlut8iOyyqPw9Ru) | [Celebrate \(Radio Edit\)](https://open.spotify.com/album/3QIlKE97catBOG2cz5Pan4) | 3:34 |
 | 83 | [Feel Good Too](https://open.spotify.com/track/5QeYUoI9ApfeOVaKhfR4Xg) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/677FkdKRzdnB8tITwciUNP) | 3:59 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 
 > Original and synced songs that will stay with you long after the credits roll...Cover: Wicked: For Good
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,390 likes - 49 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,401 likes - 49 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 | 28 | [My Favorite Things](https://open.spotify.com/track/7BZZUAOGqScBb9wciuBHa7) | [The Lennon Sisters](https://open.spotify.com/artist/6FQRjLSuGHEAdioKxIGBdZ) | [Best Loved Melodies](https://open.spotify.com/album/2P1yIVMnwTLyVcVTlphNod) | 2:31 |
 | 29 | [Beautiful Colors \- from Kaiju No\. 8](https://open.spotify.com/track/3Tdih47Fm5lGlwc4qsqFGr) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Beautiful Colors \- from Kaiju No\. 8](https://open.spotify.com/album/7J74ZcCS99ZyNUHB6E6Ntn) | 2:37 |
 | 30 | [Wild Horses](https://open.spotify.com/track/4M4Q3JLsUbyTkd5WHty1WB) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks 1964\-1971](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 5:42 |
-| 31 | [Beware of Darkness \(2014 Remaster\)](https://open.spotify.com/track/5cMxqr10aoaP0B1PY8yYTc) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk) | 3:51 |
+| 31 | [Beware of Darkness \- 2014 Remaster](https://open.spotify.com/track/5cMxqr10aoaP0B1PY8yYTc) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk) | 3:51 |
 | 32 | [Soda Pop](https://open.spotify.com/track/4K8wTS6UZD7lQE8H7BpoXc) | [Saja Boys](https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Danny Chung](https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33), [KEVIN WOO](https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN), [samUIL Lee](https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film / Deluxe Version\)](https://open.spotify.com/album/50O9cXkFsQs8z0RV0UOvvl) | 2:30 |
 | 33 | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8) | 3:29 |
 | 34 | [In Your Eyes](https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:57 |

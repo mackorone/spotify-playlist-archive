@@ -2,9 +2,9 @@
 
 ### [Hit Maghribi](https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr)
 
-> 🇲🇦 من المغرب إلى العالمية، أحسن الأغاني المغربية
+> Les hits marocains qui nous rassemblent, où qu’on soit 🇲🇦
 
-489 songs - 1 day 2 hr 4 min
+490 songs - 1 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Gana \(feat\. Hatim Ammor\)](https://open.spotify.com/track/25iWrs0J2F9hqUJV8tnNxP) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:12 | 2023-06-10 | 2023-07-30 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-05-25 | 2024-08-29 |
 | [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2021-12-25 | 2022-03-15 |
+| [Genkidama](https://open.spotify.com/track/0rf6OSXX9BXO3NhOh3usht) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Genkidama](https://open.spotify.com/album/3Yv0GD4GkCgvsiuhQOgFde) | 2:31 | 2025-12-10 |  |
 | [Ghadi Jay](https://open.spotify.com/track/0B222iHrASMQ4vElXboQbf) | [Echbiy](https://open.spotify.com/artist/6BwGFQFM6wA6vPgjjFo34K) | [Ghadi Jay](https://open.spotify.com/album/3FTpE6cFgZvOxjE4tujDIr) | 3:15 | 2021-12-25 | 2022-06-07 |
 | [Ghali](https://open.spotify.com/track/2rXnsktUWQq532AnK0Bmm3) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r), [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghali](https://open.spotify.com/album/6lJYLIGoeGsEEk1gdsClwg) | 2:59 | 2024-11-21 |  |
 | [Ghanili](https://open.spotify.com/track/0sobdrww1wYUfqhrCAzwz0) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghanili](https://open.spotify.com/album/5l7tQsPjmtqu7IkyDREAjI) | 2:57 | 2023-12-15 | 2025-03-03 |
@@ -382,7 +383,7 @@
 | [Rouhi](https://open.spotify.com/track/2qxPBeL2Q8jRnDv6EPK18A) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Rouhi](https://open.spotify.com/album/7yfYEHSOufXZcpYcBfD0VS) | 3:01 | 2024-02-03 | 2025-01-16 |
 | [RS6](https://open.spotify.com/track/6EqhAlO3OAirPbd1kwIbBX) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [RS6](https://open.spotify.com/album/3NOJ88r8w6wqRtNgQInvzi) | 3:48 | 2025-05-14 |  |
 | [RWINI](https://open.spotify.com/track/4KtR6eHxOOQ3cE8ZwVeYS9) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv), [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [RWINI](https://open.spotify.com/album/3G0HZxflIGREjKgKHGcOh3) | 4:01 | 2025-05-13 |  |
-| [S2al](https://open.spotify.com/track/3WsIrbUbS5L2ONXIfs1k1a) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [S2al](https://open.spotify.com/album/33QTv64kKcqfqAP8cxB2TY) | 3:48 | 2025-10-17 |  |
+| [S2al](https://open.spotify.com/track/3WsIrbUbS5L2ONXIfs1k1a) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [S2al](https://open.spotify.com/album/33QTv64kKcqfqAP8cxB2TY) | 3:48 | 2025-10-17 | 2025-12-11 |
 | [S7aba](https://open.spotify.com/track/6MxAG9DhagTDK73jJAY7wf) | [Jewlz](https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [S7aba](https://open.spotify.com/album/3G7A0LhiXySh8bmjm0xSF7) | 2:56 | 2022-06-09 | 2022-07-17 |
 | [Sabra](https://open.spotify.com/track/0iqRTNFvfLZUjdkIBaJkVS) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Sabra](https://open.spotify.com/album/7DTt8yVftsh8Gi0opaE74z) | 3:43 | 2022-01-18 | 2022-05-10 |
 | [Sac](https://open.spotify.com/track/63DDC3J4z88hNMvcDFzQnH) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 3:16 | 2021-12-25 | 2022-06-23 |

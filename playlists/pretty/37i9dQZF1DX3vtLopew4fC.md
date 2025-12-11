@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Highlights of 2025..\. listen to Canadian women at full volume! Cover: Jade LeMac
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,493 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,495 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 49 | [Gravity](https://open.spotify.com/track/743tAfMM3TBvVHEP6cCMEv) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Better Broken](https://open.spotify.com/album/1M6hqzklMlxYCA3nyS43KI) | 5:00 |
 | 50 | [Future Emma](https://open.spotify.com/track/5WhLEJQWiiq0DHU206T29t) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Modes of Transportation](https://open.spotify.com/album/1uCP3X06rtmi7P7Dsg1cMD) | 4:23 |
 
-Snapshot ID: `AAAAAAw7FoIRQcssHIMdagOGA5iS3Bfq`
+Snapshot ID: `AAAAALRem+71aoTwkeR1N+bWJaEeRbrh`

@@ -321,6 +321,32 @@
     },
     {
       "album": {
+        "name": "Tere Ishk Mein",
+        "url": "https://open.spotify.com/album/3U6JvK5ij3bbhBmdotoNJ1"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311103,
+      "name": "Aawaara Angaara",
+      "url": "https://open.spotify.com/track/6flQ5XJKj5qIhpxSHOd3jC"
+    },
+    {
+      "album": {
         "name": "Aaya Re Toofan (From \"Chhaava\")",
         "url": "https://open.spotify.com/album/03dESos0n5Qpc8GC4mIWDz"
       },
@@ -2828,7 +2854,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 169090,
       "name": "Dilbar Ki Aankhon Ka (From \"Thamma\") [Feat. Nora Fatehi]",
       "url": "https://open.spotify.com/track/5jE2mbf6tsHwYIk0tiEix2"
@@ -3310,6 +3336,36 @@
       "duration_ms": 182738,
       "name": "Garmi (From \"Street Dancer 3D\") (feat. Varun Dhawan)",
       "url": "https://open.spotify.com/track/6q9XTgfWilsnyiFofvYrIF"
+    },
+    {
+      "album": {
+        "name": "Gehra Hua (From \"Dhurandhar\")",
+        "url": "https://open.spotify.com/album/0np0jHF7hJJmvAwMF6YSIK"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Armaan Khan",
+          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362400,
+      "name": "Gehra Hua (From \"Dhurandhar\")",
+      "url": "https://open.spotify.com/track/0Y6YW1552df031DjV8qBHv"
     },
     {
       "album": {
@@ -4066,6 +4122,48 @@
       "duration_ms": 169686,
       "name": "Ishq Jaisa Kuch (From \"Fighter\")",
       "url": "https://open.spotify.com/track/23YpzkTDtU78GK6vpgRbkM"
+    },
+    {
+      "album": {
+        "name": "Ishq Jalakar - Karvaan (From \"Dhurandhar\")",
+        "url": "https://open.spotify.com/album/13xOJZYU04lZIIHL8OQZEl"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Shahzad Ali",
+          "url": "https://open.spotify.com/artist/4asaIarkMcpkYhSiMn1Ed5"
+        },
+        {
+          "name": "Subhadeep Das Chowdhury",
+          "url": "https://open.spotify.com/artist/3biZl77VIJSHTnwBnEZkkd"
+        },
+        {
+          "name": "Armaan Khan",
+          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
+        },
+        {
+          "name": "Roshan",
+          "url": "https://open.spotify.com/artist/6Wg3akugFVCH4iYhEKk0GM"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Sahir Ludhianvi",
+          "url": "https://open.spotify.com/artist/1nLvkKjnfpnouM0Mpyd4cc"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250860,
+      "name": "Ishq Jalakar - Karvaan (From \"Dhurandhar\")",
+      "url": "https://open.spotify.com/track/7d5TUdbJumBuBoaH33jyfo"
     },
     {
       "album": {
@@ -5400,7 +5498,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 221117,
       "name": "Koi Naa (From \"Bhool Chuk Maaf\")",
       "url": "https://open.spotify.com/track/23UKXgXmLkT0XyPBeKx2gP"
@@ -5562,7 +5660,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 256148,
       "name": "Laal Pari (From \"Housefull 5\")",
       "url": "https://open.spotify.com/track/2oJxsbdvHuzkQ44hoyMsis"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 
 > The biggest Arabic song in the 1990's\. Cover : Amr Diab
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,373 likes - 40 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,384 likes - 40 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 13 | [Kolak Ala Badhak \- Remastered 2000](https://open.spotify.com/track/2sFFcde1ToI6DVCzvWwePM) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK) | [Ba'Ad Al Hob](https://open.spotify.com/album/2Ro807NACs4StaffbQUd8A) | 5:49 |
 | 14 | [A'lbal](https://open.spotify.com/track/6HwrjWRXfzSV4fKiaDOYU5) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [A'lbal](https://open.spotify.com/album/3pDNPqfo5RZHTFU5Rdw2r0) | 5:53 |
 | 15 | [Moush Hadaaf](https://open.spotify.com/track/3pozehDmGhW7KSCbYbDW6j) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Nour El Ein](https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA) | 5:20 |
-| 16 | [Lolaki](https://open.spotify.com/track/3U3Mg8TxGphsn6xOXGHyQl) | [Ali Hemeida](https://open.spotify.com/artist/3sJXlwYQKVSrx9BJj0o9Af) | [Lolaki](https://open.spotify.com/album/5lysbcklI2aaHzhUqPULow) | 4:40 |
+| 16 | [Lolaki](https://open.spotify.com/track/3U3Mg8TxGphsn6xOXGHyQl) | [Aly Hemeida](https://open.spotify.com/artist/0vJcPvDcJUf3XyzCjYz9VS) | [Lolaki](https://open.spotify.com/album/5lysbcklI2aaHzhUqPULow) | 4:40 |
 | 17 | [Layali El Shouq](https://open.spotify.com/track/1qQzDpRp5r54W6qdCWW0VX) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Ya Leila](https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10) | 4:51 |
 | 18 | [Didi](https://open.spotify.com/track/39GNZAuUKTvX1sSEfMUKGf) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV), [Faudel](https://open.spotify.com/artist/3z7JrEEE9McrDXpYigPncZ) | [1, 2, 3 Soleils](https://open.spotify.com/album/6z2xalLZtysIZqpQJNkRUO) | 6:08 |
 | 19 | [Ah Bahibbak](https://open.spotify.com/track/4ZOwcp2U8eyz5SlOddYzIc) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Rouhi](https://open.spotify.com/album/4qcW7uuWQxP5ueJBgXOBnr) | 4:13 |

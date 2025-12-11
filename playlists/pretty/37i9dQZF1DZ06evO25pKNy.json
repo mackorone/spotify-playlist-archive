@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAAJo5yNnP9oUeubjQAz1QKA",
+  "snapshot_id": "aTdmgAAAAAD43alZ8HX0AtMDgpVVuW5W",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Taliban",
-        "url": "https://open.spotify.com/album/40EEdGVKmA7zcMOr5HGP6r"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "El Taliban",
-      "url": "https://open.spotify.com/track/0N3ffTqqz9fzuxVt8EY341"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lujos De La Vida",
         "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 149984,
       "name": "Jardin Verde",
       "url": "https://open.spotify.com/track/2hO3w9dSz1FLgzXFdA0Bzv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Taliban",
+        "url": "https://open.spotify.com/album/40EEdGVKmA7zcMOr5HGP6r"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "El Taliban",
+      "url": "https://open.spotify.com/track/0N3ffTqqz9fzuxVt8EY341"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lujos y Libras",
+        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 187565,
+      "name": "Willy Checks",
+      "url": "https://open.spotify.com/track/6I6HAGDrih43MD4CyTPNhr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Botas O Gabanas",
         "url": "https://open.spotify.com/album/1SgK2Myee9Gpohf5L8d5Mp"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 170842,
       "name": "De Botas O Gabanas",
       "url": "https://open.spotify.com/track/7gt6tXgzx8zvVepdf7Kmp4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lujos y Libras",
-        "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 187565,
-      "name": "Willy Checks",
-      "url": "https://open.spotify.com/track/6I6HAGDrih43MD4CyTPNhr"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "J\u00e1lese Carnal",
+        "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 156928,
+      "name": "El Cimarron",
+      "url": "https://open.spotify.com/track/3mBI9q2AWvbEEGLnxjmdBg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Loco Malandro",
         "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
       },
@@ -731,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "J\u00e1lese Carnal",
-        "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 165594,
-      "name": "COMPTON",
-      "url": "https://open.spotify.com/track/2hoOS2ABkC8JrcN69owHYE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Con Tololoche",
         "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
       },
@@ -759,22 +759,6 @@
       "duration_ms": 226986,
       "name": "Mi Gusto Es - En Vivo",
       "url": "https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Classroom Love",
-        "url": "https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 256641,
-      "name": "Classroom Love",
-      "url": "https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29"
     },
     {
       "added_at": null,
@@ -808,9 +792,25 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 156928,
-      "name": "El Cimarron",
-      "url": "https://open.spotify.com/track/3mBI9q2AWvbEEGLnxjmdBg"
+      "duration_ms": 165594,
+      "name": "COMPTON",
+      "url": "https://open.spotify.com/track/2hoOS2ABkC8JrcN69owHYE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classroom Love",
+        "url": "https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 256641,
+      "name": "Classroom Love",
+      "url": "https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29"
     },
     {
       "added_at": null,

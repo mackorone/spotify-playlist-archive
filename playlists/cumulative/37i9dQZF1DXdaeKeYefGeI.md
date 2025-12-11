@@ -2,7 +2,7 @@
 
 ### [Mooi Nederlands](https://open.spotify.com/playlist/37i9dQZF1DXdaeKeYefGeI)
 
-> Wat kan het Nederlands toch mooi zijn\. Cover: Herman van Veen & Gerson Main
+> Wat kan het Nederlands toch mooi zijn\. Cover: Claudia de Breij
 
 239 songs - 14 hr 34 min
 

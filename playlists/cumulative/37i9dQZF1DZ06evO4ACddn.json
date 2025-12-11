@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 177080,
       "name": "Bright Eyes",
       "url": "https://open.spotify.com/track/1NzWx9EnQOdhXYuPwU0iFD"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 211840,
       "name": "Dinosaurs",
       "url": "https://open.spotify.com/track/0kNvVLZsEgWBzhfYwboY70"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 227973,
       "name": "Open Door",
       "url": "https://open.spotify.com/track/0faniz2pjwuzt16kQnSZnn"
@@ -794,6 +794,24 @@
       "duration_ms": 212146,
       "name": "River, River",
       "url": "https://open.spotify.com/track/76lBOu42eQNLIKLTnpN4MX"
+    },
+    {
+      "album": {
+        "name": "The Day's War (Victory Edition)",
+        "url": "https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263653,
+      "name": "Science",
+      "url": "https://open.spotify.com/track/4Tlaoj0PUbheFVOfyifb1N"
     },
     {
       "album": {

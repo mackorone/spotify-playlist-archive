@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Sainté
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,958 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,960 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 16 | [Heart On Ice](https://open.spotify.com/track/3D46l95LQ8iND0qzPHoxEf) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [HBK](https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX) | 2:25 |
 | 17 | [mate in five](https://open.spotify.com/track/5OmN19NRa8PM9lTO5zaWOZ) | [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [Jöetry](https://open.spotify.com/album/3WEc4KMSqyorc1yExBwB5N) | 4:04 |
 | 18 | [SS Interlude](https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Rise Above Hate](https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg) | 1:52 |
-| 19 | [Hairclips](https://open.spotify.com/track/3PYNyyyvqbiLbjBj5SNzBI) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Hairclips](https://open.spotify.com/album/4YzrFnPfeFs63RrQXOThyx) | 3:04 |
+| 19 | [FVN 07: Afraid I'll Change](https://open.spotify.com/track/1Yu2BiCWTNznlk36CkRvCJ) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Failed Voice Notes](https://open.spotify.com/album/0ECdefTy0wLvhGK2ctYtGe) | 3:13 |
 | 20 | [Window Blues](https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Never Been Ordinary](https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF) | 3:14 |
 | 21 | [Deja Vu](https://open.spotify.com/track/68eGwObayYWZu9RZMYbUte) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [Deja Vu](https://open.spotify.com/album/34uPcK97UMz8BClljHmJkL) | 2:09 |
-| 22 | [FVN 07: Afraid I'll Change](https://open.spotify.com/track/1Yu2BiCWTNznlk36CkRvCJ) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Failed Voice Notes](https://open.spotify.com/album/0ECdefTy0wLvhGK2ctYtGe) | 3:13 |
+| 22 | [Hairclips](https://open.spotify.com/track/3PYNyyyvqbiLbjBj5SNzBI) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Hairclips](https://open.spotify.com/album/4YzrFnPfeFs63RrQXOThyx) | 3:04 |
 | 23 | [Hearts Get Numb](https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Hearts Get Numb](https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG) | 2:55 |
 | 24 | [Love Me](https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj) | [ArtistRD](https://open.spotify.com/artist/3cdy10Sdneled46d13A74S) | [Love Me](https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe) | 3:10 |
 | 25 | [Pain Interlude](https://open.spotify.com/track/0tsSL4aCPiJ6ModYRFICy7) | [Tskinz](https://open.spotify.com/artist/0nP9xNUoQMzpNU30wUJPap) | [Pain Interlude](https://open.spotify.com/album/0kw7QYbgmMYuAKSQNt6GEF) | 1:08 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 63 | [Because Of You](https://open.spotify.com/track/1guVpdESIISTKzPitSmqFT) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7), [Serena](https://open.spotify.com/artist/46Iy7LBbJ53noas3WLvBlX) | [Because Of You](https://open.spotify.com/album/3BawDg8zlyaybBdptxhIwO) | 2:57 |
 | 64 | [Couple Little Things](https://open.spotify.com/track/5wa51MT1gA2siZB8B3XQsq) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28), [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Lost in Lofi](https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz) | 3:26 |
 | 65 | [LTC](https://open.spotify.com/track/4fgEnPmto9LJyvJVulYi1f) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf) | [Leave This City](https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8) | 3:01 |
-| 66 | [NOT THAT DEEP](https://open.spotify.com/track/3SXRQyUNqMTIBaj0GFr4kV) | [somecallmewale](https://open.spotify.com/artist/1L0vIYkpojQ105Q2ueNTwI) | [NOT THAT DEEP](https://open.spotify.com/album/1kCnT3FG9ZEqBvQuYoXpH3) | 4:00 |
-| 67 | [Don't Ask](https://open.spotify.com/track/1tZ7VK5bmv0svHV5Ge3xVI) | [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv) | [Don't Ask](https://open.spotify.com/album/0bb3PplllwgVpxJo4UZhMs) | 2:38 |
+| 66 | [Don't Ask](https://open.spotify.com/track/1tZ7VK5bmv0svHV5Ge3xVI) | [Wax Bentayga](https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv) | [Don't Ask](https://open.spotify.com/album/0bb3PplllwgVpxJo4UZhMs) | 2:38 |
+| 67 | [NOT THAT DEEP](https://open.spotify.com/track/3SXRQyUNqMTIBaj0GFr4kV) | [somecallmewale](https://open.spotify.com/artist/1L0vIYkpojQ105Q2ueNTwI) | [NOT THAT DEEP](https://open.spotify.com/album/1kCnT3FG9ZEqBvQuYoXpH3) | 4:00 |
 | 68 | [THOUGHTS](https://open.spotify.com/track/5kLBe7SrtvDoxXDMtjbbCY) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [THOUGHTS](https://open.spotify.com/album/5pI1HI0Xhoayb2zjPzQgTH) | 2:58 |
 | 69 | [weed to my left, chip to my right](https://open.spotify.com/track/5Mgd1L9uVfrpfnHrMczn65) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Smoke Sessions, Vol\. 1](https://open.spotify.com/album/1dbYT7temBOIbbsJQnOs1C) | 1:22 |
 | 70 | [I Was Never Phased](https://open.spotify.com/track/6iN03nZ9ER8ZWKboLAcsC8) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf) | [Leave This City](https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8) | 2:49 |

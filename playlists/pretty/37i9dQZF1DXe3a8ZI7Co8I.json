@@ -1,6 +1,6 @@
 {
   "description": "Temitas chulos para acompa\u00f1arte cuando vas de un sitio a otro.",
-  "num_followers": 682915,
+  "num_followers": 682860,
   "original_name": "Voy pall\u00e1",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-12-09 15:14:32",
       "album": {
+        "name": "P\u00e1jaros En La Cabeza",
+        "url": "https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Marta, Sebas, Guille y los dem\u00e1s",
+      "url": "https://open.spotify.com/track/30ddpolNHwXlrS5XO8MiiO"
+    },
+    {
+      "added_at": "2025-12-09 15:14:32",
+      "album": {
         "name": "com voc\u00ea",
         "url": "https://open.spotify.com/album/2BuF1d5TBvEiD83KxRkeRR"
       },
@@ -859,42 +875,6 @@
     {
       "added_at": "2025-12-09 15:14:32",
       "album": {
-        "name": "P\u00e1jaros En La Cabeza",
-        "url": "https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW"
-      },
-      "artists": [
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Marta, Sebas, Guille y los dem\u00e1s",
-      "url": "https://open.spotify.com/track/30ddpolNHwXlrS5XO8MiiO"
-    },
-    {
-      "added_at": "2025-12-09 15:14:32",
-      "album": {
-        "name": "El Fin del Mundo",
-        "url": "https://open.spotify.com/album/4VfiuZYoSkkLs7N68l75jN"
-      },
-      "artists": [
-        {
-          "name": "La La Love You",
-          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
-        },
-        {
-          "name": "Axolotes Mexicanos",
-          "url": "https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx"
-        }
-      ],
-      "duration_ms": 188093,
-      "name": "El Fin del Mundo",
-      "url": "https://open.spotify.com/track/5SeYlZyKVENMOxiSPQkKyw"
-    },
-    {
-      "added_at": "2025-12-09 15:14:32",
-      "album": {
         "name": "why",
         "url": "https://open.spotify.com/album/49qKeW5IBHWaHGILvsm050"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 174107,
       "name": "why",
       "url": "https://open.spotify.com/track/6aWKjqvFULsZhpF8Nugfeu"
+    },
+    {
+      "added_at": "2025-12-09 15:14:32",
+      "album": {
+        "name": "Chica Ideal",
+        "url": "https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 183240,
+      "name": "Chica Ideal",
+      "url": "https://open.spotify.com/track/21N4Buj4xsyLb218lYle61"
     }
   ],
   "unique_name": "Voy pall\u00e1",

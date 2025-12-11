@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Sam Deep, Shallipopi, Makhadzi and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,821 likes - 86 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,926 likes - 86 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 8 | [Cana](https://open.spotify.com/track/7A07lS4vDCUUvuHzorS1ZW) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Duplicity](https://open.spotify.com/album/7aRtGCd2xiZhyaGICBpOhq) | 2:39 |
 | 9 | [BENITHINI NGAM'](https://open.spotify.com/track/20J5QpNUHHumTHljwzmF2E) | [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [DIY 3 \(Deluxe\)](https://open.spotify.com/album/5GTvPQuCEsIm4S6areeyOz) | 3:20 |
 | 10 | [Nkosi Ngibhale](https://open.spotify.com/track/57qoa8442s3ysyHzIE7zsN) | [Sly](https://open.spotify.com/artist/3vg62RNNbcEtTGVRHzIBdi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Thatohatsi](https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L) | [Nkosi Ngibhale](https://open.spotify.com/album/3M7mTYnwcV7xGkrteV2mLA) | 6:47 |
-| 11 | [Easiest Goodbye \(feat\. Manana\)](https://open.spotify.com/track/6NpQxBXABg3PlNNY1f81NM) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N), [The Imports](https://open.spotify.com/artist/6lxZ4IurjpHXkrexbhUiKx), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Easiest Goodbye](https://open.spotify.com/album/7pxrvIi4o2vVi5KH6v5LQA) | 3:31 |
+| 11 | [Easiest Goodbye \(feat\. Manana\)](https://open.spotify.com/track/6NpQxBXABg3PlNNY1f81NM) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N), [The Imports](https://open.spotify.com/artist/0scPhUy5Yn2baMP06dvZAv), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Easiest Goodbye](https://open.spotify.com/album/7pxrvIi4o2vVi5KH6v5LQA) | 3:31 |
 | 12 | [silent treatment](https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [silent treatment](https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt) | 2:22 |
 | 13 | [Khetha](https://open.spotify.com/track/55Ksyvd4sNgRarIlq1u9r6) | [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Essa Kay](https://open.spotify.com/artist/3trQ6ETzQzpc6EWLwIVLHh), [Skillz](https://open.spotify.com/artist/6zUtuBYmxb5cxAiEIQGLJf) | [Khetha](https://open.spotify.com/album/20qljRtdrfq1pY4UL7xI8Z) | 7:39 |
 | 14 | [Awukwazi \(feat\. Dlala Thukzin\)](https://open.spotify.com/track/2GRQKhpmLc2gAwpNg2Vzmg) | [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [The Sisters](https://open.spotify.com/artist/54XKdmJkyJjdLMSA5h1rNE), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD) | [Awukwazi \(feat\. Dlala Thukzin\)](https://open.spotify.com/album/2s5jIqpDcNtVsHNC2jW6vK) | 5:13 |

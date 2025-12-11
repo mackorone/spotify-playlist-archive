@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: yama
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,856 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,855 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 15 | [サンタさんへ。](https://open.spotify.com/track/0wrgXZ4dSl8LPm3ddP0YRz) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [サンタさんへ。](https://open.spotify.com/album/335QvsExORHN7FSMC2xxOs) | 3:55 |
 | 16 | [会心の一撃](https://open.spotify.com/track/0yXPq30NX877h69S8vFF39) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [会心の一撃](https://open.spotify.com/album/19d1sNi8HJW9nb2W5IAKpG) | 3:59 |
 | 17 | [シーグラス](https://open.spotify.com/track/5GzVRXs8B9SqIceiMgAaLO) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [シーグラス](https://open.spotify.com/album/09lswKx1ZcQ9lLvM8VY5aZ) | 4:00 |
-| 18 | [NEVERMIND](https://open.spotify.com/track/0DR9GZjYGfbkGOHcJgHj60) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [](https://open.spotify.com/album/null) | 3:25 |
+| 18 | [NEVERMIND](https://open.spotify.com/track/0DR9GZjYGfbkGOHcJgHj60) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [physical mind](https://open.spotify.com/album/4Kkdmmx6dC09NZeJHetRrz) | 3:25 |
 | 19 | [pink](https://open.spotify.com/track/2NI2qpkxH30nFZ6vxCcrGF) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [pink](https://open.spotify.com/album/2kwDdyFMvoOXd9LkFSLxwl) | 4:12 |
 | 20 | [連れてって](https://open.spotify.com/track/2ucRLbSLvhc5KYkrtg1vG7) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [連れてって](https://open.spotify.com/album/2VxQTWaRsEjABKfrc4PkgD) | 4:04 |
 | 21 | [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 |

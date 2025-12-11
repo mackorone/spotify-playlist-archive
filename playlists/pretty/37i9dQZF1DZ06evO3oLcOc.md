@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,207 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,211 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 49 | [Dip \(feat\. Nicki Minaj\)](https://open.spotify.com/track/73xXDeBMlC5cdvWoOLWVLo) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Legendary \(Deluxe Edition\)](https://open.spotify.com/album/1dDfjR6KqXwa6I8XmPXnxr) | 3:15 |
 | 50 | [VIDA LOCA](https://open.spotify.com/track/6c6Pr4ALb2SD7j7UnS5YDE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:54 |
 
-Snapshot ID: `aTYVAAAAAADfOa10yhBzi3f4H6xRYsyv`
+Snapshot ID: `aTdmgAAAAADkSQFZ7MAqBz+lFPt6aOn+`

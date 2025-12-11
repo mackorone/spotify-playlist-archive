@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Lagu\-lagu pilihan yang cocok nemenin kamu menuju Bekasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,359 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,361 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 40 | [Tennessee Whiskey](https://open.spotify.com/track/1JSdMw0R2EIFpxMWX2ImNA) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Tennessee Whiskey](https://open.spotify.com/album/0WNnkenw79b5b9KWSuwXj7) | 4:08 |
 | 41 | [HEATWAVE](https://open.spotify.com/track/5Z4THUUkogX97uuTAaTbj9) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [FASTFOOD](https://open.spotify.com/album/3YTs3UdJUkNStTevXRfGWu) | 2:55 |
 | 42 | [Musafir Anthem](https://open.spotify.com/track/1nPEAW7GDnfAmtWK8Eh4yb) | [Syarikat Idola Remaja](https://open.spotify.com/artist/0WG2IKGKYaawuJ1kjHucBO) | [Musafir Anthem](https://open.spotify.com/album/7rcFEv0Bgv2mlLHkH0aCn6) | 3:36 |
-| 43 | [Akhirnya](https://open.spotify.com/track/5CuJ5sx1ZuNibvDIhqP3gj) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Another Journey : The Beginning](https://open.spotify.com/album/03623GeJY8TZR7v0KoMQs0) | 3:56 |
-| 44 | [Kataji](https://open.spotify.com/track/4HUmuIdScp4K9yjaCk73pD) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 3:42 |
+| 43 | [Kataji](https://open.spotify.com/track/4HUmuIdScp4K9yjaCk73pD) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [YURA](https://open.spotify.com/album/6xzJINIJok2KZur8OzQQT8) | 3:42 |
+| 44 | [Akhirnya](https://open.spotify.com/track/5CuJ5sx1ZuNibvDIhqP3gj) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Another Journey : The Beginning](https://open.spotify.com/album/03623GeJY8TZR7v0KoMQs0) | 3:56 |
 | 45 | [Desire](https://open.spotify.com/track/1uH2t9fgvWUntILs9iFRZC) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn), [Ray Viera Laxmana](https://open.spotify.com/artist/4d71lT61WEn2SsjEgeSbBf) | [Our Sincere Desire](https://open.spotify.com/album/57GZmG6ZYl2479tDAusXn4) | 3:23 |
 | 46 | [Berona](https://open.spotify.com/track/5w4u2NiaTnBmiCFZSyQxYY) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Berona](https://open.spotify.com/album/0VXwE7HnJZ0HIv6SXuOMh2) | 2:15 |
 | 47 | [Kelana](https://open.spotify.com/track/7kAhOXTPVwKODIWUzSosi1) | [Mooner](https://open.spotify.com/artist/3Nq3ERFOZXkIxMjESQxrWL) | [O\. M.](https://open.spotify.com/album/1q2oM4KRamlQUldy9Zcf6W) | 3:42 |

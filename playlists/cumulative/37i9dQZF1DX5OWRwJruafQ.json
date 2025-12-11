@@ -2913,6 +2913,24 @@
     },
     {
       "album": {
+        "name": "Chance",
+        "url": "https://open.spotify.com/album/19UC3iACO7RI0ciLq97eX2"
+      },
+      "artists": [
+        {
+          "name": "Gurnam Bhullar",
+          "url": "https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145531,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/0pHkJwh3SHMJdoPWsyGJvD"
+    },
+    {
+      "album": {
         "name": "THREE WAY",
         "url": "https://open.spotify.com/album/6mta4ktCakVsjVL7cVuJo3"
       },
@@ -8306,7 +8324,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 161052,
       "name": "Kaun Ae Tu",
       "url": "https://open.spotify.com/track/29l8rXNoQUC4cIsKs8fVPz"

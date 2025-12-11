@@ -1,12 +1,12 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 51730,
+  "num_followers": 51735,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAABe1EKUoVnemkYrluz1aEbu",
+  "snapshot_id": "aTdmgAAAAAA1olB10fJM51H/BvKRArcF",
   "tracks": [
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "That's My Story",
+        "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "No More Doggin'",
+      "url": "https://open.spotify.com/track/1zLunDGKySWa7Gwsif5Ckc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Urban Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
       },
@@ -635,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "That's My Story",
-        "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
       },
       "artists": [
         {
@@ -644,9 +660,25 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 164933,
-      "name": "No More Doggin'",
-      "url": "https://open.spotify.com/track/1zLunDGKySWa7Gwsif5Ckc"
+      "duration_ms": 191266,
+      "name": "Kiddio - 2007 - Remaster",
+      "url": "https://open.spotify.com/track/1zkvDMv2c4fcCRCTKC634t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "You Know, I Know",
+      "url": "https://open.spotify.com/track/2PoCFAeqx7VDDwljQpxjts"
     },
     {
       "added_at": null,
@@ -671,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+        "name": "Half A Stranger Vol 1",
+        "url": "https://open.spotify.com/album/1UKljueptyRlVnuHNYNJOe"
       },
       "artists": [
         {
@@ -680,9 +712,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 233266,
-      "name": "You Know, I Know",
-      "url": "https://open.spotify.com/track/2PoCFAeqx7VDDwljQpxjts"
+      "duration_ms": 183706,
+      "name": "Hobo Blues",
+      "url": "https://open.spotify.com/track/15u5oLagRuxJUNebO6mpgX"
     },
     {
       "added_at": null,
@@ -703,38 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Half A Stranger Vol 1",
-        "url": "https://open.spotify.com/album/1UKljueptyRlVnuHNYNJOe"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "Hobo Blues",
-      "url": "https://open.spotify.com/track/15u5oLagRuxJUNebO6mpgX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Travelin'",
-        "url": "https://open.spotify.com/album/3a9R9D77P7YMCG24vpsulQ"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 145551,
-      "name": "No Shoes",
-      "url": "https://open.spotify.com/track/5hKvkvpH0vd3NyuCuTbZf1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
@@ -747,38 +747,6 @@
       "duration_ms": 319466,
       "name": "I Put My Trust In You",
       "url": "https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chill Out",
-        "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "Kiddio - 2007 - Remaster",
-      "url": "https://open.spotify.com/track/1zkvDMv2c4fcCRCTKC634t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Urban Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 150906,
-      "name": "I Can't Stand To Leave You",
-      "url": "https://open.spotify.com/track/5fYjLvAzuZSYDjC20B2WOt"
     },
     {
       "added_at": null,
@@ -799,6 +767,38 @@
       "duration_ms": 277000,
       "name": "Cuttin' Out - feat. Canned Heat",
       "url": "https://open.spotify.com/track/3wD8QPYFxygFaPHTb21xmr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Travelin'",
+        "url": "https://open.spotify.com/album/3a9R9D77P7YMCG24vpsulQ"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 145551,
+      "name": "No Shoes",
+      "url": "https://open.spotify.com/track/5hKvkvpH0vd3NyuCuTbZf1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Urban Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 150906,
+      "name": "I Can't Stand To Leave You",
+      "url": "https://open.spotify.com/track/5fYjLvAzuZSYDjC20B2WOt"
     },
     {
       "added_at": null,

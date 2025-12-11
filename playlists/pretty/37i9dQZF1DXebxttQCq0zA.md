@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,204,869 likes - 219 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,205,222 likes - 219 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 218 | [Equinox](https://open.spotify.com/track/09crw6FF5gq4Rd0DLsI7n9) | [Ögonblick](https://open.spotify.com/artist/7lI51rVxjXEtquwOI7v04L) | [Equinox](https://open.spotify.com/album/4YZ4tlaZQbGjW9KoHcoWoo) | 2:58 |
 | 219 | [Alice the Flower](https://open.spotify.com/track/30FZIAhj6ujNdp8rUyDrpK) | [Chakra Tides](https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk) | [Alice the Flower](https://open.spotify.com/album/74RgcJ4hG1XLutWvM51Ssf) | 3:13 |
 
-Snapshot ID: `AAAAAInI8HqwKnpNDhkS4K8DK7ioHkc0`
+Snapshot ID: `AAAAAKfkxAq/ZxfUCfOWimSmnnLduX0F`

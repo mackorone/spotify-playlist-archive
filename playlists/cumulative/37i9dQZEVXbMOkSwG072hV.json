@@ -4648,7 +4648,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 210895,
       "name": "Amor e Sexo",
       "url": "https://open.spotify.com/track/0tSbjBuCaKDyzSnLo3bJeB"
@@ -11922,7 +11922,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 128181,
       "name": "Brisada Que Ela Se Joga",
       "url": "https://open.spotify.com/track/16TpUbe6ly5A8Fap56wvQ7"
@@ -14994,7 +14994,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 161298,
       "name": "Cheiro De Culpado - Ao Vivo",
       "url": "https://open.spotify.com/track/6bor3RIvmpmz5c435liCs9"
@@ -25448,6 +25448,10 @@
         {
           "name": "Yuri Redicopa",
           "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Ascending",
+          "url": "https://open.spotify.com/artist/4LkHFz8KqQUcE5TGf0IapL"
         }
       ],
       "date_added": "2025-12-09",
@@ -73531,6 +73535,32 @@
     },
     {
       "album": {
+        "name": "Submundo Bail\u00e3o",
+        "url": "https://open.spotify.com/album/5eV2caNt3xc936Ux1HkUbn"
+      },
+      "artists": [
+        {
+          "name": "Dj Clei",
+          "url": "https://open.spotify.com/artist/47gDGlv2EqJU5gAagND2y6"
+        },
+        {
+          "name": "DJ LL",
+          "url": "https://open.spotify.com/artist/7qvIardZF1Zslxb5EYYFgS"
+        },
+        {
+          "name": "Mc Jhey",
+          "url": "https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121846,
+      "name": "Submundo Bail\u00e3o",
+      "url": "https://open.spotify.com/track/2Av6ghr9BqFzdnO9SXqjQT"
+    },
+    {
+      "album": {
         "name": "The Wolf of Grape Street",
         "url": "https://open.spotify.com/album/3PE60QLwMWd92LYRAEcuml"
       },
@@ -88052,7 +88082,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 322822,
       "name": "\u00daltima Vez",
       "url": "https://open.spotify.com/track/0VTB4DllqsB5EhfemIlnxN"
@@ -88088,7 +88118,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 322822,
       "name": "\u00daltima Vez",
       "url": "https://open.spotify.com/track/6chduBrTJGUrIGXV8K0nSJ"

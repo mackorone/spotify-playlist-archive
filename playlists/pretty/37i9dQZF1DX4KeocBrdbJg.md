@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 
 > las mejores canciones del internet en 2025 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,401,256 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,401,204 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 | 10 | [TODO KE VER](https://open.spotify.com/track/47aX1tXPTBpAG8Y2iAYmiy) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [TODO KE VER](https://open.spotify.com/album/6jouPgsFxZaEKu0pRB9nzC) | 2:38 |
 | 11 | [capaz \(merengueton\)](https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:53 |
 | 12 | [Niño](https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 3:30 |
-| 13 | [Por Esos Ojos](https://open.spotify.com/track/77pDO4WZPIdkwFve0iHWnb) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 3:08 |
-| 14 | [No Capea](https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Capea](https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd) | 3:14 |
+| 13 | [No Capea](https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Capea](https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd) | 3:14 |
+| 14 | [Por Esos Ojos](https://open.spotify.com/track/77pDO4WZPIdkwFve0iHWnb) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 3:08 |
 | 15 | [orióN](https://open.spotify.com/track/4feh4Ak3ZJfC6ibxkNzlkE) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [SAN BLAS](https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0) | 4:00 |
 | 16 | [Feel It](https://open.spotify.com/track/51TCxtQ1u4Qi655ekjDCZD) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/6GF0TQYbcWHcZpvt0bTP2D) | 2:37 |
 | 17 | [Solcito](https://open.spotify.com/track/0JY2QXSvlpA8DZwgaAYWlY) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Solcito](https://open.spotify.com/album/3h702JwTzZ6WANZvaGVCOM) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 | 49 | [TUTA](https://open.spotify.com/track/01AdFmUSxe3QXQ0wkp8O7Y) | [Kiyo](https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM) | [CRUJIN](https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2) | 2:01 |
 | 50 | [La Sin Sentimientos](https://open.spotify.com/track/2bHJApowIgaWMnohasLUvF) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [BLANKO](https://open.spotify.com/artist/2tsxhfhrjoqKy2okihHP0x) | [Ruido, El Silencio y Yo](https://open.spotify.com/album/5hdcFOmZmRSilC72c0g7wP) | 2:59 |
 
-Snapshot ID: `AAAAANcWGZBK+0mPWx1JXdCXtB/IdOZq`
+Snapshot ID: `AAAAAEvOCnQbg4jnNbSzT5KCPPr+fH8j`

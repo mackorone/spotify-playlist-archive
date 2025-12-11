@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Heroe
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,797 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,798 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1980s.",
-  "num_followers": 97800,
+  "num_followers": 97817,
   "original_name": "80s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -23,6 +23,22 @@
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+    },
+    {
+      "added_at": "2024-07-12 14:55:35",
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 188987,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
     },
     {
       "added_at": "2024-07-12 14:55:35",
@@ -55,22 +71,6 @@
       "duration_ms": 245296,
       "name": "Dancing In the Dark",
       "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
-    },
-    {
-      "added_at": "2024-07-12 14:55:35",
-      "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 188987,
-      "name": "Should I Stay or Should I Go - Remastered",
-      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
     },
     {
       "added_at": "2024-07-12 14:55:35",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-07-12 14:55:35",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 159313,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
-    },
-    {
-      "added_at": "2024-07-12 14:55:35",
-      "album": {
         "name": "Bad Animals",
         "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 218733,
       "name": "Alone",
       "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
+    },
+    {
+      "added_at": "2024-07-12 14:55:35",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 159313,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
     },
     {
       "added_at": "2024-07-12 14:55:35",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-07-12 14:55:35",
       "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 267306,
-      "name": "Pour Some Sugar On Me - Remastered 2017",
-      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
-    },
-    {
-      "added_at": "2024-07-12 14:55:35",
-      "album": {
         "name": "Combat Rock (Remastered)",
         "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 222437,
       "name": "Rock the Casbah - Remastered",
       "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
+    },
+    {
+      "added_at": "2024-07-12 14:55:35",
+      "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 267306,
+      "name": "Pour Some Sugar On Me - Remastered 2017",
+      "url": "https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO"
     },
     {
       "added_at": "2024-07-12 14:55:35",
@@ -475,8 +475,8 @@
     {
       "added_at": "2024-07-12 14:55:35",
       "album": {
-        "name": "For Those About to Rock (We Salute You)",
-        "url": "https://open.spotify.com/album/7DUvURQ0wfA1kgG8j99frR"
+        "name": "Let There Be Rock",
+        "url": "https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 344263,
-      "name": "For Those About to Rock (We Salute You)",
-      "url": "https://open.spotify.com/track/17lu4tymfnhmcIDlzBbtAb"
+      "duration_ms": 324584,
+      "name": "Whole Lotta Rosie",
+      "url": "https://open.spotify.com/track/4wYq5wugZDzQiMZQYG4wVB"
     },
     {
       "added_at": "2024-07-12 14:55:35",
@@ -559,8 +559,8 @@
     {
       "added_at": "2024-07-12 14:55:35",
       "album": {
-        "name": "Let There Be Rock",
-        "url": "https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa"
+        "name": "For Those About to Rock (We Salute You)",
+        "url": "https://open.spotify.com/album/7DUvURQ0wfA1kgG8j99frR"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 324584,
-      "name": "Whole Lotta Rosie",
-      "url": "https://open.spotify.com/track/4wYq5wugZDzQiMZQYG4wVB"
+      "duration_ms": 344263,
+      "name": "For Those About to Rock (We Salute You)",
+      "url": "https://open.spotify.com/track/17lu4tymfnhmcIDlzBbtAb"
     },
     {
       "added_at": "2024-07-12 14:55:35",

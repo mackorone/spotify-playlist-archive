@@ -4,7 +4,7 @@
 
 > Un mix de reggae y buena vibra para ver caer el sol.
 
-101 songs - 6 hr 38 min
+102 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Por el Bien de los Dos](https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 2:39 | 2023-06-22 |  |
 | [Porque Yo](https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Porque Yo](https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI) | 3:01 | 2023-06-22 |  |
 | [Puerto E](https://open.spotify.com/track/3Z9TSFbAn7WvXpPyeoqN0L) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Puerto E](https://open.spotify.com/album/2Ss9rfgYcWso6jLPgj6MTK) | 3:17 | 2024-06-12 | 2025-10-10 |
-| [Quiero Saber Quién Es Tu Novi@](https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [¿Si Le Doy Zoom, Puedo Ver África?](https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox) | 2:40 | 2023-08-14 |  |
+| [Quiero Saber Quién Es Tu Novi@](https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [¿Si Le Doy Zoom, Puedo Ver África?](https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox) | 2:40 | 2023-08-14 | 2025-12-11 |
 | [Quisiera](https://open.spotify.com/track/7v0WvqGq7auy99Nydgc6YJ) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Quisiera](https://open.spotify.com/album/1hxhKktk2u9gTPms7c8fv9) | 3:53 | 2023-06-22 | 2024-04-19 |
 | [Quién Sos?](https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Quién Sos?](https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA) | 3:51 | 2024-06-12 |  |
 | [Runaway](https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [The Original Wailers](https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:53 | 2023-06-22 |  |
@@ -97,6 +97,7 @@
 | [Somos Dos](https://open.spotify.com/track/1uWgQtByTaFLR5ld2SW3XY) | [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Somos Dos](https://open.spotify.com/album/03CdYrBotxXdTIkDJq5IA7) | 3:37 | 2023-08-14 |  |
 | [Tengo Lo Que Tengo](https://open.spotify.com/track/21iJNBkKbsIwALHDEqiesL) | [Jimena Angel](https://open.spotify.com/artist/1K0Pin4AUnN7GVGJaS7z0E) | [Tengo Lo Que Tengo](https://open.spotify.com/album/3cBPxSdXfF1BGajgGm2QtE) | 3:23 | 2023-06-22 | 2024-04-19 |
 | [Todo Lo Que Se Fue](https://open.spotify.com/track/4B7SpIO8nXOzz8I8tkovqW) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Todo Lo Que Se Fue](https://open.spotify.com/album/5b6PeL5h1CFlENO13RKt4r) | 3:21 | 2023-06-22 |  |
+| [Torito](https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Torito](https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4) | 3:16 | 2024-06-12 |  |
 | [Tu Amor](https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Tu Amor](https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB) | 3:40 | 2023-08-14 |  |
 | [Tus Ojos](https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:14 | 2023-06-22 |  |
 | [Uchi Wala](https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TumbaGobierno](https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr) | 3:12 | 2023-06-22 |  |

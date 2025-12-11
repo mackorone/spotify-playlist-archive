@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,734 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,777 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 10 | [De Fresa y Coco](https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [De Fresa y Coco](https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM) | 2:45 |
 | 11 | [Loco Enamorado](https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Loco Enamorado](https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N) | 3:46 |
 | 12 | [Eres Veneno](https://open.spotify.com/track/5DJCbtz1sF20CsDI0GGbnC) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Eres Veneno](https://open.spotify.com/album/5sNmy4jQLyHYV83lLNyct9) | 2:05 |
-| 13 | [Te Regalo](https://open.spotify.com/track/4tRUs8WbSVaTHmJBCgbvnP) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Te Regalo](https://open.spotify.com/album/1s5wqxWuB1nuhAjYXNmqWd) | 2:33 |
-| 14 | [Muchachita De Ojos Tristes \- En Vivo](https://open.spotify.com/track/7wEPTmWqLaaP2MKDBjyU5M) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 3:44 |
+| 13 | [Muchachita De Ojos Tristes \- En Vivo](https://open.spotify.com/track/7wEPTmWqLaaP2MKDBjyU5M) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 3:44 |
+| 14 | [Te Regalo](https://open.spotify.com/track/4tRUs8WbSVaTHmJBCgbvnP) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Te Regalo](https://open.spotify.com/album/1s5wqxWuB1nuhAjYXNmqWd) | 2:33 |
 | 15 | [Pideme la Luna](https://open.spotify.com/track/1wdEQqn7ZaN6alXDQHjFMe) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3) | 2:47 |
 | 16 | [Ciudad Peligrosa](https://open.spotify.com/track/6sI3A0IW1QN6gyrMtEaoQu) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ciudad Peligrosa](https://open.spotify.com/album/1F5GpSmnkJrhzBYSjCCbPW) | 3:46 |
 | 17 | [El De Las Mieles](https://open.spotify.com/track/23YQI4C7gVxBxlbtn62Lvv) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El De Las Mieles](https://open.spotify.com/album/6RiQR16JyRg0cCSLhDklP0) | 3:25 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 31 | [Puro Pa’ Delante](https://open.spotify.com/track/7LB36Pf828QzWhZ4F33wXK) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Géminis](https://open.spotify.com/album/2ErW404SVZ8KbcA5y1t33T) | 2:38 |
 | 32 | [Dicen y Dicen](https://open.spotify.com/track/6mzQvzXGWVoNjWhdhup27l) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Dicen y Dicen](https://open.spotify.com/album/1KOlHmExRD42dLpWE4GwkF) | 2:53 |
 | 33 | [Ebrio De Amor](https://open.spotify.com/track/6Tkg79X9NrpYwWyl4dspKU) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x) | 2:31 |
-| 34 | [HDTPM](https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [HDTPM](https://open.spotify.com/album/3LEGUBBcYTvxISyzxYanZ1) | 2:37 |
-| 35 | [Pongase Bien Chula](https://open.spotify.com/track/2Jp6ClwLW6AWEmCGSNOFm4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Pongase Bien Chula](https://open.spotify.com/album/3FQ4rPKYElCuLXD6FztfoF) | 2:44 |
+| 34 | [Pongase Bien Chula](https://open.spotify.com/track/2Jp6ClwLW6AWEmCGSNOFm4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Pongase Bien Chula](https://open.spotify.com/album/3FQ4rPKYElCuLXD6FztfoF) | 2:44 |
+| 35 | [HDTPM](https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [HDTPM](https://open.spotify.com/album/3LEGUBBcYTvxISyzxYanZ1) | 2:37 |
 | 36 | [El De La Selva](https://open.spotify.com/track/4BPuZqbjWIquRpewIY0ygC) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El De La Selva](https://open.spotify.com/album/4vLqOoio32LjRfgOmfbBTm) | 1:58 |
 | 37 | [El Piyi](https://open.spotify.com/track/4aJPDh3dn3MVppavGXs3ao) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x) | 3:11 |
 | 38 | [Paris](https://open.spotify.com/track/28l1udoqUpzAcJ0ZgVI4d1) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Paris](https://open.spotify.com/album/43NqU0JA6iReqomc023NQ5) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 49 | [Alto y Piel Morena](https://open.spotify.com/track/0utj0xCPvTGptQ60MrqNeh) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3) | 3:22 |
 | 50 | [Arriba Guasave \(Chapito Isidro\)](https://open.spotify.com/track/6dFr7IdkMiFq3vRE9tLVcx) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Arriba Guasave \(Chapito Isidro\)](https://open.spotify.com/album/0rn4s2Zltv41VZOcJe6hqn) | 2:51 |
 
-Snapshot ID: `aTYVAAAAAAAUk56tUFpQkid7exr/dzFP`
+Snapshot ID: `aTdmgAAAAAAb91rL02mvDHSChF3D+7gh`

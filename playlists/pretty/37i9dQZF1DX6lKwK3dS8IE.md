@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 
 > Folk punk, anti\-folk, acoustic punk & more\. Cover: AJJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,528 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,529 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 40 | [Shadows Follow You](https://open.spotify.com/track/70ocBhBQfu6gRbGZJdMl0h) | [Dogtooth & Nail](https://open.spotify.com/artist/3TzCgwT2fJB0oh2vggswZ9) | [Learning How to Unlearn](https://open.spotify.com/album/2ri1PLSmxfnM0yhamVmHz4) | 3:15 |
 | 41 | [Crag](https://open.spotify.com/track/4g8Djx0U0KlcKXVd2nYIWy) | [Human Behavior](https://open.spotify.com/artist/7dP5gL9CzGF6lPzRlprwS7) | [Golgotha](https://open.spotify.com/album/7jouh2dK5X0lkHJPEQ0TEp) | 3:15 |
 | 42 | [Be Happy](https://open.spotify.com/track/6fzlvBtOkL1LNKyrToxVwi) | [A Day Without Love](https://open.spotify.com/artist/09JoYdZo9cekYMqyN1bsGD) | [Be Happy, Today](https://open.spotify.com/album/1dsdPI01rcf6eRHYJTsu1H) | 3:00 |
-| 43 | [I'm not a good person](https://open.spotify.com/track/27wOKBP8KERkFP2sqqHloH) | [Pat The Bunny](https://open.spotify.com/artist/3aMGHrEKTeVquvDzpvVcct) | [Probably Nothing, Possibly Everything](https://open.spotify.com/album/1mdup5fgvCJcq2eZzuSUzA) | 2:54 |
-| 44 | [Cup of Water](https://open.spotify.com/track/2WxO2FZlWAMz5joaAry6CU) | [Billy Mack Collector](https://open.spotify.com/artist/1e7Ac48NUTW8s93OMz7FWE) | [Songs About Water and Trying to Feel Okay](https://open.spotify.com/album/5JZfn7wYHxgbEbJRs2vb79) | 4:00 |
+| 43 | [Cup of Water](https://open.spotify.com/track/2WxO2FZlWAMz5joaAry6CU) | [Billy Mack Collector](https://open.spotify.com/artist/1e7Ac48NUTW8s93OMz7FWE) | [Songs About Water and Trying to Feel Okay](https://open.spotify.com/album/5JZfn7wYHxgbEbJRs2vb79) | 4:00 |
+| 44 | [I'm not a good person](https://open.spotify.com/track/27wOKBP8KERkFP2sqqHloH) | [Pat The Bunny](https://open.spotify.com/artist/3aMGHrEKTeVquvDzpvVcct) | [Probably Nothing, Possibly Everything](https://open.spotify.com/album/1mdup5fgvCJcq2eZzuSUzA) | 2:54 |
 | 45 | [I Know How It Feels](https://open.spotify.com/track/3gd0PGrjI49TL1keClyFBh) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [I Know How It Feels](https://open.spotify.com/album/5yWpmbHjwTVx2sVTkrr8KI) | 2:46 |
 | 46 | [Hell's Comin' with Me](https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg) | 3:32 |
 | 47 | [I Love You Like An Alcoholic](https://open.spotify.com/track/7u63zva845rv8tRFi9FG8a) | [The Taxpayers](https://open.spotify.com/artist/1QNEVFk8MjculKl5977kfy) | ["God, Forgive These Bastards" Songs From The Forgotten Life of Henry Turner](https://open.spotify.com/album/2H4MixFpi9BQdQqtozfovm) | 3:35 |

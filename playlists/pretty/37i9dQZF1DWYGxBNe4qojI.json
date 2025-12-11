@@ -1,6 +1,6 @@
 {
   "description": "Where it all started. Cover: Jadakiss",
-  "num_followers": 431502,
+  "num_followers": 431613,
   "original_name": "I Love My East Coast Classics",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-06-01 15:32:33",
       "album": {
-        "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
-        "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
-      },
-      "artists": [
-        {
-          "name": "Wu-Tang Clan",
-          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
-        }
-      ],
-      "duration_ms": 291266,
-      "name": "Protect Ya Neck",
-      "url": "https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn"
-    },
-    {
-      "added_at": "2024-06-01 15:32:33",
-      "album": {
         "name": "Capital Punishment",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 228173,
       "name": "Twinz (Deep Cover 98) (feat. Fat Joe)",
       "url": "https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA"
+    },
+    {
+      "added_at": "2024-06-01 15:32:33",
+      "album": {
+        "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
+      },
+      "artists": [
+        {
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
+        }
+      ],
+      "duration_ms": 291266,
+      "name": "Protect Ya Neck",
+      "url": "https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn"
     },
     {
       "added_at": "2024-06-01 15:32:33",

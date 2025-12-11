@@ -4,7 +4,7 @@
 
 > This is Sly & The Family Stone\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 12 min
+57 songs - 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,10 +19,11 @@
 | [Family Affair \- Single Version](https://open.spotify.com/track/4f3u4Oy0JqJRIhMmTqRcxj) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [There's a Riot Goin' On](https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU) | 3:08 | 2025-06-10 |  |
 | [Fun](https://open.spotify.com/track/70AM9U6VMFtSyjCYc34srx) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 2:24 | 2025-06-10 |  |
 | [Ha Ha, Hee Hee](https://open.spotify.com/track/22P9q4YxqhWcTOVMar9TT0) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Ain't But The One Way](https://open.spotify.com/album/2AAKJcJfC2KSGZfR9W9nR4) | 3:45 | 2025-06-10 |  |
-| [Higher \- Single Version](https://open.spotify.com/track/7gwZKwKeogm0h62tJlfq2q) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:47 | 2025-06-10 |  |
+| [Higher \- Single Version](https://open.spotify.com/track/7gwZKwKeogm0h62tJlfq2q) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 2:47 | 2025-06-10 | 2025-12-11 |
 | [Hot Fun in the Summertime \- Mono Single Master](https://open.spotify.com/track/4t6NQkpUmvpvLDCkl3XuwA) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 2:39 | 2025-06-10 |  |
 | [I Ain't Got Nobody \(For Real\)](https://open.spotify.com/track/62yuJ7e3ULb6NFvRs13E9u) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 4:25 | 2025-06-10 |  |
 | [I Can't Turn You Loose](https://open.spotify.com/track/3ectP7jMkfBxy3GWSxmZ6Y) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [I Can't Turn You Loose](https://open.spotify.com/album/4OPvw1FGMoObKjHCUQZIK9) | 3:35 | 2025-07-20 | 2025-08-05 |
+| [I Can't Turn You Loose \- Live At Winchester Cathedral 1967](https://open.spotify.com/track/1HcubNINyJuzU4cLo7tak8) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [The First Family: Live At Winchester Cathedral 1967](https://open.spotify.com/album/2RKFmKwO5tdaXkIcsqXfd7) | 3:35 | 2025-12-11 |  |
 | [I Cannot Make It](https://open.spotify.com/track/12guwaqWe3xZUPdnfSw0n4) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [A Whole New Thing](https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy) | 3:18 | 2025-06-10 |  |
 | [I Gotta Go Now \(Up On The Floor\) / Funky Broadway](https://open.spotify.com/track/3gXwZLVJ8YMcOWlWVtTVhA) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [I Gotta Go Now \(Up On The Floor\) / Funky Broadway](https://open.spotify.com/album/3o5qY8Oz7zJxKeb8bZKmtC) | 2:48 | 2025-06-10 |  |
 | [I Want to Take You Higher](https://open.spotify.com/track/4qpIk2rvkmxJEVvt38tepd) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 5:22 | 2025-06-10 |  |

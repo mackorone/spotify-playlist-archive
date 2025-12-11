@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best in Dancehall for the gyaldem\. Cover: Shenseea
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,912 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,038 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 49 | [Drunk and Incapable \(feat\. Melissa Steel\)](https://open.spotify.com/track/0rT8WoLQoffQ7PCzyHfODo) | [Krishane](https://open.spotify.com/artist/1HUUKt5Ms3fG0VO6JJGicO), [Melissa Steel](https://open.spotify.com/artist/4NANaRSl8fuDZ3wMlQCVmf) | [Drunk and Incapable \(feat\. Melissa Steel\)](https://open.spotify.com/album/4tssOs2SnHrp17GH3TzkdK) | 3:20 |
 | 50 | [Bun Fi Bun \(Fast\)](https://open.spotify.com/track/4Ta2BdlUeRsSdQARipaDTq) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun \(Fast\)](https://open.spotify.com/album/71ktd6XTxLmI4VoQ8q7w5Z) | 2:29 |
 | 51 | [Gal Yuh Body Hot](https://open.spotify.com/track/2jPlPtYwsBM3RUZDI530E8) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [Gal Yuh Body Hot](https://open.spotify.com/album/5P7oFZBpqVZf2sZPyKYksL) | 3:46 |
-| 52 | [Gangster Love](https://open.spotify.com/track/7yldkAkn1B45ExAE5RN2Op) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc), [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK) | [Gangster Love](https://open.spotify.com/album/1uUWqM3BSmNSUoM6FZtAcN) | 2:11 |
-| 53 | [Banana](https://open.spotify.com/track/7nF0TnQV9RIzn1mIlr5qxC) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Banana](https://open.spotify.com/album/3UeUx9etR6Rg7VeqO8EdPu) | 2:30 |
+| 52 | [Banana](https://open.spotify.com/track/7nF0TnQV9RIzn1mIlr5qxC) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Banana](https://open.spotify.com/album/3UeUx9etR6Rg7VeqO8EdPu) | 2:30 |
+| 53 | [Gangster Love](https://open.spotify.com/track/7yldkAkn1B45ExAE5RN2Op) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc), [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK) | [Gangster Love](https://open.spotify.com/album/1uUWqM3BSmNSUoM6FZtAcN) | 2:11 |
 | 54 | [Dutty Casamigos](https://open.spotify.com/track/3GRqU9RVxTjeTRpCajrrVO) | [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Dutty Casamigos](https://open.spotify.com/album/3l0qrKvvIujmIzvdb3Z0d6) | 2:44 |
 | 55 | [Money Fever](https://open.spotify.com/track/26rmqmfxH1YPS9kaJNhFPM) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Money Fever](https://open.spotify.com/album/7M2r6lBEFKryBPLkjeXfoN) | 2:31 |
 | 56 | [Vibrate](https://open.spotify.com/track/6IpYgAtkoBjRh0aLd6Uyko) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Stadic](https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0), [Jonny Blaze](https://open.spotify.com/artist/0sjn33zPThDMZvhx0dBJSH) | [Vibrate](https://open.spotify.com/album/5ownMtyYCzXj0gYwkJudh0) | 2:42 |
-| 57 | [Call Me \(feat\. Stefflon Don\)](https://open.spotify.com/track/7FtB2kYAJEUkcoELfZdOma) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Upside Down 2020](https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l) | 3:50 |
-| 58 | [Heavy!](https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Heavy!](https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9) | 2:45 |
+| 57 | [Heavy!](https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Heavy!](https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9) | 2:45 |
+| 58 | [Call Me \(feat\. Stefflon Don\)](https://open.spotify.com/track/7FtB2kYAJEUkcoELfZdOma) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Upside Down 2020](https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l) | 3:50 |
 | 59 | [Young](https://open.spotify.com/track/6vuPtRQKVMAz7N2Lvrf2lX) | [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Young](https://open.spotify.com/album/0GWzMz9t2VtUHWL9SqCvWc) | 2:34 |
 | 60 | [Over You](https://open.spotify.com/track/4zqSYxKE9K6B4eghImq7pz) | [Tina \(Hoodcelebrityy\)](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9), [Massive B](https://open.spotify.com/artist/36fJ2Mx3ktclhSlBbsUbFY), [Bobby Konders](https://open.spotify.com/artist/1AEHGLRSBHwSr4VmU7IOXj) | [Over You](https://open.spotify.com/album/3lge68HMMFfdxpVlh9xwrt) | 1:56 |
 | 61 | [Put It On You](https://open.spotify.com/track/7h4h6wl9unB1dIoRsxA1Yw) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 3:05 |

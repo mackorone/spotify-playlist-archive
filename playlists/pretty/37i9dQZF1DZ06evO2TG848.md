@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 
 > This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,603 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,606 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 | 40 | [Celador De Sueños \(with Gustavo Santaolalla & Orozco \- Barrientos\)](https://open.spotify.com/track/69ZSjgExJ8S5y7eDbNPDer) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Orozco\-Barrientos](https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F) | [Cantora](https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl) | 3:38 |
 | 41 | [Apertura](https://open.spotify.com/track/2pUfIeF044S7DQNdaOEAoR) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Don Markese](https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1), [Braulio Barrera](https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo), [Anibal Kerpel](https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh) | [Motorcycle Diaries with additional Music](https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je) | 2:48 |
 | 42 | [Fleeting](https://open.spotify.com/track/78kwoqFcDxUyrNThLywZlp) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us \- Vol\. 2 \(Video Game Soundtrack\)](https://open.spotify.com/album/4NXjMFIEp6eJWM3ZRxWDoV) | 3:00 |
-| 43 | [Jardin \- 2024 Remaster](https://open.spotify.com/track/39qwb4AKtbUm6PVj88YBEX) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco \(2024 Remaster\)](https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB) | 3:02 |
+| 43 | [Gaucho \- 2024 Remaster](https://open.spotify.com/track/5pEQmdEuQNUeZHA9ojjwqP) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco \(2024 Remaster\)](https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB) | 3:11 |
 | 44 | [Resolve](https://open.spotify.com/track/1WxUcACrb7ZM2UcIRRYNFZ) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:48 |
 | 45 | [Sendero](https://open.spotify.com/track/6iBd7Zeavv6b5bJgNk9m5h) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Don Markese](https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1), [Braulio Barrera](https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo), [Anibal Kerpel](https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh) | [Motorcycle Diaries with additional Music](https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je) | 2:38 |
 | 46 | [Algun Dia \(Unplugged\) \(En Vivo\) \(with Gustavo Santaolalla\)](https://open.spotify.com/track/3Hasr4XNwh4CaUwqGsIror) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 | 49 | [Partida del Leprosario](https://open.spotify.com/track/33IC7R7wIuBZJcY9xb6q4v) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Don Markese](https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1), [Braulio Barrera](https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo), [Anibal Kerpel](https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh) | [Motorcycle Diaries with additional Music](https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je) | 1:53 |
 | 50 | [Mariposa](https://open.spotify.com/track/52IViXynTZLAIvnrr8XLYL) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Nueve](https://open.spotify.com/album/0Rv9mZr81HlTZ9UgsjhtNU) | 5:00 |
 
-Snapshot ID: `aTYVAAAAAACGqmtRQZDhJpmLOOZirRCe`
+Snapshot ID: `aTdmgAAAAAAJekwHX/l6u+RQnO9OOj+2`

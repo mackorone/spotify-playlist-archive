@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 
 > This is Anti\-Flag\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,534 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,533 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 26 | [The Criminals](https://open.spotify.com/track/5XM2XAGYQxzgGr8CVZi5UP) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 2:43 |
 | 27 | [This Is the New Sound](https://open.spotify.com/track/4t98qp03cHX5oau9jsxE0M) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 2:45 |
 | 28 | [Fabled World](https://open.spotify.com/track/3HNYcvcsw78tNXJtc4YbES) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Spring](https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7) | 3:16 |
-| 29 | [VICTORY OR DEATH \(WE GAVE 'EM HELL\) \(feat\. Campino of Die Toten Hosen\)](https://open.spotify.com/track/1gLX2nqjwB7J7udA95Zmr3) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Campino](https://open.spotify.com/artist/4URwBrjUZk4M2L1bSfJCIs) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 3:31 |
+| 29 | [Captain Anarchy](https://open.spotify.com/track/1tqC8SbK0zAPOOhq0YXc5Z) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 2:33 |
 | 30 | [When The Wall Falls](https://open.spotify.com/track/2j6BvBYHuvlHHRx33sDG7X) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 2:45 |
 | 31 | [The Neoliberal Anthem](https://open.spotify.com/track/1eFFX62lE73xMal8dGPMHU) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 3:17 |
-| 32 | [Captain Anarchy](https://open.spotify.com/track/1tqC8SbK0zAPOOhq0YXc5Z) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 2:33 |
-| 33 | [Sodom, Gomorrah, Washington D.C\. \(Sheep in Shepherds Clothing\)](https://open.spotify.com/track/6yYrpq7dyqQGxw5XB9nShv) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The People Or the Gun](https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn) | 2:50 |
+| 32 | [Sodom, Gomorrah, Washington D.C\. \(Sheep in Shepherds Clothing\)](https://open.spotify.com/track/6yYrpq7dyqQGxw5XB9nShv) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The People Or the Gun](https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn) | 2:50 |
+| 33 | [VICTORY OR DEATH \(WE GAVE 'EM HELL\) \(feat\. Campino of Die Toten Hosen\)](https://open.spotify.com/track/1gLX2nqjwB7J7udA95Zmr3) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Campino](https://open.spotify.com/artist/4URwBrjUZk4M2L1bSfJCIs) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 3:31 |
 | 34 | [It Went Off Like A Bomb](https://open.spotify.com/track/5NbgvgPZNVcUr6Epp7VkQE) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 2:23 |
 | 35 | [The Ranks of the Masses Rising](https://open.spotify.com/track/12wXddtGA99uF2pF70znch) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 2:28 |
 | 36 | [You'd Do the Same](https://open.spotify.com/track/6XmmqYxSC4faXhsrsXqUKs) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 2:21 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 38 | [You Make Me Sick](https://open.spotify.com/track/0a65BKVhV9DF9hp8bZocJE) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 3:01 |
 | 39 | [The Ghosts of Alexandria](https://open.spotify.com/track/73bMXYBkzY0H6Fw0l7WAlR) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 2:57 |
 | 40 | [Kill the Rich \(Re\-Recorded\)](https://open.spotify.com/track/7gpWdJBXM7sbkzVOgrsikt) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Cease Fires](https://open.spotify.com/album/5g0lMotkrRemJUW1DbXblA) | 2:59 |
-| 41 | [Got the Numbers](https://open.spotify.com/track/4YLt6nawVzFRoqRlEbbsMh) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 3:14 |
-| 42 | [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/track/6ryk9mshVmR6KoXkguU7fV) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 3:35 |
+| 41 | [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/track/6ryk9mshVmR6KoXkguU7fV) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 3:35 |
+| 42 | [Got the Numbers](https://open.spotify.com/track/4YLt6nawVzFRoqRlEbbsMh) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 3:14 |
 | 43 | [Red, White & Brainwashed](https://open.spotify.com/track/3il4RxV7W7xZFM6AMVXAhm) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 1:51 |
 | 44 | [Finish What We Started](https://open.spotify.com/track/1XZVctTif3B1ojGOqXkoze) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 2:49 |
-| 45 | [20/20 Vision](https://open.spotify.com/track/7MsspKVfHpHkwYpOukORAN) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 2:26 |
-| 46 | [IMPERIALISM](https://open.spotify.com/track/5ZJ8eWvSz2cArcKBlxiGrR) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 2:56 |
+| 45 | [IMPERIALISM](https://open.spotify.com/track/5ZJ8eWvSz2cArcKBlxiGrR) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 2:56 |
+| 46 | [20/20 Vision](https://open.spotify.com/track/7MsspKVfHpHkwYpOukORAN) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 2:26 |
 | 47 | [Maxwell Murder](https://open.spotify.com/track/2FSHOstfVfHia9eBS6vz9t) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Hooligans United a Tribute to Rancid](https://open.spotify.com/album/3fNR9RPA8gWdl8DHyEylPv) | 1:17 |
 | 48 | [Rotten Future](https://open.spotify.com/track/77QXaDMVbxeLA9PpfqHmHs) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 1:58 |
 | 49 | [That's Youth](https://open.spotify.com/track/7xQiia7dMyfgUKShoXtei7) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [A New Kind of Army](https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv) | 3:13 |
 | 50 | [1915](https://open.spotify.com/track/4wVyJwCztcUG1vomQH1day) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 2:51 |
 
-Snapshot ID: `aTYVAAAAAAANCRenWZpgs0RoNxDoYB/t`
+Snapshot ID: `aTdmgAAAAADrFIV7axfCgv+Nyy9cIEoU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,724 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,794 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 37 | [Hide U](https://open.spotify.com/track/4V5CI7i0zZJxXUgwzfjuDI) | [Kosheen](https://open.spotify.com/artist/5squ8uM6fhMQY71t9xobJC), [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK), [Isidoros](https://open.spotify.com/artist/7mruJTmwlBJyHBAdnMtCrb) | [Hide U](https://open.spotify.com/album/1M1V1AUFqCvUMqREoveuAG) | 3:48 |
 | 38 | [Wayside](https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [We Are Always Under The Same Sky](https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ) | 4:09 |
 | 39 | [Weightless](https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Weightless](https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8) | 3:42 |
-| 40 | [Lifetime](https://open.spotify.com/track/4fngEmw1UWrEomobMMONyL) | [J Ribbon](https://open.spotify.com/artist/0d3EDVe5qgeW2UnrPgPhsk) | [Lifetime](https://open.spotify.com/album/3YYhyx9KGWk1wPwU01tbdW) | 3:05 |
-| 41 | [come home](https://open.spotify.com/track/1MDB9jQulqzJ0EiBzIFLMv) | [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2), [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l) | [come home](https://open.spotify.com/album/5BePg04gVbSdstdgD4L1ap) | 3:23 |
+| 40 | [come home](https://open.spotify.com/track/1MDB9jQulqzJ0EiBzIFLMv) | [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2), [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l) | [come home](https://open.spotify.com/album/5BePg04gVbSdstdgD4L1ap) | 3:23 |
+| 41 | [Lifetime](https://open.spotify.com/track/4fngEmw1UWrEomobMMONyL) | [J Ribbon](https://open.spotify.com/artist/0d3EDVe5qgeW2UnrPgPhsk) | [Lifetime](https://open.spotify.com/album/3YYhyx9KGWk1wPwU01tbdW) | 3:05 |
 | 42 | [Lighter](https://open.spotify.com/track/0LJeMisvD34COpkt7QFFIO) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Lighter](https://open.spotify.com/album/50lrGLN2b1eO2t1rIuzc3h) | 3:07 |
 | 43 | [Before The Storm](https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Before The Storm](https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS) | 6:09 |
 | 44 | [Martin](https://open.spotify.com/track/6o9cf8uFietnTZLtSGCvHH) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Bloom](https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid) | 3:49 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 50 | [Letting Go](https://open.spotify.com/track/4cliBLsKJiv3tno21brdKJ) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Bigger Than All Of Us](https://open.spotify.com/album/1yXsFzEZ5amp2ocSjGQhkm) | 3:19 |
 | 51 | [Keep Dancing](https://open.spotify.com/track/0WYihY6WRZeHYixHV6cMSP) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4), [Lily Denning](https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX) | [Keep Dancing](https://open.spotify.com/album/7478dTxcx2Gg9zuoKLF3RG) | 3:00 |
 | 52 | [No Bad Vibes \(with Jayda G\)](https://open.spotify.com/track/4DK8lTWgFCZRcErLgHQXWl) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [No Bad Vibes \(with Jayda G\)](https://open.spotify.com/album/7m26pLm2a8SYagLBTD1I8W) | 2:42 |
-| 53 | [If You're Here With Me](https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [If You're Here With Me](https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M) | 3:28 |
-| 54 | [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 |
+| 53 | [Asa](https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Asa](https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf) | 4:37 |
+| 54 | [If You're Here With Me](https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [If You're Here With Me](https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M) | 3:28 |
 | 55 | [Ride At Dawn](https://open.spotify.com/track/55Q7oDS8Y4e6dYyqZKax7d) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [Ride At Dawn](https://open.spotify.com/album/7DiasgKMXc817JWAUi1org) | 2:53 |
 | 56 | [Make Believe](https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Make Believe](https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv) | 5:05 |
 | 57 | [Fast](https://open.spotify.com/track/0ffGqnq8C2E2GdJjZLTg5I) | [FUNFUN](https://open.spotify.com/artist/0O4aXwpWk4Jy52PQwhbyV6), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ) | [Fast](https://open.spotify.com/album/5JBVZcU7tXcXl8W8YIcqxf) | 3:18 |

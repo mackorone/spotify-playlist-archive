@@ -2,7 +2,7 @@
 
 ### [Best of Fresh Finds Heavy 2025](https://open.spotify.com/playlist/37i9dQZF1DX2wnPyeao7oY)
 
-> The best heavy songs from independent artists and labels in 2025, as chosen by our editors\. Cover: Cenobia
+> The best heavy songs from new, independent artists and labels in 2025, as chosen by our editors\. Cover: Cenobia
 
 651 songs - 1 day 14 hr 17 min
 

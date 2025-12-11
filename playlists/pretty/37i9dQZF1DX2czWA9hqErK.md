@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > Sunday morning whenever you like
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,334,881 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,334,767 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 8 | [Addicted](https://open.spotify.com/track/6K1NOaqhgsV2kfNKrkgAR6) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Addicted](https://open.spotify.com/album/77rMURUUj3uzuUOYNGG68R) | 3:12 |
 | 9 | [Horses](https://open.spotify.com/track/3l9qqtfWLOkFvvLB570maZ) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/50zspfq3s6XeqRF25SL6IK) | 3:32 |
 | 10 | [Cherish](https://open.spotify.com/track/2eh3xk8BufBNoW9gnnMgAM) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [Gramarye](https://open.spotify.com/album/4pb1CggtOYd2EAko22VJ6C) | 2:31 |
-| 11 | [Let Me In](https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Let Me In](https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq) | 3:48 |
+| 11 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 |
 | 12 | [Stay For Something](https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:36 |
-| 13 | [He's My Man](https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [He's My Man](https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR) | 3:52 |
+| 13 | [Let Me In](https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Let Me In](https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq) | 3:48 |
 | 14 | [Nostalgia](https://open.spotify.com/track/3Mk7IafwNuQdFQda1XI5PE) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 3:03 |
 | 15 | [Easy Does It](https://open.spotify.com/track/70v1ILapgu1QnTlOyKGrJr) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Easy Does It](https://open.spotify.com/album/2EZsexfZ6Rys7I7ZB3sxIz) | 4:07 |
 | 16 | [Millennium](https://open.spotify.com/track/51Uj8b5Oi1YY7ayhM4lDoN) | [Celeste Madden](https://open.spotify.com/artist/3o0nlRLCgJxu7fUwDsvGiB) | [Millennium](https://open.spotify.com/album/2Nsxxy2YWTJNGFnhd3hmT9) | 4:06 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 80 | [One Door Closes \(feat\. Breland\)](https://open.spotify.com/track/6ExcHgzbMNJEBqnBtaMko6) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [One Door Closes \(feat\. Breland\)](https://open.spotify.com/album/5AOYmjNyAFYXsceGhAB6Dr) | 3:07 |
 | 81 | [Be Still](https://open.spotify.com/track/5iRAP5qArzW7EjLGyLpPza) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Be Still](https://open.spotify.com/album/6CI0Mg4tlEUOFAVdZwmtDg) | 4:01 |
 | 82 | [Caroline](https://open.spotify.com/track/1SNB5tolDTBIT2ygSthC8d) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns in Repeat](https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W) | 3:20 |
-| 83 | [walking on air](https://open.spotify.com/track/1rDRnm0ZnCe9sMaMbXLxpU) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [damn, look at the view !](https://open.spotify.com/album/28jKFEY7mlMSnRS9i6Ryu8) | 3:37 |
-| 84 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 |
+| 83 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 |
+| 84 | [walking on air](https://open.spotify.com/track/1rDRnm0ZnCe9sMaMbXLxpU) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [damn, look at the view !](https://open.spotify.com/album/28jKFEY7mlMSnRS9i6Ryu8) | 3:37 |
 | 85 | [Lucky](https://open.spotify.com/track/4FsxBPxqq3pN5UkpqMz6js) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Lucky](https://open.spotify.com/album/1JEUHMVkly5YTMeNgz46Js) | 2:28 |
 | 86 | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [cut! \(feat\. Julia Michaels\)](https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj) | 2:08 |
 | 87 | [Beautiful That Way \- from The Last Showgirl Original Motion Picture Soundtrack](https://open.spotify.com/track/3KY6LuQngmpeNAl55Kxy1A) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [The Last Showgirl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NoC6ko2oJ7BnbTRBnNg7G) | 2:20 |
@@ -101,9 +101,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 91 | [Someone That's Better](https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Someone That's Better](https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8) | 2:13 |
 | 92 | [All Seven Seasons](https://open.spotify.com/track/6wLgm4hQHsmWbI5MhBa7W2) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [How to Win At Solitaire](https://open.spotify.com/album/6hN3MhjvsymOTftrScwGR3) | 4:28 |
 | 93 | [I Know A Place \- Acoustic](https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U: One Year On](https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX) | 4:51 |
-| 94 | [HEADPHONES](https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [HEADPHONES](https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2) | 3:16 |
-| 95 | [Save My Heart](https://open.spotify.com/track/1ffuj3LkTKRj20507nRwMl) | [Bradley Marshall](https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y) | [Save My Heart](https://open.spotify.com/album/6nfMJRyxIK6K3RtTmPXEsL) | 3:01 |
-| 96 | [Scary Movie](https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 2:44 |
+| 94 | [Scary Movie](https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 2:44 |
+| 95 | [HEADPHONES](https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [HEADPHONES](https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2) | 3:16 |
+| 96 | [Save My Heart](https://open.spotify.com/track/1ffuj3LkTKRj20507nRwMl) | [Bradley Marshall](https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y) | [Save My Heart](https://open.spotify.com/album/6nfMJRyxIK6K3RtTmPXEsL) | 3:01 |
 | 97 | [Running Out Of Time](https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Running Out Of Time](https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0) | 3:34 |
 | 98 | [Little Miss Sunshine](https://open.spotify.com/track/4ALTbG2KpqPEHo4r8OtrRy) | [Charlie Noordewier](https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk) | [Little Miss Sunshine](https://open.spotify.com/album/28Y1YHAmV6ZaqFRZa52F2v) | 5:15 |
 | 99 | [collarbone](https://open.spotify.com/track/4lLpORG43iVNYzgQRmYS2G) | [Orlando](https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy) | [collarbone](https://open.spotify.com/album/3ILfK12zJwCkJCc1zls5qP) | 3:09 |

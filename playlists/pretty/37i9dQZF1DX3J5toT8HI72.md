@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > essa é pros apaixonados
 
-[Spotify](https://open.spotify.com/user/spotify) - 781,097 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 781,152 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 50 | [Feliz e Ponto](https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Júpiter](https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj) | 2:36 |
 | 51 | [Se Eu Não Te Amasse Tanto Assim](https://open.spotify.com/track/7LxiQ3v6iEaejUgnBBphNS) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Ivete Sangalo](https://open.spotify.com/album/2c8gDfmmo6KnFSxWwL1COf) | 4:09 |
 | 52 | [AMAReSÓ \- Ao Vivo Com Orquestra](https://open.spotify.com/track/498FzWbDkd8P6fGGs5lU5o) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [AMAReSÓ \(Ao Vivo Com Orquestra\)](https://open.spotify.com/album/07NbVUuc0xr43mBItwki9i) | 3:00 |
-| 53 | [Insista Em Mim](https://open.spotify.com/track/2NDo5AjOb1E6JJOO31qhx0) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Me Chama de Gato Que Eu Sou Sua](https://open.spotify.com/album/0ge5ZLyto8vFQrif125mtW) | 3:32 |
-| 54 | [Codinome Beija\-Flor](https://open.spotify.com/track/2jERD2u9uoC7gGNQ0LbCrI) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Melhores Momentos](https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa) | 2:31 |
+| 53 | [Codinome Beija\-Flor](https://open.spotify.com/track/2jERD2u9uoC7gGNQ0LbCrI) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Melhores Momentos](https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa) | 2:31 |
+| 54 | [Insista Em Mim](https://open.spotify.com/track/2NDo5AjOb1E6JJOO31qhx0) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Me Chama de Gato Que Eu Sou Sua](https://open.spotify.com/album/0ge5ZLyto8vFQrif125mtW) | 3:32 |
 | 55 | [Para Nunca Mais Esquecer](https://open.spotify.com/track/189mH4ULrwy6T3ksvtF5aM) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Improviso](https://open.spotify.com/album/7AQwtFS7T46IR3VcDy8iCj) | 3:52 |
 | 56 | [Ô Sorte](https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Urbano](https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A) | 2:09 |
 | 57 | [Só Sei Dançar Com Você](https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Zé Pi](https://open.spotify.com/artist/1ZLHH9MsBSa70q6KcGzWNM) | [Efêmera](https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs) | 3:41 |

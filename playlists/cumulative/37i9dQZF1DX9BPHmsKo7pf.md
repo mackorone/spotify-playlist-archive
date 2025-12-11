@@ -2,7 +2,7 @@
 
 ### [Hot Hits România](https://open.spotify.com/playlist/37i9dQZF1DX9BPHmsKo7pf)
 
-> Cele mai de succes 50 de hituri în România\. Cover: Ian
+> Cele mai de succes 50 de hituri în România\. Cover: Petre Stefan
 
 249 songs - 11 hr 55 min
 

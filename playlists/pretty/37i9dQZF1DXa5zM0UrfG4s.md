@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > rølp og sånt
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,570 likes - 70 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,567 likes - 70 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 53 | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3) | 2:17 |
 | 54 | [Nå er det helg](https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Nå er det helg](https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius) | 3:03 |
 | 55 | [Ja vi elsker \(Typisk Norsk 2019\)](https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Ja vi elsker \(Typisk Norsk 2019\)](https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV) | 2:44 |
-| 56 | [Velkommen til Østfold](https://open.spotify.com/track/2DwItGwSNTYI4E8RtmJwUX) | [ZadeKing](https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Velkommen til Østfold](https://open.spotify.com/album/77bx4BwFo76C57mYqDnHtt) | 2:23 |
-| 57 | [Her og nå](https://open.spotify.com/track/6MUNgJiHbzHPKwMzLseH5X) | [River](https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5) | [Her og nå](https://open.spotify.com/album/2oZjPro9gaPNlzECFyFy9e) | 2:16 |
+| 56 | [Her og nå](https://open.spotify.com/track/6MUNgJiHbzHPKwMzLseH5X) | [River](https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5) | [Her og nå](https://open.spotify.com/album/2oZjPro9gaPNlzECFyFy9e) | 2:16 |
+| 57 | [Velkommen til Østfold](https://open.spotify.com/track/2DwItGwSNTYI4E8RtmJwUX) | [ZadeKing](https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Velkommen til Østfold](https://open.spotify.com/album/77bx4BwFo76C57mYqDnHtt) | 2:23 |
 | 58 | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x) | 2:38 |
 | 59 | [Bara vara med dig](https://open.spotify.com/track/6XyttiDC9XtzILqteIADau) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bara vara med dig](https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY) | 2:41 |
 | 60 | [Svensk i kväll](https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu) | [Helene Olafsen](https://open.spotify.com/artist/74LbOioJUqae6mkQ9wDiDN), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [Svensk i kväll](https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX) | 2:04 |

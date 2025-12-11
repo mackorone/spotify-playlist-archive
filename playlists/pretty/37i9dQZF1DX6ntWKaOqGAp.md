@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [NEVERMIND](https://open.spotify.com/track/0DR9GZjYGfbkGOHcJgHj60) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [](https://open.spotify.com/album/null) | 3:25 |
+| 1 | [NEVERMIND](https://open.spotify.com/track/0DR9GZjYGfbkGOHcJgHj60) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [physical mind](https://open.spotify.com/album/4Kkdmmx6dC09NZeJHetRrz) | 3:25 |
 | 2 | [Sanitizer](https://open.spotify.com/track/4eCYeVfzGsS6jq8aX43yDr) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Sanitizer](https://open.spotify.com/album/0GjrgVnOjXqHxy7KtHQYnY) | 5:04 |
 | 3 | [big man 2](https://open.spotify.com/track/1ZE2N0EqAonRkTkPE3W55P) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [big man 2 / young boy](https://open.spotify.com/album/3ZTVLKNr2irF0mOiQqK8FS) | 2:48 |
 | 4 | [クラッシュ](https://open.spotify.com/track/52bUzd6abRXpGBt9a3Gxc9) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK), [なとり](https://open.spotify.com/artist/3lagKxU3X84fGgnH9gekjy) | [デジタル・ラブ](https://open.spotify.com/album/4BMR0iTGRG76xRmH6K1QmG) | 2:16 |

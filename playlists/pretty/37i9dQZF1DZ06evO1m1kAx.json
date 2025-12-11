@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 7847,
+  "num_followers": 7853,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAABkZ04szePp55nF+je8uCGz",
+  "snapshot_id": "aTdmgAAAAAAZ13emCo3SYLIiKwOsJf9N",
   "tracks": [
     {
       "added_at": null,
@@ -228,13 +228,13 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
         }
       ],
-      "duration_ms": 227970,
-      "name": "Opo (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/1aPT4OyFWsqPp004pH2DuY"
+      "duration_ms": 227683,
+      "name": "Amaka (feat. Peruzzi)",
+      "url": "https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0"
     },
     {
       "added_at": null,
@@ -308,33 +308,13 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         },
         {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 227683,
-      "name": "Amaka (feat. Peruzzi)",
-      "url": "https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cupid Stories",
-        "url": "https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci"
-      },
-      "artists": [
-        {
-          "name": "Bracket",
-          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "Remember (feat. 2face)",
-      "url": "https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk"
+      "duration_ms": 227970,
+      "name": "Opo (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1aPT4OyFWsqPp004pH2DuY"
     },
     {
       "added_at": null,
@@ -355,6 +335,26 @@
       "duration_ms": 291960,
       "name": "Ole",
       "url": "https://open.spotify.com/track/1aKQJXeEs0OyaFumj4W3WZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cupid Stories",
+        "url": "https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci"
+      },
+      "artists": [
+        {
+          "name": "Bracket",
+          "url": "https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "Remember (feat. 2face)",
+      "url": "https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk"
     },
     {
       "added_at": null,
@@ -499,38 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Azaman",
-        "url": "https://open.spotify.com/album/2OpvIZAXt5UVzxUCN0tVSY"
-      },
-      "artists": [
-        {
-          "name": "Slimcase",
-          "url": "https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        },
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "DJ Neptune",
-          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Azaman",
-      "url": "https://open.spotify.com/track/61gKKvpUMUnfmVkJGzLiGw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holy Holy",
         "url": "https://open.spotify.com/album/1oP1d81iy9iuRQZQjtX1jS"
       },
@@ -567,6 +535,38 @@
       "duration_ms": 184500,
       "name": "Ashewo",
       "url": "https://open.spotify.com/track/6phfOLRF89L8DlEofGXVHN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Azaman",
+        "url": "https://open.spotify.com/album/2OpvIZAXt5UVzxUCN0tVSY"
+      },
+      "artists": [
+        {
+          "name": "Slimcase",
+          "url": "https://open.spotify.com/artist/40aejR4JaMbNbuROxAJUPY"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        },
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Azaman",
+      "url": "https://open.spotify.com/track/61gKKvpUMUnfmVkJGzLiGw"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Salary 4 Life",
-        "url": "https://open.spotify.com/album/2JdhdRFrmEOLRxojMh5y76"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 153027,
-      "name": "Salary 4 Life",
-      "url": "https://open.spotify.com/track/5hbSZEE3pg99Y0Qj330rKT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 288920,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/2L7I6WIUbzBMlepi4iVfXd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Salary 4 Life",
+        "url": "https://open.spotify.com/album/2JdhdRFrmEOLRxojMh5y76"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 153027,
+      "name": "Salary 4 Life",
+      "url": "https://open.spotify.com/track/5hbSZEE3pg99Y0Qj330rKT"
     },
     {
       "added_at": null,
@@ -779,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "AWAY & BEYOND PLUS",
+        "url": "https://open.spotify.com/album/3UDRSt9HM1wYuwPr8uuvka"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 266490,
+      "name": "Rainbow (feat. T-Pain)",
+      "url": "https://open.spotify.com/track/5JP8TwUpsWlSJQda6Ev67o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/0VJKNI1mB4EVKukTJS5J0d"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 140412,
       "name": "Troblem",
       "url": "https://open.spotify.com/track/12DX8rPfhrIm1Cs1FPE3Bk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AWAY & BEYOND PLUS",
-        "url": "https://open.spotify.com/album/3UDRSt9HM1wYuwPr8uuvka"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 266490,
-      "name": "Rainbow (feat. T-Pain)",
-      "url": "https://open.spotify.com/track/5JP8TwUpsWlSJQda6Ev67o"
     },
     {
       "added_at": null,
@@ -856,9 +856,25 @@
           "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
         }
       ],
-      "duration_ms": 267240,
-      "name": "Thank U Lord",
-      "url": "https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h"
+      "duration_ms": 296693,
+      "name": "U No Holy Pass",
+      "url": "https://open.spotify.com/track/3dmMDnpDq1GaS9zAX8ycas"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNSTOPPABLE",
+        "url": "https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 236564,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/5tLWNKddPYlrtTnQTeKQrz"
     },
     {
       "added_at": null,
@@ -883,22 +899,6 @@
       "duration_ms": 193939,
       "name": "Disguise",
       "url": "https://open.spotify.com/track/0x3l5qTKFn7vaL5VnjhgC1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "UNSTOPPABLE",
-        "url": "https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 236564,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/5tLWNKddPYlrtTnQTeKQrz"
     },
     {
       "added_at": null,
@@ -940,9 +940,33 @@
           "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
         }
       ],
-      "duration_ms": 296693,
-      "name": "U No Holy Pass",
-      "url": "https://open.spotify.com/track/3dmMDnpDq1GaS9zAX8ycas"
+      "duration_ms": 267240,
+      "name": "Thank U Lord",
+      "url": "https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7pqUKMWH6P7AJPIjUiphTS"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 212498,
+      "name": "Abeg Abeg (feat. 2Baba & Timaya)",
+      "url": "https://open.spotify.com/track/0T4qEpN66j63wGvh3jIryW"
     },
     {
       "added_at": null,
@@ -971,30 +995,6 @@
       "duration_ms": 154529,
       "name": "Mad Over Hills",
       "url": "https://open.spotify.com/track/3Q60LbnG9q7GvSZoz267FN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7pqUKMWH6P7AJPIjUiphTS"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 212498,
-      "name": "Abeg Abeg (feat. 2Baba & Timaya)",
-      "url": "https://open.spotify.com/track/0T4qEpN66j63wGvh3jIryW"
     },
     {
       "added_at": null,

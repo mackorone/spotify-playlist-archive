@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Jimmy Buffett",
-  "num_followers": 304189,
+  "num_followers": 304254,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Gorilla (2019 Remaster)",
-        "url": "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "How Sweet It Is (To Be Loved By You) - 2019 Remaster",
-      "url": "https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "The Michael Johnson Album",
         "url": "https://open.spotify.com/album/5VKyy4iNK1F6aS5bohAMb4"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 179666,
       "name": "Bluer Than Blue",
       "url": "https://open.spotify.com/track/1cAHI9tJN6oHMdG4ghlQKY"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Gorilla (2019 Remaster)",
+        "url": "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "How Sweet It Is (To Be Loved By You) - 2019 Remaster",
+      "url": "https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF"
     },
     {
       "added_at": "2023-03-29 17:34:27",

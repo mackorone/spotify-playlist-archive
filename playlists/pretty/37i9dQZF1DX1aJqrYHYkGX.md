@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 
 > Gentle, relaxing music from around the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,498 likes - 135 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,522 likes - 135 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

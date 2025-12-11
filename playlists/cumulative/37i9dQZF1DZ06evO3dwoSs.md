@@ -4,7 +4,7 @@
 
 > This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-146 songs - 9 hr 8 min
+147 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,12 +103,13 @@
 | [Never Enough](https://open.spotify.com/track/3v95MyscKq1J6zdt2NFTgp) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Way of the Fist](https://open.spotify.com/album/5WKUwwYLzwSJAwMCrxhCdj) | 3:29 | 2025-12-09 |  |
 | [Never Enough](https://open.spotify.com/track/5RFGKcEjbcHBrr6jgU0wPE) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Way of the Fist](https://open.spotify.com/album/5IcAPAVFJi4ETttx2GONFB) | 3:29 | 2022-05-30 | 2023-09-16 |
 | [No One Gets Left Behind](https://open.spotify.com/track/007qYpVaKepM83aZ9Fld0L) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/7gjRHt4PuiDoMZmaojmTAf) | 3:23 | 2022-05-30 | 2023-08-31 |
-| [No One Gets Left Behind](https://open.spotify.com/track/3Z15JSB3lBhe00Jv2lz4OG) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War is the Answer](https://open.spotify.com/album/6UVYgnSnY4ytapGgBY4BzZ) | 3:23 | 2023-08-30 |  |
+| [No One Gets Left Behind](https://open.spotify.com/track/3Z15JSB3lBhe00Jv2lz4OG) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War is the Answer](https://open.spotify.com/album/6UVYgnSnY4ytapGgBY4BzZ) | 3:23 | 2023-08-30 | 2025-12-11 |
 | [No One Gets Left Behind](https://open.spotify.com/track/5vif1v33N1y04aewqWIGHm) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [War Is the Answer](https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V) | 3:23 | 2023-09-15 | 2025-12-03 |
 | [Pick Up Behind You](https://open.spotify.com/track/6sMOYEbYigMVoIVNyNEIPN) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:08 | 2022-08-22 | 2025-10-18 |
 | [Question Everything](https://open.spotify.com/track/1QxuQkTN8rHcS8Y50tLuAP) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ) | 5:05 | 2025-07-21 | 2025-12-07 |
 | [Remember Everything](https://open.spotify.com/track/02W7gkxX3cgmddUQeUMwJe) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/1qLIrsJWd8bOPqunfQiTxh) | 4:38 | 2022-05-30 | 2023-09-16 |
-| [Remember Everything](https://open.spotify.com/track/0AU8BHZpoCIqGPxxL5KpKZ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/6u1mCPtlgfflxh5LZiPdoM) | 4:38 | 2023-09-15 |  |
+| [Remember Everything](https://open.spotify.com/track/0AU8BHZpoCIqGPxxL5KpKZ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/6u1mCPtlgfflxh5LZiPdoM) | 4:38 | 2023-09-15 | 2025-12-11 |
+| [Remember Everything](https://open.spotify.com/track/4G2GSsAneHpcG5J8cKGXyw) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe\)](https://open.spotify.com/album/23Zi1sfUFkw4L4TC1vrLdy) | 4:38 | 2025-12-11 |  |
 | [Roll Dem Bones](https://open.spotify.com/track/2EwMqSMpU9nTkdB0pIExdX) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:19 | 2022-08-22 | 2022-09-19 |
 | [Roll Dem Bones](https://open.spotify.com/track/6K8oi0iWLUcJbwEXyRtqZp) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife \(Deluxe\)](https://open.spotify.com/album/3nEUhPvFBnLSi30EZy931a) | 3:19 | 2024-04-13 | 2025-10-24 |
 | [Sham Pain](https://open.spotify.com/track/0nqIqABZcujg05mkixJV60) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 3:29 | 2023-08-27 |  |

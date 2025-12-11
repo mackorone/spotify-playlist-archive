@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAACYsscupZbfHEmQrf6nSb1A",
+  "snapshot_id": "aTdmgAAAAAAWjA+4A2VXiGw3o2XjaEru",
   "tracks": [
     {
       "added_at": null,
@@ -71,22 +71,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going Off",
-        "url": "https://open.spotify.com/album/4U7mZO24WBKhnjXWpFhHFS"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 123810,
-      "name": "Going Off",
-      "url": "https://open.spotify.com/track/0ptpL3gNn7Z8c2LoV4VthT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "STUNNA",
         "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 162407,
       "name": "Again",
       "url": "https://open.spotify.com/track/1qMiwEmeArAqKvGZzuMHEB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Going Off",
+        "url": "https://open.spotify.com/album/4U7mZO24WBKhnjXWpFhHFS"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 123810,
+      "name": "Going Off",
+      "url": "https://open.spotify.com/track/0ptpL3gNn7Z8c2LoV4VthT"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STUNNA",
-        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 181478,
-      "name": "Stunna Anthem",
-      "url": "https://open.spotify.com/track/32swiA5dr04YdzEpLOTiXX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MAJORLY INDEPENDENT",
         "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 198165,
       "name": "GIVE ME A BEAT!",
       "url": "https://open.spotify.com/track/4h4kvQ00knFH2BrTITdEv4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STUNNA",
+        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 181478,
+      "name": "Stunna Anthem",
+      "url": "https://open.spotify.com/track/32swiA5dr04YdzEpLOTiXX"
     },
     {
       "added_at": null,
@@ -575,30 +575,6 @@
       "duration_ms": 140000,
       "name": "What's That?",
       "url": "https://open.spotify.com/track/1Li6CZYv1B8PWMDz31vj3A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moovie!",
-        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
-      },
-      "artists": [
-        {
-          "name": "Kool John",
-          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Iamsu!",
-          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "On One",
-      "url": "https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar"
     },
     {
       "added_at": null,
@@ -671,18 +647,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRIME",
-        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
+        "name": "Moovie!",
+        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
       },
       "artists": [
         {
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+        },
+        {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Iamsu!",
+          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
         }
       ],
-      "duration_ms": 159064,
-      "name": "bamboo",
-      "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
+      "duration_ms": 205480,
+      "name": "On One",
+      "url": "https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
       "duration_ms": 199508,
       "name": "Power (feat. Nef The Pharaoh & P-Lo)",
       "url": "https://open.spotify.com/track/7BHEi0cFs6TVNFDvbBrAjz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRIME",
+        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 159064,
+      "name": "bamboo",
+      "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
     },
     {
       "added_at": null,
@@ -771,30 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Should Know",
-        "url": "https://open.spotify.com/album/3L5OWAmBC0sIaTcLf35vrr"
-      },
-      "artists": [
-        {
-          "name": "Will Hill ",
-          "url": "https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh"
-        },
-        {
-          "name": "Hollywood Cole",
-          "url": "https://open.spotify.com/artist/60rgnKzRvebLmv6lWS0rTT"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Mack",
-      "url": "https://open.spotify.com/track/1lv6YHO3cxqQ8o2tG9xTAK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What We On (feat. E-40)",
         "url": "https://open.spotify.com/album/6NCCYWOcEUB5jCMzBtgiql"
       },
@@ -819,6 +795,30 @@
       "duration_ms": 173000,
       "name": "What We On (feat. E-40)",
       "url": "https://open.spotify.com/track/0TLAn4Hzf9fTtprPfDgjY4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Should Know",
+        "url": "https://open.spotify.com/album/3L5OWAmBC0sIaTcLf35vrr"
+      },
+      "artists": [
+        {
+          "name": "Will Hill ",
+          "url": "https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh"
+        },
+        {
+          "name": "Hollywood Cole",
+          "url": "https://open.spotify.com/artist/60rgnKzRvebLmv6lWS0rTT"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Mack",
+      "url": "https://open.spotify.com/track/1lv6YHO3cxqQ8o2tG9xTAK"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJyzEwVacEu.md) - [plain]
 
 > De bekendste hits in NL 📻\. Cover: David Guetta, Tedddy Swims & Tones And I
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,601 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,617 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

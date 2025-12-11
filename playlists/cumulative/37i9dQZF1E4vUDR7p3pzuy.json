@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Synthetik Blonde, Corlyx, Amulet and more",
+  "description": "With Synthetik Blonde, JUST LIZZY, Amulet and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 205500,
       "name": "A Heart Cries",
       "url": "https://open.spotify.com/track/5RsvOuAAaoEzABnhi2dLcl"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 294155,
       "name": "A Love So Bold",
       "url": "https://open.spotify.com/track/6ylEbDvwHvCHl0KlrOAEiH"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "All-Inclusive",
       "url": "https://open.spotify.com/track/5a2DObmVugouqxO7UM7A2R"
@@ -328,7 +328,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 255489,
       "name": "Broken",
       "url": "https://open.spotify.com/track/1rnD9JroIvpYq8eLYoN2kC"
@@ -386,7 +386,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 310000,
       "name": "Can You See",
       "url": "https://open.spotify.com/track/0821u62C5YiW4Z2beHjvGf"
@@ -462,7 +462,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 219500,
       "name": "Closing the Dark",
       "url": "https://open.spotify.com/track/7IAoMCaOE9ad5qcjo8Z7vu"
@@ -726,7 +726,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 276000,
       "name": "Doppelganger",
       "url": "https://open.spotify.com/track/0oXmJgdT7jPYTjOmN2GUWY"
@@ -788,6 +788,24 @@
       "duration_ms": 252461,
       "name": "Embers Are My Crown",
       "url": "https://open.spotify.com/track/21NMXyzPTTR5SQAMLzGqgL"
+    },
+    {
+      "album": {
+        "name": "Erase Me",
+        "url": "https://open.spotify.com/album/4uuEz3YPZhQv6A4MxcKhzZ"
+      },
+      "artists": [
+        {
+          "name": "Megan McDuffee",
+          "url": "https://open.spotify.com/artist/4n34M10wtYMrhh5tNsKwnn"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Erase Me",
+      "url": "https://open.spotify.com/track/4XTMK3LWgc1fzNshTg1B4Z"
     },
     {
       "album": {
@@ -860,7 +878,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
@@ -1045,6 +1063,24 @@
     },
     {
       "album": {
+        "name": "Haunt Me",
+        "url": "https://open.spotify.com/album/1QfcXJGbIpherlmPGXlYUi"
+      },
+      "artists": [
+        {
+          "name": "Paper Foxes",
+          "url": "https://open.spotify.com/artist/7tJB0mp5rtzUUwpqDQrRId"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216038,
+      "name": "Haunt Me",
+      "url": "https://open.spotify.com/track/1EGa9YXufVXVVQWhcUVxa4"
+    },
+    {
+      "album": {
         "name": "Heart-Shaped Box",
         "url": "https://open.spotify.com/album/7gWGEWCqsDw7fdxGtj6roA"
       },
@@ -1056,7 +1092,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 256634,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/4zR3I8wrWs1lW3wHW507qU"
@@ -1454,7 +1490,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 397000,
       "name": "Let The Flowers Grow (Juno Reactor Remix)",
       "url": "https://open.spotify.com/track/5tcGXxXX1amKFMUiuIgd0e"
@@ -1721,6 +1757,24 @@
     },
     {
       "album": {
+        "name": "BANG THE DRUM",
+        "url": "https://open.spotify.com/album/49R77egexZDcf4o3KXk4MM"
+      },
+      "artists": [
+        {
+          "name": "The Feal",
+          "url": "https://open.spotify.com/artist/3kTHOq7pTxKgTHkGOOl3Co"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375000,
+      "name": "MTHRFCKRS",
+      "url": "https://open.spotify.com/track/76zqr2VewgO6cx5Pk5scph"
+    },
+    {
+      "album": {
         "name": "Neon Horizon",
         "url": "https://open.spotify.com/album/2b7c8hVrIYb9zMs7QW5I6f"
       },
@@ -1968,7 +2022,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 238560,
       "name": "Queen of Codependency",
       "url": "https://open.spotify.com/track/53VjOVF0jUG3ueScsJ75AO"
@@ -2080,7 +2134,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 264662,
       "name": "Screens",
       "url": "https://open.spotify.com/track/2Ic49nqCcxn8bKvnA0fcQU"
@@ -2316,10 +2370,28 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 317173,
       "name": "Soul Crush - Signals MIX",
       "url": "https://open.spotify.com/track/5b1ErbWFbwvIo4fgOWyUL0"
+    },
+    {
+      "album": {
+        "name": "Sour Times",
+        "url": "https://open.spotify.com/album/35t2RtTtzznFhewsuGRaz2"
+      },
+      "artists": [
+        {
+          "name": "clubdrugs",
+          "url": "https://open.spotify.com/artist/7vrRNsACRMUWrecv4hEmjL"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132250,
+      "name": "Sour Times",
+      "url": "https://open.spotify.com/track/6SXjoWDfkalvQiCMzBnXEp"
     },
     {
       "album": {
@@ -2392,7 +2464,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 210500,
       "name": "Struggle",
       "url": "https://open.spotify.com/track/0LufHqU1K0M08WNNxc5XhG"
@@ -2502,6 +2574,24 @@
       "duration_ms": 220032,
       "name": "The Eternal Flame (Burning Bright)",
       "url": "https://open.spotify.com/track/60cIXEiaEUgwZoji9C73l6"
+    },
+    {
+      "album": {
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/1GJuzASfrQDIyGtS4qzv0F"
+      },
+      "artists": [
+        {
+          "name": "Child of Night",
+          "url": "https://open.spotify.com/artist/67kuVocLWbYdQ3QkGh4Nqm"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "The Fool",
+      "url": "https://open.spotify.com/track/1r397D1b7MXO1hc08kaQD1"
     },
     {
       "album": {
@@ -2896,7 +2986,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 223992,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/42Nfq6w92eSBp9CGJa75k6"

@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: Sienna Spiro
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,319 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,327 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You Stole The Show](https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [You Stole The Show](https://open.spotify.com/album/1K7SMm8IvVx0hT40q1tfTh) | 3:27 |
 | 2 | [SORRY](https://open.spotify.com/track/34ksxaX1hF5d6v73jETP70) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [FEAR](https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg) | 3:11 |
-| 3 | [Eternity](https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Eternity](https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S) | 3:23 |
-| 4 | [Birthday Party Crash](https://open.spotify.com/track/7C2OnvqB1sia1g7ecfKTWI) | [mermaidonmars](https://open.spotify.com/artist/3E3Bhr9cOUCWhjJhNZeTAX) | [Birthday Party Crash](https://open.spotify.com/album/6xrLKbz7rrtyztyshL5TwP) | 2:22 |
-| 5 | [NOT CUTE ANYMORE](https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE](https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt) | 2:11 |
-| 6 | [Empty Skies](https://open.spotify.com/track/2g3fPn92feohW3HMlhj9Ok) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Empty Skies](https://open.spotify.com/album/3u0pQzm5VH1Qfv3xCnhNVu) | 3:08 |
-| 7 | [I'LL NEVER KNOW WHY](https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Don't Tease Me With A Good Time](https://open.spotify.com/album/5x8HW0WELQYm5Cp8408sfg) | 3:52 |
-| 8 | [FRIENDS IN DENVER](https://open.spotify.com/track/3ksoDPpkK1CH4JJqOaYcX3) | [Ty Darling](https://open.spotify.com/artist/2EZ6sQxeNZGklwhOXjIYz8) | [FRIENDS IN DENVER](https://open.spotify.com/album/6sDqMla3CKnloHyQZ0a8Do) | 3:53 |
-| 9 | [Girlfriend](https://open.spotify.com/track/4N4LVFozqHTxDgPWNprAia) | [Laura Tesoro](https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2) | [Girlfriend](https://open.spotify.com/album/48jeApuGYMx3DXKDrgTPqo) | 2:54 |
-| 10 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 |
-| 11 | [Happy New Year](https://open.spotify.com/track/0HOsCK1j8qOB8WCSmPD1m7) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [Happy New Year](https://open.spotify.com/album/6GhuV1ZwCgUvirFMZalAAO) | 3:58 |
-| 12 | [The Thing I Love](https://open.spotify.com/track/4wsT99Vv3afkArA5SSHDsu) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Thing I Love](https://open.spotify.com/album/6pz8Io3WGItAMxlbM1L9zG) | 2:52 |
-| 13 | [silent treatment](https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [silent treatment](https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt) | 2:22 |
+| 3 | [silent treatment](https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [silent treatment](https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt) | 2:22 |
+| 4 | [The Thing I Love](https://open.spotify.com/track/4wsT99Vv3afkArA5SSHDsu) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Thing I Love](https://open.spotify.com/album/6pz8Io3WGItAMxlbM1L9zG) | 2:52 |
+| 5 | [Eternity](https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Eternity](https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S) | 3:23 |
+| 6 | [Birthday Party Crash](https://open.spotify.com/track/7C2OnvqB1sia1g7ecfKTWI) | [mermaidonmars](https://open.spotify.com/artist/3E3Bhr9cOUCWhjJhNZeTAX) | [Birthday Party Crash](https://open.spotify.com/album/6xrLKbz7rrtyztyshL5TwP) | 2:22 |
+| 7 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 |
+| 8 | [NOT CUTE ANYMORE](https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE](https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt) | 2:11 |
+| 9 | [Empty Skies](https://open.spotify.com/track/2g3fPn92feohW3HMlhj9Ok) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Empty Skies](https://open.spotify.com/album/3u0pQzm5VH1Qfv3xCnhNVu) | 3:08 |
+| 10 | [I'LL NEVER KNOW WHY](https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Don't Tease Me With A Good Time](https://open.spotify.com/album/5x8HW0WELQYm5Cp8408sfg) | 3:52 |
+| 11 | [FRIENDS IN DENVER](https://open.spotify.com/track/3ksoDPpkK1CH4JJqOaYcX3) | [Ty Darling](https://open.spotify.com/artist/2EZ6sQxeNZGklwhOXjIYz8) | [FRIENDS IN DENVER](https://open.spotify.com/album/6sDqMla3CKnloHyQZ0a8Do) | 3:53 |
+| 12 | [Girlfriend](https://open.spotify.com/track/4N4LVFozqHTxDgPWNprAia) | [Laura Tesoro](https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2) | [Girlfriend](https://open.spotify.com/album/48jeApuGYMx3DXKDrgTPqo) | 2:54 |
+| 13 | [Happy New Year](https://open.spotify.com/track/0HOsCK1j8qOB8WCSmPD1m7) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [Happy New Year](https://open.spotify.com/album/6GhuV1ZwCgUvirFMZalAAO) | 3:58 |
 | 14 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:41 |
 | 15 | [The Day That I Die](https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe) | 2:54 |
 | 16 | [Believer](https://open.spotify.com/track/6zRsQkn99LTGcGAcgHYEMm) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Believer](https://open.spotify.com/album/6Gy8bgQT87rQxCZGC7lkl2) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 99 | [r u gonna love me?](https://open.spotify.com/track/0xpy0DrLu1kcCWAkvb0HqU) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [r u gonna love me?](https://open.spotify.com/album/2fDf6DEQH3Tv0hOkOhbeYU) | 3:03 |
 | 100 | [Ghosts](https://open.spotify.com/track/20Rjl0NnWdKHv1OwKA7gid) | [Iskander Moon](https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0) | [Ghosts](https://open.spotify.com/album/2PWoBl1aTMVU93FZDQKF8S) | 3:47 |
 
-Snapshot ID: `AAAAAH0m/zs1y9NKynIvRYTLcYF9Gfgi`
+Snapshot ID: `AAAAADI7Uly8vLh8R6z1Zp9f88NkL1ZR`

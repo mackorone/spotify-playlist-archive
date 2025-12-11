@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 
 > De la editorii noștri, highlights EQUAL România din 2025\. Voci feminine la volum maxim! Cover: Irina Rimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,556 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,557 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 | 49 | [Timp, Unde Ma Duci?](https://open.spotify.com/track/7MZP14mGVWXr5p8V3aNgWD) | [Loredana](https://open.spotify.com/artist/5aU8qm9nbrIaXO8ieyKlTa), [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF) | [Timp, Unde Ma Duci?](https://open.spotify.com/album/1WPwDNV18W8SazSGA7akTW) | 2:53 |
 | 50 | [Optiunea ta](https://open.spotify.com/track/1hrzkfGypVP0tjnCeniHPI) | [Amna](https://open.spotify.com/artist/4yjYHvJbZFQ7sESuV9t3uQ) | [Optiunea ta](https://open.spotify.com/album/0jYsXS3zs2aBt8CjnK29U1) | 2:40 |
 
-Snapshot ID: `AAAAAAAGbLVDFNzONBfTR4vZ3m/Qeqf5`
+Snapshot ID: `AAAAAPCgU+hv1QkY/0P7E1E1NbL02n8P`

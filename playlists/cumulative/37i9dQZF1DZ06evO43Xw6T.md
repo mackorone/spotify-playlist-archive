@@ -4,7 +4,7 @@
 
 > This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-130 songs - 6 hr 33 min
+131 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Puro Dolor](https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [A Puro Dolor](https://open.spotify.com/album/54bkVDCc7dG3QpIvFePi4a) | 2:48 | 2024-01-29 | 2025-01-20 |
 | [A Puro Dolor](https://open.spotify.com/track/64bkq8hlgf0zTtBxQvXIrn) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:48 | 2025-01-20 |  |
 | [Abeja Reina](https://open.spotify.com/track/7C0xpS2Dt5pRVPmGjaZout) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [SS23](https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S) | 3:53 | 2024-01-29 | 2024-05-26 |
+| [AFTERLIFE](https://open.spotify.com/track/6GGhD1IyPluXefBT0n3K6F) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AFTERLIFE](https://open.spotify.com/album/4QhJQwFpbeh6xItjEg5IwC) | 2:48 | 2025-12-11 |  |
 | [Amarre](https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG) | [Amarre](https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14) | 2:59 | 2025-08-31 |  |
 | [AMG](https://open.spotify.com/track/0FxtC8uFapbpDBliAU3sd6) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Nata Montana](https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU) | 2:54 | 2024-05-26 |  |
 | [AMG](https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AMG](https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O) | 2:54 | 2024-01-29 | 2025-12-08 |
@@ -51,7 +52,7 @@
 | [El Tsurito](https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Tsurito](https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA) | 3:14 | 2024-01-29 |  |
 | [Elvira](https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 3:17 | 2024-01-29 |  |
 | [Ese Vato No Te Queda](https://open.spotify.com/track/4Ndjd6DhKIC5IPoBIrMQuX) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ese Vato No Te Queda](https://open.spotify.com/album/4Z9Ib007Z7ZFmYLfyp2qH9) | 3:18 | 2024-10-28 |  |
-| [F's](https://open.spotify.com/track/6qtOaQrYTqyAZdNMCmGQwr) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:50 | 2024-01-29 |  |
+| [F's](https://open.spotify.com/track/6qtOaQrYTqyAZdNMCmGQwr) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:50 | 2024-01-29 | 2025-12-11 |
 | [Fendi](https://open.spotify.com/track/4aonjvCesaUl0RG6uoaDkB) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Fendi](https://open.spotify.com/album/3FwyHCGkhKFLYCukbLgrWK) | 3:00 | 2024-10-07 | 2025-07-21 |
 | [Fendi](https://open.spotify.com/track/7oey14Rg8UhqMCQjOp0OST) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Fendi](https://open.spotify.com/album/5aczlIix8ceVTmh7nbmPkb) | 3:00 | 2024-01-29 | 2024-10-07 |
 | [Fino Con Los Valentino](https://open.spotify.com/track/02Rk5y9SH6OtMgl3Etln3q) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Rico o Muerto, Vol\. 1](https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO) | 2:23 | 2025-06-08 | 2025-10-12 |

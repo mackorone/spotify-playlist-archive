@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Skin On Skin
 
-516 songs - 1 day 4 hr 42 min
+517 songs - 1 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Call My Name](https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Call My Name](https://open.spotify.com/album/0nY0X0q9Kv4b1iEiv1ORFq) | 5:03 | 2025-03-13 |  |
 | [Calling Out Your Name](https://open.spotify.com/track/67QwptDtovlQWguTfHSeR5) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [Calling Out Your Name](https://open.spotify.com/album/7o8G8YqFdqefHY4RT3Al3U) | 3:34 | 2025-02-06 | 2025-02-14 |
 | [Can We Talk When It's Over](https://open.spotify.com/track/0S4ZcooG0l16yqP944jnO1) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [Can We Talk When It's Over](https://open.spotify.com/album/5Ywk7ua8Xc6L30URTR5qpL) | 3:35 | 2025-02-06 | 2025-02-14 |
+| [Can You Swim?](https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Can You Swim?](https://open.spotify.com/album/3xiBXsB2pmzFwLh8WiWXEc) | 4:55 | 2025-12-04 |  |
 | [Can't Stand To Lose](https://open.spotify.com/track/7r4FAKAU499KcT5E83zEYs) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Can't Stand To Lose](https://open.spotify.com/album/53MctoRNyj3OmoUVFgZcab) | 4:52 | 2025-02-13 | 2025-02-21 |
 | [Can’t Read Your Mind](https://open.spotify.com/track/25QfYtLRhvxvkWDXHF8S0v) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [The Child](https://open.spotify.com/album/4qop49ibIGQTsNVnyH3bOL) | 4:29 | 2025-01-16 | 2025-02-19 |
 | [car](https://open.spotify.com/track/6hkafjAcHMk1TtSF6w2wIx) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [car](https://open.spotify.com/album/5TX9K0cbUCTQi5UpS6A92O) | 3:17 | 2025-06-26 |  |
@@ -163,7 +164,7 @@
 | [Fishing](https://open.spotify.com/track/7hJMu7eyNwJT2I4V1S5MRl) | [Merpire](https://open.spotify.com/artist/4oTaPrNvNtZW1MwNmmhxuY) | [MILK POOL](https://open.spotify.com/album/1sqrGpru6fJKJuxwjvq39g) | 2:40 | 2025-07-04 | 2025-07-11 |
 | [Fix You](https://open.spotify.com/track/15DBXRbnzgFb2b6EjpQoMo) | [BIRDEE 王煒](https://open.spotify.com/artist/3ca99BZZJrBcxFAblzKy60) | [Fix You](https://open.spotify.com/album/4hGx777atd45keRREW2y9a) | 2:19 | 2025-09-01 | 2025-09-05 |
 | [Flawless](https://open.spotify.com/track/0Z5wZSMRhbQyfLpfu3eZZq) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [D\-Boy 223](https://open.spotify.com/artist/2eqU531iUDaqOoivBdrEOq) | [Flawless](https://open.spotify.com/album/0iFMfNA8oabCI7wq1npZlJ) | 3:09 | 2025-09-01 | 2025-09-05 |
-| [Floating Away](https://open.spotify.com/track/53z99m5pY1bQT8eno6kpMs) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Floating Away](https://open.spotify.com/album/12hEDqjVQEu4ntmdRXGAz2) | 4:20 | 2025-12-04 |  |
+| [Floating Away](https://open.spotify.com/track/53z99m5pY1bQT8eno6kpMs) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Floating Away](https://open.spotify.com/album/12hEDqjVQEu4ntmdRXGAz2) | 4:20 | 2025-12-04 | 2025-12-11 |
 | [Follow Me](https://open.spotify.com/track/3tYy5DX20Bd3SO4UABc3Xt) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Sumner](https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY) | [Follow Me](https://open.spotify.com/album/3kichZUBPRawFSLkhPzFtB) | 2:47 | 2025-06-12 | 2025-07-04 |
 | [Foolish Reasons](https://open.spotify.com/track/4mn0XTBorb10MW1lkNy59v) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [The Art of Uncommon Practice](https://open.spotify.com/album/0bwVKmuHz8SJcrYLUO4PQ9) | 3:55 | 2025-07-24 | 2025-08-01 |
 | [Freaker](https://open.spotify.com/track/2LjcX9WmQTYWw7UYA7xbbw) | [Human Movement](https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ) | [Freaker](https://open.spotify.com/album/3TcAQVAFJxk7Bb1JDIPEvO) | 4:39 | 2025-05-08 | 2025-05-16 |

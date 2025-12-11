@@ -4,7 +4,7 @@
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-93 songs - 4 hr 25 min
+94 songs - 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Ismael](https://open.spotify.com/track/0S2oq25O61zqlWrxMv5lGu) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3) | 2:16 | 2024-01-29 |  |
 | [Jimenez](https://open.spotify.com/track/7j1Un12rLufeK7WEuTgAKe) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg) | 3:04 | 2024-01-29 | 2025-07-10 |
 | [La Charla](https://open.spotify.com/track/6CMJ82WDjcJzJOzID4Rtog) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Charla](https://open.spotify.com/album/61QqtB8p8Eua07ha7IgRKr) | 3:50 | 2024-01-29 | 2025-10-14 |
+| [La De Rogar](https://open.spotify.com/track/3taWawONNXhJ32XJknMNQB) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Resiliencia](https://open.spotify.com/album/2UEVtNtjdV9m8GXYVLm7Ve) | 2:35 | 2025-12-11 |  |
 | [La De Rogar](https://open.spotify.com/track/78XAj5SRKX7pkT7vlHJeDf) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La De Rogar](https://open.spotify.com/album/5tvYXFyNLKENr9mKPfsJ0X) | 2:35 | 2025-09-02 | 2025-12-01 |
 | [La Fiesta](https://open.spotify.com/track/2jjrH4sgaGxgDWss3XWenX) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Fiesta](https://open.spotify.com/album/0H2PeujiXUo7qOnRLLmrKz) | 3:09 | 2024-08-20 | 2024-12-11 |
 | [La Ley del Mayo](https://open.spotify.com/track/4JgF8vGk0Vp3rBOHWBMjW7) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [La Ley del Mayo](https://open.spotify.com/album/0XCMIwN9p62x59fQn6eQTH) | 3:36 | 2024-01-29 |  |
@@ -76,7 +77,7 @@
 | [Matitas Verdes \(En Vivo\)](https://open.spotify.com/track/6602oDHS6ArzmjCXUz1DeS) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Matitas Verdes \(En Vivo\)](https://open.spotify.com/album/6dFaDaCDQqEKfdcELahkAt) | 2:41 | 2024-01-29 |  |
 | [Mi Mas Grande Anhelo \(En vivo\)](https://open.spotify.com/track/2Cde8a3wPwILh4vljdyoIY) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7) | 2:51 | 2024-08-11 | 2024-10-26 |
 | [Modo Avion](https://open.spotify.com/track/4pljc9DdwyxBPojzgHpoL4) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Modo Avion](https://open.spotify.com/album/1RV8eX7Z0Prav12ViroXxd) | 3:05 | 2024-02-13 |  |
-| [Nada Que Ver](https://open.spotify.com/track/0hoXjJHVEngfgyeTHUXRFs) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Resiliencia](https://open.spotify.com/album/2UEVtNtjdV9m8GXYVLm7Ve) | 2:49 | 2025-11-29 |  |
+| [Nada Que Ver](https://open.spotify.com/track/0hoXjJHVEngfgyeTHUXRFs) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Resiliencia](https://open.spotify.com/album/2UEVtNtjdV9m8GXYVLm7Ve) | 2:49 | 2025-11-29 | 2025-12-11 |
 | [Nunca Me Quisiste](https://open.spotify.com/track/0a5dX4BSWeqk9N5AUyZdGf) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Nunca Me Quisiste](https://open.spotify.com/album/20uhkai4M2QzzVVrGK1dDL) | 2:32 | 2025-06-22 |  |
 | [Pese A Quien Le Pese](https://open.spotify.com/track/2Pvx5MfPEzmDUNjnq9GFjP) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pese A Quien Le Pese](https://open.spotify.com/album/6cnEHJEveEigJeAZIUQrQ4) | 1:44 | 2024-01-29 | 2024-02-04 |
 | [Prohibido \(En vivo\)](https://open.spotify.com/track/1WBk7QTwuuFbBnSCEEpk8D) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7) | 2:52 | 2024-01-29 |  |

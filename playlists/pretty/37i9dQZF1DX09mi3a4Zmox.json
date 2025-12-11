@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 3937297,
+  "num_followers": 3937041,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Dejarte De Amar",
-        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Mientes",
-      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "Busca Una Mujer",
         "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 257026,
       "name": "La Incondicional",
       "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Dejarte De Amar",
+        "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Mientes",
+      "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -107,22 +107,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Pies Descalzos",
-        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 254240,
-      "name": "Antolog\u00eda",
-      "url": "https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "Mi Vida Sin Tu Amor",
         "url": "https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl"
       },
@@ -155,6 +139,22 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 254240,
+      "name": "Antolog\u00eda",
+      "url": "https://open.spotify.com/track/0KAqMRUSZwzG3dZLdDA4eH"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
         "name": "Des/Amor",
         "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
       },
@@ -167,22 +167,6 @@
       "duration_ms": 204173,
       "name": "Ya Me Enter\u00e9",
       "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
-        "name": "Atado a Tu Amor",
-        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Dejar\u00eda Todo",
-      "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -203,18 +187,18 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+        "name": "Atado a Tu Amor",
+        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
       },
       "artists": [
         {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 193826,
-      "name": "Todo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
+      "duration_ms": 284466,
+      "name": "Dejar\u00eda Todo",
+      "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -231,6 +215,22 @@
       "duration_ms": 237240,
       "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
       "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 193826,
+      "name": "Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -303,22 +303,18 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Tanto (Edici\u00f3n Premium)",
-        "url": "https://open.spotify.com/album/7kA3hvV7UjgnA5uiUBxwlN"
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        },
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
         }
       ],
-      "duration_ms": 233895,
-      "name": "D\u00f3nde est\u00e1 el amor (feat. Jesse & Joy)",
-      "url": "https://open.spotify.com/track/0CjaLvAqN97KPVWgOJ1vbD"
+      "duration_ms": 238160,
+      "name": "T\u00fa de Qu\u00e9 Vas",
+      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -339,6 +335,26 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
+        "name": "Tanto (Edici\u00f3n Premium)",
+        "url": "https://open.spotify.com/album/7kA3hvV7UjgnA5uiUBxwlN"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 233895,
+      "name": "D\u00f3nde est\u00e1 el amor (feat. Jesse & Joy)",
+      "url": "https://open.spotify.com/track/0CjaLvAqN97KPVWgOJ1vbD"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 229853,
       "name": "No S\u00e9 T\u00fa",
       "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
-        "name": "Stop",
-        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 238160,
-      "name": "T\u00fa de Qu\u00e9 Vas",
-      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -711,18 +711,18 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Locas Por La M\u00fasica",
-        "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
+        "name": "Alejandro Sanz 3",
+        "url": "https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N"
       },
       "artists": [
         {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 222413,
-      "name": "C\u00f3mo Te Va Mi Amor",
-      "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
+      "duration_ms": 307053,
+      "name": "La fuerza del coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5c1w6xM8pFvXhMXQVUY42Q"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -743,18 +743,34 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Alejandro Sanz 3",
-        "url": "https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N"
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
       "artists": [
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 307053,
-      "name": "La fuerza del coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5c1w6xM8pFvXhMXQVUY42Q"
+      "duration_ms": 267272,
+      "name": "Manos de Tijera",
+      "url": "https://open.spotify.com/track/2f8sB9lQ6Uh1lKKWJNR9rW"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Locas Por La M\u00fasica",
+        "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 222413,
+      "name": "C\u00f3mo Te Va Mi Amor",
+      "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -787,22 +803,6 @@
       "duration_ms": 239400,
       "name": "No Me Doy Por Vencido",
       "url": "https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 267272,
-      "name": "Manos de Tijera",
-      "url": "https://open.spotify.com/track/2f8sB9lQ6Uh1lKKWJNR9rW"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "El Arte De Roberto Carlos",
-        "url": "https://open.spotify.com/album/37tQCsC8s4sNLCEDG9hGvC"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "El Gato Que Est\u00e1 Triste y Azul - Un Gato Nel Blu",
-      "url": "https://open.spotify.com/track/0X1XgxtHG9hULAw296CCgz"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "Voy",
         "url": "https://open.spotify.com/album/2WwacEFBdZJezRAgBMqPWR"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 233493,
       "name": "Te amo",
       "url": "https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "El Arte De Roberto Carlos",
+        "url": "https://open.spotify.com/album/37tQCsC8s4sNLCEDG9hGvC"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "El Gato Que Est\u00e1 Triste y Azul - Un Gato Nel Blu",
+      "url": "https://open.spotify.com/track/0X1XgxtHG9hULAw296CCgz"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
+        "name": "Si Te Quedas",
+        "url": "https://open.spotify.com/album/2YvDx3uFnG3pNfCgv7s105"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 175748,
+      "name": "Si Te Quedas",
+      "url": "https://open.spotify.com/track/7vDbXop7XfI3FGyHLWGzIC"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
         "name": "Hola, qu\u00e9 tal?",
         "url": "https://open.spotify.com/album/1v2rSqToiSoXpvqk0WTaPN"
       },
@@ -1455,22 +1475,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Rom\u00e1ntico Desliz",
-        "url": "https://open.spotify.com/album/6UlH9VLq1S6TJtY0xojINt"
-      },
-      "artists": [
-        {
-          "name": "Aleks Syntek",
-          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
-        }
-      ],
-      "duration_ms": 217426,
-      "name": "Corazones Invencibles",
-      "url": "https://open.spotify.com/track/1vrq0gc8U6kxkNNnD79gEp"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "Una Estrella En El Cielo",
         "url": "https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY"
       },
@@ -1491,22 +1495,18 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Si Te Quedas",
-        "url": "https://open.spotify.com/album/2YvDx3uFnG3pNfCgv7s105"
+        "name": "Rom\u00e1ntico Desliz",
+        "url": "https://open.spotify.com/album/6UlH9VLq1S6TJtY0xojINt"
       },
       "artists": [
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
         }
       ],
-      "duration_ms": 175748,
-      "name": "Si Te Quedas",
-      "url": "https://open.spotify.com/track/7vDbXop7XfI3FGyHLWGzIC"
+      "duration_ms": 217426,
+      "name": "Corazones Invencibles",
+      "url": "https://open.spotify.com/track/1vrq0gc8U6kxkNNnD79gEp"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "Palmeras en el jard\u00edn",
-        "url": "https://open.spotify.com/album/0Y5U0InXzziIx7YlinkuVX"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 180725,
-      "name": "Palmeras en el jard\u00edn",
-      "url": "https://open.spotify.com/track/5MMEQLCzl9GsknyH42xFOX"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "Todav\u00eda No",
         "url": "https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 198280,
       "name": "Todav\u00eda No",
       "url": "https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "Palmeras en el jard\u00edn",
+        "url": "https://open.spotify.com/album/0Y5U0InXzziIx7YlinkuVX"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 180725,
+      "name": "Palmeras en el jard\u00edn",
+      "url": "https://open.spotify.com/track/5MMEQLCzl9GsknyH42xFOX"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
+        "name": "El Amor",
+        "url": "https://open.spotify.com/album/0XEnNSpQyGQmEqFBYW3BGE"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 288600,
+      "name": "Como Yo Te Amo",
+      "url": "https://open.spotify.com/track/2WGYmstMZN1Kbz2sKiguFB"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
         "name": "Mi Persona Favorita",
         "url": "https://open.spotify.com/album/784Afuukiutm70xPgCQR0w"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 239972,
       "name": "Mi Persona Favorita",
       "url": "https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
-        "name": "El Amor",
-        "url": "https://open.spotify.com/album/0XEnNSpQyGQmEqFBYW3BGE"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 288600,
-      "name": "Como Yo Te Amo",
-      "url": "https://open.spotify.com/track/2WGYmstMZN1Kbz2sKiguFB"
     },
     {
       "added_at": "2025-12-05 05:00:17",

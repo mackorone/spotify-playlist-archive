@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > als het woud een playlist zou zijn
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,860 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,858 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 9 | [Seeing You](https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Seeing You](https://open.spotify.com/album/5PMPqKGwQCGAbZhl9qdLbP) | 3:18 |
 | 10 | [Reaper](https://open.spotify.com/track/2P0qa2otcQdjrnypyueuJl) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 2:39 |
 | 11 | [Tie you down](https://open.spotify.com/track/0S2c7Zxd1NyUewjQyW187L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Tie you down](https://open.spotify.com/album/1I791510xrKrTghdNBHfgm) | 2:56 |
-| 12 | [Colour On The Wall](https://open.spotify.com/track/5HE9cEXsyLuqSKptTd5RxV) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Colour On The Wall](https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT) | 3:18 |
-| 13 | [These Days](https://open.spotify.com/track/6ta4ggAGxnMLHNdkiu9jKn) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [These Days](https://open.spotify.com/album/3PsVSHeyak7iTgtRONGfQl) | 2:57 |
+| 12 | [These Days](https://open.spotify.com/track/6ta4ggAGxnMLHNdkiu9jKn) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [These Days](https://open.spotify.com/album/3PsVSHeyak7iTgtRONGfQl) | 2:57 |
+| 13 | [Colour On The Wall](https://open.spotify.com/track/5HE9cEXsyLuqSKptTd5RxV) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Colour On The Wall](https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT) | 3:18 |
 | 14 | [Santiago](https://open.spotify.com/track/311eCUllypOnSLZH7Xbd32) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Colorado's On Fire Again](https://open.spotify.com/album/2cP15DvWBWQuNF4wnFxq5n) | 2:44 |
 | 15 | [mountain of a memory](https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [mountain of a memory](https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT) | 2:25 |
 | 16 | [hello](https://open.spotify.com/track/2kmMx4QOtwBYZGmtc6vhe6) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [hello](https://open.spotify.com/album/2eABHwNwB28HvwMizr0oIF) | 2:58 |
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 28 | [Crown](https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Crown](https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY) | 2:22 |
 | 29 | [Shake Off the Rain](https://open.spotify.com/track/0gVBrNtip58FmG1JlGwATM) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Shake Off the Rain](https://open.spotify.com/album/4zOqdbkSSn2PX7KMwdHxdh) | 4:42 |
 | 30 | [Suzanne](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 3:49 |
-| 31 | [Darling](https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Darling](https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k) | 3:30 |
-| 32 | [Underwear](https://open.spotify.com/track/10zG0Yamj5zQoWcRCnQI7Z) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Underwear](https://open.spotify.com/album/2bLVEtFJZFX94OZ2oeUa9Y) | 3:27 |
+| 31 | [Underwear](https://open.spotify.com/track/10zG0Yamj5zQoWcRCnQI7Z) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Underwear](https://open.spotify.com/album/2bLVEtFJZFX94OZ2oeUa9Y) | 3:27 |
+| 32 | [Darling](https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Darling](https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k) | 3:30 |
 | 33 | [Owls](https://open.spotify.com/track/2qsGpZXGFovXJid7OukhdB) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Groundwork Rising](https://open.spotify.com/album/3RiEl4kIcuEczIaYol36wh) | 4:12 |
 | 34 | [Bus Back To Richmond](https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Bus Back To Richmond / More Than Friends](https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce) | 2:54 |
 | 35 | [God Loves Weirdos](https://open.spotify.com/track/2ZrUGV4BYg13r4Q3ilGdt3) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [God Loves Weirdos](https://open.spotify.com/album/0Goshi4S6DLOdTCoPDTsXB) | 3:09 |
-| 36 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
-| 37 | [The Soils Ever Changing](https://open.spotify.com/track/7JDySQnkWJuRDmmIPeiqRt) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh) | [The Soils Ever Changing](https://open.spotify.com/album/1hG1LegaM7GrrE3Mfu6rG3) | 3:59 |
+| 36 | [The Soils Ever Changing](https://open.spotify.com/track/7JDySQnkWJuRDmmIPeiqRt) | [Bertie Newman](https://open.spotify.com/artist/5FgAV3f4fiJ8tuztZ5eyWh) | [The Soils Ever Changing](https://open.spotify.com/album/1hG1LegaM7GrrE3Mfu6rG3) | 3:59 |
+| 37 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
 | 38 | [My Heroine](https://open.spotify.com/track/0IAhw7KxiogXweSwVxW4av) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Every Dawn's a Mountain](https://open.spotify.com/album/0S3ocN5MLEY4mFMJWY0VG1) | 3:21 |
 | 39 | [Cowboys of Los](https://open.spotify.com/track/4sPsl1gLOaq5yiCKo1UbBc) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Cowboys of Los](https://open.spotify.com/album/218OGsKxVoDNZwue6n2yXH) | 4:03 |
 | 40 | [Ashes](https://open.spotify.com/track/0uoJUir7zZJCGxwfh9ekKD) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Ashes](https://open.spotify.com/album/62lXmNrNMjNLBO0d7YkJRJ) | 4:42 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 44 | [Into The Night](https://open.spotify.com/track/10dx7ktH1k0r1SsJr7Vutu) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Lovesongs](https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi) | 3:17 |
 | 45 | [Speaking of You](https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Speaking of You](https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1) | 4:25 |
 | 46 | [little me](https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [little me](https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm) | 3:00 |
-| 47 | [Watercress](https://open.spotify.com/track/5I7ga76O3qTWF1PZRtAi4Y) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Watercress](https://open.spotify.com/album/73jezCj2wZDwJTZLBpCmZM) | 3:48 |
-| 48 | [Always Lost](https://open.spotify.com/track/1GLJrhvJcD7MDzH4oSfimf) | [Emma Hessels](https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g) | [Always Lost](https://open.spotify.com/album/2JnYn3rCK1aGomksow3WtA) | 3:19 |
+| 47 | [Always Lost](https://open.spotify.com/track/1GLJrhvJcD7MDzH4oSfimf) | [Emma Hessels](https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g) | [Always Lost](https://open.spotify.com/album/2JnYn3rCK1aGomksow3WtA) | 3:19 |
+| 48 | [Watercress](https://open.spotify.com/track/5I7ga76O3qTWF1PZRtAi4Y) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Watercress](https://open.spotify.com/album/73jezCj2wZDwJTZLBpCmZM) | 3:48 |
 | 49 | [In My House](https://open.spotify.com/track/3eS6WoprTnjBqSxQooJys3) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [In My House / Like A Thorn](https://open.spotify.com/album/4zubTJub6ZIAwNGVsLjl6Z) | 3:03 |
 | 50 | [April May July](https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [April May July](https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc) | 3:53 |
 

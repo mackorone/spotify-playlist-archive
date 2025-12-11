@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 
 > Hit rewind on these classic Ghanaian gospel songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,359 likes - 50 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,366 likes - 50 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53URsQFhR0Q.md) - [plain]
 | 23 | [Enyi Me Mma](https://open.spotify.com/track/3jT6EePgDYEyeXCyH6GPYS) | [Ama Boahemaa](https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:31 |
 | 24 | [Hold On](https://open.spotify.com/track/0HEB4FVrCze9RKUCuivkFW) | [Bernice Offei](https://open.spotify.com/artist/1s3k29zZeWqgAuxLms45Ex) | [Hold On](https://open.spotify.com/album/4UDMqjPmRx3jJlKIUbWfGn) | 7:38 |
 | 25 | [Di Wo Hene](https://open.spotify.com/track/7cf86toNQniypAJK3Gjqwu) | [Comfort Annor](https://open.spotify.com/artist/4nltyU0ABXKiPF0BJiMrOb) | [Ghana Gospel Classics, Vol\. 1](https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h) | 5:28 |
-| 26 | [Aseda Nwom](https://open.spotify.com/track/05R11rW0YAZNhjE3HpcGHm) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [W'agye Me \(He Has Saved Me\)](https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5) | 5:01 |
+| 26 | [Oko Yi](https://open.spotify.com/track/24dqjLGwUan37c1bPKGN1N) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [Yesom Nyame Otease](https://open.spotify.com/album/7nuaCvUOo6iDURklwaSHuV) | 5:25 |
 | 27 | [Menyame Nhyiraba](https://open.spotify.com/track/68B3urp2uXgEDenOfqhdQi) | [Philipa Baafi](https://open.spotify.com/artist/35P14RT5loRZM8GChmKle0) | [Ghana Gospel Mix](https://open.spotify.com/album/5ycAL9zH0ilBJ4wKjTDxpY) | 5:09 |
 | 28 | [Asem kese bi reba](https://open.spotify.com/track/18saGdKyUZvHf1A6etiZNg) | [Rev\. Mensah Bonsu](https://open.spotify.com/artist/3dKVL03pFxZrR2yutmLHw0) | [Yehowa Ne Mabankese](https://open.spotify.com/album/7EjET7MSD1KF7p0xm6zVNx) | 6:23 |
 | 29 | [Adehye Mogya](https://open.spotify.com/track/4FSQFLp4pZiAEwQ6MLRuZV) | [Anita Afriyie](https://open.spotify.com/artist/3icOzeeIwhGWwPHymtDOS5) | [My Testimony 2015 \- 2017](https://open.spotify.com/album/3DA3wDXEWQFUZq2RUsy72Y) | 5:25 |
-| 30 | [Yesu Mo](https://open.spotify.com/track/5LDQxqWab9bVdOMv0K1Ut6) | [Jack Odoom](https://open.spotify.com/artist/64XvgVFW2ccbs5nltV7USi), [oware JNR](https://open.spotify.com/artist/3DnFBMzlM2xnDDqxeej1bh) | [Yesu Mo](https://open.spotify.com/album/31oohGVTzpXoirIkH3KMMV) | 6:34 |
-| 31 | [I Have a God](https://open.spotify.com/track/4lMleOHHpi7NOlDNzB2dvH) | [Francis Agyei](https://open.spotify.com/artist/3Hfa3UtgEZjW9pnYKSI5Q2) | [God You Are So Good](https://open.spotify.com/album/3NrW1Gz5zkKAHJGKQNcQZi) | 6:24 |
+| 30 | [I Have a God](https://open.spotify.com/track/4lMleOHHpi7NOlDNzB2dvH) | [Francis Agyei](https://open.spotify.com/artist/3Hfa3UtgEZjW9pnYKSI5Q2) | [God You Are So Good](https://open.spotify.com/album/3NrW1Gz5zkKAHJGKQNcQZi) | 6:24 |
+| 31 | [Yesu Mo](https://open.spotify.com/track/5LDQxqWab9bVdOMv0K1Ut6) | [Jack Odoom](https://open.spotify.com/artist/64XvgVFW2ccbs5nltV7USi), [oware JNR](https://open.spotify.com/artist/3DnFBMzlM2xnDDqxeej1bh) | [Yesu Mo](https://open.spotify.com/album/31oohGVTzpXoirIkH3KMMV) | 6:34 |
 | 32 | [Yesu Ne Me Last Stop](https://open.spotify.com/track/5dg3UDruST8ro3QGWpEDeu) | [Philipa Baafi](https://open.spotify.com/artist/35P14RT5loRZM8GChmKle0) | [Ghana Gospel Mix](https://open.spotify.com/album/5ycAL9zH0ilBJ4wKjTDxpY) | 4:56 |
 | 33 | [Metease yi](https://open.spotify.com/track/3sqXQoSb19w97o2mTkeYJ3) | [Noble Nketsiah](https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd) | [My Vision](https://open.spotify.com/album/3M2KpSQEs5CGmnAx4X5lcK) | 5:31 |
 | 34 | [Awanwan Do](https://open.spotify.com/track/3u08knojRQ81BB2GXTAHXz) | [Cindy Thompson](https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd) | [Cindy's Messiah](https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD) | 6:17 |

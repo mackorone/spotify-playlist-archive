@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover:  Joshua Baraka",
-  "num_followers": 634029,
+  "num_followers": 634062,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,26 @@
     {
       "added_at": "2025-12-05 00:01:11",
       "album": {
+        "name": "Intentions (feat. Urban Chords)",
+        "url": "https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW"
+      },
+      "artists": [
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        },
+        {
+          "name": "Urban Chords",
+          "url": "https://open.spotify.com/artist/5LFqw1uPkLtsrM9VOKixyK"
+        }
+      ],
+      "duration_ms": 149786,
+      "name": "Intentions (feat. Urban Chords)",
+      "url": "https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw"
+    },
+    {
+      "added_at": "2025-12-05 00:01:11",
+      "album": {
         "name": "HOW ARE YOU",
         "url": "https://open.spotify.com/album/1teBLhL3UsOfKJtMTntTvs"
       },
@@ -451,6 +471,22 @@
       "duration_ms": 158446,
       "name": "HOW ARE YOU",
       "url": "https://open.spotify.com/track/3RtoMZxgC3lpyfxmZ29Rpu"
+    },
+    {
+      "added_at": "2025-12-05 00:01:11",
+      "album": {
+        "name": "you",
+        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 165642,
+      "name": "you",
+      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
     },
     {
       "added_at": "2025-12-05 00:01:11",
@@ -475,18 +511,22 @@
     {
       "added_at": "2025-12-05 00:01:11",
       "album": {
-        "name": "you",
-        "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
+        "name": "The Year I Turned 21",
+        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
       },
       "artists": [
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 165642,
-      "name": "you",
-      "url": "https://open.spotify.com/track/28sqVp9vMKEuVHWnmknj7l"
+      "duration_ms": 149677,
+      "name": "Last Heartbreak Song (feat. Giveon)",
+      "url": "https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT"
     },
     {
       "added_at": "2025-12-05 00:01:11",
@@ -511,62 +551,18 @@
     {
       "added_at": "2025-12-05 00:01:11",
       "album": {
-        "name": "The Year I Turned 21",
-        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
+        "name": "Calculate",
+        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
       },
       "artists": [
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
         }
       ],
-      "duration_ms": 149677,
-      "name": "Last Heartbreak Song (feat. Giveon)",
-      "url": "https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT"
-    },
-    {
-      "added_at": "2025-12-05 00:01:11",
-      "album": {
-        "name": "Intentions (feat. Urban Chords)",
-        "url": "https://open.spotify.com/album/0iuYoM9hvRfBXYQiBRYZPW"
-      },
-      "artists": [
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        },
-        {
-          "name": "Urban Chords",
-          "url": "https://open.spotify.com/artist/5LFqw1uPkLtsrM9VOKixyK"
-        }
-      ],
-      "duration_ms": 149786,
-      "name": "Intentions (feat. Urban Chords)",
-      "url": "https://open.spotify.com/track/4wOu789QwIa8c860A3Dklw"
-    },
-    {
-      "added_at": "2025-12-05 00:01:11",
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Bad Girl (feat. Asake)",
-      "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
+      "duration_ms": 180688,
+      "name": "Calculate",
+      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
     },
     {
       "added_at": "2025-12-05 00:01:11",
@@ -591,18 +587,18 @@
     {
       "added_at": "2025-12-05 00:01:11",
       "album": {
-        "name": "Calculate",
-        "url": "https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo"
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
       "artists": [
         {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 180688,
-      "name": "Calculate",
-      "url": "https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC"
+      "duration_ms": 156763,
+      "name": "Wickedest",
+      "url": "https://open.spotify.com/track/0D6XSXGNj5CTGQQzKQKQQ2"
     },
     {
       "added_at": "2025-12-05 00:01:11",
@@ -623,18 +619,22 @@
     {
       "added_at": "2025-12-05 00:01:11",
       "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 156763,
-      "name": "Wickedest",
-      "url": "https://open.spotify.com/track/0D6XSXGNj5CTGQQzKQKQQ2"
+      "duration_ms": 174253,
+      "name": "Bad Girl (feat. Asake)",
+      "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
     },
     {
       "added_at": "2025-12-05 00:01:11",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-12-05 00:01:11",
       "album": {
-        "name": "Avana (Deluxe)",
-        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
-      },
-      "artists": [
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
-        }
-      ],
-      "duration_ms": 182222,
-      "name": "Asylum",
-      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
-    },
-    {
-      "added_at": "2025-12-05 00:01:11",
-      "album": {
         "name": "ONE CALL",
         "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 158712,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
+    },
+    {
+      "added_at": "2025-12-05 00:01:11",
+      "album": {
+        "name": "Avana (Deluxe)",
+        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 182222,
+      "name": "Asylum",
+      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
     },
     {
       "added_at": "2025-12-05 00:01:11",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2025-12-05 00:01:11",
       "album": {
+        "name": "RnB",
+        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 160885,
+      "name": "Ilashe",
+      "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
+    },
+    {
+      "added_at": "2025-12-05 00:01:11",
+      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP"
       },
@@ -1179,26 +1199,6 @@
       "duration_ms": 149126,
       "name": "Only Fans",
       "url": "https://open.spotify.com/track/2JkjBVJIukdat5jNJeYyzz"
-    },
-    {
-      "added_at": "2025-12-05 00:01:11",
-      "album": {
-        "name": "RnB",
-        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 160885,
-      "name": "Ilashe",
-      "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
     },
     {
       "added_at": "2025-12-05 00:01:11",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2025-12-05 00:01:11",
       "album": {
+        "name": "Toro - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 194436,
+      "name": "Toro - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN"
+    },
+    {
+      "added_at": "2025-12-05 00:01:11",
+      "album": {
         "name": "Only Me",
         "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 159310,
       "name": "Only Me",
       "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
-    },
-    {
-      "added_at": "2025-12-05 00:01:11",
-      "album": {
-        "name": "Qing Madi (Deluxe)",
-        "url": "https://open.spotify.com/album/4vxIotduGifC33fGSfxxom"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
-      "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"
     }
   ],
   "unique_name": "Afropop",

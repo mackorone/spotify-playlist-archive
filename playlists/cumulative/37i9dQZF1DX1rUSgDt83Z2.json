@@ -146,7 +146,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 291637,
       "name": "Alles Of Niets - Akoestisch",
       "url": "https://open.spotify.com/track/5IZQPARgIn4XsSGhCfzFZQ"
@@ -594,7 +594,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 162400,
       "name": "Dag & Nacht",
       "url": "https://open.spotify.com/track/3By566RxwlcEG4yOxdSlE9"
@@ -2224,7 +2224,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-29",
+      "date_removed": null,
       "duration_ms": 211343,
       "name": "Niets Meer",
       "url": "https://open.spotify.com/track/24dVAws8icjFeBnWfRJMuj"
@@ -2354,6 +2354,28 @@
       "duration_ms": 168601,
       "name": "Omhoog",
       "url": "https://open.spotify.com/track/2UklSNaVRkMInzUTOEkmsM"
+    },
+    {
+      "album": {
+        "name": "Oog van de Orkaan",
+        "url": "https://open.spotify.com/album/7cSCqm3G9fVViBjTEh3YAT"
+      },
+      "artists": [
+        {
+          "name": "Bart Voncken",
+          "url": "https://open.spotify.com/artist/313iy3CDtL0MAqtm6ObDTa"
+        },
+        {
+          "name": "Dwight Dissels",
+          "url": "https://open.spotify.com/artist/6mJqqz8Dra13cr75NGhC7f"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178837,
+      "name": "Oog van de Orkaan",
+      "url": "https://open.spotify.com/track/4Q2nXiRdHJotWpLrtYQhlw"
     },
     {
       "album": {

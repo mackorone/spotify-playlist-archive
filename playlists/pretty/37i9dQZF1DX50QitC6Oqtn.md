@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 
 > Because we all deserve great pop love songs in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,396,574 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,396,367 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 | 47 | [Only Wanna Be With You \- Pokémon 25 Version](https://open.spotify.com/track/3SawmGBjjq8EOYZJV11cJm) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Only Wanna Be With You \(Pokémon 25 Version\)](https://open.spotify.com/album/2xZhidR4y5OPpCRYF09XB4) | 4:01 |
 | 48 | [Skinny Love](https://open.spotify.com/track/0HRshWRNAwQBROvxXqG3i9) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy \(Deluxe Version\)](https://open.spotify.com/album/3sGzkurA1fvEFqh73sWCVA) | 3:21 |
 | 49 | [Naked](https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Naked](https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT) | 3:54 |
-| 50 | [I Can't Fall in Love Without You](https://open.spotify.com/track/4VPXFi4vFTtS9wHe6oMQaT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 2:57 |
+| 50 | [Love Of Your Life](https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Of Your Life](https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7) | 3:16 |
 | 51 | [nobody else](https://open.spotify.com/track/7GLBqDKAJLCLIsj2GEDkSw) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [mama's boy](https://open.spotify.com/album/6tmSIFaEjxAtuYwPq9FaFP) | 3:17 |
-| 52 | [Love Of Your Life](https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Of Your Life](https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7) | 3:16 |
+| 52 | [I Can't Fall in Love Without You](https://open.spotify.com/track/4VPXFi4vFTtS9wHe6oMQaT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 2:57 |
 | 53 | [six thirty](https://open.spotify.com/track/2IKJtXeR5UsaUjZB46fTOK) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:03 |
 | 54 | [Break My Heart](https://open.spotify.com/track/1raaNykBg1bDnWENUiglUA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Break My Heart](https://open.spotify.com/album/368tzVdeju4vLSY8PHnQUs) | 3:41 |
 | 55 | [Collide \- Acoustic Version](https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All the World Now \(Special Edition\)](https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y) | 4:37 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 | 79 | [Easy](https://open.spotify.com/track/46D0hYb1B7qiU33VtXt21W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Easy](https://open.spotify.com/album/514p9UpvibpBhShFgpZaxS) | 3:14 |
 | 80 | [7 Minutes](https://open.spotify.com/track/2BkyYZmU4JuWW2sYi9EzpC) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [7 Minutes](https://open.spotify.com/album/48M2TlqiSdLFWXK1k7Hoar) | 3:31 |
 | 81 | [Don't Leave Me Now](https://open.spotify.com/track/59VDjcpB2I8psQasslQpdK) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [Cup Of Beats](https://open.spotify.com/album/3o96h0leYDLyIlGFpucPEF) | 3:15 |
-| 82 | [Renee's Song](https://open.spotify.com/track/13iMiwdY7pgE1f7NwYKr1D) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Renee's Song](https://open.spotify.com/album/0WuZ8xp4MRsvNfYeN0M33G) | 2:10 |
-| 83 | [Hey Stupid, I Love You](https://open.spotify.com/track/5inDa3sWj8zqJBOdj7Bjqc) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Hey Stupid, I Love You](https://open.spotify.com/album/39VxwsWPa8KvcM8tIdKtp6) | 3:01 |
-| 84 | [Better](https://open.spotify.com/track/1dLXLETYiZohIZWnse4ypG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Better](https://open.spotify.com/album/7MkNlHw0O8KKr3yJ3RtgVW) | 2:54 |
+| 82 | [Hey Stupid, I Love You](https://open.spotify.com/track/5inDa3sWj8zqJBOdj7Bjqc) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Hey Stupid, I Love You](https://open.spotify.com/album/39VxwsWPa8KvcM8tIdKtp6) | 3:01 |
+| 83 | [Better](https://open.spotify.com/track/1dLXLETYiZohIZWnse4ypG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Better](https://open.spotify.com/album/7MkNlHw0O8KKr3yJ3RtgVW) | 2:54 |
+| 84 | [Renee's Song](https://open.spotify.com/track/13iMiwdY7pgE1f7NwYKr1D) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Renee's Song](https://open.spotify.com/album/0WuZ8xp4MRsvNfYeN0M33G) | 2:10 |
 | 85 | [golden thing](https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [golden thing](https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz) | 3:39 |
 | 86 | [I Want It All](https://open.spotify.com/track/18PlaQBPe3yJBW1MNKstn2) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [I Want It All](https://open.spotify.com/album/6JOfGsXXXSCFEppeRHWspi) | 3:07 |
 | 87 | [Don't Let Me Down](https://open.spotify.com/track/6oqlWkAUCqBXjvorIRSm54) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Don't Let Me Down](https://open.spotify.com/album/1mwgnCkCGVwPbp6CpFAqIp) | 3:00 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 | 89 | [No Judgement](https://open.spotify.com/track/5IUOU5xkzGHsRFOYNu3GSK) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [No Judgement](https://open.spotify.com/album/2KA0hztJvCs7eD7nv5316T) | 2:56 |
 | 90 | [Kiss from a Rose](https://open.spotify.com/track/0z5E34e7ZT3XKMYQNXh6tH) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Best 1991 \- 2004](https://open.spotify.com/album/3Fb7L1abcJbTt729nCq2eZ) | 4:48 |
 | 91 | [Never Seen Anything "Quite Like You" \- Acoustic](https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Acoustic Sessions](https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh) | 3:48 |
-| 92 | [17](https://open.spotify.com/track/0ND8rF8oirMXtE59n585P6) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 3:02 |
-| 93 | [imagine](https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Imagine](https://open.spotify.com/album/5WV2igw6AWfvAZwfNm83oP) | 2:44 |
+| 92 | [imagine](https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Imagine](https://open.spotify.com/album/5WV2igw6AWfvAZwfNm83oP) | 2:44 |
+| 93 | [17](https://open.spotify.com/track/0ND8rF8oirMXtE59n585P6) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 3:02 |
 | 94 | [Before I Lose My Mind \- Stripped](https://open.spotify.com/track/2UTHTASTtmJXiBUmSIXERT) | [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm) | [Before I Lose My Mind \(Stripped\)](https://open.spotify.com/album/5R9StAkq53qi7EBWIWFNP3) | 3:46 |
 | 95 | [24 Hours](https://open.spotify.com/track/385VOmGbguaPG57TgoW8Lh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Wonder](https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5) | 2:30 |
 | 96 | [It's Gotta Be You](https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML) | [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [It's Gotta Be You](https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk) | 3:11 |

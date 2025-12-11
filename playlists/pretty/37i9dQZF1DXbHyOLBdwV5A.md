@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,141 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,154 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 16 | [A Casa É Sua \- Remix](https://open.spotify.com/track/3PM6PvMzdQmzvNYHbydQqd) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [A Casa É Sua \(Remix\)](https://open.spotify.com/album/4XJSpMo1GQ3l6efE63lyfc) | 2:41 |
 | 17 | [Praise](https://open.spotify.com/track/6j0DDG232N0ZJfGcD32bE3) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr) | [Praise](https://open.spotify.com/album/5YgyARkjEkGMzz96G4qVBA) | 2:46 |
 | 18 | [Uma Vida É Pouco pra Te Amar \- Remix](https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2) | [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2), [Felson](https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2), [Izaac Santos](https://open.spotify.com/artist/4c4uHPrgt65LhZts6QoNip) | [Uma Vida É Pouco pra Te Amar \(Remix\)](https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0) | 2:41 |
-| 19 | [Queima de Novo \- Remix](https://open.spotify.com/track/4uZmD5i0iGXQjDJ6t1fGN5) | [DJ Moisés](https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X), [Guilherme Miranda](https://open.spotify.com/artist/0pLrMd2rRcow7yJWg45F2e), [Vitinho PAE](https://open.spotify.com/artist/4bUNgC0RTc1p3wdJe76UB9) | [Queima de Novo \(Remix\)](https://open.spotify.com/album/2vx7A0hcCoG3rKSoz9BVP8) | 3:45 |
-| 20 | [Controle \(Remix\)](https://open.spotify.com/track/0UNEQA9OCMcZ8QwUJsbOgS) | [DJ Roger Vale](https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Controle \(Remix\)](https://open.spotify.com/album/5SKNgPWB0axicM6fUOWSSs) | 2:39 |
+| 19 | [Controle \(Remix\)](https://open.spotify.com/track/0UNEQA9OCMcZ8QwUJsbOgS) | [DJ Roger Vale](https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Controle \(Remix\)](https://open.spotify.com/album/5SKNgPWB0axicM6fUOWSSs) | 2:39 |
+| 20 | [Queima de Novo \- Remix](https://open.spotify.com/track/4uZmD5i0iGXQjDJ6t1fGN5) | [DJ Moisés](https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X), [Guilherme Miranda](https://open.spotify.com/artist/0pLrMd2rRcow7yJWg45F2e), [Vitinho PAE](https://open.spotify.com/artist/4bUNgC0RTc1p3wdJe76UB9) | [Queima de Novo \(Remix\)](https://open.spotify.com/album/2vx7A0hcCoG3rKSoz9BVP8) | 3:45 |
 | 21 | [Furioso Oceano \(Remix\)](https://open.spotify.com/track/5tRnAJq0VCUQmG29Ep2Put) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Furioso Oceano \(Remix\)](https://open.spotify.com/album/3BWmeSTqHjOB4JXDhZhTt0) | 2:22 |
 | 22 | [Melhor Lugar \- Remix](https://open.spotify.com/track/6YtV6hNKhBE0Js1Ucvffyy) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Melhor Lugar \(Remix\)](https://open.spotify.com/album/4JWqkbPbgyVN3RH2n2wbxh) | 3:26 |
 | 23 | [Viagem](https://open.spotify.com/track/4mGBoJ2tqbOcSF3XzDw0lr) | [Dj Del Mag](https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4), [Léo Batista](https://open.spotify.com/artist/3r8TROv0FXpp9ei6vepm1m) | [Viagem](https://open.spotify.com/album/0dDGfAgcwH8Qiii7Hhro4L) | 3:09 |

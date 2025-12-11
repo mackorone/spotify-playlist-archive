@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > TURNSTILE SUMMER
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,316 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,314 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 44 | [Mustang](https://open.spotify.com/track/0bfY2rrQgn4HqiwftGNP36) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:14 |
 | 45 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 |
 | 46 | [Vertigo](https://open.spotify.com/track/2jzwJSLX8leUQVxwjAtODn) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Tunnel Vision](https://open.spotify.com/album/7cKYTJlA0TDjAFA24oglTN) | 2:28 |
-| 47 | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k) | 2:47 |
-| 48 | [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:38 |
+| 47 | [A Little Love](https://open.spotify.com/track/4gM3igqCtOZvtOw6EAMrci) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Little Love](https://open.spotify.com/album/4oBYaOnbxXEXhF9NbqOOux) | 3:38 |
+| 48 | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k) | 2:47 |
 | 49 | [Freak](https://open.spotify.com/track/3YhPmmnigtDxukWdqlQXrF) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Girl with Fish](https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT) | 1:47 |
 | 50 | [catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [my anti\-aircraft friend](https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ) | 3:14 |
-| 51 | [Sinking Feeling](https://open.spotify.com/track/3lTj6VhUedrKhpCsw5Rnbb) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Sinking Feeling](https://open.spotify.com/album/1BfIqHOVWRBcqzUUc4jIey) | 3:47 |
-| 52 | [I Want You \(Fever\)](https://open.spotify.com/track/1s2t8mpGkaar5VErp1xLqd) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Welcome to My Blue Sky](https://open.spotify.com/album/014qKZpu8VekYsTceOSbiQ) | 3:37 |
+| 51 | [I Want You \(Fever\)](https://open.spotify.com/track/1s2t8mpGkaar5VErp1xLqd) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Welcome to My Blue Sky](https://open.spotify.com/album/014qKZpu8VekYsTceOSbiQ) | 3:37 |
+| 52 | [Sinking Feeling](https://open.spotify.com/track/3lTj6VhUedrKhpCsw5Rnbb) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Sinking Feeling](https://open.spotify.com/album/1BfIqHOVWRBcqzUUc4jIey) | 3:47 |
 | 53 | [if i had a gun](https://open.spotify.com/track/4rYoirkxujHEP1hhKZcMrl) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [FOREVER](https://open.spotify.com/album/52iIfDstVzVMMAuOsFJ2YA) | 2:32 |
 | 54 | [Numb To What Is Real](https://open.spotify.com/track/3XxQGzWtSiawfLLsDqEH25) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Superheaven](https://open.spotify.com/album/3PAgZaonECR1PGhRg3YBVX) | 2:49 |
 | 55 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 70 | [Nobody’s](https://open.spotify.com/track/3WBFG43oD1qU3yJSDjQJ2O) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Spiral In A Straight Line](https://open.spotify.com/album/0P5CZ4l155R1udzsELjXSC) | 2:15 |
 | 71 | [Love On The Outside](https://open.spotify.com/track/1HS1Q38mPX3iAP66gTHt6E) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf) | 3:58 |
 | 72 | [Can EU Hear Me?](https://open.spotify.com/track/7LUVmUWiSvtI2tJvYHFRAs) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [There Goes The Neighbourhood](https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb) | 2:58 |
-| 73 | [A Cowboy Song](https://open.spotify.com/track/3Hdku7zeAZSuEFysqkZpLk) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [A Cowboy Song](https://open.spotify.com/album/1IgP1X3hrG6GenTiZCuWc1) | 3:34 |
-| 74 | [Bored of Being Sad](https://open.spotify.com/track/77rk2TGUhxlWMLuQq4iIlV) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Let's Start Degeneracy](https://open.spotify.com/album/63F30pJnKvFr2kI9TK08dW) | 3:20 |
+| 73 | [Bored of Being Sad](https://open.spotify.com/track/77rk2TGUhxlWMLuQq4iIlV) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Let's Start Degeneracy](https://open.spotify.com/album/63F30pJnKvFr2kI9TK08dW) | 3:20 |
+| 74 | [A Cowboy Song](https://open.spotify.com/track/3Hdku7zeAZSuEFysqkZpLk) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [A Cowboy Song](https://open.spotify.com/album/1IgP1X3hrG6GenTiZCuWc1) | 3:34 |
 | 75 | [You're So Impatient](https://open.spotify.com/track/2kqc0DW78CyMemrXnK0PQA) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [The Night the Zombies Came](https://open.spotify.com/album/2kL3JicKZpvBfIeDeDPDUX) | 2:08 |
 | 76 | [Paint A Picture](https://open.spotify.com/track/4utuVAGRIGr2rZ4RNOsToh) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Paint A Picture](https://open.spotify.com/album/6GAwsYJC09D75uOSpkAdWM) | 2:48 |
 | 77 | [Vespers](https://open.spotify.com/track/0dVe5DhGeNN2TUEtzQp63W) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Pirouette](https://open.spotify.com/album/2I25MrGGWAIRtjjcZcf6xP) | 3:25 |

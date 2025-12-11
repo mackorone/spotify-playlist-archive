@@ -11079,6 +11079,24 @@
     },
     {
       "album": {
+        "name": "BOO",
+        "url": "https://open.spotify.com/album/39lqXTGWSFVC9Qx0KEnKpD"
+      },
+      "artists": [
+        {
+          "name": "H3adband",
+          "url": "https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138657,
+      "name": "BOO",
+      "url": "https://open.spotify.com/track/6Km8JhmtqvNxQCUlX32PD9"
+    },
+    {
+      "album": {
         "name": "The Great Milenko",
         "url": "https://open.spotify.com/album/2ipPVolNUBz0kCoc3VJ9zc"
       },
@@ -15260,7 +15278,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 232226,
       "name": "Choosin' Texas",
       "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
@@ -19429,6 +19447,52 @@
     },
     {
       "album": {
+        "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
+        "url": "https://open.spotify.com/album/5FKHnXMAYzAkjMQviPEA74"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Sudhir Yaduvanshi",
+          "url": "https://open.spotify.com/artist/586UieDtNlK2F8hEMayYbb"
+        },
+        {
+          "name": "Charanjit Ahuja",
+          "url": "https://open.spotify.com/artist/5jI1jiicLnii7yjSbAj9xj"
+        },
+        {
+          "name": "Muhammad Sadiq",
+          "url": "https://open.spotify.com/artist/0Wrp7P9HV2JVEKAzU3tLSD"
+        },
+        {
+          "name": "Ranjit Kaur",
+          "url": "https://open.spotify.com/artist/2RB4eCNO29DoHWqjLtPAFY"
+        },
+        {
+          "name": "Babu Singh Maan",
+          "url": "https://open.spotify.com/artist/0CrZKzYlBaQEXqXGNduM4d"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155590,
+      "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
+      "url": "https://open.spotify.com/track/1ifI8ipBJreNmLDYigFc6d"
+    },
+    {
+      "album": {
         "name": "DIA DEL\u00cdCIA",
         "url": "https://open.spotify.com/album/3bT53CJPMsSXSn0vDAX2Do"
       },
@@ -23194,7 +23258,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -45910,7 +45974,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 143593,
       "name": "Little Miss",
       "url": "https://open.spotify.com/track/24GdDBCqLhHEe2cAFvgUrL"
@@ -48948,7 +49012,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"

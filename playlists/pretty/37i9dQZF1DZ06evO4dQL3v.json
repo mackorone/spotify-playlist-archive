@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Toro. The essential tracks, all in one playlist.",
-  "num_followers": 6417,
+  "num_followers": 6418,
   "original_name": "This Is Banda Toro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAC5jNVPTQjvlsJT5xXUpnMO",
+  "snapshot_id": "aTdmgAAAAAC9LBLfKyKW2+YDQ/GUftsa",
   "tracks": [
     {
       "added_at": null,
@@ -171,18 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rios de Babilonia",
-        "url": "https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa"
+        "name": "El Caballo Blanco, Vol. 4",
+        "url": "https://open.spotify.com/album/0K0vOfa88awSPeNiAwFVX3"
       },
       "artists": [
         {
           "name": "Banda Toro",
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Tamborazo Zacatecano Del ca\u00f1on De Juchipila",
+          "url": "https://open.spotify.com/artist/5yTedii3ng1yrSuJdrUhkX"
         }
       ],
-      "duration_ms": 134106,
-      "name": "Dichos y Refranes",
-      "url": "https://open.spotify.com/track/0uNeDDaIa1tvb7Ejec9N7d"
+      "duration_ms": 138133,
+      "name": "El Ultimo Trago",
+      "url": "https://open.spotify.com/track/31cbZOX36lehPg9y75O1hc"
     },
     {
       "added_at": null,
@@ -219,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Caballo Blanco, Vol. 4",
-        "url": "https://open.spotify.com/album/0K0vOfa88awSPeNiAwFVX3"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        },
-        {
-          "name": "Tamborazo Zacatecano Del ca\u00f1on De Juchipila",
-          "url": "https://open.spotify.com/artist/5yTedii3ng1yrSuJdrUhkX"
-        }
-      ],
-      "duration_ms": 138133,
-      "name": "El Ultimo Trago",
-      "url": "https://open.spotify.com/track/31cbZOX36lehPg9y75O1hc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rios de Babilonia",
         "url": "https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa"
       },
@@ -248,9 +232,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 200293,
-      "name": "Bailala Baila",
-      "url": "https://open.spotify.com/track/53P8te3Pf3MJjqCCKFT9Te"
+      "duration_ms": 134106,
+      "name": "Dichos y Refranes",
+      "url": "https://open.spotify.com/track/0uNeDDaIa1tvb7Ejec9N7d"
     },
     {
       "added_at": null,
@@ -271,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tamborazos Zacatecanos , Vol. 1",
+        "url": "https://open.spotify.com/album/307mS3CHQ0B8qfaagb63aX"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 150080,
+      "name": "La Cama de Piedra",
+      "url": "https://open.spotify.com/track/3sxQyZR9rVqOk8mDgUmgky"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Noche Que Murio Chicago",
         "url": "https://open.spotify.com/album/4GkEJYQXXWicdjtSWvHUaa"
       },
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tamborazos Zacatecanos , Vol. 1",
-        "url": "https://open.spotify.com/album/307mS3CHQ0B8qfaagb63aX"
+        "name": "Rios de Babilonia",
+        "url": "https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 150080,
-      "name": "La Cama de Piedra",
-      "url": "https://open.spotify.com/track/3sxQyZR9rVqOk8mDgUmgky"
+      "duration_ms": 200293,
+      "name": "Bailala Baila",
+      "url": "https://open.spotify.com/track/53P8te3Pf3MJjqCCKFT9Te"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ando Que Me Lleva \"Recordando los Exitos,\" Vol. 4",
-        "url": "https://open.spotify.com/album/5cWHhLz7o2mjajjJegxUWj"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Ando Que Me Lleva",
-      "url": "https://open.spotify.com/track/5mZguGqaMDXVUN27KuctSS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
         "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
       },
@@ -535,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miraron Llorar un Hombre \"Recordando los Exitos\" Vol. 3",
-        "url": "https://open.spotify.com/album/1w6hBlQcrHFDEyamEl2Ypf"
+        "name": "Ando Que Me Lleva \"Recordando los Exitos,\" Vol. 4",
+        "url": "https://open.spotify.com/album/5cWHhLz7o2mjajjJegxUWj"
       },
       "artists": [
         {
@@ -544,9 +528,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 195946,
-      "name": "Me Rio de Miedo",
-      "url": "https://open.spotify.com/track/2JdFjw7IlF2WmKuPmwuRfw"
+      "duration_ms": 200400,
+      "name": "Ando Que Me Lleva",
+      "url": "https://open.spotify.com/track/5mZguGqaMDXVUN27KuctSS"
     },
     {
       "added_at": null,
@@ -567,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Funky Town Recordando los Exitos, Vol. 6",
-        "url": "https://open.spotify.com/album/3qv9mycLS6sXaEkrNVSkAy"
+        "name": "Miraron Llorar un Hombre \"Recordando los Exitos\" Vol. 3",
+        "url": "https://open.spotify.com/album/1w6hBlQcrHFDEyamEl2Ypf"
       },
       "artists": [
         {
@@ -576,9 +560,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 199053,
-      "name": "Mi Destino Fue Quererte",
-      "url": "https://open.spotify.com/track/0o2cI28cAMXArePpVNg0te"
+      "duration_ms": 195946,
+      "name": "Me Rio de Miedo",
+      "url": "https://open.spotify.com/track/2JdFjw7IlF2WmKuPmwuRfw"
     },
     {
       "added_at": null,
@@ -595,6 +579,38 @@
       "duration_ms": 164786,
       "name": "Me Caiste del Cielo",
       "url": "https://open.spotify.com/track/37hpeYKkr8P8QyMdLXVKiT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Funky Town Recordando los Exitos, Vol. 6",
+        "url": "https://open.spotify.com/album/3qv9mycLS6sXaEkrNVSkAy"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Mi Destino Fue Quererte",
+      "url": "https://open.spotify.com/track/0o2cI28cAMXArePpVNg0te"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vamos a la Playa, Recordando los Exitos",
+        "url": "https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 140080,
+      "name": "Gema",
+      "url": "https://open.spotify.com/track/2IOFMWRvVDiOrSqyHQdzRv"
     },
     {
       "added_at": null,
@@ -627,22 +643,6 @@
       "duration_ms": 171226,
       "name": "Vive",
       "url": "https://open.spotify.com/track/37fVsR6sy1BTqsJCVjH27u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vamos a la Playa, Recordando los Exitos",
-        "url": "https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 140080,
-      "name": "Gema",
-      "url": "https://open.spotify.com/track/2IOFMWRvVDiOrSqyHQdzRv"
     },
     {
       "added_at": null,

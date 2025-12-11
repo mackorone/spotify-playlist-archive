@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Lançamentos de rock que você precisa conhecer, AUMENTA O VOLUME! Foto: Lamb of God
 
-[Spotify](https://open.spotify.com/user/spotify) - 940,251 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 940,168 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 17 | [Make It Make Sense](https://open.spotify.com/track/4KFGxkAAP5D1HIBSwMv7d1) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Make It Make Sense](https://open.spotify.com/album/3TBw5z9f7WZ6Per1aTNkuC) | 3:08 |
 | 18 | [Unshatter](https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Unshatter](https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7) | 3:16 |
 | 19 | [Perfection](https://open.spotify.com/track/1WbMj3nxjiPgx2UFsijV5r) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [X’s For Eyes](https://open.spotify.com/album/2W4xgzMCme2M6yGeLFTCTi) | 3:18 |
-| 20 | [Glass Half Empty](https://open.spotify.com/track/6rCQjBLxanBaAShpnNsmHh) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Glass Half Empty \(Part I\)](https://open.spotify.com/album/0DGJyFVAhqx3DsnB0eonvA) | 3:38 |
-| 21 | [Too Far Gone?](https://open.spotify.com/track/2ZPnedMaS4W1de05Xz18hF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 4:33 |
+| 20 | [Too Far Gone?](https://open.spotify.com/track/2ZPnedMaS4W1de05Xz18hF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 4:33 |
+| 21 | [Glass Half Empty](https://open.spotify.com/track/6rCQjBLxanBaAShpnNsmHh) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Glass Half Empty \(Part I\)](https://open.spotify.com/album/0DGJyFVAhqx3DsnB0eonvA) | 3:38 |
 | 22 | [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 |
 | 23 | [Enough Is Enough](https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Enough Is Enough](https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ) | 2:49 |
 | 24 | [The Indigo Streak](https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 4:04 |
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 56 | [Daddy's Coming Home](https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Daddy's Coming Home](https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1) | 3:09 |
 | 57 | [Fuck Off](https://open.spotify.com/track/52L8TAHmnao8FWoMiOj9hZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors \(édition de luxe\)](https://open.spotify.com/album/6j1TdmSs8ROkx7pDBwSJrO) | 2:03 |
 | 58 | [High on Me](https://open.spotify.com/track/4foH9ND72k3puEzoiHb1z8) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [High on Me](https://open.spotify.com/album/2BCMRSiYPHaHAC42YcWmqv) | 3:02 |
-| 59 | [Surrender](https://open.spotify.com/track/4tYDiMb5vYQ2YlhuS9I0Ig) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Surrender](https://open.spotify.com/album/72Vq7wgEn0Z55nOPfDoAgJ) | 3:40 |
-| 60 | [More Than Machines](https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [More Than Machines](https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83) | 3:21 |
-| 61 | [Crawl!](https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv) | 4:20 |
+| 59 | [Too Close / Too Late](https://open.spotify.com/track/6CE4GRKBl4TXXrybKD3E7q) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/10skiZ5i3pC9Ry0fVbLJU7) | 4:41 |
+| 60 | [Surrender](https://open.spotify.com/track/4tYDiMb5vYQ2YlhuS9I0Ig) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Surrender](https://open.spotify.com/album/72Vq7wgEn0Z55nOPfDoAgJ) | 3:40 |
+| 61 | [More Than Machines](https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [More Than Machines](https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83) | 3:21 |
 | 62 | [One Eyed Bastard](https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [One Eyed Bastard](https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd) | 2:52 |
-| 63 | [Too Close / Too Late](https://open.spotify.com/track/6CE4GRKBl4TXXrybKD3E7q) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/10skiZ5i3pC9Ry0fVbLJU7) | 4:41 |
+| 63 | [Crawl!](https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv) | 4:20 |
 | 64 | [Ultraviolet](https://open.spotify.com/track/33x3Y8oLC0rpAIwACzdyyN) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Ultraviolet](https://open.spotify.com/album/2MWqoKEtRYGanPzg05WKHS) | 2:53 |
 | 65 | [Soul On Fire](https://open.spotify.com/track/2u89RsYYNCCXwNvHgTnzmf) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Lighting Up The Sky](https://open.spotify.com/album/5puvjdeWFxlB0P1222trxX) | 4:05 |
 | 66 | [Foregone, Pt\. 2](https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 2](https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S) | 4:30 |

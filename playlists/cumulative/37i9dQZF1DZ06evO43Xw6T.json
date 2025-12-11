@@ -107,6 +107,28 @@
     },
     {
       "album": {
+        "name": "AFTERLIFE",
+        "url": "https://open.spotify.com/album/4QhJQwFpbeh6xItjEg5IwC"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168601,
+      "name": "AFTERLIFE",
+      "url": "https://open.spotify.com/track/6GGhD1IyPluXefBT0n3K6F"
+    },
+    {
+      "album": {
         "name": "Amarre",
         "url": "https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14"
       },
@@ -974,7 +996,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 170702,
       "name": "F's",
       "url": "https://open.spotify.com/track/6qtOaQrYTqyAZdNMCmGQwr"

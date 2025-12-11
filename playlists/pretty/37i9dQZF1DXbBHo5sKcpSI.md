@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBHo5sKcpSI.md) - [plain]
 
 > Check out the set list of Ado THE FIRST WORLD TOUR “Wish” in USA + special voice messages from Ado /初世界ツアーのセットリストをチェック
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,322 likes - 31 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,321 likes - 31 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: metro",
-  "num_followers": 24535,
+  "num_followers": 24534,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2025-12-05 11:37:40",
       "album": {
+        "name": "moje sm\u0119ty",
+        "url": "https://open.spotify.com/album/3R2Sx2CO4dKv2Y23ovoBBC"
+      },
+      "artists": [
+        {
+          "name": "FANKA",
+          "url": "https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg"
+        }
+      ],
+      "duration_ms": 154879,
+      "name": "TYLKO Z TOB\u0104",
+      "url": "https://open.spotify.com/track/1xeUFDeg7xZB4r2MAtdbZ8"
+    },
+    {
+      "added_at": "2025-12-05 11:37:40",
+      "album": {
         "name": "Firdyga\u0142ki",
         "url": "https://open.spotify.com/album/3hvfKTYWgFdqtmFOby3LZr"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 203842,
       "name": "warszawska fantazja",
       "url": "https://open.spotify.com/track/3kmiK0nFMkIRBpU9tQdd32"
-    },
-    {
-      "added_at": "2025-12-05 11:37:40",
-      "album": {
-        "name": "moje sm\u0119ty",
-        "url": "https://open.spotify.com/album/3R2Sx2CO4dKv2Y23ovoBBC"
-      },
-      "artists": [
-        {
-          "name": "FANKA",
-          "url": "https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg"
-        }
-      ],
-      "duration_ms": 154879,
-      "name": "TYLKO Z TOB\u0104",
-      "url": "https://open.spotify.com/track/1xeUFDeg7xZB4r2MAtdbZ8"
     },
     {
       "added_at": "2025-12-05 11:37:40",
@@ -355,6 +355,22 @@
     {
       "added_at": "2025-12-05 11:37:40",
       "album": {
+        "name": "Czemu pozwoli\u0142e\u015b kocha\u0107?",
+        "url": "https://open.spotify.com/album/4iz3J2ypdRCNHmF406gHOx"
+      },
+      "artists": [
+        {
+          "name": "Iga Jaworska",
+          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Czemu pozwoli\u0142e\u015b kocha\u0107?",
+      "url": "https://open.spotify.com/track/00ITfmQnKbU69YUMimdI1U"
+    },
+    {
+      "added_at": "2025-12-05 11:37:40",
+      "album": {
         "name": "kill for me?",
         "url": "https://open.spotify.com/album/6R73G7Td2TIms6bEKqA2zk"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 160417,
       "name": "kill for me?",
       "url": "https://open.spotify.com/track/3CllWqGpp4lInHfu5B7OSJ"
-    },
-    {
-      "added_at": "2025-12-05 11:37:40",
-      "album": {
-        "name": "My\u015bli",
-        "url": "https://open.spotify.com/album/6lIAyrOV9NPUqdHpZtQ3vS"
-      },
-      "artists": [
-        {
-          "name": "dezydery",
-          "url": "https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE"
-        }
-      ],
-      "duration_ms": 159047,
-      "name": "7 nieszcz\u0119\u015b\u0107",
-      "url": "https://open.spotify.com/track/4dBS6UpUxCevc83JrzktiM"
     },
     {
       "added_at": "2025-12-05 11:37:40",
@@ -403,34 +403,18 @@
     {
       "added_at": "2025-12-05 11:37:40",
       "album": {
-        "name": "Wyjmij mnie",
-        "url": "https://open.spotify.com/album/5jm4PXSEak02Eknn9Iimfj"
+        "name": "My\u015bli",
+        "url": "https://open.spotify.com/album/6lIAyrOV9NPUqdHpZtQ3vS"
       },
       "artists": [
         {
-          "name": "Pola Maj",
-          "url": "https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T"
+          "name": "dezydery",
+          "url": "https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE"
         }
       ],
-      "duration_ms": 198882,
-      "name": "Wyjmij mnie",
-      "url": "https://open.spotify.com/track/0FUOOxJ6kydMmzJeoqfUqc"
-    },
-    {
-      "added_at": "2025-12-05 11:37:40",
-      "album": {
-        "name": "Czemu pozwoli\u0142e\u015b kocha\u0107?",
-        "url": "https://open.spotify.com/album/4iz3J2ypdRCNHmF406gHOx"
-      },
-      "artists": [
-        {
-          "name": "Iga Jaworska",
-          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Czemu pozwoli\u0142e\u015b kocha\u0107?",
-      "url": "https://open.spotify.com/track/00ITfmQnKbU69YUMimdI1U"
+      "duration_ms": 159047,
+      "name": "7 nieszcz\u0119\u015b\u0107",
+      "url": "https://open.spotify.com/track/4dBS6UpUxCevc83JrzktiM"
     },
     {
       "added_at": "2025-12-05 11:37:40",
@@ -455,22 +439,18 @@
     {
       "added_at": "2025-12-05 11:37:40",
       "album": {
-        "name": "Czerwiec",
-        "url": "https://open.spotify.com/album/0vbtP4aOHMxfXwbMvPqaUd"
+        "name": "Wyjmij mnie",
+        "url": "https://open.spotify.com/album/5jm4PXSEak02Eknn9Iimfj"
       },
       "artists": [
         {
-          "name": "Dawid Tyszkowski",
-          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
-        },
-        {
-          "name": "Piotr Odoszewski",
-          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
+          "name": "Pola Maj",
+          "url": "https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T"
         }
       ],
-      "duration_ms": 317013,
-      "name": "Czerwiec",
-      "url": "https://open.spotify.com/track/5DOmpafBNAJrBoZZHigYfX"
+      "duration_ms": 198882,
+      "name": "Wyjmij mnie",
+      "url": "https://open.spotify.com/track/0FUOOxJ6kydMmzJeoqfUqc"
     },
     {
       "added_at": "2025-12-05 11:37:40",
@@ -487,6 +467,26 @@
       "duration_ms": 156815,
       "name": "Te\u017c Tak Masz",
       "url": "https://open.spotify.com/track/0A6enj2y1LHSRTrm30x2XY"
+    },
+    {
+      "added_at": "2025-12-05 11:37:40",
+      "album": {
+        "name": "Czerwiec",
+        "url": "https://open.spotify.com/album/0vbtP4aOHMxfXwbMvPqaUd"
+      },
+      "artists": [
+        {
+          "name": "Dawid Tyszkowski",
+          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
+        },
+        {
+          "name": "Piotr Odoszewski",
+          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
+        }
+      ],
+      "duration_ms": 317013,
+      "name": "Czerwiec",
+      "url": "https://open.spotify.com/track/5DOmpafBNAJrBoZZHigYfX"
     },
     {
       "added_at": "2025-12-05 11:37:40",
@@ -551,22 +551,18 @@
     {
       "added_at": "2025-12-05 11:37:40",
       "album": {
-        "name": "do pogrzebu si\u0119 zagoi",
-        "url": "https://open.spotify.com/album/6zaC41Pl5cljlJs717Y5Dj"
+        "name": "Nienawidzisz",
+        "url": "https://open.spotify.com/album/2FKdXqSCSlmXVcaBlZzxMk"
       },
       "artists": [
         {
-          "name": "noffkoffska",
-          "url": "https://open.spotify.com/artist/6OjVJRevdfShgzdCMj7CYt"
-        },
-        {
-          "name": "VBS",
-          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+          "name": "huskie",
+          "url": "https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS"
         }
       ],
-      "duration_ms": 181711,
-      "name": "do pogrzebu si\u0119 zagoi",
-      "url": "https://open.spotify.com/track/74NMdk0cJG92YXH2SZ1Crh"
+      "duration_ms": 236249,
+      "name": "Nienawidzisz",
+      "url": "https://open.spotify.com/track/3hZY4ACHC3uSFZo4h8DWp8"
     },
     {
       "added_at": "2025-12-05 11:37:40",
@@ -587,22 +583,22 @@
     {
       "added_at": "2025-12-05 11:37:40",
       "album": {
-        "name": "Dotkni\u0119ta przez s\u0142o\u0144ce",
-        "url": "https://open.spotify.com/album/6NhKBbD2p8ZxiYzYbcKwFE"
+        "name": "do pogrzebu si\u0119 zagoi",
+        "url": "https://open.spotify.com/album/6zaC41Pl5cljlJs717Y5Dj"
       },
       "artists": [
         {
-          "name": "Kachus",
-          "url": "https://open.spotify.com/artist/3Ya5NT5vLex3mCIt2DTmkJ"
+          "name": "noffkoffska",
+          "url": "https://open.spotify.com/artist/6OjVJRevdfShgzdCMj7CYt"
         },
         {
-          "name": "ZORZA",
-          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
+          "name": "VBS",
+          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
         }
       ],
-      "duration_ms": 281200,
-      "name": "Dotkni\u0119ta przez s\u0142o\u0144ce",
-      "url": "https://open.spotify.com/track/1UXLbKlNgAHbPvjGHDY639"
+      "duration_ms": 181711,
+      "name": "do pogrzebu si\u0119 zagoi",
+      "url": "https://open.spotify.com/track/74NMdk0cJG92YXH2SZ1Crh"
     },
     {
       "added_at": "2025-12-05 11:37:40",
@@ -631,18 +627,22 @@
     {
       "added_at": "2025-12-05 11:37:40",
       "album": {
-        "name": "Nienawidzisz",
-        "url": "https://open.spotify.com/album/2FKdXqSCSlmXVcaBlZzxMk"
+        "name": "Dotkni\u0119ta przez s\u0142o\u0144ce",
+        "url": "https://open.spotify.com/album/6NhKBbD2p8ZxiYzYbcKwFE"
       },
       "artists": [
         {
-          "name": "huskie",
-          "url": "https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS"
+          "name": "Kachus",
+          "url": "https://open.spotify.com/artist/3Ya5NT5vLex3mCIt2DTmkJ"
+        },
+        {
+          "name": "ZORZA",
+          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
         }
       ],
-      "duration_ms": 236249,
-      "name": "Nienawidzisz",
-      "url": "https://open.spotify.com/track/3hZY4ACHC3uSFZo4h8DWp8"
+      "duration_ms": 281200,
+      "name": "Dotkni\u0119ta przez s\u0142o\u0144ce",
+      "url": "https://open.spotify.com/track/1UXLbKlNgAHbPvjGHDY639"
     },
     {
       "added_at": "2025-12-05 11:37:40",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-12-05 11:37:40",
       "album": {
-        "name": "zosta\u0144",
-        "url": "https://open.spotify.com/album/1aVf5Yed3eNAGJ0kRgao2J"
-      },
-      "artists": [
-        {
-          "name": "Treehouse",
-          "url": "https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi"
-        }
-      ],
-      "duration_ms": 138094,
-      "name": "zosta\u0144",
-      "url": "https://open.spotify.com/track/2jQlVcDnyiMjmrQ7XrK70X"
-    },
-    {
-      "added_at": "2025-12-05 11:37:40",
-      "album": {
         "name": "tam gdzie ty",
         "url": "https://open.spotify.com/album/1BPbU2ERhuVS2dWJd5Aw6f"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 155652,
       "name": "tam gdzie ty",
       "url": "https://open.spotify.com/track/0DkWzgXbAlJ0C8pXJeTp0Z"
+    },
+    {
+      "added_at": "2025-12-05 11:37:40",
+      "album": {
+        "name": "zosta\u0144",
+        "url": "https://open.spotify.com/album/1aVf5Yed3eNAGJ0kRgao2J"
+      },
+      "artists": [
+        {
+          "name": "Treehouse",
+          "url": "https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi"
+        }
+      ],
+      "duration_ms": 138094,
+      "name": "zosta\u0144",
+      "url": "https://open.spotify.com/track/2jQlVcDnyiMjmrQ7XrK70X"
     },
     {
       "added_at": "2025-12-05 11:37:40",
@@ -739,6 +739,22 @@
       "duration_ms": 217290,
       "name": "Bez Ciebie",
       "url": "https://open.spotify.com/track/5rxt70pNzx0BVSxFChifTI"
+    },
+    {
+      "added_at": "2025-12-05 11:37:40",
+      "album": {
+        "name": "Umiem kocha\u0107 Ci\u0119 tak ca\u0142kiem na powa\u017cnie",
+        "url": "https://open.spotify.com/album/3hSt7QkmnsUPgl8zkr9Pom"
+      },
+      "artists": [
+        {
+          "name": "Fida",
+          "url": "https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6"
+        }
+      ],
+      "duration_ms": 161519,
+      "name": "Za kulisami",
+      "url": "https://open.spotify.com/track/1tlywl3igNTLsJGdZ1pTJf"
     },
     {
       "added_at": "2025-12-05 11:37:40",
@@ -795,18 +811,18 @@
     {
       "added_at": "2025-12-05 11:37:40",
       "album": {
-        "name": "Umiem kocha\u0107 Ci\u0119 tak ca\u0142kiem na powa\u017cnie",
-        "url": "https://open.spotify.com/album/3hSt7QkmnsUPgl8zkr9Pom"
+        "name": "KEEPITUP",
+        "url": "https://open.spotify.com/album/3a4aYhQKLDzfOTnVALdWeV"
       },
       "artists": [
         {
-          "name": "Fida",
-          "url": "https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6"
+          "name": "babyhats",
+          "url": "https://open.spotify.com/artist/5cqRWXSEk4JOG5hUhQpgON"
         }
       ],
-      "duration_ms": 161519,
-      "name": "Za kulisami",
-      "url": "https://open.spotify.com/track/1tlywl3igNTLsJGdZ1pTJf"
+      "duration_ms": 238978,
+      "name": "KEEPITUP",
+      "url": "https://open.spotify.com/track/0JRvK2JDWcQ6lduFvJgdCv"
     },
     {
       "added_at": "2025-12-05 11:37:40",
@@ -839,22 +855,6 @@
       "duration_ms": 168661,
       "name": "Kwiaty",
       "url": "https://open.spotify.com/track/17oIHzuMJopfkzLuvSHzSR"
-    },
-    {
-      "added_at": "2025-12-05 11:37:40",
-      "album": {
-        "name": "KEEPITUP",
-        "url": "https://open.spotify.com/album/3a4aYhQKLDzfOTnVALdWeV"
-      },
-      "artists": [
-        {
-          "name": "babyhats",
-          "url": "https://open.spotify.com/artist/5cqRWXSEk4JOG5hUhQpgON"
-        }
-      ],
-      "duration_ms": 238978,
-      "name": "KEEPITUP",
-      "url": "https://open.spotify.com/track/0JRvK2JDWcQ6lduFvJgdCv"
     },
     {
       "added_at": "2025-12-05 11:37:40",
@@ -907,26 +907,6 @@
     {
       "added_at": "2025-12-05 11:37:40",
       "album": {
-        "name": "szczerze, mega mocne",
-        "url": "https://open.spotify.com/album/1R2RIFqYopV7N0L6QlKARu"
-      },
-      "artists": [
-        {
-          "name": "Aleksander K\u0119pka",
-          "url": "https://open.spotify.com/artist/4G5MUSlOocInMqJAwe2A6x"
-        },
-        {
-          "name": "Ghosty",
-          "url": "https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2"
-        }
-      ],
-      "duration_ms": 153692,
-      "name": "szczerze, mega mocne",
-      "url": "https://open.spotify.com/track/11kYDoSAlArh9NwUqYkH2v"
-    },
-    {
-      "added_at": "2025-12-05 11:37:40",
-      "album": {
         "name": "Chc\u0119 si\u0119 z Tob\u0105 bawi\u0107",
         "url": "https://open.spotify.com/album/1mo1ZbH9DQDqB17ms82ahA"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 206300,
       "name": "Chc\u0119 si\u0119 z Tob\u0105 bawi\u0107",
       "url": "https://open.spotify.com/track/0zP8wabUyDzx6O36m9DvOc"
+    },
+    {
+      "added_at": "2025-12-05 11:37:40",
+      "album": {
+        "name": "szczerze, mega mocne",
+        "url": "https://open.spotify.com/album/1R2RIFqYopV7N0L6QlKARu"
+      },
+      "artists": [
+        {
+          "name": "Aleksander K\u0119pka",
+          "url": "https://open.spotify.com/artist/4G5MUSlOocInMqJAwe2A6x"
+        },
+        {
+          "name": "Ghosty",
+          "url": "https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2"
+        }
+      ],
+      "duration_ms": 153692,
+      "name": "szczerze, mega mocne",
+      "url": "https://open.spotify.com/track/11kYDoSAlArh9NwUqYkH2v"
     },
     {
       "added_at": "2025-12-05 11:37:40",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-12-05 11:37:40",
       "album": {
-        "name": "8 piosenek o mi\u0142o\u015bci",
-        "url": "https://open.spotify.com/album/3ahEDNAQfFCsUZqjRYaXcG"
-      },
-      "artists": [
-        {
-          "name": "Marcin Maciejczak",
-          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Mi\u0142o\u015bci",
-      "url": "https://open.spotify.com/track/3HlomvmvwMNdo1z7DCuG93"
-    },
-    {
-      "added_at": "2025-12-05 11:37:40",
-      "album": {
         "name": "dooko\u0142a mnie",
         "url": "https://open.spotify.com/album/7AF2nxYKHzJM1C7PpI94og"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 124259,
       "name": "dooko\u0142a mnie",
       "url": "https://open.spotify.com/track/34QjFSfFR6oi9nUKb0jLWA"
+    },
+    {
+      "added_at": "2025-12-05 11:37:40",
+      "album": {
+        "name": "8 piosenek o mi\u0142o\u015bci",
+        "url": "https://open.spotify.com/album/3ahEDNAQfFCsUZqjRYaXcG"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Mi\u0142o\u015bci",
+      "url": "https://open.spotify.com/track/3HlomvmvwMNdo1z7DCuG93"
     },
     {
       "added_at": "2025-12-05 11:37:40",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2025-12-05 11:37:40",
       "album": {
-        "name": "Ton\u0119",
-        "url": "https://open.spotify.com/album/6UnjcTHtlJPu9YQRJSDkPk"
-      },
-      "artists": [
-        {
-          "name": "Mateusz Ciaw\u0142owski",
-          "url": "https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF"
-        }
-      ],
-      "duration_ms": 207656,
-      "name": "Ton\u0119",
-      "url": "https://open.spotify.com/track/333fFTwtaQPV7TXpTrT9nA"
-    },
-    {
-      "added_at": "2025-12-05 11:37:40",
-      "album": {
         "name": "Nedospane No\u010de",
         "url": "https://open.spotify.com/album/2OYQW9zMfJSsExgHaWG5dl"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 171428,
       "name": "Nedospane No\u010de",
       "url": "https://open.spotify.com/track/7cpiRNXghkaToeZhjMBEoB"
+    },
+    {
+      "added_at": "2025-12-05 11:37:40",
+      "album": {
+        "name": "Ton\u0119",
+        "url": "https://open.spotify.com/album/6UnjcTHtlJPu9YQRJSDkPk"
+      },
+      "artists": [
+        {
+          "name": "Mateusz Ciaw\u0142owski",
+          "url": "https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF"
+        }
+      ],
+      "duration_ms": 207656,
+      "name": "Ton\u0119",
+      "url": "https://open.spotify.com/track/333fFTwtaQPV7TXpTrT9nA"
     }
   ],
   "unique_name": "up next",

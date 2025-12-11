@@ -1,6 +1,6 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 178086,
+  "num_followers": 178139,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Foghat (2016 Remaster)",
-        "url": "https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ"
-      },
-      "artists": [
-        {
-          "name": "Foghat",
-          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
-        }
-      ],
-      "duration_ms": 230160,
-      "name": "Highway (Killing Me) - 2016 Remaster",
-      "url": "https://open.spotify.com/track/26lMoZvdVmBdAribSN7RLL"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Peter Green's Fleetwood Mac (Deluxe)",
         "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 212333,
       "name": "My Heart Beat Like a Hammer - Take 2",
       "url": "https://open.spotify.com/track/6miLmB0XTcmTqGFoz3gWAA"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Foghat (2016 Remaster)",
+        "url": "https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ"
+      },
+      "artists": [
+        {
+          "name": "Foghat",
+          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
+        }
+      ],
+      "duration_ms": 230160,
+      "name": "Highway (Killing Me) - 2016 Remaster",
+      "url": "https://open.spotify.com/track/26lMoZvdVmBdAribSN7RLL"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-03-25 04:01:00",
       "album": {
-        "name": "I'm Alright",
-        "url": "https://open.spotify.com/album/3wjqdkdOR2mOhdE0YdL8Hv"
-      },
-      "artists": [
-        {
-          "name": "Laura Evans",
-          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
-        }
-      ],
-      "duration_ms": 189933,
-      "name": "I'm Alright",
-      "url": "https://open.spotify.com/track/6GxbzsagGFou6mhUWOiuox"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
         "name": "If That Ain't A Reason",
         "url": "https://open.spotify.com/album/69aFNjClRXqD1D9Py4MIVv"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 240973,
       "name": "If That Ain't A Reason",
       "url": "https://open.spotify.com/track/4v26MY6oRGioIHvfCYFxMT"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "I'm Alright",
+        "url": "https://open.spotify.com/album/3wjqdkdOR2mOhdE0YdL8Hv"
+      },
+      "artists": [
+        {
+          "name": "Laura Evans",
+          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
+        }
+      ],
+      "duration_ms": 189933,
+      "name": "I'm Alright",
+      "url": "https://open.spotify.com/track/6GxbzsagGFou6mhUWOiuox"
     },
     {
       "added_at": "2022-03-25 04:01:00",

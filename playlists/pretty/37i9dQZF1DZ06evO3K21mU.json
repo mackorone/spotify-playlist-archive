@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 929873,
+  "num_followers": 929929,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAAhpzZZZsEE7KauTzHPs3Su",
+  "snapshot_id": "aTdmgAAAAAD6HFruvhr8PiG4mhebsBd6",
   "tracks": [
     {
       "added_at": null,
@@ -316,13 +316,13 @@
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         },
         {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 190653,
-      "name": "Nobody's Perfect",
-      "url": "https://open.spotify.com/track/6Nw1WHydftZy2joT2nTiCR"
+      "duration_ms": 234386,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/4OkiWfrZKmmVoILXk8JEtl"
     },
     {
       "added_at": null,
@@ -367,42 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 292865,
-      "name": "Apparently",
-      "url": "https://open.spotify.com/track/5O59s7bCgTFsXDXlWecyQ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cole World: The Sideline Story",
-        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 234386,
-      "name": "In The Morning",
-      "url": "https://open.spotify.com/track/4OkiWfrZKmmVoILXk8JEtl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
         "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
@@ -423,6 +387,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cole World: The Sideline Story",
+        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 190653,
+      "name": "Nobody's Perfect",
+      "url": "https://open.spotify.com/track/6Nw1WHydftZy2joT2nTiCR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 292865,
+      "name": "Apparently",
+      "url": "https://open.spotify.com/track/5O59s7bCgTFsXDXlWecyQ1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 192065,
       "name": "Free Fall (feat. J. Cole)",
       "url": "https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4 Your Eyez Only",
+        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 331480,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/3pjUyVbFmM96tYhSaKJwTt"
     },
     {
       "added_at": null,
@@ -487,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 Your Eyez Only",
-        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 331480,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/3pjUyVbFmM96tYhSaKJwTt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 242697,
-      "name": "January 28th",
-      "url": "https://open.spotify.com/track/6LBpGdlukUARutol7VgWIS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born Sinner (Deluxe Version)",
         "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 278573,
       "name": "Crooked Smile (feat. TLC)",
       "url": "https://open.spotify.com/track/5gFoAVTN9YlM9uJCrFZtgl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 242697,
+      "name": "January 28th",
+      "url": "https://open.spotify.com/track/6LBpGdlukUARutol7VgWIS"
     },
     {
       "added_at": null,
@@ -799,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shea Butter Baby",
-        "url": "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 211610,
-      "name": "Shea Butter Baby (with J. Cole)",
-      "url": "https://open.spotify.com/track/5BOBHIBuzvQuIYL1E1nDzl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tana Talk 4",
         "url": "https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 225000,
       "name": "Johnny P's Caddy",
       "url": "https://open.spotify.com/track/59ClUavkkfRhryajZBn2Lf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shea Butter Baby",
+        "url": "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 211610,
+      "name": "Shea Butter Baby (with J. Cole)",
+      "url": "https://open.spotify.com/track/5BOBHIBuzvQuIYL1E1nDzl"
     },
     {
       "added_at": null,

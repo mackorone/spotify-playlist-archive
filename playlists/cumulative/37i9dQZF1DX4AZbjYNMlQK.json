@@ -1355,6 +1355,24 @@
     },
     {
       "album": {
+        "name": "Navidad Con Bebeto",
+        "url": "https://open.spotify.com/album/6HiQ6te1m4K2WqHYmB09ql"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187005,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/6Ra9tH3xV7bN7oHwYol2hi"
+    },
+    {
+      "album": {
         "name": "Feliz Navidad",
         "url": "https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu"
       },
@@ -3474,7 +3492,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 191117,
       "name": "Solo En Navidad",
       "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"

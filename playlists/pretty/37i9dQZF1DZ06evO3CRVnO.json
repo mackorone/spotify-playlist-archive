@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 320013,
+  "num_followers": 320102,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAABfn2HgFhrpXuV+Xag5b8xB",
+  "snapshot_id": "aTdmgAAAAACnu9zW6DIVu9sI7ml4wOkl",
   "tracks": [
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MASA",
-        "url": "https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "Fire Your Manager (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/3kdAWcII7Co6Lv9Rw1pbIo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blick Sum (feat. Playboi Carti)",
         "url": "https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 192266,
       "name": "Blick Sum (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MASA",
+        "url": "https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Fire Your Manager (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/3kdAWcII7Co6Lv9Rw1pbIo"
     }
   ],
   "unique_name": "This Is Playboi Carti",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 
 > 100 canciones de la época nostálgica más reciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,893 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,908 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZzPn1Y1VEWq.md) - [plain]
 | 93 | [Eso Vive](https://open.spotify.com/track/6JMUqW6dwWduaPPqGCkcgk) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Cuentos Decapitados](https://open.spotify.com/album/4agUniovdijNcGf3blcYQM) | 3:01 |
 | 94 | [Naty Bum Bum](https://open.spotify.com/track/6b1cUW3hBwjlXrermDMkn5) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [De Culo](https://open.spotify.com/album/4uWmPFt2rsaSqHslirD3S2) | 2:10 |
 | 95 | [Revoloteando](https://open.spotify.com/track/0Vuh6a1lDHMLYG4NBOnsHi) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Hormigas](https://open.spotify.com/album/1sIA6YTTCHQ50lQTBregzD) | 3:56 |
-| 96 | [Bello Abril](https://open.spotify.com/track/1lSxelMI6IzcuUNXZdMrK3) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Naturaleza Sangre](https://open.spotify.com/album/0ZK4qMEX66OOFWYNrPtMLS) | 2:21 |
-| 97 | [Culpable](https://open.spotify.com/track/4PmAcbJ6HFOYDXrbEEeOHd) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico](https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo) | 3:58 |
+| 96 | [Culpable](https://open.spotify.com/track/4PmAcbJ6HFOYDXrbEEeOHd) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico](https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo) | 3:58 |
+| 97 | [Bello Abril](https://open.spotify.com/track/1lSxelMI6IzcuUNXZdMrK3) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Naturaleza Sangre](https://open.spotify.com/album/0ZK4qMEX66OOFWYNrPtMLS) | 2:21 |
 | 98 | [Será \- En Vivo en el Luna Park](https://open.spotify.com/track/4ZvzXdqYc6vGtkCyOhnoTz) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 2:52 |
 | 99 | [Imposible](https://open.spotify.com/track/2Yl65F569JNarqLpr4oYNj) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Incompleto \- 20 Rocanroles 20](https://open.spotify.com/album/4wCc0oARR0CTG3plo4Zgnn) | 4:07 |
 | 100 | [Una Tregua](https://open.spotify.com/track/7bZ8erPLv4zulyDVL66dJQ) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Hija del Rigor](https://open.spotify.com/album/3q4AvWqFjeQRtR8zj1A5QO) | 3:30 |

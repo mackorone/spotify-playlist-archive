@@ -1,12 +1,12 @@
 {
   "description": "This is CKay. The essential tracks, all in one playlist.",
-  "num_followers": 23507,
+  "num_followers": 23513,
   "original_name": "This Is CKay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAADRaJNTrlc6CBZX84bcEhnW",
+  "snapshot_id": "aTdmgAAAAAB2cTfN+RuQ9UPXWDS6YT7U",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "EMOTIONS",
-        "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
+        "name": "Fire & Ice",
+        "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
       },
       "artists": [
         {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
         },
         {
-          "name": "Nora Fatehi",
-          "url": "https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 169565,
-      "name": "IT\u2019S TRUE (feat. Nora Fatehi)",
-      "url": "https://open.spotify.com/track/18TFbCHdZbnnyNIsJHcyGe"
+      "duration_ms": 200869,
+      "name": "Shakara",
+      "url": "https://open.spotify.com/track/5XeMITYsLdefeCB0Q1RVOU"
     },
     {
       "added_at": null,
@@ -359,22 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fire & Ice",
-        "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
+        "name": "EMOTIONS",
+        "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
       },
       "artists": [
         {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
-        },
-        {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Nora Fatehi",
+          "url": "https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA"
         }
       ],
-      "duration_ms": 200869,
-      "name": "Shakara",
-      "url": "https://open.spotify.com/track/5XeMITYsLdefeCB0Q1RVOU"
+      "duration_ms": 169565,
+      "name": "IT\u2019S TRUE (feat. Nora Fatehi)",
+      "url": "https://open.spotify.com/track/18TFbCHdZbnnyNIsJHcyGe"
     },
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Kiss Me Like You Miss Me",
+      "url": "https://open.spotify.com/track/0qO1vvKmRvBVH60KsfS8Gh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EMOTIONS",
         "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 154105,
       "name": "DORIME (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/154GtlyXeS8mEwNytNJyI4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Kiss Me Like You Miss Me",
-      "url": "https://open.spotify.com/track/0qO1vvKmRvBVH60KsfS8Gh"
     },
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 188920,
-      "name": "Anya Mmiri",
-      "url": "https://open.spotify.com/track/4m8YqoUZLToSUjpNmb7m5X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 122346,
       "name": "Show My Side (feat. Amaarae)",
       "url": "https://open.spotify.com/track/6ihMcz4thRLj5KH8uFwOdw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 188920,
+      "name": "Anya Mmiri",
+      "url": "https://open.spotify.com/track/4m8YqoUZLToSUjpNmb7m5X"
     },
     {
       "added_at": null,
@@ -790,15 +790,11 @@
         {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
         }
       ],
-      "duration_ms": 143557,
-      "name": "again",
-      "url": "https://open.spotify.com/track/0mdmPFVl91blHPZGEFjG64"
+      "duration_ms": 160429,
+      "name": "say no more",
+      "url": "https://open.spotify.com/track/6b6KwJ5Ig1SmOKM9cD3Bem"
     },
     {
       "added_at": null,
@@ -870,11 +866,15 @@
         {
           "name": "CKay",
           "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
         }
       ],
-      "duration_ms": 160429,
-      "name": "say no more",
-      "url": "https://open.spotify.com/track/6b6KwJ5Ig1SmOKM9cD3Bem"
+      "duration_ms": 143557,
+      "name": "again",
+      "url": "https://open.spotify.com/track/0mdmPFVl91blHPZGEFjG64"
     },
     {
       "added_at": null,
@@ -923,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CKay The First",
-        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 159813,
-      "name": "kalakuta",
-      "url": "https://open.spotify.com/track/0X5yARwJLSCTFhuJTSXvFU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forward",
         "url": "https://open.spotify.com/album/5caurEEX04czGkrjHcARHu"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 153560,
       "name": "Maria",
       "url": "https://open.spotify.com/track/6cgPG5VRHJvoXZ8NY8MmOR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CKay The First",
+        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 159813,
+      "name": "kalakuta",
+      "url": "https://open.spotify.com/track/0X5yARwJLSCTFhuJTSXvFU"
     },
     {
       "added_at": null,

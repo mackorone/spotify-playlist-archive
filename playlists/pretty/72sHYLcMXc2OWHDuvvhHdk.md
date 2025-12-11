@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 552 likes - 2,097 songs - 5 day 2 hr 52 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 553 likes - 2,104 songs - 5 day 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2105,5 +2105,12 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2095 | [SENZA DI TE](https://open.spotify.com/track/4GNDipDJncEuCDJmawYjvY) | [Sickz](https://open.spotify.com/artist/0Tl8ruPXKi84dOL2eNaQB7), [Davi](https://open.spotify.com/artist/7Cy5G4mtH41oRL8Eot9Pzn), [Maximilian Heart](https://open.spotify.com/artist/1ZyGuyy2dk8eyrO0h4w0E6), [Dolly](https://open.spotify.com/artist/34kaEAOnTRU2nGw0PN9ET3) | [SENZA DI TE](https://open.spotify.com/album/5uAyRDKG8FMtnNe5GmUIxh) | 3:46 |
 | 2096 | [Old Ancient Tree](https://open.spotify.com/track/6ZI4Ucss1ZhgVrQRcnfjO3) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 4:20 |
 | 2097 | [Blind Faith](https://open.spotify.com/track/3nntpWzSUm61YaLy5MYqTm) | [Oscat!](https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA) | [Blind Faith](https://open.spotify.com/album/2dvToE0xWlFUbh0GhFxaWB) | 3:38 |
+| 2098 | [Suerte](https://open.spotify.com/track/3Ep75XNkKEz3meQlzCjJ3M) | [Los de Marte](https://open.spotify.com/artist/3IswqnIMsJKqBzGplTP91r) | [Suerte](https://open.spotify.com/album/0BX5xTASG4jk84rbv4Y1Pr) | 2:47 |
+| 2099 | [Christmas Song](https://open.spotify.com/track/4iZn4HLTRM6cjkQP7pcxwI) | [DrLoveWorldMusic](https://open.spotify.com/artist/3t82rccHxWNFR3zchAkZat) | [Christmas Song](https://open.spotify.com/album/01jMdTVcu9jO7lNW9ZyyOC) | 4:29 |
+| 2100 | [Élite Mundial](https://open.spotify.com/track/3MtOrsLxv31SNJeMl3pqlv) | [Velx](https://open.spotify.com/artist/4rGwpY6x2VsXxZ1iAevcGw) | [Élite Mundial](https://open.spotify.com/album/6ZKD1o5vXu3f9cDOr8KJ7e) | 3:17 |
+| 2101 | [Back to Maine](https://open.spotify.com/track/2XXmEDEUYAEZcKIDirk1cs) | [Ben Leavitt](https://open.spotify.com/artist/69loAVGOEQPjQEeKXQ43qT) | [Back to Maine](https://open.spotify.com/album/0tkkAsUhnSqciNvOGtACIk) | 3:26 |
+| 2102 | [Symmetric](https://open.spotify.com/track/2M6bYplgzxDWiU3vuGcl4L) | [Good Sunset](https://open.spotify.com/artist/1XeexwpjUws2EwUOUaO56Z) | [Cinema Everything](https://open.spotify.com/album/3Kp3powxVaQz0RA3bLOiRf) | 3:13 |
+| 2103 | [Jingle Bells](https://open.spotify.com/track/0rfwnKFRTahPdHCEFhESsZ) | [Darryn Zewalk](https://open.spotify.com/artist/7HysNhewedcRygAC3H8h9f) | [Jingle A New Way](https://open.spotify.com/album/5LiKN2ONQnHx7h8Dtb9ZGx) | 3:23 |
+| 2104 | [Until It's Time](https://open.spotify.com/track/77v6TueXjlHHOOBsFOrNGl) | [Cut Flowers](https://open.spotify.com/artist/5qRls3Usdh6jOe0ek8ZCXS) | [Until It's Time](https://open.spotify.com/album/6Ulxw0G7DRwcWy6FG0Yq0Z) | 2:48 |
 
-Snapshot ID: `AAAIvwgRXROShG7+8WfT14312B6tTZtR`
+Snapshot ID: `AAAIxsnmtt3UWXbyU2zgniUlWLhqJobh`

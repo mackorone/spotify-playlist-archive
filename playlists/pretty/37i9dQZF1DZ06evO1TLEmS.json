@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 4211,
+  "num_followers": 4214,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAABhilfzKgOkZfVJzk4myG8P",
+  "snapshot_id": "aTdmgAAAAAAQ7JMl//tFgQQni0EZ55JM",
   "tracks": [
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Golden Heart Protector",
-        "url": "https://open.spotify.com/album/0jxAojVGsPyWPz9F1JjjAn"
-      },
-      "artists": [
-        {
-          "name": "Margaret Glaspy",
-          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 220622,
-      "name": "The Book Of Love (with Madison Cunningham)",
-      "url": "https://open.spotify.com/track/5d5SB3s3ksk34OIDb4EoaW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neighbor Song (ft. Madison Cunningham)",
         "url": "https://open.spotify.com/album/1gWFh2G3METlCAbzhfaIzs"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 220230,
       "name": "Neighbor Song [Feat. Madison Cunningham]",
       "url": "https://open.spotify.com/track/5t6reWfzf0aOeMgVijYRGS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Golden Heart Protector",
+        "url": "https://open.spotify.com/album/0jxAojVGsPyWPz9F1JjjAn"
+      },
+      "artists": [
+        {
+          "name": "Margaret Glaspy",
+          "url": "https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 220622,
+      "name": "The Book Of Love (with Madison Cunningham)",
+      "url": "https://open.spotify.com/track/5d5SB3s3ksk34OIDb4EoaW"
     },
     {
       "added_at": null,

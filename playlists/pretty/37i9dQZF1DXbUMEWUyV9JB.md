@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de las Cumbias! <br/>Cover: Angela Leiva
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,691 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,697 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 31 | [El Amor de Mi Vida](https://open.spotify.com/track/1zgTTXWby9R40Gj9rHgH8e) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor de Mi Vida](https://open.spotify.com/album/7ln5J3GjNk2B6YSbO8IGUG) | 3:04 |
 | 32 | [Te Perdonaría](https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Perdonaría](https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz) | 2:36 |
 | 33 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/7mLPSkAJraASgNk6ywyTkp) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:34 |
-| 34 | [Suave Y Tierno](https://open.spotify.com/track/1boomhGAEyfVaMiODGyate) | [Grupo Klaz Y Keroz](https://open.spotify.com/artist/2qGvIoLAh7vSsUWSNOi3pC) | [Formas De Amor](https://open.spotify.com/album/4iKuVimtqToaPTNFpPhvaH) | 4:07 |
-| 35 | [Otra Vez](https://open.spotify.com/track/5Ebpu6uUHX2yANHzgefOmt) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Otra Vez](https://open.spotify.com/album/6Vwvxf9LwtMKAZjNIGpiKr) | 3:35 |
+| 34 | [Otra Vez](https://open.spotify.com/track/5Ebpu6uUHX2yANHzgefOmt) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Otra Vez](https://open.spotify.com/album/6Vwvxf9LwtMKAZjNIGpiKr) | 3:35 |
+| 35 | [Suave Y Tierno](https://open.spotify.com/track/1boomhGAEyfVaMiODGyate) | [Grupo Klaz Y Keroz](https://open.spotify.com/artist/2qGvIoLAh7vSsUWSNOi3pC) | [Formas De Amor](https://open.spotify.com/album/4iKuVimtqToaPTNFpPhvaH) | 4:07 |
 | 36 | [El Despertador](https://open.spotify.com/track/1WsorPwrFdjCt7toUE4P7i) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Despertador](https://open.spotify.com/album/2hqyIE8I3qQb4HQBiDhgip) | 2:51 |
 | 37 | [Desde Que No Estás Aquí](https://open.spotify.com/track/749JqjlwgQBz2Fx0Z92zm9) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL) | [Lo Mejor De...](https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2) | 3:39 |
 | 38 | [24/7](https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [24/7](https://open.spotify.com/album/352LrVMlDficyblK9e7Olr) | 3:30 |

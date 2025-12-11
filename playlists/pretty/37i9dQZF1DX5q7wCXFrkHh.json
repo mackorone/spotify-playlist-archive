@@ -1,6 +1,6 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 136278,
+  "num_followers": 136336,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 446314,
-      "name": "Strange Meadow Lark",
-      "url": "https://open.spotify.com/track/6HvyFdP5JrCQdmxq2qi7MC"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Explorations",
         "url": "https://open.spotify.com/album/5MuOxoJbvmGGIQxo6Pudu9"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 205840,
       "name": "Haunted Heart",
       "url": "https://open.spotify.com/track/7d4JNWqXjsa4iNv9v9Nf8H"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 446314,
+      "name": "Strange Meadow Lark",
+      "url": "https://open.spotify.com/track/6HvyFdP5JrCQdmxq2qi7MC"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Monk's Dream",
-        "url": "https://open.spotify.com/album/5VTlqV8lZH3YspQ1cDcjrL"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 268400,
-      "name": "Body and Soul",
-      "url": "https://open.spotify.com/track/7IAFc5iQti2tzob7Uo7N1Y"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Happy Moods",
         "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 565480,
       "name": "And I Love Her",
       "url": "https://open.spotify.com/track/4J4ZBdkwfS3DCnLVPsJowU"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Monk's Dream",
+        "url": "https://open.spotify.com/album/5VTlqV8lZH3YspQ1cDcjrL"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 268400,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/7IAFc5iQti2tzob7Uo7N1Y"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Dave Brubeck's Greatest Hits",
-        "url": "https://open.spotify.com/album/425dVE44lkA2a0FBI7MGLE"
-      },
-      "artists": [
-        {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "I'm in a Dancing Mood",
-      "url": "https://open.spotify.com/track/3DkdldkTR0pbVYKMg5eXJO"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 378426,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/64vJj4Hdf7YTJl07TGQftP"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Dave Brubeck's Greatest Hits",
+        "url": "https://open.spotify.com/album/425dVE44lkA2a0FBI7MGLE"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "I'm in a Dancing Mood",
+      "url": "https://open.spotify.com/track/3DkdldkTR0pbVYKMg5eXJO"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "My Spanish Heart",
-        "url": "https://open.spotify.com/album/5V1WcC2ldcMBdFwQg0LltV"
-      },
-      "artists": [
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        }
-      ],
-      "duration_ms": 319066,
-      "name": "Armando's Rhumba",
-      "url": "https://open.spotify.com/track/4wpZadyjV07oPn5RyHqkRl"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "The Duke Plays Ellington",
         "url": "https://open.spotify.com/album/16DFutmQC0e4V8etsg5ZGG"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 152886,
       "name": "In A Sentimental Mood",
       "url": "https://open.spotify.com/track/484SnsU9yGBsaHh9byM0AU"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "My Spanish Heart",
+        "url": "https://open.spotify.com/album/5V1WcC2ldcMBdFwQg0LltV"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        }
+      ],
+      "duration_ms": 319066,
+      "name": "Armando's Rhumba",
+      "url": "https://open.spotify.com/track/4wpZadyjV07oPn5RyHqkRl"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "The Amazing Bud Powell, Vol. 2 (2001 RVG Edition)",
-        "url": "https://open.spotify.com/album/0g89pAOtXDdr9HfO79s5uM"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 244466,
-      "name": "Polka Dots And Moonbeams - Remastered 1998 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7pKWTcPfT9mg2iAhobFHpS"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Seven Days of Falling",
         "url": "https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 403666,
       "name": "Elevation of Love",
       "url": "https://open.spotify.com/track/35CNi2g5eqqwvfoAdJtjpp"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "The Amazing Bud Powell, Vol. 2 (2001 RVG Edition)",
+        "url": "https://open.spotify.com/album/0g89pAOtXDdr9HfO79s5uM"
+      },
+      "artists": [
+        {
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        }
+      ],
+      "duration_ms": 244466,
+      "name": "Polka Dots And Moonbeams - Remastered 1998 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7pKWTcPfT9mg2iAhobFHpS"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Some More Love Songs",
-        "url": "https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf"
+        "name": "Great Britain's",
+        "url": "https://open.spotify.com/album/5YbS3aAsBc6DcNPLbSbSWR"
       },
       "artists": [
         {
-          "name": "Marc Copland",
-          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
+          "name": "Marian McPartland",
+          "url": "https://open.spotify.com/artist/7Ga404k4zEweLxPtX0Ghma"
         }
       ],
-      "duration_ms": 447813,
-      "name": "When I Fall in Love",
-      "url": "https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe"
+      "duration_ms": 170306,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/1VNPjGAzBm9BYAiOmHYtv0"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Great Britain's",
-        "url": "https://open.spotify.com/album/5YbS3aAsBc6DcNPLbSbSWR"
+        "name": "Some More Love Songs",
+        "url": "https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf"
       },
       "artists": [
         {
-          "name": "Marian McPartland",
-          "url": "https://open.spotify.com/artist/7Ga404k4zEweLxPtX0Ghma"
+          "name": "Marc Copland",
+          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
         }
       ],
-      "duration_ms": 170306,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/1VNPjGAzBm9BYAiOmHYtv0"
+      "duration_ms": 447813,
+      "name": "When I Fall in Love",
+      "url": "https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
+        "name": "Mary Lou Williams Presents Black Christ of the Andes",
+        "url": "https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy"
+      },
+      "artists": [
+        {
+          "name": "Mary Lou Williams",
+          "url": "https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "My Blue Heaven",
+      "url": "https://open.spotify.com/track/6TkNbkFSdxJXm0AoHAgGDd"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
         "name": "This Here Is Bobby Timmons / Easy Does It",
         "url": "https://open.spotify.com/album/76cd2lOIpE29vAyewtKd4b"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 308573,
       "name": "Moanin'",
       "url": "https://open.spotify.com/track/5U66z6J7VpEA9XV9BpePwh"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "Mary Lou Williams Presents Black Christ of the Andes",
-        "url": "https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy"
-      },
-      "artists": [
-        {
-          "name": "Mary Lou Williams",
-          "url": "https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "My Blue Heaven",
-      "url": "https://open.spotify.com/track/6TkNbkFSdxJXm0AoHAgGDd"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/5bPiN1Ol27kPEMeL3cwFrG"
+      },
+      "artists": [
+        {
+          "name": "Carla Bley",
+          "url": "https://open.spotify.com/artist/4Byg6TGm4z9TEkUDvEJBGO"
+        },
+        {
+          "name": "Steve Swallow",
+          "url": "https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV"
+        }
+      ],
+      "duration_ms": 278640,
+      "name": "\u00datviklingssang",
+      "url": "https://open.spotify.com/track/4B7XL3W2m7KUCV1KEK0CLD"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
         "name": "The John Lewis Piano",
         "url": "https://open.spotify.com/album/3TpGQijqIYEBpr1rAtYqeA"
       },
@@ -1399,26 +1419,6 @@
       "duration_ms": 238840,
       "name": "Blue Note Boogie",
       "url": "https://open.spotify.com/track/0EM6XvukQPiXdUY724xVyE"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "Duets",
-        "url": "https://open.spotify.com/album/5bPiN1Ol27kPEMeL3cwFrG"
-      },
-      "artists": [
-        {
-          "name": "Carla Bley",
-          "url": "https://open.spotify.com/artist/4Byg6TGm4z9TEkUDvEJBGO"
-        },
-        {
-          "name": "Steve Swallow",
-          "url": "https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV"
-        }
-      ],
-      "duration_ms": 278640,
-      "name": "\u00datviklingssang",
-      "url": "https://open.spotify.com/track/4B7XL3W2m7KUCV1KEK0CLD"
     },
     {
       "added_at": "2024-07-08 06:57:40",

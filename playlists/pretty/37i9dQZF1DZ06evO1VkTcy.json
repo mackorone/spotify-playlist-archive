@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAC+Yan1ssX8aqF8Tkb4TvHJ",
+  "snapshot_id": "aTdmgAAAAAAynGvY5oDGwQdXQ1lNnZDA",
   "tracks": [
     {
       "added_at": null,
@@ -891,30 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Anos de Caju, Vol. 1",
-        "url": "https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq"
-      },
-      "artists": [
-        {
-          "name": "Caju Pra Baixo",
-          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
-        },
-        {
-          "name": "Maguzinho",
-          "url": "https://open.spotify.com/artist/5vTInqPT32rNVz8KW6Qp6v"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 203350,
-      "name": "Rid\u00edculo",
-      "url": "https://open.spotify.com/track/0UrxKvv83kMW231Fl3ylN6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plano Perfeito",
         "url": "https://open.spotify.com/album/2ZcKd50nThSP5JcccHKlux"
       },
@@ -935,6 +911,30 @@
       "duration_ms": 191129,
       "name": "Plano Perfeito",
       "url": "https://open.spotify.com/track/3CYS69iw96rsdH6sQ9lcJP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "10 Anos de Caju, Vol. 1",
+        "url": "https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq"
+      },
+      "artists": [
+        {
+          "name": "Caju Pra Baixo",
+          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
+        },
+        {
+          "name": "Maguzinho",
+          "url": "https://open.spotify.com/artist/5vTInqPT32rNVz8KW6Qp6v"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 203350,
+      "name": "Rid\u00edculo",
+      "url": "https://open.spotify.com/track/0UrxKvv83kMW231Fl3ylN6"
     },
     {
       "added_at": null,
@@ -1083,6 +1083,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deixa Ir",
+        "url": "https://open.spotify.com/album/68JkTr2YMhffcdKmQ5ztL5"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caon",
+          "url": "https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "Deixa Ir",
+      "url": "https://open.spotify.com/track/5hMk6GBvUM3Qi4u0pxugqi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deixa Ir",
-        "url": "https://open.spotify.com/album/68JkTr2YMhffcdKmQ5ztL5"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caon",
-          "url": "https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "Deixa Ir",
-      "url": "https://open.spotify.com/track/5hMk6GBvUM3Qi4u0pxugqi"
     },
     {
       "added_at": null,

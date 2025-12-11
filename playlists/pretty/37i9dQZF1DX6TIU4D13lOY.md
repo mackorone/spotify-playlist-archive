@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 
 > Classic soft rock for a nice and easy drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,095 likes - 80 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,131 likes - 80 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 35 | [Into The Night](https://open.spotify.com/track/0rhyBUAgNXwdyvGVXSrLzc) | [Benny Mardones](https://open.spotify.com/artist/6ZalUpnU8HaHSjROM92Txw) | [Never Run Never Hide](https://open.spotify.com/album/5ERaMYO6utxG7HftrKO95m) | 4:31 |
 | 36 | [Promises](https://open.spotify.com/track/1oar8gdDX5yHWzVstAHDav) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Backless](https://open.spotify.com/album/3Xgt0D7DlSQ5HluyECu33i) | 3:01 |
 | 37 | [Hello It's Me](https://open.spotify.com/track/3gHFKiDanj4d2rqgHlRFFc) | [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb) | [Something / Anything?](https://open.spotify.com/album/3fRCOoTbBsOITBWlCRCJQr) | 4:24 |
-| 38 | [When I Need You \- Remastered](https://open.spotify.com/track/2TcwEYyydQuEMJwdmSgVLD) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Endless Flight](https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ) | 4:13 |
-| 39 | [The Pretender](https://open.spotify.com/track/7Gr61S9VTm8fcYfAo4Fd9g) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [The Pretender](https://open.spotify.com/album/1AqUcQKtf2AQ6rFRKIBei8) | 5:51 |
+| 38 | [The Pretender](https://open.spotify.com/track/7Gr61S9VTm8fcYfAo4Fd9g) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [The Pretender](https://open.spotify.com/album/1AqUcQKtf2AQ6rFRKIBei8) | 5:51 |
+| 39 | [When I Need You \- Remastered](https://open.spotify.com/track/2TcwEYyydQuEMJwdmSgVLD) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Endless Flight](https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ) | 4:13 |
 | 40 | [Tonight's the Night \(Gonna Be Alright\) \- 2009 Remaster](https://open.spotify.com/track/10LRRKPmx8uHcSxLVWK0ct) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [A Night on the Town \(Deluxe Edition\)](https://open.spotify.com/album/7nge8Pafna5rU1a0ek7dKN) | 3:57 |
 | 41 | [Your Smiling Face](https://open.spotify.com/track/1Q34tAtTWI6RdW1qzFQiPb) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [JT](https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn) | 2:47 |
 | 42 | [Steal Away \- Remastered](https://open.spotify.com/track/7v5rsCN3LhX9XaIlWyTdx3) | [Robbie Dupree](https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz) | [Robbie Dupree](https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW) | 3:33 |

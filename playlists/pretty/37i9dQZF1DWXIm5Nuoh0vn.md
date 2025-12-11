@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIm5Nuoh0vn.md) - [plain]
 
 > Enjoy Music From "Fruits Basket"! TVアニメ『フルーツバスケット』の魅力を歴代のOP/ED主題歌、サントラでお届けします。©高屋奈月・白泉社/フルーツバスケット製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,094 likes - 55 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,095 likes - 55 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

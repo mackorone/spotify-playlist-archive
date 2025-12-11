@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 
 > This is Maren Morris\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,098 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,099 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO46QfTO.md) - [plain]
 | 49 | [lemonade](https://open.spotify.com/track/6qF2SapjKCkp3ZOtzh3bBr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E](https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2) | 2:58 |
 | 50 | [this is how a woman leaves](https://open.spotify.com/track/1H1i6bHwSvrUq1LM3h7J7P) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [D R E A M S I C L E \(deluxe\)](https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk) | 2:49 |
 
-Snapshot ID: `aTYVAAAAAABT6thdJWdKNmha6pZOmt+x`
+Snapshot ID: `aTdmgAAAAADpzRqLRK+EILCgX2topIFY`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Algernon Cadwallader
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,528 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,568 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,14 +61,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 51 | [I Don't Like Who I Was Then \(feat\. Ryland Heagy of Origami Angel\)](https://open.spotify.com/track/0tsDCPVmJHLFvai2blxIwv) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K), [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY), [Little Kruta](https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe) | [I Don't Like Who I Was Then \(feat\. Ryland Heagy of Origami Angel\)](https://open.spotify.com/album/7HU1L8d9pNdEC95LjjJUDP) | 3:53 |
 | 52 | [Make Believe](https://open.spotify.com/track/5BbMPShwAVZV1GIvyZxKhR) | [Savings](https://open.spotify.com/artist/0rwySd43RW6Pq9QDfaGeLb) | [Make Believe](https://open.spotify.com/album/0jPUiEO5dET3XptMgwFrmi) | 3:08 |
 | 53 | [little pieces](https://open.spotify.com/track/6edMmG3Ru1pfHSheSYVuha) | [Have Mercy](https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM) | [the loneliest place i've ever been](https://open.spotify.com/album/48BSCKNHfBxveLMd2KtSSO) | 4:02 |
-| 54 | [caffeine cops](https://open.spotify.com/track/6bfvJmIShenDFix2g37t1S) | [Khaki Cuffs](https://open.spotify.com/artist/3lTbmnZS3UoiK7124LWjba) | [khaki cuffs](https://open.spotify.com/album/17hObjjsOomFIBWnYNwYfb) | 2:47 |
-| 55 | [Easily Undone](https://open.spotify.com/track/6AgYRZ8emI2qW25JAS3vPA) | [Macseal](https://open.spotify.com/artist/1b1pwTnc2DJVXGy8pniShT) | [Permanent Repeat](https://open.spotify.com/album/3q7K3RDedlfLfHZAxGJCLK) | 3:39 |
+| 54 | [Easily Undone](https://open.spotify.com/track/6AgYRZ8emI2qW25JAS3vPA) | [Macseal](https://open.spotify.com/artist/1b1pwTnc2DJVXGy8pniShT) | [Permanent Repeat](https://open.spotify.com/album/3q7K3RDedlfLfHZAxGJCLK) | 3:39 |
+| 55 | [caffeine cops](https://open.spotify.com/track/6bfvJmIShenDFix2g37t1S) | [Khaki Cuffs](https://open.spotify.com/artist/3lTbmnZS3UoiK7124LWjba) | [khaki cuffs](https://open.spotify.com/album/17hObjjsOomFIBWnYNwYfb) | 2:47 |
 | 56 | [Glass](https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme) | [Forest Green](https://open.spotify.com/artist/63lRjOZ8TCzjHaxZr1ZToc) | [Glass](https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc) | 4:43 |
 | 57 | [closure](https://open.spotify.com/track/3ayeHyZ09bDgxnPfRBS5K2) | [Frat Mouse](https://open.spotify.com/artist/5KyiJcvybfUdX8Qm9OhMy8) | [flea house](https://open.spotify.com/album/4x5p7yXHi64StUzFmDEtRd) | 2:34 |
-| 58 | [Wisteria](https://open.spotify.com/track/00U358cDNH2xS9B1YTcE0b) | [Michael Cera Palin](https://open.spotify.com/artist/4GyAROzBnWHCBr638r5TVP) | [We Could Be Brave](https://open.spotify.com/album/7CrSe4ZbLVmW0jJcuwpvOL) | 4:52 |
-| 59 | [Laughing Without Smiling](https://open.spotify.com/track/1aevZeUMDU4aA81noL1HlP) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Laughing Without Smiling / Spit](https://open.spotify.com/album/2NTIGT0nFhPfmcUQD8jl8t) | 2:52 |
-| 60 | [It Was Real To Me](https://open.spotify.com/track/0frCZbVGC6kdgLGYOewWMz) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [It Was Real To Me](https://open.spotify.com/album/2VMwISn56z1TKDg8Yti2k4) | 2:46 |
-| 61 | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/track/6SpavaUktNu788dew49p9U) | [Predisposed.](https://open.spotify.com/artist/4KIxOZRJxLKPeaFSarFk1X) | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C) | 4:39 |
+| 58 | [Laughing Without Smiling](https://open.spotify.com/track/1aevZeUMDU4aA81noL1HlP) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Laughing Without Smiling / Spit](https://open.spotify.com/album/2NTIGT0nFhPfmcUQD8jl8t) | 2:52 |
+| 59 | [Wisteria](https://open.spotify.com/track/00U358cDNH2xS9B1YTcE0b) | [Michael Cera Palin](https://open.spotify.com/artist/4GyAROzBnWHCBr638r5TVP) | [We Could Be Brave](https://open.spotify.com/album/7CrSe4ZbLVmW0jJcuwpvOL) | 4:52 |
+| 60 | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/track/6SpavaUktNu788dew49p9U) | [Predisposed.](https://open.spotify.com/artist/4KIxOZRJxLKPeaFSarFk1X) | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C) | 4:39 |
+| 61 | [It Was Real To Me](https://open.spotify.com/track/0frCZbVGC6kdgLGYOewWMz) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [It Was Real To Me](https://open.spotify.com/album/2VMwISn56z1TKDg8Yti2k4) | 2:46 |
 | 62 | [Full Speed Ahead](https://open.spotify.com/track/1UyoYp34XuQEfW7Id7q4Vy) | [Combat](https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx) | [Stay Golden](https://open.spotify.com/album/3eOka6weED6Atrxap8V15u) | 2:34 |
 | 63 | [Stone](https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP) | [Clementine](https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c) | [Stone](https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK) | 3:34 |
 | 64 | [the country club](https://open.spotify.com/track/3XZzkDZH6p4VjJU0qmxsgl) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [life till bones](https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS) | 2:59 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 69 | [the CIA](https://open.spotify.com/track/71VFHN459tdGGWOLpMdYMi) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [the CIA](https://open.spotify.com/album/1zGMd5eXQY9rPrXL0tVeEe) | 4:42 |
 | 70 | [When I Come East](https://open.spotify.com/track/0Sl6b0H7zHJdAtaNZW72ZM) | [Thank You, I'm Sorry](https://open.spotify.com/artist/1SQbSVOGU3m2YlQQVV88QU) | [When I Come East](https://open.spotify.com/album/428XEEgSSBIndzwdGwdj1p) | 2:51 |
 | 71 | [KO](https://open.spotify.com/track/0eOosmtcasDzw1vrjxd3SO) | [worlds greatest dad](https://open.spotify.com/artist/4CJ5eNfmJHQ5spEAvaxj8F) | [Better Luck Next Time](https://open.spotify.com/album/6mfrchDxERxDGQGaPidTVb) | 3:22 |
-| 72 | [superglue](https://open.spotify.com/track/10KY26D84N1PcxpxGhz0Vr) | [Cherry Blonde](https://open.spotify.com/artist/25y7fG0CNjnRHUnT5ppyYa) | [superglue](https://open.spotify.com/album/3O2mBT24C2iWfra9O9QuVY) | 2:34 |
-| 73 | [Dead On The Page](https://open.spotify.com/track/19PDFOc2rfaAvHJGaIwy91) | [Park National](https://open.spotify.com/artist/3zXM9yF4mhCHg9vUS9pnul) | [I'm Here And This Is Real](https://open.spotify.com/album/3qU6M8uIKGKrmiWooVy4Pk) | 3:18 |
+| 72 | [Dead On The Page](https://open.spotify.com/track/19PDFOc2rfaAvHJGaIwy91) | [Park National](https://open.spotify.com/artist/3zXM9yF4mhCHg9vUS9pnul) | [I'm Here And This Is Real](https://open.spotify.com/album/3qU6M8uIKGKrmiWooVy4Pk) | 3:18 |
+| 73 | [superglue](https://open.spotify.com/track/10KY26D84N1PcxpxGhz0Vr) | [Cherry Blonde](https://open.spotify.com/artist/25y7fG0CNjnRHUnT5ppyYa) | [superglue](https://open.spotify.com/album/3O2mBT24C2iWfra9O9QuVY) | 2:34 |
 | 74 | [What Tomorrow Brings / Requiem \- Acoustic](https://open.spotify.com/track/5YWaODOtb3dzApL0bKwTr0) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Together In Lonesome \(Acoustic EP\)](https://open.spotify.com/album/2SSiObfXtuimULGI8LtG7j) | 3:24 |
 | 75 | [Sometimes Things Change](https://open.spotify.com/track/2FEVvpf3HkEhIZMO3Gi6T0) | [Swimming](https://open.spotify.com/artist/102w2ubGZNdbZSCBkcGbJa) | [That's OK](https://open.spotify.com/album/6EkPXtJFGBg1jAw2ovxxOl) | 4:05 |
 

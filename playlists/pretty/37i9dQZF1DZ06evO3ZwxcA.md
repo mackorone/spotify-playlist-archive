@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZwxcA.md) - [plain]
 
 > This is P.O.D.\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,217 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,242 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZwxcA.md) - [plain]
 | 42 | [Always Southern California](https://open.spotify.com/track/6FCRR2Gq3JmWTGG7gEfTKw) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Circles](https://open.spotify.com/album/0PkJwEKWlcwl9qsmHB9xTK) | 3:10 |
 | 43 | [They Don't Like It](https://open.spotify.com/track/034PqbW9ySTVrW8q3fKVDL) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS), [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [American Sun](https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7) | 3:06 |
 | 44 | [America \(feat\. P.O.D.\)](https://open.spotify.com/track/43uplr4bhcs8FJIU5KBzB1) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Shaman](https://open.spotify.com/album/5kkPOwoE9ItngbGIF6m3A4) | 4:35 |
-| 45 | [No Ordinary Love Song \- Acoustic Version](https://open.spotify.com/track/0fMHHSvKYVNJ8mswH55jIv) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [SoCal Sessions](https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo) | 3:49 |
+| 45 | [I'll Be Ready \- 2022 Remixed & Remastered](https://open.spotify.com/track/0AzPcW4jzim6Q6Jwh7xPDc) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Marley Girls](https://open.spotify.com/artist/5OiRLtZaj8uyIHKmECFCg8) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 4:41 |
 | 46 | [Circles](https://open.spotify.com/track/67eAkl0sRvEjcIDwMqxyyn) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Circles](https://open.spotify.com/album/0PkJwEKWlcwl9qsmHB9xTK) | 3:27 |
-| 47 | [West Coast Rock Steady](https://open.spotify.com/track/7IHQvpdwkG4jHzG5u4ty4v) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Murdered Love](https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO) | 3:05 |
-| 48 | [I'll Be Ready \- 2022 Remixed & Remastered](https://open.spotify.com/track/0AzPcW4jzim6Q6Jwh7xPDc) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Marley Girls](https://open.spotify.com/artist/5OiRLtZaj8uyIHKmECFCg8) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 4:41 |
+| 47 | [No Ordinary Love Song \- Acoustic Version](https://open.spotify.com/track/0fMHHSvKYVNJ8mswH55jIv) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [SoCal Sessions](https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo) | 3:49 |
+| 48 | [West Coast Rock Steady](https://open.spotify.com/track/7IHQvpdwkG4jHzG5u4ty4v) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Murdered Love](https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO) | 3:05 |
 | 49 | [This Goes Out To You](https://open.spotify.com/track/0wBNVJm6ivrFUlSucNVCkf) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Awakening](https://open.spotify.com/album/3ileNPLE1vlimaNhDXtEzs) | 3:50 |
 | 50 | [Truly Amazing \- from The Passion of the Christ \- Songs; Original Songs Inspired by the Film](https://open.spotify.com/track/3MjCdCFDqQ8ly8wfCFROgh) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Greatest Hits \(The Atlantic Years\)](https://open.spotify.com/album/1i3YXOzNkaykTt6CxWGOOU) | 3:01 |
 
-Snapshot ID: `aTYVAAAAAADW7cHwmYvttMaKVrZ/0IGI`
+Snapshot ID: `aTdmgAAAAACFufyIfvy/91HYzcCURWml`

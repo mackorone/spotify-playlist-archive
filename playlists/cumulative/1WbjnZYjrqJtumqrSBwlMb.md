@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,242 songs - 3 day 3 hr 58 min
+1,243 songs - 3 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Crying, Laughing, Loving, Lying](https://open.spotify.com/track/6P3vusStV43K0SOHyLeYjY) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie \(Expansion Pack\)](https://open.spotify.com/album/50bSJ3cQRYKSTR5NcGL97a) | 3:35 | 2025-05-12 |  |
 | [Cudi Montage](https://open.spotify.com/track/4kUZvXB3LC3an3HX6h0s17) | [KIDS SEE GHOSTS](https://open.spotify.com/artist/2hPgGN4uhvXAxiXQBIXOmE) | [KIDS SEE GHOSTS](https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV) | 3:17 | 2021-10-22 |  |
 | [Cupid](https://open.spotify.com/track/6yu9LcfTlFwc16D3xtJ8AI) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Belladonna of Sadness](https://open.spotify.com/album/7zo4kiBFeJ6fTRJLTKo7XU) | 2:57 | 2022-01-07 |  |
-| [cut](https://open.spotify.com/track/74QKHL5SM3W0g4wAgtA0Nh) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:56 | 2024-06-13 |  |
+| [cut](https://open.spotify.com/track/74QKHL5SM3W0g4wAgtA0Nh) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:56 | 2024-06-13 | 2025-12-11 |
 | [Cut My Lip](https://open.spotify.com/track/6gFtgkh8ShkrJn52Cbdhxy) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 4:42 | 2021-08-10 |  |
 | [D is for Dangerous](https://open.spotify.com/track/5RrHzXKmwVd5BCq4UzyJPd) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 2:18 | 2021-08-20 |  |
 | [Daisy](https://open.spotify.com/track/6UFY0vllfysoyTmBE0N4F6) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Tasmania](https://open.spotify.com/album/4qwIXzJGtHzLcPKCm3Rtzy) | 6:20 | 2021-01-12 |  |
@@ -773,7 +773,7 @@
 | [One Way](https://open.spotify.com/track/5QzlDlRuT9D5LdpybJoNYi) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 2:43 | 2025-09-12 |  |
 | [Only Ones Who Know](https://open.spotify.com/track/71ytDkCnYc11VRiRCrhDHX) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 3:04 | 2022-10-01 |  |
 | [Only You](https://open.spotify.com/track/2rDwETmcGw4ZqbuXvLQmDL) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Bebey](https://open.spotify.com/album/31e6kRTlCq4KGjg3XA6m5K) | 3:35 | 2021-03-13 |  |
-| [Only You Know](https://open.spotify.com/track/3m0iAPHzwU6cZT8vNCrZZO) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Born to Be With You / Streetheart](https://open.spotify.com/album/0DOf8RoY5pxvrbDCEGlj7B) | 4:45 | 2024-06-01 |  |
+| [Only You Know](https://open.spotify.com/track/3m0iAPHzwU6cZT8vNCrZZO) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Born to Be With You / Streetheart](https://open.spotify.com/album/0DOf8RoY5pxvrbDCEGlj7B) | 4:45 | 2024-06-01 | 2025-12-11 |
 | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/0YpaoMOUSP3jwZ4RgqNESG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/48jLx1BQeDpojpNweMzlMf) | 3:38 | 2022-03-10 |  |
 | [Open Your Mind](https://open.spotify.com/track/08i5E2CDwete5FX049Zwgg) | [Kleeer](https://open.spotify.com/artist/0zaWqD1H9Rk0P14iF5oDnY) | [Winners](https://open.spotify.com/album/3b9lzzttYCMeYVABWkDxOl) | 6:38 | 2024-03-24 |  |
 | [Orange Juice Jones](https://open.spotify.com/track/6kRjMNfcKqzZIM46JiIEgZ) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 2:21 | 2023-03-24 |  |
@@ -824,6 +824,7 @@
 | [PROBLEMATIC](https://open.spotify.com/track/1ty0at2tUKqMGTyYbJ43eL) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 3:14 | 2024-02-10 | 2024-05-20 |
 | [Protect My Energy](https://open.spotify.com/track/64DqILfBnCXzhEDGUHZet1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 3:08 | 2024-06-17 |  |
 | [Psychics in LA](https://open.spotify.com/track/5tsB5ROYUKKisUaJQIEEfv) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends \(Deluxe\)](https://open.spotify.com/album/2vNreAH5ealo54gzwLwT6w) | 3:26 | 2020-10-02 |  |
+| [Psychoboost](https://open.spotify.com/track/7BMSBNctr9IPelr6MFvuRL) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Revengeseekerz](https://open.spotify.com/album/21b4cDNse2AMpj94ykfuON) | 4:04 | 2025-12-10 |  |
 | [Pt\. 2](https://open.spotify.com/track/1Wsbr1d2BouNGk2q92mIj7) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 2:10 | 2022-03-26 |  |
 | [PUPPET](https://open.spotify.com/track/0wEC0GNF74lAqrEFZJMl1m) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 2:59 | 2022-07-20 |  |
 | [Puppy Grin](https://open.spotify.com/track/5ck1miitoRTdHXS9dvQ6qh) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends](https://open.spotify.com/album/3Vk0be2qEuqARxrC6U5ZV3) | 2:51 | 2022-01-05 |  |

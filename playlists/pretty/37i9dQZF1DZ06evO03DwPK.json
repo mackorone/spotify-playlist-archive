@@ -1,12 +1,12 @@
 {
   "description": "This is Bruno Mars. The essential tracks, all in one playlist.",
-  "num_followers": 4216668,
+  "num_followers": 4216762,
   "original_name": "This Is Bruno Mars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAAAPFQww6wIzn0TpeUkabym",
+  "snapshot_id": "aTdmgAAAAACmboSiKsLFpqGjj/MOHTVd",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uptown Special",
-        "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
+        "name": "B.o.B Presents: The Adventures of Bobby Ray",
+        "url": "https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P"
       },
       "artists": [
         {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
         },
         {
           "name": "Bruno Mars",
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 269658,
-      "name": "Uptown Funk (feat. Bruno Mars)",
-      "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
+      "duration_ms": 268320,
+      "name": "Nothin' on You (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/59dLtGBS26x7kc0rHbaPrq"
     },
     {
       "added_at": null,
@@ -207,22 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "B.o.B Presents: The Adventures of Bobby Ray",
-        "url": "https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P"
+        "name": "Uptown Special",
+        "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
       },
       "artists": [
         {
-          "name": "B.o.B",
-          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
         },
         {
           "name": "Bruno Mars",
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 268320,
-      "name": "Nothin' on You (feat. Bruno Mars)",
-      "url": "https://open.spotify.com/track/59dLtGBS26x7kc0rHbaPrq"
+      "duration_ms": 269658,
+      "name": "Uptown Funk (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
     },
     {
       "added_at": null,

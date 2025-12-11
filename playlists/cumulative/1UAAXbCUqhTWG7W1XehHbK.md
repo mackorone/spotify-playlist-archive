@@ -4,7 +4,7 @@
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-138 songs - 8 hr 2 min
+139 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Down In The Body](https://open.spotify.com/track/3ekBGOE4dpifR9POIZ7NJ0) | [Mark Rosal](https://open.spotify.com/artist/4rCAMDYZqXv0TYKBFaU4YW) | [Down In The Body](https://open.spotify.com/album/3dEgxFaN7bfBajvy1enMR4) | 3:37 | 2025-10-06 |  |
 | [Dreams / Nightmares](https://open.spotify.com/track/4g6Uyawt7dLbztYCBPVpeY) | [Mayvision](https://open.spotify.com/artist/5Xuqjl08x43ripPdwWOIb7), [Peer](https://open.spotify.com/artist/1Hc4nuDOGUeTdzmD54HQ03) | [Dreams / Nightmares](https://open.spotify.com/album/2dLebnIKXri86FXa1cexIl) | 3:16 | 2025-08-26 |  |
 | [Earth Music](https://open.spotify.com/track/32R25ieUaEujfOUMyotW4d) | [TMF Rock](https://open.spotify.com/artist/7MzY70dHn1srNGDfNmCLb9), [akaFayaven](https://open.spotify.com/artist/18pLFv41vMDF3xdE7ZKnjr) | [What Happens On Earth...](https://open.spotify.com/album/6BcrIJf4D3A53w6gjgaC28) | 3:11 | 2025-10-01 |  |
+| [Eerie Todd](https://open.spotify.com/track/6whH6etmbTlFgATsxMF7oC) | [Opal Tribe](https://open.spotify.com/artist/1bBQKUoCtoYlgz24976Jvd) | [Eerie Todd](https://open.spotify.com/album/51YZe3vuCfsYdtqJnHMxTd) | 4:30 | 2025-12-10 |  |
 | [El Roi](https://open.spotify.com/track/6Xbm6m9V6j9WUSv4FpJ0R5) | [Philippa](https://open.spotify.com/artist/6uDsHBWnieot7YLed6WKxH) | [El Roi](https://open.spotify.com/album/6Y4jD74w37QHqwuf0zFD9y) | 5:52 | 2025-08-07 |  |
 | [Empírico \- Raw](https://open.spotify.com/track/2OuIW1NQwfLm3Z8imOi6w7) | [Charl´s Tone](https://open.spotify.com/artist/0pmheYtMCd7dDJsAfDEAcn) | [Empírico \(Raw\)](https://open.spotify.com/album/4iXlegXlBkb5vBMK4EnY8x) | 2:44 | 2025-11-11 |  |
 | [Eu Confesso](https://open.spotify.com/track/2JN9RaAhfUwuoRcEBedbUo) | [AlonUshi](https://open.spotify.com/artist/5ff5myNBPYGziyBDXwsEAp) | [Eu Confesso](https://open.spotify.com/album/3r8W5VCdCfjAAHPqVkagqv) | 3:10 | 2025-11-20 |  |

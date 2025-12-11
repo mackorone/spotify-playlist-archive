@@ -1,6 +1,6 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 944932,
+  "num_followers": 944923,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Vai Embrazando",
+        "url": "https://open.spotify.com/album/5wFghtLrCdOUXWBQgRwqB0"
+      },
+      "artists": [
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        },
+        {
+          "name": "MC Vigary",
+          "url": "https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe"
+        }
+      ],
+      "duration_ms": 166060,
+      "name": "Vai Embrazando",
+      "url": "https://open.spotify.com/track/1zhfU6YXa2pXUAQdG1NvBZ"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Surtada (Remix Brega Funk)",
         "url": "https://open.spotify.com/album/2zFE4Ze2DjkeZBMbbT4Mgj"
       },
@@ -1579,26 +1599,6 @@
       "duration_ms": 152783,
       "name": "Surtada - Remix Brega Funk",
       "url": "https://open.spotify.com/track/5F8ffc8KWKNawllr5WsW0r"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Vai Embrazando",
-        "url": "https://open.spotify.com/album/5wFghtLrCdOUXWBQgRwqB0"
-      },
-      "artists": [
-        {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
-        },
-        {
-          "name": "MC Vigary",
-          "url": "https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe"
-        }
-      ],
-      "duration_ms": 166060,
-      "name": "Vai Embrazando",
-      "url": "https://open.spotify.com/track/1zhfU6YXa2pXUAQdG1NvBZ"
     },
     {
       "added_at": "2023-06-26 14:06:50",

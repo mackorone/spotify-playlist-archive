@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-163 songs - 9 hr 46 min
+164 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Let Me Blow Your Mind](https://open.spotify.com/track/2AVSMY96UVuDYjtaE4Je7H) | [Shawn Lee's Ping Pong Orchestra](https://open.spotify.com/artist/4a9trpOGiMh1H2xMOiDYLR) | [Hits the Hits](https://open.spotify.com/album/0IFvRYxkygLMSqmaZjWxjo) | 3:51 | 2025-07-18 |  |
 | [Let Me Take You](https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Let Me Take You](https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ) | 3:09 | 2025-07-18 |  |
 | [Live & Let Go \(with DISPATCH\)](https://open.spotify.com/track/5bANCdXPTD9Lik5JGhYsAO) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [LOOK! I'm Alive](https://open.spotify.com/album/6kEeD6FBlXWEuWN2YFj4pU) | 4:03 | 2025-07-25 | 2025-08-02 |
-| [Livin Alright](https://open.spotify.com/track/5hdePsGuqCjr9UhSXDKGUw) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Livin Alright](https://open.spotify.com/album/5B3TZbMCE1VhG7bxTu6DoP) | 2:56 | 2025-07-18 |  |
+| [Livin Alright](https://open.spotify.com/track/5hdePsGuqCjr9UhSXDKGUw) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Livin Alright](https://open.spotify.com/album/5B3TZbMCE1VhG7bxTu6DoP) | 2:56 | 2025-07-18 | 2025-12-11 |
 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 | 2025-07-18 |  |
 | [Love Song \(feat\. Glasses\)](https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Glasses](https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g) | [33 000 FT.](https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek) | 2:50 | 2025-07-18 |  |
 | [Love's a Stranger](https://open.spotify.com/track/279LczresTWVkCsdLwgJSZ) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [Warhaus](https://open.spotify.com/album/0v7z6pf34VKMECP0Bmbxi3) | 3:26 | 2025-07-18 |  |
@@ -170,6 +170,7 @@
 | [Yellow Brick Road](https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Yellow Brick Road](https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K) | 2:32 | 2025-07-18 |  |
 | [Yes I'm Changing](https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 4:30 | 2025-07-18 |  |
 | [You You You](https://open.spotify.com/track/0kHP8fxSPNPP40kRHtnfLB) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You You You / Audrey Hepburn](https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu) | 2:46 | 2025-10-10 | 2025-10-17 |
+| [young rich & beautiful](https://open.spotify.com/track/4xMyrjeR1PICYAB9ZYUg9t) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [young rich & beautiful](https://open.spotify.com/album/2P0bCcJQxB63lEcIglibMp) | 1:58 | 2025-12-04 |  |
 | [Yours & Mine](https://open.spotify.com/track/2nRra8cH1734aiodtOWWzF) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Yours & Mine](https://open.spotify.com/album/0PgL9nyk4jNY4axPYVUswn) | 3:33 | 2025-07-18 | 2025-11-09 |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

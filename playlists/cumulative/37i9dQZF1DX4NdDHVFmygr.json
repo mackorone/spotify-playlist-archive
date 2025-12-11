@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\ud83c\uddf2\ud83c\udde6 \u0645\u0646 \u0627\u0644\u0645\u063a\u0631\u0628 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629\u060c \u0623\u062d\u0633\u0646 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u063a\u0631\u0628\u064a\u0629",
+  "description": "Les hits marocains qui nous rassemblent, o\u00f9 qu\u2019on soit \ud83c\uddf2\ud83c\udde6",
   "name": "Hit Maghribi",
   "tracks": [
     {
@@ -2882,6 +2882,24 @@
       "duration_ms": 229454,
       "name": "Gaw El Banat",
       "url": "https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH"
+    },
+    {
+      "album": {
+        "name": "Genkidama",
+        "url": "https://open.spotify.com/album/3Yv0GD4GkCgvsiuhQOgFde"
+      },
+      "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151487,
+      "name": "Genkidama",
+      "url": "https://open.spotify.com/track/0rf6OSXX9BXO3NhOh3usht"
     },
     {
       "album": {
@@ -7372,7 +7390,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 228601,
       "name": "S2al",
       "url": "https://open.spotify.com/track/3WsIrbUbS5L2ONXIfs1k1a"

@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 250848,
+  "num_followers": 250910,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAADooXdhVk14DJYQV5gY1E3T",
+  "snapshot_id": "aTdmgAAAAADTG427yw/Qrvty4POuUBdX",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sui G\u00e9neris",
-        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
+        "name": "Empapelado",
+        "url": "https://open.spotify.com/album/0503zQbeyfwiMZ2hObZsei"
       },
       "artists": [
         {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
-      "duration_ms": 201687,
-      "name": "Caf\u00e9",
-      "url": "https://open.spotify.com/track/7uQOMsqi4Hnpuoa3o7gZEB"
+      "duration_ms": 221500,
+      "name": "Empapelado",
+      "url": "https://open.spotify.com/track/7KGsqbISYpp0c4lweWeoHf"
     },
     {
       "added_at": null,
@@ -247,6 +243,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sui G\u00e9neris",
+        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 201687,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/7uQOMsqi4Hnpuoa3o7gZEB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LQRA Session #9",
         "url": "https://open.spotify.com/album/3vuHYUMbcDbAQ6uRA75e0f"
       },
@@ -267,46 +283,6 @@
       "duration_ms": 188387,
       "name": "LQRA Session #9",
       "url": "https://open.spotify.com/track/33haHnjG4O7Jk0s4RpovFI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Empapelado",
-        "url": "https://open.spotify.com/album/0503zQbeyfwiMZ2hObZsei"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 221500,
-      "name": "Empapelado",
-      "url": "https://open.spotify.com/track/7KGsqbISYpp0c4lweWeoHf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sui G\u00e9neris",
-        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 279014,
-      "name": "Hace Tanto Tiempo",
-      "url": "https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD"
     },
     {
       "added_at": null,
@@ -351,6 +327,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sui G\u00e9neris",
+        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 279014,
+      "name": "Hace Tanto Tiempo",
+      "url": "https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yo No Me Quiero Morir",
         "url": "https://open.spotify.com/album/4z1fFOEDva3J9sggX3kwK0"
       },
@@ -367,30 +367,6 @@
       "duration_ms": 203546,
       "name": "Yo No Me Quiero Morir",
       "url": "https://open.spotify.com/track/5xXaJHNtyBghk2F6AnP2PI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Guapa!",
-        "url": "https://open.spotify.com/album/3W8rsvzUTJBSFoyPDCvCZo"
-      },
-      "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Slim",
-          "url": "https://open.spotify.com/artist/59Upt6ayuSxH7N6nfvhJcP"
-        }
-      ],
-      "duration_ms": 314181,
-      "name": "Guapa!",
-      "url": "https://open.spotify.com/track/5h15nCM30HBL6DKnfQwcFg"
     },
     {
       "added_at": null,
@@ -419,6 +395,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Guapa!",
+        "url": "https://open.spotify.com/album/3W8rsvzUTJBSFoyPDCvCZo"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Slim",
+          "url": "https://open.spotify.com/artist/59Upt6ayuSxH7N6nfvhJcP"
+        }
+      ],
+      "duration_ms": 314181,
+      "name": "Guapa!",
+      "url": "https://open.spotify.com/track/5h15nCM30HBL6DKnfQwcFg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sui G\u00e9neris",
         "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
       },
@@ -431,22 +431,6 @@
       "duration_ms": 235483,
       "name": "Andr\u00f3meda",
       "url": "https://open.spotify.com/track/5gNzZ7XzGawNJqsaxOs5ZC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "P\u00e9talos",
-      "url": "https://open.spotify.com/track/1XJZAeg6ro25bQOr5XExcU"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
       "duration_ms": 182200,
       "name": "Vegetales Con Pescado",
       "url": "https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "P\u00e9talos",
+      "url": "https://open.spotify.com/track/1XJZAeg6ro25bQOr5XExcU"
     },
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gordo Fu",
-          "url": "https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "No Hay Palabras Bonitas",
-      "url": "https://open.spotify.com/track/3XGPIhoTG09ItjxNtdtEnE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1scaras",
         "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 174230,
       "name": "Me Toca Perder",
       "url": "https://open.spotify.com/track/3Ggt6nM1vKeTM0sy2xnNm5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gordo Fu",
+          "url": "https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "No Hay Palabras Bonitas",
+      "url": "https://open.spotify.com/track/3XGPIhoTG09ItjxNtdtEnE"
     },
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gordo Fu",
-          "url": "https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g"
-        }
-      ],
-      "duration_ms": 224733,
-      "name": "A Paso Lento",
-      "url": "https://open.spotify.com/track/5fUkzmm6HnPDDZKwnQcNUG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Olvidemos el Reloj",
         "url": "https://open.spotify.com/album/0SoOGrJ6Rs2Zm7t9rlr5kr"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 232947,
       "name": "Olvidemos el Reloj",
       "url": "https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gordo Fu",
+          "url": "https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g"
+        }
+      ],
+      "duration_ms": 224733,
+      "name": "A Paso Lento",
+      "url": "https://open.spotify.com/track/5fUkzmm6HnPDDZKwnQcNUG"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sui G\u00e9neris",
+        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 238036,
+      "name": "Ruego",
+      "url": "https://open.spotify.com/track/2QcwDtAaq2bVfDgTNgV79R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 250000,
       "name": "Carita de \u00c1ngel",
       "url": "https://open.spotify.com/track/01hgvJRWaAVi9kAfKOa4TC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sui G\u00e9neris",
-        "url": "https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 238036,
-      "name": "Ruego",
-      "url": "https://open.spotify.com/track/2QcwDtAaq2bVfDgTNgV79R"
     },
     {
       "added_at": null,
@@ -951,6 +951,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los No Tan Tristes",
+        "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "No Se Sobrepase",
+      "url": "https://open.spotify.com/track/0mj2pvcThmx2CPb798jm84"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00bfC\u00f3mo Terminamos Aqu\u00ed?",
         "url": "https://open.spotify.com/album/5ODmbI1fYx0NajM6mo6Dpe"
       },
@@ -991,30 +1015,6 @@
       "duration_ms": 214500,
       "name": "Suave",
       "url": "https://open.spotify.com/track/60Q52tRITuGCBbbt6zQPqQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los No Tan Tristes",
-        "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "No Se Sobrepase",
-      "url": "https://open.spotify.com/track/0mj2pvcThmx2CPb798jm84"
     },
     {
       "added_at": null,

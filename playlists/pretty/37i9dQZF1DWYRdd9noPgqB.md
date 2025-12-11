@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,754 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,750 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 27 | [Makes Me Wanna Dance](https://open.spotify.com/track/0wLCc3EWV2CV6mb9Nz40hH) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Makes Me Wanna Dance](https://open.spotify.com/album/493Cvff5YSUUvYkYqdSj8g) | 2:41 |
 | 28 | [Somebody's Son \(feat\. Lindsey Buckingham\)](https://open.spotify.com/track/1aU2gDpImIIzWVJtiqOCvU) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Ask That God \(Deluxe\)](https://open.spotify.com/album/6CPodMnqYXqbfZ9Rw8CO1e) | 3:25 |
 | 29 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 2:49 |
-| 30 | [In The Stars](https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [In The Stars](https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ) | 2:39 |
-| 31 | [Not What’s Going On](https://open.spotify.com/track/1oeUbGUc5kRSGLYoBdZR1S) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet](https://open.spotify.com/album/5tH8mnli4GdpoZKlftLOu5) | 2:54 |
-| 32 | [Eden](https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Eden](https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca) | 4:07 |
+| 30 | [Not What’s Going On](https://open.spotify.com/track/1oeUbGUc5kRSGLYoBdZR1S) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet](https://open.spotify.com/album/5tH8mnli4GdpoZKlftLOu5) | 2:54 |
+| 31 | [Eden](https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Eden](https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca) | 4:07 |
+| 32 | [In The Stars](https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [In The Stars](https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ) | 2:39 |
 | 33 | [Give Me More](https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Give Me More](https://open.spotify.com/album/42jsuMoNdmTPbr8msasO8e) | 3:10 |
 | 34 | [Might Not Be](https://open.spotify.com/track/2k3DRZRm9izXjhCPkxGPee) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant \(Deluxe\)](https://open.spotify.com/album/6dKDh72QTH8hJz3I4WLREI) | 2:25 |
 | 35 | [Miracle](https://open.spotify.com/track/2tGDVVK0QBtiF9K4nGeNmh) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Chronologic](https://open.spotify.com/album/1cj8QzlUPWBiMicVFU1Ry7) | 3:36 |

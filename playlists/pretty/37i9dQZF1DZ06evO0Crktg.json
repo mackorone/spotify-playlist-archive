@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 324558,
+  "num_followers": 324625,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAABxcXMBGlf+VwJPuESQTE/e",
+  "snapshot_id": "aTdmgAAAAAA3YVSBcTsUT3kZ5Xile4QS",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Need A Favor",
-      "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lonely Road (with Jelly Roll)",
         "url": "https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 189356,
       "name": "Lonely Road (with Jelly Roll)",
       "url": "https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Need A Favor",
+      "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crosses and Crossroads",
-        "url": "https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 206285,
-      "name": "Same Asshole",
-      "url": "https://open.spotify.com/track/1b4KQGFYbRqRe2Bx818Kqb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Addiction Kills",
         "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 198115,
       "name": "Only",
       "url": "https://open.spotify.com/track/4ZuiBNRL7M6ZIICenuF0zm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crosses and Crossroads",
+        "url": "https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 206285,
+      "name": "Same Asshole",
+      "url": "https://open.spotify.com/track/1b4KQGFYbRqRe2Bx818Kqb"
     },
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Help Me God",
-        "url": "https://open.spotify.com/album/01WU13PMkMohKI8mHJJ0DL"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 179253,
-      "name": "Son Of The Dirty South",
-      "url": "https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Popular Monster",
         "url": "https://open.spotify.com/album/2knEuvsxqHMAoxlQpIdpQD"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 190230,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/19CCQeIOxxUDcpFw539zd7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Help Me God",
+        "url": "https://open.spotify.com/album/01WU13PMkMohKI8mHJJ0DL"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 179253,
+      "name": "Son Of The Dirty South",
+      "url": "https://open.spotify.com/track/6WaPKTy7RYb21gs8PasOPL"
     },
     {
       "added_at": null,
@@ -703,22 +703,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waylon & Willie",
-        "url": "https://open.spotify.com/album/2XPQn6UyIL06t8Jgv6mba1"
+        "name": "Ballads of the Broken",
+        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
       },
       "artists": [
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Struggle Jennings",
-          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
         }
       ],
-      "duration_ms": 192969,
-      "name": "Cowboys",
-      "url": "https://open.spotify.com/track/3scAjDdskrwS9KoTQrvvs9"
+      "duration_ms": 201280,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/4BImM1ASmigkuEhxrPfUAf"
     },
     {
       "added_at": null,
@@ -743,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ballads of the Broken",
-        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/4BImM1ASmigkuEhxrPfUAf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Living Proof (with Jelly Roll)",
         "url": "https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2"
       },
@@ -779,22 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waylon & Willie IV",
-        "url": "https://open.spotify.com/album/4RjBKqrFun5Q72gIsSkN7R"
+        "name": "Waylon & Willie",
+        "url": "https://open.spotify.com/album/2XPQn6UyIL06t8Jgv6mba1"
       },
       "artists": [
         {
-          "name": "Struggle Jennings",
-          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
-        },
-        {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Struggle Jennings",
+          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
         }
       ],
-      "duration_ms": 197343,
-      "name": "My Only Enemy",
-      "url": "https://open.spotify.com/track/2CQrxIeKSvLkJOYOi6d593"
+      "duration_ms": 192969,
+      "name": "Cowboys",
+      "url": "https://open.spotify.com/track/3scAjDdskrwS9KoTQrvvs9"
     },
     {
       "added_at": null,
@@ -815,6 +795,26 @@
       "duration_ms": 196053,
       "name": "Whiskey Bent (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/6bR32eVsUfzgZFAraoMITH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waylon & Willie IV",
+        "url": "https://open.spotify.com/album/4RjBKqrFun5Q72gIsSkN7R"
+      },
+      "artists": [
+        {
+          "name": "Struggle Jennings",
+          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 197343,
+      "name": "My Only Enemy",
+      "url": "https://open.spotify.com/track/2CQrxIeKSvLkJOYOi6d593"
     },
     {
       "added_at": null,

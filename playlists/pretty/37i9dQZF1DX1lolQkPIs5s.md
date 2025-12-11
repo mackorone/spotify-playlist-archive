@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > ディズニーの人気曲を集めた公式プレイリスト♪<br/>ディズニー・アニメーション最新作『モアナと伝説の海2』の楽曲から、『アナと雪の女王』、『アラジン』、『ライオン・キング』等をセレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,357 likes - 107 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,408 likes - 107 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 | 106 | [The Incredits](https://open.spotify.com/track/3EVjVuIfi8Xcju9V5EMtKI) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Incredibles \(Original Motion Picture Soundtrack/Japan Release Version\)](https://open.spotify.com/album/11xH29oetpVw9g9DAhXTUA) | 7:21 |
 | 107 | [We're All in This Together](https://open.spotify.com/track/2VDNt5vmaOUOpP6jy93tuF) | [Cast of High School Musical: The Musical: The Series](https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack\)](https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI) | 3:52 |
 
-Snapshot ID: `AAAAAGWuj0PlNZTR5BfZ4d0Ak4LsfcBP`
+Snapshot ID: `AAAAANoFbl902+x5S88kK8NXo588mXEB`

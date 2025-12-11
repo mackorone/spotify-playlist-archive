@@ -1,6 +1,6 @@
 {
   "description": "Deutschsprachige Liebeslieder, die mitten ins Herz gehen \u2665\ufe0f",
-  "num_followers": 198005,
+  "num_followers": 198027,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Kauf mich! (Deluxe-Edition mit Bonus-Tracks)",
-        "url": "https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc"
-      },
-      "artists": [
-        {
-          "name": "Die Toten Hosen",
-          "url": "https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ"
-        }
-      ],
-      "duration_ms": 272440,
-      "name": "Alles aus Liebe",
-      "url": "https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
         "name": "KIOX",
         "url": "https://open.spotify.com/album/4E7HxVevq5O1XmvWhCEKXS"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 222642,
       "name": "Bei Dir",
       "url": "https://open.spotify.com/track/3XpEKPj7KZt0yYWd7PQf5d"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
+        "name": "Kauf mich! (Deluxe-Edition mit Bonus-Tracks)",
+        "url": "https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc"
+      },
+      "artists": [
+        {
+          "name": "Die Toten Hosen",
+          "url": "https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ"
+        }
+      ],
+      "duration_ms": 272440,
+      "name": "Alles aus Liebe",
+      "url": "https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG"
     },
     {
       "added_at": "2025-03-26 13:54:44",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Es ist Abend und wir sitzen bei mir",
-        "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
-      },
-      "artists": [
-        {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "Katharina",
-      "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
         "name": "Ja sagen",
         "url": "https://open.spotify.com/album/2Gv7ugAya5UFmtt8Btjyyz"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 165000,
       "name": "Ja sagen",
       "url": "https://open.spotify.com/track/2ehr9UaqyQOXJihoJ7lg3l"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
+        "name": "Es ist Abend und wir sitzen bei mir",
+        "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "Katharina",
+      "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
     },
     {
       "added_at": "2025-03-26 13:54:44",

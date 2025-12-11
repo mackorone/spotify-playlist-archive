@@ -4,7 +4,7 @@
 
 > The hottest tracks trending in Pakistan 🔥 Cover: Nehaal Naseem
 
-549 songs - 1 day 8 hr 48 min
+550 songs - 1 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-04-08 | 2024-05-07 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-05-06 | 2024-10-22 |
 | [Excuses](https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Excuses](https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9) | 2:56 | 2022-06-20 | 2025-06-30 |
+| [FA9LA](https://open.spotify.com/track/23p1uP74XiVYCXjPP23Kz7) | [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd) | [فصلة](https://open.spotify.com/album/7yKD6ncXRSBTdbfH6yNsKw) | 1:45 | 2025-12-10 |  |
 | [Faasla](https://open.spotify.com/track/3TB0OtQMzrPoNcmXfUMVzC) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Scars & Screws](https://open.spotify.com/album/0dNZ3ypCu19FqmRxB1ezBc) | 3:19 | 2022-06-20 | 2023-04-13 |
 | [Faasle](https://open.spotify.com/track/0s76ExpXyMGVBlKLUr683e) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Faasle](https://open.spotify.com/album/2xfAmgKBQroCYbDnl18me3) | 3:41 | 2023-04-12 | 2025-06-30 |
 | [Faasle](https://open.spotify.com/track/6YNl1rXbhKvmbMrw9cp3RQ) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Coke Studio Season 10: Episode 2](https://open.spotify.com/album/0WJn9oPJOjaZenZ4OVQEgy) | 5:11 | 2024-09-09 |  |
@@ -393,7 +394,7 @@
 | [Raabta](https://open.spotify.com/track/2nBdQVqfV2RFTSdcGfKsi7) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Raabta](https://open.spotify.com/album/4c8Wm3Dxq8BRrsPYEFF846) | 2:39 | 2023-02-20 | 2023-04-13 |
 | [Raanjhan \(From "Do Patti"\)](https://open.spotify.com/track/4vHRQnzGcKEtqsLH70tAms) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Raanjhan \(From "Do Patti"\)](https://open.spotify.com/album/1poClftP5T3zRcqpsxPPfW) | 4:00 | 2024-12-12 |  |
 | [Radha](https://open.spotify.com/track/0oOVxu88I7Bj9jjDnXVRus) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Radha](https://open.spotify.com/album/7Jay27dyjhNA07vWwtjCoJ) | 3:39 | 2025-09-17 |  |
-| [Ranjha](https://open.spotify.com/track/7xbKboQNFZR3A4unBPmYaJ) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Ranjha](https://open.spotify.com/album/4qC2NrokZ3iEVMJOdcuXFX) | 2:46 | 2025-09-17 |  |
+| [Ranjha](https://open.spotify.com/track/7xbKboQNFZR3A4unBPmYaJ) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Ranjha](https://open.spotify.com/album/4qC2NrokZ3iEVMJOdcuXFX) | 2:46 | 2025-09-17 | 2025-12-11 |
 | [Ranjha \(From "Shershaah"\)](https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Anvita Dutt](https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8) | [Ranjha \(From "Shershaah"\)](https://open.spotify.com/album/0Z1zYMwJRpvq0d9rdqTOYo) | 3:48 | 2022-06-20 | 2023-04-13 |
 | [Ranjheya Ve](https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Ranjheya Ve](https://open.spotify.com/album/5k1gcNPYHM5h2mEDpdxND1) | 4:38 | 2025-02-10 | 2025-07-25 |
 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-02-14 | 2024-02-20 |

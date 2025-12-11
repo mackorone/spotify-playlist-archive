@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1h2mzk545UU.md) - [plain]
 
 > Todos los cumbieros con las manos bien arriba haciendo palmas 💃🏾🕺🏾🏝
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,876 likes - 101 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,870 likes - 101 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

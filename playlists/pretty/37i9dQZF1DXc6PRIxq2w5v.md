@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: AO Cubo
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,778 likes - 85 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,803 likes - 85 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 53 | [Sangue](https://open.spotify.com/track/0iuI32iEQ10jIp5SOTxbqx) | [ZÉZIIN](https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Sangue](https://open.spotify.com/album/68t3Pq78Lt2hAguwFSWUDj) | 2:53 |
 | 54 | [Melhores Dias](https://open.spotify.com/track/1KhJR0Q3RyRTkf2JauNOeB) | [diaszin](https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z), [ZÉZIIN](https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Melhores Dias](https://open.spotify.com/album/46kA1Tr4KNNzb8FAX5U3AR) | 2:39 |
 | 55 | [Gratidão](https://open.spotify.com/track/6hP6Hoivjj4EruHu06PRmT) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Gratidão](https://open.spotify.com/album/3tKHxULEO1rG2tzXlvGB0U) | 2:18 |
-| 56 | [Irrisório](https://open.spotify.com/track/1hCCO4RPynQYID6E5G37ix) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Irrisório](https://open.spotify.com/album/0JlfzFcZY4Zia7Q8Pl1dHO) | 2:26 |
+| 56 | [Sem a Sua Presença](https://open.spotify.com/track/1AuXtZCxRUodIF9nncisXe) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8), [Clerick](https://open.spotify.com/artist/21egnApWSV5Hx25eUl6tQ5) | [Sem a Sua Presença](https://open.spotify.com/album/17w83D4o1yBNKJQhdkhdkX) | 3:05 |
 | 57 | [Dias de Luta](https://open.spotify.com/track/46nKQd1hydiLqHRJ6eb6qS) | [AATALAIAA](https://open.spotify.com/artist/5dDEXbZ0TvYSxGsjSZfpuo), [Lucena](https://open.spotify.com/artist/7qcnNboZRaYlD7AEZ7Gd1V), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [ZÉZIIN](https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ) | [Dias de Luta](https://open.spotify.com/album/4fvDcNHgCQ2kqaSIVfWf5D) | 3:26 |
 | 58 | [Wave](https://open.spotify.com/track/2mfgu7vppecOmppqCVgML0) | [EMIDÊ](https://open.spotify.com/artist/0nLvcz7CwG1lYeFbXVHLKQ), [Levi](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Wave](https://open.spotify.com/album/5q4wiZahugsjPi6xAc2LMX) | 2:38 |
 | 59 | [Purificado](https://open.spotify.com/track/0Mh41QHiql9sTldoX8a4S5) | [Duardin](https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95), [TRDD Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Purificado](https://open.spotify.com/album/1FUN8psp7l2kciJvxccBiV) | 2:25 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 80 | [Passos](https://open.spotify.com/track/3xmluCPucVlLRIpRdWuVkL) | [CAIQ](https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z) | [Passos](https://open.spotify.com/album/22l6ebRTY08creX9obmRBZ) | 3:15 |
 | 81 | [Alma](https://open.spotify.com/track/1AgRtQpNb4Yf01ec5WN8wA) | [Daniel Salez](https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO) | [Alma](https://open.spotify.com/album/4LtJOC0chh8h8M343KayhQ) | 3:07 |
 | 82 | [1 João 4:18](https://open.spotify.com/track/3UmAeX6ip7euxUQ8kBXSJ5) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU) | [1 João 4:18](https://open.spotify.com/album/73renOoWwTlCUxzX6wMdjn) | 2:46 |
-| 83 | [Sem a Sua Presença](https://open.spotify.com/track/1AuXtZCxRUodIF9nncisXe) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8), [Clerick](https://open.spotify.com/artist/21egnApWSV5Hx25eUl6tQ5) | [Sem a Sua Presença](https://open.spotify.com/album/17w83D4o1yBNKJQhdkhdkX) | 3:05 |
+| 83 | [Irrisório](https://open.spotify.com/track/1hCCO4RPynQYID6E5G37ix) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Irrisório](https://open.spotify.com/album/0JlfzFcZY4Zia7Q8Pl1dHO) | 2:26 |
 | 84 | [Cristo Faz a Wave](https://open.spotify.com/track/4ULVDlXFFMSBwpNcLQ9fzz) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y) | [Cristo Faz a Wave](https://open.spotify.com/album/2HHraXPwYlN1vabl4zfnSv) | 3:00 |
 | 85 | [Fardo Leve](https://open.spotify.com/track/2CCvvsFMwmrlUfDdPeIUox) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Fardo Leve](https://open.spotify.com/album/4fQaHglUdBFHvA26D6mr2v) | 2:05 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol 🌺☀️🌴🎶 Maffio en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,861 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,867 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 54 | [Fuego](https://open.spotify.com/track/1M5WInf2LuwXXKU2U8Oa5u) | [Mima](https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Fuego](https://open.spotify.com/album/0osuEwyAv9oMzYBRz1Q08o) | 3:34 |
 | 55 | [Mayagüez](https://open.spotify.com/track/63UyxCwQAk7Uzpiw6nZxtl) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Isla Disco](https://open.spotify.com/album/3MGE8NyRqx5lbGIWEAGF6K) | 3:34 |
 | 56 | [cumbia aesthetic](https://open.spotify.com/track/6iitVWohxBtt0HFopnMIkD) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [cumbia aesthetic](https://open.spotify.com/album/3MzlM2GvEnrKCYihOhLcxo) | 2:50 |
-| 57 | [Sabe a Tu Nombre](https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Sabe a Tu Nombre](https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB) | 3:48 |
-| 58 | [Gritar](https://open.spotify.com/track/5r1JdY6MDonNCHvv8cUS9g) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Gritar](https://open.spotify.com/album/0yPQu50ZdM0TGGwSa8tHy8) | 3:00 |
+| 57 | [Gritar](https://open.spotify.com/track/5r1JdY6MDonNCHvv8cUS9g) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Gritar](https://open.spotify.com/album/0yPQu50ZdM0TGGwSa8tHy8) | 3:00 |
+| 58 | [Sabe a Tu Nombre](https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Sabe a Tu Nombre](https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB) | 3:48 |
 | 59 | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5) | 4:48 |
 | 60 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 |
 | 61 | [Siempre Simón y Nunca Nel](https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Siempre Simón y Nunca Nel](https://open.spotify.com/album/4Elk6iWJSPWjp8rktFkFKq) | 4:01 |

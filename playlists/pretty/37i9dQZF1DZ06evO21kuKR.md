@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 
 > This is Moneybagg Yo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,304 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,309 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 7 | [Me Vs Me](https://open.spotify.com/track/1lUTmmPMAsxZBR2iK9CKDF) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Time Served \(Deluxe\)](https://open.spotify.com/album/7eJt0QB6bN6JiqoBTVO7KS) | 3:03 |
 | 8 | [U Played \(feat\. Lil Baby\)](https://open.spotify.com/track/7qeWNGBqqagdwf4KnjRzGZ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 2:44 |
 | 9 | [Said Sum](https://open.spotify.com/track/3sKz6Sd72K0ofPWcJPPk6H) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Code Red](https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv) | 2:35 |
-| 10 | [Ocean Spray](https://open.spotify.com/track/6dNOefmb6Lgl5vNtJsSajt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:44 |
+| 10 | [F My BM](https://open.spotify.com/track/4ZXJVpAW39Qc1a0wCDoMx8) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 3:02 |
 | 11 | [No Sucker \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/6A9wHAasMxed0firnDao1K) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:08 |
 | 12 | [Rookie Of The Year](https://open.spotify.com/track/7aVjnFsARHuTBZzkR6rYOR) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Rookie Of The Year](https://open.spotify.com/album/24TL4BB4I6PlLw4Qfc1FVG) | 2:00 |
 | 13 | [Certified Dripper 2 \(with MoneyBagg Yo\)](https://open.spotify.com/track/20sAxIvSvNJxcB8XPHm7ir) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Public Housing](https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn) | 3:04 |
-| 14 | [F My BM](https://open.spotify.com/track/4ZXJVpAW39Qc1a0wCDoMx8) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 3:02 |
+| 14 | [Ocean Spray](https://open.spotify.com/track/6dNOefmb6Lgl5vNtJsSajt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:44 |
 | 15 | [Feet On Land](https://open.spotify.com/track/50RFfEjzKnTAzzYkmPb6DO) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Feet On Land](https://open.spotify.com/album/1liqhZLxTPYloAgky8FjuJ) | 2:32 |
 | 16 | [All Of A Sudden](https://open.spotify.com/track/0XOMoQbYxYPVLxwK4VDmNA) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Too Hard](https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt) | 2:49 |
 | 17 | [Scorpio](https://open.spotify.com/track/0BFGDkrXAneskCJdudSCro) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/527JxbrqUTevhf0mgQlMWB) | 2:45 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 32 | [Fall Down \(feat\. Kevin Gates & Rvssian\)](https://open.spotify.com/track/4z7OagqDCwZjkZBedfA0OG) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [RESET](https://open.spotify.com/album/547DJFUYOl2SBYJbo2jZX1) | 3:01 |
 | 33 | [Projects](https://open.spotify.com/track/0iknSgwfDslqMT5pr6j5zi) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 2:48 |
 | 34 | [Don't Kno](https://open.spotify.com/track/0A3Z3F1uCDhMqYzZWmbHMV) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Heartless](https://open.spotify.com/album/3Kr9yx4cF5kdxcenIl6xen) | 2:47 |
-| 35 | [Speak 4 Em](https://open.spotify.com/track/6BfJ1k7cPUqq7k9QsMBb19) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 2:22 |
-| 36 | [Trust Nothing \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/41jxlPqpPqiky977DkJrpY) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 3:05 |
+| 35 | [Trust Nothing \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/41jxlPqpPqiky977DkJrpY) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 3:05 |
+| 36 | [Speak 4 Em](https://open.spotify.com/track/6BfJ1k7cPUqq7k9QsMBb19) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 2:22 |
 | 37 | [Doin 2 Much](https://open.spotify.com/track/5KmYUFowigebQliD2R3PSu) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [2 Federal](https://open.spotify.com/album/5Wc8IknW6BeXOpoH3jB6hn) | 3:24 |
 | 38 | [Main Slime Remix \(feat\. Moneybagg Yo & Tay Keith\)](https://open.spotify.com/track/5197zYW72cbayQO2fY9Zrf) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Main Slime Remix \(feat\. Moneybagg Yo & Tay Keith\)](https://open.spotify.com/album/7MKAaTZWkou5cfJ32J2HD1) | 3:54 |
 | 39 | [Dior \(feat\. Gunna\)](https://open.spotify.com/track/683tYxiTlWzupDpaZ2mCv4) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 49 | [Word 4 Word](https://open.spotify.com/track/1z8QbRI9w0F4ny1ipjZv3N) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 3:25 |
 | 50 | [50/50 \(Moneybagg Yo\)](https://open.spotify.com/track/1aOKOAnj6s8JOgxCEKx4OP) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art 2](https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA) | 2:08 |
 
-Snapshot ID: `aTYVAAAAAAC5X/OW7qpM5xcPGEUnNW1p`
+Snapshot ID: `aTdmgAAAAAAyAvsyAhCMy1MIAb7M0U78`

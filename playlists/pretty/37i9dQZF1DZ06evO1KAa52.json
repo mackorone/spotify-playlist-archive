@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 663753,
+  "num_followers": 663758,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAA+6rZVHYn9IiXo//1jsg2H",
+  "snapshot_id": "aTdmgAAAAAAc6RcflCRmR6nURrjUaSvF",
   "tracks": [
     {
       "added_at": null,
@@ -560,13 +560,25 @@
           "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
         },
         {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        {
           "name": "Anna Kendrick",
           "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 81666,
-      "name": "BroZone's Back",
-      "url": "https://open.spotify.com/track/02xkg0KUfiytfbnwAevy1p"
+      "duration_ms": 116293,
+      "name": "Better Place (Family Harmony)",
+      "url": "https://open.spotify.com/track/7ELtAKka2YiZRclp70wZ6F"
     },
     {
       "added_at": null,
@@ -652,25 +664,13 @@
           "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
         },
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        },
-        {
           "name": "Anna Kendrick",
           "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
-        },
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
         }
       ],
-      "duration_ms": 116293,
-      "name": "Better Place (Family Harmony)",
-      "url": "https://open.spotify.com/track/7ELtAKka2YiZRclp70wZ6F"
+      "duration_ms": 81666,
+      "name": "BroZone's Back",
+      "url": "https://open.spotify.com/track/02xkg0KUfiytfbnwAevy1p"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,179 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,270 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 88 | [Dad’Algorhythm](https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [Dad’Algorhythm](https://open.spotify.com/album/3b4XGfpUQmrqrtzN95sKLj) | 2:38 |
 | 89 | [Blood In The Water](https://open.spotify.com/track/1eFtuUsdNIh7vTyyG6mwIo) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Blood In The Water](https://open.spotify.com/album/3I9e3fgZ3IaR2K7NLRxVy2) | 3:34 |
 | 90 | [Cellophane](https://open.spotify.com/track/2ZzCvMltW1PC5k8dv14ShX) | [House & Home](https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7) | [Split](https://open.spotify.com/album/4IaK5bhrMpaGaa1ZRRDdrp) | 4:04 |
-| 91 | [Flacco](https://open.spotify.com/track/248Z8fgwFHdQCAhtkJ0hrj) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Flacco](https://open.spotify.com/album/58dq6GiHzAppusqEYSC4yq) | 4:10 |
-| 92 | [Suffer](https://open.spotify.com/track/5Q6SSsB53WpRJS2umerkIB) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [Upright Animals](https://open.spotify.com/album/4azfM2hspLuUo7yk4AQKG3) | 3:23 |
+| 91 | [Suffer](https://open.spotify.com/track/5Q6SSsB53WpRJS2umerkIB) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [Upright Animals](https://open.spotify.com/album/4azfM2hspLuUo7yk4AQKG3) | 3:23 |
+| 92 | [Flacco](https://open.spotify.com/track/248Z8fgwFHdQCAhtkJ0hrj) | [Money](https://open.spotify.com/artist/2v0x2qsSuy06OiFIo8zX6s) | [Flacco](https://open.spotify.com/album/58dq6GiHzAppusqEYSC4yq) | 4:10 |
 | 93 | [Sliding Doors](https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Sliding Doors](https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr) | 3:26 |
 | 94 | [Fake Love](https://open.spotify.com/track/57okMoH9ZaiQemzwaMy8AY) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [Homesick](https://open.spotify.com/album/0cFm4edaIWvQN1gTYbpWmL) | 3:31 |
 | 95 | [Play My Favourite Song](https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Play My Favourite Song](https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat) | 2:35 |

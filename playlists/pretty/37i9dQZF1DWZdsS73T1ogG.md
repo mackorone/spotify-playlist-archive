@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Rowma, Kris R.
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,799 likes - 116 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,868 likes - 116 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

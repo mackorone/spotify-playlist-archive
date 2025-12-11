@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Out Of/Into
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,136 likes - 100 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,155 likes - 100 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

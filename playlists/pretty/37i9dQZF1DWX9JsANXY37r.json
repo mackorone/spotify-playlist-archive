@@ -1,6 +1,6 @@
 {
   "description": "drinks em casa, nada melhor",
-  "num_followers": 123245,
+  "num_followers": 123248,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,26 @@
     {
       "added_at": "2025-10-25 00:54:02",
       "album": {
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 203036,
+      "name": "Out Loud (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
+    {
+      "added_at": "2025-10-25 00:54:02",
+      "album": {
         "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
         "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 207235,
       "name": "desapega",
       "url": "https://open.spotify.com/track/7IsDSVPpbW6UNe3CycVeZA"
-    },
-    {
-      "added_at": "2025-10-25 00:54:02",
-      "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 203036,
-      "name": "Out Loud (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
     },
     {
       "added_at": "2025-10-25 00:54:02",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2025-10-25 00:54:02",
       "album": {
+        "name": "Die For This",
+        "url": "https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 155200,
+      "name": "Die For This",
+      "url": "https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj"
+    },
+    {
+      "added_at": "2025-10-25 00:54:02",
+      "album": {
         "name": "Solita",
         "url": "https://open.spotify.com/album/1SvuC2OLkAJnuNhZNDohIR"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 216094,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
-    },
-    {
-      "added_at": "2025-10-25 00:54:02",
-      "album": {
-        "name": "Algorithm",
-        "url": "https://open.spotify.com/album/7C3s4jMUKRJtm8ztviFu55"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 227368,
-      "name": "HERicane",
-      "url": "https://open.spotify.com/track/6ywb8fhYB0URhVPhuYK8Z5"
     }
   ],
   "unique_name": "Drinks no Sof\u00e1",

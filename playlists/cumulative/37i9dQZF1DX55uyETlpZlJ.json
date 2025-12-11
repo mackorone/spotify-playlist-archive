@@ -6059,6 +6059,24 @@
     },
     {
       "album": {
+        "name": "Madeshwara Dayabarade",
+        "url": "https://open.spotify.com/album/65IVcMt19JSKO9IBJbI0gT"
+      },
+      "artists": [
+        {
+          "name": "Sivasri Skandaprasad",
+          "url": "https://open.spotify.com/artist/3Du1Eif2lkTAauqUT3uFai"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464029,
+      "name": "Madeshwara Dayabarade",
+      "url": "https://open.spotify.com/track/4BypHKlciMVkdKx7RcKuJA"
+    },
+    {
+      "album": {
         "name": "Madhura Saagara",
         "url": "https://open.spotify.com/album/3I6gZPaX8wKukvRffrE4iB"
       },
@@ -8126,7 +8144,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 219141,
       "name": "Nee Hode Nannanu Maretu",
       "url": "https://open.spotify.com/track/6rL9rjk6Har0WkNdX0d3kO"

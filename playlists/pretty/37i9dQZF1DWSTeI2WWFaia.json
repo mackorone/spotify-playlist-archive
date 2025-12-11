@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: De La Soul",
-  "num_followers": 1575886,
+  "num_followers": 1575792,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAGEBlEoA8k0w/IoLBS078Ar1dzeA",
   "tracks": [
+    {
+      "added_at": "2025-12-05 04:00:05",
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 134097,
+      "name": "CATFISH",
+      "url": "https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59"
+    },
     {
       "added_at": "2025-12-05 04:00:05",
       "album": {
@@ -31,22 +47,6 @@
       "duration_ms": 155142,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7lCpzHEIIBf7BQKfRyRP01"
-    },
-    {
-      "added_at": "2025-12-05 04:00:05",
-      "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 134097,
-      "name": "CATFISH",
-      "url": "https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59"
     },
     {
       "added_at": "2025-12-05 04:00:05",
@@ -935,30 +935,6 @@
     {
       "added_at": "2025-12-05 04:00:05",
       "album": {
-        "name": "GOLDFISH",
-        "url": "https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g"
-      },
-      "artists": [
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 105836,
-      "name": "Mick & Cooley (feat. Conway The Machine)",
-      "url": "https://open.spotify.com/track/7xVeQX25verKvEQsazaNi5"
-    },
-    {
-      "added_at": "2025-12-05 04:00:05",
-      "album": {
         "name": "Life Is Beautiful",
         "url": "https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD"
       },
@@ -979,6 +955,30 @@
       "duration_ms": 198466,
       "name": "LLC",
       "url": "https://open.spotify.com/track/4JI768EyJBdmpQdc4oL9uP"
+    },
+    {
+      "added_at": "2025-12-05 04:00:05",
+      "album": {
+        "name": "GOLDFISH",
+        "url": "https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 105836,
+      "name": "Mick & Cooley (feat. Conway The Machine)",
+      "url": "https://open.spotify.com/track/7xVeQX25verKvEQsazaNi5"
     },
     {
       "added_at": "2025-12-05 04:00:05",

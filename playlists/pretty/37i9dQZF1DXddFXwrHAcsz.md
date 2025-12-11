@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 80's! Cover: André Hazes
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,090 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,121 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,14 +23,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 | 13 | [Deurdonderen](https://open.spotify.com/track/6U7rlAukeYVphgDWLc1yk6) | [Normaal](https://open.spotify.com/artist/2QU0ew2k2IZJifa8VWevSv) | [Deurdonderen](https://open.spotify.com/album/4X6Xy8SQjKimezEkq9aaGx) | 3:53 |
 | 14 | [O O Den Haag](https://open.spotify.com/track/2F5HbFGRgJNzLvSU17sw2N) | [Harry Klorkestein](https://open.spotify.com/artist/5DCksz2HeuBgf0g2fYHP8B) | [Alles](https://open.spotify.com/album/71uQhj11xtVa1H2yN4fDjq) | 4:01 |
 | 15 | [Alles Geprobeerd](https://open.spotify.com/track/3yBuEy5DmmV4tRL5ASRxlE) | [Het Goede Doel](https://open.spotify.com/artist/73G7RMWMbWUGc8tkXeQoJQ) | [Mooi En Onverslijtbaar](https://open.spotify.com/album/0ibRP3mGseezsT8R7GgGWj) | 6:27 |
-| 16 | [Suzanne](https://open.spotify.com/track/3MrtadqfvO2VrIfiCCBVo6) | [V.O.F\. De Kunst](https://open.spotify.com/artist/3iAS2g4qFW5aHDv4fOtXGl) | [Monsterhits](https://open.spotify.com/album/5qmW8BY18VtDOBhYDSFwY5) | 4:45 |
+| 16 | [Toveren](https://open.spotify.com/track/2NDJAS0IlvK0UswjMzsac5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Nu En Dan \- 30 Jaar Herman Van Veen](https://open.spotify.com/album/1UiyBdABOkEMxydH963pq5) | 3:25 |
 | 17 | [1 Nacht Alleen](https://open.spotify.com/track/7tV4oNcFWW85uwKL7JPOTV) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [4us](https://open.spotify.com/album/1d27T3U7K7WixFp0Ja6pLz) | 3:59 |
-| 18 | [Toveren](https://open.spotify.com/track/2NDJAS0IlvK0UswjMzsac5) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Nu En Dan \- 30 Jaar Herman Van Veen](https://open.spotify.com/album/1UiyBdABOkEMxydH963pq5) | 3:25 |
+| 18 | [Suzanne](https://open.spotify.com/track/3MrtadqfvO2VrIfiCCBVo6) | [V.O.F\. De Kunst](https://open.spotify.com/artist/3iAS2g4qFW5aHDv4fOtXGl) | [Monsterhits](https://open.spotify.com/album/5qmW8BY18VtDOBhYDSFwY5) | 4:45 |
 | 19 | [Mamma, woar is mien pils](https://open.spotify.com/track/3LSXZhstWrAdQZC8C8moU0) | [Normaal](https://open.spotify.com/artist/2QU0ew2k2IZJifa8VWevSv) | [Deurdonderen](https://open.spotify.com/album/4X6Xy8SQjKimezEkq9aaGx) | 2:58 |
 | 20 | [De Verzoening](https://open.spotify.com/track/1x9NeDQ4x5rnoO8fznt5TK) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [In Natura](https://open.spotify.com/album/7jAX8P8k12CrGVY796ycDt) | 5:02 |
-| 21 | [Een Kopje Koffie](https://open.spotify.com/track/7oIj1naWSVgDmruBrkT3Cw) | [V.O.F\. De Kunst](https://open.spotify.com/artist/3iAS2g4qFW5aHDv4fOtXGl) | [Monsterhits](https://open.spotify.com/album/5qmW8BY18VtDOBhYDSFwY5) | 4:06 |
+| 21 | [Ik Weet Niet Hoe](https://open.spotify.com/track/17tJLDBm76LdZoHG2t587G) | [Benny Neyman](https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2) | [Ik Weet Niet Hoe](https://open.spotify.com/album/6Emyi23IU3uRiPajFYyZG4) | 3:26 |
 | 22 | [Is Dit Alles](https://open.spotify.com/track/4iUH4ksweue6iGqQUgSzhx) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [Doris Day en Andere Stukken](https://open.spotify.com/album/74D7apTRKmj8K2gIq4B5gK) | 5:23 |
-| 23 | [Ik Weet Niet Hoe](https://open.spotify.com/track/17tJLDBm76LdZoHG2t587G) | [Benny Neyman](https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2) | [Ik Weet Niet Hoe](https://open.spotify.com/album/6Emyi23IU3uRiPajFYyZG4) | 3:26 |
+| 23 | [Een Kopje Koffie](https://open.spotify.com/track/7oIj1naWSVgDmruBrkT3Cw) | [V.O.F\. De Kunst](https://open.spotify.com/artist/3iAS2g4qFW5aHDv4fOtXGl) | [Monsterhits](https://open.spotify.com/album/5qmW8BY18VtDOBhYDSFwY5) | 4:06 |
 | 24 | [Je Veux De L'Amour \- 1990 Remastered Version](https://open.spotify.com/track/1jRIZvUWAojRlMVyxo57VW) | [Raymond Van Het Groenewoud](https://open.spotify.com/artist/535vUcywQfuPaygBIDziaY) | [Meisjes](https://open.spotify.com/album/2G5ENoqQU9fn3IHmOLo05e) | 4:35 |
 | 25 | [Mag Het Licht Uit](https://open.spotify.com/track/7KTLDWQXfA1DBPE98c9JDj) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [100 x De Dijk](https://open.spotify.com/album/4gmTornHQCspqj9RKqKgBL) | 4:19 |
 | 26 | [Linda](https://open.spotify.com/track/37sOxkeHNES53xCk6mAK8h) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Onderweg](https://open.spotify.com/album/6BXuGfr12xjWvfQoCnW2ej) | 3:36 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 | 41 | [Klap Maar In Je Handen](https://open.spotify.com/track/6qjS0AfAhbVpW122MWHvaR) | [Peter Koelewijn](https://open.spotify.com/artist/3oavnC2N25caTse16Gj8HR) | [Het Beste Van Peter Koelewijn](https://open.spotify.com/album/5wJr8xACqUiUhBQafHkGB2) | 5:09 |
 | 42 | [Foto Van Vroeger](https://open.spotify.com/track/0uFuy26Esw0CBMAsFya8Im) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Het Beste Van Rob de Nijs](https://open.spotify.com/album/58vsFzEznEkpo2aHRKRzZa) | 4:39 |
 | 43 | [Oude Maasweg](https://open.spotify.com/track/02utYejOAb0Pw7r4tkbfOu) | [The Amazing Stroopwafels](https://open.spotify.com/artist/4j32y3UVJaypInH9lOKcZ4) | [Hard Voor Weinig \(20 singles\)](https://open.spotify.com/album/7wvQAqYh8vDvXRscEuxjVt) | 3:28 |
-| 44 | [Dansen Op De Vulkaan](https://open.spotify.com/track/3ME8xqtIl1nHWJIUGP39l9) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Alle 40 Goed](https://open.spotify.com/album/1mUYDIiCsQwg6B7HgxRoIR) | 4:28 |
+| 44 | [Bloedend Hart](https://open.spotify.com/track/21UjnG4SVJlOO4WDrUBaTJ) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Het Beste Van](https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc) | 3:46 |
 | 45 | [Geef Mij Je Angst](https://open.spotify.com/track/77Z1rV0BsUjd3hWNrO80B6) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 4:20 |
 | 46 | [Even Aan Mijn Moeder Vragen](https://open.spotify.com/track/1PAbS4i2Kezbb5V34nvR1c) | [Bloem](https://open.spotify.com/artist/4Q7PRWyZrpaEWFd8I0gdtB) | [Het Beste Uit 5 Jaar Het Foute Uur](https://open.spotify.com/album/0ds8asjvMISV1gqWlvmTUC) | 2:56 |
 | 47 | [Open Einde](https://open.spotify.com/track/54CctrS6IHUuIxi5vLgW5i) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 4:51 |
 | 48 | [Mijn Stad](https://open.spotify.com/track/3NytgJzTuo28YJXP82ys1y) | [Danny De Munk](https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn) | [Mijn Levenslied](https://open.spotify.com/album/1ZsiKqXJH3U7qN6pX3nHme) | 3:11 |
-| 49 | [Bloedend Hart](https://open.spotify.com/track/21UjnG4SVJlOO4WDrUBaTJ) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Het Beste Van](https://open.spotify.com/album/0OBrc6S3HOR26jYN2CqUcc) | 3:46 |
+| 49 | [Dansen Op De Vulkaan](https://open.spotify.com/track/3ME8xqtIl1nHWJIUGP39l9) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Alle 40 Goed](https://open.spotify.com/album/1mUYDIiCsQwg6B7HgxRoIR) | 4:28 |
 | 50 | [Zeg Maar Niets Meer](https://open.spotify.com/track/1YEUqTuDGVNVt9d6eDMSF8) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hazes 100](https://open.spotify.com/album/0gCT4Y1EUY4XrlWvCE462K) | 2:47 |
 | 51 | [Niemand Laat Zijn Eigen Kind Alleen](https://open.spotify.com/track/4cj2rF9TMmxYAVTNSAQ9P0) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV), [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Hollandse Sterren Collectie](https://open.spotify.com/album/1FJhxTagODYnKjA4PJakmk) | 3:08 |
 | 52 | [Joke Stop Toch Met Koken](https://open.spotify.com/track/7DL2hb41CIMNyCsA51euTZ) | [De Leidse Sleutelgaten](https://open.spotify.com/artist/0EzfzcSiRKGHXSJIQFECEN) | [De Beste Carnaval Hits Ooit](https://open.spotify.com/album/4xKGHN5JhHuaKsEN77g25r) | 2:45 |

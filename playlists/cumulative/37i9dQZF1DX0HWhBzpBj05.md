@@ -4,7 +4,7 @@
 
 > Spread some cheer with this list of new and old seasonal favorites\. Cover: Brenda Lee
 
-189 songs - 10 hr 34 min
+190 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Glow](https://open.spotify.com/track/1mFwsE8rLoLibx19s8bXac) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Christmas Record](https://open.spotify.com/album/5Zsa3FJk4cjhuvUbtOZzmD) | 3:21 | 2024-10-18 |  |
 | [Grown\-Up Christmas List](https://open.spotify.com/track/24lCPIiEWKg9K7k1Gh1h8q) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Home For Christmas](https://open.spotify.com/album/6zsXpKxvpjmwXvoxPdN2eQ) | 5:02 | 2023-11-29 |  |
 | [Grown\-Up Christmas List \(feat\. Kelly Clarkson\)](https://open.spotify.com/track/47qXmZMqUZDXSnP5zONlwY) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Christmas Is Here!](https://open.spotify.com/album/6thZNGX8hUVSjUrqJgPB9b) | 4:41 | 2022-12-05 | 2023-10-21 |
-| [Happy Holiday / The Holiday Season](https://open.spotify.com/track/3sDdyBHQ60Cs1opmIyRvhp) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:41 | 2021-12-20 |  |
+| [Happy Holiday / The Holiday Season](https://open.spotify.com/track/3sDdyBHQ60Cs1opmIyRvhp) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:41 | 2021-12-20 | 2025-12-11 |
 | [Happy New Year](https://open.spotify.com/track/2mxwMVaPHxz4WVslwart1j) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [The Best Christmas Album In The World...Ever! 2021](https://open.spotify.com/album/5hejbQwKmx8CSvwa7HVkYw) | 4:23 | 2022-10-23 | 2022-11-13 |
 | [Happy New Year](https://open.spotify.com/track/4AsvGVDWs16fqIiIdDzyvX) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:23 | 2021-12-20 | 2023-10-21 |
 | [Happy New Year](https://open.spotify.com/track/6AnVqTrbyn70DgWkEt9gNK) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [The Essential Collection](https://open.spotify.com/album/3QUUDduYhYg1eOicdQ53wh) | 4:24 | 2021-12-20 | 2022-07-29 |
@@ -159,6 +159,7 @@
 | [Thank God It's Christmas \- 2011 Remaster](https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Works \(Deluxe Remastered Version\)](https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V) | 4:21 | 2021-12-20 | 2024-04-19 |
 | [The Chipmunk Song \(Christmas Don't Be Late\) \- Remastered 1999](https://open.spotify.com/track/02NKMA9cIkq6VuBNu9q9Wf) | [Alvin & The Chipmunks](https://open.spotify.com/artist/1SCWcYnoEh1978ycTDhZoW), [David Seville](https://open.spotify.com/artist/4NI5R1DbX27ODY5JTqnv2l) | [Christmas With The Chipmunks \(2010\)](https://open.spotify.com/album/3X7elwYMwXz3flSYNtSfHQ) | 2:21 | 2021-12-20 |  |
 | [The Christmas Song \(Chestnuts Roasting on an Open Fire\)](https://open.spotify.com/track/3x0wbrv15rqDu0cmA3HGyX) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa) | 4:20 | 2021-12-20 |  |
+| [The First Noël \(with Faith Hill\)](https://open.spotify.com/track/1sEC3X76vXgpsgnfaXEMwR) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Noël](https://open.spotify.com/album/4kqXw1yf9EKamws0zCarGt) | 4:33 | 2025-12-10 |  |
 | [The First Noël \(with Faith Hill\)](https://open.spotify.com/track/5fhjN7E4rV0GqsRSQBsWeo) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Noël \(Deluxe Edition\)](https://open.spotify.com/album/27Ovu2vEYcN7dcd27yRkGg) | 4:33 | 2023-10-20 |  |
 | [The Man With The Bag](https://open.spotify.com/track/2R60AwEI6yNX8iJ0EEfKPD) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Man With The Bag](https://open.spotify.com/album/21Xq5vgILkNpVZiGKjBgdd) | 2:03 | 2024-11-11 |  |
 | [The Sound Of Christmas](https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [The Sound of Christmas](https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH) | 3:17 | 2024-10-18 | 2025-10-25 |

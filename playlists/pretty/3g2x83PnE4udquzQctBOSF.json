@@ -1,13 +1,29 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2634,
+  "num_followers": 2636,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARH8DNj3lnU2pCBA3If2xcSwZ4GSrX",
+  "snapshot_id": "AAARIKVkTRmYUP/EJogqIv+UN6HS8hUb",
   "tracks": [
+    {
+      "added_at": "2025-12-10 14:03:48",
+      "album": {
+        "name": "Spatial",
+        "url": "https://open.spotify.com/album/6b7WFerr0JRtw8X5H9L9IS"
+      },
+      "artists": [
+        {
+          "name": "Rafael Vidal Lykova",
+          "url": "https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA"
+        }
+      ],
+      "duration_ms": 135015,
+      "name": "Spatial",
+      "url": "https://open.spotify.com/track/3Fxceybn6mUOFlAHIz3Zsn"
+    },
     {
       "added_at": "2025-12-09 08:31:31",
       "album": {

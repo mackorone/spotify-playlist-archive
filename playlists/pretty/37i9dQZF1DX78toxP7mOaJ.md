@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > The 75 best rock songs from new, independent artists in 2025, as chosen by our editors\. Cover: The Belair Lip Bombs
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,566 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,594 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 74 | [All in My Head](https://open.spotify.com/track/7elYDAdyxwZtp2IaCu38iP) | [Over Under](https://open.spotify.com/artist/1eTNgJMyODOGBZpcDsWXwe) | [Memory Lane](https://open.spotify.com/album/4lAVkq23f3rCIfmYKDDDAU) | 3:05 |
 | 75 | [I'm Your Man](https://open.spotify.com/track/3uzkpsb3PqPz0KoVOV99no) | [My Wonderful Boyfriend](https://open.spotify.com/artist/5IkIh9jpyGZL3JFMAbVykP) | [I'm Your Man](https://open.spotify.com/album/0Zj65HZjA1TiFpMp2BO8ij) | 5:04 |
 
-Snapshot ID: `AAAAAKrNZux2OWBbvcKD0Vk7sgN64CIm`
+Snapshot ID: `AAAAANlBCtGqBdO/5vtN+ED+r1rNSA/z`

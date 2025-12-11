@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjj6kdiviS0.md) - [plain]
 
 > Classics from the Baroque era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,340 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,388 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

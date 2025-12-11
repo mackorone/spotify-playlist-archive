@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3y3XCQ.md) - [plain]
 
 > This is Thursday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,220 likes - 44 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,218 likes - 44 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3y3XCQ.md) - [plain]
 | 21 | [Concealer](https://open.spotify.com/track/3EPVk0rM704NDj9hWDne63) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 2:19 |
 | 22 | [This Song Brought To You By A Falling Bomb](https://open.spotify.com/track/6VYMzpPyB6QVdPwXP0fTMw) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 2:16 |
 | 23 | [The Lottery](https://open.spotify.com/track/38832SeThFAmmFWKaMv6xz) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT), [Geoff Rickly](https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX), [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Violent Waves](https://open.spotify.com/album/3qSgoDBBG1UsZU4xJqieBd) | 4:43 |
-| 24 | [Autumn Leaves Revisited](https://open.spotify.com/track/0nty9GkUJ6CD4Uj60IFT4B) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [A City By The Light Divided](https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B) | 6:54 |
+| 24 | [Sugar In The Sacrament](https://open.spotify.com/track/0sWGnySFvSRZPr5Swr6nLx) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [A City By The Light Divided](https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B) | 5:10 |
 | 25 | [Streaks in the Sky](https://open.spotify.com/track/6gHLLRQFPezsdsDieIVbJ5) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Waiting](https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa) | 4:26 |
 | 26 | [Turnpike Divides](https://open.spotify.com/track/1FgPKrJkqR16RSdDUMBUSA) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [No Devolución](https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT) | 4:53 |
 | 27 | [Ladies And Gentlemen: My Brother, The Failure](https://open.spotify.com/track/2cnaAWNXkZnCaRN6OZWaBS) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Kill The House Lights](https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP) | 4:12 |
-| 28 | [Sugar In The Sacrament](https://open.spotify.com/track/0sWGnySFvSRZPr5Swr6nLx) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [A City By The Light Divided](https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B) | 5:10 |
+| 28 | [Autumn Leaves Revisited](https://open.spotify.com/track/0nty9GkUJ6CD4Uj60IFT4B) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [A City By The Light Divided](https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B) | 6:54 |
 | 29 | [Dying in New Brunswick](https://open.spotify.com/track/2HYHnHXUSQwczdpFQKW7xg) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Waiting](https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa) | 4:02 |
 | 30 | [Magnets Caught in a Metal Heart](https://open.spotify.com/track/3Z2WgsYnfMGztp5NuMNj2M) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [No Devolución](https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT) | 3:41 |
 | 31 | [Resuscitation of a Dead Man](https://open.spotify.com/track/6V2cc0uw6vMEDGsCEF6N1k) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 3:22 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3y3XCQ.md) - [plain]
 | 43 | [As He Climbed The Dark Mountain](https://open.spotify.com/track/0CraZjvIB4XJ87tC7N5Zcn) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 3:01 |
 | 44 | [Time's Arrow](https://open.spotify.com/track/2EPYehgxIsqGvxUcxwgxkH) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 4:13 |
 
-Snapshot ID: `aTYVAAAAAADVvnLWHkYtEI8A8HF0xyij`
+Snapshot ID: `aTdmgAAAAADwgqTGX8TK/Xm9/mhqbpab`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,017 likes - 145 songs - 8 hr 14 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,020 likes - 149 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,5 +153,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 143 | [Love is](https://open.spotify.com/track/47fnHzZbyVzoun68XD6ZV0) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [Love is](https://open.spotify.com/album/7xboQruZ4Wj5ypbkTR3ZQT) | 2:24 |
 | 144 | [Memories](https://open.spotify.com/track/5Jpq2l82zrAp0IxgeLR8c2) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:32 |
 | 145 | [Sweet Girls](https://open.spotify.com/track/77qyDQXVcgz8MzuUme9zwn) | [Nina Gabriela](https://open.spotify.com/artist/2S5l1YffxlvE9SD3I3dW3Q) | [Sweet Girls](https://open.spotify.com/album/25aLcpfG4Z6NVOQb7Vo9tm) | 3:44 |
+| 146 | [Canzone di A](https://open.spotify.com/track/28it4WzTeD37iacjUxiKJG) | [Claudio Bassi](https://open.spotify.com/artist/5ybJ724whrlsUYrHiJAJf7) | [Canzone di A](https://open.spotify.com/album/3a2pFbCjSspfvZmP7BPBLS) | 4:59 |
+| 147 | [Fingers Crossed](https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Fingers Crossed](https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q) | 3:48 |
+| 148 | [Lost Without You](https://open.spotify.com/track/66FFJv3Y8Xn9ENKQMXZW0Z) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv), [RoBeats](https://open.spotify.com/artist/6rMyJtMiEjGtD9HHbz5Vge) | [Lost Without You](https://open.spotify.com/album/3heC4MS7ewE0kXYJQdskbD) | 3:05 |
+| 149 | [Chance It](https://open.spotify.com/track/2Zo3WV1uxQtpecOW90meze) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Chance It](https://open.spotify.com/album/4RRJetrxk1v6h5an2w83fH) | 2:56 |
 
-Snapshot ID: `AAANpGSNyQ4O8vAF0y1SafZPyTJ+wQOZ`
+Snapshot ID: `AAANqJ0RXGPjiDcYjuzW3WEpBq2dNAyF`

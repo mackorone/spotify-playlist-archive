@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs this year, handpicked by Spotify Canada editors\. Cover: Rochelle Jordan
 
-[Spotify](https://open.spotify.com/user/spotify) - 185 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 208 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 49 | [Edge Of The Earth](https://open.spotify.com/track/0I3cUXGoW9JltQqjWWrZHE) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Edge Of The Earth](https://open.spotify.com/album/3dzRpXVj0YAmnCkeJ6Lt6M) | 3:18 |
 | 50 | [dis moi où, dis moi quand \(feat\. Hubert Lenoir\)](https://open.spotify.com/track/3eitktT0QgkNa5OgTGp5hK) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A), [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [dis moi où, dis moi quand \(feat\. Hubert Lenoir\)](https://open.spotify.com/album/2L4olMUsbxenCeSKa5Yqhf) | 2:36 |
 
-Snapshot ID: `AAAAAE/7Nrz1k5fAlZILc9LUOWTMzXQj`
+Snapshot ID: `AAAAAD/gRP+gTvjzUAsxAl6BLW6sFry1`

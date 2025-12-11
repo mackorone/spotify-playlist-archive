@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 
 > This is Eric Clapton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,500 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,525 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 30 | [For Your Love](https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [For Your Love](https://open.spotify.com/album/1NQxkuCbddVP1UgmvRhfXp) | 2:33 |
 | 31 | [Forever Man \- 1999 Remaster](https://open.spotify.com/track/6x7jcl21wMqyt5R2bAxPyP) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Behind the Sun](https://open.spotify.com/album/5WX2WQT74bVZl9UqqY6LZT) | 3:11 |
 | 32 | [Alberta \- Acoustic Live](https://open.spotify.com/track/713D0u0XMewrhWIQwjrlrd) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 3:38 |
-| 33 | [Let It Rain](https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton](https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh) | 5:01 |
-| 34 | [River of Tears](https://open.spotify.com/track/7henYpsVePUUrB8sQmhG6O) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Pilgrim](https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63) | 7:22 |
+| 33 | [River of Tears](https://open.spotify.com/track/7henYpsVePUUrB8sQmhG6O) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Pilgrim](https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63) | 7:22 |
+| 34 | [Let It Rain](https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton](https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh) | 5:01 |
 | 35 | [Let It Grow](https://open.spotify.com/track/2sXBdtNvV7fn1wbTzFrKrf) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 4:58 |
 | 36 | [Running on Faith \- Acoustic Live](https://open.spotify.com/track/2QWYJC0osgjCvPA0VqcMlv) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 6:30 |
 | 37 | [Key to the Highway](https://open.spotify.com/track/1a0CDu5jpwW2arT34HbwUP) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 3:39 |
-| 38 | [Danger](https://open.spotify.com/track/1tvT5VBrLMxMM2LvzBRA91) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Road to Escondido](https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079) | 5:32 |
-| 39 | [Cajun Moon](https://open.spotify.com/track/5JCCKyYQlvg5HujwnZ43Sj) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton & Friends: The Breeze \- An Appreciation Of JJ Cale](https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H) | 2:27 |
+| 38 | [Cajun Moon](https://open.spotify.com/track/5JCCKyYQlvg5HujwnZ43Sj) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton & Friends: The Breeze \- An Appreciation Of JJ Cale](https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H) | 2:27 |
+| 39 | [Danger](https://open.spotify.com/track/1tvT5VBrLMxMM2LvzBRA91) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Road to Escondido](https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079) | 5:32 |
 | 40 | [Knocking On Heaven's Door \- Live At Hammersmith Odeon](https://open.spotify.com/track/5uhvUuQciVrP0p48NqSHaq) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 5:18 |
 | 41 | [Three O'Clock Blues](https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 8:36 |
 | 42 | [Pretending](https://open.spotify.com/track/2Ua9IR5sciWQfoWCfB9iks) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Journeyman](https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B) | 4:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 49 | [It's Easy](https://open.spotify.com/track/6UVPrccDy1OQtZduNtanhP) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Road to Escondido](https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079) | 4:16 |
 | 50 | [San Francisco Bay Blues \- Acoustic Live](https://open.spotify.com/track/6v8CskmNAAvz9tvxKfO8i1) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 3:28 |
 
-Snapshot ID: `aTYVAAAAAABaIGaC/NI5V1LzN5joCDWx`
+Snapshot ID: `aTdmgAAAAAB+xqR9tpkmKu/4Q5rtKA6J`

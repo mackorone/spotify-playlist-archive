@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 480055,
+  "num_followers": 480026,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAAVCD7QP51S5e3X5hloKZjO",
+  "snapshot_id": "aTdmgAAAAABTv5vbkjif0uYoeRHuJjkG",
   "tracks": [
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Charli",
-        "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191506,
-      "name": "Blame It on Your Love (feat. Lizzo)",
-      "url": "https://open.spotify.com/track/2RCUr24WkEe2r5Vv4oDKlN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Is Bankroll?",
         "url": "https://open.spotify.com/album/5I6AcuO3zFir65GHWY6pap"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 131592,
       "name": "From The Back",
       "url": "https://open.spotify.com/track/5f5BVvemMmLZrnOgHaysJG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Charli",
+        "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191506,
+      "name": "Blame It on Your Love (feat. Lizzo)",
+      "url": "https://open.spotify.com/track/2RCUr24WkEe2r5Vv4oDKlN"
     },
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let 'em Say",
-        "url": "https://open.spotify.com/album/2NV6a02l650uM2IxqyMJsp"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Caroline Smith",
-          "url": "https://open.spotify.com/artist/47blM5Op3BJODxUJImwdYE"
-        }
-      ],
-      "duration_ms": 200578,
-      "name": "Let 'em Say",
-      "url": "https://open.spotify.com/track/6Ndj40A1dST0cNepDboAKJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Juice (Breakbot Mix)",
         "url": "https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 172453,
       "name": "Juice - Breakbot Mix",
       "url": "https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let 'em Say",
+        "url": "https://open.spotify.com/album/2NV6a02l650uM2IxqyMJsp"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Caroline Smith",
+          "url": "https://open.spotify.com/artist/47blM5Op3BJODxUJImwdYE"
+        }
+      ],
+      "duration_ms": 200578,
+      "name": "Let 'em Say",
+      "url": "https://open.spotify.com/track/6Ndj40A1dST0cNepDboAKJ"
     },
     {
       "added_at": null,

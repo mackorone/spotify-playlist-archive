@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: GloRilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,378 likes - 49 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,386 likes - 49 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org</a>\.  Cover: Rainbow Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,496 likes - 164 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,497 likes - 164 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

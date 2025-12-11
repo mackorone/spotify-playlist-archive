@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from FLEMMING & Metejoor, Jul, Selah Sue, Sam Fender and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,962 likes - 94 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,965 likes - 94 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

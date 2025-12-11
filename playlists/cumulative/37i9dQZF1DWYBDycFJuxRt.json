@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: \u5e7e\u7530\u308a\u3089 *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/342467\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: \u5e7e\u7530\u308a\u3089 *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/342641\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
   "name": "New Music Wednesday",
   "tracks": [
     {
@@ -2820,6 +2820,24 @@
       "duration_ms": 3883653,
       "name": "2025/11/26 Mega Shinnosuke\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc\u914d\u4fe1\uff01LEX\u3001Awich\u3001(sic)boy\u304c\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3092\u30ea\u30ea\u30fc\u30b9\uff01muque\u3068CLAN QUEEN\u306e\u30b3\u30e9\u30dc\u65b0\u66f2\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01\uff01",
       "url": "https://open.spotify.com/episode/3TFFagIuDHilz77LzkPpzx"
+    },
+    {
+      "album": {
+        "name": "New Music Wednesday [Podcast Edition]",
+        "url": "https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E"
+      },
+      "artists": [
+        {
+          "name": "New Music Wednesday [Podcast Edition]",
+          "url": "https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2298496,
+      "name": "2025/12/10 \u5e7e\u7530\u308a\u3089\u304c\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3092\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u30ab\u30d0\u30fc\u306b\uff01\u30de\u30ab\u30ed\u30cb\u3048\u3093\u3074\u3064\u306e\u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u3001SATOH\u306e\u65b0\u66f2\u3001HANA\u306e\u65b0\u66f2\u3082\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01back number\u304b\u3089\u306e\u30b3\u30e1\u30f3\u30c8\u3082\u5230\u7740\uff01",
+      "url": "https://open.spotify.com/episode/3K5WMz1heYQ9VhJ8NhYRcb"
     },
     {
       "album": {
@@ -45857,8 +45875,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "All the words you said",
+        "url": "https://open.spotify.com/album/7jqsZXi7SZ7ls4rvCpTaWD"
       },
       "artists": [
         {
@@ -76065,6 +76083,32 @@
     },
     {
       "album": {
+        "name": "\u89aa\u5b50\u661f (Deluxe)",
+        "url": "https://open.spotify.com/album/3hCyx8xnpqoVpXeqE3VbGu"
+      },
+      "artists": [
+        {
+          "name": "SEEDA",
+          "url": "https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY"
+        },
+        {
+          "name": "JJJ",
+          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
+        },
+        {
+          "name": "Bes",
+          "url": "https://open.spotify.com/artist/2VyX44z0vDjbvffEakOAen"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211051,
+      "name": "Kawasaki Blue (feat. JJJ & BES) - Remix",
+      "url": "https://open.spotify.com/track/44zVvd8JXtuupbZ0HiGzQu"
+    },
+    {
+      "album": {
         "name": "Kaze Ni Tsutsumarete",
         "url": "https://open.spotify.com/album/41h9ULRH92YwID8FrWwXno"
       },
@@ -100241,8 +100285,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "physical mind",
+        "url": "https://open.spotify.com/album/4Kkdmmx6dC09NZeJHetRrz"
       },
       "artists": [
         {
@@ -123161,8 +123205,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "COLORFUL",
+        "url": "https://open.spotify.com/album/5A9p2KaNc80uIQPEgeyyHF"
       },
       "artists": [
         {

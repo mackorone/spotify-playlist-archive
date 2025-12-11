@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,661 likes - 34 songs - 2 hr 10 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,675 likes - 34 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

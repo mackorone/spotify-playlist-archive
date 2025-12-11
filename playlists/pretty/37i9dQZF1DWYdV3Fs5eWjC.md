@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the Black queer community\. Cover: The Arti$t
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,096 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,101 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 65 | [RECLUSE](https://open.spotify.com/track/239VipGSNCZXMhEgVei9g3) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [RECLUSE](https://open.spotify.com/album/2WUVOvapEN2Kb2lxoHGW14) | 3:51 |
 | 66 | [OUTTA CONTROL](https://open.spotify.com/track/6Vuas3LiStIwzv3iG2WZV3) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [OUTTA CONTROL](https://open.spotify.com/album/3SOrMCFaErYHw8BDd1XxYi) | 3:25 |
 | 67 | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Mirror \(feat\. Jessy Lanza & Yaeji\)](https://open.spotify.com/album/0GlXiPOFT25ZQHzh00pHMk) | 2:48 |
-| 68 | [All Of You](https://open.spotify.com/track/2aeD55GuHmtDUq85tMEm6b) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [All Of You](https://open.spotify.com/album/7qpEAYnlhdMJzLfcwQoecO) | 2:30 |
-| 69 | [Sober](https://open.spotify.com/track/4TdNha99Qw51SxsKjTa4nU) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Horror](https://open.spotify.com/album/63PDPkOtqUzHu8qNolREp8) | 3:41 |
+| 68 | [Sober](https://open.spotify.com/track/4TdNha99Qw51SxsKjTa4nU) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Horror](https://open.spotify.com/album/63PDPkOtqUzHu8qNolREp8) | 3:41 |
+| 69 | [All Of You](https://open.spotify.com/track/2aeD55GuHmtDUq85tMEm6b) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [All Of You](https://open.spotify.com/album/7qpEAYnlhdMJzLfcwQoecO) | 2:30 |
 | 70 | [want](https://open.spotify.com/track/7xerCwWpbFpdYfuYCiguAt) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [I SHOULD CALL THEM](https://open.spotify.com/album/1xdhvEWzPjEbhIqHGmz9SS) | 2:24 |
 | 71 | [Human](https://open.spotify.com/track/3U6yomdo8N6SwTQeCpOLUN) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Thicker Than Water](https://open.spotify.com/album/6DQn1eHIKyRGNiDbAYnUo5) | 4:07 |
 | 72 | [Impact](https://open.spotify.com/track/0QmY6iP25fSvuVwYz0GylI) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 4:59 |

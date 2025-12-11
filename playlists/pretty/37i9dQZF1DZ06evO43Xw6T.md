@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 
 > This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,674 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,718 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 44 | [Sin Yolanda](https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:10 |
 | 45 | [Y Si Me Miran](https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Y Si Me Miran](https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R) | 3:33 |
 | 46 | [La Pelinegra](https://open.spotify.com/track/4kVrTtUI2bVYk25HcoHFHt) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [On The Road](https://open.spotify.com/album/7yQ1S9MYxf97ODMA9cdZiW) | 2:35 |
-| 47 | [Cuando Me Veas Con Alguien](https://open.spotify.com/track/0s7JOp1ffdjxquSyMuNW0v) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [E$ENCIA](https://open.spotify.com/album/5LNnHcNU0pQPjCPxRCbKMm) | 3:42 |
-| 48 | [MONTHS](https://open.spotify.com/track/7Bt8I7y8b2p2uUY33sYCQl) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [MONTHS](https://open.spotify.com/album/2xBj81KVZYlkDE89zqvtD4) | 2:49 |
-| 49 | [PICASSO](https://open.spotify.com/track/0uGbZpw3WJBtLAnVqBVBpi) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ya No Se Llevan Serenatas](https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6) | 3:36 |
-| 50 | [F's](https://open.spotify.com/track/6qtOaQrYTqyAZdNMCmGQwr) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:50 |
+| 47 | [AFTERLIFE](https://open.spotify.com/track/6GGhD1IyPluXefBT0n3K6F) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AFTERLIFE](https://open.spotify.com/album/4QhJQwFpbeh6xItjEg5IwC) | 2:48 |
+| 48 | [Cuando Me Veas Con Alguien](https://open.spotify.com/track/0s7JOp1ffdjxquSyMuNW0v) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [E$ENCIA](https://open.spotify.com/album/5LNnHcNU0pQPjCPxRCbKMm) | 3:42 |
+| 49 | [MONTHS](https://open.spotify.com/track/7Bt8I7y8b2p2uUY33sYCQl) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [MONTHS](https://open.spotify.com/album/2xBj81KVZYlkDE89zqvtD4) | 2:49 |
+| 50 | [PICASSO](https://open.spotify.com/track/0uGbZpw3WJBtLAnVqBVBpi) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ya No Se Llevan Serenatas](https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6) | 3:36 |
 
-Snapshot ID: `aTYVAAAAAABJvhuRLcHcVymnWmiHSaq8`
+Snapshot ID: `aTdmgAAAAABwS2FKKNm60+XL4jY5juIo`

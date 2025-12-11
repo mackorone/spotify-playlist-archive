@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZxadTyuQ2s.md) - [plain]
 
 > Our editors'  picks for the best global Afrobeats songs this year.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,208 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,322 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSZxadTyuQ2s.md) - [plain]
 | 69 | [OHNANA](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [OHNANA](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 |
 | 70 | [NWANGOLO](https://open.spotify.com/track/0JHiAVySqpLE1RpBMkZnau) | [Mack H.D](https://open.spotify.com/artist/0IUp0l21VlpoOz8525KfAJ), [Tmaro](https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd) | [NWANGOLO](https://open.spotify.com/album/1q0d2XSuxXTKatIOonQTl9) | 2:31 |
 
-Snapshot ID: `AAAAAFLiAhsKuIetMMbik7F+FV+aNZKi`
+Snapshot ID: `AAAAAF2E8rjgx+KtxUljSlIg2cpU1Unu`

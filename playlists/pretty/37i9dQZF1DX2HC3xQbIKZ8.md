@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 > Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Myshaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,756 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,787 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 9 | [Love Me](https://open.spotify.com/track/6HwcP1XamKZwjAmcdBN2Pk) | [Fia](https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W) | [Love Me](https://open.spotify.com/album/3XedtVc8Dx4e5kXLK36uYB) | 4:24 |
 | 10 | [Every Night Every Morning](https://open.spotify.com/track/47NGRxSaEtJznNQ17dFg4c) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Maoli Music Overload](https://open.spotify.com/album/01tY1pAcZ2Lp4Pys8ah19d) | 3:17 |
 | 11 | [Stone Love](https://open.spotify.com/track/1AO26gK1sI6PoFY9eUF8yV) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Kona Town](https://open.spotify.com/album/37ijUtHcOrsDCIQRsa5sB4) | 4:14 |
-| 12 | [Wade In Your Water](https://open.spotify.com/track/6DoYk3QIvkDs60S1d01vbx) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Summer Anthems](https://open.spotify.com/album/5sFwkNJZg9vxc9YhiGtxZk) | 3:04 |
-| 13 | [Let's Do It Again](https://open.spotify.com/track/2hU6oM0KUN1gzBf8PY0MOD) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [J Boog](https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI) | 3:12 |
+| 12 | [Let's Do It Again](https://open.spotify.com/track/2hU6oM0KUN1gzBf8PY0MOD) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [J Boog](https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI) | 3:12 |
+| 13 | [Wade In Your Water](https://open.spotify.com/track/6DoYk3QIvkDs60S1d01vbx) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Summer Anthems](https://open.spotify.com/album/5sFwkNJZg9vxc9YhiGtxZk) | 3:04 |
 | 14 | [Love I](https://open.spotify.com/track/4H1aZMAqnzICsnFVDf6Lxc) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh) | [The Green](https://open.spotify.com/album/37Qr8WHL9Pa1BYEeKDxaJ6) | 3:38 |
 | 15 | [Sweet Lover](https://open.spotify.com/track/27bYzUlo34pVueQgpD1d5V) | [Lomez Brown](https://open.spotify.com/artist/6XBe77lygQAmgBFb6MGzpD) | [Sweet Lover](https://open.spotify.com/album/7f74ZWTaFNlPvcVsifNknH) | 3:42 |
 | 16 | [TOO LONG](https://open.spotify.com/track/6YIvNjBwtWtG5DNbArJ3DB) | [King George](https://open.spotify.com/artist/4da15R0o9ipD6vPVPqYz5D) | [TOO LONG](https://open.spotify.com/album/0PJvC81VkJ7fDyBjRhAHTR) | 4:09 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 26 | [Higher Than the Clouds](https://open.spotify.com/track/10FYvZSZLste16zITxpQND) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE) | 3:43 |
 | 27 | [Don’t Forget Your Roots](https://open.spotify.com/track/5mUiad5pDU1wFvIbtKgJKB) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Six60](https://open.spotify.com/album/2y5lgKfEm5B1pi8qrifGD5) | 3:52 |
 | 28 | [Heart of a Lion](https://open.spotify.com/track/1tF5oLj3khkYMa65szhPBB) | [Brutha Rodz](https://open.spotify.com/artist/7etGJzSv1g7S8RxZinqkdS), [Wiz Tokelau](https://open.spotify.com/artist/5ShiAPEQ5yAKJkcFcD6fBG) | [Heart of a Lion](https://open.spotify.com/album/4Hhzv9tY3RKq7RWHkztSXX) | 3:25 |
-| 29 | [Feel It](https://open.spotify.com/track/4zegbzhJVyZ8RBM86t6ZqI) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Feel It](https://open.spotify.com/album/5pAhTwf5anpAM4qQ8JZD4H) | 3:32 |
-| 30 | [Movin' About My Ways](https://open.spotify.com/track/5rBqEivSXbm8lFsX9rXMFs) | [Josh Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz), [DAK](https://open.spotify.com/artist/3In2BOfcdF10w1epRfkudd) | [Line Em Up](https://open.spotify.com/album/1cYJWFHmRfEz9MOAreN1C6) | 4:49 |
+| 29 | [Movin' About My Ways](https://open.spotify.com/track/5rBqEivSXbm8lFsX9rXMFs) | [Josh Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz), [DAK](https://open.spotify.com/artist/3In2BOfcdF10w1epRfkudd) | [Line Em Up](https://open.spotify.com/album/1cYJWFHmRfEz9MOAreN1C6) | 4:49 |
+| 30 | [Feel It](https://open.spotify.com/track/4zegbzhJVyZ8RBM86t6ZqI) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Feel It](https://open.spotify.com/album/5pAhTwf5anpAM4qQ8JZD4H) | 3:32 |
 | 31 | [Ms\. Beautiful](https://open.spotify.com/track/2OHHEGVzYWjvpDdC57kGg2) | [Rebel Souljahz](https://open.spotify.com/artist/6DW0QgM048WZ1eDJfq9ZhS) | [4 The People](https://open.spotify.com/album/3Rm9pkenoLVhmMMolEN4bd) | 3:43 |
 | 32 | [So True](https://open.spotify.com/track/5gAHSJPdHqz2MHc5WsfXnD) | [The Black Seeds](https://open.spotify.com/artist/0Q35wRRhdsU8EbsJ1eouCY) | [On the Sun](https://open.spotify.com/album/6bB9QEMR57Ce6HBAADpvQv) | 3:54 |
 | 33 | [COASTY GIRL](https://open.spotify.com/track/2fsSR8q2mZyhWV3txRww6w) | [SHANE WALKER](https://open.spotify.com/artist/0kDBi5XQUry7jcVp3Eya9m) | [COASTY GIRL](https://open.spotify.com/album/53zu8HnMibLkJ0W9Qtqsun) | 3:05 |

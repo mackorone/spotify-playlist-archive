@@ -1,12 +1,12 @@
 {
   "description": "This is Bo Bundy. The essential tracks, all in one playlist.",
-  "num_followers": 1368,
+  "num_followers": 1370,
   "original_name": "This Is Bo Bundy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAC/wPg+yDiuchax4cZ/t6BE",
+  "snapshot_id": "aTdmgAAAAAAg0TlozWG+CigvaidkIcnU",
   "tracks": [
     {
       "added_at": null,
@@ -103,26 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PLAYMAKER PT.2",
-        "url": "https://open.spotify.com/album/15wZIGdnEszokWI7R8knwN"
-      },
-      "artists": [
-        {
-          "name": "CNG",
-          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 165719,
-      "name": "PLAYMAKER PT.2",
-      "url": "https://open.spotify.com/track/1tP8v0BZQCnag97DnzLWII"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ramon Ayala (feat. Bo Bundy)",
         "url": "https://open.spotify.com/album/3vnDhhtNSKthBW9tdgpRps"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 167766,
       "name": "Ramon Ayala (feat. Bo Bundy)",
       "url": "https://open.spotify.com/track/0jvWZVacv8dIM8KOXCGocz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PLAYMAKER PT.2",
+        "url": "https://open.spotify.com/album/15wZIGdnEszokWI7R8knwN"
+      },
+      "artists": [
+        {
+          "name": "CNG",
+          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 165719,
+      "name": "PLAYMAKER PT.2",
+      "url": "https://open.spotify.com/track/1tP8v0BZQCnag97DnzLWII"
     },
     {
       "added_at": null,
@@ -631,6 +631,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "E30",
+        "url": "https://open.spotify.com/album/3wFy8XIYlQ3rVGL1g3PcAc"
+      },
+      "artists": [
+        {
+          "name": "Le$",
+          "url": "https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 287973,
+      "name": "Big Le$ter",
+      "url": "https://open.spotify.com/track/5qGkr8pCLtW4BOvfOhamnB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lonestar (Side B)",
         "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
       },
@@ -675,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "E30",
-        "url": "https://open.spotify.com/album/3wFy8XIYlQ3rVGL1g3PcAc"
-      },
-      "artists": [
-        {
-          "name": "Le$",
-          "url": "https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 287973,
-      "name": "Big Le$ter",
-      "url": "https://open.spotify.com/track/5qGkr8pCLtW4BOvfOhamnB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuerno De Chivo",
         "url": "https://open.spotify.com/album/095rXozHEwtskDElFmJC2m"
       },
@@ -711,30 +711,6 @@
       "duration_ms": 155376,
       "name": "Cuerno De Chivo",
       "url": "https://open.spotify.com/track/1x4gzzjvrJQYzzOFeCgXDG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lonestar (Side B)",
-        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Southside Hoodlum",
-          "url": "https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ"
-        },
-        {
-          "name": "Le$",
-          "url": "https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Big Chains",
-      "url": "https://open.spotify.com/track/7uRLpDoVtEnhlaUFJyVTfX"
     },
     {
       "added_at": null,
@@ -759,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Devu\u00e9lveme a Mi Chica",
-        "url": "https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8"
+        "name": "The Lonestar (Side B)",
+        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
       },
       "artists": [
         {
@@ -768,9 +744,9 @@
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 188764,
-      "name": "Devu\u00e9lveme a Mi Chica",
-      "url": "https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D"
+      "duration_ms": 209111,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia"
     },
     {
       "added_at": null,
@@ -791,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lonestar (Side B)",
-        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 209111,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Bailes Asi (Remix)",
         "url": "https://open.spotify.com/album/5YUUCEPXVdHZ6o69Yz0qCD"
       },
@@ -823,6 +783,46 @@
       "duration_ms": 153600,
       "name": "No Bailes Asi - Remix",
       "url": "https://open.spotify.com/track/7KGZ4RAnygOyGkplbKIWBe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Devu\u00e9lveme a Mi Chica",
+        "url": "https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "Devu\u00e9lveme a Mi Chica",
+      "url": "https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lonestar (Side B)",
+        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Southside Hoodlum",
+          "url": "https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ"
+        },
+        {
+          "name": "Le$",
+          "url": "https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Big Chains",
+      "url": "https://open.spotify.com/track/7uRLpDoVtEnhlaUFJyVTfX"
     },
     {
       "added_at": null,

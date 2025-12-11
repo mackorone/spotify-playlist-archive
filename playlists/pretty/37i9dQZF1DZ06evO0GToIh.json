@@ -1,12 +1,12 @@
 {
   "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 328623,
+  "num_followers": 328846,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAABv1r67g1NNp5WKDkxmW0yU",
+  "snapshot_id": "aTdmgAAAAAAIFCc6+JPAd+LUkZJvAfQT",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "GARC\u00cdA",
-        "url": "https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo"
+        "name": "Los Prohibidos en Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6"
       },
       "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 168203,
-      "name": "Llorar Por Ella",
-      "url": "https://open.spotify.com/track/3VVQwgH72ke5lwjuHKMgdb"
+      "duration_ms": 154093,
+      "name": "Cosas del Amor - En Vivo",
+      "url": "https://open.spotify.com/track/6YzMEo6d3PbmtftbYwE9tj"
     },
     {
       "added_at": null,
@@ -627,18 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Prohibidos en Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6"
+        "name": "GARC\u00cdA",
+        "url": "https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo"
       },
       "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 154093,
-      "name": "Cosas del Amor - En Vivo",
-      "url": "https://open.spotify.com/track/6YzMEo6d3PbmtftbYwE9tj"
+      "duration_ms": 168203,
+      "name": "Llorar Por Ella",
+      "url": "https://open.spotify.com/track/3VVQwgH72ke5lwjuHKMgdb"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
-        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 181701,
-      "name": "Viejo",
-      "url": "https://open.spotify.com/track/0uP9Sni25rINuhcfN2dwGb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Dama",
         "url": "https://open.spotify.com/album/2mfGjJ5WjQXi6NqFtDWoYd"
       },
@@ -775,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piedras a la Luna",
-        "url": "https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI"
+        "name": "La Historia Debe Continuar (TOUR EN VIVO) [En Vivo]",
+        "url": "https://open.spotify.com/album/7mZcXcmJJ2ZvuTu2bYTEek"
       },
       "artists": [
         {
@@ -784,9 +768,9 @@
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 195389,
-      "name": "Gracias por Venir",
-      "url": "https://open.spotify.com/track/369MFggDGnFLzl8OeChTil"
+      "duration_ms": 181701,
+      "name": "Viejo",
+      "url": "https://open.spotify.com/track/0uP9Sni25rINuhcfN2dwGb"
     },
     {
       "added_at": null,
@@ -803,6 +787,22 @@
       "duration_ms": 196406,
       "name": "Te Invito a Ser Feliz",
       "url": "https://open.spotify.com/track/3bUzFhNuke83LHTBw0XhYr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piedras a la Luna",
+        "url": "https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 195389,
+      "name": "Gracias por Venir",
+      "url": "https://open.spotify.com/track/369MFggDGnFLzl8OeChTil"
     },
     {
       "added_at": null,

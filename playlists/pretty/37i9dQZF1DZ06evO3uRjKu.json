@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 74561,
+  "num_followers": 74566,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAADDWT0E0sVGCV3hbLP0RvOy",
+  "snapshot_id": "aTdmgAAAAAD0i0ZN9qO6quP26L9+rzDV",
   "tracks": [
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Vilma Palma",
-        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Son tus ojos",
-      "url": "https://open.spotify.com/track/4I8H3JhKwTFTG8I3vzVkUy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
         "url": "https://open.spotify.com/album/02NQhvzvCmfTuzhIJRRl5Y"
       },
@@ -599,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pachanga",
-        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+        "name": "Lo Mejor de Vilma Palma",
+        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
       },
       "artists": [
         {
@@ -608,25 +592,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 350712,
-      "name": "Demasiado Tarde",
-      "url": "https://open.spotify.com/track/5Oa1k1gOxhP018PPRw1Sys"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 195186,
-      "name": "Vamos Linda",
-      "url": "https://open.spotify.com/track/6Ik6K1CUVXRSYHeWLveSbA"
+      "duration_ms": 246333,
+      "name": "Son tus ojos",
+      "url": "https://open.spotify.com/track/4I8H3JhKwTFTG8I3vzVkUy"
     },
     {
       "added_at": null,
@@ -647,6 +615,38 @@
       "duration_ms": 229469,
       "name": "Te Quiero Comer la Boca",
       "url": "https://open.spotify.com/track/0jOcYlFjCBNSq1cXACI1D3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 195186,
+      "name": "Vamos Linda",
+      "url": "https://open.spotify.com/track/6Ik6K1CUVXRSYHeWLveSbA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 350712,
+      "name": "Demasiado Tarde",
+      "url": "https://open.spotify.com/track/5Oa1k1gOxhP018PPRw1Sys"
     },
     {
       "added_at": null,

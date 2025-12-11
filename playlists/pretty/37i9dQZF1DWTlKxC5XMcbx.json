@@ -1,6 +1,6 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61837,
+  "num_followers": 61834,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-11-24 03:04:51",
       "album": {
-        "name": "Scott Hamilton Plays Ballads",
-        "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
-      },
-      "artists": [
-        {
-          "name": "Scott Hamilton",
-          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
-        }
-      ],
-      "duration_ms": 220666,
-      "name": "Maybe September",
-      "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
-    },
-    {
-      "added_at": "2025-11-24 03:04:51",
-      "album": {
         "name": "Reacquainted",
         "url": "https://open.spotify.com/album/7jttkH7iYONN0AoY3jTyeD"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 209594,
       "name": "Reacquainted",
       "url": "https://open.spotify.com/track/0MdFNrukQ56KurgxVNTNm2"
+    },
+    {
+      "added_at": "2025-11-24 03:04:51",
+      "album": {
+        "name": "Scott Hamilton Plays Ballads",
+        "url": "https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm"
+      },
+      "artists": [
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "Maybe September",
+      "url": "https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc"
     },
     {
       "added_at": "2025-11-24 03:04:51",
@@ -1279,26 +1279,18 @@
     {
       "added_at": "2025-11-24 03:04:51",
       "album": {
-        "name": "Gone With The Wind",
-        "url": "https://open.spotify.com/album/485SZ10AUeaKMJ5u5d1N5r"
+        "name": "One Quiet Night",
+        "url": "https://open.spotify.com/album/6lUW37ehhdAZNF3cJPkSpK"
       },
       "artists": [
         {
-          "name": "Martin Wind",
-          "url": "https://open.spotify.com/artist/3wozHMPLuqajGrQWyiwrxT"
-        },
-        {
-          "name": "Bill Mays",
-          "url": "https://open.spotify.com/artist/1ilp455TV1iDOBdrxrqKTQ"
-        },
-        {
-          "name": "Keith Copeland",
-          "url": "https://open.spotify.com/artist/3fsxFG2I0ZO5Gbl6GWyMIe"
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
         }
       ],
-      "duration_ms": 499600,
-      "name": "Born To Be Blue",
-      "url": "https://open.spotify.com/track/6X94pvu9uxSEbIipBs63Ym"
+      "duration_ms": 301880,
+      "name": "One Quiet Night",
+      "url": "https://open.spotify.com/track/4XdoeWiOIDg2VMVUZSnHlO"
     }
   ],
   "unique_name": "\u50ac\u7720\u7235\u58eb",

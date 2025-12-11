@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 643597,
+  "num_followers": 643731,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-12-05 05:00:22",
       "album": {
-        "name": "Like an Arrow",
-        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
-      },
-      "artists": [
-        {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
-        }
-      ],
-      "duration_ms": 247008,
-      "name": "Waiting for the Thunder",
-      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
-    },
-    {
-      "added_at": "2025-12-05 05:00:22",
-      "album": {
         "name": "Roads That Go Nowhere",
         "url": "https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 218860,
       "name": "Southern Rock",
       "url": "https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3"
+    },
+    {
+      "added_at": "2025-12-05 05:00:22",
+      "album": {
+        "name": "Like an Arrow",
+        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
+      },
+      "artists": [
+        {
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+        }
+      ],
+      "duration_ms": 247008,
+      "name": "Waiting for the Thunder",
+      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
     },
     {
       "added_at": "2025-12-05 05:00:22",
@@ -1267,22 +1267,18 @@
     {
       "added_at": "2025-12-05 05:00:22",
       "album": {
-        "name": "Wrecking Ball",
-        "url": "https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd"
+        "name": "Time Bomb",
+        "url": "https://open.spotify.com/album/5uX7PE5xWt9RQHofF3wCLH"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
         }
       ],
-      "duration_ms": 235053,
-      "name": "Wrecking Ball",
-      "url": "https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl"
+      "duration_ms": 215760,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/4wYzsmAN7BPgNl422OkzIY"
     },
     {
       "added_at": "2025-12-05 05:00:22",
@@ -1303,18 +1299,22 @@
     {
       "added_at": "2025-12-05 05:00:22",
       "album": {
-        "name": "Time Bomb",
-        "url": "https://open.spotify.com/album/5uX7PE5xWt9RQHofF3wCLH"
+        "name": "Wrecking Ball",
+        "url": "https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd"
       },
       "artists": [
         {
-          "name": "Whiskey Myers",
-          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 215760,
-      "name": "Time Bomb",
-      "url": "https://open.spotify.com/track/4wYzsmAN7BPgNl422OkzIY"
+      "duration_ms": 235053,
+      "name": "Wrecking Ball",
+      "url": "https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl"
     },
     {
       "added_at": "2025-12-05 05:00:22",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-12-05 05:00:22",
       "album": {
+        "name": "THE WAY (Deluxe)",
+        "url": "https://open.spotify.com/album/6dvrpWZMYRBtFiYHMisNgD"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 249612,
+      "name": "ELEVATE",
+      "url": "https://open.spotify.com/track/2JFdwYlUkWYnZOer20BcHu"
+    },
+    {
+      "added_at": "2025-12-05 05:00:22",
+      "album": {
         "name": "I'm Not For Everyone",
         "url": "https://open.spotify.com/album/3VJT2Km0a8tkdelBOR6ucr"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 172106,
       "name": "I'm Not For Everyone",
       "url": "https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX"
-    },
-    {
-      "added_at": "2025-12-05 05:00:22",
-      "album": {
-        "name": "Tabasco & Sweet Tea",
-        "url": "https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA"
-      },
-      "artists": [
-        {
-          "name": "The Cadillac Three",
-          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
-        }
-      ],
-      "duration_ms": 280065,
-      "name": "Tabasco & Sweet Tea",
-      "url": "https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B"
     },
     {
       "added_at": "2025-12-05 05:00:22",
@@ -1499,22 +1499,18 @@
     {
       "added_at": "2025-12-05 05:00:22",
       "album": {
-        "name": "TOMBSTONE TOWN (feat. Slash)",
-        "url": "https://open.spotify.com/album/6ADtO6kde5TxMseMn2r7WO"
+        "name": "Tabasco & Sweet Tea",
+        "url": "https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA"
       },
       "artists": [
         {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        },
-        {
-          "name": "Slash",
-          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
         }
       ],
-      "duration_ms": 194653,
-      "name": "TOMBSTONE TOWN (feat. Slash)",
-      "url": "https://open.spotify.com/track/2Xs6Vya6Zninq68d7uUopi"
+      "duration_ms": 280065,
+      "name": "Tabasco & Sweet Tea",
+      "url": "https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B"
     },
     {
       "added_at": "2025-12-05 05:00:22",
@@ -1535,6 +1531,26 @@
       "duration_ms": 212680,
       "name": "Find You (feat. Rory Rodriguez)",
       "url": "https://open.spotify.com/track/6Ai14RhZhVEG9S2Vk6JjsL"
+    },
+    {
+      "added_at": "2025-12-05 05:00:22",
+      "album": {
+        "name": "TOMBSTONE TOWN (feat. Slash)",
+        "url": "https://open.spotify.com/album/6ADtO6kde5TxMseMn2r7WO"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        },
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        }
+      ],
+      "duration_ms": 194653,
+      "name": "TOMBSTONE TOWN (feat. Slash)",
+      "url": "https://open.spotify.com/track/2Xs6Vya6Zninq68d7uUopi"
     },
     {
       "added_at": "2025-12-05 05:00:22",
@@ -1583,22 +1599,6 @@
       "duration_ms": 171937,
       "name": "Middle Finger Motto",
       "url": "https://open.spotify.com/track/4SflMtWx9gjZ4lT7qcU871"
-    },
-    {
-      "added_at": "2025-12-05 05:00:22",
-      "album": {
-        "name": "THE WAY (Deluxe)",
-        "url": "https://open.spotify.com/album/6dvrpWZMYRBtFiYHMisNgD"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 249612,
-      "name": "ELEVATE",
-      "url": "https://open.spotify.com/track/2JFdwYlUkWYnZOer20BcHu"
     },
     {
       "added_at": "2025-12-05 05:00:22",

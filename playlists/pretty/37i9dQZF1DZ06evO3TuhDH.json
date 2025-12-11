@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 18867,
+  "num_followers": 18870,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAAUI7/aDNRR6cGbQivKncpz",
+  "snapshot_id": "aTdmgAAAAAA8qgpcHJfma6R9JV/2ttcs",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Now or Never",
-        "url": "https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 208822,
-      "name": "Slide (with Gunna)",
-      "url": "https://open.spotify.com/track/5zYmGeAGeqM4pA4jb64NHI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blick Blick",
         "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 178413,
       "name": "Blick Blick (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Now or Never",
+        "url": "https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 208822,
+      "name": "Slide (with Gunna)",
+      "url": "https://open.spotify.com/track/5zYmGeAGeqM4pA4jb64NHI"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nonsense (Remix)",
-        "url": "https://open.spotify.com/album/1jTN0ud3pW7ATr45S1CdpL"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 175648,
-      "name": "Nonsense (with Coi Leray) - Remix",
-      "url": "https://open.spotify.com/track/0DD4vkP9qDiej99eUCG4jC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Sleep? (Deluxe)",
         "url": "https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 119715,
       "name": "2055 (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/0VhA1feaHVoftAyZ5fGGHA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nonsense (Remix)",
+        "url": "https://open.spotify.com/album/1jTN0ud3pW7ATr45S1CdpL"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 175648,
+      "name": "Nonsense (with Coi Leray) - Remix",
+      "url": "https://open.spotify.com/track/0DD4vkP9qDiej99eUCG4jC"
     },
     {
       "added_at": null,
@@ -991,22 +991,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trendsetter",
-        "url": "https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx"
+        "name": "Slime Language 2",
+        "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
       "artists": [
         {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
         },
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Karlae",
+          "url": "https://open.spotify.com/artist/6RY7kT6PGGzAA3TG3s4Qmp"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 190560,
-      "name": "Overthinking (with H.E.R.)",
-      "url": "https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9"
+      "duration_ms": 189813,
+      "name": "I Like (feat. Karlae & Coi Leray)",
+      "url": "https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn"
     }
   ],
   "unique_name": "This Is Coi Leray",

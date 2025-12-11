@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Karoline Mousing, Bless You og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,520 likes - 95 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,510 likes - 95 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

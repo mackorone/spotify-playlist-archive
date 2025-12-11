@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 8856,
+  "num_followers": 8858,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAADj8Q233yIGLcm4rmlwpNjY",
+  "snapshot_id": "aTdmgAAAAACImfPfojlvjvFGQSclJk3D",
   "tracks": [
     {
       "added_at": null,
@@ -63,26 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Serious",
-        "url": "https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk"
-      },
-      "artists": [
-        {
-          "name": "J. Martins",
-          "url": "https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 245626,
-      "name": "Good Or Bad (Oway)",
-      "url": "https://open.spotify.com/track/1jqBgNjP5yfjCrAgJZE0be"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Telli Person",
         "url": "https://open.spotify.com/album/2S8IqygjfGKH7jMAac2vhS"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 224754,
       "name": "Telli Person",
       "url": "https://open.spotify.com/track/2yiZjiwZq3pdfCdrbp87b4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Serious",
+        "url": "https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk"
+      },
+      "artists": [
+        {
+          "name": "J. Martins",
+          "url": "https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 245626,
+      "name": "Good Or Bad (Oway)",
+      "url": "https://open.spotify.com/track/1jqBgNjP5yfjCrAgJZE0be"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/34Ve0t594zURQel4Ob1bGi"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 187586,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/7jHoVoaBxJEmbxTdpW4Xhp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Samankwe",
         "url": "https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 212554,
       "name": "Samankwe",
       "url": "https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/34Ve0t594zURQel4Ob1bGi"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/7jHoVoaBxJEmbxTdpW4Xhp"
     },
     {
       "added_at": null,

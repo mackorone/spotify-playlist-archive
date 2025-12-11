@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 62276,
+  "num_followers": 62289,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAABmQSxikgK2DmEckQG3xa7X",
+  "snapshot_id": "aTdmgAAAAACXNTK6/HuSRyUY4Ti8HEWH",
   "tracks": [
     {
       "added_at": null,
@@ -207,18 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resiliencia",
-        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
+        "name": "El Fabi",
+        "url": "https://open.spotify.com/album/6mbT8deP7lDf9PWxlibXic"
       },
       "artists": [
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
         }
       ],
-      "duration_ms": 235968,
-      "name": "La Calabaza",
-      "url": "https://open.spotify.com/track/6ov93lW7yjZ1oO5FLFQvcR"
+      "duration_ms": 160746,
+      "name": "El Fabi",
+      "url": "https://open.spotify.com/track/31ErKBwXb8AAtg1ia8mr90"
     },
     {
       "added_at": null,
@@ -239,22 +243,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Fabi",
-        "url": "https://open.spotify.com/album/6mbT8deP7lDf9PWxlibXic"
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
       },
       "artists": [
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
         }
       ],
-      "duration_ms": 160746,
-      "name": "El Fabi",
-      "url": "https://open.spotify.com/track/31ErKBwXb8AAtg1ia8mr90"
+      "duration_ms": 235968,
+      "name": "La Calabaza",
+      "url": "https://open.spotify.com/track/6ov93lW7yjZ1oO5FLFQvcR"
     },
     {
       "added_at": null,
@@ -279,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resiliencia",
-        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
+        "name": "31 Hats",
+        "url": "https://open.spotify.com/album/0kU84HlbzNzkVfcP5mTKSm"
       },
       "artists": [
         {
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 171808,
-      "name": "Sacando Cuentas",
-      "url": "https://open.spotify.com/track/77YlSpnsy6SoUABVTGcghD"
+      "duration_ms": 189142,
+      "name": "31 Hats",
+      "url": "https://open.spotify.com/track/7jB7UMt4AfL4jtbgQQzYxW"
     },
     {
       "added_at": null,
@@ -311,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "31 Hats",
-        "url": "https://open.spotify.com/album/0kU84HlbzNzkVfcP5mTKSm"
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 189142,
-      "name": "31 Hats",
-      "url": "https://open.spotify.com/track/7jB7UMt4AfL4jtbgQQzYxW"
+      "duration_ms": 171808,
+      "name": "Sacando Cuentas",
+      "url": "https://open.spotify.com/track/77YlSpnsy6SoUABVTGcghD"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caravana de Carros",
-        "url": "https://open.spotify.com/album/5EuUYNWx0jmsGyWkMV3MP2"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 220143,
-      "name": "Caravana de Carros",
-      "url": "https://open.spotify.com/track/6O3Wb4IuCALnVzcs63aoEZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En la Ciudad",
         "url": "https://open.spotify.com/album/6fK7NyDOCaORkcEV6ravOd"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 186589,
       "name": "En la Ciudad",
       "url": "https://open.spotify.com/track/0iDBiUWfjxXi3BAiAuxaeH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Caravana de Carros",
+        "url": "https://open.spotify.com/album/5EuUYNWx0jmsGyWkMV3MP2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 220143,
+      "name": "Caravana de Carros",
+      "url": "https://open.spotify.com/track/6O3Wb4IuCALnVzcs63aoEZ"
     },
     {
       "added_at": null,

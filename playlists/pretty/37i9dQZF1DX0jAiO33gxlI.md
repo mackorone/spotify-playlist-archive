@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto:  Drik Barbosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,912 likes - 74 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,903 likes - 74 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 73 | [Treino](https://open.spotify.com/track/2eonBU1zp9235uCM494RVl) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Treino](https://open.spotify.com/album/17Gwt9UWAfziPiAE7YpS84) | 2:47 |
 | 74 | [CAFAJE$TE \- Spotify Singles](https://open.spotify.com/track/0LmKucquAPmc2b6hleg8k3) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [CAFAJE$TE \- Spotify Singles](https://open.spotify.com/album/5ao8iMY0a0hONNq1EQwkSk) | 2:33 |
 
-Snapshot ID: `AAAAAFcsOMcXdV3itwpOv9fNi7hwY1aw`
+Snapshot ID: `AAAAAD4wUrXblZRj7XZyss1yAxDEryd3`

@@ -4,7 +4,7 @@
 
 > All the indie gems from 2025 that we can't get enough of\. Cover: Dan English
 
-435 songs - 1 day 0 hr 44 min
+436 songs - 1 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [desire machine](https://open.spotify.com/track/0ggTHtuRYmdQxTEs8T32ny) | [spirit blue](https://open.spotify.com/artist/49JcjxYnQNsELWLqtzIycx) | [ps / dm](https://open.spotify.com/album/41iZzEDQEdv2RzY4o7yf4F) | 3:50 | 2024-12-04 | 2025-12-04 |
 | [Det läcker](https://open.spotify.com/track/6GffMzseDk8LgpRNFW9Hca) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Det läcker](https://open.spotify.com/album/3kEotfrHH6NPyySBFaxsaL) | 4:19 | 2023-11-29 | 2024-12-05 |
 | [Devil Mode](https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Devil Mode](https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf) | 3:04 | 2024-12-04 | 2025-10-21 |
+| [Dissociate](https://open.spotify.com/track/5phzTzZYuWstrCTZI56Nzo) | [Luisa Marion](https://open.spotify.com/artist/3m2JMbwYgxHsgGHo3Ifdie) | [Dissociate](https://open.spotify.com/album/66BVG7qVrETXlleUUcqEBK) | 3:14 | 2025-12-03 |  |
 | [Distant Calls](https://open.spotify.com/track/2QU1bg22cuTuNXUpQl389b) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [Flore Benguigui](https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw) | [Close to Your Heart](https://open.spotify.com/album/2BbAWGyJvddLWwzpzhA6lp) | 2:44 | 2022-11-30 | 2023-11-30 |
 | [Distant Shouts](https://open.spotify.com/track/5tz21jP1zSzw7Ke5EaR78P) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Distant Shouts](https://open.spotify.com/album/2mUurk1uS8I9v7dcNJFOCY) | 3:10 | 2022-11-30 | 2023-11-30 |
 | [Do You Think I'm Pretty](https://open.spotify.com/track/4CbNiKt4MugG8a7eWnRID4) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Grip Your Fist, I'm Heaven Bound](https://open.spotify.com/album/6kb777ggEqdZEN2J80USnD) | 5:42 | 2025-12-03 |  |
@@ -290,7 +291,7 @@
 | [Persuasion](https://open.spotify.com/track/5rbh9uwfOz2vBramGDs5Lo) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf) | 2:48 | 2024-12-04 | 2025-11-26 |
 | [Petals](https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 2:53 | 2025-12-03 |  |
 | [Piano Hands](https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Piano Hands](https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk) | 3:38 | 2024-12-04 | 2025-11-30 |
-| [Pieces Of Yours](https://open.spotify.com/track/1LM1iNC8rMf1VrdttDLvp7) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Pieces Of Yours](https://open.spotify.com/album/1crHdU1F0JTU1pHMB5R5ve) | 1:50 | 2025-12-03 |  |
+| [Pieces Of Yours](https://open.spotify.com/track/1LM1iNC8rMf1VrdttDLvp7) | [Mackeeper](https://open.spotify.com/artist/22NwVn8gHhq8eeWhZXgjOX) | [Pieces Of Yours](https://open.spotify.com/album/1crHdU1F0JTU1pHMB5R5ve) | 1:50 | 2025-12-03 | 2025-12-11 |
 | [pink dress](https://open.spotify.com/track/2MBuWN9LjsJSKyGlWSJOXo) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [pink dress](https://open.spotify.com/album/2By8efmDvVvtVaWyJdyx0s) | 2:53 | 2023-11-29 | 2024-06-02 |
 | [pink dress](https://open.spotify.com/track/4UYMPoAzPFMkWUYa5t5Fpb) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [every night was the same](https://open.spotify.com/album/4Vp5n4xTIUoksQ1mwqf5BK) | 2:53 | 2023-11-29 | 2024-04-19 |
 | [Planes](https://open.spotify.com/track/6ldto3peQuqKTZKMa4SA6f) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Planes](https://open.spotify.com/album/7rWIUlfmcWa9rQLMJ2SXrN) | 3:33 | 2023-11-29 | 2024-12-05 |

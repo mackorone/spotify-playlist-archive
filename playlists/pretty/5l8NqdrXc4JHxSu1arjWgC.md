@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,673 likes - 772 songs - 2 day 3 hr 28 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,675 likes - 772 songs - 2 day 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -512,7 +512,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 502 | [Goodnight, P.C.C.](https://open.spotify.com/track/6rGuFgh4Dte5hyCq3dUx4C) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Tasmania](https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6) | 5:24 |
 | 503 | [If Love Is The Law](https://open.spotify.com/track/0SG8U2n7VRFOKKBDQBUliy) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Who Built The Moon?](https://open.spotify.com/album/2pzI39O9jAVFghND0SiQHm) | 3:25 |
 | 504 | [Village Green \- 2018 Stereo Remaster](https://open.spotify.com/track/3dDN8YRmBb9Y9zUSZpcBu2) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [The Kinks Are The Village Green Preservation Society \(2018 Deluxe\)](https://open.spotify.com/album/6KSNUajJsQNXyp26fyE4Jf) | 2:11 |
-| 505 | [Give Me Love \(Give Me Peace On Earth\)](https://open.spotify.com/track/4XMRt4xFqLzGs4wDKkSSeu) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Living In The Material World \(Remastered\)](https://open.spotify.com/album/79hB4QtJjn0Y4DyRPpllZg) | 3:35 |
+| 505 | [Give Me Love \(Give Me Peace on Earth\)](https://open.spotify.com/track/4XMRt4xFqLzGs4wDKkSSeu) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Living In The Material World \(Remastered\)](https://open.spotify.com/album/79hB4QtJjn0Y4DyRPpllZg) | 3:35 |
 | 506 | [Giant Tortoise](https://open.spotify.com/track/2CgUaNGnbBYEIaKGzoLksn) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Hobo Rocket](https://open.spotify.com/album/4JcZo9SqwxrbDqsLf3e2WF) | 4:12 |
 | 507 | [All the Madmen \- 2015 Remaster](https://open.spotify.com/track/2ZnsnOk8bEM6LIUUUpWgDV) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Man Who Sold the World \(2015 Remaster\)](https://open.spotify.com/album/4h9rWFWhgCSSrvIEQ0YhYG) | 5:43 |
 | 508 | [Easy Way Out](https://open.spotify.com/track/6Hlt4S0nm1URyqM0WLlQzY) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 2:44 |

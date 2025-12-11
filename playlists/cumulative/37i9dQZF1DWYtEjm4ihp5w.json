@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Cover: Inkonnu",
+  "description": "Cover: Mons",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -1392,6 +1392,24 @@
       "duration_ms": 158241,
       "name": "Cagoul\u00e9",
       "url": "https://open.spotify.com/track/0IziqBIxOD80J4qV6WweHq"
+    },
+    {
+      "album": {
+        "name": "Cagoul\u00e9 pt2",
+        "url": "https://open.spotify.com/album/0G9fkhG7XtdYDSwGVwWWtV"
+      },
+      "artists": [
+        {
+          "name": "Valerieblud",
+          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175999,
+      "name": "Cagoul\u00e9 pt2",
+      "url": "https://open.spotify.com/track/3f1GODLf3GYUH6ReHyTrKR"
     },
     {
       "album": {
@@ -8138,7 +8156,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 140031,
       "name": "Valluminati",
       "url": "https://open.spotify.com/track/7MVXEImcCVGCPhfqiTVSdn"

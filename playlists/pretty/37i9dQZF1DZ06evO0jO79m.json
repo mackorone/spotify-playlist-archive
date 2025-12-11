@@ -1,12 +1,12 @@
 {
   "description": "This is Shakira. The essential tracks, all in one playlist.",
-  "num_followers": 1750666,
+  "num_followers": 1751188,
   "original_name": "This Is Shakira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAAXYGoimrII1sP9yML+jXFo",
+  "snapshot_id": "aTdmgAAAAABxSMkmFQJNDeeyFUAFrj13",
   "tracks": [
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zootopia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3X6netsswLt0U97Doga56C"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 196853,
+      "name": "Try Everything",
+      "url": "https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El tren de los momentos",
         "url": "https://open.spotify.com/album/4LXfHYVr0scRlsxnWyO437"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 214133,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zootopia (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3X6netsswLt0U97Doga56C"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 196853,
-      "name": "Try Everything",
-      "url": "https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 226733,
-      "name": "Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/4qknM1pQz53QOyfDVTjcM9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FIVE (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 196474,
       "name": "Deja vu",
       "url": "https://open.spotify.com/track/46HdsiK0uR26B2dY9QPzda"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 226733,
+      "name": "Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/4qknM1pQz53QOyfDVTjcM9"
     },
     {
       "added_at": null,
@@ -991,26 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gusta",
-        "url": "https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 190570,
-      "name": "Me Gusta",
-      "url": "https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B'Day Deluxe Edition",
         "url": "https://open.spotify.com/album/2WkOVbvgyo0E0G7w2ZsAi2"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 199840,
       "name": "Beautiful Liar",
       "url": "https://open.spotify.com/track/76Y07hjDi7fjJnZKsQbEaF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Gusta",
+        "url": "https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 190570,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a"
     },
     {
       "added_at": null,

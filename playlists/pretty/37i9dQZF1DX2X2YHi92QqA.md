@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > Тепла музика в холодні дні ☕ ❄️🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,944 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,948 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 6 | [Alleys of My Mind](https://open.spotify.com/track/5edRlXB2uyco1o6ZNCjLGB) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx), [Black Soil](https://open.spotify.com/artist/11qW8E6gUDxAuTvn9VJQnD) | [Alleys of My Mind](https://open.spotify.com/album/51nLeJhY3JcfO6axuGTfqA) | 3:57 |
 | 7 | [Ніченька](https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9) | [OKS](https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4) | [Ніченька](https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT) | 3:09 |
 | 8 | [Повільно](https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Повільно](https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv) | 2:46 |
-| 9 | [моменти](https://open.spotify.com/track/3vWXpZ1xGI8gi14JunlmUc) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [моменти](https://open.spotify.com/album/2xBr5aCarnvgIpwANLekHC) | 3:24 |
+| 9 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 |
 | 10 | [Спірічуал](https://open.spotify.com/track/2oTMeZP9JBsDBL0SKnjWcA) | [Blooms Corda](https://open.spotify.com/artist/3mlUhGSEvqMhUNu7uWB9hA) | [Найдорожчі речі у світі](https://open.spotify.com/album/5ghlX8TOnOWY6vf8OQlZGF) | 4:15 |
-| 11 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 |
+| 11 | [моменти](https://open.spotify.com/track/3vWXpZ1xGI8gi14JunlmUc) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [моменти](https://open.spotify.com/album/2xBr5aCarnvgIpwANLekHC) | 3:24 |
 | 12 | [Біля серця](https://open.spotify.com/track/20SSuP71R4A88qHQu4BKY6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Біля серця](https://open.spotify.com/album/5QKwlUsyDw4fJ4c3zTPZPY) | 2:16 |
 | 13 | [I DON'T WANNA FEEL THAT WAY](https://open.spotify.com/track/4Co67jPlW5wF3vW5gye8cO) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [LIFELINE](https://open.spotify.com/album/3kBuRWAR5eqO29Yr0tzkJi) | 3:51 |
 | 14 | [Будь зі мною](https://open.spotify.com/track/0dLBJzY1JLNTXdyN3oEZ1d) | [Grohotsky](https://open.spotify.com/artist/42GlDtFvb6lgqHj7oc4SSi) | [Будь зі мною](https://open.spotify.com/album/16G0KLEpkwOfJPZripKxnl) | 3:33 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 31 | [Нелюбов](https://open.spotify.com/track/7JDV04QvvqeufuidNtrPxW) | [Liza Bibikova](https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz), [MOISHE](https://open.spotify.com/artist/6pcvAwBZmKzwCFYeCSo3eh) | [Нелюбов](https://open.spotify.com/album/7CYPmTT27avT4QG3BhwX6f) | 2:41 |
 | 32 | [КЛИЧУ](https://open.spotify.com/track/3RGUgIjRIdT3bhxl7DFjqc) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [КЛИЧУ](https://open.spotify.com/album/0KrgSWn6t4DMm96YlP7Atv) | 3:10 |
 | 33 | [десь так двічі](https://open.spotify.com/track/0y92ecGtqkj26sUMQuKChn) | [DENOMA](https://open.spotify.com/artist/1CIgr3yWzcyRxtmhuzaqSd), [Feviane](https://open.spotify.com/artist/5D09M3zWukfwLwEZRrOa14) | [десь так двічі](https://open.spotify.com/album/0UKUZpOXurfrbMsjzgbkh2) | 3:17 |
-| 34 | [Somebody Else](https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Somebody Else](https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o) | 3:23 |
-| 35 | [Додому](https://open.spotify.com/track/7uq2pa1AQo78i52lIjCn8U) | [Настя Балог](https://open.spotify.com/artist/126TREJvODJUo3f4UYTFxR), [POSITIFF](https://open.spotify.com/artist/3f7zhsCueKsjZbwOkoTsME) | [Додому](https://open.spotify.com/album/6R7kajFard1oiV6K8aTM4Q) | 2:47 |
+| 34 | [Додому](https://open.spotify.com/track/7uq2pa1AQo78i52lIjCn8U) | [Настя Балог](https://open.spotify.com/artist/126TREJvODJUo3f4UYTFxR), [POSITIFF](https://open.spotify.com/artist/3f7zhsCueKsjZbwOkoTsME) | [Додому](https://open.spotify.com/album/6R7kajFard1oiV6K8aTM4Q) | 2:47 |
+| 35 | [Somebody Else](https://open.spotify.com/track/3oKrYP7f3Q1J5hxKX2Rkvi) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Somebody Else](https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o) | 3:23 |
 | 36 | [обережно! розбите!](https://open.spotify.com/track/23os5lle4XZzaOQmMTKaPM) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [обережно! розбите!](https://open.spotify.com/album/7zH9MCmyBWI9P03w3mn34i) | 3:00 |
 | 37 | [Під крилом](https://open.spotify.com/track/6FTXegNMKv59Kalaukq6pC) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Під крилом](https://open.spotify.com/album/22lwlTnbhpdcdJ6aRlv3jf) | 2:19 |
 | 38 | [Свідомість](https://open.spotify.com/track/20jsajSXoBYHXY1wAgE79k) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Свідомість](https://open.spotify.com/album/1aVoH8UWRQVrF1laF8UQpl) | 2:37 |
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 49 | [Тихо тихо](https://open.spotify.com/track/0oLYBXATXB2eLkJA24A0nr) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3), [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [ГУРМА](https://open.spotify.com/album/7oHTphOuMNRNykMvbk9GIC) | 2:21 |
 | 50 | [На самоті](https://open.spotify.com/track/2QCiHiZdEJLywIL28vbrcd) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe) | [На самоті](https://open.spotify.com/album/786cElizhWDpDRC44iXLmT) | 5:36 |
 | 51 | [Як же тобі там?](https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07) | [Лівінстон](https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9) | [Як же тобі там?](https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ) | 4:04 |
-| 52 | [Feel it Still](https://open.spotify.com/track/2iW6xpM6ift3Ro3CCNbbrM) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD), [Red Band](https://open.spotify.com/artist/1Ba4dhPqLWmwj3Fwf9oWDs) | [Feel it Still](https://open.spotify.com/album/5FqEr3NhzGUOv7tmKyHmpD) | 2:54 |
-| 53 | [Кого ти вигадав?](https://open.spotify.com/track/3ZHshNzetuJ6CWsMoYSZbB) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Кого ти вигадав?](https://open.spotify.com/album/0zzcXw3obSrwf3HRjx0zYO) | 3:06 |
-| 54 | [я є рана / я є ніж](https://open.spotify.com/track/0RlHrI103DK2g6oI7YzE5O) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [я є рана / я є ніж](https://open.spotify.com/album/1Xu46wHIEnQ86soI44DtmG) | 3:05 |
-| 55 | [Фурія](https://open.spotify.com/track/3v1XYRl73UBCTJUZX9lzNd) | [BRYANGIN](https://open.spotify.com/artist/77naAAukVgb5Vy4V6bjRy8) | [Фурія](https://open.spotify.com/album/7aoCba2Hesr4NvXSeIbNyR) | 3:08 |
-| 56 | [ДИМ \- Acoustic](https://open.spotify.com/track/1I38Y9qVi1xENY953nqyce) | [БЕЗ ОБМЕЖЕНЬ](https://open.spotify.com/artist/6jc6H0uwSfRE3Tnd4628cL) | [ДИМ \(Acoustic\)](https://open.spotify.com/album/2hMAXpE73vrbJyyWSsX9es) | 3:41 |
-| 57 | [Коли ти плачеш](https://open.spotify.com/track/0rV1Xyj5FyaGz3HyndDUJe) | [Женя Галич](https://open.spotify.com/artist/2UF0JmW4D3B0bXeAZMidyD) | [Коли ти плачеш](https://open.spotify.com/album/0HJ2q77XaxzQoIht3HE0Gf) | 3:50 |
-| 58 | [Пісне моя](https://open.spotify.com/track/3zglADNq7MNEUAlJfUr710) | [Maryna Krut](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Пісне моя](https://open.spotify.com/album/0M7fq94bIIlSpyZLN8R4Os) | 3:15 |
-| 59 | [сонце](https://open.spotify.com/track/4qO2JGY16Psvn6eYSkP67C) | [макс пташник](https://open.spotify.com/artist/1jT1y7O8NtdUwGfCTZM4JE), [Maryna Krut](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [такі як ми](https://open.spotify.com/album/7wdy8JNB5YETxf3UE8fR0r) | 3:11 |
+| 52 | [Кого ти вигадав?](https://open.spotify.com/track/3ZHshNzetuJ6CWsMoYSZbB) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Кого ти вигадав?](https://open.spotify.com/album/0zzcXw3obSrwf3HRjx0zYO) | 3:06 |
+| 53 | [Feel it Still](https://open.spotify.com/track/2iW6xpM6ift3Ro3CCNbbrM) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD), [Red Band](https://open.spotify.com/artist/1Ba4dhPqLWmwj3Fwf9oWDs) | [Feel it Still](https://open.spotify.com/album/5FqEr3NhzGUOv7tmKyHmpD) | 2:54 |
+| 54 | [Фурія](https://open.spotify.com/track/3v1XYRl73UBCTJUZX9lzNd) | [BRYANGIN](https://open.spotify.com/artist/77naAAukVgb5Vy4V6bjRy8) | [Фурія](https://open.spotify.com/album/7aoCba2Hesr4NvXSeIbNyR) | 3:08 |
+| 55 | [Пісне моя](https://open.spotify.com/track/3zglADNq7MNEUAlJfUr710) | [Maryna Krut](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Пісне моя](https://open.spotify.com/album/0M7fq94bIIlSpyZLN8R4Os) | 3:15 |
+| 56 | [я є рана / я є ніж](https://open.spotify.com/track/0RlHrI103DK2g6oI7YzE5O) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [я є рана / я є ніж](https://open.spotify.com/album/1Xu46wHIEnQ86soI44DtmG) | 3:05 |
+| 57 | [ДИМ \- Acoustic](https://open.spotify.com/track/1I38Y9qVi1xENY953nqyce) | [БЕЗ ОБМЕЖЕНЬ](https://open.spotify.com/artist/6jc6H0uwSfRE3Tnd4628cL) | [ДИМ \(Acoustic\)](https://open.spotify.com/album/2hMAXpE73vrbJyyWSsX9es) | 3:41 |
+| 58 | [Коли ти плачеш](https://open.spotify.com/track/0rV1Xyj5FyaGz3HyndDUJe) | [Женя Галич](https://open.spotify.com/artist/2UF0JmW4D3B0bXeAZMidyD) | [Коли ти плачеш](https://open.spotify.com/album/0HJ2q77XaxzQoIht3HE0Gf) | 3:50 |
+| 59 | [Босі](https://open.spotify.com/track/2RGjiZuoFFkGNv23QuasBN) | [STASYA](https://open.spotify.com/artist/2Sa39S5jaI9IcrCqHl89fc) | [Босі](https://open.spotify.com/album/3iwuZ1FfawE3gjPgNSe0qU) | 2:24 |
 | 60 | [Всі ці фарби](https://open.spotify.com/track/6wr8FECmej9ungciGPSiNb) | [typeled](https://open.spotify.com/artist/7jlffRmz59gtUtNL7LgJSq) | [Більше ніж здається](https://open.spotify.com/album/1cj2zkpVBJdVyyCGDR6sRJ) | 3:00 |
 
-Snapshot ID: `AAAAAKD/X21ZP3ZiaM7rPwcvBo9tJTFi`
+Snapshot ID: `AAAAAGOpioEj28CKIPYKhXyvsUFzMiow`

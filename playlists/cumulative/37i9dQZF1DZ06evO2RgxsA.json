@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "A to H",
+        "url": "https://open.spotify.com/album/5pUkSUz92gUxkgVsI79PmP"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149896,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/2FNgUR3gCIId7yAQ3wKFCd"
+    },
+    {
+      "album": {
         "name": "Barcelona",
         "url": "https://open.spotify.com/album/58vAIIIVyuZorOXTM3yQir"
       },
@@ -830,7 +848,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 113210,
       "name": "Hardcore 84",
       "url": "https://open.spotify.com/track/38jmfumWNZ5wMQs9tNw6dN"

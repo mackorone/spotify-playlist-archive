@@ -1,12 +1,12 @@
 {
   "description": "This is Linkin Park. The essential tracks, all in one playlist.",
-  "num_followers": 2994694,
+  "num_followers": 2995136,
   "original_name": "This Is Linkin Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAABXCNA1G2/1r2p0/ms7K8yj",
+  "snapshot_id": "aTdmgAAAAAAjP5b13jmqgX+bMI7Dm9AI",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 199342,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Minutes to Midnight",
         "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 221693,
       "name": "No More Sorrow",
       "url": "https://open.spotify.com/track/4CWhc9FaMMfBTt4ANjfbOf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 199342,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Zero (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 208739,
-      "name": "Let You Fade",
-      "url": "https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Minutes to Midnight",
         "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 289906,
       "name": "Shadow of the Day",
       "url": "https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Zero (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 208739,
+      "name": "Let You Fade",
+      "url": "https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Zero (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 196112,
-      "name": "Unshatter",
-      "url": "https://open.spotify.com/track/6r2JE3s7XVnGfwiWCymyWf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Thousand Suns",
         "url": "https://open.spotify.com/album/5uvXx5ZQswNRFCdHR521YZ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 339853,
       "name": "The Catalyst",
       "url": "https://open.spotify.com/track/5bvgRxco3jgSZ3SP8rueDA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Zero (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 196112,
+      "name": "Unshatter",
+      "url": "https://open.spotify.com/track/6r2JE3s7XVnGfwiWCymyWf"
     },
     {
       "added_at": null,

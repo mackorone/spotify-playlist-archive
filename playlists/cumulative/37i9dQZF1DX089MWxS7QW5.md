@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: g0nny\(거니\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Moon Sujin\(문수진\)\)
 
-590 songs - 1 day 7 hr 46 min
+591 songs - 1 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,6 +450,7 @@
 | [See through \(Feat\. Michelle\)](https://open.spotify.com/track/7mvrsDEEEvR7sRapkxsjDg) | [gani](https://open.spotify.com/artist/4ZslxGFMt5d6axpVivGwZr), [Michelle](https://open.spotify.com/artist/13VDZTUvX9b5ivTysrXuMk) | [See through \(Feat\. Michelle\)](https://open.spotify.com/album/6cunlL6umFfwNoHhSJQWJz) | 2:48 | 2025-04-18 | 2025-08-21 |
 | [Seed](https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 4:15 | 2023-05-05 | 2023-10-17 |
 | [Sentimental Love](https://open.spotify.com/track/3AXhW63USQmXX3d4Efzmdd) | [민지운](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [Sentimental Love](https://open.spotify.com/album/32V9wJHI9Mt9vnYCiUuX9N) | 2:14 | 2024-10-04 | 2025-03-13 |
+| [SERENADE \(feat\. Joh!\)](https://open.spotify.com/track/526zFinjNDJtpZwbe6EtnW) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Joh!](https://open.spotify.com/artist/13Gmz7fhew38A0i3bkkgp6) | [SERENADE \(feat\. Joh!\)](https://open.spotify.com/album/4xAbcjMQLLAqiU9h1Wfbbs) | 2:25 | 2025-12-10 |  |
 | [She \(Ain’t the Love That I Wanted\)](https://open.spotify.com/track/1EDNpVMU55uNnNO2yrLJJM) | [G\. Nine](https://open.spotify.com/artist/6KyAMbfO1f5yIQjh9WWYDa) | [She \(Ain’t the Love That I Wanted\)](https://open.spotify.com/album/0zB5PaoDPqW5o0jGrYYOPw) | 2:33 | 2025-05-20 | 2025-09-19 |
 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 | 2022-07-04 | 2022-10-08 |
 | [SIDE](https://open.spotify.com/track/6tQxgxb63XBelPTNtD02I2) | [blessed.](https://open.spotify.com/artist/54Y80c5eEYbnlvCmIPKf6W) | [SIDE](https://open.spotify.com/album/6GO5T0RNrBgnwppYd0CLO3) | 3:50 | 2024-03-25 | 2024-08-02 |

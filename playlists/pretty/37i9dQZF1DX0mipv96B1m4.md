@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,584 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,585 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 17 | [LIFIST](https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [LIFIST](https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO) | 3:34 |
 | 18 | [My Bed](https://open.spotify.com/track/7lD0Y8t0dYmsjKcYlW08gc) | [John Frog](https://open.spotify.com/artist/08th4TGHS3uaStTDqOoyrE) | [My Bed](https://open.spotify.com/album/7MoasxIIh6VkzbVYTuv8dO) | 2:47 |
 | 19 | [The One](https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld) | [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Jackie Chandiru](https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ) | [The One](https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU) | 3:28 |
-| 20 | [Bajooga](https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Bajooga](https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH) | 2:55 |
+| 20 | [Magazine](https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq) | [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c) | [Magazine](https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7) | 4:02 |
 | 21 | [Gemazima](https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u) | [Gemazima](https://open.spotify.com/album/02QbNNia59RV4jwu00khDg) | 3:01 |
-| 22 | [Magazine](https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq) | [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c) | [Magazine](https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7) | 4:02 |
+| 22 | [Bajooga](https://open.spotify.com/track/0dQT7ywj5hjhHoLcJYhN3k) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Bajooga](https://open.spotify.com/album/22BYk7zBAwCoV7t18eXjFH) | 2:55 |
 | 23 | [Stupid](https://open.spotify.com/track/2GQFN64gmx6tGYW5y3VLFA) | [selecta jef](https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv), [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [Stupid](https://open.spotify.com/album/0dNQmVpyFpFjazSiMwyvpW) | 3:37 |
 | 24 | [Hot Like Dat](https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0) | [Beenie Gunter](https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE), [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [Hot Like Dat](https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj) | 2:46 |
 | 25 | [Misege](https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf) | [Dax Vibez](https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT), [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c) | [Misege](https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br) | 3:08 |

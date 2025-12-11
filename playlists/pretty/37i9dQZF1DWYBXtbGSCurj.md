@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Brandão85, Matuê
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,955 likes - 74 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,958 likes - 74 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 24 | [Bioma](https://open.spotify.com/track/0WUX03kR5b8PX6DQjcoJ3o) | [Asfalto Rec](https://open.spotify.com/artist/0QGicFlDrqHZqBIVSjWWMv), [Tchelo](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Bioma](https://open.spotify.com/album/7jOCAWRTF4KDh7GPKK0f9I) | 3:02 |
 | 25 | [Armamento Russo](https://open.spotify.com/track/4XTm8UtcMCVvc6R26uGzwK) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse) | [Armamento Russo](https://open.spotify.com/album/1TdR9nAD7nha9i2qLajeO6) | 2:24 |
 | 26 | [Animais Traidores 2](https://open.spotify.com/track/7phZ8xIy0e31ZfEjF3i4ZX) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Animais Traidores 2](https://open.spotify.com/album/5B2QEtzBGfRRBYcuCeszur) | 3:14 |
-| 27 | [THE TRAP \#1](https://open.spotify.com/track/7J6YjzBUA6awK0qP9zTmRf) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [LX](https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF), [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS) | [THE TRAP \#1](https://open.spotify.com/album/6HzdyEDZqJgx98d1aU59QA) | 3:29 |
+| 27 | [THE TRAP \#1](https://open.spotify.com/track/7J6YjzBUA6awK0qP9zTmRf) | [THE TRAP](https://open.spotify.com/artist/5IoPBp4dU6aJYqIW8270Af), [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [LX](https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF), [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [THE TRAP \#1](https://open.spotify.com/album/6HzdyEDZqJgx98d1aU59QA) | 3:29 |
 | 28 | [Ato Ⅱ: Olhares](https://open.spotify.com/track/4OzFZF6NBJreVqSsameqg9) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [Dougb](https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh) | [O Circo](https://open.spotify.com/album/6a97RI2QaK9b5e0NN1VtPB) | 2:08 |
 | 29 | [Coffee Shop](https://open.spotify.com/track/6UFpUw6ucrg16dCRaJOgKN) | [Gorilla Concept Music](https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z) | [Coffee Shop](https://open.spotify.com/album/0Kufs3wwd2Uc2DM1DUKQUC) | 4:27 |
 | 30 | [Se Quer Dinheiro](https://open.spotify.com/track/7hCC2CP0zUyqxWhmmEpZbh) | [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [TcheloBeats](https://open.spotify.com/artist/1jsSoxl3CZZjIEplGDBd3B), [Dalua](https://open.spotify.com/artist/7awGveT87ZP4UoZxuv0zym) | [Se Quer Dinheiro](https://open.spotify.com/album/4RO8baYILlGVRIbn7j5pTa) | 2:55 |

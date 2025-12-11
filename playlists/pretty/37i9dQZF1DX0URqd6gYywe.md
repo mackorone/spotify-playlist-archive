@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 
 > Dejate llevar por los mejores lentos del rock\. Foto: El Zar feat\. No Te Va Gustar
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,774 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,797 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,17 +68,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 58 | [La Noche Eterna \(Portal Sessions\)](https://open.spotify.com/track/1NSgsMDyyRWVUMcfDRerEg) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2), [Portal Sessions](https://open.spotify.com/artist/5EU23oxWb2gKorPhZRJfXN) | [Portal Sessions \- Dillom y Santiago Motorizado](https://open.spotify.com/album/6p7BVraR1uyGLMbTiLay74) | 5:30 |
 | 59 | [Pasan las Horas \- En Vivo Acústico](https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Acústico Gran Rex](https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q) | 4:36 |
 | 60 | [Otro Jueves Cobarde](https://open.spotify.com/track/09T8jYEV0b1z6tqghjTBZO) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Fulanos de Nadie](https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB) | 5:20 |
-| 61 | [Como un Cuento](https://open.spotify.com/track/3EissuXjQZQrjpHh8gRCG1) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 4:46 |
-| 62 | [Amanece en la Ruta](https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:14 |
-| 63 | [Los Dos](https://open.spotify.com/track/39m0KJWhZUojRFi9k1m21E) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Los Dos](https://open.spotify.com/album/0Ws2WWNt8G4V9O61K6eZSK) | 3:31 |
+| 61 | [Los Dos](https://open.spotify.com/track/39m0KJWhZUojRFi9k1m21E) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Los Dos](https://open.spotify.com/album/0Ws2WWNt8G4V9O61K6eZSK) | 3:31 |
+| 62 | [Como un Cuento](https://open.spotify.com/track/3EissuXjQZQrjpHh8gRCG1) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Narigón del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre](https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU) | 4:46 |
+| 63 | [Amanece en la Ruta](https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Inconsciente Colectivo](https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE) | 3:14 |
 | 64 | [A Veces Vuelvo \- Acustico](https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Laberintos Entre Aristas Y Dialectos](https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz) | 4:33 |
 | 65 | [Fuego de Febrero](https://open.spotify.com/track/5QnnbCGngds8lyDAJi3jSc) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [CORRENTADA](https://open.spotify.com/album/3yWOpyyG9Plm2O1Y7uD4Gh) | 3:34 |
 | 66 | [Oda a la Sin Nombre](https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [A Través del Mar de los Sargazos](https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ) | 4:32 |
 | 67 | [Siguiendo la Luna](https://open.spotify.com/track/1zW0pOzZmq4TjEbIDZiPed) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Rock Nacional](https://open.spotify.com/album/2TSunTI1bHCQgmPIfw1mTK) | 4:39 |
 | 68 | [Dejo Atrás](https://open.spotify.com/track/60FasBAOZzjNCSoljbbASM) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Dejo Atrás](https://open.spotify.com/album/5HNfFTWeDBXDUWnhrFFYTb) | 3:41 |
 | 69 | [Hay Momentos](https://open.spotify.com/track/0rL9XFxw3b9bRUqApteFiD) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Esclavo](https://open.spotify.com/album/6vWWH1Bvv5O0bxKq4ndPuf) | 2:38 |
-| 70 | [Pensamientos](https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Pensamientos](https://open.spotify.com/album/2RYIfoNF29kFoR60jOpaHf) | 3:53 |
-| 71 | [Nada es para siempre](https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x), [Eduardo Bergallo](https://open.spotify.com/artist/0iO7GoHspdzqLANoFLZz78) | [Sol en Cinco](https://open.spotify.com/album/3PRvVLAu5xKxYa9o4lK04S) | 5:28 |
+| 70 | [Nada es para siempre](https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x), [Eduardo Bergallo](https://open.spotify.com/artist/0iO7GoHspdzqLANoFLZz78) | [Sol en Cinco](https://open.spotify.com/album/3PRvVLAu5xKxYa9o4lK04S) | 5:28 |
+| 71 | [Pensamientos](https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Pensamientos](https://open.spotify.com/album/2RYIfoNF29kFoR60jOpaHf) | 3:53 |
 | 72 | [Cielo Todo Gris](https://open.spotify.com/track/5kDOkt2XCum4V4mlITOX7u) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM) | [La Sed](https://open.spotify.com/album/5bOQcSrMniUTGZq4Np1zjT) | 3:39 |
 | 73 | [Olivia](https://open.spotify.com/track/7aMBK1r16NAACeiJHsb9cf) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Intemperie](https://open.spotify.com/album/0vW5os63sQZKBtIxsqFx9f) | 3:42 |
 | 74 | [Miel](https://open.spotify.com/track/1L8TwjgQ8kgvFJbpp2ODiO) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Zoe Exitos](https://open.spotify.com/album/0A9jGSvMMxAQr9iNb5p1hr) | 5:18 |

@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 70951,
+  "num_followers": 70952,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,26 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "Sweet Reggaemusik",
+        "url": "https://open.spotify.com/album/6chVGuHYBS3fdTmhdx3AaC"
+      },
+      "artists": [
+        {
+          "name": "Moncho",
+          "url": "https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc"
+        },
+        {
+          "name": "Lance-a-Lot",
+          "url": "https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Sweet Reggaemusik",
+      "url": "https://open.spotify.com/track/7z5sf617bXkdI8BUOiANL9"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "Leva",
         "url": "https://open.spotify.com/album/2gJ3K86IBOXtF8nBeOGEKh"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 201951,
       "name": "K\u00e4r Och Galen",
       "url": "https://open.spotify.com/track/07F0ahK3fL9OMp6rDFAU6q"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "Sweet Reggaemusik",
-        "url": "https://open.spotify.com/album/6chVGuHYBS3fdTmhdx3AaC"
-      },
-      "artists": [
-        {
-          "name": "Moncho",
-          "url": "https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc"
-        },
-        {
-          "name": "Lance-a-Lot",
-          "url": "https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Sweet Reggaemusik",
-      "url": "https://open.spotify.com/track/7z5sf617bXkdI8BUOiANL9"
     },
     {
       "added_at": "2024-06-24 11:19:01",

@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 127364,
+  "num_followers": 127400,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Stereo-Typical: A's, B's & Rarities",
-        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Chico Buarque",
         "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 235546,
       "name": "Apesar De Voc\u00ea",
       "url": "https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Stereo-Typical: A's, B's & Rarities",
+        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Cartola (1974)",
-        "url": "https://open.spotify.com/album/0z2cTD6XcPLajQbL5EMisU"
-      },
-      "artists": [
-        {
-          "name": "Cartola",
-          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Alvorada",
-      "url": "https://open.spotify.com/track/5rmXEZIh63y5yInImoXvzF"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Lotus 72 D",
         "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 180490,
       "name": "Lotus 72 D - Fast Version",
       "url": "https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Cartola (1974)",
+        "url": "https://open.spotify.com/album/0z2cTD6XcPLajQbL5EMisU"
+      },
+      "artists": [
+        {
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Alvorada",
+      "url": "https://open.spotify.com/track/5rmXEZIh63y5yInImoXvzF"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -739,26 +739,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Sweet as Broken Dates: Lost Somali Tapes from the Horn of Africa",
-        "url": "https://open.spotify.com/album/7l5wQ73rhubusiHsnT0tsN"
-      },
-      "artists": [
-        {
-          "name": "Dur-Dur Band",
-          "url": "https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF"
-        },
-        {
-          "name": "Sahra Dawo",
-          "url": "https://open.spotify.com/artist/46WFCBN904ERbVnN9yixog"
-        }
-      ],
-      "duration_ms": 340591,
-      "name": "Gorof (Elixir)",
-      "url": "https://open.spotify.com/track/3ny55ZJcTqFLIcuXPzOpBF"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Ag\u00fazate",
         "url": "https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 377253,
       "name": "Ag\u00fazate",
       "url": "https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Sweet as Broken Dates: Lost Somali Tapes from the Horn of Africa",
+        "url": "https://open.spotify.com/album/7l5wQ73rhubusiHsnT0tsN"
+      },
+      "artists": [
+        {
+          "name": "Dur-Dur Band",
+          "url": "https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF"
+        },
+        {
+          "name": "Sahra Dawo",
+          "url": "https://open.spotify.com/artist/46WFCBN904ERbVnN9yixog"
+        }
+      ],
+      "duration_ms": 340591,
+      "name": "Gorof (Elixir)",
+      "url": "https://open.spotify.com/track/3ny55ZJcTqFLIcuXPzOpBF"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -827,18 +827,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Ondatr\u00f3pica",
-        "url": "https://open.spotify.com/album/3MAaPc41qaOS2b1fvQbihk"
+        "name": "Estrellas Corraleras - Fundadores de la Cumbia Colombiana",
+        "url": "https://open.spotify.com/album/5HthmfIydsx1AIrsdyjP99"
       },
       "artists": [
         {
-          "name": "Ondatr\u00f3pica",
-          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+          "name": "Los Corraleros De Majagual",
+          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
+        },
+        {
+          "name": "Calixto Ochoa",
+          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
         }
       ],
-      "duration_ms": 245280,
-      "name": "Cumbia Espacial",
-      "url": "https://open.spotify.com/track/36573bwqNlXfYksha3cVRP"
+      "duration_ms": 162826,
+      "name": "Los Sabanales",
+      "url": "https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -859,22 +863,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Estrellas Corraleras - Fundadores de la Cumbia Colombiana",
-        "url": "https://open.spotify.com/album/5HthmfIydsx1AIrsdyjP99"
+        "name": "Ondatr\u00f3pica",
+        "url": "https://open.spotify.com/album/3MAaPc41qaOS2b1fvQbihk"
       },
       "artists": [
         {
-          "name": "Los Corraleros De Majagual",
-          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
-        },
-        {
-          "name": "Calixto Ochoa",
-          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
         }
       ],
-      "duration_ms": 162826,
-      "name": "Los Sabanales",
-      "url": "https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me"
+      "duration_ms": 245280,
+      "name": "Cumbia Espacial",
+      "url": "https://open.spotify.com/track/36573bwqNlXfYksha3cVRP"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Di Melo",
-        "url": "https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F"
-      },
-      "artists": [
-        {
-          "name": "Di Melo",
-          "url": "https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe"
-        }
-      ],
-      "duration_ms": 167533,
-      "name": "Kilario",
-      "url": "https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "DEIRA",
         "url": "https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 163183,
       "name": "Allah Yihmeeki",
       "url": "https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Di Melo",
+        "url": "https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F"
+      },
+      "artists": [
+        {
+          "name": "Di Melo",
+          "url": "https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe"
+        }
+      ],
+      "duration_ms": 167533,
+      "name": "Kilario",
+      "url": "https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Lotus 72 D",
-        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Roberto",
-          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
-        }
-      ],
-      "duration_ms": 192965,
-      "name": "Lotus 72 D",
-      "url": "https://open.spotify.com/track/25JrVa0pOZhb4WvuCK1JVk"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Mahal",
         "url": "https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 278471,
       "name": "Black Sand",
       "url": "https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Lotus 72 D",
+        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Roberto",
+          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
+        }
+      ],
+      "duration_ms": 192965,
+      "name": "Lotus 72 D",
+      "url": "https://open.spotify.com/track/25JrVa0pOZhb4WvuCK1JVk"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4cqjTLyo6ebSUA2EE9pwrZ"
-      },
-      "artists": [
-        {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
-        }
-      ],
-      "duration_ms": 295080,
-      "name": "Mujer Divina",
-      "url": "https://open.spotify.com/track/7HbmkNTRsA8WI4aHc6yPQY"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Quarteto Em Cy",
         "url": "https://open.spotify.com/album/3SklHlQWmxoeFj2k0q99HI"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 161106,
       "name": "Tudo Que Voce Podia Ser",
       "url": "https://open.spotify.com/track/4iVpZVKaPUnMhEagBOIIuI"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4cqjTLyo6ebSUA2EE9pwrZ"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+        }
+      ],
+      "duration_ms": 295080,
+      "name": "Mujer Divina",
+      "url": "https://open.spotify.com/track/7HbmkNTRsA8WI4aHc6yPQY"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Isle Of Magic",
-        "url": "https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6"
+        "name": "One Understanding",
+        "url": "https://open.spotify.com/album/6yHYWMDX8i3WQ396kAfgyU"
       },
       "artists": [
         {
-          "name": "Mop Mop",
-          "url": "https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf"
+          "name": "Christy Essien Igbokwe",
+          "url": "https://open.spotify.com/artist/1HefyGXvLQBSDcnWDXuuFm"
         }
       ],
-      "duration_ms": 246799,
-      "name": "Kamakumba",
-      "url": "https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ"
+      "duration_ms": 241397,
+      "name": "You Can't Change a Man",
+      "url": "https://open.spotify.com/track/5jO6agviIZnOFaaDoJnfkR"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1387,18 +1387,38 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "One Understanding",
-        "url": "https://open.spotify.com/album/6yHYWMDX8i3WQ396kAfgyU"
+        "name": "Isle Of Magic",
+        "url": "https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6"
       },
       "artists": [
         {
-          "name": "Christy Essien Igbokwe",
-          "url": "https://open.spotify.com/artist/1HefyGXvLQBSDcnWDXuuFm"
+          "name": "Mop Mop",
+          "url": "https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf"
         }
       ],
-      "duration_ms": 241397,
-      "name": "You Can't Change a Man",
-      "url": "https://open.spotify.com/track/5jO6agviIZnOFaaDoJnfkR"
+      "duration_ms": 246799,
+      "name": "Kamakumba",
+      "url": "https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "\u00c7a fait 2x plus de bien",
+        "url": "https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE"
+      },
+      "artists": [
+        {
+          "name": "Antonin",
+          "url": "https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC"
+        },
+        {
+          "name": "Voilaaa",
+          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
+        }
+      ],
+      "duration_ms": 208153,
+      "name": "\u00c7a fait du bien - Voilaaa Remix",
+      "url": "https://open.spotify.com/track/35iCo2B0jaGwYpaFP2fFZ8"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1431,26 +1451,6 @@
       "duration_ms": 222981,
       "name": "Let Love Flow On",
       "url": "https://open.spotify.com/track/5fiudMisuNkKC1htZSCh2t"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "\u00c7a fait 2x plus de bien",
-        "url": "https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE"
-      },
-      "artists": [
-        {
-          "name": "Antonin",
-          "url": "https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC"
-        },
-        {
-          "name": "Voilaaa",
-          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
-        }
-      ],
-      "duration_ms": 208153,
-      "name": "\u00c7a fait du bien - Voilaaa Remix",
-      "url": "https://open.spotify.com/track/35iCo2B0jaGwYpaFP2fFZ8"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Resistance",
+        "url": "https://open.spotify.com/album/1XqtSROG7PSVbfJqeAqJ9D"
+      },
+      "artists": [
+        {
+          "name": "The Souljazz Orchestra",
+          "url": "https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Kossa Kossa",
+      "url": "https://open.spotify.com/track/0VRv4f0FS0XBp9qXzWAd8c"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Mistakes on Purpose (Ethiopiques 30)",
         "url": "https://open.spotify.com/album/5Vg9np3c5uQSZFwvFyDpoW"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 160115,
       "name": "El Watusi",
       "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Resistance",
-        "url": "https://open.spotify.com/album/1XqtSROG7PSVbfJqeAqJ9D"
-      },
-      "artists": [
-        {
-          "name": "The Souljazz Orchestra",
-          "url": "https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Kossa Kossa",
-      "url": "https://open.spotify.com/track/0VRv4f0FS0XBp9qXzWAd8c"
     },
     {
       "added_at": "2025-03-14 13:51:12",

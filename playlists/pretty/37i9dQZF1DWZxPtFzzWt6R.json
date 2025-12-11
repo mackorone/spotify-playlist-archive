@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Gerson Rufino",
-  "num_followers": 106827,
+  "num_followers": 106860,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2025-10-03 03:01:34",
       "album": {
+        "name": "Situa\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
+      },
+      "artists": [
+        {
+          "name": "Stefhany",
+          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+        }
+      ],
+      "duration_ms": 261967,
+      "name": "Situa\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
+    },
+    {
+      "added_at": "2025-10-03 03:01:34",
+      "album": {
         "name": "Minha Ilha",
         "url": "https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb"
       },
@@ -383,26 +399,6 @@
       "duration_ms": 284505,
       "name": "Minha Ilha",
       "url": "https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x"
-    },
-    {
-      "added_at": "2025-10-03 03:01:34",
-      "album": {
-        "name": "A Esperan\u00e7a Que Restou",
-        "url": "https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I"
-      },
-      "artists": [
-        {
-          "name": "Rayssa e Ravel",
-          "url": "https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT"
-        },
-        {
-          "name": "\u00c9 Gospel Music",
-          "url": "https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm"
-        }
-      ],
-      "duration_ms": 281941,
-      "name": "A Esperan\u00e7a Que Restou",
-      "url": "https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM"
     },
     {
       "added_at": "2025-10-03 03:01:34",
@@ -423,18 +419,22 @@
     {
       "added_at": "2025-10-03 03:01:34",
       "album": {
-        "name": "Situa\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
+        "name": "A Esperan\u00e7a Que Restou",
+        "url": "https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I"
       },
       "artists": [
         {
-          "name": "Stefhany",
-          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+          "name": "Rayssa e Ravel",
+          "url": "https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT"
+        },
+        {
+          "name": "\u00c9 Gospel Music",
+          "url": "https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm"
         }
       ],
-      "duration_ms": 261967,
-      "name": "Situa\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
+      "duration_ms": 281941,
+      "name": "A Esperan\u00e7a Que Restou",
+      "url": "https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM"
     },
     {
       "added_at": "2025-10-03 03:01:34",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-10-03 03:01:34",
       "album": {
-        "name": "Vai Ter Recompensa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6hYHOEeNR5iJejZx3mV2BE"
-      },
-      "artists": [
-        {
-          "name": "Samuel Sabinno",
-          "url": "https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ"
-        }
-      ],
-      "duration_ms": 307721,
-      "name": "Vai Ter Recompensa (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4SAlYwY78DAsRoinY4Kcjv"
-    },
-    {
-      "added_at": "2025-10-03 03:01:34",
-      "album": {
         "name": "Melhor Heran\u00e7a",
         "url": "https://open.spotify.com/album/3skNvqzrC2VlUwrcziueQ5"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 240569,
       "name": "Um Lugar \u00e0 Mesa",
       "url": "https://open.spotify.com/track/3GzxRfmVOXIcnzpdeFsn1e"
+    },
+    {
+      "added_at": "2025-10-03 03:01:34",
+      "album": {
+        "name": "Vai Ter Recompensa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6hYHOEeNR5iJejZx3mV2BE"
+      },
+      "artists": [
+        {
+          "name": "Samuel Sabinno",
+          "url": "https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ"
+        }
+      ],
+      "duration_ms": 307721,
+      "name": "Vai Ter Recompensa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4SAlYwY78DAsRoinY4Kcjv"
     },
     {
       "added_at": "2025-10-03 03:01:34",

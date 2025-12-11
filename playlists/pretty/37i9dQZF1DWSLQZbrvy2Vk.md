@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLQZbrvy2Vk.md) - [plain]
 
 > All vengeance, no brakes\. Listen to music from the series Duster, now streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,342 likes - 90 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,362 likes - 90 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLQZbrvy2Vk.md) - [plain]
 | 6 | [Smiling Faces Sometimes](https://open.spotify.com/track/5Vdg4tP25ffeGEC5GGmCwm) | [The Undisputed Truth](https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw) | [The Undisputed Truth](https://open.spotify.com/album/0HHW9b70iZmfWNcFfjOFEz) | 3:18 |
 | 7 | [Crying](https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Crying](https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI) | 2:48 |
 | 8 | [I Don’t Know What It Is, But It Sure Is Funky](https://open.spotify.com/track/0M8Bgyd1DSROXVP0y2Z9Yw) | [Ripple](https://open.spotify.com/artist/3oLqEQCc3rk0vKKwrCaJZA) | [But It Sure Is Funky](https://open.spotify.com/album/3tNDUC7Rfwx6wFNt9ZXNXq) | 3:27 |
-| 9 | [Isn't It a Pity \(2014 Remaster\)](https://open.spotify.com/track/0vTvkf24wkCG3DTKgoNnih) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk) | 7:10 |
+| 9 | [Isn't It a Pity \- 2014 Remaster](https://open.spotify.com/track/0vTvkf24wkCG3DTKgoNnih) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2014 Remaster\)](https://open.spotify.com/album/7j7lsExGJtBHLgDYzjclwk) | 7:10 |
 | 10 | [Our Lives Are Shaped By What We Love](https://open.spotify.com/track/5P4qN0020P8dGyl7pdUO91) | [Odyssey](https://open.spotify.com/artist/09ZLqyCta4eVplqQrSJKBx) | [Odyssey](https://open.spotify.com/album/00D1tA6dXNTNk8WZIWSL8V) | 3:37 |
 | 11 | [Moondance \- 2013 Remaster](https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance \(Deluxe Edition\)](https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK) | 4:34 |
 | 12 | [Muddy Waters](https://open.spotify.com/track/1NH2wGNZX0pQ2UuHb9qGMK) | [The Fabulettes](https://open.spotify.com/artist/5YVEKJmQGWJ1vRIq3wp5Tk) | [Sister Funk Special](https://open.spotify.com/album/6p483TQj5dJTS0VbQyy4K2) | 3:11 |

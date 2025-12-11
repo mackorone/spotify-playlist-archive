@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Baby, GloRilla, A Boogie Wit da Hoodie and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,649 likes - 49 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,763 likes - 49 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

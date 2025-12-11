@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkUSrPFLZJw.md) - [plain]
 
 > atopa risers
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,337 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,359 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkUSrPFLZJw.md) - [plain]
 | 29 | [Very Soon](https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Very Soon](https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2) | 3:09 |
 | 30 | [Perfect Combi](https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Perfect Combi & Naana](https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv) | 3:01 |
 | 31 | [High](https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [High](https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9) | 3:13 |
-| 32 | [Bad Boy](https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Bad Boy](https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP) | 3:12 |
-| 33 | [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 |
+| 32 | [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 |
+| 33 | [Bad Boy](https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Bad Boy](https://open.spotify.com/album/1292tIVpPTJimKAqIOQZlP) | 3:12 |
 | 34 | [sankofa](https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [sankofa](https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY) | 2:36 |
 | 35 | [Down Flat](https://open.spotify.com/track/0eqmxkeJHQs3mdOEFluYXB) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Down Flat](https://open.spotify.com/album/6eeaFgahrUj7bPRyLkPuAV) | 2:52 |
 | 36 | [Crazy Love](https://open.spotify.com/track/4sckyDjgswzH5RBBHTNlax) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Crazy Love](https://open.spotify.com/album/5bolp7EDlLNan3nQIQwpOD) | 2:49 |

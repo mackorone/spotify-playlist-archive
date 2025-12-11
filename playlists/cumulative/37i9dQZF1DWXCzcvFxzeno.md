@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-329 songs - 22 hr 52 min
+330 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Heaven](https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Heaven](https://open.spotify.com/album/1ZDVL85CeBfljGDtwOVvW9) | 3:58 | 2024-05-31 |  |
 | [HEISS \(Floorkiller Flex\)](https://open.spotify.com/track/4pHPgZOypoLFxt7oRoyjaQ) | [ÅMRTÜM](https://open.spotify.com/artist/3bb7lqTA4RWzdAXpdfR5VK), [Synta](https://open.spotify.com/artist/3xs9xI64jtMn4Z0S2nNiq2) | [HEISS \(Floorkiller Flex\)](https://open.spotify.com/album/1b7NKQ854B78JCooKptg4F) | 4:48 | 2024-04-09 | 2025-04-19 |
 | [Hey Yo DJ](https://open.spotify.com/track/39Tvy5bwILfNREZal822Yo) | [Version 34](https://open.spotify.com/artist/1tb92FcoaVMXsKb50AVO9T) | [Hey Yo DJ](https://open.spotify.com/album/3RCvuHLKxK8zU9mbrSeuw5) | 3:31 | 2025-11-07 | 2025-12-03 |
+| [Hidden Frequencies](https://open.spotify.com/track/0ihoHOy7es3FbtJKageQUn) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Hidden Frequencies EP](https://open.spotify.com/album/6ZkwSGT6tVtglmp9zoTZRy) | 4:31 | 2025-12-10 |  |
 | [High On C](https://open.spotify.com/track/48oFEZWfCjhLQuZHkKwAVW) | [Remon Verhoeve](https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T) | [Verknipt ArenA](https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap) | 5:18 | 2024-07-18 | 2024-07-22 |
 | [HIT IT BOY](https://open.spotify.com/track/1q9Ds8nsZqNYUAzlsNo7t2) | [Kruelty](https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD), [Fantasm](https://open.spotify.com/artist/0copVQkrcbfv5CzOyXuLKy) | [HIT IT BOY](https://open.spotify.com/album/3bq6joSwriK6spjaFcAq2u) | 2:21 | 2025-10-10 |  |
 | [Hit The Club](https://open.spotify.com/track/4AlA1z25JYMU1kgmgCc8St) | [DBF](https://open.spotify.com/artist/3p9cbFUvSrQeLgpm7Go8ky) | [Hit The Club](https://open.spotify.com/album/67vJ3MyRTpkoT8dvN8rueX) | 2:28 | 2024-07-14 | 2024-07-22 |
@@ -231,7 +232,7 @@
 | [Play With Me](https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF) | [Spiritual Driveby](https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr) | 3:38 | 2024-10-04 |  |
 | [Plur](https://open.spotify.com/track/2QYLBNj1fX9oD7RVcKgnXu) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Plur](https://open.spotify.com/album/06nKb1lnkGylo7Mca18s7k) | 4:27 | 2025-03-07 |  |
 | [Posh & Scary](https://open.spotify.com/track/03qSprDdxsPGSrMFpWPAva) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Parfait](https://open.spotify.com/artist/3tFRzplldDxib5z3YjQb6n) | [Various Artists 2 \- EP 1](https://open.spotify.com/album/2EryX3QueBkHLiomOEf6un) | 5:26 | 2024-04-09 | 2024-08-14 |
-| [Post Punk](https://open.spotify.com/track/0ENwCtcM4AMJMacQRSUjGl) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Elements of Dance EP](https://open.spotify.com/album/37vDo1xuSYq0krqPsEO75w) | 3:30 | 2025-04-25 |  |
+| [Post Punk](https://open.spotify.com/track/0ENwCtcM4AMJMacQRSUjGl) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Elements of Dance EP](https://open.spotify.com/album/37vDo1xuSYq0krqPsEO75w) | 3:30 | 2025-04-25 | 2025-12-11 |
 | [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 | 2024-08-02 | 2025-02-19 |
 | [Pressure \- Indira Paganotto Remix](https://open.spotify.com/track/0CesUDLx0Oj2J19HVbQOnd) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N), [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Pressure \(Indira Paganotto Remix\)](https://open.spotify.com/album/7bbuWt0xlR3hG7oK9MXQWf) | 4:29 | 2025-05-16 | 2025-07-31 |
 | [Prisoner](https://open.spotify.com/track/4MZvGawjIrPQpViMTfKb66) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alex Farell](https://open.spotify.com/artist/02AllsoWp6Gf9O26tNXf8I) | [Prisoner](https://open.spotify.com/album/0qdNWrDIjtA1yEZtQI7Onk) | 5:08 | 2024-07-05 | 2024-10-04 |

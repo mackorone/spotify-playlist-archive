@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-434 songs - 22 hr 45 min
+435 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [El Problema Del Amor](https://open.spotify.com/track/0qDqdzfkWlI3GxTOKyeV1E) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [El Regreso](https://open.spotify.com/album/13P9Qaty5SUmKgpSvpbOYt) | 3:40 | 2025-11-07 | 2025-11-22 |
 | [El Super Junte Rkt](https://open.spotify.com/track/1dtFrIzrr4DJZOHHESVwbt) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [El Super Junte Rkt](https://open.spotify.com/album/4kRkwZhpcxCFWP7NfWAGtY) | 6:23 | 2024-01-26 | 2024-05-25 |
 | [El Teléfono](https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy \(The Most Wanted Edition\)](https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS) | 3:55 | 2025-12-05 | 2025-12-10 |
-| [El Teléfono](https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Machete Music Chronicles: Vol\. I](https://open.spotify.com/album/3vBf54VsQZq7R5fDDxYTe2) | 3:59 | 2025-12-05 |  |
+| [El Teléfono](https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [The Bad Boy](https://open.spotify.com/album/5eklEkHSU1l3yewxdePzRL) | 3:55 | 2025-12-05 |  |
+| [El Teléfono](https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Machete Music Chronicles: Vol\. I](https://open.spotify.com/album/3vBf54VsQZq7R5fDDxYTe2) | 3:59 | 2025-12-05 | 2025-12-11 |
 | [Eldest Daughter](https://open.spotify.com/track/6iC3L3YmAkGucvJbXKDanA) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm) | 4:06 | 2025-10-10 | 2025-10-18 |
 | [Elizabeth Taylor](https://open.spotify.com/track/1A2vZKJZovt4828jwLgiB3) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm) | 3:28 | 2025-10-10 | 2025-10-18 |
 | [en la cara \- En Vivo](https://open.spotify.com/track/3TQozt8h0YlDD6tFItl5x3) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [en la cara \(En Vivo\)](https://open.spotify.com/album/5zeI9BCdc9YFAw6xhE3f8M) | 2:57 | 2025-03-07 | 2025-05-03 |

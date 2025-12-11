@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,862 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,868 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,18 +75,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 65 | [Drug Dealer](https://open.spotify.com/track/29DPlF67ReoJrdJCP6r0pL) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Drug Dealer](https://open.spotify.com/album/3HMDYUcXTyjloGkANiPxP5) | 3:58 |
 | 66 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 |
 | 67 | [Caroline](https://open.spotify.com/track/1SNB5tolDTBIT2ygSthC8d) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns in Repeat](https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W) | 3:20 |
-| 68 | [Skylight \(feat\. Tiny Habits\)](https://open.spotify.com/track/4jeO32OZxJiSHsFBaR7PcR) | [Hohnen Ford](https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW), [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Skylight \(feat\. Tiny Habits\)](https://open.spotify.com/album/0i9O0xlQPRxJ53Lgl4MWqd) | 2:56 |
-| 69 | [Girl Like You](https://open.spotify.com/track/6j4mDM1LbxbTpiLC7FBCDd) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Forever](https://open.spotify.com/album/5QMbfVH8QFE6JhLNELYfEz) | 1:45 |
-| 70 | [Mansion](https://open.spotify.com/track/0dPrl278qhdSTxnIy4qsB3) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Anger](https://open.spotify.com/album/4inkmCqix6rQcYAvPta2ZR) | 3:31 |
-| 71 | [Cowboys of Los](https://open.spotify.com/track/4sPsl1gLOaq5yiCKo1UbBc) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Cowboys of Los](https://open.spotify.com/album/218OGsKxVoDNZwue6n2yXH) | 4:03 |
+| 68 | [Girl Like You](https://open.spotify.com/track/6j4mDM1LbxbTpiLC7FBCDd) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Forever](https://open.spotify.com/album/5QMbfVH8QFE6JhLNELYfEz) | 1:45 |
+| 69 | [Skylight \(feat\. Tiny Habits\)](https://open.spotify.com/track/4jeO32OZxJiSHsFBaR7PcR) | [Hohnen Ford](https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW), [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Skylight \(feat\. Tiny Habits\)](https://open.spotify.com/album/0i9O0xlQPRxJ53Lgl4MWqd) | 2:56 |
+| 70 | [Cowboys of Los](https://open.spotify.com/track/4sPsl1gLOaq5yiCKo1UbBc) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Cowboys of Los](https://open.spotify.com/album/218OGsKxVoDNZwue6n2yXH) | 4:03 |
+| 71 | [Mansion](https://open.spotify.com/track/0dPrl278qhdSTxnIy4qsB3) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Anger](https://open.spotify.com/album/4inkmCqix6rQcYAvPta2ZR) | 3:31 |
 | 72 | [Untangling](https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Untangling](https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd) | 3:56 |
 | 73 | [June in July](https://open.spotify.com/track/08eZYNlEShS5cV2zKTe2ys) | [Murdo Mitchell](https://open.spotify.com/artist/1hxBd0Mu9CDjEoBuEpxpxt) | [June in July](https://open.spotify.com/album/6rW5WavhcmgFDRdkcwiG0S) | 3:16 |
 | 74 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 |
 | 75 | [Speaking of You](https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Speaking of You](https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1) | 4:25 |
 | 76 | [my mind \(now\)](https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [my mind \(now\)](https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg) | 2:56 |
-| 77 | [Nightvisions](https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Nightvisions](https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt) | 3:56 |
-| 78 | [Swing](https://open.spotify.com/track/3Z2kf97u27vENbQRADp5nO) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Swing](https://open.spotify.com/album/2camVZ5HsnwObRkmE6H6Ws) | 2:45 |
-| 79 | [HEADPHONES](https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [HEADPHONES](https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2) | 3:16 |
-| 80 | [Baghdad](https://open.spotify.com/track/7rOXvlA2T7jDETJ107zZW0) | [Flo Perlin](https://open.spotify.com/artist/2M9I6kX9POMfrxPfePZh05) | [Baghdad](https://open.spotify.com/album/4Dz25Hgxa02gqv0D6ZTbqk) | 3:26 |
+| 77 | [Glu](https://open.spotify.com/track/1PLFWJz52Tt6SaAs6Srtmt) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Glu](https://open.spotify.com/album/0JW4jZeObDmFprj3mtxjkb) | 2:43 |
+| 78 | [Nightvisions](https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Nightvisions](https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt) | 3:56 |
+| 79 | [Swing](https://open.spotify.com/track/3Z2kf97u27vENbQRADp5nO) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Swing](https://open.spotify.com/album/2camVZ5HsnwObRkmE6H6Ws) | 2:45 |
+| 80 | [Coldplay cover](https://open.spotify.com/track/2Ht1gsebaD2W5LWAZvYoPG) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline 2](https://open.spotify.com/album/1CmdanwOGnV5QevtJQL6bN) | 4:16 |
 
 Snapshot ID: `AAAAAGZW5Sv1AVMqPKfESAzBVe9WfEK8`

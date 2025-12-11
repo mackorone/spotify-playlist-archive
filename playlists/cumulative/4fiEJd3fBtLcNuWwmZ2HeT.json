@@ -587,6 +587,28 @@
     },
     {
       "album": {
+        "name": "Meet Your Only World",
+        "url": "https://open.spotify.com/album/3zepiSGgf7ErRVhlGqlSi4"
+      },
+      "artists": [
+        {
+          "name": "KurousaP",
+          "url": "https://open.spotify.com/artist/5MXgcxigANkVcaDC670CU1"
+        },
+        {
+          "name": "Michaon",
+          "url": "https://open.spotify.com/artist/2oC9pyZuesjV6X3NFksKgh"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182096,
+      "name": "Cantarella",
+      "url": "https://open.spotify.com/track/2VD4DrLIkfItv7grWXCXpW"
+    },
+    {
+      "album": {
         "name": "VALORANT / Can\u2032t Slow Me Down",
         "url": "https://open.spotify.com/album/0KcTPJHY7Icv9WYHXmcun1"
       },
@@ -5410,7 +5432,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 179453,
       "name": "\u30ab\u30f3\u30bf\u30ec\u30e9",
       "url": "https://open.spotify.com/track/5nvcwCiRhUMHPSSUZCUqbz"
@@ -5558,6 +5580,24 @@
       "duration_ms": 211570,
       "name": "\u30b7\u30ed\u30ac\u30cd",
       "url": "https://open.spotify.com/track/1r6RyFGvZ2fnTaYyki8M78"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
+        "url": "https://open.spotify.com/album/68VL4A6GTN7ZaYsLhalxCW"
+      },
+      "artists": [
+        {
+          "name": "Nanashi Hachiya",
+          "url": "https://open.spotify.com/artist/3PZGJx5D1p3KvpvVsK2v8P"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
+      "url": "https://open.spotify.com/track/0Gc8R0bC03tMW1RO5d0X7u"
     },
     {
       "album": {

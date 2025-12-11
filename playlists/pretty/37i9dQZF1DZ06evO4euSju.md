@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 | 27 | [Humbug](https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:14 |
 | 28 | [Believe In The Wrong Things](https://open.spotify.com/track/45CZwozIAJgbWlIzEjCRf5) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Counting Flies](https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD) | 3:33 |
 
-Snapshot ID: `aTYVAAAAAACcPLVAk5GVjvJIpEUj4M7W`
+Snapshot ID: `aTdmgAAAAABuF1BvWPPhF+jUwlmtsTq8`

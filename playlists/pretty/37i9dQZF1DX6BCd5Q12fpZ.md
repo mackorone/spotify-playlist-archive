@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Loreen
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,704 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,697 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 14 | [la noia](https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [la noia](https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI) | 3:09 |
 | 15 | [Unforgettable](https://open.spotify.com/track/5L8C1PZGCpZf8STcN79H5j) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Unforgettable](https://open.spotify.com/album/7LJDPOglV0dhqpO1DGrvob) | 2:48 |
 | 16 | [Heroes](https://open.spotify.com/track/4ciaNqHWA2IzHphZaVRzHI) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Heroes](https://open.spotify.com/album/6G6DMOiYMgVZLGs9nmNEJh) | 3:10 |
-| 17 | [My Number One](https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK) | [My Number One](https://open.spotify.com/album/0JLlI8YNAvvrhHAwz5UCgI) | 2:55 |
-| 18 | [We Will Rave](https://open.spotify.com/track/1QpWQMKfQ44QUN1dEg65T8) | [Kaleen](https://open.spotify.com/artist/6c2Y3AYl05QMPbLMCGag6P) | [We Will Rave](https://open.spotify.com/album/4nNMa36op8YViMSJQXgWLl) | 3:05 |
+| 17 | [We Will Rave](https://open.spotify.com/track/1QpWQMKfQ44QUN1dEg65T8) | [Kaleen](https://open.spotify.com/artist/6c2Y3AYl05QMPbLMCGag6P) | [We Will Rave](https://open.spotify.com/album/4nNMa36op8YViMSJQXgWLl) | 3:05 |
+| 18 | [My Number One](https://open.spotify.com/track/6LkCvCc9oFoLDv4DLhzTox) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK) | [My Number One](https://open.spotify.com/album/0JLlI8YNAvvrhHAwz5UCgI) | 2:55 |
 | 19 | [Dum Tek Tek](https://open.spotify.com/track/1l9jCFXKfkw33BwkGytqkO) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Fast Life](https://open.spotify.com/album/6SeSSJmjBeh2Yxadm9sfnT) | 3:01 |
 | 20 | [Give That Wolf A Banana](https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Give That Wolf A Banana](https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as) | 2:51 |
 | 21 | [Puppet On A String](https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu) | [Sandie Shaw](https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa) | [Love Me, Please Love Me \(Deluxe Edition\)](https://open.spotify.com/album/1HBagsCYgh0JSLYkSynf15) | 2:23 |
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 56 | [Is It Right](https://open.spotify.com/track/4BxMRmdcUYW1sBHc1Nv9jo) | [Elaiza](https://open.spotify.com/artist/3p45HHDBKyxCDJeOnOWuSo) | [Is It Right / Fight Against Myself](https://open.spotify.com/album/4ogKZm7zO6URn3a3EVNd8U) | 3:54 |
 | 57 | [When Spirits Are Calling My Name](https://open.spotify.com/track/27L4okgASeyUAzZ7etleyQ) | [Roger Pontare](https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG) | [When Spirits Are Calling My Name](https://open.spotify.com/album/693Gbb2KTlzHgFcgpdNjS7) | 3:02 |
 | 58 | [Je Ne Sais Quoi \(Eurovision 2010\) Orginal Version](https://open.spotify.com/track/48rIGviK0uiZKmXV6QifbE) | [Hera Björk](https://open.spotify.com/artist/1OjcrzJpR5p38qPTskMPU5) | [Je Ne Sais Quoi \(Eurovision 2010\) Orginal Version](https://open.spotify.com/album/4Px3bYcDM3xgfnR3mqMZFG) | 3:00 |
-| 59 | [Is It True?](https://open.spotify.com/track/4uaMcAjtOhaYYpd36DmxbI) | [Yohanna](https://open.spotify.com/artist/1aGU3AHmLXWR7JcAXiG3t3) | [Is It True?](https://open.spotify.com/album/04BCoECaXxVHpWxJRb3qqt) | 3:00 |
-| 60 | [Echo \(You and I\)](https://open.spotify.com/track/1iqnkBWge47Yhboceuceas) | [Anggun](https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA) | [Echoes \(International Special Edition\)](https://open.spotify.com/album/3JZcY2zAtYBDP0B2Gq7lnU) | 3:03 |
+| 59 | [Echo \(You and I\)](https://open.spotify.com/track/1iqnkBWge47Yhboceuceas) | [Anggun](https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA) | [Echoes \(International Special Edition\)](https://open.spotify.com/album/3JZcY2zAtYBDP0B2Gq7lnU) | 3:03 |
+| 60 | [Is It True?](https://open.spotify.com/track/4uaMcAjtOhaYYpd36DmxbI) | [Yohanna](https://open.spotify.com/artist/1aGU3AHmLXWR7JcAXiG3t3) | [Is It True?](https://open.spotify.com/album/04BCoECaXxVHpWxJRb3qqt) | 3:00 |
 | 61 | [A\-Ba\-Ni\-Bi \- 1978, Israel](https://open.spotify.com/track/54TSnjbOQZ0xNj3XxhF3wm) | [The Eurosingers](https://open.spotify.com/artist/4O2P0S5MW6G0JcZpS15fcb) | [Grand Prix \- Greatest Hits](https://open.spotify.com/album/5RGxi6BzlOSmuhQKou0ZEa) | 3:01 |
-| 62 | [Parlez\-vous francais?](https://open.spotify.com/track/673foE9F1zexKf0VPCIB4k) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [Best Of](https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ) | 4:24 |
-| 63 | [Verona \- Eurovision 2017 \- Estonia](https://open.spotify.com/track/6xGmMh9K4Z3oeLCwzIuCaD) | [Laura](https://open.spotify.com/artist/4PIW6aNu2AfeKQqkMGWVmS), [KOIT TOOME](https://open.spotify.com/artist/5eRi1IKofAOO9rEGHCgOGc) | [Verona](https://open.spotify.com/album/4ctbznUsA8d2ZEqXzuy7iY) | 3:02 |
+| 62 | [Verona \- Eurovision 2017 \- Estonia](https://open.spotify.com/track/6xGmMh9K4Z3oeLCwzIuCaD) | [Laura](https://open.spotify.com/artist/4PIW6aNu2AfeKQqkMGWVmS), [KOIT TOOME](https://open.spotify.com/artist/5eRi1IKofAOO9rEGHCgOGc) | [Verona](https://open.spotify.com/album/4ctbznUsA8d2ZEqXzuy7iY) | 3:02 |
+| 63 | [Parlez\-vous francais?](https://open.spotify.com/track/673foE9F1zexKf0VPCIB4k) | [Baccara](https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ) | [Best Of](https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ) | 4:24 |
 | 64 | [Ding\-A\-Dong](https://open.spotify.com/track/1UrZB49sPYlTuNA7fdC0cb) | [Teach In](https://open.spotify.com/artist/0but8haas2eybMUZvFV90H) | [Guitar Heroes From Holland](https://open.spotify.com/album/05cPprskuDLgpnV7GPFCLf) | 2:29 |
 | 65 | [J'aime la vie \- Eurovision 1986](https://open.spotify.com/track/6UKeMVzQeeOsjITXfX1cm4) | [Sandra Kim](https://open.spotify.com/artist/4dhrlsu6mKvOwJWOrwnkuV) | [Au top des années 80, vol\. 1 \(30 titres + 5 maxis\)](https://open.spotify.com/album/76YvIXe5aWujtislm12yVk) | 3:04 |
 | 66 | [My Heart Goes Boom](https://open.spotify.com/track/6GViWczPtH2ky3RBYycDhI) | [Charmed](https://open.spotify.com/artist/438uz6Ss2rTiWYPw0dDwF8) | [Charmed](https://open.spotify.com/album/1dl3hAtvGLmsuDJVzJcY9D) | 3:03 |

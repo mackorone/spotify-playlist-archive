@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 
 > This is Janis Joplin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,249 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,262 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 49 | [Talk, Pt.1 \- Live](https://open.spotify.com/track/6JdG2LMfRkpTFcsEem84lr) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Takes To The Sky \(Live 1968\)](https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3) | 1:23 |
 | 50 | [Long Black Train](https://open.spotify.com/track/4kOb2Bu8UPRHpEJpza4hd5) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 3:54 |
 
-Snapshot ID: `aTYVAAAAAABts+i1y990n3Yav5YJHbcn`
+Snapshot ID: `aTdmgAAAAADGifGv5ohBzz/vPO7t5D99`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North.
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,883 likes - 75 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,032 likes - 75 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 50 | [Två Systrar](https://open.spotify.com/track/50QofZ82BfzPpZjv88dVRb) | [Garmarna](https://open.spotify.com/artist/7ED7dE68y0YZGpyXcuiRsI) | [Två Systrar](https://open.spotify.com/album/5pCP287g0eJdIxEUA8UNwB) | 5:52 |
 | 51 | [Hibjørnen](https://open.spotify.com/track/10D9EfOCDrswH6b33eqvQW) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Hibjørnen](https://open.spotify.com/album/2nLM3Cr0Gj0sKvQQXXkJvb) | 3:02 |
 | 52 | [Akva \- Live](https://open.spotify.com/track/5sCfp94Viu01VFQlNL1Zf2) | [KAUAN](https://open.spotify.com/artist/2QgzO1Z5XYu9zj3nOYsXUa) | [Akva \(Live\)](https://open.spotify.com/album/0vJfKqs1FC63IShbggiyyu) | 6:44 |
-| 53 | [Saga of the North](https://open.spotify.com/track/5YuyHtVMCHDEcaNGgiTQOL) | [Tokt](https://open.spotify.com/artist/01CEsyk6W2k8Pgw5TrEty0) | [Tales from the North](https://open.spotify.com/album/3BG4tlGVST1q4yrHshwHLx) | 3:32 |
-| 54 | [Huginn ok Muninn](https://open.spotify.com/track/2Xxvm29k94TTwGmAX7UhBA) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [Huginn ok Muninn](https://open.spotify.com/album/29kFr26QuyvyBsRyzwrFkb) | 5:13 |
+| 53 | [Huginn ok Muninn](https://open.spotify.com/track/2Xxvm29k94TTwGmAX7UhBA) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [Huginn ok Muninn](https://open.spotify.com/album/29kFr26QuyvyBsRyzwrFkb) | 5:13 |
+| 54 | [Saga of the North](https://open.spotify.com/track/5YuyHtVMCHDEcaNGgiTQOL) | [Tokt](https://open.spotify.com/artist/01CEsyk6W2k8Pgw5TrEty0) | [Tales from the North](https://open.spotify.com/album/3BG4tlGVST1q4yrHshwHLx) | 3:32 |
 | 55 | [Anaia](https://open.spotify.com/track/3zV5XvBjP9uvQlfW2z7hCC) | [IANAI](https://open.spotify.com/artist/1yGcDrrvQWSoki7RrXWPhh), [Client N](https://open.spotify.com/artist/4ItT2MdjEl4l5HrxkWT9QF) | [Sunir](https://open.spotify.com/album/4LmG2mr04QCWGQ51SiDrWA) | 6:38 |
 | 56 | [Sun and the Morning Star](https://open.spotify.com/track/5UcGAYuUcxiGt7Wc2SwWBu) | [Romuvos](https://open.spotify.com/artist/0GlwrXB5cmvWo091lMFeud) | [Sun and the Morning Star](https://open.spotify.com/album/5Lg1rhYDzoYgL6XFEnHnKA) | 5:23 |
 | 57 | [Relics of the Natural Realm](https://open.spotify.com/track/5cbnif2ROYIXzqWWJ6ZUMa) | [Sojourner](https://open.spotify.com/artist/0XFkf3NSP76nB7zhzPdM9X) | [Perennial](https://open.spotify.com/album/3zxt9rDcbBMJBPL6fmgTeJ) | 5:20 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 85662,
+  "num_followers": 85669,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAADB8t16RyXSy641tI9itnsb",
+  "snapshot_id": "aTdmgAAAAAAuWVlqnKI2piqnycNwcD84",
   "tracks": [
     {
       "added_at": null,
@@ -167,22 +167,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X"
       },
       "artists": [
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Como Tu Mujer (feat. Marco Antonio Sol\u00eds)",
-      "url": "https://open.spotify.com/track/6X9lrXPPx925c4RpuCZ9GN"
+      "duration_ms": 180813,
+      "name": "En Una De Esas",
+      "url": "https://open.spotify.com/track/1ORL8jD5k2ROFyl5M4PiTy"
     },
     {
       "added_at": null,
@@ -219,18 +215,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X"
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },
       "artists": [
         {
           "name": "Edith M\u00e1rquez",
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 180813,
-      "name": "En Una De Esas",
-      "url": "https://open.spotify.com/track/1ORL8jD5k2ROFyl5M4PiTy"
+      "duration_ms": 225000,
+      "name": "Como Tu Mujer (feat. Marco Antonio Sol\u00eds)",
+      "url": "https://open.spotify.com/track/6X9lrXPPx925c4RpuCZ9GN"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extrav\u00edate",
-        "url": "https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 262933,
-      "name": "Mi nombre",
-      "url": "https://open.spotify.com/track/6OE87tPl4AIuvRlrtuwrea"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/7xjhd52dnCEri7odf6RXgJ"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 229011,
       "name": "El \u00daltimo Beso",
       "url": "https://open.spotify.com/track/5tF9R2PKJHHpQJLZZDi9qm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Extrav\u00edate",
+        "url": "https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 262933,
+      "name": "Mi nombre",
+      "url": "https://open.spotify.com/track/6OE87tPl4AIuvRlrtuwrea"
     },
     {
       "added_at": null,
@@ -827,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canciones de Amor y Sentimiento",
+        "url": "https://open.spotify.com/album/39mbS15BDr9xgth9egyADB"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "El primero, el \u00fanico, el \u00faltimo",
+      "url": "https://open.spotify.com/track/5GjqiHdSs9wWcFsd9Vddeg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Y Nos Dieron Las Diez",
         "url": "https://open.spotify.com/album/72Ln8Hf1BHgUunmZlWBsRM"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 314947,
       "name": "Y Nos Dieron Las Diez",
       "url": "https://open.spotify.com/track/1JsxBaKdAavIvcbUrUISgG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones de Amor y Sentimiento",
-        "url": "https://open.spotify.com/album/39mbS15BDr9xgth9egyADB"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "El primero, el \u00fanico, el \u00faltimo",
-      "url": "https://open.spotify.com/track/5GjqiHdSs9wWcFsd9Vddeg"
     },
     {
       "added_at": null,

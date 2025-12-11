@@ -4,7 +4,7 @@
 
 > أفضل أغاني الراي
 
-238 songs - 19 hr 20 min
+239 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Rohou Hawlouha \\ Rani Mtwahchha](https://open.spotify.com/track/6Of36mRcQXOZUhNFOeMg3t) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj) | [Rohou Hawlouha \\ Rani Mtwahchha](https://open.spotify.com/album/2IuSc2fo9KnuZ8JhJB4MxH) | 8:58 | 2021-10-19 | 2024-09-02 |
 | [Sahr Lyali](https://open.spotify.com/track/2KLqFKA2x5RDv8AHlKuWHY) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Sahr Lyali](https://open.spotify.com/album/5X0qe2E64Z7kHvr5zX87Tw) | 4:56 | 2022-12-26 | 2025-02-08 |
 | [Sahr Lyali](https://open.spotify.com/track/3cXIVHqz1kQBAkih5IrE3r) | [Cheb Hasni](https://open.spotify.com/artist/6AqjzYRx9TeJDzKhkSSHFx) | [Oualaftek](https://open.spotify.com/album/2SvQ9CXIsfNHXHjorOhS5M) | 5:32 | 2022-11-07 | 2023-03-18 |
-| [Sayi Lmineur Kebret](https://open.spotify.com/track/6OEvdTHt3MOWU1aZBYfuH5) | [Cheb walid](https://open.spotify.com/artist/6rRjMolKBrQbBfem0IKSDI) | [Sayi Lmineur Kebret](https://open.spotify.com/album/3TlFBb5kNCiNwBzEv0iW2J) | 3:29 | 2024-03-16 |  |
+| [Sayi Lmineur Kebret](https://open.spotify.com/track/6OEvdTHt3MOWU1aZBYfuH5) | [Cheb walid](https://open.spotify.com/artist/6rRjMolKBrQbBfem0IKSDI) | [Sayi Lmineur Kebret](https://open.spotify.com/album/3TlFBb5kNCiNwBzEv0iW2J) | 3:29 | 2024-03-16 | 2025-12-11 |
 | [Sghira Ou Hara](https://open.spotify.com/track/0L7LlOENW6UuOr52zcaYPE) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Samy](https://open.spotify.com/artist/10bINesF7eZDORpkyHYQFD) | [Sghira Ou Hara](https://open.spotify.com/album/2XA7CTMcjG9n6JuQw5oIDv) | 4:49 | 2021-10-19 | 2023-10-12 |
 | [Smouni Nrodek](https://open.spotify.com/track/4JcwZAIkdqDWrvFlXjt1bU) | [Cherifi Akram](https://open.spotify.com/artist/1GT5LwzTtwW3Ka716vm4c4) | [Smouni Nrodek](https://open.spotify.com/album/1TAo3CzMQO3mM7zrfcgJ5s) | 4:36 | 2025-03-20 | 2025-11-18 |
 | [Tayer 3la jalha Rouho golouhalh](https://open.spotify.com/track/59h6C78HlXp830a2rkxfoC) | [Cheb Faycel Chole](https://open.spotify.com/artist/3bBht8a9t2kDWV9mDnVECf) | [Tayer 3la jalha Rouho golouhalh](https://open.spotify.com/album/5lbUeFQ4SWlAHmDTiI2P6O) | 12:49 | 2023-06-14 | 2025-10-06 |
@@ -215,6 +215,7 @@
 | [Zahri Win Wana Win](https://open.spotify.com/track/7JaAkijrRoUPIeJaLJbLoq) | [Abdou Goumbita](https://open.spotify.com/artist/2c5isiSrNIixIIqPQABwo9) | [Zahri Win Wana Win](https://open.spotify.com/album/7jKeS8lavzWlG7r9DPIGud) | 3:04 | 2022-09-20 | 2022-11-21 |
 | [Zidini 3ich9ane](https://open.spotify.com/track/78xAW5L8hxmBHnZtIqjyZf) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Zidini 3ich9ane](https://open.spotify.com/album/2rzYUYgREivgNksfiK5CWT) | 4:38 | 2021-10-19 | 2024-08-08 |
 | [الصغر ما يدوم](https://open.spotify.com/track/4uiZQeOtBPgqspq2eBjEIV) | [Cheb Kader Wahrani](https://open.spotify.com/artist/5PBWDpbEkgoyiDkh1biGLw), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [الصغر ما يدوم](https://open.spotify.com/album/6zrYBK8X2WIl77dOm7z3mM) | 4:45 | 2022-09-20 | 2022-11-03 |
+| [بيك ولا بلا بيك](https://open.spotify.com/track/7B2PrNM97SDC7XGhUcJ8NO) | [Cheb Rami](https://open.spotify.com/artist/1dZoWLZL2YLvRqqiS7L05E) | [بيك ولا بلا بيك](https://open.spotify.com/album/73E8NWXoOrYOcu9wznYPc4) | 4:18 | 2025-12-10 |  |
 | [تلبس لاكوست تلبس فاندي بڨاندي تڨعد بڨاندي](https://open.spotify.com/track/3jyyG3x2WlkQu2V23gWTjl) | [Cheb Badro](https://open.spotify.com/artist/77ajZbWMJ87JLLMVUPZDy3) | [تلبس لاكوست تلبس فاندي بڨاندي تڨعد بڨاندي](https://open.spotify.com/album/6ogfT1oeL9zSNqfWWjcgxP) | 5:30 | 2025-07-04 |  |
 | [جبدها يا بابور](https://open.spotify.com/track/6kuAcGBU7zjjh3wAVrYG0J) | [Cheb Faycal](https://open.spotify.com/artist/47gfytQSeoeL85ObS9eNmk) | [جبدها يا بابور](https://open.spotify.com/album/6fqKZBsxKUsE8OBVbDw1ly) | 4:46 | 2024-05-13 |  |
 | [جوارينك برڨاڨين](https://open.spotify.com/track/5cy5bvDvZoH2WzcS6PBqvS) | [Amine Manini](https://open.spotify.com/artist/6D6Iyy90oqY8zw0OE1fav9) | [جوارينك برڨاڨين](https://open.spotify.com/album/0NqCwP9CnOjdMGcIMJRAZz) | 3:53 | 2024-10-27 |  |

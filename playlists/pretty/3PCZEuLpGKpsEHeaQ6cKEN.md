@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 261,955 likes - 310 songs - 16 hr 15 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 261,934 likes - 310 songs - 16 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 73 | [I See You](https://open.spotify.com/track/53pHNURiqlPbwt55KQCeAe) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE) | [I See You](https://open.spotify.com/album/4Xi6uh4GOCzw7nl1EVpOKK) | 2:31 |
 | 74 | [Old School Love](https://open.spotify.com/track/5AaQKfA7mzogHnyJrlIsA3) | [Charlie Sparks \(UK\)](https://open.spotify.com/artist/1lsjQdGrRe2D1nmvCVB7JZ) | [Old School Love](https://open.spotify.com/album/1bCdzyb8vaYa4C52tzqnd2) | 4:00 |
 | 75 | [Love Again](https://open.spotify.com/track/1v7SdHbR0pkwFb9RfG6L6O) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Love Again](https://open.spotify.com/album/5wrYrywBsHkGIekBoScfG8) | 3:11 |
-| 76 | [Back to Blue](https://open.spotify.com/track/2AFXIwrUX3226xeydJ5fg0) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Valentino Indy](https://open.spotify.com/artist/5zMBjWdfMwhZp28FMj5G9n), [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Back to Blue](https://open.spotify.com/album/30SupnOykTnR6sinOFP8vm) | 2:12 |
+| 76 | [Back To Blue](https://open.spotify.com/track/2AFXIwrUX3226xeydJ5fg0) | [Valentino Indy](https://open.spotify.com/artist/5zMBjWdfMwhZp28FMj5G9n), [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq) | [Back to Blue](https://open.spotify.com/album/30SupnOykTnR6sinOFP8vm) | 2:12 |
 | 77 | [Free](https://open.spotify.com/track/0kXBDqX5PVRqqWziPgkNrw) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Free](https://open.spotify.com/album/4C5bvXHBF9VZlQFE0z2NLt) | 3:56 |
 | 78 | [Too Young](https://open.spotify.com/track/2P47oSY4wOA04R35miFEnn) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [Ewerseen](https://open.spotify.com/artist/23BaLIAqxy7EayKqACLKPG) | [Too Young](https://open.spotify.com/album/2eSDpMFSB9UmWGOa9tzcC4) | 2:55 |
 | 79 | [Akasha](https://open.spotify.com/track/3Izzd2IfdKNXnLINNavwJ1) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Double Touch](https://open.spotify.com/artist/2gs35pd58Hjh9gOlH95QtF) | [Akasha](https://open.spotify.com/album/2D9D0JxSwbPe6laaQNRwDx) | 3:41 |

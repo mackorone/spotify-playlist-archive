@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Naïka
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,562 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,572 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 84 | [Kote moun yo](https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts) | [BélO](https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM) | [Haiti debout](https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE) | 3:18 |
 | 85 | [BIDIBAM](https://open.spotify.com/track/0nPPHiRNgQjCdzpot8Itgf) | [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ), [Dwala](https://open.spotify.com/artist/2Bk5mmhrQfB0kws2HZbpmT) | [BIDIBAM](https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI) | 3:10 |
 | 86 | [Dekonekte](https://open.spotify.com/track/1uw9hfE1nhTd00sJEOlpbj) | [Florence El Luche](https://open.spotify.com/artist/1UR59hKyalUCFVUnB4PpJ1) | [Dekonekte](https://open.spotify.com/album/3WuoEZqzqXrthaQifQm04H) | 3:46 |
-| 87 | [Imamou Lele](https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c) | [Boukman Eksperyans](https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp) | [Revolution](https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv) | 1:42 |
-| 88 | [Ayizan](https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB) | [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg), [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [Rasanbleman \(Red Moon\)](https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY) | 6:40 |
-| 89 | [Down With the Gouyad \(Remix\)](https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5) | [DJ Magickenny](https://open.spotify.com/artist/6qHhAzDr7urzQALhBUNh7N), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f), [Yuri Da King](https://open.spotify.com/artist/49foDeFOFC7AjQSwLmrcqo) | [Down With the Gouyad \(Remix\)](https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf) | 4:51 |
+| 87 | [Ayizan](https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB) | [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg), [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [Rasanbleman \(Red Moon\)](https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY) | 6:40 |
+| 88 | [Down With the Gouyad \(Remix\)](https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5) | [DJ Magickenny](https://open.spotify.com/artist/6qHhAzDr7urzQALhBUNh7N), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f), [Yuri Da King](https://open.spotify.com/artist/49foDeFOFC7AjQSwLmrcqo) | [Down With the Gouyad \(Remix\)](https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf) | 4:51 |
+| 89 | [Imamou Lele](https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c) | [Boukman Eksperyans](https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp) | [Revolution](https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv) | 1:42 |
 | 90 | [Iko Kreyòl](https://open.spotify.com/track/03CJWFdzzudh5nGiMQNmgs) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Win Butler](https://open.spotify.com/artist/0U6vKLFxTuknSOGYcekAEN), [Regine Chassagne](https://open.spotify.com/artist/5nkd17szLOkZkep9NoJulB), [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5), [79rs Gang](https://open.spotify.com/artist/2yQlvcbmpqAVYrWs2ALKVX) | [HaitiaNola](https://open.spotify.com/album/6qyni7DUo0TiA0a7c25i0z) | 3:02 |
 | 91 | [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 |
 | 92 | [Twa Fey](https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3) | [Riva Nyri Precil](https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0) | [Perle De Culture](https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v) | 4:25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover: Abbie Callahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,225 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,242 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

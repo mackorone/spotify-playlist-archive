@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 
 > This is Björk\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,481 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,498 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 43 | [Ovule](https://open.spotify.com/track/4mX0h2W7mxcIBh6anDsZMq) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 3:38 |
 | 44 | [Family \(intro\) \- Live](https://open.spotify.com/track/45WsC374D9wm7KxRMrlgx6) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Cornucopia Live](https://open.spotify.com/album/5O3PGUSo5LoQQaxbBRbXcg) | 3:47 |
 | 45 | [Crystalline \- Omar Souleyman Remix](https://open.spotify.com/track/1Vi97HM3mDyEQuUoHw4KxS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Bastards](https://open.spotify.com/album/3KOU8rmLKgULTogBAz1px4) | 6:39 |
-| 46 | [Lionsong](https://open.spotify.com/track/4R6JvOtTKJ1WZURbedVknL) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC) | 6:08 |
+| 46 | [Who Is It \(Carry My Joy On The Left, Carry My Pain On The Right\)](https://open.spotify.com/track/7nG7rmmtnAliibLwklkLkb) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN) | 3:57 |
 | 47 | [Fagurt Er í Fjörðum](https://open.spotify.com/track/1GAOXR2gtrxQ28XW0weuWZ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 0:44 |
 | 48 | [Show Me Forgiveness \- Live](https://open.spotify.com/track/6aUT7SsRiPfsTbwBreSujj) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Cornucopia Live](https://open.spotify.com/album/5O3PGUSo5LoQQaxbBRbXcg) | 1:50 |
-| 49 | [Who Is It \(Carry My Joy On The Left, Carry My Pain On The Right\)](https://open.spotify.com/track/7nG7rmmtnAliibLwklkLkb) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN) | 3:57 |
+| 49 | [Lionsong](https://open.spotify.com/track/4R6JvOtTKJ1WZURbedVknL) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC) | 6:08 |
 | 50 | [Mutual Core](https://open.spotify.com/track/2A2I0ArIeOv3UfRmDu2UTV) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Biophilia \(Deluxe Edition\)](https://open.spotify.com/album/062TYNQMITUlaz9CiTfLxn) | 5:06 |
 
-Snapshot ID: `aTYVAAAAAACNMgwI4sIvwLoDwcsRfGQ7`
+Snapshot ID: `aTdmgAAAAADXUTYt7R8G4PxPwXBmASPd`

@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Cheema Y
 
-758 songs - 1 day 12 hr 9 min
+759 songs - 1 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Challa Mundri](https://open.spotify.com/track/10DEjukPmRRCLuinvG0mIR) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [The Boss](https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH), [Avraj](https://open.spotify.com/artist/07egKTPLN8xOxdHRHiqLB5) | [Challa Mundri](https://open.spotify.com/album/6ds8vEvZ3dYIKpba384tSB) | 2:50 | 2024-09-17 | 2024-10-08 |
 | [Champion](https://open.spotify.com/track/66tuuvPdvGc0MfN6Ptotyw) | [Gurtaj](https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO), [Babbu](https://open.spotify.com/artist/5i2ZfWkVWCMNjUFHyHMuPw), [Nav Prince](https://open.spotify.com/artist/43hVKGJyBP3vWbbMZKLQfF) | [Champion](https://open.spotify.com/album/3TovgbjOuPxvLFXYFFCCIn) | 2:46 | 2024-03-08 |  |
 | [Champion](https://open.spotify.com/track/0EoKkTLTUJRn9oeDQMdFpc) | [Sidhu Jatt](https://open.spotify.com/artist/1rxvqsVmIK5Icuqz7sY0fB) | [Champion](https://open.spotify.com/album/5Yhb3nK5JcYIZptfthFyG4) | 2:09 | 2024-08-14 | 2024-11-13 |
+| [Chance](https://open.spotify.com/track/0pHkJwh3SHMJdoPWsyGJvD) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Chance](https://open.spotify.com/album/19UC3iACO7RI0ciLq97eX2) | 2:25 | 2025-12-10 |  |
 | [CHANGA CHANGA](https://open.spotify.com/track/07pZr5hCkdQUrIqHxlZqEc) | [Jot Dhindsa](https://open.spotify.com/artist/6pJP9TynvFU2wR1pDMtwth), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [THREE WAY](https://open.spotify.com/album/6mta4ktCakVsjVL7cVuJo3) | 2:15 | 2024-03-13 | 2024-03-20 |
 | [Characters](https://open.spotify.com/track/5b7BWs4nsatS4m72uaWRNi) | [Barinder Dhapai](https://open.spotify.com/artist/7unAVMZwYSIAChXVALfZ9B) | [Characters](https://open.spotify.com/album/5Reb4nVxEHFDAtMjDA1JP0) | 2:38 | 2023-10-06 | 2023-10-18 |
 | [Charcha](https://open.spotify.com/track/4vIbgvmbj6pFoLenVnzCdS) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Charcha](https://open.spotify.com/album/2fNbxr9xOHz6X7eh6MuXtj) | 2:28 | 2024-04-24 | 2024-08-13 |
@@ -381,7 +382,7 @@
 | [Kangni](https://open.spotify.com/track/1dcKwzZXeFL9PdUmKR2uwH) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Kangni](https://open.spotify.com/album/6feI1lwq7mGsllRhmkJqWT) | 2:58 | 2024-09-28 | 2025-07-19 |
 | [Katal Hai](https://open.spotify.com/track/0ppQ1j4cxF7ASw4wI9xa07) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Inder Dosanjh](https://open.spotify.com/artist/4uhm0dnOES3u20XHR4HTQY), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Katal Hai](https://open.spotify.com/album/2eVE7V73mCGujc6VjBQjKx) | 2:28 | 2024-01-25 | 2024-02-03 |
 | [Kath](https://open.spotify.com/track/2Xap6kCFffkjccWKBlcTu3) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Kath](https://open.spotify.com/album/5dWcS7a1XFQydlu9VuOxbN) | 2:37 | 2025-11-07 |  |
-| [Kaun Ae Tu](https://open.spotify.com/track/29l8rXNoQUC4cIsKs8fVPz) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Kaun Ae Tu](https://open.spotify.com/album/6nodWdm3S6CZjt3SQWhMNu) | 2:41 | 2025-11-05 |  |
+| [Kaun Ae Tu](https://open.spotify.com/track/29l8rXNoQUC4cIsKs8fVPz) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Kaun Ae Tu](https://open.spotify.com/album/6nodWdm3S6CZjt3SQWhMNu) | 2:41 | 2025-11-05 | 2025-12-11 |
 | [Kavishri \(From "Bibi Rajni"\)](https://open.spotify.com/track/4nVEhg3DNUIzpIwpSy2xNE) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt), [Gurmoh](https://open.spotify.com/artist/3mgciNhvc5PbGOjbmfcU2s) | [Kavishri \(From "Bibi Rajni"\)](https://open.spotify.com/album/7BPtq94WPJzlSv45NGs6JF) | 5:42 | 2025-01-06 | 2025-01-29 |
 | [Khaaj](https://open.spotify.com/track/4NaEfikRy0dZN5bApkUcRZ) | [Hunar Sidhu](https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm), [Raka](https://open.spotify.com/artist/6DaYS7s7hXtNtuGwBICzVB) | [Khaaj](https://open.spotify.com/album/6Q3utLuoG3E2uIYgZ81jiG) | 2:36 | 2024-11-13 |  |
 | [Khadaak](https://open.spotify.com/track/2l4WWoL2e7XL77hT3r4iee) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok), [Micheal](https://open.spotify.com/artist/4HITSZH8b5ITVXjg91mFY1) | [Khadaak](https://open.spotify.com/album/0Wjak0wq7GXx6Gkf0FN1Q5) | 2:37 | 2023-09-21 | 2024-10-19 |

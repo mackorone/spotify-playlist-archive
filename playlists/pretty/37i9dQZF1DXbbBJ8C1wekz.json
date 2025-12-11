@@ -1,6 +1,6 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 172017,
+  "num_followers": 172112,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-10-31 17:06:30",
       "album": {
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 157687,
+      "name": "\u00c9 Sal",
+      "url": "https://open.spotify.com/track/2c80HnIOPMmQQVQllQEWb5"
+    },
+    {
+      "added_at": "2025-10-31 17:06:30",
+      "album": {
         "name": "MAGIC SHOW",
         "url": "https://open.spotify.com/album/5lxnAXkn1mXv4LQSrnVtGW"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 213357,
       "name": "CONFISS\u00d5ES PT1",
       "url": "https://open.spotify.com/track/4OMSfAavn8k6HxZ0HwVtV1"
-    },
-    {
-      "added_at": "2025-10-31 17:06:30",
-      "album": {
-        "name": "M\u00e1quina do Tempo",
-        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 157687,
-      "name": "\u00c9 Sal",
-      "url": "https://open.spotify.com/track/2c80HnIOPMmQQVQllQEWb5"
     },
     {
       "added_at": "2025-10-31 17:06:30",
@@ -847,34 +847,22 @@
     {
       "added_at": "2025-10-31 17:06:30",
       "album": {
-        "name": "Vergonha pra M\u00eddia (feat. MC Ryan SP & Mc Lele JP)",
-        "url": "https://open.spotify.com/album/781LFY8aN7h7hOy95OKKlK"
+        "name": "808 CLUB",
+        "url": "https://open.spotify.com/album/155txpbYywt6aLgZIQSAwq"
       },
       "artists": [
         {
-          "name": "Salvador Da Rima",
-          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
         },
         {
-          "name": "NOG",
-          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
-        },
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc Lele JP",
-          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
         }
       ],
-      "duration_ms": 385357,
-      "name": "Vergonha pra M\u00eddia (feat. MC Ryan SP & Mc Lele JP)",
-      "url": "https://open.spotify.com/track/3Q36LH3rlABCEt4JMLbD8p"
+      "duration_ms": 186000,
+      "name": "PUTO (feat. Alee)",
+      "url": "https://open.spotify.com/track/1mhgqpCAnVZarcA65K6L0h"
     },
     {
       "added_at": "2025-10-31 17:06:30",
@@ -915,22 +903,34 @@
     {
       "added_at": "2025-10-31 17:06:30",
       "album": {
-        "name": "808 CLUB",
-        "url": "https://open.spotify.com/album/155txpbYywt6aLgZIQSAwq"
+        "name": "Vergonha pra M\u00eddia (feat. MC Ryan SP & Mc Lele JP)",
+        "url": "https://open.spotify.com/album/781LFY8aN7h7hOy95OKKlK"
       },
       "artists": [
         {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
         },
         {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
         }
       ],
-      "duration_ms": 186000,
-      "name": "PUTO (feat. Alee)",
-      "url": "https://open.spotify.com/track/1mhgqpCAnVZarcA65K6L0h"
+      "duration_ms": 385357,
+      "name": "Vergonha pra M\u00eddia (feat. MC Ryan SP & Mc Lele JP)",
+      "url": "https://open.spotify.com/track/3Q36LH3rlABCEt4JMLbD8p"
     },
     {
       "added_at": "2025-10-31 17:06:30",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-10-31 17:06:30",
       "album": {
-        "name": "A Morte do Autotune",
-        "url": "https://open.spotify.com/album/3wtW4Pv6ED7nUpQL5GY5Vx"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 216710,
-      "name": "A Morte do Autotune",
-      "url": "https://open.spotify.com/track/4MF0VMffyxHsy3GZwwUnAs"
-    },
-    {
-      "added_at": "2025-10-31 17:06:30",
-      "album": {
         "name": "Nois \u00e9 Nois",
         "url": "https://open.spotify.com/album/42I7nPQNGF5TxZiP8Esk2X"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 120000,
       "name": "Nois \u00e9 Nois",
       "url": "https://open.spotify.com/track/1k1egPmIPWQ0J44PWgMDwA"
+    },
+    {
+      "added_at": "2025-10-31 17:06:30",
+      "album": {
+        "name": "A Morte do Autotune",
+        "url": "https://open.spotify.com/album/3wtW4Pv6ED7nUpQL5GY5Vx"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 216710,
+      "name": "A Morte do Autotune",
+      "url": "https://open.spotify.com/track/4MF0VMffyxHsy3GZwwUnAs"
     },
     {
       "added_at": "2025-10-31 17:06:30",
@@ -1559,6 +1559,30 @@
     {
       "added_at": "2025-10-31 17:06:30",
       "album": {
+        "name": "Melhor Dia 12 - Levanta",
+        "url": "https://open.spotify.com/album/75xY7bpwi8IyR3wjJCo701"
+      },
+      "artists": [
+        {
+          "name": "Marcos Baroni",
+          "url": "https://open.spotify.com/artist/65gA1Fzv5EBpFqOezGLupY"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Melhor Dia 12 - Levanta",
+      "url": "https://open.spotify.com/track/3rmbC9VCOgP5CgUAgUIULU"
+    },
+    {
+      "added_at": "2025-10-31 17:06:30",
+      "album": {
         "name": "THE BOX MEDLEY 8",
         "url": "https://open.spotify.com/album/76uk8PJEw73A8ElxrSCqFk"
       },
@@ -1591,30 +1615,6 @@
       "duration_ms": 293337,
       "name": "THE BOX MEDLEY 8",
       "url": "https://open.spotify.com/track/6isHalUdU4dVvJrSa7bfKK"
-    },
-    {
-      "added_at": "2025-10-31 17:06:30",
-      "album": {
-        "name": "Melhor Dia 12 - Levanta",
-        "url": "https://open.spotify.com/album/75xY7bpwi8IyR3wjJCo701"
-      },
-      "artists": [
-        {
-          "name": "Marcos Baroni",
-          "url": "https://open.spotify.com/artist/65gA1Fzv5EBpFqOezGLupY"
-        },
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        },
-        {
-          "name": "MC Leozinho ZS",
-          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Melhor Dia 12 - Levanta",
-      "url": "https://open.spotify.com/track/3rmbC9VCOgP5CgUAgUIULU"
     },
     {
       "added_at": "2025-10-31 17:06:30",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2025-10-31 17:06:30",
       "album": {
-        "name": "Chevette do Jac\u00f3",
-        "url": "https://open.spotify.com/album/4mEJtY8Apcgmn26kRyHm8C"
-      },
-      "artists": [
-        {
-          "name": "Hungria",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
-        }
-      ],
-      "duration_ms": 173571,
-      "name": "Chevette do Jac\u00f3",
-      "url": "https://open.spotify.com/track/1EBBKLLK2nX0bpgLocWcSV"
-    },
-    {
-      "added_at": "2025-10-31 17:06:30",
-      "album": {
         "name": "Cyberpunk",
         "url": "https://open.spotify.com/album/37tMfPWBrcGJFtzQ5U35Lq"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 112131,
       "name": "Cyberpunk",
       "url": "https://open.spotify.com/track/79kpDaVsQQUKRKYaLVsBbK"
+    },
+    {
+      "added_at": "2025-10-31 17:06:30",
+      "album": {
+        "name": "Chevette do Jac\u00f3",
+        "url": "https://open.spotify.com/album/4mEJtY8Apcgmn26kRyHm8C"
+      },
+      "artists": [
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Chevette do Jac\u00f3",
+      "url": "https://open.spotify.com/track/1EBBKLLK2nX0bpgLocWcSV"
     },
     {
       "added_at": "2025-10-31 17:06:30",
@@ -2343,26 +2343,6 @@
     {
       "added_at": "2025-10-31 17:06:30",
       "album": {
-        "name": "Inocente \"Demotape\"",
-        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 170432,
-      "name": "depois da meia noite",
-      "url": "https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI"
-    },
-    {
-      "added_at": "2025-10-31 17:06:30",
-      "album": {
         "name": "Eles Me Odeiam",
         "url": "https://open.spotify.com/album/1EKS7wUt4i7carasrSDo7k"
       },
@@ -2383,6 +2363,26 @@
       "duration_ms": 187480,
       "name": "Eles Me Odeiam",
       "url": "https://open.spotify.com/track/1fy4FuGMtCkLQ9I8RvnZGC"
+    },
+    {
+      "added_at": "2025-10-31 17:06:30",
+      "album": {
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 170432,
+      "name": "depois da meia noite",
+      "url": "https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI"
     },
     {
       "added_at": "2025-10-31 17:06:30",

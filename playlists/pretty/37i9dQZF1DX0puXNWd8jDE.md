@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 
 > 偷練不是罪、抖音無所謂、最新曲目讓你全台包廂任意走跳！
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,011 likes - 60 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,028 likes - 60 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0puXNWd8jDE.md) - [plain]
 | 59 | [我很好騙](https://open.spotify.com/track/5VJV7hZSVV81OrQN3VDmfM) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [我很好騙](https://open.spotify.com/album/7f0TsfTwdRaujau4u25Jsq) | 5:13 |
 | 60 | [連名帶姓](https://open.spotify.com/track/3LlQoKvVnkVvq3KC8anUn8) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [偷故事的人](https://open.spotify.com/album/2e9kAjiQbDokDSgPMJW2j8) | 5:33 |
 
-Snapshot ID: `AAAAAD46UE8I4tf+AIHjeuLDlT1VF4J8`
+Snapshot ID: `AAAAABbH+7ouN7oSIv6jjHzBkVP63cRu`

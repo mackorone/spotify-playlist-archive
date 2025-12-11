@@ -905,6 +905,24 @@
     },
     {
       "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/1NlafdSdABNYHHBoEUypDg"
+      },
+      "artists": [
+        {
+          "name": "Eomir",
+          "url": "https://open.spotify.com/artist/6MPefoqWwiigHX975Qxuhx"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143076,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/67cezPqLN4qeuNW4ZfQkfK"
+    },
+    {
+      "album": {
         "name": "Clearing",
         "url": "https://open.spotify.com/album/48OGNEQhJhWsFeGE6kRAoH"
       },
@@ -3328,7 +3346,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 157404,
       "name": "Raindrop Manor",
       "url": "https://open.spotify.com/track/3xFNORPASQf8H8UyDFUMWC"

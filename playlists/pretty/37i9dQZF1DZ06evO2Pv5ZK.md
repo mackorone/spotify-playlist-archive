@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 
 > This is Vangelis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,280 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,283 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,12 +22,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 12 | [Ask the Mountains](https://open.spotify.com/track/7nnRf1iHM8G8WTVrnkWkbv) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 7:53 |
 | 13 | [West Across the Ocean Sea](https://open.spotify.com/track/574kl9OU5dmKGKYhDFXj2P) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 2:53 |
 | 14 | [Hymne \- Remastered](https://open.spotify.com/track/1C128gNLnz7jXsQRQ6QYXn) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Opera sauvage \(Remastered\)](https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8) | 2:44 |
-| 15 | [Blade Runner Blues](https://open.spotify.com/track/575blCgesVtCu0HEYaIcas) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 8:54 |
+| 15 | [Memories of Green](https://open.spotify.com/track/0rHCW5eZ35QmQNVYyozAnZ) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 5:05 |
 | 16 | [Prelude](https://open.spotify.com/track/5DmruZakADX1JhSPZlijNz) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 4:25 |
 | 17 | [Light and Shadow](https://open.spotify.com/track/7Imvh030lE3llIlUIC4Nr9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 3:46 |
-| 18 | [L'enfant \- Remastered](https://open.spotify.com/track/6u6CKQx7QIiH4krd3MWfTa) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Opera sauvage \(Remastered\)](https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8) | 5:00 |
-| 19 | [Memories of Green](https://open.spotify.com/track/0rHCW5eZ35QmQNVYyozAnZ) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 5:05 |
-| 20 | [Through the Night Mist](https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 5:12 |
+| 18 | [Through the Night Mist](https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 5:12 |
+| 19 | [Blade Runner Blues](https://open.spotify.com/track/575blCgesVtCu0HEYaIcas) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 8:54 |
+| 20 | [L'enfant \- Remastered](https://open.spotify.com/track/6u6CKQx7QIiH4krd3MWfTa) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Opera sauvage \(Remastered\)](https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8) | 5:00 |
 | 21 | [Eternity](https://open.spotify.com/track/0X6SplektlOd1CwtwuOOaM) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [1492: Conquest of Paradise](https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0) | 1:58 |
 | 22 | [Theme From Antarctica \- Remastered](https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Antarctica \(Remastered\)](https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0) | 7:25 |
 | 23 | [Main Titles](https://open.spotify.com/track/6baN5nSUIVTsUyugSuAj7U) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 49 | [Eric's Theme](https://open.spotify.com/track/6OIWkL8SS7hoLtEBgHCgAT) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Chariots Of Fire \- The Play](https://open.spotify.com/album/0lftnQqSdzjAgddNQqd57j) | 4:06 |
 | 50 | [L'enfant](https://open.spotify.com/track/3vL5oFXB5ZDhYbzwmp3mnc) | [Vassilis Saleas](https://open.spotify.com/artist/66OwTEGfeqS7497NnR99cj), [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Orama](https://open.spotify.com/album/51s6WeUBQ2vFBkVVyykCGt) | 3:43 |
 
-Snapshot ID: `aTYVAAAAAADVT3dEkF7n7zTaUrZQt64W`
+Snapshot ID: `aTdmgAAAAACuwp/uLsRQfsd925koPR9t`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: SAILORR
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107,691 likes - 300 songs - 15 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,107,703 likes - 300 songs - 15 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

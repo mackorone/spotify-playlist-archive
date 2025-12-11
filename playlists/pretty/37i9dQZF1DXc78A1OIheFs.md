@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,211 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,213 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,18 +55,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 45 | [How Will I Know](https://open.spotify.com/track/1b6KsrknUg6EpziAvzjMo4) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [How Will I Know](https://open.spotify.com/album/2dIfFPrjC3D0DMr4KNfFc0) | 3:17 |
 | 46 | [East Coast](https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [East Coast](https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK) | 3:14 |
 | 47 | [Hell Of A Night](https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [Hell Of A Night](https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2) | 3:52 |
-| 48 | [Icarus](https://open.spotify.com/track/7n428mAFxpfChekp39tLFT) | [O & The Mo](https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX) | [Make Way For The Sun](https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ) | 3:34 |
-| 49 | [What Would It Profit](https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [The Drip](https://open.spotify.com/album/4AnurorczccotGyQOVXEdp) | 3:05 |
-| 50 | [My Boy](https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU) | 2:43 |
-| 51 | [Maumahara Noa Ahau](https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC), [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX), [Brannigan Kaa](https://open.spotify.com/artist/45PMvAQiWl2Coq1uQkQlUy) | [Maumahara Noa Ahau](https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp) | 2:50 |
-| 52 | [Harmless](https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Harmless](https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q) | 2:25 |
+| 48 | [What Would It Profit](https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [The Drip](https://open.spotify.com/album/4AnurorczccotGyQOVXEdp) | 3:05 |
+| 49 | [Icarus](https://open.spotify.com/track/7n428mAFxpfChekp39tLFT) | [O & The Mo](https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX) | [Make Way For The Sun](https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ) | 3:34 |
+| 50 | [Harmless](https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Harmless](https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q) | 2:25 |
+| 51 | [Crazy Dream \- Edit](https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Crazy Dream \(Edit\)](https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR) | 2:58 |
+| 52 | [My Boy](https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU) | 2:43 |
 | 53 | [Suckerpunch](https://open.spotify.com/track/2ByNFaZnv7IBDrVhsL6uuH) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Suckerpunch](https://open.spotify.com/album/6XboCI0IpnvI7EUIRno1Zx) | 2:34 |
-| 54 | [Rosie's Friend](https://open.spotify.com/track/0oBAbUchoN02dIccY8oZh6) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Rosie's Friend](https://open.spotify.com/album/651wz2jR4mTOT1wuJmSyxY) | 3:16 |
-| 55 | [Dominoes](https://open.spotify.com/track/4lw8fSL7zLzINdE3ng8hvW) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Dominoes](https://open.spotify.com/album/5HDdfdL3z8GOMcVjQDDAMd) | 2:59 |
-| 56 | [Breakdown](https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto) | [Borderline](https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ) | [Chrysalis](https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB) | 3:29 |
+| 54 | [Breakdown](https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto) | [Borderline](https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ) | [Chrysalis](https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB) | 3:29 |
+| 55 | [Rosie's Friend](https://open.spotify.com/track/0oBAbUchoN02dIccY8oZh6) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Rosie's Friend](https://open.spotify.com/album/651wz2jR4mTOT1wuJmSyxY) | 3:16 |
+| 56 | [Dominoes](https://open.spotify.com/track/4lw8fSL7zLzINdE3ng8hvW) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Dominoes](https://open.spotify.com/album/5HDdfdL3z8GOMcVjQDDAMd) | 2:59 |
 | 57 | [Metal](https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Metal](https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz) | 4:43 |
 | 58 | [Gravity](https://open.spotify.com/track/6gQmQi4GYJWN2Lxr4cArJ2) | [Jon Toogood](https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8) | [Gravity](https://open.spotify.com/album/4z6z440xRZYzZsQmmkMKWQ) | 3:34 |
-| 59 | [Crazy Dream \- Edit](https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Crazy Dream \(Edit\)](https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR) | 2:58 |
+| 59 | [Maumahara Noa Ahau](https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC), [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX), [Brannigan Kaa](https://open.spotify.com/artist/45PMvAQiWl2Coq1uQkQlUy) | [Maumahara Noa Ahau](https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp) | 2:50 |
 | 60 | [look what you're doing to me](https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [look what you're doing to me](https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c) | 4:24 |
 | 61 | [Done Did It \- Revival 2.0](https://open.spotify.com/track/4xImn8Ug4PPnNepPt1tMzE) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Done Did It \(Revival 2.0\)](https://open.spotify.com/album/6rgVc8pR3ZkwkCH03AbIyR) | 3:39 |
 | 62 | [Chantilly](https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Chantilly](https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1) | 3:33 |

@@ -4,7 +4,7 @@
 
 > Music from shows and movies you love including All's Fair, now streaming on Hulu.
 
-181 songs - 8 hr 55 min
+182 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Unexpected](https://open.spotify.com/track/5psw3Pz1KtlOIJ2NH99iwL) | [Jonah Platt](https://open.spotify.com/artist/3hBlM0AsvBiJGRISz0xFCL) | [A Million Little Things: Season 1 \(Original Television Series Soundtrack\)](https://open.spotify.com/album/49xVXnOn5JDk8C4bCThLEd) | 3:16 | 2025-05-06 |  |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2025-05-06 | 2025-10-18 |
 | [Violin Concerto in G Major, Op\. 8, No\. 2: I\. Allegro](https://open.spotify.com/track/3rd8fjFT9AupdVa4Kr3k1h) | [Joseph Boulogne Chevalier de Saint\-Georges](https://open.spotify.com/artist/02onqdkvTxxy6tNJWnjnFU), [Randall Goosby](https://open.spotify.com/artist/1wgIWZ93QjeVdMO6k6Cy6K), [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Chevalier \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3y2KkTMbsx3E35iUTb971k) | 9:59 | 2024-01-05 | 2025-05-07 |
+| [Wasabi Tears](https://open.spotify.com/track/3WwhlvtkbtpyLhZTJLYKO0) | [Morgan Kibby](https://open.spotify.com/artist/5zWQ4hblHP7XSxlhontr2M), [David Klotz](https://open.spotify.com/artist/4A8LCstqzVvjgPXgbpIxD8) | [All's Fair \(Original Series Soundtrack\)](https://open.spotify.com/album/73WBPWu7nIvmevV8D0YWiV) | 2:30 | 2025-12-10 |  |
 | [Washington Black \(Main Titles\)](https://open.spotify.com/track/07pXN4SteB6qaiYH2nfN07) | [Cameron Moody](https://open.spotify.com/artist/6TM0KDwCVvqvXYAWkmGitk) | [Washington Black \(Original Soundtrack\)](https://open.spotify.com/album/3cEK6k7Gkt0mPyDz9g0lMx) | 1:08 | 2025-07-25 |  |
 | [We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:56 | 2025-03-08 | 2025-04-08 |
 | [We Were the Lucky Ones Theme](https://open.spotify.com/track/4aP4MOQENkyifr8Ffn9LHX) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [We Were the Lucky Ones \(Original Soundtrack\)](https://open.spotify.com/album/3UkIJ7q261RbXHhYztS15H) | 2:45 | 2024-05-03 |  |

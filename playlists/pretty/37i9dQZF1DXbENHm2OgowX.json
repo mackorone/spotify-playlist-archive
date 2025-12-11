@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 305013,
+  "num_followers": 305204,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-12-04 13:11:44",
       "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
-      },
-      "artists": [
-        {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
-        }
-      ],
-      "duration_ms": 150299,
-      "name": "(Something)",
-      "url": "https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB"
-    },
-    {
-      "added_at": "2025-12-04 13:11:44",
-      "album": {
         "name": "Closer (Collector's Edition)",
         "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
       },
@@ -699,22 +683,18 @@
     {
       "added_at": "2025-12-04 13:11:44",
       "album": {
-        "name": "searching",
-        "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
       },
       "artists": [
         {
-          "name": "Cephas Azariah",
-          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
         }
       ],
-      "duration_ms": 279935,
-      "name": "searching",
-      "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
+      "duration_ms": 150299,
+      "name": "(Something)",
+      "url": "https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB"
     },
     {
       "added_at": "2025-12-04 13:11:44",
@@ -755,6 +735,26 @@
       "duration_ms": 335539,
       "name": "Path 3 / Whose Name Is Written On Water - Pt. 1 / Faded",
       "url": "https://open.spotify.com/track/1HxJyQzfqJCjshpokKVKEa"
+    },
+    {
+      "added_at": "2025-12-04 13:11:44",
+      "album": {
+        "name": "searching",
+        "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 279935,
+      "name": "searching",
+      "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
     },
     {
       "added_at": "2025-12-04 13:11:44",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-12-04 13:11:44",
       "album": {
-        "name": "Gazing Back At Earth",
-        "url": "https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA"
-      },
-      "artists": [
-        {
-          "name": "Andy Leech",
-          "url": "https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj"
-        }
-      ],
-      "duration_ms": 316000,
-      "name": "Gazing Back At Earth",
-      "url": "https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP"
-    },
-    {
-      "added_at": "2025-12-04 13:11:44",
-      "album": {
         "name": "CROW! (after the snowfall)",
         "url": "https://open.spotify.com/album/6tPZc7dc5pXsD1x9BAArU8"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 176000,
       "name": "antihistamine. - instrumental",
       "url": "https://open.spotify.com/track/5lThIFQRD0qgpv2oV9wb72"
+    },
+    {
+      "added_at": "2025-12-04 13:11:44",
+      "album": {
+        "name": "Gazing Back At Earth",
+        "url": "https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA"
+      },
+      "artists": [
+        {
+          "name": "Andy Leech",
+          "url": "https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj"
+        }
+      ],
+      "duration_ms": 316000,
+      "name": "Gazing Back At Earth",
+      "url": "https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP"
     },
     {
       "added_at": "2025-12-04 13:11:44",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2025-12-04 13:11:44",
       "album": {
-        "name": "Alter",
-        "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
-      },
-      "artists": [
-        {
-          "name": "Lustmord",
-          "url": "https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7"
-        },
-        {
-          "name": "Karin Park",
-          "url": "https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr"
-        }
-      ],
-      "duration_ms": 566208,
-      "name": "Entwined",
-      "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
-    },
-    {
-      "added_at": "2025-12-04 13:11:44",
-      "album": {
         "name": "Below the House",
         "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
       },
@@ -1243,6 +1223,22 @@
       "duration_ms": 221213,
       "name": "Below the House",
       "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
+    },
+    {
+      "added_at": "2025-12-04 13:11:44",
+      "album": {
+        "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+        "url": "https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm"
+      },
+      "artists": [
+        {
+          "name": "Jun Futamata",
+          "url": "https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW"
+        }
+      ],
+      "duration_ms": 287913,
+      "name": "#bfbfbf (12:20:00pm - 05:07:53pm)",
+      "url": "https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF"
     }
   ],
   "unique_name": "gloomcore",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAA5ClxhHS6HccnznpRbFqJv",
+  "snapshot_id": "aTdmgAAAAABW0MiwXX77aA6TTmBFSgMA",
   "tracks": [
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fama De Ingrata",
-        "url": "https://open.spotify.com/album/0Gkerz0nQtgjTLhcwEVyqZ"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Zendaya",
-      "url": "https://open.spotify.com/track/0dTtxXu9BDh6PE7uwzpBZp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FULL OF HOES",
         "url": "https://open.spotify.com/album/6Rf4KhMAcuW7hqAqd0HBtq"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 180923,
       "name": "FULL OF HOES",
       "url": "https://open.spotify.com/track/0R0Cn76nPYSyXC0Behn4Mr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fama De Ingrata",
+        "url": "https://open.spotify.com/album/0Gkerz0nQtgjTLhcwEVyqZ"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Zendaya",
+      "url": "https://open.spotify.com/track/0dTtxXu9BDh6PE7uwzpBZp"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AFROLANDIA",
+        "url": "https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "FLAKA MORENA",
+      "url": "https://open.spotify.com/track/2ILDGw3bCscmGDlhAB1Hfb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Do\u00f1a Soledad",
         "url": "https://open.spotify.com/album/6xu4RkKBWn5YM5DUyG8n4W"
       },
@@ -727,42 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFROLANDIA",
-        "url": "https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "FLAKA MORENA",
-      "url": "https://open.spotify.com/track/2ILDGw3bCscmGDlhAB1Hfb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tonto",
-        "url": "https://open.spotify.com/album/0cxct2zd10F6AhClN2YWGo"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        }
-      ],
-      "duration_ms": 186095,
-      "name": "Tonto",
-      "url": "https://open.spotify.com/track/3Uvrcjvuj4BVQ9L5qLPjHg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bien Pilas (En Vivo)",
         "url": "https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 190233,
       "name": "MASARYK",
       "url": "https://open.spotify.com/track/0fkG4rtHfDCc4RBspkiBgp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tonto",
+        "url": "https://open.spotify.com/album/0cxct2zd10F6AhClN2YWGo"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "duration_ms": 186095,
+      "name": "Tonto",
+      "url": "https://open.spotify.com/track/3Uvrcjvuj4BVQ9L5qLPjHg"
     },
     {
       "added_at": null,

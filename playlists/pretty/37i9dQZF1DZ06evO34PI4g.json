@@ -1,12 +1,12 @@
 {
   "description": "This is System Of A Down. The essential tracks, all in one playlist.",
-  "num_followers": 1045707,
+  "num_followers": 1046056,
   "original_name": "This Is System Of A Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAA3L6UUnhl3fXNOhCpV8igA",
+  "snapshot_id": "aTdmgAAAAAB/1eEEd2+VYMTFOtG3VekD",
   "tracks": [
     {
       "added_at": null,
@@ -395,38 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "System Of A Down",
-        "url": "https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 160266,
-      "name": "War?",
-      "url": "https://open.spotify.com/track/0vCzjgcBEujkrqizp2LYdq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Steal This Album!",
-        "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 132733,
-      "name": "Fuck the System",
-      "url": "https://open.spotify.com/track/5hjKYe3NOmWx2NVzVAeIGF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loud Rocks",
         "url": "https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu"
       },
@@ -447,6 +415,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Steal This Album!",
+        "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 132733,
+      "name": "Fuck the System",
+      "url": "https://open.spotify.com/track/5hjKYe3NOmWx2NVzVAeIGF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "System Of A Down",
+        "url": "https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 160266,
+      "name": "War?",
+      "url": "https://open.spotify.com/track/0vCzjgcBEujkrqizp2LYdq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Protect The Land / Genocidal Humanoidz",
         "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
       },
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "System Of A Down",
-        "url": "https://open.spotify.com/album/4T0mAffZnPKUW2QTcSX5zG"
+        "name": "System Of A Down (Deluxe)",
+        "url": "https://open.spotify.com/album/1GIv3kOvMfS5xGh6hNs0kb"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 151733,
-      "name": "Suite-Pee",
-      "url": "https://open.spotify.com/track/19DXrs7rMsqiUdAFLmHGOs"
+      "duration_ms": 205800,
+      "name": "Soil",
+      "url": "https://open.spotify.com/track/0IAgc00ZEN4b3unNQcPM39"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "System Of A Down (Deluxe)",
-        "url": "https://open.spotify.com/album/1GIv3kOvMfS5xGh6hNs0kb"
+        "name": "System Of A Down",
+        "url": "https://open.spotify.com/album/4T0mAffZnPKUW2QTcSX5zG"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 205800,
-      "name": "Soil",
-      "url": "https://open.spotify.com/track/0IAgc00ZEN4b3unNQcPM39"
+      "duration_ms": 151733,
+      "name": "Suite-Pee",
+      "url": "https://open.spotify.com/track/19DXrs7rMsqiUdAFLmHGOs"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best tracks from Fresh Finds Canada in 2025\. Cover: Thelonious
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,371 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,373 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 49 | [Danger Girl](https://open.spotify.com/track/6STAmwONqahuqXo5ILDvza) | [Shiv and the Carvers](https://open.spotify.com/artist/5FHs2oBdvd7FDLMIQ6ji06) | [Danger Girl](https://open.spotify.com/album/0aDafiqOc4zNHWwef7zim7) | 2:55 |
 | 50 | [Coca Cola](https://open.spotify.com/track/5BxsiZlSaoUtjAhjiEqjhe) | [Les Passagers](https://open.spotify.com/artist/1j6mG2Flo2QsSNV8FykBqJ) | [Coca cola](https://open.spotify.com/album/2ZAGKPJyN843FTVbyY4o1t) | 4:06 |
 
-Snapshot ID: `AAAAAPk0d3J3/g4/g9DuQ1eS9kV3jXiC`
+Snapshot ID: `AAAAAHdG4Lqru5uAqaX04JsFpZ+6vTOK`

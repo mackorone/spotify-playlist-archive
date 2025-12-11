@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭
 
-419 songs - 21 hr 47 min
+420 songs - 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,7 +291,7 @@
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-27 | 2025-03-10 |
 | [PLZ](https://open.spotify.com/track/07nJ9f5kZiGA2KfOf1dp8m) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [PLZ](https://open.spotify.com/album/7r9O17P4PY5gbiLmFtHhBW) | 3:06 | 2025-10-02 | 2025-10-17 |
 | [Pornography](https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T), [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Pornography](https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK) | 3:46 | 2024-10-24 | 2024-11-02 |
-| [Positiv](https://open.spotify.com/track/2c0f6RoKEFac8rsQ42WNIl) | [GOLF](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Positiv](https://open.spotify.com/album/19ZPN1zBZRJrDXkoCkHbvK) | 3:13 | 2025-12-04 |  |
+| [Positiv](https://open.spotify.com/track/2c0f6RoKEFac8rsQ42WNIl) | [GOLF](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Positiv](https://open.spotify.com/album/19ZPN1zBZRJrDXkoCkHbvK) | 3:13 | 2025-12-04 | 2025-12-11 |
 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 | 2025-09-18 |  |
 | [Pour Me A Drink \(Feat\. Blake Shelton\)](https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pour Me A Drink](https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz) | 3:15 | 2024-06-27 | 2025-02-19 |
 | [Pretty Slowly](https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Pretty Slowly](https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX) | 4:21 | 2024-08-22 | 2025-05-02 |
@@ -348,6 +348,7 @@
 | [Stockholm är för stort](https://open.spotify.com/track/3tiBjKLsRIF3kHIXynvGXv) | [Amani Smith](https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M) | [Stockholm är för stort](https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk) | 3:05 | 2025-08-28 | 2025-09-26 |
 | [Store gutter gråter ikke](https://open.spotify.com/track/32JhFHLRR4DGWHVg8txEK7) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Store gutter gråter ikke](https://open.spotify.com/album/4uNU8y4zM8haEuPoOo6Nyb) | 3:28 | 2025-10-30 | 2025-12-09 |
 | [Stuck Cat](https://open.spotify.com/track/17FtZbDIv4cwjULKgPIMyr) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Stuck Cat](https://open.spotify.com/album/0S5MNLgZE7impVo3pcvHEV) | 3:16 | 2025-03-13 | 2025-03-28 |
+| [Sunday My Heart Hurts](https://open.spotify.com/track/7jHZ78k0uz8h2CpXO2oZda) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Girl In A Bottle](https://open.spotify.com/album/415W2je9J0gsgUKKGBBRHG) | 2:56 | 2025-12-04 |  |
 | [Svagare än jag](https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Svagare än jag](https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr) | 3:07 | 2025-04-22 | 2025-10-03 |
 | [Sympathy Magic](https://open.spotify.com/track/5NuZNC7s5Fe9EFHKpvVADb) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Sympathy Magic](https://open.spotify.com/album/420amymxJxkmBkTr5ceDYU) | 4:28 | 2025-10-30 |  |
 | [Så længe jeg er sexy.](https://open.spotify.com/track/0fFMt9cc1EEQDIWLGDcqKd) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Så længe jeg er sexy.](https://open.spotify.com/album/2d9nhH2AHzxAf1Bo2PfCs9) | 2:30 | 2024-08-12 | 2025-02-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,967 likes - 70 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,039 likes - 70 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 35 | [Rust](https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Rust](https://open.spotify.com/album/1C9LseEpWWuh9PhCkVT74D) | 4:35 |
 | 36 | [Nights Out](https://open.spotify.com/track/5dfcjckcGZ5Etpon13rCbH) | [Lamchopz](https://open.spotify.com/artist/4qERXGDhxAOmF0KRaY5uCF) | [Nights Out](https://open.spotify.com/album/3kfNFwmbK8LhWYu7GDjOH6) | 5:43 |
 | 37 | [Break My Love](https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Break My Love](https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y) | 4:20 |
-| 38 | [Old Friend \(feat\. CLOVES\)](https://open.spotify.com/track/0x6lKDXprQv59SDymKMuwi) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Old Friend \(feat\. CLOVES\)](https://open.spotify.com/album/303xX85f4WUvAfUzlCL1Hu) | 2:54 |
-| 39 | [Sleepyhead 2025](https://open.spotify.com/track/4aSyYc1rWc2KhTknSfpx9H) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Sleepyhead 2025](https://open.spotify.com/album/3Tq2PZjUqnJ5rJWlmku0Oc) | 4:05 |
+| 38 | [Sleepyhead 2025](https://open.spotify.com/track/4aSyYc1rWc2KhTknSfpx9H) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Sleepyhead 2025](https://open.spotify.com/album/3Tq2PZjUqnJ5rJWlmku0Oc) | 4:05 |
+| 39 | [Old Friend \(feat\. CLOVES\)](https://open.spotify.com/track/0x6lKDXprQv59SDymKMuwi) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Old Friend \(feat\. CLOVES\)](https://open.spotify.com/album/303xX85f4WUvAfUzlCL1Hu) | 2:54 |
 | 40 | [Waves](https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM) | [Abroad](https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft) | [Waves](https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu) | 4:02 |
 | 41 | [Home](https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 3:33 |
 | 42 | [Weightless](https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Weightless](https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8) | 3:42 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 60 | [Save My Soul](https://open.spotify.com/track/0FAlTV2xvP1WgfKCXQ8o53) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Save My Soul](https://open.spotify.com/album/13jwc3YVFFMgTzotfBv674) | 3:04 |
 | 61 | [Kimpton](https://open.spotify.com/track/1wxZ9pAu1nW79Toy255OFz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Kimpton](https://open.spotify.com/album/4irD2QKX4eA49YhoAhUj21) | 3:48 |
 | 62 | [Maitri](https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Maitri](https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX) | 2:57 |
-| 63 | [Grapevine](https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Grapevine](https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU) | 6:21 |
-| 64 | [Wait For You](https://open.spotify.com/track/3IadEIThECdcKc8r3ILlqW) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Another Touch](https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR) | 3:45 |
+| 63 | [Wait For You](https://open.spotify.com/track/3IadEIThECdcKc8r3ILlqW) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Another Touch](https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR) | 3:45 |
+| 64 | [Grapevine](https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Grapevine](https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU) | 6:21 |
 | 65 | [Oceanside Girl](https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Oceanside Girl](https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv) | 5:19 |
 | 66 | [No Gravity \(feat\. Bava\)](https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Telos](https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5) | 3:31 |
 | 67 | [Stay](https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [The Panorama Sessions, Vol\. 2](https://open.spotify.com/album/2QBW1FxFUivoffvVoiSO8J) | 6:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 69 | [Moments](https://open.spotify.com/track/1q9TpHnaObjSKINEJPXaPx) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Another Touch \(Deluxe\)](https://open.spotify.com/album/7lMh1fjO5h4buXg2JxPIyD) | 3:06 |
 | 70 | [Raye](https://open.spotify.com/track/5tsVgtKdAfKGcVIcCHvyxe) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Raye](https://open.spotify.com/album/55XutLIxmTUmwwFydXTBZ4) | 4:50 |
 
-Snapshot ID: `AAAAAMWHEA6GUtQzGANqppnduu23e77Y`
+Snapshot ID: `AAAAAE5jOq6SOWzIMx5vOvNoK2yyQq/v`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 
 > An all\-Australian soundtrack to snags, bread and tomato sauce!
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,002 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,011 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 | 31 | [Great Southern Land](https://open.spotify.com/track/3OmEIZ6bYHqlReQ1YLaRHV) | [ICEHOUSE](https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk) | [Primitive Man \(Bonus Track Edition\)](https://open.spotify.com/album/5B3wFWPqWgpRnan9sSSQzr) | 5:17 |
 | 32 | [I Want You](https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 3:52 |
 | 33 | [The Boys Light Up \- Remastered 2013](https://open.spotify.com/track/687i9z2ZCKNfzpmzs7HxOu) | [Australian Crawl](https://open.spotify.com/artist/41fDGRDlzczk5Yo2wDo0H4) | [The Boys Light Up \(Remastered\)](https://open.spotify.com/album/4xDGaF0egAcfV0lDYc3PTV) | 4:41 |
-| 34 | [Wish You Well](https://open.spotify.com/track/48xq0DnfAKtsFjK1L7GZx9) | [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Tea & Sympathy](https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I) | 2:31 |
-| 35 | [Don't Dream It's Over](https://open.spotify.com/track/1fiDe8sb2DMEU4JGPOIEB1) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [The Very Very Best Of Crowded House \(Deluxe Edition\)](https://open.spotify.com/album/3XLP6DCTfz8eQkORPdfvvy) | 3:58 |
+| 34 | [Don't Dream It's Over](https://open.spotify.com/track/1fiDe8sb2DMEU4JGPOIEB1) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [The Very Very Best Of Crowded House \(Deluxe Edition\)](https://open.spotify.com/album/3XLP6DCTfz8eQkORPdfvvy) | 3:58 |
+| 35 | [Wish You Well](https://open.spotify.com/track/48xq0DnfAKtsFjK1L7GZx9) | [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Tea & Sympathy](https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I) | 2:31 |
 | 36 | [Temper Temper](https://open.spotify.com/track/3DCU0R5FFaB9GKxZERb5wr) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Permanent Vacation](https://open.spotify.com/album/5YlzKbkGoIIFnBOnYwU3kl) | 3:28 |
 | 37 | [Mess Is Mine](https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:43 |
 | 38 | [Til The Morning](https://open.spotify.com/track/0rnnu0SMZ4jTGhOAQfoeq6) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 3:32 |

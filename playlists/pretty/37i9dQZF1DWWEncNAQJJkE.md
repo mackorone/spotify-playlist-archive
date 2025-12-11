@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain]
 
 > The best of Canadian  hip\-hop this year, handpicked by Spotify Canada editors\. Cover: Planet Giza
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,612 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,602 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEncNAQJJkE.md) - [plain]
 | 49 | [Cash \(feat\. Jay Gwuapo\)](https://open.spotify.com/track/0fm11iIMXpjikgqPI921JU) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w), [Jay Gwuapo](https://open.spotify.com/artist/5qrzeukNCU5ixZH3LhQi2j) | [Made 4 More](https://open.spotify.com/album/0I3rpDnaqtjWzQDxGg6B7I) | 3:25 |
 | 50 | [Step Out](https://open.spotify.com/track/7gm1hgJm2jfQRXF36RgAPL) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS), [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Step Out](https://open.spotify.com/album/4ktZ2g4Lf93aeC2w0CIf2b) | 3:07 |
 
-Snapshot ID: `AAAAAI8e445yKXMOS8LsBsmLcAlLUCvy`
+Snapshot ID: `AAAAAOJL//gJ2rfEvLE/G4wmu9TJiCtK`

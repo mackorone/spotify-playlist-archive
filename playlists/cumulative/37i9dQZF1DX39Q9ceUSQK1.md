@@ -4,7 +4,7 @@
 
 > Nieuwe alternative & rock releases\. Cover: GUNMOLL
 
-668 songs - 1 day 14 hr 56 min
+669 songs - 1 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -585,6 +585,7 @@
 | [The Rope](https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [The Rope](https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId) | 3:10 | 2025-06-05 | 2025-08-30 |
 | [The Scythe](https://open.spotify.com/track/1EQZbseQ6EVX8JdhqyXHhw) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [The Scythe](https://open.spotify.com/album/2MwuyCkxawMNjBf1LwATQW) | 4:45 | 2025-09-05 | 2025-11-20 |
 | [The Show](https://open.spotify.com/track/1BCa4RGfJLudmiqJ2fuGKq) | [High Hi](https://open.spotify.com/artist/3A6l4ONs4PBpq2g4AAjP6M) | [The Show](https://open.spotify.com/album/6dtGHJ6aU8kqQ8FvZyGAx9) | 3:45 | 2025-10-28 |  |
+| [The Treadmill](https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 3:22 | 2025-12-10 |  |
 | [The Weather](https://open.spotify.com/track/4vggwi9dH7e9pGFIgKqzQS) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [The Weather](https://open.spotify.com/album/2Av6fhlES4W5HZw9ZmGtS9) | 2:51 | 2025-07-10 | 2025-10-10 |
 | [There’s Always Gonna Be Something](https://open.spotify.com/track/5jBqfgzHTLUEFswjvWrIjD) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [There's Always Gonna Be Something](https://open.spotify.com/album/0JfaJAEBTdTVlfczvCZYdl) | 4:02 | 2025-02-03 | 2025-04-12 |
 | [There’s No More Underground](https://open.spotify.com/track/3FRVbgqA7pVAJ0VBnXsrIK) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [There’s No More Underground](https://open.spotify.com/album/5euflJlUQaylKswQycK6oS) | 2:14 | 2025-09-12 | 2025-11-25 |

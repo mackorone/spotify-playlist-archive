@@ -1,6 +1,6 @@
 {
   "description": "100% cl\u00e1ssicos.",
-  "num_followers": 485614,
+  "num_followers": 485837,
   "original_name": "EDM Hits",
   "owner": {
     "name": "Spotify",
@@ -487,26 +487,6 @@
     {
       "added_at": "2025-01-16 12:30:53",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Foxes",
-          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
-        }
-      ],
-      "duration_ms": 271426,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c"
-    },
-    {
-      "added_at": "2025-01-16 12:30:53",
-      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 219043,
       "name": "Sugar (feat. Francesco Yates)",
       "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
+    },
+    {
+      "added_at": "2025-01-16 12:30:53",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Foxes",
+          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
+        }
+      ],
+      "duration_ms": 271426,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c"
     },
     {
       "added_at": "2025-01-16 12:30:53",
@@ -623,26 +623,6 @@
     {
       "added_at": "2025-01-16 12:30:53",
       "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        },
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
-    },
-    {
-      "added_at": "2025-01-16 12:30:53",
-      "album": {
         "name": "Layers",
         "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 195546,
       "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
       "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
+    },
+    {
+      "added_at": "2025-01-16 12:30:53",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        },
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
     },
     {
       "added_at": "2025-01-16 12:30:53",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAABN7HJQmTxGTAHpQ0A7C/G4",
+  "snapshot_id": "aTdmgAAAAABoy8Cy0XDvcYXBXhJHYeO2",
   "tracks": [
     {
       "added_at": null,
@@ -159,26 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bivolt",
-        "url": "https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Tasha & Tracie",
-          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Murda Murda",
-      "url": "https://open.spotify.com/track/40p0vevznrM6nfhbFviCUO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mate Ou Morra",
         "url": "https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 239932,
       "name": "Vai Gamar",
       "url": "https://open.spotify.com/track/1HQztUZ9R0fV1BvcErnevI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bivolt",
+        "url": "https://open.spotify.com/album/2FCX8kUCCLy6I5GlX8k88R"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Murda Murda",
+      "url": "https://open.spotify.com/track/40p0vevznrM6nfhbFviCUO"
     },
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frequ\u00eancia",
-        "url": "https://open.spotify.com/album/2ULjuFg39qb5oc9CM3p4aK"
-      },
-      "artists": [
-        {
-          "name": "Mc Magal",
-          "url": "https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 174947,
-      "name": "Ta Demais",
-      "url": "https://open.spotify.com/track/5sbMmTqQBEptebVNSYsMVV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At\u00e9 tarde",
         "url": "https://open.spotify.com/album/3UZ3sglIDfQlfN712EoBfc"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 156692,
       "name": "At\u00e9 tarde",
       "url": "https://open.spotify.com/track/0XTb2SRVLtJEuEaucwAK2u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frequ\u00eancia",
+        "url": "https://open.spotify.com/album/2ULjuFg39qb5oc9CM3p4aK"
+      },
+      "artists": [
+        {
+          "name": "Mc Magal",
+          "url": "https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 174947,
+      "name": "Ta Demais",
+      "url": "https://open.spotify.com/track/5sbMmTqQBEptebVNSYsMVV"
     },
     {
       "added_at": null,
@@ -887,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nitro",
+        "url": "https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 119871,
+      "name": "Anjo",
+      "url": "https://open.spotify.com/track/0ANO7mhTiJZE77U7J7pXqB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tira Uma Foto",
         "url": "https://open.spotify.com/album/7Bvg4IJIBa2ewWmOEHe7X1"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nitro",
-        "url": "https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 119871,
-      "name": "Anjo",
-      "url": "https://open.spotify.com/track/0ANO7mhTiJZE77U7J7pXqB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chave",
         "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
       },
@@ -939,50 +939,6 @@
       "duration_ms": 181626,
       "name": "T\u00f4 Tranquila",
       "url": "https://open.spotify.com/track/46lAZ1uZ0YkIsjJGb7gBDR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SET DO ECOLOGYK 1.0",
-        "url": "https://open.spotify.com/album/67Zzg6YfQIULJrpt91LXUI"
-      },
-      "artists": [
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "Mc Pedrinho",
-          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
-        },
-        {
-          "name": "Mc Lipi",
-          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "Duzz",
-          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "MC Igu",
-          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 338274,
-      "name": "SET DO ECOLOGYK 1.0",
-      "url": "https://open.spotify.com/track/3IcsmbNAb1ez7a7hUc7XZG"
     },
     {
       "added_at": null,
@@ -1031,6 +987,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "SET DO ECOLOGYK 1.0",
+        "url": "https://open.spotify.com/album/67Zzg6YfQIULJrpt91LXUI"
+      },
+      "artists": [
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Mc Lipi",
+          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "MC Igu",
+          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 338274,
+      "name": "SET DO ECOLOGYK 1.0",
+      "url": "https://open.spotify.com/track/3IcsmbNAb1ez7a7hUc7XZG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chave",
         "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
       },
@@ -1071,26 +1071,6 @@
       "duration_ms": 185346,
       "name": "Turn Up",
       "url": "https://open.spotify.com/track/73BhnOavq94xYttMTa7Hbq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bivolt no Est\u00fadio Showlivre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/54Hy0G86AMIiRvEd9KsP65"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Showlivre",
-          "url": "https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U"
-        }
-      ],
-      "duration_ms": 127287,
-      "name": "Odoy\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/1oUXIBZvKWSW6F9f9ntUbj"
     },
     {
       "added_at": null,
@@ -1143,26 +1123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Papo Reto",
-        "url": "https://open.spotify.com/album/323GovvaPEsIuGCqTEc21B"
-      },
-      "artists": [
-        {
-          "name": "Thais Macedo",
-          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 192499,
-      "name": "Papo Reto",
-      "url": "https://open.spotify.com/track/70wtfNQukAqtq8eGAERnCu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crypto Reggae",
         "url": "https://open.spotify.com/album/4HBgdB8bpQInGGYHaFnEcj"
       },
@@ -1183,6 +1143,46 @@
       "duration_ms": 182559,
       "name": "Palam Gang",
       "url": "https://open.spotify.com/track/2lXyjv3yo9lYpg9C7EcINz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ELAS",
+        "url": "https://open.spotify.com/album/1xEuWIkQ4Wf2URRMnZwxTP"
+      },
+      "artists": [
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 160079,
+      "name": "Fa\u00e7o Valer",
+      "url": "https://open.spotify.com/track/256BKm4rtUApYAKGSet1VT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bivolt no Est\u00fadio Showlivre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/54Hy0G86AMIiRvEd9KsP65"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Showlivre",
+          "url": "https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U"
+        }
+      ],
+      "duration_ms": 127287,
+      "name": "Odoy\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/1oUXIBZvKWSW6F9f9ntUbj"
     },
     {
       "added_at": null,
@@ -1211,26 +1211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ELAS",
-        "url": "https://open.spotify.com/album/1xEuWIkQ4Wf2URRMnZwxTP"
-      },
-      "artists": [
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 160079,
-      "name": "Fa\u00e7o Valer",
-      "url": "https://open.spotify.com/track/256BKm4rtUApYAKGSet1VT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vista Loka",
         "url": "https://open.spotify.com/album/3lPDSgCpGJNJrQLKQ5VkFs"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 208747,
       "name": "Vista Loka",
       "url": "https://open.spotify.com/track/1AU9m2wkxMbaZpzIqd6Gr8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Papo Reto",
+        "url": "https://open.spotify.com/album/323GovvaPEsIuGCqTEc21B"
+      },
+      "artists": [
+        {
+          "name": "Thais Macedo",
+          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 192499,
+      "name": "Papo Reto",
+      "url": "https://open.spotify.com/track/70wtfNQukAqtq8eGAERnCu"
     }
   ],
   "unique_name": "This Is Bivolt",

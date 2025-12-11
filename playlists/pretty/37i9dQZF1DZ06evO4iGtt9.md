@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 
 > This is Timaya\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,856 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,858 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cold Outside](https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cold Outside](https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0) | 3:01 |
 | 2 | [Born to Win](https://open.spotify.com/track/0rYHjZeIaXmMm8D9ujvgeI) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 2:53 |
 | 3 | [Balance](https://open.spotify.com/track/0q9OFZHgEZUAi5bVge9nbk) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 3:03 |
-| 4 | [Good Or Bad \(Oway\)](https://open.spotify.com/track/1jqBgNjP5yfjCrAgJZE0be) | [J\. Martins](https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Get Serious](https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk) | 4:05 |
-| 5 | [Telli Person](https://open.spotify.com/track/2yiZjiwZq3pdfCdrbp87b4) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Telli Person](https://open.spotify.com/album/2S8IqygjfGKH7jMAac2vhS) | 3:44 |
+| 4 | [Telli Person](https://open.spotify.com/track/2yiZjiwZq3pdfCdrbp87b4) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Telli Person](https://open.spotify.com/album/2S8IqygjfGKH7jMAac2vhS) | 3:44 |
+| 5 | [Good Or Bad \(Oway\)](https://open.spotify.com/track/1jqBgNjP5yfjCrAgJZE0be) | [J\. Martins](https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Get Serious](https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk) | 4:05 |
 | 6 | [Don Dada](https://open.spotify.com/track/7gReWQ16Qs5gtAkytHEKB8) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gratitude](https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj) | 3:28 |
 | 7 | [The Mood](https://open.spotify.com/track/6gHUiXF4BiJ9d7biTNmdKR) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Chulo Vibes](https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q) | 2:41 |
 | 8 | [Bom Bom](https://open.spotify.com/track/4krZBMENG6coQYEaZkVvHP) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Upgrade](https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE) | 3:38 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 | 37 | [Kom Kom](https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Kom Kom](https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c) | 3:08 |
 | 38 | [SWEET US](https://open.spotify.com/track/56lY57uPh4k8yw8TkQgwNZ) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [GLADIATOR](https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE) | 2:37 |
 | 39 | [Ukwu \(Bonus\)](https://open.spotify.com/track/0jHkUphvDkzwp9zwy47Igo) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Epiphany](https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL) | 3:10 |
-| 40 | [Bang Bang](https://open.spotify.com/track/7jHoVoaBxJEmbxTdpW4Xhp) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Bang Bang](https://open.spotify.com/album/34Ve0t594zURQel4Ob1bGi) | 3:07 |
-| 41 | [Samankwe](https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE) | [HarrySong](https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Samankwe](https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS) | 3:32 |
+| 40 | [Samankwe](https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE) | [HarrySong](https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Samankwe](https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS) | 3:32 |
+| 41 | [Bang Bang](https://open.spotify.com/track/7jHoVoaBxJEmbxTdpW4Xhp) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Bang Bang](https://open.spotify.com/album/34Ve0t594zURQel4Ob1bGi) | 3:07 |
 | 42 | [Ah Blem Blem](https://open.spotify.com/track/3FLmb7sK9KJeMoQtdq85QL) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Ah Blem Blem](https://open.spotify.com/album/4hK4A6Fhhb5cKywlX0XQ7N) | 3:26 |
 | 43 | [I Like The Way](https://open.spotify.com/track/1fDMlFjBdb1A2fPDBN5Wcg) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [I Like The Way](https://open.spotify.com/album/6pz5j7RjVS7YDwiELGVSWz) | 3:19 |
 | 44 | [Win](https://open.spotify.com/track/4tsOVwq32CJnEMfNUkqCcA) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Win](https://open.spotify.com/album/0yGdqWIgFuRxC9Kw6F1H2C) | 3:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iGtt9.md) - [plain]
 | 49 | [God You Are 2 Much](https://open.spotify.com/track/7o2BmnHlqzawV5z1DOyYlm) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Gift And Grace](https://open.spotify.com/album/6rM9FXS15QeSFgYi6BQiCE) | 4:32 |
 | 50 | [Better Than Them](https://open.spotify.com/track/3D1F34SW7EHoSPbcQAxlUA) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Better Than Them](https://open.spotify.com/album/4QCjmhboNpSAyzkVwniGkl) | 3:33 |
 
-Snapshot ID: `aTYVAAAAAADj8Q233yIGLcm4rmlwpNjY`
+Snapshot ID: `aTdmgAAAAACImfPfojlvjvFGQSclJk3D`

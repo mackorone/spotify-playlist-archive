@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 
 > Chilled out dance classics to set the mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,486 likes - 70 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,507 likes - 70 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 59 | [Bentley's Gonna Sort You Out](https://open.spotify.com/track/2GLl5SfGDhAEztVvEVRimA) | [Bentley Rhythm Ace](https://open.spotify.com/artist/28EZh7WvdbWwfOrf5lkvCk) | [BRA](https://open.spotify.com/album/5M9gDsoePB0kpZfBDfrL3O) | 5:07 |
 | 60 | [Sun Is Shining](https://open.spotify.com/track/7mUTI3eMg0issonjzaVGDw) | [Funkstar De Luxe](https://open.spotify.com/artist/1R5R9EyBe8MxRuD3BIXaV2) | [Sun Is Shining \(Remixes\)](https://open.spotify.com/album/4l8hxXnWvWObUZEuyWzyjs) | 4:10 |
 | 61 | [Chase the Sun](https://open.spotify.com/track/2mkBHN67xLpHrpqOuj79Yz) | [Planet Funk](https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4) | [Non Zero Sumness Plus One](https://open.spotify.com/album/4DcIgdBbqm0Fqhmh5RcoCD) | 3:53 |
-| 62 | [Steamworks](https://open.spotify.com/track/4STp2ydjOO3OfSaRUa4n6Z) | [The Presets](https://open.spotify.com/artist/1zTAQ6zkGz2L2i6lfR30EX) | [Beams \(Deluxe\)](https://open.spotify.com/album/6ivvGq9dhnlDHoEdHrWzsQ) | 4:35 |
-| 63 | [Spellbound \(feat\. Veba\)](https://open.spotify.com/track/1qs0vlA9FdaV5NkPBR4Urg) | [Rae & Christian](https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn), [Veba](https://open.spotify.com/artist/6j2ae9lkLM3apxccKUu5dJ) | [Northern Sulphuric Soul](https://open.spotify.com/album/75yPpdG1AXCXQf2E2jFfj9) | 5:44 |
+| 62 | [Spellbound \(feat\. Veba\)](https://open.spotify.com/track/1qs0vlA9FdaV5NkPBR4Urg) | [Rae & Christian](https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn), [Veba](https://open.spotify.com/artist/6j2ae9lkLM3apxccKUu5dJ) | [Northern Sulphuric Soul](https://open.spotify.com/album/75yPpdG1AXCXQf2E2jFfj9) | 5:44 |
+| 63 | [Steamworks](https://open.spotify.com/track/4STp2ydjOO3OfSaRUa4n6Z) | [The Presets](https://open.spotify.com/artist/1zTAQ6zkGz2L2i6lfR30EX) | [Beams \(Deluxe\)](https://open.spotify.com/album/6ivvGq9dhnlDHoEdHrWzsQ) | 4:35 |
 | 64 | [Raindrops](https://open.spotify.com/track/7KwhOs8qcEWcXJP0eKR4Bm) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Scars](https://open.spotify.com/album/1pDAZ6iRky6Vmv9xDJezoc) | 4:09 |
 | 65 | [Drop The Pressure](https://open.spotify.com/track/4ctPexpFIKzjWl4sI7pxeR) | [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti) | [Destroy Rock & Roll](https://open.spotify.com/album/4bmRs1mbIqoZXpxAzCRQ7E) | 4:15 |
 | 66 | [Kota](https://open.spotify.com/track/1hHswNRFdwR5HZSBKdVEOs) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 5:24 |

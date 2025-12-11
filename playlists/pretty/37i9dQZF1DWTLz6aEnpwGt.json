@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 68223,
+  "num_followers": 68245,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -375,26 +375,6 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
-        "name": "Bach, J.S.: Das Wohltemperierte Klavier",
-        "url": "https://open.spotify.com/album/7Iq3gXQ76JdkYWlwtCgMUe"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        }
-      ],
-      "duration_ms": 77093,
-      "name": "Das Wohltemperierte Klavier: Book 1, BWV 846-869: Prelude in D minor BWV 851",
-      "url": "https://open.spotify.com/track/2Ubqa1PGRd6eJdAqXWFMTk"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
         "name": "Unity (Affinity)",
         "url": "https://open.spotify.com/album/5Lu9kBaAOeBYl22U9wFYGf"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 123008,
       "name": "St Matthew Passion, BWV 244, Pt. 1: No. 17, Chorale. Ich will hier bei dir stehen (Arr. for Piano by Rosey Chan)",
       "url": "https://open.spotify.com/track/5WySYyyyB3D5eTQJtkvVYW"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
+        "name": "Bach, J.S.: Das Wohltemperierte Klavier",
+        "url": "https://open.spotify.com/album/7Iq3gXQ76JdkYWlwtCgMUe"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "duration_ms": 77093,
+      "name": "Das Wohltemperierte Klavier: Book 1, BWV 846-869: Prelude in D minor BWV 851",
+      "url": "https://open.spotify.com/track/2Ubqa1PGRd6eJdAqXWFMTk"
     },
     {
       "added_at": "2025-01-24 04:00:20",
@@ -507,6 +507,50 @@
     {
       "added_at": "2025-01-24 04:00:20",
       "album": {
+        "name": "Bach: Keyboard Concertos & Italian Concerto",
+        "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Sonya Bach",
+          "url": "https://open.spotify.com/artist/0zIN9w6AXy4ROnxYqXImJz"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        }
+      ],
+      "duration_ms": 236120,
+      "name": "Concerto No. 4 in A Major, BWV 1055: I. Allegro",
+      "url": "https://open.spotify.com/track/2N2x1MOKx4pYBU6GkNh1ks"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
+        "name": "Bach: Keyboard Partitas Nos. 1-6",
+        "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "duration_ms": 679453,
+      "name": "Partita No. 4 in D Major, BWV 828: II. Allemande",
+      "url": "https://open.spotify.com/track/7yA4tm1x2ZqrxcARTUZjvA"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
         "name": "Bach: Keyboard Concertos",
         "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
       },
@@ -548,73 +592,9 @@
           "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
         }
       ],
-      "duration_ms": 679453,
-      "name": "Partita No. 4 in D Major, BWV 828: II. Allemande",
-      "url": "https://open.spotify.com/track/7yA4tm1x2ZqrxcARTUZjvA"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
-        "name": "Bach: Keyboard Concertos & Italian Concerto",
-        "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Sonya Bach",
-          "url": "https://open.spotify.com/artist/0zIN9w6AXy4ROnxYqXImJz"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
-        }
-      ],
-      "duration_ms": 236120,
-      "name": "Concerto No. 4 in A Major, BWV 1055: I. Allegro",
-      "url": "https://open.spotify.com/track/2N2x1MOKx4pYBU6GkNh1ks"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
-        "name": "Bach: Keyboard Partitas Nos. 1-6",
-        "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Igor Levit",
-          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
-        }
-      ],
       "duration_ms": 389706,
       "name": "Partita No. 4 in D Major, BWV 828: V. Sarabande",
       "url": "https://open.spotify.com/track/2L295fdTmcpXVAjCOhcjL5"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
-        "name": "Bach: Goldberg Variations, BWV 988",
-        "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Beatrice Rana",
-          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
-        }
-      ],
-      "duration_ms": 143760,
-      "name": "Bach, JS: Goldberg Variations, BWV 988: Variation XXVIII",
-      "url": "https://open.spotify.com/track/5HnldeRy7Ki13Y3ybWcRsE"
     },
     {
       "added_at": "2025-01-24 04:00:20",
@@ -635,6 +615,26 @@
       "duration_ms": 95893,
       "name": "Goldberg Variations, BWV 988: Var. 2",
       "url": "https://open.spotify.com/track/2fJzKofJ6V88glBAOVpyGb"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
+        "name": "Bach: Goldberg Variations, BWV 988",
+        "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Beatrice Rana",
+          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
+        }
+      ],
+      "duration_ms": 143760,
+      "name": "Bach, JS: Goldberg Variations, BWV 988: Variation XXVIII",
+      "url": "https://open.spotify.com/track/5HnldeRy7Ki13Y3ybWcRsE"
     },
     {
       "added_at": "2025-01-24 04:00:20",
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2g3N0oxbmn5Q95mYNNdIo4"
         }
       ],
-      "duration_ms": 430893,
-      "name": "Bach, JS: Piano Concerto No. 1 in D Minor, BWV 1052: II. Adagio",
-      "url": "https://open.spotify.com/track/6ytUcoIh8E6Nykd8Qyb6pH"
+      "duration_ms": 483600,
+      "name": "Bach, JS: Piano Concerto No. 1 in D Minor, BWV 1052: I. Allegro",
+      "url": "https://open.spotify.com/track/47HPTrKutwt8n3ZNsmbH7S"
     },
     {
       "added_at": "2025-01-24 04:00:20",
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/2g3N0oxbmn5Q95mYNNdIo4"
         }
       ],
-      "duration_ms": 483600,
-      "name": "Bach, JS: Piano Concerto No. 1 in D Minor, BWV 1052: I. Allegro",
-      "url": "https://open.spotify.com/track/47HPTrKutwt8n3ZNsmbH7S"
+      "duration_ms": 430893,
+      "name": "Bach, JS: Piano Concerto No. 1 in D Minor, BWV 1052: II. Adagio",
+      "url": "https://open.spotify.com/track/6ytUcoIh8E6Nykd8Qyb6pH"
     },
     {
       "added_at": "2025-01-24 04:00:20",
@@ -727,26 +727,6 @@
       "duration_ms": 297280,
       "name": "Concerto for 2 Harpsichords, Strings & Continuo in C Major, BWV 1061: 2. Adagio ovvero Largo (performed on two pianos)",
       "url": "https://open.spotify.com/track/1MikehMkm3ZWWV1R7C0sgG"
-    },
-    {
-      "added_at": "2025-01-24 04:00:20",
-      "album": {
-        "name": "Johann Sebastian Bach: The French Suites",
-        "url": "https://open.spotify.com/album/50Tp1V8zhhorvJmhWBVSY8"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Murray Perahia",
-          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
-        }
-      ],
-      "duration_ms": 227346,
-      "name": "French Suite No. 4 in E-Flat Major, BWV 815: IV. Gavotte",
-      "url": "https://open.spotify.com/track/2DRI7n3nCVuerUVIJFKUCw"
     },
     {
       "added_at": "2025-01-24 04:00:20",
@@ -779,6 +759,26 @@
       "duration_ms": 453880,
       "name": "Concerto for 2 Harpsichords, Strings & Continuo in C Major, BWV 1061: 1. [No Tempo Indication] (performed on two pianos)",
       "url": "https://open.spotify.com/track/6XRjvKXktFulH9foC7teqH"
+    },
+    {
+      "added_at": "2025-01-24 04:00:20",
+      "album": {
+        "name": "Johann Sebastian Bach: The French Suites",
+        "url": "https://open.spotify.com/album/50Tp1V8zhhorvJmhWBVSY8"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Murray Perahia",
+          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+        }
+      ],
+      "duration_ms": 227346,
+      "name": "French Suite No. 4 in E-Flat Major, BWV 815: IV. Gavotte",
+      "url": "https://open.spotify.com/track/2DRI7n3nCVuerUVIJFKUCw"
     },
     {
       "added_at": "2025-01-24 04:00:20",

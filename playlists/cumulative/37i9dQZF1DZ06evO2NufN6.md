@@ -4,7 +4,7 @@
 
 > This is Mac Miller\. The essential tracks, all in one playlist.
 
-93 songs - 5 hr 53 min
+94 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Kool Aid & Frozen Pizza](https://open.spotify.com/track/0SwxuVBPfjqR2kCnpDDnqp) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [K.I.D.S.](https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg) | 2:37 | 2023-06-07 | 2025-12-09 |
 | [Ladders](https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 4:47 | 2023-06-07 |  |
 | [Loud](https://open.spotify.com/track/2m9fyiIA1ADsjZTG9qcnQI) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Macadelic](https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q) | 2:50 | 2023-06-07 | 2025-12-01 |
-| [Love Lost](https://open.spotify.com/track/2z9iuAxKv4TTeCrPAxxKg9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn) | 2:42 | 2023-06-07 |  |
+| [Love Lost](https://open.spotify.com/track/1gooIGZGh22TOPqaogU9bs) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/0GNGyTAEBRRB98jKmgDwgd) | 2:42 | 2025-12-11 |  |
+| [Love Lost](https://open.spotify.com/track/2z9iuAxKv4TTeCrPAxxKg9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [I Love Life, Thank You](https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn) | 2:42 | 2023-06-07 | 2025-12-11 |
 | [Missed Calls](https://open.spotify.com/track/2ySc7XpO3sdt01UG986MwE) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Blue Slide Park](https://open.spotify.com/album/17mAoDs7T8EA9zzlj6QPBv) | 2:58 | 2023-06-07 |  |
 | [Mrs\. Deborah Downer](https://open.spotify.com/track/5auyZ3WJq8klh6OnhzBU35) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:04 | 2025-01-19 | 2025-02-16 |
 | [My Favorite Part](https://open.spotify.com/track/66wkCYWlXzSTQAfnsPBptt) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 3:36 | 2023-06-07 |  |

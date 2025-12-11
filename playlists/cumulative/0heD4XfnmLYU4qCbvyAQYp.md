@@ -4,13 +4,15 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-70 songs - 4 hr 42 min
+74 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Age Of Innocence](https://open.spotify.com/track/6Kg9rDa3N0UANVpbuNTAby) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF) | [Age Of Innocence](https://open.spotify.com/album/4M9Na1uq901AQhN8aVNXzq) | 4:14 | 2025-11-04 | 2025-12-08 |
+| [All That We Need](https://open.spotify.com/track/6YdIHTbtkfjXuE1sDTQzAy) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [All That We Need](https://open.spotify.com/album/3aFfX6KlURt9DGYVDEk0Qq) | 2:52 | 2025-12-10 |  |
 | [Amor Sexo y Racanró](https://open.spotify.com/track/6rzDdSfnrPvWoCnLdAewbG) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Amor Sexo y Racanró](https://open.spotify.com/album/6IgJl4CR6grNT36fiOVsPA) | 2:52 | 2025-10-04 |  |
 | [Apolitico](https://open.spotify.com/track/1bBKdkkz0ohLg1ACo17kl7) | [Godiva Re\-Load](https://open.spotify.com/artist/0VnuZPYu7ZMmOeoc64q6GD) | [Apolitico / Io E Lady G](https://open.spotify.com/album/3hXH3LEE8bXIugvTFgsuqc) | 5:08 | 2025-12-07 |  |
+| [Ascent](https://open.spotify.com/track/07jLXJM0cPtkusSIsggBPx) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 2:39 | 2025-12-10 |  |
 | [Be Right Here](https://open.spotify.com/track/5bb4mLHW4JaJjLB7z9Pu38) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [Be Right Here](https://open.spotify.com/album/5jjjFyrWKTaATTx3P4UtHs) | 4:09 | 2025-11-12 | 2025-12-08 |
 | [Bea Tiene Una Risa Tan Especial](https://open.spotify.com/track/0cpEflaylHIzMmKy3DgjMj) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Bea Tiene Una Risa Tan Especial](https://open.spotify.com/album/0COY3QqIEM0exOOJTqanVc) | 4:10 | 2025-10-05 |  |
 | [Better Not Be Late](https://open.spotify.com/track/2LwjOPIjBi6pzeIEZzHKE0) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [Better Not Be Late](https://open.spotify.com/album/62zlN0T8PV7TnGcbm7FZj5) | 3:40 | 2025-05-04 |  |
@@ -29,6 +31,7 @@
 | [Dutch for a Day](https://open.spotify.com/track/4A3j2sJk5lygsZ1cwrd4mk) | [Urs Ruf](https://open.spotify.com/artist/0KPIxZ2aLcB0Zlu14GPk1d) | [Dutch for a Day](https://open.spotify.com/album/3krX4MJQw2alLPlFSnO13Z) | 3:03 | 2025-05-04 | 2025-12-08 |
 | [Every Where](https://open.spotify.com/track/4y2chq4TIDQr6dVnMuvB0X) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [Entanglement](https://open.spotify.com/album/5tuD5rn8VGTm3yIKjDWeku) | 4:45 | 2025-09-09 | 2025-12-08 |
 | [Fake Empire](https://open.spotify.com/track/65aZDJQwNllPxuLPixJ4YO) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/3Td1c2eAXaFzU4F8QCbFbp) | 3:25 | 2025-07-31 |  |
+| [Feeling](https://open.spotify.com/track/1aac1kuHZNKvUCPbNkPrjd) | [Amber View](https://open.spotify.com/artist/4PFFRw0s8pAuo96glIcFBC) | [Feeling](https://open.spotify.com/album/6ixZhNfLmOmNP07YNXBpvw) | 3:42 | 2025-12-10 |  |
 | [Felt Cute, Might Delete Later](https://open.spotify.com/track/78RMNtziAVWymdQK6kj1r6) | [Andrew Wilson](https://open.spotify.com/artist/7nJeosmDpSeqMG1gjzuRLk) | [Felt Cute, Might Delete Later](https://open.spotify.com/album/3RhJ9xe3wPepN4GZwnx1mK) | 3:12 | 2025-11-24 |  |
 | [Flytrap Love](https://open.spotify.com/track/3jolugMznsIcM4whHoCXnu) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Flytrap Love](https://open.spotify.com/album/7h5aCkOgOWj65nVIP4UVtn) | 4:44 | 2025-11-04 | 2025-12-08 |
 | [Get Ready](https://open.spotify.com/track/1UFDljtWoiwASVfCxwkFAM) | [Tirada](https://open.spotify.com/artist/5nYNaWd0EzkjojIr0NAp2v) | [Get Ready](https://open.spotify.com/album/0BFJoPZ2FAtP1wk9NXsi2e) | 4:23 | 2025-11-25 |  |
@@ -76,6 +79,7 @@
 | [Velvet Blue](https://open.spotify.com/track/7y2htsY1MqNozMvmxzHLSi) | [MXSDLR](https://open.spotify.com/artist/2U0IlUZodXZVX0WULhygOB) | [Velvet Blue](https://open.spotify.com/album/5HUXNBVOaPfkcN0yHcJcIz) | 4:03 | 2025-11-04 | 2025-12-08 |
 | [Voidbound // Toward the Infinite Silence](https://open.spotify.com/track/50xtUVDCFqzTNnquM31Y3N) | [Terrestrial Animal](https://open.spotify.com/artist/75UDNIKbXLmpIGyEuuunjT) | [Laniakea](https://open.spotify.com/album/7CGCSLsTvaj8tlKv3iXjAR) | 6:26 | 2025-05-04 |  |
 | [War Cry](https://open.spotify.com/track/73xtWpKcqtJsQk2N9OSham) | [Errant Shadow](https://open.spotify.com/artist/32yImafufTQRCNtMvD4YSN) | [War Cry](https://open.spotify.com/album/4FmMKJSkOhHGKBc4Tq1SeU) | 8:02 | 2025-11-02 |  |
+| [Warpaint](https://open.spotify.com/track/3YUxt5V51agQZDIBTn2Wp2) | [Flying Earrings](https://open.spotify.com/artist/4rIm3b1CR7sR47AG5qzjcy) | [Dreams](https://open.spotify.com/album/7zJxan3akf2KbCg6snqX3L) | 6:45 | 2025-12-10 |  |
 | [When The Train Leaves The Last Station](https://open.spotify.com/track/6ykYdFOsPrZ6jzZVHOXoOb) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [When The Train Leaves The Last Station](https://open.spotify.com/album/6o9WRu4pCJtArDhsVCJyGQ) | 3:12 | 2025-11-12 | 2025-12-08 |
 | [wild](https://open.spotify.com/track/0qfls25AHT70kdvoKc4zyq) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:43 | 2025-11-04 | 2025-12-08 |
 

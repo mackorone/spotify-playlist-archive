@@ -4,7 +4,7 @@
 
 > ¿searma o nosearma?
 
-536 songs - 1 day 8 hr 31 min
+537 songs - 1 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Desesperados](https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Desesperados](https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H) | 3:44 | 2022-08-26 | 2023-06-24 |
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-10-28 | 2023-11-02 |
 | [Despídase bien](https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:51 | 2024-05-31 | 2025-02-18 |
+| [Desvelado](https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:41 | 2025-09-12 |  |
 | [Desvelado](https://open.spotify.com/track/4jeAwDjr8nIj8EK6pVRbW9) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Puro Tejano Gold](https://open.spotify.com/album/7IWL9rNxAZfi7DC4RfPSB2) | 3:42 | 2021-06-16 | 2022-07-21 |
 | [Diamante](https://open.spotify.com/track/0swIeIY7LlwDyHlINNckzq) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Diamante](https://open.spotify.com/album/3C1zTVInM2jD0gsE8Qx3B1) | 2:36 | 2025-01-31 | 2025-02-15 |
 | [Dile](https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:24 | 2021-06-16 |  |
@@ -325,7 +326,7 @@
 | [Mátalas](https://open.spotify.com/track/1TojBnaen0BzIoZfVccGng) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Niña Amada Mia](https://open.spotify.com/album/2GCLOzEBbVYcFCCHbh7pCu) | 2:57 | 2021-06-16 | 2022-07-27 |
 | [Nada Es Para Siempre](https://open.spotify.com/track/2j3FHjQOoqQggL5mllUvsI) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Nada Es Para Siempre](https://open.spotify.com/album/0j6xrTUE8vTMWnIHoRDqOI) | 3:15 | 2025-02-14 | 2025-09-13 |
 | [Nada Fue Un Error \- Live In Spain / 2005](https://open.spotify.com/track/4DtFbe2JQrH3dDQVcOkVp6) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Esta Mañana Y Otros Cuentos](https://open.spotify.com/album/7elo2R4JcIfWyQkFz40F5M) | 3:45 | 2021-06-16 | 2022-07-22 |
-| [NEL](https://open.spotify.com/track/5AH31dDNgxCMGDdxubNNn4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:29 | 2024-07-26 |  |
+| [NEL](https://open.spotify.com/track/5AH31dDNgxCMGDdxubNNn4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:29 | 2024-07-26 | 2025-12-11 |
 | [Neverita](https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:53 | 2022-08-19 |  |
 | [Ni Tú Ni Nadie \(Versión Sinfónico\) \- En Vivo](https://open.spotify.com/track/1fJupLz2VPhKhyQi9t1DpC) | [María Barracuda](https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv) | [Rock En Tu Idioma Sinfónico, Vol.2 \(En Vivo\)](https://open.spotify.com/album/1VdXpzYXEl3GZwghlc1icV) | 4:08 | 2021-06-16 | 2022-07-24 |
 | [Niña Bonita](https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Niña Bonita](https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB) | 3:07 | 2023-04-21 | 2023-10-22 |

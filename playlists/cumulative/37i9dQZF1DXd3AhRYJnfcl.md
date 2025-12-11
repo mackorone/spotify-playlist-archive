@@ -2,9 +2,9 @@
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: ويجز والكينج
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: رامي جمال
 
-408 songs - 23 hr 48 min
+409 songs - 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Fe Makan Ma](https://open.spotify.com/track/3nF4YhL8rIDjYKfPpnzTBS) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Fe Makan Ma](https://open.spotify.com/album/2pGUBaoowc7BvZIye0pob7) | 3:51 | 2022-04-13 | 2022-09-27 |
 | [Fi kteer Helween](https://open.spotify.com/track/3KPWu8HQtC0tjLPP3wOSXQ) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Fi kteer Helween](https://open.spotify.com/album/0iyo4Rdmz1BJK80ADyfXk0) | 2:46 | 2023-06-20 | 2023-07-23 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-02-13 | 2023-03-10 |
-| [Fostanek El Abyad](https://open.spotify.com/track/0oapF7Y8c9TdHBw4BpZMNK) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Fostanek El Abyad](https://open.spotify.com/album/4A3rKCk7hs12wnisY4YPSd) | 4:53 | 2025-04-30 |  |
+| [Fostanek El Abyad](https://open.spotify.com/track/0oapF7Y8c9TdHBw4BpZMNK) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Fostanek El Abyad](https://open.spotify.com/album/4A3rKCk7hs12wnisY4YPSd) | 4:53 | 2025-04-30 | 2025-12-11 |
 | [Fouq](https://open.spotify.com/track/1CQzS4IBMOHRYGgEg3eZrz) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Lehqt Nafsy](https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq) | 3:12 | 2023-10-11 | 2025-06-17 |
 | [Freedom Music: Scene Cypher 3](https://open.spotify.com/track/6J2LvJwmgpauEsaY6h06fW) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [Lil Noby](https://open.spotify.com/artist/2kBJzh6V4KIom3bIhvMBHa), [Tommy](https://open.spotify.com/artist/4p5iysfn9zXM5SYAs0DZCZ), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI) | [Freedom Music: Scene Cypher 3](https://open.spotify.com/album/74SKmLCMtqC9gR72yc9hM7) | 4:04 | 2023-01-16 | 2023-09-02 |
 | [Ga7da](https://open.spotify.com/track/2OeBH98G3LNrCybb8J9E5a) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Ga7da](https://open.spotify.com/album/0ut6qfrsetpcWNtWcJWkK2) | 3:06 | 2022-11-09 | 2023-01-21 |
@@ -405,6 +405,7 @@
 | [هيجيلي موجوع](https://open.spotify.com/track/2Heqj9jtxarmecKxycGSWn) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [هيجيلي موجوع](https://open.spotify.com/album/0pSmKTjNF9e51ZUGXRVDWI) | 3:30 | 2024-01-16 | 2025-03-13 |
 | [وتقابل حبيب](https://open.spotify.com/track/7M1EnR4adNU8vth13OjtBM) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [وتقابل حبيب](https://open.spotify.com/album/0kW5bh1ijiHrwxw828IyAF) | 3:04 | 2025-03-12 |  |
 | [وجوده تعبني](https://open.spotify.com/track/1sFqRmovtApNU1dfMIuUhk) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [وجوده تعبني](https://open.spotify.com/album/4e3W2ueLXEryAQhzjBHCDB) | 4:39 | 2024-12-11 | 2025-05-14 |
+| [ودعتيني](https://open.spotify.com/track/1xCaXQapeFE54Lx7qaD5Sm) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [مطر ودموع](https://open.spotify.com/album/2K2JRpovOUujUxCbqM7wUg) | 4:14 | 2025-12-10 |  |
 | [وسط الوشوش \- تتر مسلسل بنون](https://open.spotify.com/track/6jVUA2W2YcGnTJsV2YGajs) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [وسط الوشوش \(تتر مسلسل بنون\)](https://open.spotify.com/album/7u6D1jal2Oi5UeF8qWPlTx) | 4:29 | 2023-06-16 | 2023-07-05 |
 | [ولعانه](https://open.spotify.com/track/2LXdEuFjon9uNIXbtoic6y) | [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6) | [ولعانه](https://open.spotify.com/album/31DEP0IgUPrWmnfDpjHrvT) | 3:52 | 2023-03-09 | 2023-05-19 |
 | [يا بيبي](https://open.spotify.com/track/0v1f30Ibp7LtFhZ8INxb99) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Sara Al Zakaria](https://open.spotify.com/artist/3kHLrXBjNt9F3bo9ABGvpv) | [يا بيبي](https://open.spotify.com/album/3RnVS4mQx4iFffAEngKKVL) | 3:51 | 2023-06-16 | 2023-08-19 |

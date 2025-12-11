@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIVaqdm8JIWAo>Olivia Dean</a>, <a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a>, <a href=spotify:playlist:37i9dQZF1EIVOAHdcDTA9Q>Fleetwood Mac</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWwyR3K8WKlr>The Police</a>, <a href=spotify:playlist:37i9dQZF1EIUmNwPTD3q25>Rels B</a>, <a href=spotify:playlist:37i9dQZF1EIYcZwbbjckJd>Radiohead</a> and more",
   "name": "Chill Mix",
   "tracks": [
     {
@@ -548,7 +548,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 268306,
       "name": "All I Need (feat. Beth Hirsch)",
       "url": "https://open.spotify.com/track/6T10XPeC9X5xEaD6tMcK6M"
@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 209831,
       "name": "Best Part (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON"
@@ -3916,7 +3916,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -4304,6 +4304,24 @@
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+    },
+    {
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
     },
     {
       "album": {
@@ -5180,7 +5198,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 278179,
       "name": "Get You (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh"
@@ -7172,7 +7190,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 249191,
       "name": "Ivy",
       "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
@@ -8770,7 +8788,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -9726,7 +9744,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-30",
+      "date_removed": null,
       "duration_ms": 229120,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
@@ -9806,7 +9824,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 269680,
       "name": "Not You Too (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/3Q4gttWQ6hxqWOa3tHoTNi"
@@ -10586,7 +10604,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 268813,
       "name": "Pink Matter",
       "url": "https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596"
@@ -11352,7 +11370,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 220564,
       "name": "Ruin The Friendship",
       "url": "https://open.spotify.com/track/62V2ZHslgQV98gH4AuVXnr"
@@ -12260,7 +12278,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 271733,
       "name": "Small Worlds",
       "url": "https://open.spotify.com/track/4gT3mNJA8lnlkYFqGZ8IA2"
@@ -12810,7 +12828,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 164571,
       "name": "Stevie Doesn't Wonder",
       "url": "https://open.spotify.com/track/7BgyWwbbybJr2IbQoI1gzH"
@@ -12984,6 +13002,28 @@
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "album": {
+        "name": "strangers",
+        "url": "https://open.spotify.com/album/4jXQ2XAfNY6M1zdJIA4Eeg"
+      },
+      "artists": [
+        {
+          "name": "proderics",
+          "url": "https://open.spotify.com/artist/3VsmiWWtAHSrkgF2forgVI"
+        },
+        {
+          "name": "melodybloom",
+          "url": "https://open.spotify.com/artist/09SHUPzM4RIiUSkQ8stabk"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135192,
+      "name": "strangers",
+      "url": "https://open.spotify.com/track/20tqXTp7TJRtLA8s2vpgEB"
     },
     {
       "album": {
@@ -13896,7 +13936,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 231560,
       "name": "Tell Me Why",
       "url": "https://open.spotify.com/track/7AvuIMRKdo5RvS6YIzXjsj"
@@ -14106,7 +14146,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 184767,
       "name": "The Dress",
       "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
@@ -14142,7 +14182,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 176048,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/3cPoiK69oQ1SdbB2j2ulGm"
@@ -14416,7 +14456,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 200746,
       "name": "Thinkin Bout You",
       "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
@@ -14970,7 +15010,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 110495,
       "name": "TU VAS SIN (fav)",
       "url": "https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"
@@ -15788,7 +15828,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 248807,
       "name": "White Ferrari",
       "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"

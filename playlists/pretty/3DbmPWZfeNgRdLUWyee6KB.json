@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1017,
+  "num_followers": 1020,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAANpGSNyQ4O8vAF0y1SafZPyTJ+wQOZ",
+  "snapshot_id": "AAANqJ0RXGPjiDcYjuzW3WEpBq2dNAyF",
   "tracks": [
     {
       "added_at": "2025-11-28 08:14:38",
@@ -2607,6 +2607,74 @@
       "duration_ms": 224250,
       "name": "Sweet Girls",
       "url": "https://open.spotify.com/track/77qyDQXVcgz8MzuUme9zwn"
+    },
+    {
+      "added_at": "2025-12-10 09:59:55",
+      "album": {
+        "name": "Canzone di A",
+        "url": "https://open.spotify.com/album/3a2pFbCjSspfvZmP7BPBLS"
+      },
+      "artists": [
+        {
+          "name": "Claudio Bassi",
+          "url": "https://open.spotify.com/artist/5ybJ724whrlsUYrHiJAJf7"
+        }
+      ],
+      "duration_ms": 299188,
+      "name": "Canzone di A",
+      "url": "https://open.spotify.com/track/28it4WzTeD37iacjUxiKJG"
+    },
+    {
+      "added_at": "2025-12-10 10:00:06",
+      "album": {
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q"
+      },
+      "artists": [
+        {
+          "name": "Annabelle Grace",
+          "url": "https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7"
+        }
+      ],
+      "duration_ms": 228291,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6"
+    },
+    {
+      "added_at": "2025-12-10 10:00:07",
+      "album": {
+        "name": "Lost Without You",
+        "url": "https://open.spotify.com/album/3heC4MS7ewE0kXYJQdskbD"
+      },
+      "artists": [
+        {
+          "name": "CTRL FREQS",
+          "url": "https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv"
+        },
+        {
+          "name": "RoBeats",
+          "url": "https://open.spotify.com/artist/6rMyJtMiEjGtD9HHbz5Vge"
+        }
+      ],
+      "duration_ms": 185435,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/66FFJv3Y8Xn9ENKQMXZW0Z"
+    },
+    {
+      "added_at": "2025-12-10 10:00:10",
+      "album": {
+        "name": "Chance It",
+        "url": "https://open.spotify.com/album/4RRJetrxk1v6h5an2w83fH"
+      },
+      "artists": [
+        {
+          "name": "David Bluefield",
+          "url": "https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Chance It",
+      "url": "https://open.spotify.com/track/2Zo3WV1uxQtpecOW90meze"
     }
   ],
   "unique_name": "New Indie Music",

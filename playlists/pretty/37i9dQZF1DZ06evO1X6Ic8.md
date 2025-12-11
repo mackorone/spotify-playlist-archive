@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1X6Ic8.md) - [plain]
 
 > This is The 1975\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,480 likes - 45 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,536 likes - 45 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1X6Ic8.md) - [plain]
 | 38 | [The Birthday Party](https://open.spotify.com/track/3wFPsw1WQJevCFoKpoLyTF) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:45 |
 | 39 | [I might say something stupid featuring the 1975 & jon hopkins](https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 4:10 |
 | 40 | [You \(Live From The AO Arena, Manchester, 17.02.24\)](https://open.spotify.com/track/7rh90hM86pRt4vavJb6Mnu) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Still..\. At Their Very Best \(Live From The AO Arena, Manchester, 17.02.24\)](https://open.spotify.com/album/2YXTt0mcAXUSfBcstBn38I) | 4:51 |
-| 41 | [By Your Side](https://open.spotify.com/track/6VKX7rGnHoHJ4bECP12OOG) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [By Your Side](https://open.spotify.com/album/03v3s0EfBKb1PPViZGOyyY) | 4:55 |
-| 42 | [So Far \(It's Alright\)](https://open.spotify.com/track/0iFktIoaM3qNeguIibIEyB) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe\)](https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ) | 4:00 |
+| 41 | [So Far \(It's Alright\)](https://open.spotify.com/track/0iFktIoaM3qNeguIibIEyB) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe\)](https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ) | 4:00 |
+| 42 | [By Your Side](https://open.spotify.com/track/6VKX7rGnHoHJ4bECP12OOG) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [By Your Side](https://open.spotify.com/album/03v3s0EfBKb1PPViZGOyyY) | 4:55 |
 | 43 | [Looking For Somebody To Love \(Live From The AO Arena, Manchester, 17.02.24\)](https://open.spotify.com/track/1RmVIc0JioOJHOVMIF64G9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Still..\. At Their Very Best \(Live From The AO Arena, Manchester, 17.02.24\)](https://open.spotify.com/album/2YXTt0mcAXUSfBcstBn38I) | 3:25 |
 | 44 | [Antichrist](https://open.spotify.com/track/5pmGhj5ToTK2kSinMCS0LJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe\)](https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ) | 4:43 |
 | 45 | [An Encounter \(Live From The AO Arena, Manchester, 17.02.24\)](https://open.spotify.com/track/2fsNOvKiVlGWRhL0CA0uXR) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Still..\. At Their Very Best \(Live From The AO Arena, Manchester, 17.02.24\)](https://open.spotify.com/album/2YXTt0mcAXUSfBcstBn38I) | 0:47 |
 
-Snapshot ID: `aTYVAAAAAAD2YEkPYhp4UPsvsNtHLNef`
+Snapshot ID: `aTdmgAAAAAD/Xdh3yF/RAfUsYWLwhH1U`

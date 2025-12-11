@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAABrTfV0fSDapMLWzL8nxLBp",
+  "snapshot_id": "aTdmgAAAAAADL65h+bNV0myw6vPNWAtl",
   "tracks": [
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna Para Ti (feat. Riccardo Frascari)",
-        "url": "https://open.spotify.com/album/5PwTYoP0LgXel5HctvYlsm"
+        "name": "Muchacha Solitaria",
+        "url": "https://open.spotify.com/album/4EevwBc81RN2RYqEKW4lpe"
       },
       "artists": [
         {
@@ -570,15 +570,11 @@
         {
           "name": "Club 57 Cast",
           "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Riccardo Frascari",
-          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
         }
       ],
-      "duration_ms": 212362,
-      "name": "Luna Para Ti (feat. Riccardo Frascari)",
-      "url": "https://open.spotify.com/track/4zpwnpqgv58YIE3mGqxHBU"
+      "duration_ms": 221423,
+      "name": "Muchacha Solitaria",
+      "url": "https://open.spotify.com/track/6fzLYr1KgfXsPOEjSaEHj0"
     },
     {
       "added_at": null,
@@ -603,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muchacha Solitaria",
-        "url": "https://open.spotify.com/album/4EevwBc81RN2RYqEKW4lpe"
+        "name": "Luna Para Ti (feat. Riccardo Frascari)",
+        "url": "https://open.spotify.com/album/5PwTYoP0LgXel5HctvYlsm"
       },
       "artists": [
         {
@@ -614,11 +610,15 @@
         {
           "name": "Club 57 Cast",
           "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Riccardo Frascari",
+          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
         }
       ],
-      "duration_ms": 221423,
-      "name": "Muchacha Solitaria",
-      "url": "https://open.spotify.com/track/6fzLYr1KgfXsPOEjSaEHj0"
+      "duration_ms": 212362,
+      "name": "Luna Para Ti (feat. Riccardo Frascari)",
+      "url": "https://open.spotify.com/track/4zpwnpqgv58YIE3mGqxHBU"
     },
     {
       "added_at": null,

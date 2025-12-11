@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,759,811 likes - 217 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,760,387 likes - 217 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 216 | [Cradle of Silence](https://open.spotify.com/track/6O6DIp2Lhcw57u6IkF0IJu) | [Reso Nata](https://open.spotify.com/artist/6qKvE5RybnVZLSPVoFJrCz) | [Cradle of Silence](https://open.spotify.com/album/5W8UjXslZMr17hJQDaPv6b) | 2:41 |
 | 217 | [Descending](https://open.spotify.com/track/3paI9aXjXzFsj7WvKnjWWs) | [Lush Lotus](https://open.spotify.com/artist/4Ho8lnnZWQ6ldapSazUAbq) | [Descending](https://open.spotify.com/album/6Q6yiKT8QQTkIjXKi8WS8C) | 2:53 |
 
-Snapshot ID: `AAAAAGq0DzIDxxo1pi+unDYNMxoTxUuv`
+Snapshot ID: `AAAAALAe3ZjhlUS64btIZs4DxPgJ0cum`

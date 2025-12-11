@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GxWTP.md) - [plain]
 
 > This is Bankzitters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,809 likes - 25 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,817 likes - 25 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GxWTP.md) - [plain]
 | 5 | [Wangedrag](https://open.spotify.com/track/69RtYziGoEPCttknYGNcS1) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Wangedrag](https://open.spotify.com/album/25BoRvIE0KFoZyc7L7pxhc) | 2:01 |
 | 6 | [Entourage](https://open.spotify.com/track/48kxfGK5XbO1eW8Cf4Vil7) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Entourage](https://open.spotify.com/album/3QuhArgaKaAgzXoh6Iggue) | 2:09 |
 | 7 | [Iconisch](https://open.spotify.com/track/3cRns9obH2lGJ4fpInVxut) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Iconisch](https://open.spotify.com/album/1gfcL8Tie2oJUhC0Y0ELCW) | 2:21 |
-| 8 | [Vader & zoon \- Remix](https://open.spotify.com/track/6N2BPQA4VVtUWbBFlCw5rF) | [Thomas Berge](https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI), [Jack](https://open.spotify.com/artist/3mzuJkHPhnkcfoMw0Y6oKC), [Milo ter Reegen](https://open.spotify.com/artist/6Wk4hq0XbOFGYsFs7VZnbn), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Vader & zoon \(Remix\)](https://open.spotify.com/album/1ch0NBTvfaT6ItCUc8g0m8) | 2:20 |
-| 9 | [Cupido](https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Cupido](https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt) | 2:23 |
+| 8 | [Cupido](https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Cupido](https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt) | 2:23 |
+| 9 | [Vader & zoon \- Remix](https://open.spotify.com/track/6N2BPQA4VVtUWbBFlCw5rF) | [Thomas Berge](https://open.spotify.com/artist/4y2LFjBx0OvRMGlM70V4CI), [Jack](https://open.spotify.com/artist/3mzuJkHPhnkcfoMw0Y6oKC), [Milo ter Reegen](https://open.spotify.com/artist/6Wk4hq0XbOFGYsFs7VZnbn), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Vader & zoon \(Remix\)](https://open.spotify.com/album/1ch0NBTvfaT6ItCUc8g0m8) | 2:20 |
 | 10 | [Je Blik Richting Mij](https://open.spotify.com/track/5bdBg1Gc6IrDRCFM1BiQx7) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Je Blik Richting Mij](https://open.spotify.com/album/6LqbmPYQTNC7mEuQ9Kejtl) | 2:25 |
 | 11 | [Fluitend naar Huis](https://open.spotify.com/track/6Swd0Th7cvQH4bywi4eHak) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [5 Sterren](https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox) | 2:12 |
 | 12 | [Bali](https://open.spotify.com/track/185P7rSD4EGHKzCerrvYtF) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Werelds](https://open.spotify.com/album/3t4KOvneZlS2VqTvEhvNPJ) | 2:21 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GxWTP.md) - [plain]
 | 24 | [Eenzaam](https://open.spotify.com/track/2VXZ2Wp7wVQR70OHdK9SZy) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Eenzaam](https://open.spotify.com/album/42AYxRimS50BQVmFluoN0r) | 2:39 |
 | 25 | [Fantastico](https://open.spotify.com/track/3YUxkOJe8lTIZNiOdIdXVw) | [Dries Roelvink](https://open.spotify.com/artist/2eIeNd8ZrIkk8R4q3zud09), [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Fantastico](https://open.spotify.com/album/3huYA9vKEk5nTMKG6rtKtS) | 3:01 |
 
-Snapshot ID: `aTYVAAAAAABEE+RDMQGFGsMX6M5NWk1i`
+Snapshot ID: `aTdmgAAAAACPC0Zd21whXgg93RE7x8wA`

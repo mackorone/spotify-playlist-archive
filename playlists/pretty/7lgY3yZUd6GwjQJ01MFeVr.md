@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 
 > Today's top country music!
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,106 likes - 102 songs - 5 hr 22 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,102 likes - 102 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

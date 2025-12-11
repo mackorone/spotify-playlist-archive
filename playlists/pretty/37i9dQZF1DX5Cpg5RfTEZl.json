@@ -1,6 +1,6 @@
 {
   "description": "\u00bfA vuelta de rueda? Con esta playlist el camino ser\u00e1 m\u00e1s ligero. ",
-  "num_followers": 400866,
+  "num_followers": 401175,
   "original_name": "Pa'l Tr\u00e1fico",
   "owner": {
     "name": "Spotify",
@@ -543,18 +543,22 @@
     {
       "added_at": "2025-02-21 06:00:14",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 221800,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
+      "duration_ms": 207333,
+      "name": "Am\u00e1rrame",
+      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
     },
     {
       "added_at": "2025-02-21 06:00:14",
@@ -575,22 +579,18 @@
     {
       "added_at": "2025-02-21 06:00:14",
       "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
       "artists": [
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 207333,
-      "name": "Am\u00e1rrame",
-      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
+      "duration_ms": 221800,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
     },
     {
       "added_at": "2025-02-21 06:00:14",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-02-21 06:00:14",
       "album": {
-        "name": "PERO NO TE ENAMORES",
-        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 149073,
-      "name": "NEL",
-      "url": "https://open.spotify.com/track/5AH31dDNgxCMGDdxubNNn4"
-    },
-    {
-      "added_at": "2025-02-21 06:00:14",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 343413,
       "name": "Coraz\u00f3n part\u00edo",
       "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
+    },
+    {
+      "added_at": "2025-02-21 06:00:14",
+      "album": {
+        "name": "PERO NO TE ENAMORES",
+        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 149073,
+      "name": "NEL",
+      "url": "https://open.spotify.com/track/5AH31dDNgxCMGDdxubNNn4"
     },
     {
       "added_at": "2025-02-21 06:00:14",
@@ -751,26 +751,6 @@
     {
       "added_at": "2025-02-21 06:00:14",
       "album": {
-        "name": "Pa las Baby's Y Belikeada",
-        "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        }
-      ],
-      "duration_ms": 143327,
-      "name": "HARLEY QUINN",
-      "url": "https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k"
-    },
-    {
-      "added_at": "2025-02-21 06:00:14",
-      "album": {
         "name": "La Bebe (Remix)",
         "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 234352,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+    },
+    {
+      "added_at": "2025-02-21 06:00:14",
+      "album": {
+        "name": "Pa las Baby's Y Belikeada",
+        "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "duration_ms": 143327,
+      "name": "HARLEY QUINN",
+      "url": "https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k"
     },
     {
       "added_at": "2025-02-21 06:00:14",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-02-21 06:00:14",
       "album": {
-        "name": "SABOR FRESA",
-        "url": "https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "SABOR FRESA",
-      "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
-    },
-    {
-      "added_at": "2025-02-21 06:00:14",
-      "album": {
         "name": "La Diabla",
         "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 183667,
       "name": "Te Lo Agradezco",
       "url": "https://open.spotify.com/track/14k3Rb7Xgte9fsndjdenmq"
+    },
+    {
+      "added_at": "2025-02-21 06:00:14",
+      "album": {
+        "name": "SABOR FRESA",
+        "url": "https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "SABOR FRESA",
+      "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
     },
     {
       "added_at": "2025-02-21 06:00:14",
@@ -1363,22 +1363,38 @@
     {
       "added_at": "2025-02-21 06:00:14",
       "album": {
-        "name": "Que Vuelvas",
-        "url": "https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j"
+        "name": "Vaquero (Remix)",
+        "url": "https://open.spotify.com/album/6BmfAaHoSJ7efARgJTLrAt"
       },
       "artists": [
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
         },
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Andres Castillo",
+          "url": "https://open.spotify.com/artist/6swtbYCVvjJIjCb5MWaIT2"
+        },
+        {
+          "name": "La Dinastia",
+          "url": "https://open.spotify.com/artist/4HUY0hELnxz4RC6VvJzRyc"
+        },
+        {
+          "name": "Riky Produce",
+          "url": "https://open.spotify.com/artist/74mXQ4kCTwvcY9FtSrNm9c"
         }
       ],
-      "duration_ms": 169418,
-      "name": "Que Vuelvas",
-      "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
+      "duration_ms": 300000,
+      "name": "Vaquero - Remix",
+      "url": "https://open.spotify.com/track/7l3UuUZEqvxjhKYD2QBxOU"
     }
   ],
   "unique_name": "Pa'l Tr\u00e1fico",

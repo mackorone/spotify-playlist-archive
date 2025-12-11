@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: EsDeeKid
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,225 likes - 70 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,222 likes - 70 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

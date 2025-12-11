@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 413967,
+  "num_followers": 414039,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMWHEA6GUtQzGANqppnduu23e77Y",
+  "snapshot_id": "AAAAAE5jOq6SOWzIMx5vOvNoK2yyQq/v",
   "tracks": [
     {
       "added_at": "2025-12-03 03:00:26",
@@ -731,26 +731,6 @@
     {
       "added_at": "2025-12-03 03:00:26",
       "album": {
-        "name": "Old Friend (feat. CLOVES)",
-        "url": "https://open.spotify.com/album/303xX85f4WUvAfUzlCL1Hu"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
-        }
-      ],
-      "duration_ms": 174398,
-      "name": "Old Friend (feat. CLOVES)",
-      "url": "https://open.spotify.com/track/0x6lKDXprQv59SDymKMuwi"
-    },
-    {
-      "added_at": "2025-12-03 03:00:26",
-      "album": {
         "name": "Sleepyhead 2025",
         "url": "https://open.spotify.com/album/3Tq2PZjUqnJ5rJWlmku0Oc"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 245713,
       "name": "Sleepyhead 2025",
       "url": "https://open.spotify.com/track/4aSyYc1rWc2KhTknSfpx9H"
+    },
+    {
+      "added_at": "2025-12-03 03:00:26",
+      "album": {
+        "name": "Old Friend (feat. CLOVES)",
+        "url": "https://open.spotify.com/album/303xX85f4WUvAfUzlCL1Hu"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        }
+      ],
+      "duration_ms": 174398,
+      "name": "Old Friend (feat. CLOVES)",
+      "url": "https://open.spotify.com/track/0x6lKDXprQv59SDymKMuwi"
     },
     {
       "added_at": "2025-12-03 03:00:26",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2025-12-03 03:00:26",
       "album": {
-        "name": "Grapevine",
-        "url": "https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 381463,
-      "name": "Grapevine",
-      "url": "https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq"
-    },
-    {
-      "added_at": "2025-12-03 03:00:26",
-      "album": {
         "name": "Another Touch",
         "url": "https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 225301,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/3IadEIThECdcKc8r3ILlqW"
+    },
+    {
+      "added_at": "2025-12-03 03:00:26",
+      "album": {
+        "name": "Grapevine",
+        "url": "https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 381463,
+      "name": "Grapevine",
+      "url": "https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq"
     },
     {
       "added_at": "2025-12-03 03:00:26",

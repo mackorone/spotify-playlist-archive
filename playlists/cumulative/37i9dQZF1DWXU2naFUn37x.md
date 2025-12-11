@@ -4,7 +4,7 @@
 
 > <a href="https://www.instagram.com/p/DRuZ7pdDNAY/?img\_index=1">Il re della trap torna sul trono</a>\. 10 anni di XDVR.
 
-944 songs - 1 day 19 hr 5 min
+945 songs - 1 day 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -742,7 +742,7 @@
 | [Rotto](https://open.spotify.com/track/5qfriBxu82O0SlUc3ilMqJ) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Rotto](https://open.spotify.com/album/1RX1BgY0VoxOjW6KJoyZHk) | 2:43 | 2023-09-21 | 2023-10-13 |
 | [ROZZANO JERSEY \(feat\. Paky\)](https://open.spotify.com/track/6NGePboJSoe60i9s3MTngC) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Timon](https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [CAPO DELLA JERSEY](https://open.spotify.com/album/0MLAg2GbEnu5DB5mQE6Oa1) | 2:28 | 2024-05-30 | 2024-09-06 |
 | [Rozzi](https://open.spotify.com/track/3Y00k9cPoW8BnJesUEFoWn) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Rozzi](https://open.spotify.com/album/1VE1SYRNN6bjR1NAoJupok) | 2:43 | 2022-07-15 | 2022-09-30 |
-| [RS3](https://open.spotify.com/track/2dFgDXOJlR6EXRIjbof3iz) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [RS3](https://open.spotify.com/album/4gMAnJFDxmF6CsrAGcyIHF) | 1:51 | 2025-11-27 |  |
+| [RS3](https://open.spotify.com/track/2dFgDXOJlR6EXRIjbof3iz) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [RS3](https://open.spotify.com/album/4gMAnJFDxmF6CsrAGcyIHF) | 1:51 | 2025-11-27 | 2025-12-11 |
 | [RS6](https://open.spotify.com/track/61CNHYt7uT3l3NwDltun2K) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [RS6](https://open.spotify.com/album/1g7JxBAsczHAacw7rFcayW) | 2:12 | 2022-08-29 | 2022-10-28 |
 | [RSQ8 \(feat\. Ghali\)](https://open.spotify.com/track/5QwgVFAmGzj1jmPhwSJZoI) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [FEDE II](https://open.spotify.com/album/5wtj64nI3MqbatoKYYAoQO) | 2:14 | 2023-12-14 | 2024-01-12 |
 | [Rubare](https://open.spotify.com/track/495rvIOIUpABfskb0uDLm9) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa) | [Osama 3 \(La Morte Di Osama\)](https://open.spotify.com/album/0HCrnHn0WU7ZSN2SEZe8hY) | 2:09 | 2025-07-03 | 2025-08-01 |
@@ -805,6 +805,7 @@
 | [SPOILER 2 \(feat\. 22simba\)](https://open.spotify.com/track/6SSA409P7m2TMND2saQETo) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [SPOILER 2 \(feat\. 22simba\)](https://open.spotify.com/album/6Kgys8Kb1UfLjH9l3nGjDg) | 2:21 | 2025-03-06 | 2025-06-13 |
 | [SQUALO 2 \(feat\. Guè & Nerissima Serpe\)](https://open.spotify.com/track/5f1QY8JXcVD1zCz0zVXPZO) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [SQUALO 2 \(feat\. Guè & Nerissima Serpe\)](https://open.spotify.com/album/52ENaEiNMKpXEpR3V8jFkv) | 2:31 | 2025-11-20 |  |
 | [SSG](https://open.spotify.com/track/3xbG8mYmdvavp1La0b2PNI) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [SSG](https://open.spotify.com/album/4PkQupaDw4uOLZudKE56Wc) | 2:57 | 2023-11-09 | 2023-11-14 |
+| [STAILA \(feat\. Flaco G\)](https://open.spotify.com/track/6X49o8gZ6lEWXZ60da1qmT) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [Musica Triste](https://open.spotify.com/album/0WkQEbjeD5IfLgpbHYb7aN) | 2:24 | 2025-12-10 |  |
 | [Star \(feat\. Shiva\)](https://open.spotify.com/track/4LC3IJxi0FnvPALxJ8k6zw) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:01 | 2022-05-11 | 2022-10-27 |
 | [Star \(feat\. Shiva\)](https://open.spotify.com/track/7mHGPB2hXrQHrNvbMGvYON) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 3:01 | 2022-10-24 | 2022-11-04 |
 | [Step \(feat\. Lazza\)](https://open.spotify.com/track/2ykjihVVaGaixmIK1nDW1w) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Step \(feat\. Lazza\)](https://open.spotify.com/album/2ckHxwHM4jBLS2Gdhq0S3E) | 2:36 | 2025-06-19 | 2025-09-30 |

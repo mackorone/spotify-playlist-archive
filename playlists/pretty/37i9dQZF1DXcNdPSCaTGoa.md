@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Zonke's "Work of Heart" turns 10.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,410 likes - 60 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,440 likes - 60 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,18 +39,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 29 | [Black President](https://open.spotify.com/track/1u6y55ANLeAiIP26F3I3r4) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Black President](https://open.spotify.com/album/3HhEwfPwfAqK2D0fe7TBWW) | 4:30 |
 | 30 | [Lwandle](https://open.spotify.com/track/6UQCZ9wUMdDX87eVYAqJy4) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Ibutho](https://open.spotify.com/album/5l4OrBtOd4rGfpCEzWrfi2) | 5:11 |
 | 31 | [Mbuso's Revenge](https://open.spotify.com/track/4ZZ3OWpdPxsX5aBlLPz6B2) | [DJ Mbuso](https://open.spotify.com/artist/6SYbxrGWWJybDiZx1aqOb3) | [House Player](https://open.spotify.com/album/2CbZUpkxIDvJMyPy2JDSr6) | 6:10 |
-| 32 | [Free](https://open.spotify.com/track/45k24cRKkfkLoA6nslCwHG) | [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Legends](https://open.spotify.com/album/0kiATdsriTo3fErLWa1rBp) | 5:14 |
-| 33 | [Dlala Mapantsula](https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:32 |
+| 32 | [Dlala Mapantsula](https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:32 |
+| 33 | [Free](https://open.spotify.com/track/45k24cRKkfkLoA6nslCwHG) | [Lebo Mathosa](https://open.spotify.com/artist/1Ml1ICUucZgJMx8Y4t9aJo) | [Legends](https://open.spotify.com/album/0kiATdsriTo3fErLWa1rBp) | 5:14 |
 | 34 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
 | 35 | [Doo Be Doo](https://open.spotify.com/track/1MzgAa6fUqeUuLipCnTyak) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 5:11 |
 | 36 | [Sana Luma \(Thats The Way Love Is\)](https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Khokhovula](https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK) | 5:17 |
-| 37 | [Ingoma](https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM) | 6:12 |
-| 38 | [Shibobo / The Final Countdown](https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:51 |
+| 37 | [Shibobo / The Final Countdown](https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:51 |
+| 38 | [Ingoma](https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM) | 6:12 |
 | 39 | [Sondela \(feat\. Zano\)](https://open.spotify.com/track/00gec53aXVCqYMWbKFJHGg) | [Riky Rick](https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO), [ZANO](https://open.spotify.com/artist/0adNleAt3fifQiP12TGZBJ) | [Family Values](https://open.spotify.com/album/4Vka3hwfaOqISTHYyOdkKC) | 4:34 |
 | 40 | [I'd Like](https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 6:22 |
 | 41 | [Don't Cry \- Remastered 2024](https://open.spotify.com/track/0TW01kL2sGNnqc9Lvas6FN) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW), [Thembisile](https://open.spotify.com/artist/3yjaPmf61NL5y3U3hAoZML) | [Bhambatha \(Remastered 2024\)](https://open.spotify.com/album/4yX88UXZ6Q0X9IxLwgMmtE) | 3:37 |
-| 42 | [Ndawo Yami](https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:47 |
-| 43 | [Palafala \(feat\. S'bu\)](https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [S'bu](https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:15 |
+| 42 | [Palafala \(feat\. S'bu\)](https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [S'bu](https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:15 |
+| 43 | [Ndawo Yami](https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES) | [Zamajobe](https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv) | [Ndawo Yami](https://open.spotify.com/album/212O2AvgE4xzUuULXvmlGU) | 4:47 |
 | 44 | [Feel Good](https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo) | [Lira](https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj) | [Feel Good](https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB) | 5:20 |
 | 45 | [Nizalwa Ngobani?](https://open.spotify.com/track/0SGnd95BYWd1m583zt7mqC) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/2nzNQQpCe88qXWHNUwx7k2) | 6:44 |
 | 46 | [Y U 4 Me](https://open.spotify.com/track/6019mUh1nhmsqDtfbKuZnu) | [M'Du](https://open.spotify.com/artist/2941g2EP7e8x7Kv3EukgmD) | [Y U 4 Me](https://open.spotify.com/album/4RELzas44ynDy4FZb8XRj7) | 7:31 |

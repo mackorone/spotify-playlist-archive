@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,078 songs - 20 day 12 hr 54 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,079 songs - 20 day 12 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5847,9 +5847,9 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 5837 | [보라빛 향기](https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap) | [강수지](https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi) | [강수지 BEST ALBUM](https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30) | 3:28 |
 | 5838 | [흩어진 나날들](https://open.spotify.com/track/2RjN0mgjbH0F93YiVONFlM) | [강수지](https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi) | [강수지 BEST ALBUM](https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30) | 4:22 |
 | 5839 | [Although I Loved](https://open.spotify.com/track/4RiuKTTcuau1U7u3XdYQuP) | [김경호](https://open.spotify.com/artist/25Qd17778cR6eX2fnHBfig) | [The Life](https://open.spotify.com/album/2whTv68Bl5aELGjqok13yu) | 4:46 |
-| 5840 | [귀천도애](https://open.spotify.com/track/2IJ8eg2VNK7oSU8frSKDFb) | [김민종](https://open.spotify.com/artist/1wEyGbuSlgNqFKT7bH5Y9p) | [귀천도애](https://open.spotify.com/album/1sg9vVigMgOllmsyfyoJeR) | 5:00 |
-| 5841 | [Endless love](https://open.spotify.com/track/3eTDHurXzczQc0AHAIq8BK) | [김민종](https://open.spotify.com/artist/1wEyGbuSlgNqFKT7bH5Y9p) | [귀천도애](https://open.spotify.com/album/1sg9vVigMgOllmsyfyoJeR) | 4:52 |
-| 5842 | [착한 사랑](https://open.spotify.com/track/6STfH93Dthmk0VMZCD5Hgn) | [김민종](https://open.spotify.com/artist/1wEyGbuSlgNqFKT7bH5Y9p) | [애](https://open.spotify.com/album/5DbE0NBVjUrhIh5C44Gz3i) | 5:05 |
+| 5840 | [귀천도애](https://open.spotify.com/track/2IJ8eg2VNK7oSU8frSKDFb) | [김민종](https://open.spotify.com/artist/1wEyGbuSlgNqFKT7bH5Y9p) | [김민종 3집 "귀천도애"](https://open.spotify.com/album/1sg9vVigMgOllmsyfyoJeR) | 5:00 |
+| 5841 | [Endless love](https://open.spotify.com/track/3eTDHurXzczQc0AHAIq8BK) | [김민종](https://open.spotify.com/artist/1wEyGbuSlgNqFKT7bH5Y9p) | [김민종 3집 "귀천도애"](https://open.spotify.com/album/1sg9vVigMgOllmsyfyoJeR) | 4:52 |
+| 5842 | [착한 사랑](https://open.spotify.com/track/6STfH93Dthmk0VMZCD5Hgn) | [김민종](https://open.spotify.com/artist/1wEyGbuSlgNqFKT7bH5Y9p) | [김민종 4집 "애"](https://open.spotify.com/album/5DbE0NBVjUrhIh5C44Gz3i) | 5:05 |
 | 5843 | [못다핀 꽃한송이](https://open.spotify.com/track/4FG1uHQAVPsYiXIn3tcGRs) | [김수철](https://open.spotify.com/artist/0EmfHeitNJW1MjPBVvy8uR) | [못다핀 꽃한송이](https://open.spotify.com/album/0OG7Sc2UuT3Im3tXeu1UMg) | 3:09 |
 | 5844 | [토요일은밤이좋아](https://open.spotify.com/track/71WQRSTzf1u5I4OyMp8iNl) | [김종찬](https://open.spotify.com/artist/0yb5kCT7bmVOI93y9bLXqy) | [김종찬2집](https://open.spotify.com/album/3fM18eQ9vcvln8ljzptyTe) | 3:10 |
 | 5845 | [사랑이 저만치 가네](https://open.spotify.com/track/5dvOiSuLHHTlhX2ef3Qisv) | [김종찬](https://open.spotify.com/artist/1j9e2bHfflVpMVW77MGWR4) | [김종찬 골든 힛트곡 모음](https://open.spotify.com/album/0vtP6Xzc7lk12V7GEiQGvD) | 4:34 |
@@ -8086,5 +8086,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8076 | [夜に駆ける](https://open.spotify.com/track/2L3f0eCTGllcS8qQDBUiws) | [宵崎奏](https://open.spotify.com/artist/1PbOXi3QIPB8AxbJ8byCl6) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 4:20 |
 | 8077 | [悔やむと書いてミライ](https://open.spotify.com/track/6n5L13FFZyCmZuj6C9Hyqf) | [宵崎奏](https://open.spotify.com/artist/1PbOXi3QIPB8AxbJ8byCl6) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 3:49 |
 | 8078 | [アイディスマイル](https://open.spotify.com/track/1eDJWiEF2BbCKDGPOqIWZo) | [朝比奈まふゆ](https://open.spotify.com/artist/31upiK8FORhx0Nm5tVxmtB) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 3:00 |
+| 8079 | [「１」](https://open.spotify.com/track/3kGShum3K7s4I5ASiO3gnI) | [星乃一歌](https://open.spotify.com/artist/0gIbpvrqmPtHQ8zyQpBDFt) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク　アナザーボーカルアルバム　Leo/need](https://open.spotify.com/album/7xlXLAD6g3OD5bX1hpk7xa) | 3:24 |
 
-Snapshot ID: `AAAKBP0zuni4Zl8M2H9ymU+owxdQixa+`
+Snapshot ID: `AAAKBRmStVTcPl7kWT7zDMj4M16fNI4p`

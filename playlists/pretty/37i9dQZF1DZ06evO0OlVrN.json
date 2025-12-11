@@ -1,12 +1,12 @@
 {
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 7987,
+  "num_followers": 7990,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAAsEyUb2pscZQZNyd+XniMk",
+  "snapshot_id": "aTdmgAAAAAAnQ4OJKgJeETwR0hBMbulW",
   "tracks": [
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "20 Exitos de los Rel\u00e1mpagos del Norte",
+        "url": "https://open.spotify.com/album/0nIs6UOzLblEot6U3JhkYF"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 147733,
+      "name": "Caminar, caminar",
+      "url": "https://open.spotify.com/track/5vOemEnYcjCF3HEL6Sn0Kr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Relampagos Del Norte En Vivo (Live)",
         "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
       },
@@ -435,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos de los Rel\u00e1mpagos del Norte",
-        "url": "https://open.spotify.com/album/0nIs6UOzLblEot6U3JhkYF"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 147733,
-      "name": "Caminar, caminar",
-      "url": "https://open.spotify.com/track/5vOemEnYcjCF3HEL6Sn0Kr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Disco de Oro",
         "url": "https://open.spotify.com/album/2QZ6R4kMgLDHhbgKrw5BnF"
       },
@@ -463,22 +463,6 @@
       "duration_ms": 145417,
       "name": "Deseo de los Dos",
       "url": "https://open.spotify.com/track/6QHYsLjOmjSZkYEh9ooqpD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "30 Exitos Inmortales",
-        "url": "https://open.spotify.com/album/2zXix1WTlM3E4vtSnKwLMT"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "Falsa Ilusion",
-      "url": "https://open.spotify.com/track/1s02yQ5hlpDzn9FATAh89J"
     },
     {
       "added_at": null,
@@ -503,6 +487,22 @@
       "duration_ms": 187840,
       "name": "Tu Desconfianza",
       "url": "https://open.spotify.com/track/2kj352d6US9v2nyis5jgKB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "30 Exitos Inmortales",
+        "url": "https://open.spotify.com/album/2zXix1WTlM3E4vtSnKwLMT"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 196893,
+      "name": "Falsa Ilusion",
+      "url": "https://open.spotify.com/track/1s02yQ5hlpDzn9FATAh89J"
     },
     {
       "added_at": null,
@@ -612,25 +612,29 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 113606,
-      "name": "Mi Talism\u00e1n",
-      "url": "https://open.spotify.com/track/6HEo5xk1E0orU26VsdPyPS"
+      "duration_ms": 143438,
+      "name": "La Criminal",
+      "url": "https://open.spotify.com/track/3PfaTmK3xqxw5HMVautCvf"
     },
     {
       "added_at": null,
       "album": {
-        "name": "22 Superexitos (Idolos Norte\u00f1os y Texanos)",
-        "url": "https://open.spotify.com/album/4F9UMuKXMXOd6Ypw0yCiRi"
+        "name": "15 Clasicas De Leyenda",
+        "url": "https://open.spotify.com/album/65i0eQz5OZQ3yUaUCmLyze"
       },
       "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        },
         {
           "name": "Los Relampagos Del Norte",
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 125176,
-      "name": "Ya No Llores",
-      "url": "https://open.spotify.com/track/1liDNsueC6v18Ixk2dPrE8"
+      "duration_ms": 188040,
+      "name": "Me Cai De La Nube",
+      "url": "https://open.spotify.com/track/06wVYflV4KJ3kw1Ym5wObE"
     },
     {
       "added_at": null,
@@ -676,29 +680,25 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 143438,
-      "name": "La Criminal",
-      "url": "https://open.spotify.com/track/3PfaTmK3xqxw5HMVautCvf"
+      "duration_ms": 113606,
+      "name": "Mi Talism\u00e1n",
+      "url": "https://open.spotify.com/track/6HEo5xk1E0orU26VsdPyPS"
     },
     {
       "added_at": null,
       "album": {
-        "name": "15 Clasicas De Leyenda",
-        "url": "https://open.spotify.com/album/65i0eQz5OZQ3yUaUCmLyze"
+        "name": "22 Superexitos (Idolos Norte\u00f1os y Texanos)",
+        "url": "https://open.spotify.com/album/4F9UMuKXMXOd6Ypw0yCiRi"
       },
       "artists": [
-        {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
-        },
         {
           "name": "Los Relampagos Del Norte",
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 188040,
-      "name": "Me Cai De La Nube",
-      "url": "https://open.spotify.com/track/06wVYflV4KJ3kw1Ym5wObE"
+      "duration_ms": 125176,
+      "name": "Ya No Llores",
+      "url": "https://open.spotify.com/track/1liDNsueC6v18Ixk2dPrE8"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
       "duration_ms": 173466,
       "name": "Mujer de Cabaret",
       "url": "https://open.spotify.com/track/5snx28gWAlwVV4YDeVFibB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Regreso Triunfal Ramon Ayala Cornelio Reyna 20 Exitos Originales",
-        "url": "https://open.spotify.com/album/7K8wCP8rueAQHz5hBCdD0H"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 150920,
-      "name": "Si Tu Supieras",
-      "url": "https://open.spotify.com/track/6fSLmrZTluiHUv4XxPcDx4"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-415 songs - 19 hr 57 min
+416 songs - 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Night In Spring](https://open.spotify.com/track/6j6wtwEtxK5ZAXzRK47WED) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [A Night In Spring](https://open.spotify.com/album/7iLqhJMN4MlHHsp0JGbtJ6) | 2:31 | 2022-03-08 | 2025-06-26 |
 | [A Whisper In The Dark](https://open.spotify.com/track/1JSfa72GZUWBydnIcI93k5) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Incomplete](https://open.spotify.com/album/3K2G1cnq8sUdsnzYx1JVww) | 2:19 | 2022-02-18 | 2022-07-29 |
 | [A Whisper In The Dark](https://open.spotify.com/track/2Z3fkveFoRRkkQZ3ow282m) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Incomplete](https://open.spotify.com/album/51596FWlrPFiD57Vz33g9A) | 2:19 | 2022-07-19 | 2023-02-04 |
-| [Aaraam Karo](https://open.spotify.com/track/6PL2VOzmCEuUDh3x7Q8biM) | [Dhriti Tiwari](https://open.spotify.com/artist/22nMXe6y9TxPBF0ebouNPy) | [Aaraam Karo](https://open.spotify.com/album/3g2dLMTcAcpTqORAACWumB) | 2:55 | 2022-08-15 |  |
+| [Aaraam Karo](https://open.spotify.com/track/6PL2VOzmCEuUDh3x7Q8biM) | [Dhriti Tiwari](https://open.spotify.com/artist/22nMXe6y9TxPBF0ebouNPy) | [Aaraam Karo](https://open.spotify.com/album/3g2dLMTcAcpTqORAACWumB) | 2:55 | 2022-08-15 | 2025-12-11 |
 | [Abbraccio](https://open.spotify.com/track/1LDRkCe4fwy9AXAovtCAek) | [Alón Celestia](https://open.spotify.com/artist/1dFdXfh5wj3Z4bExZeLIDf) | [Abbraccio](https://open.spotify.com/album/1Hbd2yi3L0DXPIyULBMhNi) | 2:37 | 2025-02-14 | 2025-07-09 |
 | [Aberaeron](https://open.spotify.com/track/2jweXNn6DMD7w58CPssXwZ) | [Leah Day](https://open.spotify.com/artist/117FwIxp2OWDSWYr9X4j7o) | [Aberaeron](https://open.spotify.com/album/0421N3byRD3RgcdaOvRgtj) | 2:56 | 2022-09-13 | 2025-06-26 |
 | [Acacia](https://open.spotify.com/track/2sNM2lnVgJmPJVQcxtktia) | [Abyssé](https://open.spotify.com/artist/4ZSC7QqnOxFeyGaAb2pKnQ) | [Acacia](https://open.spotify.com/album/7a4ED2FDeYHgEKMejdSCwy) | 3:30 | 2022-03-21 |  |
@@ -166,6 +166,7 @@
 | [Glacial Essence](https://open.spotify.com/track/5ygSvEn09PDXv3OaSLWpbl) | [Zyair Price](https://open.spotify.com/artist/767ee2dusb4P76a8GXPf6t) | [Glacial Essence](https://open.spotify.com/album/5T88HbHdRCnWWZGEgDqnKO) | 2:59 | 2025-05-15 |  |
 | [Glemt Perle](https://open.spotify.com/track/7x1uzRLNvPhvARGaco3nmi) | [Aksel Møller](https://open.spotify.com/artist/2jVswK0TYMQNByLwsyYeaS) | [Glemt Perle](https://open.spotify.com/album/0kvas4Yr3F5qoEaJNIBjMZ) | 4:13 | 2022-03-08 | 2025-11-28 |
 | [Glitter And Gold](https://open.spotify.com/track/03D5DcMAtt1Sza9JkGZtg0) | [Absydius](https://open.spotify.com/artist/4spHTgc7j8EfBkYPr4HMRu) | [Glitter And Gold](https://open.spotify.com/album/7mR0JYDfnhSacPqE4g3yBJ) | 2:56 | 2024-04-29 | 2025-06-24 |
+| [Glow](https://open.spotify.com/track/6rwtwwnopScHmRv5UWuwtQ) | [Ilumina](https://open.spotify.com/artist/7nvOsk2E0bUlBJ0R4sakht) | [Glow](https://open.spotify.com/album/7ghjS8xQeygPmDwgwPR91J) | 3:09 | 2025-12-10 |  |
 | [Glänta](https://open.spotify.com/track/75w6qH6tVL9yij3NrcLrys) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Glänta](https://open.spotify.com/album/5QCFXzAomqb6o4WcdsSIFJ) | 3:04 | 2025-02-26 |  |
 | [Gravity’s Lullaby](https://open.spotify.com/track/6bYAdSHt0WeWkr5us2uCm1) | [Kai Monroe](https://open.spotify.com/artist/1TLvs6pMDwN18Ziridx7Ht) | [Gravity’s Lullaby](https://open.spotify.com/album/3hL1YCsusA69gaXGllKWyu) | 2:10 | 2025-01-29 |  |
 | [Grow](https://open.spotify.com/track/7AHv2iAuICKdJDmbD5onlR) | [Natana Bach](https://open.spotify.com/artist/568DTgNHtIjbRfvgeQNDr4) | [Grow](https://open.spotify.com/album/1gHlwPCgNRF6gOq0QcB1wX) | 2:35 | 2022-10-21 | 2023-07-15 |
@@ -207,7 +208,7 @@
 | [Libre](https://open.spotify.com/track/0BCjtbFNaEJwVTIaho8CKp) | [Jovian Findlay](https://open.spotify.com/artist/5sG1B4jyp6nDdgZZlQW3O5) | [Libre](https://open.spotify.com/album/0m0XWF4ACGQ9a5AUvsrIaY) | 2:33 | 2022-11-11 |  |
 | [Light in the Dark](https://open.spotify.com/track/7I7vKYp5h3Xl5qQkNLyYEj) | [Joseph Alphane](https://open.spotify.com/artist/65IJPn3wYi35Qpov4MXcFr) | [Oxygen](https://open.spotify.com/album/5QTd2js25VRvD3ZK5DYWeu) | 2:35 | 2022-02-18 | 2024-09-04 |
 | [Lime Shutters](https://open.spotify.com/track/76g4e9g1B7CH4ajiIXO5Tm) | [Astral Lighthouse](https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym) | [Lime Shutters](https://open.spotify.com/album/7rxodR2OHmuVAkv3wB00sU) | 2:20 | 2025-11-27 |  |
-| [Limerence](https://open.spotify.com/track/4Nxdvb7Jk9TJCCCUc5wEgk) | [Albert Lockwood](https://open.spotify.com/artist/1ue5TobfrOLU2bnR0slyHY) | [Limerence](https://open.spotify.com/album/7snyOPCc8KNIgAp4L92vLv) | 3:10 | 2023-03-23 |  |
+| [Limerence](https://open.spotify.com/track/4Nxdvb7Jk9TJCCCUc5wEgk) | [Albert Lockwood](https://open.spotify.com/artist/1ue5TobfrOLU2bnR0slyHY) | [Limerence](https://open.spotify.com/album/7snyOPCc8KNIgAp4L92vLv) | 3:10 | 2023-03-23 | 2025-12-11 |
 | [Linden Shore](https://open.spotify.com/track/2X6GeTL6zPrbZ35AUiK0KR) | [Matsyendrasana](https://open.spotify.com/artist/5dI5W68twpm551EsblOx8m) | [Linden Shore](https://open.spotify.com/album/5CvRfkoE2JmIUpjgJQct71) | 2:40 | 2025-09-24 |  |
 | [Lithe](https://open.spotify.com/track/5V9qmxeatZwO8wctLXiZIR) | [Siona Swim](https://open.spotify.com/artist/666qwMCdAuZ7PEov9XXGTs) | [Lithe](https://open.spotify.com/album/70L8PU7byfp8KTSkYKNi6U) | 2:42 | 2022-06-16 |  |
 | [Lithium](https://open.spotify.com/track/4emADcTdYDTuUtuqW6FgG1) | [Hudba Lyrika](https://open.spotify.com/artist/21JKDXC6Hihde2MshJBXM7) | [Metalla Alcalica](https://open.spotify.com/album/0li3pN4Iz7QT0v7XAeygDK) | 2:54 | 2024-04-29 |  |
@@ -336,7 +337,7 @@
 | [Shine](https://open.spotify.com/track/209Z42ajAg8t7fg1VxQqDz) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Shine](https://open.spotify.com/album/29Co4C7wS7IxEfAgsfn800) | 3:09 | 2022-02-18 | 2024-11-29 |
 | [Signal to Noise](https://open.spotify.com/track/56fpSqPZomJHt3cAlD5W5J) | [Aaron Aitken](https://open.spotify.com/artist/4iNaAt0nGzKP7TkyoCLmz1) | [Signal to Noise](https://open.spotify.com/album/1EgkNazIyVmZkcJqxPw2Wo) | 2:37 | 2025-11-27 |  |
 | [Significance](https://open.spotify.com/track/5GMHaE1YHEU3my5xZBNduE) | [Chasing Storms](https://open.spotify.com/artist/12Gz0AKNrCzOwYPuURs7ux) | [Significance](https://open.spotify.com/album/273lakU830IgJxsqvZye6d) | 2:34 | 2025-02-26 |  |
-| [Skaisti](https://open.spotify.com/track/1kw3SgJBFg90sWyWFTkeQ8) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Skaisti](https://open.spotify.com/album/5umWUw2yOKK6gRVq6I99gV) | 2:49 | 2022-08-05 |  |
+| [Skaisti](https://open.spotify.com/track/1kw3SgJBFg90sWyWFTkeQ8) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Skaisti](https://open.spotify.com/album/5umWUw2yOKK6gRVq6I99gV) | 2:49 | 2022-08-05 | 2025-12-11 |
 | [Sky](https://open.spotify.com/track/746dmRNN9BMnwlkQbrCcqu) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [Sky](https://open.spotify.com/album/4VmzURoS9H6wfDEo1jCSic) | 2:12 | 2025-11-27 |  |
 | [Slow Crossings](https://open.spotify.com/track/0XTfWo6Sk5AUm3hww2ELuE) | [Shibb](https://open.spotify.com/artist/3S9OW04ZfXbQUjzGvjAlPZ) | [Slow Crossings](https://open.spotify.com/album/2kKJSa2iciar5oL0gBdSQN) | 3:43 | 2022-02-18 | 2023-03-18 |
 | [Slow Pace](https://open.spotify.com/track/6eNZGBjpD1Ci5piYearlsd) | [Dorm Sentry](https://open.spotify.com/artist/74NpAp6R9lzpE19Tnebqf7) | [Slow Pace](https://open.spotify.com/album/74UBsv4d7GzoESKZw5MwtX) | 3:40 | 2024-04-29 | 2025-01-08 |

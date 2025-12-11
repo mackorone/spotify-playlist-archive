@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,994 likes - 100 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,993 likes - 100 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 30 | [Arise \(You Are Good\)](https://open.spotify.com/track/05t7Ivn2ZrTxcz2842Qs7f) | [William Murphy](https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD) | [Demonstrate \(Deluxe Edition\)](https://open.spotify.com/album/4yDjUBvT9XqaEQcYhPIUDM) | 5:48 |
 | 31 | [Raised to Life \(feat\. The Walls Group\)](https://open.spotify.com/track/4boN2DqFBWlVTIQhBgNJBo) | [Elevation Collective](https://open.spotify.com/artist/5FgYD1zmYTjBAGuVy0Hj3w), [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [Evidence](https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo) | 2:10 |
 | 32 | [The Blood Will Never Lose Its Power](https://open.spotify.com/track/5Q7aK3pXH9l5mrjxrGiU9o) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [My Very OWN Easter \- EP](https://open.spotify.com/album/3VxA6E1TAfW2Q5VHMvtDPB) | 7:47 |
-| 33 | [Mary Don't You Weep](https://open.spotify.com/track/3Zjf3jJAAYpFqntz9u6iOO) | [Trin\-I\-Tee 5:7](https://open.spotify.com/artist/6XFgX9kLg3pUAkLY0byY2I) | [Trin\-i\-tee 5:7](https://open.spotify.com/album/6qtAtDkZpdb2ZbVYMvnmMj) | 5:08 |
-| 34 | [Born To Die](https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [The Love Fellowship Crusade Choir](https://open.spotify.com/artist/3xrX4BvsX5AqroXDkwVmw1) | [Verity Records: The First Decade, A Celebration Of Christmas](https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx) | 4:50 |
+| 33 | [Born To Die](https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [The Love Fellowship Crusade Choir](https://open.spotify.com/artist/3xrX4BvsX5AqroXDkwVmw1) | [Verity Records: The First Decade, A Celebration Of Christmas](https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx) | 4:50 |
+| 34 | [Mary Don't You Weep](https://open.spotify.com/track/3Zjf3jJAAYpFqntz9u6iOO) | [Trin\-I\-Tee 5:7](https://open.spotify.com/artist/6XFgX9kLg3pUAkLY0byY2I) | [Trin\-i\-tee 5:7](https://open.spotify.com/album/6qtAtDkZpdb2ZbVYMvnmMj) | 5:08 |
 | 35 | [The Blood Will Never Lose Its Power \- Live](https://open.spotify.com/track/3Mzi4unhw86nn0zKPJe3Dl) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7), [Angela Primm](https://open.spotify.com/artist/7CUYweCBLcGYHhXo0gt0ss), [Gale West](https://open.spotify.com/artist/14rimXLMEJuYazDX20yn6R), [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Rock Of Ages \(Live\)](https://open.spotify.com/album/2ZVALp4oOugoRpRjLLAV7S) | 1:53 |
 | 36 | [The Blessing \(feat\. Maranda Curtis\)](https://open.spotify.com/track/07hpnqy4P8emLuz4GuPPAL) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [I've Got a Testimony](https://open.spotify.com/album/16lH0UDiWWT9aXaM7ZJKDJ) | 6:32 |
 | 37 | [They Didn't Know](https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7) | [Kurt Carr](https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH) | [One Church](https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok) | 6:39 |

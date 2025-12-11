@@ -4,7 +4,7 @@
 
 > This is Jenni Rivera\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 54 min
+68 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Pedacito de Mí](https://open.spotify.com/track/6LBjmKiWAtPkQvNP2BLhYZ) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jacqie Rivera](https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB) | [Misión Cumplida](https://open.spotify.com/album/4qEBxp2suIUiYlOtZKqDCg) | 3:30 | 2023-07-01 | 2025-03-02 |
 | [Por Qué No Le Calas](https://open.spotify.com/track/54dl0Wvtmd9tcLfwjxONEn) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:25 | 2023-03-10 |  |
 | [Por un Amor Cucurrucucu Paloma](https://open.spotify.com/track/0SoWXX2bEslbR4lmoTFwk7) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Homenaje a las Grandes](https://open.spotify.com/album/6XObfnPoT85f85nZMeOBLJ) | 3:42 | 2023-03-10 | 2024-11-20 |
-| [Porque Me Gusta a Morir \- Pop](https://open.spotify.com/track/1o1T0dmi0pPcJxYROpgBVy) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Joyas Prestadas \- Pop](https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6) | 5:09 | 2023-03-10 |  |
+| [Porque Me Gusta a Morir \- Pop](https://open.spotify.com/track/1o1T0dmi0pPcJxYROpgBVy) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Joyas Prestadas \- Pop](https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6) | 5:09 | 2023-03-10 | 2025-12-11 |
 | [Que Ganas de No Verte Nunca Más \- Pop](https://open.spotify.com/track/7BcyzX3sgFJht2vhVrXYzl) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Joyas Prestadas \- Pop](https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6) | 3:53 | 2023-03-10 |  |
 | [Que Me Entierren Cantando](https://open.spotify.com/track/2Ua5F25WKWQlBvn5TJ16zH) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Que Me Entierren Cantando](https://open.spotify.com/album/4hjDQbHAwRClqICJ95ynKC) | 3:44 | 2024-01-31 | 2024-04-21 |
 | [Que Me Entierren Cantando](https://open.spotify.com/track/5GaIwab0GIWICCSVzldmUY) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Borracho de Primera](https://open.spotify.com/album/1cjt1zBdNmoD4qi3s2meCy) | 3:51 | 2023-03-10 | 2024-01-13 |
@@ -74,6 +74,7 @@
 | [Tu Camisa Puesta](https://open.spotify.com/track/6u0aeqk6AA0p010nw2wh7T) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Jenni](https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh) | 3:12 | 2023-03-10 |  |
 | [Ya Lo Sé](https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:23 | 2023-03-10 |  |
 | [Ya Lo Sé \- Banda](https://open.spotify.com/track/6XcCOSfmtOH7DkRCfWQWxW) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Ya Lo Sé \(Banda\)](https://open.spotify.com/album/1HkmNyWvsyWZEtlBCL9fhN) | 3:22 | 2024-11-18 | 2024-12-15 |
+| [Yo Soy Una Mujer \(Banda\)](https://open.spotify.com/track/0Nj3zqlLn1WCbJk7Ka5DMJ) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora \(Banda\)](https://open.spotify.com/album/2vpPlSBA12bNyT6cKenLvW) | 4:15 | 2025-12-11 |  |
 | [Él \- Banda](https://open.spotify.com/track/4SFqbs96DA1k3r86PuQuRT) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora \(En Vivo\)](https://open.spotify.com/album/10gxA0j90FN3wKfKOJWrqx) | 3:04 | 2023-03-10 |  |
 
 \*This playlist was first scraped on 2023-03-11. Prior content cannot be recovered.

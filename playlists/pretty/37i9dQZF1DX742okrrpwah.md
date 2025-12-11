@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Marine, Jul, et Alan Walker x Steve Aoki au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,290 likes - 85 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,275 likes - 85 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

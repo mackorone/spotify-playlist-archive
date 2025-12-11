@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,719 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,724 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 10 | [say my name](https://open.spotify.com/track/7vMHZ0sgIqRbMjJwYZVkUJ) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [say my name](https://open.spotify.com/album/3ix94HKA9QJ4fKL9TuuB2p) | 4:03 |
 | 11 | [melt bitter](https://open.spotify.com/track/6uSe3ACORUIVrAyiP84RZi) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [melt bitter](https://open.spotify.com/album/6HtIYzXgZyoTc5QczqYZiI) | 5:09 |
 | 12 | [スパークル](https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スパークル](https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv) | 3:33 |
-| 13 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
+| 13 | [Soranji](https://open.spotify.com/track/7qXIWBGtLLHIhWCmjgLJFB) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Soranji](https://open.spotify.com/album/5uNvYxV3OV1b0BGlClvujb) | 5:44 |
 | 14 | [“You're the Best Person in This World”](https://open.spotify.com/track/0vb4RHCjcytUzXJF2Vwykh) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [LOST AND FOUND](https://open.spotify.com/album/26ZgfJUzodn8bwZNmY6xhu) | 4:05 |
 | 15 | [Fragility \(feat\. Sala ＆ ZIN\)](https://open.spotify.com/track/1ENeYswoLMQGO4lJf5nTxr) | [Sam is Ohm](https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg), [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Fragility \(feat\. Sala ＆ ZIN\)](https://open.spotify.com/album/6FCnhVvjYx52OEMuHr8MmB) | 3:43 |
 | 16 | [It Ain't Over](https://open.spotify.com/track/7xWKGIFGLxBJAyGSus7BOJ) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:59 |
 | 17 | [HAPPY END](https://open.spotify.com/track/1osPfNzwwAxWjRv2tCB3FN) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [HAPPY END](https://open.spotify.com/album/7oenBMkeHD3LzFfPR93Apx) | 3:12 |
-| 18 | [Soranji](https://open.spotify.com/track/7qXIWBGtLLHIhWCmjgLJFB) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Soranji](https://open.spotify.com/album/5uNvYxV3OV1b0BGlClvujb) | 5:44 |
+| 18 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
 | 19 | [piece of cake](https://open.spotify.com/track/3BNLrX2MnDDzbdmHYDiNIf) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [piece of cake](https://open.spotify.com/album/5iwQX7PsnHrhycs05MtQXY) | 3:04 |
 | 20 | [酔いどれ知らず](https://open.spotify.com/track/4oPCfEDVIKnPJ6UPkhJPCa) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [酔いどれ知らず](https://open.spotify.com/album/4mLK5FpqwN0OwbDw3tToit) | 2:14 |
 | 21 | [Wonderland](https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Shade](https://open.spotify.com/album/54Xk8agoEmBJtxl0qMwixB) | 3:44 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuwe tracks elke week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,863 likes - 62 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,856 likes - 62 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

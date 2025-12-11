@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2086889,
+  "num_followers": 2087137,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAAC7e/ZF27AIKXY40PkOtJ4",
+  "snapshot_id": "aTdmgAAAAABLNvdRDTDHxtVpT+KHigYA",
   "tracks": [
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 396106,
-      "name": "The Thing That Should Not Be",
-      "url": "https://open.spotify.com/track/7vFC68CBMKu99p4tIz6yzx"
+      "duration_ms": 339880,
+      "name": "Leper Messiah",
+      "url": "https://open.spotify.com/track/6XN00D9ejjEt1cW1sY44Gu"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 339880,
-      "name": "Leper Messiah",
-      "url": "https://open.spotify.com/track/6XN00D9ejjEt1cW1sY44Gu"
+      "duration_ms": 396106,
+      "name": "The Thing That Should Not Be",
+      "url": "https://open.spotify.com/track/7vFC68CBMKu99p4tIz6yzx"
     }
   ],
   "unique_name": "This Is Metallica",

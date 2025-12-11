@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 263433,
+  "num_followers": 263455,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAD7suy6sdHB4buPdkxtDe3P",
+  "snapshot_id": "aTdmgAAAAACJBBYCzoFaoKstXcQV+9cw",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Leaks",
+        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 192117,
+      "name": "Superman (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1t9dT5JBC9x5WaAJpQzU1I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slime & B",
         "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
       },
@@ -779,42 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barter 6",
-        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Check",
-      "url": "https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "UY SCUTI",
-        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 160533,
-      "name": "Walk Down (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/7uivYk4Bf2j1wtHHLtB0Qr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Punk",
         "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 218596,
       "name": "Droppin Jewels",
       "url": "https://open.spotify.com/track/3q8Uyfo98yoEqByamJOIkJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barter 6",
+        "url": "https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV"
     },
     {
       "added_at": null,
@@ -895,6 +895,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "UY SCUTI",
+        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 160533,
+      "name": "Walk Down (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/7uivYk4Bf2j1wtHHLtB0Qr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drip Season 3 (Deluxe)",
         "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 199011,
       "name": "Oh Okay (feat. Young Thug & Lil Baby)",
       "url": "https://open.spotify.com/track/38844QuZDlnt44uHPrSA3S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Leaks",
-        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 192117,
-      "name": "Superman (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/1t9dT5JBC9x5WaAJpQzU1I"
     },
     {
       "added_at": null,

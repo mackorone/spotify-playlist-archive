@@ -1,6 +1,6 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: El Zar feat. No Te Va Gustar",
-  "num_followers": 166774,
+  "num_followers": 166797,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2025-09-08 17:16:31",
       "album": {
+        "name": "Los Dos",
+        "url": "https://open.spotify.com/album/0Ws2WWNt8G4V9O61K6eZSK"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "Los Dos",
+      "url": "https://open.spotify.com/track/39m0KJWhZUojRFi9k1m21E"
+    },
+    {
+      "added_at": "2025-09-08 17:16:31",
+      "album": {
         "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
         "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 194026,
       "name": "Amanece en la Ruta",
       "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
-    },
-    {
-      "added_at": "2025-09-08 17:16:31",
-      "album": {
-        "name": "Los Dos",
-        "url": "https://open.spotify.com/album/0Ws2WWNt8G4V9O61K6eZSK"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "Los Dos",
-      "url": "https://open.spotify.com/track/39m0KJWhZUojRFi9k1m21E"
     },
     {
       "added_at": "2025-09-08 17:16:31",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-09-08 17:16:31",
       "album": {
-        "name": "Pensamientos",
-        "url": "https://open.spotify.com/album/2RYIfoNF29kFoR60jOpaHf"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 233839,
-      "name": "Pensamientos",
-      "url": "https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG"
-    },
-    {
-      "added_at": "2025-09-08 17:16:31",
-      "album": {
         "name": "Sol en Cinco",
         "url": "https://open.spotify.com/album/3PRvVLAu5xKxYa9o4lK04S"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 328813,
       "name": "Nada es para siempre",
       "url": "https://open.spotify.com/track/73J1IrrirnxKM6wk5JfIcV"
+    },
+    {
+      "added_at": "2025-09-08 17:16:31",
+      "album": {
+        "name": "Pensamientos",
+        "url": "https://open.spotify.com/album/2RYIfoNF29kFoR60jOpaHf"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 233839,
+      "name": "Pensamientos",
+      "url": "https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG"
     },
     {
       "added_at": "2025-09-08 17:16:31",

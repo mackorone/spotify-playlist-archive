@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 09 Dec 09:06 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 10 Dec 19:05 UTC.
 
-5,920 songs - 13 day 17 hr 3 min
+5,921 songs - 13 day 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [A White Horse Covered In Blood](https://open.spotify.com/track/3xeSkrhiTFfQv47lyUPe3W) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [A White Horse Covered In Blood](https://open.spotify.com/album/02Pd6DWZUq8pUETRO8NleY) | 3:18 | 2024-07-31 | 2024-08-02 |
 | [A Woman's Story](https://open.spotify.com/track/1qR1vRVm7O8IeKCN5urj9P) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [A Woman's Story](https://open.spotify.com/album/1TNIWayvPVog2Ctt0EIRHo) | 3:57 | 2024-08-01 | 2024-08-03 |
 | [A Última Dança](https://open.spotify.com/track/6Vv7VhPQoWJ8CzzmyRedm7) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Sabor Overdose no Yakisoba](https://open.spotify.com/album/1rTbSeEJ9D8doCj60u7RmG) | 3:31 | 2024-08-06 | 2024-08-08 |
-| [A+](https://open.spotify.com/track/3GTcDTmwv59jmHwxlpamfe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [A+](https://open.spotify.com/album/4IhzvC0VK80RzT9Dz5jf1W) | 2:35 | 2025-11-21 |  |
+| [A+](https://open.spotify.com/track/3GTcDTmwv59jmHwxlpamfe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [A+](https://open.spotify.com/album/4IhzvC0VK80RzT9Dz5jf1W) | 2:35 | 2025-11-21 | 2025-12-11 |
 | [A\-frame](https://open.spotify.com/track/7DNB6Es2bipdtHoJ6uq3nB) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [A\-frame](https://open.spotify.com/album/3myLTj5zDyZCt4aiq0gRyM) | 3:36 | 2024-10-11 | 2024-10-17 |
 | [A.F\. Day](https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [A.F\. Day](https://open.spotify.com/album/6U8F7vt0Ybgc27AVUD8KpO) | 3:47 | 2024-05-17 | 2024-05-19 |
 | [AAA](https://open.spotify.com/track/417PIdggDVMtewUlJQwfSX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [AAA](https://open.spotify.com/album/4YcFaw3JtwfUUSSdONRzZ5) | 3:24 | 2024-11-01 | 2024-11-07 |
@@ -4438,6 +4438,7 @@
 | [Shandy in the Graveyard](https://open.spotify.com/track/0aM3JqPACJTpIoyOALODiZ) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [Shandy in the Graveyard](https://open.spotify.com/album/6TSQw8FPwp9yatWywO7I2L) | 2:57 | 2025-01-03 | 2025-01-17 |
 | [shaniatwainlovestory](https://open.spotify.com/track/4S6r4rZ2wwHPMmgNtjyEm9) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [shaniatwainlovestory](https://open.spotify.com/album/1GGxbMVuViCHfjNkdukpvr) | 2:46 | 2024-05-14 | 2024-05-16 |
 | [Shapeshift](https://open.spotify.com/track/6JETZ58xlV6YGNQWLj2T0A) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Shapeshift](https://open.spotify.com/album/2sh2vfIEZv5HjufBTkJvu4) | 4:07 | 2025-08-22 | 2025-09-05 |
+| [Shasta](https://open.spotify.com/track/7AQ3pF1Y1LH2JBs2DW1kj7) | [Modern Nature](https://open.spotify.com/artist/6qmQYC8FDqqdpsJDNCb1ms) | [Shasta](https://open.spotify.com/album/7GVR1LfBSVrlK2BPt6kQ4Q) | 3:51 | 2025-12-10 |  |
 | [SHATTERED DREAMS](https://open.spotify.com/track/5dOfJ0XfW7hTt6VsvUKc4s) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [SHATTERED DREAMS](https://open.spotify.com/album/3etzv8GvwFdVG4ijCk7EFo) | 4:09 | 2025-08-29 | 2025-09-11 |
 | [Shawty Stared Back at Me Like I Was Giving Her Backshots](https://open.spotify.com/track/2zZdVDDjXX5UDbcX9SqdzC) | [Acidgvrl](https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f), [Yûmi](https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni) | [Shawty Stared Back at Me Like I Was Giving Her Backshots](https://open.spotify.com/album/2EfxbHS9EolpkAwlQzvaD5) | 2:28 | 2024-06-18 | 2024-06-20 |
 | [She Cleans Up](https://open.spotify.com/track/4JRiNpQ0VpEfxUxEkniq22) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [She Cleans Up](https://open.spotify.com/album/40KQ9AcOPqkjFjMwUxvaaM) | 4:26 | 2024-10-15 | 2024-10-18 |

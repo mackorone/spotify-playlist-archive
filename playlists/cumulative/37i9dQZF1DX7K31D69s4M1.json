@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 147000,
       "name": "Aged",
       "url": "https://open.spotify.com/track/1xeKcMfBt1BcnYBcTagDz8"
@@ -2692,7 +2692,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 163487,
       "name": "Avignon",
       "url": "https://open.spotify.com/track/5TAVI2qJFJMSsfR3qB5Bub"
@@ -13651,6 +13651,24 @@
     },
     {
       "album": {
+        "name": "Kites",
+        "url": "https://open.spotify.com/album/5prh479UrbNWbvnPOMYdbi"
+      },
+      "artists": [
+        {
+          "name": "Adrian Solen",
+          "url": "https://open.spotify.com/artist/0YXmGTBUBq6Pikq8MvNngn"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130550,
+      "name": "Kites",
+      "url": "https://open.spotify.com/track/4nKttmKhTAQnFFpC1ZBgSi"
+    },
+    {
+      "album": {
         "name": "Kj\u00e6reste",
         "url": "https://open.spotify.com/album/49D65b0mvk8YoVFukbDrhm"
       },
@@ -17868,7 +17886,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 138500,
       "name": "Morning Light",
       "url": "https://open.spotify.com/track/4nvNKhhm7aQEY6CpuQR8RK"
@@ -26233,6 +26251,24 @@
     },
     {
       "album": {
+        "name": "Still Between",
+        "url": "https://open.spotify.com/album/5VdBdSP2GoQF7kSQHyWoJ1"
+      },
+      "artists": [
+        {
+          "name": "Melvin Hull",
+          "url": "https://open.spotify.com/artist/634GUifoC5N8X7DNM4M8Mz"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160579,
+      "name": "Still Between",
+      "url": "https://open.spotify.com/track/3JYzpz4SvYVHWXd4maxafe"
+    },
+    {
+      "album": {
         "name": "Still Drifting",
         "url": "https://open.spotify.com/album/72wXUUjSAGLmQstNGlrGAe"
       },
@@ -30004,6 +30040,24 @@
       "duration_ms": 154337,
       "name": "Unbroken",
       "url": "https://open.spotify.com/track/0sYYa0fs1PVKGyceC2QEP4"
+    },
+    {
+      "album": {
+        "name": "Undeniable Truth",
+        "url": "https://open.spotify.com/album/79ifUDQRP0k7LuIVpt6c9B"
+      },
+      "artists": [
+        {
+          "name": "Dean Caplan",
+          "url": "https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179125,
+      "name": "Undeniable Truth",
+      "url": "https://open.spotify.com/track/0ouAP6iArT1aQ80xSeFknY"
     },
     {
       "album": {

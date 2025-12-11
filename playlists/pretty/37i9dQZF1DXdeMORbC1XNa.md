@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > A perfect link up to soundtrack your day\. Cover: Joshua Baraka
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,082 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,102 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,15 +44,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 34 | [PUSH 2 START \- REMIX](https://open.spotify.com/track/03A9CAoRTrqSeaEEERXuNT) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [PUSH 2 START \(REMIX\)](https://open.spotify.com/album/35U6V25bSCj8ZWavfOggNO) | 3:07 |
 | 35 | [Luvaluvah](https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:50 |
 | 36 | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq) | 4:19 |
-| 37 | [FLAKO](https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [FLAKO](https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX) | 2:54 |
-| 38 | [Worthwhile](https://open.spotify.com/track/4GVkOSoojuaTTWQgPqGjPj) | [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Worthwhile](https://open.spotify.com/album/1OcnDnSl6uryQgYcjJWHS0) | 2:53 |
+| 37 | [Worthwhile](https://open.spotify.com/track/4GVkOSoojuaTTWQgPqGjPj) | [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Worthwhile](https://open.spotify.com/album/1OcnDnSl6uryQgYcjJWHS0) | 2:53 |
+| 38 | [FLAKO](https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [FLAKO](https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX) | 2:54 |
 | 39 | [Continent](https://open.spotify.com/track/2e9FcY7bVjs4Hu0IV1o0EG) | [NIGY BOY](https://open.spotify.com/artist/63o6Z7qrOen7eLbmYOx7gt) | [Continent](https://open.spotify.com/album/1AW8nCr4tc04eI86BCLsNx) | 2:30 |
 | 40 | [Kai!](https://open.spotify.com/track/0UKX2OlSnobdX77f0Y1jok) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kai!](https://open.spotify.com/album/2Pp0uBbh3uo5EAkyGYrRru) | 2:55 |
 | 41 | [Black Girl Magic](https://open.spotify.com/track/6n6J0mZb0ltWlt2AqobHVd) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Uncle K: Lemon Chase](https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF) | 2:17 |
 | 42 | [Gogo](https://open.spotify.com/track/1bDaEMD1EmC3xQoSq0Hfce) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI) | [Gogo](https://open.spotify.com/album/0KQRMSiOnN7TGZDAqQinYD) | 2:36 |
 | 43 | [soso \- JOSEPH Remix](https://open.spotify.com/track/7aqQC9GAOSSODVk0oKJjLZ) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [JOSEPH \(CH\)](https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0) | [soso \(JOSEPH Remix\)](https://open.spotify.com/album/2fVjZ6CbrGaZVMYXXjDjqc) | 4:51 |
-| 44 | [Toro \- A COLORS SHOW](https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Toro \- A COLORS SHOW](https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by) | 3:14 |
-| 45 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 |
+| 44 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 |
+| 45 | [Toro \- A COLORS SHOW](https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Toro \- A COLORS SHOW](https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by) | 3:14 |
 | 46 | [Kese \(Dance\)](https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kese \(Dance\)](https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS) | 2:54 |
 | 47 | [BENIN BOYS](https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [BENIN BOYS](https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT) | 2:49 |
 | 48 | [All Ova](https://open.spotify.com/track/2bWbdWDaMidmc5HH1CVK26) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [cjthechemist](https://open.spotify.com/artist/6RDY4LRYno0UwPMHsxOKAe) | [All Ova](https://open.spotify.com/album/7xI7n70CruBpMwrekWFHhG) | 2:43 |

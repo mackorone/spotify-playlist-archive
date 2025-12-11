@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 104243,
+  "num_followers": 104315,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2025-12-05 05:00:26",
       "album": {
+        "name": "Rintintin",
+        "url": "https://open.spotify.com/album/1I4YDAPuikk1BrhVJRmV73"
+      },
+      "artists": [
+        {
+          "name": "M\u00cbSTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Rintintin",
+      "url": "https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371"
+    },
+    {
+      "added_at": "2025-12-05 05:00:26",
+      "album": {
         "name": "El Beso (feat. Mathieu Ruz)",
         "url": "https://open.spotify.com/album/5rCFh5wOLyHTfPicJom5eA"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 211547,
       "name": "El Beso (feat. Mathieu Ruz)",
       "url": "https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx"
-    },
-    {
-      "added_at": "2025-12-05 05:00:26",
-      "album": {
-        "name": "Rintintin",
-        "url": "https://open.spotify.com/album/1I4YDAPuikk1BrhVJRmV73"
-      },
-      "artists": [
-        {
-          "name": "M\u00cbSTIZA",
-          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Rintintin",
-      "url": "https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371"
     },
     {
       "added_at": "2025-12-05 05:00:26",
@@ -1723,30 +1723,26 @@
     {
       "added_at": "2025-12-05 05:00:26",
       "album": {
-        "name": "Viagem Ao Centro Do Eu (Coragem)",
-        "url": "https://open.spotify.com/album/5hxVW27RJP6u3O7XlaUjwx"
+        "name": "Coco Loco",
+        "url": "https://open.spotify.com/album/7eBEzXHye7PEHwVQcpYRis"
       },
       "artists": [
         {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
         },
         {
-          "name": "Paulo Novaes",
-          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
+          "name": "Tekkman",
+          "url": "https://open.spotify.com/artist/4amut0vklLIj9lY81yEHtj"
         },
         {
-          "name": "Dawn Patrol",
-          "url": "https://open.spotify.com/artist/6VjtBiQq4XbNxEKmAoAnDe"
-        },
-        {
-          "name": "Nina Oliveira",
-          "url": "https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1"
+          "name": "Juany Bravo",
+          "url": "https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm"
         }
       ],
-      "duration_ms": 253770,
-      "name": "Viagem Ao Centro Do Eu (Coragem)",
-      "url": "https://open.spotify.com/track/6olpmATWho4waNlcAKJQKo"
+      "duration_ms": 156768,
+      "name": "Coco Loco",
+      "url": "https://open.spotify.com/track/32lsePQmdOSRrbeUlcqQm0"
     },
     {
       "added_at": "2025-12-05 05:00:26",
@@ -1775,26 +1771,30 @@
     {
       "added_at": "2025-12-05 05:00:26",
       "album": {
-        "name": "Coco Loco",
-        "url": "https://open.spotify.com/album/7eBEzXHye7PEHwVQcpYRis"
+        "name": "Viagem Ao Centro Do Eu (Coragem)",
+        "url": "https://open.spotify.com/album/5hxVW27RJP6u3O7XlaUjwx"
       },
       "artists": [
         {
-          "name": "Eran Hersh",
-          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
         },
         {
-          "name": "Tekkman",
-          "url": "https://open.spotify.com/artist/4amut0vklLIj9lY81yEHtj"
+          "name": "Paulo Novaes",
+          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
         },
         {
-          "name": "Juany Bravo",
-          "url": "https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm"
+          "name": "Dawn Patrol",
+          "url": "https://open.spotify.com/artist/6VjtBiQq4XbNxEKmAoAnDe"
+        },
+        {
+          "name": "Nina Oliveira",
+          "url": "https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1"
         }
       ],
-      "duration_ms": 156768,
-      "name": "Coco Loco",
-      "url": "https://open.spotify.com/track/32lsePQmdOSRrbeUlcqQm0"
+      "duration_ms": 253770,
+      "name": "Viagem Ao Centro Do Eu (Coragem)",
+      "url": "https://open.spotify.com/track/6olpmATWho4waNlcAKJQKo"
     },
     {
       "added_at": "2025-12-05 05:00:26",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2025-12-05 05:00:26",
       "album": {
-        "name": "Wataki",
-        "url": "https://open.spotify.com/album/7AdKBl57uUZUIPAAS9IFTU"
-      },
-      "artists": [
-        {
-          "name": "PAUZA",
-          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
-        },
-        {
-          "name": "Jalal Ramdani",
-          "url": "https://open.spotify.com/artist/1Q0KlPMSuhBFnCZX01iFyu"
-        }
-      ],
-      "duration_ms": 218709,
-      "name": "Wataki",
-      "url": "https://open.spotify.com/track/4PaUK4T6fMbhLSzZaX9In4"
-    },
-    {
-      "added_at": "2025-12-05 05:00:26",
-      "album": {
         "name": "El Baile",
         "url": "https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM"
       },
@@ -1955,6 +1935,26 @@
       "duration_ms": 174880,
       "name": "El Baile",
       "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
+    },
+    {
+      "added_at": "2025-12-05 05:00:26",
+      "album": {
+        "name": "Al Ritmo",
+        "url": "https://open.spotify.com/album/3RGDu7Pxih1KKGsdXJGQsY"
+      },
+      "artists": [
+        {
+          "name": "Fabi Hernandez",
+          "url": "https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np"
+        },
+        {
+          "name": "Allan Piziano",
+          "url": "https://open.spotify.com/artist/5OfRvW5SYGif5Q8LrklFjV"
+        }
+      ],
+      "duration_ms": 199838,
+      "name": "Al Ritmo",
+      "url": "https://open.spotify.com/track/6SCzCASlPjjoMifPZlxfpL"
     },
     {
       "added_at": "2025-12-05 05:00:26",
@@ -1983,6 +1983,26 @@
       "duration_ms": 137963,
       "name": "La Buena Vida (feat. Tayson Kryss)",
       "url": "https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy"
+    },
+    {
+      "added_at": "2025-12-05 05:00:26",
+      "album": {
+        "name": "Wataki",
+        "url": "https://open.spotify.com/album/7AdKBl57uUZUIPAAS9IFTU"
+      },
+      "artists": [
+        {
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+        },
+        {
+          "name": "Jalal Ramdani",
+          "url": "https://open.spotify.com/artist/1Q0KlPMSuhBFnCZX01iFyu"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "Wataki",
+      "url": "https://open.spotify.com/track/4PaUK4T6fMbhLSzZaX9In4"
     },
     {
       "added_at": "2025-12-05 05:00:26",
@@ -2019,26 +2039,6 @@
       "duration_ms": 159374,
       "name": "Sin Pero",
       "url": "https://open.spotify.com/track/00cZ6btKe7o8TECVLBpIXR"
-    },
-    {
-      "added_at": "2025-12-05 05:00:26",
-      "album": {
-        "name": "Al Ritmo",
-        "url": "https://open.spotify.com/album/3RGDu7Pxih1KKGsdXJGQsY"
-      },
-      "artists": [
-        {
-          "name": "Fabi Hernandez",
-          "url": "https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np"
-        },
-        {
-          "name": "Allan Piziano",
-          "url": "https://open.spotify.com/artist/5OfRvW5SYGif5Q8LrklFjV"
-        }
-      ],
-      "duration_ms": 199838,
-      "name": "Al Ritmo",
-      "url": "https://open.spotify.com/track/6SCzCASlPjjoMifPZlxfpL"
     }
   ],
   "unique_name": "Latin House",

@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day\. Cover: Elmiene
 
-888 songs - 2 day 4 hr 59 min
+889 songs - 2 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -736,6 +736,7 @@
 | [Stolen Fruit](https://open.spotify.com/track/5hax6joZydQKWNE55uQAgF) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Stolen Fruit](https://open.spotify.com/album/7lz4nwWwfRplCq1ts5NmVv) | 3:37 | 2022-02-25 | 2023-10-17 |
 | [Strength, Courage, and Wisdom \- India Arie](https://open.spotify.com/track/5yTu3MMxAPOUQzfR13mxI3) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Muzik of the Mind and Spirit \- a Concept Compilation](https://open.spotify.com/album/7ermETX1IloxCO80fX1poy) | 5:01 | 2022-03-11 | 2022-10-15 |
 | [Stronger](https://open.spotify.com/track/5TCXwc0Lop2zMUgc9pH90e) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Stronger](https://open.spotify.com/album/7ldW76HlTD9C08DKKB3Cga) | 2:49 | 2025-03-21 | 2025-05-24 |
+| [Stuck In My Head](https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Silver Lining](https://open.spotify.com/album/0U1L0ymBennSrZ1LZdJPSP) | 3:39 | 2025-12-05 |  |
 | [Stuck In My Ways](https://open.spotify.com/track/7xKEA0wbWIEmdAgPIVJAcf) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Stuck In My Ways](https://open.spotify.com/album/0zBM2ZzLPYBSwSFV2k5LSH) | 3:37 | 2024-10-13 | 2025-02-22 |
 | [Summer Breeze](https://open.spotify.com/track/1fdIUHd0XFHyuwp0Uhgquw) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Summer Breeze](https://open.spotify.com/album/3xrqOcvw6PfsXkJEgfz1Cu) | 3:42 | 2022-10-14 | 2023-10-07 |
 | [summer night o8](https://open.spotify.com/track/2yrhCmYZKJHpOFk8OW2rjU) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [summer night o8](https://open.spotify.com/album/38xjiy0KkjzCzz7P9WJHAw) | 3:23 | 2021-12-03 | 2022-09-13 |
@@ -772,7 +773,7 @@
 | [The List \- Acoustic](https://open.spotify.com/track/1j5n8L8OiDeBsTQhNu1xHD) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [The List \(Acoustic\)](https://open.spotify.com/album/3eEAn7oPPZVL1Zzb1vYfQv) | 4:55 | 2023-02-24 | 2023-03-04 |
 | [The Love Is Gone](https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [The Love Is Gone](https://open.spotify.com/album/6H4z12zavQ8N20DKCH257j) | 3:19 | 2024-09-13 |  |
 | [The Only Love We Know](https://open.spotify.com/track/16h8BuxfNtEqGI1C8WNo1z) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/32yofsJDutpcH21hGOLslE) | 4:34 | 2025-04-18 | 2025-09-27 |
-| [The Present](https://open.spotify.com/track/3yZlwIRiMRdPlkIY8HLavO) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Derrick Mckenzie](https://open.spotify.com/artist/2yTk5VCLEsumMmQf25x8VI) | [The Present](https://open.spotify.com/album/2W2WtKH6HWN90uPFwirlFj) | 3:28 | 2025-08-15 |  |
+| [The Present](https://open.spotify.com/track/3yZlwIRiMRdPlkIY8HLavO) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Derrick Mckenzie](https://open.spotify.com/artist/2yTk5VCLEsumMmQf25x8VI) | [The Present](https://open.spotify.com/album/2W2WtKH6HWN90uPFwirlFj) | 3:28 | 2025-08-15 | 2025-12-11 |
 | [The Reason](https://open.spotify.com/track/1JKH156F7aeqFLjHK892H6) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/6B7oBbXH4oKMnq9ep5xEBA) | 3:24 | 2022-08-26 | 2022-10-13 |
 | [The Reason](https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [The Reason](https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W) | 3:24 | 2022-08-26 | 2024-04-19 |
 | [The Same](https://open.spotify.com/track/21mNm6PDVvo5XwXzkZ36bF) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez) | [The Same](https://open.spotify.com/album/63dxyobOSlFhNwWulcC4Sv) | 3:48 | 2023-02-24 | 2023-04-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,627 likes - 80 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,966 likes - 80 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 54 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 |
 | 55 | [Methodist Medley](https://open.spotify.com/track/4iitLhHIPZIyTPt9HfsykG) | [Nothando Hlophe](https://open.spotify.com/artist/252fChrCEm5fhuaMTnowg9) | [A NEW DAWN](https://open.spotify.com/album/7yzhKRm8sJIL8h4AmqW6b6) | 8:55 |
 | 56 | [Jireh \(My Provider\)](https://open.spotify.com/track/4pR4oQJULf7FDB54TleMyH) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Jireh \(My Provider\)](https://open.spotify.com/album/4CsmgXl5bQQWHubJdZvNgW) | 2:48 |
-| 57 | [We will be many](https://open.spotify.com/track/55qF5hzyM6Vv02DOchu0jN) | [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [We will be many](https://open.spotify.com/album/4zBbD33yMF8YXqJPZDhAHX) | 3:14 |
-| 58 | [Defe Defe](https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 6:46 |
+| 57 | [Defe Defe](https://open.spotify.com/track/2GZNll3SJMAEHstg0wO37N) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 6:46 |
+| 58 | [We will be many](https://open.spotify.com/track/55qF5hzyM6Vv02DOchu0jN) | [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [We will be many](https://open.spotify.com/album/4zBbD33yMF8YXqJPZDhAHX) | 3:14 |
 | 59 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
 | 60 | [Bless God](https://open.spotify.com/track/4nhLPA3DAMEOj92U5i2cOk) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [EIGHT](https://open.spotify.com/album/0yGuCkWWoXxsPK09agGQQu) | 4:52 |
 | 61 | [Iba](https://open.spotify.com/track/0EWnPlQCVV2fTp0EGvLnjY) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Dasola Akinbule](https://open.spotify.com/artist/5HCuA4YozzSyHhEPmbYoy6) | [Iba](https://open.spotify.com/album/3bdmsRx4jXf9I2w4x5lY3d) | 10:25 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 74 | [In Christ Alone](https://open.spotify.com/track/2hQxLiI93xdjqENJuKeXjO) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [In Christ Alone](https://open.spotify.com/album/6ZVTgCnYuK6Y5TFO4lna5V) | 4:39 |
 | 75 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 |
 | 76 | [Oh My Soul \(Psalm 103\) \(with Cece Winans\)](https://open.spotify.com/track/1MU67Dpv5XcjfMkEyFMtSv) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Oh My Soul \(Psalm 103\) \(with Cece Winans\)](https://open.spotify.com/album/5KuMeQiOo5QsYsKdUxoYaW) | 3:44 |
-| 77 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 |
-| 78 | [Ebenezer \- Live](https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [VICTORIA ORENZE](https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:31 |
-| 79 | [Do A Work In Me \- Live](https://open.spotify.com/track/5ts4pT5MBeNDv4FxzkcOxc) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Do A Work In Me \(Live\)](https://open.spotify.com/album/6f0MbPfuYyhs9ZS0u2ekpL) | 9:21 |
-| 80 | [Intentional](https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 5:09 |
+| 77 | [Ebenezer \- Live](https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [VICTORIA ORENZE](https://open.spotify.com/artist/132I30e3higEmuOlmqnP1w) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:31 |
+| 78 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 |
+| 79 | [Intentional](https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 5:09 |
+| 80 | [Do A Work In Me \- Live](https://open.spotify.com/track/5ts4pT5MBeNDv4FxzkcOxc) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Do A Work In Me \(Live\)](https://open.spotify.com/album/6f0MbPfuYyhs9ZS0u2ekpL) | 9:21 |
 
 Snapshot ID: `AAAAAPqKMeMVWrDMEDStyExkV4byUz/J`

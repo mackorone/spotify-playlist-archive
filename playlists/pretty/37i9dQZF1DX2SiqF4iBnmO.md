@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 
 > Only music produced on a TR\-808 drum machine\. Cover: Egyptian Lover
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,110 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,174 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 29 | [Peter Piper](https://open.spotify.com/track/5gsY63Dq5ht0LEvydhj9lA) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 3:23 |
 | 30 | [Feels So Real \(Won't Let Go\) \- 12" Version](https://open.spotify.com/track/6OTqMkJyg3dsr0GZU5OyoZ) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Remind Me \(The Classic Elektra Recordings 1978\-1984\)](https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t) | 6:49 |
 | 31 | [Going Back To Cali](https://open.spotify.com/track/4Fkr6zTAxsXbG9kG8ISqos) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Walking With A Panther](https://open.spotify.com/album/2rddwrGdk7d7QQ3KkcLlHA) | 4:09 |
-| 32 | [The Crying Game](https://open.spotify.com/track/3txSqHwGING6J7waJXN8RJ) | [Boy George](https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45) | [At Worst...The Best Of Boy George And Culture Club](https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3) | 3:22 |
-| 33 | [Dangerous](https://open.spotify.com/track/2cZuNzaAGNFozlZTxSDU1g) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [When Disaster Strikes...](https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP) | 3:37 |
+| 32 | [Dangerous](https://open.spotify.com/track/2cZuNzaAGNFozlZTxSDU1g) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [When Disaster Strikes...](https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP) | 3:37 |
+| 33 | [The Crying Game](https://open.spotify.com/track/3txSqHwGING6J7waJXN8RJ) | [Boy George](https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45) | [At Worst...The Best Of Boy George And Culture Club](https://open.spotify.com/album/7gdwk8zdee8ghIq94Z9ck3) | 3:22 |
 | 34 | [6 'N the Mornin'](https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Rhyme Pays](https://open.spotify.com/album/267xiIVnif2CUxhbRQk115) | 3:44 |
 | 35 | [Egypt Egypt](https://open.spotify.com/track/6noajkkuZkla4d8E6sYUiY) | [The Egyptian Lover](https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP) | [On the Nile](https://open.spotify.com/album/1jS5YBMTwMnFRoteVHOi3i) | 5:19 |
 | 36 | [Let The Beat Build](https://open.spotify.com/track/6Az6jpQiP5m8U3yA6bLSGb) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO) | 5:09 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 39 | [I'm Not the One](https://open.spotify.com/track/6eRLUjHubf9tlO7ZCc04Da) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Shake It Up](https://open.spotify.com/album/4lDlCfyIhAXwP3hO2GVUaw) | 4:14 |
 | 40 | [Jack Your Body \- 1986 Club Mix](https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6) | [Steve "Silk" Hurley](https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP) | [Jack Your Body \(S&S Reloaded\)](https://open.spotify.com/album/3UAvNbsdCDrUKyhp8YGfJT) | 5:06 |
 | 41 | [Freaky Tales](https://open.spotify.com/track/6s2N5hnHBJc9Satf7l2LrY) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v) | [Born To Mack](https://open.spotify.com/album/0kBwZw1LPQGcycJwuz9tei) | 9:33 |
-| 42 | [One Love](https://open.spotify.com/track/1g2eRmWpv2pfVDOgsYKiBS) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [Back in Black](https://open.spotify.com/album/62Tr4gN8ueTfwcJPaMFWKB) | 5:33 |
-| 43 | [Lose Control \(feat\. Ciara & Fat Man Scoop\)](https://open.spotify.com/track/5ZlGmiT0YSMUrHP6P7rEVB) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Lose Control](https://open.spotify.com/album/3l5ahNH1dS4casarZMH3GR) | 3:32 |
+| 42 | [Lose Control \(feat\. Ciara & Fat Man Scoop\)](https://open.spotify.com/track/5ZlGmiT0YSMUrHP6P7rEVB) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Lose Control](https://open.spotify.com/album/3l5ahNH1dS4casarZMH3GR) | 3:32 |
+| 43 | [One Love](https://open.spotify.com/track/1g2eRmWpv2pfVDOgsYKiBS) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [Back in Black](https://open.spotify.com/album/62Tr4gN8ueTfwcJPaMFWKB) | 5:33 |
 | 44 | [Peace of Mind \(Electrosoul\)](https://open.spotify.com/track/4qoa6zOFpSuuwSwJ0SMmFD) | [Claro Intelecto](https://open.spotify.com/artist/47YmGWaq0LIbK64RWleEEh) | [In Vitro \- Volume One](https://open.spotify.com/album/1KCShSz6OHvhJ8UkD49y40) | 6:12 |
 | 45 | [Remote Control](https://open.spotify.com/track/6IUUtpmkYh34mj8QXj6c6U) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [DJ Sumbody](https://open.spotify.com/artist/6qKg3BA1Zd7txd4k4U9EDr) | [Sweet And Short](https://open.spotify.com/album/322JprSjhVbBNbh0M09RIf) | 5:03 |
 | 46 | [Touch](https://open.spotify.com/track/4YzbdSB5YcnRq47rdY7dD4) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Touch](https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf) | 3:38 |

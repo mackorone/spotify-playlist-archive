@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Berq, Paula Hartmann
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,933 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,914 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 19 | [GIB MIR DEIN GELD!](https://open.spotify.com/track/0cZUxTmBCPaZqBKHuLRt6H) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [GIB MIR DEIN GELD!](https://open.spotify.com/album/0NNkfONWAf5tgZmCQjIp2L) | 3:56 |
 | 20 | [geklaut](https://open.spotify.com/track/2bn6CPbM335ggmT67msIUy) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [geklaut](https://open.spotify.com/album/4n4rc4QpTeUDrgO38soAph) | 2:36 |
 | 21 | [nah am meer gebaut](https://open.spotify.com/track/3aH8nXElsyu37eyDeF17Es) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [nah am meer gebaut](https://open.spotify.com/album/5X1zsY94AwE2ZvPvTlnsQh) | 2:38 |
-| 22 | [Hunde](https://open.spotify.com/track/1l9ENpcYemz9iAYy5ZuLu1) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Hunde](https://open.spotify.com/album/1qm0apTk5hpPINgNE0sxWO) | 2:43 |
+| 22 | [Hunde](https://open.spotify.com/track/1l9ENpcYemz9iAYy5ZuLu1) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Hunde](https://open.spotify.com/album/1qm0apTk5hpPINgNE0sxWO) | 2:42 |
 | 23 | [Hast Du Noch Zeit](https://open.spotify.com/track/1SzoBnBS89avSRd5ufvFK3) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Hast Du Noch Zeit](https://open.spotify.com/album/7Cqy3a8K3hnrc2ESfRglnV) | 3:25 |
 | 24 | [BIS EINER WEINT](https://open.spotify.com/track/1iMuG0PaAK5ORbHuIJ54Ah) | [siovo](https://open.spotify.com/artist/00ektSs4zWX7aBQqs5cgST) | [BIS EINER WEINT](https://open.spotify.com/album/2Rtyne5TEgOHq7PCAG4fIy) | 2:53 |
 | 25 | [baby T](https://open.spotify.com/track/3Xyk1vBAJvZZ8ZlkqWG8Wf) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [baby t](https://open.spotify.com/album/2K6Pdbsu8DDIo4SJDuDYyq) | 2:23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 
 > This is Paulo Londra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,307,510 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,307,521 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 31 | [GLAMPING](https://open.spotify.com/track/2o9P96ZWhJ4qOnNdeg657H) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 2:21 |
 | 32 | [Luna Llena](https://open.spotify.com/track/1aXIbSWA8S0pB2GbBntFhI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luna Llena](https://open.spotify.com/album/04nkvNMIVMlv7woPx32d1i) | 3:01 |
 | 33 | [A200 \- Remix](https://open.spotify.com/track/1h5Yg6TSSlNdUNMVcZfZf3) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Bayron Fire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [A200 \(Remix\)](https://open.spotify.com/album/3CNSRkEeO9QWGiyqX8Ozok) | 5:19 |
-| 34 | [Posdata:](https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Posdata:](https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk) | 2:49 |
+| 34 | [Confiado y Tranquilo](https://open.spotify.com/track/1WhVPQsw0m9EpJ4riD20YK) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Confiado y Tranquilo](https://open.spotify.com/album/3HPsVeD6m2hVTcNvKDHV3b) | 3:32 |
 | 35 | [SIN CADENAS](https://open.spotify.com/track/6SKKyjAlI1MwB7kjvte9Li) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 2:22 |
-| 36 | [Confiado y Tranquilo](https://open.spotify.com/track/1WhVPQsw0m9EpJ4riD20YK) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Confiado y Tranquilo](https://open.spotify.com/album/3HPsVeD6m2hVTcNvKDHV3b) | 3:32 |
+| 36 | [Posdata:](https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Posdata:](https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk) | 2:49 |
 | 37 | [Necio \(feat\. LIT killah\)](https://open.spotify.com/track/4Bn4JToBJGy47OEqB4AWtq) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 3:38 |
 | 38 | [Itamambuca](https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Itamambuca](https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb) | 4:03 |
 | 39 | [GRACIAS](https://open.spotify.com/track/3Y7eFATOD0kXo5I9NuBj3r) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 1:59 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 48 | [Que Hicimo'](https://open.spotify.com/track/2tklBuZxZEEJMlhrlzc2CB) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Que Hicimo'](https://open.spotify.com/album/4S2JV29tQCqFWWNTxAdNQQ) | 2:45 |
 | 49 | [Luces](https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luces](https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ) | 2:52 |
 
-Snapshot ID: `aTYVAAAAAABzTScUm4ghxL0Vp/av+F1+`
+Snapshot ID: `aTdmgAAAAADs45pyFhW0xwca0h32VKsN`

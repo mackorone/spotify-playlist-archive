@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > EQUAL sunar: Yılın favori kadın sanatçıları\. Kapak: Tuğçe Kandemir
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,829 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,837 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Açıldı Kapılar](https://open.spotify.com/track/2JFXu4REHAXGIkepYQW1Ry) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Açıldı Kapılar](https://open.spotify.com/album/6n1theDrLpEfo31wnPV93I) | 2:57 |
 | 2 | [Bekleyenim](https://open.spotify.com/track/1raGfKRG5utyxUldlYiN22) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Kırlar](https://open.spotify.com/album/6KBFknDUvv8okkhIqRmZRc) | 2:39 |
-| 3 | [KOCA ADAM](https://open.spotify.com/track/1VOsLtahPJeBw1Jmkmgpje) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [KOCA ADAM](https://open.spotify.com/album/1lJXeeLulChopQ4tseWgNn) | 2:44 |
+| 3 | [KOCA ADAM](https://open.spotify.com/track/1VOsLtahPJeBw1Jmkmgpje) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b), [Sena Gül](https://open.spotify.com/artist/5M1xHbIWiKoI6sZpCmeFHq) | [KOCA ADAM](https://open.spotify.com/album/1lJXeeLulChopQ4tseWgNn) | 2:44 |
 | 4 | [Bırakın Arasın](https://open.spotify.com/track/2mp5AxLWjNW7WGvJ8uWddm) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Bırakın Arasın](https://open.spotify.com/album/19E7lRqhUcUGyMXtfPNgaA) | 2:38 |
 | 5 | [Yaşanacaksa](https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:46 |
 | 6 | [Üşüdüm](https://open.spotify.com/track/09kkIHfeUMLGbFTFCDDa9J) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Üşüdüm](https://open.spotify.com/album/4yDwSEIi5gO3NmgOc6iqME) | 4:34 |

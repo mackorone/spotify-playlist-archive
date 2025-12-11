@@ -1523,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "The Leaks",
+        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148860,
+      "name": "Mrs. Trendsetter",
+      "url": "https://open.spotify.com/track/7KSe5wIvvaKCrPN8ySgSfg"
+    },
+    {
+      "album": {
         "name": "It's Only Me",
         "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
@@ -2118,7 +2136,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 159330,
       "name": "Real Shit",
       "url": "https://open.spotify.com/track/4CoCcdnntCmfEbOO91IgO5"

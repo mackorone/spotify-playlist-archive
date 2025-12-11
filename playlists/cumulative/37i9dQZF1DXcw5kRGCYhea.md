@@ -2,9 +2,9 @@
 
 ### [SEHD](https://open.spotify.com/playlist/37i9dQZF1DXcw5kRGCYhea)
 
-> Les sons urbains et Afro les plus chauds 🔥 Cover: Stormy
+> Les sons urbains et Afro les plus chauds 🔥 Cover: Tagne
 
-316 songs - 15 hr 59 min
+317 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Blaka](https://open.spotify.com/track/5lffk2bgHBfnNtAYbEQveZ) | [FRIZZY](https://open.spotify.com/artist/6lje8MItIXqiZ1fvg4ti3a), [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [Blaka](https://open.spotify.com/album/3S27NFPQNAWEClcX7aRL8J) | 2:36 | 2024-09-14 | 2024-10-12 |
 | [Blue](https://open.spotify.com/track/74Sbxr7GNTQM8RyPEmp9Nq) | [Kaneki](https://open.spotify.com/artist/6y9D9asiDbnfHSZETC6pkZ), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Blue](https://open.spotify.com/album/029ymf5WOrdIbvXv1EdmSN) | 3:07 | 2024-03-26 | 2024-04-24 |
 | [BLUE LOVE](https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 3:07 | 2024-03-26 | 2024-07-09 |
+| [Boca X2](https://open.spotify.com/track/3r7RFeDHm1VZDVZpmpRCz8) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Boca X2](https://open.spotify.com/album/3ruYtS9atWFc9NrHTMKKT6) | 2:16 | 2025-12-10 |  |
 | [Bomba Internationale](https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Bomba Internationale](https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW) | 2:45 | 2024-12-10 | 2025-01-13 |
 | [BOUHALI](https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 2:52 | 2024-12-10 |  |
 | [Boulot](https://open.spotify.com/track/1jHHHH1GlrwdO5az2Q6A6K) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Focus](https://open.spotify.com/album/6ny3VhgjCxyIkGAJk7TjsK) | 2:28 | 2024-12-10 | 2025-05-25 |

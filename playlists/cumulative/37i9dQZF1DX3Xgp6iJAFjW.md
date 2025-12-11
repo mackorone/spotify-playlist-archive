@@ -4,12 +4,12 @@
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-194 songs - 13 hr 12 min
+195 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12 Campanadas](https://open.spotify.com/track/0qbGRXgwj7ejRkIaXuzXxV) | [Darlyn Made](https://open.spotify.com/artist/3cVgyCE9htOHDmDCLTCSTz) | [Navidad en Bachata](https://open.spotify.com/album/6DNQoRC8SfXCer3tSe8yPx) | 3:17 | 2023-12-19 | 2025-11-17 |
-| [A Beber To' el Mundo](https://open.spotify.com/track/5omSkTlNd7p7g7rSa7HqQL) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Navidad en Merengue \(Versión Editada\)](https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M) | 5:23 | 2023-12-19 |  |
+| [A Beber To' el Mundo](https://open.spotify.com/track/5omSkTlNd7p7g7rSa7HqQL) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Navidad en Merengue \(Versión Editada\)](https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M) | 5:23 | 2023-12-19 | 2025-12-11 |
 | [Abreme La Puerta](https://open.spotify.com/track/1ZkZDxTpCQVy4dZCq4oTG8) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 4:11 | 2023-08-16 |  |
 | [Adornemos los Salones](https://open.spotify.com/track/2nvVj2x4cwZBY8c6b2KYP1) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Caribe Wonderland](https://open.spotify.com/artist/4CBkIh7uqfe3wKKywz1H0j) | [Adornemos los Salones](https://open.spotify.com/album/2mKwTr6J2IKyioMh2vNlfE) | 3:10 | 2022-12-18 |  |
 | [Aguacero de Alegria](https://open.spotify.com/track/2ppNeOAANWOgQ4y5nu2dBH) | [Juan Jose](https://open.spotify.com/artist/4kYrybgGUDOoUaH7IVbj0p), [San Juan Habana](https://open.spotify.com/artist/7x7m0YAw5C1qyKFW9433e6), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Navidad Boricua 2018](https://open.spotify.com/album/00rBrIYK1DRqji3doAcHms) | 4:44 | 2023-12-19 | 2024-10-19 |
@@ -127,6 +127,7 @@
 | [Linda Parranda](https://open.spotify.com/track/6roVyEGav4GUvmX1FKbiA9) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Jerry Christmas](https://open.spotify.com/album/3rUqGxUgnf7MPugBN4oQa9) | 3:23 | 2023-08-16 |  |
 | [Llego Navidad](https://open.spotify.com/track/4x4UuFFWDIDwIZA6DNhM9z) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1) | [Evolucion](https://open.spotify.com/album/21O9dIfCobCeJY2n9esueX) | 5:06 | 2022-11-25 | 2025-11-16 |
 | [Llego Tu Marido](https://open.spotify.com/track/0vIM0TT8Cuc1cF5qi0F5Jp) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Merenboom Vol\. 4](https://open.spotify.com/album/0s14eLBO32u18R53j9LCVI) | 5:10 | 2022-11-25 | 2022-12-19 |
+| [Llegó Navidad](https://open.spotify.com/track/3AknclWyWPLqIyUEyLPmKi) | [Daniel Vengo](https://open.spotify.com/artist/3nZfp3ZXgYSYspFsZI6VAW), [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a) | [Navidad de la Casa](https://open.spotify.com/album/4bB4B7b3B7qQoHeAc8kBtH) | 3:23 | 2025-12-05 |  |
 | [Llegó Navidad](https://open.spotify.com/track/3bW372vE2kZOX7eV8DgCMU) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H) | [Llegó Navidad](https://open.spotify.com/album/05kqsPlBNW5akr8pLOZvBD) | 4:45 | 2022-11-25 |  |
 | [Llegó Tu Marido \(Version Navidad\)](https://open.spotify.com/track/042FMCMJQviVQQ1oYBIdVb) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Fiesta en Navidad, Vol\. 2 \(39 Éxitos\)](https://open.spotify.com/album/2KU53YYpSADLNINuYxGqfG) | 5:11 | 2022-12-18 |  |
 | [Llorarás](https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Una Dimensión De Éxitos](https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV) | 3:48 | 2022-11-25 | 2024-04-19 |

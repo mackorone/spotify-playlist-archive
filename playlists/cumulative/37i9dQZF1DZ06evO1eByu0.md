@@ -4,7 +4,7 @@
 
 > This is Aline Barros\. The essential tracks, all in one playlist.
 
-122 songs - 9 hr 25 min
+123 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Nosso Deus \(Our God\)](https://open.spotify.com/track/62cjC2NHe1BUef2879m71I) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Retrô](https://open.spotify.com/album/33uLiyIIHv2zwyembaPybn) | 4:59 | 2025-06-08 | 2025-07-05 |
 | [Não dá pra Contar](https://open.spotify.com/track/2Z1qnps7X30N4XlQsBbpWZ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Firme Fundamento](https://open.spotify.com/album/02HmXXgKPXyy7IrKpNQ5bI) | 4:05 | 2024-11-13 | 2024-12-14 |
 | [Não há Deus maior \- Ao Vivo](https://open.spotify.com/track/0ZrJFHMUJzeL2NNHZxDMN8) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Simples Assim \(Ao Vivo\)](https://open.spotify.com/album/1L7kgbWgsfOvuBLWvN78bW) | 4:41 | 2025-10-18 |  |
-| [O Barco Balançou](https://open.spotify.com/track/1XoHbczW2WUPOJAUTmXLz5) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 3:05 | 2024-10-22 |  |
+| [O Barco Balançou](https://open.spotify.com/track/1XoHbczW2WUPOJAUTmXLz5) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 3:05 | 2024-10-22 | 2025-12-11 |
 | [O Nazareno](https://open.spotify.com/track/5bQKQ0pDrQXXJyAolC5g4z) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Generación Gracia Música](https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich) | [O Nazareno](https://open.spotify.com/album/3GDrnx8ePXn3ykgVosI7J6) | 5:39 | 2023-12-16 | 2025-12-06 |
 | [O Poder do Teu Amor \(The Power Of Your Love\) \- Ao Vivo](https://open.spotify.com/track/63qYnhfLWKoEEBY6pLHkWf) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros 20 Anos Ao Vivo](https://open.spotify.com/album/5QXDVXCZoUPslgqQ9O2JI7) | 6:12 | 2023-07-09 | 2023-12-14 |
 | [O Rei Está Voltando](https://open.spotify.com/track/0Ln8p63QTH4ABJxbsvHLrJ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [O Rei Está Voltando](https://open.spotify.com/album/1z8EFCBbbdwEopRwzxcXxA) | 3:47 | 2024-09-01 | 2025-04-05 |
@@ -125,6 +125,7 @@
 | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/track/1pZoySbCn2iTP3q03yUOhZ) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Tudo é Possível \(Ao Vivo\)](https://open.spotify.com/album/1YIJcCFdQGZyLBenh3xPAJ) | 6:23 | 2023-07-21 | 2024-09-29 |
 | [Vem Fluir \(Fall Like Rain\)](https://open.spotify.com/track/6vRgQZAlojDVRcSs7EODCW) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Vem Fluir \(Fall Like Rain\)](https://open.spotify.com/album/2ZUum9B6fcMzr49ZL5rxvK) | 6:27 | 2024-07-28 | 2025-02-13 |
 | [Vem Fluir \(Fall Like Rain\)](https://open.spotify.com/track/73GBRTMrYpZu9XBxhwDpzu) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Firme Fundamento](https://open.spotify.com/album/02HmXXgKPXyy7IrKpNQ5bI) | 6:27 | 2025-04-15 | 2025-09-21 |
+| [Vem Iluminar](https://open.spotify.com/track/1xxhS1GA4M7qDzolXol1hr) | [ImaginAline](https://open.spotify.com/artist/1LAIQWBGrbEFFMnkSnDXHN), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Vem Iluminar](https://open.spotify.com/album/2JKjGhfCFz3FxsUfnlSIiT) | 4:08 | 2025-12-11 |  |
 | [Vento do Espírito](https://open.spotify.com/track/68bMEiYsaVqdO35XLWEz5z) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Som de Adoradores](https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9) | 5:08 | 2024-03-09 |  |
 | [Vitória no Deserto](https://open.spotify.com/track/442A0IdJTDkRP0M4CM0pPb) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinário Amor de Deus](https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6) | 3:45 | 2023-07-09 |  |
 | [Yo Sé Quien Soy](https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q) | [Emir Sensini](https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Yo Sé Quien Soy](https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd) | 3:59 | 2023-11-10 |  |

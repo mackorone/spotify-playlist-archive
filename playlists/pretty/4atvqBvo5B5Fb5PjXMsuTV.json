@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 09 Dec 09:06 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 10 Dec 19:05 UTC.",
   "num_followers": 102,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAWl/ZHoap0mHzw0D65EZpLUF+E0wkh",
+  "snapshot_id": "AAAWmWbNe2+iAsbvoqXF3ijmI9t9XmoB",
   "tracks": [
+    {
+      "added_at": "2025-12-10 19:05:40",
+      "album": {
+        "name": "Shasta",
+        "url": "https://open.spotify.com/album/7GVR1LfBSVrlK2BPt6kQ4Q"
+      },
+      "artists": [
+        {
+          "name": "Modern Nature",
+          "url": "https://open.spotify.com/artist/6qmQYC8FDqqdpsJDNCb1ms"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Shasta",
+      "url": "https://open.spotify.com/track/7AQ3pF1Y1LH2JBs2DW1kj7"
+    },
     {
       "added_at": "2025-12-09 09:06:37",
       "album": {
@@ -819,22 +835,6 @@
       "duration_ms": 126896,
       "name": "BIG DAWG",
       "url": "https://open.spotify.com/track/3APjki9rRNZylV6BVS6eFW"
-    },
-    {
-      "added_at": "2025-11-21 23:04:04",
-      "album": {
-        "name": "A+",
-        "url": "https://open.spotify.com/album/4IhzvC0VK80RzT9Dz5jf1W"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 155955,
-      "name": "A+",
-      "url": "https://open.spotify.com/track/3GTcDTmwv59jmHwxlpamfe"
     }
   ],
   "unique_name": "New Singles Now",

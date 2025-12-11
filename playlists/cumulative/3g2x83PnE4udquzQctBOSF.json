@@ -6989,6 +6989,24 @@
     },
     {
       "album": {
+        "name": "Spatial",
+        "url": "https://open.spotify.com/album/6b7WFerr0JRtw8X5H9L9IS"
+      },
+      "artists": [
+        {
+          "name": "Rafael Vidal Lykova",
+          "url": "https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135015,
+      "name": "Spatial",
+      "url": "https://open.spotify.com/track/3Fxceybn6mUOFlAHIz3Zsn"
+    },
+    {
+      "album": {
         "name": "State Of Mind / Westside Trippin",
         "url": "https://open.spotify.com/album/65icEEAu7TwaePaVUzqcHZ"
       },

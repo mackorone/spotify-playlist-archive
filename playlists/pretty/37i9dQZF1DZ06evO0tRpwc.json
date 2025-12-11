@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAB+J27Zq6FpVOmp7wPqqbRG",
+  "snapshot_id": "aTdmgAAAAABy8Z4a1gtPK7nMYysZxYs8",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cicatrizes",
-        "url": "https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 215343,
-      "name": "Cicatrizes",
-      "url": "https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dono dos Meus Dias",
         "url": "https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 239946,
       "name": "Dono dos Meus Dias",
       "url": "https://open.spotify.com/track/4DqMjreua66sH84GbccttX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cicatrizes",
+        "url": "https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 215343,
+      "name": "Cicatrizes",
+      "url": "https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daniela Ara\u00fajo",
-        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 237819,
-      "name": "Guia-Me",
-      "url": "https://open.spotify.com/track/3ysiBzk8LiZaik65dHuqDh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Anos (ao Vivo)",
         "url": "https://open.spotify.com/album/6FqbT28o6hDsjrwq3WpS9V"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 361185,
       "name": "Desejo do Meu Cora\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/56YKz3uWPr5Pnj1itFWUsP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 237819,
+      "name": "Guia-Me",
+      "url": "https://open.spotify.com/track/3ysiBzk8LiZaik65dHuqDh"
     },
     {
       "added_at": null,
@@ -227,22 +227,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Reino Vem",
-        "url": "https://open.spotify.com/album/1XGpn9IDF3qwuCPfF8SgW8"
+        "name": "Sonhadora",
+        "url": "https://open.spotify.com/album/7EqHSTvdqhKDK21jfofgE5"
       },
       "artists": [
         {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Vit\u00f3ria Souza",
-          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
         }
       ],
-      "duration_ms": 198928,
-      "name": "O Reino Vem",
-      "url": "https://open.spotify.com/track/2kA9woThYCW2HDgV8OMKJ8"
+      "duration_ms": 215992,
+      "name": "Sonhadora",
+      "url": "https://open.spotify.com/track/1ZHBGWxxwCMETGr2X6dNo2"
     },
     {
       "added_at": null,
@@ -271,18 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonhadora",
-        "url": "https://open.spotify.com/album/7EqHSTvdqhKDK21jfofgE5"
+        "name": "O Reino Vem",
+        "url": "https://open.spotify.com/album/1XGpn9IDF3qwuCPfF8SgW8"
       },
       "artists": [
         {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
         }
       ],
-      "duration_ms": 215992,
-      "name": "Sonhadora",
-      "url": "https://open.spotify.com/track/1ZHBGWxxwCMETGr2X6dNo2"
+      "duration_ms": 198928,
+      "name": "O Reino Vem",
+      "url": "https://open.spotify.com/track/2kA9woThYCW2HDgV8OMKJ8"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 244800,
-      "name": "Imensur\u00e1vel",
-      "url": "https://open.spotify.com/track/0JwkjDLTgWa3y4CtgB4zMw"
+      "duration_ms": 226293,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/5a546hu8m59WXDxwAmryIt"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 226293,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/5a546hu8m59WXDxwAmryIt"
+      "duration_ms": 244800,
+      "name": "Imensur\u00e1vel",
+      "url": "https://open.spotify.com/track/0JwkjDLTgWa3y4CtgB4zMw"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Luz",
-        "url": "https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 180188,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/1Cq27FmPcRhjg35dsPKUjx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Doze",
         "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
       },
@@ -703,38 +683,6 @@
       "duration_ms": 229111,
       "name": "Abril",
       "url": "https://open.spotify.com/track/0YjPR65MgY5cIFVtOuuAdt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Criador do Mundo",
-        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 270480,
-      "name": "Liberdade",
-      "url": "https://open.spotify.com/track/1MksipefYCj3jjdupynfZi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Daniela Ara\u00fajo",
-        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 269062,
-      "name": "Dimens\u00e3o da Luz",
-      "url": "https://open.spotify.com/track/0UDxiJ5ZmFuuP1jHu5gjts"
     },
     {
       "added_at": null,
@@ -759,6 +707,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Criador do Mundo",
+        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 270480,
+      "name": "Liberdade",
+      "url": "https://open.spotify.com/track/1MksipefYCj3jjdupynfZi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Luz",
+        "url": "https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 180188,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/1Cq27FmPcRhjg35dsPKUjx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 269062,
+      "name": "Dimens\u00e3o da Luz",
+      "url": "https://open.spotify.com/track/0UDxiJ5ZmFuuP1jHu5gjts"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/4EZWRLZ7fYQPeLLGfUTaCU"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 216533,
       "name": "Assim Eu Sou (feat. Daniela Ara\u00fajo)",
       "url": "https://open.spotify.com/track/4vmzoCSKD2LQGzaA7TojH6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catarse: Lado A",
+        "url": "https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 280521,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/3tYbGa6Ns57fZyRgvMXPAB"
     },
     {
       "added_at": null,
@@ -799,22 +815,6 @@
       "duration_ms": 222727,
       "name": "Cora\u00e7\u00e3o de Pedra",
       "url": "https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catarse: Lado A",
-        "url": "https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 280521,
-      "name": "Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/3tYbGa6Ns57fZyRgvMXPAB"
     },
     {
       "added_at": null,

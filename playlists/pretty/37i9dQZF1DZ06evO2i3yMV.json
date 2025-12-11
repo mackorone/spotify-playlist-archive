@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAADRFbrdF5IGPKSQDmMaRGA0",
+  "snapshot_id": "aTdmgAAAAADMsALEGyNlRrf5C8eRkWMJ",
   "tracks": [
     {
       "added_at": null,
@@ -83,26 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno (Remixed)",
-        "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "bad tuner",
-          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
-        }
-      ],
-      "duration_ms": 205475,
-      "name": "Phases - bad tuner Remix",
-      "url": "https://open.spotify.com/track/1zk4lGFlhhWbwkE4vvXeYn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Say Tell Me (Maya Jane Coles Remix)",
         "url": "https://open.spotify.com/album/5wKj1NZCYSq5HtcNiZKtij"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 298426,
       "name": "Say Tell Me - Maya Jane Coles Remix",
       "url": "https://open.spotify.com/track/6npcNq0BdZ4eagbwOf41yk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oasis Nocturno (Remixed)",
+        "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+        }
+      ],
+      "duration_ms": 205475,
+      "name": "Phases - bad tuner Remix",
+      "url": "https://open.spotify.com/track/1zk4lGFlhhWbwkE4vvXeYn"
     },
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 169786,
+      "name": "For My Eternal, Oh Dream My Treasure",
+      "url": "https://open.spotify.com/track/2C3QesjC4kWD2YrbKsu1aG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lune Rouge",
         "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 217537,
       "name": "Don't Call Me (feat. Yuna)",
       "url": "https://open.spotify.com/track/56BOZ6JkLSFQxgIDXNLjul"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 169786,
-      "name": "For My Eternal, Oh Dream My Treasure",
-      "url": "https://open.spotify.com/track/2C3QesjC4kWD2YrbKsu1aG"
     },
     {
       "added_at": null,
@@ -471,6 +471,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oasis Nocturno (Remixed)",
+        "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        }
+      ],
+      "duration_ms": 214588,
+      "name": "Love That Never - IMANU Remix",
+      "url": "https://open.spotify.com/track/7xEonmjoDgWkRCzlofalul"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lune Rouge",
         "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
       },
@@ -491,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno (Remixed)",
-        "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
+        "name": "FOVERE",
+        "url": "https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7"
       },
       "artists": [
         {
@@ -500,13 +520,17 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         },
         {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "KRANE",
+          "url": "https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH"
         }
       ],
-      "duration_ms": 214588,
-      "name": "Love That Never - IMANU Remix",
-      "url": "https://open.spotify.com/track/7xEonmjoDgWkRCzlofalul"
+      "duration_ms": 183333,
+      "name": "Put It Down",
+      "url": "https://open.spotify.com/track/0GcCn2SHSVLSwWaFJPQmmk"
     },
     {
       "added_at": null,
@@ -567,26 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOVERE",
-        "url": "https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7"
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "KRANE",
-          "url": "https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH"
         }
       ],
-      "duration_ms": 183333,
-      "name": "Put It Down",
-      "url": "https://open.spotify.com/track/0GcCn2SHSVLSwWaFJPQmmk"
+      "duration_ms": 216726,
+      "name": "Sweet Day",
+      "url": "https://open.spotify.com/track/5WSdubzrIpADdcmacJFjCR"
     },
     {
       "added_at": null,
@@ -603,22 +619,6 @@
       "duration_ms": 181894,
       "name": "Coraz\u00f3n / Death by Disco, Pt. 2",
       "url": "https://open.spotify.com/track/2rfFzqB70eKclvzNxqxW3F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midnight Menu",
-        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 216726,
-      "name": "Sweet Day",
-      "url": "https://open.spotify.com/track/5WSdubzrIpADdcmacJFjCR"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Half Shadows",
-        "url": "https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Soul to Seoul",
-      "url": "https://open.spotify.com/track/7pyPH0gIvrQIHYCG7bkaOn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Floating (feat. Candy Crush Saga)",
         "url": "https://open.spotify.com/album/00FbxiKiTvjcauRoUnRo5t"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 173096,
       "name": "Floating - feat. Candy Crush Saga",
       "url": "https://open.spotify.com/track/3gMCxYKNYbb1S9U1EoerCV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Half Shadows",
+        "url": "https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Soul to Seoul",
+      "url": "https://open.spotify.com/track/7pyPH0gIvrQIHYCG7bkaOn"
     },
     {
       "added_at": null,
@@ -803,18 +803,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Chorus",
-        "url": "https://open.spotify.com/album/3uPpKcsjnkBwb44qudcJDZ"
+        "name": "NO WAY",
+        "url": "https://open.spotify.com/album/6Hx0UA6UPOKVOXFtVLcz9x"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "Joey Purp",
+          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
+        },
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
         }
       ],
-      "duration_ms": 139426,
-      "name": "Dream Chorus",
-      "url": "https://open.spotify.com/track/0kIpJOynQACVOaafTMOM3M"
+      "duration_ms": 204077,
+      "name": "NO WAY",
+      "url": "https://open.spotify.com/track/4ZXMp5VitkH5kwjLppmDU8"
     },
     {
       "added_at": null,
@@ -851,30 +863,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO WAY",
-        "url": "https://open.spotify.com/album/6Hx0UA6UPOKVOXFtVLcz9x"
+        "name": "Dream Chorus",
+        "url": "https://open.spotify.com/album/3uPpKcsjnkBwb44qudcJDZ"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        },
-        {
-          "name": "Joey Purp",
-          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
-        },
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
         }
       ],
-      "duration_ms": 204077,
-      "name": "NO WAY",
-      "url": "https://open.spotify.com/track/4ZXMp5VitkH5kwjLppmDU8"
+      "duration_ms": 139426,
+      "name": "Dream Chorus",
+      "url": "https://open.spotify.com/track/0kIpJOynQACVOaafTMOM3M"
     },
     {
       "added_at": null,
@@ -939,8 +939,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You're Invited",
-        "url": "https://open.spotify.com/album/5LcAvv0x4sgtjOIxhdpLRo"
+        "name": "Eternal Reverie Remixes",
+        "url": "https://open.spotify.com/album/1xO6mpQQPoBAwArjjiFnDo"
       },
       "artists": [
         {
@@ -948,13 +948,17 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         },
         {
-          "name": "Gavin Turek",
-          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
+          "name": "Polar Youth",
+          "url": "https://open.spotify.com/artist/48EUMg2SS1VgOyLRzOhwjQ"
+        },
+        {
+          "name": "Mez",
+          "url": "https://open.spotify.com/artist/30C5wgn4celhRP3Tytv7R6"
         }
       ],
-      "duration_ms": 220934,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/2i2FA9KzL0fKg5IuVePGhX"
+      "duration_ms": 187218,
+      "name": "Sci Fi - Polar Youth Remix",
+      "url": "https://open.spotify.com/track/0otrVay0LC541ZquwIKpZh"
     }
   ],
   "unique_name": "This Is TOKiMONSTA",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,948 likes - 43 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,952 likes - 43 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 23 | [Bikeage](https://open.spotify.com/track/3H7lUDRaFAXi5hcEzd2GsU) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 2:14 |
 | 24 | [Rotting Out](https://open.spotify.com/track/4N22k5sUjgC4rTymY5ilpq) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 1:57 |
 | 25 | [She Don't Care](https://open.spotify.com/track/3M27UObWWBzZZH89DRneW9) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/0wKd9K5PicsSc6jrhWWGYi) | 1:51 |
-| 26 | [Sour Grapes](https://open.spotify.com/track/0ZTtzCeL6FqRF7mRlPK7RX) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy](https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA) | 3:51 |
-| 27 | [Can't Go Back](https://open.spotify.com/track/3vCE0zXuuwLkhBFCZdtsbR) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 1:44 |
+| 26 | [Can't Go Back](https://open.spotify.com/track/3vCE0zXuuwLkhBFCZdtsbR) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 1:44 |
+| 27 | [Sour Grapes](https://open.spotify.com/track/0ZTtzCeL6FqRF7mRlPK7RX) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy](https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA) | 3:51 |
 | 28 | [On Paper](https://open.spotify.com/track/7FSV9tYkmQ8VmWSKWKFtHw) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 1:45 |
 | 29 | [Mass Nerder](https://open.spotify.com/track/0LcMGQZE2nNxgEBdci2X8Y) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/0wKd9K5PicsSc6jrhWWGYi) | 2:47 |
 | 30 | [Here with Me](https://open.spotify.com/track/5JCnwxjAgEWiKMLTkK6Jt1) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | ['Merican](https://open.spotify.com/album/51iwFQcTRgaklyI04obvSd) | 3:43 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 42 | [Wendy](https://open.spotify.com/track/3a7eYPmtZYPKAmo6fX4n5X) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy](https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA) | 2:19 |
 | 43 | [Shameless Halo](https://open.spotify.com/track/5tDHV0T0jLjO5qW5qXb3Pt) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 2:05 |
 
-Snapshot ID: `aTYVAAAAAADSwY5zSX7hUQo/IbSUZJDR`
+Snapshot ID: `aTdmgAAAAACRLt4WdpvDVWNj6DsltMlp`

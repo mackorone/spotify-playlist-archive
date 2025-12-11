@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 ### [Mezzanotte Chill Rap](https://open.spotify.com/playlist/37i9dQZF1DX37pZLd58ED5)
 
-> Solo beat e rime avvolgenti\. Cover: Tony Boy
+> Solo beat e rime avvolgenti\. Cover: Marracash
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,546 likes - 94 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,577 likes - 94 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

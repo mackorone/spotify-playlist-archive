@@ -4,7 +4,7 @@
 
 > Sit back, thand rakho te Chill Karlo with Yo Yo Honey Singh
 
-66 songs - 3 hr 8 min
+67 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [God Damn](https://open.spotify.com/track/209QxKVJzh2FLUmZHpYs4m) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 2:47 | 2025-10-17 |  |
 | [Goriye](https://open.spotify.com/track/1FOPiw2HXNHmxg76vFfN4I) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Goriye](https://open.spotify.com/album/0QNTv6Cq8t4LaFRqDxfMVD) | 3:05 | 2025-10-17 | 2025-10-25 |
 | [Gustakhiyan \(From"Madhaniyan"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/1Ogj157TMEJugMZchWKscQ) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0), [SYNC](https://open.spotify.com/artist/2AgkVvon5F9e3XEBveFe5K) | [Gustakhiyan \(From"Madhaniyan"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4rjHEHa2D2sIxaya1ciyxl) | 2:43 | 2025-10-17 |  |
-| [Hero \(From "Badnaam"\)](https://open.spotify.com/track/0jF77Ini9zPCMMs7lmfogV) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w), [Yaari Ghuman](https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N) | [Hero \(From "Badnaam"\)](https://open.spotify.com/album/6WZJofCfrV15hdQX7AyfeL) | 3:33 | 2025-10-17 |  |
+| [Hero \(From "Badnaam"\)](https://open.spotify.com/track/0jF77Ini9zPCMMs7lmfogV) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w), [Yaari Ghuman](https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N) | [Hero \(From "Badnaam"\)](https://open.spotify.com/album/6WZJofCfrV15hdQX7AyfeL) | 3:33 | 2025-10-17 | 2025-12-11 |
 | [HIM.](https://open.spotify.com/track/2TQy6HAI99JYNw2cKGYAE8) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:11 | 2025-10-17 |  |
 | [I'm In Love With You](https://open.spotify.com/track/22NZwwuMtqjigWwjudklIa) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Shivi](https://open.spotify.com/artist/7CoZkWIMHrAfVllUrTNRvE) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:20 | 2025-10-17 | 2025-11-12 |
 | [Into You](https://open.spotify.com/track/455OjhLhU9JCNYKKoUOFwr) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Into You](https://open.spotify.com/album/64vhuaHJxjSZrOwMUqGJ85) | 2:54 | 2025-10-17 |  |
@@ -73,6 +73,7 @@
 | [You & Me](https://open.spotify.com/track/5DKaO8NUYB0nIThR0dw7xy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 2:59 | 2025-10-17 | 2025-11-26 |
 | [You're U Tho](https://open.spotify.com/track/7E4EhLK8mG4ORi3QR52r2A) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:03 | 2025-10-17 |  |
 | [Young G.O.A.T](https://open.spotify.com/track/6xHPBEvcG0RQDfyTq7jc8P) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 3:45 | 2025-10-17 |  |
+| [Zero Cares](https://open.spotify.com/track/57XP21lBcIam7LS72yDFFe) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Zero Cares](https://open.spotify.com/album/2IFRgC80176V6oTn1nna5B) | 2:29 | 2025-12-10 |  |
 | [Zindagi Chill \( Without Rap \)](https://open.spotify.com/track/6qkIPklOHNKcK7seo0JMnQ) | [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P) | [Zindagi Chill \( Without Rap \)](https://open.spotify.com/album/11Gu0MzhiiwyNfhM6GYvVt) | 2:45 | 2025-11-26 |  |
 
 \*This playlist was first scraped on 2025-10-21. Prior content cannot be recovered.

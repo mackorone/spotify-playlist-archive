@@ -1,6 +1,6 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 234326,
+  "num_followers": 234318,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
+        "name": "Nothing I Need",
+        "url": "https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 213283,
+      "name": "Nothing I Need",
+      "url": "https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
       },
@@ -227,18 +243,18 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Nothing I Need",
-        "url": "https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8"
+        "name": "Running/Planning",
+        "url": "https://open.spotify.com/album/31gACQVSidtVeFzL4hUGy2"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
         }
       ],
-      "duration_ms": 213283,
-      "name": "Nothing I Need",
-      "url": "https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4"
+      "duration_ms": 266586,
+      "name": "Running/Planning",
+      "url": "https://open.spotify.com/track/65Csu3DczS27ZFv6LCieKl"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -259,22 +275,6 @@
       "duration_ms": 252152,
       "name": "yeti",
       "url": "https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
-        "name": "Running/Planning",
-        "url": "https://open.spotify.com/album/31gACQVSidtVeFzL4hUGy2"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 266586,
-      "name": "Running/Planning",
-      "url": "https://open.spotify.com/track/65Csu3DczS27ZFv6LCieKl"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -503,6 +503,22 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
         "name": "My Big Day",
         "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 215986,
       "name": "Diving - feat. Holly Humberstone",
       "url": "https://open.spotify.com/track/786ApDDgJHMbvYaJCA4psT"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Tropic Morning News",
-        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 309400,
-      "name": "Tropic Morning News",
-      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Sink Into Me",
         "url": "https://open.spotify.com/album/4UP1JhTzosIULBPusObP3W"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 158789,
       "name": "Sink Into Me",
       "url": "https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Tropic Morning News",
+        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 309400,
+      "name": "Tropic Morning News",
+      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
+        "name": "Margaux",
+        "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 146811,
+      "name": "Margaux",
+      "url": "https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
         "name": "Brian Cox",
         "url": "https://open.spotify.com/album/6pNS3kSG0HdxMpjOJ1aQho"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 140145,
       "name": "Shell",
       "url": "https://open.spotify.com/track/2DDJuBWHY6SluN5RczGp7L"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
-        "name": "Margaux",
-        "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 146811,
-      "name": "Margaux",
-      "url": "https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "How Beautiful Life Can Be",
-        "url": "https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z"
-      },
-      "artists": [
-        {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
-        }
-      ],
-      "duration_ms": 150662,
-      "name": "How Beautiful Life Can Be - Single Version",
-      "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Lover (Don\u2019t Let Me Down)",
         "url": "https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD"
       },
@@ -811,18 +795,18 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Dirty Laundry",
-        "url": "https://open.spotify.com/album/7aSC9q6YLN4hsx0p2ZPH2Q"
+        "name": "How Beautiful Life Can Be",
+        "url": "https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z"
       },
       "artists": [
         {
-          "name": "The Army, The Navy",
-          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
         }
       ],
-      "duration_ms": 156414,
-      "name": "Dirty Laundry",
-      "url": "https://open.spotify.com/track/2Xtkc0tsVpwdLcFZt5SQ97"
+      "duration_ms": 150662,
+      "name": "How Beautiful Life Can Be - Single Version",
+      "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -839,6 +823,22 @@
       "duration_ms": 253200,
       "name": "You Are The Morning",
       "url": "https://open.spotify.com/track/6nOPbOoujiGPWI8HUDaNq1"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Dirty Laundry",
+        "url": "https://open.spotify.com/album/7aSC9q6YLN4hsx0p2ZPH2Q"
+      },
+      "artists": [
+        {
+          "name": "The Army, The Navy",
+          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
+        }
+      ],
+      "duration_ms": 156414,
+      "name": "Dirty Laundry",
+      "url": "https://open.spotify.com/track/2Xtkc0tsVpwdLcFZt5SQ97"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
+        "name": "Drive to Goldenhammer",
+        "url": "https://open.spotify.com/album/1JlbWPlZef4pXOdFBsK994"
+      },
+      "artists": [
+        {
+          "name": "Divorce",
+          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
+        }
+      ],
+      "duration_ms": 210732,
+      "name": "Lord",
+      "url": "https://open.spotify.com/track/0ZVIp8P740Vq8ZXdBwNURI"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
         "name": "Manifest",
         "url": "https://open.spotify.com/album/3pmmi3IjlwZfKBoR3bMPbb"
       },
@@ -1227,26 +1243,6 @@
       "duration_ms": 146766,
       "name": "Manifest",
       "url": "https://open.spotify.com/track/4PNvV0RKHaKgkVgqZCHkiE"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
-        "name": "2much2soon",
-        "url": "https://open.spotify.com/album/6lelFbCH0ZJ80em8wganZo"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        },
-        {
-          "name": "AJSF",
-          "url": "https://open.spotify.com/artist/00WIyZKC5hWNyrW92VzAj1"
-        }
-      ],
-      "duration_ms": 181920,
-      "name": "2much2soon",
-      "url": "https://open.spotify.com/track/6siBdjNAiPG4V4pZMFNvac"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1267,18 +1263,22 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Drive to Goldenhammer",
-        "url": "https://open.spotify.com/album/1JlbWPlZef4pXOdFBsK994"
+        "name": "2much2soon",
+        "url": "https://open.spotify.com/album/6lelFbCH0ZJ80em8wganZo"
       },
       "artists": [
         {
-          "name": "Divorce",
-          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        },
+        {
+          "name": "AJSF",
+          "url": "https://open.spotify.com/artist/00WIyZKC5hWNyrW92VzAj1"
         }
       ],
-      "duration_ms": 210732,
-      "name": "Lord",
-      "url": "https://open.spotify.com/track/0ZVIp8P740Vq8ZXdBwNURI"
+      "duration_ms": 181920,
+      "name": "2much2soon",
+      "url": "https://open.spotify.com/track/6siBdjNAiPG4V4pZMFNvac"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "I've Got Feelings",
-        "url": "https://open.spotify.com/album/2bLRDPpnlBgpuHQg0qVmo1"
-      },
-      "artists": [
-        {
-          "name": "Will Bryant",
-          "url": "https://open.spotify.com/artist/2uJRUFEELBSNirlF7oFHea"
-        }
-      ],
-      "duration_ms": 241981,
-      "name": "I've Got Feelings",
-      "url": "https://open.spotify.com/track/6AufSqeMerHPyCYy7PcvvP"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "The Dream",
         "url": "https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 289800,
       "name": "The Dream",
       "url": "https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "I've Got Feelings",
+        "url": "https://open.spotify.com/album/2bLRDPpnlBgpuHQg0qVmo1"
+      },
+      "artists": [
+        {
+          "name": "Will Bryant",
+          "url": "https://open.spotify.com/artist/2uJRUFEELBSNirlF7oFHea"
+        }
+      ],
+      "duration_ms": 241981,
+      "name": "I've Got Feelings",
+      "url": "https://open.spotify.com/track/6AufSqeMerHPyCYy7PcvvP"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Villain",
-        "url": "https://open.spotify.com/album/5h89X4sxa7SXWZ7EbB5YAD"
-      },
-      "artists": [
-        {
-          "name": "Annahstasia",
-          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
-        }
-      ],
-      "duration_ms": 270520,
-      "name": "Villain",
-      "url": "https://open.spotify.com/track/1U6zdjZowXrmoq7mutrCra"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Don\u2019t Worry Baby",
         "url": "https://open.spotify.com/album/6rgMgx4hIKvIuJHgxGgVfP"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 203786,
       "name": "Don\u2019t Worry Baby",
       "url": "https://open.spotify.com/track/7rVlBTbthZ4k2kr423Mxhn"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Villain",
+        "url": "https://open.spotify.com/album/5h89X4sxa7SXWZ7EbB5YAD"
+      },
+      "artists": [
+        {
+          "name": "Annahstasia",
+          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+        }
+      ],
+      "duration_ms": 270520,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/1U6zdjZowXrmoq7mutrCra"
     },
     {
       "added_at": "2025-03-29 09:30:14",

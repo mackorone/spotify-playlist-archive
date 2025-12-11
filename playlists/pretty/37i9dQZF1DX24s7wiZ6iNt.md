@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain]
 
 > The best of indie this year, handpicked by Spotify Canada editors\. Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,055 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,075 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24s7wiZ6iNt.md) - [plain]
 | 49 | [Relationships](https://open.spotify.com/track/1FlDLGaTsr9HH1zfJiq6is) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [I quit](https://open.spotify.com/album/6bpglEwFypc0rfzYDyhf6i) | 3:22 |
 | 50 | [Basic Being Basic](https://open.spotify.com/track/2jjwQENSoGnYbQEK4acuC6) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 2:38 |
 
-Snapshot ID: `AAAAAKadwhXasJME0hP5oPurVLnFzaYO`
+Snapshot ID: `AAAAAJyjRc3AEDA6jTdjEvZjia0LUmOR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,576 likes - 47 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,650 likes - 47 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 14 | [It's Plenty](https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:36 |
 | 15 | [28 grams](https://open.spotify.com/track/3iDQuYVOADpNPWMhIWsfaA) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign Of Weakness](https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL) | 2:14 |
 | 16 | [Higher](https://open.spotify.com/track/1N8G6PUj14v0VG8evbRSxp) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/30v3HmAMMHUgEC8ux25PLr) | 2:17 |
-| 17 | [Ginger \(feat\. Burna Boy\)](https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:16 |
-| 18 | [Ye](https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:51 |
+| 17 | [Ye](https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:51 |
+| 18 | [Ginger \(feat\. Burna Boy\)](https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:16 |
 | 19 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/4k4pdUWX8632g7yByxC3rS) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 3:30 |
 | 20 | [Dem Dey](https://open.spotify.com/track/27N2fW3NXw9cvzTHtRSgKR) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign Of Weakness](https://open.spotify.com/album/2fXaK76zsSLaAMwCyCqKQL) | 3:12 |
 | 21 | [Be Honest \(feat\. Burna Boy\)](https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Be Honest \(feat\. Burna Boy\)](https://open.spotify.com/album/4d2oTHRFwGifGFgve7zSGC) | 3:27 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 46 | [Gum Body \(feat\. Jorja Smith\)](https://open.spotify.com/track/6RvYoPlvBr8aevCvzjRpoa) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [African Giant](https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP) | 3:15 |
 | 47 | [Normal](https://open.spotify.com/track/2KiqSjEDFFOyf4yCQwSOud) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH) | 2:04 |
 
-Snapshot ID: `aTYVAAAAAABYLdayAlgED/lHXk+EERSC`
+Snapshot ID: `aTdmgAAAAAAQiv5WDzCI2+CWExliYRUo`

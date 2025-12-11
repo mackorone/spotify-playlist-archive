@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY2jEJFnfpNc.md) - [plain]
 
 > The definitive tracks from a pioneering era of British Broadcasting
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,198 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,210 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY2jEJFnfpNc.md) - [plain]
 | 5 | [All Along the Watchtower](https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 4:00 |
 | 6 | [Can't Take My Eyes off You](https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [The Very Best of Frankie Valli & The 4 Seasons](https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ) | 3:23 |
 | 7 | [Light My Fire](https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 7:09 |
-| 8 | [Wouldn't It Be Nice](https://open.spotify.com/track/4IHc6SzGPnzSPuHVEPzpJc) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds](https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b) | 2:33 |
-| 9 | [These Arms of Mine](https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Pain in My Heart](https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3) | 2:34 |
+| 8 | [These Arms of Mine](https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Pain in My Heart](https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3) | 2:34 |
+| 9 | [Wouldn't It Be Nice](https://open.spotify.com/track/4IHc6SzGPnzSPuHVEPzpJc) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds](https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b) | 2:33 |
 | 10 | [Somebody to Love](https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Surrealistic Pillow](https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a) | 2:54 |
 | 11 | [Hey Joe](https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:30 |
 | 12 | [Daydream Believer](https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [The Birds, The Bees, & The Monkees](https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2) | 2:59 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY2jEJFnfpNc.md) - [plain]
 | 22 | [Nights In White Satin](https://open.spotify.com/track/5w1ingzqrsJka9nlnEFB64) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [Nights In White Satin](https://open.spotify.com/album/1wQJqldAjmo4QgEXx0BTwU) | 4:24 |
 | 23 | [Mr\. Tambourine Man](https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Mr\. Tambourine Man](https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa) | 2:29 |
 | 24 | [I Feel Free](https://open.spotify.com/track/62nYkaIBesfvQSSwTjPnYS) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Fresh Cream](https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB) | 2:51 |
-| 25 | [The Tears Of A Clown](https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Make It Happen](https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i) | 3:01 |
-| 26 | [Elenore](https://open.spotify.com/track/4DWFSrNnZXow1aB96gByho) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [The Turtles Present The Battle of the Bands](https://open.spotify.com/album/155OAoTAYR4Uu0LpSMvy5W) | 2:31 |
+| 25 | [Elenore](https://open.spotify.com/track/4DWFSrNnZXow1aB96gByho) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [The Turtles Present The Battle of the Bands](https://open.spotify.com/album/155OAoTAYR4Uu0LpSMvy5W) | 2:31 |
+| 26 | [The Tears Of A Clown](https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Make It Happen](https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i) | 3:01 |
 | 27 | [Hang On Sloopy](https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF) | [The McCoys](https://open.spotify.com/artist/6etIM3JbzGPxTdfNWWfsVH) | [Hang On Sloopy: The Best Of The McCoys](https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H) | 3:51 |
 | 28 | [Georgy Girl](https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm) | [The Seekers](https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV) | [The Seekers](https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4) | 2:20 |
 | 29 | [This Guy's In Love With You](https://open.spotify.com/track/5hffP5gJFe1zByXf7BIeYq) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [The Beat Of The Brass](https://open.spotify.com/album/28RoUhCVox1AcNaetytDNe) | 3:59 |

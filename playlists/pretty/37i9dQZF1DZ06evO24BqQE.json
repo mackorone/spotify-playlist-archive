@@ -1,12 +1,12 @@
 {
   "description": "This is BNXN. The essential tracks, all in one playlist.",
-  "num_followers": 43292,
+  "num_followers": 43313,
   "original_name": "This Is BNXN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAAFczA9XEXH6qVkNjKgKodj",
+  "snapshot_id": "aTdmgAAAAAAHVBlskhwFEqFGZ5Z2uxIu",
   "tracks": [
     {
       "added_at": null,
@@ -535,22 +535,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/3JtqyAW9kr3vMKWyHlo6wD"
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
       },
       "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/1z567QCaLLuRE7ZxQS5oYS"
+      "duration_ms": 231151,
+      "name": "Best Of Me",
+      "url": "https://open.spotify.com/track/3Z19t8pNaAHqlLmz2LuwNa"
     },
     {
       "added_at": null,
@@ -575,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sincerely, Benson",
-        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/3JtqyAW9kr3vMKWyHlo6wD"
       },
       "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 231151,
-      "name": "Best Of Me",
-      "url": "https://open.spotify.com/track/3Z19t8pNaAHqlLmz2LuwNa"
+      "duration_ms": 224000,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/1z567QCaLLuRE7ZxQS5oYS"
     },
     {
       "added_at": null,

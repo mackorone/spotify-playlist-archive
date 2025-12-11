@@ -4,7 +4,7 @@
 
 > let the dj set u free ❤️‍🩹
 
-624 songs - 1 day 12 hr 38 min
+625 songs - 1 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -587,7 +587,7 @@
 | [Vhs](https://open.spotify.com/track/5DMCdNpx797b2P2CnpGgna) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Vhs](https://open.spotify.com/album/14pWWbSsZa90kidIfHK7Nm) | 4:29 | 2024-04-19 |  |
 | [Violence \- Club Mix](https://open.spotify.com/track/5oOlKEj3vJeivb5QGYJFKt) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG) | [Miss Anthropocene](https://open.spotify.com/album/6PVARuXkH97DKHlhI5wzgq) | 4:12 | 2021-04-02 | 2022-06-01 |
 | [Visions \- jamesjamesjames Remix](https://open.spotify.com/track/7nbMyWcTfIydxb9iXAtNaE) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [First Contact \(The Remixes\)](https://open.spotify.com/album/3ROEyvvxjEl2GpS4mcL273) | 5:06 | 2021-08-14 | 2022-07-29 |
-| [Wait \(Alibi Blue\)](https://open.spotify.com/track/6UeX8EDqvDrtX3uNqIkErH) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Wait \(Alibi Blue\)](https://open.spotify.com/album/43FgYStLNAtLavSCL8Otys) | 2:38 | 2025-09-06 |  |
+| [Wait \(Alibi Blue\)](https://open.spotify.com/track/6UeX8EDqvDrtX3uNqIkErH) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Wait \(Alibi Blue\)](https://open.spotify.com/album/43FgYStLNAtLavSCL8Otys) | 2:38 | 2025-09-06 | 2025-12-11 |
 | [Wait So Long \(Why Do I Have To\)](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Wait So Long \(Why Do I Have To\)](https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl) | 3:19 | 2025-06-20 |  |
 | [WAITING UP ALL NIGHT](https://open.spotify.com/track/4JESsxzCCsnvSZAg0aYw6e) | [FAON](https://open.spotify.com/artist/2b5QC4KWCMRKdD7LiqvfMQ), [OLIIVER](https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p) | [WAITING UP ALL NIGHT](https://open.spotify.com/album/2Jymoj67DLV3dIJ2UceA5R) | 2:06 | 2025-10-17 | 2025-11-15 |
 | [Waiting...](https://open.spotify.com/track/1rh5o3bnW0fp35g5IB5cLy) | [Justin Jay](https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ) | [You Are The One](https://open.spotify.com/album/12QiOWJbaZyT6C7ssPTnhF) | 2:24 | 2024-09-13 | 2024-11-09 |
@@ -627,6 +627,7 @@
 | [You & Me \- Flume Remix](https://open.spotify.com/track/2yl5YlFWTreZRv4hMlcngT) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Disclosure Classics](https://open.spotify.com/album/4uFZjHXOKswRVy7r1ry15P) | 4:42 | 2021-04-02 | 2023-12-30 |
 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 | 2023-12-29 |  |
 | [You And I](https://open.spotify.com/track/56Q8dn5LGmBRdmXSpi7vX8) | [INNERVERSE](https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf), [Freddie Dickson](https://open.spotify.com/artist/2OlmkYdWcpzUYcHs64wzjz), [Oliver Cricket](https://open.spotify.com/artist/5kU4kGnYmdsBioNmQ0meDr) | [You And I](https://open.spotify.com/album/5BJM2v2xqOMuy15C319TGT) | 3:31 | 2025-11-07 |  |
+| [You Broke My Heart](https://open.spotify.com/track/4Gm2RznRAbEj9VmgRXF2fG) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1) | [You Broke My Heart](https://open.spotify.com/album/0DuenMeOdKfP110JarqYYq) | 2:41 | 2025-12-05 |  |
 | [You Don’t Even Miss Me](https://open.spotify.com/track/3KSpl46KfuW4dUeXgbNaZZ) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [You Don’t Even Miss Me](https://open.spotify.com/album/5slrDcVCU84EvhtxphtLOT) | 2:21 | 2025-04-25 | 2025-05-03 |
 | [You Said Forever](https://open.spotify.com/track/5fjIr7fMC19Jmz97GmmSB7) | [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv) | [You Said Forever](https://open.spotify.com/album/3Sga55WOeWr0G12vzC2GoQ) | 2:27 | 2025-08-01 |  |
 | [You've Done Enough](https://open.spotify.com/track/3zPfyVThoCzQ6IB5CSGDTz) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [You’ve Done Enough](https://open.spotify.com/album/3MpEvpOsGV9iKzHWwUcjbk) | 3:33 | 2021-04-02 | 2024-04-06 |

@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 61491,
+  "num_followers": 61494,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Coleccion Aniversario",
+        "url": "https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes Del Chamame",
+          "url": "https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom"
+        }
+      ],
+      "duration_ms": 125826,
+      "name": "Asi Se Baila El Chamame",
+      "url": "https://open.spotify.com/track/5b1Rxf30tpYFUji8lhIS19"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Alguien mejor que yo",
         "url": "https://open.spotify.com/album/23LbesRfpNyt5prZ1aLJ4p"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 199233,
       "name": "Alguien mejor que yo",
       "url": "https://open.spotify.com/track/1kGMLfK5hSytnStZqz8iNs"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Coleccion Aniversario",
-        "url": "https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes Del Chamame",
-          "url": "https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom"
-        }
-      ],
-      "duration_ms": 125826,
-      "name": "Asi Se Baila El Chamame",
-      "url": "https://open.spotify.com/track/5b1Rxf30tpYFUji8lhIS19"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -435,6 +435,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "30 A\u00f1os Con el Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6Idi1uBauH0SESb3GdVLlf"
+      },
+      "artists": [
+        {
+          "name": "Pastor Luna",
+          "url": "https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW"
+        }
+      ],
+      "duration_ms": 131813,
+      "name": "Pastor Luna y Su Acorde\u00f3n",
+      "url": "https://open.spotify.com/track/5OrIO5OgtulDJUtkfg1loG"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Fuerte No Soy",
         "url": "https://open.spotify.com/album/2sjpfth1n9cQKZkqGBjB0J"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 208579,
       "name": "Fuerte No Soy",
       "url": "https://open.spotify.com/track/7096cJr8WHHqPC64Cms4sC"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "30 A\u00f1os Con el Chamam\u00e9",
-        "url": "https://open.spotify.com/album/6Idi1uBauH0SESb3GdVLlf"
-      },
-      "artists": [
-        {
-          "name": "Pastor Luna",
-          "url": "https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW"
-        }
-      ],
-      "duration_ms": 131813,
-      "name": "Pastor Luna y Su Acorde\u00f3n",
-      "url": "https://open.spotify.com/track/5OrIO5OgtulDJUtkfg1loG"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Sobredosis De Chamame",
-        "url": "https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH"
-      },
-      "artists": [
-        {
-          "name": "Ambo\u00e9",
-          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
-        }
-      ],
-      "duration_ms": 296653,
-      "name": "La Fiesta Del Chamam\u00e9",
-      "url": "https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Coraz\u00f3n Chamamecero",
         "url": "https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 208346,
       "name": "El Gaucho Gil",
       "url": "https://open.spotify.com/track/57Fe8WMp65ur02mOXCbYYg"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Sobredosis De Chamame",
+        "url": "https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH"
+      },
+      "artists": [
+        {
+          "name": "Ambo\u00e9",
+          "url": "https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD"
+        }
+      ],
+      "duration_ms": 296653,
+      "name": "La Fiesta Del Chamam\u00e9",
+      "url": "https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -859,6 +859,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Las Nuevas Estrellas del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
+        }
+      ],
+      "duration_ms": 167592,
+      "name": "Por Tus Besos",
+      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Amaneciendo",
         "url": "https://open.spotify.com/album/64NPd7ZaylZXrpYAIUrIKd"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 379080,
       "name": "El Cascabel",
       "url": "https://open.spotify.com/track/59jqFfNaUWKLRuuFRvePHl"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Las Nuevas Estrellas del Chamam\u00e9",
-        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Barrios",
-          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
-        }
-      ],
-      "duration_ms": 167592,
-      "name": "Por Tus Besos",
-      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -915,6 +915,26 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Segundo Contacto",
+        "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
+      },
+      "artists": [
+        {
+          "name": "Herencia Chamamecera",
+          "url": "https://open.spotify.com/artist/6itXl4rZsOI26m5ddJIPym"
+        },
+        {
+          "name": "Ricardo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6gCwCLfmpzV5wXPmaPMifb"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "Para Volver a So\u00f1ar",
+      "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "21 Grandes Exitos",
         "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 186013,
       "name": "Las Penas del Provinciano",
       "url": "https://open.spotify.com/track/2OjO3ZBIR59xMqoo9z17sJ"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Coleccion Aniversario",
-        "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
-      },
-      "artists": [
-        {
-          "name": "Ramona Galarza",
-          "url": "https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm"
-        },
-        {
-          "name": "Tarrago Ros",
-          "url": "https://open.spotify.com/artist/2Bx9gYQLMfwrkxEhpo9xKL"
-        }
-      ],
-      "duration_ms": 147986,
-      "name": "Siete Higueras",
-      "url": "https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -967,22 +967,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Segundo Contacto",
-        "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
+        "name": "Coleccion Aniversario",
+        "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
       },
       "artists": [
         {
-          "name": "Herencia Chamamecera",
-          "url": "https://open.spotify.com/artist/6itXl4rZsOI26m5ddJIPym"
+          "name": "Ramona Galarza",
+          "url": "https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm"
         },
         {
-          "name": "Ricardo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6gCwCLfmpzV5wXPmaPMifb"
+          "name": "Tarrago Ros",
+          "url": "https://open.spotify.com/artist/2Bx9gYQLMfwrkxEhpo9xKL"
         }
       ],
-      "duration_ms": 194853,
-      "name": "Para Volver a So\u00f1ar",
-      "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
+      "duration_ms": 147986,
+      "name": "Siete Higueras",
+      "url": "https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "20 Superexitos Originales",
+        "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
+      },
+      "artists": [
+        {
+          "name": "Isaco Abitbol",
+          "url": "https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s"
+        }
+      ],
+      "duration_ms": 171973,
+      "name": "Flor del Litoral",
+      "url": "https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Chamam\u00e9",
         "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 189600,
       "name": "Esclavo de Tus Besos",
       "url": "https://open.spotify.com/track/4hLUsnA6TegydwAzIkVeLp"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "20 Superexitos Originales",
-        "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
-      },
-      "artists": [
-        {
-          "name": "Isaco Abitbol",
-          "url": "https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s"
-        }
-      ],
-      "duration_ms": 171973,
-      "name": "Flor del Litoral",
-      "url": "https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Chamam\u00e9",
-        "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
-      },
-      "artists": [
-        {
-          "name": "Los Chaque-Che",
-          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
-        },
-        {
-          "name": "Los Hermanos Aquino",
-          "url": "https://open.spotify.com/artist/0wV2imU5AmtvXhCwN8WXYs"
-        }
-      ],
-      "duration_ms": 140040,
-      "name": "El Toro",
-      "url": "https://open.spotify.com/track/6NDOsal4LAqelh43irEedg"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "20 Superexitos Originales",
         "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
       },
@@ -1435,18 +1415,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+        "name": "Chamam\u00e9",
+        "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
       },
       "artists": [
         {
-          "name": "Fito Ledesma",
-          "url": "https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL"
+          "name": "Los Chaque-Che",
+          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
+        },
+        {
+          "name": "Los Hermanos Aquino",
+          "url": "https://open.spotify.com/artist/0wV2imU5AmtvXhCwN8WXYs"
         }
       ],
-      "duration_ms": 120720,
-      "name": "Jineteando",
-      "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
+      "duration_ms": 140040,
+      "name": "El Toro",
+      "url": "https://open.spotify.com/track/6NDOsal4LAqelh43irEedg"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1463,6 +1447,22 @@
       "duration_ms": 148733,
       "name": "Temple guarani",
       "url": "https://open.spotify.com/track/2QqUW53IpfU3cpLqZ2dW2R"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Fito Ledesma",
+          "url": "https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL"
+        }
+      ],
+      "duration_ms": 120720,
+      "name": "Jineteando",
+      "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Los hermanos Cena",
+          "url": "https://open.spotify.com/artist/24QlAxZc1ITOKpqu42UIgj"
+        }
+      ],
+      "duration_ms": 110706,
+      "name": "Camino a las cuchillas",
+      "url": "https://open.spotify.com/track/4A9xC1FFaEiFdZNhjaHBpT"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Noche de Tormenta",
         "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
       },
@@ -1527,26 +1543,6 @@
       "duration_ms": 192042,
       "name": "La Leyenda de la Brasita de Fuego",
       "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "12 A\u00f1os Con el Chamam\u00e9",
-        "url": "https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV"
-      },
-      "artists": [
-        {
-          "name": "La Pilarcita",
-          "url": "https://open.spotify.com/artist/0GXO5I9mqQqReUcDWHAmwX"
-        },
-        {
-          "name": "Miguel Arce y La Yunta del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM"
-        }
-      ],
-      "duration_ms": 183220,
-      "name": "El Gallo Negro",
-      "url": "https://open.spotify.com/track/4m5vvAc8yy1J52xeQTkQaU"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,528 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 674,499 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 18 | [Turtle Jazz](https://open.spotify.com/track/6Vx2Z3efuMINFSDOX1PoAu) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [Turtle Jazz](https://open.spotify.com/album/73C1QVOlWsW6qhhknFI6Ws) | 3:13 |
 | 19 | [Miss Understood](https://open.spotify.com/track/7emOUo5DMccU8cg5X4uG79) | [Headache](https://open.spotify.com/artist/1iX0eIvL5iHnaDny7BBtWH), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Miss Understood](https://open.spotify.com/album/1hSNwF496ybl7F25PjHiqH) | 3:39 |
 | 20 | [Easier Together](https://open.spotify.com/track/5Ld5t8mpxgLRitIEEgJkbm) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Devon Rea](https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu), [tezpu](https://open.spotify.com/artist/4qsNTmhzMYuDilyDFbJFp2) | [Easier Together](https://open.spotify.com/album/6CYe2W8fP2MmnSJVm0Ei8X) | 2:41 |
-| 21 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
+| 21 | [Yorokobi](https://open.spotify.com/track/2h4JwOuZMiBSCao8QAiwgS) | [Etta](https://open.spotify.com/artist/5wcUrjRIi6pDYKGb0UZvd2) | [Yorokobi](https://open.spotify.com/album/5mZ7OlFuS64Xi3P3J6LTWw) | 2:17 |
 | 22 | [Always](https://open.spotify.com/track/4iqiJmtxOhvPKVo6cEPdVQ) | [Jesse Blake](https://open.spotify.com/artist/6bWcDlQBThaOYSZsMBIQ3X) | [Always](https://open.spotify.com/album/0g7cGfIUANYS5YNFUfoQei) | 3:36 |
-| 23 | [Yorokobi](https://open.spotify.com/track/2h4JwOuZMiBSCao8QAiwgS) | [Etta](https://open.spotify.com/artist/5wcUrjRIi6pDYKGb0UZvd2) | [Yorokobi](https://open.spotify.com/album/5mZ7OlFuS64Xi3P3J6LTWw) | 2:17 |
+| 23 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
 | 24 | [Feel So Alive](https://open.spotify.com/track/6T72wSyvuUJgCc8EH5wRfw) | [Limelight Sound](https://open.spotify.com/artist/39vymr3LLNqqISal4a7yUi) | [Feel So Alive](https://open.spotify.com/album/3FU3PiQqpMQzsTgEwsoqtK) | 2:15 |
 | 25 | [Tides](https://open.spotify.com/track/2Q8JhBUBD748dc1yUZCtuM) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Tides](https://open.spotify.com/album/4Qf13iLtFmcyjNZt9fChJV) | 3:36 |
 | 26 | [Fractal](https://open.spotify.com/track/6X8rafA2jNs00EYtlao12t) | [Thomas James White](https://open.spotify.com/artist/6Tn5oQhfKwtNMsOmV8Mzgy) | [Fractal](https://open.spotify.com/album/5MeltqrIcaTDQzfJAunW6m) | 3:42 |

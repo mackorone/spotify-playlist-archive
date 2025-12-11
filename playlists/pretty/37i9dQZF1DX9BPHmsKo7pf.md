@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 
 ### [Hot Hits România](https://open.spotify.com/playlist/37i9dQZF1DX9BPHmsKo7pf)
 
-> Cele mai de succes 50 de hituri în România\. Cover: Ian
+> Cele mai de succes 50 de hituri în România\. Cover: Petre Stefan
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,429 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,426 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 | 49 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
 | 50 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
 
-Snapshot ID: `AAAAABWhuaWyNiHua1v7sFfQZol9krSZ`
+Snapshot ID: `AAAAALJpb1gguMU6nPLMENxqkj1tHbWO`

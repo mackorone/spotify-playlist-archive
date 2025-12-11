@@ -2,9 +2,9 @@
 
 ### [Hot Hits Switzerland](https://open.spotify.com/playlist/37i9dQZF1DX0MD19TXm0aV)
 
-> Switzerland's biggest hits right now\. Cover: RAYE
+> Switzerland's biggest hits right now\. Cover: EAZ
 
-324 songs - 16 hr 7 min
+325 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-07-02 | 2025-02-12 |
 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-07 | 2024-11-20 |
 | [Happy Here](https://open.spotify.com/track/2HmUgFWhCMs44ONcQAFhkm) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [MaWayy](https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp) | [Happy Here](https://open.spotify.com/album/5SoVqbsyAO0Qplj4hxT7Z9) | 2:54 | 2025-05-15 | 2025-07-02 |
+| [Heal Me](https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Heal Me](https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC) | 3:35 | 2025-12-10 |  |
 | [Heart of Gold](https://open.spotify.com/track/39AfsBXaRa8JZhl46bKGGN) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heart of Gold](https://open.spotify.com/album/5OFrWDpHvOkYyllO3AKPtS) | 2:51 | 2024-11-08 | 2024-11-28 |
 | [Heat](https://open.spotify.com/track/0R7Q7wmgqioO8z7Bf5KnAU) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [Heat](https://open.spotify.com/album/2KQYDXvp5OYQLJxjzmRTmu) | 2:43 | 2025-07-16 |  |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-07-02 | 2024-11-28 |
@@ -234,7 +235,7 @@
 | [PROBATION](https://open.spotify.com/track/0Qv6p0oRQqNZpQMqXcaI8F) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [PROBATION](https://open.spotify.com/album/3vAsdkeQPgpdv8eibAAmVZ) | 3:39 | 2024-11-27 | 2024-12-06 |
 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2024-12-30 | 2025-04-03 |
 | [Pélican](https://open.spotify.com/track/3vE9tuRoHiyNPG5HJQLgNd) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Pélican](https://open.spotify.com/album/7tGOpS4UrTuzHTnnyHv8YS) | 2:45 | 2025-02-25 | 2025-03-13 |
-| [QUE CE SOIT CLAIR](https://open.spotify.com/track/6eDKyG6jvCXaTyTdFOh9wA) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [QUE CE SOIT CLAIR](https://open.spotify.com/album/3KPXmdrGHVCiVJNp1Q5jPx) | 2:56 | 2025-09-03 |  |
+| [QUE CE SOIT CLAIR](https://open.spotify.com/track/6eDKyG6jvCXaTyTdFOh9wA) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [QUE CE SOIT CLAIR](https://open.spotify.com/album/3KPXmdrGHVCiVJNp1Q5jPx) | 2:56 | 2025-09-03 | 2025-12-11 |
 | [Qué Pasaría...](https://open.spotify.com/track/0OxKf18dUo2G5dFOQYCvBN) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Qué Pasaría...](https://open.spotify.com/album/0uuqkIU29zH9mpChddc5Tn) | 3:11 | 2024-11-27 | 2025-05-16 |
 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2025-10-28 |  |
 | [Randali](https://open.spotify.com/track/7x76MsHLcWQ4rLlHVkT7yw) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Randali](https://open.spotify.com/album/1NSEKARvPRzT2tSG1DZrmi) | 2:23 | 2024-07-02 | 2024-07-27 |

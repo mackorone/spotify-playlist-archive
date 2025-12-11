@@ -4,7 +4,7 @@
 
 > per spingere come veri gym bro e gym sis
 
-395 songs - 20 hr 36 min
+396 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [Mon Fre \- feat\. Emis Killa](https://open.spotify.com/track/4dDMgEj5GpBTI1lvVlYPu7) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Mon Fre \(feat\. Emis Killa\)](https://open.spotify.com/album/77lRpzVsAaD51GUhOpQd3K) | 3:44 | 2022-05-03 | 2022-11-13 |
 | [MONEY](https://open.spotify.com/track/6LhPeOpKoX1SnqxDzrS64F) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:45 | 2024-03-21 | 2024-08-02 |
 | [Money In The Grave \(Drake ft\. Rick Ross\)](https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [The Best In The World Pack](https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4) | 3:25 | 2022-07-04 | 2024-08-02 |
-| [MONEY MACHINE \(feat\. Lazza & Tony Effe\)](https://open.spotify.com/track/4txJR7LWq7AQYNYoBCf0gB) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [DOPAMINA](https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD) | 3:48 | 2025-09-19 |  |
+| [MONEY MACHINE \(feat\. Lazza & Tony Effe\)](https://open.spotify.com/track/4txJR7LWq7AQYNYoBCf0gB) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [DOPAMINA](https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD) | 3:48 | 2025-09-19 | 2025-12-11 |
 | [Money Made Me A Savage \- Calabria](https://open.spotify.com/track/1VDfvBUMwL3m1Sd9dMorR4) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Money Made Me A Savage \(Calabria\)](https://open.spotify.com/album/61ppUwJEtGqCONLN7UMNAK) | 2:03 | 2025-09-19 |  |
 | [Monster](https://open.spotify.com/track/0BHNkpGmcexaGyUHDZCQXG) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Monster](https://open.spotify.com/album/6IpcyL6OyZJKm5DiHpk9ig) | 2:24 | 2025-03-11 | 2025-07-18 |
 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB) | 1:01 | 2024-08-01 | 2025-07-22 |
@@ -402,6 +402,7 @@
 | [You Don't Know](https://open.spotify.com/track/4UhUXGXEeq3mPJyzZkx9fY) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Ca$his](https://open.spotify.com/artist/3PDMMt0Ip2WHysoAOEAdBq), [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [Eminem Presents The Re\-Up](https://open.spotify.com/album/6NeJONAsrs5xp24Jnkr4K0) | 4:17 | 2022-07-04 | 2022-09-20 |
 | [ZEZE \(feat\. Travis Scott & Offset\)](https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Dying to Live](https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp) | 3:48 | 2022-07-04 | 2024-04-19 |
 | [Zig Zag](https://open.spotify.com/track/5UKIWHvuWHSVnNxZuNd2Qr) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Zig Zag](https://open.spotify.com/album/1BKBhiWmq8ODbAc8VVNpJ2) | 2:42 | 2024-03-21 | 2024-06-05 |
+| [∞ LOVE \(feat\. Guè\)](https://open.spotify.com/track/0HhSB4nAJpI5expWnZL199) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:38 | 2025-11-20 |  |
 | [✻H+3+ЯД✻7luCJIo0T6...](https://open.spotify.com/track/4hjRjhLvBIMUUhRjb7DACd) | [vyrval](https://open.spotify.com/artist/4hJrxZPQydibSnMMq7PpB9) | [✻H+3+ЯД✻7luCJIo0T6...](https://open.spotify.com/album/3joHEvqURxvBwrT5JZS3Sn) | 3:10 | 2024-08-01 | 2024-08-08 |
 
 \*This playlist was first scraped on 2022-05-12. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > trap 🤝 piseiro\. Foto: Mago de Tarso
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,905 likes - 43 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,903 likes - 43 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

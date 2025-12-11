@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,793 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,808 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 40 | [Another Nasty Song](https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Another Nasty Song](https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb) | 2:24 |
 | 41 | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Wheelie \(feat\. 21 Savage\)](https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag) | 2:50 |
 | 42 | [Don't Play With It \(feat\. Latto & Yung Miami\) \- Remix](https://open.spotify.com/track/7rl489EKnUgITmkBd6P9zi) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [Don't Play With It \(feat\. Latto & Yung Miami\) \[Remix\]](https://open.spotify.com/album/6sNVQhQKsiqqxybu2qjpLC) | 2:59 |
-| 43 | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm) | 2:56 |
-| 44 | [Wet \(feat\. Latto\) \- Remix](https://open.spotify.com/track/0j51R3QEjwpSp9XJqtSh78) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Wish Me Well 3](https://open.spotify.com/album/4ZAcg9Y4vCRGrkTWroSKsk) | 3:31 |
+| 43 | [Wet \(feat\. Latto\) \- Remix](https://open.spotify.com/track/0j51R3QEjwpSp9XJqtSh78) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Wish Me Well 3](https://open.spotify.com/album/4ZAcg9Y4vCRGrkTWroSKsk) | 3:31 |
+| 44 | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm) | 2:56 |
 | 45 | [This Right Here \(feat\. Latto\)](https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jazze Pha](https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [This Right Here \(feat\. Latto\)](https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G) | 3:09 |
 | 46 | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk) | 2:02 |
 | 47 | [Too Fast \(Pull Over\) \(with Anderson .Paak & Latto\)](https://open.spotify.com/track/6vz3Fyhj6smbuYuaIZHksu) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Too Fast \(Pull Over\) \(with Anderson .Paak & Latto\)](https://open.spotify.com/album/1KNyxPSXQoZJ2KMQySCUUo) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 49 | [BILLS PAID \(feat\. Latto & City Girls\)](https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:28 |
 | 50 | [Freaky As Me \(feat\. latto\)](https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Freaky As Me](https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru) | 2:09 |
 
-Snapshot ID: `aTYVAAAAAADaKpPGN2J/sKMTHGWTeC77`
+Snapshot ID: `aTdmgAAAAAC+Oovck1vWsW/1jrrsd/Pm`

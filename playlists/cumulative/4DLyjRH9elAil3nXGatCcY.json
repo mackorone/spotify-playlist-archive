@@ -967,6 +967,24 @@
     },
     {
       "album": {
+        "name": "This Infinite",
+        "url": "https://open.spotify.com/album/3y9JzXqiUFmPQJy0jxlCq4"
+      },
+      "artists": [
+        {
+          "name": "Vitesse X",
+          "url": "https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213266,
+      "name": "Bliss Beat",
+      "url": "https://open.spotify.com/track/0qcBGGXFgAUd1sb8HwMk9e"
+    },
+    {
+      "album": {
         "name": "Eternal Frequencies: Equinox Remixes",
         "url": "https://open.spotify.com/album/7KEQxj2Ldsi30A6uL9y7Xf"
       },

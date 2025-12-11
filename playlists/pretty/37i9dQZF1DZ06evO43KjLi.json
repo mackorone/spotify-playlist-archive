@@ -1,12 +1,12 @@
 {
   "description": "This is Esteban Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 22693,
+  "num_followers": 22695,
   "original_name": "This Is Esteban Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAAfFOFAyt62qKBw90VS/yrs",
+  "snapshot_id": "aTdmgAAAAADV/boxAN0QFWMeczzU3Iht",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Tumbados Vol. 2",
-        "url": "https://open.spotify.com/album/1tpjN0LOyoLBT2WEhB2EUW"
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
       },
       "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
         {
           "name": "Esteban Gabriel",
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 156661,
-      "name": "Tirando La H",
-      "url": "https://open.spotify.com/track/1CSPS0XfIYL6O1sB3veINs"
+      "duration_ms": 231378,
+      "name": "Que Tiene de Malo",
+      "url": "https://open.spotify.com/track/3uUvQGiUZMj8WzG5Vo1MCz"
     },
     {
       "added_at": null,
@@ -235,18 +231,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don Esteban",
-        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+        "name": "Corridos Tumbados Vol. 2",
+        "url": "https://open.spotify.com/album/1tpjN0LOyoLBT2WEhB2EUW"
       },
       "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
         {
           "name": "Esteban Gabriel",
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 231378,
-      "name": "Que Tiene de Malo",
-      "url": "https://open.spotify.com/track/3uUvQGiUZMj8WzG5Vo1MCz"
+      "duration_ms": 156661,
+      "name": "Tirando La H",
+      "url": "https://open.spotify.com/track/1CSPS0XfIYL6O1sB3veINs"
     },
     {
       "added_at": null,

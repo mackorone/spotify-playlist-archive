@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40wGR1.md) - [plain]
 
 > This is Liran' Roll\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,941 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,958 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40wGR1.md) - [plain]
 | 24 | [Quisiera](https://open.spotify.com/track/7nIqRvlHXEIZHvkP5PLXxh) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [15 Rolitas de Amor, Vol\. 8](https://open.spotify.com/album/0i8811SgM9nYes9hu8ORfi) | 4:18 |
 | 25 | [Fúgate Conmigo](https://open.spotify.com/track/2E1pXeUQPkEu6ocMjFpSu6) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Siguiendo La Línea](https://open.spotify.com/album/2F9AobKP2HSigLELWeu9Jg) | 4:18 |
 | 26 | [Un Adiós](https://open.spotify.com/track/452k6YfwmgEowaTVupBo9s) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [D.F.](https://open.spotify.com/album/6bsZtXHmanZNWEa0YdgMTh) | 4:03 |
-| 27 | [No Tengo Tiempo \(De Cambiar Mi Vida\)](https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg) | [Foco De Atelier](https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A), [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [No Tengo Tiempo \(De Cambiar Mi Vida\)](https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M) | 4:32 |
-| 28 | [Josefina](https://open.spotify.com/track/3hI44ZnraKYADDH5tKo71q) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Momentos](https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN) | 4:02 |
+| 27 | [Josefina](https://open.spotify.com/track/3hI44ZnraKYADDH5tKo71q) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Momentos](https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN) | 4:02 |
+| 28 | [No Tengo Tiempo \(De Cambiar Mi Vida\)](https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg) | [Foco De Atelier](https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A), [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [No Tengo Tiempo \(De Cambiar Mi Vida\)](https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M) | 4:32 |
 | 29 | [Sin Tu Latido](https://open.spotify.com/track/3xTzTsTFx3MGWk9Bg6Yr4g) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Siguiendo La Línea](https://open.spotify.com/album/2F9AobKP2HSigLELWeu9Jg) | 4:14 |
 | 30 | [Piensa en Mi](https://open.spotify.com/track/2982dNBIFDZkjdjLhnYcOH) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [D.F.](https://open.spotify.com/album/6bsZtXHmanZNWEa0YdgMTh) | 4:39 |
-| 31 | [Eres Fuego](https://open.spotify.com/track/5gk0b8wA06lvW2xxVHTbu7) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Cambios](https://open.spotify.com/album/1XjPdYX6t4bE8fDE3Hqj4B) | 3:59 |
-| 32 | [Abrázame](https://open.spotify.com/track/2Npx6hoMEEBiJDPXrZ3KOm) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Momentos](https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN) | 2:12 |
+| 31 | [Abrázame](https://open.spotify.com/track/2Npx6hoMEEBiJDPXrZ3KOm) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Momentos](https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN) | 2:12 |
+| 32 | [Eres Fuego](https://open.spotify.com/track/5gk0b8wA06lvW2xxVHTbu7) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Cambios](https://open.spotify.com/album/1XjPdYX6t4bE8fDE3Hqj4B) | 3:59 |
 | 33 | [Chamán](https://open.spotify.com/track/4RWdBsWdQ2VBEOMz58EXa8) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Chamán](https://open.spotify.com/album/0NQkOlwA4imtZD3SkOMErU) | 4:45 |
 | 34 | [No Puedo Soñar](https://open.spotify.com/track/4WSYpYixYW8e5jW9OUliLc) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Recuerdos](https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs) | 4:18 |
 | 35 | [Porque Te Amo](https://open.spotify.com/track/6Knh4ir11etn5Agk73HkOH) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [María \(Remastered\)](https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF) | 4:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40wGR1.md) - [plain]
 | 49 | [El Pasado](https://open.spotify.com/track/4NjpCEcK6ja9lysf1mNqky) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Juntos por el Rock, Vol\. 2](https://open.spotify.com/album/3QkDfFUpzoOUYlIo9feu9a) | 4:20 |
 | 50 | [La Luna Y El Sol](https://open.spotify.com/track/7dkFzrw3KbGK2YppluhOxd) | [Grupo G](https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8), [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [La Luna Y El Sol](https://open.spotify.com/album/2rgyAK0xQkYzhn8Rg4mjXQ) | 4:06 |
 
-Snapshot ID: `aTYVAAAAAAAHZHu99uKHJ7Ifw6z2eh9y`
+Snapshot ID: `aTdmgAAAAACq0MTmW4/41kGHfiKtI3hI`

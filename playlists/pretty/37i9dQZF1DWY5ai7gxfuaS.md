@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The future of metal is here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,477 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,493 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 20 | [Laid to Rest \- HEALTH Remix](https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Laid to Rest \(HEALTH Remix\)](https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K) | 2:38 |
 | 21 | [crying](https://open.spotify.com/track/2WrRYFKJEL15GBkgJQT7k0) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [crying](https://open.spotify.com/album/5VGqp5e9AbRnjpBVxJIPqp) | 3:07 |
 | 22 | [Stuck In My Ways](https://open.spotify.com/track/5qCyEApbDw5dzM7Gq5ouhw) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Cheaper Than Therapy](https://open.spotify.com/album/5v0QcUpjf2ucFObuv9Tpgb) | 4:48 |
-| 23 | [V.A.N](https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [V.A.N](https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM) | 4:34 |
+| 23 | [Dopamine](https://open.spotify.com/track/7y9USehMh5BWR0tWXsXJ5K) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [From Voodoo to Zen](https://open.spotify.com/album/3kxzriTUAvJklocJHG7GH8) | 4:49 |
 | 24 | [Venom](https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Venom](https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP) | 3:35 |
-| 25 | [Dopamine](https://open.spotify.com/track/7y9USehMh5BWR0tWXsXJ5K) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [From Voodoo to Zen](https://open.spotify.com/album/3kxzriTUAvJklocJHG7GH8) | 4:49 |
-| 26 | [In Limbo](https://open.spotify.com/track/47PYHSLF6jGxUxDXoUFs2v) | [Revnoir](https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB) | [In Limbo](https://open.spotify.com/album/4tNRCmCPj37qUhIeoTlzUv) | 4:36 |
+| 25 | [In Limbo](https://open.spotify.com/track/47PYHSLF6jGxUxDXoUFs2v) | [Revnoir](https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB) | [In Limbo](https://open.spotify.com/album/4tNRCmCPj37qUhIeoTlzUv) | 4:36 |
+| 26 | [V.A.N](https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [V.A.N](https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM) | 4:34 |
 | 27 | [Learn To Forget](https://open.spotify.com/track/5hxWel7I4T6mlEMP1YFG2m) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Learn To Forget](https://open.spotify.com/album/0wYHmySvVY3n0W9L2UX1T5) | 3:01 |
 | 28 | [As They Bloom](https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [As They Bloom](https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ) | 3:57 |
 | 29 | [Caterpillar](https://open.spotify.com/track/5IYf2klca6lYyOj7jhjF5j) | [Hollow](https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt) | [Caterpillar](https://open.spotify.com/album/1su4sMJNmHerXssClObphO) | 3:25 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 50 | [Moot](https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz), [Morgan Lander](https://open.spotify.com/artist/6UmXnQCZQvayT1eZxAIvz5) | [Moot](https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ) | 4:05 |
 | 51 | [Soul Revolution](https://open.spotify.com/track/3OMaAVh09E6AgvevhWybRP) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution](https://open.spotify.com/album/4JNGZre3bq4Fgmy0zUkOel) | 3:34 |
 | 52 | [Frost \(C\)](https://open.spotify.com/track/24jWKZE0j30z3LlnzArFf2) | [sunn O\)\)\)](https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J) | [Pyroclasts](https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f) | 10:56 |
-| 53 | [Oportunista](https://open.spotify.com/track/5j6GKJumEweQIpE91QZcby) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Oportunista](https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh) | 3:08 |
-| 54 | [FUCK WITH A WITCH 2](https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FUCK WITH A WITCH 2](https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e) | 1:30 |
+| 53 | [FUCK WITH A WITCH 2](https://open.spotify.com/track/3S38ENcItSgp1NGqxZn01C) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FUCK WITH A WITCH 2](https://open.spotify.com/album/2ZfQhbjBKK9MAEoUO3Vj2e) | 1:30 |
+| 54 | [Oportunista](https://open.spotify.com/track/5j6GKJumEweQIpE91QZcby) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Oportunista](https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh) | 3:08 |
 | 55 | [Lost](https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Lost](https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ) | 8:11 |
 | 56 | [HIGHER POWER](https://open.spotify.com/track/7DgbryJIzvkjsXKhteGrKz) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [HIGHER POWER](https://open.spotify.com/album/6WTTG3Lz51QlbpyY9AeYDJ) | 2:43 |
 | 57 | [Bloodsuckers](https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [BLOODSUCKERS](https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb) | 3:22 |

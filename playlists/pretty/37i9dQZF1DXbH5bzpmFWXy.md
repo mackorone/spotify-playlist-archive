@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Porque el barrio es el barrio y eso nadie nos lo va a cambiar..\. CAPO en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,442 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,433 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 25 | [Money Trees](https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [good kid, m.A.A.d city](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) | 6:26 |
 | 26 | [Mi Última Venganza](https://open.spotify.com/track/0jteQrCsuLwAJAMEZdr8dU) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Mi Última Venganza](https://open.spotify.com/album/6wfOTvn87F3laVFBRJdLtm) | 3:33 |
 | 27 | [Diamantes](https://open.spotify.com/track/0JDrG1g5HXbfgGtRKT0ofH) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 3:31 |
-| 28 | [CRAZYZ](https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:24 |
-| 29 | [El Mayor de los Ranas](https://open.spotify.com/track/5E3T0hZ77NXXUtXJocRIOc) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf), [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [El Mayor de los Ranas](https://open.spotify.com/album/6Q3K1pFpo5jX2AYrWs9q4h) | 2:52 |
+| 28 | [El Mayor de los Ranas](https://open.spotify.com/track/5E3T0hZ77NXXUtXJocRIOc) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf), [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [El Mayor de los Ranas](https://open.spotify.com/album/6Q3K1pFpo5jX2AYrWs9q4h) | 2:52 |
+| 29 | [CRAZYZ](https://open.spotify.com/track/4zfQER4owi8q6NL8Gg63Ya) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:24 |
 | 30 | [Triple Lavada](https://open.spotify.com/track/6uroNiDEDd0xFLiri0aQNk) | [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ) | [Triple Lavada](https://open.spotify.com/album/1rsjecCzLbJS7YVALG6I7P) | 2:45 |
 | 31 | [ROSONES](https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC) | [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [ROSONES](https://open.spotify.com/album/7bbz3rXYWKPW2Hq8mTaDen) | 2:58 |
 | 32 | [O Me Voy O Te Vas](https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [O Me Voy O Te Vas](https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97) | 4:02 |
@@ -97,13 +97,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 87 | [F\*CK](https://open.spotify.com/track/3UTNyW14rwM6rJHjliuJSP) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [EXCENTRICON](https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH) | 2:07 |
 | 88 | [Sin Yolanda](https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:10 |
 | 89 | [El Chamaquito](https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [El Chamaquito](https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp) | 2:19 |
-| 90 | [La Brabus](https://open.spotify.com/track/2Of9oTzvMLeaSncjYf4TDC) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [La Brabus](https://open.spotify.com/album/3TA3TzlJWGWecdKyERJC72) | 3:29 |
-| 91 | [Heartz Of Men](https://open.spotify.com/track/6VAdOq9sndm8QQqXx4BhkK) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:43 |
+| 90 | [Heartz Of Men](https://open.spotify.com/track/6VAdOq9sndm8QQqXx4BhkK) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:43 |
+| 91 | [La Brabus](https://open.spotify.com/track/2Of9oTzvMLeaSncjYf4TDC) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [La Brabus](https://open.spotify.com/album/3TA3TzlJWGWecdKyERJC72) | 3:29 |
 | 92 | [Capuchas](https://open.spotify.com/track/2aKIZtzWNPRoDLkITdxGaB) | [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu) | [Capuchas](https://open.spotify.com/album/5g1hYqFTKyktDQ6YMAEJut) | 2:37 |
 | 93 | [Como Pancho Villa](https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Como Pancho Villa](https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob) | 2:23 |
 | 94 | [Abayarde](https://open.spotify.com/track/4AUMwz00G4hFZxY26MyoWV) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 3:22 |
-| 95 | [Lamine Yamal](https://open.spotify.com/track/4pN10u9cyHuPLGtWEc55gY) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Lamine Yamal](https://open.spotify.com/album/7fmh1oNqZT1aIpUS5tie5J) | 2:43 |
-| 96 | [La Despedida](https://open.spotify.com/track/192yg3gYKtLi5eXlJcsSS8) | [Ganggy](https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py) | [La Despedida](https://open.spotify.com/album/1o82wmTMEaupi5ZpcgkRVB) | 2:28 |
+| 95 | [La Despedida](https://open.spotify.com/track/192yg3gYKtLi5eXlJcsSS8) | [Ganggy](https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py) | [La Despedida](https://open.spotify.com/album/1o82wmTMEaupi5ZpcgkRVB) | 2:28 |
+| 96 | [Lamine Yamal](https://open.spotify.com/track/4pN10u9cyHuPLGtWEc55gY) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Lamine Yamal](https://open.spotify.com/album/7fmh1oNqZT1aIpUS5tie5J) | 2:43 |
 | 97 | [OKRA](https://open.spotify.com/track/74ZovzRxHBvCq5yIwe8boh) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [OKRA](https://open.spotify.com/album/0dXN05tQ4StX1W0lwN95Q6) | 2:31 |
 | 98 | [Sold Out](https://open.spotify.com/track/7EVpvxlgcBcXl8HBBnG0kx) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Sold Out](https://open.spotify.com/album/5XUjM0qIqjfCQ9itrQPfFi) | 3:18 |
 | 99 | [Lujo y Detalle](https://open.spotify.com/track/0GuXQhMkgAviHsjaMoqdAp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Lujo y Detalle](https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj) | 2:38 |

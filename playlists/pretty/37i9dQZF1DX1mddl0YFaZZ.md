@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mddl0YFaZZ.md) - [plain]
 
 > Que comience la fiesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,153 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,176 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mddl0YFaZZ.md) - [plain]
 | 42 | [Latinos](https://open.spotify.com/track/6RpkUBv1KKsJBWf3gmQ1R9) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [Latinos](https://open.spotify.com/album/4X2X6pUs1ToRCn4pz501PP) | 5:29 |
 | 43 | [Fiesta Caliente](https://open.spotify.com/track/37EJvPSMOhOs46HEyweZNW) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Ilegales](https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg) | 4:40 |
 | 44 | [Como Yo](https://open.spotify.com/track/6lukSvy0Oh4oImuY0ihOvH) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc) | 3:25 |
-| 45 | [Tra Tra](https://open.spotify.com/track/7m8n9cq3ooZiZbLSv7MFx5) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [La Vaca](https://open.spotify.com/album/362VvoXxnrHRg6FLhwRdHC) | 4:06 |
-| 46 | [La Fiesta](https://open.spotify.com/track/7yEzrqSsvmAQGpEQtl1UYp) | [Sandy & Papo](https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B) | [Otra Vez](https://open.spotify.com/album/0uvSlEKM2qrg3ZGqNvryKb) | 4:40 |
+| 45 | [La Fiesta](https://open.spotify.com/track/7yEzrqSsvmAQGpEQtl1UYp) | [Sandy & Papo](https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B) | [Otra Vez](https://open.spotify.com/album/0uvSlEKM2qrg3ZGqNvryKb) | 4:40 |
+| 46 | [Tra Tra](https://open.spotify.com/track/7m8n9cq3ooZiZbLSv7MFx5) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [La Vaca](https://open.spotify.com/album/362VvoXxnrHRg6FLhwRdHC) | 4:06 |
 | 47 | [Cuarto de Hotel](https://open.spotify.com/track/14O3hLuJMDRC8800QjuILq) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [12 Golden Hits](https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI) | 4:58 |
 | 48 | [Linda Eh](https://open.spotify.com/track/42huCGPeBRGBRMmc72ZWsE) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [Originales](https://open.spotify.com/album/0iYfoInNEmGbbEIksf1PCu) | 4:10 |
 | 49 | [La Ultima Vez](https://open.spotify.com/track/1SUxJZSudxSyzbRvCWKkrp) | [Magic Juan](https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [La Prueba](https://open.spotify.com/album/7ugP0PYeR513RDLnzIaJVE) | 4:18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 
 > Grandes hinos da música brasileira para animar sua pista de dança!
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,890 likes - 57 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,912 likes - 57 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1oTjVZnUYT3.md) - [plain]
 | 32 | [Ovelha Negra](https://open.spotify.com/track/5xpumjGGcdWvqWxYVrd7jI) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [Fruto Proibido](https://open.spotify.com/album/48SnM2iORxlYTyCefwJZvs) | 5:38 |
 | 33 | [Trem Das Onze](https://open.spotify.com/track/5JSNcb3MwTxkDH4mrYKnHG) | [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Para Sempre](https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF) | 3:05 |
 | 34 | [O Show Tem Que Continuar \- Ao Vivo](https://open.spotify.com/track/4IhgFq4UseWi8RNH7OCZmv) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Ao Vivo No Parque Madureira \(Deluxe\)](https://open.spotify.com/album/3thGMOkqtJew544FUk6S7O) | 3:36 |
-| 35 | [Na Cadência Do Samba](https://open.spotify.com/track/11gIxacOHnCVPL0dZ3xOnC) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Vamos Pro Mundo](https://open.spotify.com/album/1g7A2Bmagu0IelCeIYDF2k) | 3:29 |
+| 35 | [Lindo Lago Do Amor](https://open.spotify.com/track/2zvTzaa6cOB8YQ8x3GUndf) | [Gonzaguinha](https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe) | [Bis \(Dois CDs\)](https://open.spotify.com/album/4aqhBQ04DpXEy9PKRKHvrq) | 4:09 |
 | 36 | [Canto Das Três Raças](https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Retratos](https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX) | 4:21 |
-| 37 | [Lindo Lago Do Amor](https://open.spotify.com/track/2zvTzaa6cOB8YQ8x3GUndf) | [Gonzaguinha](https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe) | [Bis \(Dois CDs\)](https://open.spotify.com/album/4aqhBQ04DpXEy9PKRKHvrq) | 4:09 |
+| 37 | [Na Cadência Do Samba](https://open.spotify.com/track/11gIxacOHnCVPL0dZ3xOnC) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Vamos Pro Mundo](https://open.spotify.com/album/1g7A2Bmagu0IelCeIYDF2k) | 3:29 |
 | 38 | [À Francesa](https://open.spotify.com/track/3dRU9xurI1QoVDs9FUHenD) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Marina Rock Lima](https://open.spotify.com/album/4qpHcaQHNLmPS2sM93TekF) | 4:08 |
 | 39 | [Lucro \(Descomprimindo\)](https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5) | [Duas Cidades](https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI) | 4:06 |
 | 40 | [Eu Vou Fazer Você Voar](https://open.spotify.com/track/2RzuiQcbRYMK4HlnhzSmDF) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [Eu Vou Fazer Você Voar](https://open.spotify.com/album/0nPbgnOviIflX7LUqqlREF) | 3:36 |

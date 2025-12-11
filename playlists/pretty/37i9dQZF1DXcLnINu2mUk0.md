@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Aragão
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,034 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,041 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 54 | [À Procura](https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Violetta](https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58) | 2:32 |
 | 55 | [Chamadas](https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Chamadas](https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH) | 2:36 |
 | 56 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
-| 57 | [Solteiros](https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Solteiros](https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md) | 2:59 |
-| 58 | [Já Não Aguento](https://open.spotify.com/track/4EKGPKSAzzwjoLYPD9xyWL) | [Dolce](https://open.spotify.com/artist/2XGXbQFvAcvkqXYATSNO4P) | [XVIII](https://open.spotify.com/album/1URmVSVwz1OAINOAv5gZtp) | 3:01 |
-| 59 | [Animal](https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Prodígio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [Animal](https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs) | 3:18 |
+| 57 | [Já Não Aguento](https://open.spotify.com/track/4EKGPKSAzzwjoLYPD9xyWL) | [Dolce](https://open.spotify.com/artist/2XGXbQFvAcvkqXYATSNO4P) | [XVIII](https://open.spotify.com/album/1URmVSVwz1OAINOAv5gZtp) | 3:01 |
+| 58 | [Animal](https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Prodígio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [Animal](https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs) | 3:18 |
+| 59 | [Solteiros](https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Solteiros](https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md) | 2:59 |
 | 60 | [Olhar](https://open.spotify.com/track/0FcroTfQvvXDfnEh0KUJfb) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Olhar](https://open.spotify.com/album/2YSlXAnI7ssYmEVpPYm1Cm) | 3:39 |
 | 61 | [Pé Descalço](https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Pé Descalço](https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d) | 3:34 |
 | 62 | [Último beijo](https://open.spotify.com/track/3m8LPSShjmdTfBUGEbzqKZ) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Entre Nós](https://open.spotify.com/album/7q80jsMSioWhMiDLUOdm0M) | 3:16 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 69 | [Semana](https://open.spotify.com/track/7LpBGg0rRw0TqQNhPN31Zc) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Amanheceu](https://open.spotify.com/album/2esz1lg35mDAU8SrNlxrGr) | 2:41 |
 | 70 | [Não dá pa parar](https://open.spotify.com/track/5xIjSTfo5vK70n17mD0BNG) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Não dá pa parar](https://open.spotify.com/album/4Y3s0dztnVJB2l05OclX2H) | 3:13 |
 | 71 | [Pa Sempre](https://open.spotify.com/track/2Wa6u5amiftMSpAVKDr3Qp) | [Ne Jah](https://open.spotify.com/artist/4ZVxO3ClFvgb4f7HUD74HL), [Rislene](https://open.spotify.com/artist/2323qzOfGL0pQYXoLdz8PR) | [Pa Sempre](https://open.spotify.com/album/18dGvU6h50URVrpWBrgbkK) | 3:11 |
-| 72 | [Chama](https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Chama](https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7) | 2:33 |
+| 72 | [festa bem louca](https://open.spotify.com/track/46lo7mHkfFQpd3i6C6FPDS) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [festa bem louca](https://open.spotify.com/album/6hrtxc3kFO5yg7Q4LEAD2l) | 3:08 |
 | 73 | [Mô Amigo](https://open.spotify.com/track/5mhziTrfQyDb1JyI49Dkzl) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX) | [Mô Amigo](https://open.spotify.com/album/1vEPKPc7BEPhCqVvNqtfOB) | 2:41 |
-| 74 | [longe.com](https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [longe.com](https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA) | 3:17 |
-| 75 | [Berço de Ouro](https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Berço de Ouro](https://open.spotify.com/album/68v70mBGjLi5hN1y7xrrlv) | 2:57 |
+| 74 | [Chama](https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Chama](https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7) | 2:33 |
+| 75 | [Não Te Devo Nada](https://open.spotify.com/track/0tmjXLdKG29vRtUOxTr2Su) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Não Te Devo Nada](https://open.spotify.com/album/1o0o6urQAdFwtmz2DVLXjC) | 4:09 |
 
 Snapshot ID: `AAAAAOvT6Ftgl5mLZ3J8GQqDn4ib4NcY`

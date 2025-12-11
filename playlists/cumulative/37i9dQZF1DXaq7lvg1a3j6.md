@@ -4,7 +4,7 @@
 
 > Let these songs soundtrack your busy wedding season.
 
-110 songs - 6 hr 43 min
+111 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Punjabi Wedding Song](https://open.spotify.com/track/69iDTIABXobqbl8zJOp8dq) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Hasee Toh Phasee \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PxXJhlxSQkj8JO7IXy0FE) | 3:53 | 2021-10-29 | 2024-05-03 |
 | [Pyaar Hota Kayi Baar Hai](https://open.spotify.com/track/7zXcLSiKnMtmrmRQ0DieS9) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Tu Jhoothi Main Makkaar](https://open.spotify.com/album/1t1gWslYejaaqicumEbdKU) | 3:36 | 2024-05-02 |  |
 | [Ra Ra Reddy](https://open.spotify.com/track/3CltdQnB1NJuE5khm0d6r7) | [Tarannum Mallik Jain](https://open.spotify.com/artist/4ZourJRcQTpIL5haRgvyWl), [Harry Anand](https://open.spotify.com/artist/6u8WDhZmfLcGVyknPoLrrY) | [Macharla Chunaav Kshetra \(M.C.K\)](https://open.spotify.com/album/0qRXOBFcg6JaeECfILhtvz) | 4:19 | 2022-12-09 | 2023-11-21 |
+| [Raanjhanaa \(From "Raanjhanaa"\)](https://open.spotify.com/track/5OMUXgfXsSukZ0zxelpC3b) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Jaswinder Singh](https://open.spotify.com/artist/2IP4wcE4hRbDi1zdV8Si6g), [Shiraz Uppal](https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy) | [Raanjhanaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/24C47633GRlozws7WBth7t) | 4:14 | 2025-12-10 |  |
 | [Radha](https://open.spotify.com/track/6f7zyAEUCZuvX4Zty62Z5o) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [Student of the Year \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy) | 5:41 | 2021-10-29 |  |
 | [Raula Raula](https://open.spotify.com/track/59wwFmFLincPeHJZMp7wZ2) | [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Davvy Singh](https://open.spotify.com/artist/5Kq8UpbqjCdPBGshVrYnsc) | [Bad Newz](https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW) | 2:54 | 2024-07-17 | 2025-07-15 |
 | [Rum Whisky](https://open.spotify.com/track/0TGScsAOiGmfjDtRshCxiz) | [Akshay Verma](https://open.spotify.com/artist/3ccCdve0mLFea7EwmUiY06) | [Vicky Donor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/71DVhsBjMZWwTk18SeQhip) | 4:04 | 2023-09-25 | 2024-04-19 |

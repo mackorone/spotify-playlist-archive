@@ -4188,7 +4188,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -4618,7 +4618,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 252960,
       "name": "Fernando",
       "url": "https://open.spotify.com/track/6zeWfgymg7GMKRaKbpi0PX"
@@ -5032,6 +5032,40 @@
       "duration_ms": 150000,
       "name": "Free (feat. Starsplash)",
       "url": "https://open.spotify.com/track/1Juo1H8h7Gbg4m0d9qOdxq"
+    },
+    {
+      "album": {
+        "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
+        "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
+      },
+      "artists": [
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "Nightcrawlers",
+          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
+        },
+        {
+          "name": "Mufasa & Hypeman",
+          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
+        },
+        {
+          "name": "Mufasa",
+          "url": "https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU"
+        },
+        {
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169153,
+      "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
+      "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
     },
     {
       "album": {
@@ -6494,6 +6528,24 @@
       "duration_ms": 213040,
       "name": "I Surrender - Remix",
       "url": "https://open.spotify.com/track/7GDEIrIOGdE5AkQfuk1FA3"
+    },
+    {
+      "album": {
+        "name": "Tiffany",
+        "url": "https://open.spotify.com/album/0ORrRtBqjERyBBZWSsSw9C"
+      },
+      "artists": [
+        {
+          "name": "Tiffany",
+          "url": "https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228840,
+      "name": "I Think We're Alone Now",
+      "url": "https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY"
     },
     {
       "album": {
@@ -8504,7 +8556,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 140689,
       "name": "Mac of Kentucky - Remix",
       "url": "https://open.spotify.com/track/1I3kc0antKgJUR1YtEZTaK"
@@ -11462,7 +11514,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 339000,
       "name": "Piano Man",
       "url": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ"
@@ -14600,7 +14652,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-11",
       "duration_ms": 117583,
       "name": "TNAWIES",
       "url": "https://open.spotify.com/track/07zIEXphyaKpjL5J3yLg0X"
@@ -16188,6 +16240,24 @@
       "duration_ms": 203567,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/5rnA7GuOZvPWYHuydZ08zx"
+    },
+    {
+      "album": {
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226283,
+      "name": "Who Knows",
+      "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48"
     },
     {
       "album": {

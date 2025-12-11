@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1429035,
+  "num_followers": 1429200,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTYVAAAAAAD86kZow1HCxMpZ7+yiLj6I",
+  "snapshot_id": "aTdmgAAAAAA/A/ki88iiTb22P7LjjQLn",
   "tracks": [
     {
       "added_at": null,
@@ -279,26 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0"
-      },
-      "artists": [
-        {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 284733,
-      "name": "American Boy",
-      "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Late Registration",
         "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 236600,
       "name": "Touch The Sky",
       "url": "https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/1fpyVGMhF1vdl4XTFo1IH0"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 284733,
+      "name": "American Boy",
+      "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh"
     },
     {
       "added_at": null,
@@ -851,30 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hip Hop Is Dead (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7sHrPadM39466NY7DW3s4r"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Chrisette Michele",
-          "url": "https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Still Dreaming",
-      "url": "https://open.spotify.com/track/72nLaDnt2dfxCA3ZAiEC2c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
@@ -895,6 +871,30 @@
       "duration_ms": 357653,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/23SZWX2IaDnxmhFsSLvkG2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hip Hop Is Dead (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7sHrPadM39466NY7DW3s4r"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Chrisette Michele",
+          "url": "https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Still Dreaming",
+      "url": "https://open.spotify.com/track/72nLaDnt2dfxCA3ZAiEC2c"
     },
     {
       "added_at": null,

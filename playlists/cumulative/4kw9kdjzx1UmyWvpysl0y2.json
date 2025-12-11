@@ -3727,6 +3727,28 @@
     },
     {
       "album": {
+        "name": "Caught Between",
+        "url": "https://open.spotify.com/album/1eJ9aC4RMU10ZtBBTbw4on"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        },
+        {
+          "name": "Elipsa",
+          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213931,
+      "name": "Caught Between",
+      "url": "https://open.spotify.com/track/36oJ6fOZHn0dEjGY9EPb9y"
+    },
+    {
+      "album": {
         "name": "Changing",
         "url": "https://open.spotify.com/album/3YQ1hVACVI6ZQmkLvDj0O9"
       },

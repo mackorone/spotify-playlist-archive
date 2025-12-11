@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Algebra",
+        "url": "https://open.spotify.com/album/6EjjadiT6PZLInrMyr6gsy"
+      },
+      "artists": [
+        {
+          "name": "Tellaro",
+          "url": "https://open.spotify.com/artist/40eY19JGg5JAtZ0FwDNOx7"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253062,
+      "name": "Algebra",
+      "url": "https://open.spotify.com/track/1vLEUjeuQeLI4GX3eLSkqY"
+    },
+    {
+      "album": {
         "name": "Trans",
         "url": "https://open.spotify.com/album/1T2lmX3LY6Vrw0ZMI6eYry"
       },

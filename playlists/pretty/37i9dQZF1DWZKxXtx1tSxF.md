@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 
 > Un mix de reggae y buena vibra para ver caer el sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,199 likes - 70 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,206 likes - 70 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 | 28 | [Orillas](https://open.spotify.com/track/7gP7A6Fz8easI7b0qxZPAw) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Tiempos de Tribulacion](https://open.spotify.com/album/2nQvDkJgU47Ghb59zb0UVK) | 6:03 |
 | 29 | [Bésame Morenita](https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bésame Morenita](https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5) | 2:45 |
 | 30 | [Dubby Sunday](https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dubby Sunday](https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt) | 5:48 |
-| 31 | [Hablar de Ti](https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 3:25 |
-| 32 | [Todo Lo Que Se Fue](https://open.spotify.com/track/4B7SpIO8nXOzz8I8tkovqW) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Todo Lo Que Se Fue](https://open.spotify.com/album/5b6PeL5h1CFlENO13RKt4r) | 3:21 |
+| 31 | [Todo Lo Que Se Fue](https://open.spotify.com/track/4B7SpIO8nXOzz8I8tkovqW) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Todo Lo Que Se Fue](https://open.spotify.com/album/5b6PeL5h1CFlENO13RKt4r) | 3:21 |
+| 32 | [Hablar de Ti](https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 3:25 |
 | 33 | [Llévame](https://open.spotify.com/track/30WCJ59jYKihaG8kgYEO9S) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Llévame \(Cultura Remix\)](https://open.spotify.com/album/4Mh08dkc99DlRwpSu1Rkzy) | 4:24 |
 | 34 | [Lo Quiero Todo](https://open.spotify.com/track/6gpLTvmHWj12Z03hFgixkH) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT) | [Civilizado Como Los Animales](https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW) | 3:47 |
 | 35 | [No Te Fumes Mi Mariguana](https://open.spotify.com/track/0LFjHJnsZd1B6KPnvTmIVy) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 4:30 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 | 49 | [Uchi Wala](https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TumbaGobierno](https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr) | 3:12 |
 | 50 | [Cómo Te Hago Entender](https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Cómo Te Hago Entender](https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg) | 2:39 |
 | 51 | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU) | 3:41 |
-| 52 | [Gozar Hasta Que Me Ausente](https://open.spotify.com/track/5w3cYdQqHeMoVKjLcjKqfY) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [Gozar Hasta Que Me Ausente](https://open.spotify.com/album/7lv24E1PaqBcJdGopRCziP) | 4:02 |
-| 53 | [Libre](https://open.spotify.com/track/0PYSofowguTFMrl9aA3tZx) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Libre](https://open.spotify.com/album/1BYKAAHjo0MWRUSIAr8tjw) | 3:31 |
+| 52 | [Libre](https://open.spotify.com/track/0PYSofowguTFMrl9aA3tZx) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Libre](https://open.spotify.com/album/1BYKAAHjo0MWRUSIAr8tjw) | 3:31 |
+| 53 | [Gozar Hasta Que Me Ausente](https://open.spotify.com/track/5w3cYdQqHeMoVKjLcjKqfY) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [Gozar Hasta Que Me Ausente](https://open.spotify.com/album/7lv24E1PaqBcJdGopRCziP) | 4:02 |
 | 54 | [Consentimiento](https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Mamita Peyote](https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H) | 4:31 |
 | 55 | [Vengo](https://open.spotify.com/track/7vVgLKKzXDnuyw7it8SqpP) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Polen](https://open.spotify.com/album/1rD9bUmZqj20KBJ4zmcfFN) | 3:00 |
 | 56 | [Hasta Que Me Olvides](https://open.spotify.com/track/4VzXJFzevMYeWTqSfIefJF) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Hasta Que Me Olvides](https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j) | 4:15 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 | 67 | [Como la Flor](https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Como la Flor](https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW) | 3:29 |
 | 68 | [Otro Cuento](https://open.spotify.com/track/0SDaLNs1YB1ocpgD2aQ3Sy) | [Rastacuando](https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO) | [Obvio Sí](https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h) | 3:10 |
 | 69 | [Besos de Limón](https://open.spotify.com/track/6OFLfh8JGk19XO7w0bnVio) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Besos de Limón](https://open.spotify.com/album/1Enr4SWH5n5D78TskeugFA) | 3:29 |
-| 70 | [Quiero Saber Quién Es Tu Novi@](https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [¿Si Le Doy Zoom, Puedo Ver África?](https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox) | 2:40 |
+| 70 | [Torito](https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Torito](https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4) | 3:16 |
 
 Snapshot ID: `AAAAADzdplF7QUXdlX2teRCS+dohX566`

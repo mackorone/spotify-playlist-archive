@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 
 > 昭和の時代を彩ったアニメソングを特集。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,334 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,354 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vLvDasGaf5.md) - [plain]
 | 47 | [疾風ザブングル](https://open.spotify.com/track/6bHQ2ATgJUYLkAUcDHulie) | [Akira Kushida](https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD) | [戦闘メカ ザブングル オリジナル・サウンドトラック Vol.1](https://open.spotify.com/album/7I65ZBzqRIHelSfY79Dl1N) | 3:44 |
 | 48 | [夢色チェイサー\(Single Version\)](https://open.spotify.com/track/3OcGWymNkOoeRVbs3aUL6a) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [MELTING POINT](https://open.spotify.com/album/0d582RFpgLNzWqokg4JCOv) | 3:33 |
 | 49 | [Step](https://open.spotify.com/track/1WKnB6PMVXX1sDM7LbMmEA) | [a・chi\-a・chi](https://open.spotify.com/artist/5Y4fI5GeYbkosiHFTxZrfi) | [Step](https://open.spotify.com/album/1LfeYAb1OmWYI12f180QJd) | 4:19 |
-| 50 | [キューティーハニー \(21st century ver.\)](https://open.spotify.com/track/5oKN0dSqchJLppkpmLkrfw) | [前川 陽子](https://open.spotify.com/artist/5BSKeGPD9csM7p98eeQOkd) | [キューティーハニー \(21st century ver.\)](https://open.spotify.com/album/66hoWGqIQBFii2UTW7srOY) | 3:05 |
+| 50 | [リンゴの森の子猫たち](https://open.spotify.com/track/3tHYALAtyNsJsR641c6T36) | [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [スプーンおばさん 音楽集](https://open.spotify.com/album/2tn11xfn8ykLdxdg1SlyLN) | 2:28 |
 
 Snapshot ID: `AAAAAH8VITlEKzhdQqHpkq54N7lLP+tj`

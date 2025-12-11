@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,965 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,970 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 10 | [El Condor Pasa](https://open.spotify.com/track/4QPnKgaAx3vQJ05LGfIu2h) | [Raul Olarte](https://open.spotify.com/artist/7MMG0wFNM3j9ZPzFwJAOvU) | [Quena De Los Andes](https://open.spotify.com/album/5uzYC0tdg1kxzzbNzNq7t1) | 3:42 |
 | 11 | [La Felicidad](https://open.spotify.com/track/4FDiLM3onP5Kpd4fdz352D) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [”Zamba Puta”](https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J) | 3:55 |
 | 12 | [Baila Caporal](https://open.spotify.com/track/1YjjXAP3cWS3qWB1ijPMVJ) | [Sukay](https://open.spotify.com/artist/45MEz7t5DAOmX0o8fFKA3B) | [Encuentros \(Meetings\)](https://open.spotify.com/album/5mkXtYO19LdPQ1mzpvODQL) | 4:32 |
-| 13 | [Cometa de Luz](https://open.spotify.com/track/2CvioY7rOClmpHFC6JXeUb) | [Uña Ramos](https://open.spotify.com/artist/5zwQO1xFFpsrzqASmQ5ZAA) | [Quena de los Andes](https://open.spotify.com/album/3AG3ZBPzchv6p4FYIeIZeq) | 3:47 |
+| 13 | [Solo](https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Solo](https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU) | 3:44 |
 | 14 | [Uña](https://open.spotify.com/track/3rMTOUuuImnkGEGpN1dqlG) | [Inkuyo](https://open.spotify.com/artist/6l0qnbpSfHw1vk6tQUquDt) | [Land of the Incas \(Music of the Andes\)](https://open.spotify.com/album/5eRW6MRpmkK1jLgZGxEjAn) | 3:18 |
-| 15 | [Solo](https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Solo](https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU) | 3:44 |
+| 15 | [Cometa de Luz](https://open.spotify.com/track/2CvioY7rOClmpHFC6JXeUb) | [Uña Ramos](https://open.spotify.com/artist/5zwQO1xFFpsrzqASmQ5ZAA) | [Quena de los Andes](https://open.spotify.com/album/3AG3ZBPzchv6p4FYIeIZeq) | 3:47 |
 | 16 | [Francisca Pizarro](https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Isqun](https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7) | 3:22 |
 | 17 | [Munaspaqa Suyaykuway](https://open.spotify.com/track/0RiWhE2d4F8QMKcorZsDh9) | [Jaime Guardia](https://open.spotify.com/artist/3AxPEg0Jy5U5GvgEHsI43X) | [Charango Peruano](https://open.spotify.com/album/4HVoQalB9EVdBsbeOt4Wxx) | 3:02 |
 | 18 | [Hoja de Coca](https://open.spotify.com/track/5sYYIgpT03k1EKGBSb77pa) | [Rumillajta](https://open.spotify.com/artist/6Y2Lacqni5uPW6SROD6Jlx) | [Hoja de Coca](https://open.spotify.com/album/4dDnvsVaGbiwhVVkbve4Xe) | 4:26 |
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 35 | [Qam Hina](https://open.spotify.com/track/4rRgfl70FRS1OYBD29pQa4) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Qam Hina](https://open.spotify.com/album/4iRMmNgcj155HZInt8BXxK) | 4:07 |
 | 36 | [Chica Cascada \(feat\. Mariana Päraway\)](https://open.spotify.com/track/7bPZBm7Wr6poE49MRWO30V) | [Puna](https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ), [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [Vol\. 2](https://open.spotify.com/album/4ue3QgybkfMuFP2sFk2zBP) | 5:28 |
 | 37 | [Temporal](https://open.spotify.com/track/4XuDgMcyzLFaBAeRFx1MK0) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Temporal](https://open.spotify.com/album/6oh8cAjnjKEG9VukgrxHAQ) | 4:40 |
-| 38 | [Arriba Quemando el Sol](https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym), [Maryta de Humahuaca](https://open.spotify.com/artist/4X9hWSS0vB7GeWRCtDejYc) | [Arriba Quemando el Sol](https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv) | 3:28 |
-| 39 | [Tiempo Atrás](https://open.spotify.com/track/5LJnR5ogdDceRdb0G039HD) | [Urdaneta](https://open.spotify.com/artist/5XAvWDyOxZ5TjPDQTrynFB) | [Tiempo Atrás](https://open.spotify.com/album/1de6lhpWxYRivS5xSM83gK) | 3:45 |
+| 38 | [Tiempo Atrás](https://open.spotify.com/track/5LJnR5ogdDceRdb0G039HD) | [Urdaneta](https://open.spotify.com/artist/5XAvWDyOxZ5TjPDQTrynFB) | [Tiempo Atrás](https://open.spotify.com/album/1de6lhpWxYRivS5xSM83gK) | 3:45 |
+| 39 | [Arriba Quemando el Sol](https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym), [Maryta de Humahuaca](https://open.spotify.com/artist/4X9hWSS0vB7GeWRCtDejYc) | [Arriba Quemando el Sol](https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv) | 3:28 |
 | 40 | [Baile De Máscaras](https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ) | [El Extravagante](https://open.spotify.com/artist/0b2zfVa4duZMphcIAK4EA5), [Camilo Zanetti](https://open.spotify.com/artist/4UwlY5gh79bRsYLZbD7h0l) | [Walüng II](https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY) | 4:04 |
-| 41 | [Ceguera](https://open.spotify.com/track/2mlqxHbOJ0hzBZjNfRj0ZN) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Ceguera](https://open.spotify.com/album/37VzZiemzFQd77eZo9kOfv) | 4:19 |
-| 42 | [Ay Palomita](https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Ay Palomita](https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk) | 6:31 |
-| 43 | [Sol de los Andes](https://open.spotify.com/track/03FqjvZvLyITRlrVkpgscu) | [Apurimac](https://open.spotify.com/artist/4yRx3awKST6iw13Oy84kFi) | [Melodias Andinas \- Musica Instrumental](https://open.spotify.com/album/6uO1WhrVQiOOEmpoA3QYxz) | 2:29 |
+| 41 | [Sol de los Andes](https://open.spotify.com/track/03FqjvZvLyITRlrVkpgscu) | [Apurimac](https://open.spotify.com/artist/4yRx3awKST6iw13Oy84kFi) | [Melodias Andinas \- Musica Instrumental](https://open.spotify.com/album/6uO1WhrVQiOOEmpoA3QYxz) | 2:29 |
+| 42 | [Ceguera](https://open.spotify.com/track/2mlqxHbOJ0hzBZjNfRj0ZN) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Ceguera](https://open.spotify.com/album/37VzZiemzFQd77eZo9kOfv) | 4:19 |
+| 43 | [Ay Palomita](https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Ay Palomita](https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk) | 6:31 |
 | 44 | [Kintsugi](https://open.spotify.com/track/2kJSKfA6jrrXxqmDZoWLvt) | [Pamela Rodriguez](https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC) | [Kintsugi](https://open.spotify.com/album/6CBtxsXQQKQO5jiCpysjMw) | 3:31 |
 | 45 | [Presente Simple](https://open.spotify.com/track/0VHAHQJZvo6djEvDB551Vf) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Presente Simple](https://open.spotify.com/album/5ti3NX7RmgXSSWaFJQ9eay) | 3:21 |
 | 46 | [Pajarillo Negro](https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Pajarillo Negro](https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE) | 4:02 |

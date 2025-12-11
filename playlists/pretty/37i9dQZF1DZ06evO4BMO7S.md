@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 
 > This is Japanese Breakfast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,454 likes - 41 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,461 likes - 41 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,6 +48,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 | 38 | [Psychopomp](https://open.spotify.com/track/1VeVcMCuC8f6rvsyVsi7Pj) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 1:15 |
 | 39 | [The Ewer \(Day\)](https://open.spotify.com/track/6DCm22M3hiXoNpq3WB5FWP) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 4:05 |
 | 40 | [Say It Ain't So \- Recorded At Electric Lady Studios](https://open.spotify.com/track/3rCSLDwMorMuEV368DjHCx) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Live At Electric Lady](https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ) | 4:17 |
-| 41 | [Sansee \(Night\)](https://open.spotify.com/track/7KYudibOsrr3VklTGhePqt) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 2:57 |
+| 41 | [Hakoa \(Night\)](https://open.spotify.com/track/2v7TXZL6ufZj49yXhuATlY) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 4:40 |
 
-Snapshot ID: `aTYVAAAAAAAQ4kgmV8DiWKUoF4paQn30`
+Snapshot ID: `aTdmgAAAAAAYIuLgRc1DUQnfvQnw5Dek`
