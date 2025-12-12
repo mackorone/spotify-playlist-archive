@@ -4,7 +4,7 @@
 
 > kpop com molho br / foto: Pabllo Vittar, NMIXX
 
-1,108 songs - 2 day 9 hr 34 min
+1,109 songs - 2 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Body Count](https://open.spotify.com/track/3WjHjGe1WIL7SOk1BGlXX4) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Body Count](https://open.spotify.com/album/6xL1ikHJ821Ixva9Suq4qM) | 2:56 | 2023-08-25 | 2023-11-18 |
 | [Body Do](https://open.spotify.com/track/4TiUFzVFDc17Gt0m1ktH2N) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Body Do](https://open.spotify.com/album/11PXeg2viVWXqcI4yN1wcN) | 2:22 | 2023-03-31 | 2023-06-03 |
 | [bom ator](https://open.spotify.com/track/6VrkNbCZW82ptUYPWV99sA) | [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT), [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx) | [PODERIA SER PIOR](https://open.spotify.com/album/5N0xGpXhbba4Io7PAU3MwK) | 2:21 | 2022-09-02 | 2022-09-10 |
-| [Bonde do Brunão](https://open.spotify.com/track/4mOWnjz30frv1pKMM6DNfv) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Bonde do Brunão](https://open.spotify.com/album/49avguRc9qHbWv5Gjmj4nQ) | 0:57 | 2025-06-27 |  |
+| [Bonde do Brunão](https://open.spotify.com/track/4mOWnjz30frv1pKMM6DNfv) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Bonde do Brunão](https://open.spotify.com/album/49avguRc9qHbWv5Gjmj4nQ) | 0:57 | 2025-06-27 | 2025-12-12 |
 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 | 2022-05-23 | 2023-01-14 |
 | [bonita e miserável](https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [bonita e miserável](https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK) | 2:51 | 2022-05-23 | 2022-08-06 |
 | [Borderline](https://open.spotify.com/track/164QjgWOxnSZYHQghRKeC0) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Borderline](https://open.spotify.com/album/71bAwRaSVv4NIHmY61UutA) | 3:13 | 2023-02-10 | 2023-04-29 |
@@ -935,6 +935,7 @@
 | [Talking to Yourself](https://open.spotify.com/track/1sEBlj6fYXiiaGR8XrLSbr) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Talking to Yourself](https://open.spotify.com/album/03O3E9D52ADAd2nzr3wCtb) | 2:53 | 2022-09-16 | 2022-09-24 |
 | [TAQUEI](https://open.spotify.com/track/1lspAjQFDEZckwPuwwVnj1) | [Kika Boom](https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P) | [TAQUEI](https://open.spotify.com/album/5XMPCF2nDlIVcULGoXzgJv) | 2:00 | 2022-05-23 | 2022-06-18 |
 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2024-08-30 | 2025-06-28 |
+| [TaTaTa \- Spotify Sessions](https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [KayBlack & Burna Boy \- Spotify Sessions](https://open.spotify.com/album/72I7qkTVZYZZX3WaRkXB1Z) | 2:45 | 2025-12-11 |  |
 | [Taurus \(feat\. Naomi Wild\) \- From The Motion Picture Taurus](https://open.spotify.com/track/6J3Yay84inLJ6b37lpaHFi) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg) | [Taurus \(feat\. Naomi Wild\) \[From The Motion Picture Taurus\]](https://open.spotify.com/album/5g4O8fSfK5bfRiDRV0mYhd) | 3:00 | 2022-11-29 | 2022-12-10 |
 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 | 2022-08-05 | 2022-09-03 |
 | [Te Mata](https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Te Mata](https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z) | 3:52 | 2023-10-23 | 2024-02-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Our editor's picks of the best Fresh Finds tracks by Punjabi artists this year\. Cover: Param
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,669 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,695 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 49 | [4 Peg](https://open.spotify.com/track/5oNUqBljB0cRNPXn9rioIs) | [Baaz Dhaliwal](https://open.spotify.com/artist/5W7gEJq6iQGu1GZofFOcQ5) | [4 Peg](https://open.spotify.com/album/2zT8qrj8Xuiv59GBYJn6Q6) | 2:51 |
 | 50 | [Nazare](https://open.spotify.com/track/1VAkwCW8KAa8z0IYRGYHJf) | [Bobby Janjua](https://open.spotify.com/artist/5Z39T8SrgEHsQTjxXUMQhy) | [Nazare](https://open.spotify.com/album/40XISHbnSAhxqXhl3WgmzJ) | 2:17 |
 
-Snapshot ID: `AAAAACYe04oZyqkVacJoMEQhG70J94mQ`
+Snapshot ID: `AAAAACnRp1YeOzaWogo/qO6nhTBkSFn/`

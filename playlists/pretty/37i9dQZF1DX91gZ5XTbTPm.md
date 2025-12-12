@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Polo G
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,208 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,244 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 55 | [Stolen V \(First Day Out\)](https://open.spotify.com/track/15bJTrI0SM59eWr3jNsgli) | [FullyChop](https://open.spotify.com/artist/3NVubm0PxfuLTmokAlOufp) | [Stolen V \(First Day Out\)](https://open.spotify.com/album/5cXVK7vXbiQaSTxmwKiPR1) | 1:43 |
 | 56 | [Genuine](https://open.spotify.com/track/5QR8HHEubK05X6yGRNrX8d) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 2:06 |
 | 57 | [It Get Deeper Pt\. 3 \(with Doughboy Clay\)](https://open.spotify.com/track/2UftRQxBVi0hcdpTZMppD1) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Doughboy Clay](https://open.spotify.com/artist/7cwxgRf1sVsGTg0Dr8Njzo) | [It Get Deeper Pt\. 3 \(with Doughboy Clay\)](https://open.spotify.com/album/4USC8g2dANqI6XCAHii83Y) | 2:55 |
-| 58 | [no dreads](https://open.spotify.com/track/03S9MO1uTXYLpomfwNllD9) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [no dreads](https://open.spotify.com/album/0lDdzE3vnbDrS4djy72pqI) | 1:57 |
+| 58 | [no dreads](https://open.spotify.com/track/03S9MO1uTXYLpomfwNllD9) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [no dreads](https://open.spotify.com/album/0lDdzE3vnbDrS4djy72pqI) | 1:57 |
 | 59 | [Feel Bad \(feat\. G Herbo\)](https://open.spotify.com/track/3vopZj6osuP21LtAmCUTJs) | [Raq baby](https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [I NEVER GAVE AF](https://open.spotify.com/album/5U0od07DPyVqElA9cbO364) | 2:54 |
 | 60 | [World Boss](https://open.spotify.com/track/0gC6ZI3cFxHP7Hor3nMO3b) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [World Boss](https://open.spotify.com/album/0rH4QhzdNFrGWKYCIFJZPa) | 3:04 |
 | 61 | [Inherited Neglect](https://open.spotify.com/track/7CwaQKB6ZVGxQLtXvI02cI) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Help](https://open.spotify.com/album/4olq9d2EoVpnvR2wPNDnW3) | 2:30 |

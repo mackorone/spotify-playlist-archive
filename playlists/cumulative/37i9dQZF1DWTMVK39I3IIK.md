@@ -2,9 +2,9 @@
 
 ### [ung kniv ](https://open.spotify.com/playlist/37i9dQZF1DWTMVK39I3IIK)
 
-> de skarpeste knive i dansk musik  📸  144hz
+> de skarpeste knive i dansk musik  📸  Barbro
 
-370 songs - 18 hr 52 min
+371 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Brænder Stadig](https://open.spotify.com/track/1jTAvx5ch0MmX8QT75uyXf) | [Guldimund](https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw) | [Dem, Vi Plejede At Være](https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm) | 3:08 | 2024-06-27 | 2025-02-07 |
 | [Butterfly Street](https://open.spotify.com/track/5G86JqNPfvJ3Fm2z2OltUZ) | [LILLI](https://open.spotify.com/artist/4QXIOyqIXDfC6gGWfFkous) | [Butterfly Street](https://open.spotify.com/album/16wE26QmYI0HVpOfqjxJR0) | 2:46 | 2024-08-15 | 2024-09-20 |
 | [Bænkevarmer](https://open.spotify.com/track/5rfWrweJSSVvC4Mg7opz8I) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Bænkevarmer](https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd) | 3:25 | 2024-06-27 | 2024-09-07 |
-| [Carbon Citybike](https://open.spotify.com/track/4ODFPNyr26WfaOuuEoKy68) | [144Hz](https://open.spotify.com/artist/2uPlJ3yxYEb2GjdbOb018e) | [Carbon Citybike](https://open.spotify.com/album/1aZeULhPKP9RnwTTBTYj4Q) | 3:07 | 2025-11-27 |  |
+| [Carbon Citybike](https://open.spotify.com/track/4ODFPNyr26WfaOuuEoKy68) | [144Hz](https://open.spotify.com/artist/2uPlJ3yxYEb2GjdbOb018e) | [Carbon Citybike](https://open.spotify.com/album/1aZeULhPKP9RnwTTBTYj4Q) | 3:07 | 2025-11-27 | 2025-12-12 |
 | [Caroline](https://open.spotify.com/track/49LGe1i7eznRGUyOHD4tVM) | [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [Caroline](https://open.spotify.com/album/32mo9QQbaLGnv7C8kXMNxx) | 3:10 | 2024-08-29 | 2024-11-05 |
 | [Carpe Diem](https://open.spotify.com/track/1oPPitVFMTVDfnhFBtLeST) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Carpe Diem](https://open.spotify.com/album/2jSL1N3Bknmp8AWPc8hSZN) | 2:58 | 2025-03-07 | 2025-10-10 |
 | [Carry\-On Bag](https://open.spotify.com/track/2ljmp1g7ytAuiTGFBFsKs0) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Carry\-On Bag](https://open.spotify.com/album/3k7DigGwe8jF4hXpWujNhm) | 3:38 | 2025-05-15 | 2025-07-13 |
@@ -367,6 +367,7 @@
 | [Waiting For You](https://open.spotify.com/track/3wpw0J3SJBAKsmqyXKOPuF) | [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Waiting For You](https://open.spotify.com/album/1HATJl1qtSHJlHv6W4QGUf) | 2:48 | 2025-06-19 |  |
 | [We Grow](https://open.spotify.com/track/4Fpuj1rKeM3AlWC2980zMA) | [Emma Sehested Høeg](https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C) | [I Know All The Words But I Can't Say Goodbye](https://open.spotify.com/album/47efMrQcHVO61jJHeqlFxr) | 3:27 | 2024-10-10 | 2025-09-12 |
 | [What It Feels Like](https://open.spotify.com/track/33ejPqwHiMJGVMSqbBmaJc) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [What It Feels Like](https://open.spotify.com/album/0Dw2vUpQUBBkNGM85o0ltK) | 2:58 | 2025-01-23 | 2025-02-06 |
+| [What Men Do](https://open.spotify.com/track/3zMRl16icJimzKtFMYKSHO) | [Barbro](https://open.spotify.com/artist/4xLgZcnFsAbYKBfsQEJGKY) | [What Men Do](https://open.spotify.com/album/6GW4IJ7yR4O9A0q61UTHuc) | 3:00 | 2025-12-11 |  |
 | [when my eyes lose you, you occupy my thoughts](https://open.spotify.com/track/14J9XLdZtxyzJrmwfjPaw0) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [when my eyes lose you, you occupy my thoughts](https://open.spotify.com/album/6SCbG0gZUM6jkNxkEQD6qe) | 3:27 | 2025-11-13 | 2025-12-11 |
 | [within](https://open.spotify.com/track/3ASDReYuOvbp6wUf9wV2yg) | [joshua.](https://open.spotify.com/artist/6YyTzqDH4pzFhkmIDs8Edw) | [within](https://open.spotify.com/album/3KCV6PkHJIOguwyNtqQgin) | 3:11 | 2025-08-07 | 2025-08-15 |
 | [Without You \(feat\. eee gee\)](https://open.spotify.com/track/0QhufSlyQVv6o9X4erX7WS) | [Selma Judith](https://open.spotify.com/artist/5LLTM3JbwyRIPXqJMSH0hc), [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [Half truths from a broken heart](https://open.spotify.com/album/2nIJGhfS4tHqEl6gFDsjNz) | 4:12 | 2024-09-12 | 2024-09-26 |

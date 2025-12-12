@@ -2,9 +2,9 @@
 
 ### [Louvor & Adoração](https://open.spotify.com/playlist/37i9dQZF1DX3iXpjyhBzel)
 
-> A música certa para o seu momento de adoração\. Foto: Isadora Pompeo
+> A música certa para o seu momento de adoração\. Foto: Eli Soares, Midian Lima
 
-365 songs - 1 day 12 hr 24 min
+366 songs - 1 day 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Aviva\-nos \(Ao Vivo\)](https://open.spotify.com/track/03mpdr8HJfKqihrPDl9F14) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Aviva\-nos \(Ao Vivo\)](https://open.spotify.com/album/0WvYxMgrxjbcpSlLexrjRT) | 6:02 | 2023-03-17 | 2024-06-15 |
 | [Azeite \(Ao Vivo\)](https://open.spotify.com/track/6pVm1C9RyzEZJI0o643h74) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Azeite \(Ao Vivo\)](https://open.spotify.com/album/7GnXwS8TebApYSBsIeRRnf) | 4:32 | 2024-04-19 | 2024-06-29 |
 | [Believe For It \(Eu Creio\)](https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Believe For It \(Eu Creio\)](https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK) | 5:38 | 2022-09-09 | 2022-10-29 |
+| [Betel \- Ao Vivo](https://open.spotify.com/track/3e023EoYu68V1IHJdo18GO) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Betel \(Ao Vivo\)](https://open.spotify.com/album/36GKPZfDGWd6GWWWbWZjz0) | 5:03 | 2025-12-12 |  |
 | [Bondade de Deus](https://open.spotify.com/track/4VvsTSxSSAu8IRBpt3iDMR) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Bondade de Deus](https://open.spotify.com/album/5EVe9B2vKWnDOOnHV6Qklx) | 6:15 | 2022-09-09 | 2025-09-30 |
 | [Bondade De Deus](https://open.spotify.com/track/2qXz5WtB4sr13hR59w4Ml9) | [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F) | [Bondade De Deus](https://open.spotify.com/album/3dzF8IDJZ6F0y3STsKV2l4) | 4:55 | 2023-03-17 |  |
 | [Brasa Viva \- Acústico](https://open.spotify.com/track/2UYUMRoznutrBafIZTPIkF) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Único \(Acústico\)](https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195) | 6:52 | 2024-09-13 |  |
@@ -156,7 +157,7 @@
 | [Fui Comprado \- Na Igreja \- Ao Vivo](https://open.spotify.com/track/1cdtwyTBdz4SkKd3w7OBTV) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Fui Comprado \- Na Igreja \(Ao Vivo\)](https://open.spotify.com/album/6PbZUP9pDOzlvmXN5RcvVh) | 4:12 | 2024-04-26 | 2024-06-22 |
 | [Furioso Amor](https://open.spotify.com/track/5YmCD6XNHTWgQqoxwLGmHG) | [Elizeu Alves](https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt) | [Furioso Amor](https://open.spotify.com/album/5zclhkccExl4v282im0AoW) | 6:51 | 2022-09-09 | 2023-02-04 |
 | [Futuro](https://open.spotify.com/track/0wK0nkenoFSj19Z2KDUW4v) | [William Augusto](https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K), [Marsena](https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7) | [Futuro](https://open.spotify.com/album/1g8s3AmajpM7pCZ4GoEm6X) | 7:03 | 2024-06-14 | 2024-07-24 |
-| [Fé \- Ao Vivo](https://open.spotify.com/track/14w0mFHPb1h8SwySsiXetL) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn) | [Meia Noite \(Ao Vivo\)](https://open.spotify.com/album/0jRjSI7vj4r16D1HeePfIa) | 3:45 | 2025-08-15 |  |
+| [Fé \- Ao Vivo](https://open.spotify.com/track/14w0mFHPb1h8SwySsiXetL) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn) | [Meia Noite \(Ao Vivo\)](https://open.spotify.com/album/0jRjSI7vj4r16D1HeePfIa) | 3:45 | 2025-08-15 | 2025-12-12 |
 | [Fé Para O Impossível](https://open.spotify.com/track/0OSnHMH7SVZT9CgA2DMu4x) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Fé Para O Impossível](https://open.spotify.com/album/4vmCARn8Gmc9Uodx8aaJGE) | 4:20 | 2025-06-06 |  |
 | [Glorificamos \- Ao Vivo](https://open.spotify.com/track/7MxHxlNl5F2KHaihS92CJ7) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Preto No Branco Vertical \(Ao Vivo\)](https://open.spotify.com/album/0u5htebXaNt7pw6TtQHZ5X) | 6:20 | 2023-04-15 | 2023-05-13 |
 | [Gratidão \(Gratitude\) \- Ao Vivo](https://open.spotify.com/track/1q54VNXn2SWxmxyH5HNuea) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Gratidão \(Gratitude\) \[Ao Vivo\]](https://open.spotify.com/album/5UKejerSpuxuvnUdHoAdwm) | 7:00 | 2024-04-19 |  |

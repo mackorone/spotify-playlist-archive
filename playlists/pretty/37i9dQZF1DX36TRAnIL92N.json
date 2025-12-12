@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 457329,
+  "num_followers": 457506,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-12-05 05:00:16",
       "album": {
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 235045,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
+    },
+    {
+      "added_at": "2025-12-05 05:00:16",
+      "album": {
         "name": "One Mind EP",
         "url": "https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 204000,
       "name": "Bombacid",
       "url": "https://open.spotify.com/track/1DdByft8QSr5sf8ZhdxcXE"
-    },
-    {
-      "added_at": "2025-12-05 05:00:16",
-      "album": {
-        "name": "Falling For You",
-        "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 235045,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
     },
     {
       "added_at": "2025-12-05 05:00:16",
@@ -783,22 +783,18 @@
     {
       "added_at": "2025-12-05 05:00:16",
       "album": {
-        "name": "Papi",
-        "url": "https://open.spotify.com/album/21T52MdMD1iecNLNbMvBhg"
+        "name": "Wavey",
+        "url": "https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB"
       },
       "artists": [
         {
           "name": "Eli Brown",
           "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "GeezLy",
-          "url": "https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc"
         }
       ],
-      "duration_ms": 183528,
-      "name": "Papi",
-      "url": "https://open.spotify.com/track/4wYTybPU1G7ZuXKjMdrn54"
+      "duration_ms": 143379,
+      "name": "Wavey",
+      "url": "https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1"
     },
     {
       "added_at": "2025-12-05 05:00:16",
@@ -827,18 +823,22 @@
     {
       "added_at": "2025-12-05 05:00:16",
       "album": {
-        "name": "Chaos",
-        "url": "https://open.spotify.com/album/3n5tnuCnn0pRpwIc1E3GEs"
+        "name": "Cathedral",
+        "url": "https://open.spotify.com/album/5sf5dvrHT0c3TPR3n7fQ2H"
       },
       "artists": [
         {
-          "name": "Teenage Mutants",
-          "url": "https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA"
+          "name": "Bouras",
+          "url": "https://open.spotify.com/artist/5Lu7JOTiNvqjQswt0Uyms2"
+        },
+        {
+          "name": "ATLANTE (FR)",
+          "url": "https://open.spotify.com/artist/25FteQX2fjFPB5hJNkAMFJ"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Chaos - Rave Mix",
-      "url": "https://open.spotify.com/track/7eHwRfpOMuDaNSDXJjzL04"
+      "duration_ms": 251138,
+      "name": "Cathedral",
+      "url": "https://open.spotify.com/track/6xqpsapUDne75YlKSfVgPA"
     },
     {
       "added_at": "2025-12-05 05:00:16",
@@ -863,6 +863,42 @@
     {
       "added_at": "2025-12-05 05:00:16",
       "album": {
+        "name": "Chaos",
+        "url": "https://open.spotify.com/album/3n5tnuCnn0pRpwIc1E3GEs"
+      },
+      "artists": [
+        {
+          "name": "Teenage Mutants",
+          "url": "https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Chaos - Rave Mix",
+      "url": "https://open.spotify.com/track/7eHwRfpOMuDaNSDXJjzL04"
+    },
+    {
+      "added_at": "2025-12-05 05:00:16",
+      "album": {
+        "name": "Papi",
+        "url": "https://open.spotify.com/album/21T52MdMD1iecNLNbMvBhg"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "GeezLy",
+          "url": "https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc"
+        }
+      ],
+      "duration_ms": 183528,
+      "name": "Papi",
+      "url": "https://open.spotify.com/track/4wYTybPU1G7ZuXKjMdrn54"
+    },
+    {
+      "added_at": "2025-12-05 05:00:16",
+      "album": {
         "name": "Checkmate",
         "url": "https://open.spotify.com/album/4jmiczml2DXJ5idy60KGwY"
       },
@@ -879,42 +915,6 @@
       "duration_ms": 207000,
       "name": "Checkmate",
       "url": "https://open.spotify.com/track/4WXu03JF0IF5royyfgJ7Fl"
-    },
-    {
-      "added_at": "2025-12-05 05:00:16",
-      "album": {
-        "name": "Wavey",
-        "url": "https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 143379,
-      "name": "Wavey",
-      "url": "https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1"
-    },
-    {
-      "added_at": "2025-12-05 05:00:16",
-      "album": {
-        "name": "Cathedral",
-        "url": "https://open.spotify.com/album/5sf5dvrHT0c3TPR3n7fQ2H"
-      },
-      "artists": [
-        {
-          "name": "Bouras",
-          "url": "https://open.spotify.com/artist/5Lu7JOTiNvqjQswt0Uyms2"
-        },
-        {
-          "name": "ATLANTE (FR)",
-          "url": "https://open.spotify.com/artist/25FteQX2fjFPB5hJNkAMFJ"
-        }
-      ],
-      "duration_ms": 251138,
-      "name": "Cathedral",
-      "url": "https://open.spotify.com/track/6xqpsapUDne75YlKSfVgPA"
     },
     {
       "added_at": "2025-12-05 05:00:16",

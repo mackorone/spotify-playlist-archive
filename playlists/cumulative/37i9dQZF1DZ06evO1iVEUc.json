@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "Angie Stone - Wish I Didn't Miss You (IQ Musique House Remix)",
+        "url": "https://open.spotify.com/album/3Z2NITd0S3mGilLdnwliFI"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          "name": "IQ Musique",
+          "url": "https://open.spotify.com/artist/3RUiLqDKEMyFxlyGBS4h38"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321295,
+      "name": "Angie Stone - IQ Musique House Mix",
+      "url": "https://open.spotify.com/track/2kTjQIfVwzwaMCtQGFF9Lz"
+    },
+    {
+      "album": {
         "name": "The Art of Love & War",
         "url": "https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15"
       },
@@ -932,7 +954,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 271493,
       "name": "Sit Down",
       "url": "https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ"

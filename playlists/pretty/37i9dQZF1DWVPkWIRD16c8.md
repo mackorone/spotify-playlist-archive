@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Ranging from your new favorites to familiar classics, let these songs bless you as you're on the road!
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,952 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,017 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 46 | [Praise The Lord \(Sunday Prelude\)](https://open.spotify.com/track/2AQnZjjMM13j7hhyot1hEz) | [Bay Turner](https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV), [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Praise The Lord \(Sunday Prelude\)](https://open.spotify.com/album/4hsvZ1LX4aJ97Zs1JxA1oo) | 3:11 |
 | 47 | [Antidote](https://open.spotify.com/track/6ofKv7jnJCB2am9gqd4xVo) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Antidote](https://open.spotify.com/album/4ORpINjKrVyuy0iipO2Xz9) | 2:51 |
 | 48 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 |
-| 49 | [Let It Out](https://open.spotify.com/track/2kNmso15KtU1Ufpc50yapP) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Fading West](https://open.spotify.com/album/1GyzM6vN5fWs2RDCLmJTIz) | 3:19 |
-| 50 | [POP UP](https://open.spotify.com/track/3RdOLCrgJbxRkvsNVJzOW5) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Dead Or Alive Pt\. 2](https://open.spotify.com/album/290RwiFSj49ozfvrNtOAgh) | 4:05 |
+| 49 | [POP UP](https://open.spotify.com/track/3RdOLCrgJbxRkvsNVJzOW5) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Dead Or Alive Pt\. 2](https://open.spotify.com/album/290RwiFSj49ozfvrNtOAgh) | 4:05 |
+| 50 | [Let It Out](https://open.spotify.com/track/2kNmso15KtU1Ufpc50yapP) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Fading West](https://open.spotify.com/album/1GyzM6vN5fWs2RDCLmJTIz) | 3:19 |
 | 51 | [Hope](https://open.spotify.com/track/3GC7jZ05UuZVPNy2JMgPHf) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [I'm Here For You](https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l) | 3:29 |
 | 52 | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [These Are The Days \(feat\. Blessing Offor\)](https://open.spotify.com/album/7HC504lxOG8uk59wMhlbGQ) | 3:50 |
 | 53 | [Remind Me Who I Am \- Acoustic](https://open.spotify.com/track/1rvB0BJ6JxbnwlmDPBrDae) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Greatest Hits \(Acoustic\)](https://open.spotify.com/album/2bwstN2RquejYuJvxz8lZK) | 3:36 |

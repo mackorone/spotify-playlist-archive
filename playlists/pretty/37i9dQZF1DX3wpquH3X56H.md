@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain]
 
 > Highlights of 2025 from New Ambient\. Cover: Malibu  🪐
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,885 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,942 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wpquH3X56H.md) - [plain]
 | 74 | [Each Story](https://open.spotify.com/track/2lsGq0qsufQcmIM30Xfy2J) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 7:15 |
 | 75 | [Makes Me Want You](https://open.spotify.com/track/0O43NCt1jVsTfyuOQQN5LW) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Makes Me Want You](https://open.spotify.com/album/5p4gsvhpPQ9l8Issw2NtYd) | 3:21 |
 
-Snapshot ID: `AAAAAMzDU4ty8jZ1lgQxjejCB48iQLrQ`
+Snapshot ID: `AAAAAIzGvChTh+n0AznUGYonOfBYiHbo`

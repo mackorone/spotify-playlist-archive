@@ -1,6 +1,6 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 808862,
+  "num_followers": 808870,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
+        "name": "Encaixe",
+        "url": "https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "N\u00e3o Olha Assim Pra Mim",
+      "url": "https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB"
+    },
+    {
+      "added_at": "2025-11-25 18:54:26",
+      "album": {
         "name": "Mais Bonito N\u00e3o H\u00e1",
         "url": "https://open.spotify.com/album/26a6ajd9PLDhLzlMZCawEd"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 237479,
       "name": "Mais Bonito N\u00e3o H\u00e1",
       "url": "https://open.spotify.com/track/3TjdjYx5sBXrRdytJkzJJX"
-    },
-    {
-      "added_at": "2025-11-25 18:54:26",
-      "album": {
-        "name": "Encaixe",
-        "url": "https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "N\u00e3o Olha Assim Pra Mim",
-      "url": "https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB"
     },
     {
       "added_at": "2025-11-25 18:54:26",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
-        "name": "Por Pouco (Bit Box)",
-        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
-      },
-      "artists": [
-        {
-          "name": "Mundo Livre S/A",
-          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
-        }
-      ],
-      "duration_ms": 259480,
-      "name": "Meu Esquema",
-      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
-    },
-    {
-      "added_at": "2025-11-25 18:54:26",
-      "album": {
         "name": "Nossa m\u00fasica",
         "url": "https://open.spotify.com/album/7vdk9XKYqz9BL7mZlzIlfj"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 239642,
       "name": "Nossa m\u00fasica",
       "url": "https://open.spotify.com/track/4hpcc2wq84pilUgDbIPkDN"
+    },
+    {
+      "added_at": "2025-11-25 18:54:26",
+      "album": {
+        "name": "Por Pouco (Bit Box)",
+        "url": "https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC"
+      },
+      "artists": [
+        {
+          "name": "Mundo Livre S/A",
+          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
+        }
+      ],
+      "duration_ms": 259480,
+      "name": "Meu Esquema",
+      "url": "https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3"
     },
     {
       "added_at": "2025-11-25 18:54:26",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-11-25 18:54:26",
       "album": {
-        "name": "Dr\u00e3o (Remasterizado)",
-        "url": "https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 311745,
-      "name": "Dr\u00e3o - Remasterizado",
-      "url": "https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS"
-    },
-    {
-      "added_at": "2025-11-25 18:54:26",
-      "album": {
         "name": "A Paz (Ao Vivo)",
         "url": "https://open.spotify.com/album/4BXhVxKouNYfRoR6iPnYuv"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 274304,
       "name": "A Paz - Ao Vivo",
       "url": "https://open.spotify.com/track/409yVdUeXfYJY7MeY0SKRf"
+    },
+    {
+      "added_at": "2025-11-25 18:54:26",
+      "album": {
+        "name": "Dr\u00e3o (Remasterizado)",
+        "url": "https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 311745,
+      "name": "Dr\u00e3o - Remasterizado",
+      "url": "https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS"
     }
   ],
   "unique_name": "Cafezinho",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The 50 best pop songs from new, independent artists in 2025, as chosen by our editors\.  Cover: Baby Nova\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,862 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,959 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 49 | [sprite](https://open.spotify.com/track/32kFCCsS86KQIbhgGED7pp) | [TEO.x3](https://open.spotify.com/artist/1lvRWwow7gpc1VKBGxebHH), [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ) | [iDidntMeanToGhostYouButMyWifiCrashedAgain](https://open.spotify.com/album/5AJBU94cun1EeaDMYQZOX2) | 2:35 |
 | 50 | [Think About U Lots](https://open.spotify.com/track/0obpw5cKWbMCTvDhIuP3OU) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [Think About U Lots](https://open.spotify.com/album/6iAhu9llD9clQtdAbc4v6m) | 3:34 |
 
-Snapshot ID: `AAAAAKv5eMBAkdF8rwfA7URTAaf2ZTCf`
+Snapshot ID: `AAAAAJ7a8FWgUqlMVijgldpXbA233SIL`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Featuring, Money Man, Blxst, Mozzy &amp; Tm88.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 34,561 likes - 105 songs - 4 hr 56 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 34,555 likes - 105 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 | 56 | [Ballin](https://open.spotify.com/track/4QQD6R9X6YQiOyTjM8s2LG) | [Lil Yee](https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i), [Lil Pete](https://open.spotify.com/artist/5ULJ18n8PZ9rJv5kYsZByV) | [Ballin](https://open.spotify.com/album/54cGEE6imDqUBIE2q6DE7d) | 2:18 |
 | 57 | [Active](https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Active](https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP) | 2:52 |
 | 58 | [Peru](https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO) | 3:07 |
-| 59 | [inthej](https://open.spotify.com/track/2kvANa2pnrrPxOUEjczuUx) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [inthej](https://open.spotify.com/album/2QUpX5PFxU2pCmW88hoPZL) | 1:49 |
+| 59 | [inthej](https://open.spotify.com/track/2kvANa2pnrrPxOUEjczuUx) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc), [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [inthej](https://open.spotify.com/album/2QUpX5PFxU2pCmW88hoPZL) | 1:49 |
 | 60 | [Players Holiday '25 \(feat\. Larry June, Kamaiyah, Saweetie, LaRussell, G\-Eazy, thủy & Ymtk\)](https://open.spotify.com/track/0gn5dQJPpRCJWKH6LAUZz7) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [YMTK](https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV) | [Players Holiday '25 \(feat\. Larry June, Kamaiyah, Saweetie, LaRussell, G\-Eazy, thủy & Ymtk\)](https://open.spotify.com/album/71hd0wuPQtBxuEjphSGEVy) | 3:45 |
 | 61 | [Drink Don't Need No Mix \(feat\. BigXthaPlug\)](https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 2:13 |
 | 62 | [2:30](https://open.spotify.com/track/1n3JvneU8FhfldfTQ8BdZs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Work Of Art](https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU) | 2:18 |

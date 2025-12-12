@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 103317,
+  "num_followers": 103358,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Pit Stop",
+        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
+      },
+      "artists": [
+        {
+          "name": "Bridde Boys",
+          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
+        }
+      ],
+      "duration_ms": 253544,
+      "name": "Pit Stop",
+      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Betasten",
         "url": "https://open.spotify.com/album/0xaq04tzj37Dy61OqXQ7Xm"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 185459,
       "name": "Betasten",
       "url": "https://open.spotify.com/track/7nwSbPfiDGGBCmYWOS4ezn"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Pit Stop",
-        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
-      },
-      "artists": [
-        {
-          "name": "Bridde Boys",
-          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
-        }
-      ],
-      "duration_ms": 253544,
-      "name": "Pit Stop",
-      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Boot",
-        "url": "https://open.spotify.com/album/440UZkx5XItk0wpuJN0ZoU"
-      },
-      "artists": [
-        {
-          "name": "Fmg",
-          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
-        }
-      ],
-      "duration_ms": 197637,
-      "name": "Boot",
-      "url": "https://open.spotify.com/track/5DhLsu431rudt8PENvUDao"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Big Man",
         "url": "https://open.spotify.com/album/5GKqyIUHBWSwyCF1apkT9X"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 163125,
       "name": "Big Man",
       "url": "https://open.spotify.com/track/6bJ9c5VIx8jbf5U34qHAFm"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Boot",
+        "url": "https://open.spotify.com/album/440UZkx5XItk0wpuJN0ZoU"
+      },
+      "artists": [
+        {
+          "name": "Fmg",
+          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
+        }
+      ],
+      "duration_ms": 197637,
+      "name": "Boot",
+      "url": "https://open.spotify.com/track/5DhLsu431rudt8PENvUDao"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "501",
+        "url": "https://open.spotify.com/album/5MdGB34tCSO0HoZINzaX0Y"
+      },
+      "artists": [
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 127592,
+      "name": "501",
+      "url": "https://open.spotify.com/track/0Fl4PBfIwC5G1IQAF1luUm"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Beats By Esko",
         "url": "https://open.spotify.com/album/3E7PWkWtbaTtwvgw89Qm8a"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 197290,
       "name": "Hey Meisje",
       "url": "https://open.spotify.com/track/1c7Kh2uMMxG7k4QqNjjg95"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "501",
-        "url": "https://open.spotify.com/album/5MdGB34tCSO0HoZINzaX0Y"
-      },
-      "artists": [
-        {
-          "name": "Bilal Wahib",
-          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 127592,
-      "name": "501",
-      "url": "https://open.spotify.com/track/0Fl4PBfIwC5G1IQAF1luUm"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "VBALERT",
-        "url": "https://open.spotify.com/album/20cIbzjrBLyWd3p7dg5b6u"
-      },
-      "artists": [
-        {
-          "name": "ValsBezig",
-          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "Naar Beneden",
-      "url": "https://open.spotify.com/track/12DzrccrTPdDPHRd3cAFUZ"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "J'ai D\u00e9conn\u00e9",
         "url": "https://open.spotify.com/album/6cYHZJpSSeMCBRd7xzikIK"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 168218,
       "name": "J'ai D\u00e9conn\u00e9",
       "url": "https://open.spotify.com/track/51PcB5453BMTM18V0hru79"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "VBALERT",
+        "url": "https://open.spotify.com/album/20cIbzjrBLyWd3p7dg5b6u"
+      },
+      "artists": [
+        {
+          "name": "ValsBezig",
+          "url": "https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "Naar Beneden",
+      "url": "https://open.spotify.com/track/12DzrccrTPdDPHRd3cAFUZ"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2083,26 +2083,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Designers",
-        "url": "https://open.spotify.com/album/146n3dqgpSdsk02yWRSEtI"
+        "name": "BON VIBES",
+        "url": "https://open.spotify.com/album/6XLI3uqFYuJLYhuHhNVDC3"
       },
       "artists": [
         {
-          "name": "IliassOpDeBeat",
-          "url": "https://open.spotify.com/artist/7jlzu3WivGk7tszA2QUSxw"
+          "name": "Chip Charlez",
+          "url": "https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH"
         },
         {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
-        },
-        {
-          "name": "LouiVos",
-          "url": "https://open.spotify.com/artist/0lzYw5xI9jgMg8O5i4bTre"
+          "name": "Jairzinho",
+          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
         }
       ],
-      "duration_ms": 181658,
-      "name": "Designers (feat. Dopebwoy & LouiVos)",
-      "url": "https://open.spotify.com/track/3zycyBK3RiecrkrP8NPLxu"
+      "duration_ms": 139428,
+      "name": "BON VIBES",
+      "url": "https://open.spotify.com/track/5zMG8AaGtpoGwrAA75FRGk"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2127,6 +2123,30 @@
       "duration_ms": 156921,
       "name": "Walou Crisis (feat. 3robi & Mula B)",
       "url": "https://open.spotify.com/track/4cEEHXGY0dsKtwmGFwhr9V"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Designers",
+        "url": "https://open.spotify.com/album/146n3dqgpSdsk02yWRSEtI"
+      },
+      "artists": [
+        {
+          "name": "IliassOpDeBeat",
+          "url": "https://open.spotify.com/artist/7jlzu3WivGk7tszA2QUSxw"
+        },
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        },
+        {
+          "name": "LouiVos",
+          "url": "https://open.spotify.com/artist/0lzYw5xI9jgMg8O5i4bTre"
+        }
+      ],
+      "duration_ms": 181658,
+      "name": "Designers (feat. Dopebwoy & LouiVos)",
+      "url": "https://open.spotify.com/track/3zycyBK3RiecrkrP8NPLxu"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2191,26 +2211,6 @@
       "duration_ms": 168014,
       "name": "Speling",
       "url": "https://open.spotify.com/track/0g8FVJPtUXIB1kKQCtBT16"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "BON VIBES",
-        "url": "https://open.spotify.com/album/6XLI3uqFYuJLYhuHhNVDC3"
-      },
-      "artists": [
-        {
-          "name": "Chip Charlez",
-          "url": "https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH"
-        },
-        {
-          "name": "Jairzinho",
-          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
-        }
-      ],
-      "duration_ms": 139428,
-      "name": "BON VIBES",
-      "url": "https://open.spotify.com/track/5zMG8AaGtpoGwrAA75FRGk"
     }
   ],
   "unique_name": "Oude Party Tunes",

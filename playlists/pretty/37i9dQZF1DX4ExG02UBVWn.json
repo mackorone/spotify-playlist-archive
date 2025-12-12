@@ -1,6 +1,6 @@
 {
   "description": "for the late nights",
-  "num_followers": 20435,
+  "num_followers": 20436,
   "original_name": "the night bus",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "The Invisible Man",
-        "url": "https://open.spotify.com/album/6dxjNrYNXkEVTIhjypB0nQ"
-      },
-      "artists": [
-        {
-          "name": "Maruja",
-          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
-        }
-      ],
-      "duration_ms": 365656,
-      "name": "The Invisible Man",
-      "url": "https://open.spotify.com/track/5yojQqvfXYyUu4NnYbFrjW"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Life's a Bitch, I Just Need an Early Night",
         "url": "https://open.spotify.com/album/6nAyU48Mf6cWrZlM6nLUpS"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 275156,
       "name": "When It Rains",
       "url": "https://open.spotify.com/track/7qipQLUoNRpQrxRgrzbFoU"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "The Invisible Man",
+        "url": "https://open.spotify.com/album/6dxjNrYNXkEVTIhjypB0nQ"
+      },
+      "artists": [
+        {
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+        }
+      ],
+      "duration_ms": 365656,
+      "name": "The Invisible Man",
+      "url": "https://open.spotify.com/track/5yojQqvfXYyUu4NnYbFrjW"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -555,26 +555,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "SE17",
-        "url": "https://open.spotify.com/album/6aqqtrkZgGo6AGWhASU0HC"
-      },
-      "artists": [
-        {
-          "name": "Stacy N.K.R",
-          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
-        },
-        {
-          "name": "Danny Chaska",
-          "url": "https://open.spotify.com/artist/6comUtFS2GIJEJ4E8kMUbP"
-        }
-      ],
-      "duration_ms": 202058,
-      "name": "SE17",
-      "url": "https://open.spotify.com/track/4dzMtsZMsvl2cI5THF4cqj"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Mac Wetha & Friends",
         "url": "https://open.spotify.com/album/7ujjNbAACA0oxsQUjsLCuK"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 103953,
       "name": "Ode To Mumma",
       "url": "https://open.spotify.com/track/4wCgFIFfMoTcdb0JfMFbwd"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "SE17",
+        "url": "https://open.spotify.com/album/6aqqtrkZgGo6AGWhASU0HC"
+      },
+      "artists": [
+        {
+          "name": "Stacy N.K.R",
+          "url": "https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U"
+        },
+        {
+          "name": "Danny Chaska",
+          "url": "https://open.spotify.com/artist/6comUtFS2GIJEJ4E8kMUbP"
+        }
+      ],
+      "duration_ms": 202058,
+      "name": "SE17",
+      "url": "https://open.spotify.com/track/4dzMtsZMsvl2cI5THF4cqj"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "New Hands/Writers Block",
-        "url": "https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u"
-      },
-      "artists": [
-        {
-          "name": "Liv Walker",
-          "url": "https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk"
-        }
-      ],
-      "duration_ms": 174015,
-      "name": "New Hands/Writers Block",
-      "url": "https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Doubt Nothing",
         "url": "https://open.spotify.com/album/5tfucf6i3fZN0lWUi5j0pK"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 180000,
       "name": "Doubt Nothing",
       "url": "https://open.spotify.com/track/4rzAv7ehC7iSCV1JpZCVbr"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "New Hands/Writers Block",
+        "url": "https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u"
+      },
+      "artists": [
+        {
+          "name": "Liv Walker",
+          "url": "https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk"
+        }
+      ],
+      "duration_ms": 174015,
+      "name": "New Hands/Writers Block",
+      "url": "https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "RISING",
-        "url": "https://open.spotify.com/album/2H8Mzv6DpIEgPzUGYJSQES"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 146200,
-      "name": "Inna city",
-      "url": "https://open.spotify.com/track/2iSMEkcCtJNmnFqKEjl7Uo"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Grreydaze",
         "url": "https://open.spotify.com/album/3QWLDEXHLpnYS8dxSd0uUx"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 164750,
       "name": "God's House",
       "url": "https://open.spotify.com/track/4bny7tlMq75sfHO2VkitwH"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "RISING",
+        "url": "https://open.spotify.com/album/2H8Mzv6DpIEgPzUGYJSQES"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 146200,
+      "name": "Inna city",
+      "url": "https://open.spotify.com/track/2iSMEkcCtJNmnFqKEjl7Uo"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -991,18 +991,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "AND GOD SAID...",
-        "url": "https://open.spotify.com/album/1t7cwx7t7xxfnstXYI4rSx"
+        "name": "Out Of The Blue",
+        "url": "https://open.spotify.com/album/29EV7MujE04FwNgfX1zLSo"
       },
       "artists": [
         {
-          "name": "SIPHO.",
-          "url": "https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ"
+          "name": "Stefan Mahendra",
+          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
+        },
+        {
+          "name": "Immy",
+          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
         }
       ],
-      "duration_ms": 254866,
-      "name": "ALMOST LOST",
-      "url": "https://open.spotify.com/track/6OrtioErNEZVGShhUIQZjt"
+      "duration_ms": 207830,
+      "name": "Out Of The Blue",
+      "url": "https://open.spotify.com/track/5HrNFU4oO2W8FNJt1cKbB8"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1023,22 +1027,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Out Of The Blue",
-        "url": "https://open.spotify.com/album/29EV7MujE04FwNgfX1zLSo"
+        "name": "AND GOD SAID...",
+        "url": "https://open.spotify.com/album/1t7cwx7t7xxfnstXYI4rSx"
       },
       "artists": [
         {
-          "name": "Stefan Mahendra",
-          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
-        },
-        {
-          "name": "Immy",
-          "url": "https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7"
+          "name": "SIPHO.",
+          "url": "https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ"
         }
       ],
-      "duration_ms": 207830,
-      "name": "Out Of The Blue",
-      "url": "https://open.spotify.com/track/5HrNFU4oO2W8FNJt1cKbB8"
+      "duration_ms": 254866,
+      "name": "ALMOST LOST",
+      "url": "https://open.spotify.com/track/6OrtioErNEZVGShhUIQZjt"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "The South's Got Something To Say",
+        "url": "https://open.spotify.com/album/1An5auoLzBQA5LoiSbqi8I"
+      },
+      "artists": [
+        {
+          "name": "Frankie Stew and Harvey Gunn",
+          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
+        }
+      ],
+      "duration_ms": 191641,
+      "name": "Comfort Zone",
+      "url": "https://open.spotify.com/track/2N6oB5yih6TDfM4rknncYl"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "West End",
         "url": "https://open.spotify.com/album/4Loru0xZI5PfOd3ntrImBa"
       },
@@ -1379,22 +1395,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "The South's Got Something To Say",
-        "url": "https://open.spotify.com/album/1An5auoLzBQA5LoiSbqi8I"
-      },
-      "artists": [
-        {
-          "name": "Frankie Stew and Harvey Gunn",
-          "url": "https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx"
-        }
-      ],
-      "duration_ms": 191641,
-      "name": "Comfort Zone",
-      "url": "https://open.spotify.com/track/2N6oB5yih6TDfM4rknncYl"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Coffee",
         "url": "https://open.spotify.com/album/0nK9CHDXm14WIlRssT2ifO"
       },
@@ -1411,26 +1411,6 @@
       "duration_ms": 151000,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/4l9kdmAOpO7Y0wCc4PnhzI"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
-        "name": "Warmth",
-        "url": "https://open.spotify.com/album/4gHQLmvwo9AVpTCEwBsIw5"
-      },
-      "artists": [
-        {
-          "name": "M. Rumbi",
-          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
-        },
-        {
-          "name": "Monif\u00e9",
-          "url": "https://open.spotify.com/artist/3RJBneQVluxOpfJLEtlNQ0"
-        }
-      ],
-      "duration_ms": 183341,
-      "name": "Warmth",
-      "url": "https://open.spotify.com/track/2x3u6tY8LnKrZ1EDpJybn1"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1459,6 +1439,26 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
+        "name": "Warmth",
+        "url": "https://open.spotify.com/album/4gHQLmvwo9AVpTCEwBsIw5"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Monif\u00e9",
+          "url": "https://open.spotify.com/artist/3RJBneQVluxOpfJLEtlNQ0"
+        }
+      ],
+      "duration_ms": 183341,
+      "name": "Warmth",
+      "url": "https://open.spotify.com/track/2x3u6tY8LnKrZ1EDpJybn1"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
         "name": "Bad",
         "url": "https://open.spotify.com/album/3I8m0mug29wYCCVJuX7xqA"
       },
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Elevator Music",
-        "url": "https://open.spotify.com/album/0J37ZEurdvlWlLbQ5vZsEW"
-      },
-      "artists": [
-        {
-          "name": "KhakiKid",
-          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
-        }
-      ],
-      "duration_ms": 138775,
-      "name": "Babybrown",
-      "url": "https://open.spotify.com/track/3O5dlqHswHAlApKDRR9YfK"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Be My Friend",
         "url": "https://open.spotify.com/album/3qYZIoemyV20j52tqzzCQt"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 207759,
       "name": "Be My Friend",
       "url": "https://open.spotify.com/track/016H24eTEQ04lmhskkGAQX"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "Elevator Music",
+        "url": "https://open.spotify.com/album/0J37ZEurdvlWlLbQ5vZsEW"
+      },
+      "artists": [
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        }
+      ],
+      "duration_ms": 138775,
+      "name": "Babybrown",
+      "url": "https://open.spotify.com/track/3O5dlqHswHAlApKDRR9YfK"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "Feeling Like",
-        "url": "https://open.spotify.com/album/5dkMgbChILOPiuKpEk381O"
-      },
-      "artists": [
-        {
-          "name": "JayaHadADream",
-          "url": "https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo"
-        },
-        {
-          "name": "Wasalu",
-          "url": "https://open.spotify.com/artist/56pecKMLXlMSMDCLhQS8B7"
-        }
-      ],
-      "duration_ms": 184658,
-      "name": "Feeling Like",
-      "url": "https://open.spotify.com/track/6eXOVvVtIYFNnLOpHcv5Yp"
-    },
-    {
-      "added_at": "2025-08-07 15:52:15",
-      "album": {
         "name": "Please",
         "url": "https://open.spotify.com/album/2pRZiqyUIv3HdjRcf6jq9Y"
       },
@@ -1587,18 +1567,38 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "iwtwbaigwap",
-        "url": "https://open.spotify.com/album/01qWaldD9EFvYQ2s8sqomL"
+        "name": "Feeling Like",
+        "url": "https://open.spotify.com/album/5dkMgbChILOPiuKpEk381O"
       },
       "artists": [
         {
-          "name": "Leo Chavez",
-          "url": "https://open.spotify.com/artist/6npO5NDb1R8inkVKOF67Xv"
+          "name": "JayaHadADream",
+          "url": "https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo"
+        },
+        {
+          "name": "Wasalu",
+          "url": "https://open.spotify.com/artist/56pecKMLXlMSMDCLhQS8B7"
         }
       ],
-      "duration_ms": 235374,
-      "name": "iwtwbaigwap",
-      "url": "https://open.spotify.com/track/3lUc5HxGOxHH4muIZSeOp6"
+      "duration_ms": 184658,
+      "name": "Feeling Like",
+      "url": "https://open.spotify.com/track/6eXOVvVtIYFNnLOpHcv5Yp"
+    },
+    {
+      "added_at": "2025-08-07 15:52:15",
+      "album": {
+        "name": "White Doves",
+        "url": "https://open.spotify.com/album/7jfXg6oFsxqAzGpCTH8lgc"
+      },
+      "artists": [
+        {
+          "name": "Aanya Martin",
+          "url": "https://open.spotify.com/artist/6aypy2lqG1sGhNlO7j1LxY"
+        }
+      ],
+      "duration_ms": 284120,
+      "name": "White Doves",
+      "url": "https://open.spotify.com/track/67Y2xxwT225qzZHk0T3zo2"
     },
     {
       "added_at": "2025-08-07 15:52:15",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2025-08-07 15:52:15",
       "album": {
-        "name": "White Doves",
-        "url": "https://open.spotify.com/album/7jfXg6oFsxqAzGpCTH8lgc"
+        "name": "iwtwbaigwap",
+        "url": "https://open.spotify.com/album/01qWaldD9EFvYQ2s8sqomL"
       },
       "artists": [
         {
-          "name": "Aanya Martin",
-          "url": "https://open.spotify.com/artist/6aypy2lqG1sGhNlO7j1LxY"
+          "name": "Leo Chavez",
+          "url": "https://open.spotify.com/artist/6npO5NDb1R8inkVKOF67Xv"
         }
       ],
-      "duration_ms": 284120,
-      "name": "White Doves",
-      "url": "https://open.spotify.com/track/67Y2xxwT225qzZHk0T3zo2"
+      "duration_ms": 235374,
+      "name": "iwtwbaigwap",
+      "url": "https://open.spotify.com/track/3lUc5HxGOxHH4muIZSeOp6"
     },
     {
       "added_at": "2025-08-07 15:52:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 553 likes - 2,104 songs - 5 day 3 hr 16 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 553 likes - 2,108 songs - 5 day 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2112,5 +2112,9 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2102 | [Symmetric](https://open.spotify.com/track/2M6bYplgzxDWiU3vuGcl4L) | [Good Sunset](https://open.spotify.com/artist/1XeexwpjUws2EwUOUaO56Z) | [Cinema Everything](https://open.spotify.com/album/3Kp3powxVaQz0RA3bLOiRf) | 3:13 |
 | 2103 | [Jingle Bells](https://open.spotify.com/track/0rfwnKFRTahPdHCEFhESsZ) | [Darryn Zewalk](https://open.spotify.com/artist/7HysNhewedcRygAC3H8h9f) | [Jingle A New Way](https://open.spotify.com/album/5LiKN2ONQnHx7h8Dtb9ZGx) | 3:23 |
 | 2104 | [Until It's Time](https://open.spotify.com/track/77v6TueXjlHHOOBsFOrNGl) | [Cut Flowers](https://open.spotify.com/artist/5qRls3Usdh6jOe0ek8ZCXS) | [Until It's Time](https://open.spotify.com/album/6Ulxw0G7DRwcWy6FG0Yq0Z) | 2:48 |
+| 2105 | [Love](https://open.spotify.com/track/36HR7SMs8bgvdNIH04wnna) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [Jesse Lake](https://open.spotify.com/artist/7w8ouyXeYHjPipvYK4DpbV) | [Open Strum 2](https://open.spotify.com/album/1jIdsJW3n2lfxaP7IQnwko) | 2:38 |
+| 2106 | [Breaker](https://open.spotify.com/track/05UdJgtVRV1wOu28HOiOSY) | [The Riptide Rats](https://open.spotify.com/artist/1H4GD3RldeXXGmkiayJrGm) | [Waves Of Steel \(The Album\)](https://open.spotify.com/album/4qwOctwC9etKAkhIpx00jr) | 2:23 |
+| 2107 | [A la playa](https://open.spotify.com/track/3QcNBAgOxBvbfLgspDcMTx) | [Chulengos](https://open.spotify.com/artist/0yQnTg2ffha0IqbTWTvwsd) | [A la playa](https://open.spotify.com/album/6POR0VEkDQJ9klsVbVm4dJ) | 3:01 |
+| 2108 | [3d Printer \(Vagina Version\)](https://open.spotify.com/track/7knYaA196GplJ5GMviUAdp) | [The Dream Eaters](https://open.spotify.com/artist/58EGECKV4drTQ3m7SFJNYf) | [Year End Report](https://open.spotify.com/album/3wjEIHofWgy2IEv7iflfUc) | 2:43 |
 
-Snapshot ID: `AAAIxsnmtt3UWXbyU2zgniUlWLhqJobh`
+Snapshot ID: `AAAIymNXdcinbyblnDoyzIASTIRSuSjr`

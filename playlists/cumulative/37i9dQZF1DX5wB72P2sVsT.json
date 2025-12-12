@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "David Guetta, Teddy Swims & Tones and I au top des bangers dance/electro du moment !",
+  "description": "DJ Antoine au top des bangers dance/electro du moment !",
   "name": "Banger",
   "tracks": [
     {
@@ -5245,6 +5245,28 @@
     },
     {
       "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/21IS6JKY4bHsX82VemUKoq"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192681,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/7yFK39Oj4ItOfiifL8D40e"
+    },
+    {
+      "album": {
         "name": "Pum Pum",
         "url": "https://open.spotify.com/album/46Br00VcUWM7IRuxE3UjcB"
       },
@@ -6840,7 +6862,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 120578,
       "name": "Waterfalls (feat. Sam Harper & Bobby Harvey)",
       "url": "https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3"

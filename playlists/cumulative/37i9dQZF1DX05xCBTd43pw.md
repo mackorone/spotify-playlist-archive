@@ -4,11 +4,12 @@
 
 > Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Zoë Më
 
-456 songs - 23 hr 30 min
+457 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(fernweh\)](https://open.spotify.com/track/7veAymqTvLUvcQwixp6aRI) | [Gigi](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [Hinterem Mond](https://open.spotify.com/album/5Qe6ceY5yPGV5e40FuKjaR) | 2:55 | 2025-05-08 | 2025-05-16 |
+| [1234](https://open.spotify.com/track/0p1ZnifLGxSMQB2j8cl6hS) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [](https://open.spotify.com/album/null) | 3:42 | 2025-12-11 |  |
 | [13 Juwele](https://open.spotify.com/track/1qNioJrOIFUj3oTZiI52up) | [Steff la Cheffe](https://open.spotify.com/artist/0Wz7fR8K35NKtz7of2BdIU) | [13 Juwele](https://open.spotify.com/album/2uKIdayCMdHqX0VnmfhKyA) | 2:49 | 2025-11-13 | 2025-12-06 |
 | [1x1](https://open.spotify.com/track/5NaUNpm1Qjw90o1k0MUkKN) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd), [OG Florin](https://open.spotify.com/artist/5OxRSgisvdKcNLUsvCzZc9) | [1x1](https://open.spotify.com/album/7nrMFMyw0vcahCA98Djdi3) | 3:04 | 2025-05-15 | 2025-05-23 |
 | [2024 FREESTYLE](https://open.spotify.com/track/4kCCkzbocx5lvmceKxgIWC) | [Cosmo12](https://open.spotify.com/artist/0U4D0tyUIPeF0ithTTrYKK) | [2024 FREESTYLE](https://open.spotify.com/album/0MVVqc5fZFIrv1RAyE5QyH) | 2:33 | 2025-04-24 | 2025-05-02 |
@@ -92,7 +93,7 @@
 | [Counting Days](https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Counting Days](https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2) | 2:44 | 2024-06-27 | 2025-06-12 |
 | [cry no more](https://open.spotify.com/track/26gpBk4cVSD8RrgR3cyqo7) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [cry no more](https://open.spotify.com/album/4IeTUCkFMlo2Dh0evzHFoh) | 3:16 | 2024-11-29 | 2025-07-11 |
 | [Curse](https://open.spotify.com/track/4iRAcBiQnGo6o99YpKfAel) | [BombayMami](https://open.spotify.com/artist/6GssnSoFCEFhN0sdsaDbzT) | [Curse](https://open.spotify.com/album/25D0Fc6D8OnmfV8L6KUCU2) | 2:57 | 2025-10-16 | 2025-11-14 |
-| [Da bist du](https://open.spotify.com/track/2mJoUvc33ZT3FeuIHeygMF) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Da bist du](https://open.spotify.com/album/4bSGV5Yq38J8jcwmZugMfQ) | 2:14 | 2025-10-24 |  |
+| [Da bist du](https://open.spotify.com/track/2mJoUvc33ZT3FeuIHeygMF) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Da bist du](https://open.spotify.com/album/4bSGV5Yq38J8jcwmZugMfQ) | 2:14 | 2025-10-24 | 2025-12-12 |
 | [DAME DE PIQUE](https://open.spotify.com/track/0N9qqWHtdzlvTwPyeappjH) | [Mia Oud](https://open.spotify.com/artist/65AflfF9AgRyhp7Dpc2yGD), [QUARTZ](https://open.spotify.com/artist/6IUYieqhxuuDEMav8i1yiV) | [DAME DE PIQUE](https://open.spotify.com/album/5EmLiEhLwKmA8HZaYGEoXE) | 2:43 | 2025-11-13 | 2025-12-06 |
 | [Dancing Alone Again](https://open.spotify.com/track/6B4zn4wOOrNGpPc6Sg54Oo) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [Dancing Alone Again](https://open.spotify.com/album/6r1STi3YoZcpBOoWBaEK1C) | 3:11 | 2025-08-28 |  |
 | [Daredevil](https://open.spotify.com/track/1edoaqKUVDzWNs4flkvNPw) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Daredevil](https://open.spotify.com/album/1eLoAa0EpSIq1QhDUeEgaa) | 2:33 | 2024-06-27 | 2024-08-04 |
@@ -249,7 +250,7 @@
 | [lights on](https://open.spotify.com/track/7gpGBUeWYmB3HP7hAoS94w) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [lights on](https://open.spotify.com/album/4E9WgmKCjBxNtdYwYWJ6Vu) | 3:15 | 2024-12-20 | 2025-01-03 |
 | [Like You Do](https://open.spotify.com/track/2oSQklnarJ2KxcNBr5XB4e) | [Elena Flury](https://open.spotify.com/artist/3Qje1fgX9cfwugPCAG6Uuy) | [Like You Do](https://open.spotify.com/album/57sa9heTy5qcbLqML5Ubj9) | 3:13 | 2025-12-05 |  |
 | [Linger](https://open.spotify.com/track/3ICWCYXPGnRLXS1iB0SzkR) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Linger](https://open.spotify.com/album/2YX2p7h92C7d7ISvDiz5qG) | 4:04 | 2025-02-14 | 2025-04-02 |
-| [Long Year](https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Long Year](https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI) | 3:16 | 2024-10-03 | 2025-02-08 |
+| [Long Year](https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Long Year](https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI) | 3:16 | 2024-10-03 |  |
 | [Los Dos](https://open.spotify.com/track/58189tJfGnaAZtNKFStQVp) | [Cachita](https://open.spotify.com/artist/6CzgU7GybLlPawV1SVBc1V) | [Los Dos](https://open.spotify.com/album/5w88ova33Eob6q7EbeBn0G) | 2:56 | 2024-07-04 | 2024-08-06 |
 | [Lose Control](https://open.spotify.com/track/0Jwvr34wPba4TA2B5Z6PSr) | [ANIKK](https://open.spotify.com/artist/2wvznrRx5MZ2qwqRJPYNmN) | [Lose Control](https://open.spotify.com/album/1kELQM73NVUWomyg32wXJ7) | 2:55 | 2025-06-13 | 2025-07-16 |
 | [Losing Grip](https://open.spotify.com/track/4Vmn4tPZSp6B82XH2KMsHZ) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V) | [Losing Grip](https://open.spotify.com/album/2gQ3GaQhjnXM8M6PlBYAkO) | 2:55 | 2024-08-23 | 2024-12-08 |
@@ -456,7 +457,7 @@
 | [Without My Love](https://open.spotify.com/track/6MLeDTqtMW4oDLgmrCMP1q) | [Dominic Strike](https://open.spotify.com/artist/022hDFiSTA1SSbykVp8D09) | [Without My Love](https://open.spotify.com/album/222SoIbjNhExQMwEExMvek) | 2:56 | 2024-10-11 | 2024-10-19 |
 | [Wolke](https://open.spotify.com/track/18ObNcLsXmhbkka7oeOsNh) | [Gigi Malua](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [Wolke](https://open.spotify.com/album/6k7DbfYsI3OEt3pEK22fXX) | 3:09 | 2025-07-31 | 2025-09-26 |
 | [Yaa Dede](https://open.spotify.com/track/5GgjeY48LU11zjGXXktqkI) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO) | [LUNO V](https://open.spotify.com/album/43q6qDcaoGAZBRAO8TVsCz) | 2:45 | 2025-04-24 | 2025-05-02 |
-| [you & i](https://open.spotify.com/track/7qanXHrGDdACDlCLqiY4qe) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY), [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [you & i](https://open.spotify.com/album/4l4ndt4BmOY2oeoa1qqEst) | 2:05 | 2025-05-22 |  |
+| [you & i](https://open.spotify.com/track/7qanXHrGDdACDlCLqiY4qe) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY), [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [you & i](https://open.spotify.com/album/4l4ndt4BmOY2oeoa1qqEst) | 2:05 | 2025-05-22 | 2025-12-12 |
 | [You Hurt Me](https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [January](https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2) | 2:16 | 2025-02-07 | 2025-12-03 |
 | [You You You](https://open.spotify.com/track/02SfLsj1wEIyFT86dhwi8n) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P), [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH) | [June](https://open.spotify.com/album/4cVvZI4iqSdk3pCsuQQ0HZ) | 2:41 | 2025-06-13 | 2025-07-19 |
 | [Zeilen für dich](https://open.spotify.com/track/79jLtzgfJDXcEbMiTGzOUV) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Zeilen für dich](https://open.spotify.com/album/4aKndM39CDDcGyx1wBYx4P) | 3:17 | 2024-06-27 | 2024-10-12 |

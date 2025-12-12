@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 
 > Our editors' picks for the best Christian, Gospel, and inspirational songs of the year! Cover: ELEVATION RHYTHM
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,611 likes - 90 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,663 likes - 90 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 89 | [Gracias \(Un Viaje Sinfónico de Fe y Esperanza\)](https://open.spotify.com/track/7s5Ot3lOXAqyLfrAhU0qaY) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Memorias](https://open.spotify.com/album/2WQT5EY40VXJxnClhRbDR4) | 4:21 |
 | 90 | [Sin Ti](https://open.spotify.com/track/1w4xJlYy91E64vp3anuXsR) | [Samuel ASH](https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv), [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [Sin Ti](https://open.spotify.com/album/5KVE4Jj6hK3LTKjqohRQFi) | 3:21 |
 
-Snapshot ID: `AAAAAATUW2/NISECSH7PcetvOAUh9jyo`
+Snapshot ID: `AAAAAFwgs8Lq16cxpYjup4FqR9k++XS9`

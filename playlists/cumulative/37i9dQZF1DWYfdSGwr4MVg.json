@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 108302,
       "name": "A Bed of Flowers",
       "url": "https://open.spotify.com/track/5D7xKjmg5QauXzh3LKFZMA"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 111129,
       "name": "A Day At The Beach",
       "url": "https://open.spotify.com/track/23Z4PVfXLICGRdktm9B2Og"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 103057,
       "name": "A Day of Fun",
       "url": "https://open.spotify.com/track/34I4zd3dNRDV3t9Q4oC2iQ"
@@ -70,10 +70,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 102880,
       "name": "A Dream is a Wish Your Heart Makes",
       "url": "https://open.spotify.com/track/2MyRQPmFACxUmt4wdNOxjC"
+    },
+    {
+      "album": {
+        "name": "A New Day",
+        "url": "https://open.spotify.com/album/2XDES5JqUeEDXzx84ufpjh"
+      },
+      "artists": [
+        {
+          "name": "Kim Savege",
+          "url": "https://open.spotify.com/artist/2UdEGunC9lK2FrpV4Rf1gZ"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116853,
+      "name": "A New Day",
+      "url": "https://open.spotify.com/track/0keMrfdayQJUmUSTy7GnCr"
     },
     {
       "album": {
@@ -88,10 +106,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 102866,
       "name": "A Short Walk Home",
       "url": "https://open.spotify.com/track/2vquUPWhUCLYA0LHkp3H3s"
+    },
+    {
+      "album": {
+        "name": "A Sky Full Of Stars",
+        "url": "https://open.spotify.com/album/4mT7YInPD5qViawfUuszEL"
+      },
+      "artists": [
+        {
+          "name": "Soft Piano Project",
+          "url": "https://open.spotify.com/artist/2vzLrRQl85IjC2bGe5U87k"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122696,
+      "name": "A Sky Full Of Stars",
+      "url": "https://open.spotify.com/track/5SPRKDIMosxX8EmUxKHOsa"
     },
     {
       "album": {
@@ -106,7 +142,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 104560,
       "name": "A Soft Morning",
       "url": "https://open.spotify.com/track/3XWPbydiRn9kl6DMWtw33O"
@@ -124,7 +160,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 111062,
       "name": "A Song About You",
       "url": "https://open.spotify.com/track/6dPk8lslYD8QMoAQ4rvW1u"
@@ -142,7 +178,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 71822,
       "name": "A Sunny Trip",
       "url": "https://open.spotify.com/track/4kmAKfwHnKkd3pgiI0jmgs"
@@ -160,10 +196,46 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 110904,
       "name": "A Teddy Tale",
       "url": "https://open.spotify.com/track/3KqmBFnuQafY4kfVB9tCne"
+    },
+    {
+      "album": {
+        "name": "Once Upon a Piano",
+        "url": "https://open.spotify.com/album/3IsrifumCm6Hn5A0XJG8Wo"
+      },
+      "artists": [
+        {
+          "name": "Alistair Corby",
+          "url": "https://open.spotify.com/artist/2AOoX147NTTg0AmU9MmyVE"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141781,
+      "name": "A Whole New World",
+      "url": "https://open.spotify.com/track/4QnrIQM0GrdGWgK9feZWPg"
+    },
+    {
+      "album": {
+        "name": "ABC Song (Ambient)",
+        "url": "https://open.spotify.com/album/0JVORqwlMA4F7pesM33aBT"
+      },
+      "artists": [
+        {
+          "name": "Fukuro III",
+          "url": "https://open.spotify.com/artist/3TBOE0UjXKefc1CTMLqH6V"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140541,
+      "name": "ABC Song (Ambient)",
+      "url": "https://open.spotify.com/track/5tbx6jQqabAvEPONRDbfWo"
     },
     {
       "album": {
@@ -196,10 +268,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 116849,
       "name": "Alone with the Universe",
       "url": "https://open.spotify.com/track/2AnLW12ghaD2AyIq7i1q3F"
+    },
+    {
+      "album": {
+        "name": "Another Paradise",
+        "url": "https://open.spotify.com/album/3ARh38qhCboWb46AxtKjIC"
+      },
+      "artists": [
+        {
+          "name": "Jon Hahn",
+          "url": "https://open.spotify.com/artist/3zWZnYKBfaRBcVHbIFJclA"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123150,
+      "name": "Another Paradise",
+      "url": "https://open.spotify.com/track/5d8zXu1GgyX5yFCnUFe50l"
     },
     {
       "album": {
@@ -214,7 +304,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 109229,
       "name": "Are You Sleeping",
       "url": "https://open.spotify.com/track/1X5IYTqpcIqj0WsBUEB33c"
@@ -250,7 +340,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 95374,
       "name": "Baby shark",
       "url": "https://open.spotify.com/track/3L5NdDhcagFkwLcMpbTDHK"
@@ -275,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Berceuse Dolly",
+        "url": "https://open.spotify.com/album/29fEZIjdRhU7baXxvszRcM"
+      },
+      "artists": [
+        {
+          "name": "Charles Karmen",
+          "url": "https://open.spotify.com/artist/7ircMSExoOtbznTOVHpIen"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130185,
+      "name": "Berceuse Dolly",
+      "url": "https://open.spotify.com/track/7vXhDzU0DlbbfWqo9cAAjJ"
+    },
+    {
+      "album": {
         "name": "Beyond the Rainbow",
         "url": "https://open.spotify.com/album/4vkQn55nfuN8r9NNaDj8bn"
       },
@@ -293,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Blanket of Dreams",
+        "url": "https://open.spotify.com/album/18Byp1norG0ZfPkdwRr6Cz"
+      },
+      "artists": [
+        {
+          "name": "Nunight Songs",
+          "url": "https://open.spotify.com/artist/0ieWgvl8rMwl8uO7K9z1xY"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95478,
+      "name": "Blanket of Dreams",
+      "url": "https://open.spotify.com/track/4kpB4Hl32Yft2Bw1UJlStM"
+    },
+    {
+      "album": {
         "name": "Blessed Assurance",
         "url": "https://open.spotify.com/album/0AOKQEjQn5AV2HzDaQT6ob"
       },
@@ -304,7 +430,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 184734,
       "name": "Blessed Assurance",
       "url": "https://open.spotify.com/track/3teu4DGIFRkjK2bSNTaXdf"
@@ -322,10 +448,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 161216,
       "name": "Blissful Reverie",
       "url": "https://open.spotify.com/track/1NdUEVPr0YTCLEBLIbPXP6"
+    },
+    {
+      "album": {
+        "name": "Blu-Blu's Lullaby",
+        "url": "https://open.spotify.com/album/6iG9UbiNVwJRgik5rkCfR5"
+      },
+      "artists": [
+        {
+          "name": "Felicia Anderstig",
+          "url": "https://open.spotify.com/artist/41mDXDPCrvPXIwGyyrtBOT"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103728,
+      "name": "Blu-Blu's Lullaby",
+      "url": "https://open.spotify.com/track/6fx1H7LjByv10H69MrH3Oa"
     },
     {
       "album": {
@@ -362,10 +506,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 152000,
       "name": "Brahms Lullaby",
       "url": "https://open.spotify.com/track/6bthZmZoyjO3lChtcfkP5p"
+    },
+    {
+      "album": {
+        "name": "Baby Sleep Music",
+        "url": "https://open.spotify.com/album/3uPRIr3zWC1RuizWLgTMuC"
+      },
+      "artists": [
+        {
+          "name": "Lullaby Time",
+          "url": "https://open.spotify.com/artist/5AUPJRWkYNsxRWihENePtH"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106084,
+      "name": "Brahms Lullaby",
+      "url": "https://open.spotify.com/track/5UAN29M5pGWHmD0MkzxOIM"
     },
     {
       "album": {
@@ -380,7 +542,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 136622,
       "name": "Bunny's Long Day",
       "url": "https://open.spotify.com/track/4jF05u53o27CklqVi725z9"
@@ -398,10 +560,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 98793,
       "name": "Buttercup",
       "url": "https://open.spotify.com/track/5ChpPOAYiusp1c3wbZdW11"
+    },
+    {
+      "album": {
+        "name": "Twinkle Twinkle Little Star & Other Lullabies",
+        "url": "https://open.spotify.com/album/1JaRXKSFngHEZJaENQuKa7"
+      },
+      "artists": [
+        {
+          "name": "Sleepyheadz",
+          "url": "https://open.spotify.com/artist/62oZoJD3Z6FCTB60nmTImS"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250666,
+      "name": "Can You Feel the Love Tonight (From \"The Lion King\") - Piano Lullaby Version",
+      "url": "https://open.spotify.com/track/2bOh00jX47DuPOLl4tFihp"
     },
     {
       "album": {
@@ -416,10 +596,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 168119,
       "name": "Candle",
       "url": "https://open.spotify.com/track/6NgpEQZnBj7mPls6Po5nFf"
+    },
+    {
+      "album": {
+        "name": "Chasing Cars (Music Box)",
+        "url": "https://open.spotify.com/album/7iEpXq13h1L4ayUMtrdVt3"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e9o Varnen",
+          "url": "https://open.spotify.com/artist/6PbAsVtxY2Gq9RRMoarwrp"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137624,
+      "name": "Chasing Cars (Night Crickets)",
+      "url": "https://open.spotify.com/track/6S4XwzKHepmMCQMzKCaWRU"
     },
     {
       "album": {
@@ -434,7 +632,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 120719,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/1y5trCWdW2mqGjYhOguDxe"
@@ -452,7 +650,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 96299,
       "name": "Counting Stars",
       "url": "https://open.spotify.com/track/0wbVhmhAHc7c5eBcK1GuuZ"
@@ -470,10 +668,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 126157,
       "name": "Daisy Dreamer",
       "url": "https://open.spotify.com/track/0MG263rnL0vcfbqdEnvigD"
+    },
+    {
+      "album": {
+        "name": "Dancing Fireflies",
+        "url": "https://open.spotify.com/album/0j63BGzUiOKGi4bEY3xTwr"
+      },
+      "artists": [
+        {
+          "name": "Antonio Conti",
+          "url": "https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143504,
+      "name": "Dancing Fireflies",
+      "url": "https://open.spotify.com/track/6ZMmtKb1GiuSRMgoPnGVES"
     },
     {
       "album": {
@@ -488,7 +704,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 108222,
       "name": "Danny Boy",
       "url": "https://open.spotify.com/track/0QF4MNFTZTBkIMt2hI2s8P"
@@ -524,10 +740,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 124500,
       "name": "Dreambear",
       "url": "https://open.spotify.com/track/6JKkegxsYmFJ2HbjLxwz9O"
+    },
+    {
+      "album": {
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/4aKoFnR3eBgBss8CTRObWj"
+      },
+      "artists": [
+        {
+          "name": "Tim Broening",
+          "url": "https://open.spotify.com/artist/1abibzO1dwTLDIGaZN7J3X"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120923,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/4VtouWVi0SZGX5WRZrspP0"
     },
     {
       "album": {
@@ -542,10 +776,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 93374,
       "name": "Dreamland Awaits You Tonight",
       "url": "https://open.spotify.com/track/6zahDvR3tFLi1ofUnyDA7U"
+    },
+    {
+      "album": {
+        "name": "Dreamland Slumber",
+        "url": "https://open.spotify.com/album/4jfBq8OPMte19SKSBNDegB"
+      },
+      "artists": [
+        {
+          "name": "Nina Cahill",
+          "url": "https://open.spotify.com/artist/4mMl7ZBZOAJ47hulYLVsXT"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148203,
+      "name": "Dreamland Slumber",
+      "url": "https://open.spotify.com/track/026pdCihFz2XrI9OH7HinX"
     },
     {
       "album": {
@@ -560,10 +812,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 123900,
       "name": "Dreams Of The Night",
       "url": "https://open.spotify.com/track/0zdhDS1mIBjxOh2p7DB9Tb"
+    },
+    {
+      "album": {
+        "name": "Dreams Shine Bright In The Middle Of The Night",
+        "url": "https://open.spotify.com/album/6lPcdAyIiqnm4ux1fYwcCr"
+      },
+      "artists": [
+        {
+          "name": "Leo Button",
+          "url": "https://open.spotify.com/artist/2OFHAfDosm7QmMH9DtQKFt"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139366,
+      "name": "Dreams Shine Bright In The Middle Of The Night",
+      "url": "https://open.spotify.com/track/2JdLFqHyLl3cPuow8GZrld"
     },
     {
       "album": {
@@ -578,7 +848,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 99968,
       "name": "Dreamy Blue Skies",
       "url": "https://open.spotify.com/track/0d40MSLNaKFXjFuZguT6G6"
@@ -596,7 +866,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 79156,
       "name": "Drifting Off",
       "url": "https://open.spotify.com/track/6XFxCAlMKQ22za0hPQZm5T"
@@ -614,7 +884,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 100330,
       "name": "Ears Hang Low",
       "url": "https://open.spotify.com/track/6bC2n5VyJ6IbCNsCTancQm"
@@ -650,7 +920,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 146192,
       "name": "Embers Fade",
       "url": "https://open.spotify.com/track/111gGpmdZxoeMRKjLsHQnC"
@@ -668,7 +938,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 179762,
       "name": "Everlasting God",
       "url": "https://open.spotify.com/track/3nn5g64f4o2O1fFsYo1gWM"
@@ -686,7 +956,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 89874,
       "name": "Fairytales Land",
       "url": "https://open.spotify.com/track/2Xlio7XTJ68wIbaAgctKJF"
@@ -704,7 +974,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 146320,
       "name": "Fathoms Below",
       "url": "https://open.spotify.com/track/4454KBnQESBQnvtf6tlxh3"
@@ -722,7 +992,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 195718,
       "name": "Feels Like Heaven",
       "url": "https://open.spotify.com/track/261tOdDLtEsFKx9waaDBDo"
@@ -740,10 +1010,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 95456,
       "name": "First Day of Summer",
       "url": "https://open.spotify.com/track/4UcTJhrPdOxRyFzupm95bi"
+    },
+    {
+      "album": {
+        "name": "Fix You (Piano Cover)",
+        "url": "https://open.spotify.com/album/3M0H1cet1TiXNadgx01YTl"
+      },
+      "artists": [
+        {
+          "name": "Hidden Piano",
+          "url": "https://open.spotify.com/artist/4kC7loyy2JK3tXtxLCyr4m"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Fix You (Piano Cover)",
+      "url": "https://open.spotify.com/track/6PckyKphO4OgnFGR6Yi5Py"
     },
     {
       "album": {
@@ -758,7 +1046,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 132454,
       "name": "Flower Lullaby",
       "url": "https://open.spotify.com/track/4Hdw83m65gyk01m1NSWT0C"
@@ -776,7 +1064,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 118000,
       "name": "Fluffy pillow",
       "url": "https://open.spotify.com/track/1wpXNZECjD67KJfaJptxnG"
@@ -794,7 +1082,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 108210,
       "name": "Fly Butterfly",
       "url": "https://open.spotify.com/track/3H4SDNeQ2AZf1Ein1eNrpN"
@@ -812,7 +1100,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 93580,
       "name": "Flying At Night",
       "url": "https://open.spotify.com/track/6mVnUo4zrUPw9Kkb0M2wAh"
@@ -830,7 +1118,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 104750,
       "name": "Forever And Ever",
       "url": "https://open.spotify.com/track/6kegD00kMojbCnvI3CnPJJ"
@@ -848,7 +1136,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 136500,
       "name": "Free Like A Bird",
       "url": "https://open.spotify.com/track/5isCRIO6O1YwJ0tDg2RRxM"
@@ -866,10 +1154,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 121123,
       "name": "From Me to You",
       "url": "https://open.spotify.com/track/3twIESjUSaC1Y1fHJ32XBd"
+    },
+    {
+      "album": {
+        "name": "Fr\u00e8re Jacques",
+        "url": "https://open.spotify.com/album/1TsVY3epI2TKiKgA9KJ3i7"
+      },
+      "artists": [
+        {
+          "name": "Otis Meadow",
+          "url": "https://open.spotify.com/artist/4vnYAza7qzjL5eUwP0yAN8"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128096,
+      "name": "Fr\u00e8re Jacques",
+      "url": "https://open.spotify.com/track/7EbacD7n2TGpCboGcUDMg1"
     },
     {
       "album": {
@@ -884,7 +1190,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 104333,
       "name": "Gentle Nightfall",
       "url": "https://open.spotify.com/track/02rnRDyPFZo92BDKmJc75L"
@@ -902,7 +1208,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 143441,
       "name": "Gentle Summer Whisper",
       "url": "https://open.spotify.com/track/5tVlmRlcwpDtE5VN9cumxF"
@@ -920,7 +1226,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 131562,
       "name": "Gently Cradle",
       "url": "https://open.spotify.com/track/5k1LfmLmkpgxL6iwwcwyuQ"
@@ -938,7 +1244,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 89750,
       "name": "Go Tell it On the Mountain",
       "url": "https://open.spotify.com/track/5HPIg89L5vAPAeGOdnfWbD"
@@ -992,7 +1298,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 127000,
       "name": "Green Grass",
       "url": "https://open.spotify.com/track/4lCwzwGz9D5BoxHKsyMBVJ"
@@ -1010,7 +1316,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 107709,
       "name": "Happy Thoughts",
       "url": "https://open.spotify.com/track/5sVXeMDbBvCBYP9Ff22MUp"
@@ -1028,7 +1334,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 90415,
       "name": "Home Sweet Home",
       "url": "https://open.spotify.com/track/7zi4cejvZlNOJ4L3zShTpk"
@@ -1046,10 +1352,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 102140,
       "name": "Horizon of Dreams",
       "url": "https://open.spotify.com/track/45YaGyuLCbPaPpOE08IDXd"
+    },
+    {
+      "album": {
+        "name": "Baby Sleep Music",
+        "url": "https://open.spotify.com/album/3uPRIr3zWC1RuizWLgTMuC"
+      },
+      "artists": [
+        {
+          "name": "Lullaby Time",
+          "url": "https://open.spotify.com/artist/5AUPJRWkYNsxRWihENePtH"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112667,
+      "name": "Hush Little Baby",
+      "url": "https://open.spotify.com/track/0M7RIDLtqFSAt0JmdbJOLA"
     },
     {
       "album": {
@@ -1064,7 +1388,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 104500,
       "name": "Hush Little Baby",
       "url": "https://open.spotify.com/track/3dZsGdzWYHCOXiikBixgmI"
@@ -1082,7 +1406,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 75565,
       "name": "I Am A Tree",
       "url": "https://open.spotify.com/track/0k1SFEKCVR8kjNNpkaWelN"
@@ -1100,7 +1424,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 87867,
       "name": "I Had a Rooster",
       "url": "https://open.spotify.com/track/4PQwVsOmgZWxYYd1YEJQGK"
@@ -1118,10 +1442,46 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 100349,
       "name": "I'm a Little Teapot",
       "url": "https://open.spotify.com/track/0a7nCIeNIGp9JGm3rgRYNK"
+    },
+    {
+      "album": {
+        "name": "Idas Summersong",
+        "url": "https://open.spotify.com/album/0yJGLsnL7ZV7J5alr7ENlN"
+      },
+      "artists": [
+        {
+          "name": "Adrian Berg",
+          "url": "https://open.spotify.com/artist/1phUimQWJsdDP0xu7KXYnt"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126975,
+      "name": "Idas Summersong",
+      "url": "https://open.spotify.com/track/1y7hLr1xdKZC8gg2AXCr4w"
+    },
+    {
+      "album": {
+        "name": "If You're Happy and You Know It",
+        "url": "https://open.spotify.com/album/2CMW5ujNgbWrp653DW5axw"
+      },
+      "artists": [
+        {
+          "name": "Dolly Lucas",
+          "url": "https://open.spotify.com/artist/5m46u42gQkF6XpMO1xO4zs"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106800,
+      "name": "If You're Happy and You Know It",
+      "url": "https://open.spotify.com/track/4fsVpFCz0aXdw9vbu2wZ3h"
     },
     {
       "album": {
@@ -1136,7 +1496,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 89374,
       "name": "Isolde\u2019s dream",
       "url": "https://open.spotify.com/track/3EbKqMFaqKVt1pSgper4xm"
@@ -1172,7 +1532,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 138533,
       "name": "It's Gonna Be Better",
       "url": "https://open.spotify.com/track/0YN3vjs8wb1DnVYLQmttMc"
@@ -1208,7 +1568,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 103154,
       "name": "Jellybean Dreams",
       "url": "https://open.spotify.com/track/7CZbJbtK9fVzYHf0o9axsk"
@@ -1226,10 +1586,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 121482,
       "name": "John Blund",
       "url": "https://open.spotify.com/track/3TptFEpWAROx6OhMIoEnJr"
+    },
+    {
+      "album": {
+        "name": "Jumping Sheep",
+        "url": "https://open.spotify.com/album/4WrIALGCkQrdkePdo737JL"
+      },
+      "artists": [
+        {
+          "name": "Ishaq Love",
+          "url": "https://open.spotify.com/artist/6SZObXUJQ4ypexiBQUyEEC"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90809,
+      "name": "Jumping Sheep",
+      "url": "https://open.spotify.com/track/5MzOtNie6b5crhh2wc2FPQ"
     },
     {
       "album": {
@@ -1244,7 +1622,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 145189,
       "name": "Lavender Lullabies",
       "url": "https://open.spotify.com/track/6qP9buV4EOg2ePilB6PbU2"
@@ -1262,7 +1640,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 116250,
       "name": "Left And Right",
       "url": "https://open.spotify.com/track/0H9uhbL0BrrV7iMnNovlIr"
@@ -1280,7 +1658,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 81239,
       "name": "Leo the Lion",
       "url": "https://open.spotify.com/track/3T4LWuYdxwyejPxCQeM0B9"
@@ -1298,7 +1676,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 123737,
       "name": "Little Dragon's Lullaby",
       "url": "https://open.spotify.com/track/6fOe1dLvD3bbJ9Nloabwgd"
@@ -1316,7 +1694,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 131940,
       "name": "Little Lady Bird",
       "url": "https://open.spotify.com/track/6xOH1jKAX6XcMKR4w5XEy4"
@@ -1334,7 +1712,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 113000,
       "name": "Little Miss Sunshine",
       "url": "https://open.spotify.com/track/2Grl65Cu4KlHfioza8Hlhf"
@@ -1352,7 +1730,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 78000,
       "name": "Little pony",
       "url": "https://open.spotify.com/track/3Qyy4PT4gWJVedjM31t2gE"
@@ -1370,7 +1748,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 129768,
       "name": "Little Spring Song",
       "url": "https://open.spotify.com/track/2AtS0OYVTIBxRRgWGioJrl"
@@ -1388,10 +1766,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 132500,
       "name": "London Bridge",
       "url": "https://open.spotify.com/track/3D0h9ZFiwZqL068mV7Fj0X"
+    },
+    {
+      "album": {
+        "name": "London Bridge Is Falling Down",
+        "url": "https://open.spotify.com/album/6gkPmUL3MA9TnMmZ0cqK1B"
+      },
+      "artists": [
+        {
+          "name": "Caleb Ivers",
+          "url": "https://open.spotify.com/artist/3AnK8UYmBEla3FNyXMNMCX"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71483,
+      "name": "London Bridge Is Falling Down (Night Crickets)",
+      "url": "https://open.spotify.com/track/1vvn9asSNieJXVTBPjCXbr"
     },
     {
       "album": {
@@ -1406,10 +1802,46 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 109070,
       "name": "Love Bug",
       "url": "https://open.spotify.com/track/685c9VoJraxzPKBIn8jRZz"
+    },
+    {
+      "album": {
+        "name": "Lullaby Dreams",
+        "url": "https://open.spotify.com/album/1e7A2cGJDY0lBFnTXMYwXN"
+      },
+      "artists": [
+        {
+          "name": "Nursery Notes",
+          "url": "https://open.spotify.com/artist/7soAV56CK1DiSXAkZMnl0k"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112043,
+      "name": "Lullaby Dreams",
+      "url": "https://open.spotify.com/track/77Dv2gSPuRq0C15l6tfr9o"
+    },
+    {
+      "album": {
+        "name": "Lullaby for the Moon",
+        "url": "https://open.spotify.com/album/6E506QkeWKziWE2rRJQu5X"
+      },
+      "artists": [
+        {
+          "name": "Zachary Keys",
+          "url": "https://open.spotify.com/artist/6E2LwU4Tpdlf6Adjx89Wxv"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114652,
+      "name": "Lullaby for the Moon",
+      "url": "https://open.spotify.com/track/4x9FHjupVlbnUGbLIlBAsc"
     },
     {
       "album": {
@@ -1424,7 +1856,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 157826,
       "name": "Magical Night",
       "url": "https://open.spotify.com/track/1uPwR87YlNgWLBqGFiOV4f"
@@ -1442,7 +1874,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 142853,
       "name": "Marshmallow Tree",
       "url": "https://open.spotify.com/track/3cN7ZCutut4X12rLAFTyPg"
@@ -1460,7 +1892,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 104624,
       "name": "Mary Had A Little Lamb",
       "url": "https://open.spotify.com/track/5AsiJLgAt6sHiT1t1u2VKo"
@@ -1496,7 +1928,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 83373,
       "name": "Mister Rabbit",
       "url": "https://open.spotify.com/track/3vjdVYb1TiEm4vmoXvIucK"
@@ -1514,7 +1946,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 124671,
       "name": "Moon and Giggles",
       "url": "https://open.spotify.com/track/5tYISO16tk1oYB8VeqvtBF"
@@ -1536,6 +1968,24 @@
       "duration_ms": 86128,
       "name": "Moonbeam Melodies",
       "url": "https://open.spotify.com/track/244rZYVyOy9bVUbfPZ3fWE"
+    },
+    {
+      "album": {
+        "name": "Moonlight Snuggles (White Noise Version)",
+        "url": "https://open.spotify.com/album/2mmZgpncTniGYYfWfBhEPR"
+      },
+      "artists": [
+        {
+          "name": "Nursery Notes",
+          "url": "https://open.spotify.com/artist/7soAV56CK1DiSXAkZMnl0k"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147652,
+      "name": "Moonlight Snuggles (White Noise Version)",
+      "url": "https://open.spotify.com/track/61FGLNl2ZfJGuJR9ba8yrJ"
     },
     {
       "album": {
@@ -1568,7 +2018,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 86794,
       "name": "My Best Duck",
       "url": "https://open.spotify.com/track/1DZBZifutZkEfVJbnCXS4w"
@@ -1586,7 +2036,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 108105,
       "name": "My BFF",
       "url": "https://open.spotify.com/track/3ChAmrKYXUcgt720JkVfnb"
@@ -1604,10 +2054,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 58624,
       "name": "My Bonnie lies over the ocean",
       "url": "https://open.spotify.com/track/7ClgKhsbFMHT6SctPSBezr"
+    },
+    {
+      "album": {
+        "name": "My Bonnie Lies Over The Ocean",
+        "url": "https://open.spotify.com/album/0huNKySzANDu6qcp1T6p6q"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e9o Varnen",
+          "url": "https://open.spotify.com/artist/6PbAsVtxY2Gq9RRMoarwrp"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103508,
+      "name": "My Bonnie Lies Over The Ocean (Night Crickets)",
+      "url": "https://open.spotify.com/track/7CyH18N3gZ5SnFYUBsbmFI"
     },
     {
       "album": {
@@ -1622,7 +2090,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 132137,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/4VB2GlTon1tRqsiTEkhFzk"
@@ -1640,7 +2108,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 104040,
       "name": "My Favorite Elephant",
       "url": "https://open.spotify.com/track/3NJCcsWSKBPScciA7fdFKZ"
@@ -1658,7 +2126,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 119466,
       "name": "My Favourite Lullaby",
       "url": "https://open.spotify.com/track/4xnbJtpHrRhC4Nsiv267uV"
@@ -1701,6 +2169,24 @@
     },
     {
       "album": {
+        "name": "Baby Love : Lullaby Love Songs for You and Your Baby",
+        "url": "https://open.spotify.com/album/2NquGCNpNSIPCTY3McXqdl"
+      },
+      "artists": [
+        {
+          "name": "Sleepyheadz",
+          "url": "https://open.spotify.com/artist/62oZoJD3Z6FCTB60nmTImS"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262800,
+      "name": "My Heart Will Go On - Piano Lullaby Version",
+      "url": "https://open.spotify.com/track/6dVar1EA8RusvsNZMl1NgY"
+    },
+    {
+      "album": {
         "name": "My little Toy Parade",
         "url": "https://open.spotify.com/album/57f65VnrCanB0TBOtxMXVa"
       },
@@ -1730,10 +2216,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 157865,
       "name": "My Moonlight",
       "url": "https://open.spotify.com/track/37bKSz4TZdTjPbCuPhTOS2"
+    },
+    {
+      "album": {
+        "name": "My Precious Treasure",
+        "url": "https://open.spotify.com/album/0AwYqKnIaqpLO4OAS5ZtAb"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Field",
+          "url": "https://open.spotify.com/artist/7Gtec1QxUIERMANJeaEQNg"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "My Precious Treasure",
+      "url": "https://open.spotify.com/track/02j7qBaJKEYbl0bNVePpZf"
     },
     {
       "album": {
@@ -1748,7 +2252,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 92000,
       "name": "My Raincoat",
       "url": "https://open.spotify.com/track/04yKwXnspkmDJp8zDpYnr9"
@@ -1766,7 +2270,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 96274,
       "name": "Naptime",
       "url": "https://open.spotify.com/track/6Tbvu4mMCggytKba7slRcg"
@@ -1784,7 +2288,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 106253,
       "name": "Naptime for Bunny Frances",
       "url": "https://open.spotify.com/track/1oOAKL8rQv99RiZRlLmmFV"
@@ -1802,10 +2306,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 96000,
       "name": "Off to Sleep",
       "url": "https://open.spotify.com/track/7rEArgsyHpy5KRGw0JeNy7"
+    },
+    {
+      "album": {
+        "name": "Oh My Darlin",
+        "url": "https://open.spotify.com/album/1Je78Pi20XzeRZfyRnfMBG"
+      },
+      "artists": [
+        {
+          "name": "Fukuro III",
+          "url": "https://open.spotify.com/artist/3TBOE0UjXKefc1CTMLqH6V"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106958,
+      "name": "Oh My Darlin",
+      "url": "https://open.spotify.com/track/6i81Ro9sDVidhqfoFwVFZA"
     },
     {
       "album": {
@@ -1820,7 +2342,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 119000,
       "name": "Once I Caught a Fish Alive",
       "url": "https://open.spotify.com/track/0Sy396JCnARH9rvfnSro8S"
@@ -1838,7 +2360,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 97823,
       "name": "Once Upon a December",
       "url": "https://open.spotify.com/track/4Ct2FBRIzgXjrLGlql3JvG"
@@ -1856,10 +2378,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 116496,
       "name": "Pancake Friends",
       "url": "https://open.spotify.com/track/5rlXkgZJPZdeKHJhIC7OdR"
+    },
+    {
+      "album": {
+        "name": "Baby Sleep Music",
+        "url": "https://open.spotify.com/album/3uPRIr3zWC1RuizWLgTMuC"
+      },
+      "artists": [
+        {
+          "name": "Lullaby Time",
+          "url": "https://open.spotify.com/artist/5AUPJRWkYNsxRWihENePtH"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135341,
+      "name": "Peaceful Sleep",
+      "url": "https://open.spotify.com/track/4hhwyBxns9O6XIDQzL7bvF"
     },
     {
       "album": {
@@ -1874,7 +2414,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 137719,
       "name": "Pebbles",
       "url": "https://open.spotify.com/track/0XEA4ZTY7m2VkeCBr8NlN1"
@@ -1892,7 +2432,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 89321,
       "name": "Petal-soft",
       "url": "https://open.spotify.com/track/4w783qm4zlrrFDL8Uov6tR"
@@ -1910,7 +2450,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 113576,
       "name": "Petite Journey",
       "url": "https://open.spotify.com/track/5bLD4xsq1eJ4y3dsvLFzAj"
@@ -1928,7 +2468,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 107890,
       "name": "Playing With Leaves",
       "url": "https://open.spotify.com/track/0swfhyV723N4nOZDegevHF"
@@ -1946,10 +2486,46 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 94410,
       "name": "Polly Wolly Doodle",
       "url": "https://open.spotify.com/track/6k3zfD44SLtPDPqysgTYd9"
+    },
+    {
+      "album": {
+        "name": "Pop Goes The Weasel",
+        "url": "https://open.spotify.com/album/1ljiNQ1Z5gJUkC6Q6juaWb"
+      },
+      "artists": [
+        {
+          "name": "Wazi Sleeps",
+          "url": "https://open.spotify.com/artist/5GNQMGymMgSYLBx6olmLum"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179505,
+      "name": "Pop Goes The Weasel",
+      "url": "https://open.spotify.com/track/17ePAx0HeymVaNTLdZSq6j"
+    },
+    {
+      "album": {
+        "name": "Pray For A Better Day",
+        "url": "https://open.spotify.com/album/3QN9W77b0YSgKIZCGXcUzZ"
+      },
+      "artists": [
+        {
+          "name": "Willow Leaf",
+          "url": "https://open.spotify.com/artist/0kXI6vuhwYJE1daFSIduNU"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160491,
+      "name": "Pray For A Better Day",
+      "url": "https://open.spotify.com/track/39zzCzSyzdR6stAihvlenT"
     },
     {
       "album": {
@@ -1964,7 +2540,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 230624,
       "name": "Rest My Sweet",
       "url": "https://open.spotify.com/track/51z1KkfB6UBJIKWtBUQGzF"
@@ -2018,7 +2594,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 138648,
       "name": "Runes Lullaby",
       "url": "https://open.spotify.com/track/1nbLNWC4teVXOTCVwqj2WD"
@@ -2036,7 +2612,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 118031,
       "name": "Sailing on a Banana",
       "url": "https://open.spotify.com/track/6e6rTPwXvYPnpistQAtmbP"
@@ -2072,10 +2648,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 89142,
       "name": "Sandscape",
       "url": "https://open.spotify.com/track/2fEh6nwa96GLrsusJy7hjX"
+    },
+    {
+      "album": {
+        "name": "Silver Waves",
+        "url": "https://open.spotify.com/album/0CGgXj89voDyPZJZiKGleA"
+      },
+      "artists": [
+        {
+          "name": "Graham Lullington",
+          "url": "https://open.spotify.com/artist/0eFEGw7eoz5CUwfvssyzjK"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120656,
+      "name": "Silver Waves",
+      "url": "https://open.spotify.com/track/0aGeAVS6y32PKV3lRmGLGD"
     },
     {
       "album": {
@@ -2090,7 +2684,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 131753,
       "name": "Six Little Ducks",
       "url": "https://open.spotify.com/track/6sUZBaPMhSdDikzjxSVFJw"
@@ -2115,6 +2709,42 @@
     },
     {
       "album": {
+        "name": "Sleep Little One",
+        "url": "https://open.spotify.com/album/0Blgpiro758Jg0z1Ok1dGF"
+      },
+      "artists": [
+        {
+          "name": "In A Paper Box",
+          "url": "https://open.spotify.com/artist/0kNpGrqq2EufgIkyVIae45"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Sleep Little One",
+      "url": "https://open.spotify.com/track/2TRry9U8VH8yoZtImkGdpK"
+    },
+    {
+      "album": {
+        "name": "Sleepy Kite",
+        "url": "https://open.spotify.com/album/4Kn7NOOX7qrvGc8ZIUMZeH"
+      },
+      "artists": [
+        {
+          "name": "Hugo Jepson",
+          "url": "https://open.spotify.com/artist/2mLRoDsrsQQjeSCTBAPZfM"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123293,
+      "name": "Sleepy Kite",
+      "url": "https://open.spotify.com/track/3XYaeZYuIth1bFo3mXIZr7"
+    },
+    {
+      "album": {
         "name": "Sleepy Sails and Dreamy Trails",
         "url": "https://open.spotify.com/album/6a8fpBjySVbEsz01LaCq46"
       },
@@ -2126,7 +2756,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 105293,
       "name": "Sleepy Sails and Dreamy Trails",
       "url": "https://open.spotify.com/track/4q2BSCV9zbfqvjcg2mUu90"
@@ -2162,7 +2792,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 104000,
       "name": "Sleepy Sunsets",
       "url": "https://open.spotify.com/track/4sr6QHv1sfNmYmGenPxFi6"
@@ -2187,6 +2817,60 @@
     },
     {
       "album": {
+        "name": "Sneaky Summer Time",
+        "url": "https://open.spotify.com/album/1MUS8f1s5cDpWI7MOdLzz9"
+      },
+      "artists": [
+        {
+          "name": "Butterfly Forest",
+          "url": "https://open.spotify.com/artist/7ILiN5iUfdcOWOZgjKkch5"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96590,
+      "name": "Sneaky Summer Time",
+      "url": "https://open.spotify.com/track/4MdiyrPUVrUKZQn2fpx0yJ"
+    },
+    {
+      "album": {
+        "name": "Somone Like You (Music Box)",
+        "url": "https://open.spotify.com/album/50izmBZBK1f2OT1iemeGN3"
+      },
+      "artists": [
+        {
+          "name": "Caleb Ivers",
+          "url": "https://open.spotify.com/artist/3AnK8UYmBEla3FNyXMNMCX"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111351,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/665r5PuXtSkZkbinz60DhK"
+    },
+    {
+      "album": {
+        "name": "Somewhere Over the Rainbow",
+        "url": "https://open.spotify.com/album/4ZnsQGid6RYqiJe55Ro3Ey"
+      },
+      "artists": [
+        {
+          "name": "Thomas Kessler",
+          "url": "https://open.spotify.com/artist/7gladxebEaXEnycRmspgzJ"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141774,
+      "name": "Somewhere Over the Rainbow",
+      "url": "https://open.spotify.com/track/7pKVxdbAoEt0meMwn0hH6Y"
+    },
+    {
+      "album": {
         "name": "Star Sky's Blanket",
         "url": "https://open.spotify.com/album/4hYbzwjXT6IqA0O0s3Q1N1"
       },
@@ -2198,7 +2882,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 120346,
       "name": "Star Sky's Blanket",
       "url": "https://open.spotify.com/track/16Us8p8aa39ybG8SUWXFoQ"
@@ -2216,7 +2900,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 78545,
       "name": "Stay Awake",
       "url": "https://open.spotify.com/track/5neb96Off8O3IxZ4GuYHZh"
@@ -2234,10 +2918,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 112040,
       "name": "Summer Rain Lullaby",
       "url": "https://open.spotify.com/track/1tqpXIIpSt37fwvTnd0eaD"
+    },
+    {
+      "album": {
+        "name": "Sun beams",
+        "url": "https://open.spotify.com/album/0ZUBHJj1aK77EInPesVVME"
+      },
+      "artists": [
+        {
+          "name": "Tony Delvin",
+          "url": "https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84384,
+      "name": "Sun beams",
+      "url": "https://open.spotify.com/track/2tG4oky6ms9XfiXNSWK5YZ"
     },
     {
       "album": {
@@ -2252,7 +2954,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 120283,
       "name": "Sunny Days",
       "url": "https://open.spotify.com/track/3HjletFkHbRp3LBzgKtGkF"
@@ -2270,7 +2972,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 80500,
       "name": "Sunshine Song",
       "url": "https://open.spotify.com/track/6hicKBEJhWxv7QYQMyU7Mr"
@@ -2288,7 +2990,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 83033,
       "name": "Sweet Child Of Mine",
       "url": "https://open.spotify.com/track/5CagvKjDmV0febzGggWu60"
@@ -2306,7 +3008,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 93889,
       "name": "Take Me Out to the Ball Game",
       "url": "https://open.spotify.com/track/26i7uHjympKu1M9rOhOu4N"
@@ -2324,7 +3026,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 132094,
       "name": "Tender Love",
       "url": "https://open.spotify.com/track/1Sj9j66afjsxGjB2sshX0f"
@@ -2342,7 +3044,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 173500,
       "name": "Tendresse",
       "url": "https://open.spotify.com/track/3svNTKcNl6YVGsVh0W4qoQ"
@@ -2360,7 +3062,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 97000,
       "name": "The Blue Danube",
       "url": "https://open.spotify.com/track/3DF3X25T2Uf1nKqXIpRS7j"
@@ -2378,7 +3080,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 79670,
       "name": "The Ever So Elegant Elephant",
       "url": "https://open.spotify.com/track/59c9VlNMSG1rZM6FolL1Zm"
@@ -2396,7 +3098,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 129636,
       "name": "The Garden Gnome",
       "url": "https://open.spotify.com/track/76UrUwppRDeVai7AiWa1HF"
@@ -2414,7 +3116,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 148854,
       "name": "The Little Snoring Owl",
       "url": "https://open.spotify.com/track/5Q5gTO1LRNR0HY8czjdcIG"
@@ -2432,10 +3134,46 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 115000,
       "name": "The Moon And The Stars",
       "url": "https://open.spotify.com/track/1OTGgmMvL0VXOLL1dcVTpB"
+    },
+    {
+      "album": {
+        "name": "The moon is asleep",
+        "url": "https://open.spotify.com/album/2NosPERuCdhB2ZtyB4z4KK"
+      },
+      "artists": [
+        {
+          "name": "Tim Broening",
+          "url": "https://open.spotify.com/artist/1abibzO1dwTLDIGaZN7J3X"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130746,
+      "name": "The moon is asleep",
+      "url": "https://open.spotify.com/track/0inuH1M769Be8iUYuTZ2XS"
+    },
+    {
+      "album": {
+        "name": "The Owl",
+        "url": "https://open.spotify.com/album/4FJE3WxS2nVEskrSJj6Hp4"
+      },
+      "artists": [
+        {
+          "name": "Jon Hahn",
+          "url": "https://open.spotify.com/artist/3zWZnYKBfaRBcVHbIFJclA"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66679,
+      "name": "The Owl",
+      "url": "https://open.spotify.com/track/5MttGVp0L1937EShN9bdhw"
     },
     {
       "album": {
@@ -2450,10 +3188,28 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 112000,
       "name": "The Second Star to the Right",
       "url": "https://open.spotify.com/track/10qFyR0SKMPng0Pnh8UUWn"
+    },
+    {
+      "album": {
+        "name": "The Sleeping Fawn",
+        "url": "https://open.spotify.com/album/1ZWPVr2RK5vY0mZFCjwxuJ"
+      },
+      "artists": [
+        {
+          "name": "Sarah F\u00e9vrier",
+          "url": "https://open.spotify.com/artist/4PSCbqUfRT6yIWGfp7vXdI"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106153,
+      "name": "The Sleeping Fawn",
+      "url": "https://open.spotify.com/track/4BHlEO5G2mBztVv420iF7C"
     },
     {
       "album": {
@@ -2468,7 +3224,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 123682,
       "name": "The Sleepy Sea",
       "url": "https://open.spotify.com/track/0JRJX4a3919BlxqSivKrko"
@@ -2486,10 +3242,46 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 111012,
       "name": "The Sleepy Star",
       "url": "https://open.spotify.com/track/4IpWKogzTDB2jrZCToKJrk"
+    },
+    {
+      "album": {
+        "name": "The Stars Above",
+        "url": "https://open.spotify.com/album/1VN4EGW0fSKxPJl7gFqKmr"
+      },
+      "artists": [
+        {
+          "name": "Laya Amon",
+          "url": "https://open.spotify.com/artist/0oICzQe4s0CgUAuocB6eN9"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126918,
+      "name": "The Stars Above",
+      "url": "https://open.spotify.com/track/0jw4CALrSngxuHDs3fQOsl"
+    },
+    {
+      "album": {
+        "name": "The Up And Down Song",
+        "url": "https://open.spotify.com/album/3Vce2rpEmfUnPqyu6LvtUc"
+      },
+      "artists": [
+        {
+          "name": "Tiny Hush",
+          "url": "https://open.spotify.com/artist/6BzXBD4mURyadXWHwhHWMF"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "The Up And Down Song",
+      "url": "https://open.spotify.com/track/7iLuSyuyvv1JD4uEaOle88"
     },
     {
       "album": {
@@ -2504,7 +3296,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 78624,
       "name": "The Wind-flowers In The Field",
       "url": "https://open.spotify.com/track/5zP8jGE09Px8ID1ZWcvjxZ"
@@ -2522,7 +3314,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 174000,
       "name": "Three Blind Mice",
       "url": "https://open.spotify.com/track/55LGhGlkIKM9fJoDRLu6nZ"
@@ -2540,10 +3332,46 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 131661,
       "name": "Tiny Feet",
       "url": "https://open.spotify.com/track/284u6hvI0b4b9cmMQINdR2"
+    },
+    {
+      "album": {
+        "name": "Tiny Snail",
+        "url": "https://open.spotify.com/album/6QG96NATssXRCBhUuk7jfx"
+      },
+      "artists": [
+        {
+          "name": "Dirk van Arnhem",
+          "url": "https://open.spotify.com/artist/40yZwvRyg1OUOAonHfozfM"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71916,
+      "name": "Tiny Snail",
+      "url": "https://open.spotify.com/track/4FU8ZjOUUY1wac4F7fHD8H"
+    },
+    {
+      "album": {
+        "name": "Tiny Tales",
+        "url": "https://open.spotify.com/album/0MBhakTmB0Xlq2eCAYoU9f"
+      },
+      "artists": [
+        {
+          "name": "Loona Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/2k0OWZxkmZYagyvm0lP2Jz"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113088,
+      "name": "Tiny Tales",
+      "url": "https://open.spotify.com/track/376tmvf6vv2yex048L3EtH"
     },
     {
       "album": {
@@ -2565,6 +3393,24 @@
     },
     {
       "album": {
+        "name": "Twinkleberry Dreams",
+        "url": "https://open.spotify.com/album/0IGO7rz3LVM5yxetEoRyNh"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Valor",
+          "url": "https://open.spotify.com/artist/3gZIJQAAiMUwDtbWofzwaQ"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66202,
+      "name": "Twinkleberry Dreams",
+      "url": "https://open.spotify.com/track/1Kgnbnrs2nnNsIg0hJSceZ"
+    },
+    {
+      "album": {
         "name": "Twinklepaws",
         "url": "https://open.spotify.com/album/4uTa5ZDSS1xBzDNcyodg2C"
       },
@@ -2576,7 +3422,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 102545,
       "name": "Twinklepaws",
       "url": "https://open.spotify.com/track/7DxNaPj5FZrMrScOmYAdvp"
@@ -2594,10 +3440,46 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 136848,
       "name": "Up There",
       "url": "https://open.spotify.com/track/51iYfVUESW0lDvgdjgAr3V"
+    },
+    {
+      "album": {
+        "name": "What Was I Made of?",
+        "url": "https://open.spotify.com/album/3O0eLk4LK2Qtmfo3W1v8Eq"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Tones",
+          "url": "https://open.spotify.com/artist/5OkcFAaRGZXacQEHXI5k1s"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254545,
+      "name": "What Was I Made of?",
+      "url": "https://open.spotify.com/track/0mbRD7cgFLVcKfy7N6RWBS"
+    },
+    {
+      "album": {
+        "name": "Lullaby Music Box : Lullabies of Disney Movie Songs",
+        "url": "https://open.spotify.com/album/0TOmxFR7lfmsJt4PEaAw7B"
+      },
+      "artists": [
+        {
+          "name": "Sleepyheadz",
+          "url": "https://open.spotify.com/artist/62oZoJD3Z6FCTB60nmTImS"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110285,
+      "name": "When You Wish Upon a Star (From \"Pinocchio\") - Music Box Version",
+      "url": "https://open.spotify.com/track/25Bg3d3WrkibGJhqydqHRd"
     },
     {
       "album": {
@@ -2612,7 +3494,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 136363,
       "name": "Wiegenlied Op. 49, No. 4",
       "url": "https://open.spotify.com/track/3fPNPY67AJQUwpjBpBBHxs"
@@ -2630,7 +3512,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 144500,
       "name": "Wish List",
       "url": "https://open.spotify.com/track/4hYIbgPWzDEtUJ7YZHDlYQ"
@@ -2648,7 +3530,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 148839,
       "name": "Wishes And Dreams",
       "url": "https://open.spotify.com/track/7pLIblryaPZdRpzchMH6lF"
@@ -2666,7 +3548,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 123434,
       "name": "Wonder Wheel",
       "url": "https://open.spotify.com/track/15fwDRhx2QMfsHuUgxfiys"
@@ -2684,7 +3566,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 99500,
       "name": "Yankee Doodle",
       "url": "https://open.spotify.com/track/2T7N8qmL56DFtgZxqnMi2A"
@@ -2706,6 +3588,24 @@
       "duration_ms": 87308,
       "name": "You Are Feeling Sleepy",
       "url": "https://open.spotify.com/track/6mGuFs42JhtarklWdVUyOt"
+    },
+    {
+      "album": {
+        "name": "Baby Lullabies with Soothing Night-time Sounds",
+        "url": "https://open.spotify.com/album/5sk7NGcbl17JL2OtXsokiQ"
+      },
+      "artists": [
+        {
+          "name": "Nursery Rhymes ABC",
+          "url": "https://open.spotify.com/artist/26UV9EKIInWeV0jJysGZum"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/5NIYDn44f2HrODHWgs33YM"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYfdSGwr4MVg"

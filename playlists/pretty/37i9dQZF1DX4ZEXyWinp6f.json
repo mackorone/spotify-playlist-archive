@@ -1,6 +1,6 @@
 {
   "description": "Fold time and space through sound to reach imaginary universes.",
-  "num_followers": 270041,
+  "num_followers": 270105,
   "original_name": "Sci-Fi Scapes",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-11-06 10:57:13",
       "album": {
+        "name": "Lost Album",
+        "url": "https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv"
+      },
+      "artists": [
+        {
+          "name": "58918012",
+          "url": "https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus"
+        }
+      ],
+      "duration_ms": 576000,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt"
+    },
+    {
+      "added_at": "2025-11-06 10:57:13",
+      "album": {
         "name": "Lost At Sea (Kelly Moran remix)",
         "url": "https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 296681,
       "name": "Lost At Sea - Kelly Moran remix",
       "url": "https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0"
-    },
-    {
-      "added_at": "2025-11-06 10:57:13",
-      "album": {
-        "name": "Lost Album",
-        "url": "https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv"
-      },
-      "artists": [
-        {
-          "name": "58918012",
-          "url": "https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus"
-        }
-      ],
-      "duration_ms": 576000,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt"
     },
     {
       "added_at": "2025-11-06 10:57:13",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-11-06 10:57:13",
       "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
-      },
-      "artists": [
-        {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
-        }
-      ],
-      "duration_ms": 262375,
-      "name": "10\u00b0C",
-      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
-    },
-    {
-      "added_at": "2025-11-06 10:57:13",
-      "album": {
         "name": "Eurydice",
         "url": "https://open.spotify.com/album/5Rx6IbF6AiG7xiLKwKLJuN"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 297183,
       "name": "Eurydice",
       "url": "https://open.spotify.com/track/6MSvaQ36D752rWpVa9icJo"
+    },
+    {
+      "added_at": "2025-11-06 10:57:13",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 262375,
+      "name": "10\u00b0C",
+      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
     },
     {
       "added_at": "2025-11-06 10:57:13",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2025-11-06 10:57:13",
       "album": {
-        "name": "Biologica, Volume One (Water)",
-        "url": "https://open.spotify.com/album/3Sm17KhWd2g1ssYL1425mq"
+        "name": "Marmo",
+        "url": "https://open.spotify.com/album/0YMGkTpcXmOvvXjjvAPCKx"
       },
       "artists": [
         {
-          "name": "slowave",
-          "url": "https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65"
+          "name": "Drum & Lace",
+          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
         }
       ],
-      "duration_ms": 156073,
-      "name": "12121",
-      "url": "https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0"
+      "duration_ms": 192300,
+      "name": "Marmo",
+      "url": "https://open.spotify.com/track/5iTdysytOWrWpQToDt3HdV"
     }
   ],
   "unique_name": "Sci-Fi Scapes",

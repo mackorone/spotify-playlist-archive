@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,258 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,262 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 31 | [탄띠](https://open.spotify.com/track/4BVPrwyyitNd21QQA6jTZT) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Best of Best](https://open.spotify.com/album/2AVhUS6I0EUAVdJlwV7iZ7) | 3:08 |
 | 32 | [Airplane Music \(feat\. Basick, Rimi, Beenzino, Fana & San E\)](https://open.spotify.com/track/1guzCQNxneBHT42xGzJj19) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Rimi](https://open.spotify.com/artist/3nBsP6ABBDVgzFFOCyL3vG), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [Fana](https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT), [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB) | [Quiet Storm: A Night Record](https://open.spotify.com/album/1bXZBTOy2tyG39DlbgObwC) | 4:12 |
 | 33 | [피해망상 Pt.3 \(with TBNY\)](https://open.spotify.com/track/1AfSN86MB3ZUEQpGya3PRU) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [TBNY](https://open.spotify.com/artist/6j2rVUUU99PvJcHYN4G02j) | [High Society](https://open.spotify.com/album/57qISGcX0mPbwdCQ7KSOgq) | 3:56 |
-| 34 | [It’s Me \(feat\. Epik High & MYK\)](https://open.spotify.com/track/3zM41c5Tkxh0vVJnJDEPts) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Epik High & MYK](https://open.spotify.com/artist/5VmssimbA6MDuNUPRGtFhs) | [Thunderground](https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw) | 4:15 |
+| 34 | [Black Diamond](https://open.spotify.com/track/6ilrRtcSp8IIW48ZPnwDqr) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [t 3 YOONMIRAE](https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L) | 3:50 |
 | 35 | [compass](https://open.spotify.com/track/0WqpJcQ3k9Kr2bUuywKPaw) | [CB MASS](https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL) | [Massmediah](https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb) | 4:20 |
 | 36 | [Run](https://open.spotify.com/track/7a34Q612JcJIiuBoDvMX8W) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Mirror \(28 Look at Youth\)](https://open.spotify.com/album/2G4IlfQaKAFysULXYg5n8t) | 4:59 |
 | 37 | [뛰어가 Run \(feat\. Tiger JK & Jinbo\)](https://open.spotify.com/track/7mQgW2TCcLEiJvKmnSKCjH) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD) | [The Real Me](https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE) | 3:55 |
-| 38 | [Black Diamond](https://open.spotify.com/track/6ilrRtcSp8IIW48ZPnwDqr) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [t 3 YOONMIRAE](https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L) | 3:50 |
+| 38 | [It’s Me \(feat\. Epik High & MYK\)](https://open.spotify.com/track/3zM41c5Tkxh0vVJnJDEPts) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Epik High & MYK](https://open.spotify.com/artist/5VmssimbA6MDuNUPRGtFhs) | [Thunderground](https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw) | 4:15 |
 | 39 | [랩교 1막](https://open.spotify.com/track/3oilxllyhejb13l0uo6HAp) | [Honey Family](https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX) | [HONEY FAMILY](https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T) | 4:53 |
 | 40 | [CBMASS is my friend](https://open.spotify.com/track/6ZByy9slBDE3OSP0Kyih6g) | [CB MASS](https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL) | [Matics](https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx) | 3:45 |
 | 41 | [거울 \- New Version](https://open.spotify.com/track/067JwMslZJtxRP7NdriuM5) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi), [조아](https://open.spotify.com/artist/0cUT9wKaL6ZUt8n5EQF3oI) | [Best of Best](https://open.spotify.com/album/2AVhUS6I0EUAVdJlwV7iZ7) | 4:16 |

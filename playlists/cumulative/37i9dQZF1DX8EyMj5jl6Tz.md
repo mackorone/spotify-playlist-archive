@@ -4,7 +4,7 @@
 
 > Dance remixes of popular songs!
 
-181 songs - 8 hr 2 min
+182 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Nice To Meet You](https://open.spotify.com/track/1LraqVGiK56sopYZp3sCsm) | [Initi8](https://open.spotify.com/artist/79UlGebGvCM7mB6VLTqR8M) | [Nice To Meet You](https://open.spotify.com/album/7s3RHJIy0DfXkcBVYUu0NF) | 2:49 | 2025-07-10 |  |
 | [Night Away \(Dance\) \(feat\. Mae Muller\) \- Jax Jones Remix](https://open.spotify.com/track/3dlH0jIRf0vsPoL5syA0pv) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Night Away \(Dance\) \(feat\. Mae Muller\) \[Jax Jones Remix\]](https://open.spotify.com/album/3Kam5gZFxKAdDqTnKbs8gs) | 2:55 | 2025-07-10 |  |
 | [Nothing Else Matters vs F\*CKING SOCIETY \- Hardwell Mashup](https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [REBELS NEVER DIE \(Deluxe Edition\)](https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX) | 3:09 | 2025-07-10 | 2025-09-05 |
+| [Now That We Found Love](https://open.spotify.com/track/4x69WSo9kpkp0okxcm5Yzh) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [CODE/RED](https://open.spotify.com/album/3Ui5ZMET9cIriFK29bh1xr) | 2:32 | 2025-12-11 |  |
 | [P.I.M.P](https://open.spotify.com/track/4aIJ6bMEK91amdy07Ap21o) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [Swizznife](https://open.spotify.com/artist/4OB8hmrCayrQknTkqJH20a) | [P.I.M.P](https://open.spotify.com/album/2obXOASaM8BX9vlhWW24Ts) | 1:57 | 2025-07-10 |  |
 | [Pepas \- Tiësto Remix](https://open.spotify.com/track/1bFgMkoazsyZGSflpCzYm6) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Pepas \(Tiësto Remix\)](https://open.spotify.com/album/5Auj1vFNdvZDtyV0rqfVIQ) | 3:43 | 2025-07-10 |  |
 | [Perfect](https://open.spotify.com/track/5F2AF7rY1J6pATMjxQXQKR) | [BXT](https://open.spotify.com/artist/3Orw1hfOCxmHl61nIDuzcF), [Track2Track](https://open.spotify.com/artist/3mLtnOPUnS7wUUPMmuecb5) | [Perfect](https://open.spotify.com/album/2SVtGOcGsbNZLvYhJ8Lkl0) | 2:25 | 2025-07-10 | 2025-08-29 |

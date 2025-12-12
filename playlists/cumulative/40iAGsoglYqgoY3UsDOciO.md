@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-443 songs - 21 hr 26 min
+446 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Falling in the Void](https://open.spotify.com/track/69dznwGHjwTADQwj1H6Ybh) | [Kurotaro](https://open.spotify.com/artist/4KlmHgSd4vqaZbSQYL5zKf) | [Falling in the Void](https://open.spotify.com/album/7kNbdkqhybr01dIo9AB0hv) | 3:30 | 2024-07-19 |  |
 | [Fast Break](https://open.spotify.com/track/0HasApc3pyMPOabjFckxO3) | [Khal!l](https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe) | [Heart](https://open.spotify.com/album/76OBbKGs49FyxGoWMMj51C) | 3:06 | 2023-07-26 |  |
 | [feel my pain.](https://open.spotify.com/track/2JNBXZevWS0xyPrgj4Kq70) | [Lil Nucleus](https://open.spotify.com/artist/23xK07bovUynQY9LDP6foQ) | [feel my pain.](https://open.spotify.com/album/23Aotv7GfUF68IUpGZIp3K) | 2:27 | 2024-10-17 |  |
+| [Feelin' Alright](https://open.spotify.com/track/3yxAOYOlP7XN5WyeJuSLqG) | [Lil'Draino.](https://open.spotify.com/artist/6ulNvT6jl51P2lzHuhI9MV) | [Feelin' Alright](https://open.spotify.com/album/2GxBmMhjNd5zy9cCeoHSRu) | 3:18 | 2025-12-11 |  |
 | [Fell In Love](https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fell In Love](https://open.spotify.com/album/4AkiEkHlDW2ZyPsO7iJct8) | 2:01 | 2023-07-26 |  |
 | [FIFA](https://open.spotify.com/track/6uPxTbe069z9fujiw7SuWU) | [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [FIFA](https://open.spotify.com/album/65spWEWFId9aqwkzVLbXqX) | 2:25 | 2023-07-26 |  |
 | [First Impact](https://open.spotify.com/track/5fkrEzZUuJnbKsDXGrRUg5) | [Fiori DS](https://open.spotify.com/artist/64DYUJ4aZcLTndTCP9U2xW) | [Fallin'](https://open.spotify.com/album/6lCr3ll3fh8q9fwR9i5o5R) | 3:01 | 2025-10-13 |  |
@@ -243,6 +244,7 @@
 | [Moving Slow](https://open.spotify.com/track/4Aa6eHM8Uth5ZXPpEgDnbu) | [Dave D](https://open.spotify.com/artist/4ahGvCLLR0B2XBpO6xpBEx), [queishim](https://open.spotify.com/artist/1D3RKnY8S4OyAlNn5NesdR) | [Moving Slow](https://open.spotify.com/album/7kXeOMzJXlOh2IcJGF7G90) | 2:16 | 2024-09-03 |  |
 | [moving weight](https://open.spotify.com/track/6jKhvANgtz9QefcPaHG3xi) | [Lil'Drought](https://open.spotify.com/artist/0tiLQtmt4HmPsdAnvpqMEU) | [Reflections of the mind](https://open.spotify.com/album/2mwYFB8V6yFc3LyAXk0PUW) | 1:42 | 2024-06-24 |  |
 | [Mr\. Tom](https://open.spotify.com/track/7jrTLliynTZPyKStXkG2xi) | [CALI](https://open.spotify.com/artist/7fHeDNHm0L1Ap99AvgdS6M) | [Mr\. Tom](https://open.spotify.com/album/6MfrZYWUSzsngRfYfVhdGQ) | 3:06 | 2024-11-18 |  |
+| [Mtmc](https://open.spotify.com/track/2RvhNQHQZpPUeGHMlra49Z) | [WM Neto](https://open.spotify.com/artist/7F6oqDJ8jQybip3xgfaIgp) | [Mtmc](https://open.spotify.com/album/02r1vO3J2UBenqXkdvJFRc) | 2:09 | 2025-12-11 |  |
 | [My Legacy](https://open.spotify.com/track/5EDSPYRpA7L4AJP5foKQaY) | [pait blaxton](https://open.spotify.com/artist/2Bfc7DqXTD62tt6xJ7H0jz) | [My Legacy](https://open.spotify.com/album/4flg7nwXshDDdoZMn2nnDc) | 3:10 | 2024-07-08 |  |
 | [My Way Up](https://open.spotify.com/track/1Ow1KgqmivL7S8nGg40tDI) | [DJ Leonardo Rafael](https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf), [Vanessa Macedo](https://open.spotify.com/artist/5G82Is68b0KHxvFBZSsd0r) | [My Way Up](https://open.spotify.com/album/2zhQNwywNIJgvIycnxOAi2) | 2:50 | 2024-07-26 |  |
 | [Nada a favor](https://open.spotify.com/track/40vHtIJGF327MEzCWQNvEM) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Entre gargantas y oídos](https://open.spotify.com/album/3kh5AEj633mAw7PNRdkctx) | 3:19 | 2025-01-25 |  |
@@ -330,6 +332,7 @@
 | [ROLL THE DICE \(feat\. DeJ Loaf\)](https://open.spotify.com/track/3WhxyhcaabI2aNpUEFpTwr) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [ROLL THE DICE \(feat\. DeJ Loaf\)](https://open.spotify.com/album/3RC8VcNswzGIfN90R7pZTf) | 3:44 | 2023-07-26 |  |
 | [Roshambo](https://open.spotify.com/track/6Rj0kNod0mDJEA0cMNJ4iO) | [Scrimshine](https://open.spotify.com/artist/6xHAI8tZRlg0n1uO8k893K) | [Roshambo](https://open.spotify.com/album/25zkjpcRctTUSnUqkxUHu6) | 1:27 | 2024-07-13 |  |
 | [SAD.](https://open.spotify.com/track/0QbXcOeO8ToFeFTU3gILn5) | [RICO LEVITT](https://open.spotify.com/artist/2h5drnyCHoG9UzJeQmLzKb) | [ONE](https://open.spotify.com/album/2iX2niEV6r7dLfTGrbbd38) | 2:53 | 2024-07-13 |  |
+| [Sagrado, Santo Y Bendito Tabu De Dios \- Remix](https://open.spotify.com/track/1uJN92qRjrstzPAtNZFgFl) | [Adam Ashrei](https://open.spotify.com/artist/3YYTIWbnarG9IperSoNsfT) | [La Misma Fe, Nuevo Sonido, Vol\. 1 \(Remix\)](https://open.spotify.com/album/2WV9gd4TaKoM1DuPo0YLl7) | 5:54 | 2025-12-11 |  |
 | [Sake Of My Kids](https://open.spotify.com/track/54nCzj6TQ2tukxToVUJJp5) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [BUSINESS IS BUSINESS \(Metro's Version\)](https://open.spotify.com/album/0z2a9VgdVmkr0DInVJUgu6) | 3:58 | 2023-07-26 |  |
 | [SALSA NOSTRA](https://open.spotify.com/track/4jRlfiB8Y3LcG19fviUc2m) | [Totò](https://open.spotify.com/artist/4ee486Nur3sCOq8d5IEWcG), [Hybris](https://open.spotify.com/artist/1svkwy5CWA9noaCSgVETJh) | [SALSA NOSTRA](https://open.spotify.com/album/25MV8HSKadDrkR9hdstfdv) | 2:48 | 2024-07-30 |  |
 | [Sarah](https://open.spotify.com/track/3be1EOoGf3cDFqzCaalEw1) | [Lil Nucleus](https://open.spotify.com/artist/23xK07bovUynQY9LDP6foQ) | [Sarah](https://open.spotify.com/album/491mNGa7KCeSIS32ik1Ewp) | 1:42 | 2025-10-09 |  |

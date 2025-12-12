@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FqJtg90sGe.md) - [plain]
 
 > sólo para skatos
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,518 likes - 104 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,522 likes - 104 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

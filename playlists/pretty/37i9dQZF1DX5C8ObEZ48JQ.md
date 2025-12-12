@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > Our 50 favourite tracks of 2025 from independent artists & labels\. Chosen by Spotify editors, featuring Mavo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,170 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,188 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [PAIN](https://open.spotify.com/track/0DXp2SvxI4YeHzaUG2cSmX) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Rosie K](https://open.spotify.com/artist/3rGBFFpO9DoLoLyxGWKlZT) | [PAIN](https://open.spotify.com/album/4C1xouVLI2yRH56Q7eWzTl) | 3:09 |
 | 50 | [Pombe Kidogo](https://open.spotify.com/track/6AAbRA7KT6kklXLBrpIatZ) | [Modest Chabari](https://open.spotify.com/artist/6lIgY6GFEW514NQ6bqafIm) | [Rockstar](https://open.spotify.com/album/17yI0MjQVUsqKlx5fkfFaM) | 3:28 |
 
-Snapshot ID: `AAAAAN9zrTvDz+JiSYVw6kV5WPkiX1YB`
+Snapshot ID: `AAAAAH7rS7hmuA5M63QRGFhdYlgFW4Ou`

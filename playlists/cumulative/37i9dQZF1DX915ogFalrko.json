@@ -331,6 +331,24 @@
     },
     {
       "album": {
+        "name": "Bluffin'",
+        "url": "https://open.spotify.com/album/6XvRFqyw6XKRzNErVUoe89"
+      },
+      "artists": [
+        {
+          "name": "Jack Gray",
+          "url": "https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139955,
+      "name": "Bluffin'",
+      "url": "https://open.spotify.com/track/3vPg0XDAZTY8Ns93Lpph8Z"
+    },
+    {
+      "album": {
         "name": "Blushing",
         "url": "https://open.spotify.com/album/50AvsVRJ1md7XzO8rLVPus"
       },
@@ -682,7 +700,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 209613,
       "name": "Driving on the Highway",
       "url": "https://open.spotify.com/track/1BctvielVTwcdifVKIYT1N"

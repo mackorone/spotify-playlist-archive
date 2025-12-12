@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: SAILORR
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107,703 likes - 300 songs - 15 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,107,727 likes - 300 songs - 15 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,7 +206,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 196 | [5th Floor \(10pm\)](https://open.spotify.com/track/5Nf83SalLU851KZtTC0P6S) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [5th Floor \(10pm\)](https://open.spotify.com/album/2bnJPXUQBTIObI5yD1yyZv) | 2:56 |
 | 197 | [Want This To Happen](https://open.spotify.com/track/4uhXhiL0HXTqcaDo8coW18) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Want This To Happen](https://open.spotify.com/album/2SqJTjTEjaOQlbnE5WiXzG) | 2:29 |
 | 198 | [Sticky Situation](https://open.spotify.com/track/7qlcQJxJHg9qC1Trq93rPA) | [Girlfriend](https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY) | [Sticky Situation](https://open.spotify.com/album/3ctrcjfWHqOwznaFMW2VsM) | 3:00 |
-| 199 | [awake](https://open.spotify.com/track/54khAg8INVTBMSWOUcETdB) | [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [noise \(meaning\)](https://open.spotify.com/album/1Nf0sJqlnFFlUOYDMJR8LJ) | 2:07 |
+| 199 | [awake](https://open.spotify.com/track/54khAg8INVTBMSWOUcETdB) | [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [noise \( meaning \)](https://open.spotify.com/album/1Nf0sJqlnFFlUOYDMJR8LJ) | 2:07 |
 | 200 | [NOBODY ELSE](https://open.spotify.com/track/3yABhcucUufptBWbGqVrSo) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [The Sky Is Recording Me: 100 Years Later, Vol\. 3](https://open.spotify.com/album/2ghjL5JT1VKSNcshmqjrbM) | 2:37 |
 | 201 | [Crutch on Me](https://open.spotify.com/track/4z5YYKyexnNgnTF29GZSDj) | [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [Down Payment](https://open.spotify.com/album/45zDzQHqEbSfWUbWvMffiU) | 2:30 |
 | 202 | [Keep Tryin](https://open.spotify.com/track/2xgOt4NSJaydG1TftMsA7N) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O) | [Keep Tryin](https://open.spotify.com/album/0HMPePWQ4J5vv4Ki3FTt9r) | 2:24 |

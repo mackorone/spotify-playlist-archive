@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "(feliz por ti)",
+        "url": "https://open.spotify.com/album/6pBNf9iRUQh0oh6qR4cKNM"
+      },
+      "artists": [
+        {
+          "name": "nic",
+          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194873,
+      "name": "(feliz por ti)",
+      "url": "https://open.spotify.com/track/4qIl21nevhNOHOu8bC8vuj"
+    },
+    {
+      "album": {
         "name": "a new star (1 9 9 3)",
         "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
       },
@@ -20,6 +38,24 @@
       "duration_ms": 95000,
       "name": "1 de Enero, Puntacana",
       "url": "https://open.spotify.com/track/7Iz0j9XsiyR2qAq3TaeaXD"
+    },
+    {
+      "album": {
+        "name": "DUE\u00d1O DEL CIELO",
+        "url": "https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183652,
+      "name": "50mm",
+      "url": "https://open.spotify.com/track/3x41wi60bGPm3Zf8VWbuMF"
     },
     {
       "album": {
@@ -110,7 +146,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-25",
+      "date_removed": null,
       "duration_ms": 205067,
       "name": "ALGO ESPECIAL",
       "url": "https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh"
@@ -917,6 +953,24 @@
     },
     {
       "album": {
+        "name": "Soulost",
+        "url": "https://open.spotify.com/album/1UJ9oErOGqOrtQuFuZLrxE"
+      },
+      "artists": [
+        {
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240498,
+      "name": "iii. LaDrogaM\u00e1sSuaveDelMundo(!) \u00b7 enamoramiento",
+      "url": "https://open.spotify.com/track/25sS3mU6hQC2FtgSf0oB1v"
+    },
+    {
+      "album": {
         "name": "P\u00c1JARO AZUL",
         "url": "https://open.spotify.com/album/7lUllZVIhNP8mCn9h3HmxO"
       },
@@ -928,7 +982,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-28",
+      "date_removed": null,
       "duration_ms": 181098,
       "name": "invierno",
       "url": "https://open.spotify.com/track/2tjDGWIAfBhws2OzWwgtJi"
@@ -1026,7 +1080,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 181573,
       "name": "Life Is A Movie",
       "url": "https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P"
@@ -1188,7 +1242,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-29",
+      "date_removed": null,
       "duration_ms": 160296,
       "name": "Mabel",
       "url": "https://open.spotify.com/track/0tIcZ2XCTKWLwi0qO094Bh"
@@ -1928,7 +1982,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-01",
+      "date_removed": null,
       "duration_ms": 219786,
       "name": "quise quererte",
       "url": "https://open.spotify.com/track/6VE5ysTVC4BkeOrLWkud3N"
@@ -1964,7 +2018,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 210000,
       "name": "qu\u00e9 tal te va??",
       "url": "https://open.spotify.com/track/5CoyINOf5MRUEOqLMuxtTc"
@@ -2000,7 +2054,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-25",
+      "date_removed": null,
       "duration_ms": 169400,
       "name": "Reconciliados",
       "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
@@ -2220,7 +2274,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-24",
+      "date_removed": null,
       "duration_ms": 182782,
       "name": "Sol",
       "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"
@@ -2346,7 +2400,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-25",
+      "date_removed": null,
       "duration_ms": 207529,
       "name": "te acuerdas de mi?",
       "url": "https://open.spotify.com/track/1eYAhTrgoJVF8hi1j4n1lq"
@@ -2542,7 +2596,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 162352,
       "name": "Ve y Diles",
       "url": "https://open.spotify.com/track/2yyQacjkbAQHD2D15QPTNU"
@@ -2770,7 +2824,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 228157,
       "name": "\u00c1NGEL DE LA GUARDA (P\u00d3STUMO)",
       "url": "https://open.spotify.com/track/06gX47saY244mz1VZCoCoB"

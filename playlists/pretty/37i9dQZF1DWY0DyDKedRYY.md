@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,945 likes - 85 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,923 likes - 85 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 19 | [me extrañas? :\(](https://open.spotify.com/track/5wQ9Z8tq72XozbpoxA2hqi) | [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ), [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E) | [me extrañas? :\(](https://open.spotify.com/album/4NdO2JUQYoZOQctoPecAOn) | 3:27 |
 | 20 | [Sex, Drugs, & Country Music](https://open.spotify.com/track/157K6uJcle14ezIENHd4uP) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Cherry Valley](https://open.spotify.com/album/5cBseH5iReybVachkE0BMA) | 3:37 |
 | 21 | [The Pines](https://open.spotify.com/track/7mxxpnlMcWRro6hlBRx0M7) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [The Pines](https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm) | 3:05 |
-| 22 | [TURN UP](https://open.spotify.com/track/5ogwhGSfeA3c82k4P6zriQ) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Rakai](https://open.spotify.com/artist/4SQN7zH1QNPFm2AFAz5qks), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [TURN UP](https://open.spotify.com/album/2Tfya2lpVhvpHDd3MTTyFP) | 2:33 |
+| 22 | [TURN UP](https://open.spotify.com/track/5ogwhGSfeA3c82k4P6zriQ) | [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Rakai](https://open.spotify.com/artist/4SQN7zH1QNPFm2AFAz5qks), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [TURN UP](https://open.spotify.com/album/2Tfya2lpVhvpHDd3MTTyFP) | 2:33 |
 | 23 | [Back Of My Mind \(feat\. Nino Paid\)](https://open.spotify.com/track/4YXPLCOzpEhrLbveYod0k8) | [Rockout Danny](https://open.spotify.com/artist/6zeQl72GknqjTGCbrzvSbc), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Back Of My Mind \(feat\. Nino Paid\)](https://open.spotify.com/album/5C82P33f089DBN4VRhnwnL) | 2:00 |
 | 24 | [CUT UP](https://open.spotify.com/track/68aYtH4NsGGp331mVDIVCC) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [FROM FLORIDA'S FINEST](https://open.spotify.com/album/4KUlLprpCrNpRDsXC4MOAV) | 2:56 |
 | 25 | [Delete Ya](https://open.spotify.com/track/7tFI5cqfAoR7MIvmbw1qd8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 3:23 |

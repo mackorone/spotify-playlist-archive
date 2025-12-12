@@ -4,7 +4,7 @@
 
 > Fresh voices, bold stories — mga podcast na dapat nasa Radar mo!
 
-20 songs - 15 hr 36 min
+20 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [EP 28:In Aid of Moving On: Hugot ng mga Brokenhearted](https://open.spotify.com/episode/1OZLhzMtSfm80PAnQKPw4z) | [Your Honor](https://open.spotify.com/show/7bEK6TTHX84bfZuDy6GXSy) | [Your Honor](https://open.spotify.com/album/7bEK6TTHX84bfZuDy6GXSy) | 49:02 | 2025-10-14 | 2025-11-20 |
 | [EP 33: In Aid of Money Talk: Nakakaganda ba ang Pera? ](https://open.spotify.com/episode/4RypV2u1lczA4895UN71zo) | [Your Honor](https://open.spotify.com/show/7bEK6TTHX84bfZuDy6GXSy) | [Your Honor](https://open.spotify.com/album/7bEK6TTHX84bfZuDy6GXSy) | 43:34 | 2025-10-14 | 2025-11-20 |
 | [EP 42: In Aid of Alien: Ang Dating Doon Reunion \(with guests Caesar Cosme, Isko Salvador, & Chito Francisco\)](https://open.spotify.com/episode/2CWsnRRmVsifOTIU3Gnkno) | [Your Honor](https://open.spotify.com/show/7bEK6TTHX84bfZuDy6GXSy) | [Your Honor](https://open.spotify.com/album/7bEK6TTHX84bfZuDy6GXSy) | 48:17 | 2025-11-19 |  |
-| [EP 43: In Aid of Main Character: Mga Kontrabidang Bida\-bida \(with guest Baus Rufo\)](https://open.spotify.com/episode/55vVpvfQEFcaixOTkYC2Dc) | [Your Honor](https://open.spotify.com/show/7bEK6TTHX84bfZuDy6GXSy) | [Your Honor](https://open.spotify.com/album/7bEK6TTHX84bfZuDy6GXSy) | 50:31 | 2025-11-19 |  |
+| [EP 43: In Aid of Main Character: Mga Kontrabidang Bida\-bida \(with guest Baus Rufo\)](https://open.spotify.com/episode/55vVpvfQEFcaixOTkYC2Dc) | [Your Honor](https://open.spotify.com/show/7bEK6TTHX84bfZuDy6GXSy) | [Your Honor](https://open.spotify.com/album/7bEK6TTHX84bfZuDy6GXSy) | 49:31 | 2025-11-19 |  |
 | [Ep\. 19: Si Abi Marquez AKA Lumpia Queen is the Lea Salonga of Pinoy cooking content\. Paano niya na collab si Gordon Ramsey, Nigel Ng, ATBP?](https://open.spotify.com/episode/2ohVYaO19QU3KjxUAT2yk0) | [Ano Ba Talaga? With Kuya Kim](https://open.spotify.com/show/2ZIHtlygVXBe3ewghhWoeK) | [Ano Ba Talaga? With Kuya Kim](https://open.spotify.com/album/2ZIHtlygVXBe3ewghhWoeK) | 49:29 | 2025-11-19 |  |
 | [Ep\. 24: These Chicks 2 Go are here 2 stay! ](https://open.spotify.com/episode/4sv3FgrGGLJWpivX8XHZDV) | [Ano Ba Talaga? With Kuya Kim](https://open.spotify.com/show/2ZIHtlygVXBe3ewghhWoeK) | [Ano Ba Talaga? With Kuya Kim](https://open.spotify.com/album/2ZIHtlygVXBe3ewghhWoeK) | 1:01:31 | 2025-11-19 |  |
 | [Ep\. 3: Barbie Almalbis: How a rockstar was deceived by the world and her learnings from the past ](https://open.spotify.com/episode/0WlI3kkXR0nTVycHRtm0Z2) | [Ano Ba Talaga? With Kuya Kim](https://open.spotify.com/show/2ZIHtlygVXBe3ewghhWoeK) | [Ano Ba Talaga? With Kuya Kim](https://open.spotify.com/album/2ZIHtlygVXBe3ewghhWoeK) | 39:54 | 2025-10-14 | 2025-11-20 |

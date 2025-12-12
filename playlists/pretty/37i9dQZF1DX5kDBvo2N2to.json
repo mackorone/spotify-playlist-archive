@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60542,
+  "num_followers": 60544,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-12-08 08:52:37",
       "album": {
+        "name": "ett minne i taget",
+        "url": "https://open.spotify.com/album/40zmg4a9KuaUwLpHxj5NVX"
+      },
+      "artists": [
+        {
+          "name": "Hanna Ferm",
+          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "ett minne i taget",
+      "url": "https://open.spotify.com/track/4SXtVLD8B0O7kvw7FLi4Qj"
+    },
+    {
+      "added_at": "2025-12-08 08:52:37",
+      "album": {
         "name": "Superhj\u00e4ltar",
         "url": "https://open.spotify.com/album/5KBbzxuJqFJBQ0Fk8hDRnm"
       },
@@ -399,22 +415,6 @@
     {
       "added_at": "2025-12-08 08:52:37",
       "album": {
-        "name": "ett minne i taget",
-        "url": "https://open.spotify.com/album/40zmg4a9KuaUwLpHxj5NVX"
-      },
-      "artists": [
-        {
-          "name": "Hanna Ferm",
-          "url": "https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "ett minne i taget",
-      "url": "https://open.spotify.com/track/4SXtVLD8B0O7kvw7FLi4Qj"
-    },
-    {
-      "added_at": "2025-12-08 08:52:37",
-      "album": {
         "name": "I Rymden Finns Inga T\u00e5rar",
         "url": "https://open.spotify.com/album/53vNOMnb7XNn6cM0dyKi3Z"
       },
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-12-08 08:52:37",
       "album": {
-        "name": "A Place I Recognise",
-        "url": "https://open.spotify.com/album/5LsAU4Qec8ZSU9SS4bZTmS"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 211171,
-      "name": "Waiting Room",
-      "url": "https://open.spotify.com/track/4gktEWeIYylrlrVfpfZEVr"
-    },
-    {
-      "added_at": "2025-12-08 08:52:37",
-      "album": {
         "name": "Tryna make it in LA",
         "url": "https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 141960,
       "name": "En av alla andra",
       "url": "https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn"
+    },
+    {
+      "added_at": "2025-12-08 08:52:37",
+      "album": {
+        "name": "A Place I Recognise",
+        "url": "https://open.spotify.com/album/5LsAU4Qec8ZSU9SS4bZTmS"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 211171,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/4gktEWeIYylrlrVfpfZEVr"
     },
     {
       "added_at": "2025-12-08 08:52:37",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-12-08 08:52:37",
       "album": {
-        "name": "l.o.v.e",
-        "url": "https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 179368,
-      "name": "l.o.v.e",
-      "url": "https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6"
-    },
-    {
-      "added_at": "2025-12-08 08:52:37",
-      "album": {
         "name": "Cutting Ties",
         "url": "https://open.spotify.com/album/7bTMwmeLcgu9qZ0Te2y2Cp"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 261854,
       "name": "Cutting Ties",
       "url": "https://open.spotify.com/track/20u5kuP9kpwARr7y3x8uIP"
+    },
+    {
+      "added_at": "2025-12-08 08:52:37",
+      "album": {
+        "name": "l.o.v.e",
+        "url": "https://open.spotify.com/album/4BNdRv5U4sQ0Zr3WiYwXCL"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 179368,
+      "name": "l.o.v.e",
+      "url": "https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6"
     },
     {
       "added_at": "2025-12-08 08:52:37",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-12-08 08:52:37",
       "album": {
-        "name": "sunday night",
-        "url": "https://open.spotify.com/album/3XhRy1r95xpExil6yAHUre"
-      },
-      "artists": [
-        {
-          "name": ".blank",
-          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
-        }
-      ],
-      "duration_ms": 167569,
-      "name": "sunday night",
-      "url": "https://open.spotify.com/track/2Sn2zG2argohDp2lm0c0vk"
-    },
-    {
-      "added_at": "2025-12-08 08:52:37",
-      "album": {
         "name": "Hittat hem",
         "url": "https://open.spotify.com/album/3LRL5ylunpeHB352pVmmOE"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 184315,
       "name": "Hittat hem",
       "url": "https://open.spotify.com/track/2hAHrzFTAZh28fg6Y5awC7"
+    },
+    {
+      "added_at": "2025-12-08 08:52:37",
+      "album": {
+        "name": "sunday night",
+        "url": "https://open.spotify.com/album/3XhRy1r95xpExil6yAHUre"
+      },
+      "artists": [
+        {
+          "name": ".blank",
+          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
+        }
+      ],
+      "duration_ms": 167569,
+      "name": "sunday night",
+      "url": "https://open.spotify.com/track/2Sn2zG2argohDp2lm0c0vk"
     },
     {
       "added_at": "2025-12-08 08:52:37",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-12-08 08:52:37",
       "album": {
-        "name": "Regn \u00f6ver Zinken",
-        "url": "https://open.spotify.com/album/7KBJwS8O2z8ZslnjQONpgb"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
-        }
-      ],
-      "duration_ms": 244733,
-      "name": "Regn \u00f6ver Zinken",
-      "url": "https://open.spotify.com/track/5vNdZIUXEMgcTt46CuhA7C"
-    },
-    {
-      "added_at": "2025-12-08 08:52:37",
-      "album": {
         "name": "02:30",
         "url": "https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2025-12-08 08:52:37",
       "album": {
-        "name": "Backspegeln",
-        "url": "https://open.spotify.com/album/2GRF1ZqmwNykbINiXkCzT2"
+        "name": "Regn \u00f6ver Zinken",
+        "url": "https://open.spotify.com/album/7KBJwS8O2z8ZslnjQONpgb"
       },
       "artists": [
         {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
         }
       ],
-      "duration_ms": 226745,
-      "name": "Backspegeln - Radio Edit",
-      "url": "https://open.spotify.com/track/5zgTMnEwglRFL8ghv9Y7AY"
+      "duration_ms": 244733,
+      "name": "Regn \u00f6ver Zinken",
+      "url": "https://open.spotify.com/track/5vNdZIUXEMgcTt46CuhA7C"
     },
     {
       "added_at": "2025-12-08 08:52:37",
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2025-12-08 08:52:37",
       "album": {
+        "name": "Backspegeln",
+        "url": "https://open.spotify.com/album/2GRF1ZqmwNykbINiXkCzT2"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 226745,
+      "name": "Backspegeln - Radio Edit",
+      "url": "https://open.spotify.com/track/5zgTMnEwglRFL8ghv9Y7AY"
+    },
+    {
+      "added_at": "2025-12-08 08:52:37",
+      "album": {
         "name": "...being mad bad sad (DSM-5)",
         "url": "https://open.spotify.com/album/3Z76JHYpa1PC8sIVLhqnmA"
       },
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-12-08 08:52:37",
       "album": {
-        "name": "Mjukt ljus",
-        "url": "https://open.spotify.com/album/2NlBfbdzrKtMKzcwBGQeVe"
-      },
-      "artists": [
-        {
-          "name": "Julia Lov",
-          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
-        }
-      ],
-      "duration_ms": 160817,
-      "name": "Mjukt ljus",
-      "url": "https://open.spotify.com/track/2NaFkhr86MXCLgmxcJSYNS"
-    },
-    {
-      "added_at": "2025-12-08 08:52:37",
-      "album": {
         "name": "Damned",
         "url": "https://open.spotify.com/album/1rKX1Fsy3e8H1dpFt1BFXn"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 154340,
       "name": "Damned",
       "url": "https://open.spotify.com/track/4aSqI2QSyfmnCBmKqaExz0"
+    },
+    {
+      "added_at": "2025-12-08 08:52:37",
+      "album": {
+        "name": "Mjukt ljus",
+        "url": "https://open.spotify.com/album/2NlBfbdzrKtMKzcwBGQeVe"
+      },
+      "artists": [
+        {
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+        }
+      ],
+      "duration_ms": 160817,
+      "name": "Mjukt ljus",
+      "url": "https://open.spotify.com/track/2NaFkhr86MXCLgmxcJSYNS"
     },
     {
       "added_at": "2025-12-08 08:52:37",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-12-08 08:52:37",
       "album": {
-        "name": "I want you to be happy",
-        "url": "https://open.spotify.com/album/73hoSlv8YWoYsLOo8TdoLu"
-      },
-      "artists": [
-        {
-          "name": "Ida Fiona",
-          "url": "https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm"
-        }
-      ],
-      "duration_ms": 165998,
-      "name": "I want you to be happy",
-      "url": "https://open.spotify.com/track/7dIohPKdV2O4wXxCfgXTzn"
-    },
-    {
-      "added_at": "2025-12-08 08:52:37",
-      "album": {
         "name": "MSN & Lunar",
         "url": "https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 213680,
       "name": "MSN & Lunar",
       "url": "https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b"
+    },
+    {
+      "added_at": "2025-12-08 08:52:37",
+      "album": {
+        "name": "I want you to be happy",
+        "url": "https://open.spotify.com/album/73hoSlv8YWoYsLOo8TdoLu"
+      },
+      "artists": [
+        {
+          "name": "Ida Fiona",
+          "url": "https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm"
+        }
+      ],
+      "duration_ms": 165998,
+      "name": "I want you to be happy",
+      "url": "https://open.spotify.com/track/7dIohPKdV2O4wXxCfgXTzn"
     },
     {
       "added_at": "2025-12-08 08:52:37",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2025-12-08 08:52:37",
       "album": {
+        "name": "RING MIG 112!!?",
+        "url": "https://open.spotify.com/album/2NSfq8TfMOrTjGyzhHTpxt"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "RING MIG 112!!?",
+      "url": "https://open.spotify.com/track/4XOPm2rZy1MZLhxLdqVYcH"
+    },
+    {
+      "added_at": "2025-12-08 08:52:37",
+      "album": {
         "name": "Camels",
         "url": "https://open.spotify.com/album/19rY6ztabf3ENfAonVHeDa"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 158117,
       "name": "Fel",
       "url": "https://open.spotify.com/track/4z3g7zdbHKJ4JFqjZ8UmcV"
-    },
-    {
-      "added_at": "2025-12-08 08:52:37",
-      "album": {
-        "name": "RING MIG 112!!?",
-        "url": "https://open.spotify.com/album/2NSfq8TfMOrTjGyzhHTpxt"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "RING MIG 112!!?",
-      "url": "https://open.spotify.com/track/4XOPm2rZy1MZLhxLdqVYcH"
     },
     {
       "added_at": "2025-12-08 08:52:37",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2025-12-08 08:52:37",
       "album": {
-        "name": "vol. 1",
-        "url": "https://open.spotify.com/album/6OVXBSdzPWg2c3enhPXkl1"
+        "name": "Is It Love?",
+        "url": "https://open.spotify.com/album/70WeBMKxVg8C06c68o1661"
       },
       "artists": [
         {
-          "name": ".blank",
-          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
+          "name": "Maria Sur",
+          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
         }
       ],
-      "duration_ms": 159754,
-      "name": "change",
-      "url": "https://open.spotify.com/track/1uEkIgetYekD0SlhFCq4jd"
+      "duration_ms": 182133,
+      "name": "Is It Love?",
+      "url": "https://open.spotify.com/track/1Fk3ebdShXVtWlZCi41oh1"
     },
     {
       "added_at": "2025-12-08 08:52:37",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2025-12-08 08:52:37",
       "album": {
-        "name": "Is It Love?",
-        "url": "https://open.spotify.com/album/70WeBMKxVg8C06c68o1661"
+        "name": "vol. 1",
+        "url": "https://open.spotify.com/album/6OVXBSdzPWg2c3enhPXkl1"
       },
       "artists": [
         {
-          "name": "Maria Sur",
-          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
+          "name": ".blank",
+          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
         }
       ],
-      "duration_ms": 182133,
-      "name": "Is It Love?",
-      "url": "https://open.spotify.com/track/1Fk3ebdShXVtWlZCi41oh1"
+      "duration_ms": 159754,
+      "name": "change",
+      "url": "https://open.spotify.com/track/1uEkIgetYekD0SlhFCq4jd"
     },
     {
       "added_at": "2025-12-08 08:52:37",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2025-12-08 08:52:37",
       "album": {
-        "name": "Where It Hurts",
-        "url": "https://open.spotify.com/album/5QJSQrvskRWa02N7XwpTRm"
+        "name": "Madame",
+        "url": "https://open.spotify.com/album/5NR1oY7UzZ2VdjwrxjLpuf"
       },
       "artists": [
         {
-          "name": "Dandelion",
-          "url": "https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c"
+          "name": "Henric Edstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
         }
       ],
-      "duration_ms": 180632,
-      "name": "Where It Hurts",
-      "url": "https://open.spotify.com/track/2XZ3zUmLgyfpPJe4MvXIYr"
+      "duration_ms": 134254,
+      "name": "Madame",
+      "url": "https://open.spotify.com/track/5hIMz0ZftiFGTNrVqo5JrB"
     },
     {
       "added_at": "2025-12-08 08:52:37",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2025-12-08 08:52:37",
       "album": {
-        "name": "Madame",
-        "url": "https://open.spotify.com/album/5NR1oY7UzZ2VdjwrxjLpuf"
+        "name": "Where It Hurts",
+        "url": "https://open.spotify.com/album/5QJSQrvskRWa02N7XwpTRm"
       },
       "artists": [
         {
-          "name": "Henric Edstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
+          "name": "Dandelion",
+          "url": "https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c"
         }
       ],
-      "duration_ms": 134254,
-      "name": "Madame",
-      "url": "https://open.spotify.com/track/5hIMz0ZftiFGTNrVqo5JrB"
+      "duration_ms": 180632,
+      "name": "Where It Hurts",
+      "url": "https://open.spotify.com/track/2XZ3zUmLgyfpPJe4MvXIYr"
     },
     {
       "added_at": "2025-12-08 08:52:37",

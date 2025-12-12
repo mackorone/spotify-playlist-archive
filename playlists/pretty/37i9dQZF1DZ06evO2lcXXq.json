@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 367584,
+  "num_followers": 367592,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAAD9Cvz+Xa3hsxtI6ibXcPsT",
+  "snapshot_id": "aTi4AAAAAACZEecWGuIKrWLrPHKtJmv0",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 273506,
+      "name": "Don't Dream It's Over - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peace, Vol. II",
         "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 319574,
       "name": "Rescue",
       "url": "https://open.spotify.com/track/2kjQMoKIkqlVYN20183Fjt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 273506,
-      "name": "Don't Dream It's Over - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C"
     },
     {
       "added_at": null,
@@ -347,22 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It (feat. Lauren Daigle)",
-        "url": "https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8"
+        "name": "Come Alive: Live from the CentricWorship Retreat",
+        "url": "https://open.spotify.com/album/0xykGjnTLmnd9DfMTTkJ12"
       },
       "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 338194,
-      "name": "Believe For It (feat. Lauren Daigle)",
-      "url": "https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y"
+      "duration_ms": 225680,
+      "name": "You Have My Surrender (Live)",
+      "url": "https://open.spotify.com/track/3PJQp0I22d2k12pnrLMRQ9"
     },
     {
       "added_at": null,
@@ -415,18 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Alive: Live from the CentricWorship Retreat",
-        "url": "https://open.spotify.com/album/0xykGjnTLmnd9DfMTTkJ12"
+        "name": "Believe For It (feat. Lauren Daigle)",
+        "url": "https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8"
       },
       "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 225680,
-      "name": "You Have My Surrender (Live)",
-      "url": "https://open.spotify.com/track/3PJQp0I22d2k12pnrLMRQ9"
+      "duration_ms": 338194,
+      "name": "Believe For It (feat. Lauren Daigle)",
+      "url": "https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y"
     },
     {
       "added_at": null,

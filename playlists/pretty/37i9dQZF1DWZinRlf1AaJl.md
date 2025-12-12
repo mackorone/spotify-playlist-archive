@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZinRlf1AaJl.md) - [plain]
 
 > enjoy the SEVENTEEN WORLD TOUR  \[NEW\_\] LIVE SET including the voices of them on stage! \(세븐틴의 무대 멘트와 목소리가 포함된 \[NEW\_\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,427 likes - 34 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,565 likes - 34 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

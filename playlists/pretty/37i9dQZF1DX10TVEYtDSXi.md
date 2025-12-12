@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 
 > Öll bestu lögin í augnablikinu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,154 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,156 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |
+| 1 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
 | 2 | [Vopn](https://open.spotify.com/track/7fc5fotKDfgeD8v0NPEG3g) | [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z), [Aron Can](https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW) | [Dyrnar](https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo) | 3:20 |
-| 3 | [Miklu betri einn](https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4) | [ELVAR](https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY) | [Miklu betri einn](https://open.spotify.com/album/0iWWosOl3XNiDJLEyNpFRM) | 2:24 |
-| 4 | [Lífsstíll](https://open.spotify.com/track/62QdlgpmodJ6D5hSm5ZTrd) | [Floni](https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7), [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [Lífsstíll](https://open.spotify.com/album/7uRDOkOFG2fm5ATQBOkNGg) | 3:02 |
-| 5 | [ÞÚ ERT HÉR](https://open.spotify.com/track/0TbjheMOqpbTXuUWcL3bBt) | [Joey Christ](https://open.spotify.com/artist/76MhNEhAVHSwifZFFr7khX) | [Joey 3](https://open.spotify.com/album/6cdZW1zQQd5jwQPAyf1tZZ) | 3:12 |
-| 6 | [Cowboy Killer](https://open.spotify.com/track/2gNZ7vl4Leb6IQ1UUHMJKb) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Cowboy Killer](https://open.spotify.com/album/6278k7rRmZDDcpyd2h1phT) | 3:35 |
-| 7 | [Hristu rassinn á þér baby \(Maðurinn\)](https://open.spotify.com/track/7JVWBFTXb8NJ8i5foL6E10) | [aronkristinn](https://open.spotify.com/artist/7ka0BBMmxQTQbVV92WKtM7), [Maron Birnir](https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK) | [Hristu rassinn á þér baby \(Maðurinn\)](https://open.spotify.com/album/6dCTeUp59t3PBfO3mjdzcP) | 2:55 |
-| 8 | [Superman](https://open.spotify.com/track/3mQsB2BR4o4kASOsN3LhuX) | [Saint Pete](https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd), [Nova Ísland](https://open.spotify.com/artist/6Z1OH8B7lOspT4vXy0BcY0) | [Superman](https://open.spotify.com/album/3hEYZuqFOChckFGcfRkT59) | 1:47 |
-| 9 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
+| 3 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |
+| 4 | [Miklu betri einn](https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4) | [ELVAR](https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY) | [Miklu betri einn](https://open.spotify.com/album/0iWWosOl3XNiDJLEyNpFRM) | 2:24 |
+| 5 | [Lífsstíll](https://open.spotify.com/track/62QdlgpmodJ6D5hSm5ZTrd) | [Floni](https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7), [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [Lífsstíll](https://open.spotify.com/album/7uRDOkOFG2fm5ATQBOkNGg) | 3:02 |
+| 6 | [ÞÚ ERT HÉR](https://open.spotify.com/track/0TbjheMOqpbTXuUWcL3bBt) | [Joey Christ](https://open.spotify.com/artist/76MhNEhAVHSwifZFFr7khX) | [Joey 3](https://open.spotify.com/album/6cdZW1zQQd5jwQPAyf1tZZ) | 3:12 |
+| 7 | [Cowboy Killer](https://open.spotify.com/track/2gNZ7vl4Leb6IQ1UUHMJKb) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Cowboy Killer](https://open.spotify.com/album/6278k7rRmZDDcpyd2h1phT) | 3:35 |
+| 8 | [Hristu rassinn á þér baby \(Maðurinn\)](https://open.spotify.com/track/7JVWBFTXb8NJ8i5foL6E10) | [aronkristinn](https://open.spotify.com/artist/7ka0BBMmxQTQbVV92WKtM7), [Maron Birnir](https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK) | [Hristu rassinn á þér baby \(Maðurinn\)](https://open.spotify.com/album/6dCTeUp59t3PBfO3mjdzcP) | 2:55 |
+| 9 | [Superman](https://open.spotify.com/track/3mQsB2BR4o4kASOsN3LhuX) | [Saint Pete](https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd), [Nova Ísland](https://open.spotify.com/artist/6Z1OH8B7lOspT4vXy0BcY0) | [Superman](https://open.spotify.com/album/3hEYZuqFOChckFGcfRkT59) | 1:47 |
 | 10 | [Efsta hæð](https://open.spotify.com/track/12vTFmfkpkN14LxUX4c4FS) | [tatjana](https://open.spotify.com/artist/291ohykNwzL3QugnbCf4Ju), [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [Efsta hæð](https://open.spotify.com/album/2XdtY47S7DL7fAVBQ30Hv1) | 4:06 |
 | 11 | [Aftur og aftur](https://open.spotify.com/track/3yCVOAJiYB5rjTjSCHhPhf) | [ELVAR](https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY), [Logi Pedro](https://open.spotify.com/artist/1FiwIhKqE7vKkRLj1Ict4H) | [Aftur og aftur](https://open.spotify.com/album/59h7JLzOu4WQ1ia5Yn8MO7) | 2:35 |
 | 12 | [HOME](https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [HOME](https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D) | 2:39 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 | 45 | [LYFTESSU](https://open.spotify.com/track/3TK7rt91upRhyDFScYcAn9) | [Luigi](https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN), [Saint Pete](https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd) | [LYFTESSU](https://open.spotify.com/album/4SCGIctVtHj4PP5rLCacih) | 2:05 |
 | 46 | [Far](https://open.spotify.com/track/2bGufV5inUlCxbDZNuQGJr) | [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [Far](https://open.spotify.com/album/7DINQCxwUQTbQpAwuPGLjo) | 4:52 |
 | 47 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
-| 48 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 |
+| 48 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 |
 | 49 | [Stara](https://open.spotify.com/track/1wsHXAu7flPD93VcynB0U4) | [HubbaBubba](https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma), [Luigi](https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN) | [Stara](https://open.spotify.com/album/33lQUgEpLZ3eFp6pYCgbog) | 3:19 |
 | 50 | [Egó](https://open.spotify.com/track/6peUs6BJUpBfhpH5NUDdux) | [HelgiT](https://open.spotify.com/artist/18GKco27D5UR5NpzIMugbL) | [Dýnamík](https://open.spotify.com/album/2w2XFZe0dSrOo5YFfq2dnC) | 2:35 |
 
-Snapshot ID: `AAAAAJXlnifxdRy7vZyHDnXZIEO78J+/`
+Snapshot ID: `AAAAAIBTO1x0FwZdVIMjZ4aZuul2Vkg9`

@@ -4,7 +4,7 @@
 
 > The hottest and recent Ghana party starters\. Cover: Kuami Eugene
 
-585 songs - 1 day 6 hr 13 min
+586 songs - 1 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 | 2025-01-21 |  |
 | [Fever](https://open.spotify.com/track/1wCjMz6bqdzVjpJWl45p9L) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Fever](https://open.spotify.com/album/70gNO57xq8Anipepibg32m) | 4:13 | 2022-11-04 | 2023-09-09 |
 | [Fever II](https://open.spotify.com/track/4kcoQCoBdUt9VBJDTsZ5KV) | [Raevin](https://open.spotify.com/artist/1Rn5xVELEoqHc9BPRPwSTv), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Fever II](https://open.spotify.com/album/2KE52ZTSClpoqFlRUIvrPH) | 3:31 | 2025-09-19 | 2025-11-28 |
+| [Figure Say](https://open.spotify.com/track/0FHC1TCjY49MvH1BL7cpv4) | [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA), [DJ Boat](https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ) | [Dapper Diaries](https://open.spotify.com/album/4Vz9qbPahSuPlcbbTDKnIb) | 2:20 | 2025-12-12 |  |
 | [Fine Wine \(feat\. King Promise & Joeboy\)](https://open.spotify.com/track/3E3WIVDBt4rX4N2kRrwSah) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Fine Wine \(feat\. King Promise & Joeboy\)](https://open.spotify.com/album/3f6FbIilED8NakLgcWAhqi) | 3:50 | 2022-11-04 | 2024-02-09 |
 | [Fiona \(feat\. Lasmid\) \- Remix](https://open.spotify.com/track/6lcbqARFc6XYGYkHfRUrwo) | [Fazil](https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Fiona \(feat\. Lasmid\) \[Remix\]](https://open.spotify.com/album/3RkNNWfviQ9hnFO2Sn7jXo) | 3:20 | 2023-11-24 | 2024-11-09 |
 | [Fire](https://open.spotify.com/track/16uuguJjHf7d7gyxpnGwOn) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Fire](https://open.spotify.com/album/5sqPvkTgAI1FIjUA3ZR38O) | 3:58 | 2025-03-28 |  |

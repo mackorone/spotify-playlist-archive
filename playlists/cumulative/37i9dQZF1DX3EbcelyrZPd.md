@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Jux
+> Get your fill of vibes straight out of Tanzania\. Cover: D Voice
 
-614 songs - 1 day 11 hr 3 min
+616 songs - 1 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Dodo](https://open.spotify.com/track/2iMxlpiSajGwrkSqWn7RIh) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Dodo](https://open.spotify.com/album/29laMqyXW8THPpNK3tTsNj) | 3:59 | 2021-06-25 | 2022-01-07 |
 | [Dokta \(feat\. Dj Awakening\)](https://open.spotify.com/track/11DClOmMIOO7AjuqZVNKao) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3), [Dj Awakening](https://open.spotify.com/artist/1vdjiPf4w72D0ztlEkp97d) | [Dokta \(feat\. Dj Awakening\)](https://open.spotify.com/album/3fiutdRgB0nWaooZ6FlP72) | 4:23 | 2024-07-04 | 2024-10-04 |
 | [Dokta \(feat\. Jaivah & Dj Awakening\)](https://open.spotify.com/track/6kextgZ1Ar0oKVs7aXYCEt) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Dj Awakening](https://open.spotify.com/artist/1vdjiPf4w72D0ztlEkp97d), [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3) | [Dokta \(feat\. Jaivah & Dj Awakening\)](https://open.spotify.com/album/6C06umSy0CFTlTkK7Eer2C) | 4:01 | 2024-06-20 | 2024-08-16 |
-| [Dollar](https://open.spotify.com/track/6zX6vPRYi5dUVzKzd2CRfs) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Kona Beats](https://open.spotify.com/artist/7qd5hiO16apL0pvx1NGRwr) | [Dollar](https://open.spotify.com/album/2mgEdaFhOQ4LEwb6oSn73F) | 2:30 | 2025-10-09 |  |
+| [Dollar](https://open.spotify.com/track/6zX6vPRYi5dUVzKzd2CRfs) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Kona Beats](https://open.spotify.com/artist/7qd5hiO16apL0pvx1NGRwr) | [Dollar](https://open.spotify.com/album/2mgEdaFhOQ4LEwb6oSn73F) | 2:30 | 2025-10-09 | 2025-12-12 |
 | [Don't Let Go](https://open.spotify.com/track/46MW6k54DIiMMkXYJ7vOeW) | [Navy Kenzo](https://open.spotify.com/artist/7oHH7jM5KdlCLHjr3OshQx) | [Don't Let Go](https://open.spotify.com/album/2LXIF7NQRV6S0XBlaVV6u4) | 2:15 | 2023-02-09 | 2024-01-19 |
 | [Don't Let Me Go](https://open.spotify.com/track/7dmJVQ9v7XzvEVnCVPWOFG) | [Mimi Mars](https://open.spotify.com/artist/0EvB9GVXaLmhGROh8ZIAKi) | [Don't Let Me Go](https://open.spotify.com/album/3Zlm7ZCAnn40HRYv4dHZiL) | 2:41 | 2025-01-16 | 2025-06-27 |
 | [Don't You Know](https://open.spotify.com/track/1XPpKdRjnNNsXZcYg7Krwg) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Don't You Know](https://open.spotify.com/album/3iMtRORC74LGs0pm4AewFB) | 3:19 | 2022-04-14 | 2022-12-10 |
@@ -378,6 +378,7 @@
 | [Nimekuzoea](https://open.spotify.com/track/6UpuTAuQF82c95Hg7lCBUe) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Nimekuzoea](https://open.spotify.com/album/0Hr25mTjVlrkNexp2CbKDc) | 2:43 | 2021-08-26 | 2022-08-19 |
 | [Nimepatikana](https://open.spotify.com/track/2iZ0SlISjg9i0zkEEeRzzo) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Nimepatikana](https://open.spotify.com/album/4ZBApehQPw0RRhNMVvEtdp) | 2:43 | 2024-10-31 | 2025-08-08 |
 | [Nimepitia](https://open.spotify.com/track/6cI2spNOFPIK59V5Pgv9Jx) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS) | [Silver](https://open.spotify.com/album/6S8IiiuJOaVUBK6jwRQGIW) | 3:43 | 2025-06-19 | 2025-10-24 |
+| [Ningepata Nafasi](https://open.spotify.com/track/0vQJvac7JIZI2g7BImyzSd) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Ningepata Nafasi](https://open.spotify.com/album/5YAW8O0rOKDLwynMvvw4vp) | 3:08 | 2025-12-11 |  |
 | [Nioneshe \(feat\. Alikiba\)](https://open.spotify.com/track/6oLjaEGYQzinmglh4IwqIt) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Cinema](https://open.spotify.com/album/5Qe5uxTUw3myubH9pH2mAK) | 3:32 | 2022-05-19 | 2023-01-20 |
 | [Nipo Single](https://open.spotify.com/track/3mok6C9ydwAhSsdfbSWPqJ) | [Dayoo](https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc), [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Nipo Single](https://open.spotify.com/album/2lpNn5tsi8law4Kmy8hBdk) | 3:17 | 2024-08-08 | 2024-12-20 |
 | [Nisha Mpenda](https://open.spotify.com/track/1UQfdQIYiu4Ogj7SOWBTJf) | [Swallah Boy](https://open.spotify.com/artist/28zsrbRGqavxYLzkVF03cX) | [Nisha Mpenda](https://open.spotify.com/album/0OzmP1AOTb9zZPHsr4mvm8) | 3:27 | 2022-08-26 | 2023-03-25 |
@@ -449,6 +450,7 @@
 | [Rewind](https://open.spotify.com/track/4V3hEprf54KxtlKyGh5auQ) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4) | [Rewind](https://open.spotify.com/album/1JxzjdnDjZuxWHCf2ZCN2Y) | 3:19 | 2025-06-19 | 2025-08-30 |
 | [Rockabye](https://open.spotify.com/track/20QBNMa1J6DgJErBLLF9ZM) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Rockabye](https://open.spotify.com/album/0jLdOcmIppSM5XCIMZIAtd) | 3:08 | 2023-04-27 | 2023-09-08 |
 | [Rockabye \(feat\. Otile Brown\) \- Remix](https://open.spotify.com/track/5nEdZmQdw7wnMHizKDLXvb) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Rockabye \(feat\. Otile Brown\) \[Remix\]](https://open.spotify.com/album/0uYbJ7UYksWxnuv7e8eohS) | 3:47 | 2023-06-01 | 2023-10-27 |
+| [ROGER](https://open.spotify.com/track/2ZlAFI6Crfs2pURRxOeKHV) | [Kholi](https://open.spotify.com/artist/2XPwSOeBvqlG5J5qFl4Eze), [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [ROGER](https://open.spotify.com/album/6VkuGcDJy8rssIZHqbmRQV) | 2:46 | 2025-12-11 |  |
 | [Romeo \(feat\. Zuchu\)](https://open.spotify.com/track/7KiqHHymiBKAZB15OKk4Gl) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Romeo \(feat\. Zuchu\)](https://open.spotify.com/album/5Q9TxMIkTR8hNeU4ZNwTmP) | 3:26 | 2024-04-18 | 2024-11-29 |
 | [Sacrifice](https://open.spotify.com/track/3PHxramNrA3dkxziJzaRXd) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC) | [Sacrifice](https://open.spotify.com/album/6iM4dLWcqY4tKXdxRj6LKG) | 3:20 | 2024-04-11 | 2024-11-08 |
 | [Salama \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/6AZcEHJOS0LWmTFsJsdsIR) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Salama \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/6KUm9AfsiHbAmszDEUHOAX) | 3:43 | 2025-05-15 | 2025-10-03 |
@@ -554,7 +556,7 @@
 | [Unanimaliza](https://open.spotify.com/track/67F4XuZS8JXs8t5UZBjEFg) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz) | [Maturity EP](https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq) | 2:55 | 2022-08-04 | 2023-02-24 |
 | [Understand \(feat\. Mac Voice\)](https://open.spotify.com/track/6MyvdhuOqOJUQHeYouJF2K) | [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH), [Mac Voice](https://open.spotify.com/artist/0gqdLMf9kqVNiUXaM5Dg1s) | [Understand \(feat\. Mac Voice\)](https://open.spotify.com/album/67KiGdStO7M5oL2xiTuxkV) | 2:52 | 2023-09-07 | 2023-12-08 |
 | [Unga Mwana](https://open.spotify.com/track/1rQYnLff7FHot3g2pmO4Pw) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Unga Mwana](https://open.spotify.com/album/4JDSLLIijMnPWCikJxne55) | 3:54 | 2025-09-25 |  |
-| [Upendo](https://open.spotify.com/track/6qRTFjQCkdfQKgY68QQr96) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Upendo](https://open.spotify.com/album/1112N3GxCGKwDeJY2dd42W) | 3:45 | 2025-08-21 |  |
+| [Upendo](https://open.spotify.com/track/6qRTFjQCkdfQKgY68QQr96) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Upendo](https://open.spotify.com/album/1112N3GxCGKwDeJY2dd42W) | 3:45 | 2025-08-21 | 2025-12-12 |
 | [Upendo \(feat\. Zuchu\)](https://open.spotify.com/track/4rET38eDNmdCHOgIoH4RzP) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Upendo \(feat\. Zuchu\)](https://open.spotify.com/album/3MpkiAuVgRLKdHZdm7Pjra) | 2:28 | 2021-10-21 | 2022-05-06 |
 | [Upo Nyonyo](https://open.spotify.com/track/2WNRS21MvaSOX9PBTIRn8Y) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Upo Nyonyo](https://open.spotify.com/album/4JILnHDsmvGkrgyJaH8rIv) | 3:50 | 2022-11-10 | 2023-09-01 |
 | [Uridhike](https://open.spotify.com/track/7cc2RrsWpynqV1fYTZw02F) | [Ruby Africa](https://open.spotify.com/artist/2HkiAy2nG0XolOJNl8ha5d), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Uridhike](https://open.spotify.com/album/2k0aOwE2xBrg8vBz9McS1t) | 3:03 | 2023-09-21 | 2024-05-03 |

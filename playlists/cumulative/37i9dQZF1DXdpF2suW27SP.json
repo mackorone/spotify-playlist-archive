@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Mizzy Miles entra na zona. ",
+  "description": "Monsta & DJ Liu One entram na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -1640,6 +1640,24 @@
       "duration_ms": 213818,
       "name": "Assassino",
       "url": "https://open.spotify.com/track/78CpoadoaXB6mcIDX5JXLk"
+    },
+    {
+      "album": {
+        "name": "Assunto Meu",
+        "url": "https://open.spotify.com/album/14BI8fS7mq1oGcf6mGP6XH"
+      },
+      "artists": [
+        {
+          "name": "xtinto",
+          "url": "https://open.spotify.com/artist/6jVOHz5AjBoJImzesvZeGx"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Assunto Meu",
+      "url": "https://open.spotify.com/track/4sjDdTecsvoxV4vjvmUhMO"
     },
     {
       "album": {
@@ -3904,6 +3922,28 @@
       "duration_ms": 267692,
       "name": "Cima Favela",
       "url": "https://open.spotify.com/track/4jywdVdJvrKrAdN9OyaAWW"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Monsta",
+          "url": "https://open.spotify.com/artist/1UYLvmudFl1ERXDnAPj5WS"
+        },
+        {
+          "name": "DJ Liu One",
+          "url": "https://open.spotify.com/artist/5D5vBgRfIJwhMPGT5uIngY"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142864,
+      "name": "CITY LIT",
+      "url": "https://open.spotify.com/track/5kgxj2p0kwpUANG2448Ne8"
     },
     {
       "album": {
@@ -7268,7 +7308,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 198750,
       "name": "Gana Venci",
       "url": "https://open.spotify.com/track/3HwrnPBvobPUPMX7rOPGYk"
@@ -10174,6 +10214,24 @@
       "duration_ms": 249565,
       "name": "Mau Rapaz",
       "url": "https://open.spotify.com/track/3uEhYK6XoStf5kHf90NVy3"
+    },
+    {
+      "album": {
+        "name": "Mazeus",
+        "url": "https://open.spotify.com/album/4hg2FgorJHVcampWKDJHDD"
+      },
+      "artists": [
+        {
+          "name": "TILHON",
+          "url": "https://open.spotify.com/artist/6s6mY5Dhbh9Qrg118P3qcO"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183272,
+      "name": "Mazeus",
+      "url": "https://open.spotify.com/track/6VS99XmFYmtR979YIQ2lXo"
     },
     {
       "album": {
@@ -14076,7 +14134,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 243500,
       "name": "Prova Viva",
       "url": "https://open.spotify.com/track/3buhUU1aOrH7IVZEcqpkZq"
@@ -17151,6 +17209,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "12FUROS",
+          "url": "https://open.spotify.com/artist/0qYuSm5EMjsbyjoiCmQ6Rp"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/0SF9lqOmfEe4JWcDEpwGAr"
+    },
+    {
+      "album": {
         "name": "Entrelinhas",
         "url": "https://open.spotify.com/album/4qzAJABWAoSIy6LoAebV1u"
       },
@@ -18028,7 +18104,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 213033,
       "name": "Vida Do Crime",
       "url": "https://open.spotify.com/track/5skRnP4WXwsDFtFzJnnrrW"
@@ -18312,7 +18388,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 75428,
       "name": "V\u00e2ndalos???",
       "url": "https://open.spotify.com/track/2JxXGeAMhKLh3JUW6I0t9y"

@@ -1,6 +1,6 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 147475,
+  "num_followers": 147479,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2025-12-10 01:50:33",
       "album": {
-        "name": "Vie",
-        "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 266021,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph"
-    },
-    {
-      "added_at": "2025-12-10 01:50:33",
-      "album": {
         "name": "Tip Toe",
         "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 224725,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
+    },
+    {
+      "added_at": "2025-12-10 01:50:33",
+      "album": {
+        "name": "Vie",
+        "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 266021,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph"
     },
     {
       "added_at": "2025-12-10 01:50:33",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-12-10 01:50:33",
       "album": {
-        "name": "The Universe Smiles Upon You ii",
-        "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 291190,
-      "name": "White Gloves ii",
-      "url": "https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp"
-    },
-    {
-      "added_at": "2025-12-10 01:50:33",
-      "album": {
         "name": "The Summer That Saved Me",
         "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 216493,
       "name": "Miami (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82"
+    },
+    {
+      "added_at": "2025-12-10 01:50:33",
+      "album": {
+        "name": "The Universe Smiles Upon You ii",
+        "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 291190,
+      "name": "White Gloves ii",
+      "url": "https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp"
     },
     {
       "added_at": "2025-12-10 01:50:33",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2025-12-10 01:50:33",
       "album": {
+        "name": "What It Gave Me",
+        "url": "https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 164605,
+      "name": "What It Gave Me",
+      "url": "https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC"
+    },
+    {
+      "added_at": "2025-12-10 01:50:33",
+      "album": {
         "name": "Welcome to the Mood",
         "url": "https://open.spotify.com/album/3UtLsPn5V412E1SeqzFOP2"
       },
@@ -1119,26 +1139,6 @@
     {
       "added_at": "2025-12-10 01:50:33",
       "album": {
-        "name": "What It Gave Me",
-        "url": "https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        },
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 164605,
-      "name": "What It Gave Me",
-      "url": "https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC"
-    },
-    {
-      "added_at": "2025-12-10 01:50:33",
-      "album": {
         "name": "OCEAN",
         "url": "https://open.spotify.com/album/0imP3ylu6LRSGTsedAybzW"
       },
@@ -1167,22 +1167,6 @@
       "duration_ms": 155080,
       "name": "IS THIS LOVE",
       "url": "https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at"
-    },
-    {
-      "added_at": "2025-12-10 01:50:33",
-      "album": {
-        "name": "Julia",
-        "url": "https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 189780,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7"
     },
     {
       "added_at": "2025-12-10 01:50:33",
@@ -1219,6 +1203,22 @@
       "duration_ms": 160919,
       "name": "PS118 - feat. Rapsody",
       "url": "https://open.spotify.com/track/1X5BMHJoKkVlf9Vo2YYsJz"
+    },
+    {
+      "added_at": "2025-12-10 01:50:33",
+      "album": {
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 189780,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7"
     },
     {
       "added_at": "2025-12-10 01:50:33",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-12-10 01:50:33",
       "album": {
-        "name": "Give Me All Your Love",
-        "url": "https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 200414,
-      "name": "Give Me All Your Love",
-      "url": "https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd"
-    },
-    {
-      "added_at": "2025-12-10 01:50:33",
-      "album": {
         "name": "MIRROR",
         "url": "https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 178000,
       "name": "MIRROR",
       "url": "https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23"
+    },
+    {
+      "added_at": "2025-12-10 01:50:33",
+      "album": {
+        "name": "Give Me All Your Love",
+        "url": "https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 200414,
+      "name": "Give Me All Your Love",
+      "url": "https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd"
     },
     {
       "added_at": "2025-12-10 01:50:33",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2025-12-10 01:50:33",
       "album": {
-        "name": "Cumulus / Memory",
-        "url": "https://open.spotify.com/album/6VemCtS9MYpT9CJ1YgfZeN"
+        "name": "favors",
+        "url": "https://open.spotify.com/album/2JLwUEQIkgSwdC3ieZf5G0"
       },
       "artists": [
         {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
         }
       ],
-      "duration_ms": 407765,
-      "name": "Cumulus / Memory",
-      "url": "https://open.spotify.com/track/6rKXHdjhXExjyvfarhcmwb"
+      "duration_ms": 228461,
+      "name": "favors",
+      "url": "https://open.spotify.com/track/7a0auf1LJkhoIlDmjVEXii"
     },
     {
       "added_at": "2025-12-10 01:50:33",

@@ -3013,6 +3013,24 @@
     },
     {
       "album": {
+        "name": "\u548c\u4f60\u4e00\u8d77\u7684\u98a8\u666f\u672a\u5b8c\u5f85\u7e8c",
+        "url": "https://open.spotify.com/album/0tFoZb3tdwfNnjNIwG4mnO"
+      },
+      "artists": [
+        {
+          "name": "Astro Bunny",
+          "url": "https://open.spotify.com/artist/3PTsVPijj4pjIol9yML0rK"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205681,
+      "name": "\u548c\u4f60\u4e00\u8d77\u7684\u98a8\u666f",
+      "url": "https://open.spotify.com/track/5sXgC20W4HQKyJEp46qUqv"
+    },
+    {
+      "album": {
         "name": "\u65b0\u4f20\u5a92\u7535\u89c6\u5267\u300a\u9047\u89c1\u4f60,\u771f\u9999!\u300b\u7535\u89c6\u5267\u539f\u58f0\u5e26",
         "url": "https://open.spotify.com/album/1K8czXXHMQeE57rqeifxPE"
       },
@@ -7074,7 +7092,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 241551,
       "name": "\u7b2c\u4e00\u5c01\u60c5\u66f8",
       "url": "https://open.spotify.com/track/5tjog7gO3dqoQe7qOsxNUx"
@@ -8336,6 +8354,24 @@
       "duration_ms": 172200,
       "name": "\u975e\u914b",
       "url": "https://open.spotify.com/track/6PPqL3Oj5qzpTN8xG19W2z"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "JOYCE \u5c31\u4ee5\u65af",
+          "url": "https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217346,
+      "name": "\u9760\u5f88\u8fd1",
+      "url": "https://open.spotify.com/track/5LgXO99ckCKgnGrxpMluIR"
     },
     {
       "album": {

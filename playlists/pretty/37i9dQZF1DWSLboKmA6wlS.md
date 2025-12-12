@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ไฮไลท์ Fresh Finds Thailand ปี 2025 โดย Spotify Editor\. ปก: GOODMOOD\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,460 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,469 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 49 | [อยากรอ \(Still\)](https://open.spotify.com/track/6sakgXgkmHJ26S6MuCNe8d) | [2000](https://open.spotify.com/artist/31Kfuml0W35VeLusxNjQzX) | [อยากรอ \(Still\)](https://open.spotify.com/album/3uePQ1wlAox4my86hrPno3) | 3:59 |
 | 50 | [นาฬิกา \(You\)](https://open.spotify.com/track/6iapHtrPAWltKD3OodCTJD) | [OFFICESYNDROME](https://open.spotify.com/artist/1tqOY4TeYRU7LY8cdIg4IH) | [นาฬิกา \(You\)](https://open.spotify.com/album/7sQwDrsfYW2I15KdCDSIhC) | 4:13 |
 
-Snapshot ID: `AAAAAE8PIiYTn+litn35YtTa2EOJHMmY`
+Snapshot ID: `AAAAALLayqixo9Z3FRu/1xAUpRSFcoQF`

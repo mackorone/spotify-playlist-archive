@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,390 likes - 200 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,447 likes - 200 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 71 | [camellia](https://open.spotify.com/track/0whBmEP3B9AMBaAm3LSjKn) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [camellia](https://open.spotify.com/album/4cIHkWwWqlqegjsR6J4tzM) | 2:07 |
 | 72 | [eggplants & oregano](https://open.spotify.com/track/4NFpLeNabRQZa5ri80KRcA) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [eggplants & oregano](https://open.spotify.com/album/1xqBqzSAxguUoi25iST312) | 1:37 |
 | 73 | [Harvest](https://open.spotify.com/track/4ZNo6Sa53jLKNPemk5bGYU) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Harvest](https://open.spotify.com/album/5R749lPQYZku7ygy4UFt1J) | 1:55 |
-| 74 | [Egg Rollz](https://open.spotify.com/track/5swljGcGse2QRMLWji89yv) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA), [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Egg Rollz](https://open.spotify.com/album/0g2qx277TrWnpNgQcXjvBp) | 2:11 |
+| 74 | [Egg Rollz](https://open.spotify.com/track/5swljGcGse2QRMLWji89yv) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE), [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Egg Rollz](https://open.spotify.com/album/0g2qx277TrWnpNgQcXjvBp) | 2:11 |
 | 75 | [LIFE](https://open.spotify.com/track/6CEfKrDJPDNKHvnCcQjfkd) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [LIFE](https://open.spotify.com/album/2AlBd43zrdIshx5p8DUvti) | 2:16 |
 | 76 | [Banana Split](https://open.spotify.com/track/6Nr7oiJY1Zg9507wQNuIIc) | [Lofi Lucy](https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO) | [Banana Split](https://open.spotify.com/album/00AbeZsbz61JCPKV6w7PSr) | 2:07 |
 | 77 | [americano](https://open.spotify.com/track/7eyhpSGqHHEWctAVDXGQWG) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [americano](https://open.spotify.com/album/0db4vf7G36qKKbqI5dmRkf) | 2:11 |

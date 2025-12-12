@@ -1,6 +1,6 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 79177,
+  "num_followers": 79182,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
+        "name": "Turn On The Bright Lights",
+        "url": "https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "duration_ms": 259733,
+      "name": "NYC",
+      "url": "https://open.spotify.com/track/4PAR0Zp6Mbu3p6NKYClgBr"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
         "name": "Lucky Boy At Night",
         "url": "https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 218626,
       "name": "Signatune - Thomas Bangalter Short Edit",
       "url": "https://open.spotify.com/track/0lbVB3ktcJkLZwX3GkiNi9"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
-        "name": "Turn On The Bright Lights",
-        "url": "https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG"
-      },
-      "artists": [
-        {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
-        }
-      ],
-      "duration_ms": 259733,
-      "name": "NYC",
-      "url": "https://open.spotify.com/track/4PAR0Zp6Mbu3p6NKYClgBr"
     },
     {
       "added_at": "2024-08-08 18:53:25",

@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-433 songs - 23 hr 44 min
+435 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [All Night](https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [All Night](https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk) | 3:28 | 2023-10-12 | 2023-12-22 |
 | [All Night](https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [All Night](https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD) | 2:45 | 2025-06-27 | 2025-10-24 |
 | [All that Glitters is not Gold](https://open.spotify.com/track/45Exz93oyRbDvmM8FvpgYz) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [All that Glitters is not Gold](https://open.spotify.com/album/21cKRCwQth5UGjCV6DkhGn) | 2:51 | 2025-05-01 | 2025-09-12 |
-| [All There Is To Know](https://open.spotify.com/track/7q0NUpOU9j2DZFyHxTEaN4) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [All There Is To Know](https://open.spotify.com/album/17bsFu3ODuF2kS5ux4ybYC) | 3:16 | 2025-06-06 |  |
+| [All There Is To Know](https://open.spotify.com/track/7q0NUpOU9j2DZFyHxTEaN4) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [All There Is To Know](https://open.spotify.com/album/17bsFu3ODuF2kS5ux4ybYC) | 3:16 | 2025-06-06 | 2025-12-12 |
 | [Alouette](https://open.spotify.com/track/0i6kcTouGjrDOmQVOEyLYj) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Alouette](https://open.spotify.com/album/5AdLMmqU79aNYpzZjvAgYS) | 3:24 | 2024-11-07 | 2025-03-14 |
 | [Always](https://open.spotify.com/track/2XOb3RMjvQeKlPawQR66Id) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Leisurevision](https://open.spotify.com/album/7GjS4SK8fvJFWfvlRw2jtU) | 3:27 | 2024-03-21 | 2024-05-24 |
 | [Always / Never](https://open.spotify.com/track/3n9EfOy7vlDIXbDyntRLxc) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Always / Never](https://open.spotify.com/album/16f1fDWr5jRAcGiqFoZSFI) | 3:41 | 2023-10-19 | 2024-02-02 |
@@ -60,6 +60,7 @@
 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 | 2024-04-18 | 2024-08-23 |
 | [Calling Your Name](https://open.spotify.com/track/2Ga4ATsihCKFz3ge6UGeBl) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 1:56 | 2024-02-22 | 2025-05-30 |
 | [Calling Your Name](https://open.spotify.com/track/2V2P7pNMrtgEYHq9styA6u) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Calling Your Name](https://open.spotify.com/album/3vsWNz4RAuJ1eBXdjEosd6) | 1:56 | 2023-09-28 | 2023-12-22 |
+| [Camouflage](https://open.spotify.com/track/2a8mqTYjErkuGZXvyu4wYV) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape III](https://open.spotify.com/album/2msYWXAkZvkbOBUHLs3QcM) | 2:25 | 2025-12-11 |  |
 | [Can Feel It](https://open.spotify.com/track/0rrlUV4F6oFbQDz02qqZVE) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Can Feel It](https://open.spotify.com/album/1e8S7SRezSUny3W9y0nLVn) | 2:33 | 2025-11-06 | 2025-11-16 |
 | [Can't Be Bothered](https://open.spotify.com/track/4sreGeUOTW90DXLh4rwtK8) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [HAVE A NICE DAY!](https://open.spotify.com/album/1I9S6JjC6OtSiNXGNiLMLL) | 2:35 | 2023-11-23 | 2024-03-15 |
 | [Care For You](https://open.spotify.com/track/2MJnBcjAG2buyUZ7zQLGMO) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Care For You](https://open.spotify.com/album/4PjDf7b4OxTxWuiY0nO8Xu) | 3:38 | 2025-01-09 | 2025-04-18 |
@@ -189,7 +190,7 @@
 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 | 2025-01-30 | 2025-03-28 |
 | [Just Two Girls](https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:49 | 2025-08-21 |  |
 | [Keep Me Satisfied](https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Keep Me Satisfied](https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM) | 2:25 | 2025-01-16 | 2025-03-28 |
-| [Kick Out of You](https://open.spotify.com/track/6xynry0TYIlyClA93a1rJt) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Kick Out of You](https://open.spotify.com/album/0jEYKbsEzz4s3xK65hBhq5) | 3:19 | 2025-07-17 |  |
+| [Kick Out of You](https://open.spotify.com/track/6xynry0TYIlyClA93a1rJt) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Kick Out of You](https://open.spotify.com/album/0jEYKbsEzz4s3xK65hBhq5) | 3:19 | 2025-07-17 | 2025-12-12 |
 | [Kite](https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Kite](https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4) | 2:46 | 2024-01-25 | 2024-03-15 |
 | [L\-O\-V\-E \- Long Version](https://open.spotify.com/track/4MymCsjbOkhuP2kWNSZgLo) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [The Best Of Joss Stone 2003 \- 2009](https://open.spotify.com/album/6Z8HL0drVRDIGrqIrSM1Ad) | 2:48 | 2024-04-25 | 2024-07-12 |
 | [La Notte](https://open.spotify.com/track/6yBKTcGR8HMXuIxDfRPTNZ) | [Andrea Laszlo De Simone](https://open.spotify.com/artist/2InNZR52CaeutuA8BjbfSh) | [La Notte](https://open.spotify.com/album/3rbzqpdv5vxIa2URcR6bqR) | 4:51 | 2025-05-15 | 2025-09-26 |
@@ -387,6 +388,7 @@
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-10-17 | 2025-02-14 |
 | [The Deceiving](https://open.spotify.com/track/3GXVVxYAL6sTG8ICC6pD9R) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [The Deceiving](https://open.spotify.com/album/32AeGVho713wI8Wm6jdgni) | 2:47 | 2023-11-23 | 2024-03-08 |
 | [The Fool](https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [The Fool](https://open.spotify.com/album/1WWlFJw4AvILgammiKMdA0) | 3:26 | 2023-09-28 | 2023-11-17 |
+| [The House That Doesn’t Exist](https://open.spotify.com/track/2EW7Z014nM1OJkU2OMhzQL) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [The House That Doesn’t Exist](https://open.spotify.com/album/3KrWKehFGLzIywovhhRoUx) | 2:23 | 2025-12-11 |  |
 | [The Last Sad Song](https://open.spotify.com/track/3zBcpaW23w9yC8yXiW0rx8) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [The Last Sad Song](https://open.spotify.com/album/7K7im2jRJSRnzJsBEUM5L6) | 2:58 | 2024-09-19 | 2024-10-18 |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2024-01-04 | 2025-09-19 |
 | [The Love On High](https://open.spotify.com/track/6ZkmO5UIyAu3WpA7Nlke2A) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [The Love On High](https://open.spotify.com/album/3JZ7COehvZULxvVmefJGTk) | 3:44 | 2025-09-11 | 2025-11-16 |

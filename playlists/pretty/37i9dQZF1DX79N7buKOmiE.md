@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 
 > 2025 legjobb pillanatai – hallgasd a nőket teljes hangerőn! Cover: Kollár Dea
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,263 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,265 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 49 | [Megint](https://open.spotify.com/track/4VtvAzA2V6HIyQRyxax8qc) | [Temesi Blanka](https://open.spotify.com/artist/3hsGE1dfJ4WNM3SIbbsDhg) | [Megint](https://open.spotify.com/album/2mAnIl6fN92nEhODwsbPfL) | 3:20 |
 | 50 | [miért nincs](https://open.spotify.com/track/539o7azKWNqIAW0xHAMYMF) | [Doggos](https://open.spotify.com/artist/5DzXhXnyUn27eqManzcCN0) | [GATYA](https://open.spotify.com/album/4eJ1xJGMc8RKeUg8yd6LDI) | 3:45 |
 
-Snapshot ID: `AAAAALz81TH3IK18Gak1+MrnlLHGQ5zS`
+Snapshot ID: `AAAAAMKX9RLRkXbTUM0aqIyf0cps+khW`

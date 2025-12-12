@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 54994,
+  "num_followers": 55004,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAADyaGqtOo8qNX9p/r4hSqjH",
+  "snapshot_id": "aTi4AAAAAADYy1UPvLA+/W2i22mLrmOR",
   "tracks": [
     {
       "added_at": null,
@@ -182,17 +182,21 @@
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 215594,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/05n0mwlh1y3cwjGmHnfVjh"
+      "duration_ms": 177718,
+      "name": "Lion",
+      "url": "https://open.spotify.com/track/2JnMEz1aD9m6bZAXUXFliU"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Don't Leave Too Soon (From the Netflix Film 'Steve')",
-        "url": "https://open.spotify.com/album/4VVroj6CaFvnbQ5fvTEmQj"
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
       },
       "artists": [
         {
@@ -200,9 +204,9 @@
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 218011,
-      "name": "Don't Leave Too Soon",
-      "url": "https://open.spotify.com/track/7HrXqBIvMg99q49IC0mLHl"
+      "duration_ms": 238831,
+      "name": "Heart on Fire",
+      "url": "https://open.spotify.com/track/5OJUTZS9QE2qem6FDsEnOM"
     },
     {
       "added_at": null,
@@ -246,21 +250,17 @@
         {
           "name": "Little Simz",
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 177718,
-      "name": "Lion",
-      "url": "https://open.spotify.com/track/2JnMEz1aD9m6bZAXUXFliU"
+      "duration_ms": 215594,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/05n0mwlh1y3cwjGmHnfVjh"
     },
     {
       "added_at": null,
       "album": {
-        "name": "NO THANK YOU",
-        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+        "name": "Don't Leave Too Soon (From the Netflix Film 'Steve')",
+        "url": "https://open.spotify.com/album/4VVroj6CaFvnbQ5fvTEmQj"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 238831,
-      "name": "Heart on Fire",
-      "url": "https://open.spotify.com/track/5OJUTZS9QE2qem6FDsEnOM"
+      "duration_ms": 218011,
+      "name": "Don't Leave Too Soon",
+      "url": "https://open.spotify.com/track/7HrXqBIvMg99q49IC0mLHl"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drop 7",
-        "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 182640,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/3qyuXDvMWjZLVPwbjWpGaq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO THANK YOU",
         "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 364181,
       "name": "X",
       "url": "https://open.spotify.com/track/0R4Po8nAlhZMmlA4TKH8Fy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drop 7",
+        "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 182640,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/3qyuXDvMWjZLVPwbjWpGaq"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drop 7",
-        "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 187093,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/7p6ru2D2smv8ga7f06JkTo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Proud of Me (feat. Little Simz)",
         "url": "https://open.spotify.com/album/13DiRRO8DTuLxsD6qqQlp4"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 215862,
       "name": "Proud of Me (feat. Little Simz)",
       "url": "https://open.spotify.com/track/1s6peZNxETxrrfMrveNZW8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drop 7",
+        "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 187093,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/7p6ru2D2smv8ga7f06JkTo"
     },
     {
       "added_at": null,

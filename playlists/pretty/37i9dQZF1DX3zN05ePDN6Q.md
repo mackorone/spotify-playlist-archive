@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Sant, L7NNON, Mc Marechal
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,504 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,527 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Já Dizia Minha Vó](https://open.spotify.com/track/13fzwFXbkD6q1RhDOO3bne) | [Mrasta](https://open.spotify.com/artist/4LATAzZazW5gcrunD9TMLs), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Já Dizia Minha Vó](https://open.spotify.com/album/0wS9IQlF84VE1InPq8XT2C) | 2:39 |
 | 75 | [Prata](https://open.spotify.com/track/1eLsJ9McYYvHyE1Jok1RXo) | [Akahuã](https://open.spotify.com/artist/3DSmmcp9kdITl4uSqHoavf), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Prata](https://open.spotify.com/album/1Imt47dB0HEi6N5OJTaAZp) | 2:51 |
 
-Snapshot ID: `AAAAAEMOGwisLFVCtnPFVB99W+LELcE5`
+Snapshot ID: `AAAAAPtOPXTIahtsgRNRnVqmpqTdJzdd`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQGcZi2K0LO.md) - [plain]
 
 > Editors pick the best songs from Indie India in 2025\. Cover: Kushagra
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,711 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,783 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQGcZi2K0LO.md) - [plain]
 | 49 | [Seelan Ki Khushboo](https://open.spotify.com/track/4JVPOE1vSL9qAl4L0rW9TG) | [Mansa Jimmy](https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu) | [Seelan Ki Khushboo](https://open.spotify.com/album/1kJ15kEGmmzgzlZc2MvY6f) | 3:32 |
 | 50 | [Rehna Duur](https://open.spotify.com/track/5jm4ahNk4P0ZTHPzUIpywb) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Pata](https://open.spotify.com/album/2MYx8x9zEVAX5c99paLZ0A) | 2:58 |
 
-Snapshot ID: `AAAAAHvpxUjBBhWnW4mSSwDmZHlALmWD`
+Snapshot ID: `AAAAAIrefBddftSJ/qwctMS56917oxST`

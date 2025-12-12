@@ -2160,7 +2160,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 188058,
       "name": "ar sugeb\u0117si?",
       "url": "https://open.spotify.com/track/5SyYLI7NzRcFNhONoeFq20"
@@ -7184,7 +7184,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 198620,
       "name": "COM\u00cb N GO",
       "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
@@ -11610,7 +11610,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -16916,7 +16916,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 219489,
       "name": "Ieva",
       "url": "https://open.spotify.com/track/2rYbTiqoxpIYRm4lYiizzb"
@@ -26112,7 +26112,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 193920,
       "name": "Nepyk Ant Man\u0119s",
       "url": "https://open.spotify.com/track/2qBns3n70EKZ8za48BJuad"
@@ -43522,7 +43522,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-29",
+      "date_removed": null,
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
@@ -45404,10 +45404,28 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 96000,
       "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
       "url": "https://open.spotify.com/track/6glptAOL1GSNQ1kZdWEVjj"
+    },
+    {
+      "album": {
+        "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
+        "url": "https://open.spotify.com/album/1NX1KF6EB1zsSxEcd4zopL"
+      },
+      "artists": [
+        {
+          "name": "NEXTIME",
+          "url": "https://open.spotify.com/artist/0KaA8HctO3Rt7xjMSu3YUk"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96001,
+      "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
+      "url": "https://open.spotify.com/track/35B1ToJcs6voXEoBls0PA3"
     },
     {
       "album": {

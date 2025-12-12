@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover:  Central Cee",
+  "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: 21 Savage",
   "name": "Hype List",
   "tracks": [
     {
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 126000,
       "name": "Aura 4 Aura (feat. Pa Salieu)",
       "url": "https://open.spotify.com/track/43sJP8fOjGxkg9UjNs9x3U"
@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 160988,
       "name": "BAGGIO (feat. PrettyboyDO and Giggs)",
       "url": "https://open.spotify.com/track/2xdK8w1IINv441RLlOJfft"
@@ -3758,7 +3758,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 148571,
       "name": "ESCAPE PLAN",
       "url": "https://open.spotify.com/track/6HdDrTn5SCULtmZg4vNdEm"
@@ -6181,6 +6181,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171667,
+      "name": "J.O.W.Y.H (JUMP OUT)",
+      "url": "https://open.spotify.com/track/6FOoyzZj7sT0JvD7yOT9tk"
+    },
+    {
+      "album": {
         "name": "Jangrova (feat. Tribal Mark)",
         "url": "https://open.spotify.com/album/6eLBhDWVnZZPvtPW1S9Irp"
       },
@@ -8380,7 +8398,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-24",
+      "date_removed": null,
       "duration_ms": 155500,
       "name": "NYEM EGO (feat. Jeriq)",
       "url": "https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M"
@@ -9344,7 +9362,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 184077,
       "name": "PICANTO",
       "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
@@ -9986,7 +10004,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 122553,
       "name": "Relevant",
       "url": "https://open.spotify.com/track/0SKwC5SPg2ACthYvLPlsD6"
@@ -12648,7 +12666,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 190000,
       "name": "What You Want",
       "url": "https://open.spotify.com/track/5HqJICWJomytoiIFnAsw0A"

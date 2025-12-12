@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With Rhineland, Laureline, The Wild Wind and more",
+  "description": "With Rhineland, The Wild Wind, Laureline and more",
   "name": "NIGHT TRAVELER Radio",
   "tracks": [
     {
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 210218,
       "name": "All the Way",
       "url": "https://open.spotify.com/track/5Z6ZEZlVbXQyUaKicZZtFG"
@@ -1566,7 +1566,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 204040,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/6u1HWxWAVGYb3FDkyMeLsy"
@@ -3098,7 +3098,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 261320,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/6e6jrSoJq75MYe3jgCpY0C"
@@ -3602,7 +3602,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 217893,
       "name": "Burn",
       "url": "https://open.spotify.com/track/0yN6WW3Icvw3847Xab21zt"
@@ -4144,7 +4144,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 320493,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/3uX0hLfztbtbZOs88lhHyh"
@@ -8678,7 +8678,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 206400,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/63a8sFZAZ6HgskOUatU7Ye"
@@ -12900,7 +12900,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 186763,
       "name": "Kissing Slowly",
       "url": "https://open.spotify.com/track/0lwvhzjVdByuRWMz2f7Sfl"
@@ -13802,7 +13802,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 298628,
       "name": "Looking for Love",
       "url": "https://open.spotify.com/track/5UvcNAtYa3davlDx7FoHXG"
@@ -14162,7 +14162,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 259200,
       "name": "Love Nobody Else",
       "url": "https://open.spotify.com/track/7tVFTOxeUuuxrmiyTfazde"
@@ -15204,7 +15204,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 245511,
       "name": "Miles Ahead",
       "url": "https://open.spotify.com/track/4YTY53IsP2suUTVilL4Vex"
@@ -16542,7 +16542,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 233538,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/1pFPxzkV0VUWfbnb83NCou"
@@ -17824,7 +17824,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 206600,
       "name": "Pale Ash",
       "url": "https://open.spotify.com/track/5udeA3sg1rTBxSBMmc9o5y"
@@ -21608,7 +21608,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 280093,
       "name": "Surefire",
       "url": "https://open.spotify.com/track/3GI0wyLTnmq8RgeosaG54Z"
@@ -24358,7 +24358,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 219457,
       "name": "Washed Wine",
       "url": "https://open.spotify.com/track/6ZEdXD3Eeh34PPNXcF0Tdz"
@@ -24430,7 +24430,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 267440,
       "name": "Watching You",
       "url": "https://open.spotify.com/track/0FFtIOqGVcjRdEpMxZVIRV"
@@ -26072,7 +26072,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 186133,
       "name": "You're The One I Need",
       "url": "https://open.spotify.com/track/254TJqo06K4vMXkKitjCAc"

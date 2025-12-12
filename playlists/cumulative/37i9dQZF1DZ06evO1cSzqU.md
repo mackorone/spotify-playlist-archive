@@ -4,7 +4,7 @@
 
 > This is Scorpions\. The essential tracks, all in one playlist.
 
-98 songs - 7 hr 31 min
+99 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Loving You Sunday Morning](https://open.spotify.com/track/3cP1PTtWpmft6mIXeZaRpS) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Lovedrive](https://open.spotify.com/album/7aIgGWlHdcPXOfONtXVliK) | 5:38 | 2022-09-17 | 2022-10-13 |
 | [Lust Or Love](https://open.spotify.com/track/5hK124LRx0p5MVtvSLlyP6) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:22 | 2022-09-17 | 2022-10-12 |
 | [Make It Real](https://open.spotify.com/track/1yT2euhsWazs0WEnrqjXk9) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Animal Magnetism](https://open.spotify.com/album/0P074q35RL8oUOpKsHJd07) | 3:49 | 2023-04-27 | 2023-04-29 |
+| [Make It Real \- On Stage](https://open.spotify.com/track/7xFO9h2tfvPf14DKkIGrBS) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Coming Home Live](https://open.spotify.com/album/3Tty06Fr9eZvkUjTOASgIh) | 3:58 | 2025-12-12 |  |
 | [Maybe I Maybe You](https://open.spotify.com/track/1W95JRlpnOqFdEhPm3ja1h) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Unbreakable](https://open.spotify.com/album/6A7yMNb49roe3ENbpKDu4j) | 3:30 | 2023-12-13 |  |
 | [Maybe I Maybe You](https://open.spotify.com/track/6uQtaWpr6Z1gjFDfsZKXjl) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Unbreakable](https://open.spotify.com/album/2O3fcesMwLORDJZ8usRZuJ) | 3:30 | 2022-09-17 | 2023-12-14 |
 | [Mind Like A Tree](https://open.spotify.com/track/7MFsQkHjde91vjODjjuxnm) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Mind Like A Tree](https://open.spotify.com/album/37KMn1VVBiYrybluDL8EBw) | 5:34 | 2025-09-20 | 2025-10-20 |
@@ -63,7 +64,7 @@
 | [No Pain No Gain](https://open.spotify.com/track/1sVtCOmdRKyXQZmoS5psN7) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Face The Heat](https://open.spotify.com/album/1SkW9MEOK2qqY8bWTAu2Q0) | 3:54 | 2022-09-17 | 2024-06-16 |
 | [Out Go The Lights \- Japan Bonus Track](https://open.spotify.com/track/6xzsakuDEPnxppCtArUP4O) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Out Go The Lights \(Japan Bonus Track\)](https://open.spotify.com/album/6M7HhWsikfG3YKqrS4pB4e) | 3:39 | 2022-10-07 | 2023-01-01 |
 | [Peacemaker](https://open.spotify.com/track/1YjOclLzSa0IhjGmjgDseT) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 2:56 | 2022-09-19 | 2024-03-28 |
-| [Raised on Rock](https://open.spotify.com/track/21wukp6132v5Y165Lxg17H) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Sting in the Tail](https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj) | 3:58 | 2022-09-17 |  |
+| [Raised on Rock](https://open.spotify.com/track/21wukp6132v5Y165Lxg17H) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Sting in the Tail](https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj) | 3:58 | 2022-09-17 | 2025-12-12 |
 | [Restless Nights](https://open.spotify.com/track/6zmFoe68ejOMgw0XHDh9db) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 5:47 | 2022-09-17 | 2022-10-13 |
 | [Rhythm of Love](https://open.spotify.com/track/3VDfLfd7lfCU3MTIXNqfR3) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 3:39 | 2022-09-17 |  |
 | [Rock Believer](https://open.spotify.com/track/2aTfmRBiYginQLFD4e5cie) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 3:57 | 2022-09-17 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: gorn",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ATLAS",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -1767,6 +1767,24 @@
     },
     {
       "album": {
+        "name": "HUH?",
+        "url": "https://open.spotify.com/album/3qz6SkDht9QOuFUqDghIzu"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "HUH?",
+      "url": "https://open.spotify.com/track/0utAUYiWZZatIr8hZ5SLGP"
+    },
+    {
+      "album": {
         "name": "HYPEWAY",
         "url": "https://open.spotify.com/album/4YQ1Hfz8vpWMRJxdEU1pS0"
       },
@@ -3505,6 +3523,24 @@
     },
     {
       "album": {
+        "name": "Skinship",
+        "url": "https://open.spotify.com/album/652GYbL961aNdadtqUEpHU"
+      },
+      "artists": [
+        {
+          "name": "DEXX",
+          "url": "https://open.spotify.com/artist/00xcYloqQIi9MrDTP7NUuA"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175652,
+      "name": "Skinship",
+      "url": "https://open.spotify.com/track/6vMeYJ8b8KDz1XWbqNYdlb"
+    },
+    {
+      "album": {
         "name": "Sleepin' Pill",
         "url": "https://open.spotify.com/album/1QyyEhCscmMupc04jqN3CU"
       },
@@ -3925,6 +3961,24 @@
     },
     {
       "album": {
+        "name": "TOUCH",
+        "url": "https://open.spotify.com/album/2BsXooxF3qdP8wiMlUqFae"
+      },
+      "artists": [
+        {
+          "name": "JASP.ER",
+          "url": "https://open.spotify.com/artist/1wBe2nbEVc01LGBk4YCxER"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188366,
+      "name": "TOUCH",
+      "url": "https://open.spotify.com/track/2w3yu5eVe9VdMwyMCfQSrl"
+    },
+    {
+      "album": {
         "name": "TOUCHDOWN (\u0e43\u0e01\u0e25\u0e49\u0e14\u0e32\u0e27)",
         "url": "https://open.spotify.com/album/3Qurr0NOGDO1hBLZxa64Iy"
       },
@@ -4336,7 +4390,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 141923,
       "name": "Where I Wanna Be (\u0e17\u0e35\u0e48\u0e17\u0e35\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d)",
       "url": "https://open.spotify.com/track/58pNXKS8sitEFkwYOeczg2"
@@ -5478,7 +5532,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 232058,
       "name": "\u0e04\u0e19\u0e44\u0e21\u0e48\u0e21\u0e35\u0e2b\u0e31\u0e27\u0e43\u0e08 - \u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"THE WICKED GAME \u0e40\u0e01\u0e21 \u0e23\u0e31\u0e01 \u0e25\u0e27\u0e07\"",
       "url": "https://open.spotify.com/track/0jEaW2IbIanKoJp5jr5wFY"
@@ -7106,7 +7160,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 183130,
       "name": "\u0e15\u0e31\u0e27\u0e1b\u0e31\u0e0d\u0e2b\u0e32 (Envy)",
       "url": "https://open.spotify.com/track/77mRCTRtDRg7UfeOqQMidd"
@@ -7920,7 +7974,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 199000,
       "name": "\u0e17\u0e38\u0e01\u0e19\u0e32\u0e17\u0e35 (THEM JEANS) (feat. SEXSKI)",
       "url": "https://open.spotify.com/track/4AzMtkdCyozL3fMoeTor6X"
@@ -13042,7 +13096,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 220482,
       "name": "\u0e40\u0e23\u0e34\u0e48\u0e21\u0e01\u0e48\u0e2d\u0e19 (If I Could)",
       "url": "https://open.spotify.com/track/0Vuen2jMTrQ5BOx2CU4wwi"
@@ -13488,6 +13542,24 @@
       "duration_ms": 204263,
       "name": "\u0e40\u0e2d\u0e32\u0e1b\u0e32\u0e01\u0e01\u0e32\u0e21\u0e32\u0e27\u0e07",
       "url": "https://open.spotify.com/track/4aDz9NTsLULSvewSLg8lih"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e2d\u0e32\u0e22\u0e31\u0e07\u0e44\u0e07? (Stay or Leave)",
+        "url": "https://open.spotify.com/album/2W3mJ8OQBghhUbGrlTSg69"
+      },
+      "artists": [
+        {
+          "name": "ATLAS",
+          "url": "https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153786,
+      "name": "\u0e40\u0e2d\u0e32\u0e22\u0e31\u0e07\u0e44\u0e07? (Stay or Leave)",
+      "url": "https://open.spotify.com/track/6wEVZBCQNPgfXl6k9x6wYg"
     },
     {
       "album": {
@@ -14976,6 +15048,24 @@
       "duration_ms": 218750,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e01\u0e23\u0e07\u0e43\u0e08\u0e09\u0e31\u0e19\u0e01\u0e47\u0e40\u0e01\u0e23\u0e07\u0e43\u0e08\u0e41\u0e1f\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/7xbsVR2KSzNXYkbLDTVvW0"
+    },
+    {
+      "album": {
+        "name": "MAHASAMUTH",
+        "url": "https://open.spotify.com/album/0wJ7WvPcTl6OpyqlTMWg1n"
+      },
+      "artists": [
+        {
+          "name": "Samui",
+          "url": "https://open.spotify.com/artist/6vBTnsVSqsI91mIEqUSL96"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254482,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e40\u0e1b\u0e47\u0e19\u0e2d\u0e30\u0e44\u0e23\u0e01\u0e31\u0e19\u0e2a\u0e31\u0e01\u0e2b\u0e19\u0e48\u0e2d\u0e22",
+      "url": "https://open.spotify.com/track/4ZiiWvC2gZdWCFfE5q2Keb"
     },
     {
       "album": {

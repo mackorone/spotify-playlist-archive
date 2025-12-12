@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 26.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,791 likes - 103 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,852 likes - 103 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 10 | [Symmetry](https://open.spotify.com/track/1Xk4qOVBo2N4lA8RWJabjM) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 2:48 |
 | 11 | [SABÍA QUE NO](https://open.spotify.com/track/61lNxSCj38lvmZjJZuhXSt) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [SABÍA QUE NO](https://open.spotify.com/album/4WszholwoxRZHWYkRgsXKs) | 3:02 |
 | 12 | [Spin The Block](https://open.spotify.com/track/1f3LYv9fIs3o9pS8V3dwUP) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Spin The Block](https://open.spotify.com/album/6lqtX8Ea7i76lIhPPoBPSl) | 2:53 |
-| 13 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 |
+| 13 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 |
 | 14 | [Disco Nap](https://open.spotify.com/track/54nlaNy6QVyFAZkTKWdVAP) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [22:22](https://open.spotify.com/album/6753teQnmjiQTbYlJMajYo) | 3:14 |
 | 15 | [London Burning \(feat\. Idris Elba & Peter Xan\)](https://open.spotify.com/track/40VCEeAVM4s0OXVPmNRLlg) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Idris Elba](https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [RUDIM3NTAL \(Deluxe\)](https://open.spotify.com/album/0oVxjcterd8xfgaWm7npju) | 3:17 |
 | 16 | [Our Home](https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Mydnight](https://open.spotify.com/album/2MVB6MztUF4iFQCcbBYmOe) | 3:33 |

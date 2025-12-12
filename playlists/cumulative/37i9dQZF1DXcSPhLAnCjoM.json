@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"L'horizon\" de Pierre Garnier est le Grand Hit de la semaine",
+  "description": "\"Ailleurs\" d'Orelsan est le Grand Hit de la semaine",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -1689,6 +1689,28 @@
     },
     {
       "album": {
+        "name": "Etincelles",
+        "url": "https://open.spotify.com/album/1oQk2YkoJAS4RFEr1ToRKB"
+      },
+      "artists": [
+        {
+          "name": "LUIZA",
+          "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
+        },
+        {
+          "name": "Carbonne",
+          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183762,
+      "name": "Etincelles",
+      "url": "https://open.spotify.com/track/3GzRPVyhL4nsmd6mtrrV7b"
+    },
+    {
+      "album": {
         "name": "Facile \u00e0 danser",
         "url": "https://open.spotify.com/album/1LXf0FJdk7greyhOvUBDBf"
       },
@@ -2138,7 +2160,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 189241,
       "name": "J'avoue",
       "url": "https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj"
@@ -3212,7 +3234,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 183000,
       "name": "Lendemain de f\u00eate",
       "url": "https://open.spotify.com/track/5i3e6gjbom2iWqspwmCGbA"
@@ -5504,6 +5526,24 @@
       "duration_ms": 169042,
       "name": "Viens on essaie",
       "url": "https://open.spotify.com/track/0ZaqWNMYcXW8ycRfVkgawy"
+    },
+    {
+      "album": {
+        "name": "Mill\u00e9nium",
+        "url": "https://open.spotify.com/album/2ouSVI0YALXE1GjD1pHoot"
+      },
+      "artists": [
+        {
+          "name": "Suzane",
+          "url": "https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158544,
+      "name": "Virile",
+      "url": "https://open.spotify.com/track/0y2YZSSY6BtzP6L489fMrb"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfRwViuerGJ.md) - [plain]
 
 > Our picks for the best kids songs of 2025\. Cover: FYÜTCH & Aura V
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,814 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,819 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfRwViuerGJ.md) - [plain]
 | 49 | [Count to 10](https://open.spotify.com/track/0McoCR7l8eKB9yEYC2eJP8) | [Kids Imagine Nation](https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq) | [Circle Time](https://open.spotify.com/album/4yt6XbXjmYFSeACX58Gkyo) | 2:37 |
 | 50 | [Thankful and Grateful](https://open.spotify.com/track/0uxssqzMABXpP60ubaKdwW) | [Thank You GiGi](https://open.spotify.com/artist/3FDz1pMBOYDKczlv5RjYdm), [Deraj Global](https://open.spotify.com/artist/7bcqZXZ8EAQGK0TYIMElQV) | [Thankful and Grateful](https://open.spotify.com/album/1wtM3O6tPf2fvzhXIjIQ4B) | 1:54 |
 
-Snapshot ID: `AAAAAKxTlOaznaevAwvtaNiG8XAfTi8x`
+Snapshot ID: `AAAAAGDq5/MZIhqlzUcF8XgqeyIIqlDC`

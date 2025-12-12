@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的華台語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,869 likes - 115 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,862 likes - 115 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 6 | [此刻永遠 \- 中客韓版 \- 電影《那張照片裡的我們》主題曲](https://open.spotify.com/track/6AZXmfnTgCuCfoZPTyCDS5) | [Jinyoung](https://open.spotify.com/artist/0GsGBWIkeFJxFllGUemX5i), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [此刻永遠 \(電影《那張照片裡的我們》主題曲\)](https://open.spotify.com/album/1hT0DFMs074DDYbtYk98q7) | 3:57 |
 | 7 | [恆星](https://open.spotify.com/track/6AZG2RiVChh5mMTspSWO1Z) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1) | [《Ho Ho Ho!》聖誕特輯](https://open.spotify.com/album/79ajBWBGOH1Q34B6euVVlC) | 3:26 |
 | 8 | [一直都在](https://open.spotify.com/track/3n4quSC4stXqGXdCCxttiC) | [French韩心洁](https://open.spotify.com/artist/0oVvfE8x3aK3oC2itqBC2f), [Daniel Chezi](https://open.spotify.com/artist/0kbe8wcKXPkXKAHANBjbuV) | [一直都在](https://open.spotify.com/album/5pAJaEtFpqwzhtoKXl0Rnv) | 4:00 |
-| 9 | [有去无回](https://open.spotify.com/track/63RXtXnm6Gr0z4HQa8ahFo) | [刘宇宁](https://open.spotify.com/artist/5k5iMDK1nWLbb0eqMnpuKl) | [有去无回](https://open.spotify.com/album/5a9Pwik9yqjwUekEWpOp29) | 5:12 |
+| 9 | [有去無回](https://open.spotify.com/track/63RXtXnm6Gr0z4HQa8ahFo) | [刘宇宁](https://open.spotify.com/artist/5k5iMDK1nWLbb0eqMnpuKl) | [有去無回](https://open.spotify.com/album/5a9Pwik9yqjwUekEWpOp29) | 5:12 |
 | 10 | [POV: 如果下雪的台北](https://open.spotify.com/track/5YVEhZwfE2O2EsoHHbtFs0) | [ERIKA](https://open.spotify.com/artist/3cuZA22vz0nToT0LAcecup) | [POV: 如果下雪的台北](https://open.spotify.com/album/36mYr25F4Dz6trrmmcDT4y) | 3:26 |
 | 11 | [他她](https://open.spotify.com/track/73yPVPLZRoEYwVgrYt8ljQ) | [林禾](https://open.spotify.com/artist/1evCoBdUSBNUfIgHyBsjHu) | [他她](https://open.spotify.com/album/0yT6VyRKb4Br53B6ggTuH8) | 4:03 |
 | 12 | [易碎品](https://open.spotify.com/track/3WV1O1A0PjDVTnCwCEYKWa) | [Kuo Shu\-Yao](https://open.spotify.com/artist/2YyCcOAo9HUfReP3xbe65c) | [易碎品](https://open.spotify.com/album/2NjpcBh5XYO41JnXJUo6cs) | 3:48 |

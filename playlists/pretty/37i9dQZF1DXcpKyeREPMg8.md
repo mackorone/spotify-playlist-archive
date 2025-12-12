@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpKyeREPMg8.md) - [plain]
 
 > Fine art in the form of UK Hip\-Hop\. Cover: Little Simz
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,841 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,834 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

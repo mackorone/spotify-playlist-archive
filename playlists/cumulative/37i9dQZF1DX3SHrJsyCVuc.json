@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "A new world of alternative noise. Cover: Radio Free Alice",
+  "description": "A new world of alternative noise. Cover: EXEK",
   "name": "Wire",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 127624,
       "name": "Anti-Lonely",
       "url": "https://open.spotify.com/track/24MrGCTAZR9QfGwoXIZtRW"
@@ -782,7 +782,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 126976,
       "name": "James Bay's Hat",
       "url": "https://open.spotify.com/track/7pBHLxLuo0epUw53Wij0Pq"
@@ -1377,6 +1377,24 @@
     },
     {
       "album": {
+        "name": "Sidestepping",
+        "url": "https://open.spotify.com/album/6008QvWhbj9WnLdGyBlHSu"
+      },
+      "artists": [
+        {
+          "name": "EXEK",
+          "url": "https://open.spotify.com/artist/7ldGIajEfZUsa38eyvJ04V"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253373,
+      "name": "Sidestepping",
+      "url": "https://open.spotify.com/track/1oImQjepMT3mT3QrmbEswR"
+    },
+    {
+      "album": {
         "name": "All That We Know",
         "url": "https://open.spotify.com/album/2IEKZcBQyuVhHxiDfvUvfb"
       },
@@ -1392,6 +1410,28 @@
       "duration_ms": 191320,
       "name": "Smart Enough",
       "url": "https://open.spotify.com/track/5VFyaFiyWTZZEGQU3iWaMu"
+    },
+    {
+      "album": {
+        "name": "Megaflower (Deluxe)",
+        "url": "https://open.spotify.com/album/4jom42cmqbh61M5KPtH1KO"
+      },
+      "artists": [
+        {
+          "name": "Full Flower Moon Band",
+          "url": "https://open.spotify.com/artist/29YPQKsmJN2L0YVz7HaOi4"
+        },
+        {
+          "name": "Drunk Mums",
+          "url": "https://open.spotify.com/artist/1vd7OHxzKOJeFKjN1M7VTb"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151151,
+      "name": "Smoking",
+      "url": "https://open.spotify.com/track/7gjFBjHdCeaWcguXSvYSsW"
     },
     {
       "album": {

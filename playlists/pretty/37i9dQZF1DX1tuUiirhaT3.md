@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 
 > Calm ambient music with gentle nature sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 986,445 likes - 149 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 986,480 likes - 149 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 | 148 | [Cyclical](https://open.spotify.com/track/7tsxqO0nfASxWTuWyiYFEp) | [Hwardo Ineso](https://open.spotify.com/artist/462RWWtGvZzX3dhgZmoXgg) | [Cyclical](https://open.spotify.com/album/6goW1gCFhhdxdp742gldnv) | 3:21 |
 | 149 | [Lazy Lanta](https://open.spotify.com/track/7BXS7Tp5wZZdkahdfPcHvU) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Lazy Lanta](https://open.spotify.com/album/49XdeD0HhnXEMTB1MvtsMi) | 3:30 |
 
-Snapshot ID: `AAAAAEAfnw1GfF9MfDcVelwXahRqmYot`
+Snapshot ID: `AAAAAHbZ3mdya4P7Pl+5UcDlG0bAb2dK`

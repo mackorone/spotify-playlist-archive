@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbF9hKi35AII.md) - [plain]
 
 > Hot Hits Suomi \-soittolistan parhaat biisit vuodelta 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,695 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,696 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbF9hKi35AII.md) - [plain]
 | 49 | [Sata shottii](https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tähtisumua](https://open.spotify.com/album/0QKY0hyk6h6hkytXBY9Jt4) | 2:25 |
 | 50 | [Unelmavävy](https://open.spotify.com/track/30PxjCTzmiPZslrW3YNgwm) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Unelmavävy](https://open.spotify.com/album/5fEjkf1IlOceOJzRGMT2uX) | 2:33 |
 
-Snapshot ID: `AAAAAPNyhzXceXo81G5gUa4CXtNSP4Ax`
+Snapshot ID: `AAAAAOnpy/MHZHBl8BOhRwJyQnwVn6FJ`

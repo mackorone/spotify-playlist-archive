@@ -2,9 +2,9 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> Spotify curators pick new and exciting artists\. New RADAR BNLX\-artist: <a href="spotify:artist:7a5xPqxWpIHk4tcdv7bDc6">MICHA</a>
+> Spotify curators pick new and exciting artists\. RADAR BNLX\-artist: <a href="spotify:artist:3smrOozTm8zGvRfrcIyRg9">Samuel Welten</a>
 
-226 songs - 12 hr 6 min
+227 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Droom Het Donker Weg](https://open.spotify.com/track/7mYoKmUoppdfr51cIYdR1l) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Per Ongeluk](https://open.spotify.com/album/4e4ksXE7OauJdBlmebPHJJ) | 2:54 | 2023-09-14 |  |
 | [Droom Sinds Klein](https://open.spotify.com/track/29w2gzyFS8FUuBrG3DeHxW) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Op De Zeeweg](https://open.spotify.com/album/5H1MieYnriQEUrLSvpdWMK) | 3:39 | 2024-05-09 |  |
 | [Early Hours](https://open.spotify.com/track/3NWzA0reKxIRyXPZtBHTDB) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Pier Pressure](https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW) | 2:46 | 2022-03-18 | 2022-08-26 |
-| [Echte Liefde Is Te Koop](https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop](https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR) | 2:32 | 2025-06-12 |  |
+| [Echte Liefde Is Te Koop](https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop](https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR) | 2:32 | 2025-06-12 | 2025-12-12 |
+| [Echte Liefde Is Te Koop \- Spotify Singles](https://open.spotify.com/track/5lTy97S8T5KglpeEKpCuKE) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop \- Spotify Singles](https://open.spotify.com/album/64rWacyCKAYaSne3DqIUS9) | 2:58 | 2025-12-11 |  |
 | [Een Teken](https://open.spotify.com/track/4YWS5c1tKeLFFiuZuSCg10) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Een Teken](https://open.spotify.com/album/5JRilfWaLp7MmGybgpS04Q) | 2:12 | 2021-12-10 | 2022-03-19 |
 | [EGOTRIP](https://open.spotify.com/track/6figbpzScXtzzlc4lYTLNw) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [EGOTRIP](https://open.spotify.com/album/51KPkUzPehz3oPihuwAlJL) | 2:38 | 2025-09-24 |  |
 | [Emotional](https://open.spotify.com/track/5KhKUkTD4F14DWQGdYtEn3) | [Glowe](https://open.spotify.com/artist/2RZUpkLcPheIJuXLexerK0) | [Emotional](https://open.spotify.com/album/4lXgI0aIpChKJEZtzS0RJM) | 3:00 | 2022-02-25 | 2022-06-17 |

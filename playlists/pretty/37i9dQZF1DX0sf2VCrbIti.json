@@ -1,6 +1,6 @@
 {
   "description": "Que no falte la m\u00fasica, la familia y los amigos.",
-  "num_followers": 2622,
+  "num_followers": 2628,
   "original_name": "\u00a1Felices Fiestas!",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
+        "name": "Cant\u00e1ndole al Amor, Vol. 2",
+        "url": "https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 301441,
+      "name": "T\u00fa Con El",
+      "url": "https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ"
+    },
+    {
+      "added_at": "2025-10-24 15:29:30",
+      "album": {
         "name": "El Merengue",
         "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 189668,
       "name": "El Merengue",
       "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
-    },
-    {
-      "added_at": "2025-10-24 15:29:30",
-      "album": {
-        "name": "Cant\u00e1ndole al Amor, Vol. 2",
-        "url": "https://open.spotify.com/album/40fzRAKgRPlEcgr1mTWGLH"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 301441,
-      "name": "T\u00fa Con El",
-      "url": "https://open.spotify.com/track/6sRQjwLPdzADXhgZeKy6PQ"
     },
     {
       "added_at": "2025-10-24 15:29:30",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Ojos Chinos",
-      "url": "https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5"
-    },
-    {
-      "added_at": "2025-10-24 15:29:30",
-      "album": {
         "name": "Pegame Tu Vicio",
         "url": "https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 303293,
       "name": "Pegame Tu Vicio",
       "url": "https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o"
+    },
+    {
+      "added_at": "2025-10-24 15:29:30",
+      "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Ojos Chinos",
+      "url": "https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5"
     },
     {
       "added_at": "2025-10-24 15:29:30",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
-        "name": "Nuevo Milenio - El Mismo Sabor",
-        "url": "https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 263920,
-      "name": "Me Liber\u00e9",
-      "url": "https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9"
-    },
-    {
-      "added_at": "2025-10-24 15:29:30",
-      "album": {
         "name": "HOLA PERDIDA REMIX",
         "url": "https://open.spotify.com/album/5s4gYQChmlp8YwoNj3Vwi2"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 201030,
       "name": "HOLA PERDIDA REMIX",
       "url": "https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV"
+    },
+    {
+      "added_at": "2025-10-24 15:29:30",
+      "album": {
+        "name": "Nuevo Milenio - El Mismo Sabor",
+        "url": "https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 263920,
+      "name": "Me Liber\u00e9",
+      "url": "https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9"
     },
     {
       "added_at": "2025-10-24 15:29:30",
@@ -899,22 +899,18 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
-        "name": "Celia & Johnny",
-        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
+        "name": "Una Vida Buena",
+        "url": "https://open.spotify.com/album/5Ol57xPflnNabnALfZehpW"
       },
       "artists": [
         {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
         }
       ],
-      "duration_ms": 291946,
-      "name": "Quimbara",
-      "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
+      "duration_ms": 130000,
+      "name": "Una Vida Buena",
+      "url": "https://open.spotify.com/track/6eMKYBh6GKb8QTjVmbpJJC"
     },
     {
       "added_at": "2025-10-24 15:29:30",
@@ -935,18 +931,22 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
-        "name": "Una Vida Buena",
-        "url": "https://open.spotify.com/album/5Ol57xPflnNabnALfZehpW"
+        "name": "Celia & Johnny",
+        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
       "artists": [
         {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 130000,
-      "name": "Una Vida Buena",
-      "url": "https://open.spotify.com/track/6eMKYBh6GKb8QTjVmbpJJC"
+      "duration_ms": 291946,
+      "name": "Quimbara",
+      "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
     },
     {
       "added_at": "2025-10-24 15:29:30",
@@ -1207,22 +1207,18 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
-        "name": "Billos Caracas Boys Fin de A\u00f1o",
-        "url": "https://open.spotify.com/album/4vdoIChGSZtQnOAPnEGe9R"
+        "name": "Cl\u00e1sicos de Oro de Billo Caracas Boy's, Vol II",
+        "url": "https://open.spotify.com/album/6eMolS4wBsvJPuehofhm9W"
       },
       "artists": [
         {
           "name": "Billo's Caracas Boys",
           "url": "https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6"
-        },
-        {
-          "name": "Cheo Garcia",
-          "url": "https://open.spotify.com/artist/4qmK4DVyKkbpKe2VRanvTR"
         }
       ],
-      "duration_ms": 173290,
-      "name": "Cantares de Navidad",
-      "url": "https://open.spotify.com/track/0TXwWlwoe7MtGYPHtyDyvi"
+      "duration_ms": 193800,
+      "name": "Aguinaldo Con Billo",
+      "url": "https://open.spotify.com/track/5lEGMU8m1Ah5MgD1vBYb8t"
     },
     {
       "added_at": "2025-10-24 15:29:30",

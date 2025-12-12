@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1638614,
+  "num_followers": 1638633,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAACainuGcReEcDJonbNj3Kny",
+  "snapshot_id": "aTi4AAAAAABvGOBZ4wAV7zyI0yitz3t3",
   "tracks": [
     {
       "added_at": null,
@@ -420,13 +420,21 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Sorana",
-          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Digital Farm Animals",
+          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
+        },
+        {
+          "name": "Juliander",
+          "url": "https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay"
         }
       ],
-      "duration_ms": 222320,
-      "name": "Lost Control",
-      "url": "https://open.spotify.com/track/0lG6QM1jjbbX5UUn3DPmrZ"
+      "duration_ms": 198880,
+      "name": "All Falls Down (feat. Juliander)",
+      "url": "https://open.spotify.com/track/1HvCFAUIWQsWV9zud3UhDl"
     },
     {
       "added_at": null,
@@ -508,21 +516,13 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Digital Farm Animals",
-          "url": "https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh"
-        },
-        {
-          "name": "Juliander",
-          "url": "https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay"
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
         }
       ],
-      "duration_ms": 198880,
-      "name": "All Falls Down (feat. Juliander)",
-      "url": "https://open.spotify.com/track/1HvCFAUIWQsWV9zud3UhDl"
+      "duration_ms": 222320,
+      "name": "Lost Control",
+      "url": "https://open.spotify.com/track/0lG6QM1jjbbX5UUn3DPmrZ"
     },
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/55Fa0cZIY6FI7TQYyQE4TN"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 160344,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/5MhdIizFfxEAwBczKWBzbQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walkerworld 2.0",
         "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 156937,
       "name": "Dancing in love",
       "url": "https://open.spotify.com/track/5KMVvlczBJnxDJJe3U4Tbn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/55Fa0cZIY6FI7TQYyQE4TN"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 160344,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/5MhdIizFfxEAwBczKWBzbQ"
     },
     {
       "added_at": null,

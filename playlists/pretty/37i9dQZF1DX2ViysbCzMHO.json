@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 175291,
+  "num_followers": 175300,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
+        "name": "Growing Old With You (First Dance Version)",
+        "url": "https://open.spotify.com/album/5QANlPt4pDrn3MFfaQKyZD"
+      },
+      "artists": [
+        {
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+        }
+      ],
+      "duration_ms": 192668,
+      "name": "Growing Old With You - First Dance Version",
+      "url": "https://open.spotify.com/track/1qVLRuFLEzl2hcC6lqLMuf"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
         "name": "In His Arms",
         "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 150182,
       "name": "In His Arms",
       "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
-        "name": "Growing Old With You (First Dance Version)",
-        "url": "https://open.spotify.com/album/5QANlPt4pDrn3MFfaQKyZD"
-      },
-      "artists": [
-        {
-          "name": "Restless Road",
-          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
-        }
-      ],
-      "duration_ms": 192668,
-      "name": "Growing Old With You - First Dance Version",
-      "url": "https://open.spotify.com/track/1qVLRuFLEzl2hcC6lqLMuf"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
+        "name": "Drinking Alone",
+        "url": "https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI"
+      },
+      "artists": [
+        {
+          "name": "Cole Phillips",
+          "url": "https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy"
+        }
+      ],
+      "duration_ms": 175783,
+      "name": "Drinking Alone - Sunset Session",
+      "url": "https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
         "name": "You For A Reason (Stripped)",
         "url": "https://open.spotify.com/album/0DaAQTLuhbDvVFtqulgG1N"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Breakups (Acoustic)",
-        "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
-      },
-      "artists": [
-        {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Breakups - Acoustic",
-      "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "Small Town Hypocrite",
         "url": "https://open.spotify.com/album/3UEjkow9opNr1y1vk63XrZ"
       },
@@ -747,18 +747,18 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Drinking Alone",
-        "url": "https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI"
+        "name": "Breakups (Acoustic)",
+        "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
       },
       "artists": [
         {
-          "name": "Cole Phillips",
-          "url": "https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy"
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
         }
       ],
-      "duration_ms": 175783,
-      "name": "Drinking Alone - Sunset Session",
-      "url": "https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4"
+      "duration_ms": 227693,
+      "name": "Breakups - Acoustic",
+      "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "That's Why (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
-      },
-      "artists": [
-        {
-          "name": "Troy Cartwright",
-          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
-        }
-      ],
-      "duration_ms": 177772,
-      "name": "That's Why (Acoustic Version)",
-      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "No Horse To Ride (demo version)",
         "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 133906,
       "name": "No Horse To Ride - demo version",
       "url": "https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "That's Why (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
+      },
+      "artists": [
+        {
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+        }
+      ],
+      "duration_ms": 177772,
+      "name": "That's Why (Acoustic Version)",
+      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Another (Wedding Version)",
-        "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
-      },
-      "artists": [
-        {
-          "name": "Adam Doleac",
-          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
-        }
-      ],
-      "duration_ms": 171188,
-      "name": "Another - Wedding Version",
-      "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "Heart Still Works (Stripped)",
         "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 197886,
       "name": "Heart Still Works - Stripped",
       "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "Another (Wedding Version)",
+        "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
+      },
+      "artists": [
+        {
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+        }
+      ],
+      "duration_ms": 171188,
+      "name": "Another - Wedding Version",
+      "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Can't Nobody (Acoustic)",
-        "url": "https://open.spotify.com/album/6C3biWX9TVBevi1aA5ucsk"
-      },
-      "artists": [
-        {
-          "name": "Mackenzie Carpenter",
-          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
-        }
-      ],
-      "duration_ms": 204358,
-      "name": "Can't Nobody - Acoustic",
-      "url": "https://open.spotify.com/track/2c12s9u80ml1VTZ7Y5tSj6"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "Good Person",
         "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 212435,
       "name": "Yearbook",
       "url": "https://open.spotify.com/track/0V4kaCT7kbYjB3xDVBYWLP"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "Can't Nobody (Acoustic)",
+        "url": "https://open.spotify.com/album/6C3biWX9TVBevi1aA5ucsk"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie Carpenter",
+          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
+        }
+      ],
+      "duration_ms": 204358,
+      "name": "Can't Nobody - Acoustic",
+      "url": "https://open.spotify.com/track/2c12s9u80ml1VTZ7Y5tSj6"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Neon Moon",
-        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 161052,
-      "name": "Neon Moon",
-      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "While You're Gone (Acoustic)",
         "url": "https://open.spotify.com/album/5gkHRgbzLkc4rdrtq0QG4k"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 219385,
       "name": "While You're Gone - Acoustic",
       "url": "https://open.spotify.com/track/5a43dOHSt1H6RMqxU9Q5Up"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "Neon Moon",
+        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "As You Are",
-        "url": "https://open.spotify.com/album/0LCxYgE6QltpzkxhVXOPez"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 246398,
-      "name": "As You Are",
-      "url": "https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "Some Girls (Acoustic)",
         "url": "https://open.spotify.com/album/6EMXqG3KdHuNWfC3qwr1uz"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 191400,
       "name": "Some Girls - Acoustic",
       "url": "https://open.spotify.com/track/6C2d77cnFFiVPUTsjbJ5t2"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "As You Are",
+        "url": "https://open.spotify.com/album/0LCxYgE6QltpzkxhVXOPez"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 246398,
+      "name": "As You Are",
+      "url": "https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Six Strings",
-        "url": "https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk"
-      },
-      "artists": [
-        {
-          "name": "Alex Hall",
-          "url": "https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o"
-        },
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 201653,
-      "name": "Heart Shut (feat. Tenille Townes)",
-      "url": "https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "You, Me, And Whiskey (Acoustic)",
         "url": "https://open.spotify.com/album/6tArNmtAD2sWugYk9ePmg5"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 187361,
       "name": "You, Me, And Whiskey - Acoustic",
       "url": "https://open.spotify.com/track/7FFHgySCsG37r3Mg37IGuN"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "Six Strings",
+        "url": "https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk"
+      },
+      "artists": [
+        {
+          "name": "Alex Hall",
+          "url": "https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o"
+        },
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 201653,
+      "name": "Heart Shut (feat. Tenille Townes)",
+      "url": "https://open.spotify.com/track/70fSevXWD2U6KFWZvtlhiv"
     },
     {
       "added_at": "2025-10-10 04:00:37",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-10-10 04:00:37",
       "album": {
-        "name": "Breakin' in Boots (Stripped)",
-        "url": "https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG"
-      },
-      "artists": [
-        {
-          "name": "Matt Stell",
-          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
-        }
-      ],
-      "duration_ms": 154173,
-      "name": "Breakin' in Boots - Stripped",
-      "url": "https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d"
-    },
-    {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
         "name": "Put It in Drive",
         "url": "https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 191973,
       "name": "Lessons (Acoustic)",
       "url": "https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw"
+    },
+    {
+      "added_at": "2025-10-10 04:00:37",
+      "album": {
+        "name": "Breakin' in Boots (Stripped)",
+        "url": "https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG"
+      },
+      "artists": [
+        {
+          "name": "Matt Stell",
+          "url": "https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy"
+        }
+      ],
+      "duration_ms": 154173,
+      "name": "Breakin' in Boots - Stripped",
+      "url": "https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d"
     },
     {
       "added_at": "2025-10-10 04:00:37",

@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-607 songs - 1 day 10 hr 34 min
+608 songs - 1 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [For the First Time](https://open.spotify.com/track/09ZcYBGFX16X8GMDrvqQwt) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Science & Faith](https://open.spotify.com/album/2oc73A20I1FTQiWGCkLeVP) | 4:12 | 2023-02-23 | 2024-04-19 |
 | [Free \(feat\. Emeli Sandé\)](https://open.spotify.com/track/2rOuCpkWsioxg8QNPMX9lB) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Home](https://open.spotify.com/album/2AOpbitJNMvKhSbsi2YD4F) | 3:36 | 2024-04-11 | 2025-08-29 |
 | [Free \(feat\. Emeli Sandé\)](https://open.spotify.com/track/4uNEqWV2yoHY9sMwY5cr1a) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Home \(Deluxe Edition\)](https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac) | 3:36 | 2023-02-23 | 2024-04-19 |
+| [FU & UF](https://open.spotify.com/track/2UfNSV1Fwz4gGJf42ZX1Pu) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [SE9 Part 1](https://open.spotify.com/album/4Wz7yb00TiEUqMrd3gzVtz) | 2:39 | 2025-12-11 |  |
 | [Funeral \- Acoustic](https://open.spotify.com/track/45dAd4OmYSHUn7F5BqTneE) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Funeral](https://open.spotify.com/album/0cIxQUX3RTIxUBhXh5MBRB) | 3:58 | 2024-08-29 |  |
 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 | 2023-02-23 | 2023-04-26 |
 | [get older](https://open.spotify.com/track/2uu7LrCxYJ5WvtyzdxLiPC) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [get older](https://open.spotify.com/album/0WBPBQuEfYJcRmIA3OdJmq) | 2:57 | 2023-02-23 |  |
@@ -469,7 +470,7 @@
 | [Something in the Water](https://open.spotify.com/track/2NCYYlzzRKyX24hyyKPMeW) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Flags](https://open.spotify.com/album/1uyQnFBlGNgJEMpj7LOyyR) | 3:03 | 2023-02-23 | 2023-07-28 |
 | [Something in the Water](https://open.spotify.com/track/2TcxF4DfNVVEcNBZMJvDUz) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Flags](https://open.spotify.com/album/1jKGzq0r9MwXIbyHtQ6hBD) | 3:03 | 2023-07-20 | 2024-04-19 |
 | [Something in the Water](https://open.spotify.com/track/5ouXSHkPf6VnpeKqYuyBBU) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Something In The Water](https://open.spotify.com/album/1q1VBL1atF2cU73EECPj1N) | 3:03 | 2024-04-11 | 2024-08-12 |
-| [Something To Remember](https://open.spotify.com/track/2p8NCaU68YwlL8ZNnyLFxx) | [Thomas Nicolas](https://open.spotify.com/artist/7pXdNMrXe30tL64f3N5rN8) | [Something To Remember](https://open.spotify.com/album/5dNXnpsIQ7uYPOX8r4pruv) | 2:47 | 2025-03-17 |  |
+| [Something To Remember](https://open.spotify.com/track/2p8NCaU68YwlL8ZNnyLFxx) | [Thomas Nicolas](https://open.spotify.com/artist/7pXdNMrXe30tL64f3N5rN8) | [Something To Remember](https://open.spotify.com/album/5dNXnpsIQ7uYPOX8r4pruv) | 2:47 | 2025-03-17 | 2025-12-12 |
 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 | 2023-02-23 | 2023-05-02 |
 | [Space For Two](https://open.spotify.com/track/07hBBiv9DqLCRECKmB0Q4n) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Space For Two](https://open.spotify.com/album/6f0vesZuawgU9KzR62srFN) | 3:26 | 2023-02-23 | 2024-04-19 |
 | [Space in My Heart](https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Space in My Heart](https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9) | 2:58 | 2024-02-26 |  |

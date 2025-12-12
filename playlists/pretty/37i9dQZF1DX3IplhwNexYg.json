@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Phantastic Ferniture",
-  "num_followers": 114627,
+  "num_followers": 114622,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -413,20 +413,20 @@
       "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
     },
     {
-      "added_at": "2025-10-03 13:34:33",
+      "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "One Simple Trick",
-        "url": "https://open.spotify.com/album/3mK0jqmMbU0qXx0bnkirpU"
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe"
       },
       "artists": [
         {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
         }
       ],
-      "duration_ms": 219566,
-      "name": "Baptism",
-      "url": "https://open.spotify.com/track/5jt5cm3mPU9GtWGnjwFPDU"
+      "duration_ms": 200053,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -509,20 +509,20 @@
       "url": "https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5"
     },
     {
-      "added_at": "2025-09-01 14:27:56",
+      "added_at": "2025-10-03 13:34:33",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe"
+        "name": "One Simple Trick",
+        "url": "https://open.spotify.com/album/3mK0jqmMbU0qXx0bnkirpU"
       },
       "artists": [
         {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
         }
       ],
-      "duration_ms": 200053,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU"
+      "duration_ms": 219566,
+      "name": "Baptism",
+      "url": "https://open.spotify.com/track/5jt5cm3mPU9GtWGnjwFPDU"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
+        "name": "Fall Back",
+        "url": "https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "duration_ms": 193182,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
         "name": "Hey You",
         "url": "https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Ordinary Creature",
-        "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 220226,
-      "name": "Ordinary Creature",
-      "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "say something",
         "url": "https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU"
       },
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
+        "name": "Ordinary Creature",
+        "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 220226,
+      "name": "Ordinary Creature",
+      "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
         "name": "Peace Song",
         "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 190784,
       "name": "Peace Song",
       "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
-        "name": "Fall Back",
-        "url": "https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l"
-      },
-      "artists": [
-        {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
-        }
-      ],
-      "duration_ms": 193182,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "What Do We Ever Really Know?",
-        "url": "https://open.spotify.com/album/3yfY2tkI6g8WR2HfZBaQfv"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "What Do We Ever Really Know?",
-      "url": "https://open.spotify.com/track/1nyCxSZlwqP4Dj6yu5r24b"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Racing Mount Pleasant",
         "url": "https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 301744,
       "name": "Outlast",
       "url": "https://open.spotify.com/track/1ctDUAAad7Em6JenrjdMNC"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "What Do We Ever Really Know?",
+        "url": "https://open.spotify.com/album/3yfY2tkI6g8WR2HfZBaQfv"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "What Do We Ever Really Know?",
+      "url": "https://open.spotify.com/track/1nyCxSZlwqP4Dj6yu5r24b"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -895,18 +895,18 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Precipice",
-        "url": "https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x"
+        "name": "Willow",
+        "url": "https://open.spotify.com/album/34H26omESs9CrxasleR1Cy"
       },
       "artists": [
         {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+          "name": "she's green",
+          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
         }
       ],
-      "duration_ms": 151867,
-      "name": "Crush",
-      "url": "https://open.spotify.com/track/4e63OHfw9CGC6WLXMvNHWJ"
+      "duration_ms": 155480,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -927,18 +927,18 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Willow",
-        "url": "https://open.spotify.com/album/34H26omESs9CrxasleR1Cy"
+        "name": "Precipice",
+        "url": "https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x"
       },
       "artists": [
         {
-          "name": "she's green",
-          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
         }
       ],
-      "duration_ms": 155480,
-      "name": "Willow",
-      "url": "https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN"
+      "duration_ms": 151867,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/4e63OHfw9CGC6WLXMvNHWJ"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Clueless",
-        "url": "https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 208298,
-      "name": "Clueless",
-      "url": "https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "SAYA",
         "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 310965,
       "name": "EXHAUST THE TOPIC",
       "url": "https://open.spotify.com/track/6mK1tNEFc23r92Aa663GRq"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Clueless",
+        "url": "https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 208298,
+      "name": "Clueless",
+      "url": "https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/5Zqf3BZV2oAUqF3qyzJxi3"
+        "name": "Everybody Needs a Hero",
+        "url": "https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe"
       },
       "artists": [
         {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 203007,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/5BvulJDF5EpO5Yjs3bpjEd"
+      "duration_ms": 175680,
+      "name": "Backseat Driver",
+      "url": "https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1407,34 +1407,18 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Everybody Needs a Hero",
-        "url": "https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe"
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/5Zqf3BZV2oAUqF3qyzJxi3"
       },
       "artists": [
         {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
         }
       ],
-      "duration_ms": 175680,
-      "name": "Backseat Driver",
-      "url": "https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
-        "name": "A Cowboy Song",
-        "url": "https://open.spotify.com/album/1IgP1X3hrG6GenTiZCuWc1"
-      },
-      "artists": [
-        {
-          "name": "Kean Kavanagh",
-          "url": "https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B"
-        }
-      ],
-      "duration_ms": 214008,
-      "name": "A Cowboy Song",
-      "url": "https://open.spotify.com/track/3Hdku7zeAZSuEFysqkZpLk"
+      "duration_ms": 203007,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/5BvulJDF5EpO5Yjs3bpjEd"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1451,6 +1435,22 @@
       "duration_ms": 298000,
       "name": "this is my california",
       "url": "https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "A Cowboy Song",
+        "url": "https://open.spotify.com/album/1IgP1X3hrG6GenTiZCuWc1"
+      },
+      "artists": [
+        {
+          "name": "Kean Kavanagh",
+          "url": "https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B"
+        }
+      ],
+      "duration_ms": 214008,
+      "name": "A Cowboy Song",
+      "url": "https://open.spotify.com/track/3Hdku7zeAZSuEFysqkZpLk"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Gethsemane",
-        "url": "https://open.spotify.com/album/0D8s2NeEe5eCNZZcrjZq5A"
+        "name": "Little Chaos",
+        "url": "https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM"
       },
       "artists": [
         {
-          "name": "Car Seat Headrest",
-          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
         }
       ],
-      "duration_ms": 651992,
-      "name": "Gethsemane",
-      "url": "https://open.spotify.com/track/05Y0oBtriW2gf8zPj2VDov"
+      "duration_ms": 174893,
+      "name": "Little Chaos",
+      "url": "https://open.spotify.com/track/2UGWhW5YmrEDUDRB3H1fif"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Little Chaos",
-        "url": "https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM"
+        "name": "Gethsemane",
+        "url": "https://open.spotify.com/album/0D8s2NeEe5eCNZZcrjZq5A"
       },
       "artists": [
         {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "name": "Car Seat Headrest",
+          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
         }
       ],
-      "duration_ms": 174893,
-      "name": "Little Chaos",
-      "url": "https://open.spotify.com/track/2UGWhW5YmrEDUDRB3H1fif"
+      "duration_ms": 651992,
+      "name": "Gethsemane",
+      "url": "https://open.spotify.com/track/05Y0oBtriW2gf8zPj2VDov"
     },
     {
       "added_at": "2025-09-01 14:27:56",

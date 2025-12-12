@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0uZg7go8TKu5hpv1L6CJ4y.md) - [plain]
 
 > Samla dina vänner och ladda inför de Olypiska Spelen\. Nu kör vi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44 likes - 51 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 43 likes - 51 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

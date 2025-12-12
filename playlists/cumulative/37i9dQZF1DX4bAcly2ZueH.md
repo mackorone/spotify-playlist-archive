@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-202 songs - 10 hr 32 min
+203 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Colony](https://open.spotify.com/track/1BjZW3ursVAZdZuGfvG2FQ) | [Otokaze](https://open.spotify.com/artist/6m1KnIrJ8bEZ6UX514Iglj) | [flowingtime](https://open.spotify.com/album/1xLKYSBa8nqg2CTfncO5Ma) | 4:32 | 2024-09-11 |  |
 | [Confused](https://open.spotify.com/track/0wrlZhUHqHlLLvdodEqv4W) | [dark cat](https://open.spotify.com/artist/0CW3aaY5gtWFStE6Vj6ZHI) | [Confused](https://open.spotify.com/album/6m34pI3gdhPPJ6YnBDQeQM) | 3:06 | 2022-10-11 | 2022-11-09 |
 | [Confused](https://open.spotify.com/track/6dB3INrWpUQJhywKwiWnJ2) | [dark cat](https://open.spotify.com/artist/0CW3aaY5gtWFStE6Vj6ZHI) | [Confused](https://open.spotify.com/album/2Ta6VUCHyg1UqAMYdzlWeH) | 3:06 | 2022-10-11 | 2023-09-27 |
+| [Continue](https://open.spotify.com/track/7sd6xFGqtVJEkPDfCxudSa) | [One\-half](https://open.spotify.com/artist/4OZyhvuFhDmRwZEiDt9EkO) | [Continue](https://open.spotify.com/album/7sQBNjrJQQSa22nTKHyPA1) | 3:52 | 2025-12-10 |  |
 | [Cristo Redentor](https://open.spotify.com/track/3WfdmO2714po65ED2nyaXt) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [Epektase](https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo) | [Chips & Chill](https://open.spotify.com/album/0E1rfCBX4C7dbg6ozJFJwE) | 2:34 | 2022-10-11 |  |
 | [cycling break](https://open.spotify.com/track/0oR80EdfVbRs0gJgNMEsq4) | [アツムワンダフル](https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW), [一服track](https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed) | [cycling break](https://open.spotify.com/album/6NdjDaNui5lhGKM8qY4MuP) | 5:06 | 2025-05-28 |  |
 | [Day of the Moon](https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [Day of the Moon](https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk) | 2:36 | 2023-02-14 |  |
@@ -137,7 +138,7 @@
 | [Paradise](https://open.spotify.com/track/5waRnWPjrrRfUF2j0J0WLq) | [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu) | [Paradise](https://open.spotify.com/album/4P7ZLYY4dnkwO98cNv426b) | 3:09 | 2022-10-11 | 2023-10-15 |
 | [Petals in a Breeze](https://open.spotify.com/track/3TtdSePGpXpmTQDTblgyrv) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [Novelletten \#1](https://open.spotify.com/album/4ARq7c6yR8tbXdKC3xm5dq) | 2:11 | 2022-10-11 | 2025-03-19 |
 | [Pink scent](https://open.spotify.com/track/3CGwJYv15CGvWK0bF7YVDd) | [Mingeon Jang](https://open.spotify.com/artist/6JRh0BrOq2odFlhxULwk5F), [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [Pink scent](https://open.spotify.com/album/0l30FzUlJTAztq8P5nFoOP) | 2:45 | 2023-11-14 | 2024-04-19 |
-| [Pink scent](https://open.spotify.com/track/7hkGFEsJ7ww0CV75tZ17dJ) | [Mingeon Jang](https://open.spotify.com/artist/4zZbIYdekxz1BjRKp45OCt), [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [Pink scent](https://open.spotify.com/album/2iK96snS6AtTO2qfzm7127) | 2:45 | 2022-10-11 |  |
+| [Pink scent](https://open.spotify.com/track/7hkGFEsJ7ww0CV75tZ17dJ) | [Mingeon Jang](https://open.spotify.com/artist/4zZbIYdekxz1BjRKp45OCt), [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [Pink scent](https://open.spotify.com/album/2iK96snS6AtTO2qfzm7127) | 2:45 | 2022-10-11 | 2025-12-12 |
 | [Pockets](https://open.spotify.com/track/2aAeIDcFTkSEFh1mx6YNnD) | [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Pockets](https://open.spotify.com/album/5TauarB0YPZ45d4PvOxpbl) | 3:20 | 2022-10-11 |  |
 | [Purity](https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Purity](https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B) | 4:05 | 2022-10-11 |  |
 | [qutie](https://open.spotify.com/track/2SUinm0Lf111cYHC3mn4xI) | [Dilip](https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [qutie](https://open.spotify.com/album/4YXb4ATKlSjbZT0lO9Z7T1) | 2:29 | 2022-10-11 |  |

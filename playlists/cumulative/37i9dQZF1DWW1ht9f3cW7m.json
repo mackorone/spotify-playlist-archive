@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "peach is an indie pop playlist \ud83e\udd64\ncover: Marti Perramon",
+  "description": "peach is an indie pop playlist \ud83e\udd64\ncover: Deyaz",
   "name": "peach",
   "tracks": [
     {
@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Izzy S.O",
+          "url": "https://open.spotify.com/artist/6Se0jZxqI5RrVRaI45Ablx"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140364,
+      "name": "Almost Got It Right",
+      "url": "https://open.spotify.com/track/30tUbC6LrMOX0icUADAsXg"
+    },
+    {
+      "album": {
         "name": "Alright, Alright",
         "url": "https://open.spotify.com/album/5LD82ktd0nOVBwwCbFOSJo"
       },
@@ -834,6 +852,24 @@
       "duration_ms": 176137,
       "name": "Bedbugs",
       "url": "https://open.spotify.com/track/5MdHqvEJxK8RvSN5ziVKmT"
+    },
+    {
+      "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/3Uh5YFO0cwE8nhphUxBk0q"
+      },
+      "artists": [
+        {
+          "name": "Cargo Grey",
+          "url": "https://open.spotify.com/artist/4c76dU3bH9154lYagO7JzL"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192539,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/1G2n3xwC1Jsg7DD9sAngTn"
     },
     {
       "album": {
@@ -1540,7 +1576,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 209906,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/7jMuiaBKxPOjTS1meJoKDK"
@@ -1796,7 +1832,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 214500,
       "name": "College Friends",
       "url": "https://open.spotify.com/track/2sLLio7eJcF79boVkPggqP"
@@ -1839,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "Common Ground",
+        "url": "https://open.spotify.com/album/1h6xuNBytiovf1ekxJVcZf"
+      },
+      "artists": [
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102408,
+      "name": "Common Ground",
+      "url": "https://open.spotify.com/track/07Kz28z67deFipYAFwOHZJ"
+    },
+    {
+      "album": {
         "name": "Compliment Strike",
         "url": "https://open.spotify.com/album/34ME8dPFKFiCtc4nNioJVC"
       },
@@ -1872,6 +1926,28 @@
       "duration_ms": 151455,
       "name": "congratulations for getting off the drink",
       "url": "https://open.spotify.com/track/3OKDCLcs8N2NBviZttpnGY"
+    },
+    {
+      "album": {
+        "name": "Cool Over Kind",
+        "url": "https://open.spotify.com/album/6HJVxj7OSSDtxJR0vZm50T"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        },
+        {
+          "name": "Charlie Havenick",
+          "url": "https://open.spotify.com/artist/3pKBOpNvBfoytn7fNArMHi"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161142,
+      "name": "Cool Over Kind",
+      "url": "https://open.spotify.com/track/46hihrMPVp2hJhKIM77Was"
     },
     {
       "album": {
@@ -2376,7 +2452,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 178621,
       "name": "drive",
       "url": "https://open.spotify.com/track/1q3Yd6kPtd9byxquiedaob"
@@ -3681,6 +3757,28 @@
     },
     {
       "album": {
+        "name": "Hot!",
+        "url": "https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0"
+      },
+      "artists": [
+        {
+          "name": "Chloe Parch\u00e9",
+          "url": "https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov"
+        },
+        {
+          "name": "Holly Hebe",
+          "url": "https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165230,
+      "name": "Hot!",
+      "url": "https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh"
+    },
+    {
+      "album": {
         "name": "Hotel Bar",
         "url": "https://open.spotify.com/album/56hrGkYp09q6C3a2WUvsSx"
       },
@@ -4452,7 +4550,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 212125,
       "name": "La Loba",
       "url": "https://open.spotify.com/track/110ynMei3R2Kfn55ByPpy3"
@@ -6185,6 +6283,24 @@
     },
     {
       "album": {
+        "name": "Reviver",
+        "url": "https://open.spotify.com/album/00NIB8sxJtVVOtm0N5tgZ3"
+      },
+      "artists": [
+        {
+          "name": "Xanadu",
+          "url": "https://open.spotify.com/artist/69un81d5XqegyoyV4Kwaqr"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204560,
+      "name": "Reviver",
+      "url": "https://open.spotify.com/track/100sArq6IRNZt8D7qeODVj"
+    },
+    {
+      "album": {
         "name": "WOMEN WHO LOVE TOO MUCH",
         "url": "https://open.spotify.com/album/1YZUMkkGvXSBd821jlnB2V"
       },
@@ -6830,7 +6946,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 176568,
       "name": "sleepwalking",
       "url": "https://open.spotify.com/track/5VMnlVJ5keCFOTfvR1JeIp"
@@ -7104,7 +7220,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 183803,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo"
@@ -7288,6 +7404,24 @@
       "duration_ms": 160407,
       "name": "talk",
       "url": "https://open.spotify.com/track/5kTHoxckjY24DWgIX6mnNR"
+    },
+    {
+      "album": {
+        "name": "Talk About It",
+        "url": "https://open.spotify.com/album/3invOOhMmOVJF5lyAbJiUa"
+      },
+      "artists": [
+        {
+          "name": "Elle Coves",
+          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201400,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/1wrVX3ztn5FejxBlOUDclK"
     },
     {
       "album": {
@@ -7554,7 +7688,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 120395,
       "name": "Tie and a Suit",
       "url": "https://open.spotify.com/track/3MKk5BS6S4D5CFexrUxCVd"
@@ -7630,6 +7764,24 @@
       "duration_ms": 192866,
       "name": "Tough Luck",
       "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "dacelynn",
+          "url": "https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/00mrOygK9z6mXXJRG6RoBv"
     },
     {
       "album": {
@@ -8004,7 +8156,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 132637,
       "name": "wannabe!",
       "url": "https://open.spotify.com/track/1GRm70qZVH8GAjyPIZcpV4"

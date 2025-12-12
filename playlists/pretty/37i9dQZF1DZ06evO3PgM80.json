@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 21712,
+  "num_followers": 21720,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAAB74u5jlvhme4g2/HHBog0j",
+  "snapshot_id": "aTi4AAAAAABdYXIc69ZSrsXtn6X4IwS7",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Mais Escravos",
+        "url": "https://open.spotify.com/album/0a55Mn7ktMRBPR1DIeynSG"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 312386,
+      "name": "N\u00e3o Mais Escravos",
+      "url": "https://open.spotify.com/track/4MtBvzWwKji4Of7qDp9EaN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 277160,
       "name": "Em Teus Bra\u00e7os - Ac\u00fastico",
       "url": "https://open.spotify.com/track/23nF36eHv3EECAS1m86RLY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Mais Escravos",
-        "url": "https://open.spotify.com/album/0a55Mn7ktMRBPR1DIeynSG"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 312386,
-      "name": "N\u00e3o Mais Escravos",
-      "url": "https://open.spotify.com/track/4MtBvzWwKji4Of7qDp9EaN"
     },
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se Tenho Cristo / O Bondoso Amigo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4su45A07KGlOLYM5Z1cFGz"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 438653,
+      "name": "Se Tenho Cristo / O Bondoso Amigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4MMvcx9TKSsdmOWujKBLSV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 262933,
       "name": "Bem Mais Que Tudo (Above All) - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0EZb9A5oqsYM4HQxIlw2PC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se Tenho Cristo / O Bondoso Amigo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4su45A07KGlOLYM5Z1cFGz"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 438653,
-      "name": "Se Tenho Cristo / O Bondoso Amigo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4MMvcx9TKSsdmOWujKBLSV"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo"
-        }
-      ],
-      "duration_ms": 243973,
-      "name": "Bondade de Deus (Goodness of God) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1ajhbZJPOVo337IV5XHRDd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Catedral (Ao Vivo)",
         "url": "https://open.spotify.com/album/4mu6koOx6yaXbi9327NrzZ"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 278186,
       "name": "Alvo Mais Que a Neve - Ao Vivo",
       "url": "https://open.spotify.com/track/603qBVuPvdk7aSZNQbC8ts"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo"
+        }
+      ],
+      "duration_ms": 243973,
+      "name": "Bondade de Deus (Goodness of God) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1ajhbZJPOVo337IV5XHRDd"
     },
     {
       "added_at": null,
@@ -635,6 +635,26 @@
       "duration_ms": 347413,
       "name": "Redimido - Ao Vivo",
       "url": "https://open.spotify.com/track/5tQ86KVRFbsQp26LmDK5Yo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meu Abrigo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ZycqdebG7YEeX2LiVZEuW"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Hananiel Eduardo",
+          "url": "https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM"
+        }
+      ],
+      "duration_ms": 299746,
+      "name": "Meu Abrigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4KDyhuFpO8CYyoz8TsHc7S"
     },
     {
       "added_at": null,
@@ -679,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meu Abrigo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6ZycqdebG7YEeX2LiVZEuW"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Hananiel Eduardo",
-          "url": "https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM"
-        }
-      ],
-      "duration_ms": 299746,
-      "name": "Meu Abrigo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4KDyhuFpO8CYyoz8TsHc7S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tua Presen\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
       },
@@ -711,26 +711,6 @@
       "duration_ms": 320186,
       "name": "Tua Presen\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo"
-        }
-      ],
-      "duration_ms": 254253,
-      "name": "Me Atraiu - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3Jo1orSzj5tJHRrUGFed11"
     },
     {
       "added_at": null,
@@ -751,6 +731,26 @@
       "duration_ms": 283365,
       "name": "O c\u00e9u \u00e9 o meu Lugar (feat. Julia Vit\u00f3ria)",
       "url": "https://open.spotify.com/track/5XhHL5wnO6jC3tE0zdnFYA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Uma Voz, Uma Lembran\u00e7a e Uma Can\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo"
+        }
+      ],
+      "duration_ms": 254253,
+      "name": "Me Atraiu - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3Jo1orSzj5tJHRrUGFed11"
     },
     {
       "added_at": null,

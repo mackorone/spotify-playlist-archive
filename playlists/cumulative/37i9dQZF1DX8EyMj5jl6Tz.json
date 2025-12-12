@@ -2475,6 +2475,24 @@
     },
     {
       "album": {
+        "name": "CODE/RED",
+        "url": "https://open.spotify.com/album/3Ui5ZMET9cIriFK29bh1xr"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152239,
+      "name": "Now That We Found Love",
+      "url": "https://open.spotify.com/track/4x69WSo9kpkp0okxcm5Yzh"
+    },
+    {
+      "album": {
         "name": "P.I.M.P",
         "url": "https://open.spotify.com/album/2obXOASaM8BX9vlhWW24Ts"
       },

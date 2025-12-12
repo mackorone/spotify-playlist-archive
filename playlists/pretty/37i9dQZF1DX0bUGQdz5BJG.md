@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Lily Meola
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,673 likes - 199 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,691 likes - 199 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 110 | [What I Want](https://open.spotify.com/track/1l3Dhg2HjF72v5bkTVE0DH) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [What I Want](https://open.spotify.com/album/0Csl1RkkYaYCsDHOWaeWdZ) | 3:01 |
 | 111 | [Fillin' My Cup](https://open.spotify.com/track/6gmbS8d1hUpS239PzE05mY) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Fillin' My Cup](https://open.spotify.com/album/5c0Me35kfheldJ6PeRA3qh) | 3:31 |
 | 112 | [IDWK](https://open.spotify.com/track/6qPYLOeO9Vb5HY1fSFGQlo) | [Madden Metcalf](https://open.spotify.com/artist/6GtOqnhdtDDMhoNAf8ox1D) | [IDWK](https://open.spotify.com/album/42gvtmcyD2KtxFM0f8eF16) | 2:48 |
-| 113 | [365](https://open.spotify.com/track/2CVd2lShASD14e5pRmaw0E) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [365](https://open.spotify.com/album/2XwRiNKWxLjmVGgFTtCLIM) | 2:48 |
+| 113 | [365](https://open.spotify.com/track/2CVd2lShASD14e5pRmaw0E) | [FILMORE](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [365](https://open.spotify.com/album/2XwRiNKWxLjmVGgFTtCLIM) | 2:48 |
 | 114 | [Sorry](https://open.spotify.com/track/4FYeKxHxpdCzPtultuwzir) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Sorry](https://open.spotify.com/album/0P7sBndaE3whOCp23TkFe8) | 3:06 |
 | 115 | [Keep It 100](https://open.spotify.com/track/4VoVe30P0skyZ84GWHAScg) | [Austin Tolliver](https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC) | [Cowboy Up](https://open.spotify.com/album/7aIIld9tBIDR7h7wx1PWSa) | 2:40 |
 | 116 | [Headache](https://open.spotify.com/track/31QPogARexxEPhhE8xxcTR) | [Mac Hankins and The Moonlighters](https://open.spotify.com/artist/7aJ7WbvSeDeZpXu33gDWAP) | [Headache](https://open.spotify.com/album/27zZnNYBBXn9bsEJ8O77fU) | 2:19 |

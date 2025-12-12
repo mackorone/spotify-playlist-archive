@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 220131,
+  "num_followers": 220138,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAADcJdXlGeIhqpLAqadsoPF8",
+  "snapshot_id": "aTi4AAAAAADVjEb4yT0/fUN5J5lhvp55",
   "tracks": [
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/5WpNa4vUaruzh0KISY4NkN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u201c&\u201d (Ampersand)",
         "url": "https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 232506,
       "name": "Blue Sky & The Painter",
       "url": "https://open.spotify.com/track/1g1rFaOD5cQXY2cbP5V8F1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/5WpNa4vUaruzh0KISY4NkN"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 175880,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/7yrx5A6zDOsd7Bn02WvbLH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can\u2019t Fight This Feeling",
         "url": "https://open.spotify.com/album/4GA0xqV2mfFmup90U0aOlu"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 198889,
       "name": "Can\u2019t Fight This Feeling",
       "url": "https://open.spotify.com/track/6lYNtepnbJVzR0tAxj2lW7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 175880,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/7yrx5A6zDOsd7Bn02WvbLH"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 244135,
-      "name": "Fake It",
-      "url": "https://open.spotify.com/track/5OALp7wDh1vM2nza1qDArn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vacation",
         "url": "https://open.spotify.com/album/08RH5oSOsDss5CuJBzaPzz"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 244135,
+      "name": "Fake It",
+      "url": "https://open.spotify.com/track/5OALp7wDh1vM2nza1qDArn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u201c&\u201d (Ampersand)",
         "url": "https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37"
       },
@@ -787,6 +787,26 @@
       "duration_ms": 190600,
       "name": "Eve & Paradise Lost",
       "url": "https://open.spotify.com/track/3nsAgjl7PI0bcbdY6sDczi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liar Liar (Feat. Bastille)",
+        "url": "https://open.spotify.com/album/1Z63CEuNOQf5UIZ1LoI9fP"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 174632,
+      "name": "Liar Liar (Feat. Bastille)",
+      "url": "https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH"
     },
     {
       "added_at": null,
@@ -823,26 +843,6 @@
       "duration_ms": 229627,
       "name": "Warmth",
       "url": "https://open.spotify.com/track/4hVJIlulH29qKVYGCT6cky"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liar Liar (Feat. Bastille)",
-        "url": "https://open.spotify.com/album/1Z63CEuNOQf5UIZ1LoI9fP"
-      },
-      "artists": [
-        {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 174632,
-      "name": "Liar Liar (Feat. Bastille)",
-      "url": "https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH"
     },
     {
       "added_at": null,

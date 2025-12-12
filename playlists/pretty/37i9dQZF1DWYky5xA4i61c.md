@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYky5xA4i61c.md) - [plain]
 
 > Enjoy songs from artists appearing on WONDERLIVET 2025! \(WONDERLIVET 2025의 출연 아티스트 곡들을 즐겨보세요! \)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,715 likes - 84 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,717 likes - 84 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYky5xA4i61c.md) - [plain]
 | 22 | [常夜燈](https://open.spotify.com/track/3VOFoXifvQGUe4AbxEfjCU) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [PEOPLE](https://open.spotify.com/album/4YPqs1YcZZmjKTU7afRK1f) | 4:25 |
 | 23 | [Exaggerated Love](https://open.spotify.com/track/2ouP8hcQFleLd3y8HKB52C) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Exaggerated Love](https://open.spotify.com/album/7hAp6CEdZRm3Zw4akAKIAA) | 4:15 |
 | 24 | [Syringe](https://open.spotify.com/track/1vZiEInBCBapB6wGhZX9YB) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Hospital](https://open.spotify.com/album/3Nj0yXmZnHRu4MMP31sUVK) | 4:23 |
-| 25 | [エゴロック \- long ver.](https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [エゴロック \(long ver.\)](https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ) | 2:49 |
-| 26 | [テレキャスタービーボーイ](https://open.spotify.com/track/2rkSQrbwRoH82pA40rTQf3) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [HEAUTOSCOPY](https://open.spotify.com/album/3NDBnHj5ST7c87AQb7LfzY) | 2:45 |
+| 25 | [エゴロック \- long ver.](https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx) | [THREEE](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [エゴロック \(long ver.\)](https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ) | 2:49 |
+| 26 | [テレキャスタービーボーイ](https://open.spotify.com/track/2rkSQrbwRoH82pA40rTQf3) | [THREEE](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [HEAUTOSCOPY](https://open.spotify.com/album/3NDBnHj5ST7c87AQb7LfzY) | 2:45 |
 | 27 | [錠剤](https://open.spotify.com/track/1NuXCV6xF2iAstBk40Sycw) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [Stupid dog](https://open.spotify.com/album/7az7pLGS7uW4AEY3BPy3sZ) | 3:21 |
 | 28 | [心臓](https://open.spotify.com/track/7seqDm8KZRDOpL2z9ONTiA) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [Stupid dog](https://open.spotify.com/album/7az7pLGS7uW4AEY3BPy3sZ) | 3:44 |
 | 29 | [PAKU](https://open.spotify.com/track/74Saj4pDb9z2puUlZUslLk) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ドキメキダイアリー](https://open.spotify.com/album/5Io1ahGqk87sEbxtGLbOum) | 2:08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLjydKDJPFJ.md) - [plain]
 
 > y mi sentimiento no lo cambiaré jamás, aunque sufra este tormento 🥺😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,476 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,565 likes - 55 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLjydKDJPFJ.md) - [plain]
 | 13 | [El cariño que perdí \- Con banda](https://open.spotify.com/track/5v7wr5jovWGg46cL2YTN6Q) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Con Banda](https://open.spotify.com/album/4YW3MI0CtpgW1ogAtfLIV5) | 3:26 |
 | 14 | [Para Qué Quieres Volver](https://open.spotify.com/track/5mqGns8pOrveF3VQessfVO) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 2:46 |
 | 15 | [Ojitos Mentirosos](https://open.spotify.com/track/4b8Dn37dyqyQ101TuC2Vgw) | [Moab](https://open.spotify.com/artist/5B7UoQQ1YBUcVbrmUZ24XN) | [Tequendama de Oro, Vol\. 4](https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku) | 3:44 |
-| 16 | [No Te Voy a Perdonar](https://open.spotify.com/track/45FfiQ7whEbvLA98QbE5zj) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Te Voy a Perdonar, Vol\. 4](https://open.spotify.com/album/5y32k8sV7xRSAFZS2Ufyet) | 3:53 |
+| 16 | [No Te Voy a Perdonar](https://open.spotify.com/track/45FfiQ7whEbvLA98QbE5zj) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Te Voy a Perdonar, Vol\. 4 \(2025 Remastered\)](https://open.spotify.com/album/5y32k8sV7xRSAFZS2Ufyet) | 3:52 |
 | 17 | [Dime Dónde Y Cuándo](https://open.spotify.com/track/7GKKZEHiYblZOedraf4ca4) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Quiereme](https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6) | 3:54 |
 | 18 | [Te Juro Que Te Amo](https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Llorarás](https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7) | 4:01 |
 | 19 | [Vereda Tropical](https://open.spotify.com/track/1b0FUnXM4NMuTuvxnVRzjU) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [A Bailar Con La](https://open.spotify.com/album/4ZBQKu442vCRHv5FohKcPN) | 3:25 |

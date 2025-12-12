@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 116435,
+  "num_followers": 116456,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAACjNk0/pQoDx0dp1cSiwbQL",
+  "snapshot_id": "aTi4AAAAAABUjP07N1CNqoereVuRcMtR",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tudo Volta ao Seu Lugar",
-        "url": "https://open.spotify.com/album/7iFsnjU5wTgTSeEF4tLxV5"
+        "name": "Tetelestai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
       },
       "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 292755,
-      "name": "Nada Pode Calar Um Adorador",
-      "url": "https://open.spotify.com/track/6wSUMbiuYkOzN5YzZ4Y3Vs"
+      "duration_ms": 420453,
+      "name": "Se Eu Pudesse (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3Z7YY7XHEGrDjTtg4dxySG"
     },
     {
       "added_at": null,
@@ -579,18 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tetelestai (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
+        "name": "Tudo Volta ao Seu Lugar",
+        "url": "https://open.spotify.com/album/7iFsnjU5wTgTSeEF4tLxV5"
       },
       "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 420453,
-      "name": "Se Eu Pudesse (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3Z7YY7XHEGrDjTtg4dxySG"
+      "duration_ms": 292755,
+      "name": "Nada Pode Calar Um Adorador",
+      "url": "https://open.spotify.com/track/6wSUMbiuYkOzN5YzZ4Y3Vs"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confio em Ti",
-        "url": "https://open.spotify.com/album/1UHI806hrGV9QVZFjq7xJB"
-      },
-      "artists": [
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 252453,
-      "name": "Confio em Ti",
-      "url": "https://open.spotify.com/track/3UBwVX5qweI2yIrkvLjRzM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu \u00c9s Santo",
         "url": "https://open.spotify.com/album/0FUyhdvuhxB9A9ytLNuHwO"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 220066,
       "name": "Tu \u00c9s Santo",
       "url": "https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confio em Ti",
+        "url": "https://open.spotify.com/album/1UHI806hrGV9QVZFjq7xJB"
+      },
+      "artists": [
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 252453,
+      "name": "Confio em Ti",
+      "url": "https://open.spotify.com/track/3UBwVX5qweI2yIrkvLjRzM"
     },
     {
       "added_at": null,

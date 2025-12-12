@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > Our favorite dance songs in 2025 from independent artists and labels\. Chosen by Spotify editors, featuring KARABA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,375 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,391 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 74 | [Star Time](https://open.spotify.com/track/2z4QKpl96jt13I7tFmEcMf) | [A/S/L](https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh) | [Live From Selby](https://open.spotify.com/album/3Qfoag3UhBU3O9a1JBQagt) | 2:48 |
 | 75 | [Do You Wrong](https://open.spotify.com/track/1fVMPkM0jXEZQj9s9GXWzw) | [Desmond](https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY) | [Do You Wrong](https://open.spotify.com/album/3UIwnlyuYiCSXk0WL6nKL2) | 3:46 |
 
-Snapshot ID: `AAAAAFc/gZuGDya46nwEmBPf8uiZzd5S`
+Snapshot ID: `AAAAAEYVP5nYqV3FHiMusfRDz/2+1F6K`

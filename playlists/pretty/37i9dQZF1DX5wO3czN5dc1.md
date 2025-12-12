@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 ### [Afro House Pulse](https://open.spotify.com/playlist/37i9dQZF1DX5wO3czN5dc1)
 
-> The heartbeat of Afro House from Africa and around the globe\. Cover: Nkosazana Daughter
+> The heartbeat of Afro House from Africa and around the globe\. Cover: Musa Keys
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,070 likes - 70 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,095 likes - 70 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 | 69 | [Yeki](https://open.spotify.com/track/3rIkmgsmnCZbrP7hWXwWqI) | [Hanna Haïs](https://open.spotify.com/artist/6cnRri5dkUwbn0jsjXJrdA), [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Yeki](https://open.spotify.com/album/2pp20X1Pguh7gOc0hE3C0Z) | 3:50 |
 | 70 | [Rain On](https://open.spotify.com/track/3In7ZBOtXXgYU0lC1Mgshi) | [Klanglust](https://open.spotify.com/artist/0kXrWIPHhPhL3oii2nKmMP), [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs), [Ninae](https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6) | [Rain On](https://open.spotify.com/album/3dVE9OHGlXjS8Na4ABpGM1) | 4:48 |
 
-Snapshot ID: `AAAAAI+XN5AFY0Fes72nqTOk28H7za4A`
+Snapshot ID: `AAAAAE5nVuJ4MG42GVJ7t3+qFmoCtsmt`

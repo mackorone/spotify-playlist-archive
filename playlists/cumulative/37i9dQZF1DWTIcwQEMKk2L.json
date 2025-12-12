@@ -414,7 +414,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 223157,
       "name": "Anya",
       "url": "https://open.spotify.com/track/7wJFntvhETfYAvg5r4lOzX"
@@ -3574,6 +3574,24 @@
       "duration_ms": 169500,
       "name": "Valerian",
       "url": "https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I"
+    },
+    {
+      "album": {
+        "name": "Valse De Beaufort",
+        "url": "https://open.spotify.com/album/71ywywv3R4nZ4HzUeaokZQ"
+      },
+      "artists": [
+        {
+          "name": "Etienne Balestre",
+          "url": "https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd"
+        }
+      ],
+      "date_added": "2025-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163030,
+      "name": "Valse De Beaufort",
+      "url": "https://open.spotify.com/track/57cnKa2QfwxhWRY7ZiabvW"
     },
     {
       "album": {

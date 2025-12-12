@@ -2,9 +2,9 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover: Inkos'Yamagcokama
+> Khuphuka lapho… seku\-late! Cover: Mjolisi
 
-278 songs - 22 hr 3 min
+279 songs - 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [SUKA SISHIMANE](https://open.spotify.com/track/5TnQwPe4OXkERufcBadlze) | [Saliwa](https://open.spotify.com/artist/2I0i5ZfLpQQ1dzFTkyBON8), [Gqizile](https://open.spotify.com/artist/0juoY8gpR4huf5fNpiqwlQ), [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Zingishiyil' Eziy'emhlangeni](https://open.spotify.com/album/4cwb1hs6tqaGnzySIFtw6I) | 4:47 | 2023-01-30 | 2023-02-03 |
 | [Sukuma Mkami Bakubone](https://open.spotify.com/track/0O5LuQXAfihaOA3TFxYt3C) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Ivila Laselawini](https://open.spotify.com/album/278BIRWbQrUNkDwC3gN56e) | 4:26 | 2023-01-30 |  |
 | [Sukuma Mkami Bakubone](https://open.spotify.com/track/1KitXldomi1Q5ueBrWTWCs) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Ivila Laselawini](https://open.spotify.com/album/0Q6FoZLUwW47AtSoJpyHQb) | 4:26 | 2024-03-15 | 2024-04-19 |
-| [Thandolwethu](https://open.spotify.com/track/0aXocmdjaWdkbYZ2ToDpre) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3), [Zamambo Mkhize](https://open.spotify.com/artist/4uU1zWazhI0nkPCl4B0CkZ), [Umfana weKhansela](https://open.spotify.com/artist/61xku7ieEjLJZY2o3IUXac) | [Ng'funa intozami](https://open.spotify.com/album/5hXdv6EKkrLBoK0diMQwT6) | 5:46 | 2025-11-14 |  |
+| [Thandolwethu](https://open.spotify.com/track/0aXocmdjaWdkbYZ2ToDpre) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3), [Zamambo Mkhize](https://open.spotify.com/artist/4uU1zWazhI0nkPCl4B0CkZ), [Umfana weKhansela](https://open.spotify.com/artist/61xku7ieEjLJZY2o3IUXac) | [Ng'funa intozami](https://open.spotify.com/album/5hXdv6EKkrLBoK0diMQwT6) | 5:46 | 2025-11-14 | 2025-12-12 |
 | [Thenjiwe](https://open.spotify.com/track/75aBCMT86TKSlEgpIz1tT9) | [Mfiliseni Magubane](https://open.spotify.com/artist/3b9PzSL6PxZRA6k4Dqmajs) | [Izwe Lihle Ngabantu](https://open.spotify.com/album/5RFD1wyMiFxwFTqxs9UX0i) | 4:45 | 2018-09-25 | 2023-02-01 |
 | [Thuma Mina Baba](https://open.spotify.com/track/1fbiyYNG1LfWyTksDcgEEH) | [Shwi No Mtekhala](https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq) | [Angimazi Ubaba](https://open.spotify.com/album/497oVjt1dseOC4GOzEtHiK) | 4:10 | 2018-09-25 | 2023-02-01 |
 | [Thuma mina baba](https://open.spotify.com/track/6EWALyShL2Ho7YW1pKfhsv) | [Shwi No Mtekhala](https://open.spotify.com/artist/0hqM2qppNBOvYYQ36FsdBq) | [Angimazi ubaba](https://open.spotify.com/album/3bnl8oEQHcYwzDR9kC6IBE) | 4:10 | 2018-09-25 | 2022-07-29 |
@@ -243,6 +243,7 @@
 | [Ulimenemene](https://open.spotify.com/track/1QITFX3ky8436INEk0khrM) | [Umlabalaba](https://open.spotify.com/artist/4QpzTPW2meB4yr1ObtlQVY) | [Dankie Nkulunkulu](https://open.spotify.com/album/5roh2GIpGCkpxZFk31IbyU) | 4:47 | 2025-04-10 | 2025-11-05 |
 | [Umalambana](https://open.spotify.com/track/5Zu0VKpAzGOxAvmhXuLa0G) | [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Gatsheni](https://open.spotify.com/artist/1I42tbgTWFwxsR3PBmboMH) | [Umalambana](https://open.spotify.com/album/69R33aIYzMaBxA1qdzHoaK) | 4:38 | 2024-03-15 |  |
 | [Umanikinikana](https://open.spotify.com/track/4Gnh44Op31MW2a98YBmtuD) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inhlanhla Izanebhadi](https://open.spotify.com/album/1NmM7eRBFKNLN4Y2lqq15R) | 3:43 | 2025-11-28 |  |
+| [Umaqondana](https://open.spotify.com/track/2KvVTO2N5a0zKMlDZZMBOK) | [Feza](https://open.spotify.com/artist/1UwTwoC4T1i6vzwsQgIWB0) | [Inkanyezi](https://open.spotify.com/album/3nPujMA2fT8W8MKRi4rNzt) | 4:31 | 2025-12-11 |  |
 | [Umathandana wami](https://open.spotify.com/track/4IaV07VGtEvTzwMe85IzRi) | [Mfundo Mthiyane](https://open.spotify.com/artist/0guOFHBbk24le6TGSL2iV1), [Shenge wasehlalankosi](https://open.spotify.com/artist/06DaFSV7sr9tlsl3WFQUHe) | [Umkhovu owrong](https://open.spotify.com/album/7hCO4hD1G8nvOctB1Nn68s) | 3:42 | 2025-08-29 |  |
 | [Umathandana wokwenzani](https://open.spotify.com/track/5YUJdvQv36liohCLv8l1mR) | [Ntencane](https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV) | [Isivulwe Yonke](https://open.spotify.com/album/0k9XE7mJ1sqgety8nkwqa1) | 4:51 | 2023-05-08 | 2024-11-22 |
 | [Umbayimbayi](https://open.spotify.com/track/7cICJP7hsjo6e7JZgvNLiO) | [Inkabi Zezwe](https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Umbayimbayi](https://open.spotify.com/album/3ozczTzDSjr8zjBpCsN7BW) | 3:50 | 2023-03-24 | 2024-03-29 |

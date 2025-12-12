@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Dan + Shay",
-  "num_followers": 135311,
+  "num_followers": 135322,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-12-05 05:00:19",
       "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/0Cy6TGrIY2E13BwGHJl6kI"
-      },
-      "artists": [
-        {
-          "name": "Gareth",
-          "url": "https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq"
-        }
-      ],
-      "duration_ms": 176110,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/77bmyAECj4pwi6uhIjoVo1"
-    },
-    {
-      "added_at": "2025-12-05 05:00:19",
-      "album": {
         "name": "Wake Me up (Country Version)",
         "url": "https://open.spotify.com/album/1hnsF3H1B372xHHohhCX0e"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 190666,
       "name": "Wake Me up (Country Version)",
       "url": "https://open.spotify.com/track/3dBb0GQCXP9OZlzaijuHmu"
+    },
+    {
+      "added_at": "2025-12-05 05:00:19",
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/0Cy6TGrIY2E13BwGHJl6kI"
+      },
+      "artists": [
+        {
+          "name": "Gareth",
+          "url": "https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq"
+        }
+      ],
+      "duration_ms": 176110,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/77bmyAECj4pwi6uhIjoVo1"
     },
     {
       "added_at": "2025-12-05 05:00:19",
@@ -795,22 +795,18 @@
     {
       "added_at": "2025-12-05 05:00:19",
       "album": {
-        "name": "Reba Duets",
-        "url": "https://open.spotify.com/album/39Os87XP3yC2XBSpAur4BL"
+        "name": "Heart-Shaped Box",
+        "url": "https://open.spotify.com/album/51KRw2CmWPQ0uiNJOmedo0"
       },
       "artists": [
         {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        },
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Sam Donald",
+          "url": "https://open.spotify.com/artist/33HvGTT4l89zxUyt5VTFJs"
         }
       ],
-      "duration_ms": 223746,
-      "name": "Because Of You",
-      "url": "https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J"
+      "duration_ms": 312666,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/19tWCfCVvAsQ0QHDDvrxFF"
     },
     {
       "added_at": "2025-12-05 05:00:19",
@@ -835,18 +831,22 @@
     {
       "added_at": "2025-12-05 05:00:19",
       "album": {
-        "name": "Heart-Shaped Box",
-        "url": "https://open.spotify.com/album/51KRw2CmWPQ0uiNJOmedo0"
+        "name": "Reba Duets",
+        "url": "https://open.spotify.com/album/39Os87XP3yC2XBSpAur4BL"
       },
       "artists": [
         {
-          "name": "Sam Donald",
-          "url": "https://open.spotify.com/artist/33HvGTT4l89zxUyt5VTFJs"
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 312666,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/19tWCfCVvAsQ0QHDDvrxFF"
+      "duration_ms": 223746,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J"
     },
     {
       "added_at": "2025-12-05 05:00:19",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2025-12-05 05:00:19",
       "album": {
+        "name": "Simply The Hits",
+        "url": "https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 257733,
+      "name": "Walking In Memphis",
+      "url": "https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i"
+    },
+    {
+      "added_at": "2025-12-05 05:00:19",
+      "album": {
         "name": "HIXTAPE: Vol 3: DIFFTAPE (Small Batch)",
         "url": "https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 199445,
       "name": "Dammit",
       "url": "https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN"
-    },
-    {
-      "added_at": "2025-12-05 05:00:19",
-      "album": {
-        "name": "Simply The Hits",
-        "url": "https://open.spotify.com/album/0H2qV2ddu8h8IBnxIUo9Dv"
-      },
-      "artists": [
-        {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
-        }
-      ],
-      "duration_ms": 257733,
-      "name": "Walking In Memphis",
-      "url": "https://open.spotify.com/track/3c9WJhG3QvTtHmwKb5wz3i"
     },
     {
       "added_at": "2025-12-05 05:00:19",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-12-05 05:00:19",
       "album": {
-        "name": "I'm A Ram",
-        "url": "https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 239040,
-      "name": "I'm A Ram",
-      "url": "https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ"
-    },
-    {
-      "added_at": "2025-12-05 05:00:19",
-      "album": {
         "name": "Cowboy Take Me Away",
         "url": "https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm"
       },
@@ -1387,18 +1371,34 @@
     {
       "added_at": "2025-12-05 05:00:19",
       "album": {
-        "name": "Eastside",
-        "url": "https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k"
+        "name": "I'm A Ram",
+        "url": "https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm"
       },
       "artists": [
         {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 167142,
-      "name": "Eastside",
-      "url": "https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc"
+      "duration_ms": 239040,
+      "name": "I'm A Ram",
+      "url": "https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ"
+    },
+    {
+      "added_at": "2025-12-05 05:00:19",
+      "album": {
+        "name": "If You Want Love",
+        "url": "https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0"
+      },
+      "artists": [
+        {
+          "name": "Jon Langston",
+          "url": "https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "If You Want Love",
+      "url": "https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz"
     },
     {
       "added_at": "2025-12-05 05:00:19",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2025-12-05 05:00:19",
       "album": {
-        "name": "If You Want Love",
-        "url": "https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0"
+        "name": "Eastside",
+        "url": "https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k"
       },
       "artists": [
         {
-          "name": "Jon Langston",
-          "url": "https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P"
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
         }
       ],
-      "duration_ms": 204760,
-      "name": "If You Want Love",
-      "url": "https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz"
+      "duration_ms": 167142,
+      "name": "Eastside",
+      "url": "https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc"
     },
     {
       "added_at": "2025-12-05 05:00:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YNmLOBjUmx.md) - [plain]
 
 > Our editors' picks for the best Rock & Alternative songs this year\. Cover: Turnstile
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,923 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,146 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YNmLOBjUmx.md) - [plain]
 | 79 | [Unbloom](https://open.spotify.com/track/3XYmSdSxnThuQvZbbjHiji) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Unbloom](https://open.spotify.com/album/5PgwGQCUIn7zXwoujJRjis) | 3:22 |
 | 80 | [WTCH](https://open.spotify.com/track/07S1I5r2tlpNg8QJDJewBJ) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [BLACK MAGIC](https://open.spotify.com/album/0YtqdM1lPwVEpOQip5xhfB) | 2:59 |
 
-Snapshot ID: `AAAAADu8oNdSBIVqWLg1ZEsQ1RG5Cy8z`
+Snapshot ID: `AAAAAAxvJcJ/4/AFENcH/46z6y0ehEi/`

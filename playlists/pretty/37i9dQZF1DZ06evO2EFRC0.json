@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 97305,
+  "num_followers": 97315,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAADh+J/tsYVykV2/6lQdX/UP",
+  "snapshot_id": "aTi4AAAAAAB+vmtj7DTZrIrEMkzTZkYB",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 167758,
+      "name": "Porque para Siempre",
+      "url": "https://open.spotify.com/track/1snvuOpocJJRNXLVAR7QVI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Coraz\u00f3n (En Vivo desde el Auditorio Nacional)",
         "url": "https://open.spotify.com/album/4T4uX4tt64Zhn3Ig2lcuNU"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 152046,
       "name": "Tu Fidelidad - En Vivo desde el Auditorio Nacional",
       "url": "https://open.spotify.com/track/7MQXOm1gKmRTaowv4K4Hyx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu y Yo",
-        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 167758,
-      "name": "Porque para Siempre",
-      "url": "https://open.spotify.com/track/1snvuOpocJJRNXLVAR7QVI"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Coraz\u00f3n (En Vivo desde el Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/4T4uX4tt64Zhn3Ig2lcuNU"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 93254,
-      "name": "Dios Ha Sido Bueno - En Vivo desde el Auditorio Nacional",
-      "url": "https://open.spotify.com/track/2E4OmIhuppQYuBomMV37lx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Mejor de Instrumentales",
         "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 227291,
       "name": "Ll\u00e9name Se\u00f1or",
       "url": "https://open.spotify.com/track/7qKZKJfitLRRA4O6ZBCTs7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Coraz\u00f3n (En Vivo desde el Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/4T4uX4tt64Zhn3Ig2lcuNU"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 93254,
+      "name": "Dios Ha Sido Bueno - En Vivo desde el Auditorio Nacional",
+      "url": "https://open.spotify.com/track/2E4OmIhuppQYuBomMV37lx"
     }
   ],
   "unique_name": "This Is Marcos Witt",

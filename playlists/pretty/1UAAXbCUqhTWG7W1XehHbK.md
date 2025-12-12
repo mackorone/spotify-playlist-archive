@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 587 likes - 142 songs - 8 hr 18 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 587 likes - 144 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,5 +150,7 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 | 140 | [Lost Treasure](https://open.spotify.com/track/4eEpb5RY5a7ShP6MysMpiY) | [Richard Dobeson](https://open.spotify.com/artist/28KWLvWlBhBq9vp1HwGfTH) | [Lost Treasure](https://open.spotify.com/album/0cVssofpvNMlCU8H0RYUbi) | 1:39 |
 | 141 | [Green Light](https://open.spotify.com/track/34usNzrCgt3CAtpd4uCnLo) | [SETTINGS](https://open.spotify.com/artist/1kfMHJCbmgZzcQDJoslasA) | [Green Light](https://open.spotify.com/album/5YHZsCQH6Poj37014rt7oY) | 3:30 |
 | 142 | [Eerie Todd](https://open.spotify.com/track/6whH6etmbTlFgATsxMF7oC) | [Opal Tribe](https://open.spotify.com/artist/1bBQKUoCtoYlgz24976Jvd) | [Eerie Todd](https://open.spotify.com/album/51YZe3vuCfsYdtqJnHMxTd) | 4:30 |
+| 143 | [The Hummingbird](https://open.spotify.com/track/4efXbrQXTZmXPZCIBKhfBa) | [Sia Vaiz](https://open.spotify.com/artist/3KXDHgGTsVxS9tVl3bVX64) | [The Hummingbird](https://open.spotify.com/album/3abO1C1HoLQxF79SIoqMOg) | 3:05 |
+| 144 | [Rosemary Gold](https://open.spotify.com/track/0KRNkNKm0l88HTP56Xfso7) | [FXCELESS](https://open.spotify.com/artist/20PXVmxGDqANBC2SSezzSl) | [Rosemary Gold](https://open.spotify.com/album/4e0XQZiKL95mxpnpDFjDAg) | 2:10 |
 
-Snapshot ID: `AAADbB0IhMWSYujZqi3X6fpoJvPmQT+I`
+Snapshot ID: `AAADbjrtAWOktt90ayfu0LBTZ+G68mmx`

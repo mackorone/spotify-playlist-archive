@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "45",
+        "url": "https://open.spotify.com/album/1VDOnz8xGPqycmnzHaxkEE"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197324,
+      "name": "45",
+      "url": "https://open.spotify.com/track/1udG86M7sSyELAIlLeRdMM"
+    },
+    {
+      "album": {
         "name": "92 Purebred",
         "url": "https://open.spotify.com/album/6glzz5fov8Io6RKLQHkdU3"
       },
@@ -598,7 +616,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 157027,
       "name": "Another World",
       "url": "https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7"
@@ -880,7 +898,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 159748,
       "name": "Big Ideas",
       "url": "https://open.spotify.com/track/75epmKQsn2S7ZGKKGHiupK"
@@ -1360,7 +1378,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 295378,
       "name": "Can You Swim?",
       "url": "https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH"
@@ -3173,6 +3191,24 @@
     },
     {
       "album": {
+        "name": "Grillin' Jams, Vol. 2",
+        "url": "https://open.spotify.com/album/0HD3da6RjD7fMyvZucjSRZ"
+      },
+      "artists": [
+        {
+          "name": "The Beefs",
+          "url": "https://open.spotify.com/artist/05Q0d2MnKH75xfeXzGDPnX"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/22yzFzFoICiGnFjgdl0JAk"
+    },
+    {
+      "album": {
         "name": "Give Me All Your Love",
         "url": "https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6"
       },
@@ -3837,6 +3873,28 @@
     },
     {
       "album": {
+        "name": "Hot!",
+        "url": "https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0"
+      },
+      "artists": [
+        {
+          "name": "Chloe Parch\u00e9",
+          "url": "https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov"
+        },
+        {
+          "name": "Holly Hebe",
+          "url": "https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165230,
+      "name": "Hot!",
+      "url": "https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh"
+    },
+    {
+      "album": {
         "name": "Hotel TV",
         "url": "https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn"
       },
@@ -3902,7 +3960,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 186971,
       "name": "Hurt So Bad",
       "url": "https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz"
@@ -4568,6 +4626,24 @@
       "duration_ms": 202221,
       "name": "Laced Up",
       "url": "https://open.spotify.com/track/6G18h9tTvLYWKLGSBXIRCD"
+    },
+    {
+      "album": {
+        "name": "Last Laugh",
+        "url": "https://open.spotify.com/album/3yCjtfPnNTBSuamHb1Zf8A"
+      },
+      "artists": [
+        {
+          "name": "Kerser",
+          "url": "https://open.spotify.com/artist/6aZHwfhoXFdJJvZdijsmy7"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207419,
+      "name": "Last Laugh",
+      "url": "https://open.spotify.com/track/0irGuN2NqZ0E8BCutnfMKO"
     },
     {
       "album": {
@@ -7992,7 +8068,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 162000,
       "name": "SYDNEY 2 CROYDON (feat. Jords)",
       "url": "https://open.spotify.com/track/2ILfqaacKKpAJX1aRPhFFG"
@@ -8847,6 +8923,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/4dxgtby0I8aUiN46PaxwIH"
+    },
+    {
+      "album": {
         "name": "Caught in a Reverie",
         "url": "https://open.spotify.com/album/57mCFDpG3DjTa7LeD89Dsr"
       },
@@ -9458,10 +9552,28 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 166524,
       "name": "Wild Guess",
       "url": "https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn"
+    },
+    {
+      "album": {
+        "name": "Wine Me & Dine Me",
+        "url": "https://open.spotify.com/album/3WHY77awSoXDbOQrVy7xwu"
+      },
+      "artists": [
+        {
+          "name": "POOKIE",
+          "url": "https://open.spotify.com/artist/2PZEcVX4rArVPpzqYslowq"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167224,
+      "name": "Wine Me & Dine Me",
+      "url": "https://open.spotify.com/track/6LZd7wgaifadCDNF1zUxMZ"
     },
     {
       "album": {

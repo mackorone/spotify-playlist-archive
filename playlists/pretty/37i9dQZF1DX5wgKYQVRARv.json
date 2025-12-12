@@ -1,6 +1,6 @@
 {
   "description": "New and recent favorites of Prog Metal. Cover: Opeth",
-  "num_followers": 564094,
+  "num_followers": 564132,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
@@ -1111,18 +1111,22 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Dislocated",
-        "url": "https://open.spotify.com/album/6Vr6pUhz1f9kKGSTvCAYVX"
+        "name": "Stonewalker",
+        "url": "https://open.spotify.com/album/0AfCFzK9Q86MY6sJgw70Gj"
       },
       "artists": [
         {
-          "name": "Midwinter",
-          "url": "https://open.spotify.com/artist/4lCssyVFY0bUbplxqwwu8J"
+          "name": "I Built the Sky",
+          "url": "https://open.spotify.com/artist/4URPAJlk8ay7npvNVVLpKN"
+        },
+        {
+          "name": "Jake Howsam Lowe",
+          "url": "https://open.spotify.com/artist/4L53eKiTXJsZeaX0Q9jxMI"
         }
       ],
-      "duration_ms": 260689,
-      "name": "Dislocated",
-      "url": "https://open.spotify.com/track/1Iw4yXNzBGnvxDfaNuMo3W"
+      "duration_ms": 254032,
+      "name": "Stonewalker",
+      "url": "https://open.spotify.com/track/2P3OwLmz095p0PIMwkrQOh"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1175,22 +1179,18 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Stonewalker",
-        "url": "https://open.spotify.com/album/0AfCFzK9Q86MY6sJgw70Gj"
+        "name": "Dislocated",
+        "url": "https://open.spotify.com/album/6Vr6pUhz1f9kKGSTvCAYVX"
       },
       "artists": [
         {
-          "name": "I Built the Sky",
-          "url": "https://open.spotify.com/artist/4URPAJlk8ay7npvNVVLpKN"
-        },
-        {
-          "name": "Jake Howsam Lowe",
-          "url": "https://open.spotify.com/artist/4L53eKiTXJsZeaX0Q9jxMI"
+          "name": "Midwinter",
+          "url": "https://open.spotify.com/artist/4lCssyVFY0bUbplxqwwu8J"
         }
       ],
-      "duration_ms": 254032,
-      "name": "Stonewalker",
-      "url": "https://open.spotify.com/track/2P3OwLmz095p0PIMwkrQOh"
+      "duration_ms": 260689,
+      "name": "Dislocated",
+      "url": "https://open.spotify.com/track/1Iw4yXNzBGnvxDfaNuMo3W"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Mirrorman",
-        "url": "https://open.spotify.com/album/0mxQqt7GimKgHaWDCaxojH"
-      },
-      "artists": [
-        {
-          "name": "Black Orchid Empire",
-          "url": "https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1"
-        }
-      ],
-      "duration_ms": 305360,
-      "name": "Mirrorman",
-      "url": "https://open.spotify.com/track/5kYZdoxmF1ECBiBXVhKqXP"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "Synaesthesia",
         "url": "https://open.spotify.com/album/0sYGgAFl5rWpA2oUbhoeSU"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 551436,
       "name": "Synaesthesia",
       "url": "https://open.spotify.com/track/7ffadND3ZiB9jgKjI11SEr"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Mirrorman",
+        "url": "https://open.spotify.com/album/0mxQqt7GimKgHaWDCaxojH"
+      },
+      "artists": [
+        {
+          "name": "Black Orchid Empire",
+          "url": "https://open.spotify.com/artist/4TrfxRxjCvOFprX1W2V8k1"
+        }
+      ],
+      "duration_ms": 305360,
+      "name": "Mirrorman",
+      "url": "https://open.spotify.com/track/5kYZdoxmF1ECBiBXVhKqXP"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Heirloom",
-        "url": "https://open.spotify.com/album/7lPuo8764m0CLuTltqj1U1"
-      },
-      "artists": [
-        {
-          "name": "A Sense of Purpose",
-          "url": "https://open.spotify.com/artist/2Y3LACLX6YWynFWWszVZpM"
-        }
-      ],
-      "duration_ms": 262153,
-      "name": "Heirloom",
-      "url": "https://open.spotify.com/track/30a1OAy25aiX9vdYxy42om"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "Carbonized",
         "url": "https://open.spotify.com/album/4ed59wqSiswxbsBfh2jP7r"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 225986,
       "name": "Carbonized",
       "url": "https://open.spotify.com/track/4kqYSyIRLk3rxgke3cWflX"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Heirloom",
+        "url": "https://open.spotify.com/album/7lPuo8764m0CLuTltqj1U1"
+      },
+      "artists": [
+        {
+          "name": "A Sense of Purpose",
+          "url": "https://open.spotify.com/artist/2Y3LACLX6YWynFWWszVZpM"
+        }
+      ],
+      "duration_ms": 262153,
+      "name": "Heirloom",
+      "url": "https://open.spotify.com/track/30a1OAy25aiX9vdYxy42om"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Deadlock",
-        "url": "https://open.spotify.com/album/25flL4yb0wLI5mIJrL2rUR"
-      },
-      "artists": [
-        {
-          "name": "InVisions",
-          "url": "https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR"
-        }
-      ],
-      "duration_ms": 272757,
-      "name": "The 6 6 9",
-      "url": "https://open.spotify.com/track/1x3D10RwWsAbJaohK2XeRX"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "Psychotic Banana",
         "url": "https://open.spotify.com/album/1qDg0ds6zDDmYT7nCv9ccw"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 229442,
       "name": "Hug My Death",
       "url": "https://open.spotify.com/track/5farC9XCNm6mDJ341fgoFu"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Deadlock",
+        "url": "https://open.spotify.com/album/25flL4yb0wLI5mIJrL2rUR"
+      },
+      "artists": [
+        {
+          "name": "InVisions",
+          "url": "https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR"
+        }
+      ],
+      "duration_ms": 272757,
+      "name": "The 6 6 9",
+      "url": "https://open.spotify.com/track/1x3D10RwWsAbJaohK2XeRX"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Break My Lying Tongue",
-        "url": "https://open.spotify.com/album/6c98Sbfq18dN7DYxxLIOUs"
-      },
-      "artists": [
-        {
-          "name": "VOLA",
-          "url": "https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI"
-        }
-      ],
-      "duration_ms": 230160,
-      "name": "Break My Lying Tongue",
-      "url": "https://open.spotify.com/track/5mkuAmQFK8QxgH1FVlJhAF"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "Your Little Suburbia Is In Ruins",
         "url": "https://open.spotify.com/album/0vXAO3JDpkIOZgaXD4Hg1N"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 245325,
       "name": "Your Little Suburbia Is In Ruins",
       "url": "https://open.spotify.com/track/5ov5AZ68uU6HpXk5y7j92G"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Break My Lying Tongue",
+        "url": "https://open.spotify.com/album/6c98Sbfq18dN7DYxxLIOUs"
+      },
+      "artists": [
+        {
+          "name": "VOLA",
+          "url": "https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI"
+        }
+      ],
+      "duration_ms": 230160,
+      "name": "Break My Lying Tongue",
+      "url": "https://open.spotify.com/track/5mkuAmQFK8QxgH1FVlJhAF"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -2067,6 +2067,22 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
+        "name": "Memorial",
+        "url": "https://open.spotify.com/album/1gt8LiaUkgCJp201rXimj2"
+      },
+      "artists": [
+        {
+          "name": "Soen",
+          "url": "https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW"
+        }
+      ],
+      "duration_ms": 278186,
+      "name": "Memorial",
+      "url": "https://open.spotify.com/track/4M2fSEcYoPxaOgL5v77ZpP"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
         "name": "Do Your Worst",
         "url": "https://open.spotify.com/album/0UsVF1iYngI5R1ubRhvgXV"
       },
@@ -2083,22 +2099,6 @@
       "duration_ms": 252000,
       "name": "Do Your Worst",
       "url": "https://open.spotify.com/track/2PmUzUUq57pfjCloz7U4IS"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
-        "name": "Memorial",
-        "url": "https://open.spotify.com/album/1gt8LiaUkgCJp201rXimj2"
-      },
-      "artists": [
-        {
-          "name": "Soen",
-          "url": "https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW"
-        }
-      ],
-      "duration_ms": 278186,
-      "name": "Memorial",
-      "url": "https://open.spotify.com/track/4M2fSEcYoPxaOgL5v77ZpP"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "M\u00far",
-        "url": "https://open.spotify.com/album/7sDMrZjpctJuxpRNBN1KdU"
-      },
-      "artists": [
-        {
-          "name": "M\u00far",
-          "url": "https://open.spotify.com/artist/5EfO063u0RoH2Bz9kbsPzO"
-        }
-      ],
-      "duration_ms": 577506,
-      "name": "Vitrun",
-      "url": "https://open.spotify.com/track/2OdFIecA3mOdAf7UjxLJ7O"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "Fend You Off",
         "url": "https://open.spotify.com/album/7HFYz0fonPkHyxqAiJ1peV"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 231813,
       "name": "Fend You Off",
       "url": "https://open.spotify.com/track/2vw9pwB7AWwDENAmq1zBlV"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "M\u00far",
+        "url": "https://open.spotify.com/album/7sDMrZjpctJuxpRNBN1KdU"
+      },
+      "artists": [
+        {
+          "name": "M\u00far",
+          "url": "https://open.spotify.com/artist/5EfO063u0RoH2Bz9kbsPzO"
+        }
+      ],
+      "duration_ms": 577506,
+      "name": "Vitrun",
+      "url": "https://open.spotify.com/track/2OdFIecA3mOdAf7UjxLJ7O"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -2367,22 +2367,18 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "16",
-        "url": "https://open.spotify.com/album/25jWll9IwvwbKSChqKmMdG"
+        "name": "Dream Chaser",
+        "url": "https://open.spotify.com/album/0EoTgMQbkcCprkuVcLuJsE"
       },
       "artists": [
         {
-          "name": "Einar Solberg",
-          "url": "https://open.spotify.com/artist/20xK8nEhn71rTjjBNoR5nv"
-        },
-        {
-          "name": "Ihsahn",
-          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
+          "name": "Rendezvous Point",
+          "url": "https://open.spotify.com/artist/0AhnRzNnHI2Yhx9d00H5Cp"
         }
       ],
-      "duration_ms": 382420,
-      "name": "Splitting the Soul (feat. Ihsahn)",
-      "url": "https://open.spotify.com/track/3HH1qLT6rCbk8BU9sCUgqd"
+      "duration_ms": 280207,
+      "name": "Presence",
+      "url": "https://open.spotify.com/track/0UyTtFzEmWbirYnQz5zYYH"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -2431,18 +2427,22 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Dream Chaser",
-        "url": "https://open.spotify.com/album/0EoTgMQbkcCprkuVcLuJsE"
+        "name": "16",
+        "url": "https://open.spotify.com/album/25jWll9IwvwbKSChqKmMdG"
       },
       "artists": [
         {
-          "name": "Rendezvous Point",
-          "url": "https://open.spotify.com/artist/0AhnRzNnHI2Yhx9d00H5Cp"
+          "name": "Einar Solberg",
+          "url": "https://open.spotify.com/artist/20xK8nEhn71rTjjBNoR5nv"
+        },
+        {
+          "name": "Ihsahn",
+          "url": "https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za"
         }
       ],
-      "duration_ms": 280207,
-      "name": "Presence",
-      "url": "https://open.spotify.com/track/0UyTtFzEmWbirYnQz5zYYH"
+      "duration_ms": 382420,
+      "name": "Splitting the Soul (feat. Ihsahn)",
+      "url": "https://open.spotify.com/track/3HH1qLT6rCbk8BU9sCUgqd"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Third Shot",
-        "url": "https://open.spotify.com/album/0VuG7jFHxSTKxR3ggdKm2v"
-      },
-      "artists": [
-        {
-          "name": "Astronoid",
-          "url": "https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Third Shot",
-      "url": "https://open.spotify.com/track/5x7efls0j9BZt1jgQXU36T"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "PowerNerd",
         "url": "https://open.spotify.com/album/6G9gnBnXUAK6s87aNa7NMY"
       },
@@ -2491,6 +2475,22 @@
       "duration_ms": 208431,
       "name": "PowerNerd",
       "url": "https://open.spotify.com/track/4iZk14JjaPO94fDVShNgdV"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Third Shot",
+        "url": "https://open.spotify.com/album/0VuG7jFHxSTKxR3ggdKm2v"
+      },
+      "artists": [
+        {
+          "name": "Astronoid",
+          "url": "https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Third Shot",
+      "url": "https://open.spotify.com/track/5x7efls0j9BZt1jgQXU36T"
     },
     {
       "added_at": "2025-11-28 04:00:03",

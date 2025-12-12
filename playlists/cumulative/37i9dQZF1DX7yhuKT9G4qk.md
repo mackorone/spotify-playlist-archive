@@ -4,7 +4,7 @@
 
 > Lekker  eten en lang natafelen? Daar hoort muziek bij.
 
-163 songs - 9 hr 19 min
+165 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Brand New Shoes](https://open.spotify.com/track/1aFglbwd4QJvUki3PGvKez) | [Tristan](https://open.spotify.com/artist/7nFR3t1IkpicWdA5Dg7mev) | [Frou\-Frou](https://open.spotify.com/album/59uzeboKsP7t8MA7EnMPhe) | 3:42 | 2025-07-16 |  |
 | [Breathe](https://open.spotify.com/track/3exG2ufmyQlo2myNhMtFKo) | [Darlyn](https://open.spotify.com/artist/6epX2aWpqv4aTiL1bu4Na8) | [Breathe](https://open.spotify.com/album/6yZt8iJlMkF8JXTi8cGeiz) | 3:23 | 2025-07-16 | 2025-09-16 |
 | [Breathe Deep](https://open.spotify.com/track/5btaMofKOTnk47EEvotbVI) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [Breathe Deep](https://open.spotify.com/album/6oRgYfOjA2kDIVHZKeFNgd) | 3:44 | 2025-09-18 |  |
+| [Burning daylight](https://open.spotify.com/track/6wfrySLKgLeyGTjh21xvWI) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Pleasure](https://open.spotify.com/album/2FAfR9rZEMwwnrFOYsl2VT) | 4:23 | 2025-12-11 |  |
 | [But I Can Show U How](https://open.spotify.com/track/61nk9QwdEYLuVqXkefVnmZ) | [FENNE](https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo) | [But I Can Show U How](https://open.spotify.com/album/4rKbES6D2gvmkIdtdKBDEC) | 2:40 | 2025-07-16 | 2025-09-19 |
 | [Butter](https://open.spotify.com/track/2ZCusLcINjCgOeJPJ2b0GL) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [The Weight](https://open.spotify.com/album/3A7TG46Q74ib0eWPPh3rpj) | 3:13 | 2025-10-02 |  |
 | [Can't Find Love](https://open.spotify.com/track/4BRaMsOYVgkm2YkbLwhOAg) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Can't Find Love](https://open.spotify.com/album/6wMm38swlyVsXMucMGsM1H) | 3:20 | 2025-07-16 |  |
@@ -42,6 +43,7 @@
 | [DØN'T WANNA FALL](https://open.spotify.com/track/3C5PcBZvcXSx23Wpa1lSzA) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [DØN'T WANNA FALL](https://open.spotify.com/album/1osD1Kt3ka13mjTN7auXBg) | 4:10 | 2025-08-08 |  |
 | [Either Way](https://open.spotify.com/track/4pyg7pmXXbG10fv10rBGE9) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Either Way](https://open.spotify.com/album/3BI21PVblsUMdyNPvfjxiv) | 3:47 | 2025-11-06 |  |
 | [End Of Me](https://open.spotify.com/track/2n6LotLcjjyG9NjNiypuxA) | [FÄM](https://open.spotify.com/artist/0GRkFcHaRm50dImpZMc8eG) | [End Of Me](https://open.spotify.com/album/48HxShceUcdOOEWzX1uQBy) | 3:52 | 2025-10-17 |  |
+| [End of Time](https://open.spotify.com/track/2ue3TmvamovoPGDywzzYSj) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Colour On The Wall](https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT) | 3:46 | 2025-12-11 |  |
 | [Exile](https://open.spotify.com/track/5uVQDpZ8QBy5gBAxXTufHN) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Exile](https://open.spotify.com/album/41gsdwJILd5NLUgFvhjXl5) | 4:33 | 2025-07-16 | 2025-09-16 |
 | [Faith](https://open.spotify.com/track/2E4ImcUM9GrVevTrs3AqXI) | [More Ease](https://open.spotify.com/artist/6MqGLWFP5nuu5q0Bv0sSsk) | [Faith](https://open.spotify.com/album/6mUtkNsbNHsMszmKpCoCZU) | 2:28 | 2025-07-16 | 2025-10-22 |
 | [Familiar Love \- Radio Edit](https://open.spotify.com/track/2sFw1i3lq7fUV7LdDoxXFU) | [Boogie Monster](https://open.spotify.com/artist/7f0mZeCsi8b1qMvMre72t4) | [Familiar Love](https://open.spotify.com/album/6IZ0UereWBxasy0E8S31N3) | 4:38 | 2025-07-16 | 2025-09-16 |
@@ -61,7 +63,7 @@
 | [Hold Me Down](https://open.spotify.com/track/5ie7dJwncl3i9MpEx8n2nc) | [Bywater Call](https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M) | [Hold Me Down](https://open.spotify.com/album/0rp1QW9jPSMKcpFhpG5Db6) | 3:20 | 2025-10-09 |  |
 | [Honey \- Single Version](https://open.spotify.com/track/7JplJCCUuo2o6emhE3f3SK) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Honey](https://open.spotify.com/album/2tgMULeDaymA173kWVgCZS) | 3:15 | 2025-07-16 |  |
 | [How Am I Gonna Love Myself](https://open.spotify.com/track/3RYvTgqulH7Iz0ZfhhflbO) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb), [Marcel Veenendaal](https://open.spotify.com/artist/0hfRYFpwyGSFZtOPfEqUHD) | [How Am I Gonna Love Myself](https://open.spotify.com/album/3cOQj570QyeO3enzDdfT6i) | 3:17 | 2025-12-04 |  |
-| [How Does It Feel](https://open.spotify.com/track/5uGGSdXz791jTxkUJUZ7M1) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [How Does It Feel](https://open.spotify.com/album/4yC8BBuXd9faD7Ln1FB3mt) | 3:24 | 2025-07-16 |  |
+| [How Does It Feel](https://open.spotify.com/track/5uGGSdXz791jTxkUJUZ7M1) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [How Does It Feel](https://open.spotify.com/album/4yC8BBuXd9faD7Ln1FB3mt) | 3:24 | 2025-07-16 | 2025-12-12 |
 | [How We Lose](https://open.spotify.com/track/3MbuIuzbqNMbnp4itDM1Nt) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [Low Tides](https://open.spotify.com/album/1R5xikPLRUDxHlBX8bl1k9) | 3:47 | 2025-10-21 |  |
 | [i believe](https://open.spotify.com/track/32TjNUWcY06j1QtLLCZXYR) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [i believe](https://open.spotify.com/album/2K0DUYJpUvufJ9ixM67PVE) | 2:51 | 2025-10-21 |  |
 | [I GØT HOME](https://open.spotify.com/track/5VxqabAotndQmMTlsWrNS7) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [I GØT HOME](https://open.spotify.com/album/1i9dFWQahF4K6IbUCopjFS) | 2:16 | 2025-07-16 |  |
@@ -86,7 +88,7 @@
 | [Low](https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Low](https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY) | 4:34 | 2025-07-16 | 2025-09-19 |
 | [Make You Mine](https://open.spotify.com/track/3Fq1E1vErJKnx9j42rJG41) | [Joshua Morris](https://open.spotify.com/artist/0fgysuyIdg2ZjnSePctoPn) | [Make You Mine](https://open.spotify.com/album/7j2JDbaGwdVfK1EmsBKyRi) | 3:44 | 2025-07-16 |  |
 | [Mama Mia](https://open.spotify.com/track/4sDa4HFEVH2oqU98lJl14U) | [Noonzy](https://open.spotify.com/artist/6dfDwONzmFyAlH27BUuiqJ) | [Mama Mia](https://open.spotify.com/album/2mwppwDWQZRnyYL1AOM2OF) | 3:17 | 2025-07-16 |  |
-| [Memories](https://open.spotify.com/track/64ozgxrJ6rB3XEkzTL1oKo) | [TOINE](https://open.spotify.com/artist/1UKhHMifOzxgAaoQvJW7no) | [Memories](https://open.spotify.com/album/0WifEqnVNOXCDHGvSAbu4m) | 3:21 | 2025-07-16 |  |
+| [Memories](https://open.spotify.com/track/64ozgxrJ6rB3XEkzTL1oKo) | [TOINE](https://open.spotify.com/artist/1UKhHMifOzxgAaoQvJW7no) | [Memories](https://open.spotify.com/album/0WifEqnVNOXCDHGvSAbu4m) | 3:21 | 2025-07-16 | 2025-12-12 |
 | [Messy](https://open.spotify.com/track/6v6O07aMwdAkBtEuviGe33) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2ZA9At0a1IsXTyL8nInUBS) | 4:44 | 2025-07-16 |  |
 | [Midnight Oil](https://open.spotify.com/track/4sTNEvndN8GJONJmbCRpuo) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [Midnight Oil](https://open.spotify.com/album/1MnuQFfuMKUMHIphojuo9J) | 3:34 | 2025-07-16 |  |
 | [Miracle](https://open.spotify.com/track/2oU6JanR9OZ36p5AxHZaFS) | [Ady Suleiman](https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88) | [Miracle](https://open.spotify.com/album/5N41lN5HvoIPHYHkNxHroe) | 3:49 | 2025-09-01 |  |

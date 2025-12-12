@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 
 > Our editors' top picks for the best Jazz songs of the year\. Cover: Theo Croker
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,832 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,920 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 | 49 | [Agitated Fonk](https://open.spotify.com/track/73L9T4I5ob6qDmsL55mPFX) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Ella Feingold](https://open.spotify.com/artist/64WR0nd4TZPPmIKH3cxS4b) | [Different Strokes for Different Folks](https://open.spotify.com/album/6I6h93uYsLs9Q52j4PaH2W) | 1:59 |
 | 50 | [Bill Bailey Won't You Please Come Home](https://open.spotify.com/track/1DogeQJg0tWMxcFODP3mur) | [Preservation Brass](https://open.spotify.com/artist/1hSpi5KaYmsLZbNxo0JLOE), [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [For Fat Man](https://open.spotify.com/album/05LGYTSJcAL7lV5q7qhxkd) | 4:59 |
 
-Snapshot ID: `AAAAAJA5y4VB+LUwSS9C6zMbp4fEpFeq`
+Snapshot ID: `AAAAAEDYF4SwbkcovyVR53SrOGlUCUW/`

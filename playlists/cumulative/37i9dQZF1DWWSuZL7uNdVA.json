@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Sam Sauvage au top des meilleurs morceaux rock du moment.",
+  "description": "Biffy Clyro au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
     {
@@ -7029,6 +7029,24 @@
     },
     {
       "album": {
+        "name": "People Watching (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202973,
+      "name": "The Treadmill",
+      "url": "https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io"
+    },
+    {
+      "album": {
         "name": "There's No Future In Optimism",
         "url": "https://open.spotify.com/album/3kw1Gtzo54hTyF50BgLbXY"
       },
@@ -7318,7 +7336,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 194760,
       "name": "Tyrants",
       "url": "https://open.spotify.com/track/7oTvcGyX0llNf9X3pFy8sd"

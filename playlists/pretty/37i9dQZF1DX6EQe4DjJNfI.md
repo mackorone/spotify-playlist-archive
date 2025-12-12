@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Budah, Wycleff Jean
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,482 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,478 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 64 | [Tudo Que Eu Sempre Quis](https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE) | [JovemBlues](https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH), [Dos Anjos](https://open.spotify.com/artist/1082w5hRcoRGY04f8T2Tmn) | [Tudo Que Eu Sempre Quis](https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5) | 2:33 |
 | 65 | [Respostas](https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW) | [Rudney Martins](https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL) | [Respostas](https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5) | 3:14 |
 | 66 | [Tenho Tanto de Você em Mim](https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [Tenho Tanto de Você em Mim](https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO) | 2:48 |
-| 67 | [Mais uma Vez](https://open.spotify.com/track/5z1ilt9ZerSnXCuclChbHt) | [Gu Original](https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e), [JHXW](https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV) | [Mais uma Vez](https://open.spotify.com/album/0jhBAoUYv0xYxhXRg1MsE2) | 2:09 |
-| 68 | [Mas Que Porra](https://open.spotify.com/track/3Yo2jWdQEjar8IayTy6B7Z) | [idontcare](https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e) | [Mas Que Porra](https://open.spotify.com/album/3nvA63FjzbjPBuXwK8M1tv) | 2:01 |
+| 67 | [Mas Que Porra](https://open.spotify.com/track/3Yo2jWdQEjar8IayTy6B7Z) | [idontcare](https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e) | [Mas Que Porra](https://open.spotify.com/album/3nvA63FjzbjPBuXwK8M1tv) | 2:01 |
+| 68 | [Mais uma Vez](https://open.spotify.com/track/5z1ilt9ZerSnXCuclChbHt) | [Gu Original](https://open.spotify.com/artist/0UWWzCSgkPAMiwIk0O0Aqi), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e), [JHXW](https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV) | [Mais uma Vez](https://open.spotify.com/album/0jhBAoUYv0xYxhXRg1MsE2) | 2:09 |
 | 69 | [Assome](https://open.spotify.com/track/5JjtvbvHPUWKju4nStjFcO) | [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu) | [Assome](https://open.spotify.com/album/7DZArTAJwtOqfchatOZR5c) | 2:59 |
 | 70 | [Novela](https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Novela](https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh) | 2:24 |
 | 71 | [Açaí e Amendoím](https://open.spotify.com/track/3rSrYhRAqFVTg1Lva2uCvw) | [Nevess](https://open.spotify.com/artist/3Cmd7iDVwnt0rgVdveqNVy), [Caslu](https://open.spotify.com/artist/0j5Ei0F504PNqn0DSzIodP) | [Açaí e Amendoím](https://open.spotify.com/album/36yIeO6OMUs4aa1GxdbCsJ) | 3:13 |

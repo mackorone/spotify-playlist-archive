@@ -4,7 +4,7 @@
 
 > Original and synced songs that will stay with you long after the credits roll...Cover: Wicked: For Good
 
-174 songs - 9 hr 41 min
+175 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Strength And Honor](https://open.spotify.com/track/7KfDsq11j40kz3Rzrud0EX) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Gladiator II \(Music From The Motion Picture\)](https://open.spotify.com/album/2kiVkf7UnXGqUFr6ZJ2U3m) | 3:21 | 2024-11-22 | 2025-03-15 |
 | [Succession \(Main Title Theme\)](https://open.spotify.com/track/0bSHwuTOZVJUXWT03H9oD2) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Succession: Season 1 \(HBO Original Series Soundtrack\)](https://open.spotify.com/album/7IONINkxycqA3eIKlVZ7Bj) | 1:42 | 2024-01-13 | 2024-06-15 |
 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 | 2024-01-13 | 2024-12-21 |
+| [Sweet Caroline \(from Song Sung Blue\)](https://open.spotify.com/track/5MA9H4ZShK2dsbt551hH5q) | [Hugh Jackman](https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2), [Kate Hudson](https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME) | [Sweet Caroline \(from Song Sung Blue\)](https://open.spotify.com/album/2YKIrodWFLjeC8EG8TEPBD) | 3:35 | 2025-12-08 |  |
 | [Sweet Morning Heat \(from the Netflix Film "Unfrosted"\)](https://open.spotify.com/track/6rJmvaxHxJofkrGn1azjrd) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP) | [Sweet Morning Heat \(from the Netflix Film "Unfrosted"\)](https://open.spotify.com/album/45NbXQTQehu3aWZXQdI1vN) | 3:13 | 2024-04-12 | 2024-09-12 |
 | [Take Me Away](https://open.spotify.com/track/6MFraiWmc8KfjfY5m3Nx9e) | [Christina Vidal Mitchell](https://open.spotify.com/artist/0677ffAmURcLIn4qC5lYMk), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Freakier Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21GEjVF1Rr389EmT0pEedm) | 3:08 | 2025-08-08 |  |
 | [Take Me Away \- From "Freakier Friday"](https://open.spotify.com/track/5PfDGxZXOnJLJvghTAtQJP) | [Christina Vidal Mitchell](https://open.spotify.com/artist/0677ffAmURcLIn4qC5lYMk), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Take Me Away \(From "Freakier Friday"\)](https://open.spotify.com/album/18KERjxjpMewx9J7hKVEQE) | 3:06 | 2025-07-11 | 2025-11-11 |

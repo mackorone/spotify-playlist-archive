@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Pit Baccardi",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Thomas Goldberg",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 92074,
       "name": "CORRUPTED FILE",
       "url": "https://open.spotify.com/track/2i3WlwPlawWO0I22YfqAXM"
@@ -1918,7 +1918,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 131294,
       "name": "D\u00e9\u00e7u",
       "url": "https://open.spotify.com/track/4wPHh0EOa52M7SyIQjza1y"
@@ -2681,6 +2681,24 @@
     },
     {
       "album": {
+        "name": "INSOLVABLE",
+        "url": "https://open.spotify.com/album/0nEWFMSd7FS1HJq4n6obgT"
+      },
+      "artists": [
+        {
+          "name": "Dysto",
+          "url": "https://open.spotify.com/artist/5nhHDbEuy2vGrzOqo2179s"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "INSOLVABLE",
+      "url": "https://open.spotify.com/track/7fjNnYPpF6tgvyL4qxWotx"
+    },
+    {
+      "album": {
         "name": "INSTABLE",
         "url": "https://open.spotify.com/album/73zXA5AdouGyaiYBzpKjTT"
       },
@@ -3056,6 +3074,32 @@
       "duration_ms": 157506,
       "name": "L'EAU (Part. II)",
       "url": "https://open.spotify.com/track/4eenyjhMucaRF1yJ2PuGEK"
+    },
+    {
+      "album": {
+        "name": "L'eau qui dort",
+        "url": "https://open.spotify.com/album/37dIBQUyzOHfxcc25tqdOb"
+      },
+      "artists": [
+        {
+          "name": "AGA",
+          "url": "https://open.spotify.com/artist/0ZVv0p5Umc0rz7lZF7LUNj"
+        },
+        {
+          "name": "R-0",
+          "url": "https://open.spotify.com/artist/69du5NFJrUwBsuHgvSxlVG"
+        },
+        {
+          "name": "Scala",
+          "url": "https://open.spotify.com/artist/2oR7Y12SaC4Te9nXjYe3gf"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118481,
+      "name": "L'eau qui dort",
+      "url": "https://open.spotify.com/track/1Q9scxOTlgFez4sZ2AJk6H"
     },
     {
       "album": {
@@ -3558,7 +3602,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 268221,
       "name": "Le pacte",
       "url": "https://open.spotify.com/track/5M1VROZh6YaMMwkYVujHja"
@@ -4398,7 +4442,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 185142,
       "name": "Mick Jagger",
       "url": "https://open.spotify.com/track/54Q1i6GCkHuboimwxPFV7R"
@@ -5069,6 +5113,24 @@
     },
     {
       "album": {
+        "name": "PLUS QUE DES RIMES",
+        "url": "https://open.spotify.com/album/7A6yDgMvoVFDOVHC4NFTcD"
+      },
+      "artists": [
+        {
+          "name": "Relo",
+          "url": "https://open.spotify.com/artist/5BFtEJBJahei6oC8llF8sf"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201879,
+      "name": "PLUS QUE DES RIMES",
+      "url": "https://open.spotify.com/track/2BTF51YrSRqb7J3vvWUCOa"
+    },
+    {
+      "album": {
         "name": "Portes du d\u00e9sert",
         "url": "https://open.spotify.com/album/11wY21qIRUQyLRsj4prbXc"
       },
@@ -5412,7 +5474,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 160000,
       "name": "Rei",
       "url": "https://open.spotify.com/track/0vANR3Lh8V574Y2DFj2drD"
@@ -5460,6 +5522,24 @@
       "duration_ms": 133066,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/45QhuHaA1uDkBfLlRXAvgB"
+    },
+    {
+      "album": {
+        "name": "Valid\u00e9 - Saison 3 (Bande originale de la s\u00e9rie)",
+        "url": "https://open.spotify.com/album/4Y7Z9oCyul9uq6mgkHBAh1"
+      },
+      "artists": [
+        {
+          "name": "D2L",
+          "url": "https://open.spotify.com/artist/5UCM5UiwIFX15jCZjnp1M3"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226901,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/0RFHvc890tXRQxt7ozH7tK"
     },
     {
       "album": {
@@ -6738,6 +6818,24 @@
       "duration_ms": 184361,
       "name": "\u00c9toiles et satellites",
       "url": "https://open.spotify.com/track/4rIuseQQZbyvOzkTOJL4Ul"
+    },
+    {
+      "album": {
+        "name": "Rhodium Vol. 3",
+        "url": "https://open.spotify.com/album/4UzHexU8ho45AxzI6tXzX4"
+      },
+      "artists": [
+        {
+          "name": "Tchiki'O",
+          "url": "https://open.spotify.com/artist/7neh9ofjSOEUjCF1m6s8nu"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167276,
+      "name": "\u200bLe Cigare d'Oxmo",
+      "url": "https://open.spotify.com/track/2991L78KOJC4up6Xny4UcI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0AgrgHFR9aa"

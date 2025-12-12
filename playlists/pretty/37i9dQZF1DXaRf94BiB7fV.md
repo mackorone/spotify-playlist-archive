@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks from India this year\. Cover \- Janisht Joshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,325 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,344 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 49 | [Dhaatu](https://open.spotify.com/track/5MI8hbJ99ufuhCwdsxaqdM) | [Aseem Sharma](https://open.spotify.com/artist/4qJ2gWYz4ObYS8uUe11RkW), [Shashi Bhushan Negi](https://open.spotify.com/artist/2tDcryRZhcKL7r1HKWMwnN) | [Dhaatu](https://open.spotify.com/album/64K85lFoZkYnAmDzMCqfCP) | 3:21 |
 | 50 | [O Raahi](https://open.spotify.com/track/5LMRE3qFsM4Pa4ReNQjDx8) | [Nikhil Iyer](https://open.spotify.com/artist/0CqiR40fzUCsCK5Llk6Bek) | [O Raahi](https://open.spotify.com/album/50324LUtK4UKEpQf9InI6o) | 3:23 |
 
-Snapshot ID: `AAAAADyz/m11ZJYw39os1qFPg7zNOc4D`
+Snapshot ID: `AAAAAItLIkvgxG2Rep77RWZ7Kvzd5juK`

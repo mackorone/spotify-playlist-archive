@@ -201,6 +201,36 @@
     },
     {
       "album": {
+        "name": "Destination Paris",
+        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
+      },
+      "artists": [
+        {
+          "name": "Jacques Offenbach",
+          "url": "https://open.spotify.com/artist/4OihBPCQzR4GfbzqOY69Xm"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        },
+        {
+          "name": "Lionel Bringuier",
+          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221693,
+      "name": "Barcarolle (From Les contes d\u2019Hoffmann)",
+      "url": "https://open.spotify.com/track/4V1R4gea117Fvh48YSuZCY"
+    },
+    {
+      "album": {
         "name": "Beethoven: Complete Works for Cello & Piano",
         "url": "https://open.spotify.com/album/6blwiBm6Jzrk0ho1U1pyLx"
       },
@@ -280,7 +310,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 342626,
       "name": "Boreas",
       "url": "https://open.spotify.com/track/6O6Iob4qr6tj1AmdECgLUU"

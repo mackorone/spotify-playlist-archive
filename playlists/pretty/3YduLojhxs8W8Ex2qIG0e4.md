@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/3YduLojhxs8W8Ex2qIG0e4.md) - [plain](/playlists/plain/3YduLojhxs8W8Ex2qIG0e4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3YduLojhxs8W8Ex2qIG0e4)
 
-### [ALTERNATIVE ROCK \- THE MIX: today's best & new indie\-rock](https://open.spotify.com/playlist/3YduLojhxs8W8Ex2qIG0e4)
+### [ALTERNATIVE ROCK \- THE MIX](https://open.spotify.com/playlist/3YduLojhxs8W8Ex2qIG0e4)
 
 > the best &amp; new indie rock\. all the belowed tracks &amp; artists
 
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/3YduLojhxs8W8Ex2qIG0e4.md) - [plain]
 | 51 | [Ashes to Ashes](https://open.spotify.com/track/0tGGJikXOs4W6ZJpnJi9mP) | [Mal Fantome](https://open.spotify.com/artist/2bc1lfZRNtQD0kKa0wo49Y) | [Ashes to Ashes](https://open.spotify.com/album/2nyG2TIHPYl9XCWgEUnSge) | 3:51 |
 | 52 | [The Beginning Of The End](https://open.spotify.com/track/2fN6H4ncv3uYMG7mMEtbcA) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:08 |
 
-Snapshot ID: `AAAJh4XjeuYBXAxLbQfHZQojlP2kx2Jo`
+Snapshot ID: `AAAJiIHR+hfEyX20H/uflOjKztX2sMa5`

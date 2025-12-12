@@ -2389,6 +2389,32 @@
     },
     {
       "album": {
+        "name": "GLORIA",
+        "url": "https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "CLARA",
+          "url": "https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Lame (feat. CLARA, Tedua)",
+      "url": "https://open.spotify.com/track/5sHB0BW7azchwsEINurkIM"
+    },
+    {
+      "album": {
         "name": "\u00c8 FINITA LA PACE",
         "url": "https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo"
       },
@@ -2732,7 +2758,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 203100,
       "name": "MEZZE VERIT\u00c0 (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/0zrcO7oLJv5hF5nodDbMkw"

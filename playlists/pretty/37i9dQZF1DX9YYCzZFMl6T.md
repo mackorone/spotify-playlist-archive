@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,357 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,369 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 34 | [Lonely on Christmas](https://open.spotify.com/track/5PfYhLWG9tiLdcr4oPE9XH) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC), [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [Lonely on Christmas](https://open.spotify.com/album/3oG3oJqYCWBFeuBznwd4ft) | 3:09 |
 | 35 | [One Bright Star](https://open.spotify.com/track/1AArIMr7UDV8HJ7kS50zP1) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Christmas Grass \- The Collection](https://open.spotify.com/album/2D2t6OQacfD3XgKM2HlGOp) | 3:14 |
 | 36 | [Jingle Bell Rock](https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Rockin' Around The Christmas Tree / Jingle Bell Rock](https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN) | 2:23 |
-| 37 | [Christmas Is Coming Soon](https://open.spotify.com/track/4tJ2WB2yfkypZ9Ve15HmlI) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [I'll Stay 'Til After Christmas](https://open.spotify.com/album/0r1QQGClCxrfkcUKwsYEbu) | 3:03 |
-| 38 | [Auld Lang Syne](https://open.spotify.com/track/6YW7TixNeJDKT4e9KAy2kd) | [The Wandering Hearts](https://open.spotify.com/artist/6E8ghf5EmMGSLx5yAjpMDl) | [Auld Lang Syne](https://open.spotify.com/album/4s7sdpEGqvu2Ji7gjQ3c1Y) | 4:22 |
+| 37 | [Auld Lang Syne](https://open.spotify.com/track/6YW7TixNeJDKT4e9KAy2kd) | [The Wandering Hearts](https://open.spotify.com/artist/6E8ghf5EmMGSLx5yAjpMDl) | [Auld Lang Syne](https://open.spotify.com/album/4s7sdpEGqvu2Ji7gjQ3c1Y) | 4:22 |
+| 38 | [Christmas Is Coming Soon](https://open.spotify.com/track/4tJ2WB2yfkypZ9Ve15HmlI) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [I'll Stay 'Til After Christmas](https://open.spotify.com/album/0r1QQGClCxrfkcUKwsYEbu) | 3:03 |
 | 39 | [Gone for Christmas \(feat\. The McCrary Sisters\)](https://open.spotify.com/track/51oXLrYEtJM9nwOXPoDNJ3) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [The McCrary Sisters](https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq) | [Gone for Christmas \(feat\. The McCrary Sisters\)](https://open.spotify.com/album/4SP3WFjlFzR1cXNADBHCbZ) | 3:52 |
 | 40 | [The Christmas Song](https://open.spotify.com/track/2Ce03QU0b8QO5tQ71Tx61R) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Happier New Year / The Christmas Song](https://open.spotify.com/album/67xMVShPvIgH18AdCP6OCx) | 3:09 |
 | 41 | [Christmas Is All Around](https://open.spotify.com/track/2EIymobQ6HOrO4gcOtQpiV) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [we did a Christmas thing](https://open.spotify.com/album/2vS1HIL3bYR8HPtM5KGU5K) | 2:39 |
-| 42 | [The Christmas Song](https://open.spotify.com/track/3g0qK0NS7owXH1rKDbhRl4) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Christmas Song](https://open.spotify.com/album/0hs1LUkCfcNvSMNmTEAgxw) | 3:51 |
-| 43 | [I'll Be Home for Christmas](https://open.spotify.com/track/4w76VgK8polaFYWbdauE36) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Christmas In A Minor Key](https://open.spotify.com/album/1X6rB0TOMWSCqITdHCqh8C) | 2:10 |
+| 42 | [I'll Be Home for Christmas](https://open.spotify.com/track/4w76VgK8polaFYWbdauE36) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Christmas In A Minor Key](https://open.spotify.com/album/1X6rB0TOMWSCqITdHCqh8C) | 2:10 |
+| 43 | [The Christmas Song](https://open.spotify.com/track/3g0qK0NS7owXH1rKDbhRl4) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [The Christmas Song](https://open.spotify.com/album/0hs1LUkCfcNvSMNmTEAgxw) | 3:51 |
 | 44 | [Christmas Time's A\-Comin' \- Live](https://open.spotify.com/track/73HWCVxHIAnbjkuFDrJ67b) | [Jerry Garcia Acoustic Band](https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1) | [Christmas Time's A\-Comin'](https://open.spotify.com/album/0xPg9PcMvCBTzLFuVhAi5v) | 3:02 |
 | 45 | [Kid On Christmas](https://open.spotify.com/track/3BDlXhWvdcymPm5eMIwtXm) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Kid On Christmas](https://open.spotify.com/album/70dq1feEPWzESCayzL0DMW) | 4:05 |
 | 46 | [White Winter Hymnal](https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [White Winter Hymnal](https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI) | 2:30 |

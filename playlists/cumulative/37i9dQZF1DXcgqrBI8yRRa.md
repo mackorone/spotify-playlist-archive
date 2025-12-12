@@ -4,7 +4,7 @@
 
 > As heard on the FYP\. Cover: Moliy & Tyla
 
-973 songs - 2 day 6 hr 19 min
+974 songs - 2 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Bop Daddy](https://open.spotify.com/track/1NyHjGLDvRk7BhAqqhNH1d) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Bop Daddy](https://open.spotify.com/album/3YZPvusPiLYzToo05wbsdW) | 3:35 | 2022-03-02 | 2022-04-28 |
 | [BOSS](https://open.spotify.com/track/4F8V44j8cbjHnXjfW2HruU) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 4:04 | 2023-07-06 | 2023-11-23 |
 | [Bounce](https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Sanity](https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry) | 2:20 | 2025-10-08 |  |
+| [Bounce](https://open.spotify.com/track/5oaz3L4Ytz4UZpsH613uL8) | [Oiza x Meyi](https://open.spotify.com/artist/06HXi3s2lqAmgpEeOstUTQ) | [Bounce](https://open.spotify.com/album/0WMD6V0S9gLpqZIutA8hL1) | 2:27 | 2025-12-12 |  |
 | [Bouwéy](https://open.spotify.com/track/3sxcR3k3ZkNmvmXQB28Qnr) | [1T1](https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we), [Theomaa](https://open.spotify.com/artist/49j7GvUPWXDkBZf3uUwMe6) | [CHORD](https://open.spotify.com/album/7t1nqu0zfrVlPCxukwIxRc) | 2:37 | 2025-03-31 | 2025-06-28 |
 | [Boy's a Liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-16 | 2023-07-07 |
 | [Boys Like U](https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Boys Like U](https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX) | 2:35 | 2024-07-19 | 2024-08-30 |
@@ -616,7 +617,7 @@
 | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0) | 2:55 | 2022-04-27 | 2023-06-13 |
 | [Nkao Tempela](https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K) | [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Nkao Tempela](https://open.spotify.com/album/3D1mDVYQeABd8ZXUiyKVQE) | 6:01 | 2021-11-15 | 2023-06-13 |
 | [Nnne Na Inwi](https://open.spotify.com/track/5OyFB9O2eTVDIza4aqZRbi) | [Colbert Mukwevho](https://open.spotify.com/artist/1IXCXpFI1YzBfFRsWxdmwz) | [Mulovha Namusi Na Matshelo](https://open.spotify.com/album/4e3F8FGf8fJX6lm6znqV3u) | 3:39 | 2025-05-01 | 2025-05-17 |
-| [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 | 2025-10-08 |  |
+| [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 | 2025-10-08 | 2025-12-12 |
 | [No Fear](https://open.spotify.com/track/2H881m3JRA8lpuuwaQL6zy) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [No Fear](https://open.spotify.com/album/35uDNZkjmhAEnV3sz9A7jI) | 2:49 | 2024-04-03 | 2024-09-07 |
 | [No Less](https://open.spotify.com/track/32wGNSA3W124qObuGWW2i6) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [The Feast](https://open.spotify.com/album/0mfWmn7nIuZuJHVsaZ8An9) | 3:10 | 2025-07-04 | 2025-09-17 |
 | [No Stress](https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:22 | 2025-09-29 |  |

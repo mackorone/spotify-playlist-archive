@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Dos nossos editores, os destaques de 2025\. Vozes femininas no volume máxim\. Cover: MARO
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,673 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,681 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Ai Se os Meus Olhos Falassem](https://open.spotify.com/track/2zqEA3CKhoflLG06ENg7ao) | [Raquel Tavares](https://open.spotify.com/artist/7IaezJ3t50nl6S1NISCgxj) | [Deles por Mim e à Antiga](https://open.spotify.com/album/3NpQWgs1EelIVivxrRdKiQ) | 4:05 |
 | 50 | [Cartoon](https://open.spotify.com/track/0Ouc9NX0iWJm0ilCOwTBms) | [Da Chick](https://open.spotify.com/artist/0XtZe2I85XkMTQP2SVt0FE) | [Eu Queria](https://open.spotify.com/album/1rjrhF0W5iXyPBMUbumYFv) | 3:30 |
 
-Snapshot ID: `AAAAAONiyEzGY1PXaJv2t00bqf7EPFSD`
+Snapshot ID: `AAAAAEHZGm17d6aVBXUetDglt35bSnuK`

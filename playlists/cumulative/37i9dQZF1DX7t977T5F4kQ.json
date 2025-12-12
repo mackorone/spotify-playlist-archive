@@ -3845,6 +3845,28 @@
     },
     {
       "album": {
+        "name": "Dapper Diaries",
+        "url": "https://open.spotify.com/album/4Vz9qbPahSuPlcbbTDKnIb"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Boy",
+          "url": "https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA"
+        },
+        {
+          "name": "DJ Boat",
+          "url": "https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140917,
+      "name": "Figure Say",
+      "url": "https://open.spotify.com/track/0FHC1TCjY49MvH1BL7cpv4"
+    },
+    {
+      "album": {
         "name": "Fine Wine (feat. King Promise & Joeboy)",
         "url": "https://open.spotify.com/album/3f6FbIilED8NakLgcWAhqi"
       },

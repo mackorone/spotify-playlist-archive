@@ -631,6 +631,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "Cursi",
+        "url": "https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 198650,
+      "name": "Lara",
+      "url": "https://open.spotify.com/track/2kqoM7sKLLN5HDoCB1PNDs"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "CAJU",
         "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Cursi",
-        "url": "https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 198650,
-      "name": "Lara",
-      "url": "https://open.spotify.com/track/2kqoM7sKLLN5HDoCB1PNDs"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "AFIM",
         "url": "https://open.spotify.com/album/4gtQPnisgFKDkNEKTU74YJ"
       },
@@ -683,22 +683,6 @@
       "duration_ms": 190092,
       "name": "Transe",
       "url": "https://open.spotify.com/track/6GagMYkmbSakx79Eta9RIh"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "Cancionera",
-        "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 336005,
-      "name": "Cancionera",
-      "url": "https://open.spotify.com/track/7AP1sa56qsVnM86g10VRvv"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -723,6 +707,22 @@
       "duration_ms": 154350,
       "name": "CONJUNT\u00c3O DE TIME",
       "url": "https://open.spotify.com/track/3bvIkHpcpgw4vFXpAvrwZx"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "Cancionera",
+        "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 336005,
+      "name": "Cancionera",
+      "url": "https://open.spotify.com/track/7AP1sa56qsVnM86g10VRvv"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1219,30 +1219,18 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Saga",
-        "url": "https://open.spotify.com/album/1n2sWBGetGhjVOIC8cO1kv"
+        "name": "Ida e Volta",
+        "url": "https://open.spotify.com/album/5ucqGPaDCkfkRZMsvtSoL7"
       },
       "artists": [
         {
           "name": "Yamandu Costa",
           "url": "https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV"
-        },
-        {
-          "name": "Mart\u00edn Sued & Orquestra Assintom\u00e1tica",
-          "url": "https://open.spotify.com/artist/67x6qUvregPsZZQcXvAPbx"
-        },
-        {
-          "name": "Orquestra Assintom\u00e1tica",
-          "url": "https://open.spotify.com/artist/6aO53sBfidfLeCPuxVmnUm"
-        },
-        {
-          "name": "Martin Sued",
-          "url": "https://open.spotify.com/artist/2tHlPF8Z3LhEA2rBrrEWOI"
         }
       ],
-      "duration_ms": 841920,
-      "name": "Su\u00edte Amer\u00edndia",
-      "url": "https://open.spotify.com/track/2mhaDGmKW0SAd23QLs1emM"
+      "duration_ms": 193213,
+      "name": "Profecia",
+      "url": "https://open.spotify.com/track/6AyZYi6ONmXsBvMDcqH4vW"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -1323,18 +1311,30 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Ida e Volta",
-        "url": "https://open.spotify.com/album/5ucqGPaDCkfkRZMsvtSoL7"
+        "name": "Saga",
+        "url": "https://open.spotify.com/album/1n2sWBGetGhjVOIC8cO1kv"
       },
       "artists": [
         {
           "name": "Yamandu Costa",
           "url": "https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV"
+        },
+        {
+          "name": "Mart\u00edn Sued & Orquestra Assintom\u00e1tica",
+          "url": "https://open.spotify.com/artist/67x6qUvregPsZZQcXvAPbx"
+        },
+        {
+          "name": "Orquestra Assintom\u00e1tica",
+          "url": "https://open.spotify.com/artist/6aO53sBfidfLeCPuxVmnUm"
+        },
+        {
+          "name": "Martin Sued",
+          "url": "https://open.spotify.com/artist/2tHlPF8Z3LhEA2rBrrEWOI"
         }
       ],
-      "duration_ms": 193213,
-      "name": "Profecia",
-      "url": "https://open.spotify.com/track/6AyZYi6ONmXsBvMDcqH4vW"
+      "duration_ms": 841920,
+      "name": "Su\u00edte Amer\u00edndia",
+      "url": "https://open.spotify.com/track/2mhaDGmKW0SAd23QLs1emM"
     },
     {
       "added_at": "2025-09-17 15:00:09",

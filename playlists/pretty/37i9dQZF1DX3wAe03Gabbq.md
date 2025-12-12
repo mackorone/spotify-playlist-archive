@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wAe03Gabbq.md) - [plain]
 
 > Unsere Editors’ Picks: die besten Rock\-Songs des Jahres\. Cover: Poppy, Amy Lee, Courtney LaPlante
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,575 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,596 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wAe03Gabbq.md) - [plain]
 | 49 | [Rainn](https://open.spotify.com/track/2uPzynt7lhaZDQVkiiWSSv) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi), [The Oklahoma Kid](https://open.spotify.com/artist/02Y9YvfIFsX1nG4qPuBbW6) | [Rainn](https://open.spotify.com/album/1o9wMNOHqB33KakEuq7r4r) | 2:50 |
 | 50 | [Treehouse](https://open.spotify.com/track/3vFGACGgLBnbpLoExxUP2Q) | [Wait of the World](https://open.spotify.com/artist/5RRkJbIFsWnUtsbVuRf7Si) | [Treehouse](https://open.spotify.com/album/1jgnH8FeGJHmxHgMVJgcA7) | 2:51 |
 
-Snapshot ID: `AAAAAAlZCiABxpl8p5M3Zg/Z7noEHlbb`
+Snapshot ID: `AAAAABgu4H8KtmDSjPzhFyipM8ctLgEO`

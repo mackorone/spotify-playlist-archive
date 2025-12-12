@@ -643,6 +643,24 @@
     },
     {
       "album": {
+        "name": "Continue",
+        "url": "https://open.spotify.com/album/7sQBNjrJQQSa22nTKHyPA1"
+      },
+      "artists": [
+        {
+          "name": "One-half",
+          "url": "https://open.spotify.com/artist/4OZyhvuFhDmRwZEiDt9EkO"
+        }
+      ],
+      "date_added": "2025-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232066,
+      "name": "Continue",
+      "url": "https://open.spotify.com/track/7sd6xFGqtVJEkPDfCxudSa"
+    },
+    {
+      "album": {
         "name": "Chips & Chill",
         "url": "https://open.spotify.com/album/0E1rfCBX4C7dbg6ozJFJwE"
       },
@@ -2514,7 +2532,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 165937,
       "name": "Pink scent",
       "url": "https://open.spotify.com/track/7hkGFEsJ7ww0CV75tZ17dJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 
 > The best of Canadian R&B this year, handpicked by Spotify Canada editors\. Cover: Avenoir
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,028 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,038 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 | 49 | [So What](https://open.spotify.com/track/4wWbF4x2EOt0GZpcjwHPoa) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [So What](https://open.spotify.com/album/4so6qANYFWEpIOlkpyzg4l) | 3:15 |
 | 50 | [AMPM](https://open.spotify.com/track/4muJmX05wAtOwHFZyKr52r) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [AMPM](https://open.spotify.com/album/36QJpbcTU7gQEHahNOsWNp) | 3:15 |
 
-Snapshot ID: `AAAAACQRysBJHRPFP3xXktPBbPYSpD0z`
+Snapshot ID: `AAAAAKh0F7dEhsoOEgRl7yRXVdX7Z5r1`

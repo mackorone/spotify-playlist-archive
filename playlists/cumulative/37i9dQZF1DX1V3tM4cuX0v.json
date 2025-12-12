@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 223398,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
@@ -408,7 +408,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 209300,
       "name": "Earth (Dradada)",
       "url": "https://open.spotify.com/track/3waCGj1YKEYeaVs07lbWtX"
@@ -2008,7 +2008,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 163224,
       "name": "\u041a\u0443\u043b\u044c\u0431\u0430\u0431\u0438",
       "url": "https://open.spotify.com/track/7CuxOoQMEaiSXIGwJJkQHW"
@@ -2466,7 +2466,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-31",
+      "date_removed": null,
       "duration_ms": 166500,
       "name": "\u041f\u043e\u0432\u0456\u043b\u044c\u043d\u043e",
       "url": "https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur"
@@ -2655,6 +2655,24 @@
     },
     {
       "album": {
+        "name": "\u0421\u0435\u0440\u0435\u0434 \u0437\u0438\u043c\u0438",
+        "url": "https://open.spotify.com/album/6u3t6mQmI5KTKCB7Jxckt8"
+      },
+      "artists": [
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215555,
+      "name": "\u0421\u0435\u0440\u0435\u0434 \u0437\u0438\u043c\u0438",
+      "url": "https://open.spotify.com/track/68LUQ0a4LOFKdopV19hQfT"
+    },
+    {
+      "album": {
         "name": "\u0421\u0438\u043b\u0443\u0435\u0442\u0438",
         "url": "https://open.spotify.com/album/40R8mdc7vde5T0j3HxlAln"
       },
@@ -2772,6 +2790,24 @@
       "duration_ms": 183657,
       "name": "\u0421\u0442\u0435\u0440\u0432\u0430",
       "url": "https://open.spotify.com/track/0EFwdcg2SJjINoW2wPLANa"
+    },
+    {
+      "album": {
+        "name": "\u0427\u044e\u0437\u043c\u044e\u0437",
+        "url": "https://open.spotify.com/album/51JgUGWfAX3Ny4h7P1YIwx"
+      },
+      "artists": [
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190124,
+      "name": "\u0422\u0430\u043a\u0443 \u044f\u043a \u0454",
+      "url": "https://open.spotify.com/track/64vbnvKJMPgLHBkvLjKQao"
     },
     {
       "album": {

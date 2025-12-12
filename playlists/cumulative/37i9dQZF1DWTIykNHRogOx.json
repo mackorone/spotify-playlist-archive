@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Heroe",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Solann & Yoa",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -844,7 +844,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 162894,
       "name": "Des \u00e9clats dans les nuages",
       "url": "https://open.spotify.com/track/4WLK66gk3Tg1HjN5wHTJIb"
@@ -1739,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "J\u2019veux du cuir",
+        "url": "https://open.spotify.com/album/3qWWwn60K9WIFBILpDXHxb"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164266,
+      "name": "J\u2019veux du cuir",
+      "url": "https://open.spotify.com/track/40pW3lzalVawpg8oTL1uv8"
+    },
+    {
+      "album": {
         "name": "L'AVANC\u00c9E",
         "url": "https://open.spotify.com/album/3IAs8brlwGchun36xwWIgU"
       },
@@ -1772,6 +1790,24 @@
       "duration_ms": 155000,
       "name": "L'homme id\u00e9al",
       "url": "https://open.spotify.com/track/0soh7xZDQFQHOjXmBNWhUJ"
+    },
+    {
+      "album": {
+        "name": "L'homme qui mord",
+        "url": "https://open.spotify.com/album/2RlS6h4UaY9QZqe5Rbg8hP"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e9mentine",
+          "url": "https://open.spotify.com/artist/6A03sWpZmAsYFVV5f6IGVQ"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185248,
+      "name": "L'homme qui mord",
+      "url": "https://open.spotify.com/track/1THYJteZ5aM1nkLwI5XEV9"
     },
     {
       "album": {
@@ -2484,7 +2520,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 215546,
       "name": "Le retour des beaux jours",
       "url": "https://open.spotify.com/track/7yFFmbTlVZZHW33AdcMBKP"
@@ -2752,6 +2788,24 @@
       "duration_ms": 228973,
       "name": "Les beaux jours",
       "url": "https://open.spotify.com/track/5Px41y2EdKE7Hv8cDWVCop"
+    },
+    {
+      "album": {
+        "name": "Les Chemins de neige",
+        "url": "https://open.spotify.com/album/4W9NHVhVpy9uM5Tk0nelHg"
+      },
+      "artists": [
+        {
+          "name": "Axel Bauer",
+          "url": "https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320720,
+      "name": "Les Chemins de neige",
+      "url": "https://open.spotify.com/track/6yfFdEeQwEq6r9qtJfa29G"
     },
     {
       "album": {
@@ -4690,7 +4744,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 194586,
       "name": "\u00c7a va",
       "url": "https://open.spotify.com/track/5bQf0GkvmAvsVIq9iocbn9"

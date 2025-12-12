@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9xImy3px1J2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9xImy3px1J2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9xImy3px1J2)
 
-### [Party 2025](https://open.spotify.com/playlist/37i9dQZF1DX9xImy3px1J2)
+### [Party 2026](https://open.spotify.com/playlist/37i9dQZF1DX9xImy3px1J2)
 
 > L'unica party playlist di cui hai bisogno, sempre aggiornata 🍾 Top hit italiane e internazionali!
 

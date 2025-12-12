@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 830297,
+  "num_followers": 830318,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Once Again",
-        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 235870,
-      "name": "Save Room",
-      "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Straight from the Heart (Remastered)",
         "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 319893,
       "name": "Remind Me - Remastered",
       "url": "https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 235870,
+      "name": "Save Room",
+      "url": "https://open.spotify.com/track/3sTc75CCyIw4FPs6cXkOe7"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "You're so Fine",
-        "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
-      },
-      "artists": [
-        {
-          "name": "Papa Bear & His Cubs",
-          "url": "https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "You're so Fine",
-      "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Time to Melt",
         "url": "https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 258026,
       "name": "Dream Free",
       "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "You're so Fine",
+        "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
+      },
+      "artists": [
+        {
+          "name": "Papa Bear & His Cubs",
+          "url": "https://open.spotify.com/artist/6Q9ErFPYnMBBjqrtxp55Gv"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "You're so Fine",
+      "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Miel de Montagne",
-        "url": "https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO"
-      },
-      "artists": [
-        {
-          "name": "Miel De Montagne",
-          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
-        }
-      ],
-      "duration_ms": 189776,
-      "name": "Permis b b\u00e9b\u00e9",
-      "url": "https://open.spotify.com/track/1U3UL6FsYc2mcAQwWyYrn2"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Wanted Bossa Nova: From Diggers to Music Lovers",
         "url": "https://open.spotify.com/album/78QZeFmsqxeoh5BBDfmYRs"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 156537,
       "name": "Tenha F\u00e9, Pois Amanh\u00e3 um Lindo Dia Vai Nascer",
       "url": "https://open.spotify.com/track/6gq1nXRbVZYcOxtG20uC2t"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Miel de Montagne",
+        "url": "https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO"
+      },
+      "artists": [
+        {
+          "name": "Miel De Montagne",
+          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
+        }
+      ],
+      "duration_ms": 189776,
+      "name": "Permis b b\u00e9b\u00e9",
+      "url": "https://open.spotify.com/track/1U3UL6FsYc2mcAQwWyYrn2"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Talk About It (B-Side)",
-        "url": "https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 132096,
-      "name": "Talk About It",
-      "url": "https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Wiggle Room",
         "url": "https://open.spotify.com/album/1r9A5sIVm8cLrU9oSH5jsW"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 147893,
       "name": "Handsome",
       "url": "https://open.spotify.com/track/4kJG95g177WS0WMq7yFqVX"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Talk About It (B-Side)",
+        "url": "https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 132096,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Second Nature",
-        "url": "https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 190964,
-      "name": "Next to Normal",
-      "url": "https://open.spotify.com/track/32hyjj6HoeylRLJDEwLRPM"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Always on My Mind (Acoustic)",
         "url": "https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 214820,
       "name": "Always on My Mind (Acoustic)",
       "url": "https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Second Nature",
+        "url": "https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 190964,
+      "name": "Next to Normal",
+      "url": "https://open.spotify.com/track/32hyjj6HoeylRLJDEwLRPM"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
-      },
-      "artists": [
-        {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
-        }
-      ],
-      "duration_ms": 189536,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "I Just Want To Talk To You",
         "url": "https://open.spotify.com/album/68DJRWdkFtRIMxYURX7zDX"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
       },
       "artists": [
         {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
         }
       ],
-      "duration_ms": 275746,
-      "name": "Canta",
-      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
+      "duration_ms": 189536,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1451,6 +1435,38 @@
       "duration_ms": 268179,
       "name": "Off to the Side",
       "url": "https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
+      },
+      "artists": [
+        {
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+        }
+      ],
+      "duration_ms": 275746,
+      "name": "Canta",
+      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Tincture",
+        "url": "https://open.spotify.com/album/4qQzFct5Cd4QOyTfSjLBP6"
+      },
+      "artists": [
+        {
+          "name": "Perfect Binding",
+          "url": "https://open.spotify.com/artist/7guexKHSspsfD9QBco76EY"
+        }
+      ],
+      "duration_ms": 211279,
+      "name": "Tincture",
+      "url": "https://open.spotify.com/track/4nl667qTGv4btKjjCssNuc"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Tincture",
-        "url": "https://open.spotify.com/album/4qQzFct5Cd4QOyTfSjLBP6"
+        "name": "Choose Your Own Adventure",
+        "url": "https://open.spotify.com/album/2BPkdWCoILy8WV5nHomCvz"
       },
       "artists": [
         {
-          "name": "Perfect Binding",
-          "url": "https://open.spotify.com/artist/7guexKHSspsfD9QBco76EY"
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
         }
       ],
-      "duration_ms": 211279,
-      "name": "Tincture",
-      "url": "https://open.spotify.com/track/4nl667qTGv4btKjjCssNuc"
+      "duration_ms": 253466,
+      "name": "The Conservation of Energy",
+      "url": "https://open.spotify.com/track/301Xkz1BXL7ve3gl9tRWRM"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1503,22 +1519,6 @@
       "duration_ms": 239093,
       "name": "Red Wine",
       "url": "https://open.spotify.com/track/5SHQrtKT1jddKhh8HuGRx8"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
-        "name": "Choose Your Own Adventure",
-        "url": "https://open.spotify.com/album/2BPkdWCoILy8WV5nHomCvz"
-      },
-      "artists": [
-        {
-          "name": "Vanishing Twin",
-          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
-        }
-      ],
-      "duration_ms": 253466,
-      "name": "The Conservation of Energy",
-      "url": "https://open.spotify.com/track/301Xkz1BXL7ve3gl9tRWRM"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Los Belkings (Ayer y Hoy)",
-        "url": "https://open.spotify.com/album/3vvNY1JAizDCAnMnxUTZie"
-      },
-      "artists": [
-        {
-          "name": "Los Belkings",
-          "url": "https://open.spotify.com/artist/6bI3v3BkqFwEbXQfB081Dn"
-        }
-      ],
-      "duration_ms": 208213,
-      "name": "Sabor Dulce",
-      "url": "https://open.spotify.com/track/2Xlx1ATkGYjYjmNn0w7O59"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "Boonie Town",
         "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 259795,
       "name": "Highschool Steady",
       "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Los Belkings (Ayer y Hoy)",
+        "url": "https://open.spotify.com/album/3vvNY1JAizDCAnMnxUTZie"
+      },
+      "artists": [
+        {
+          "name": "Los Belkings",
+          "url": "https://open.spotify.com/artist/6bI3v3BkqFwEbXQfB081Dn"
+        }
+      ],
+      "duration_ms": 208213,
+      "name": "Sabor Dulce",
+      "url": "https://open.spotify.com/track/2Xlx1ATkGYjYjmNn0w7O59"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Stunning & Atrocious",
-        "url": "https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH"
-      },
-      "artists": [
-        {
-          "name": "FLEECE",
-          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
-        }
-      ],
-      "duration_ms": 217047,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0puVEUxjGQxGRDk9d6FQpB"
-    },
-    {
-      "added_at": "2025-10-24 22:16:10",
-      "album": {
         "name": "S.O.L. EP",
         "url": "https://open.spotify.com/album/2dSeTSbKTzauej8icTIzdk"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 349026,
       "name": "S.O.L.",
       "url": "https://open.spotify.com/track/2FkLjsFnK6H9iuoXNLGfNy"
+    },
+    {
+      "added_at": "2025-10-24 22:16:10",
+      "album": {
+        "name": "Stunning & Atrocious",
+        "url": "https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH"
+      },
+      "artists": [
+        {
+          "name": "FLEECE",
+          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
+        }
+      ],
+      "duration_ms": 217047,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0puVEUxjGQxGRDk9d6FQpB"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1795,18 +1795,18 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Damn It All",
-        "url": "https://open.spotify.com/album/187FGJdmzkRYumZ8iasaVd"
+        "name": "The Midst of Things",
+        "url": "https://open.spotify.com/album/2ayfyjguop22nTbxg5puSZ"
       },
       "artists": [
         {
-          "name": "Rob Galbraith",
-          "url": "https://open.spotify.com/artist/4r5lB44cSZOqpgx7i9iHUc"
+          "name": "MMYYKK",
+          "url": "https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT"
         }
       ],
-      "duration_ms": 227600,
-      "name": "Tell Me With Your Eyes (Just Be You)",
-      "url": "https://open.spotify.com/track/0kO8fvAqoXIOLMybjJY108"
+      "duration_ms": 206344,
+      "name": "U Got Me",
+      "url": "https://open.spotify.com/track/7L4NuySQbbajDBD8ozjn04"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1831,18 +1831,18 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "The Midst of Things",
-        "url": "https://open.spotify.com/album/2ayfyjguop22nTbxg5puSZ"
+        "name": "Damn It All",
+        "url": "https://open.spotify.com/album/187FGJdmzkRYumZ8iasaVd"
       },
       "artists": [
         {
-          "name": "MMYYKK",
-          "url": "https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT"
+          "name": "Rob Galbraith",
+          "url": "https://open.spotify.com/artist/4r5lB44cSZOqpgx7i9iHUc"
         }
       ],
-      "duration_ms": 206344,
-      "name": "U Got Me",
-      "url": "https://open.spotify.com/track/7L4NuySQbbajDBD8ozjn04"
+      "duration_ms": 227600,
+      "name": "Tell Me With Your Eyes (Just Be You)",
+      "url": "https://open.spotify.com/track/0kO8fvAqoXIOLMybjJY108"
     },
     {
       "added_at": "2025-10-24 22:16:10",
@@ -1983,22 +1983,18 @@
     {
       "added_at": "2025-10-24 22:16:10",
       "album": {
-        "name": "Strange World",
-        "url": "https://open.spotify.com/album/61C4duC2M6Nav2cg6QkIzv"
+        "name": "Light Speaks the Quilt",
+        "url": "https://open.spotify.com/album/3maM5jsIfu1ALqYLr0Viov"
       },
       "artists": [
         {
-          "name": "St. Panther",
-          "url": "https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0"
-        },
-        {
-          "name": "Rae Khalil",
-          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
+          "name": "Jonny Kosmo",
+          "url": "https://open.spotify.com/artist/6VyZH1zto2r7gkSYsUUBEx"
         }
       ],
-      "duration_ms": 187185,
-      "name": "Strange World",
-      "url": "https://open.spotify.com/track/3PoMsuOCkDTFinad2PBlEh"
+      "duration_ms": 176032,
+      "name": "Rolodex",
+      "url": "https://open.spotify.com/track/2qTh3LFhX5hlJ47i2bTvHK"
     }
   ],
   "unique_name": "Feel Good Dinner",

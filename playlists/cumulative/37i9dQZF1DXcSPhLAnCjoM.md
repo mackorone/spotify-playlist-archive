@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "L'horizon" de Pierre Garnier est le Grand Hit de la semaine
+> "Ailleurs" d'Orelsan est le Grand Hit de la semaine
 
-300 songs - 15 hr 25 min
+302 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Ensemble \- Radio Edit](https://open.spotify.com/track/73G5Qtfwq7lSFR9MlpQDlj) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble \(Radio Edit\)](https://open.spotify.com/album/0KAc9578FWtoMFmv78oZKu) | 2:27 | 2024-07-11 | 2025-02-21 |
 | [Et si c'était nous deux ?](https://open.spotify.com/track/5WoHKaZ9NNIPGjQ5B62u5V) | [Molière l'opéra urbain](https://open.spotify.com/artist/7eFL3K5giCsAHXus03F7Cd), [Shaïna Pronzola](https://open.spotify.com/artist/245ftfXZvHuYLnkiZwKxav), [Vike](https://open.spotify.com/artist/7Gvpw62202IqvJ3uyruHWI) | [Molière, le spectacle musical](https://open.spotify.com/album/6ISb3wobXqDACYpA9QARal) | 3:05 | 2024-02-29 | 2024-04-19 |
 | [Et un jour une femme](https://open.spotify.com/track/6vB93dZmNfYrNuk2vsmb7f) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9), [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [Et un jour une femme](https://open.spotify.com/album/1Kc8wvRqOBiwtBYpRu2leY) | 5:18 | 2023-09-28 | 2024-02-02 |
+| [Etincelles](https://open.spotify.com/track/3GzRPVyhL4nsmd6mtrrV7b) | [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D), [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Etincelles](https://open.spotify.com/album/1oQk2YkoJAS4RFEr1ToRKB) | 3:03 | 2025-12-11 |  |
 | [Facile à danser](https://open.spotify.com/track/2LCUvL8ZJ49z6uP1cGXSFi) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Facile à danser](https://open.spotify.com/album/1LXf0FJdk7greyhOvUBDBf) | 3:13 | 2024-05-09 | 2024-09-06 |
 | [Falbala](https://open.spotify.com/track/3zDHDOpx6NhjLamk3F4kPP) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Falbala](https://open.spotify.com/album/2EA2AKC2rCIsHZGhgcJyeL) | 2:28 | 2025-08-21 | 2025-11-21 |
 | [Faut que tu m'aimes](https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Faut que tu m'aimes](https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7) | 3:12 | 2024-03-28 | 2025-04-04 |
@@ -119,7 +120,7 @@
 | [Imagine](https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Imagine](https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6) | 2:45 | 2024-05-16 | 2024-10-25 |
 | [Immortel](https://open.spotify.com/track/18yOklwm2I8X5VJ0wGVeQP) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf) | [Moi c'est Jeck](https://open.spotify.com/album/5IA4BoY6B9rGNTNMAJnXZj) | 2:56 | 2024-10-03 | 2024-12-06 |
 | [Inoubliable \(feat\. RR\)](https://open.spotify.com/track/6Vso65vZMkqEdzv8zXgQR6) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf), [RR](https://open.spotify.com/artist/2i9asRz56fjYM4tUlm4PnQ) | [Eclect!que \(Deluxe Edition\)](https://open.spotify.com/album/4RCWRu23stF0sWEf4nwtfl) | 3:13 | 2024-09-12 | 2024-10-18 |
-| [J'avoue](https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [J'avoue](https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq) | 3:09 | 2025-04-24 |  |
+| [J'avoue](https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [J'avoue](https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq) | 3:09 | 2025-04-24 | 2025-12-12 |
 | [J'me barre](https://open.spotify.com/track/2ZkWEkVDL73dSNAv21aa0B) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [J'me barre](https://open.spotify.com/album/73Rk8FmhOaBIza5bOYnTmT) | 2:59 | 2023-10-19 | 2023-12-09 |
 | [J'étais pas fait pour le bonheur](https://open.spotify.com/track/35A7vKNxPv68FrRg6PkFuS) | [Pascal Obispo](https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS), [Giordana Angi](https://open.spotify.com/artist/0ZhqSTaEEWN6USw0E30pws) | [J'étais pas fait pour le bonheur](https://open.spotify.com/album/6iuVrMQpc9O6pFIWS9k5d1) | 3:01 | 2023-09-28 | 2023-11-18 |
 | [Jalousie](https://open.spotify.com/track/2hgCNYw8TW4w073ByEBnGW) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Jalousie](https://open.spotify.com/album/66edblwvSbM907hRkXBXxO) | 2:50 | 2024-12-12 | 2025-01-10 |
@@ -176,7 +177,7 @@
 | [Le Sel](https://open.spotify.com/track/43rdMqCH841Sm8g134ml7n) | [Olivia Ruiz](https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj) | [Le Sel](https://open.spotify.com/album/5X7DBWG3PvhoOzpXaT3YBQ) | 3:26 | 2024-03-07 | 2024-05-10 |
 | [Le stade](https://open.spotify.com/track/4zIWUQcXL5olW32MRz5WOq) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Le stade](https://open.spotify.com/album/6SWRSgHDlJtI5RnzTQewpu) | 2:23 | 2025-01-09 | 2025-05-02 |
 | [Le tour du monde](https://open.spotify.com/track/4zQnaIcM2gWNnEnrf0PPKd) | [Margot Abate](https://open.spotify.com/artist/0ouq6n8iijSIkvrMyW2lNZ) | [Le tour du monde](https://open.spotify.com/album/6nWL5kBOrcd6T6PbqDiiim) | 2:30 | 2024-06-06 | 2024-09-13 |
-| [Lendemain de fête](https://open.spotify.com/track/5i3e6gjbom2iWqspwmCGbA) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Lendemain de fête](https://open.spotify.com/album/1BlXnz1DGAT1luAvYhTMtG) | 3:03 | 2025-10-23 |  |
+| [Lendemain de fête](https://open.spotify.com/track/5i3e6gjbom2iWqspwmCGbA) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Lendemain de fête](https://open.spotify.com/album/1BlXnz1DGAT1luAvYhTMtG) | 3:03 | 2025-10-23 | 2025-12-12 |
 | [Les bonbons](https://open.spotify.com/track/2KQRtOnkcFpPM7f6P761Oe) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Les bonbons](https://open.spotify.com/album/6NAzRGJOPpOUs24BLpzdsI) | 2:51 | 2024-07-25 | 2024-10-04 |
 | [Les bougies](https://open.spotify.com/track/4VqILOLkQsyp2ZLvTQpouZ) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [C'est drôle la vie](https://open.spotify.com/album/2MT10PyQwdm84H37J2nyrD) | 3:38 | 2024-01-25 | 2024-03-08 |
 | [Les choses qu'on fait](https://open.spotify.com/track/0Phj7ixjnkGM8aahaEgrTC) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Les choses qu'on fait](https://open.spotify.com/album/5O3zWrtW5Gaj9yIvwpq9pc) | 3:16 | 2023-09-28 | 2023-11-11 |
@@ -299,6 +300,7 @@
 | [urgences 911](https://open.spotify.com/track/6oPdINOiUOUMn6InuqFrXa) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 2:57 | 2024-05-23 | 2024-07-19 |
 | [Vice Versa](https://open.spotify.com/track/4QkVu4w7ZBVBrojCfnt98F) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Vice Versa](https://open.spotify.com/album/2ZfAmFvyu1Gi03AscYCdUH) | 2:46 | 2025-01-16 | 2025-04-25 |
 | [Viens on essaie](https://open.spotify.com/track/0ZaqWNMYcXW8ycRfVkgawy) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Viens on essaie](https://open.spotify.com/album/7LLA3dF1F3G4oj1XLBSGjY) | 2:49 | 2025-07-24 |  |
+| [Virile](https://open.spotify.com/track/0y2YZSSY6BtzP6L489fMrb) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Millénium](https://open.spotify.com/album/2ouSVI0YALXE1GjD1pHoot) | 2:38 | 2025-12-11 |  |
 | [Vivre](https://open.spotify.com/track/7lnokq12Q0MzqcrA6GN62q) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Vivre](https://open.spotify.com/album/6jDC7d54esC2NZaTtvEOcR) | 2:26 | 2023-09-28 | 2024-02-16 |
 | [Vivre](https://open.spotify.com/track/2Vtq22cAI0Q6VuzYYsvLHV) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Vivre](https://open.spotify.com/album/3UsNSZZNOMGY1tav0ncHzW) | 3:56 | 2024-01-04 | 2024-01-26 |
 | [Voulez\-Vous](https://open.spotify.com/track/513s60DKMknigRNGVzSORD) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [Voulez\-Vous](https://open.spotify.com/album/6xtTdZetVGXbfCcWmItlIn) | 2:54 | 2025-11-13 |  |

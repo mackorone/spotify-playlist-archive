@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 103816,
+  "num_followers": 103892,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAAB213s0muXSm4KjMpbAt9Wy",
+  "snapshot_id": "aTi4AAAAAAA1Bm1iOvTeMirOUGk29Bc+",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out of Oklahoma (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Out of Oklahoma (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bell Bottom Country",
         "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 208546,
       "name": "Weak-End",
       "url": "https://open.spotify.com/track/56lYNZIKYuWDjYkfvJao2e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Out of Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Out of Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q"
     },
     {
       "added_at": null,

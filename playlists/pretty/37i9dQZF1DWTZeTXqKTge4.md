@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du rap québécois en 2025\. Photo: kinji00
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,028 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,032 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 49 | [Gars Chill](https://open.spotify.com/track/6BmvUi6tG14h7ISkIJ2WHK) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [Gars Chill](https://open.spotify.com/album/2MORRW3akZpJnBSQfhJgA7) | 2:15 |
 | 50 | [LÉCHAGE](https://open.spotify.com/track/7mPBYHkPipRkQBz2AMcP0B) | [éther](https://open.spotify.com/artist/4XT1Jfd6Hel58qViPrldXY) | [LÉCHAGE](https://open.spotify.com/album/3CzW00o7qXZ2rhoWyrWFJz) | 1:49 |
 
-Snapshot ID: `AAAAAFtVKrfyCI5Fo/um4mVUREnI8xIO`
+Snapshot ID: `AAAAAFYfSKgXISqWR1oHLinCZatF4lfS`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 
 > The perfect soundtrack to your morning yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,963 likes - 203 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,921 likes - 203 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,4 +212,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 | 202 | [Inner Peace](https://open.spotify.com/track/2P9tPGO2aMEo0RnU0mYEqE) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Inner Peace](https://open.spotify.com/album/43BEiL7WwXVnZxt844seVM) | 2:26 |
 | 203 | [Vali](https://open.spotify.com/track/7ej2oFAVbcTyuZaqzESR2N) | [SKEN](https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv) | [Vali](https://open.spotify.com/album/1GHHa5h5nuBaoTgEcuHrc5) | 3:06 |
 
-Snapshot ID: `AAAAAJi+8ue0KfPb9qkcWH7nZe2wiMPQ`
+Snapshot ID: `AAAAAFfT9iF2OtgcHi6BX8lTKcdTrtFx`

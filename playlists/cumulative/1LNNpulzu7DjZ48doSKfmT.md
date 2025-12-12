@@ -4,7 +4,7 @@
 
 > beautiful music that you can put on repeat
 
-446 songs - 23 hr 11 min
+448 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [I Know Your Tough](https://open.spotify.com/track/7qcj3j6zc3hTd2L7ybZheE) | [Blake Cunningham](https://open.spotify.com/artist/7lDqMXbyfDk8fPXZAWgZDS) | [I Know Your Tough](https://open.spotify.com/album/1fmkERL6B4efYCutG0Y4H7) | 4:24 | 2025-11-02 |  |
 | [i need that shit too](https://open.spotify.com/track/2yvwBVA8TJoYmxnEHVyWbK) | [3fone](https://open.spotify.com/artist/2ZSEv3mdydNLBxrHP5nCbi) | [i need that shit too](https://open.spotify.com/album/3bWydAhu0lIAc0A6e6JW1P) | 1:33 | 2025-11-14 |  |
 | [I Need U](https://open.spotify.com/track/6IGVNdxmaPOrBNKb5dIXxq) | [Caitlin Min Fa](https://open.spotify.com/artist/565069ngyR6iaT7IWzIwyr) | [I Need U](https://open.spotify.com/album/3Zny51ZL58Sz0Z60OfHeA3) | 3:29 | 2025-10-20 |  |
+| [i'm a victim](https://open.spotify.com/track/0IBTYhzUiGE1IISTOcdXGr) | [SOLO THIEF](https://open.spotify.com/artist/67hrGusXpfFjHwmAtNbRy2) | [how to rob the supermarket and sell your soul to the devil at the same time](https://open.spotify.com/album/0jX9TJiGOnGn6pHfxwFKJZ) | 3:17 | 2025-12-11 |  |
 | [I'm Okay](https://open.spotify.com/track/36ZJxpctR1YZUkrdZlHNV9) | [Versifyer](https://open.spotify.com/artist/5ZDvjyF3mOHhZtQenm9Pqp) | [I'm Okay](https://open.spotify.com/album/1E5QXjwSh6WzOybNC2e3Fg) | 3:52 | 2025-09-25 |  |
 | [If You Really Love Me](https://open.spotify.com/track/0bSQvI823D5QmWiZmnhLtp) | [Lovescandal](https://open.spotify.com/artist/1ApaIApY2p00kH2SaBQjYN) | [So Sweet so Deadly Hits](https://open.spotify.com/album/2NyQKE8W62vfbpfJq4R5Ny) | 4:00 | 2025-10-09 |  |
 | [Il Più Stanco](https://open.spotify.com/track/36wbNZ0h0IoGy2osuVNeWI) | [Human Tapes](https://open.spotify.com/artist/2kG51SQfaNCg2oINIrCgcE) | [Il Più Stanco](https://open.spotify.com/album/3TpcVB7Q6C9Um3KzaICNNB) | 2:33 | 2025-10-19 |  |
@@ -362,6 +363,7 @@
 | [Sweet](https://open.spotify.com/track/5vAGu3ICXxbTEK390kM0mQ) | [Larochelle](https://open.spotify.com/artist/16vZNpQon0yfpec96FdUVY) | [Deux II](https://open.spotify.com/album/3C9ScLyZdjp6OjWRMrix2R) | 3:36 | 2025-11-14 |  |
 | [SWEET NIGHTMARE](https://open.spotify.com/track/0ln2EyNXSX3QVnn0GEUqrD) | [NAMUT](https://open.spotify.com/artist/1kTGu1IKWqHRaCxx3RpzyH), [JULYX](https://open.spotify.com/artist/1uXd5rYQ8uoTxNEfwuvZX0) | [SWEET NIGHTMARE](https://open.spotify.com/album/2EXnFLTtlpycQAlvRh7ytz) | 2:53 | 2025-11-26 |  |
 | [SwingTown](https://open.spotify.com/track/4zOmuNgdFpZU17qzCuJjRC) | [Steve Larkman](https://open.spotify.com/artist/451tRc86Zp28twMLVHv22v) | [SwingTown](https://open.spotify.com/album/66QXvoXLmRBnaKyuzYgtPp) | 2:29 | 2025-11-28 |  |
+| [Take It Easy](https://open.spotify.com/track/0l1s4gJZvUSnKRh84xI8UN) | [Mckai](https://open.spotify.com/artist/4emtw8l93u2ub1FdLdnm5X) | [Take It Easy](https://open.spotify.com/album/4Rxd9wfk4KYycakiVTXCPC) | 3:30 | 2025-12-11 |  |
 | [Take the Throne \(Feat\. Felicia Catharina\)](https://open.spotify.com/track/6Kcd25CmbGI6uzByZTeIBY) | [Irfad](https://open.spotify.com/artist/2bdTySHQu8orEocLZwMy89), [Felicia Catharina](https://open.spotify.com/artist/5m1dG8dxCoesHy9PC4nkkO) | [Take the Throne \(Feat\. Felicia Catharina\)](https://open.spotify.com/album/3TA3wnACTCtuJvVvQC9nNG) | 3:03 | 2025-11-06 |  |
 | [TANZEN](https://open.spotify.com/track/4p5TQ7TeOHqI6SraxIf8OA) | [Ramona Nerra](https://open.spotify.com/artist/6vEzUYOH1pUicoLksaR8JH) | [TANZEN](https://open.spotify.com/album/4jd6LKkIntNG5iCuUfDBfa) | 2:31 | 2025-10-06 |  |
 | [Telegram Chat](https://open.spotify.com/track/20euYX7Uf7JkozfDKmN9OJ) | [Krizbo](https://open.spotify.com/artist/6kIxxuflj0QyD89t9v4SSN) | [Telegram Chat](https://open.spotify.com/album/6lPTufKRqalFjyjPT5XTJG) | 3:05 | 2025-10-23 |  |

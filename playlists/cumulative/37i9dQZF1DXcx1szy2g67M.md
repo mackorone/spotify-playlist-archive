@@ -4,7 +4,7 @@
 
 > Dé playlist voor het najaar van 2025! 🌦️☔️
 
-811 songs - 1 day 16 hr 57 min
+812 songs - 1 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,7 +581,7 @@
 | [Pum Pum](https://open.spotify.com/track/0l8c2GCnuNc0mDWYd8J2aX) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Pum Pum](https://open.spotify.com/album/46Br00VcUWM7IRuxE3UjcB) | 2:12 | 2025-08-06 | 2025-12-05 |
 | [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 | 2024-03-28 | 2024-08-02 |
 | [Push The Feeling On](https://open.spotify.com/track/71DWKk9tztZ26PXw8vLx9K) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Push The Feeling On](https://open.spotify.com/album/6LXVOle0tNclBMZ4LWW5ki) | 2:17 | 2025-09-20 |  |
-| [QUE CE SOIT CLAIR](https://open.spotify.com/track/6eDKyG6jvCXaTyTdFOh9wA) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [QUE CE SOIT CLAIR](https://open.spotify.com/album/3KPXmdrGHVCiVJNp1Q5jPx) | 2:56 | 2025-09-20 |  |
+| [QUE CE SOIT CLAIR](https://open.spotify.com/track/6eDKyG6jvCXaTyTdFOh9wA) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [QUE CE SOIT CLAIR](https://open.spotify.com/album/3KPXmdrGHVCiVJNp1Q5jPx) | 2:56 | 2025-09-20 | 2025-12-12 |
 | [QUE HACES](https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [QUE HACES](https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ) | 2:51 | 2025-05-12 | 2025-09-21 |
 | [Queen Of My Castle](https://open.spotify.com/track/5AkKovjix5SPXurPaV1p69) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Queen Of My Castle](https://open.spotify.com/album/5g6FHRdXl51AAOmlJaHfk9) | 2:36 | 2024-05-02 | 2024-12-18 |
 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2025-10-31 | 2025-11-21 |
@@ -739,6 +739,7 @@
 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 | 2023-02-23 | 2023-11-11 |
 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 | 2024-01-04 | 2024-08-01 |
 | [Tuesday](https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Tuesday](https://open.spotify.com/album/0QvhqTigV3PbcHT93q3Sfn) | 2:54 | 2024-08-29 | 2024-09-20 |
+| [Turn The Lights Off](https://open.spotify.com/track/5TV7JnCTbwPD6yIVVFJrLb) | [Justė](https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key), [Jaxstyle](https://open.spotify.com/artist/3G1KNyIiGISpRGVPWbst6P), [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [Turn The Lights Off](https://open.spotify.com/album/2dFpvDuPJp8QOKDfVEcrzw) | 2:42 | 2025-12-11 |  |
 | [TUTU](https://open.spotify.com/track/2oUnwTaoc2fcyunjJqpGYF) | [QUIQUE](https://open.spotify.com/artist/44IF5iKnm06JFziiLsHpyJ), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [TUTU](https://open.spotify.com/album/0UUKnRb8XZFEgB9gEpUXvM) | 2:18 | 2025-06-20 | 2025-09-21 |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-04-24 | 2025-05-08 |
 | [Ulterior Motives](https://open.spotify.com/track/0zfLf6IWFvJMGaubfJWtLk) | [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [Ulterior Motives](https://open.spotify.com/album/0OOkiwWU6jpaprw7h8IYvm) | 2:34 | 2025-05-09 | 2025-06-06 |

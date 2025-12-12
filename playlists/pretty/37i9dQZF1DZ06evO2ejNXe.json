@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAACuzHg6syHlCMNdGpSetM/2",
+  "snapshot_id": "aTi4AAAAAABGLn1z9e0SGAyjakAXEBeh",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Reloj De Mi Corazon",
-        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "El Suegro",
-      "url": "https://open.spotify.com/track/264N2LbwqrFlDrNxwB2o84"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dale Biberon",
         "url": "https://open.spotify.com/album/4p4HDahX3yQTShFZLQWYyA"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 161400,
       "name": "Mambo Maria",
       "url": "https://open.spotify.com/track/7AmDiZzbTC8bmRIiZ5BATc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Reloj De Mi Corazon",
+        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "El Suegro",
+      "url": "https://open.spotify.com/track/264N2LbwqrFlDrNxwB2o84"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA GORDA",
-        "url": "https://open.spotify.com/album/26sbSnTr3SZ9gU2auO78Ha"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "LA GORDA",
-      "url": "https://open.spotify.com/track/0G9moVihw52g3agFXan7Mu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pura Pachanga",
         "url": "https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr"
       },
@@ -491,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Reloj De Mi Corazon",
-        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
+        "name": "LA GORDA",
+        "url": "https://open.spotify.com/album/26sbSnTr3SZ9gU2auO78Ha"
       },
       "artists": [
         {
@@ -500,9 +484,25 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 257266,
-      "name": "El Reloj De Mi Corazon",
-      "url": "https://open.spotify.com/track/32a7j5CRWr8Yno9aHhU1qn"
+      "duration_ms": 206000,
+      "name": "LA GORDA",
+      "url": "https://open.spotify.com/track/0G9moVihw52g3agFXan7Mu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coleccion Suprema Plus- Banda Zarape",
+        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 247720,
+      "name": "Por Ella",
+      "url": "https://open.spotify.com/track/3yoRAxitLXuzk0zisgllrM"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coleccion Suprema Plus- Banda Zarape",
-        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
+        "name": "El Reloj De Mi Corazon",
+        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 247720,
-      "name": "Por Ella",
-      "url": "https://open.spotify.com/track/3yoRAxitLXuzk0zisgllrM"
+      "duration_ms": 257266,
+      "name": "El Reloj De Mi Corazon",
+      "url": "https://open.spotify.com/track/32a7j5CRWr8Yno9aHhU1qn"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
       "duration_ms": 147400,
       "name": "Y Nos Dieron las Diez",
       "url": "https://open.spotify.com/track/2OvyHVRTNlzoWVXC8dvQWf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Es La Primera Vez",
-        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 212733,
-      "name": "La Ingrata",
-      "url": "https://open.spotify.com/track/6Tj2PELeC20VCOspiyAfdc"
     }
   ],
   "unique_name": "This Is Banda Zarape",

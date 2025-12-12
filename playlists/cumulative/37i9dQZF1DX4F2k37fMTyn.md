@@ -2,7 +2,7 @@
 
 ### [Girl On Fire](https://open.spotify.com/playlist/37i9dQZF1DX4F2k37fMTyn)
 
-> 女性ポップアイコンを一つのプレイリストに。cover: JADE
+> 女性ポップアイコンを一つのプレイリストに。cover: HANA
 
 721 songs - 1 day 13 hr 8 min
 

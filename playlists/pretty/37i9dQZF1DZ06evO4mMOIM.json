@@ -1,12 +1,12 @@
 {
   "description": "This is Glassjaw. The essential tracks, all in one playlist.",
-  "num_followers": 2501,
+  "num_followers": 2502,
   "original_name": "This Is Glassjaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAADlWKjJ76vWGH3piU2znetU",
+  "snapshot_id": "aTi4AAAAAAANnRrhdAZdoSDOSgCWCgQ+",
   "tracks": [
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 184586,
-      "name": "golgotha",
-      "url": "https://open.spotify.com/track/4sZuIfdLBqNXSUuNaAhw5j"
+      "duration_ms": 130786,
+      "name": "cut and run",
+      "url": "https://open.spotify.com/track/5Dz7SzbI0FMKyJ9Zcu9BWS"
     },
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 130786,
-      "name": "cut and run",
-      "url": "https://open.spotify.com/track/5Dz7SzbI0FMKyJ9Zcu9BWS"
+      "duration_ms": 184586,
+      "name": "golgotha",
+      "url": "https://open.spotify.com/track/4sZuIfdLBqNXSUuNaAhw5j"
     }
   ],
   "unique_name": "This Is Glassjaw",

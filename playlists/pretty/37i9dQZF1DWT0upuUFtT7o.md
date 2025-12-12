@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The 75 best Indie songs from new, independent artists in 2025, as chosen by our editors\. Cover: Mother Soki
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,689 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,706 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 74 | [Worm song](https://open.spotify.com/track/1NxOJkbRJwwQC7ihgOMPmi) | [julip](https://open.spotify.com/artist/7093KDv5fe6sYv66nUo7kK) | [Worm song](https://open.spotify.com/album/0XVBAwU5y510bb3fgPPcqL) | 3:44 |
 | 75 | [Play](https://open.spotify.com/track/4iE0gwQnXHc7I9bbTkzlhm) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Friend](https://open.spotify.com/album/5clpTIKRLA4BTRVwrtacPp) | 4:34 |
 
-Snapshot ID: `AAAAAAfyMTw2zVdLVGkmN76ZRe71PUPp`
+Snapshot ID: `AAAAADIAgaUkXqjASmK+/tfqp6jIcDBM`

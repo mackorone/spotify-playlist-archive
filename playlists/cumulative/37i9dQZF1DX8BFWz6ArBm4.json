@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Thodoris Ferris",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Giorgos Mazonakis",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -114,6 +114,24 @@
       "duration_ms": 192480,
       "name": "Akou Logia",
       "url": "https://open.spotify.com/track/7k37XdNywAXfhJwYXtB2Lf"
+    },
+    {
+      "album": {
+        "name": "Akouste Ti Mou Leei",
+        "url": "https://open.spotify.com/album/2h14uHfQY7UfpgmMAmyQK9"
+      },
+      "artists": [
+        {
+          "name": "Katerina",
+          "url": "https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197601,
+      "name": "Akouste Ti Mou Leei",
+      "url": "https://open.spotify.com/track/1uYkAsnl1F2SN3LazLsBl3"
     },
     {
       "album": {
@@ -358,7 +376,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 223598,
       "name": "Antras Einai Tha Perasei",
       "url": "https://open.spotify.com/track/1CmIyXdvWOLfvjiqm9Q2Id"
@@ -836,6 +854,32 @@
       "duration_ms": 162777,
       "name": "Eimai Gunaika",
       "url": "https://open.spotify.com/track/0UUvTGK23QN4qBvypAziwQ"
+    },
+    {
+      "album": {
+        "name": "Let's Duet",
+        "url": "https://open.spotify.com/album/7nKzvsrClOgYYZa4xGMhpZ"
+      },
+      "artists": [
+        {
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
+        },
+        {
+          "name": "Angela Dimitriou",
+          "url": "https://open.spotify.com/artist/7xySz9OyEWxKC6RyDlo256"
+        },
+        {
+          "name": "Rythmos 94.9",
+          "url": "https://open.spotify.com/artist/2uWG22SPvS85slZ2b7hBFG"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195028,
+      "name": "Einai Kria Ta Sentonia",
+      "url": "https://open.spotify.com/track/3D0pNw2YlNzOFBurCcuMny"
     },
     {
       "album": {
@@ -1812,7 +1856,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 200564,
       "name": "Kerasmena",
       "url": "https://open.spotify.com/track/0WHpnRsewdrBExeDU90v2m"
@@ -1870,7 +1914,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 175890,
       "name": "Krata",
       "url": "https://open.spotify.com/track/3U38PoaEgmk9gO4maQ3RO7"
@@ -2178,7 +2222,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 185000,
       "name": "Mehri Ekei Mporouses",
       "url": "https://open.spotify.com/track/39lsVJbQYEl8RXHdTln9K8"
@@ -2880,6 +2924,24 @@
       "duration_ms": 268256,
       "name": "Parata Me",
       "url": "https://open.spotify.com/track/0DEVg9fete5IrurfSMp99S"
+    },
+    {
+      "album": {
+        "name": "Pare Repo",
+        "url": "https://open.spotify.com/album/6s2Yfh1CRyRPH8M7r3ER0o"
+      },
+      "artists": [
+        {
+          "name": "Andromache",
+          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Pare Repo",
+      "url": "https://open.spotify.com/track/5rfWp7g7v94ThG0ydHJlIq"
     },
     {
       "album": {
@@ -3914,6 +3976,24 @@
       "duration_ms": 252428,
       "name": "Thalasses",
       "url": "https://open.spotify.com/track/65ovXhEwAYBP8kMm6lfVXR"
+    },
+    {
+      "album": {
+        "name": "Thalassografia",
+        "url": "https://open.spotify.com/album/4HE52UhPQOXith3ZCF0dk9"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251308,
+      "name": "Thalassografia",
+      "url": "https://open.spotify.com/track/0PfaNcbiGZHzadkKGdetYg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 
 > The USB essentials that defined our 2025 setlists\. Featuring Chloé Caillet & Luke Alessi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,478 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,835 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 | 17 | [Doin' it featuring MC DT](https://open.spotify.com/track/4bdbgZDx6LkHTNyy5PZW9h) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [MC DT](https://open.spotify.com/artist/4cHj4iJzUsjzbEbZLuojl6) | [Doin' It feat\. MC DT](https://open.spotify.com/album/13cNeTgAVDTDGliUCzUSzc) | 2:57 |
 | 18 | [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 |
 | 19 | [Forever](https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Forever](https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq) | 2:39 |
-| 20 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 |
+| 20 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 |
 | 21 | [Grove St\. Party](https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd) | [Proppa](https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Grove St\. Party](https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg) | 2:50 |
 | 22 | [Toxic](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Toxic](https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn) | 2:44 |
 | 23 | [Banda](https://open.spotify.com/track/0YvvBVcFJ9YOlIieO5wNaT) | [WOST](https://open.spotify.com/artist/3kdAt1M24OsazoncWOFlFf) | [Banda](https://open.spotify.com/album/2OpqvQzS0iHutpxQ6SkcFT) | 4:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 | 79 | [Space Pump \(Space Jam\)](https://open.spotify.com/track/4vqZk6EL4i4lSYHMViNnuV) | [Vinter](https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz) | [Space Pump \(Space Jam\)](https://open.spotify.com/album/73MaHOfZf2Dh5fTCwBfXMA) | 2:45 |
 | 80 | [Lipstick](https://open.spotify.com/track/5DeNvGYijFobt2ufPFGhsK) | [Alaia & Gallo](https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25) | [Lipstick](https://open.spotify.com/album/6f7dpXKC3gqsF0R02qKxhb) | 3:01 |
 
-Snapshot ID: `AAAAAO+GQi3Ni/g9hQVkDfSKdn3CHxQm`
+Snapshot ID: `AAAAAK/CQ+lZgXg09AtncSDnqZ5e27hn`

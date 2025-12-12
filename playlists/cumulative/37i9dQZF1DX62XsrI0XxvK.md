@@ -2,14 +2,15 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: Naomi Ivo
+> Irama R&B tanah air yang merasuk jiwa\. Cover: Nabila Ellisa, Bianura
 
-200 songs - 11 hr 56 min
+204 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(NO\)STALGIA](https://open.spotify.com/track/75FuKBIZqdI5FiMFKWSUZF) | [DAYFAIR](https://open.spotify.com/artist/3grE5TqsfwLPsljwMAnPEl), [N0en](https://open.spotify.com/artist/2gv3tIgZWNY7aCgha1y6cs) | [\(NO\)STALGIA](https://open.spotify.com/album/5gf4SHNy7X21805le62wgA) | 3:13 | 2025-12-04 |  |
 | [321 I'm Callin'](https://open.spotify.com/track/175z25mCfPPPSLKgXPYRAi) | [Cécil Yang](https://open.spotify.com/artist/1BQ949dyo7EwfHh3tUpxIP) | [321 I'm Callin'](https://open.spotify.com/album/6aJRcWfTIFfNc1GB44zggV) | 2:48 | 2024-10-03 | 2025-05-30 |
+| [365 DAYS](https://open.spotify.com/track/2q3O7bZgTUuh0Qm3krTiuO) | [Dessy klement](https://open.spotify.com/artist/5zubx31uKUv1nDKRA86cOe) | [365 DAYS](https://open.spotify.com/album/7lTvQtcfljJVbfZD4VI4Zf) | 2:08 | 2025-12-11 |  |
 | [a feeling](https://open.spotify.com/track/6TPUbm9rVuawjfbbz88c58) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Doves, '25 on Blank Canvas](https://open.spotify.com/album/6HiRRMXgflIyrpjCiPW8rU) | 3:05 | 2025-02-27 |  |
 | [A Seat For You \(feat\. Quinn Oulton\)](https://open.spotify.com/track/4PTvtwE3FMkwRYRpgNJckO) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT), [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [A Seat For You \(feat\. Quinn Oulton\)](https://open.spotify.com/album/2YmzK6yQ9pZuR9ZQPyX4gJ) | 3:10 | 2025-04-17 | 2025-08-01 |
 | [ADDICTION](https://open.spotify.com/track/62yN59Z49wkOnPByz4VzWI) | [Naomi Ivo](https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g) | [ADDICTION](https://open.spotify.com/album/7c1IM0Lwuv0NzcFAt6FVSp) | 2:29 | 2025-07-17 |  |
@@ -39,6 +40,7 @@
 | [Buktinya Baik\-Baik Saja](https://open.spotify.com/track/3cn9Fhd4UbxokJLDFLYZgK) | [Glenn Samuel](https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV) | [Buktinya Baik\-Baik Saja](https://open.spotify.com/album/70gWvpQaa7gQtr4jOuAnZd) | 3:25 | 2025-07-24 |  |
 | [BULAN](https://open.spotify.com/track/0sbqnT2yCqhZbMcDHrZTFd) | [Raina Gumay](https://open.spotify.com/artist/1ANlamE7Sj9Kf70tVz35Ck) | [BULAN](https://open.spotify.com/album/3jIpal5Mo7hWXSypXGXJku) | 3:06 | 2025-02-21 | 2025-08-01 |
 | [BYE](https://open.spotify.com/track/2qCXWSd8AtolyVTZRatjZH) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [BYE](https://open.spotify.com/album/3nawUQoRQ9QlaATlotBQNj) | 3:03 | 2025-11-13 |  |
+| [Capek Banget](https://open.spotify.com/track/2llpJaxtJREV6VxDeG9SBz) | [Nabila Ellisa](https://open.spotify.com/artist/7MwrsCIC6ViKMHiVFNJw5Q), [Bianura](https://open.spotify.com/artist/0KXKIxr1NN8aICdaA183Xc) | [Capek Banget](https://open.spotify.com/album/3Kimas3OtK9RTpFnQnTspL) | 3:16 | 2025-12-11 |  |
 | [Caught In Distress](https://open.spotify.com/track/1wJuaDeHSCN5fqZkBR0Qwu) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9) | [Caught In Distress](https://open.spotify.com/album/1vr2ljTHi4yTfcUHdqSsqy) | 3:36 | 2024-12-06 | 2025-05-30 |
 | [Cerita](https://open.spotify.com/track/6Sa1QuExIuLuZwyDrmgbN3) | [TADI](https://open.spotify.com/artist/6hpZLcLqVjqzWWA0ZXTThF) | [Cerita](https://open.spotify.com/album/5RLgxuk2wPeTU9KxSuNF01) | 3:19 | 2024-10-03 | 2025-05-02 |
 | [Claw Machine](https://open.spotify.com/track/7rZYvC0lvwTq8k1Cdqccpw) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9) | [Claw Machine](https://open.spotify.com/album/6FpIHvOps6UZMgJudEJEtV) | 3:18 | 2025-09-25 | 2025-11-28 |
@@ -112,6 +114,7 @@
 | [Ku Tak Bisa](https://open.spotify.com/track/2K9g1BHo6ILnSotpjqEnhd) | [KidQuest](https://open.spotify.com/artist/2lfQ3ZMcgbom8T8iSrtbbb) | [Ku Tak Bisa](https://open.spotify.com/album/0Fto9zAm9zcvIaceOHMFP9) | 2:54 | 2024-12-20 | 2025-07-18 |
 | [LA DA DI](https://open.spotify.com/track/3rGqFXA11MnvgrypxlvHbL) | [Andrea Najla](https://open.spotify.com/artist/2yjgwD4t4KZpeSM782W8YE) | [LA DA DI](https://open.spotify.com/album/3KKGdhGCpBoVBW1VXXvEp5) | 2:34 | 2025-01-09 | 2025-07-18 |
 | [Labuan Hati](https://open.spotify.com/track/0ic1OT8aHvTpDU71X5MXfP) | [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g), [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Labuan Hati](https://open.spotify.com/album/6N8etUnE4H5VTFdAtDAOaU) | 3:56 | 2024-11-21 |  |
+| [Lagi Lagi Kamu](https://open.spotify.com/track/3rxEIopqXo7oAfgszpHfRc) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Lagi Lagi Kamu](https://open.spotify.com/album/4hKgQmeauO0tKOapTtyOv2) | 2:51 | 2025-12-11 |  |
 | [Lagi Lagi Lagi](https://open.spotify.com/track/7Fzz5hweenr8sAJFiyckVI) | [Haira](https://open.spotify.com/artist/35U82BI9FvOGL8BW2fa8Db), [Kafin Sulthan](https://open.spotify.com/artist/59etqRZfBHKypG44RjjDCq) | [Lagi Lagi Lagi](https://open.spotify.com/album/2CzW3RNkzaPxuKfTyEMgTP) | 3:51 | 2025-09-18 |  |
 | [Lalala \(This Christmas Day\)](https://open.spotify.com/track/2ouEzLyN5S2aoC5SxP2Wd8) | [Moneva](https://open.spotify.com/artist/1wLYFml7YYO2uEcNwAZE0J) | [Lalala \(This Christmas Day\)](https://open.spotify.com/album/2m0EJwBBoTWFXQH474xa9x) | 2:42 | 2024-12-06 | 2025-05-30 |
 | [Lelah](https://open.spotify.com/track/1fNw080eLrAFFJdH7VwEyB) | [Reggyf Lawalata](https://open.spotify.com/artist/7dcOPR1DccewnM6nwMa4EO), [Mor M.A.C](https://open.spotify.com/artist/7bvhAv1D7WAmKISSbTGnIu) | [Lelah](https://open.spotify.com/album/4ndTARa0clTFGf8DnNzuSO) | 3:36 | 2025-11-20 |  |
@@ -196,6 +199,7 @@
 | [Terlambat Sudah](https://open.spotify.com/track/3OGuS5aNjsncDLJfburqTo) | [Alfin Harce](https://open.spotify.com/artist/42eVd9A0XjQMzlPErbPIvy), [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [Terlambat Sudah](https://open.spotify.com/album/4FQnWd3nDjvwQW0s91eExP) | 3:41 | 2024-10-03 | 2025-05-02 |
 | [Terlena](https://open.spotify.com/track/2BCvg2cfrJ0wFrRiOQyU9G) | [Karina Christy](https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7) | [Kasitau](https://open.spotify.com/album/3AWoEbNv1rF4sZ1Wrg751k) | 3:27 | 2025-04-24 | 2025-10-10 |
 | [Text Me \(When It's Over\)](https://open.spotify.com/track/6JjHBg0GsvwjpnczvBhtbv) | [Cassette Tape](https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2) | [Text Me \(When It's Over\)](https://open.spotify.com/album/1ERnC3W3zKYuepZvBvBemw) | 3:04 | 2025-07-24 | 2025-11-14 |
+| [THE WATCHMEN](https://open.spotify.com/track/2EZe2ScR7UHZ0SgAH1JkiX) | [Kay Sebastene](https://open.spotify.com/artist/5ZMoHmgsrp02niBm1sihBP), [PB GLAS](https://open.spotify.com/artist/3jgxJaKJW7CFghZna5DUHG) | [THE WATCHMEN](https://open.spotify.com/album/0n0Y0Cjc261lUEGj01Imki) | 3:22 | 2025-12-11 |  |
 | [Thing I Desire](https://open.spotify.com/track/0S7dD8zNVFIWOyoi06MNEQ) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Thing I Desire](https://open.spotify.com/album/5pQjlI6nRKo113Opt38Oiy) | 3:51 | 2024-10-03 | 2025-05-02 |
 | [Time Flies](https://open.spotify.com/track/5E3upQeg47ZTnpNkk7DjsM) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Time Flies](https://open.spotify.com/album/6qE7AdkTHRdOh40JYZctFQ) | 4:15 | 2025-06-20 |  |
 | [Touch \(feat\. Khole\)](https://open.spotify.com/track/73OFTJQnSeC5XjMlE3UJFc) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc), [Khole](https://open.spotify.com/artist/2y7W9mNUWNLFFrWPxg1l6c) | [Touch \(feat\. Khole\)](https://open.spotify.com/album/1zt6yq7LpII2AJqG6PJxEw) | 3:30 | 2025-05-01 | 2025-08-29 |

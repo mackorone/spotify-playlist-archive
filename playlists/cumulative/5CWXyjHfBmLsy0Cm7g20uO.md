@@ -4,7 +4,7 @@
 
 > Dive into the heart of indie and alternative rock with our handpicked playlist\. Discover raw energy, powerful riffs, and the soulful essence of independent rock music\. Rock on!
 
-133 songs - 8 hr 18 min
+138 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Doveland](https://open.spotify.com/track/3OEjExzjiewsOFWRsmYB3B) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Doveland](https://open.spotify.com/album/3xgHYrciva3U6p6I1rPovM) | 3:11 | 2025-11-20 |  |
 | [DRAINED](https://open.spotify.com/track/0dIXQmDxBTBftcQOaTZsYv) | [Rolo](https://open.spotify.com/artist/7KGGo3dYH0hGs2JWllqI1I) | [DRAINED](https://open.spotify.com/album/34mHgS3pKf0ddzEzBcjxFl) | 2:04 | 2025-09-11 |  |
 | [El Final](https://open.spotify.com/track/1eFo6IDJXf0H0Pnl19wJhs) | [Fzuay](https://open.spotify.com/artist/4UpgZJzWHD9Y2TO9nrET7J) | [Cuando Se Acabe Todo](https://open.spotify.com/album/6zfLluqdgsv3sVUevykRiI) | 6:25 | 2025-11-12 |  |
+| [Endless Summer](https://open.spotify.com/track/2fD5AmEMA6QoLj8A7VjvGb) | [The Petras](https://open.spotify.com/artist/5EsMB9WP4y0FCE5UIY5QQk) | [Endless Summer](https://open.spotify.com/album/2waBuPsEcjrjZjlRHE7N01) | 3:09 | 2025-12-11 |  |
 | [EXODUS](https://open.spotify.com/track/0fhElyqSxUy5IncqVwxt8L) | [Sierra Levesque](https://open.spotify.com/artist/5ovcQlmQG16m2jnnsbc3T6) | [NEW GENERATION](https://open.spotify.com/album/6KI45fnfdVkX7nNL2gnaDZ) | 3:04 | 2025-10-14 |  |
 | [Fade \(Live\)](https://open.spotify.com/track/7yqJu1h8HnT96zKs4YSPFC) | [Yerek](https://open.spotify.com/artist/406dGCdpaq4gKDb4XkQWuD), [Amarouka](https://open.spotify.com/artist/6lEUIMlGdAE7PHdg1tPxgt) | [Happy Sin Remains \- Concert Fiction \(Live\)](https://open.spotify.com/album/7w8049JNhfBO2Y7AGHROpM) | 4:53 | 2025-09-30 |  |
 | [Fading Away](https://open.spotify.com/track/20IXFU1YGicHcYTZaAHAg2) | [Cobalt](https://open.spotify.com/artist/1cQHLLtaQ9qChhiyWnCVYh) | [Dot \. Wav](https://open.spotify.com/album/1vONFRvPR6eSLTcFlUAjGP) | 2:36 | 2025-09-02 |  |
@@ -73,6 +74,7 @@
 | [Keep Walking](https://open.spotify.com/track/7yLoMvrV1ubutTrqbvku1M) | [Dona Opala](https://open.spotify.com/artist/0HCYPsZEtSQcybmW16ouQQ) | [Keep Walking](https://open.spotify.com/album/3vWt40iOgrNi8IZmBi4MT7) | 4:09 | 2025-10-21 |  |
 | [Le Mie Storie](https://open.spotify.com/track/4gPSqLwgeCXf5wsFtcon6W) | [JOSH](https://open.spotify.com/artist/05gpLZ1OK3Ow0Z5WoZIkbJ) | [Le Mie Storie](https://open.spotify.com/album/4l87ZCJbDvAx7J4aSyilDr) | 3:27 | 2025-11-11 |  |
 | [Left in the Middle](https://open.spotify.com/track/4VSBo7WtmgDxezwrN4w0Cj) | [VoodooMirage](https://open.spotify.com/artist/3nSA1zY4DETNYKugJVCHJf) | [Left in the Middle](https://open.spotify.com/album/3XhN14oI6CayfxQRmjfOzR) | 4:35 | 2025-01-15 |  |
+| [Liverpool Jla](https://open.spotify.com/track/73qjfHYCQo5TA5vt5c8sg7) | [The How](https://open.spotify.com/artist/09hG1ZJdYeCJo1nB66BJzW) | [In the Void](https://open.spotify.com/album/6pHa8DXD04qHeAXZVFwOE0) | 3:58 | 2025-12-11 |  |
 | [Lobo do Mar](https://open.spotify.com/track/0FniGeNtS71F3upvyC2JwW) | [Adriano Mar](https://open.spotify.com/artist/4LfMSWeGo1zmDVDlXfVBTY) | [Adriano Mar](https://open.spotify.com/album/3bR8j0krJ4B4ZpExVraMox) | 6:36 | 2025-10-03 |  |
 | [Lonely](https://open.spotify.com/track/77uqDcXTKdbMTvfjlTLitm) | [The Lovves](https://open.spotify.com/artist/0D1Pm8FvVpv0CUoawzKyO2) | [Lonely](https://open.spotify.com/album/2ERZGLv0GK7jxtVKlBIr5P) | 3:33 | 2025-11-19 |  |
 | [Loose Change](https://open.spotify.com/track/5DJqXml2pvbfThLNduxlAj) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Loose Change](https://open.spotify.com/album/6bgi9118jYzGvzk1TSFXMp) | 3:20 | 2025-11-04 |  |
@@ -103,8 +105,10 @@
 | [Prosthetic](https://open.spotify.com/track/2qRfwaLyZW1jDyQoYhAahd) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [Prosthetic](https://open.spotify.com/album/7nWsdqylOgGTb4EBTmm4nM) | 3:41 | 2025-10-30 |  |
 | [Rabia](https://open.spotify.com/track/2JiBnWtHKIFr9gH8yQTHp0) | [SBC TRINIDAD](https://open.spotify.com/artist/784SSel1L8TGhBlrANzeET) | [Rabia](https://open.spotify.com/album/4qCOtTxrPL2kYbeXH0E4VG) | 2:57 | 2025-11-27 |  |
 | [Rat Race](https://open.spotify.com/track/2u7Q7SFZxS3DQVE20KTAMR) | [Jumping Warpigs](https://open.spotify.com/artist/2bVJ0nmmBgKlHSKrtDK11t) | [Rat Race](https://open.spotify.com/album/3eOrmEsZWMULAiE8nFnBh9) | 2:36 | 2025-09-23 |  |
+| [Refugees in the ghetto](https://open.spotify.com/track/29mupryc4x4a8bRJDYg9J0) | [Smiling Crybabies](https://open.spotify.com/artist/1tbsh8mDWvLldgsLKErW9U) | [Refugees in the ghetto](https://open.spotify.com/album/2xV9IM4Y8Jrxbx2eJ2Vidl) | 5:30 | 2025-12-11 |  |
 | [Say Goodbye](https://open.spotify.com/track/29dKceSYYsR29BevWWOqvT) | [Sleep/Less](https://open.spotify.com/artist/0o6cuAtOpuu0chdB1m545F) | [Say Goodbye](https://open.spotify.com/album/7rCI0wZudVRSOE7PwvgPk9) | 3:19 | 2025-10-03 |  |
 | [Shattered](https://open.spotify.com/track/2wrdYI83tqHnyWR7uqDpnC) | [d\_scent](https://open.spotify.com/artist/6dOYplTs22r4F7GlanxEMn), [Echo Viridian](https://open.spotify.com/artist/6K7KHtjsy0JMDbeWULw0pF) | [Shattered](https://open.spotify.com/album/6ihgGx3iEBgxRR24ouX4X1) | 4:00 | 2025-09-12 |  |
+| [SLOW DOWN](https://open.spotify.com/track/4rpe04c0h4Kw13uGn0XEiD) | [Ghostshaft](https://open.spotify.com/artist/5wxd8HLXD387D9PedWRLw8) | [SLOW DOWN](https://open.spotify.com/album/3TEYxk5CLucLCzVmGaiVry) | 4:19 | 2025-12-11 |  |
 | [Smash](https://open.spotify.com/track/4QD81EBUfKMFXJua8DZt6E) | [Arn\-Identified Flying Objects and Alien Friends](https://open.spotify.com/artist/4qw8JsPgdrMpDFeTwaaCCD) | [No Sweets for E.](https://open.spotify.com/album/6nLsrLoaBkpTo4ClRFq6iO) | 2:11 | 2025-09-15 |  |
 | [Soulmate](https://open.spotify.com/track/2q96dUvvTH7uawMcSHS4KY) | [Sanctions Music](https://open.spotify.com/artist/275R6p8Z6We8SDmruMiHrm) | [Soulmate](https://open.spotify.com/album/4GKh8ImFSia6Txz5aJcO1H) | 3:47 | 2024-11-18 |  |
 | [Spent / Burnt](https://open.spotify.com/track/1k97Pr8uDb3hL8Ugelecfy) | [Future Mondays](https://open.spotify.com/artist/3VMpqGkVVuW4nTUJw9v2rt) | [Future Mondays](https://open.spotify.com/album/448haKOKsOWNr4OIG7ao3W) | 3:30 | 2025-12-05 |  |
@@ -114,6 +118,7 @@
 | [Suerte](https://open.spotify.com/track/3Ep75XNkKEz3meQlzCjJ3M) | [Los de Marte](https://open.spotify.com/artist/3IswqnIMsJKqBzGplTP91r) | [Suerte](https://open.spotify.com/album/0BX5xTASG4jk84rbv4Y1Pr) | 2:47 | 2025-10-06 |  |
 | [Sun Clock](https://open.spotify.com/track/0md1eE3fJwGkXU3RYodEIX) | [The Allusionist](https://open.spotify.com/artist/2xSTKvNUJ7aVBvgX15l1pb), [ann moonton](https://open.spotify.com/artist/08lAwCZa3Ytl8zMx3gJNrM) | [Sun Clock](https://open.spotify.com/album/5x7F7RwSXjaWrNPaiMNcMo) | 3:48 | 2025-09-19 |  |
 | [Symptoms](https://open.spotify.com/track/5hc8GGmxu3BgKXSniNkrSP) | [Ms\. Black](https://open.spotify.com/artist/1mBBTF4wjXjlIDbXN77rxi) | [Symptoms](https://open.spotify.com/album/3irfLhqD8GeOS4rExK08EI) | 2:51 | 2025-10-03 |  |
+| [TE COGERÁN](https://open.spotify.com/track/3ERcXr3B7jmTw6xQaEbxBU) | [Tygers of Wrath](https://open.spotify.com/artist/6vGbDm4f3JsCq7ftXq5Xba) | [Get Ready!](https://open.spotify.com/album/1lDzx28rHjWtLB6oI3RpCI) | 2:39 | 2025-12-11 |  |
 | [Teenage Apocalypse](https://open.spotify.com/track/20hKIRw6S7cmOh1DJ2HlcC) | [The Alternative Project](https://open.spotify.com/artist/68iqN5iGFyGYazmS5Qg3ER) | [Next 18](https://open.spotify.com/album/4P0sSljH4AZ9Mp9O4fjDri) | 3:47 | 2025-09-09 |  |
 | [The Glass Oracle](https://open.spotify.com/track/27vXYb6C18rbLRcynYHm2T) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Horizon](https://open.spotify.com/album/35Mf6ADJiOHwTQDYnMr82S) | 4:02 | 2025-10-02 |  |
 | [The Knight's Way](https://open.spotify.com/track/1TVDmlcA6HWxG3AcDwaw35) | [Richard Dobeson](https://open.spotify.com/artist/28KWLvWlBhBq9vp1HwGfTH), [Jose Garcia](https://open.spotify.com/artist/0eV2hPzNLJH7o39Bz2OEGq) | [The Knight's Way](https://open.spotify.com/album/3iu42ewC4jLdVUSzFySwj5) | 3:21 | 2022-09-12 |  |

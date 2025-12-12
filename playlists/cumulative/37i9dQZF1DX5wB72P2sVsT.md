@@ -2,9 +2,9 @@
 
 ### [Banger](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> David Guetta, Teddy Swims & Tones and I au top des bangers dance/electro du moment !
+> DJ Antoine au top des bangers dance/electro du moment !
 
-315 songs - 14 hr 28 min
+316 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Pictures Of You](https://open.spotify.com/track/0QQBgAXdLm0hfk9aBJe97f) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 2:55 | 2024-04-04 | 2024-04-19 |
 | [Pictures Of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 | 2024-03-07 | 2024-04-05 |
 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-09-28 | 2024-07-19 |
+| [Pretender](https://open.spotify.com/track/7yFK39Oj4ItOfiifL8D40e) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Pretender](https://open.spotify.com/album/21IS6JKY4bHsX82VemUKoq) | 3:12 | 2025-12-11 |  |
 | [Pum Pum](https://open.spotify.com/track/0l8c2GCnuNc0mDWYd8J2aX) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Pum Pum](https://open.spotify.com/album/46Br00VcUWM7IRuxE3UjcB) | 2:12 | 2025-09-18 | 2025-11-07 |
 | [Push Up \(Like Dynamite\)](https://open.spotify.com/track/5lQnTSIZcjhzOsuJhIMQlA) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Push Up \(Like Dynamite\)](https://open.spotify.com/album/1z8NHjmqMoLgo2jyGjFhtf) | 2:05 | 2023-11-09 | 2024-11-22 |
 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 | 2023-10-06 | 2023-11-10 |
@@ -304,7 +305,7 @@
 | [Walking Away \(Infinity\)](https://open.spotify.com/track/74U0wa3qRWRmEtxlpIL17I) | [Matway](https://open.spotify.com/artist/5okL9oHMW5wof7D0x2hQLQ), [June](https://open.spotify.com/artist/0j4sh69ln8Ga7IrQxIoxP5) | [Walking Away \(Infinity\)](https://open.spotify.com/album/2NQXrwAkAvrjoPT537SfI2) | 2:23 | 2025-02-06 | 2025-10-03 |
 | [Walking On A Dream \(Resurrection\)](https://open.spotify.com/track/0yfyF16cCITZcWsIF4oGZs) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [Walking On A Dream \(Reimagined\)](https://open.spotify.com/album/5Bh3jkdfh2bp6KXiQq4yQp) | 2:56 | 2025-11-06 |  |
 | [Wanna Be Loved \(feat\. PollyAnna\)](https://open.spotify.com/track/4JQQF7uU5LEc5aubbkvA2K) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [FDVM](https://open.spotify.com/artist/6J0Y4CoGMKL5RyeozHnVKl), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Wanna Be Loved \(feat\. PollyAnna\)](https://open.spotify.com/album/1yzDhFOZhvCL0Bah2G2Ge9) | 2:30 | 2024-03-22 | 2024-06-15 |
-| [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe), [Bobby Harvey](https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc) | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz) | 2:00 | 2025-11-20 |  |
+| [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe), [Bobby Harvey](https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc) | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz) | 2:00 | 2025-11-20 | 2025-12-12 |
 | [Wave](https://open.spotify.com/track/5msO1c9VNP14k2t4EvXEsi) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Wave](https://open.spotify.com/album/3DKPygymXWTbAyxp30AbAp) | 2:43 | 2024-10-17 | 2025-02-21 |
 | [Weak \(Nicolas Julian Remix\)](https://open.spotify.com/track/2HvoPXahbOrkzqDSkl8hkg) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Weak \(Nicolas Julian Remix\)](https://open.spotify.com/album/3n35KlA5opwtfkmK2XdC64) | 2:56 | 2023-11-02 | 2023-11-10 |
 | [Weak \- Nicolas Julian Remix](https://open.spotify.com/track/77rxRq4cs2HsaFiozPPt8d) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Weak \(Nicolas Julian Remix\)](https://open.spotify.com/album/4Yhf7ybeRFrhCX6a8NsVha) | 2:56 | 2023-09-28 | 2023-11-05 |

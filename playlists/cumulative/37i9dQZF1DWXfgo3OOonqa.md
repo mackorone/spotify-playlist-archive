@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,126 songs - 3 day 18 hr 58 min
+2,132 songs - 3 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [146 Reasons](https://open.spotify.com/track/6VIc5rIimLqQfBoKJOkFDX) | [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [146 Reasons](https://open.spotify.com/album/0uOgseTTBMhabvqyjnp6kB) | 2:43 | 2022-12-15 | 2023-01-06 |
 | [15 Minuter](https://open.spotify.com/track/65lGNpSIL1Sq34XWryc8Zt) | [M9](https://open.spotify.com/artist/2WPbnqVgrR3nonwfeuBYmx) | [15 Minuter](https://open.spotify.com/album/0UnhWI9Gb9SQcZT2I49Cz9) | 2:38 | 2023-09-21 | 2023-10-13 |
 | [17](https://open.spotify.com/track/0Apl0ndMj1fWIY6rnD7gnY) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [17](https://open.spotify.com/album/6oGhSS3fgBmqjpd0yuO9fi) | 2:31 | 2023-05-04 | 2023-07-20 |
+| [2 GUNS UPP SOM JUL](https://open.spotify.com/track/0TwQ0wgj8AdeaEdwDq3h30) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [2 GUNS UPP SOM JUL](https://open.spotify.com/album/3623NxWE2MSXMaPHjRhpnR) | 1:55 | 2025-12-11 |  |
 | [2 Hundra Papp](https://open.spotify.com/track/3uNQackev8CMqzR1Oz5NGO) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [BAKOM MASKEN](https://open.spotify.com/album/3000lYiVtAOXGZG57Zeq5c) | 2:05 | 2025-09-04 |  |
 | [2 Phones](https://open.spotify.com/track/0NPJkgH7GbaJQTE65JDOEo) | [O’Melly](https://open.spotify.com/artist/4DkJGLzJj2E2FACgUyHdbl) | [2 Phones](https://open.spotify.com/album/08wb7oiFjkYnOoQtprgvwb) | 3:13 | 2023-10-05 | 2023-12-08 |
 | [2 SEATS](https://open.spotify.com/track/0e343wbNXwxw5lcgtOY0ai) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [2 SEATS](https://open.spotify.com/album/6HoZZ93tMabTTacZeEc14U) | 2:35 | 2023-08-10 | 2023-09-15 |
@@ -296,6 +297,7 @@
 | [Bli nånting](https://open.spotify.com/track/23u2D3a9rcHqZOKvnuaS6J) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Bli nånting](https://open.spotify.com/album/0s8rBLM2MMwvHSt9YDsH1u) | 2:32 | 2021-12-16 | 2022-01-26 |
 | [BLICKA TILLBAKA](https://open.spotify.com/track/0GFwhFEGQ5fLKGMSjAD01u) | [DANO](https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS) | [BLICKA TILLBAKA](https://open.spotify.com/album/5Wnka168rFcyVOWpXYhcw9) | 2:48 | 2022-09-15 | 2022-11-12 |
 | [Blickar](https://open.spotify.com/track/1GNZf9aTlK398eDtaEkURs) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Come Alive](https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R) | 2:49 | 2023-04-19 | 2023-06-09 |
+| [Blickarna har blivit kalla](https://open.spotify.com/track/21TfaIyyLdwzuHVWb00VR5) | [L4baby](https://open.spotify.com/artist/6ys0L4WvzuKY1lCRuNDjpX) | [Blickarna har blivit kalla](https://open.spotify.com/album/1D7jMPjv91RHTXedYFsr8U) | 2:37 | 2025-12-11 |  |
 | [Blicky](https://open.spotify.com/track/5U0ndjpjzmT1aoLr3pB4zO) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Blicky](https://open.spotify.com/album/5k2auh0NC6uVPr1HsxHlTl) | 2:28 | 2023-01-26 | 2023-03-25 |
 | [BLIND](https://open.spotify.com/track/5BHlYrNR9p68siAtuHs0Uh) | [bergis](https://open.spotify.com/artist/1WqjeyURqigJHtqogSRaPm) | [BLIND](https://open.spotify.com/album/33GFAg6SjyzJRF8dSxAfGY) | 2:30 | 2023-04-14 | 2023-04-28 |
 | [BLIND](https://open.spotify.com/track/7uydo6DUTuDHZznlogjZmq) | [MATADOR](https://open.spotify.com/artist/7cdWIOvXLgf4TvWM0EbQpX), [Slum](https://open.spotify.com/artist/0mYhKOXwW3Iny2BeFHaEq8) | [BLIND](https://open.spotify.com/album/09DP7SyLCMEkuoJ9hqNX0S) | 2:38 | 2024-09-19 | 2025-01-17 |
@@ -790,6 +792,7 @@
 | [Gumman](https://open.spotify.com/track/5KkwHivX5EOicl4CW7bIhC) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Gumman](https://open.spotify.com/album/3wFkbw6btwXm22Twkmj8YD) | 2:39 | 2025-07-03 |  |
 | [GUNS & ROSES](https://open.spotify.com/track/69ves9zWFHFQAmvHmWe4mS) | [Sebastian Stakset](https://open.spotify.com/artist/46kV0QPO6PgUjtP69hvbfI), [Kristian Mecha](https://open.spotify.com/artist/32wC2fDzN3i3p4gc0ORGzl) | [GUNS & ROSES](https://open.spotify.com/album/1xabVli7BlOvvrhuBkYyxF) | 2:36 | 2022-08-18 | 2022-10-07 |
 | [Gunshot](https://open.spotify.com/track/7sdMVS0bIh2nk4uMonMDGp) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Gunshot](https://open.spotify.com/album/7rzjgy3pSkRs14krELHP8q) | 2:31 | 2023-11-02 | 2024-03-01 |
+| [Gustav Vasa](https://open.spotify.com/track/3WBQ9oA5DgpgV96ETEB7xP) | [ALAN MAX](https://open.spotify.com/artist/4OVGNBPR9zKzQRLRj98AHY), [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [Gustav Vasa](https://open.spotify.com/album/5XEkX79dGdKwXd8NEwyWqU) | 2:28 | 2025-12-11 |  |
 | [Gähda \- Extended Version](https://open.spotify.com/track/0PSpdRjJBjj3rRUTBoNICi) | [Adis](https://open.spotify.com/artist/4mzjimF31WZY4ufszXpq3I), [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [Gähda \(Extended Version\)](https://open.spotify.com/album/6cRdaHz7CjbBMHrY7P0bvc) | 2:31 | 2022-09-29 | 2022-10-28 |
 | [GÅ VIDARE](https://open.spotify.com/track/1b5FGpT5U0eC1wvElhFPGH) | [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [GÅ VIDARE](https://open.spotify.com/album/1dRgTbPkrEKJ1KEYBipP8S) | 2:25 | 2024-10-17 | 2025-03-14 |
 | [GÅ VIDARE](https://open.spotify.com/track/4gudgbLU3o1tP1wnrMjigX) | [MVP](https://open.spotify.com/artist/31fFsLhEl4v60T4p3bf0n8) | [GÅ VIDARE](https://open.spotify.com/album/5CXPFXzmZK5OIiF08Tk2OS) | 2:40 | 2024-10-03 | 2025-01-24 |
@@ -800,6 +803,7 @@
 | [Habibi \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/1VueoLGCvRRArsn8DgmH4X) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Habibi \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/1ifHM0bvcZoLyH0IRum8pR) | 2:42 | 2022-08-25 | 2022-10-07 |
 | [HABIBI DE VI](https://open.spotify.com/track/35xedJh9Tsze4nsKoV8DGF) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [HABIBI DE VI](https://open.spotify.com/album/2Seg4SzC5eZAPEngrpmXyi) | 2:23 | 2023-09-28 | 2024-02-09 |
 | [Habibi You](https://open.spotify.com/track/4IyVIKG3ecTEMzc9iY1BYb) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Habibi You](https://open.spotify.com/album/1oZxYI2x03nykDvfkInDAf) | 1:54 | 2024-07-18 | 2025-01-24 |
+| [Habibti](https://open.spotify.com/track/6RurirMaMgYjyzEKma3pYV) | [Nathan K](https://open.spotify.com/artist/0gjoWt9fRKf09gYem1xjn6) | [Habibti](https://open.spotify.com/album/3mQD4VaJDFnhLiq0oweF67) | 2:18 | 2025-12-11 |  |
 | [Haglöfsjacka](https://open.spotify.com/track/3Wh8aKial5oTVS3kuuKhAB) | [Clayton](https://open.spotify.com/artist/2B9eNNfeX4u6TwMtDjS00L) | [Haglöfsjacka](https://open.spotify.com/album/1Yzp9nCJxPro63GhIC0ww1) | 3:36 | 2025-03-27 | 2025-06-20 |
 | [HAJAR](https://open.spotify.com/track/0pW7YGlsz0BASX58H6sLHi) | [Treeze](https://open.spotify.com/artist/7hZDZfokZxVjYsydfPvC3K) | [HAJAR](https://open.spotify.com/album/07gXpimp1G0L5couPLDqD4) | 2:19 | 2024-10-24 | 2025-02-21 |
 | [Hakuna matata](https://open.spotify.com/track/0hcCLGeSARq5NH39mICnCg) | [Kayye](https://open.spotify.com/artist/6jhWtuoDN6F5xFrEBLpobu), [LLoke](https://open.spotify.com/artist/6ng8zL1LSR6gntI00mGS2Z) | [Hakuna matata](https://open.spotify.com/album/0KkgptJX1ERcfN5FmUPNjI) | 2:43 | 2025-04-03 | 2025-06-20 |
@@ -1491,6 +1495,7 @@
 | [Pay Day](https://open.spotify.com/track/5mA3OkfsPFhqjrm6VmZjQn) | [Karim Alger](https://open.spotify.com/artist/5fd1olImQGqWTqg1r0zqMW) | [KARIMO II](https://open.spotify.com/album/6jExdpIV7Jp9g0GpccI21M) | 2:49 | 2022-11-24 | 2023-01-20 |
 | [Pengamotiv](https://open.spotify.com/track/2HQnQODxqlfaWDVTwlRZZb) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [Pengamotiv](https://open.spotify.com/album/2gbG0QZ4qYOTXF3aImSTPb) | 2:51 | 2022-08-20 | 2022-10-28 |
 | [PENGAR](https://open.spotify.com/track/6nJ3Y7V8mEyb9ulnvjJ6QA) | [Ramme](https://open.spotify.com/artist/4cfDtFjU2V9lf0UsvRiqBA) | [PENGAR](https://open.spotify.com/album/0nGMjvtR0NTsl6NaWuJ7HD) | 3:07 | 2022-01-19 | 2022-02-01 |
+| [Pengar & Makt](https://open.spotify.com/track/5pLZvb5aZQM2qesJYK7ywi) | [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [Pengar & Makt](https://open.spotify.com/album/38lJ0U55fakxIKUtJDo6vc) | 2:45 | 2025-12-11 |  |
 | [Pengar Bänga](https://open.spotify.com/track/0wZjEtjXpkoO3PGjCsvF3Y) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:07 | 2022-04-28 | 2022-09-16 |
 | [pengar in/pengar ut](https://open.spotify.com/track/7fuTPfgaSPGlnw7FfiPrJ2) | [Mack Beats](https://open.spotify.com/artist/3GulSpXnCkqwVDg45tyly4), [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [pengar in/pengar ut](https://open.spotify.com/album/1MxRFOWBQ0Dy6qsXRmeG8F) | 2:01 | 2024-09-19 | 2025-01-24 |
 | [Pengar på mitt schema](https://open.spotify.com/track/5GY9xzo9vrQSoXqTQTznAf) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [2024K](https://open.spotify.com/album/439NYAWc8lNRAbVtDNzjh5) | 3:14 | 2024-06-27 | 2024-09-27 |
@@ -2074,6 +2079,7 @@
 | [Winning](https://open.spotify.com/track/6BPksZKJ3YKACbkgpFJYEe) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Selfmade](https://open.spotify.com/album/1pryp8bzTXFB0hiaKpiUYt) | 2:00 | 2022-06-23 | 2022-07-01 |
 | [WISH LIST](https://open.spotify.com/track/2iKcbCloHkzeSF66m0k7j2) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [WISH LIST](https://open.spotify.com/album/0m3jMqqEnjhydAJMSALu4B) | 2:15 | 2022-11-17 | 2023-01-06 |
 | [WIWÄÄ](https://open.spotify.com/track/0RmdKLmj6v4GfTuKmXNMy6) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [WIWÄÄ](https://open.spotify.com/album/69YnkysdFKKklpIePDhBkn) | 2:26 | 2025-04-24 | 2025-07-25 |
+| [Woah](https://open.spotify.com/track/1vhXsBxTRk0n4L9g7vwMsJ) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h) | [](https://open.spotify.com/album/null) | 2:34 | 2025-12-11 |  |
 | [Woah \- Remix](https://open.spotify.com/track/1x5E10zwMbu5AMdLN3BeQU) | [Sharma Boy](https://open.spotify.com/artist/4SllpFxwa14CeJf4LMkiXZ), [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Woah Remix](https://open.spotify.com/album/3tccrjGCOoPkDS8adQ68rA) | 2:26 | 2025-05-13 | 2025-08-08 |
 | [Woman – Spotify Studio 100 Recording](https://open.spotify.com/track/2NsStPAsAhgdVqFl67R56M) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Woman – Spotify Studio 100 Recording](https://open.spotify.com/album/4qGxMmnCtIluxut29qDVUy) | 2:18 | 2022-02-10 | 2022-11-25 |
 | [Wonderkid](https://open.spotify.com/track/0U6GloB9lQkuKusEQxnLw3) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Wonderkid](https://open.spotify.com/album/696HisYAHvP0IaqoyZHWQk) | 2:05 | 2023-01-26 | 2023-03-25 |

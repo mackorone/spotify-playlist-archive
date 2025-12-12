@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG9esWYr1lw.md) - [plain]
 
 > Celebrate Ramadan with these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,907 likes - 39 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,919 likes - 39 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG9esWYr1lw.md) - [plain]
 | 33 | [Ramadan Kareem](https://open.spotify.com/track/5mCDklMa5aWMVXjO5TydSI) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Ramadan Kareem](https://open.spotify.com/album/1huOnyhI9aNCn7VFLiJotR) | 2:44 |
 | 34 | [Ramadan](https://open.spotify.com/track/0K4qGuQZBDw31RhC5AMLyq) | [Mohamed Osama](https://open.spotify.com/artist/4NH8A2q0S9Pkx2t2J3a2Z7), [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [Ramadan](https://open.spotify.com/album/6nzjASwcyHuqrk8QA4gkJw) | 3:01 |
 | 35 | [Ahlan Rmdan](https://open.spotify.com/track/7H3Ji1vmOo5htleCTu7i3I) | [Mohamed Fawzi](https://open.spotify.com/artist/35SDB2XBVuqWpURR3S53Ip) | [Ahlan Rmdan](https://open.spotify.com/album/0zVcG2aXfYMK1ByQp5XvjK) | 5:48 |
-| 36 | [7Alo Ya 7Alo](https://open.spotify.com/track/7Gvve783aFQUg0oHmul5az) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [7Alo Ya 7Alo](https://open.spotify.com/album/0FDgKEISH5Eb48eOPGNmmo) | 4:29 |
-| 37 | [Alaao El Zeina](https://open.spotify.com/track/3x343iZggmgFa5RwuVyHAe) | [Mostafa Abo Rawash](https://open.spotify.com/artist/6KGdrIAxpV6UZ4Vp4yIVRl) | [Alaao El Zeina](https://open.spotify.com/album/0y3BAQ4UEf2xaOXYXKlSP9) | 4:22 |
+| 36 | [Alaao El Zeina](https://open.spotify.com/track/3x343iZggmgFa5RwuVyHAe) | [Mostafa Abo Rawash](https://open.spotify.com/artist/6KGdrIAxpV6UZ4Vp4yIVRl) | [Alaao El Zeina](https://open.spotify.com/album/0y3BAQ4UEf2xaOXYXKlSP9) | 4:22 |
+| 37 | [7Alo Ya 7Alo](https://open.spotify.com/track/7Gvve783aFQUg0oHmul5az) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [7Alo Ya 7Alo](https://open.spotify.com/album/0FDgKEISH5Eb48eOPGNmmo) | 4:29 |
 | 38 | [Ramadan Kareem](https://open.spotify.com/track/3nuHLgsBAfputkBxMzYNqa) | [Safia Ali](https://open.spotify.com/artist/2hbUUCwOHSSjEws8gNhN7N) | [Ramadan Kareem](https://open.spotify.com/album/6rZi9DL9UMx6IkgFvwvKA6) | 2:59 |
 | 39 | [Ahlan Ya Ramadan](https://open.spotify.com/track/7zjP56QAqew2Vq1KUlGKiN) | [Mukhlish Latasi](https://open.spotify.com/artist/5grH33zcwCaBwl08deU8tQ) | [Ahlan Ya Ramadan](https://open.spotify.com/album/3MQd4hzxBDcLgTb8ZlRKa4) | 3:31 |
 

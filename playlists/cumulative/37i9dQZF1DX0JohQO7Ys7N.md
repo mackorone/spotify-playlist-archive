@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Ukweli & Xenia Manasseh
+> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Bridget Blue
 
-295 songs - 16 hr 35 min
+296 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Niko Majuu](https://open.spotify.com/track/07QYwSudjP24RbXeuug0Gk) | [PHY](https://open.spotify.com/artist/2HfzgQaDmUfGQSU3joAG3c) | [Niko Majuu](https://open.spotify.com/album/33YGxj8PKaXbKMsESxHiFn) | 3:13 | 2023-10-06 | 2024-05-11 |
 | [Nimetii](https://open.spotify.com/track/2lyMgRJfJ26k4ib4exYO10) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Nimetii](https://open.spotify.com/album/1KvLQ3dEjgP89oIbZfp4bx) | 2:55 | 2021-12-28 | 2022-09-29 |
 | [Nimetii](https://open.spotify.com/track/6FrFrkBIvOW6nZo6pheljP) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Nimetii](https://open.spotify.com/album/2abzq9AqCgqpDB8YPh557R) | 2:55 | 2021-12-28 | 2023-07-28 |
+| [Ningelijua](https://open.spotify.com/track/7oJ6TkhB5VZyBUFmtBy9p2) | [J blessing](https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr), [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Ningelijua](https://open.spotify.com/album/7cKE7KRDy0vnhaaCap630H) | 3:57 | 2025-12-11 |  |
 | [Nipende](https://open.spotify.com/track/6DgMQzle107AN4oBX5Uhcz) | [Zaituni Wambui](https://open.spotify.com/artist/5SFfPUY3JPgaOzSiqdm4Me) | [Nipende](https://open.spotify.com/album/06DbgiBmUM7eSQiAk2cx55) | 5:15 | 2023-11-30 | 2024-04-26 |
 | [NIRVANA LOVE](https://open.spotify.com/track/5pppSeKzMPgA7EvdmK50XA) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Darklorde](https://open.spotify.com/artist/2Bv5o0cYa1CQKrf2E72omo), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [NIRVANA LOVE](https://open.spotify.com/album/7ijkHEy1BOqjt7i0jBFjiG) | 3:21 | 2024-03-22 | 2025-08-15 |
 | [Nita](https://open.spotify.com/track/6UpUt7zWqWGKidQhSTtwty) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi), [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Salt & Water](https://open.spotify.com/album/0mJTNFNZLRK28lI0N7kXBW) | 4:28 | 2025-01-23 |  |
@@ -292,7 +293,7 @@
 | [Want You](https://open.spotify.com/track/4soHwOdoVbeY0HgXI8K5vS) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [Mi$taK](https://open.spotify.com/artist/5RdL0s8UACHhmacD8FB73h) | [Want You](https://open.spotify.com/album/0J0VXiDkLDuf8CyYsQSXlO) | 3:36 | 2021-12-28 | 2022-05-27 |
 | [WARNING](https://open.spotify.com/track/6HOOJ2LbasnZqxuqlaNSfk) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [WARNING](https://open.spotify.com/album/4HYPMdHDoTzGLCeB9nVxxZ) | 4:06 | 2023-04-27 | 2024-03-01 |
 | [We're Made For Each Other](https://open.spotify.com/track/2G5EyrYbvXoUIpwqzGLgK1) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Love Letters II](https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY) | 2:28 | 2022-03-03 | 2024-06-01 |
-| [Weapon](https://open.spotify.com/track/2Ycm5ifNu1SC0ff8sJKero) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Weapon](https://open.spotify.com/album/2DmSvDDCxoM0KqwmoPrBVo) | 2:35 | 2024-05-30 |  |
+| [Weapon](https://open.spotify.com/track/2Ycm5ifNu1SC0ff8sJKero) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Weapon](https://open.spotify.com/album/2DmSvDDCxoM0KqwmoPrBVo) | 2:35 | 2024-05-30 | 2025-12-12 |
 | [Wendo Mwaki \- From Un\-Adult\-Erated](https://open.spotify.com/track/4FQ7pGtcUpFVMGLxDHij79) | [Tuku Kantu](https://open.spotify.com/artist/4XOkxpgkjiajWy1yEb1o24) | [Wendo Mwaki \- From Un\-Adult\-Erated](https://open.spotify.com/album/2mkFVIgMDrSG6BaHVQdFiM) | 3:36 | 2023-03-30 | 2025-05-30 |
 | [What I See](https://open.spotify.com/track/7jDkmNjxPQ0F2b7D4agmTG) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [What I See](https://open.spotify.com/album/1GeUTD1xqgMWH0qzOffTMX) | 2:54 | 2021-12-28 |  |
 | [Where Ya Been? \- A COLORS SHOW](https://open.spotify.com/track/6am2YNS3MTz3SbWkBUY234) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Where Ya Been? \- A COLORS SHOW](https://open.spotify.com/album/0oqzFS1ec6worWKBAzgolc) | 2:57 | 2023-11-16 | 2024-07-27 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: HAON, Boycold)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: Lil Moshpit, Yoon Suk Cheol)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -4109,6 +4109,28 @@
     },
     {
       "album": {
+        "name": "WHAT HAVE WE DONE",
+        "url": "https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "EASY (Feat. THAMA)",
+      "url": "https://open.spotify.com/track/2N4XsISPAYbi37LlxhfIT7"
+    },
+    {
+      "album": {
         "name": "EGG RICE",
         "url": "https://open.spotify.com/album/2iiHvjADaBZPSqt91XTb2z"
       },
@@ -6092,7 +6114,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 138293,
       "name": "Hit Me Up (feat. MINGI of ATEEZ)",
       "url": "https://open.spotify.com/track/5ODRxiap0pEztir1hOEklY"
@@ -9871,6 +9893,36 @@
     },
     {
       "album": {
+        "name": "MY MAN (Remix)",
+        "url": "https://open.spotify.com/album/6k0E3GIjRUxcWEts05AfMw"
+      },
+      "artists": [
+        {
+          "name": "1ANDON",
+          "url": "https://open.spotify.com/artist/3FuZ5fJDy5kgZ994gpSmEf"
+        },
+        {
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+        },
+        {
+          "name": "Yun Seokcheol",
+          "url": "https://open.spotify.com/artist/2CducdjCN6kUjcecP0U5we"
+        },
+        {
+          "name": "YULEUM",
+          "url": "https://open.spotify.com/artist/7mR09TGFa7m27D7l2m9FbB"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "MY MAN - Remix",
+      "url": "https://open.spotify.com/track/2rHcAV9iKHs19oKvM2elyV"
+    },
+    {
+      "album": {
         "name": "PROTOTYPE RESEARCH #0063",
         "url": "https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP"
       },
@@ -11286,7 +11338,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 118606,
       "name": "Perfect Timing",
       "url": "https://open.spotify.com/track/52jqq8HeJ5CSc7cXk96EFm"
@@ -13138,6 +13190,24 @@
       "duration_ms": 166666,
       "name": "Show Must Go On",
       "url": "https://open.spotify.com/track/0pBbICsYvshPFa69K8TpsC"
+    },
+    {
+      "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/6pypcYnbO2JMmQBWsXpqZB"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170124,
+      "name": "Show Off",
+      "url": "https://open.spotify.com/track/557fLf5fpbGkvsDugVg5vV"
     },
     {
       "album": {
@@ -15244,7 +15314,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 284977,
       "name": "TROUBLE (Prod. Slom)",
       "url": "https://open.spotify.com/track/5UJTNrW72ZMubW2wKBf8g2"

@@ -1321,6 +1321,24 @@
     },
     {
       "album": {
+        "name": "Bloedlijn",
+        "url": "https://open.spotify.com/album/2fziVwzw93LXeETyAXQXak"
+      },
+      "artists": [
+        {
+          "name": "Nafas",
+          "url": "https://open.spotify.com/artist/4w0GqjnTfkhnkDQp9uX1zq"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126206,
+      "name": "Bloedlijn",
+      "url": "https://open.spotify.com/track/30fwWdpe8XlUjkvUrZz2Pk"
+    },
+    {
+      "album": {
         "name": "Focus More On Me (Deluxe)",
         "url": "https://open.spotify.com/album/3gZnlSztK59g5CpK308bfg"
       },
@@ -3514,6 +3532,28 @@
       "duration_ms": 182400,
       "name": "Feel The Ground Shake",
       "url": "https://open.spotify.com/track/4WKuPFcr0JtO9RCwkfvQeY"
+    },
+    {
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0ULd6WFTpdtoBl7eBgH2oo"
+      },
+      "artists": [
+        {
+          "name": "Buckshot",
+          "url": "https://open.spotify.com/artist/0HPG2EIdGCP6gjXW0KzrJq"
+        },
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144521,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
     },
     {
       "album": {
@@ -8494,7 +8534,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 155086,
       "name": "Pepernoot",
       "url": "https://open.spotify.com/track/5gHt6koylIwR0MzYQwtOj8"
@@ -8534,7 +8574,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -12251,7 +12291,7 @@
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 211999,
+      "duration_ms": 191719,
       "name": "Wij zeggen Nee, Nee, Nee, tegen een AZC! - Hardcore Mix",
       "url": "https://open.spotify.com/track/1hPxhJSI15tAQWbJyocv85"
     },
@@ -12871,6 +12911,28 @@
     },
     {
       "album": {
+        "name": "Zootropolis 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0oqta6TAko2en33OkGkMTT"
+      },
+      "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190822,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/1RxnarBaLERmqnGNmOCoCD"
+    },
+    {
+      "album": {
         "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
       },
@@ -12886,7 +12948,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"

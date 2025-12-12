@@ -1,35 +1,31 @@
 {
-  "description": "Le meilleur du rap africain francophone. Photo : d\u00f8pelym",
-  "num_followers": 56688,
+  "description": "Le meilleur du rap africain francophone. Photo : Didi B",
+  "num_followers": 56761,
   "original_name": "Afro Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGFpf5dEAKetD7bmJlY8jtlpC7f7",
+  "snapshot_id": "AAAAALEEfF2JxYDzujD9emp2vCZ9AUKy",
   "tracks": [
     {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
       "album": {
-        "name": "Super Saiyan",
-        "url": "https://open.spotify.com/album/4k4Zv622X28W0h0XZxtiyZ"
+        "name": "Juventus Nueva Era",
+        "url": "https://open.spotify.com/album/40IUUa2awdvlwpkChxGNCw"
       },
       "artists": [
         {
-          "name": "d\u00f8pelym",
-          "url": "https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs"
-        },
-        {
-          "name": "Lamoula$",
-          "url": "https://open.spotify.com/artist/4cNtgPYsS8zJp72VrSky1L"
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
         }
       ],
-      "duration_ms": 182832,
-      "name": "Super Saiyan",
-      "url": "https://open.spotify.com/track/5uFE8IpdLHeLrh9TuC0hPc"
+      "duration_ms": 168693,
+      "name": "En Bri",
+      "url": "https://open.spotify.com/track/2hFMzkCv3udvyL9jXj5c82"
     },
     {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
       "album": {
         "name": "H\u00c9 TCHAI (feat. Jojo Le Barbu & Suspect95)",
         "url": "https://open.spotify.com/album/1f1twGZ4S4vGuV4BlFSxtm"
@@ -53,235 +49,7 @@
       "url": "https://open.spotify.com/track/2JU211mqTr6zscPs4kfqMU"
     },
     {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "Bonjour !",
-        "url": "https://open.spotify.com/album/0KvUY62Vyqj2gh5qrFKqT3"
-      },
-      "artists": [
-        {
-          "name": "L'Oiseau Rare",
-          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
-        }
-      ],
-      "duration_ms": 121846,
-      "name": "Bonjour !",
-      "url": "https://open.spotify.com/track/4GsqboRNcCJUt1jhYBu4nw"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "Juventus Nueva Era",
-        "url": "https://open.spotify.com/album/40IUUa2awdvlwpkChxGNCw"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        }
-      ],
-      "duration_ms": 168693,
-      "name": "En Bri",
-      "url": "https://open.spotify.com/track/2hFMzkCv3udvyL9jXj5c82"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "C'est mon mood",
-        "url": "https://open.spotify.com/album/6sl3o6k3Tw0657Um2qUZJn"
-      },
-      "artists": [
-        {
-          "name": "Ste Milano",
-          "url": "https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd"
-        }
-      ],
-      "duration_ms": 128788,
-      "name": "C'est mon mood",
-      "url": "https://open.spotify.com/track/4i9197uy7WuTcb9bsBLZje"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "ANITCHE",
-        "url": "https://open.spotify.com/album/6vMjqUpuivsSf20TkhFXwF"
-      },
-      "artists": [
-        {
-          "name": "Paki Chenzu",
-          "url": "https://open.spotify.com/artist/7CaZ0PyALKhFyvSLhnkpvB"
-        },
-        {
-          "name": "Safarel Obiang",
-          "url": "https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "ANITCHE",
-      "url": "https://open.spotify.com/track/5p9vr4UFtcVdR2iYgMdJbw"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "Ambiance Facile 2,5",
-        "url": "https://open.spotify.com/album/4qPa9RPwcWr1D2AciMOiLW"
-      },
-      "artists": [
-        {
-          "name": "Miedjia",
-          "url": "https://open.spotify.com/artist/7GWjcPmr0zcHxPFWY2H8dX"
-        },
-        {
-          "name": "Ameka Zrai",
-          "url": "https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv"
-        }
-      ],
-      "duration_ms": 153243,
-      "name": "Gnanhi",
-      "url": "https://open.spotify.com/track/58SldGaCjTH0OgRz4Al8nO"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "Et DIEU cr\u00e9a KADJA",
-        "url": "https://open.spotify.com/album/3WQfNCMdwxOQeoqwHEJCrJ"
-      },
-      "artists": [
-        {
-          "name": "Kadja",
-          "url": "https://open.spotify.com/artist/18r6Mec5ndlllp5BAoGNek"
-        },
-        {
-          "name": "Black M",
-          "url": "https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw"
-        },
-        {
-          "name": "bel canto",
-          "url": "https://open.spotify.com/artist/5Bz8k8phXRsAtBB6xrIR83"
-        }
-      ],
-      "duration_ms": 222580,
-      "name": "R\u00eaves, peines et r\u00e9alit\u00e9s",
-      "url": "https://open.spotify.com/track/6Nzlbp1Ef3AxLtuBVcE0M4"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "5th DIMENSION",
-        "url": "https://open.spotify.com/album/1emaOwFSpZg1TgP0u2Jzz8"
-      },
-      "artists": [
-        {
-          "name": "E.J",
-          "url": "https://open.spotify.com/artist/6ug6aCXWry7QVITLdGDjoV"
-        },
-        {
-          "name": "EBOLOKO",
-          "url": "https://open.spotify.com/artist/3nUEeV8UXAOUqpXm6WahYR"
-        }
-      ],
-      "duration_ms": 183785,
-      "name": "LUNDI AU LUNDI",
-      "url": "https://open.spotify.com/track/4nzg48IvzD7gopb1eyK4Cb"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "Connexion Macabre",
-        "url": "https://open.spotify.com/album/6nnJGahm0BXXN4FI9TDACh"
-      },
-      "artists": [
-        {
-          "name": "OG Mahilet",
-          "url": "https://open.spotify.com/artist/3WbcgjqtToJiTxZ3IlibGT"
-        },
-        {
-          "name": "Lamine l\u00f8ssa",
-          "url": "https://open.spotify.com/artist/2YkHQOwaaDFLiOar0oXqy6"
-        }
-      ],
-      "duration_ms": 179104,
-      "name": "Connexion Macabre",
-      "url": "https://open.spotify.com/track/5iFNEk0njSrwP41R4sTEmJ"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "EPASUKA (feat. Didi B)",
-        "url": "https://open.spotify.com/album/0o3ItaYqqwv5Gjc4LkhSEH"
-      },
-      "artists": [
-        {
-          "name": "DAVINHOR",
-          "url": "https://open.spotify.com/artist/3viiIGEp9jn0sKz4K0D6HT"
-        },
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        }
-      ],
-      "duration_ms": 175806,
-      "name": "EPASUKA (feat. Didi B)",
-      "url": "https://open.spotify.com/track/6bDi4Yg8gS8mLBzP1fCcNB"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "C\u2019PAS MM CHOSE",
-        "url": "https://open.spotify.com/album/4o3KCPpbuv0zs5RKSCjX7n"
-      },
-      "artists": [
-        {
-          "name": "DEMENTOS",
-          "url": "https://open.spotify.com/artist/55EHiUBT43mSyM6uHpjA3D"
-        },
-        {
-          "name": "L'Oiseau Rare",
-          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
-        }
-      ],
-      "duration_ms": 200221,
-      "name": "C\u2019PAS MM CHOSE",
-      "url": "https://open.spotify.com/track/0rIE652lQqE7NK6sHR5ive"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "Marabout",
-        "url": "https://open.spotify.com/album/4iZaUIwE2RI4j2cWN1Gup4"
-      },
-      "artists": [
-        {
-          "name": "Joochar",
-          "url": "https://open.spotify.com/artist/56bmNSFswGkNea9CSLhFgp"
-        }
-      ],
-      "duration_ms": 141480,
-      "name": "Marabout",
-      "url": "https://open.spotify.com/track/1v7dUWCLuN2wRFxBqdVqvJ"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "DACHIBA KOUMGBA TCHAIBA : DALSHIM",
-        "url": "https://open.spotify.com/album/6qtytRvjDiVRsYweV2svgi"
-      },
-      "artists": [
-        {
-          "name": "Himra",
-          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
-        },
-        {
-          "name": "La Rvfleuze",
-          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
-        }
-      ],
-      "duration_ms": 169699,
-      "name": "RASTA (feat. La Rvfleuze)",
-      "url": "https://open.spotify.com/track/53TevesyM4q1FHlQIiFITA"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
       "album": {
         "name": "SOLDAT",
         "url": "https://open.spotify.com/album/4fkctYphAu4TFbtZMSyejI"
@@ -297,79 +65,107 @@
       "url": "https://open.spotify.com/track/47Zi1azLkIGvZZXkVIOgnH"
     },
     {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
       "album": {
-        "name": "Charger",
-        "url": "https://open.spotify.com/album/0iskaRfgHt8Y9iR4sym0VR"
+        "name": "Super Saiyan",
+        "url": "https://open.spotify.com/album/4k4Zv622X28W0h0XZxtiyZ"
       },
       "artists": [
         {
-          "name": "M I L O",
-          "url": "https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa"
-        }
-      ],
-      "duration_ms": 192640,
-      "name": "Charger",
-      "url": "https://open.spotify.com/track/5LoG4nhfVuHeWFvBAePU52"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "BIG TAZE",
-        "url": "https://open.spotify.com/album/6KY24lWvNTk447Hu9iRGKm"
-      },
-      "artists": [
-        {
-          "name": "Tazeboy",
-          "url": "https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa"
+          "name": "d\u00f8pelym",
+          "url": "https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs"
         },
         {
-          "name": "Noukou",
-          "url": "https://open.spotify.com/artist/7x0IZxCa7zv3ROFI7xbLUN"
+          "name": "Lamoula$",
+          "url": "https://open.spotify.com/artist/4cNtgPYsS8zJp72VrSky1L"
         }
       ],
-      "duration_ms": 171446,
-      "name": "Ghetto",
-      "url": "https://open.spotify.com/track/1NlOBqqVvZrgxn3ZyBGXBw"
+      "duration_ms": 182832,
+      "name": "Super Saiyan",
+      "url": "https://open.spotify.com/track/5uFE8IpdLHeLrh9TuC0hPc"
     },
     {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
       "album": {
-        "name": "Donne Moi",
-        "url": "https://open.spotify.com/album/7bAf60qK0LTf2CCy9O7zig"
+        "name": "Togolaise",
+        "url": "https://open.spotify.com/album/1nLJS31612GXmQYvAn2m6e"
       },
       "artists": [
         {
-          "name": "Shapat",
-          "url": "https://open.spotify.com/artist/3cO0IAr6lPRQYMkYXO6STP"
+          "name": "Sethlo",
+          "url": "https://open.spotify.com/artist/2PTCG1mxDKcnGzHIiCuVON"
+        },
+        {
+          "name": "Koffi Wisen",
+          "url": "https://open.spotify.com/artist/1RzFrvguubg04gDrndgpSg"
+        },
+        {
+          "name": "Pheno Ambro",
+          "url": "https://open.spotify.com/artist/72KH9oRyJeqqRydsiSXKCD"
+        },
+        {
+          "name": "Lolkat",
+          "url": "https://open.spotify.com/artist/4ZhEfPzSafn6X11JUHPSJ7"
         }
       ],
-      "duration_ms": 222274,
-      "name": "Donne Moi",
-      "url": "https://open.spotify.com/track/77iBU2Yk0R3P2AdKsgxIgI"
+      "duration_ms": 180000,
+      "name": "Togolaise",
+      "url": "https://open.spotify.com/track/1FvzQz9oH9WD7M4YzXDR3w"
     },
     {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
       "album": {
-        "name": "Sant\u00e9",
-        "url": "https://open.spotify.com/album/7FQXOFR8zUbujpNhGcjUhs"
+        "name": "C'est mon mood",
+        "url": "https://open.spotify.com/album/6sl3o6k3Tw0657Um2qUZJn"
       },
       "artists": [
         {
-          "name": "Ameka Zrai",
-          "url": "https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv"
+          "name": "Ste Milano",
+          "url": "https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd"
+        }
+      ],
+      "duration_ms": 128788,
+      "name": "C'est mon mood",
+      "url": "https://open.spotify.com/track/4i9197uy7WuTcb9bsBLZje"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "La Tcham Biama",
+        "url": "https://open.spotify.com/album/0Kxwp6QPEBhoYYdfSzUkQL"
+      },
+      "artists": [
+        {
+          "name": "Kadirov Mania",
+          "url": "https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK"
         },
         {
           "name": "L'Oiseau Rare",
           "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
         }
       ],
-      "duration_ms": 187940,
-      "name": "Sant\u00e9",
-      "url": "https://open.spotify.com/track/5WGnX9BtRdajMRI9oS75hp"
+      "duration_ms": 155447,
+      "name": "La Tcham Biama",
+      "url": "https://open.spotify.com/track/2nnKJmZcVzqiLiAy0LNsyp"
     },
     {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "ASKEL GESTE",
+        "url": "https://open.spotify.com/album/0a2Zb35LSYcFWD0XbLOzAi"
+      },
+      "artists": [
+        {
+          "name": "DEMENTOS",
+          "url": "https://open.spotify.com/artist/55EHiUBT43mSyM6uHpjA3D"
+        }
+      ],
+      "duration_ms": 195284,
+      "name": "ASKEL GESTE",
+      "url": "https://open.spotify.com/track/2Wzh9W7495MYrcXbiAaVkH"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
       "album": {
         "name": "Election",
         "url": "https://open.spotify.com/album/28wOO7sKBChGI7UaTW5Tm4"
@@ -389,23 +185,87 @@
       "url": "https://open.spotify.com/track/4oFUIXTJfKWW1sQXGwBvNy"
     },
     {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
       "album": {
-        "name": "TU DOIS YA",
-        "url": "https://open.spotify.com/album/1ds7mIHjMJxBLgCoSmdAoj"
+        "name": "10sTracks",
+        "url": "https://open.spotify.com/album/6a6HlmDsfFzNxRrmzhRuCg"
       },
       "artists": [
         {
-          "name": "Petit Z\u00e9p\u00e9",
-          "url": "https://open.spotify.com/artist/1B4XkNHp3uDYK1xdIPo5Iv"
+          "name": "Shado Chris",
+          "url": "https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg"
+        },
+        {
+          "name": "Faroch",
+          "url": "https://open.spotify.com/artist/1V81pFbiuSJCKEsRcLvXeK"
         }
       ],
-      "duration_ms": 135836,
-      "name": "TU DOIS YA",
-      "url": "https://open.spotify.com/track/7hydFR3MiW6id3aLww1MJF"
+      "duration_ms": 190774,
+      "name": "Farotement",
+      "url": "https://open.spotify.com/track/4Eh9KjiUbkdgGAvKk9Bp4Z"
     },
     {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "Oulala (II)",
+        "url": "https://open.spotify.com/album/2QN5pmtN6C2psqCjpU0Evi"
+      },
+      "artists": [
+        {
+          "name": "Kocee",
+          "url": "https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6"
+        },
+        {
+          "name": "Fior 2 Bior",
+          "url": "https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "Oulala - II",
+      "url": "https://open.spotify.com/track/3zPZIfGDRXOeo6k0qdooo5"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "Ambiance Facile 2,5",
+        "url": "https://open.spotify.com/album/4qPa9RPwcWr1D2AciMOiLW"
+      },
+      "artists": [
+        {
+          "name": "Miedjia",
+          "url": "https://open.spotify.com/artist/7GWjcPmr0zcHxPFWY2H8dX"
+        },
+        {
+          "name": "Ameka Zrai",
+          "url": "https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv"
+        }
+      ],
+      "duration_ms": 153243,
+      "name": "Gnanhi",
+      "url": "https://open.spotify.com/track/58SldGaCjTH0OgRz4Al8nO"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "Elimin\u00e9",
+        "url": "https://open.spotify.com/album/4H8jp47Allzo8anDKynAeM"
+      },
+      "artists": [
+        {
+          "name": "Diesel Gucci",
+          "url": "https://open.spotify.com/artist/3ZTd2WDHj0fn67xpiQ9DEi"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 238098,
+      "name": "Elimin\u00e9",
+      "url": "https://open.spotify.com/track/7wbtGmNYsHRH0nWqRLje0X"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
       "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/0szYTRwg7XVBRHnD8ycswr"
@@ -433,51 +293,59 @@
       "url": "https://open.spotify.com/track/5q0X17dKTbYysf9Dj8C6KY"
     },
     {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
       "album": {
-        "name": "C'est Chaud",
-        "url": "https://open.spotify.com/album/2NvPS6rbzPMzNL7COR3b6L"
+        "name": "Bonjour !",
+        "url": "https://open.spotify.com/album/0KvUY62Vyqj2gh5qrFKqT3"
       },
       "artists": [
         {
-          "name": "Trois Officiel",
-          "url": "https://open.spotify.com/artist/26zFi9Jf1jdloqRU2UEhrb"
-        },
-        {
-          "name": "Abdel Kader",
-          "url": "https://open.spotify.com/artist/16p6gSJtGyIV7oLyPocwP5"
-        },
-        {
-          "name": "L'Otre L\u00e0",
-          "url": "https://open.spotify.com/artist/1WUKbTkRm6vjx6szJx5s3c"
+          "name": "L'Oiseau Rare",
+          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
         }
       ],
-      "duration_ms": 167355,
-      "name": "C'est Chaud",
-      "url": "https://open.spotify.com/track/1UrnbvkVqediUlSSOh4X3S"
+      "duration_ms": 121846,
+      "name": "Bonjour !",
+      "url": "https://open.spotify.com/track/4GsqboRNcCJUt1jhYBu4nw"
     },
     {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
       "album": {
-        "name": "Pas Toucher (feat. Fanicko)",
-        "url": "https://open.spotify.com/album/3bfjBd4B9uYpVg3GCRI8oZ"
+        "name": "DACHIBA KOUMGBA TCHAIBA : DALSHIM",
+        "url": "https://open.spotify.com/album/6qtytRvjDiVRsYweV2svgi"
       },
       "artists": [
         {
-          "name": "DRE-A",
-          "url": "https://open.spotify.com/artist/7fgp0tqyX3Rccl9P9042mE"
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
         },
         {
-          "name": "Fanicko",
-          "url": "https://open.spotify.com/artist/5w4rQV4ajaclFQUATqeo4p"
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
         }
       ],
-      "duration_ms": 188960,
-      "name": "Pas Toucher (feat. Fanicko)",
-      "url": "https://open.spotify.com/track/0bRW67DKXwALmPn6KWJ45u"
+      "duration_ms": 169699,
+      "name": "RASTA (feat. La Rvfleuze)",
+      "url": "https://open.spotify.com/track/53TevesyM4q1FHlQIiFITA"
     },
     {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "NNPP - PRELUDE",
+        "url": "https://open.spotify.com/album/6FSMaKXZfN1VHwdz8FPtJr"
+      },
+      "artists": [
+        {
+          "name": "LiFkA",
+          "url": "https://open.spotify.com/artist/11ASLEHxfoDIC9s2rVDFAf"
+        }
+      ],
+      "duration_ms": 159863,
+      "name": "J COMMANDE",
+      "url": "https://open.spotify.com/track/1y6TvjEXs7ks2A13CkkjWN"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
       "album": {
         "name": "ALADJI DRILL 45",
         "url": "https://open.spotify.com/album/0GEgqLCrz6ALG53mLti5WS"
@@ -497,199 +365,119 @@
       "url": "https://open.spotify.com/track/2pDbDTI8AnEGvaIcTcTVE0"
     },
     {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
       "album": {
-        "name": "ASKEL GESTE",
-        "url": "https://open.spotify.com/album/0a2Zb35LSYcFWD0XbLOzAi"
+        "name": "EPASUKA (feat. Didi B)",
+        "url": "https://open.spotify.com/album/0o3ItaYqqwv5Gjc4LkhSEH"
       },
       "artists": [
         {
-          "name": "DEMENTOS",
-          "url": "https://open.spotify.com/artist/55EHiUBT43mSyM6uHpjA3D"
-        }
-      ],
-      "duration_ms": 195284,
-      "name": "ASKEL GESTE",
-      "url": "https://open.spotify.com/track/2Wzh9W7495MYrcXbiAaVkH"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "DACHIBA KOUMGBA TCHAIBA : DALSHIM",
-        "url": "https://open.spotify.com/album/6qtytRvjDiVRsYweV2svgi"
-      },
-      "artists": [
-        {
-          "name": "Himra",
-          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
-        },
-        {
-          "name": "Philipayne",
-          "url": "https://open.spotify.com/artist/4yqT8sbLpKfUkQX64ujh8D"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "ON EST PAS DJAOULI (feat. Philipayne)",
-      "url": "https://open.spotify.com/track/6HzBHL5BShkBe9ShVBlJtQ"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "Comment",
-        "url": "https://open.spotify.com/album/0vQJ88JoPmQcT5iOw3t1I6"
-      },
-      "artists": [
-        {
-          "name": "AK4SEVEN",
-          "url": "https://open.spotify.com/artist/7siecjJoVvbBcDLeeidpwJ"
-        }
-      ],
-      "duration_ms": 172258,
-      "name": "Comment",
-      "url": "https://open.spotify.com/track/1xvIl0T6i2E4Rhv8hWYYTz"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "BABI TAPE Vol.1",
-        "url": "https://open.spotify.com/album/2U7lnGy6lvqtL4v5prqaPZ"
-      },
-      "artists": [
-        {
-          "name": "Babi Tape",
-          "url": "https://open.spotify.com/artist/5BRT2SPDAaQKvZCVpbIZ2J"
+          "name": "DAVINHOR",
+          "url": "https://open.spotify.com/artist/3viiIGEp9jn0sKz4K0D6HT"
         },
         {
           "name": "Didi B",
           "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        },
-        {
-          "name": "Widgunz",
-          "url": "https://open.spotify.com/artist/3sIJ8AYWsQmlgIcLxwiFkt"
         }
       ],
-      "duration_ms": 130639,
-      "name": "Shogun & Djinze",
-      "url": "https://open.spotify.com/track/6r51OeQqNi9boKeEw0RuYh"
+      "duration_ms": 175806,
+      "name": "EPASUKA (feat. Didi B)",
+      "url": "https://open.spotify.com/track/6bDi4Yg8gS8mLBzP1fCcNB"
     },
     {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
       "album": {
-        "name": "WOLOLO",
-        "url": "https://open.spotify.com/album/7LxeU9fU0qWqksCwJokyNI"
+        "name": "Okplononko 1",
+        "url": "https://open.spotify.com/album/6oqYBitAWeBEG4vMBjsXjo"
       },
       "artists": [
+        {
+          "name": "Sethlo",
+          "url": "https://open.spotify.com/artist/2PTCG1mxDKcnGzHIiCuVON"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "Okplononko 1",
+      "url": "https://open.spotify.com/track/24N5q8Jeh1MZGDVDXCJFHX"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "Sant\u00e9",
+        "url": "https://open.spotify.com/album/7FQXOFR8zUbujpNhGcjUhs"
+      },
+      "artists": [
+        {
+          "name": "Ameka Zrai",
+          "url": "https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv"
+        },
         {
           "name": "L'Oiseau Rare",
           "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
         }
       ],
-      "duration_ms": 190000,
-      "name": "WOLOLO",
-      "url": "https://open.spotify.com/track/23l3SynQyICHQSUT3TK4br"
+      "duration_ms": 187940,
+      "name": "Sant\u00e9",
+      "url": "https://open.spotify.com/track/5WGnX9BtRdajMRI9oS75hp"
     },
     {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
       "album": {
-        "name": "INVASION : TOME I",
-        "url": "https://open.spotify.com/album/2LsHafbrpIYiOGn1y7YfNb"
+        "name": "Redressement",
+        "url": "https://open.spotify.com/album/7do7o9AEZPddbpVJN4mtqZ"
       },
       "artists": [
         {
-          "name": "Sindika",
-          "url": "https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV"
+          "name": "Iba One",
+          "url": "https://open.spotify.com/artist/3f63uWQYi2tLKaONH44oSv"
         }
       ],
-      "duration_ms": 229285,
-      "name": "KOUMAN CHANMAN",
-      "url": "https://open.spotify.com/track/4ujb0DdulvXGmXqvAAWjjo"
+      "duration_ms": 156145,
+      "name": "Redressement",
+      "url": "https://open.spotify.com/track/0k0xQgr4MOwsY8OzrgnIsn"
     },
     {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
       "album": {
-        "name": "Suspect 95 - MVP",
-        "url": "https://open.spotify.com/album/0KYoZrYR3Pt3C3Iv1yzrj6"
+        "name": "Pas Toucher (feat. Fanicko)",
+        "url": "https://open.spotify.com/album/3bfjBd4B9uYpVg3GCRI8oZ"
       },
       "artists": [
         {
-          "name": "Suspect95",
-          "url": "https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9"
-        }
-      ],
-      "duration_ms": 178149,
-      "name": "Suspect 95 - MVP",
-      "url": "https://open.spotify.com/track/3SLHJIIG2GLfqweMBLj9ts"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "TANTINE",
-        "url": "https://open.spotify.com/album/3N0RPDXIALceLrVLs6JwZB"
-      },
-      "artists": [
-        {
-          "name": "Waza no limite",
-          "url": "https://open.spotify.com/artist/0J285nKY53u8GAlvywTPQb"
+          "name": "DRE-A",
+          "url": "https://open.spotify.com/artist/7fgp0tqyX3Rccl9P9042mE"
         },
         {
-          "name": "Elgor Beatz",
-          "url": "https://open.spotify.com/artist/4AtBPAJFtolERPERU23kOr"
+          "name": "Fanicko",
+          "url": "https://open.spotify.com/artist/5w4rQV4ajaclFQUATqeo4p"
         }
       ],
-      "duration_ms": 139920,
-      "name": "TANTINE",
-      "url": "https://open.spotify.com/track/4mG3gwyKd9f1sKtSak6RlX"
+      "duration_ms": 188960,
+      "name": "Pas Toucher (feat. Fanicko)",
+      "url": "https://open.spotify.com/track/0bRW67DKXwALmPn6KWJ45u"
     },
     {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
       "album": {
-        "name": "Tout oublier",
-        "url": "https://open.spotify.com/album/0JVTs9ACEF5of3JKBObpI0"
+        "name": "C\u2019PAS MM CHOSE",
+        "url": "https://open.spotify.com/album/4o3KCPpbuv0zs5RKSCjX7n"
       },
       "artists": [
         {
-          "name": "Kadja",
-          "url": "https://open.spotify.com/artist/18r6Mec5ndlllp5BAoGNek"
-        }
-      ],
-      "duration_ms": 255928,
-      "name": "Tout oublier",
-      "url": "https://open.spotify.com/track/73XxMiR2dv0NrzPD4XpcsR"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "Coco",
-        "url": "https://open.spotify.com/album/7iZwli2gUCz01bdk0CfyB4"
-      },
-      "artists": [
+          "name": "DEMENTOS",
+          "url": "https://open.spotify.com/artist/55EHiUBT43mSyM6uHpjA3D"
+        },
         {
-          "name": "Lil Jay Bingerack",
-          "url": "https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu"
+          "name": "L'Oiseau Rare",
+          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Coco",
-      "url": "https://open.spotify.com/track/6tgh9OuEO11QgstLGl8KJm"
+      "duration_ms": 200221,
+      "name": "C\u2019PAS MM CHOSE",
+      "url": "https://open.spotify.com/track/0rIE652lQqE7NK6sHR5ive"
     },
     {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "Kira 5",
-        "url": "https://open.spotify.com/album/5JbJGSXKZ2e8nQlf6TqoEb"
-      },
-      "artists": [
-        {
-          "name": "Paki Chenzu",
-          "url": "https://open.spotify.com/artist/7CaZ0PyALKhFyvSLhnkpvB"
-        }
-      ],
-      "duration_ms": 263160,
-      "name": "Kira 5",
-      "url": "https://open.spotify.com/track/5kjNtDSk3kBFIQU4ZasFm1"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
       "album": {
         "name": "Juventus Nueva Era",
         "url": "https://open.spotify.com/album/40IUUa2awdvlwpkChxGNCw"
@@ -709,151 +497,47 @@
       "url": "https://open.spotify.com/track/3s5ujKHSnBop24gkiH2y9g"
     },
     {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
       "album": {
-        "name": "Ngoze Sisia",
-        "url": "https://open.spotify.com/album/4PTHuV8MSqvSc99rq4vvzk"
+        "name": "Et DIEU cr\u00e9a KADJA",
+        "url": "https://open.spotify.com/album/3WQfNCMdwxOQeoqwHEJCrJ"
       },
       "artists": [
         {
-          "name": "L'Oiseau Rare",
-          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
+          "name": "Kadja",
+          "url": "https://open.spotify.com/artist/18r6Mec5ndlllp5BAoGNek"
         },
         {
-          "name": "Don'zer",
-          "url": "https://open.spotify.com/artist/2nxPUQcu3EpsHQIrfGgalc"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "Ngoze Sisia",
-      "url": "https://open.spotify.com/track/2TNGpZ3E3j4b70dbYztg5d"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "Oulala (II)",
-        "url": "https://open.spotify.com/album/2QN5pmtN6C2psqCjpU0Evi"
-      },
-      "artists": [
-        {
-          "name": "Kocee",
-          "url": "https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6"
+          "name": "Black M",
+          "url": "https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw"
         },
         {
-          "name": "Fior 2 Bior",
-          "url": "https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL"
+          "name": "bel canto",
+          "url": "https://open.spotify.com/artist/2PI3gO1kONdc4q7YYCs5ph"
         }
       ],
-      "duration_ms": 145500,
-      "name": "Oulala - II",
-      "url": "https://open.spotify.com/track/3zPZIfGDRXOeo6k0qdooo5"
+      "duration_ms": 222580,
+      "name": "R\u00eaves, peines et r\u00e9alit\u00e9s",
+      "url": "https://open.spotify.com/track/6Nzlbp1Ef3AxLtuBVcE0M4"
     },
     {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
       "album": {
-        "name": "Papa De Trap #1 (Aura Bal\u00e8ze)",
-        "url": "https://open.spotify.com/album/6GhOMP5VNfFP335XymwsGz"
+        "name": "Kira 5",
+        "url": "https://open.spotify.com/album/5JbJGSXKZ2e8nQlf6TqoEb"
       },
       "artists": [
         {
-          "name": "Mister Z",
-          "url": "https://open.spotify.com/artist/307x3tnqwLKdaFiDcK5s7t"
+          "name": "Paki Chenzu",
+          "url": "https://open.spotify.com/artist/7CaZ0PyALKhFyvSLhnkpvB"
         }
       ],
-      "duration_ms": 94489,
-      "name": "Papa De Trap #1 (Aura Bal\u00e8ze)",
-      "url": "https://open.spotify.com/track/5HmQ6kbU0W0Z0ksg0Ct6Wo"
+      "duration_ms": 263160,
+      "name": "Kira 5",
+      "url": "https://open.spotify.com/track/5kjNtDSk3kBFIQU4ZasFm1"
     },
     {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "All\u00f4 All\u00f4",
-        "url": "https://open.spotify.com/album/0kAn8N5LSmDLd1o6UvIrrJ"
-      },
-      "artists": [
-        {
-          "name": "Le couteau",
-          "url": "https://open.spotify.com/artist/59kQfrM2qVIPV7gfba2ijs"
-        },
-        {
-          "name": "3xdavs",
-          "url": "https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr"
-        }
-      ],
-      "duration_ms": 158186,
-      "name": "All\u00f4 All\u00f4",
-      "url": "https://open.spotify.com/track/5KP8NGOoGIDTViKvS1R97u"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "Le succ\u00e8s",
-        "url": "https://open.spotify.com/album/0H2rK6Xwxq0IHm2vktMJru"
-      },
-      "artists": [
-        {
-          "name": "Bobo W\u00ea",
-          "url": "https://open.spotify.com/artist/642rtz8JmALxfNA9c5h92G"
-        }
-      ],
-      "duration_ms": 200080,
-      "name": "Le succ\u00e8s",
-      "url": "https://open.spotify.com/track/1GWStOSyW9wxtIzn6CUa4d"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "FAKE",
-        "url": "https://open.spotify.com/album/1ND9ff70QTZubcUP1alN5J"
-      },
-      "artists": [
-        {
-          "name": "Sins",
-          "url": "https://open.spotify.com/artist/4pgGpt1oWR7yDcKWJqtVSa"
-        }
-      ],
-      "duration_ms": 142797,
-      "name": "FAKE",
-      "url": "https://open.spotify.com/track/3cAq7nnb7dlVUW8GFkDAkL"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "Nouvelle Tendance",
-        "url": "https://open.spotify.com/album/6DLMwYCKBkRmPLkpObIkpH"
-      },
-      "artists": [
-        {
-          "name": "Carty",
-          "url": "https://open.spotify.com/artist/33p7Ux3XLYuYDP1cjIaycW"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "LOCCO",
-      "url": "https://open.spotify.com/track/4giO7frwrQyr9V1UjR2Mi7"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
-      "album": {
-        "name": "Catimini",
-        "url": "https://open.spotify.com/album/1CV376kiafI3z4tHv5UFWm"
-      },
-      "artists": [
-        {
-          "name": "Tazeboy",
-          "url": "https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa"
-        },
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        }
-      ],
-      "duration_ms": 162701,
-      "name": "Catimini",
-      "url": "https://open.spotify.com/track/6ZMUrUT5e2aQabvEL2iGY0"
-    },
-    {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
       "album": {
         "name": "BABI TAPE Vol.1",
         "url": "https://open.spotify.com/album/2U7lnGy6lvqtL4v5prqaPZ"
@@ -881,84 +565,396 @@
       "url": "https://open.spotify.com/track/5WrjbYKOe0EsZnjWML44N9"
     },
     {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
       "album": {
-        "name": "Aversion",
-        "url": "https://open.spotify.com/album/4RjckJ3WNH6zY306UromeB"
+        "name": "DACHIBA KOUMGBA TCHAIBA : DALSHIM",
+        "url": "https://open.spotify.com/album/6qtytRvjDiVRsYweV2svgi"
       },
       "artists": [
         {
-          "name": "King Arthur FB",
-          "url": "https://open.spotify.com/artist/6QL5ppQoWD53baa4t3gVzo"
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
         },
         {
-          "name": "LiFkA",
-          "url": "https://open.spotify.com/artist/11ASLEHxfoDIC9s2rVDFAf"
+          "name": "Philipayne",
+          "url": "https://open.spotify.com/artist/4yqT8sbLpKfUkQX64ujh8D"
         }
       ],
-      "duration_ms": 151034,
-      "name": "Aversion",
-      "url": "https://open.spotify.com/track/06qvfp18LjtYnzvSL48OEA"
+      "duration_ms": 168333,
+      "name": "ON EST PAS DJAOULI (feat. Philipayne)",
+      "url": "https://open.spotify.com/track/6HzBHL5BShkBe9ShVBlJtQ"
     },
     {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
       "album": {
-        "name": "C'est tch\u00f4",
-        "url": "https://open.spotify.com/album/31hj7cL4Wcxj0UQOJyKIZ5"
+        "name": "WOLOLO",
+        "url": "https://open.spotify.com/album/7LxeU9fU0qWqksCwJokyNI"
       },
       "artists": [
         {
-          "name": "NOVA BINKS",
-          "url": "https://open.spotify.com/artist/5HedNXMMeY0KqV6b016Iwl"
-        },
-        {
-          "name": "Xmo Z",
-          "url": "https://open.spotify.com/artist/6kmy9lhA87jwRFgfshxlR2"
+          "name": "L'Oiseau Rare",
+          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
         }
       ],
-      "duration_ms": 164475,
-      "name": "C'est tch\u00f4",
-      "url": "https://open.spotify.com/track/3o7GChDqepk1swchrVCv4E"
+      "duration_ms": 190000,
+      "name": "WOLOLO",
+      "url": "https://open.spotify.com/track/23l3SynQyICHQSUT3TK4br"
     },
     {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
       "album": {
-        "name": "EWUA 2 : OMST",
-        "url": "https://open.spotify.com/album/4FjnwE6jjPaqBor5EqzEf5"
+        "name": "Suspect 95 - MVP",
+        "url": "https://open.spotify.com/album/0KYoZrYR3Pt3C3Iv1yzrj6"
       },
       "artists": [
         {
-          "name": "D2R",
-          "url": "https://open.spotify.com/artist/10NKmpO1uWDOPLnFaxbjdr"
-        },
-        {
-          "name": "Elyaquim",
-          "url": "https://open.spotify.com/artist/1WNCIBM1x1OtQ6s5whnuDO"
+          "name": "Suspect95",
+          "url": "https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9"
         }
       ],
-      "duration_ms": 198239,
-      "name": "Drogba en 2010",
-      "url": "https://open.spotify.com/track/0KSTn75tH0qiTZ3EedTUhi"
+      "duration_ms": 178149,
+      "name": "Suspect 95 - MVP",
+      "url": "https://open.spotify.com/track/3SLHJIIG2GLfqweMBLj9ts"
     },
     {
-      "added_at": "2025-12-04 23:00:10",
+      "added_at": "2025-12-11 23:00:24",
       "album": {
-        "name": "En tas",
-        "url": "https://open.spotify.com/album/6wt4Rp9N0yU2MsfEm9lXNH"
+        "name": "INVASION : TOME I",
+        "url": "https://open.spotify.com/album/2LsHafbrpIYiOGn1y7YfNb"
       },
       "artists": [
         {
-          "name": "2ci",
-          "url": "https://open.spotify.com/artist/2fp7fRtwyWt0l8uehjiMXT"
-        },
-        {
-          "name": "J-Haine",
-          "url": "https://open.spotify.com/artist/6xqk9AhuWQXiyARu2ViDvI"
+          "name": "Sindika",
+          "url": "https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV"
         }
       ],
-      "duration_ms": 120000,
-      "name": "En tas",
-      "url": "https://open.spotify.com/track/6VmswO0xO4iWADlcx5JdMZ"
+      "duration_ms": 229285,
+      "name": "KOUMAN CHANMAN",
+      "url": "https://open.spotify.com/track/4ujb0DdulvXGmXqvAAWjjo"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "C'est Chaud",
+        "url": "https://open.spotify.com/album/2NvPS6rbzPMzNL7COR3b6L"
+      },
+      "artists": [
+        {
+          "name": "Trois Officiel",
+          "url": "https://open.spotify.com/artist/26zFi9Jf1jdloqRU2UEhrb"
+        },
+        {
+          "name": "Abdel Kader",
+          "url": "https://open.spotify.com/artist/16p6gSJtGyIV7oLyPocwP5"
+        },
+        {
+          "name": "L'Otre L\u00e0",
+          "url": "https://open.spotify.com/artist/1WUKbTkRm6vjx6szJx5s3c"
+        }
+      ],
+      "duration_ms": 167355,
+      "name": "C'est Chaud",
+      "url": "https://open.spotify.com/track/1UrnbvkVqediUlSSOh4X3S"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "All\u00f4 All\u00f4",
+        "url": "https://open.spotify.com/album/0kAn8N5LSmDLd1o6UvIrrJ"
+      },
+      "artists": [
+        {
+          "name": "Le couteau",
+          "url": "https://open.spotify.com/artist/59kQfrM2qVIPV7gfba2ijs"
+        },
+        {
+          "name": "3xdavs",
+          "url": "https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr"
+        }
+      ],
+      "duration_ms": 158186,
+      "name": "All\u00f4 All\u00f4",
+      "url": "https://open.spotify.com/track/5KP8NGOoGIDTViKvS1R97u"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "Connexion Macabre",
+        "url": "https://open.spotify.com/album/6nnJGahm0BXXN4FI9TDACh"
+      },
+      "artists": [
+        {
+          "name": "OG Mahilet",
+          "url": "https://open.spotify.com/artist/3WbcgjqtToJiTxZ3IlibGT"
+        },
+        {
+          "name": "Lamine l\u00f8ssa",
+          "url": "https://open.spotify.com/artist/2YkHQOwaaDFLiOar0oXqy6"
+        }
+      ],
+      "duration_ms": 179104,
+      "name": "Connexion Macabre",
+      "url": "https://open.spotify.com/track/5iFNEk0njSrwP41R4sTEmJ"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "ANITCHE",
+        "url": "https://open.spotify.com/album/6vMjqUpuivsSf20TkhFXwF"
+      },
+      "artists": [
+        {
+          "name": "Paki Chenzu",
+          "url": "https://open.spotify.com/artist/7CaZ0PyALKhFyvSLhnkpvB"
+        },
+        {
+          "name": "Safarel Obiang",
+          "url": "https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "ANITCHE",
+      "url": "https://open.spotify.com/track/5p9vr4UFtcVdR2iYgMdJbw"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "Catimini",
+        "url": "https://open.spotify.com/album/1CV376kiafI3z4tHv5UFWm"
+      },
+      "artists": [
+        {
+          "name": "Tazeboy",
+          "url": "https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa"
+        },
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "duration_ms": 162701,
+      "name": "Catimini",
+      "url": "https://open.spotify.com/track/6ZMUrUT5e2aQabvEL2iGY0"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "Ngoze Sisia",
+        "url": "https://open.spotify.com/album/4PTHuV8MSqvSc99rq4vvzk"
+      },
+      "artists": [
+        {
+          "name": "L'Oiseau Rare",
+          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
+        },
+        {
+          "name": "Don'zer",
+          "url": "https://open.spotify.com/artist/2nxPUQcu3EpsHQIrfGgalc"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "Ngoze Sisia",
+      "url": "https://open.spotify.com/track/2TNGpZ3E3j4b70dbYztg5d"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "BIG TAZE",
+        "url": "https://open.spotify.com/album/6KY24lWvNTk447Hu9iRGKm"
+      },
+      "artists": [
+        {
+          "name": "Tazeboy",
+          "url": "https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa"
+        },
+        {
+          "name": "Noukou",
+          "url": "https://open.spotify.com/artist/7x0IZxCa7zv3ROFI7xbLUN"
+        }
+      ],
+      "duration_ms": 171446,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/1NlOBqqVvZrgxn3ZyBGXBw"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "Le succ\u00e8s",
+        "url": "https://open.spotify.com/album/0H2rK6Xwxq0IHm2vktMJru"
+      },
+      "artists": [
+        {
+          "name": "Bobo W\u00ea",
+          "url": "https://open.spotify.com/artist/642rtz8JmALxfNA9c5h92G"
+        }
+      ],
+      "duration_ms": 200080,
+      "name": "Le succ\u00e8s",
+      "url": "https://open.spotify.com/track/1GWStOSyW9wxtIzn6CUa4d"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "Comment",
+        "url": "https://open.spotify.com/album/0vQJ88JoPmQcT5iOw3t1I6"
+      },
+      "artists": [
+        {
+          "name": "AK4SEVEN",
+          "url": "https://open.spotify.com/artist/7siecjJoVvbBcDLeeidpwJ"
+        }
+      ],
+      "duration_ms": 172258,
+      "name": "Comment",
+      "url": "https://open.spotify.com/track/1xvIl0T6i2E4Rhv8hWYYTz"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/7iZwli2gUCz01bdk0CfyB4"
+      },
+      "artists": [
+        {
+          "name": "Lil Jay Bingerack",
+          "url": "https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Coco",
+      "url": "https://open.spotify.com/track/6tgh9OuEO11QgstLGl8KJm"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "Tout oublier",
+        "url": "https://open.spotify.com/album/0JVTs9ACEF5of3JKBObpI0"
+      },
+      "artists": [
+        {
+          "name": "Kadja",
+          "url": "https://open.spotify.com/artist/18r6Mec5ndlllp5BAoGNek"
+        }
+      ],
+      "duration_ms": 255928,
+      "name": "Tout oublier",
+      "url": "https://open.spotify.com/track/73XxMiR2dv0NrzPD4XpcsR"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "Nouvelle Tendance",
+        "url": "https://open.spotify.com/album/6DLMwYCKBkRmPLkpObIkpH"
+      },
+      "artists": [
+        {
+          "name": "Carty",
+          "url": "https://open.spotify.com/artist/33p7Ux3XLYuYDP1cjIaycW"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "LOCCO",
+      "url": "https://open.spotify.com/track/4giO7frwrQyr9V1UjR2Mi7"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "Marabout",
+        "url": "https://open.spotify.com/album/4iZaUIwE2RI4j2cWN1Gup4"
+      },
+      "artists": [
+        {
+          "name": "Joochar",
+          "url": "https://open.spotify.com/artist/56bmNSFswGkNea9CSLhFgp"
+        }
+      ],
+      "duration_ms": 141480,
+      "name": "Marabout",
+      "url": "https://open.spotify.com/track/1v7dUWCLuN2wRFxBqdVqvJ"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "TANTINE",
+        "url": "https://open.spotify.com/album/3N0RPDXIALceLrVLs6JwZB"
+      },
+      "artists": [
+        {
+          "name": "Waza no limite",
+          "url": "https://open.spotify.com/artist/0J285nKY53u8GAlvywTPQb"
+        },
+        {
+          "name": "Elgor Beatz",
+          "url": "https://open.spotify.com/artist/4AtBPAJFtolERPERU23kOr"
+        }
+      ],
+      "duration_ms": 139920,
+      "name": "TANTINE",
+      "url": "https://open.spotify.com/track/4mG3gwyKd9f1sKtSak6RlX"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "Charger",
+        "url": "https://open.spotify.com/album/0iskaRfgHt8Y9iR4sym0VR"
+      },
+      "artists": [
+        {
+          "name": "M I L O",
+          "url": "https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa"
+        }
+      ],
+      "duration_ms": 192640,
+      "name": "Charger",
+      "url": "https://open.spotify.com/track/5LoG4nhfVuHeWFvBAePU52"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "Papa De Trap #1 (Aura Bal\u00e8ze)",
+        "url": "https://open.spotify.com/album/6GhOMP5VNfFP335XymwsGz"
+      },
+      "artists": [
+        {
+          "name": "Mister Z",
+          "url": "https://open.spotify.com/artist/307x3tnqwLKdaFiDcK5s7t"
+        }
+      ],
+      "duration_ms": 94489,
+      "name": "Papa De Trap #1 (Aura Bal\u00e8ze)",
+      "url": "https://open.spotify.com/track/5HmQ6kbU0W0Z0ksg0Ct6Wo"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "Donne Moi",
+        "url": "https://open.spotify.com/album/7bAf60qK0LTf2CCy9O7zig"
+      },
+      "artists": [
+        {
+          "name": "Shapat",
+          "url": "https://open.spotify.com/artist/3cO0IAr6lPRQYMkYXO6STP"
+        }
+      ],
+      "duration_ms": 222274,
+      "name": "Donne Moi",
+      "url": "https://open.spotify.com/track/77iBU2Yk0R3P2AdKsgxIgI"
+    },
+    {
+      "added_at": "2025-12-11 23:00:24",
+      "album": {
+        "name": "TU DOIS YA",
+        "url": "https://open.spotify.com/album/1ds7mIHjMJxBLgCoSmdAoj"
+      },
+      "artists": [
+        {
+          "name": "Petit Z\u00e9p\u00e9",
+          "url": "https://open.spotify.com/artist/1B4XkNHp3uDYK1xdIPo5Iv"
+        }
+      ],
+      "duration_ms": 135836,
+      "name": "TU DOIS YA",
+      "url": "https://open.spotify.com/track/7hydFR3MiW6id3aLww1MJF"
     }
   ],
   "unique_name": "Afro Rap",

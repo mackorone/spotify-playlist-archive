@@ -2,9 +2,9 @@
 
 ### [Hard Techno](https://open.spotify.com/playlist/37i9dQZF1DWXCzcvFxzeno)
 
-> 😈 welcome to the rave 😈  Cover: Sara Landry
+> 😈 welcome to the rave 😈  Cover: Sara Landry + Shlømo
 
-330 songs - 22 hr 56 min
+332 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Acid Is My Drug](https://open.spotify.com/track/6ozzp2fnqDP0iKzf3uwDAO) | [Rabteu](https://open.spotify.com/artist/6RJC2mTVh69zPcBo5RdkF4) | [Acid Is My Drug](https://open.spotify.com/album/1EEcgNtx2wToMD22yZ0W6b) | 4:26 | 2024-04-09 | 2024-10-07 |
 | [Acid World](https://open.spotify.com/track/3Dnz6RCYRybCh9liOFWYp8) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc), [Rian Wood](https://open.spotify.com/artist/5llw3jYyaK1eBCYkbrjcGX), [ANGEL CANNON](https://open.spotify.com/artist/4Ybj0IqmuPWSp023XnJpCD) | [Acid World](https://open.spotify.com/album/5IH3CLYmgu9ghGj7gMYiwd) | 3:05 | 2025-07-25 | 2025-11-24 |
 | [Adagio For Strings](https://open.spotify.com/track/7xCiyNgdqxoPELJBL3XrQ6) | [BYORN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD) | [Adagio For Strings](https://open.spotify.com/album/34mJXRnbnNsqSJ1gH2MB3O) | 6:00 | 2024-04-09 |  |
+| [Addicted to You](https://open.spotify.com/track/6MBCIz3ryX6INVwCXmMKHi) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5), [FLKN](https://open.spotify.com/artist/3OyQ9AeMFgwKFHUgBOISww) | [Addicted to You](https://open.spotify.com/album/4YhgeoxIF0rz7hqRXhNcEm) | 3:15 | 2025-12-12 |  |
 | [Adrenaline Assault](https://open.spotify.com/track/4pnmqNJxTQ1hICEv5rOKow) | [CARAVEL](https://open.spotify.com/artist/5od72ceH2aN3pS4hcHNzRy), [Køzløv](https://open.spotify.com/artist/6lmg9kOOeuhhgThuBOE4bX) | [Adrenaline Assault \[HAK002\]](https://open.spotify.com/album/7kR5VLDFHCm8PMiHWnjHCr) | 5:07 | 2024-04-09 | 2024-08-30 |
 | [All I Wanna](https://open.spotify.com/track/7BenhguFkOw1irlhoOkvoq) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [Lex Ledu](https://open.spotify.com/artist/4F0a2Vk6M0lPjpzxWl2POl) | [All I Wanna](https://open.spotify.com/album/6QPTz9BSRPmmztADxFINCu) | 2:10 | 2024-10-24 |  |
 | [All In This \- Original mix](https://open.spotify.com/track/3GzkcXSKpe34kAjkFCxo1z) | [MAHTAL](https://open.spotify.com/artist/36mDqPu7kZeSHyrmsy0d2I) | [Omnes EP](https://open.spotify.com/album/4TOVX0sDqNR1LYTYrBpwt1) | 4:49 | 2024-04-09 |  |
@@ -43,7 +44,7 @@
 | [Beat Back](https://open.spotify.com/track/09p4eclqTGbBzstGGAp6EC) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Beat Back](https://open.spotify.com/album/5ImWcsae8kUiIYZ3eN4uHt) | 2:29 | 2025-05-16 |  |
 | [Because They Want Our Seat](https://open.spotify.com/track/4zr7hfFkbtPBUc9c1CeJN6) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Because They Want Our Seat](https://open.spotify.com/album/1caYLb8S3J4A2IdGzxXRV9) | 3:51 | 2024-09-06 | 2025-10-11 |
 | [Bella Ciao \- Hard Techno Remix](https://open.spotify.com/track/1EDnEdNHoNOhaTDBEowLDH) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Bella Ciao \(Hard Techno Remix\)](https://open.spotify.com/album/2wDigw0RKsIXLHrDK2hYaF) | 3:38 | 2024-05-31 |  |
-| [Berserk](https://open.spotify.com/track/3zz6aAkhSdYLZCO8CLG2an) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [Berserk](https://open.spotify.com/album/7F6zcr0bT4lMVblKSd3sUo) | 3:15 | 2025-08-22 |  |
+| [Berserk](https://open.spotify.com/track/3zz6aAkhSdYLZCO8CLG2an) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [Berserk](https://open.spotify.com/album/7F6zcr0bT4lMVblKSd3sUo) | 3:15 | 2025-08-22 | 2025-12-12 |
 | [BLACK](https://open.spotify.com/track/4YGzPQSuENk8V14hs3W9xH) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [BLACK](https://open.spotify.com/album/2Z6O9GYTQtu1wivPY3kMBe) | 5:31 | 2024-04-09 | 2024-09-27 |
 | [Black Hole](https://open.spotify.com/track/4zHpgtUnq6ukjCBoB3bsuP) | [Anxhela](https://open.spotify.com/artist/2GqUrgjv3nl7JBCJ26ky5n) | [Black Hole](https://open.spotify.com/album/0fEQO1ruegqY6Mq5Wsa1mN) | 6:20 | 2024-12-13 | 2025-10-02 |
 | [BLOW IT UP](https://open.spotify.com/track/3vqRYeWGfQli1HlRKgsrSA) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig), [Kruelty](https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD) | [BLOW IT UP](https://open.spotify.com/album/5hwnKzCJXnIFdvbrziT6si) | 2:38 | 2025-06-20 |  |
@@ -73,6 +74,7 @@
 | [Come With Me](https://open.spotify.com/track/0YAjsNY7yy3zbvX3HB2cP1) | [Lee Ann Roberts](https://open.spotify.com/artist/0vemAVjLY9Dbz229ZqRlT1) | [Come With Me EP](https://open.spotify.com/album/4DuL4YsE1cpJ8kS7pKJ4VJ) | 5:13 | 2024-04-09 | 2024-08-06 |
 | [Come With Me](https://open.spotify.com/track/5nHaB4kZ5QT8cH4Ie31ssY) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Come With Me](https://open.spotify.com/album/22DsxCKPqrUUOUG5E3x5Cm) | 3:59 | 2025-09-05 | 2025-12-03 |
 | [Control](https://open.spotify.com/track/7DiK4Zb8foUGz0DdmLGOCH) | [Clara Cuvé](https://open.spotify.com/artist/7daFW9cX9jHmOxZ0PIofRm) | [Sektion 1](https://open.spotify.com/album/4C3R1RL6h7EkNvTJnwwV1j) | 5:43 | 2024-04-09 | 2024-10-01 |
+| [CONTROL YOUR BODY](https://open.spotify.com/track/3xTwHPwWKMWrWgyN22Qk2h) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [CONTROL YOUR BODY](https://open.spotify.com/album/61k2pkPgF5ky2mjy7ZrBBa) | 3:36 | 2025-12-12 |  |
 | [Crush](https://open.spotify.com/track/4BuT5v6lb1LYYtzHntnhfx) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [Crush](https://open.spotify.com/album/4i0OpEAjeFGlaySj85Lh6g) | 2:13 | 2025-05-16 | 2025-07-30 |
 | [CWWDBI](https://open.spotify.com/track/5Y1PbmoHC3RPrBd4xQlz4Y) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [CWWDBI](https://open.spotify.com/album/7FlwGLtg6epGcfIeYC0wYI) | 3:19 | 2024-10-24 | 2025-07-25 |
 | [Daitarn](https://open.spotify.com/track/1e11DOVqj6bIxTuoGdYDcI) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Daitarn](https://open.spotify.com/album/3y7pMrwrSgyGfNDVfKO7cU) | 3:23 | 2025-07-25 | 2025-10-11 |
@@ -192,7 +194,7 @@
 | [Looking 4 Balance](https://open.spotify.com/track/4hiSM6rPD1vv2c4Td9ShFS) | [Regal](https://open.spotify.com/artist/10RlWd6mCUDiRpQ30bGL2E) | [Various Artists \- EP 3](https://open.spotify.com/album/7Drk0jXeEUhOkK7ohIZlil) | 6:22 | 2024-04-09 | 2024-08-14 |
 | [Lose Control](https://open.spotify.com/track/3Bi2SYUeN1CRZBvu8ocKND) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [T A N E](https://open.spotify.com/artist/76vKcd8tKbbD9Ryrmsshgn) | [Lose Control](https://open.spotify.com/album/6s4Spso2Zp8PWS9QFNbFLn) | 2:31 | 2024-12-13 |  |
 | [Lose Their Shit](https://open.spotify.com/track/0L94j90lQBZ1VOyAcBnyXp) | [Per Pleks](https://open.spotify.com/artist/2R3wb1vbfcX7igEpay4uPV), [Dottychu](https://open.spotify.com/artist/6yjC123viK1Ap6KEdPRyIm) | [Lose Their Shit \(feat\. Dottychu\)](https://open.spotify.com/album/0oXbCQU7Ophzv84gWr1Cqs) | 3:15 | 2024-07-14 | 2024-11-01 |
-| [LSD](https://open.spotify.com/track/5HPpRmPHaucvl8UTwMAXx5) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [LSD](https://open.spotify.com/album/5B9AGDTYMgEctDEsaCsJKo) | 2:36 | 2024-11-08 |  |
+| [LSD](https://open.spotify.com/track/5HPpRmPHaucvl8UTwMAXx5) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [LSD](https://open.spotify.com/album/5B9AGDTYMgEctDEsaCsJKo) | 2:36 | 2024-11-08 | 2025-12-12 |
 | [LSD XTC \(Do We Really Need\)](https://open.spotify.com/track/6wDwOzcVzg2HOKQk969a5Q) | [Krampf](https://open.spotify.com/artist/1sP5vDxtN8qBPTVxmUAhU9) | [What Is A Dj If He Can't Care](https://open.spotify.com/album/1qY7Th1XEsZFmgY1kPgg7O) | 3:52 | 2024-04-09 | 2024-06-19 |
 | [Magic Feet](https://open.spotify.com/track/7p7XX2brjwJG6DP4S34EPH) | [RobJanssen](https://open.spotify.com/artist/2FDAjR63mWtjnNpVo6ZB4X) | [Magic Feet](https://open.spotify.com/album/2KSFw3D1cGAITmkYQYFish) | 3:54 | 2024-07-14 | 2024-07-22 |
 | [Massive Attack](https://open.spotify.com/track/2MlYnCsWXwMyVVQMZmYMYr) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk) | [Massive Attack](https://open.spotify.com/album/2RmsWUdkRKEIrcQhSVFCLF) | 4:06 | 2024-04-09 | 2024-07-27 |

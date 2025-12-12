@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 
 > The Mills Brothers, The Andrews Sisters and other classic vocal groups.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,032 likes - 45 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,035 likes - 45 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 26 | [A G.I\. Wish](https://open.spotify.com/track/2TVIvoDLrq3adZBeDyFbl9) | [Four Vagabonds](https://open.spotify.com/artist/0uKcBFmwZYbIFXlWmQelqu), [Ray Conrad Grant, Jr.](https://open.spotify.com/artist/2BIqrWYWykhVzz3BKsXCpF), [Robert Arthur O'Neal](https://open.spotify.com/artist/0ZuEQxfuQejHYRtkOx5W79), [John Albert Jordan](https://open.spotify.com/artist/4ZuHlKZejvovr4ugaPYxY1), [Norval Donahue Taborn](https://open.spotify.com/artist/5dj06Qp6X30mdhsOmaJryV) | [Remember Pearl Harbor: Classic Songs Of World War II](https://open.spotify.com/album/4esQCA7GCIC2NBUq8ndw87) | 2:39 |
 | 27 | [Undecided](https://open.spotify.com/track/1bDzspMSL17XQokxAxAe22) | [The Ames Brothers](https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv) | [The Amazing Ames Brothers](https://open.spotify.com/album/4Mb59LfU7RrMOZTh6qx8IP) | 2:59 |
 | 28 | [Early Autumn](https://open.spotify.com/track/5st46QqB3wCTdFPUso9lll) | [The King Sisters](https://open.spotify.com/artist/6Gsao94MioGNcDLFGFAlw7) | [Imagination](https://open.spotify.com/album/0N0IsbV6VEvnx6e6gmD9Qb) | 2:51 |
-| 29 | [Fun And Fancy Free](https://open.spotify.com/track/7AcHnYTB2t17ZWjkgBeQsJ) | [The Dinning Sisters](https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h) | [The Very Best Of](https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz) | 2:40 |
-| 30 | [Shadow Waltz](https://open.spotify.com/track/7iCXh6rgmA7oAgDE6PR36B) | [The Hi\-Lo's](https://open.spotify.com/artist/2kWLLhh4T2mAW9kYuVbd7k) | [The Hi\-Lo's "Summertime"](https://open.spotify.com/album/3QOukFMGivyjt86gRBdi9G) | 2:54 |
+| 29 | [Shadow Waltz](https://open.spotify.com/track/7iCXh6rgmA7oAgDE6PR36B) | [The Hi\-Lo's](https://open.spotify.com/artist/2kWLLhh4T2mAW9kYuVbd7k) | [The Hi\-Lo's "Summertime"](https://open.spotify.com/album/3QOukFMGivyjt86gRBdi9G) | 2:54 |
+| 30 | [Fun And Fancy Free](https://open.spotify.com/track/7AcHnYTB2t17ZWjkgBeQsJ) | [The Dinning Sisters](https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h) | [The Very Best Of](https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz) | 2:40 |
 | 31 | [Underneath The Linden Tree](https://open.spotify.com/track/2rXUt201xsDplJW2BtBFXU) | [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15) | [The Singles Collection 1946\-60](https://open.spotify.com/album/75jzCtbYZGSEJgL7i9MhNN) | 2:41 |
 | 32 | [Give Me Time](https://open.spotify.com/track/22McLEDE7FIJDSNUhYqnKz) | [The De Castro Sisters](https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G) | [Teach Me Tonight](https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ) | 2:39 |
 | 33 | [Lullaby of Birdland](https://open.spotify.com/track/4ZQebNut4njSuTIJe7l3UH) | [Kirby Stone Four](https://open.spotify.com/artist/2lxCXV18FLswPAuCO0OeR9) | [The Kirby Stone Touch](https://open.spotify.com/album/2BeXXbbvUL4qzsm8A6W9pA) | 2:09 |

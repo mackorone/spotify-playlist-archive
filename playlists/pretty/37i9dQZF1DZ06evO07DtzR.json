@@ -1,12 +1,12 @@
 {
   "description": "This is EGOIST. The essential tracks, all in one playlist.",
-  "num_followers": 41119,
+  "num_followers": 41126,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAAA7iAkqQujMd3Dp68D819Fi",
+  "snapshot_id": "aTi4AAAAAAAACxyhlbzE4vGVsTThMRn8",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Everlasting Guilty Crown",
-        "url": "https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 96893,
-      "name": "The Everlasting Guilty Crown -TV Edit-",
-      "url": "https://open.spotify.com/track/2v38gEzNILLKvxrkX8NObo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit- <DAY version>",
         "url": "https://open.spotify.com/album/1lLiLkbIV9dwkyQ2blAzgD"
       },
@@ -635,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Departures - Anata Ni Okuru Ai No Uta",
-        "url": "https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy"
+        "name": "The Everlasting Guilty Crown",
+        "url": "https://open.spotify.com/album/4pYCfwpYg7uD3mibYScCb5"
       },
       "artists": [
         {
@@ -644,9 +628,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 254906,
-      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c -Instrumental-",
-      "url": "https://open.spotify.com/track/1O82mMEeNCTQZoiefCZLwn"
+      "duration_ms": 96893,
+      "name": "The Everlasting Guilty Crown -TV Edit-",
+      "url": "https://open.spotify.com/track/2v38gEzNILLKvxrkX8NObo"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Departures - Anata Ni Okuru Ai No Uta",
+        "url": "https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 254906,
+      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c -Instrumental-",
+      "url": "https://open.spotify.com/track/1O82mMEeNCTQZoiefCZLwn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fallen-TV edit-",
         "url": "https://open.spotify.com/album/46rDtAexHCRaKZTa1dVd7y"
       },
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Everlasting Guilty Crown",
-        "url": "https://open.spotify.com/album/2tXcG38XstJAsjlcoDmnxC"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 475773,
-      "name": "The Everlasting Guilty Crown BOOM BOOM SATELLITES remix -The Last Moment Of The Dawn-",
-      "url": "https://open.spotify.com/track/7HkFBmpnbzUPMz3vanDPjO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269",
         "url": "https://open.spotify.com/album/7f7ca0HGWNd2UJDmaV7dUG"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 317440,
       "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -Instrumental-",
       "url": "https://open.spotify.com/track/1pNSSNluazasQujT6XiCip"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Everlasting Guilty Crown",
+        "url": "https://open.spotify.com/album/2tXcG38XstJAsjlcoDmnxC"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 475773,
+      "name": "The Everlasting Guilty Crown BOOM BOOM SATELLITES remix -The Last Moment Of The Dawn-",
+      "url": "https://open.spotify.com/track/7HkFBmpnbzUPMz3vanDPjO"
     },
     {
       "added_at": null,

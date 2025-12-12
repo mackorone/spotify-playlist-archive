@@ -4,7 +4,7 @@
 
 > The best indie music of the moment\. Cover: Dove Ellis
 
-762 songs - 1 day 21 hr 26 min
+764 songs - 1 day 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,7 +356,7 @@
 | [It's Amazing To Be Young](https://open.spotify.com/track/2m3SuMEdjlOWVN05steEXf) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [It's Amazing To Be Young](https://open.spotify.com/album/7MvJ6Zr1OEcMYUxHZA9gWs) | 3:30 | 2025-02-21 | 2025-04-28 |
 | [Itch](https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Itch](https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt) | 2:24 | 2024-06-27 | 2024-08-30 |
 | [Itsumo](https://open.spotify.com/track/0l0lvQPjHQWXEnG187eyWw) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Itsumo](https://open.spotify.com/album/2oJB4zFLkIGgcV2Qk2jsL5) | 4:11 | 2025-09-25 |  |
-| [JET LAGGED](https://open.spotify.com/track/482mvThJO7wdJJjymB9PmC) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [JET LAGGED](https://open.spotify.com/album/1MqVWu2QqonaSzlpaBLKwV) | 3:15 | 2025-11-14 |  |
+| [JET LAGGED](https://open.spotify.com/track/482mvThJO7wdJJjymB9PmC) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [JET LAGGED](https://open.spotify.com/album/1MqVWu2QqonaSzlpaBLKwV) | 3:15 | 2025-11-14 | 2025-12-12 |
 | [Jetplane](https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Jetplane](https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc) | 2:36 | 2025-04-11 | 2025-06-13 |
 | [JIVE](https://open.spotify.com/track/4WJ7z7TqsN06ZXcgfVxCJG) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [JIVE](https://open.spotify.com/album/6L0MoQQNsJMpIxy2H0g98g) | 4:14 | 2025-06-19 | 2025-08-08 |
 | [Joker](https://open.spotify.com/track/3HyD8c5C8C7P5TgmNfc8YK) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Joker](https://open.spotify.com/album/3C5hemEZFqLPsfbiW1tm70) | 2:20 | 2024-06-27 | 2024-07-12 |
@@ -384,6 +384,7 @@
 | [last woman on earth](https://open.spotify.com/track/79UlPlMXGqCHfxDUJ4dPB2) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 4:19 | 2024-08-29 | 2024-09-27 |
 | [Late To The Party \(feat\. Declan McKenna\)](https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Late To The Party \(feat\. Declan McKenna\)](https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY) | 3:35 | 2024-08-29 | 2024-10-04 |
 | [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 | 2024-10-25 | 2025-01-31 |
+| [Let Me Grow and You'll See the Fruit](https://open.spotify.com/track/5SsRe29Ua89yh6vVJHJC6x) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Let Me Grow and You'll See the Fruit](https://open.spotify.com/album/24Ux2vjaotkgNhZvpn29Kk) | 3:09 | 2025-12-12 |  |
 | [Let's Go Swimming](https://open.spotify.com/track/2f7IZQDBK8uCckTPRn4XdJ) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Let's Go Swimming](https://open.spotify.com/album/4CKsINjnNa1hfJjSpyNqi8) | 4:14 | 2025-02-21 | 2025-04-04 |
 | [Let's Leave Together](https://open.spotify.com/track/7xv3o3szm1R3zQDc95Q0eA) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Let's Leave Together](https://open.spotify.com/album/7J2HCZc3g9V0KAq2DhAo7b) | 3:20 | 2025-01-31 | 2025-03-21 |
 | [LIE DOWN..](https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [LIE DOWN..](https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf) | 5:09 | 2025-01-17 | 2025-02-21 |
@@ -525,6 +526,7 @@
 | [Pray To That](https://open.spotify.com/track/00FPHiKX0CAJ767v58xmhO) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Pray To That](https://open.spotify.com/album/3qczr2RYA7bpl3ABKpUgXo) | 3:06 | 2025-07-31 | 2025-08-15 |
 | [Pretty Girls](https://open.spotify.com/track/56U1pIituJfEkU0impIpYA) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Pretty Girls](https://open.spotify.com/album/0i2NBNbgRnLyyUR2vIEOks) | 3:54 | 2024-08-08 | 2024-10-11 |
 | [Price On Fun](https://open.spotify.com/track/3RVdfN1q7TMQKywRmtfhdD) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [You Can't Put A Price On Fun](https://open.spotify.com/album/3ypNothOPxns9O8DIJubYb) | 3:20 | 2024-06-27 | 2024-09-13 |
+| [Prizefighter](https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Prizefighter](https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X) | 3:29 | 2025-12-12 |  |
 | [projections](https://open.spotify.com/track/0ler9C55DJbLJsgJprlFis) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [projections](https://open.spotify.com/album/4DNu93MzQ2528TXBVJ0zEt) | 4:20 | 2024-06-27 | 2024-07-12 |
 | [Psycho](https://open.spotify.com/track/3yTI3OvnXDJsTusEqkVaNt) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Psycho](https://open.spotify.com/album/6bqus3Y14ybl1sI3B49EOb) | 3:32 | 2025-03-28 | 2025-05-30 |
 | [Punish](https://open.spotify.com/track/2Iy2Qj5kTsmXAndBnOWdy4) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Punish](https://open.spotify.com/album/1xeGbgjpB3uXZ7oZGpc1zm) | 6:47 | 2024-11-01 | 2024-11-29 |
@@ -542,7 +544,7 @@
 | [Roobosh](https://open.spotify.com/track/4SGcQ6xwzsSPhugTOgcp7n) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Roobosh](https://open.spotify.com/album/3NZo87MKa0nCKlqbk6BoR5) | 3:20 | 2025-07-10 | 2025-09-19 |
 | [rooster](https://open.spotify.com/track/5gTYOYsiGMYVa6WVf98q1n) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [rooster](https://open.spotify.com/album/2wDHpVaU5WuuRgkn52Lp2e) | 5:35 | 2025-09-18 | 2025-10-17 |
 | [Roses In The Kitchen](https://open.spotify.com/track/4NSbxF11DKXMbNHdezK6bR) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Quiet Invitation To A Hard Conversation](https://open.spotify.com/album/77tEPBluanfT3lS8AkBgpB) | 3:28 | 2024-08-08 | 2024-09-06 |
-| [Rubber Band Man \(with Hozier\)](https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq) | 3:40 | 2025-10-23 |  |
+| [Rubber Band Man \(with Hozier\)](https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq) | 3:40 | 2025-10-23 | 2025-12-12 |
 | [Run](https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Run](https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM) | 3:36 | 2025-07-04 | 2025-09-27 |
 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 | 2024-06-27 | 2024-07-05 |
 | [Running/Planning](https://open.spotify.com/track/65Csu3DczS27ZFv6LCieKl) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Running/Planning](https://open.spotify.com/album/31gACQVSidtVeFzL4hUGy2) | 4:26 | 2025-03-28 | 2025-05-09 |

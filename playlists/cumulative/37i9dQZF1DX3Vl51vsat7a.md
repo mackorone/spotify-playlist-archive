@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Zimmer90, Eileen Alister, LUKAS OSCAR, Yu
 
-468 songs - 23 hr 53 min
+470 songs - 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [All We Are](https://open.spotify.com/track/0RuQVn5JcxuDBSNxo1sxau) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [ROOKERY](https://open.spotify.com/album/28WPMClVfDtMHaNrrjbPcX) | 3:38 | 2021-12-16 | 2023-02-24 |
 | [alle märchen sind gelogen](https://open.spotify.com/track/7qkjnUILqzn2GjkZfRcH7Z) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [alle märchen sind gelogen](https://open.spotify.com/album/6SL3jtI8KT2kgJeM46vrCD) | 2:45 | 2025-02-27 | 2025-08-22 |
 | [Allein](https://open.spotify.com/track/0GULOBrz0g7XwI39xjl93N) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Allein](https://open.spotify.com/album/1Q8LiMZVYTq0KhRpx8OB1o) | 3:04 | 2024-05-09 | 2024-08-09 |
-| [AMAZIN](https://open.spotify.com/track/04KZEpLfPcqFLFoNM0U3Fj) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [AMAZIN](https://open.spotify.com/album/7ySdeA8ikHprzQRWYoOZqA) | 2:40 | 2025-10-23 |  |
+| [AMAZIN](https://open.spotify.com/track/04KZEpLfPcqFLFoNM0U3Fj) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [AMAZIN](https://open.spotify.com/album/7ySdeA8ikHprzQRWYoOZqA) | 2:40 | 2025-10-23 | 2025-12-12 |
 | [amen](https://open.spotify.com/track/3FBQlqvYsxDlR9IBiRmB1v) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [amen](https://open.spotify.com/album/5pzvKgJcfuJoppf2J59qSy) | 2:17 | 2025-08-07 | 2025-11-07 |
 | [an all diesen Tagen](https://open.spotify.com/track/129TLJVbwR9oS1pVn20FAb) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [an all diesen Tagen](https://open.spotify.com/album/2HDPnK1ZmhJXm0rcPNYXTs) | 2:44 | 2022-04-07 | 2022-09-16 |
 | [Anders](https://open.spotify.com/track/5TYmnScjaRecWuBqEaA7S5) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Anders](https://open.spotify.com/album/5AXp6zh5m2lyBV5OTH5iwq) | 2:35 | 2023-06-16 | 2023-08-25 |
@@ -184,6 +184,7 @@
 | [HAPPY NEVER AFTER](https://open.spotify.com/track/3o3gTvHOGeBqyzS0PtraTH) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [SCARYTALE](https://open.spotify.com/album/1AxVUJ0eJ0lyOzgRYXIP5g) | 3:39 | 2024-02-22 | 2024-09-13 |
 | [Haus am Meer](https://open.spotify.com/track/5pB99KzpJkc7IOVTcCaUVh) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Haus am Meer](https://open.spotify.com/album/1iVc7dFKvehP3OmTpMihjm) | 2:17 | 2024-07-18 | 2025-07-25 |
 | [Haus am See](https://open.spotify.com/track/0ZmJHRMjUaDTjgUvg867Y5) | [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Haus am See](https://open.spotify.com/album/0oCCOrnBMCeNJ8kJXnUGJe) | 3:17 | 2021-12-16 | 2022-08-12 |
+| [Head Over Heels](https://open.spotify.com/track/0uyv1zBBUQolBPzKlslzKh) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Head Over Heels](https://open.spotify.com/album/6h3wZMS53G5yxRB2ZcZWx6) | 3:14 | 2025-12-11 |  |
 | [Headbanger](https://open.spotify.com/track/26RIjpOPLFygAMiUVeXoRq) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Headbanger](https://open.spotify.com/album/0OcIRYsHa2lbMMu6qB9niK) | 2:53 | 2025-01-30 | 2025-07-25 |
 | [heimweh\_demo](https://open.spotify.com/track/2K8mcs3oC7T23lArGehWwQ) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [dinge die ich nur mit worten nicht sagen kann\_demos](https://open.spotify.com/album/37M58Kd29M1ZMIC6qaw4xD) | 3:30 | 2025-04-24 |  |
 | [Hell](https://open.spotify.com/track/3jCXH64RBJHKjvMW9U7TZZ) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Playgrounds In Ruins](https://open.spotify.com/album/1rh0TJbZ0l0rjJeJMSLsfc) | 3:19 | 2025-02-27 | 2025-09-26 |
@@ -321,7 +322,7 @@
 | [Pinky Promise](https://open.spotify.com/track/530nmNKu7jq0fCTR6iyfuj) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [Pinky Promise](https://open.spotify.com/album/22i0H54dXIQPYi1cTzfRXg) | 2:49 | 2025-02-27 | 2025-05-30 |
 | [PIROUETTEN](https://open.spotify.com/track/3Vw4SxsPsVwG4xwK3Il0mP) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [berq](https://open.spotify.com/album/0IuwP0usnrJ9wU5PEyELdn) | 2:27 | 2024-10-24 |  |
 | [Pistazieneis](https://open.spotify.com/track/0O1LqLDF2mQmWVlSrC4Mwn) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg) | [Pistazieneis](https://open.spotify.com/album/4j7WNx3I81WGPiadrrCOtB) | 2:17 | 2024-07-04 | 2024-08-23 |
-| [Pity Party Princess](https://open.spotify.com/track/1Sk1xlCDUwUplLatU0MWRa) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Honeymoon In A Motel](https://open.spotify.com/album/3eRKBboz0GSShr4JGRmzl7) | 2:50 | 2025-09-25 |  |
+| [Pity Party Princess](https://open.spotify.com/track/1Sk1xlCDUwUplLatU0MWRa) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Honeymoon In A Motel](https://open.spotify.com/album/3eRKBboz0GSShr4JGRmzl7) | 2:50 | 2025-09-25 | 2025-12-12 |
 | [Playing House](https://open.spotify.com/track/3kE87cljGo6RY5hbjFmkRK) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Playing House](https://open.spotify.com/album/6asLr7iRg5ruj1vatTv75u) | 3:38 | 2025-07-10 | 2025-08-08 |
 | [pressure & release](https://open.spotify.com/track/6BzTik1v9IdQpXMxsBXAsY) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [pressure & release](https://open.spotify.com/album/2aCwGrHZVzuNtjUlxZY9JU) | 3:20 | 2023-02-02 | 2023-04-14 |
 | [Pretty Girl Thriller](https://open.spotify.com/track/0UwuMzIsMzLEY6pu8eS3Gn) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Pretty Girl Thriller](https://open.spotify.com/album/3510yYBDvh1DZxom9nOhlL) | 2:55 | 2025-05-29 | 2025-07-11 |
@@ -383,6 +384,7 @@
 | [sweatshop](https://open.spotify.com/track/1NbSzuTZwGgTgGpIq4ljHZ) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [sweatshop](https://open.spotify.com/album/4zcnApdR65SRUbftcGRyvS) | 2:29 | 2023-11-16 | 2024-11-22 |
 | [Süße Träume](https://open.spotify.com/track/37FEXZlxz8OYFiB8sdxkdk) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Süße Träume](https://open.spotify.com/album/4S620Fwlk0uQXT3ByjyGSf) | 2:40 | 2022-09-08 | 2024-08-23 |
 | [Süße Träume](https://open.spotify.com/track/4c8LnzyBlBW1crRcbDXKoW) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Süße Träume](https://open.spotify.com/album/5G5VwA4Nb7JxVamloIDFdl) | 2:40 | 2022-11-17 | 2024-04-19 |
+| [take a minute](https://open.spotify.com/track/1eenXCseEdOy5uid5p8n7G) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH), [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [take a minute](https://open.spotify.com/album/3iqvT2WGWwgM0ksgV21yc3) | 3:08 | 2025-12-11 |  |
 | [tau mich auf](https://open.spotify.com/track/6j8OrKDQHxXakjA7KKbWzj) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [tau mich auf](https://open.spotify.com/album/7dajv17bGrOJRn1I5etrcq) | 1:50 | 2025-01-30 | 2025-04-05 |
 | [Teen](https://open.spotify.com/track/3QEmBsw9CFMnNWaevPo91r) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Teen](https://open.spotify.com/album/2zRB8bzRMCoXTqNKQtD4Hf) | 3:03 | 2023-08-24 | 2024-01-19 |
 | [Tell me](https://open.spotify.com/track/6E3G5pMRT5FAUiQqaPuPts) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Tell me](https://open.spotify.com/album/5NI4GsDHOVx7LIcrIi4E6k) | 2:35 | 2024-11-28 | 2025-06-13 |

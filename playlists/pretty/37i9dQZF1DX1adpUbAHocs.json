@@ -1,6 +1,6 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 642922,
+  "num_followers": 642867,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "The Third Gleam",
-        "url": "https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 244280,
-      "name": "Untitled #4",
-      "url": "https://open.spotify.com/track/1kq9lzEHoY3p8naHWpqNlh"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Where'd All the Time Go",
         "url": "https://open.spotify.com/album/4BZkn39LpuX2LO7Cf3sjjD"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 241023,
       "name": "Where'd All the Time Go",
       "url": "https://open.spotify.com/track/6gvUAc9EaArZs1Hv8h6uxw"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "The Third Gleam",
+        "url": "https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 244280,
+      "name": "Untitled #4",
+      "url": "https://open.spotify.com/track/1kq9lzEHoY3p8naHWpqNlh"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1127,38 +1127,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "The Love Still Held Me Near",
-        "url": "https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 323093,
-      "name": "The Love Still Held Me Near",
-      "url": "https://open.spotify.com/track/3cNyJCm0nf1DPr6hvSLu8Q"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "See Here, I Have Built You a Mansion (Rare and Unreleased)",
-        "url": "https://open.spotify.com/album/252NtCT6AXklf3RywgcDTB"
-      },
-      "artists": [
-        {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
-        }
-      ],
-      "duration_ms": 233458,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/1HNVN5FDyLkwPyC7RJKPnV"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Sometimes I Wish We Were An Eagle",
         "url": "https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB"
       },
@@ -1175,6 +1143,22 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
+        "name": "The Love Still Held Me Near",
+        "url": "https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 323093,
+      "name": "The Love Still Held Me Near",
+      "url": "https://open.spotify.com/track/3cNyJCm0nf1DPr6hvSLu8Q"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
         "name": "Faithless",
         "url": "https://open.spotify.com/album/02jRAhRPMCdjOGnp7vxFfh"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 250565,
       "name": "Faithless",
       "url": "https://open.spotify.com/track/6Ehy2SxoGNmLoJQxGUr9fq"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "See Here, I Have Built You a Mansion (Rare and Unreleased)",
+        "url": "https://open.spotify.com/album/252NtCT6AXklf3RywgcDTB"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        }
+      ],
+      "duration_ms": 233458,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/1HNVN5FDyLkwPyC7RJKPnV"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Another Man's Jeans",
-        "url": "https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 165067,
-      "name": "Another Man's Jeans",
-      "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 205600,
       "name": "Better Angels",
       "url": "https://open.spotify.com/track/1WckQ5AxU2e4lvZ5aR845A"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Another Man's Jeans",
+        "url": "https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 165067,
+      "name": "Another Man's Jeans",
+      "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
     },
     {
       "added_at": "2024-07-05 20:58:56",

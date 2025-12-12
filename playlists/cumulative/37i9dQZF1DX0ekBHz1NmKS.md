@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,071 songs - 4 day 11 hr 24 min
+2,073 songs - 4 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,7 +628,7 @@
 | [För Sverige i tiden](https://open.spotify.com/track/0o5CvM5KZLzCTfDGkv3Vcv) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [För Sverige i tiden](https://open.spotify.com/album/2fNNdBuMKVptGEgFI62UiE) | 3:54 | 2025-06-05 | 2025-10-26 |
 | [Förbjudet land](https://open.spotify.com/track/4da9wutgbwJbY5L2K0wJSD) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap), [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Förbjudet land](https://open.spotify.com/album/3HkXIRwwC7MSTV5U3uDklm) | 3:47 | 2022-11-10 | 2022-12-13 |
 | [Fördärvad](https://open.spotify.com/track/6MSC5245nNM5GtZDq1ncC2) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Fördärvad](https://open.spotify.com/album/438edHGkbpMmjtI54r0zDh) | 2:38 | 2021-12-16 | 2022-03-11 |
-| [Förfäder](https://open.spotify.com/track/221qqYWKfl34pEtedawb1G) | [Svart Ridå](https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM) | [Förfäder](https://open.spotify.com/album/5Kl1yWEc4NRQULIKjAdEsN) | 5:01 | 2025-12-04 |  |
+| [Förfäder](https://open.spotify.com/track/221qqYWKfl34pEtedawb1G) | [Svart Ridå](https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM) | [Förfäder](https://open.spotify.com/album/5Kl1yWEc4NRQULIKjAdEsN) | 5:01 | 2025-12-04 | 2025-12-12 |
 | [Förlora](https://open.spotify.com/track/3ZkV52G1vRvVJRY0jgNY0S) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Kyss mig snabbt i otakt](https://open.spotify.com/album/2vy7VEefdqEVG458oaDGr6) | 3:09 | 2024-08-08 | 2025-02-15 |
 | [Förlora mig](https://open.spotify.com/track/7LKZIASzyTpIuUiJ6ed2Ra) | [Sebastian Walldén](https://open.spotify.com/artist/6nVppoLxZQC587nnLTQcKx) | [Förlora mig](https://open.spotify.com/album/1ss6cOzXB9SEIPLc4sDtGY) | 2:03 | 2022-05-19 | 2022-07-29 |
 | [Förlora oss](https://open.spotify.com/track/3TYM9Mw1rzH0VEhi8cjstM) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD), [eden](https://open.spotify.com/artist/4IsTqAm3Q0LnbSwSimAcnw) | [Förlora oss](https://open.spotify.com/album/2DXK5zLqVI3K33C0grFam0) | 2:27 | 2024-03-07 | 2024-04-19 |
@@ -758,6 +758,7 @@
 | [Helt allena](https://open.spotify.com/track/0br1JkuKdoIvPc1rPyT6qG) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Helt allena](https://open.spotify.com/album/1RSDfkKCC2j5sEpP6qk3hG) | 2:24 | 2023-10-19 | 2024-01-26 |
 | [Helt rätt](https://open.spotify.com/track/2Etw9QgIYzhogP9YWgFxbv) | [TUAI](https://open.spotify.com/artist/2BM8oWFRsHTy9SMaeCjarR) | [Helt rätt](https://open.spotify.com/album/2lFsbvTq9t0ZYVjvYefjgj) | 2:20 | 2024-02-15 | 2024-04-05 |
 | [Helvete!](https://open.spotify.com/track/2nImXY805FlyEcXIP5BbbM) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Helvete!](https://open.spotify.com/album/46WcOMzRtUPDPt55G0Osjm) | 3:42 | 2025-02-27 | 2025-06-20 |
+| [Helvete! \- Spotify Singles](https://open.spotify.com/track/1yNcbAs2AyjhdWLqx1P7ar) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Helvete! \(Spotify Singles\)](https://open.spotify.com/album/49YYvins0j1bpJ4cYp1oZq) | 3:37 | 2025-12-11 |  |
 | [Henne](https://open.spotify.com/track/6mxXyZIUPV3udIDilFlKUv) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Henne](https://open.spotify.com/album/1hRZUFvy7SfCtyUdd2VBJt) | 2:54 | 2024-04-19 | 2024-05-24 |
 | [Henry St.](https://open.spotify.com/track/70Ov0iAmFVnXsYQcQTP6AI) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Henry St.](https://open.spotify.com/album/5Y4VdmDCTKCFR1LXXL6SiN) | 4:29 | 2023-03-09 | 2023-04-25 |
 | [Her](https://open.spotify.com/track/6K0EBxtRqlFl481Zy0zAu9) | [Sky Li](https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI) | [Her](https://open.spotify.com/album/5mtPksE1kgJgCbNhphokhv) | 3:18 | 2023-01-12 | 2023-04-28 |
@@ -892,7 +893,7 @@
 | [IGEN IGEN IGEN](https://open.spotify.com/track/72AsuB2gKeQGDKEsjXdjls) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [IGEN IGEN IGEN](https://open.spotify.com/album/7nKcbzRHoxG6uhXymDpgaj) | 2:10 | 2024-04-19 | 2024-05-24 |
 | [IKNOW IKNOW](https://open.spotify.com/track/5w7VnCARb24upPxk3Q9nMW) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 3:53 | 2024-10-24 | 2025-04-18 |
 | [Ikväll gör jag vad som helst...](https://open.spotify.com/track/0DDcohQ8MvYNZ114EYoudo) | [Frida Lif](https://open.spotify.com/artist/69qWf1qLvLjd5Pu9APRL0Y) | [Ikväll gör jag vad som helst...](https://open.spotify.com/album/4lyiMRIT2bhctP9hTJ2s3K) | 2:58 | 2024-06-06 | 2024-06-28 |
-| [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/track/2y5nZ2b7hEopmgKuPOpdT5) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/album/6twcBceHcvChiodG82Jryb) | 1:53 | 2025-12-04 |  |
+| [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/track/2y5nZ2b7hEopmgKuPOpdT5) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Ikväll handlar det om oss \(en drink\)](https://open.spotify.com/album/6twcBceHcvChiodG82Jryb) | 1:53 | 2025-12-04 | 2025-12-12 |
 | [Ikväll måste nånting hända](https://open.spotify.com/track/2jaXOhm7dmmsokJjj2DsUA) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Ikväll måste nånting hända](https://open.spotify.com/album/0yaCpQvJffjcBuD4JFbXzI) | 3:39 | 2025-04-03 | 2025-06-06 |
 | [Ikväll tar vi över stan](https://open.spotify.com/track/0WlEryRlIqzywLjTYcnSun) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Så mycket bättre 2024 – Tolkningarna](https://open.spotify.com/album/4q7BqIIjzZULlSBEGbdprz) | 3:30 | 2024-11-07 | 2025-04-18 |
 | [Imagine](https://open.spotify.com/track/6negLw2oP4RRS9mQJPKXM6) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Imagine](https://open.spotify.com/album/6hvg6l17kva8IRQBe6mgS6) | 3:12 | 2023-06-22 | 2023-10-20 |
@@ -1012,6 +1013,7 @@
 | [Korthus](https://open.spotify.com/track/791sTulD9FqjjDlraYYIpT) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns), [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC), [Maria Jane Smith](https://open.spotify.com/artist/3IiNai4mJpTKP4SGjhJau5) | [Korthus](https://open.spotify.com/album/08oifjJ5L0K7l2a7UaUKBN) | 3:02 | 2022-09-01 | 2022-10-13 |
 | [Kostym & Sneakers](https://open.spotify.com/track/1mZaapzyBSRX5AThKRXVV6) | [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [Kostym & Sneakers](https://open.spotify.com/album/0yFA4cwBtbrOglS425pSGe) | 2:26 | 2024-04-18 | 2024-05-24 |
 | [Kransen](https://open.spotify.com/track/14iMujU8chd9Vac9vpjuVe) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Kransen](https://open.spotify.com/album/1fzz8Ae1OyMwuh5mcnISbr) | 3:43 | 2025-06-19 | 2025-08-26 |
+| [Krig](https://open.spotify.com/track/3ZjS9KHqg94sTPnPy2HB26) | [Labyrint](https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo) | [Krig](https://open.spotify.com/album/182MDeWuLgGIFOxRA077d4) | 2:13 | 2025-12-11 |  |
 | [Krossa snällt](https://open.spotify.com/track/4oRk3LwfqCjSQidSifY4tk) | [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Krossa snällt](https://open.spotify.com/album/4gwDN7mVK8hcKJeH50Z9XB) | 3:13 | 2024-02-15 | 2024-04-05 |
 | [Ktrl](https://open.spotify.com/track/326XDQRzTe8LDwDHJQtNdE) | [Diza Guava](https://open.spotify.com/artist/1JKLKkNDjTFxVMlr1lkImV) | [Ktrl](https://open.spotify.com/album/4Ib2uuSblqFz1EEeEnFcp6) | 3:36 | 2024-02-08 | 2024-02-18 |
 | [Kudde](https://open.spotify.com/track/6MW0vqvHbvcRMOWZuU4LjR) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Kudde](https://open.spotify.com/album/4m5BDHYbTbF1zX5RfcHOhj) | 2:40 | 2025-01-09 | 2025-01-19 |

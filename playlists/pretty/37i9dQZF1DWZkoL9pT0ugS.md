@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkoL9pT0ugS.md) - [plain]
 
 > Our editors' picks for the best songs from The Rock List in 2025\. Cover: Sleep Token
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,445 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,469 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkoL9pT0ugS.md) - [plain]
 | 74 | [Sabotage](https://open.spotify.com/track/0d0dCSbntM8IIXnaHFJzC8) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Sabotage](https://open.spotify.com/album/7nPd8RFHLiqjftozCODIRp) | 2:50 |
 | 75 | [Wonderwall \- Spotify Singles](https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c) | 4:00 |
 
-Snapshot ID: `AAAAAJU7RnjkOn/z5ITM993tF2WSeJS1`
+Snapshot ID: `AAAAAITywC9c0RY2iOyeOcPYn0/wcH86`

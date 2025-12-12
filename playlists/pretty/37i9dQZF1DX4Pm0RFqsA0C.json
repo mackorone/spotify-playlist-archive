@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 8646,
+  "num_followers": 8651,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
         }
       ],
-      "duration_ms": 243488,
-      "name": "\uc2ac\ud37c\uc9c0\ub824\ud558\uae30\uc804\uc5d0",
-      "url": "https://open.spotify.com/track/2TmvAnJwf0APYJBnGDg4N4"
+      "duration_ms": 265379,
+      "name": "\uc544\ub85c\ud558",
+      "url": "https://open.spotify.com/track/1uRB9bYGCSvLSsF4e65UYj"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
         }
       ],
-      "duration_ms": 265379,
-      "name": "\uc544\ub85c\ud558",
-      "url": "https://open.spotify.com/track/1uRB9bYGCSvLSsF4e65UYj"
+      "duration_ms": 243488,
+      "name": "\uc2ac\ud37c\uc9c0\ub824\ud558\uae30\uc804\uc5d0",
+      "url": "https://open.spotify.com/track/2TmvAnJwf0APYJBnGDg4N4"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/127CxMmFX7bctgIccMVPib"
-      },
-      "artists": [
-        {
-          "name": "Kim Jong Kook",
-          "url": "https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG"
-        }
-      ],
-      "duration_ms": 258973,
-      "name": "\ud55c \ub0a8\uc790",
-      "url": "https://open.spotify.com/track/0KjswKgBYLO65T674Hvldc"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "To Heaven",
         "url": "https://open.spotify.com/album/31IqkuM3AcPWni0vIJZvep"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 250409,
       "name": "To Heaven",
       "url": "https://open.spotify.com/track/4SULy2zFlFpmIPP7KFFTyT"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/127CxMmFX7bctgIccMVPib"
+      },
+      "artists": [
+        {
+          "name": "Kim Jong Kook",
+          "url": "https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG"
+        }
+      ],
+      "duration_ms": 258973,
+      "name": "\ud55c \ub0a8\uc790",
+      "url": "https://open.spotify.com/track/0KjswKgBYLO65T674Hvldc"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -655,8 +655,8 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "We Hate All Kinds of Violence... - The 1st Album",
-        "url": "https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP"
+        "name": "Wolf And Sheep",
+        "url": "https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
         }
       ],
-      "duration_ms": 264600,
-      "name": "Descent of Warriors",
-      "url": "https://open.spotify.com/track/0HiKR0bVxA7VJCShQ6HrUC"
+      "duration_ms": 220733,
+      "name": "We are the future",
+      "url": "https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -735,8 +735,8 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Wolf And Sheep",
-        "url": "https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN"
+        "name": "We Hate All Kinds of Violence... - The 1st Album",
+        "url": "https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
         }
       ],
-      "duration_ms": 220733,
-      "name": "We are the future",
-      "url": "https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV"
+      "duration_ms": 264600,
+      "name": "Descent of Warriors",
+      "url": "https://open.spotify.com/track/0HiKR0bVxA7VJCShQ6HrUC"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Year of The Tiger",
-        "url": "https://open.spotify.com/album/0bU84bQLsRzW4THAlnQGw0"
-      },
-      "artists": [
-        {
-          "name": "Drunken Tiger",
-          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
-        }
-      ],
-      "duration_ms": 220609,
-      "name": "\ub108\ud76c\uac00 \ud799\ud569\uc744 \uc544\ub290\ub0d0?",
-      "url": "https://open.spotify.com/track/2XbeVUIpalh7O9FZflpydb"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Coming of age ceremony",
         "url": "https://open.spotify.com/album/05plPnpK2TV7kYxM9S9kIF"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 245423,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/7GZQbO59yx42myT82PnMg1"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Year of The Tiger",
+        "url": "https://open.spotify.com/album/0bU84bQLsRzW4THAlnQGw0"
+      },
+      "artists": [
+        {
+          "name": "Drunken Tiger",
+          "url": "https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI"
+        }
+      ],
+      "duration_ms": 220609,
+      "name": "\ub108\ud76c\uac00 \ud799\ud569\uc744 \uc544\ub290\ub0d0?",
+      "url": "https://open.spotify.com/track/2XbeVUIpalh7O9FZflpydb"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "2008 Concert, Monologue",
-        "url": "https://open.spotify.com/album/1EVIqhHPkzsIkka00kZSNu"
-      },
-      "artists": [
-        {
-          "name": "Kim Dong Ryul",
-          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
-        },
-        {
-          "name": "Lee Juck",
-          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
-        }
-      ],
-      "duration_ms": 350093,
-      "name": "GOOSE'S DREAM (feat.Lee Juck)",
-      "url": "https://open.spotify.com/track/1JdMeBH2CkX8pzj6FbMwUS"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.33",
         "url": "https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 237029,
       "name": "\uc77c\uacfc \uc774\ubd84\uc758 \uc77c",
       "url": "https://open.spotify.com/track/0QxCpNGS8ZgDAx5aZldkgi"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "2008 Concert, Monologue",
+        "url": "https://open.spotify.com/album/1EVIqhHPkzsIkka00kZSNu"
+      },
+      "artists": [
+        {
+          "name": "Kim Dong Ryul",
+          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+        },
+        {
+          "name": "Lee Juck",
+          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
+        }
+      ],
+      "duration_ms": 350093,
+      "name": "GOOSE'S DREAM (feat.Lee Juck)",
+      "url": "https://open.spotify.com/track/1JdMeBH2CkX8pzj6FbMwUS"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Jaurim, The Wonder Land",
-        "url": "https://open.spotify.com/album/5e0Jv8JbDWQxbRZq3xhZE3"
-      },
-      "artists": [
-        {
-          "name": "JAURIM",
-          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "Magic carpet ride",
-      "url": "https://open.spotify.com/track/5rtSUuJx5VMaG88z9YEJUa"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "Big 5",
         "url": "https://open.spotify.com/album/1jePHxR3ksfXevvOi2IiiN"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 244509,
       "name": "Sad Fate",
       "url": "https://open.spotify.com/track/3cgyPqSOEKIjW63CeOyJb1"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Jaurim, The Wonder Land",
+        "url": "https://open.spotify.com/album/5e0Jv8JbDWQxbRZq3xhZE3"
+      },
+      "artists": [
+        {
+          "name": "JAURIM",
+          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "Magic carpet ride",
+      "url": "https://open.spotify.com/track/5rtSUuJx5VMaG88z9YEJUa"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "All Details",
-        "url": "https://open.spotify.com/album/2XTDT3Dae6mzMhyhVKU16Z"
-      },
-      "artists": [
-        {
-          "name": "Uhm Jung Hwa",
-          "url": "https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB"
-        }
-      ],
-      "duration_ms": 216224,
-      "name": "The Rose of Betrayal",
-      "url": "https://open.spotify.com/track/08NeKzNpojEoIjiGVVZMh4"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
         "name": "\uc2e0\ud574\ucca0",
         "url": "https://open.spotify.com/album/4m0fkoRpLFiJALSqwZ1ibX"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 298297,
       "name": "\uc9f8\uc988 \uce74\ud398",
       "url": "https://open.spotify.com/track/0SwSiNArqc58nd21Zfj1Ow"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "All Details",
+        "url": "https://open.spotify.com/album/2XTDT3Dae6mzMhyhVKU16Z"
+      },
+      "artists": [
+        {
+          "name": "Uhm Jung Hwa",
+          "url": "https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB"
+        }
+      ],
+      "duration_ms": 216224,
+      "name": "The Rose of Betrayal",
+      "url": "https://open.spotify.com/track/08NeKzNpojEoIjiGVVZMh4"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Are You Ready?",
-        "url": "https://open.spotify.com/album/64aonDMTzqzEKzemUi28J8"
+        "name": "Virginalness Bloom",
+        "url": "https://open.spotify.com/album/2ir57bADoholy7t2fvKCmY"
       },
       "artists": [
         {
-          "name": "Clon",
-          "url": "https://open.spotify.com/artist/3IvJqVgapy3AMUBmVGrvag"
+          "name": "Chae Yeon",
+          "url": "https://open.spotify.com/artist/4GKICdZK1BkL2ksxBEiMRR"
         }
       ],
-      "duration_ms": 234093,
-      "name": "Kung Ddari Sha Bah Rah",
-      "url": "https://open.spotify.com/track/6m8XQobhzigTSyAoV6lhlE"
+      "duration_ms": 183413,
+      "name": "Two Of Us",
+      "url": "https://open.spotify.com/track/3Kb2FrKuXnwUJkjKGcY1kK"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
-        "name": "Virginalness Bloom",
-        "url": "https://open.spotify.com/album/2ir57bADoholy7t2fvKCmY"
+        "name": "Are You Ready?",
+        "url": "https://open.spotify.com/album/64aonDMTzqzEKzemUi28J8"
       },
       "artists": [
         {
-          "name": "Chae Yeon",
-          "url": "https://open.spotify.com/artist/4GKICdZK1BkL2ksxBEiMRR"
+          "name": "Clon",
+          "url": "https://open.spotify.com/artist/3IvJqVgapy3AMUBmVGrvag"
         }
       ],
-      "duration_ms": 183413,
-      "name": "Two Of Us",
-      "url": "https://open.spotify.com/track/3Kb2FrKuXnwUJkjKGcY1kK"
+      "duration_ms": 234093,
+      "name": "Kung Ddari Sha Bah Rah",
+      "url": "https://open.spotify.com/track/6m8XQobhzigTSyAoV6lhlE"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1515,6 +1515,22 @@
       "duration_ms": 283960,
       "name": "\uac81\uc7c1\uc774",
       "url": "https://open.spotify.com/track/39G6FVe7Kcwm4AFArODRqt"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
+        "name": "Invitation",
+        "url": "https://open.spotify.com/album/3i3Qx4WpgOuMN2BC9g9VnB"
+      },
+      "artists": [
+        {
+          "name": "Uhm Jung Hwa",
+          "url": "https://open.spotify.com/artist/2ahy4G7Txxqq8WgNA913g0"
+        }
+      ],
+      "duration_ms": 233795,
+      "name": "Invitation",
+      "url": "https://open.spotify.com/track/61O7Yh3Sj9N8Euk1HZVb05"
     },
     {
       "added_at": "2024-04-04 20:06:12",
@@ -1547,22 +1563,6 @@
       "duration_ms": 238004,
       "name": "\uc6b0\uc5f0",
       "url": "https://open.spotify.com/track/1TinopfhqVzeATjuo9aiqu"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "Invitation",
-        "url": "https://open.spotify.com/album/3i3Qx4WpgOuMN2BC9g9VnB"
-      },
-      "artists": [
-        {
-          "name": "Uhm Jung Hwa",
-          "url": "https://open.spotify.com/artist/2ahy4G7Txxqq8WgNA913g0"
-        }
-      ],
-      "duration_ms": 233795,
-      "name": "Invitation",
-      "url": "https://open.spotify.com/track/61O7Yh3Sj9N8Euk1HZVb05"
     },
     {
       "added_at": "2024-04-04 20:06:12",

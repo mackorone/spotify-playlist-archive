@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: El Kanka.",
-  "num_followers": 346762,
+  "num_followers": 346765,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-12-04 23:00:11",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk"
-      },
-      "artists": [
-        {
-          "name": "Jose Merce",
-          "url": "https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8"
-        }
-      ],
-      "duration_ms": 256839,
-      "name": "Al alba",
-      "url": "https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY"
-    },
-    {
-      "added_at": "2025-12-04 23:00:11",
-      "album": {
         "name": "City Zen",
         "url": "https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 228413,
       "name": "Desde Que Te Perd\u00ed",
       "url": "https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ"
+    },
+    {
+      "added_at": "2025-12-04 23:00:11",
+      "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk"
+      },
+      "artists": [
+        {
+          "name": "Jose Merce",
+          "url": "https://open.spotify.com/artist/7p5J8SfKU9Rulp7tcA53G8"
+        }
+      ],
+      "duration_ms": 256839,
+      "name": "Al alba",
+      "url": "https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY"
     },
     {
       "added_at": "2025-12-04 23:00:11",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-12-04 23:00:11",
       "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 252666,
-      "name": "Un Ramito de Violetas",
-      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
-    },
-    {
-      "added_at": "2025-12-04 23:00:11",
-      "album": {
         "name": "Cuerpo a Cuerpo (Remasterizado)",
         "url": "https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2025-12-04 23:00:11",
       "album": {
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 252666,
+      "name": "Un Ramito de Violetas",
+      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
+    },
+    {
+      "added_at": "2025-12-04 23:00:11",
+      "album": {
         "name": "Lunas Rotas: De casa a las ventas (Standard version)",
         "url": "https://open.spotify.com/album/56Ux4hVWrnwFUvRBaxXngR"
       },
@@ -1095,22 +1095,6 @@
       "duration_ms": 256320,
       "name": "Si t\u00fa no estas",
       "url": "https://open.spotify.com/track/0LhiDnaTjkRZHWgAJfWqb6"
-    },
-    {
-      "added_at": "2025-12-04 23:00:11",
-      "album": {
-        "name": "Qu\u00e9 bonito",
-        "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Qu\u00e9 bonito",
-      "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
     },
     {
       "added_at": "2025-12-04 23:00:11",
@@ -1135,6 +1119,22 @@
       "duration_ms": 278920,
       "name": "Alfonsina Y El Mar",
       "url": "https://open.spotify.com/track/1fsNhKJoPB4sHd3bVL1bcw"
+    },
+    {
+      "added_at": "2025-12-04 23:00:11",
+      "album": {
+        "name": "Qu\u00e9 bonito",
+        "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Qu\u00e9 bonito",
+      "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
     },
     {
       "added_at": "2025-12-04 23:00:11",
@@ -1183,22 +1183,6 @@
       "duration_ms": 185743,
       "name": "Humo",
       "url": "https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE"
-    },
-    {
-      "added_at": "2025-12-04 23:00:11",
-      "album": {
-        "name": "Deseos de cosas imposibles",
-        "url": "https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 214881,
-      "name": "Deseos de cosas imposibles",
-      "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
     },
     {
       "added_at": "2025-12-04 23:00:11",
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2025-12-04 23:00:11",
       "album": {
-        "name": "Pajarito",
-        "url": "https://open.spotify.com/album/59kNzYG2XC92tcsyQI2gPz"
+        "name": "Deseos de cosas imposibles",
+        "url": "https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 100733,
-      "name": "Pajarito",
-      "url": "https://open.spotify.com/track/7KkE9CPv39UKKphAnRMsEs"
+      "duration_ms": 214881,
+      "name": "Deseos de cosas imposibles",
+      "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
     },
     {
       "added_at": "2025-12-04 23:00:11",
@@ -1299,6 +1283,22 @@
       "duration_ms": 442680,
       "name": "Ahora Que Te Encuentro",
       "url": "https://open.spotify.com/track/6hCgPpGpAgV6ExrOj9MGXH"
+    },
+    {
+      "added_at": "2025-12-04 23:00:11",
+      "album": {
+        "name": "Pajarito",
+        "url": "https://open.spotify.com/album/59kNzYG2XC92tcsyQI2gPz"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 100733,
+      "name": "Pajarito",
+      "url": "https://open.spotify.com/track/7KkE9CPv39UKKphAnRMsEs"
     },
     {
       "added_at": "2025-12-04 23:00:11",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-12-04 23:00:11",
       "album": {
-        "name": "Unicornio",
-        "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 308510,
-      "name": "Unicornio",
-      "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
-    },
-    {
-      "added_at": "2025-12-04 23:00:11",
-      "album": {
         "name": "Mujeres de Fina Estampa",
         "url": "https://open.spotify.com/album/5YmzTZ5AVgpJmKLTfSviCF"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 187146,
       "name": "Fina Estampa",
       "url": "https://open.spotify.com/track/7COfZjseddNFUpZcONru4M"
+    },
+    {
+      "added_at": "2025-12-04 23:00:11",
+      "album": {
+        "name": "Unicornio",
+        "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 308510,
+      "name": "Unicornio",
+      "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
     },
     {
       "added_at": "2025-12-04 23:00:11",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2025-12-04 23:00:11",
       "album": {
-        "name": "Contigo En La Distancia",
-        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
+        "name": "Algo contigo",
+        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
       },
       "artists": [
         {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 157386,
-      "name": "Contigo en la Distancia",
-      "url": "https://open.spotify.com/track/7820J99MJU42DADC6DsMfh"
+      "duration_ms": 170000,
+      "name": "Algo contigo",
+      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
     },
     {
       "added_at": "2025-12-04 23:00:11",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2025-12-04 23:00:11",
       "album": {
-        "name": "Algo contigo",
-        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
+        "name": "Contigo En La Distancia",
+        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
       },
       "artists": [
         {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Algo contigo",
-      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
+      "duration_ms": 157386,
+      "name": "Contigo en la Distancia",
+      "url": "https://open.spotify.com/track/7820J99MJU42DADC6DsMfh"
     },
     {
       "added_at": "2025-12-04 23:00:11",

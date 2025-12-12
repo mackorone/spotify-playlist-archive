@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 115468,
+  "num_followers": 115501,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAABfuIt6jD8Fp98WoQlMt3GC",
+  "snapshot_id": "aTi4AAAAAAC/RJQBLmCWb/8Qk6p3t8gY",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recordando A El Shaka",
-        "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "La Maestra - Ranchera Version",
-      "url": "https://open.spotify.com/track/1UUutkWcWg1vUeuWIlsuqW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Gusta Estar Contigo",
         "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 165053,
       "name": "La Mentada",
       "url": "https://open.spotify.com/track/1pnuFhrxM4mjNvHdvwA7Mc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recordando A El Shaka",
+        "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 190026,
+      "name": "La Maestra - Ranchera Version",
+      "url": "https://open.spotify.com/track/1UUutkWcWg1vUeuWIlsuqW"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE BEST OF",
-        "url": "https://open.spotify.com/album/2wb07vrMj465xL7z2mTRRi"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 207573,
-      "name": "Luto En El Cielo",
-      "url": "https://open.spotify.com/track/693F8g19ECSFfMiejm00bo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Gusta Estar Contigo",
         "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 199133,
       "name": "Cosas del Amor",
       "url": "https://open.spotify.com/track/4PkrQwJUTI6enWI3tDiJMe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE BEST OF",
+        "url": "https://open.spotify.com/album/2wb07vrMj465xL7z2mTRRi"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 207573,
+      "name": "Luto En El Cielo",
+      "url": "https://open.spotify.com/track/693F8g19ECSFfMiejm00bo"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde el Cielo",
-        "url": "https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV"
+        "name": "Desde El Cielo",
+        "url": "https://open.spotify.com/album/73Pq9VKUdTh4gVUwvxCzQd"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 163813,
-      "name": "Mujer Bonita",
-      "url": "https://open.spotify.com/track/2GR7paZ11mVZJMGYnj6RG4"
+      "duration_ms": 158520,
+      "name": "Sepa Dios",
+      "url": "https://open.spotify.com/track/6kqJnZAi3g4oH3NsxBPvtl"
     }
   ],
   "unique_name": "This Is Sergio Vega \"El Shaka\"",

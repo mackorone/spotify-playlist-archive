@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,399 likes - 100 songs - 12 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,415 likes - 100 songs - 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 88 | [Broken Cycles](https://open.spotify.com/track/0wnIDv8Za64PpMPK08z3Jk) | [Peter Evans](https://open.spotify.com/artist/1yw6zotIvbwaj0dar0TlGP) | [Zebulon](https://open.spotify.com/album/1fnzZglampHKANe3S2MT4l) | 15:37 |
 | 89 | [Fuchsia Swing Song](https://open.spotify.com/track/1MrNi6XiF5JB3rucU0sDsO) | [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5) | [Fuchsia Swing Song](https://open.spotify.com/album/0tsowrhCb9ezNEbhG7Xy0W) | 6:03 |
 | 90 | [Talvez Certamente](https://open.spotify.com/track/0rzdUxvmUEHIsC49PeTr6O) | [Luca Raele](https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3), [Celio Barros](https://open.spotify.com/artist/5rJUkXxDb72alAgvPCoDPX), [André Mehmari](https://open.spotify.com/artist/5uTXmfA6bngEMrjgul7mwu) | [Agora Aqui](https://open.spotify.com/album/6giXpWWXGUJrie8noezK8y) | 3:32 |
-| 91 | [Boltzmann Brain](https://open.spotify.com/track/36SNneesnYR9jvuzzrA6j5) | [Stian Larsen](https://open.spotify.com/artist/37WNfpX5odIsTLrz4bcQuy), [Colin Webster](https://open.spotify.com/artist/782Lu0pwcnmn5RsSeFZzdV), [Andrew Lisle](https://open.spotify.com/artist/7roKJZDBtQNYTUZlSC8d7Q) | [Problem of Absolute Generality](https://open.spotify.com/album/25ZSDXYVeaT9rfVueSUefL) | 12:43 |
+| 91 | [Boltzmann Brain](https://open.spotify.com/track/36SNneesnYR9jvuzzrA6j5) | [Stian Larsen](https://open.spotify.com/artist/37WNfpX5odIsTLrz4bcQuy), [Colin Webster](https://open.spotify.com/artist/5HFaOzx22yzmtfPx6S71nQ), [Andrew Lisle](https://open.spotify.com/artist/7roKJZDBtQNYTUZlSC8d7Q) | [Problem of Absolute Generality](https://open.spotify.com/album/25ZSDXYVeaT9rfVueSUefL) | 12:43 |
 | 92 | [You've Got To Have Freedom](https://open.spotify.com/track/1rD9sOqJSlzvLHtpuEW4El) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Africa](https://open.spotify.com/album/2IdacfEEDEjmNKEFlRYd6d) | 10:06 |
 | 93 | [Impressions \- Live At The Village Vanguard / 1961](https://open.spotify.com/track/0YCTmedyF6ztGlNkugYo8W) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [The Complete 1961 Village Vanguard Recordings](https://open.spotify.com/album/544roYIZZDLFtbAxE8Ti6y) | 14:52 |
 | 94 | [Refuge \- Rudy Van Gelder Edition/1999 Remaster](https://open.spotify.com/track/0j2XdkOJSneLHYevR6JpBP) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Point Of Departure \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/647o8vl4OD1sjvvhql3jFS) | 12:16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VlHTIlGw3z.md) - [plain]
 
 > 超等身大のむきだし青春＆音楽奮闘漫画『ふつうの軽音部』の世界を彩る楽曲をプレイリストで。本編は <a href=https://shonenjumpplus.com/episode/16457717013869519536>ジャンプ＋</a>で毎週日曜更新。 Enjoy Music from "Girl Meets Rock!".<br/>Ⓒクワハリ・出内テツオ／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,193 likes - 45 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,247 likes - 45 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VlHTIlGw3z.md) - [plain]
 | 44 | [Let's ダバダバ](https://open.spotify.com/track/1IJ0O0ZYggmHLfK5AU3wLK) | [POLYSICS](https://open.spotify.com/artist/3l4rRK7zL537twQBI967Bq) | [Oh! No! It's Heavy Polysick!!!](https://open.spotify.com/album/1WI2KQ2uAAiaIyOZhJxav1) | 3:19 |
 | 45 | [曇天](https://open.spotify.com/track/1nxHxgGQga4w2WrU1kieOB) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [The World's Edge](https://open.spotify.com/album/5Y82ECIONUEk8HgbebQS7B) | 3:10 |
 
-Snapshot ID: `AAAAAJ+Gyh4UoVE0wzcUAi7ynii6D/ma`
+Snapshot ID: `AAAAAG6yU+4PDn9sxzwLDZ3kO9cTPPlu`

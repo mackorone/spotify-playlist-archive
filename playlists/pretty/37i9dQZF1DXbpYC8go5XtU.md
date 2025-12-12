@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 
 > Ambient soundscapes backed by elements of nature, from a selection of the best ambient composers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,177 likes - 144 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,225 likes - 144 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 143 | [Spiritual Sun](https://open.spotify.com/track/5yymAuaDio9g5b5Dm7NYd9) | [Ellen Reid](https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka), [Shabaka Hutchings](https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o) | [Spiritual Sun](https://open.spotify.com/album/0pjDKIxgtOCfIZgpuMBJ2W) | 3:21 |
 | 144 | [Night Time](https://open.spotify.com/track/6uz69ZNJP221a7DeAuDmll) | [Unreaa](https://open.spotify.com/artist/7em5iXXJfAo6rJKTpqKrQu), [Uni](https://open.spotify.com/artist/582hP87cHThkhyvo5b9zMw) | [Night Time](https://open.spotify.com/album/54A7DM0NWHjjUGdPtQkgJP) | 1:01 |
 
-Snapshot ID: `AAAAAKxHzKFDwYYOECGI8sW3UUUYxJtw`
+Snapshot ID: `AAAAAIGU0+4GxI4SIsa0WwAYo/yDogL7`

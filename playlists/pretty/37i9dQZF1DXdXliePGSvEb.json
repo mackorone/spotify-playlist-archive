@@ -1,12 +1,12 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 75796,
+  "num_followers": 75850,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP5PBUIASJxRw02U5GT8kluzle1w",
+  "snapshot_id": "AAAAAG/VSAJCK/zZIcaaMfRmOYRfD6w3",
   "tracks": [
     {
       "added_at": "2025-12-03 12:15:55",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "Under Tangled Silence",
+        "url": "https://open.spotify.com/album/1bMzS9D1chZ57onK5mU8ea"
+      },
+      "artists": [
+        {
+          "name": "DjRUM",
+          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
+        }
+      ],
+      "duration_ms": 310814,
+      "name": "Waxcap",
+      "url": "https://open.spotify.com/track/4EqJGKB8ptzxBbbwFimdI3"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "FTRW!",
         "url": "https://open.spotify.com/album/2Uul5GoHM26xnV3WcTIpuR"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 182189,
       "name": "Your Mind",
       "url": "https://open.spotify.com/track/2crEwjCQ4DMwvKEjIDslkj"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "Under Tangled Silence",
-        "url": "https://open.spotify.com/album/1bMzS9D1chZ57onK5mU8ea"
-      },
-      "artists": [
-        {
-          "name": "DjRUM",
-          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
-        }
-      ],
-      "duration_ms": 310814,
-      "name": "Waxcap",
-      "url": "https://open.spotify.com/track/4EqJGKB8ptzxBbbwFimdI3"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Feel It For You",
-        "url": "https://open.spotify.com/album/5JsQ0nnJ1jzG6QsjZyIh0F"
-      },
-      "artists": [
-        {
-          "name": "PARISI",
-          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
-        }
-      ],
-      "duration_ms": 211409,
-      "name": "Feel It For You",
-      "url": "https://open.spotify.com/track/76vnxLIS70EvlISthDydnE"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "Bigroom Sensual II",
         "url": "https://open.spotify.com/album/2x2mFRvZa0njVoPaWE2BTK"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 245905,
       "name": "Bailarina",
       "url": "https://open.spotify.com/track/0bjU18qoUNAJbZm9zz2OeX"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Feel It For You",
+        "url": "https://open.spotify.com/album/5JsQ0nnJ1jzG6QsjZyIh0F"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        }
+      ],
+      "duration_ms": 211409,
+      "name": "Feel It For You",
+      "url": "https://open.spotify.com/track/76vnxLIS70EvlISthDydnE"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "ONDATONDA",
+        "url": "https://open.spotify.com/album/6ugAB2uGoZ5YrqKoS5ycbG"
+      },
+      "artists": [
+        {
+          "name": "Ceri Wax",
+          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
+        },
+        {
+          "name": "H\u00c5N",
+          "url": "https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1"
+        }
+      ],
+      "duration_ms": 211125,
+      "name": "Ondatonda",
+      "url": "https://open.spotify.com/track/54msm7wWFdqpbwMln20Mwn"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "TRUE MAGIC, DELUXE",
         "url": "https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 393047,
       "name": "Softening",
       "url": "https://open.spotify.com/track/4ZPVQ5HTTpanWNGGwjMmPD"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "ONDATONDA",
-        "url": "https://open.spotify.com/album/6ugAB2uGoZ5YrqKoS5ycbG"
-      },
-      "artists": [
-        {
-          "name": "Ceri Wax",
-          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
-        },
-        {
-          "name": "H\u00c5N",
-          "url": "https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1"
-        }
-      ],
-      "duration_ms": 211125,
-      "name": "Ondatonda",
-      "url": "https://open.spotify.com/track/54msm7wWFdqpbwMln20Mwn"
     },
     {
       "added_at": "2025-12-03 12:15:55",

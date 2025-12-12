@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdBREWaHui4o.md) - [plain]
 
 > Editors pick the best songs from Anime Now in 2025\.  2025年にプレイリスト「Anime Now」で聴かれた楽曲を総まとめ。cover: Aina the End アイナ・ジ・エンド
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,931 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,164 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdBREWaHui4o.md) - [plain]
 | 49 | [幸せな約束。](https://open.spotify.com/track/4aCVgRxtJhMacAjskNQCWe) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [軌跡](https://open.spotify.com/album/2jrw0Q9e37b3IlK3UAIYRt) | 3:49 |
 | 50 | [TWILIGHT!!!](https://open.spotify.com/track/7rPEpMvt6O2Np1i7TFk3Hc) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [TWILIGHT!!!](https://open.spotify.com/album/3KbovyECUFkQQFfUVvwkD6) | 3:37 |
 
-Snapshot ID: `AAAAAFh3KKfMm25o+w5yEraTRSazcbG9`
+Snapshot ID: `AAAAAP+mZDqhhYsUR8Mn/vBzDzdm94Ru`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSMXAaolO22.md) - [plain]
 
 > 2025年にプレイリスト「Buzz Tracker \#バズトラ」で聴かれた楽曲を総まとめ。 cover: 超ときめき♡宣伝部
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,497 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,508 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSMXAaolO22.md) - [plain]
 | 49 | [初恋キラー](https://open.spotify.com/track/6AvwRrfNtvWMG4w3MfKEoi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [初恋キラー](https://open.spotify.com/album/2pUxSIXaFG9Pm3jXeYa93e) | 2:12 |
 | 50 | [メロイズム](https://open.spotify.com/track/0joHRjLPX6bMfNGhP3fLsc) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [eMulsion](https://open.spotify.com/album/2uFdZv9M3EOKksvW7QUYky) | 3:13 |
 
-Snapshot ID: `AAAAAD92sZj7injva9kX3YmQNfFxQ6ph`
+Snapshot ID: `AAAAAOENkck5gy5BtbgBAr6tX6HawF+g`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeapRjZhqZ07.md) - [plain]
 
 > Celebrate Frozen's 10th anniversary and listen to all of your Frozen favorites in this official playlist\. Stream the Frozen Collection on Disney+!
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,095 likes - 58 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,342 likes - 58 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

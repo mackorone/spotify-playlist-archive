@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 
 > 스포티파이 뮤직 에디터가 선정한 2025 베스트 트랙입니다\. \(커버: Lady Gaga\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 23 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 24 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw0Z91oVe88.md) - [plain]
 | 49 | [I Can Die Now](https://open.spotify.com/track/5cwslMvLevVazYTJGCMPfo) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet](https://open.spotify.com/album/2CIPnWHj8eIK8i99SZy3Mb) | 2:51 |
 | 50 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/15zJeVUmKFnbrxm9dxcxYD) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 2:36 |
 
-Snapshot ID: `AAAAAPKLMHROOmLhNrDiZ00Hh1CMK19K`
+Snapshot ID: `AAAAANua/Fx0GuCfJSjBPFI6Kam6aygR`

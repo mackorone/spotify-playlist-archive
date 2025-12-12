@@ -4,12 +4,13 @@
 
 > This is Angie Stone\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 55 min
+61 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Bad Habits](https://open.spotify.com/track/5YXh6QYjQTKDkT6pK1XNPh) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 3:57 | 2025-03-11 |  |
 | [All I'm Missing](https://open.spotify.com/track/4NCxTroOuhZBC3ZMciQLLT) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [J\. Brown](https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb), [Jaunita Wynn](https://open.spotify.com/artist/3vKi2uBWTFZHOUbBkimu69) | [All I'm Missing](https://open.spotify.com/album/3M7VnecvQM1KkxnjG6SeUD) | 2:40 | 2025-12-02 |  |
+| [Angie Stone \- IQ Musique House Mix](https://open.spotify.com/track/2kTjQIfVwzwaMCtQGFF9Lz) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [IQ Musique](https://open.spotify.com/artist/3RUiLqDKEMyFxlyGBS4h38) | [Angie Stone \- Wish I Didn't Miss You \(IQ Musique House Remix\)](https://open.spotify.com/album/3Z2NITd0S3mGilLdnwliFI) | 5:21 | 2025-12-12 |  |
 | [Baby](https://open.spotify.com/track/6pdcpkWpFFy41HqvUiMofI) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 4:50 | 2025-03-11 |  |
 | [Backup Plan](https://open.spotify.com/track/3bdIKo2LrqDdW0okJ26g5R) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Backup Plan](https://open.spotify.com/album/1ULfDozwUs82x98URWoBoz) | 3:26 | 2025-09-11 |  |
 | [Begin Again](https://open.spotify.com/track/6zxd52EqlO7BBsaUNC1LsV) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Dave Hollister](https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 4:03 | 2025-03-11 |  |
@@ -52,7 +53,7 @@
 | [Red, Red Wine](https://open.spotify.com/track/6F6b3hTQchWivuPewh4B1t) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 2:56 | 2025-07-08 |  |
 | [Signed, Sealed, Delivered I'm Yours](https://open.spotify.com/track/7MaWQOSdpVNvQFXu2KspC6) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Guilty](https://open.spotify.com/album/2cB7BB0FN9qff1dAHCpNEy) | 3:33 | 2025-03-11 |  |
 | [Since I Lost My Baby](https://open.spotify.com/track/60sfBPovUoGakpff86kf9F) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [So Amazing: An All\-Star Tribute To Luther Vandross](https://open.spotify.com/album/1ak4qUWrH8YSjA4u7MPVXL) | 5:22 | 2025-03-11 |  |
-| [Sit Down](https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 4:31 | 2025-03-11 |  |
+| [Sit Down](https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 4:31 | 2025-03-11 | 2025-12-12 |
 | [Somaw](https://open.spotify.com/track/7j360rnoPfIwKlEW8qSx2g) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [London Ko](https://open.spotify.com/album/3FnZTIThL7sm42d5t7pZ1C) | 3:22 | 2025-03-11 |  |
 | [Sometimes](https://open.spotify.com/track/5t7WzdcErLIPufgA7HRJNp) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 3:20 | 2025-03-11 | 2025-09-27 |
 | [Stay For A While \(feat\. Anthony Hamilton\)](https://open.spotify.com/track/5R7wbaxRvAhsSN6d1PxrEm) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Stone Love](https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0) | 4:01 | 2025-03-11 |  |

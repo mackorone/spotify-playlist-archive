@@ -2,7 +2,7 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: RAYE
+> The best tracks from the world of music\. Cover: Tyla
 
 582 songs - 1 day 7 hr 40 min
 

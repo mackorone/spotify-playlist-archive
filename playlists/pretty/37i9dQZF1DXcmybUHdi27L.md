@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcmybUHdi27L.md) - [plain]
 
 > This summer? We outside 🥂
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,573 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,569 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcmybUHdi27L.md) - [plain]
 | 10 | [VIBE](https://open.spotify.com/track/5gYvVGN7zpSB0D3KXIEQXf) | [Danilo](https://open.spotify.com/artist/0nztDFQzc7SwCIGZnvDIJ7) | [VIBE](https://open.spotify.com/album/619nUlslMHEPTgMdrlGYAk) | 2:01 |
 | 11 | [Too Many Gyal](https://open.spotify.com/track/3r0rGo4TblXrpK804La3xP) | [Sneakbo](https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6) | [Too Many Gyal](https://open.spotify.com/album/3cr5sebIdeiREEiWAoaKhg) | 2:24 |
 | 12 | [Crush \(feat\. Jorja Smith\)](https://open.spotify.com/track/3cqAMw4w9px9nAV6iROr0a) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Crush \(feat\. Jorja Smith\)](https://open.spotify.com/album/6NwDHbB35rZjIQsRPSkaF5) | 3:18 |
-| 13 | [Victory Lap](https://open.spotify.com/track/1jorBT8jSOAK3IIVxAvCh8) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [USB](https://open.spotify.com/album/0KtLq4mTF0Qoz4rVTcHeg7) | 2:45 |
+| 13 | [Victory Lap](https://open.spotify.com/track/1jorBT8jSOAK3IIVxAvCh8) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [USB](https://open.spotify.com/album/0KtLq4mTF0Qoz4rVTcHeg7) | 2:45 |
 | 14 | [Bonjour](https://open.spotify.com/track/0KAGwhaTafxQHXYHrw7dIl) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Bonjour](https://open.spotify.com/album/6F8CRhHrrExSCk9ZZLxo4B) | 2:38 |
 | 15 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 |
 | 16 | [Kese \(Dance\)](https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kese \(Dance\)](https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS) | 2:54 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2765pjKFsXO.md) - [plain]
 
 > Największe polskie alternatywne kawałki w 2025 według naszej redakcji\. Cover: Dawid Podsiadło, Kaśka Sochacka
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,725 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,736 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2765pjKFsXO.md) - [plain]
 | 49 | [Nic ci nie powiem](https://open.spotify.com/track/7cR7RrKqgXoueySLOuquYB) | [Magda Kluz](https://open.spotify.com/artist/0yKPpbp3T6JTB9ApDMv9SZ) | [Sen, który się powtarza](https://open.spotify.com/album/5pGlN5xkGn2rR2VV2h843W) | 3:08 |
 | 50 | [224](https://open.spotify.com/track/3xElklpx6wgtwpRfycekE1) | [Jadwiga Zarzycka](https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0), [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [224](https://open.spotify.com/album/4eQ2BlXnzLpt9fJWSytG2E) | 3:26 |
 
-Snapshot ID: `AAAAAMXe2c1jXCAHC2FF6PgUv22BLFom`
+Snapshot ID: `AAAAADxsLvz7va2nqNLxtgcZb02XhBiv`

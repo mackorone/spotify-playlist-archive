@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-74 songs - 4 hr 58 min
+78 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Brand New Day](https://open.spotify.com/track/05lu0lLNyzUDNSsNZ5zBV9) | [Dorian Whisper](https://open.spotify.com/artist/5RcwM81PTfdO1ZFHR1kiWD) | [Brand New Day](https://open.spotify.com/album/0yUQUUzyflTJEswofjRxfg) | 3:28 | 2025-05-04 |  |
 | [Breezeblocks](https://open.spotify.com/track/1ZLroqJA8qoS5QEeCo0fA7) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6HbJlAnTRhWae1F3lEwGkv) | 3:47 | 2025-05-04 |  |
 | [Broken](https://open.spotify.com/track/6clNv6p0979OQHteQotpbd) | [The Trees](https://open.spotify.com/artist/5RfQnHitydzhcHZXwi02lt) | [From Well Rounded](https://open.spotify.com/album/2mEQTlVvdXDwyl17CP8Sld) | 4:05 | 2025-08-04 |  |
+| [Candor](https://open.spotify.com/track/2BZQf1SaFOQvgcEru7euV2) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Haze](https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn) | 3:37 | 2025-12-11 |  |
 | [CANSADO DE ESPERAR](https://open.spotify.com/track/4NBelzixJZXf5rkGl5sOMR) | [SOLVIBRA](https://open.spotify.com/artist/6hghA6OshZBCb5plODJL8t) | [CANSADO DE ESPERAR](https://open.spotify.com/album/2zR395ICnNHfnGzhvuLxQK) | 3:19 | 2025-11-05 | 2025-12-08 |
 | [Champagne and Wine](https://open.spotify.com/track/3iYHnwXKlcbH1g57Hj7DzB) | [Urs Ruf](https://open.spotify.com/artist/0KPIxZ2aLcB0Zlu14GPk1d) | [Champagne and Wine](https://open.spotify.com/album/1ordiErJ2Se29N3PJPPOFE) | 3:48 | 2025-05-04 |  |
 | [Cigarettes & You](https://open.spotify.com/track/7FZVT77Cdxym3m1NIoTMsh) | [manattic](https://open.spotify.com/artist/3vyDUBEpFhq0Vlbc9FX5Oe) | [Cigarettes & You](https://open.spotify.com/album/4RU6yASw82LGwgKQkxXEHp) | 4:43 | 2025-11-24 |  |
@@ -46,6 +47,7 @@
 | [In The House \- In A Heartbeat](https://open.spotify.com/track/3TnMERbpFoyqd4WVAOKRVN) | [Terrestrial Animal](https://open.spotify.com/artist/75UDNIKbXLmpIGyEuuunjT) | [In The House \- In A Heartbeat](https://open.spotify.com/album/26pBxMWQO0i9vuZDhD9UDW) | 6:04 | 2025-05-04 |  |
 | [Just a Kiss](https://open.spotify.com/track/3NdMsBPZJxxHZnKsjDRwBt) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [Just a Kiss](https://open.spotify.com/album/0gi5x9LzhmWz0hTimUuW8n) | 2:54 | 2025-11-16 |  |
 | [Kiss Me Before I Die](https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Kiss Me Before I Die](https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg) | 4:13 | 2025-05-04 |  |
+| [Lady](https://open.spotify.com/track/7f1zenijQQBqbdMnP7K3Sf) | [Decade](https://open.spotify.com/artist/4gX6GMBVlHl2O27Cq0awyi) | [Lady](https://open.spotify.com/album/2OTHb14DYzCrHkP9tZWHex) | 3:24 | 2025-12-11 |  |
 | [Marijuana](https://open.spotify.com/track/5pDVvTglDQQl2L20O8aX8l) | [Plastic Madmen](https://open.spotify.com/artist/5VLgQK5WAN6jPdhgQ3y2sA) | [Marijuana](https://open.spotify.com/album/4kszJUeS7W1gR1LK3AHlnH) | 4:37 | 2025-11-04 | 2025-12-08 |
 | [Medo](https://open.spotify.com/track/1Pzo6BtYmAvLYo4yyCZBgd) | [Journey to Equilibrium](https://open.spotify.com/artist/7EFpZ2zSH7KTR1PtOIgpjT) | [An Open Window](https://open.spotify.com/album/0ytewcDY7woiqooEiKMt5a) | 4:42 | 2025-11-24 |  |
 | [Meet me tomorrow right here](https://open.spotify.com/track/32OiHXGmtRTR5sSDuknMV2) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Cultural Static](https://open.spotify.com/album/4ZidajWJsxbkvrKcK95Jbx) | 4:47 | 2025-11-04 | 2025-12-08 |
@@ -53,6 +55,7 @@
 | [Naive](https://open.spotify.com/track/1pwJ5C8Zk7nJOPWp1TaTho) | [Chuck Mullen](https://open.spotify.com/artist/341qXStb1CSIdiK1Mn8sWO) | [Naive](https://open.spotify.com/album/4tPRMAuDEMULUguQjnCjjc) | 3:45 | 2025-11-04 | 2025-12-08 |
 | [Night Crawls](https://open.spotify.com/track/1nhRmnr2vlqzE6B1rqChJx) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz), [Sick Century](https://open.spotify.com/artist/59hC0TFyMDFOLBEpYcsgFZ) | [Mort D'Amour](https://open.spotify.com/album/73CPs6sCPgCBSyIZolAaSc) | 2:40 | 2025-11-04 | 2025-12-08 |
 | [One More Second](https://open.spotify.com/track/7GMHFVwsXtccxFVa90ORkY) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au), [Alice Gerschpacher](https://open.spotify.com/artist/5S2264Wy4QpAv1NEXn2Boy) | [One More Second](https://open.spotify.com/album/4w7qh1fyGEA7fSwAK39NMk) | 5:20 | 2025-05-04 |  |
+| [Out The Zip](https://open.spotify.com/track/4wrbHQzr3hAkwFhG9lYM8R) | [Nick Coleman](https://open.spotify.com/artist/6snVGC7vB9QsHcGoUxaSou) | [A Million and A Half Ways](https://open.spotify.com/album/0gq5UclcmePaaUgy0n6sMc) | 2:55 | 2025-12-11 |  |
 | [Peace Defined](https://open.spotify.com/track/0EpdxqFRCUeyVMF60GEBx3) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [Peace Defined](https://open.spotify.com/album/6u34BdHbyeNXY9tD8H93KN) | 4:21 | 2025-09-10 |  |
 | [Pliz non la skippare](https://open.spotify.com/track/1Oj3hSFsRVMVSPrMqWKrGa) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Pliz non la skippare](https://open.spotify.com/album/35Hx1zfxo8WY4t5LiBjXPl) | 3:45 | 2025-11-24 |  |
 | [Pressure](https://open.spotify.com/track/3UvIypxD8ObioUD8gtNkEW) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:15 | 2025-11-04 | 2025-12-08 |
@@ -64,6 +67,7 @@
 | [Slave to the Algorithm](https://open.spotify.com/track/1vm5UoeZJpV7XA3OpfMJSp) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [Slave to the Algorithm](https://open.spotify.com/album/1apolZrhmYbQKVRkEgMFiP) | 3:00 | 2025-11-09 |  |
 | [Someone](https://open.spotify.com/track/2f73kinXdRlLhCjjza6aUe) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Someone](https://open.spotify.com/album/76vWBdmlbLoYJrrKPAvbEp) | 4:45 | 2025-05-04 |  |
 | [starbound](https://open.spotify.com/track/2lrsKVxuYrmodpdmNhnsOd) | [Elliot Tellman](https://open.spotify.com/artist/1MoUSFvNvwlHzmHfImqjmL) | [starbound](https://open.spotify.com/album/08OpQIuyaFZftKaf9r1FuK) | 3:04 | 2025-11-04 | 2025-12-08 |
+| [Storm](https://open.spotify.com/track/4zco59LEN14IqrtaKHVIQq) | [Under The Pendulum](https://open.spotify.com/artist/2lQOBQMkqxOvrVdphflRKP) | [Storm](https://open.spotify.com/album/3VpAsksWzfNm6r7cHL8w6t) | 3:52 | 2025-12-11 |  |
 | [Super Eroe](https://open.spotify.com/track/0fttEm7huFVdnnsuTJIah7) | [L'orca](https://open.spotify.com/artist/3Otlm558Nxk1NbixN4qgmp) | [Super Eroe / La Stazione Più Vicina](https://open.spotify.com/album/1dYn12PDPIJDnsb1ADPnlc) | 3:46 | 2025-05-04 |  |
 | [Superhero](https://open.spotify.com/track/6xxiG52KrhmQrQn7uyRfwe) | [26 fingerprints](https://open.spotify.com/artist/67KHGhkPkdL1Afg4DQGMjM) | [Superhero](https://open.spotify.com/album/3Y5ny6gpsniFuhsJXWRPpo) | 3:35 | 2025-11-24 |  |
 | [Sweet Cream](https://open.spotify.com/track/4aroO5zetdRxhBwVyB4tsG) | [The Galentines](https://open.spotify.com/artist/2Xn7EfGdxCwn5fxjEWmNoP) | [1140](https://open.spotify.com/album/4Q0aacEIQ4ClOYnCzzCK4l) | 2:55 | 2025-11-24 |  |

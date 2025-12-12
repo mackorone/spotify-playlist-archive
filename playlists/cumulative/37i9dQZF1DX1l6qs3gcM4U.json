@@ -5406,7 +5406,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 184615,
       "name": "KUYARE",
       "url": "https://open.spotify.com/track/0K6a25WIganXN9PnzrjQXh"
@@ -5584,7 +5584,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 191909,
       "name": "Lhe Cola",
       "url": "https://open.spotify.com/track/2iDqaMJeyuUoGv0tDOUaoN"
@@ -8565,6 +8565,28 @@
     },
     {
       "album": {
+        "name": "Perto De Ti",
+        "url": "https://open.spotify.com/album/7b7Lk9QKFVJo5q6TugxRro"
+      },
+      "artists": [
+        {
+          "name": "Afroplug",
+          "url": "https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK"
+        },
+        {
+          "name": "No Wahala Sound",
+          "url": "https://open.spotify.com/artist/4eGONYIUZBlzHRBMSSEoln"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185879,
+      "name": "Perto De Ti",
+      "url": "https://open.spotify.com/track/0ECgyQMr8uqVWshrzICj38"
+    },
+    {
+      "album": {
         "name": "Pesadelo",
         "url": "https://open.spotify.com/album/3dnAjufiPKEgkngtFr8dcR"
       },
@@ -9804,7 +9826,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 206285,
       "name": "Seu Jeito",
       "url": "https://open.spotify.com/track/3lj45krmsSvDnMyU0qnqh3"
@@ -12358,6 +12380,24 @@
       "duration_ms": 172666,
       "name": "Vir de Longe",
       "url": "https://open.spotify.com/track/3KOr0Kvi9Gc4o4QJsxvxsP"
+    },
+    {
+      "album": {
+        "name": "VOC\u00ca",
+        "url": "https://open.spotify.com/album/1xdmCcOFhIZJZISKOGPOcS"
+      },
+      "artists": [
+        {
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192099,
+      "name": "VOC\u00ca",
+      "url": "https://open.spotify.com/track/5TDju74rOfBANHKVWXGtua"
     },
     {
       "album": {

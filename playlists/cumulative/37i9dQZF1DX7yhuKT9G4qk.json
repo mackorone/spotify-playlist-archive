@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "Pleasure",
+        "url": "https://open.spotify.com/album/2FAfR9rZEMwwnrFOYsl2VT"
+      },
+      "artists": [
+        {
+          "name": "Young Gun Silver Fox",
+          "url": "https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263986,
+      "name": "Burning daylight",
+      "url": "https://open.spotify.com/track/6wfrySLKgLeyGTjh21xvWI"
+    },
+    {
+      "album": {
         "name": "But I Can Show U How",
         "url": "https://open.spotify.com/album/4rKbES6D2gvmkIdtdKBDEC"
       },
@@ -642,6 +660,24 @@
       "duration_ms": 232873,
       "name": "End Of Me",
       "url": "https://open.spotify.com/track/2n6LotLcjjyG9NjNiypuxA"
+    },
+    {
+      "album": {
+        "name": "Colour On The Wall",
+        "url": "https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226052,
+      "name": "End of Time",
+      "url": "https://open.spotify.com/track/2ue3TmvamovoPGDywzzYSj"
     },
     {
       "album": {
@@ -1022,7 +1058,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 204699,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/5uGGSdXz791jTxkUJUZ7M1"
@@ -1488,7 +1524,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 201475,
       "name": "Memories",
       "url": "https://open.spotify.com/track/64ozgxrJ6rB3XEkzTL1oKo"

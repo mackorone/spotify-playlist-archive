@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : St Graal",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Of\u00e9",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -572,6 +572,24 @@
       "duration_ms": 260496,
       "name": "Baisodrome",
       "url": "https://open.spotify.com/track/2KVBVw9MhDP4KSGhjvBSap"
+    },
+    {
+      "album": {
+        "name": "Bal de fin d'ann\u00e9e",
+        "url": "https://open.spotify.com/album/7Cj6DYtezHa2YFV7egsXU7"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Bonjour",
+          "url": "https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206373,
+      "name": "Bal de fin d'ann\u00e9e",
+      "url": "https://open.spotify.com/track/4tOehJCrjHFakWKIt2yuHd"
     },
     {
       "album": {
@@ -1174,7 +1192,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 120988,
       "name": "Cigarette \u00e0 la bouche",
       "url": "https://open.spotify.com/track/1XUDuhvC5y8B2PkB71C6ci"
@@ -1416,6 +1434,24 @@
       "duration_ms": 180800,
       "name": "Cram\u00e9",
       "url": "https://open.spotify.com/track/6eIdxemCVuPhGNemzooQxK"
+    },
+    {
+      "album": {
+        "name": "crever toute la nuit",
+        "url": "https://open.spotify.com/album/49PTTEem5m1njsHXx9QijX"
+      },
+      "artists": [
+        {
+          "name": "L'enfant",
+          "url": "https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121133,
+      "name": "crever toute la nuit",
+      "url": "https://open.spotify.com/track/70JwcaOgUCOqZfZ9jMaKjm"
     },
     {
       "album": {
@@ -2660,7 +2696,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 220164,
       "name": "j'aimerais que tout s'arr\u00eate",
       "url": "https://open.spotify.com/track/5waQwkBRFAzndEEf09b3Hx"
@@ -2869,6 +2905,24 @@
     },
     {
       "album": {
+        "name": "Je Ne T'Aime Plus",
+        "url": "https://open.spotify.com/album/31othSVbJmYGw12cF2fPxg"
+      },
+      "artists": [
+        {
+          "name": "Sam Sauvage",
+          "url": "https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211413,
+      "name": "Je Ne T'Aime Plus",
+      "url": "https://open.spotify.com/track/0L4EzEIPK3SEcz0PKXURlp"
+    },
+    {
+      "album": {
         "name": "Je ne t'aime plus",
         "url": "https://open.spotify.com/album/3l1h7gTn3FrwUBIjwwpR6J"
       },
@@ -3028,7 +3082,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 182440,
       "name": "Jtm un peu",
       "url": "https://open.spotify.com/track/5HBwZoRSwMjoyA07xZTUlR"
@@ -3302,6 +3356,24 @@
       "duration_ms": 189893,
       "name": "La d\u00e9licatesse",
       "url": "https://open.spotify.com/track/56n9Iuw4IMSWk4SCMUYMFF"
+    },
+    {
+      "album": {
+        "name": "La Fable",
+        "url": "https://open.spotify.com/album/61giTMofDEougdMZ1vPnME"
+      },
+      "artists": [
+        {
+          "name": "Cabadzi",
+          "url": "https://open.spotify.com/artist/6SOfR3vMDf9otrCMyzrdDn"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170389,
+      "name": "La Fable",
+      "url": "https://open.spotify.com/track/2jq53C6bIzTpqvgnFZZUNa"
     },
     {
       "album": {
@@ -4795,6 +4867,24 @@
     },
     {
       "album": {
+        "name": "Paris Bruxelles",
+        "url": "https://open.spotify.com/album/6qR7ykO4LyNbaFZpThlERw"
+      },
+      "artists": [
+        {
+          "name": "Exsonvaldes",
+          "url": "https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249336,
+      "name": "Paris Bruxelles",
+      "url": "https://open.spotify.com/track/3PDJkJiZiqQm3wYeRGUej7"
+    },
+    {
+      "album": {
         "name": "particule",
         "url": "https://open.spotify.com/album/2KMjA471yV4sjCUzIZYPYM"
       },
@@ -4986,7 +5076,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 168813,
       "name": "PIERROT LE FOU",
       "url": "https://open.spotify.com/track/7AkXjA1YDOG4YwXoJ4ZuXh"
@@ -5098,6 +5188,28 @@
       "duration_ms": 133000,
       "name": "Plus de place nulle part",
       "url": "https://open.spotify.com/track/2i0EbjEWZWNn4kwQEaBfYI"
+    },
+    {
+      "album": {
+        "name": "Plus fort que toi",
+        "url": "https://open.spotify.com/album/7fkxpUqnPNTSnNiUJvI2Hx"
+      },
+      "artists": [
+        {
+          "name": "Marlon Magn\u00e9e",
+          "url": "https://open.spotify.com/artist/0NscG1sENWBbNcF8Wj5yLs"
+        },
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151213,
+      "name": "Plus fort que toi",
+      "url": "https://open.spotify.com/track/3SbwOjvnZXWnSuadX52xc6"
     },
     {
       "album": {
@@ -5398,7 +5510,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 175238,
       "name": "RAGE",
       "url": "https://open.spotify.com/track/5NlCOpIwwKXz2nTu3JSaZA"
@@ -5452,7 +5564,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 246746,
       "name": "Rends-moi ma vie",
       "url": "https://open.spotify.com/track/4Y0pXVg7ayEhsE450GnPi2"

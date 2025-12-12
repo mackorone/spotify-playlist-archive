@@ -13007,6 +13007,28 @@
     },
     {
       "album": {
+        "name": "See The Sun",
+        "url": "https://open.spotify.com/album/5ixWPQmnNuFUomTUbHdFps"
+      },
+      "artists": [
+        {
+          "name": "Abstrakt",
+          "url": "https://open.spotify.com/artist/2a0PIzFpYjhOabDRcUmUnQ"
+        },
+        {
+          "name": "weloveyouspydee",
+          "url": "https://open.spotify.com/artist/3xoGYBTUZ0yA2kQEHoTYtn"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184347,
+      "name": "See The Sun",
+      "url": "https://open.spotify.com/track/5nzFl5zQwNpT3NQFuJUqEx"
+    },
+    {
+      "album": {
         "name": "Set It Free",
         "url": "https://open.spotify.com/album/3a3HBm9uLIXg8hHh0qWokg"
       },

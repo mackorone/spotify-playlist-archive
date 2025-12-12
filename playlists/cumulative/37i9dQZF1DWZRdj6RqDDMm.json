@@ -10021,6 +10021,28 @@
     },
     {
       "album": {
+        "name": "Solace in You",
+        "url": "https://open.spotify.com/album/06pr5GD2OmF8mxG3YVBfkW"
+      },
+      "artists": [
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "Still Blessed Music",
+          "url": "https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Solace in You",
+      "url": "https://open.spotify.com/track/7ssyPSO2hy5CJxpa5RHDv7"
+    },
+    {
+      "album": {
         "name": "Song Of Love",
         "url": "https://open.spotify.com/album/2xeDGHYMn8QUsbBZUwLRnJ"
       },
@@ -10724,7 +10746,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 201951,
       "name": "The Good News: TGN",
       "url": "https://open.spotify.com/track/1ZWqe0v7n342eT9fITFGb6"

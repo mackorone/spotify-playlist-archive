@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/0PzTB0SzhsYdmq3lvb0zgv.md) - cumulative - [plain](/playlists/plain/0PzTB0SzhsYdmq3lvb0zgv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0PzTB0SzhsYdmq3lvb0zgv)
 
-### [Coffee house \| Café Lounge \| Chill Vibes](https://open.spotify.com/playlist/0PzTB0SzhsYdmq3lvb0zgv)
+### [Coffeehouse \| Café Lounge \| Chill Vibes](https://open.spotify.com/playlist/0PzTB0SzhsYdmq3lvb0zgv)
 
 > Chill acoustic, mellow pop and singer\-songwriter tracks for focus, relaxation, studying and working\. Coffeehouse vibes and calm background music for a cozy café or lounge mood \|\| Rustige playlist voor focus, ontspanning, studeren en werken, met ontspannen vibes voor een knusse lounge of café sfeer
 

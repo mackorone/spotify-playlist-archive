@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 450 likes - 532 songs - 1 day 3 hr 30 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 450 likes - 534 songs - 1 day 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -540,5 +540,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 530 | [Feel It All](https://open.spotify.com/track/3N7gg7XImFXdYWrXmCCLco) | [Jeremy Voltz](https://open.spotify.com/artist/1Zu7L8siS7ugY35pTS6Wgw) | [Feel It All](https://open.spotify.com/album/4pQAtTSmCMEe7yYblXY5qN) | 2:38 |
 | 531 | [Safari](https://open.spotify.com/track/1Ih75RntdEoaQG18r9eJpt) | [ELO](https://open.spotify.com/artist/1qoApE9HzNbP2RiogZkE89) | [Safari](https://open.spotify.com/album/43HJdpscmPxiFgFv4Xb0em) | 1:31 |
 | 532 | [BÓG HONOR OJCZYZNA](https://open.spotify.com/track/7rQqoVGlL4fhReRWC516WI) | [PeGie](https://open.spotify.com/artist/54TYnbAQnkrjI6ry4eUU6X), [Wszołek](https://open.spotify.com/artist/5EGOQRzEzTxqczyOwRIhKm) | [BÓG HONOR OJCZYZNA](https://open.spotify.com/album/4MWTDdmiVpengEUJBEC4Pu) | 2:43 |
+| 533 | [Take It Easy](https://open.spotify.com/track/0l1s4gJZvUSnKRh84xI8UN) | [Mckai](https://open.spotify.com/artist/4emtw8l93u2ub1FdLdnm5X) | [Take It Easy](https://open.spotify.com/album/4Rxd9wfk4KYycakiVTXCPC) | 3:30 |
+| 534 | [i'm a victim](https://open.spotify.com/track/0IBTYhzUiGE1IISTOcdXGr) | [SOLO THIEF](https://open.spotify.com/artist/67hrGusXpfFjHwmAtNbRy2) | [how to rob the supermarket and sell your soul to the devil at the same time](https://open.spotify.com/album/0jX9TJiGOnGn6pHfxwFKJZ) | 3:17 |
 
-Snapshot ID: `AAAXNQUYMiF+pPUw09Wb0XBaiaHTtyT1`
+Snapshot ID: `AAAXN5Dw+9iTHnOOmbBM9ltx4qhZV2n0`

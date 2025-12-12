@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXm4aFD88nJT.md) - [plain]
 
 > Улюблені пісні українською мовою в 2025 році\. Обкладинка: The Maneken
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,678 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,693 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXm4aFD88nJT.md) - [plain]
 | 49 | [все в мені](https://open.spotify.com/track/7ijoVnKgAAZ0vGrWDkK3R7) | [NANA SOLIS](https://open.spotify.com/artist/5nqfEPmgH1HtrcPJeIt51G) | [що таке кохати?](https://open.spotify.com/album/0qVh1enad9Aw8bUjIjZ5HJ) | 2:29 |
 | 50 | [Не мовчи](https://open.spotify.com/track/5dte6absTpa8vfZapoSqyJ) | [Valeriia Vovk](https://open.spotify.com/artist/2JujXZh274ctLCsqh0E6l8) | [Не мовчи](https://open.spotify.com/album/5rZrYffz9CnTJQp9VykiXq) | 3:50 |
 
-Snapshot ID: `AAAAAJtx558UXBgmWbq1l3mzRBn1pSq/`
+Snapshot ID: `AAAAANhCb6pmOAGvwj2fVGeewndsMmZq`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚ ཐིA curated space for the avant\-garde⋆ཋྀ ˚₊‧⁺ Cover: Peaches
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,749 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,745 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 38 | [SMILE](https://open.spotify.com/track/6qbw1ULYQPCHW1w80UyXze) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [jamvvis](https://open.spotify.com/artist/52FnK9izQFuAZi3qURGbqF) | [SMILE](https://open.spotify.com/album/5NzwJvXoEcxAoCpJkkQs7j) | 1:48 |
 | 39 | [Ya sé ya sé](https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068) | [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [Ya sé ya sé](https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe) | 3:43 |
 | 40 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 |
-| 41 | [DRUG OF CHOICE](https://open.spotify.com/track/2bNgeZGJXIAM0XOL5Qx0O9) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [Drug of Choice](https://open.spotify.com/album/2huVnFx4dVVzrmETKDI1wc) | 3:25 |
+| 41 | [DRUG OF CHOICE](https://open.spotify.com/track/2bNgeZGJXIAM0XOL5Qx0O9) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [DRUG OF CHOICE](https://open.spotify.com/album/2huVnFx4dVVzrmETKDI1wc) | 3:25 |
 | 42 | [Nails](https://open.spotify.com/track/5ZYiAB57ZQRF2fbgvt5yRp) | [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [Nails](https://open.spotify.com/album/5LlizxlYAeo1aJOXZRTkj7) | 2:10 |
 | 43 | [LÉCHAGE](https://open.spotify.com/track/7mPBYHkPipRkQBz2AMcP0B) | [éther](https://open.spotify.com/artist/4XT1Jfd6Hel58qViPrldXY) | [LÉCHAGE](https://open.spotify.com/album/3CzW00o7qXZ2rhoWyrWFJz) | 1:49 |
 | 44 | [Selfish](https://open.spotify.com/track/3atiB68n62bmcq0fnlbdmm) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Selfish](https://open.spotify.com/album/3lyA3MranKUKjR0v8ZgW8O) | 3:46 |

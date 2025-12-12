@@ -4,7 +4,7 @@
 
 > The best of Swahili gospel music\. Cover: Rose Muhando
 
-296 songs - 1 day 1 hr 23 min
+300 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Acha Waseme](https://open.spotify.com/track/1bDFKdh2GPMQtKDLCwXWZm) | [Sifaeli Mwabuka](https://open.spotify.com/artist/1o3pLofmtcArrMaoHPgrqq) | [Acha Waseme](https://open.spotify.com/album/1aEBjd0rkBSM8ZD45whoWA) | 5:44 | 2025-03-07 | 2025-07-25 |
 | [Action](https://open.spotify.com/track/3Kw2ogHWEVOln1I0COwKpx) | [BeeJay](https://open.spotify.com/artist/0Cwe5u9RvI668c5MXkzqyQ) | [Action](https://open.spotify.com/album/3di0qx12IxzIgc0uFuRSbI) | 5:30 | 2023-06-09 | 2024-04-12 |
 | [After Church](https://open.spotify.com/track/3dRrAAugBdsRSiBqkUxWbe) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn), [Muhanjii](https://open.spotify.com/artist/4GTn2aRghVmPtv57P5Opaq) | [Boy Wa Kanisa](https://open.spotify.com/album/1ZJu6CMYk5STa6XVu2wTOd) | 2:41 | 2023-10-13 | 2024-05-24 |
+| [Ahadi](https://open.spotify.com/track/37B3uFhziMO5ILTqOIAK76) | [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR), [Pastor Fred Msungu](https://open.spotify.com/artist/05EwnXspDPtVgyrQ7BQqZI) | [Ahadi](https://open.spotify.com/album/4c8tiJORJfX5hiq1wJuqei) | 26:09 | 2025-12-12 |  |
 | [Alfa Na Omega](https://open.spotify.com/track/5zZc2QyZfxqZcQ89REWyzW) | [Reuben Kigame](https://open.spotify.com/artist/0bTD7Hz0264DFfTV9e5PQf), [Sifa Voices](https://open.spotify.com/artist/75UlA58ClvAkoGrCouQQAI) | [Tulia](https://open.spotify.com/album/6xsRFuy3hZsnxqppb5e6mT) | 4:54 | 2022-06-24 |  |
 | [Aliyeniokoa \(Live\)](https://open.spotify.com/track/11dKptDVqtcyi1E36m8o02) | [Essence Of Worship](https://open.spotify.com/artist/08DEnWbiZl4cLFGUjNzR39) | [Bwana Unatawala \(Live\)](https://open.spotify.com/album/3koeYsqfzhwDXkmrHmdKna) | 7:17 | 2022-06-24 | 2023-11-03 |
 | [Aliyeniokoa \(Live\)](https://open.spotify.com/track/1zLfTPsgjAUmNDgcG5AlGE) | [Essence Of Worship](https://open.spotify.com/artist/08DEnWbiZl4cLFGUjNzR39) | [Bwana Unatawala \(Live\)](https://open.spotify.com/album/2URrPzDAgysJCPyXImSEvs) | 7:17 | 2022-06-24 | 2023-09-26 |
@@ -144,6 +145,7 @@
 | [Mungu Tu](https://open.spotify.com/track/3eT8tmuQVnKdB2X5KJn6KD) | [Zion Njeri](https://open.spotify.com/artist/39Kc4S8IXSqU4dO6UivqL6) | [Mungu Tu](https://open.spotify.com/album/3lCqmdjWv74wnZUSPCBVpF) | 3:04 | 2025-02-21 | 2025-08-23 |
 | [Mungu Wa Namna Hii](https://open.spotify.com/track/5r6nfwaKNs5THoXls9dVri) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Mungu Wa Namna Hii](https://open.spotify.com/album/2S4QeVTjXoXolpBrk812UR) | 3:31 | 2024-07-05 | 2025-09-12 |
 | [Mwaka Huu](https://open.spotify.com/track/5RfwqcvoiQ4pQct7HsXfC1) | [Kenani](https://open.spotify.com/artist/5k3oBkYy3nm3hHoUreIJ3O) | [Mwaka Huu](https://open.spotify.com/album/4kqaf2pLxAGNGTVcCfPWtx) | 2:49 | 2025-03-28 | 2025-05-16 |
+| [Mwamba El Selah](https://open.spotify.com/track/26CuIfoVvvt22BQfwMjYGS) | [Erick Smith](https://open.spotify.com/artist/2DyY70tIr0laRzbYBA7bLg) | [Mwamba El Selah](https://open.spotify.com/album/7IomRvYMcnXSv4wTtn658W) | 5:14 | 2025-12-12 |  |
 | [Mwenye Uwezo \- Live](https://open.spotify.com/track/4RcqL9xk4v0PbbuEaCJxVv) | [Dr Sarah K](https://open.spotify.com/artist/2hlY2NLf8yoTXrIhmxRUNm), [Shachah Team](https://open.spotify.com/artist/6mx6zAmXuabDmkBY91jpXy) | [Mwenye Uwezo](https://open.spotify.com/album/1vuXnAygU80Nr9hRTAvgjW) | 8:39 | 2025-04-18 | 2025-05-30 |
 | [Naamini Kwako Bwana](https://open.spotify.com/track/1xqmMfkjQSGUgGF93wSbyE) | [Enock Jonas](https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9) | [Naamini Kwako Bwana](https://open.spotify.com/album/1jExfezqunAy4F3tQP9IZf) | 6:20 | 2024-12-20 | 2025-03-28 |
 | [Nakupa Utukufu \(feat\. Zoe\)](https://open.spotify.com/track/7tnGzoqS9ITlwiQmlaTtgB) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Zoe](https://open.spotify.com/artist/4FaAab5oHVuSLoIK1G2icg) | [Nakupa Utukufu \(feat\. Zoe\)](https://open.spotify.com/album/6IrJsGlVLBtKcGquLif5v0) | 3:17 | 2024-09-06 | 2025-09-20 |
@@ -160,6 +162,7 @@
 | [Neema Ya Mungu](https://open.spotify.com/track/6B8lSTs59tEbV5Bn7TnH9d) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [Neema Ya Mungu](https://open.spotify.com/album/7Ib8NRYD26QZHQPrtY9TLn) | 3:29 | 2025-09-19 | 2025-11-07 |
 | [Neema Yako](https://open.spotify.com/track/48KauDiCxIpvjOXd0Cg99L) | [Rehema Simfukwe](https://open.spotify.com/artist/6LL0XXSfIWHDxuDf9HmnjL) | [Neema Yako](https://open.spotify.com/album/0XBXZ6z5qXz5f6ZsVD4UqD) | 12:48 | 2024-02-23 |  |
 | [Neno Lako](https://open.spotify.com/track/5A06x01Ev8EL2FdJK5Fp8d) | [Godwill Babette](https://open.spotify.com/artist/787HVRJFIkDBhj7HeHCVsG) | [Umenibeba](https://open.spotify.com/album/7lKfLz5d1olqce9qgqK1jB) | 5:47 | 2022-06-24 |  |
+| [Nguvu Ya Damu Ya Yesu \(feat\. Abel Amunga\)](https://open.spotify.com/track/0njS3FbYp80zGHOrjX3xK2) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87), [Abel Amunga](https://open.spotify.com/artist/65XJU6u99rPV156zUppJwz) | [Nguvu Ya Damu Ya Yesu \(feat\. Abel Amunga\)](https://open.spotify.com/album/0ApQmgxt8coOnt57uoaHGI) | 5:07 | 2025-12-12 |  |
 | [Ni Nani Kama Weuwe](https://open.spotify.com/track/26VzXnAUdVTAAoLVyHeM2b) | [Fanuel Sedekia](https://open.spotify.com/artist/4aIO5gn78ZNovl19OdpbGG) | [Jina La Yesu](https://open.spotify.com/album/7h1suDcb3w0runnyrV1Wfq) | 4:46 | 2022-06-24 | 2025-03-21 |
 | [NI Wewe](https://open.spotify.com/track/3PcSE2kEXuQDIUGdzsMpF2) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU), [Godfrey Steven](https://open.spotify.com/artist/2LU5L9nuJ5CWKqIrlDxRnd) | [NI Wewe](https://open.spotify.com/album/2E5HlG9a0PNNZ1w6twRgxz) | 4:32 | 2022-06-24 | 2023-05-05 |
 | [Ni Wewe](https://open.spotify.com/track/0zr2BK2H3UZSumcgdgsyQf) | [Tumaini Akilimali](https://open.spotify.com/artist/1dcMfUubOyKq3IIvllRhyc) | [Nisizame](https://open.spotify.com/album/086oaldphWYNgGMJUmwaS8) | 6:24 | 2022-06-24 | 2023-11-03 |
@@ -179,6 +182,7 @@
 | [Nimekubali](https://open.spotify.com/track/5Z0z3ZJyJmFBETJtBwm97K) | [Karura Voices](https://open.spotify.com/artist/1d5SkVdPJfoutTu1HdhpYT) | [Nimekubali](https://open.spotify.com/album/7uXTKSnEpRTPRGFhFOJZit) | 5:56 | 2023-10-20 |  |
 | [Nina Haja Nawe](https://open.spotify.com/track/6mwX6AqfESrCdVmxpXQc7Y) | [Doudou Manengu](https://open.spotify.com/artist/07RTKxQdPJhGVvu17fMYjd) | [Kumtegemea](https://open.spotify.com/album/1hih5ZsfuKJ1KSP3oAPcb0) | 5:41 | 2022-06-24 |  |
 | [Nina Siri](https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Umusirikare](https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh) | 11:10 | 2023-11-24 |  |
+| [Ningelijua](https://open.spotify.com/track/7oJ6TkhB5VZyBUFmtBy9p2) | [J blessing](https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr), [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Ningelijua](https://open.spotify.com/album/7cKE7KRDy0vnhaaCap630H) | 3:57 | 2025-12-12 |  |
 | [Nipe Kushinda](https://open.spotify.com/track/4HEmnhNoMvDueUS2I8I7Qn) | [Christopher Mwahangila](https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt) | [Nipe Kushinda](https://open.spotify.com/album/3TjTcm73Kxrd5humui07fx) | 5:43 | 2025-10-03 |  |
 | [Nipungue Mimi](https://open.spotify.com/track/4PMRuU6q0VBJsg86Sv3ArS) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Nipungue Mimi](https://open.spotify.com/album/7u4jXn0KVbC1BHn9frdkcd) | 3:48 | 2024-04-19 | 2024-11-22 |
 | [Niseme Nini](https://open.spotify.com/track/1CrMQWrcbgM12xZWAnPITv) | [Dr\. Ipyana](https://open.spotify.com/artist/2ePMRVIwOhRtN0aCuRu9Qc) | [Niseme Nini](https://open.spotify.com/album/2mdLbdOQc9Cst2FE4TQK1m) | 15:37 | 2023-08-25 |  |

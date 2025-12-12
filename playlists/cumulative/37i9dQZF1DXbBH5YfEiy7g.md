@@ -2,9 +2,9 @@
 
 ### [South African Gospel](https://open.spotify.com/playlist/37i9dQZF1DXbBH5YfEiy7g)
 
-> Praise and Worship your way with the best South African Gospel music\.  Cover: Nontokozo Mkhize
+> Praise and Worship your way with the best South African Gospel music\.  Cover: Sneziey
 
-209 songs - 22 hr 33 min
+211 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Fill Me Up](https://open.spotify.com/track/5vyQZ75cMKTiB3ucxnLhjR) | [CèJae](https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3) | [Fill Me Up](https://open.spotify.com/album/0dCLLNtrZbA5emKucTNesY) | 3:34 | 2025-08-01 | 2025-08-06 |
 | [Fill Us Again](https://open.spotify.com/track/1l68T5hrjjQYGH0DlawKEa) | [Bongiwe Madela](https://open.spotify.com/artist/3MKHvYA3XAr0JWINuYMHYU), [Collen Maluleke](https://open.spotify.com/artist/6JA48HBbK5Nd0PUHHRyTEm) | [Fill Us Again](https://open.spotify.com/album/1RVUNUGqBuD6qk3VvmjPGm) | 9:39 | 2025-02-28 | 2025-04-11 |
 | [Forgiven](https://open.spotify.com/track/0Q7oMoYZCQuVKmcFKRiLPx) | [Nqubeko Mbatha](https://open.spotify.com/artist/3WGpAjwdlhofFBmbpaWpKP), [Mmangaliso](https://open.spotify.com/artist/056k4iD4FCiU7UKHkrGaTc), [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Passover](https://open.spotify.com/album/2rnvnikQHbCmK5dWNc3sOJ) | 4:24 | 2025-04-11 | 2025-05-02 |
+| [Glorious God](https://open.spotify.com/track/3Rsqw0tq93oezGbCeb7qCq) | [5 Fold Worship](https://open.spotify.com/artist/5g9jOwxRVYqWHwXPM5ZUZD), [Sophie Malete](https://open.spotify.com/artist/3oMXp3en0H6rwOO32ifA3T) | [Glorious God](https://open.spotify.com/album/3Iv8nu7OTtzgEnH2eM8Uxj) | 7:54 | 2025-12-12 |  |
 | [God you keep on blessing me](https://open.spotify.com/track/4CG7S7iOYsp2lwAnpMFTNu) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Free 2 Wrshp](https://open.spotify.com/artist/6xu5vAyJJMPc6u2XdxOuAt) | [God you keep on blessing me](https://open.spotify.com/album/5a1M0zMLekpfSvFHRUFzNA) | 3:06 | 2025-08-01 | 2025-08-06 |
 | [Haleluyah Mdumiseni \- Live](https://open.spotify.com/track/0cnL9GGXyZen3MtNb4pQCl) | [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Restored \(Live\)](https://open.spotify.com/album/4CVpV7NAYwOeWuZ9FSbFZ5) | 7:13 | 2024-10-04 |  |
 | [Hallelujah Nkateko \(Lihle's Version\) \- Live](https://open.spotify.com/track/5RERHb5WKrWUKoqZniCpiJ) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 19 \(Back to the Cross\)](https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU) | 5:36 | 2024-10-04 |  |
@@ -157,6 +158,7 @@
 | [Sewakhile](https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Greatest Hits](https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ) | 4:42 | 2024-10-04 |  |
 | [Sidumisa Wena \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/4epVuj4ZLMusxeWD8qJll9) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Sidumisa Wena \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/3hK5itgu7a8OKdLu2kzNWh) | 7:30 | 2024-10-15 | 2025-03-21 |
 | [Singabantwana \- Live at Isibaya Casino](https://open.spotify.com/track/4aY18WykQoaNIJPqYB4qga) | [Ndumiso Zungu](https://open.spotify.com/artist/4rFahmjoVZtKLEn95KHpzH) | [Singabantwana \(Live at Isibaya Casino\)](https://open.spotify.com/album/49hkVpI50FfeWHeqeLKpSg) | 7:27 | 2025-11-28 |  |
+| [Sinomlilo](https://open.spotify.com/track/1zvBqJgbDWBjx4nc96LdYz) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sinomlilo](https://open.spotify.com/album/1mU0f8KzQGXG2apx46GNvf) | 4:41 | 2025-12-12 |  |
 | [Sojabula \- Hosanna Kweliphezulu](https://open.spotify.com/track/4MJWtu8wNvCDZMcuyrDlpM) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Sojabula \(Hosanna Kweliphezulu\)](https://open.spotify.com/album/4e7plmHk0aw1kvX22l852X) | 5:37 | 2024-10-11 | 2025-03-21 |
 | [South African Hymns Medley](https://open.spotify.com/track/2ISFvLQr4ids67oJbk82Wj) | [Halal Afrika](https://open.spotify.com/artist/5gX3emCuEZBBq99uBvA3yh), [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [South African Hymns Medley](https://open.spotify.com/album/1LbcounheZIUd5xbxVbBk1) | 17:55 | 2025-06-27 |  |
 | [Tana Moya](https://open.spotify.com/track/0E5QvVarCGJgMNeKT4Z45t) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [HLE](https://open.spotify.com/artist/7bSO8mze1FilCh2kZimKLD) | [The GAP](https://open.spotify.com/album/1xFLWxPqiYL71QWH9WRZqm) | 3:03 | 2025-08-01 | 2025-08-06 |

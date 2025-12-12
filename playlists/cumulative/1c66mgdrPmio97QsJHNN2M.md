@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-583 songs - 1 day 8 hr 23 min
+588 songs - 1 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,7 +262,9 @@
 | [Is This All?](https://open.spotify.com/track/40WHt75PDTsyT9bPsYIw3H) | [Mark Hegan](https://open.spotify.com/artist/7crr46eJh3TVrvWKovT5mr) | [First a Whisper, Then a Shout](https://open.spotify.com/album/2cwDdnhRCRHzG8OQmjPKXR) | 3:38 | 2025-10-29 | 2025-11-30 |
 | [Islands](https://open.spotify.com/track/38ASHfGwEFDfdynciDL4DI) | [ARKAD1A](https://open.spotify.com/artist/7EdtSbHEp0JDWdlbQD44nk) | [Fragments](https://open.spotify.com/album/0mxfDbg7spvCnnJWFmXw6n) | 3:22 | 2025-11-20 |  |
 | [it's complicated](https://open.spotify.com/track/7B7F1sumZiTNCBk6oXZCb5) | [raihan](https://open.spotify.com/artist/71FN3vBlPk9AUdORXIMlLD), [Swik](https://open.spotify.com/artist/7IgAHxP7vH6TfXJtf8Kbai), [静的 Static](https://open.spotify.com/artist/6rEjEIfp3NSRteU3kJGSET) | [it's complicated](https://open.spotify.com/album/6GPcZSDGjycIzGNKDL51Vz) | 2:47 | 2025-10-24 | 2025-11-26 |
+| [It's You](https://open.spotify.com/track/4OSreDxciehHjXiDIecQav) | [McKayla Michelle](https://open.spotify.com/artist/14RIpvHLel1ghkovrPsu6h) | [It's You](https://open.spotify.com/album/6eMmuyv2I41OrR0M7E7qe8) | 2:38 | 2025-12-11 |  |
 | [IYKYK](https://open.spotify.com/track/2MHZg1SAC5jCuTNsm9uO6Y) | [Jenny Palacios](https://open.spotify.com/artist/1TpnyAngai2yGUjI7OKFp8) | [IYKYK](https://open.spotify.com/album/2kACKOnRggw9oPwu2sJcRb) | 2:56 | 2025-12-03 |  |
+| [Japanese Onsen](https://open.spotify.com/track/28WXWbhioXPcw3v4cvzjv9) | [Monster Taxi](https://open.spotify.com/artist/27o7oSOG3aEzsNaAnm2hgZ) | [Japanese Onsen](https://open.spotify.com/album/6xOQMZu1tkEGHPyd5Gnxtc) | 3:56 | 2025-12-11 |  |
 | [Just Say Yes](https://open.spotify.com/track/7JyVChaXT4aOEjfALDOsfY) | [Ailia Hikaru](https://open.spotify.com/artist/2BBmE70NRfp0d8IObYnPiX) | [Just Say Yes](https://open.spotify.com/album/1waQeSlXp32NcU2ewYtGac) | 2:49 | 2025-10-20 | 2025-11-23 |
 | [Keep Thinking](https://open.spotify.com/track/36Gig3sS50Yq0Dj2bAzJZZ) | [Jubu Jay](https://open.spotify.com/artist/7JDL067mOucmPWiUCDjHSJ) | [Keep Thinking](https://open.spotify.com/album/0lVl0LYln3U5IdMjutQTCO) | 2:45 | 2025-10-27 | 2025-11-29 |
 | [Keep This Heart Beating](https://open.spotify.com/track/3Euwh8xT4GTpQxK5bgRzL4) | [Scott Baker Graham](https://open.spotify.com/artist/539zcKN3q0xsRerVoBL0PA) | [Keep This Heart Beating](https://open.spotify.com/album/712SM8HuwdM2QkwQ4Y8j8t) | 3:17 | 2025-11-24 |  |
@@ -308,6 +310,7 @@
 | [Love, Cherish and Laugh](https://open.spotify.com/track/0R7Bou9pgg2rECHa4SPWFN) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Love, Cherish and Laugh](https://open.spotify.com/album/1noqCGrl8OP8ktX8aQdP2X) | 3:54 | 2025-10-04 |  |
 | [Lovekomotive](https://open.spotify.com/track/5ca7KsClrlVTDjnximVi7Z) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Lovekomotive](https://open.spotify.com/album/7oi4Z60udYyTT4UnREzG9L) | 3:33 | 2025-11-21 |  |
 | [Lustful Grave](https://open.spotify.com/track/0lEev4RX1l5v7ocDQPNs3k) | [SelfHarMonica](https://open.spotify.com/artist/3wxbbLOVWoUrsmJ73g1rdP) | [Lustful Grave](https://open.spotify.com/album/1sVTVL3Zq5dvqZ8BSDQc5A) | 4:20 | 2025-11-03 | 2025-12-07 |
+| [LUV STRUCK](https://open.spotify.com/track/27lMGJ24Ry90rS18akyYnT) | [Hxtra](https://open.spotify.com/artist/5UWCbi9dD4BzERjl7b3Neb) | [9 2 5](https://open.spotify.com/album/3trknleJinlGnyzjZRTi40) | 2:24 | 2025-12-11 |  |
 | [Lymantria](https://open.spotify.com/track/4hpzu2oeDjSy56592SSiaU) | [Faye Ophelia](https://open.spotify.com/artist/6MNLBbT6ctnLmJLuypt7pz), [SAVFAE](https://open.spotify.com/artist/4g1jIyfALcO423JdY5OziP) | [Lymantria](https://open.spotify.com/album/5dWXiG1SsY7feeoS95Haj8) | 3:17 | 2025-11-02 | 2025-12-03 |
 | [Make a Wish](https://open.spotify.com/track/5JdFTfVOnTgoUXeHRmN0nS) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Make a Wish](https://open.spotify.com/album/0cQRccXQYx1G5BZjTAaoxv) | 3:12 | 2025-10-04 |  |
 | [Make it Shine](https://open.spotify.com/track/5rTVTwxZcjJ4SeYUSsDL3A) | [Nicolás Romero](https://open.spotify.com/artist/1GiJPE1oG26tlT4W28FEp0) | [Make it Shine](https://open.spotify.com/album/4AntAdQPvM6NXiEAAiGwJ3) | 3:24 | 2025-12-01 |  |
@@ -492,6 +495,7 @@
 | [Temptation](https://open.spotify.com/track/0LmgaXgy7hmxX5Vm3tBvKJ) | [TayyM](https://open.spotify.com/artist/3OugmZPVuJoizDaLPgDorn) | [Simple Survival](https://open.spotify.com/album/6h1FdhL8IudsPeZZdP2SUQ) | 3:46 | 2025-11-14 |  |
 | [The Black Hole \(Instrumental\)](https://open.spotify.com/track/2C0z0Z6UiY6A6HveJhMm7P) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [The Black Hole \(Instrumental\)](https://open.spotify.com/album/06ZeLPOFh1O3XgZOuIkxxd) | 4:14 | 2025-10-04 |  |
 | [The Dragonborn Comes \(Elder Scrolls Epic Soundtrack\)](https://open.spotify.com/track/5Fn6wgnaGU2r7lMLzC1kdj) | [Daniel Böhmel](https://open.spotify.com/artist/0XT8LIbZKwTynC7B7B9h2T) | [The Dragonborn Comes \(Elder Scrolls Epic Soundtrack\)](https://open.spotify.com/album/1mJSWOfubussL5f48UQrWK) | 4:23 | 2025-10-19 | 2025-11-23 |
+| [The First Christmas Day](https://open.spotify.com/track/0fK8bKXd6Es4xesqIIXBOJ) | [Jodi DiPiazza](https://open.spotify.com/artist/6p1xGLc2dyQL1Beu8zfHja) | [The First Christmas Day](https://open.spotify.com/album/3X9e7bulAtrFAVqpH50IYL) | 5:34 | 2025-12-11 |  |
 | [THE FLOOD](https://open.spotify.com/track/66REyxn7pU2K48UdF67XLc) | [Lea G](https://open.spotify.com/artist/4clYvo5vtpEnp6ibDxg16G) | [THE FLOOD](https://open.spotify.com/album/19FuAgXOfALCOWARIHfllP) | 2:50 | 2025-11-26 |  |
 | [The Forbidden Fruit](https://open.spotify.com/track/3hFGmpE1hnJqVtVGI9AiH5) | [VIKTORIA XO](https://open.spotify.com/artist/2SAh7nrpcCzHTyGdWfjM1f) | [The Forbidden Fruit](https://open.spotify.com/album/2iCrd3EfUmiiTXwV98HoGw) | 3:08 | 2025-11-26 |  |
 | [The Ghost Pirate](https://open.spotify.com/track/0Pb35kHuAwFQTH054uY2cJ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [The Ghost Pirate](https://open.spotify.com/album/6uxrv6u2UsLyvbNMFlzCaU) | 3:11 | 2025-11-01 | 2025-12-03 |
@@ -545,6 +549,7 @@
 | [Unflexible Girl](https://open.spotify.com/track/0ukoyzcHI2YnamOsC3PhZb) | [Elecprote1n](https://open.spotify.com/artist/2xjeyiw2CsGHyVhT7SUapN) | [Unflexible Girl](https://open.spotify.com/album/0RdJwpFzpmNE4yJsGvhWMI) | 6:49 | 2025-11-14 |  |
 | [Unmasked](https://open.spotify.com/track/63r1LT5c2KS75gkkLEmqzK) | [Ale Noa](https://open.spotify.com/artist/0m3HzckJXPH0OfGbqmmgxl) | [Unmasked](https://open.spotify.com/album/3aZMnCwpp9D7PQPjCRg47z) | 3:57 | 2025-11-01 | 2025-12-03 |
 | [UNTIL I SEE YOU](https://open.spotify.com/track/7wEVq8rQDOmsWhu0UwsP2O) | [LOST PAIN](https://open.spotify.com/artist/2NgDo9eUU3j7TtYt9XKrBW) | [UNTIL I SEE YOU](https://open.spotify.com/album/5IDgX5lxhCy47KqfqLNGW7) | 2:53 | 2025-11-22 |  |
+| [Until It's Time](https://open.spotify.com/track/77v6TueXjlHHOOBsFOrNGl) | [Cut Flowers](https://open.spotify.com/artist/5qRls3Usdh6jOe0ek8ZCXS) | [Until It's Time](https://open.spotify.com/album/6Ulxw0G7DRwcWy6FG0Yq0Z) | 2:48 | 2025-12-11 |  |
 | [Until You Say No](https://open.spotify.com/track/6rXspyiwjxfXz8IQcv0kWz) | [B Johny](https://open.spotify.com/artist/1ZLFH1PilL3beYC2fntEr5) | [Until You Say No](https://open.spotify.com/album/5vkMZG18pBaGwK6jPYfOUC) | 2:54 | 2025-10-19 | 2025-11-23 |
 | [Ut altum spiritum](https://open.spotify.com/track/6LYoQhwLsiMffSdAnhvaku) | [FabofaWo](https://open.spotify.com/artist/7miAoTJuBk3eAe2HOSWFju), [Max Jalaly](https://open.spotify.com/artist/10DilNbX6PisrMhJWJVRMT) | [Ut altum spiritum](https://open.spotify.com/album/15oI9tr5TDOGbTbpw0yjqd) | 2:40 | 2025-10-31 | 2025-12-01 |
 | [Venom](https://open.spotify.com/track/123fITFBUeEY2TZthQumRM) | [Jenasis](https://open.spotify.com/artist/1m5tM87HoGL5ePg8IddymH) | [Venom](https://open.spotify.com/album/6EufUlmb84DvL4NHd6od4b) | 2:55 | 2025-10-23 | 2025-11-24 |

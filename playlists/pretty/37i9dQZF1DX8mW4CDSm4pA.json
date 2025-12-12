@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/domfishback/\">Dominique Fishback</a>. ",
-  "num_followers": 4219,
+  "num_followers": 4233,
   "original_name": "Dominique Fishback's Taste",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
+        "name": "Comfortable",
+        "url": "https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 255065,
+      "name": "Comfortable",
+      "url": "https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
         "name": "Going To A Go-Go",
         "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
       },
@@ -183,18 +199,18 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Comfortable",
-        "url": "https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2yDwwjGzGEcyJMEJuCNyiP"
       },
       "artists": [
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
         }
       ],
-      "duration_ms": 255065,
-      "name": "Comfortable",
-      "url": "https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12"
+      "duration_ms": 285760,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/2AP7m2dBb8ULTx4Gc1rdMc"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -227,22 +243,6 @@
       "duration_ms": 256493,
       "name": "Waiting In Vain",
       "url": "https://open.spotify.com/track/1waOqfmEVkVC8WhaIP6uGI"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2yDwwjGzGEcyJMEJuCNyiP"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 285760,
-      "name": "Juicy",
-      "url": "https://open.spotify.com/track/2AP7m2dBb8ULTx4Gc1rdMc"
     },
     {
       "added_at": "2023-06-01 04:00:00",

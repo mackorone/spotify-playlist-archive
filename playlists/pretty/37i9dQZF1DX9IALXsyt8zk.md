@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > 스포티파이 뮤직 에디터가 선정한 2025 베스트 트랙입니다\. \(커버: 한로로\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,441 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,444 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 49 | [My Chick \(Feat\. Lil Cherry\)](https://open.spotify.com/track/43zNS0a18EnlLlcX3zc6LY) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [My Chick](https://open.spotify.com/album/0E3exhlkZLi8QX4CiLItkq) | 2:22 |
 | 50 | [Wonderland](https://open.spotify.com/track/2TUmKunDoPPtbBT8XKG0Ws) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Wonderland](https://open.spotify.com/album/2VcYAVXPKgKeTThst7wH4N) | 2:55 |
 
-Snapshot ID: `AAAAAAZYwC4UVYjCJfpTy/y9n0detRBn`
+Snapshot ID: `AAAAAF4cvMS7X92CXXLAlrGVx7s/6jIc`

@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-186 songs - 12 hr 32 min
+187 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [keepyousafe](https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b) | [Yahya](https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R) | [keepyousafe](https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9) | 4:21 | 2023-02-03 | 2024-11-26 |
 | [Kisah Romantis](https://open.spotify.com/track/37Esp6rBYhZa8pxJs5xzIV) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [OST\. Cinta Silver](https://open.spotify.com/album/5qPDSS9JkOf6As1DqdhKpF) | 4:23 | 2023-02-03 | 2024-09-28 |
 | [Kita Bikin Romantis](https://open.spotify.com/track/7geh51STedQfizitdiNPCg) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Kita Bikin Romantis](https://open.spotify.com/album/0empe1Mwd55VSS0tqE6gRo) | 3:56 | 2024-04-30 | 2025-11-07 |
+| [kota ini tak sama tanpamu](https://open.spotify.com/track/13CwOTXUgBugeBByE9oIWb) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif \(laman berikutnya\)](https://open.spotify.com/album/6QNFAeSYHkbEuTUtQMhlnC) | 4:39 | 2025-12-12 |  |
 | [Kupu \- Kupu](https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Kupu \- Kupu](https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr) | 4:02 | 2024-04-30 |  |
 | [Kurayu Bidadari](https://open.spotify.com/track/1yYFsvN14Z2JD8lEN0qYU2) | [Al\-Ghazali](https://open.spotify.com/artist/574Sftrqpo7OKHWPXprSMx) | [Kurayu Bidadari](https://open.spotify.com/album/2H8OsKxm0ShyAVWLORyJri) | 4:30 | 2023-08-16 | 2025-03-11 |
 | [Lagi Lagi](https://open.spotify.com/track/2kN0Lv2Bk0n1KuP9drjWxf) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Lagi Lagi](https://open.spotify.com/album/1nj3yCHh1mXPJMTjrQ6ikN) | 4:01 | 2023-02-03 | 2024-11-26 |

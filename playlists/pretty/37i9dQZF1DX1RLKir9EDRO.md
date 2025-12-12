@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > 2025'in bağımsız yerli sahneden keşifleri! Kapak: üçkuruş Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,317 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,325 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 74 | [Denerim](https://open.spotify.com/track/2SSA0UN1VcHakUXH4JPqzS) | [KAOL](https://open.spotify.com/artist/1boFLjOE17z2zp7BtHLB3v) | [Denerim](https://open.spotify.com/album/2rTW4ASwjLM8D17NcbrcYH) | 4:42 |
 | 75 | [Neredesin](https://open.spotify.com/track/1bsH6Q8KX0WoJ9sPk93RYd) | [Dou](https://open.spotify.com/artist/7rPjWj9E5VI4qPruDnI83U) | [Neredesin](https://open.spotify.com/album/4T7Mfzph1yeVIXaj2q42KI) | 3:20 |
 
-Snapshot ID: `AAAAAJXgEAgMj864J9SOU/kxz4i1KfgK`
+Snapshot ID: `AAAAALAoCveUkLJ3Fsg1bHtZcP4GrG+X`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De beste Nederlandse liedjes. Cover: Tino Martin & Re-Play",
+  "description": "De beste Nederlandse liedjes. Cover: Luna",
   "name": "Beste van NL",
   "tracks": [
     {
@@ -1393,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "First Rodeo",
+        "url": "https://open.spotify.com/album/0tMYQo9n5L7w1uRknqg7Qj"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223985,
+      "name": "Call You Home",
+      "url": "https://open.spotify.com/track/6asKWJ9heYSpUUlN77lgnc"
+    },
+    {
+      "album": {
         "name": "Mama I Made It",
         "url": "https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj"
       },
@@ -1506,7 +1524,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 221533,
       "name": "Cowboys",
       "url": "https://open.spotify.com/track/5hiCMgAzZJN30QXGIvRiHb"
@@ -3673,6 +3691,24 @@
     },
     {
       "album": {
+        "name": "Ik Denk Aan Jou",
+        "url": "https://open.spotify.com/album/3neg2FwR8vVtWc4bBMCoDJ"
+      },
+      "artists": [
+        {
+          "name": "Hansen Tomas",
+          "url": "https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165614,
+      "name": "Ik Denk Aan Jou",
+      "url": "https://open.spotify.com/track/61fynrd8AHMoqxLLdz5RbD"
+    },
+    {
+      "album": {
         "name": "Ik Haat Hem Voor Jou",
         "url": "https://open.spotify.com/album/3lkn7csEi16CayvYDrRRDz"
       },
@@ -4756,7 +4792,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 197411,
       "name": "Levenslang",
       "url": "https://open.spotify.com/track/39up5WgPdJqPTi56C4mEJq"
@@ -5465,6 +5501,28 @@
     },
     {
       "album": {
+        "name": "Niet Nodig",
+        "url": "https://open.spotify.com/album/4bo2xHn60vQOvWphKHzt7u"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        },
+        {
+          "name": "Metejoor",
+          "url": "https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163130,
+      "name": "Niet Nodig",
+      "url": "https://open.spotify.com/track/0OVYhtxxWQn2pcs3XR095M"
+    },
+    {
+      "album": {
         "name": "Zo\u00eb Tauran",
         "url": "https://open.spotify.com/album/67Ev4h0Huix22epuEdkaVV"
       },
@@ -5618,7 +5676,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 184396,
       "name": "Nothing To Lose",
       "url": "https://open.spotify.com/track/4FhKH5QIbjGnha0ZNAyYVt"
@@ -5746,7 +5804,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 200921,
       "name": "oeps",
       "url": "https://open.spotify.com/track/4w7Zhg034GDeMYnpOoZIuu"
@@ -6148,6 +6206,28 @@
       "duration_ms": 162857,
       "name": "Pizza Met Ananas",
       "url": "https://open.spotify.com/track/5MCYr1sRABY6kNKdRK4ey7"
+    },
+    {
+      "album": {
+        "name": "Puinhoop",
+        "url": "https://open.spotify.com/album/0HOPa8tTcv1s2K1JbI2UPW"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134641,
+      "name": "Puinhoop",
+      "url": "https://open.spotify.com/track/5UR6iM7zFdl0JhY4JZ7NIw"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 40877,
+  "num_followers": 40880,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAACOg5VvctPM2Z7UXezsF1Ez",
+  "snapshot_id": "aTi4AAAAAABGPITE4ZE90GpAK22znbvP",
   "tracks": [
     {
       "added_at": null,
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 211363,
-      "name": "Que Nem o Meu Cachorro",
-      "url": "https://open.spotify.com/track/6q6H1hnPigK21jsTvPbAKU"
+      "duration_ms": 262500,
+      "name": "Carta Pra Amy",
+      "url": "https://open.spotify.com/track/6zrAWJ9BF9pAkd1IjjCtSh"
     },
     {
       "added_at": null,
@@ -170,10 +170,6 @@
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
         }
       ],
       "duration_ms": 178948,
@@ -192,9 +188,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 262500,
-      "name": "Carta Pra Amy",
-      "url": "https://open.spotify.com/track/6zrAWJ9BF9pAkd1IjjCtSh"
+      "duration_ms": 211363,
+      "name": "Que Nem o Meu Cachorro",
+      "url": "https://open.spotify.com/track/6q6H1hnPigK21jsTvPbAKU"
     },
     {
       "added_at": null,
@@ -670,15 +666,11 @@
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
         }
       ],
-      "duration_ms": 254769,
-      "name": "Somos o Mundo",
-      "url": "https://open.spotify.com/track/5PlRYhWSeZpOE4C1KhDjMg"
+      "duration_ms": 176318,
+      "name": "O Estranho Vizinho da Frente",
+      "url": "https://open.spotify.com/track/7ymEK7S0DIlXiTLB4Fs17J"
     },
     {
       "added_at": null,
@@ -762,11 +754,15 @@
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
         }
       ],
-      "duration_ms": 176318,
-      "name": "O Estranho Vizinho da Frente",
-      "url": "https://open.spotify.com/track/7ymEK7S0DIlXiTLB4Fs17J"
+      "duration_ms": 254769,
+      "name": "Somos o Mundo",
+      "url": "https://open.spotify.com/track/5PlRYhWSeZpOE4C1KhDjMg"
     },
     {
       "added_at": null,

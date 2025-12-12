@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXCsPyv961B.md) - [plain]
 
 > Il meglio dell'indie italiano nel 2025, secondo i nostri Editor! Cover: Lucio Corsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,337 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,345 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXCsPyv961B.md) - [plain]
 | 54 | [Nero](https://open.spotify.com/track/5po9vnC8wnWAr6RRB6BIIe) | [Thruppi](https://open.spotify.com/artist/3DJ294D2VS2W1sEwtBzbjS), [Giovanni Truppi](https://open.spotify.com/artist/6qSYb2AiQlXlAoa50vLx5m), [Alice](https://open.spotify.com/artist/2secXZJFel5sboofeiGQyk), [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [Thruppi](https://open.spotify.com/album/2IBBaHarj5oCI05K30hhEn) | 3:11 |
 | 55 | [Pessima idea](https://open.spotify.com/track/30oTjdtoeNQij5M0jvwgjj) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Pessima idea](https://open.spotify.com/album/3uqNVsVWGubzwr5HsKs1hF) | 3:03 |
 
-Snapshot ID: `AAAAACHhqTh952wAlszGZ7rQmRcFABV2`
+Snapshot ID: `AAAAAGl5+1l+p2r7qQ8+dUP7nen5UDQl`

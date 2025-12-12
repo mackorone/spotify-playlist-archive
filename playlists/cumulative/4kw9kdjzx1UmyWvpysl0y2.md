@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,136 songs - 2 day 15 hr 30 min
+1,137 songs - 2 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Dilemma](https://open.spotify.com/track/1B9t3ewu5mPiFHbWcGudRk) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Dilemma](https://open.spotify.com/album/1LEREp3j92WCGRMt93W3GD) | 3:29 | 2022-10-17 | 2022-12-17 |
 | [Ding Dong](https://open.spotify.com/track/4pRnMMMzvjj9uqMZa0YO7U) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Ding Dong](https://open.spotify.com/album/4g7lD5NvinPkSPj5PElwdp) | 2:57 | 2022-06-23 | 2022-09-07 |
 | [Dino Killer \- Dodge & Fuski Remix](https://open.spotify.com/track/48BEoeZBILGunmflYqDFKG) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Dodge & Fuski](https://open.spotify.com/artist/6SJnjpekgnONgNtxKeMP8m) | [Stealing Fire \(Remixes\)](https://open.spotify.com/album/04OcnH4C6pWDqvT5fdtkKQ) | 3:02 | 2025-10-15 |  |
+| [Disco Kissing](https://open.spotify.com/track/6MECIOnMn0h1mdJfey9BOx) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Disco Kissing](https://open.spotify.com/album/1lmSOfKZKwFR996kNlaEyQ) | 3:05 | 2025-12-11 |  |
 | [Distant Dreams](https://open.spotify.com/track/2o6nImD3OPpIoeDLOleeX8) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [Pretty Race Girl](https://open.spotify.com/album/69AaJSfAe4CSBfHCiDA0Og) | 3:19 | 2025-06-20 | 2025-09-19 |
 | [DIVA](https://open.spotify.com/track/37KmFNIT72X8KJ1nsI3MTJ) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [microcelebrity](https://open.spotify.com/album/5e4T3urdHvFwYy2W4eqOOu) | 2:10 | 2024-05-16 | 2024-08-14 |
 | [DIVA \- SØL Remix](https://open.spotify.com/track/2z3ecxzZrkbAsIoWlb3u0I) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [SØL](https://open.spotify.com/artist/4lIm4NzXKTs3bHWxUq2C5a) | [DIVA \(SØL Remix\)](https://open.spotify.com/album/6mfwuGrWhFkFPby8T08m3E) | 2:17 | 2024-10-10 | 2025-01-21 |

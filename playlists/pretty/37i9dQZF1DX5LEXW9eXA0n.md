@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: Paul Kim \(폴킴\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,632 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,640 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [Destiny \(2025\)](https://open.spotify.com/track/0LLd9oghk9adWYmou7YQnV) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD), [Lee Yi Kyung](https://open.spotify.com/artist/3VNRGqfUpv4TSkcJjnt9qd) | [Monday Kiz's Footprints Vol.1 With Lee Yi Kyung](https://open.spotify.com/album/6tdMpoiWbTxx6otgWj2bmF) | 4:18 |
 | 100 | [With Your Love](https://open.spotify.com/track/7Il5jEgeqJmhVRCvcw7f1a) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/2J5G4nG3Yld22VHOGA90Lq) | 3:55 |
 
-Snapshot ID: `AAAAANOI3em+MSYhi+7kz+mF61anEKMX`
+Snapshot ID: `AAAAANhGJtOMJ3xbZKtZie+kVT001vAj`

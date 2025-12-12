@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 163221,
+  "num_followers": 163241,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAACwEKZoVFWA09ZezD++p5x8",
+  "snapshot_id": "aTi4AAAAAAB0mxGTaNbR+K04dHHWnHMC",
   "tracks": [
     {
       "added_at": null,
@@ -211,30 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All That I Need",
-        "url": "https://open.spotify.com/album/2QsAwF0l3ftb6qInTKlXls"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "GRAHAM",
-          "url": "https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "All That I Need",
-      "url": "https://open.spotify.com/track/4qRGQCvqygDcfVw8REV2Fz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -255,6 +231,30 @@
       "duration_ms": 405513,
       "name": "Million Little Miracles (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All That I Need",
+        "url": "https://open.spotify.com/album/2QsAwF0l3ftb6qInTKlXls"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "GRAHAM",
+          "url": "https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "All That I Need",
+      "url": "https://open.spotify.com/track/4qRGQCvqygDcfVw8REV2Fz"
     },
     {
       "added_at": null,
@@ -731,6 +731,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Made A Way",
+        "url": "https://open.spotify.com/album/3JiUEjyUFgfp4FR21Z9f7q"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Bear Bailey",
+          "url": "https://open.spotify.com/artist/6zoVsozlr1uPCNFXAloDPz"
+        }
+      ],
+      "duration_ms": 379082,
+      "name": "Praise You Through It",
+      "url": "https://open.spotify.com/track/0vejLtgneNNOwcfT3E7ma0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 1",
         "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
@@ -791,30 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Problems (feat. Chandler Moore)",
-        "url": "https://open.spotify.com/album/0d3jBzKsUXdynysqmqE07E"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 590857,
-      "name": "God Problems (feat. Chandler Moore, Naomi Raine)",
-      "url": "https://open.spotify.com/track/2aIKL1vIMOztwdxlG9hGoD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jubilee: Juneteenth Edition",
         "url": "https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH"
       },
@@ -835,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Made A Way",
-        "url": "https://open.spotify.com/album/3JiUEjyUFgfp4FR21Z9f7q"
+        "name": "God Problems (feat. Chandler Moore)",
+        "url": "https://open.spotify.com/album/0d3jBzKsUXdynysqmqE07E"
       },
       "artists": [
         {
@@ -844,13 +840,17 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Bear Bailey",
-          "url": "https://open.spotify.com/artist/6zoVsozlr1uPCNFXAloDPz"
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
         }
       ],
-      "duration_ms": 379082,
-      "name": "Praise You Through It",
-      "url": "https://open.spotify.com/track/0vejLtgneNNOwcfT3E7ma0"
+      "duration_ms": 590857,
+      "name": "God Problems (feat. Chandler Moore, Naomi Raine)",
+      "url": "https://open.spotify.com/track/2aIKL1vIMOztwdxlG9hGoD"
     },
     {
       "added_at": null,
@@ -971,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City Music, Vol. 3: Pt. 1",
-        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        }
-      ],
-      "duration_ms": 766715,
-      "name": "Have My Heart (feat. Chris Brown, Chandler Moore)",
-      "url": "https://open.spotify.com/track/6vpqd2PVdRja9di26vmCAa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Move Your Heart",
         "url": "https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 621222,
       "name": "Move Your Heart (feat. Dante Bowe & Elyssa Smith)",
       "url": "https://open.spotify.com/track/66yilG6117AXfAjtzjtxk7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maverick City Music, Vol. 3: Pt. 1",
+        "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 766715,
+      "name": "Have My Heart (feat. Chris Brown, Chandler Moore)",
+      "url": "https://open.spotify.com/track/6vpqd2PVdRja9di26vmCAa"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 105711,
+  "num_followers": 105724,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
+        "name": "For The People",
+        "url": "https://open.spotify.com/album/6kIgGVhhww5H5SNwg2Dsoo"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        }
+      ],
+      "duration_ms": 137538,
+      "name": "For The People",
+      "url": "https://open.spotify.com/track/1LvXRLxZ8s2ofB0X5zONou"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
         "name": "TEN",
         "url": "https://open.spotify.com/album/0iIC693yA29mHcT8j08osB"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 129103,
       "name": "TEN",
       "url": "https://open.spotify.com/track/5mblkVhuszeZGe1W00bno8"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
-        "name": "For The People",
-        "url": "https://open.spotify.com/album/6kIgGVhhww5H5SNwg2Dsoo"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        }
-      ],
-      "duration_ms": 137538,
-      "name": "For The People",
-      "url": "https://open.spotify.com/track/1LvXRLxZ8s2ofB0X5zONou"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Don't Fall For Me",
-        "url": "https://open.spotify.com/album/0rOOc8U67BGLXCBxiBKpoJ"
-      },
-      "artists": [
-        {
-          "name": "RSCL",
-          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
-        },
-        {
-          "name": "Dastic",
-          "url": "https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A"
-        }
-      ],
-      "duration_ms": 174888,
-      "name": "Don't Fall For Me",
-      "url": "https://open.spotify.com/track/0MYnMotI9017FjYVszNswj"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/4DKA5qXjV1vihrD5m2lVWD"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 174624,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1B4OIfL8ovAHujVlHvhnAq"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Don't Fall For Me",
+        "url": "https://open.spotify.com/album/0rOOc8U67BGLXCBxiBKpoJ"
+      },
+      "artists": [
+        {
+          "name": "RSCL",
+          "url": "https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3"
+        },
+        {
+          "name": "Dastic",
+          "url": "https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A"
+        }
+      ],
+      "duration_ms": 174888,
+      "name": "Don't Fall For Me",
+      "url": "https://open.spotify.com/track/0MYnMotI9017FjYVszNswj"
     },
     {
       "added_at": "2025-10-30 23:00:21",

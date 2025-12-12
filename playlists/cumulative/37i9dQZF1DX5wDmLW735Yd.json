@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: IRAH",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: 1991",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -104,7 +104,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 129201,
       "name": "4 Me",
       "url": "https://open.spotify.com/track/26bL8XQSyFjdWUhwO9de8J"
@@ -629,6 +629,32 @@
     },
     {
       "album": {
+        "name": "All Hearts",
+        "url": "https://open.spotify.com/album/3cYmTVss9IVaRPOSPgUc4A"
+      },
+      "artists": [
+        {
+          "name": "Futurebound",
+          "url": "https://open.spotify.com/artist/2Vqj1e2oloOKNqAT2gpoa5"
+        },
+        {
+          "name": "Eddy Don't Sail",
+          "url": "https://open.spotify.com/artist/7bKSZzB7rAS834Ete3bAmx"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197241,
+      "name": "All Hearts",
+      "url": "https://open.spotify.com/track/35qPmB2tWHUhzdbE62HpZ9"
+    },
+    {
+      "album": {
         "name": "All I Know (with Khalid)",
         "url": "https://open.spotify.com/album/1TNPKEmo5TSj8NpXpDgMsf"
       },
@@ -666,6 +692,28 @@
       "duration_ms": 166896,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/5FUXuii2C6UdjHevv4yKsN"
+    },
+    {
+      "album": {
+        "name": "All Night (Tim Reaper remix)",
+        "url": "https://open.spotify.com/album/4Cood28YD276gaW4DOgEeX"
+      },
+      "artists": [
+        {
+          "name": "Surusinghe",
+          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
+        },
+        {
+          "name": "Tim Reaper",
+          "url": "https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265295,
+      "name": "All Night (Tim Reaper remix)",
+      "url": "https://open.spotify.com/track/7obL6oZz2VM8CQK50g2R7c"
     },
     {
       "album": {
@@ -1782,7 +1830,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 170057,
       "name": "Badman Talk",
       "url": "https://open.spotify.com/track/26Culai82bJKYjljJcncdp"
@@ -2246,7 +2294,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 153488,
       "name": "Believer",
       "url": "https://open.spotify.com/track/41s1Ug10w5WMCj0htbO4vX"
@@ -2660,7 +2708,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 219397,
       "name": "Blush",
       "url": "https://open.spotify.com/track/4kbsoEGsXIYl0Ewms2c1W5"
@@ -3356,7 +3404,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 227657,
       "name": "Calgary",
       "url": "https://open.spotify.com/track/5gmYVdDn3Y4TOw8UqfkXFl"
@@ -7835,6 +7883,28 @@
     },
     {
       "album": {
+        "name": "FUEGO",
+        "url": "https://open.spotify.com/album/5a1rXABACMFSL6pqRpKB4T"
+      },
+      "artists": [
+        {
+          "name": "Kak Hatt",
+          "url": "https://open.spotify.com/artist/5iG3CtoJswOoCx42IqTdtR"
+        },
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158928,
+      "name": "FUEGO",
+      "url": "https://open.spotify.com/track/1L9osXOLzN9sCMnZum9KC0"
+    },
+    {
+      "album": {
         "name": "Full Moon / Haunta",
         "url": "https://open.spotify.com/album/0mBIjQQkHDWiX3CYonHWWB"
       },
@@ -10282,7 +10352,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 209850,
       "name": "If We Ever",
       "url": "https://open.spotify.com/track/1IgGwEIQkA7wEo1ewvxVsN"
@@ -10666,6 +10736,24 @@
       "duration_ms": 228965,
       "name": "Interference",
       "url": "https://open.spotify.com/track/0pIpEN61pTQZN8nBUzgpDq"
+    },
+    {
+      "album": {
+        "name": "International Luv",
+        "url": "https://open.spotify.com/album/6jsWY61Gr2uXvEddqzMYS0"
+      },
+      "artists": [
+        {
+          "name": "Janaway",
+          "url": "https://open.spotify.com/artist/57AV6TbmHpHujySKHSjQ7Z"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "International Luv",
+      "url": "https://open.spotify.com/track/6DtdxFU9OP3gOVpFayrdje"
     },
     {
       "album": {
@@ -11238,7 +11326,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 219740,
       "name": "LAST NIGHT",
       "url": "https://open.spotify.com/track/6Ha2EXymRCkSiG8NtQtWBB"
@@ -12742,7 +12830,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 147318,
       "name": "Made In Romania",
       "url": "https://open.spotify.com/track/3UdvaAWbTRWQdtbuElsqSU"
@@ -12826,7 +12914,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 167586,
       "name": "Make Forever",
       "url": "https://open.spotify.com/track/4hSwrKDgwetxHUeI5CUler"
@@ -13561,6 +13649,28 @@
     },
     {
       "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/7tzHiusg15it7xB2PzAmk1"
+      },
+      "artists": [
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        },
+        {
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222171,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/0Cbf9Ds2KVwdMWl2zkMiGF"
+    },
+    {
+      "album": {
         "name": "More Than Anything (feat. Emeli Sand\u00e9) [CLIPZ - Joy & Pain Remix]",
         "url": "https://open.spotify.com/album/0VW6QBw5K7i4YbrFKgu2Mt"
       },
@@ -13646,7 +13756,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 135242,
       "name": "Moshpit",
       "url": "https://open.spotify.com/track/3VyBTq1tYid256OXLAcyuX"

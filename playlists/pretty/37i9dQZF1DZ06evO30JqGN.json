@@ -1,12 +1,12 @@
 {
   "description": "This is Summer Walker. The essential tracks, all in one playlist.",
-  "num_followers": 136664,
+  "num_followers": 136741,
   "original_name": "This Is Summer Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAADwoglam6CgYmm04WuI8wr1",
+  "snapshot_id": "aTi4AAAAAACOhEkQAxf2LDfFy2D2p9+F",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "AM I THE DRAMA?",
-        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
       "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 267441,
-      "name": "Dead (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/3gnBcl5KRYTzIQyCOQug6F"
+      "duration_ms": 203240,
+      "name": "CPR",
+      "url": "https://open.spotify.com/track/5Tp4UJvnsF4Zd05k0zXUte"
     },
     {
       "added_at": null,
@@ -431,18 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+        "name": "AM I THE DRAMA?",
+        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
       },
       "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 203240,
-      "name": "CPR",
-      "url": "https://open.spotify.com/track/5Tp4UJvnsF4Zd05k0zXUte"
+      "duration_ms": 267441,
+      "name": "Dead (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/3gnBcl5KRYTzIQyCOQug6F"
     },
     {
       "added_at": null,

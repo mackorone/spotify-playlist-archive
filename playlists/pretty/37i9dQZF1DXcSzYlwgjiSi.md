@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSzYlwgjiSi.md) - [plain]
 
 > The perfect soundtrack for a day on the water.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,909 likes - 157 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,884 likes - 157 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,7 +157,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSzYlwgjiSi.md) - [plain]
 | 147 | [Sweet Home Alabama](https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg) | [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0) | [Second Helping \(Expanded Edition\)](https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH) | 4:43 |
 | 148 | [Love You a Little Bit](https://open.spotify.com/track/0JlPeDabMkPpmC9W7TI3BM) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Love You a Little Bit](https://open.spotify.com/album/3SPnI205DIMN5yosDIT0v1) | 3:30 |
 | 149 | [The Git Up](https://open.spotify.com/track/2KKijf6Ett4kmVNJze2roh) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Honeysuckle & Lightning Bugs](https://open.spotify.com/album/4dwNsmLLMl2F4xM5rWfHmj) | 3:20 |
-| 150 | [Somewhere With Beer](https://open.spotify.com/track/2qa1gBkgc1OaZAWiF9DCzz) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Somewhere With Beer](https://open.spotify.com/album/3tIjSgD6NEYmIGGFRznEhK) | 3:04 |
+| 150 | [Somewhere With Beer](https://open.spotify.com/track/2qa1gBkgc1OaZAWiF9DCzz) | [FILMORE](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Somewhere With Beer](https://open.spotify.com/album/3tIjSgD6NEYmIGGFRznEhK) | 3:04 |
 | 151 | [Champagne Night \- From Songland](https://open.spotify.com/track/48F2xnWq3LuzYWML327Z2r) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Champagne Night \(From Songland\)](https://open.spotify.com/album/12c0ZbMnEO94emcqf8xfts) | 3:05 |
 | 152 | [Water](https://open.spotify.com/track/5z1T8M153gyxX6IKJemYX7) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [American Saturday Night](https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x) | 4:21 |
 | 153 | [Beach Cowboy](https://open.spotify.com/track/0hYyHSuIKAvSdv1MwUkojC) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [BK's Wave Pack](https://open.spotify.com/album/3ZKMRbC3bBCROaFaA0E2M6) | 2:17 |

@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-578 songs - 1 day 13 hr 48 min
+580 songs - 1 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Room Lights](https://open.spotify.com/track/3ijhojRPDW6JMuUrsWy7Jf) | [Uriah See](https://open.spotify.com/artist/5G22Efave7oHLo9NG4uofT) | [Room Lights](https://open.spotify.com/album/6iCeV2G9w63xGB0k365xGg) | 3:32 | 2022-06-16 | 2022-06-23 |
 | [Roselia](https://open.spotify.com/track/4xMVyWjK7rvXNkUAVXCd3S) | [Ruth Kueo](https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb) | [Roselia](https://open.spotify.com/album/21hUr3pkaozv93pAovUwBN) | 3:55 | 2023-08-03 | 2023-09-15 |
 | [Save Me From Hell](https://open.spotify.com/track/5mOA5K06EpY7PV62bqTEDI) | [武宏澧](https://open.spotify.com/artist/58kU1aZSAwtNyfcND3dWis) | [Save Me From Hell](https://open.spotify.com/album/0qSi596PI2P2jmf78cnAHV) | 3:48 | 2024-06-27 | 2024-07-05 |
-| [Say You’re Sorry](https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Say You’re Sorry](https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH) | 2:16 | 2024-07-04 |  |
+| [Say You’re Sorry](https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Say You’re Sorry](https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH) | 2:16 | 2024-07-04 | 2025-12-12 |
 | [Sent](https://open.spotify.com/track/5AoKmB6j3YcYqo33AdNUaM) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Sent](https://open.spotify.com/album/41wLtMsBB3697P5K2KtZsR) | 4:01 | 2023-10-05 | 2023-10-20 |
 | [She’s A Trouble](https://open.spotify.com/track/3sEUXx8VNNvCxGv4sKEFIJ) | [Zooey Wonder](https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD) | [She’s A Trouble](https://open.spotify.com/album/6wO8VzhdO1YLjXUhOuIf7w) | 4:02 | 2024-10-31 | 2024-11-08 |
 | [so what.](https://open.spotify.com/track/7kp5jX3NL5xWene9JTwW3i) | [Diverseddie](https://open.spotify.com/artist/3aia8Qn8pZXJldrYzQqOOq) | [so what.](https://open.spotify.com/album/5cHG1xWu7hm4CbwPGTo1O2) | 2:31 | 2024-05-16 | 2024-05-24 |
@@ -411,12 +411,13 @@
 | [沐浴阳光](https://open.spotify.com/track/0xm7zKSinoohV9sUGwOExy) | [刘雯佩](https://open.spotify.com/artist/6kjxOb3qxNublHRuNQQuw8) | [树屋 \(2021\)](https://open.spotify.com/album/3ymAY7rNpDVBzPZUe9ogfS) | 3:41 | 2022-12-15 | 2022-12-24 |
 | [沒了我你依然擁有太陽](https://open.spotify.com/track/1kdorEa0Fro4lvhFWvQIqN) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [沒了我你依然擁有太陽](https://open.spotify.com/album/7L76pG9DApHkvbfl4UVp3t) | 4:32 | 2024-08-26 | 2024-11-10 |
 | [沒人告訴我](https://open.spotify.com/track/1FkVTnsWEj7QwIt6Yzi0mg) | [Haze哈泽](https://open.spotify.com/artist/0O6GJprb1FbUFhv9yks1lq) | [沒人告訴我](https://open.spotify.com/album/70nXkaVUEQ8XVHK1NWyV2R) | 3:28 | 2025-08-14 | 2025-08-29 |
-| [沒有人不痛苦](https://open.spotify.com/track/6NZQP8pcVNUaRuLyyDaeFs) | [蔡題謙](https://open.spotify.com/artist/5hWphgkEUu2A9QyYyLVT2g) | [沒有人不痛苦](https://open.spotify.com/album/4mEaVxQDJ6IBqpiMp0UhVW) | 2:56 | 2025-12-04 |  |
+| [沒有人不痛苦](https://open.spotify.com/track/6NZQP8pcVNUaRuLyyDaeFs) | [蔡題謙](https://open.spotify.com/artist/5hWphgkEUu2A9QyYyLVT2g) | [沒有人不痛苦](https://open.spotify.com/album/4mEaVxQDJ6IBqpiMp0UhVW) | 2:56 | 2025-12-04 | 2025-12-12 |
 | [沒有第三者的分手](https://open.spotify.com/track/3kRvEriTtPqbwRNhI9cQDw) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [給](https://open.spotify.com/album/0FTFuvuDe7qAB4HQ67J8qa) | 4:40 | 2022-07-15 | 2025-07-10 |
 | [沙發上的白日夢 \- Acoustic Version](https://open.spotify.com/track/1pZWDGtTfWeU7LwwEzld5n) | [SoulFa 靈魂沙發](https://open.spotify.com/artist/2eJX9VONHesNkNhdVKuBTY) | [So Far](https://open.spotify.com/album/0cApqoIW6AC4GsHdTMIeNV) | 4:20 | 2023-02-23 | 2023-03-18 |
 | [活的假象 \(Acoustic Ver.\)](https://open.spotify.com/track/4yTvK88JZHwtVuAzZd0uqz) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [活的假象](https://open.spotify.com/album/4C2t4U3j5e0RUGXUInSm0K) | 3:05 | 2024-04-18 | 2024-04-26 |
 | [流浪邊際](https://open.spotify.com/track/7ddqXt0ei8YDdclnK47sP5) | [多樂園](https://open.spotify.com/artist/6mA46tStfzbPs9IyF9Nart) | [流浪邊際](https://open.spotify.com/album/6vXDYTeQ4RNJaj9P9ddoOB) | 4:29 | 2023-03-09 | 2023-03-25 |
 | [流离海浪](https://open.spotify.com/track/4QfTlVUKQBMYrRe7wriPj7) | [Zoeln](https://open.spotify.com/artist/5on4F42pmB9YhiX13AdXXu), [Mye](https://open.spotify.com/artist/7y5ORRoWMaCls2cdSVO55G) | [流离海浪](https://open.spotify.com/album/2aeBEr8JzEY1ojuP9OTPQs) | 3:40 | 2023-12-21 | 2023-12-31 |
+| [浪漫科學你](https://open.spotify.com/track/3VBQKnQgXGkQPP4b4CWdMp) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [浪漫科學你](https://open.spotify.com/album/1vUpFChPz5mhbBYRA30Quj) | 2:38 | 2025-12-11 |  |
 | [海枯石爛](https://open.spotify.com/track/1sDQnmtrnVLcu6d9BlQl7P) | [Olivia Ong](https://open.spotify.com/artist/4kcLQfpkqAt5AdNlZZNSDd) | [Romance](https://open.spotify.com/album/0k04OWWjzvT36PsMAdu9x4) | 3:52 | 2022-06-02 | 2025-04-04 |
 | [海洋日記 Ocean Diary \(feat\. 舒米恩Suming\)](https://open.spotify.com/track/5KvNMaFwXzkVOJQ3yKGM4a) | [Daniel Ho](https://open.spotify.com/artist/17SbhL3sy2cOMZ4sMvVFlI), [Suming](https://open.spotify.com/artist/3jV6Ro12GySf82kJiksE7D) | [海洋日記 Ocean Diary–海洋日記影集主題曲](https://open.spotify.com/album/3xfcI5wJJFCDzeM65vZzmp) | 3:20 | 2023-08-31 | 2023-09-15 |
 | [海綿](https://open.spotify.com/track/3sBT5cFIgwEA9L6r3Ue4y7) | [柯朋宇](https://open.spotify.com/artist/5vWQyCpjh2KpM8DWR7OiYP) | [海綿](https://open.spotify.com/album/4Wbo1astFrXLXLYubpBVWu) | 3:37 | 2023-01-05 | 2023-01-20 |
@@ -509,6 +510,7 @@
 | [虛構](https://open.spotify.com/track/2MQJbiu6FnxVn5KkH42xuR) | [Colbie王思涵](https://open.spotify.com/artist/6NO4KtoS7iSjcg88n151zp) | [虛構](https://open.spotify.com/album/0TJZpw1w6xGeo2NnIQfp7I) | 3:35 | 2024-10-10 | 2024-10-28 |
 | [蜷](https://open.spotify.com/track/2vnJHBIRPRxJoWEFhBsmSV) | [冠妤 Nikko](https://open.spotify.com/artist/4NUexdfszshMuohBRzHANX) | [蜷](https://open.spotify.com/album/3cFuPDNqYEGmjxcuu7bVqx) | 3:28 | 2023-03-23 | 2023-04-07 |
 | [蝨子](https://open.spotify.com/track/1c5UEOmcjtuv2geZuuNLEY) | [Perseus 洪](https://open.spotify.com/artist/1uMhbNRsp7TX7wQlt1KCRW), [施少庸](https://open.spotify.com/artist/4SfWeosnDPJivwB6ArYVZ7) | [蝨子](https://open.spotify.com/album/2tGLnf4WT5QoRGHNdgVscj) | 4:30 | 2023-07-20 | 2023-08-04 |
+| [螃蟹](https://open.spotify.com/track/7jHSoarr5bvSLgpHxZKCXi) | [武宏澧](https://open.spotify.com/artist/58kU1aZSAwtNyfcND3dWis) | [玩不起](https://open.spotify.com/album/4YSFcJiXb9PRPzVyx2Q0Aj) | 3:45 | 2025-12-11 |  |
 | [行星戀 \- 思念版](https://open.spotify.com/track/0s9117C0CsZ5YgjOxfAUo0) | [Goose 我鳥](https://open.spotify.com/artist/4h1sE1sVLVe4cRO4mn8mtN), [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [行星戀 \(思念版\)](https://open.spotify.com/album/3TYt2w3N0mIy9jTybLxHk4) | 4:10 | 2022-06-10 | 2022-06-16 |
 | [被動的觀眾](https://open.spotify.com/track/1iM7KrPj67ESwLa2H5yMdr) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [被動的觀眾](https://open.spotify.com/album/0FihfmNx2ErosY6NleZDaF) | 3:57 | 2022-06-30 | 2024-10-18 |
 | [被溺愛的渴望 \(Vast & Hazy Rework\)](https://open.spotify.com/track/5zOYYYBZE99KUbe97VR98S) | [VH \(Vast & Hazy\)](https://open.spotify.com/artist/2O6Fn6smW8hJ5x9rOUDPJc), [Echo](https://open.spotify.com/artist/0TEJQb3o4DFVAnBBoVWQmy) | [被溺愛的渴望 \(Vast & Hazy Rework\)](https://open.spotify.com/album/2LnGUDtDOmsu7uQ37d0Fky) | 4:10 | 2022-06-30 | 2022-07-06 |

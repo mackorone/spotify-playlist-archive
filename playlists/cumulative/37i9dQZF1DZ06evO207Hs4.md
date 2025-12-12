@@ -4,7 +4,7 @@
 
 > This is Jimmy Cliff\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 31 min
+55 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,9 +48,10 @@
 | [Rub\-A\-Dub Partners](https://open.spotify.com/track/4LAz7d1hYELgs0PQvEkkym) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Special](https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w) | 2:57 | 2025-11-25 |  |
 | [Samba Reggae](https://open.spotify.com/track/5AEgVBPGMpx4jojTTSKEtJ) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [War a Africa](https://open.spotify.com/album/58gv9p5fC4xs1N5ckoxPLX) | 3:56 | 2025-11-25 |  |
 | [Sitting In Limbo](https://open.spotify.com/track/0lMyBUPFMCXZOILHe4uFwM) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7) | 4:55 | 2025-11-25 |  |
-| [Ska All Over the World](https://open.spotify.com/track/3vCRIsTY3iqBmovMktdsny) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Real Jamaica Ska](https://open.spotify.com/album/2rLogZR8BID2aRzwpymnhg) | 2:39 | 2025-11-25 |  |
+| [Ska All Over the World](https://open.spotify.com/track/3vCRIsTY3iqBmovMktdsny) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Real Jamaica Ska](https://open.spotify.com/album/2rLogZR8BID2aRzwpymnhg) | 2:39 | 2025-11-25 | 2025-12-12 |
 | [Sooner Or Later](https://open.spotify.com/track/25KfJuZGPem108WcMlajr8) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Best Of Jimmy Cliff](https://open.spotify.com/album/6Y39RwVpNbgahWevQ0KENh) | 5:15 | 2025-11-25 |  |
 | [Special](https://open.spotify.com/track/7jPmjZi2zeiA1L4oG00q4g) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Special](https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w) | 3:50 | 2025-11-25 |  |
+| [Stand Up and Fight Back](https://open.spotify.com/track/16yPyYg8xpvhDYeZNMN830) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Give Thanx](https://open.spotify.com/album/2fxpPZnUQrYgjax8z9t4UB) | 3:16 | 2025-12-12 |  |
 | [Struggling Man](https://open.spotify.com/track/6otlMUgOxNinfwVkdvASU1) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Best Of Jimmy Cliff](https://open.spotify.com/album/6Y39RwVpNbgahWevQ0KENh) | 3:30 | 2025-11-25 |  |
 | [Sunshine in the Music](https://open.spotify.com/track/2WTdOVaNWbcOViMg4NBML9) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Power And The Glory](https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs) | 4:50 | 2025-11-25 |  |
 | [The Harder They Come](https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7) | 3:39 | 2025-11-25 |  |

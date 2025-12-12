@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [5 In De Klok](https://open.spotify.com/track/7fOoETcG8UZb1dxzZpntQG) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [5 In De Klok](https://open.spotify.com/album/47NpIEYt4lRv08dVLdCYj7) | 3:07 | 2025-06-06 |  |
+| [5 In De Klok](https://open.spotify.com/track/7fOoETcG8UZb1dxzZpntQG) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [5 In De Klok](https://open.spotify.com/album/47NpIEYt4lRv08dVLdCYj7) | 3:07 | 2025-06-06 | 2025-12-12 |
 | [Adio Amore Adio](https://open.spotify.com/track/53AddGhMgfIE85Az2Ipovu) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [Gewoon Jannes](https://open.spotify.com/album/0PzS61l1kAX6RF8nxNGPrV) | 3:27 | 2025-06-06 |  |
 | [Alleen Met Jou](https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Alleen Met Jou](https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq) | 3:13 | 2025-06-06 |  |
 | [Als Jij Kon Voelen](https://open.spotify.com/track/71g4uPZDs3z3XJwHyhMlVS) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Als Jij Kon Voelen](https://open.spotify.com/album/3LHhCRB5WunMqbvQXemVlw) | 2:23 | 2025-06-06 |  |
@@ -55,7 +55,7 @@
 | [Ik Heb De Hele Nacht Liggen Dromen](https://open.spotify.com/track/424Blek9ClYC97FV3muHqV) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Niemand Anders](https://open.spotify.com/album/5nqY3O7eAIz1RpKmFr1zRB) | 4:08 | 2025-06-06 |  |
 | [Ik Laat Je Nooit Meer Gaan](https://open.spotify.com/track/2LJdZAqsVXQK8YhfxyFDv5) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [10 Jaar \(Mijn Grootste Hits Tot Nu Toe\)](https://open.spotify.com/album/7BXFVHDPJh2pKr9AdP7wiH) | 3:50 | 2025-06-06 |  |
 | [Ik Spaar Geen Centen](https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Spaar Geen Centen](https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS) | 2:46 | 2025-06-06 |  |
-| [In Elk Stadje](https://open.spotify.com/track/5IKHFjUy4bfoewKfqEptxg) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [In Elk Stadje](https://open.spotify.com/album/4zlkF9UTxf5vJU8z0aWY3x) | 3:30 | 2025-06-06 | 2025-12-11 |
+| [In Elk Stadje](https://open.spotify.com/track/5IKHFjUy4bfoewKfqEptxg) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [In Elk Stadje](https://open.spotify.com/album/4zlkF9UTxf5vJU8z0aWY3x) | 3:30 | 2025-06-06 |  |
 | [In Spanje](https://open.spotify.com/track/4opSg2AR63oSBkys9zq2qb) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [In Spanje](https://open.spotify.com/album/2ES5voKkNIQXKvjgyDhkV1) | 2:59 | 2025-06-06 |  |
 | [Jammer Dan](https://open.spotify.com/track/4PyYGasJnEDj7RNcNMK40k) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Jammer Dan](https://open.spotify.com/album/2AxAA2mZxU9U8EymFn0nxd) | 3:05 | 2025-06-06 |  |
 | [Jannes hitmedley](https://open.spotify.com/track/5ytN4bv3YOAPtYr6WJFFea) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [De nieuwe van....](https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL) | 5:08 | 2025-06-06 |  |

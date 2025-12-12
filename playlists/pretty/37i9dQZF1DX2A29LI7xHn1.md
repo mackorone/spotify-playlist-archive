@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 
 > the sound of your FYP and beyond\. Cover: PlaqueBoyMax
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,113,416 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,113,328 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 | 2 | [BOO](https://open.spotify.com/track/5z3lA9udc15kVQ4S4OcTsa) | [H3adband](https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk) | [BOO](https://open.spotify.com/album/6eCKw4JH2vzTXGutRJ2Rhj) | 2:18 |
 | 3 | [Shot Callin](https://open.spotify.com/track/4n4tC4qO2LeWQRM9Gbbtop) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [MASA](https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg) | 3:45 |
 | 4 | [Let's Do It \(feat\. Playboi Carti & Skooly\)](https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Skooly](https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku) | [The Leaks](https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1) | 3:22 |
-| 5 | [TURN UP](https://open.spotify.com/track/5ogwhGSfeA3c82k4P6zriQ) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Rakai](https://open.spotify.com/artist/4SQN7zH1QNPFm2AFAz5qks), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [TURN UP](https://open.spotify.com/album/2Tfya2lpVhvpHDd3MTTyFP) | 2:33 |
+| 5 | [TURN UP](https://open.spotify.com/track/5ogwhGSfeA3c82k4P6zriQ) | [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Rakai](https://open.spotify.com/artist/4SQN7zH1QNPFm2AFAz5qks), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [TURN UP](https://open.spotify.com/album/2Tfya2lpVhvpHDd3MTTyFP) | 2:33 |
 | 6 | [MARCH](https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [MARCH](https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE) | 2:50 |
 | 7 | [Don’t hide](https://open.spotify.com/track/6yJIO8264hq1hCbBLU0C0X) | [So Supa](https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP) | [Supa vs Sligga](https://open.spotify.com/album/3GdWSIpfD42ZQMiNVg6Eu7) | 1:50 |
 | 8 | [Young Black & Rich](https://open.spotify.com/track/2QWin1zM9hxG9zsApuIvso) | [Melly Mike](https://open.spotify.com/artist/16eXn6niv96hqDHgmK6E1M) | [Young Black & Rich](https://open.spotify.com/album/4So2lxknlUUwSVMaPuU1XV) | 2:35 |

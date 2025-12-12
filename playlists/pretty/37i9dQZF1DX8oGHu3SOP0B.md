@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ไฮไลท์ EQUAL Thailand ปี 2025 โดย Spotify Editor\. ปก: Ink Waruntorn
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,863 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,864 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [ธัชใจ \- Beside \(Ph\)U](https://open.spotify.com/track/0cZTk8xwrRqVaVFaP5k6BD) | [cheriie](https://open.spotify.com/artist/6Z8FKrzWUtf9Ra8Man46xW) | [ธัชใจ \[Beside \(Ph\)U\]](https://open.spotify.com/album/0YcussDuQMfg3yESrk6wy0) | 3:59 |
 | 50 | [ยักไหล่แล้วไปต่อ](https://open.spotify.com/track/2XtIzMQMNp8ofZW4AEdSGA) | [Tape](https://open.spotify.com/artist/7xC1Qnv4hsZBXxelSyG086) | [ยักไหล่แล้วไปต่อ](https://open.spotify.com/album/3GuvpKqOMNB6dkp0aYTS7V) | 3:09 |
 
-Snapshot ID: `AAAAAEfmFvnD2s+My0TKkeBemrcj9v6G`
+Snapshot ID: `AAAAAM1Fb3+Mv/wihFnhoeOrBYUJLnIs`

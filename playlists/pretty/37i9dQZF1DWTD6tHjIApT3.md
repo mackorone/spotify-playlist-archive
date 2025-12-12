@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: milet
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,593 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,643 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,14 +75,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 65 | [Voyage](https://open.spotify.com/track/0djEHfacrcMs3DKuBba00C) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Voyage](https://open.spotify.com/album/3qUKioXfUeLyuzPtsYCNnL) | 3:38 |
 | 66 | [貴方観測日和](https://open.spotify.com/track/3o0TLdQhfLLyicwjlXYVo4) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [貴方観測日和](https://open.spotify.com/album/52lmLSXU6HmDYwWUmhNtob) | 2:58 |
 | 67 | [生きて、燦々](https://open.spotify.com/track/1syODzS05DNwO7hiFjwn5z) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [生きて、燦々](https://open.spotify.com/album/2hRKTBG9RvaUklnfa9ouip) | 4:08 |
-| 68 | [パンダガール](https://open.spotify.com/track/6762PO2mmGDxT5llosCDPI) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [パンダガール](https://open.spotify.com/album/4PdLITdvYrIyNXQiGseajR) | 3:34 |
-| 69 | [Kissing the machine](https://open.spotify.com/track/2lg0TdICLNAii6wdhbyXeF) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [Kissing the machine](https://open.spotify.com/album/4dQJhysRhXJHLyVx76Wty1) | 4:03 |
-| 70 | [illusion](https://open.spotify.com/track/1BpjLA9nQYf06iNZaK8eWZ) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [illusion](https://open.spotify.com/album/7tOkQxseZlORjYoyUkE0MZ) | 3:15 |
+| 68 | [Kissing the machine](https://open.spotify.com/track/2lg0TdICLNAii6wdhbyXeF) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [Kissing the machine](https://open.spotify.com/album/4dQJhysRhXJHLyVx76Wty1) | 4:03 |
+| 69 | [illusion](https://open.spotify.com/track/1BpjLA9nQYf06iNZaK8eWZ) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [illusion](https://open.spotify.com/album/7tOkQxseZlORjYoyUkE0MZ) | 3:15 |
+| 70 | [パンダガール](https://open.spotify.com/track/6762PO2mmGDxT5llosCDPI) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [パンダガール](https://open.spotify.com/album/4PdLITdvYrIyNXQiGseajR) | 3:34 |
 | 71 | [BALALAIKA Acoustic Ver.](https://open.spotify.com/track/6rmJJa2t3CBsqqWOjUzuhw) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [BALALAIKA Acoustic Ver.](https://open.spotify.com/album/1v86NbqCrRTOrwotk46lDG) | 3:46 |
-| 72 | [CUBE](https://open.spotify.com/track/0Utf1kTcynD7Fg5u2NXtZC) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [CUBE](https://open.spotify.com/album/0Pjd5SU2gAPoFnwnYj5x9C) | 3:22 |
-| 73 | [ムリムリ進化論](https://open.spotify.com/track/50palGbYA85jbX8y79aqRK) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [ムリムリ進化論](https://open.spotify.com/album/2Vfs0CtkNRPZx79hu7N3cf) | 3:14 |
-| 74 | [グライド](https://open.spotify.com/track/6jg0v1Iy7Y1t2M2bcVrTRf) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [グライド](https://open.spotify.com/album/05RJSqyP55ocLOOyIXaNht) | 3:30 |
-| 75 | [What the Ripple Sees](https://open.spotify.com/track/2VEM6i965SAXK5A59lXmHa) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [What the Ripple Sees](https://open.spotify.com/album/78fhnG5ADzOETko64kqGtW) | 3:59 |
+| 72 | [ムリムリ進化論](https://open.spotify.com/track/50palGbYA85jbX8y79aqRK) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [ムリムリ進化論](https://open.spotify.com/album/2Vfs0CtkNRPZx79hu7N3cf) | 3:14 |
+| 73 | [CUBE](https://open.spotify.com/track/0Utf1kTcynD7Fg5u2NXtZC) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [CUBE](https://open.spotify.com/album/0Pjd5SU2gAPoFnwnYj5x9C) | 3:22 |
+| 74 | [What the Ripple Sees](https://open.spotify.com/track/2VEM6i965SAXK5A59lXmHa) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [What the Ripple Sees](https://open.spotify.com/album/78fhnG5ADzOETko64kqGtW) | 3:59 |
+| 75 | [グライド](https://open.spotify.com/track/6jg0v1Iy7Y1t2M2bcVrTRf) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [グライド](https://open.spotify.com/album/05RJSqyP55ocLOOyIXaNht) | 3:30 |
 | 76 | [ローズヒップティー](https://open.spotify.com/track/70b4ERyNm85qdsU0gdgc3M) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [ローズヒップティー](https://open.spotify.com/album/42rLhEFaJghaRLnmEQv5Fs) | 3:12 |
 | 77 | [Thinking of You](https://open.spotify.com/track/5eIP2BdEEtv4EWIWGlJQV1) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Thinking of You](https://open.spotify.com/album/548AzNIS7caaO926qVC4Ob) | 2:59 |
 | 78 | [SALT AND PEPPER](https://open.spotify.com/track/2BZXo0GtuKlEIyGP6sdfX7) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [SALT AND PEPPER](https://open.spotify.com/album/4olggPlIlKVENiJwmIzzOQ) | 3:18 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 83 | [Two Of Us](https://open.spotify.com/track/0YXgIwBRt0daaIN5QBwh68) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [Two Of Us](https://open.spotify.com/album/2PvoKRmVnoFAZVcNgcpbhS) | 3:44 |
 | 84 | [キミがいないと](https://open.spotify.com/track/0DvgsF4TJLflTcGrlkIpKM) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [キミがいないと](https://open.spotify.com/album/0uT3czZrsT57vsb4R9KPG5) | 3:35 |
 | 85 | [ユーフォーを見にいこう](https://open.spotify.com/track/3M4zaCSxhUx6Ru3fvdOY1n) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [ユーフォーを見にいこう](https://open.spotify.com/album/06F3cSHA1gV6zjeA9PUaxB) | 3:35 |
-| 86 | [I Don't Want To Leave](https://open.spotify.com/track/3ENINBIFCYLoTP9EYnKNvu) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [I Don't Want To Leave](https://open.spotify.com/album/4nQs0aAVzyHCP81VSC3YzC) | 4:30 |
-| 87 | [ミギヒダリ](https://open.spotify.com/track/6oapMHhwhvjN0iQISpORq9) | [Yuka Nagase](https://open.spotify.com/artist/4eEVWfAuVUPgwMXWQiD4zX) | [ミギヒダリ](https://open.spotify.com/album/67AqcAoP7jxo0pe4iEKP0z) | 3:04 |
+| 86 | [ミギヒダリ](https://open.spotify.com/track/6oapMHhwhvjN0iQISpORq9) | [Yuka Nagase](https://open.spotify.com/artist/4eEVWfAuVUPgwMXWQiD4zX) | [ミギヒダリ](https://open.spotify.com/album/67AqcAoP7jxo0pe4iEKP0z) | 3:04 |
+| 87 | [I Don't Want To Leave](https://open.spotify.com/track/3ENINBIFCYLoTP9EYnKNvu) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [I Don't Want To Leave](https://open.spotify.com/album/4nQs0aAVzyHCP81VSC3YzC) | 4:30 |
 | 88 | [last scene.](https://open.spotify.com/track/7p0CX0wH7aAGMac8nRFV6E) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [last scene.](https://open.spotify.com/album/23bd5qlw1TCIso2aXmkzZw) | 4:09 |
 | 89 | [The rose](https://open.spotify.com/track/6ZGcf4owKDzTv5tfLFNS5Y) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [The rose](https://open.spotify.com/album/5tHePKEB70C7xnNessYfKx) | 2:52 |
 | 90 | [くすぐったい。](https://open.spotify.com/track/38AcP3Bam3btVBm7UatiTJ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [くすぐったい。](https://open.spotify.com/album/5UTPQGDcH5xJUEF4wOVjUp) | 3:49 |

@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 
 ### [Zouk All Stars](https://open.spotify.com/playlist/37i9dQZF1DX1yXxWD7WGcm)
 
-> Les classiques du zouk\. Photo : Kim
+> Les classiques du zouk\. Photo : Fanny J
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,966 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,006 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Confidence](https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Premiers pas](https://open.spotify.com/album/4TdXHEGmIaPV2xvqTnf5z4) | 3:44 |
-| 2 | [Ancrée à ton port](https://open.spotify.com/track/05xLOpipHWbGG0CboVVrXy) | [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [Vous les hommes](https://open.spotify.com/album/02mxvQUtyiMKLMfnfjhaLD) | 4:06 |
+| 1 | [Ancrée à ton port](https://open.spotify.com/track/05xLOpipHWbGG0CboVVrXy) | [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [Vous les hommes](https://open.spotify.com/album/02mxvQUtyiMKLMfnfjhaLD) | 4:06 |
+| 2 | [On A Changé](https://open.spotify.com/track/33CNefpUrDUefPDQb3GWyt) | [Les Deesses](https://open.spotify.com/artist/4zXAitgkrWokZ0zolMyJh9) | [Saveurs exotiques](https://open.spotify.com/album/38bAlD66F2VYmx56KQZrZS) | 3:27 |
 | 3 | [Santimantal](https://open.spotify.com/track/4a2JcGlDhIP92XG9Flgd3k) | [Annick & Jean\-Claude](https://open.spotify.com/artist/78ffoHBpE8D3GvVAOsDSPN) | [Infiniment Zouk](https://open.spotify.com/album/7Fn1Ka86342Lt3EykrJr7K) | 5:40 |
 | 4 | [La dernière danse \(Ne rentre pas chez toi ce soir\) \- Radio Edit](https://open.spotify.com/track/40XHrZZ9KKX7Vdp4NLGCGO) | [Slaï](https://open.spotify.com/artist/7y4UMLXo4Gz5NQbXE7v2Kt) | [Florilège](https://open.spotify.com/album/2lopM9cqpqzJoG1gpYOlQf) | 3:28 |
-| 5 | [On A Changé](https://open.spotify.com/track/33CNefpUrDUefPDQb3GWyt) | [Les Deesses](https://open.spotify.com/artist/4zXAitgkrWokZ0zolMyJh9) | [Saveurs exotiques](https://open.spotify.com/album/38bAlD66F2VYmx56KQZrZS) | 3:27 |
+| 5 | [Confidence](https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Premiers pas](https://open.spotify.com/album/4TdXHEGmIaPV2xvqTnf5z4) | 3:44 |
 | 6 | [Mon Soleil](https://open.spotify.com/track/5R6kK3ZRUlb2dkI0E3psXo) | [Princess' Lover](https://open.spotify.com/artist/2MR0CohJ0bX97VcvgcIhsl) | [Juste Moi \(Part 1\)](https://open.spotify.com/album/1V7J9Y5b9z2V8BVdkvTfEo) | 4:17 |
 | 7 | [Zouk\-la Sé Sel Médikaman Nou Ni](https://open.spotify.com/track/6v5Z0a4b3DmjIKA4htP8vl) | [Kassav'](https://open.spotify.com/artist/3y21aFfQQ1Y9dALQLIJ4vj) | [Best Of](https://open.spotify.com/album/3mlUD8bQ1KTXi4yP1l3HoV) | 5:25 |
 | 8 | [Se Pa Pou dat](https://open.spotify.com/track/4tLvQ6fvnsWB6BGusXS03n) | [Alan Cavé](https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2) | [Se Pa Pou Dat](https://open.spotify.com/album/0WT8Un2CLXF7CeALLeIOSn) | 5:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 | 49 | [Siwo](https://open.spotify.com/track/0femCfvGe5cE3kyRnRd9jK) | [Jocelyne Beroard](https://open.spotify.com/artist/5YZXvHrAg6BE549FF4x6jB) | [Siwo](https://open.spotify.com/album/1rAvDlrzslwA4SEffA2rYv) | 4:29 |
 | 50 | [An lov](https://open.spotify.com/track/2lGCmmPc0uzMY2vNkhsfBt) | [Tanya St\-Val](https://open.spotify.com/artist/5hDeXMaDDHIXSxtxOQhLSn) | [Tanyamania \(Deluxe edition\)](https://open.spotify.com/album/4vPEcpp7y1qnKZfmR6vGH7) | 3:52 |
 
-Snapshot ID: `AAAAAK5oe4KrdjInSBWhfLkNKq4jEqkK`
+Snapshot ID: `AAAAAB/pFt9H66+WelrkyAF6WKC4AaXb`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 56,055 likes - 211 songs - 12 hr 24 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 56,051 likes - 211 songs - 12 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 | 19 | [Feel Again \- Lounge Edit](https://open.spotify.com/track/0YZPP5q0xm182fbAI6uTgg) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Moa Lisa](https://open.spotify.com/artist/0oUXA3boTncBMYFD5o6G2E) | [Feel Again \(Lounge Edit\)](https://open.spotify.com/album/0zTEmHrBbr8OL9ZGFR5Uow) | 3:00 |
 | 20 | [Iris \(My Love\)](https://open.spotify.com/track/59XkOP6G7Pa5Okiyi0HpT6) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb) | [Iris \(My Love\)](https://open.spotify.com/album/4gsSkPd9X4RtFzv2Fg5xAk) | 2:35 |
 | 21 | [Late Night Text](https://open.spotify.com/track/7dqUcAZ9uLGDmuFm5qsGIp) | [TWO OF YOU](https://open.spotify.com/artist/0LH34iFv5AEmMRxi57FMpj) | [Late Night Text](https://open.spotify.com/album/0K6a2B6ZWMW2fLfn4nQAec) | 2:27 |
-| 22 | [Back To Blue \- Acoustic](https://open.spotify.com/track/1QZr1Krncrza1wA3V59rfn) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Valentino Indy](https://open.spotify.com/artist/5zMBjWdfMwhZp28FMj5G9n), [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Back To Blue \(Acoustic\)](https://open.spotify.com/album/1uKq5QrCX5l3KB3x9bFhqU) | 2:37 |
+| 22 | [Back To Blue \- Acoustic](https://open.spotify.com/track/1QZr1Krncrza1wA3V59rfn) | [Valentino Indy](https://open.spotify.com/artist/5zMBjWdfMwhZp28FMj5G9n), [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Klavdia](https://open.spotify.com/artist/4JRInaGyykK9dRIaymPxJq), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Back To Blue \(Acoustic\)](https://open.spotify.com/album/1uKq5QrCX5l3KB3x9bFhqU) | 2:37 |
 | 23 | [Drifting](https://open.spotify.com/track/3cxmCRKwyEkcsteeW4LYrO) | [Hagen Feetly](https://open.spotify.com/artist/3mnrTDPzT8EwZSFAhFprnC) | [Drifting](https://open.spotify.com/album/6qwfIbsIAWRYseqzehOWUa) | 5:06 |
 | 24 | [Let You Down](https://open.spotify.com/track/208UTWaWWnFjuGLriXC63E) | [Does it matter](https://open.spotify.com/artist/00fhyHwDkhykp7qxLsbvch), [a.bech](https://open.spotify.com/artist/6gms5g1TeoEo8HsUuiWWaQ) | [Let You Down](https://open.spotify.com/album/3rmMMklQao5LtEqMooTnyL) | 2:20 |
 | 25 | [Wherever I Go](https://open.spotify.com/track/5XTse88NiuHbsw9Ncs9GRm) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Moya](https://open.spotify.com/artist/1gzYTBlAMrESMPMueOZ31b) | [Wherever I Go](https://open.spotify.com/album/3oVXGXMU9Hy4fhHEd6TY4G) | 2:48 |
@@ -220,4 +220,4 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 | 210 | [Lost Tonight](https://open.spotify.com/track/1xD8hBK99rAPgcwjWWnxwf) | [Saje](https://open.spotify.com/artist/3I2596dGk4K3e4qKjwpzQb) | [Lost Tonight](https://open.spotify.com/album/3tzWmKo39Q3OypyD9UbNZl) | 3:18 |
 | 211 | [Epico](https://open.spotify.com/track/6nv7sDQtRxp0JeH2sFUuwE) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [Sera El Sol \(Mixed\)](https://open.spotify.com/album/73LjynB8Hfg63Kz4DQqJlR) | 3:07 |
 
-Snapshot ID: `AAByX37RhyrNzxeBiygxw9Rm2pQvTIZN`
+Snapshot ID: `AAByY1SCeuPnZX4v1+vjWalD0+tx6JMK`

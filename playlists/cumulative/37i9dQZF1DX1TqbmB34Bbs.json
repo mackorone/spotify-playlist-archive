@@ -1414,21 +1414,25 @@
       },
       "artists": [
         {
+          "name": "KC",
+          "url": "https://open.spotify.com/artist/0hQTMC0zU4pFW0Lc7ExB6f"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
           "name": "HAON",
           "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
         },
         {
           "name": "vangdale",
           "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
         }
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-17",
+      "date_removed": null,
       "duration_ms": 131413,
       "name": "A24",
       "url": "https://open.spotify.com/track/3ulEzkN8qUsUTqb8UPvY4M"
@@ -14604,7 +14608,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 212775,
       "name": "LIBERATION",
       "url": "https://open.spotify.com/track/2mOJ1t5pfeZFfUeUbrNhf9"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > born on the internet\. ft\. 2hollis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,368,056 likes - 105 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,368,000 likes - 105 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 32 | [Made Sum Plans](https://open.spotify.com/track/5sE9XpE2ukIwC2sYhIvUrs) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Jump Out](https://open.spotify.com/album/5Vb4K4Xf4KPFupmhHi5COM) | 2:07 |
 | 33 | [whiplash](https://open.spotify.com/track/1qVeiyPNX4KPALXyPpenBd) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [whiplash / cliche](https://open.spotify.com/album/6xE5ALjPamqaG7iPIx4dGX) | 2:47 |
 | 34 | [JRJRJR](https://open.spotify.com/track/1mW9XrT9XdnsDPuthSgusZ) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [JRJRJR](https://open.spotify.com/album/1rknl8JliYRRZJjs6yhsDF) | 4:28 |
-| 35 | [Man Of The Year](https://open.spotify.com/track/3QEJ2bZW0SQtjWGdIOHHxt) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb), [5STAR](https://open.spotify.com/artist/0DVETtFrZ1gvd4OfNNH99F) | [Man Of The Year](https://open.spotify.com/album/1tAjSpqbX77bOVVkF7pRIT) | 1:41 |
+| 35 | [Man Of The Year](https://open.spotify.com/track/3QEJ2bZW0SQtjWGdIOHHxt) | [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb), [5STAR](https://open.spotify.com/artist/0DVETtFrZ1gvd4OfNNH99F) | [Man Of The Year](https://open.spotify.com/album/1tAjSpqbX77bOVVkF7pRIT) | 1:41 |
 | 36 | [One Way! 2](https://open.spotify.com/track/3Jl77VcjXq1xAYctuzFMHz) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [One Way! 2](https://open.spotify.com/album/1BIHuR5QMyGqhTqy9Ldtvf) | 3:45 |
 | 37 | [double whammy \(ss3bby yaridubz\)](https://open.spotify.com/track/3loZeLVTG8DjJLjMbnge2t) | [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd) | [double whammy \(ss3bby yaridubz\)](https://open.spotify.com/album/0Oo0LauukZP2mXWR1n4exK) | 2:01 |
 | 38 | [Forever Yung](https://open.spotify.com/track/2tUvuACq5JYZfvJ8KwAoAE) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Forever Yung](https://open.spotify.com/album/2UCX45uBhiJyucuXNNNxWr) | 3:20 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 49 | [Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Icedancer](https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse) | 2:07 |
 | 50 | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/album/4WXIMpmT2wITUU85TCcW0z) | 3:34 |
 | 51 | [Pizza Time](https://open.spotify.com/track/3pxg2vxImneIXH7Kt4raVM) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Pizza Time](https://open.spotify.com/album/6ZiijIxxYqmi8nIzsPe8dL) | 1:59 |
-| 52 | [inthej](https://open.spotify.com/track/2kvANa2pnrrPxOUEjczuUx) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [inthej](https://open.spotify.com/album/2QUpX5PFxU2pCmW88hoPZL) | 1:49 |
+| 52 | [inthej](https://open.spotify.com/track/2kvANa2pnrrPxOUEjczuUx) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc), [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [inthej](https://open.spotify.com/album/2QUpX5PFxU2pCmW88hoPZL) | 1:49 |
 | 53 | [rifle crew](https://open.spotify.com/track/654B7c3gkhv7SkbKIgjHDV) | [sniper2004](https://open.spotify.com/artist/7EjJ8vM2BQi4Oxrxm2ytYT) | [i wanna be a sniperrrrr](https://open.spotify.com/album/0CmzOQGge1zb0rmoZPI6Ft) | 2:03 |
 | 54 | [Marble Floors](https://open.spotify.com/track/30S82dxldXsPbuj4ShyVBK) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Marble Floors](https://open.spotify.com/album/4XkbqXgTN2KeJRixyLKm4o) | 3:28 |
-| 55 | [Pink Dreads](https://open.spotify.com/track/03q42wfmoXx8bYHwEuzBGh) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Pink Dreads](https://open.spotify.com/album/3ahkBm54CZgZ6N5UhpzJ1A) | 2:00 |
+| 55 | [Pink Dreads](https://open.spotify.com/track/03q42wfmoXx8bYHwEuzBGh) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Pink Dreads](https://open.spotify.com/album/3ahkBm54CZgZ6N5UhpzJ1A) | 2:00 |
 | 56 | [song for when the bar closes](https://open.spotify.com/track/2NXtYnEeJbRQ3pqngPCHYO) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [song for when the bar closes](https://open.spotify.com/album/7G09YgyPIN394QdH5Z3LuZ) | 1:44 |
 | 57 | [Bored](https://open.spotify.com/track/0fw83rSEAVNp8jQRH2bfAE) | [Joeyy](https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM) | [Bored](https://open.spotify.com/album/6eWlitVfgq4RsD8ZhzSGmb) | 1:55 |
 | 58 | [TORE UP](https://open.spotify.com/track/1jKXjxMWlq4BhH6f9GtZbu) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 2:06 |

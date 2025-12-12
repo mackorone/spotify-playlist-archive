@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 
 > This is Meg Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 438 likes - 30 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 438 likes - 29 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 12 | [emotional affair](https://open.spotify.com/track/3U1ImAPjIGErbBVKbgXQ9E) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 3:01 |
 | 13 | [...but i'd miss you too much!](https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much!](https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz) | 2:58 |
 | 14 | [Hedonistic](https://open.spotify.com/track/5zSnNdR8ZGVBPyKohY3DWY) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 2:39 |
-| 15 | [All the Things You'd Ruin](https://open.spotify.com/track/3XqLS6RCMU25puMAUbioAJ) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [All the Things You'd Ruin](https://open.spotify.com/album/4fnPZ5TvPAUQpZo5oQEWNn) | 2:46 |
+| 15 | [Sideways \(feat\. Meg Smith\)](https://open.spotify.com/track/0VYCKIsGFTdKsT4iQTbNXF) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Nosebleeds: Encore](https://open.spotify.com/album/0BfJWxBZsAU0LVGeK1HM36) | 2:44 |
 | 16 | [you fake your british accent](https://open.spotify.com/track/71Re6FOwC7aVe8Qclktmqp) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 3:08 |
-| 17 | [Sideways \(feat\. Meg Smith\)](https://open.spotify.com/track/0VYCKIsGFTdKsT4iQTbNXF) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Nosebleeds: Encore](https://open.spotify.com/album/0BfJWxBZsAU0LVGeK1HM36) | 2:44 |
+| 17 | [All the Things You'd Ruin](https://open.spotify.com/track/3XqLS6RCMU25puMAUbioAJ) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [All the Things You'd Ruin](https://open.spotify.com/album/4fnPZ5TvPAUQpZo5oQEWNn) | 2:46 |
 | 18 | [Carlos, Get in the Car!](https://open.spotify.com/track/5656maKIcmpPxsH0XKFIV3) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 2:55 |
 | 19 | [One Hit Wonder](https://open.spotify.com/track/1U9WaZj7uLTyWovcyJsZ5d) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [One Hit Wonder](https://open.spotify.com/album/0EWCmyfWq1aE0XyUfKrq7l) | 3:20 |
 | 20 | [poltergeist](https://open.spotify.com/track/3vp3r5tiCAHDNHtqhBk6rv) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 2:33 |
@@ -37,6 +37,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 27 | [guitar center](https://open.spotify.com/track/2KL350smdGutz70FYGjVkP) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [guitar center](https://open.spotify.com/album/7DzmUhJugzmQ0O0S4U1fvp) | 3:07 |
 | 28 | [Because of Me](https://open.spotify.com/track/1ISdkmkTJYXUD5av8eCq2D) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [American in Paris](https://open.spotify.com/album/194Tx25QcQ8lPKqZTQFL0j) | 3:02 |
 | 29 | [Why Do I Keep Playing It](https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx) | 2:45 |
-| 30 | [Who Not to Love](https://open.spotify.com/track/0p69ggdl6UOeBnSf4dn8o8) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Who Not to Love](https://open.spotify.com/album/5y0KsMeMor5EGBOtsVIfzw) | 3:05 |
 
-Snapshot ID: `aTdmgAAAAAC39/A+dug+hRqXQudcXM0N`
+Snapshot ID: `aTi4AAAAAAAlQDTCPTY7GiTCY5D/nZiU`

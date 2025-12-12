@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 554042,
+  "num_followers": 554033,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2025-11-05 11:45:24",
       "album": {
+        "name": "Titans of Creation",
+        "url": "https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 392066,
+      "name": "Night of the Witch",
+      "url": "https://open.spotify.com/track/3orHIz1YV1bmUHsi2fze48"
+    },
+    {
+      "added_at": "2025-11-05 11:45:24",
+      "album": {
         "name": "Inner Darkness",
         "url": "https://open.spotify.com/album/2FgZ9LfQxQfUPGhHYtFTTG"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 178920,
       "name": "The Optimist (feat. Conquer Divide)",
       "url": "https://open.spotify.com/track/00ihJcZ6PxA6OxDJmlbvGl"
-    },
-    {
-      "added_at": "2025-11-05 11:45:24",
-      "album": {
-        "name": "Titans of Creation",
-        "url": "https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 392066,
-      "name": "Night of the Witch",
-      "url": "https://open.spotify.com/track/3orHIz1YV1bmUHsi2fze48"
     },
     {
       "added_at": "2025-11-05 11:45:24",

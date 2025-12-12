@@ -1,12 +1,12 @@
 {
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 131066,
+  "num_followers": 131070,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAACb7kfZBn/lr24aOxFLsGJ/",
+  "snapshot_id": "aTi4AAAAAAAlr84mQVuT7zY8U6jg/tIz",
   "tracks": [
     {
       "added_at": null,
@@ -23,26 +23,6 @@
       "duration_ms": 135320,
       "name": "Aguardiente",
       "url": "https://open.spotify.com/track/7ex5TNhdJsNNVpovfntqg3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LE PED\u00cd A DIOS",
-        "url": "https://open.spotify.com/album/21YunxamBw6fwTRzuDx3Ik"
-      },
-      "artists": [
-        {
-          "name": "Jhay P",
-          "url": "https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 214668,
-      "name": "LE PED\u00cd A DIOS",
-      "url": "https://open.spotify.com/track/0u5j4aF91HDisFFExlgtdi"
     },
     {
       "added_at": null,
@@ -259,6 +239,26 @@
       "duration_ms": 168266,
       "name": "\u00bfQue Te Pas\u00f3?",
       "url": "https://open.spotify.com/track/6TyzdTASQrRujdjPP93AJe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LE PED\u00cd A DIOS",
+        "url": "https://open.spotify.com/album/21YunxamBw6fwTRzuDx3Ik"
+      },
+      "artists": [
+        {
+          "name": "Jhay P",
+          "url": "https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 214668,
+      "name": "LE PED\u00cd A DIOS",
+      "url": "https://open.spotify.com/track/0u5j4aF91HDisFFExlgtdi"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pantera",
-        "url": "https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 153707,
-      "name": "En Tu Marea",
-      "url": "https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perd\u00f3n",
         "url": "https://open.spotify.com/album/3mS6qSzJvfbFkhLsp6hO8P"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 168750,
       "name": "La Magia de Tus Ojos - Versi\u00f3n Pop",
       "url": "https://open.spotify.com/track/3GhOpiYR8x3fSTohVMHOWD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pantera",
+        "url": "https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 153707,
+      "name": "En Tu Marea",
+      "url": "https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol"
     },
     {
       "added_at": null,

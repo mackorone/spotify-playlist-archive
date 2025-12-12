@@ -4,7 +4,7 @@
 
 > Lo que necesita cualquier verbena veraniega.
 
-262 songs - 16 hr 40 min
+263 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Cuando zarpa el amor](https://open.spotify.com/track/0GzQB5WXavUEU8tfTCAd8m) | [Camela](https://open.spotify.com/artist/6flBUmmOMLNhD4EJhGwgpG) | [Diez De Corazon](https://open.spotify.com/album/5VKlRdgddALI9Y0pra5FBV) | 3:32 | 2023-06-09 |  |
 | [Culo](https://open.spotify.com/track/4tAru66VGVLWYjg90UV4vJ) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [M.I.A.M.I.](https://open.spotify.com/album/76N6imyjQ9h5p2NzakHT32) | 3:39 | 2023-06-09 | 2024-04-19 |
 | [Culo](https://open.spotify.com/track/7DBFxEnUbVn533sURMZMwt) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [Original Hits](https://open.spotify.com/album/4phhDFemofc0OpqV7SAMov) | 3:39 | 2023-06-09 | 2025-07-03 |
-| [Dame Más](https://open.spotify.com/track/6mS8ubgkRoVjnn0dtnqKBl) | [Alex De La Nuez](https://open.spotify.com/artist/25eJW20H8ZviNKZgDs0dR1) | [Dame Más](https://open.spotify.com/album/00sSerlFx4mYWRpcnQom7G) | 4:27 | 2025-07-02 |  |
+| [Dame Más](https://open.spotify.com/track/6mS8ubgkRoVjnn0dtnqKBl) | [Alex De La Nuez](https://open.spotify.com/artist/25eJW20H8ZviNKZgDs0dR1) | [Dame Más](https://open.spotify.com/album/00sSerlFx4mYWRpcnQom7G) | 4:27 | 2025-07-02 | 2025-12-12 |
 | [Danza Kuduro](https://open.spotify.com/track/4sCSUQnWQ6HJsOMjfPicdn) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Fast Five \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4m2xhUYfu1TIPoSDpQAOp8) | 3:18 | 2023-06-09 | 2025-07-30 |
 | [Despacito](https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [VIDA](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) | 3:49 | 2022-08-11 |  |
 | [Destination Calabria \- Radio Edit](https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Destination Calabria](https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8) | 3:43 | 2022-08-11 |  |
@@ -80,6 +80,7 @@
 | [Déjala Que Baile \(with Alejandro Sanz & Arkano\)](https://open.spotify.com/track/2KK9N6iBAisA0booTu3bGd) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Arkano](https://open.spotify.com/artist/5ACyfaynUH9FpBaR8uZprQ) | [Ahora](https://open.spotify.com/album/2cx8aUPxZ0GvVJkJdNXeOM) | 3:39 | 2023-06-09 | 2023-06-21 |
 | [Echa Pa'lla \(Manos Pa'rriba\) \(feat\. Papayo\)](https://open.spotify.com/track/0fjRYHFz9ealui1lfnN8it) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Papayo](https://open.spotify.com/artist/5F2Bwl7Is7KVwTbNbMclIS) | [Global Warming](https://open.spotify.com/album/4aawyAB9vmqN3uQ7FjRGTy) | 3:16 | 2023-06-09 |  |
 | [Echa Pa'lla \(Manos Pa'rriba\) \(feat\. Papayo\)](https://open.spotify.com/track/6DT6YBRXnxhIeSH0rn6khB) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Papayo](https://open.spotify.com/artist/5F2Bwl7Is7KVwTbNbMclIS) | [Global Warming \(Deluxe Version\)](https://open.spotify.com/album/2USiuZqEAyfOcKmcujg4hs) | 3:16 | 2023-06-09 | 2023-12-11 |
+| [El Chiringuito](https://open.spotify.com/track/7tINYpwI8RRRYaAfF4qVtn) | [Georgie Dann](https://open.spotify.com/artist/3mvKi0X95xuOuFItofQEHY) | [Macumba y Otros Tremendos Exitos](https://open.spotify.com/album/5omrf9RhgyGsSSEpgMop1o) | 3:07 | 2025-07-02 |  |
 | [El Hombre del Piano](https://open.spotify.com/track/61ccRl3FBtLs3U5HuBtP6e) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [26 Grandes Canciones Y Una Nube Blanca](https://open.spotify.com/album/45MhAsX9X7z5siVUxUjUk7) | 5:17 | 2023-06-09 |  |
 | [El Legia](https://open.spotify.com/track/6oAQjQUNla2rJSYeQ8qWxe) | [Los Moles](https://open.spotify.com/artist/50pSmQcXiFTWQ4O5sUddnV) | [Cartas de Amor](https://open.spotify.com/album/3FXoSGC8aRYM05wG0FWmO4) | 5:03 | 2023-06-09 | 2024-06-19 |
 | [El Perdón \(with Enrique Iglesias\)](https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Fénix](https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ) | 3:25 | 2022-08-11 |  |

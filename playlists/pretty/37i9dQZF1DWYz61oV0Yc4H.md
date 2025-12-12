@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYz61oV0Yc4H.md) - [plain]
 
 > Our editors' picks for the best songs from The Indie List in 2025\. Cover: Wolf Alice
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,502 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,531 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYz61oV0Yc4H.md) - [plain]
 | 74 | [m4 windy](https://open.spotify.com/track/1CM8ftuvJ0mJgz7v4ytvwW) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [m4 windy](https://open.spotify.com/album/653FeW1wjy7vgTikh08ao6) | 4:07 |
 | 75 | [Circus](https://open.spotify.com/track/1hQKgn2rwmgvuhkDlVqip9) | [Sandhouse](https://open.spotify.com/artist/52MaMxgeAkCxISb1tZuDyq) | [Circus](https://open.spotify.com/album/0SeAOrz6z2zAecPz7dHGqz) | 3:39 |
 
-Snapshot ID: `AAAAAAwuNpW9efr4yXEZiYbEZz8/ydjl`
+Snapshot ID: `AAAAAHtgzq0defH0xdpSe+8XvJYatTq+`

@@ -645,6 +645,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Disaster",
+        "url": "https://open.spotify.com/album/3lEwYfGV36dasBTeGw50ft"
+      },
+      "artists": [
+        {
+          "name": "MAD G",
+          "url": "https://open.spotify.com/artist/3i55n15iAnDbfy60FX053E"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161465,
+      "name": "Beautiful Disaster",
+      "url": "https://open.spotify.com/track/1GWmWZxXC2rAoOBgioW0C8"
+    },
+    {
+      "album": {
         "name": "Between Us",
         "url": "https://open.spotify.com/album/2fUu7vEj0ATcDq8M2R5v5C"
       },
@@ -2158,7 +2176,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 313338,
       "name": "Effects Of Hard Drugz",
       "url": "https://open.spotify.com/track/1oSFdllPihYn6EkKyj8ZDv"

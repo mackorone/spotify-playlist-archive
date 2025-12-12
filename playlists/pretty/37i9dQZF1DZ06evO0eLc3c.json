@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 53250,
+  "num_followers": 53261,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAABHZm9iEBDSnEJ3OtOuwRWL",
+  "snapshot_id": "aTi4AAAAAAAxn1ryo4LIEYasXhd0yd13",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horses",
-        "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C"
+        "name": "Horses (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 244640,
-      "name": "Break It Up",
-      "url": "https://open.spotify.com/track/5zE0J5kDTbcQeMYnxRj0QY"
+      "duration_ms": 265466,
+      "name": "Kimberly",
+      "url": "https://open.spotify.com/track/0iI8LriXKjg47IxjNCWuwz"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Horses (Legacy Edition)",
-        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
+        "name": "Horses",
+        "url": "https://open.spotify.com/album/0OeuSeP8wp8n8OuTqYb61C"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 265466,
-      "name": "Kimberly",
-      "url": "https://open.spotify.com/track/0iI8LriXKjg47IxjNCWuwz"
+      "duration_ms": 244640,
+      "name": "Break It Up",
+      "url": "https://open.spotify.com/track/5zE0J5kDTbcQeMYnxRj0QY"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace & Noise",
-        "url": "https://open.spotify.com/album/3ZsYwM93Semk99fceeRz2r"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 238546,
-      "name": "1959",
-      "url": "https://open.spotify.com/track/6E1y6W1ZTojaBdtHGKDbGK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hey Joe / Piss Factory",
         "url": "https://open.spotify.com/album/6fPPFPRXxoXNCc3LaotmQM"
       },
@@ -603,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Peace & Noise",
+        "url": "https://open.spotify.com/album/3ZsYwM93Semk99fceeRz2r"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "1959",
+      "url": "https://open.spotify.com/track/6E1y6W1ZTojaBdtHGKDbGK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Radio Ethiopia",
         "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 259906,
       "name": "Distant Fingers",
       "url": "https://open.spotify.com/track/5fI00jX4cWUfCGpYvchDjR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gone Again",
-        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 274560,
-      "name": "Beneath the Southern Cross",
-      "url": "https://open.spotify.com/track/1KRWRshqiMiYm6cTped4pp"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gone Again",
+        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 274560,
+      "name": "Beneath the Southern Cross",
+      "url": "https://open.spotify.com/track/1KRWRshqiMiYm6cTped4pp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dream Of Life",
         "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
       },
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gone Again",
-        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 196346,
-      "name": "Gone Again",
-      "url": "https://open.spotify.com/track/2lkuP38GN1VvwfGJvANUei"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Snowball",
         "url": "https://open.spotify.com/album/36qDPABaXGNyc4bdbWDjwL"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 194002,
       "name": "Snowball",
       "url": "https://open.spotify.com/track/4idrWKpqjPzRBE4LLwhSpo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gone Again",
+        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 293453,
+      "name": "Wing",
+      "url": "https://open.spotify.com/track/6jqw8ayDwgGEpM2tjWF2p8"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gone Again",
-        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 293453,
-      "name": "Wing",
-      "url": "https://open.spotify.com/track/6jqw8ayDwgGEpM2tjWF2p8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Twelve",
         "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 242640,
       "name": "Helpless",
       "url": "https://open.spotify.com/track/1eXtvbH5AfeRC14QqtJXcZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gone Again",
+        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 196346,
+      "name": "Gone Again",
+      "url": "https://open.spotify.com/track/2lkuP38GN1VvwfGJvANUei"
     },
     {
       "added_at": null,

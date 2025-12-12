@@ -5521,6 +5521,28 @@
     },
     {
       "album": {
+        "name": "NO BATID\u00c3O",
+        "url": "https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1"
+      },
+      "artists": [
+        {
+          "name": "ZXKAI",
+          "url": "https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt"
+        },
+        {
+          "name": "slxughter",
+          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107933,
+      "name": "NO BATID\u00c3O - Slowed",
+      "url": "https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj"
+    },
+    {
+      "album": {
         "name": "Graf Monte-Cristo / Most Valuable Pirate",
         "url": "https://open.spotify.com/album/61ps9wdfl2bgjaKOPQ9zCb"
       },
@@ -7814,7 +7836,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 147000,
       "name": "Top Dawg",
       "url": "https://open.spotify.com/track/10PhhJwLrsPxEZThat4V3x"
@@ -8318,7 +8340,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 184075,
       "name": "Who (Acoustic Remix)",
       "url": "https://open.spotify.com/track/10I5rhhFoWZDIN3kEc6Dbo"
@@ -8990,7 +9012,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 233827,
       "name": "\u0411\u0435\u0441\u043f\u0435\u0447\u043d\u044b\u0439 \u0440\u044b\u0446\u0430\u0440\u044c \u0442\u044c\u043c\u044b",
       "url": "https://open.spotify.com/track/2FSfCJu8tac61GwgjGLDZK"
@@ -9142,7 +9164,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 88093,
       "name": "\u0431\u043e\u043b\u0435\u043d",
       "url": "https://open.spotify.com/track/4HiXhD2daY4ca5nr977V4e"
@@ -9694,7 +9716,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 260560,
       "name": "\u0412\u0441\u0435\u043b\u0435\u043d\u043d\u0430\u044f \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u0430?",
       "url": "https://open.spotify.com/track/5bkfPKnHLi6AUP3fJA5Xf5"
@@ -10540,7 +10562,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 174344,
       "name": "\u0416\u0438\u0442\u044c \u0432 \u043a\u0430\u0439\u0444",
       "url": "https://open.spotify.com/track/2m3PVx1gsVB5upxi94IW8I"
@@ -11758,7 +11780,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 255796,
       "name": "\u041c\u0435\u0436\u0434\u0443 \u043d\u0430\u043c\u0438",
       "url": "https://open.spotify.com/track/5DeaUQWxyUxRC9dRFWV1g1"
@@ -11838,7 +11860,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 120397,
       "name": "\u043c\u0438\u043b\u043e \u043c\u0430\u0442\u0435\u0440\u0438\u0448\u044c\u0441\u044f",
       "url": "https://open.spotify.com/track/4clWtg8OzmLO0TFBY7FGRm"
@@ -13330,7 +13352,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 197771,
       "name": "\u041f\u043e\u0436\u0430\u0440\u044b",
       "url": "https://open.spotify.com/track/1zXv6MYOAyjgMA0iPypPkO"
@@ -14190,10 +14212,28 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 96000,
       "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
       "url": "https://open.spotify.com/track/6glptAOL1GSNQ1kZdWEVjj"
+    },
+    {
+      "album": {
+        "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
+        "url": "https://open.spotify.com/album/1NX1KF6EB1zsSxEcd4zopL"
+      },
+      "artists": [
+        {
+          "name": "NEXTIME",
+          "url": "https://open.spotify.com/artist/0KaA8HctO3Rt7xjMSu3YUk"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96001,
+      "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
+      "url": "https://open.spotify.com/track/35B1ToJcs6voXEoBls0PA3"
     },
     {
       "album": {

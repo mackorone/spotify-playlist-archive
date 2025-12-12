@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-472 songs - 1 day 3 hr 39 min
+474 songs - 1 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Bermuda Triangle](https://open.spotify.com/track/3VfcwjlkUMqbXlJlXpWr5u) | [Lexi Berg](https://open.spotify.com/artist/5ZN5AAuWmyLdheRP0rE7dK) | [Bermuda Triangle](https://open.spotify.com/album/1SaesdaWRe58QoVxuNqy5z) | 3:20 | 2024-09-19 | 2024-10-15 |
 | [Besvärjelse \(jag kommer älska dig då\)](https://open.spotify.com/track/0V5IP7tHiJXpyWRsSV5GAX) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Lånat](https://open.spotify.com/album/1pKWyplKpbYHNw1Xdu003A) | 4:17 | 2025-06-05 |  |
 | [Blinka lilla stjärna](https://open.spotify.com/track/5HXuijWZHkCjEl6xsbLEY7) | [Shirley Clamp](https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7) | [Blinka lilla stjärna](https://open.spotify.com/album/7ES7EtUdXvCp06E5RgW3t2) | 3:35 | 2024-12-12 | 2025-01-05 |
-| [Blommor](https://open.spotify.com/track/5wpnwZOuMkSpycPXm9Y44A) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Blommor](https://open.spotify.com/album/4Sy5Yfq6twunvZhjlW4E9L) | 3:20 | 2025-05-22 |  |
+| [Blommor](https://open.spotify.com/track/5wpnwZOuMkSpycPXm9Y44A) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Blommor](https://open.spotify.com/album/4Sy5Yfq6twunvZhjlW4E9L) | 3:20 | 2025-05-22 | 2025-12-12 |
 | [Blåjeans och stjärnljus](https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Blåjeans och stjärnljus](https://open.spotify.com/album/5v6DDbvPr8wOCJ0ydCt6GF) | 3:29 | 2025-04-10 |  |
 | [Bortom Månen Och Mars](https://open.spotify.com/track/2SRSndKLAcT0Z0XeszqO0x) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Bortom Månen Och Mars](https://open.spotify.com/album/17UP3Jye7PhGo8GfR64XXi) | 3:05 | 2024-11-07 | 2025-01-17 |
 | [BRA](https://open.spotify.com/track/3HStj5Zz9zuRNCMnQZDQIE) | [Di Leva](https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad) | [BRA](https://open.spotify.com/album/0LeXjerovBNmqNvqTgBTWf) | 2:43 | 2025-05-08 | 2025-09-25 |
@@ -340,7 +340,7 @@
 | [Rädda mig \- Akustisk Version](https://open.spotify.com/track/2kyaSOYJpZ6pDS2YVSuxtN) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Rädda mig \(Akustisk Version\)](https://open.spotify.com/album/5iEmiVCOdySnVIodNOe2Xt) | 3:09 | 2025-04-24 | 2025-06-13 |
 | [Rör vid mig](https://open.spotify.com/track/26ibetQVrZmdFMILNEkEH7) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Rör vid mig](https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE) | 3:10 | 2024-06-27 | 2025-03-11 |
 | [Sad Makeup](https://open.spotify.com/track/74eE402hFv13hLBw5iPQds) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Sad Makeup](https://open.spotify.com/album/3JoOdAaR90CSTlTJS6yp4X) | 3:50 | 2025-01-16 | 2025-05-30 |
-| [Sakta lägger båten ut från land](https://open.spotify.com/track/5WedJ2EitfzHR84d7YO2wi) | [Titiyo](https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM) | [Sakta lägger båten ut från land](https://open.spotify.com/album/6ePGb3D9DncLR78OOrcNza) | 5:24 | 2025-05-08 |  |
+| [Sakta lägger båten ut från land](https://open.spotify.com/track/5WedJ2EitfzHR84d7YO2wi) | [Titiyo](https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM) | [Sakta lägger båten ut från land](https://open.spotify.com/album/6ePGb3D9DncLR78OOrcNza) | 5:24 | 2025-05-08 | 2025-12-12 |
 | [Sally/Hungry Eyes](https://open.spotify.com/track/2eyNZz8rxzDg2SScNaO4NQ) | [June Vide](https://open.spotify.com/artist/20armtjDqM2eubNGx6P6p1) | [Sally/Hungry Eyes](https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ) | 3:27 | 2024-06-27 | 2025-01-10 |
 | [Salta tårar](https://open.spotify.com/track/2d7JfqU2Vhe94bedlOJRNy) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Salta tårar](https://open.spotify.com/album/08BcoLD1gNU0NsDRZAdLit) | 3:23 | 2024-06-27 | 2024-08-16 |
 | [Samma saga](https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Samma saga](https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI) | 3:33 | 2024-10-10 | 2025-04-25 |
@@ -410,6 +410,7 @@
 | [The Whole Woman](https://open.spotify.com/track/6pmFHNJmQKQEUioMUJk1h5) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Stardust / The Whole Woman](https://open.spotify.com/album/5xSu56pfAkclyOkKGYTob6) | 4:18 | 2025-08-21 |  |
 | [There’s a Field \(That’s Only Yours\)](https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Rearrange My World / There’s a Field \(That's Only Yours\)](https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn) | 2:04 | 2025-02-14 |  |
 | [This Is The Silence](https://open.spotify.com/track/0eAzpCq4dpoPNNaY6EUyv3) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [The Forest Is The Path \(Extended Edition\)](https://open.spotify.com/album/6irdOmMm1renAtesHgETEv) | 2:59 | 2025-03-13 |  |
+| [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/3YJI8hB34sSwXLgGJsaNrE) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl), [Linda Pritchard](https://open.spotify.com/artist/2L7B2HrdRDDHC4VMeVdoEK) | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/album/13aWkvowQdGgjQhZQZnstd) | 3:04 | 2025-12-11 |  |
 | [Tiden försvinner](https://open.spotify.com/track/3THkpuPm9r1eu2Y2YXsHjb) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [Tiden försvinner](https://open.spotify.com/album/5zWmdawhCC0ijjNQrL4mDM) | 3:26 | 2024-09-12 | 2024-10-05 |
 | [Til the music starts again](https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1) | [Banna Sona Band](https://open.spotify.com/artist/2VzA8vhIIS0wa7Jw1eemPL), [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq), [Kalle Moraeus](https://open.spotify.com/artist/1NDYAcgpsX4ony5CD0QIxW) | [Til the music starts again](https://open.spotify.com/album/5F7JWDPml2qSmPhLRAOtuK) | 3:28 | 2025-05-26 |  |
 | [Tillbaka](https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw) | [Bo Kaspers Orkester](https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn) | [Tillbaka](https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs) | 3:31 | 2025-09-18 |  |
@@ -480,5 +481,6 @@
 | [Är det upp till dig och mig](https://open.spotify.com/track/5D94n7MSUmTTPwO91roL9x) | [Jakob Hellman](https://open.spotify.com/artist/74terC9ol9zMo8rfzhSOiG) | [Är det upp till dig och mig](https://open.spotify.com/album/36Y6LGKWC5qrVnEU2uX5Nd) | 4:25 | 2025-09-11 | 2025-10-31 |
 | [Ärligt misstag](https://open.spotify.com/track/3SENIcIRPLk5c5xSnKYEAs) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Ärligt misstag](https://open.spotify.com/album/5dDzaWLtQBPMBnmIV5S5HU) | 2:29 | 2025-02-06 | 2025-09-05 |
 | [Ögonblick i livet](https://open.spotify.com/track/2dZoKGCLtsUzVlxQvIyjFl) | [Jan Johansen](https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf) | [Ögonblick i livet](https://open.spotify.com/album/7ejzXc7bRHlth4dEGcyrje) | 3:14 | 2024-06-27 | 2024-08-16 |
+| [Östra Svealand \(2025\)](https://open.spotify.com/track/2nz8qoJdE6sqKtKRaqpjHa) | [Ulf Lundell](https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A) | [Andra landskap](https://open.spotify.com/album/37soTgKPaXkx18KpIQUyR0) | 4:55 | 2025-12-11 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

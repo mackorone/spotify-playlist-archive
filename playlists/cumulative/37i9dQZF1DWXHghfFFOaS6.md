@@ -4,7 +4,7 @@
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-184 songs - 14 hr 14 min
+184 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Bridge Through Time](https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK) | [Love Is The Answer \(Expanded\)](https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8) | 4:01 | 2021-12-12 |  |
 | [Bring It On](https://open.spotify.com/track/5oz5BN9nXXRrepQPDDb8pO) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [Bring It On](https://open.spotify.com/album/5kXQHuKM8aN4JuUXSZLup1) | 4:20 | 2021-12-12 |  |
 | [Broken Biscuits](https://open.spotify.com/track/0CVX6UKcZkfS2vGrqbQKXI) | [Rebecca Vasmant](https://open.spotify.com/artist/0a5lsotyiCdV0xmceU44oN), [Nadya Albertsson](https://open.spotify.com/artist/5Tth72I5bVVp0ndOMDnu3A) | [Broken Biscuits](https://open.spotify.com/album/4RWrAbKH3H9J3oAQLwFL8B) | 6:17 | 2022-03-10 |  |
-| [Bucktown](https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6) | [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Dah Shinin'](https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM) | 3:57 | 2021-12-12 |  |
+| [Bucktown](https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6) | [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Dah Shinin'](https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM) | 4:07 | 2021-12-12 |  |
 | [C'était un rendez\-vous](https://open.spotify.com/track/7r3KxXhRx6sznqDL05497j) | [Arms and Sleepers](https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP) | [C'était un rendez\-vous](https://open.spotify.com/album/0PP9XAAa3yjLiMQ9gM2E7W) | 5:20 | 2022-07-18 |  |
 | [Cantaloop \(Flip Fantasia\)](https://open.spotify.com/track/06DSI8L6IT8SizCw3JLckz) | [Us3](https://open.spotify.com/artist/4LtIfuFeAamus9OOItuWDD), [Rahsaan](https://open.spotify.com/artist/2cNCyL3WSlAatld5duatyD), [Gerard Presencer](https://open.spotify.com/artist/5A8UenAZRv51yZVv13nFQo) | [Hand On The Torch](https://open.spotify.com/album/4Cm1wXjw6YCbkaiZZGNiZ1) | 4:39 | 2021-12-12 |  |
 | [Cantaloop \(Flip Fantasia\)](https://open.spotify.com/track/2AnTuxahfcAS7dGxGZnihY) | [Us3](https://open.spotify.com/artist/4LtIfuFeAamus9OOItuWDD), [Rahsaan](https://open.spotify.com/artist/2cNCyL3WSlAatld5duatyD), [Gerard Presencer](https://open.spotify.com/artist/5A8UenAZRv51yZVv13nFQo) | [Hand On The Torch](https://open.spotify.com/album/3lOv4MWFZGIJmHdyMXtlB5) | 4:39 | 2022-07-14 | 2024-04-19 |

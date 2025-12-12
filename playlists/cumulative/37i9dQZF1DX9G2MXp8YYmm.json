@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Pop'un sevilen isimleri. Kapak: Sinan Ak\u00e7\u0131l x Ece Mumay",
+  "description": "Pop'un sevilen isimleri. Kapak: Hazar Alt\u0131n",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -1746,6 +1746,24 @@
       "duration_ms": 217327,
       "name": "Bu Defa Ba\u015fka",
       "url": "https://open.spotify.com/track/6EVr51QfMgxOPHRU7EAxyC"
+    },
+    {
+      "album": {
+        "name": "Bu Defa Ba\u015fka",
+        "url": "https://open.spotify.com/album/2vhfEzHDlOLfxbi9Cda1oO"
+      },
+      "artists": [
+        {
+          "name": "\u00d6zcan Deniz",
+          "url": "https://open.spotify.com/artist/4VU1nemTk5QFsrclcN8VFl"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225717,
+      "name": "Bu Defa Ba\u015fka",
+      "url": "https://open.spotify.com/track/3cdSx77FBFq9v1ev47rdi9"
     },
     {
       "album": {
@@ -3560,7 +3578,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 154874,
       "name": "Hayran\u0131m",
       "url": "https://open.spotify.com/track/2gtEcc5Beh1U3E0iQdzlCK"
@@ -5489,6 +5507,24 @@
     },
     {
       "album": {
+        "name": "Neye Yarar",
+        "url": "https://open.spotify.com/album/51h9GUSsDMFF3J9EfAPWmS"
+      },
+      "artists": [
+        {
+          "name": "Hazar Alt\u0131n",
+          "url": "https://open.spotify.com/artist/63N38NNRbX8bafUq5SjVpQ"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Neye Yarar",
+      "url": "https://open.spotify.com/track/4V93LhhOGcTqjngbQJPrjl"
+    },
+    {
+      "album": {
         "name": "Neyleyim",
         "url": "https://open.spotify.com/album/7afUZVEM8lLALmNbi9ejgh"
       },
@@ -7122,7 +7158,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 158691,
       "name": "Vazge\u00e7mem",
       "url": "https://open.spotify.com/track/4NfDePPzLzpjWeAMoL4xat"

@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "45",
+        "url": "https://open.spotify.com/album/1VDOnz8xGPqycmnzHaxkEE"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197324,
+      "name": "45",
+      "url": "https://open.spotify.com/track/1udG86M7sSyELAIlLeRdMM"
+    },
+    {
+      "album": {
         "name": "Back Then, Computer Sound",
         "url": "https://open.spotify.com/album/03vLK8v8cerigbfUKJlIxb"
       },
@@ -5049,6 +5067,32 @@
     },
     {
       "album": {
+        "name": "Back to Life",
+        "url": "https://open.spotify.com/album/2LtT2fWwDYgADZESb7PN0q"
+      },
+      "artists": [
+        {
+          "name": "Marcus Santoro",
+          "url": "https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz"
+        },
+        {
+          "name": "Hix",
+          "url": "https://open.spotify.com/artist/5aPDZDLHc63XbN7YbLdTIO"
+        },
+        {
+          "name": "SUVI",
+          "url": "https://open.spotify.com/artist/5gP4aEL0OvBlxgvod5C8jL"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193548,
+      "name": "Back to Life",
+      "url": "https://open.spotify.com/track/6PWSpAsmpCzqOctmkOhqn4"
+    },
+    {
+      "album": {
         "name": "Back To Life (feat. Julia Church)",
         "url": "https://open.spotify.com/album/7ottNjrMancqvRpwvJLK2H"
       },
@@ -6626,6 +6670,24 @@
       "duration_ms": 168984,
       "name": "Believe",
       "url": "https://open.spotify.com/track/1D53ZjgCcPlFYEryfd0c8r"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5UML5yybgZrFpHIMD3w7zY"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222745,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0P4m0R5msH9E5I2CfQx7Dg"
     },
     {
       "album": {
@@ -9918,7 +9980,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 178865,
       "name": "Bullshit",
       "url": "https://open.spotify.com/track/5ALKOITz7HU3m3Ac3aVDXk"
@@ -11548,7 +11610,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 216888,
       "name": "Catch",
       "url": "https://open.spotify.com/track/46dcodmxsxDxYfRiAkkAth"
@@ -15428,7 +15490,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 208594,
       "name": "Dance Machine",
       "url": "https://open.spotify.com/track/3GvWBH9g9FNW1rAmvFFDzR"
@@ -16752,7 +16814,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 170625,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB"
@@ -20536,7 +20598,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 220689,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/4hphReh7hXDCFb14FfB7n1"
@@ -22324,7 +22386,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 149786,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/0UmhP7Wzb7Y0acYXbXXbOG"
@@ -26222,7 +26284,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 155905,
       "name": "Get Down (feat. Traxman)",
       "url": "https://open.spotify.com/track/7nmiv8ZTVHHbls5ZjiStcx"
@@ -29950,7 +30012,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 207527,
       "name": "Hell Yeah",
       "url": "https://open.spotify.com/track/23a1W6UwSwPytxHM6vCFTl"
@@ -30871,6 +30933,24 @@
     },
     {
       "album": {
+        "name": "Hindsight (We Belong With Each Other)",
+        "url": "https://open.spotify.com/album/4iaSMP5Fudxr6Fiw1HGKgg"
+      },
+      "artists": [
+        {
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217974,
+      "name": "Hindsight (We Belong With Each Other)",
+      "url": "https://open.spotify.com/track/1zfr2EIFyIu58wYKwUgseS"
+    },
+    {
+      "album": {
         "name": "Hip Trumpets",
         "url": "https://open.spotify.com/album/4VUQYr2q75PTwBQqg4Lno4"
       },
@@ -31214,7 +31294,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 174954,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6eujN0FjgcrZXcWoLFhcOc"
@@ -33454,7 +33534,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 176470,
       "name": "I Need A Rhythm (feat. ROZZZQWEEN)",
       "url": "https://open.spotify.com/track/4EI4xZXYjLXV2wsnAMLZID"
@@ -34221,6 +34301,32 @@
     },
     {
       "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/3ndVRqEcpcSxJLmMaQq7Dg"
+      },
+      "artists": [
+        {
+          "name": "Kino Todo",
+          "url": "https://open.spotify.com/artist/2kzHzn9DTankt1OfK1U8ol"
+        },
+        {
+          "name": "Marko East",
+          "url": "https://open.spotify.com/artist/1NwfWMcgvBm7dhofhmwtzi"
+        },
+        {
+          "name": "TruthIzMagic",
+          "url": "https://open.spotify.com/artist/5fNMpFFNjDxXA0y7qMIk7u"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175327,
+      "name": "ICON",
+      "url": "https://open.spotify.com/track/1sIyNKM27fUisrTQr5AWo6"
+    },
+    {
+      "album": {
         "name": "ICONIC",
         "url": "https://open.spotify.com/album/6dQD5jxlJiDSp6yWM4NRt9"
       },
@@ -34652,7 +34758,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 203233,
       "name": "In Love Again - Vocal",
       "url": "https://open.spotify.com/track/5YMrcjheuWjngTyH6nmLsO"
@@ -41079,6 +41185,24 @@
     },
     {
       "album": {
+        "name": "LOUDER",
+        "url": "https://open.spotify.com/album/6KaKo7Oly6T03KRaoTDMCa"
+      },
+      "artists": [
+        {
+          "name": "ZEKE BEATS",
+          "url": "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202060,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/4cPeIoEz3nKshMqLKgTAfw"
+    },
+    {
+      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/0hCfqbI6KcJbVwwX2Tw1Bf"
       },
@@ -41584,7 +41708,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 239973,
       "name": "Love Who You Love",
       "url": "https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr"
@@ -44833,6 +44957,28 @@
     },
     {
       "album": {
+        "name": "More Of The Same",
+        "url": "https://open.spotify.com/album/1EdrIK70b93chA3F2BKwmN"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129951,
+      "name": "More Of The Same",
+      "url": "https://open.spotify.com/track/0ce4nqi9EevtwI1keTBa07"
+    },
+    {
+      "album": {
         "name": "More of You",
         "url": "https://open.spotify.com/album/2XtHv7Q0Woi1PI9N2jqE1g"
       },
@@ -46845,6 +46991,24 @@
     },
     {
       "album": {
+        "name": "New Style",
+        "url": "https://open.spotify.com/album/1r5919XikfVwtUgYsIeMSE"
+      },
+      "artists": [
+        {
+          "name": "Strath",
+          "url": "https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212416,
+      "name": "New Style",
+      "url": "https://open.spotify.com/track/0VeuDFGBUgRINBQr8tMrAy"
+    },
+    {
+      "album": {
         "name": "New York ft. mazie",
         "url": "https://open.spotify.com/album/5MIu1XVdFF3AD2rTuMvGX8"
       },
@@ -47308,6 +47472,28 @@
       "duration_ms": 240425,
       "name": "No No No",
       "url": "https://open.spotify.com/track/4LHneZqXwjhRP5SGoJ6TnL"
+    },
+    {
+      "album": {
+        "name": "No One",
+        "url": "https://open.spotify.com/album/7K9zu3YIC7kQORSSclbGBD"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Tim Engelhardt",
+          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244391,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/5J72L91na30WRBYaCokV8i"
     },
     {
       "album": {
@@ -50988,7 +51174,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 188550,
       "name": "P4M",
       "url": "https://open.spotify.com/track/3iHmMVxXwD172MhHtF0kMA"
@@ -56092,7 +56278,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 216172,
       "name": "Ride The Energy",
       "url": "https://open.spotify.com/track/5YarSfIv7zBae8TcMGGSsg"
@@ -56392,6 +56578,32 @@
       "duration_ms": 138036,
       "name": "Riptide (feat. Ilan Kidron)",
       "url": "https://open.spotify.com/track/3zAQQXsqLkD7ji4pQzKD0v"
+    },
+    {
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/5nGvw9JZ1x8m7cfCGFJGqQ"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "CHRSTPHR",
+          "url": "https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz"
+        },
+        {
+          "name": "Peter Xan",
+          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/0469wpByAo3eX3BZZx25Yw"
     },
     {
       "album": {
@@ -63925,6 +64137,32 @@
     },
     {
       "album": {
+        "name": "Substance (feat. FAANGS)",
+        "url": "https://open.spotify.com/album/2fJ1PQyoQEA7QiWkGjjpaA"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        },
+        {
+          "name": "FAANGS",
+          "url": "https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160496,
+      "name": "Substance (feat. FAANGS)",
+      "url": "https://open.spotify.com/track/5On7CF20MHgFOYUUlacXbf"
+    },
+    {
+      "album": {
         "name": "subtle. prod by GANZ",
         "url": "https://open.spotify.com/album/2dpYExcFio7EoF4ITW31Et"
       },
@@ -67790,7 +68028,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 213472,
       "name": "The Moment",
       "url": "https://open.spotify.com/track/25XA7l8OJIirmdvhstQP5G"
@@ -68706,6 +68944,28 @@
       "duration_ms": 202467,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/1E7jE0EHy7FlU8uWi5hirD"
+    },
+    {
+      "album": {
+        "name": "Thinking About You (feat. Arkey)",
+        "url": "https://open.spotify.com/album/0wucRfhZNVV29wCeusc9gr"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Arkey",
+          "url": "https://open.spotify.com/artist/1fJWJg5SkXjmFhnT4wf5QH"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196080,
+      "name": "Thinking About You (feat. Arkey)",
+      "url": "https://open.spotify.com/track/1DwY5BtXvfysoSv37frTER"
     },
     {
       "album": {
@@ -70228,6 +70488,24 @@
       "duration_ms": 260194,
       "name": "Toys",
       "url": "https://open.spotify.com/track/4kvlc8CUlIxiqZP3Z2TSUG"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Sixten",
+          "url": "https://open.spotify.com/artist/270lBB4c4WBLdrzQKgrXDI"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/4ilo4iwiF1t6Y5qahAc46N"
     },
     {
       "album": {
@@ -73980,6 +74258,44 @@
       "duration_ms": 225130,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/65EggkdDWHv0HcijDXcjhk"
+    },
+    {
+      "album": {
+        "name": "Welcome Aboard",
+        "url": "https://open.spotify.com/album/1bRUghFPuhYBoB1b62pMc2"
+      },
+      "artists": [
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        },
+        {
+          "name": "Eric Powell",
+          "url": "https://open.spotify.com/artist/5d24PwkuP6VQJd7LrRPOEo"
+        },
+        {
+          "name": "MDFC",
+          "url": "https://open.spotify.com/artist/7uWqqgv6VPqAihzjh6JwNN"
+        },
+        {
+          "name": "Dr Packer",
+          "url": "https://open.spotify.com/artist/46hILKsILU34lUxKKftyVm"
+        },
+        {
+          "name": "Joe Roberts",
+          "url": "https://open.spotify.com/artist/1bZ6A5GwXSCqs4dES87glX"
+        },
+        {
+          "name": "Melanie Williams",
+          "url": "https://open.spotify.com/artist/3jmMMoxWDbP6gIpslNl2MP"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456599,
+      "name": "Welcome Aboard - Dr Packer Mix",
+      "url": "https://open.spotify.com/track/2q8OXmmlj4EvirSHAYdjpH"
     },
     {
       "album": {

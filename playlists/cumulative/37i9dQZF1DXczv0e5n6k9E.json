@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Negros Tou Moria, SIDARTA",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Dani Gambino, Nume",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -443,6 +443,28 @@
     },
     {
       "album": {
+        "name": "90th Floor",
+        "url": "https://open.spotify.com/album/37cgHuOdcftkybzls2h1Sq"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155530,
+      "name": "90th Floor",
+      "url": "https://open.spotify.com/track/7wnD6XeAzdJXshrdTeuTis"
+    },
+    {
+      "album": {
         "name": "9ARI",
         "url": "https://open.spotify.com/album/5AlVNGNmZw1zh988FeOif6"
       },
@@ -499,6 +521,32 @@
     },
     {
       "album": {
+        "name": "Adeies Verantes",
+        "url": "https://open.spotify.com/album/6pUyHBROOwX0JjMLO5KhYz"
+      },
+      "artists": [
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Nume",
+          "url": "https://open.spotify.com/artist/62tV1e6rfkhuGPewxuOsjD"
+        },
+        {
+          "name": "Kaist",
+          "url": "https://open.spotify.com/artist/4imUIlkV0mdCbhSPRMyclz"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247912,
+      "name": "Adeies Verantes",
+      "url": "https://open.spotify.com/track/4d2L1ntfgswj1aVWdnb5RO"
+    },
+    {
+      "album": {
         "name": "AEGEAN",
         "url": "https://open.spotify.com/album/5sHfna0Pi6jvnwAVDDR2GT"
       },
@@ -536,7 +584,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 295043,
       "name": "Agalia",
       "url": "https://open.spotify.com/track/068Q1SMFDYX1sRKc2AZKvJ"
@@ -928,6 +976,32 @@
       "duration_ms": 162206,
       "name": "AOUCH",
       "url": "https://open.spotify.com/track/58GRkw2ZAukdzzCohitqkq"
+    },
+    {
+      "album": {
+        "name": "APOTIPOMATA",
+        "url": "https://open.spotify.com/album/13fA1U9jizHnA17kxIOhtX"
+      },
+      "artists": [
+        {
+          "name": "Donn",
+          "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
+        },
+        {
+          "name": "Likeboss",
+          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184729,
+      "name": "APOTIPOMATA",
+      "url": "https://open.spotify.com/track/39rpODqvEPrixgNfsZtNVT"
     },
     {
       "album": {
@@ -1708,7 +1782,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 149538,
       "name": "Bling Blao",
       "url": "https://open.spotify.com/track/13p8k8bvCBi75tcVbgLmDa"
@@ -2232,7 +2306,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 113814,
       "name": "Chalkidiki",
       "url": "https://open.spotify.com/track/3EmR858O6GqY9QCPOowflb"
@@ -2394,6 +2468,28 @@
       "duration_ms": 177250,
       "name": "Comeback #2",
       "url": "https://open.spotify.com/track/4OCAVaEDpDtczmBYOV3yTs"
+    },
+    {
+      "album": {
+        "name": "CPR",
+        "url": "https://open.spotify.com/album/4fZZTVcjxiFfBxz3uXPRUL"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        },
+        {
+          "name": "BLVD Studio",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "CPR",
+      "url": "https://open.spotify.com/track/2nMUwsXvnKJBd1NB073nrp"
     },
     {
       "album": {
@@ -2718,7 +2814,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 117791,
       "name": "Demon Vol 1",
       "url": "https://open.spotify.com/track/2SyJKcK9wNoJnnG3eAn1DO"
@@ -3764,7 +3860,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 215000,
       "name": "FANELES",
       "url": "https://open.spotify.com/track/1H1vNeUfFADNnI1se4Gij3"
@@ -3918,6 +4014,28 @@
       "duration_ms": 161632,
       "name": "FHMES",
       "url": "https://open.spotify.com/track/56gbt6Uz4WCUVNwnhlHJSF"
+    },
+    {
+      "album": {
+        "name": "CAPO DEI CAPI (Deluxe)",
+        "url": "https://open.spotify.com/album/6NQgPcrGdGbR07dq2CYl50"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Mad Clip",
+          "url": "https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184966,
+      "name": "FIDIA",
+      "url": "https://open.spotify.com/track/0ZqNMrrAz4BgkUpF9iERib"
     },
     {
       "album": {
@@ -4208,7 +4326,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 191489,
       "name": "FTAIW EGW",
       "url": "https://open.spotify.com/track/0R1t9FcBUuoew8ndJ8ubut"
@@ -5152,7 +5270,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 255733,
       "name": "Hezbollah",
       "url": "https://open.spotify.com/track/2c6RgHZYCQ4bnQ3aZCjkm6"
@@ -6400,6 +6518,32 @@
       "duration_ms": 222105,
       "name": "Lacoste",
       "url": "https://open.spotify.com/track/2qDINcwqFSLh4NkyfQQBEm"
+    },
+    {
+      "album": {
+        "name": "CAPO DEI CAPI (Deluxe)",
+        "url": "https://open.spotify.com/album/6NQgPcrGdGbR07dq2CYl50"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Kest",
+          "url": "https://open.spotify.com/artist/2EnhdBc8wuBfUBIWDBVjEv"
+        },
+        {
+          "name": "Adams",
+          "url": "https://open.spotify.com/artist/2MmaF1qaC1pL5IJs7HQMuv"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186933,
+      "name": "LADY DIOR",
+      "url": "https://open.spotify.com/track/0dDlLhfgHqLLWyvKGDAzxD"
     },
     {
       "album": {
@@ -8171,6 +8315,24 @@
     },
     {
       "album": {
+        "name": "Ntolia",
+        "url": "https://open.spotify.com/album/6cH39Zi7CawLCDlxRd8GFs"
+      },
+      "artists": [
+        {
+          "name": "Roi 6/12",
+          "url": "https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214736,
+      "name": "Ntolia",
+      "url": "https://open.spotify.com/track/74VIwjiUa111jjrDesaq5l"
+    },
+    {
+      "album": {
         "name": "NTOUMANI",
         "url": "https://open.spotify.com/album/2djwb4Wg8c5ao8WyttgVBI"
       },
@@ -8691,6 +8853,36 @@
     },
     {
       "album": {
+        "name": "OSE",
+        "url": "https://open.spotify.com/album/0l5jdAXg0JYj3ELh8Rmy8f"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Mario Kush",
+          "url": "https://open.spotify.com/artist/1o9oGVl9x0NWqJMrfti1rq"
+        },
+        {
+          "name": "Spize",
+          "url": "https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139607,
+      "name": "OSE",
+      "url": "https://open.spotify.com/track/0Ythgq8uacb9uwkWSs0Vkb"
+    },
+    {
+      "album": {
         "name": "OTAN LEIPEIS",
         "url": "https://open.spotify.com/album/63ffcQ0xLrauoaOVRphL8B"
       },
@@ -8900,7 +9092,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 146400,
       "name": "PARANOMO",
       "url": "https://open.spotify.com/track/4M9LkBYxzH1U6YGcWCs6OM"
@@ -10857,6 +11049,28 @@
     },
     {
       "album": {
+        "name": "Skg By Night",
+        "url": "https://open.spotify.com/album/4hmShhkL3r360lIy3lZhL6"
+      },
+      "artists": [
+        {
+          "name": "Ortiz",
+          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+        },
+        {
+          "name": "Mikros Kleftis",
+          "url": "https://open.spotify.com/artist/1WNkrtDTdQ5izZf5L372i9"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161378,
+      "name": "Skg By Night",
+      "url": "https://open.spotify.com/track/6EPRqtJNEMsmmy49taXShi"
+    },
+    {
+      "album": {
         "name": "SKG DRILL",
         "url": "https://open.spotify.com/album/5UC3x1p0tyC6fPNFEhL4Vk"
       },
@@ -11668,7 +11882,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 196701,
       "name": "TELEIA EPAFI",
       "url": "https://open.spotify.com/track/2NWiKEdsg3YGIpZ4fjyGVD"

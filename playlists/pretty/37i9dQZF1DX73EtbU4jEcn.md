@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73EtbU4jEcn.md) - [plain]
 
 > Gym motivation, fitness motivation, sport motivation 2025! Hits om je helemaal mee in het zweet te werken.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,913 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,948 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73EtbU4jEcn.md) - [plain]
 | 59 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [STAY \(with Justin Bieber\)](https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ) | 2:21 |
 | 60 | [Cheap Thrills \(feat\. Sean Paul\)](https://open.spotify.com/track/378iszndTZAR4dH8kwsLC6) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [This Is Acting](https://open.spotify.com/album/3Xz1Bcn4YP9bdqlsstMfuJ) | 3:44 |
 
-Snapshot ID: `AAAAAHpb+bEWPEz6AKICCPplvzv36U/Q`
+Snapshot ID: `AAAAACcDFRryjYZ04nG/0zPmPoCiSulh`

@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang dangdut ngetop Tanah Air\. Cover: Esa Risty
+> Dendang dangdut ngetop Tanah Air\. Cover: Iis Dahlia
 
-283 songs - 22 hr 34 min
+285 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [HALU](https://open.spotify.com/track/0Mh4TBn6iBLkp99TeuFQHw) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [HALU](https://open.spotify.com/album/3WAJxIWrZAnMH6gGbqESYt) | 3:42 | 2024-08-22 | 2025-06-27 |
 | [HALU \- Acoustic Version](https://open.spotify.com/track/2HcOARrTPO9CyAXjfjAXMk) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Alyssa Dezek](https://open.spotify.com/artist/7riu7Nfn7JdCh57ib3lQM3) | [HALU \(Acoustic Version\)](https://open.spotify.com/album/2px1E2J7qVXumyHUT1duQ1) | 3:05 | 2024-12-12 | 2025-06-27 |
 | [Hanya Insan Biasa \- Live Ska Reggae](https://open.spotify.com/track/6qJIqqPqWim82D36xcYXua) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Hanya Insan Biasa \(Live Ska Reggae\)](https://open.spotify.com/album/5RPExE9DE9rnYUHJm55kaT) | 5:02 | 2024-07-18 | 2024-10-18 |
-| [Harus Melepasmu](https://open.spotify.com/track/4g0Y07KNORgo4k9eniJKEo) | [Jelita Jely](https://open.spotify.com/artist/4VScMi2m2F6toWNTcYQDXF) | [Harus Melepasmu](https://open.spotify.com/album/513cvvR2FOs5OxwyPeMYWt) | 5:28 | 2025-07-10 |  |
+| [Harus Melepasmu](https://open.spotify.com/track/4g0Y07KNORgo4k9eniJKEo) | [Jelita Jely](https://open.spotify.com/artist/4VScMi2m2F6toWNTcYQDXF) | [Harus Melepasmu](https://open.spotify.com/album/513cvvR2FOs5OxwyPeMYWt) | 5:28 | 2025-07-10 | 2025-12-12 |
 | [HARUSKAH AKU PERGI](https://open.spotify.com/track/6QUrJGz2xpHk6mVIwBvnzI) | [Andra Respati](https://open.spotify.com/artist/0c0VD9fNOOnEp9UwoEnz3a) | [HARUSKAH AKU PERGI](https://open.spotify.com/album/7oqmfq1FGxl4pfUKBVgVnA) | 5:38 | 2025-09-25 |  |
 | [Harusnya Aku Bukan Dia](https://open.spotify.com/track/0rmbQ7zTdLbO4ZeRINhwct) | [Balena](https://open.spotify.com/artist/2cjdvAkEtUktGoQSyc1teU) | [Harusnya Aku Bukan Dia](https://open.spotify.com/album/5bhiAHjrp1DNxyLDnkFD90) | 5:17 | 2024-02-22 |  |
 | [Hati Ini Selalu Milikmu](https://open.spotify.com/track/4MKz4c3w8UaMpBqlDdqRLg) | [Shinta Arsinta](https://open.spotify.com/artist/2K1Wy4PPyo0ni0EZxPwNCa) | [Hati Ini Selalu Milikmu](https://open.spotify.com/album/112on20pNWhwlIGoWGe4JM) | 4:24 | 2023-08-24 | 2025-04-18 |
@@ -138,6 +138,7 @@
 | [Kusuma Nala](https://open.spotify.com/track/0zmQTTdb4du9W5AYltC1FW) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Kusuma Nala](https://open.spotify.com/album/3Ya3nTreVzuhYFowsZRyrB) | 4:39 | 2025-11-27 |  |
 | [Lagi Syantik](https://open.spotify.com/track/2t65pJQA9BpPXehQLkOydo) | [Siti Badriah](https://open.spotify.com/artist/7uFoXSuGpa1zjda9SgmqFk) | [Lagi Syantik](https://open.spotify.com/album/0IQVxZ7YaLlnnoy4v7I61t) | 3:49 | 2021-08-23 | 2024-04-19 |
 | [Lagi Syantik](https://open.spotify.com/track/2whJ6VW0y0EGhp1XYElDCp) | [Siti Badriah](https://open.spotify.com/artist/7uFoXSuGpa1zjda9SgmqFk) | [Lagi Syantik](https://open.spotify.com/album/5DIDVNHJvI0dc2HxgjxBzF) | 3:49 | 2021-08-23 | 2024-09-07 |
+| [Lautan Dustamu](https://open.spotify.com/track/54Yb5fTzuEEeGfb2Z5lNyE) | [Iis Dahlia](https://open.spotify.com/artist/5O7fzBpuk6ECxw6qY36Hky) | [Lautan Dustamu](https://open.spotify.com/album/3BF7aG5JJRNAt8y6OvjEUs) | 5:23 | 2025-12-11 |  |
 | [LDR \( layang dungo restu \)](https://open.spotify.com/track/0tcEJ791a3aF6pTusqkJep) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [LDR \( layang dungo restu \)](https://open.spotify.com/album/4e5KcsAGBMNwbfuDBspCRe) | 5:29 | 2021-08-23 | 2024-02-16 |
 | [Lebaran Bersama](https://open.spotify.com/track/024MRDt7PtZBM5VIZZTOR1) | [Selfi Nafilah](https://open.spotify.com/artist/2F2mHioIXqRHN1P21llg9d) | [Lebaran Bersama](https://open.spotify.com/album/3KvAuBjmJdCxO7dbrY0F0c) | 3:50 | 2025-03-20 | 2025-09-26 |
 | [Lumpur Dan Berlian](https://open.spotify.com/track/1FC12nTDCjIomyOpAbN7Yy) | [Fida AP](https://open.spotify.com/artist/7zDNHkEE2pDK8qxM3DgjoK), [James AP](https://open.spotify.com/artist/62nZapVtmkig653PBkIsq5) | [Lumpur Dan Berlian](https://open.spotify.com/album/2EfELScnQu5NNCo4dlfZEm) | 6:05 | 2025-01-09 | 2025-08-08 |
@@ -160,6 +161,7 @@
 | [Menepi Cover](https://open.spotify.com/track/1merjIVhdrKOOdolcYhn3v) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Guyon Waton](https://open.spotify.com/album/1Or1VyBgYsWqszX54hhEu3) | 4:57 | 2021-08-23 | 2024-02-16 |
 | [Menepuk Air di Dulang](https://open.spotify.com/track/0NCkhLWAhJSam1Qr21x5M3) | [Evie Tamala](https://open.spotify.com/artist/518KzpAUCquD9HcSLDklzd) | [Menepuk Air di Dulang](https://open.spotify.com/album/5YcUGD2ssx84aki8Ykr7mk) | 5:08 | 2023-09-28 |  |
 | [Menepuk Air Didulang](https://open.spotify.com/track/2AMNSOCtgVIgSk3mxOGGPD) | [Evie Tamala](https://open.spotify.com/artist/518KzpAUCquD9HcSLDklzd) | [Menepuk Air Didulang](https://open.spotify.com/album/7Lj33EIrcBUrTsk8CoOGNH) | 5:08 | 2023-11-17 | 2024-04-19 |
+| [Mengapa Cuma Mimpi](https://open.spotify.com/track/0yx1ixe6exnSVaSwMDSDDh) | [Mansyur S](https://open.spotify.com/artist/4uq6QLz8nA9LAj01MDk58W) | [Mengapa Cuma Mimpi](https://open.spotify.com/album/2FNYU3mjyOwd2D5W0BOVli) | 5:11 | 2025-12-11 |  |
 | [Menggapai Cinta](https://open.spotify.com/track/4rerJfXC9ursw1GszRrxuO) | [Putri Isnari](https://open.spotify.com/artist/0OnSSg1BbWcHmKtDfBpjE1) | [Menggapai Cinta](https://open.spotify.com/album/18rTICWmL8FhSeB8XMKHXa) | 5:30 | 2023-12-14 |  |
 | [Menuntun Rindu](https://open.spotify.com/track/4GtDoitzRU2J1867x43Xb3) | [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p) | [Menuntun Rindu](https://open.spotify.com/album/3hu2vQpAdagC35INFDwwjI) | 5:19 | 2025-04-17 |  |
 | [Menyerah](https://open.spotify.com/track/17QG2cIIyiUk3938GRLRTq) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB), [Mom Uung](https://open.spotify.com/artist/5w0tU4gg00N5ODpshCHz6c), [Rizky Billar](https://open.spotify.com/artist/1QHSgB3sQ7xd1Cbs3yPU16) | [Menyerah](https://open.spotify.com/album/0zA93D842xuF7GCUitx0i6) | 4:28 | 2023-12-21 | 2025-10-18 |
@@ -201,7 +203,7 @@
 | [Ramen](https://open.spotify.com/track/2cxQOpwTHeZp9HfJvSLi11) | [Intan](https://open.spotify.com/artist/0xPWIqF0p6hk2WNYuiZUdB) | [Ramen](https://open.spotify.com/album/7MBvNm0cweksWQyzABH4DG) | 4:36 | 2024-09-06 | 2024-09-27 |
 | [Rasa Yang Salah](https://open.spotify.com/track/2j0nGluWGv7bUS7CihEPXH) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Rasa Yang Salah](https://open.spotify.com/album/6jVMOyooGnu49SsAZyuObH) | 4:47 | 2021-08-23 | 2023-09-15 |
 | [Rela Demi Cinta](https://open.spotify.com/track/1mlJzleUYpAdtSRfXFliE9) | [Aprilian](https://open.spotify.com/artist/3IwasKB3AD0K9tyM8OkwCz) | [Rela Demi Cinta](https://open.spotify.com/album/2x19JpufFs12UgYHcC74z3) | 5:20 | 2024-11-28 |  |
-| [Relakan Aku](https://open.spotify.com/track/2oudNyS77rnCUY7VH7SjDb) | [RaRa](https://open.spotify.com/artist/3zjsGks8xVJdz2E1UzYFxy) | [Relakan Aku](https://open.spotify.com/album/1M5l4O7tap4khAsaLDX6XX) | 4:26 | 2025-02-21 |  |
+| [Relakan Aku](https://open.spotify.com/track/2oudNyS77rnCUY7VH7SjDb) | [RaRa](https://open.spotify.com/artist/3zjsGks8xVJdz2E1UzYFxy) | [Relakan Aku](https://open.spotify.com/album/1M5l4O7tap4khAsaLDX6XX) | 4:26 | 2025-02-21 | 2025-12-12 |
 | [Relaku Mengalah \- Live](https://open.spotify.com/track/0t7GMC628aMYDhOnAVmsas) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [Relaku Mengalah \(Live\)](https://open.spotify.com/album/78gyY18tDPGuIW6e1lO3ET) | 5:05 | 2025-05-15 |  |
 | [Rindu](https://open.spotify.com/track/3cKgKjurexHC1BTtcWzrGo) | [Aulia](https://open.spotify.com/artist/7MttyEE8E5rgZixU23TZW6) | [Rindu](https://open.spotify.com/album/4xkXqRUixRjHEdTAF2aZUL) | 5:12 | 2024-08-08 |  |
 | [Rindu Padamu Nabi](https://open.spotify.com/track/5djmMiZ3iu8kdszWUWEUIW) | [Muhammad Hadi Assegaf](https://open.spotify.com/artist/63tkeCL4mJVCNFUI3Q2q5J) | [Rindu Padamu Nabi](https://open.spotify.com/album/1FlJ2X0atWjH9LBtD38OUd) | 5:16 | 2024-03-22 | 2025-02-21 |

@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 666716,
+  "num_followers": 666862,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAAB33ND7l/y5tSWF1CFe3EiZ",
+  "snapshot_id": "aTi4AAAAAAA07fzx9gv5HKZDLuFFZFbT",
   "tracks": [
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New World Depression",
+        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 150942,
+      "name": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
+      "url": "https://open.spotify.com/track/3BuLlji2QpVaaVRMURHiah"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meet Me Where the River Turns Grey",
         "url": "https://open.spotify.com/album/1rcqcrADJOrtw4V0yRTc1N"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 185725,
       "name": "Sarcophagus II",
       "url": "https://open.spotify.com/track/44x52QgzCxa1VdrLLNZMaw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New World Depression",
-        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 150942,
-      "name": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
-      "url": "https://open.spotify.com/track/3BuLlji2QpVaaVRMURHiah"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New World Depression",
+        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 268474,
+      "name": "Burgundy",
+      "url": "https://open.spotify.com/track/22YmmVRHfFX49G6HY5NV3T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GERM HAS A DEATHWISH",
         "url": "https://open.spotify.com/album/5eWTQHm7yXnuxlHpG9Lf23"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 109898,
       "name": "AWKWARD CAR DRIVE",
       "url": "https://open.spotify.com/track/3aEDTqPcVXDiuKXaedAZgx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New World Depression",
-        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 268474,
-      "name": "Burgundy",
-      "url": "https://open.spotify.com/track/22YmmVRHfFX49G6HY5NV3T"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing Me a Lullaby, My Sweet Temptation",
-        "url": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 195994,
-      "name": "Fucking Your Culture",
-      "url": "https://open.spotify.com/track/2gkVweydDn7MmHmqXAlEzk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New World Depression",
         "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 139996,
       "name": "The Light at the End of the Tunnel for $9.99 a Month",
       "url": "https://open.spotify.com/track/4PaI8I6lpyzCf5WPzn0VeH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sing Me a Lullaby, My Sweet Temptation",
+        "url": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 195994,
+      "name": "Fucking Your Culture",
+      "url": "https://open.spotify.com/track/2gkVweydDn7MmHmqXAlEzk"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New World Depression",
+        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 107610,
+      "name": "Lone Wolf Hysteria",
+      "url": "https://open.spotify.com/track/1rjvXhfeSpVVqERzW8qhRw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grey Gorilla",
         "url": "https://open.spotify.com/album/2oaau3jGhm8zjnBbGxmCA6"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 192809,
       "name": "Grey Gods",
       "url": "https://open.spotify.com/track/4iSHIHjbwqztgHdSeTjuMN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New World Depression",
-        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 107610,
-      "name": "Lone Wolf Hysteria",
-      "url": "https://open.spotify.com/track/1rjvXhfeSpVVqERzW8qhRw"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8OvHOQg0RD.md) - [plain]
 
 > temitas descompuestos por Emiro Navarro
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,493 likes - 30 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,496 likes - 30 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

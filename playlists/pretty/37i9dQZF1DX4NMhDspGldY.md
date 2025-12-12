@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMhDspGldY.md) - [plain]
 
 > Leeds! Leeds! Leeds! Cover: VENUS GRRRLS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,181 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMhDspGldY.md) - [plain]
 | 24 | [The Last Remaining Light](https://open.spotify.com/track/2PGg8lNkzACoNt3OnaRXZ3) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [The Last Remaining Light](https://open.spotify.com/album/2cjv8TWDCVVNuCdcTGKah2) | 3:08 |
 | 25 | [Bye Bye](https://open.spotify.com/track/1ynCux8DPn9obCyZIQ8lwL) | [Cole LC](https://open.spotify.com/artist/76YlwsQeCJEczcje0Ifg5p) | [Bye Bye](https://open.spotify.com/album/2qKD1Q4vs2TahMwrJocyPA) | 2:43 |
 | 26 | [Closer](https://open.spotify.com/track/7lHNiN7bI3mi6bYFpnOau7) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Closer / Strangers](https://open.spotify.com/album/7KedalFRqXcnAEl66Q83tC) | 3:42 |
-| 27 | [Luminescence](https://open.spotify.com/track/5n7Qmz7S2ESK7Y4SeZEnvO) | [Jessie Marcella](https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb) | [Luminescence EP](https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY) | 4:09 |
-| 28 | [Just For Company](https://open.spotify.com/track/7GVYi2mlPwJn1uY5AJiM7t) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [i know trees are falling](https://open.spotify.com/album/09d6DBcumokGlWZ6bnRm7W) | 2:57 |
+| 27 | [Just For Company](https://open.spotify.com/track/7GVYi2mlPwJn1uY5AJiM7t) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [i know trees are falling](https://open.spotify.com/album/09d6DBcumokGlWZ6bnRm7W) | 2:57 |
+| 28 | [Luminescence](https://open.spotify.com/track/5n7Qmz7S2ESK7Y4SeZEnvO) | [Jessie Marcella](https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb) | [Luminescence EP](https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY) | 4:09 |
 | 29 | [Tagliatelle](https://open.spotify.com/track/3TWRsylgFQJo01jpa46pwn) | [Bert](https://open.spotify.com/artist/7oHUE5iM2Mn1lughMs1H00), [Swifty Blu](https://open.spotify.com/artist/0F4JiG2pd75jzRVimScHoP) | [It's all gd, dw](https://open.spotify.com/album/0z5H8Ykg2sD8FPuCMZnz62) | 2:19 |
 | 30 | [L4V](https://open.spotify.com/track/42j3r1LFYw2BEZQMZkwWpw) | [Agxny](https://open.spotify.com/artist/1C01qD310JFINaNl8SNzcd), [Haze Da Martian](https://open.spotify.com/artist/3579nmnoMn3NAoO7BCr6aF) | [L4V](https://open.spotify.com/album/5qcjNHcBzOCmds5JiFt30S) | 2:21 |
 | 31 | [Spiral](https://open.spotify.com/track/7cPKLynmNZ5Ia6o7UeBjL8) | [Jey Kurmis](https://open.spotify.com/artist/5tBoZLvUWhT8UP3QSyw8HF) | [Spiral](https://open.spotify.com/album/44AsT9KZLScslPSkwASMuA) | 3:25 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMhDspGldY.md) - [plain]
 | 42 | [Show & Tell](https://open.spotify.com/track/4jtimiQsByqnyV2SKX7Cog) | [Bored at My Grandmas House](https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk) | [Show & Tell](https://open.spotify.com/album/117aeeewwU94p25MrFch09) | 3:31 |
 | 43 | [Midnight Mass](https://open.spotify.com/track/5pSJTwM7xnTcjAus8yilY3) | [Treeboy & Arc](https://open.spotify.com/artist/7kqPysY88dtq0TF7yO134f) | [Natural Habitat](https://open.spotify.com/album/2JawSHh0PDTVl4n3DL9sPd) | 3:54 |
 | 44 | [Never Did Come Back](https://open.spotify.com/track/5cmPYndRoqtyyslOmKgN6I) | [Van Houten](https://open.spotify.com/artist/1DJIjqnBb14BDo3EIZc2zB) | [Never Did Come Back](https://open.spotify.com/album/6Nwv4NRnWhdKguLd0E6pFg) | 4:11 |
-| 45 | [Bebaynetu](https://open.spotify.com/track/5dThygvX9AZmUj58dRDiJ3) | [The Sorcerers](https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA) | [Bebaynetu](https://open.spotify.com/album/1Vu6krP87Wv0M5OMinxWbq) | 4:03 |
-| 46 | [Rising](https://open.spotify.com/track/7wf5JNpQcrsPTwN4h1lKCU) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Rising](https://open.spotify.com/album/6TdOE1Wti5pSRxOW6Y9xT0) | 7:11 |
+| 45 | [Rising](https://open.spotify.com/track/7wf5JNpQcrsPTwN4h1lKCU) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Rising](https://open.spotify.com/album/6TdOE1Wti5pSRxOW6Y9xT0) | 7:11 |
+| 46 | [Bebaynetu](https://open.spotify.com/track/5dThygvX9AZmUj58dRDiJ3) | [The Sorcerers](https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA) | [Bebaynetu](https://open.spotify.com/album/1Vu6krP87Wv0M5OMinxWbq) | 4:03 |
 | 47 | [NIGHTWORLD](https://open.spotify.com/track/057XJzojCErHe3UEDMCMX7) | [HONESTY](https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv) | [NIGHTWORLD](https://open.spotify.com/album/17iGJEADbzVJFjbqsCSQsk) | 3:22 |
 | 48 | [entitled](https://open.spotify.com/track/7lVfdWjggfkp6xdDq6Glct) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [entitled](https://open.spotify.com/album/4HXTxiM4eL19sQSuDs3ujk) | 3:57 |
 | 49 | [Coming Of Age](https://open.spotify.com/track/39oKaHKZj9aNIqCNvZ1dBl) | [Van Houten](https://open.spotify.com/artist/1DJIjqnBb14BDo3EIZc2zB) | [Coming Of Age](https://open.spotify.com/album/67rNxof0ZOBr99nFdRp1fY) | 4:07 |
-| 50 | [Yasuke in Roppongi](https://open.spotify.com/track/47nkIbi7iyQ5k4CHkQN8xC) | [The Sorcerers](https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA) | [Yasuke In Roppongi](https://open.spotify.com/album/74v6dv4Uuw3het0QzpMpia) | 5:25 |
+| 50 | [Closer](https://open.spotify.com/track/1VTWCauhhZ23hDHMjsVCWb) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Closer](https://open.spotify.com/album/1AqR0VZf6nkCN4c9sNXSoO) | 3:18 |
 
 Snapshot ID: `AAAAAA3toBya620jqHpZFTbRs9j3sybL`

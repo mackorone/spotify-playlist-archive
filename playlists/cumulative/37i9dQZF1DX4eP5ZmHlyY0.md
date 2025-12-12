@@ -4,7 +4,7 @@
 
 > グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: BE:FIRST
 
-825 songs - 1 day 21 hr 15 min
+827 songs - 1 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [FUJI](https://open.spotify.com/track/3ElzGGiQ4ehegbG7dLIka7) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:42 | 2024-03-05 | 2024-10-02 |
 | [FUN](https://open.spotify.com/track/2IkUO4UhrUvVhfy6fGawYe) | [OCTPATH](https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7) | [FUN](https://open.spotify.com/album/7MQN91PFTzXHmA4uUukZ4B) | 3:17 | 2024-07-09 | 2024-07-31 |
 | [Furete](https://open.spotify.com/track/6cORKmyAM5qYe8gwtQ4WlH) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [Furete](https://open.spotify.com/album/3Mgfnr0yrpFMMVAm4mBEIu) | 3:41 | 2024-04-16 | 2024-04-19 |
+| [Future In My Pocket \- feat\. TAIKI \(STARGLOW\), GOICHI \(STARGLOW\)](https://open.spotify.com/track/2UWk6mGTPDXRGqp12SoCXp) | [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [TAIKI](https://open.spotify.com/artist/6PU4CQ9JbpTW3ZPat0vyAP), [GOICHI](https://open.spotify.com/artist/5fnp4hOf7hR5U0RJ8ampMr) | [Success Is The Best Revenge](https://open.spotify.com/album/21PMF7TvShCdHKi2oHHiAe) | 2:48 | 2025-12-11 |  |
 | [GBAD](https://open.spotify.com/track/3OxVaGUYKdSAXqIp8x7VgC) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [GBAD](https://open.spotify.com/album/3zd28IonbElPm1abU4G6Ve) | 3:10 | 2025-03-27 | 2025-04-16 |
 | [GBAD \(Number\_i Remix\)](https://open.spotify.com/track/0Sc93x1NGL4SbWFlMOvDkN) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GBAD \(Number\_i Remix\)](https://open.spotify.com/album/76C1D2sECFpW0lWOuhcZak) | 3:07 | 2025-04-15 | 2025-09-10 |
 | [Gelato](https://open.spotify.com/track/3qShJFAJ6OMCGrHzx2ze4u) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [Gelato](https://open.spotify.com/album/7pdXgSitr9RAF9gDDbGG3L) | 2:56 | 2025-05-15 | 2025-05-30 |
@@ -420,7 +421,7 @@
 | [Miracle](https://open.spotify.com/track/5XduJ06XvyvI6iwiAvHaqu) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Miracle](https://open.spotify.com/album/2pYKmfCQONAyN8CV0EXyuI) | 3:20 | 2023-12-19 | 2024-04-10 |
 | [MONA LISA](https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA](https://open.spotify.com/album/2zX4sG2aTB7SoITKDa3VBa) | 2:17 | 2025-03-20 | 2025-06-13 |
 | [MONEYBAG 7ver.](https://open.spotify.com/track/001j2dUGwEkNV7k8eGeor0) | [ORβIT](https://open.spotify.com/artist/5nIjW1OJiqkhJsdHWBfKrN) | [MONEYBAG 7ver.](https://open.spotify.com/album/0I2e0pluTkgdurceUwWuSD) | 4:46 | 2024-04-23 | 2024-05-08 |
-| [Monster](https://open.spotify.com/track/4gonAaejLPL4F4nAsnsQRB) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [Monster](https://open.spotify.com/album/1f77P6w7Gen7X30xg4eRt6) | 3:09 | 2025-10-21 |  |
+| [Monster](https://open.spotify.com/track/4gonAaejLPL4F4nAsnsQRB) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [Monster](https://open.spotify.com/album/1f77P6w7Gen7X30xg4eRt6) | 3:09 | 2025-10-21 | 2025-12-12 |
 | [Moon\(with VIVIZ, MINHYUK, KIHYUN, I.M of MONSTA X, HOSHI, WONWOO, MINGYU, DK, SEUNGKWAN of SEVENTEEN, HELLO GLOOM, ROCKY, CHOI YOOJUNG, KIM DOYEON, CHA NI \(SF9\), Bang Chan \(Stray Kids\), MOON SUA of Billlie\)](https://open.spotify.com/track/2gu6fOPHZVG0GzjCvnxlBA) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Moon](https://open.spotify.com/album/7glgOEdjzN4zKY9D6pmkpq) | 4:44 | 2025-04-17 | 2025-06-23 |
 | [Moonchaser](https://open.spotify.com/track/0qcQhdiBI6mRhVm8haSw2Y) | [STARGLOW](https://open.spotify.com/artist/1iw2iFU0Tpq7xvkX4VZyfZ) | [Moonchaser](https://open.spotify.com/album/5KrXBlPwpvPUl9v3EEJhwo) | 3:53 | 2025-09-21 | 2025-11-10 |
 | [moooove!!](https://open.spotify.com/track/1zXETxPIkM682d9RpPzyVd) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [Re:ERA](https://open.spotify.com/album/4Dsd6boYRsiex8m6hFYaLj) | 3:00 | 2025-03-06 | 2025-03-10 |
@@ -630,6 +631,7 @@
 | [Swish](https://open.spotify.com/track/20EmCIICH9XHkzAoYYYywu) | [OWV](https://open.spotify.com/artist/4CNu1NZPWMvgb46cmKepUG) | [Swish](https://open.spotify.com/album/26LYuBw65h8ipQvBmw6XMS) | 2:50 | 2025-03-09 | 2025-04-07 |
 | [SWISH DAT](https://open.spotify.com/track/6Y8Wcj1NS3dy3tk7NTyhvB) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [SWISH DAT](https://open.spotify.com/album/3C9UtowLQZlhdJ6Ir99XS0) | 3:10 | 2025-10-24 |  |
 | [SWITCHing](https://open.spotify.com/track/0t6EeePFHmdIXdS4TBRqyk) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [SWITCHing](https://open.spotify.com/album/6zYRDSWPlRRb1B0FQantp8) | 3:05 | 2023-11-23 | 2024-02-26 |
+| [Symphony](https://open.spotify.com/track/1mIffnJiNYKS3WUrmp8t5W) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [Symphony](https://open.spotify.com/album/2wYK44CCGbZNZmIhYkD7HR) | 3:43 | 2025-12-11 |  |
 | [SYNERGY](https://open.spotify.com/track/4xLrgPmQyaXmV6SN9xodl2) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [Dimensional Bridge](https://open.spotify.com/album/41CivMiTP0KfVcXZ6kWzdy) | 3:03 | 2025-02-04 | 2025-03-07 |
 | [T.G.I\. Friday Night](https://open.spotify.com/track/6ZDtOm65oJeSWTigzZjMdI) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [T.G.I\. Friday Night](https://open.spotify.com/album/6r5guvSqZvKWNlSNtyJqRT) | 3:35 | 2024-03-19 | 2024-10-29 |
 | [TAKE A SHOT](https://open.spotify.com/track/1JTPqGG7hHzLsBWK6caGQz) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [TAKE A SHOT](https://open.spotify.com/album/06qgEuyha6pNcBJvglOGha) | 2:28 | 2025-09-18 | 2025-11-14 |
@@ -782,7 +784,7 @@
 | [マルチバース・アドベンチャー](https://open.spotify.com/track/73bwO8YNQzVwEld8c0yr1U) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [マルチバース・アドベンチャー](https://open.spotify.com/album/27EpiaJQCaaayXxo4ZLfIP) | 3:16 | 2024-02-13 | 2024-04-24 |
 | [ミチシルベ](https://open.spotify.com/track/0Dx6dBcoYJ36Jd5TlVQuMz) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [ミチシルベ](https://open.spotify.com/album/052jurik7u7naYKyLCL8n0) | 3:17 | 2024-11-26 | 2025-02-03 |
 | [メタルなかよし](https://open.spotify.com/track/6V02BcehQcu2u2ugSjvIQj) | [chotokkyu](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU) | [メタルなかよし](https://open.spotify.com/album/39j9M9qIcQtue6TmiAtJ7F) | 3:54 | 2025-04-07 | 2025-04-18 |
-| [メロリ](https://open.spotify.com/track/4UqCbk4dNCULiz6GK47kBP) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [メロリ](https://open.spotify.com/album/224MMjQyPVB1tVe4yb0OY3) | 3:37 | 2025-11-25 |  |
+| [メロリ](https://open.spotify.com/track/4UqCbk4dNCULiz6GK47kBP) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [メロリ](https://open.spotify.com/album/224MMjQyPVB1tVe4yb0OY3) | 3:37 | 2025-11-25 | 2025-12-12 |
 | [世界を明るく照らしましょう](https://open.spotify.com/track/4ngH59pzL0tAtBQDn5AKRW) | [KAMIGATA BOYZ](https://open.spotify.com/artist/5TjFUvRq3BNyDsCgLWvxKF) | [世界を明るく照らしましょう](https://open.spotify.com/album/1OJngpGVsQCYAmy0DqkOhv) | 3:47 | 2024-09-17 | 2024-10-30 |
 | [両片想い](https://open.spotify.com/track/1UMIpUFDRaNmTMMu1br8gL) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [両片想い](https://open.spotify.com/album/0N8vRd5AcdsyifTccX4abX) | 3:08 | 2025-07-31 |  |
 | [五月雨 \(Samidare\)](https://open.spotify.com/track/7tXjyOod2TlM9g447E8NUn) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [五月雨 \(Samidare\)](https://open.spotify.com/album/2I0nlM24jBs20fWzSwUfLE) | 3:11 | 2024-05-07 | 2025-02-12 |

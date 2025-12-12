@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Nöel Mio
 
-596 songs - 1 day 9 hr 17 min
+597 songs - 1 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,6 +478,7 @@
 | [Sing To You](https://open.spotify.com/track/734dyETqWpYSfRL9bVIBzX) | [ECHO EDGE](https://open.spotify.com/artist/1hlvpNS7MoN7MlfxcxxQ8j), [Ayokunle](https://open.spotify.com/artist/3YIAAueeWTrjMcuQjGewkG), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Sing To You](https://open.spotify.com/album/3hyOi1TMNak7Lp6SrlHCje) | 2:51 | 2025-01-31 | 2025-03-21 |
 | [Sisi Ni Wale](https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Sisi Ni Wale](https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3) | 3:48 | 2023-10-20 |  |
 | [Smile](https://open.spotify.com/track/1gfC7nGth0lAF5gyXwAI1R) | [FIDEL E\. William](https://open.spotify.com/artist/3ZtLx9dt1d6OMirAEMMToe), [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [Smile](https://open.spotify.com/album/6iw7OKvgFeOrCg5Qj42Hzs) | 6:00 | 2025-05-30 | 2025-06-13 |
+| [Solace in You](https://open.spotify.com/track/7ssyPSO2hy5CJxpa5RHDv7) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Solace in You](https://open.spotify.com/album/06pr5GD2OmF8mxG3YVBfkW) | 3:32 | 2025-12-12 |  |
 | [Song Of Love](https://open.spotify.com/track/0UhMMj6DTG65TC84UxIl3V) | [Mo'Lola](https://open.spotify.com/artist/2ejOctEUrvGWrMuTwZPdaO), [Agent Snypa](https://open.spotify.com/artist/5LUpT5RzeYT5aH16GfEzHJ) | [Song Of Love](https://open.spotify.com/album/2xeDGHYMn8QUsbBZUwLRnJ) | 4:34 | 2024-02-09 | 2024-03-01 |
 | [SORO \(speak\)](https://open.spotify.com/track/5R7K57LirFdfq4cpQjaUft) | [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7), [Apostle Richard Onebamoi](https://open.spotify.com/artist/1pX3Iyn0rqhwDo7vKN5tmY) | [SORO \(speak\)](https://open.spotify.com/album/7MrAxqjMlYl64mABcbRiQv) | 5:54 | 2025-01-30 | 2025-03-21 |
 | [Stand Up for Jesus](https://open.spotify.com/track/1XWRCvOmdhWGkxyId5CoBY) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Johay](https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa) | [Stand Up for Jesus](https://open.spotify.com/album/51ti9f8P8w3I4SZoAjBl24) | 2:40 | 2025-05-23 | 2025-08-15 |
@@ -510,7 +511,7 @@
 | [Thank You Lord](https://open.spotify.com/track/3bzFiK4uI7V9LBpZYJXXyc) | [Zic Music](https://open.spotify.com/artist/4Lhk9QRuOkcVzs140NrOyu), [Vblaiz](https://open.spotify.com/artist/3rCZErjQlU5ZvkMrQQCJca), [WINNER WAYS.](https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK) | [Thank You Lord](https://open.spotify.com/album/2x3ppzGnZuZQVEbSelnN4g) | 3:09 | 2025-05-30 | 2025-06-13 |
 | [Thankful](https://open.spotify.com/track/0QJnoEolnrjOTgnkxqFYX7) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Thankful](https://open.spotify.com/album/1u46x7OT5i10TzU83ec0lh) | 2:44 | 2024-08-09 | 2024-10-25 |
 | [Thankful](https://open.spotify.com/track/4cl4l1Jmxg8NOAU2i4jKH0) | [Teddy krane](https://open.spotify.com/artist/22Qjyplj5Bih1Q4jpU0Ina) | [Thankful](https://open.spotify.com/album/3yViS17TbS3XSYrMm312jh) | 3:02 | 2024-11-22 | 2025-01-10 |
-| [The Good News: TGN](https://open.spotify.com/track/1ZWqe0v7n342eT9fITFGb6) | [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO), [Charis\-Rehoboth](https://open.spotify.com/artist/4oMf6vCW0Qe2xL4dNAu6yR), [Tobi Kay](https://open.spotify.com/artist/6PXX89E2IHh8zpEZ7o5129) | [The Good News: TGN](https://open.spotify.com/album/3fWacQIZnUl4SnAth4v9DO) | 3:21 | 2025-12-05 |  |
+| [The Good News: TGN](https://open.spotify.com/track/1ZWqe0v7n342eT9fITFGb6) | [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO), [Charis\-Rehoboth](https://open.spotify.com/artist/4oMf6vCW0Qe2xL4dNAu6yR), [Tobi Kay](https://open.spotify.com/artist/6PXX89E2IHh8zpEZ7o5129) | [The Good News: TGN](https://open.spotify.com/album/3fWacQIZnUl4SnAth4v9DO) | 3:21 | 2025-12-05 | 2025-12-12 |
 | [The Life](https://open.spotify.com/track/1Wp8BKu4JsFvUfHhyxaThS) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [R\-Scar](https://open.spotify.com/artist/0p2at2XqvrkIZUuknWspiH) | [The Life](https://open.spotify.com/album/0r83zIYgyDomUxX8zOTqPb) | 2:45 | 2024-07-19 | 2024-10-04 |
 | [The Light](https://open.spotify.com/track/6KQTXAGQoSxHMjd9xXIEtw) | [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX) | [Kingdom Mission](https://open.spotify.com/album/46hmWwofq4WLReMxBz5Ynw) | 1:37 | 2024-01-05 | 2024-02-02 |
 | [The Lord's Prayer](https://open.spotify.com/track/1kuaNWvKkZJMmy56xRAZSn) | [Mayor Boss](https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ) | [The Lord's Prayer](https://open.spotify.com/album/79tdBvikn5OHJewT3LQZOJ) | 2:00 | 2025-08-22 | 2025-09-19 |

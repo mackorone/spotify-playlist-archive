@@ -2,9 +2,9 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Manjakani
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Rifan Kalbuadi
 
-449 songs - 1 day 4 hr 39 min
+453 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Eksplorasi](https://open.spotify.com/track/2WXmgTLLUbl13plXDLzSxQ) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Eksplorasi](https://open.spotify.com/album/1LfGaqBK7M3X0n7TyzRycI) | 3:01 | 2024-09-05 | 2025-10-24 |
 | [Emily](https://open.spotify.com/track/2KT7vr9KLbd5JZaNuSd85O) | [Float](https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf) | [Emily](https://open.spotify.com/album/4EeMy2xG66d55u96B5guOV) | 3:46 | 2024-06-27 | 2025-02-14 |
 | [End Differently](https://open.spotify.com/track/1nOcvj8h1IrxceTisMyqdR) | [adoracion](https://open.spotify.com/artist/24t67LUda95ichX4Rz0Rlr) | [End Differently](https://open.spotify.com/album/29P6fKBt4dH1B54VzH2g37) | 3:11 | 2024-07-24 | 2024-09-20 |
+| [Ends With Holding You](https://open.spotify.com/track/1CvoH9A32Dod8hgn0Jhy1A) | [Rifan Kalbuadi](https://open.spotify.com/artist/6dO5K9GKFs1yW4fHZLI3ys) | [Ends With Holding You](https://open.spotify.com/album/0vMrWcXjNwvuCpKQiTTx2O) | 3:12 | 2025-12-11 |  |
 | [Episode](https://open.spotify.com/track/7r6iKxXIAgfAr3KzUECD3G) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Episode](https://open.spotify.com/album/42Mll5B1tj9XU3u6EoNnFM) | 5:13 | 2024-06-27 | 2025-02-01 |
 | [Era](https://open.spotify.com/track/3dRABQtNXJRWaDlake5d9m) | [Wake up, Iris !](https://open.spotify.com/artist/0tev8ZQ4Hy5AeAeCK5Udw1), [IKLIM](https://open.spotify.com/artist/13RkP9NAGg67uIHcFWsdSS), [NATURE](https://open.spotify.com/artist/1x9VHzc1HNJ5hWY8L8Aujo) | [Era](https://open.spotify.com/album/16boQGCB5VYAs7iYeQGclX) | 4:06 | 2024-10-31 | 2025-02-01 |
 | [Eternally Shine](https://open.spotify.com/track/6uFT7Cu70F51ulMcyos03q) | [L/](https://open.spotify.com/artist/5Lk9FPpvHgvcr7L216AK30), [Turbokidz](https://open.spotify.com/artist/0X2LJsREqS5E4iFZTStLum) | [Eternally Shine](https://open.spotify.com/album/79yNaBeRoX4fyUam5A1GJS) | 3:23 | 2025-04-17 | 2025-07-04 |
@@ -139,6 +140,7 @@
 | [Forkman In The Soup World](https://open.spotify.com/track/5tIEw3b8Ht8saJ4wz3Ya5d) | [Beranda Rumah](https://open.spotify.com/artist/01IC5xtwNyGb0CT0t7jDQf), [Mr\. & Mrs\. Muffins](https://open.spotify.com/artist/4HPHtlE9XsmCcQNSkuqShU) | [Forkman In The Soup World](https://open.spotify.com/album/1vwXmFFUwB8IbrsVuOBOz9) | 3:50 | 2024-07-19 | 2024-09-06 |
 | [Fragile](https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Fragile](https://open.spotify.com/album/0Mhyp9JonvP6cHv2HWQChq) | 3:38 | 2024-08-01 | 2025-01-24 |
 | [Fresh \(2022\)](https://open.spotify.com/track/4azgcqmNacFixjTtLZlHdl) | [LORRA](https://open.spotify.com/artist/5W6EChWlHS4FmtDZ6hTdEp) | [Fresh \(2022\)](https://open.spotify.com/album/3k30Hz9oV6i9ANaCFM8H1c) | 3:49 | 2025-11-28 |  |
+| [Galau is so 2002 \- Love as Punishment Version](https://open.spotify.com/track/4nrxQle0ia64LHS9Rw9kqJ) | [Zeke Khaseli](https://open.spotify.com/artist/3XBY4eyiy1tI1SKwkvWokU), [Love as Punishment](https://open.spotify.com/artist/6AmCGKS7KDnPtGTqGoR6In) | [Celebrate Salacca Zalacca](https://open.spotify.com/album/1SM1oOn6nfJVdLYtpkxrxp) | 3:50 | 2025-12-11 |  |
 | [Gelora Bertemu](https://open.spotify.com/track/3nErXdVzREIXdSxxMuPaYL) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Gelora Bertemu](https://open.spotify.com/album/309Xx2lM5PhrOk3pBaNXt9) | 4:02 | 2024-07-11 | 2024-11-29 |
 | [Gemuruh Riuh](https://open.spotify.com/track/1IpJu8YwAlc1ozSxXAyxl8) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Gemuruh Riuh](https://open.spotify.com/album/1kGJDqAiFyNuAMmxtFd0Ao) | 4:41 | 2024-06-27 | 2025-05-17 |
 | [Gerimis Malam Kemarau](https://open.spotify.com/track/7aDuZpdmpIbI8rHtHM8vyR) | [Silampukau](https://open.spotify.com/artist/40ucFk6nwFWYZ4gvL9DNm8) | [Stambul Arkipelagia, Vol\. 2](https://open.spotify.com/album/6xVEe1KZXoTxpuYsH3liod) | 4:30 | 2025-11-06 |  |
@@ -215,6 +217,7 @@
 | [Kelak Kau Bertumbuh](https://open.spotify.com/track/3ENf2swPbxu2ml3wIQgD8q) | [Jazeed](https://open.spotify.com/artist/7KL0E0rwZuLjkKzleQgzPq) | [Kelak Kau Bertumbuh](https://open.spotify.com/album/2ANuIXyZcKdyfFmlsA3QhZ) | 2:58 | 2024-08-29 | 2024-11-01 |
 | [Kembali Ke Awal](https://open.spotify.com/track/5ualIpatKacgFzCy50nWzV) | [Biru Baru](https://open.spotify.com/artist/2zuPyFAXSFyGQJrNk2iy6V) | [Kembali Ke Awal](https://open.spotify.com/album/5FhKphNRotrPi8fi8te6WW) | 3:10 | 2024-08-29 | 2025-09-26 |
 | [Kembali Pulang](https://open.spotify.com/track/7DlsgPtUE0b1EMKfynoQ2Y) | [Hursa](https://open.spotify.com/artist/1h9rmVUlTld8HUdnsALwZa), [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy) | [Daur](https://open.spotify.com/album/5Us1qTfyMshuyQq0nEuKJ1) | 5:09 | 2025-10-23 |  |
+| [Kertas Lipat](https://open.spotify.com/track/0MZoQnCYWhue1FZRBYmmgm) | [Boy Warongan & The Palmeiros](https://open.spotify.com/artist/4xvwA3TjOcTtzsqgBaZdb2) | [Kertas Lipat](https://open.spotify.com/album/7CMi9Y8Oazdkqzgig0FxVi) | 3:28 | 2025-12-11 |  |
 | [Kita Cari Waktu Lain](https://open.spotify.com/track/3lx7iCuGrbtrKfUZfnWOx9) | [Biru Baru](https://open.spotify.com/artist/2zuPyFAXSFyGQJrNk2iy6V) | [Kita Cari Waktu Lain](https://open.spotify.com/album/440K7PNNM4ZYvor4vDoDML) | 3:38 | 2025-04-03 |  |
 | [Kontemplasi](https://open.spotify.com/track/7hHiaXpGgst4M1JPvuJCR5) | [Pure](https://open.spotify.com/artist/685Hd4pDVo14EZM9xCbZGr) | [Kontemplasi](https://open.spotify.com/album/18XuaiOkj3Vc1pICPR8KA0) | 3:39 | 2024-06-27 | 2024-07-05 |
 | [Labirin Pikiran](https://open.spotify.com/track/6geMi4peZEz7wLyiwGhIbN) | [Budiraya](https://open.spotify.com/artist/5pHCbLQj6BRrqQXBShicgy) | [Labirin Pikiran](https://open.spotify.com/album/2P42a3gPX8ZCNJFTXjum89) | 4:04 | 2024-06-27 | 2024-07-05 |
@@ -234,6 +237,7 @@
 | [Let Go](https://open.spotify.com/track/1drOwW01nQm3HRZ7yDVP5i) | [Stereocase](https://open.spotify.com/artist/1H8zzYCYxryALUVj91EYgs) | [Let Go](https://open.spotify.com/album/1RfqRTWsDJE1Ta78rRwVno) | 3:28 | 2024-06-27 | 2024-07-25 |
 | [Let Me Be Your Man](https://open.spotify.com/track/4cm2ZdTcIwNhn0ZnEnkf8s) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Let Me Be Your Man](https://open.spotify.com/album/2zhlUYDJZuHyZVaqjrgYjB) | 3:38 | 2025-04-10 | 2025-08-15 |
 | [Let's Go To The Beach \(I Will Bring You\)](https://open.spotify.com/track/2TvVi3hAKPhUsox6TcgAcg) | [Ocean Beach Vibration](https://open.spotify.com/artist/3ELIP8n3uOx5yGfsJ1g2T8) | [Let's Go To The Beach \(I Will Bring You\)](https://open.spotify.com/album/2vCXALDSdpVMTPUyIv1ckt) | 2:14 | 2025-03-03 | 2025-04-26 |
+| [Lika Liku Skenario](https://open.spotify.com/track/0NBzQ32l4GRHSpB8T6iVNW) | [Binar](https://open.spotify.com/artist/0Q0tNebCddkZXmn5MQBCol) | [Lika Liku Skenario](https://open.spotify.com/album/4G2qCL6sGBLwYnSFpFI7ja) | 3:39 | 2025-12-11 |  |
 | [Lionel](https://open.spotify.com/track/0ahxXloiXety15M48Jgxsi) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [Lionel](https://open.spotify.com/album/1RQyw3gtJMQD7xxfk9SqWS) | 3:31 | 2024-08-16 | 2024-11-01 |
 | [Local Wisdumb](https://open.spotify.com/track/0LhFKfrliFkoRKUgr1fzAs) | [Amis](https://open.spotify.com/artist/1cH4Kfu1QYyTnmAgEt1j8V) | [Local Wisdumb](https://open.spotify.com/album/3RaeNdg9IIf04OFSFv6qrX) | 2:30 | 2025-04-25 | 2025-06-20 |
 | [Lost](https://open.spotify.com/track/6RJIX0DfN4TAhxZCf8v8rE) | [re:NAN](https://open.spotify.com/artist/1JtMRbvX7bgGBifCBhgPFW) | [Lost Consciousness, Pt​.​2](https://open.spotify.com/album/5ADuz65F3CITmNYen4Bx9v) | 2:42 | 2024-07-19 | 2024-08-30 |

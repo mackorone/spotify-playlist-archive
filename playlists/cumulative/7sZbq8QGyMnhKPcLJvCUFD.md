@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-801 songs - 1 day 16 hr 1 min
+802 songs - 1 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -619,6 +619,7 @@
 | [scars](https://open.spotify.com/track/0zB2y2HlyVWyKSAghefwzd) | [LOFIN](https://open.spotify.com/artist/3VJWdrq7JC3sVdd11NSYfx) | [scars](https://open.spotify.com/album/2lYbOAyek2e5jqilabHJHt) | 2:33 | 2025-12-05 |  |
 | [Seasons](https://open.spotify.com/track/2pFL6kVGR4PIuPlL2AuAWk) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Seasons](https://open.spotify.com/album/4zPHSYkV9lKePkTUFRZrMC) | 4:08 | 2022-07-05 | 2024-01-06 |
 | [Second Wind](https://open.spotify.com/track/7d9MoWBBI9sbZnsoW16z5Z) | [Matt Pridgyn](https://open.spotify.com/artist/2RZVfmCJEK0AJ9JJ7Bphlu) | [Second Wind](https://open.spotify.com/album/5e3cX20tXLQKMlNUxTSZ4F) | 3:12 | 2024-11-29 |  |
+| [See The Sun](https://open.spotify.com/track/5nzFl5zQwNpT3NQFuJUqEx) | [Abstrakt](https://open.spotify.com/artist/2a0PIzFpYjhOabDRcUmUnQ), [weloveyouspydee](https://open.spotify.com/artist/3xoGYBTUZ0yA2kQEHoTYtn) | [See The Sun](https://open.spotify.com/album/5ixWPQmnNuFUomTUbHdFps) | 3:04 | 2025-12-11 |  |
 | [Set It Free](https://open.spotify.com/track/5dtd0fWHWff91kiKlXxJb3) | [John Dee](https://open.spotify.com/artist/2bSxG8y5oReqlnJDxVsZbo), [Litil](https://open.spotify.com/artist/4izATJEnrbYNOBdZscfYL4), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Set It Free](https://open.spotify.com/album/3a3HBm9uLIXg8hHh0qWokg) | 3:15 | 2023-06-09 | 2023-08-10 |
 | [Set Me Free](https://open.spotify.com/track/4WtOjuIOt6GBkpUPc9khSo) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Set Me Free](https://open.spotify.com/album/6eaxTvDzbwAvQh20F6DcT5) | 3:54 | 2025-10-07 |  |
 | [Set Me Free](https://open.spotify.com/track/4iqmbx1CkLGEVozDwxii2w) | [Simbai](https://open.spotify.com/artist/3crJf5p7nUHziLEGTlikzg), [Frizzy The Streetz](https://open.spotify.com/artist/76D7ppv4U20gNYE6iUcYFJ) | [Set Me Free](https://open.spotify.com/album/4CiM00EnVv7QpHTkFaaKab) | 2:49 | 2022-06-23 | 2023-04-28 |

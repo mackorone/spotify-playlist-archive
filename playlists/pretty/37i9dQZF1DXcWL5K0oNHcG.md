@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists\. Cover: Tyreek McDole\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,556 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,572 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [Birth of the Microprocessor](https://open.spotify.com/track/0yIxjt0hvlkyVe1K1tRdnr) | [Sean Wolcott](https://open.spotify.com/artist/2MVjrUlRXtl6oXgDZngtxi) | [Light Music for Heavy Industry](https://open.spotify.com/album/6ciguhSEuULnStAhDVavPh) | 3:49 |
 | 50 | [III](https://open.spotify.com/track/0zmT1GdkkDKSeVD7spCbps) | [Glass Museum](https://open.spotify.com/artist/0bq8ZdJxUOXswye4qT4zzU) | [4N4LOG CITY](https://open.spotify.com/album/3glvJ6zYu8ltBxFeqxPowC) | 6:05 |
 
-Snapshot ID: `AAAAACqhqPR/NgUC6yGtFdEN+So7yqCG`
+Snapshot ID: `AAAAAMhTfZ8OnHPeg6XaOoN+mjKdFtb0`

@@ -4235,6 +4235,32 @@
     },
     {
       "album": {
+        "name": "Success Is The Best Revenge",
+        "url": "https://open.spotify.com/album/21PMF7TvShCdHKi2oHHiAe"
+      },
+      "artists": [
+        {
+          "name": "SKY-HI",
+          "url": "https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2"
+        },
+        {
+          "name": "TAIKI",
+          "url": "https://open.spotify.com/artist/6PU4CQ9JbpTW3ZPat0vyAP"
+        },
+        {
+          "name": "GOICHI",
+          "url": "https://open.spotify.com/artist/5fnp4hOf7hR5U0RJ8ampMr"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168097,
+      "name": "Future In My Pocket - feat. TAIKI (STARGLOW), GOICHI (STARGLOW)",
+      "url": "https://open.spotify.com/track/2UWk6mGTPDXRGqp12SoCXp"
+    },
+    {
+      "album": {
         "name": "GBAD",
         "url": "https://open.spotify.com/album/3zd28IonbElPm1abU4G6Ve"
       },
@@ -7736,7 +7762,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 189346,
       "name": "Monster",
       "url": "https://open.spotify.com/track/4gonAaejLPL4F4nAsnsQRB"
@@ -11677,6 +11703,24 @@
     },
     {
       "album": {
+        "name": "Symphony",
+        "url": "https://open.spotify.com/album/2wYK44CCGbZNZmIhYkD7HR"
+      },
+      "artists": [
+        {
+          "name": "Hey! Say! JUMP",
+          "url": "https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223278,
+      "name": "Symphony",
+      "url": "https://open.spotify.com/track/1mIffnJiNYKS3WUrmp8t5W"
+    },
+    {
+      "album": {
         "name": "Dimensional Bridge",
         "url": "https://open.spotify.com/album/41CivMiTP0KfVcXZ6kWzdy"
       },
@@ -14476,7 +14520,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 217555,
       "name": "\u30e1\u30ed\u30ea",
       "url": "https://open.spotify.com/track/4UqCbk4dNCULiz6GK47kBP"

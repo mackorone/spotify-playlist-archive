@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: Alejandro Sanz
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,218 likes - 409 songs - 21 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,219 likes - 409 songs - 21 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

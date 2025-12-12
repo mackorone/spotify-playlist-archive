@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-1,111 songs - 2 day 19 hr 18 min
+1,112 songs - 2 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Bigger Than The Whole Sky](https://open.spotify.com/track/0BiqmkasE5FdrChwKfVp8X) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 3:38 | 2022-10-22 | 2022-10-24 |
 | [Bigger Than The Whole Sky](https://open.spotify.com/track/3jzbpOzoYa22FvzBkNkLvC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 3:38 | 2022-10-24 | 2022-10-31 |
 | [Bills](https://open.spotify.com/track/2nfluhFVrO5OBXPzRWlwlz) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:55 | 2023-05-24 | 2023-05-27 |
+| [Binhi](https://open.spotify.com/track/092cPwFlwBXdB3QF3X469W) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Letters Never Sent](https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF) | 3:36 | 2025-12-11 |  |
 | [Binhi](https://open.spotify.com/track/0sNZsYY8LSCCM4tC2y0zR1) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Letters Never Sent](https://open.spotify.com/album/3H8htbv4nP3HIjpOCbxm67) | 3:36 | 2021-10-02 | 2022-01-12 |
 | [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 | 2021-04-09 | 2021-10-17 |
 | [Binibini](https://open.spotify.com/track/55RMhrPQYA6vLu5YMgXxFD) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Episode](https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW) | 3:41 | 2021-10-17 | 2022-12-02 |
@@ -447,7 +448,7 @@
 | [Ikaw Pa Rin](https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ikaw Pa Rin](https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k) | 3:11 | 2022-11-18 | 2023-05-05 |
 | [Ikaw Pa Rin Ang Pipiliin Ko](https://open.spotify.com/track/3LvrJEPQ61Vvj1t3Edg20X) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Ikaw Pa Rin Ang Pipiliin Ko](https://open.spotify.com/album/6P8VL5hDXBJODIAOBuPJV4) | 4:22 | 2025-04-08 | 2025-07-27 |
 | [Ikaw Sana \- Live](https://open.spotify.com/track/1RtiAzLeYtfJN6VOi2LkxW) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Ikaw Sana \(Live\)](https://open.spotify.com/album/0QEX4myyLGNddWabjawOJW) | 6:27 | 2025-09-20 | 2025-12-09 |
-| [Ikot](https://open.spotify.com/track/0FofAMA3zMEehQnEjtyRLv) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Make Believe](https://open.spotify.com/album/0reEyI1ppZDukMkheItX1p) | 4:10 | 2025-10-08 |  |
+| [Ikot](https://open.spotify.com/track/0FofAMA3zMEehQnEjtyRLv) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Make Believe](https://open.spotify.com/album/0reEyI1ppZDukMkheItX1p) | 4:10 | 2025-10-08 | 2025-12-12 |
 | [Ikot](https://open.spotify.com/track/55eWkBMyr3bAHVVE1SLmDE) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Ikot](https://open.spotify.com/album/00VUKdbjLHeG9BSEAIzdiv) | 4:10 | 2024-07-11 | 2024-10-03 |
 | [Ikot](https://open.spotify.com/track/5gQyJNVUEydHMciwhih7EK) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Make Believe](https://open.spotify.com/album/0eVAbAiekijNEO7xTvGn23) | 4:10 | 2024-10-02 | 2025-10-09 |
 | [ILY](https://open.spotify.com/track/3w2uH1D7s2lyBNionSZOM0) | [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU), [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E) | [ILY](https://open.spotify.com/album/2Z3aaJjwmO8hBQodeaqfKh) | 2:59 | 2024-04-30 | 2024-09-28 |
@@ -494,7 +495,7 @@
 | [Kabilang Buhay](https://open.spotify.com/track/0knRQzgvbUed6K74mX81hG) | [Bandang Lapis](https://open.spotify.com/artist/4slXciON4jYY6mqE9LjSFx) | [Kabilang Buhay](https://open.spotify.com/album/1bXVfDuQen1YkHWKudAi2c) | 5:25 | 2021-03-27\* | 2021-04-08 |
 | [Kagome](https://open.spotify.com/track/2BDrpeAnTxCurLt38yDSrE) | [Lo ki](https://open.spotify.com/artist/1dFRlDO2Z2gjAARxHlovAS) | [Kagome](https://open.spotify.com/album/4CIT1BsHQams5FP5RUSydD) | 3:58 | 2022-05-02 | 2023-01-14 |
 | [kahel na langit](https://open.spotify.com/track/1ytElsSPsJ1GBqMfPYydRX) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [kahel na langit](https://open.spotify.com/album/4hien5o64CQkkSqQ2w6vhQ) | 3:36 | 2025-06-19 | 2025-09-21 |
-| [kahel na langit](https://open.spotify.com/track/3Bs6ukr7PlfE3LQWXM0dsX) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [KOLORCOASTER](https://open.spotify.com/album/1LbK9faGw5Fn3WiX4NoA5a) | 3:36 | 2025-09-20 | 2025-12-11 |
+| [kahel na langit](https://open.spotify.com/track/3Bs6ukr7PlfE3LQWXM0dsX) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [KOLORCOASTER](https://open.spotify.com/album/1LbK9faGw5Fn3WiX4NoA5a) | 3:36 | 2025-09-20 |  |
 | [Kalapastangan](https://open.spotify.com/track/1udOOSbJnytCdgvbgYOF5s) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [Kalapastangan](https://open.spotify.com/album/3a6kSazBwMHk4rJU07hQCg) | 4:36 | 2025-11-02 |  |
 | [Kalapastangan](https://open.spotify.com/track/3xzZBbCXy4L0E2xEZ0GtZg) | [fitterkarma](https://open.spotify.com/artist/1MCwhRZNUeIzd1PC9LxKQv) | [Kalapastangan](https://open.spotify.com/album/2JNWapIAT9v9veXAVNKqnB) | 4:36 | 2025-11-18 | 2025-12-04 |
 | [Kalimutan Ka](https://open.spotify.com/track/7dXZnGGBn9Kfu8NCnrRl3w) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Kalimutan Ka](https://open.spotify.com/album/1CVdBDkuBgD62YGDXslE4R) | 4:48 | 2025-02-22 | 2025-11-27 |
@@ -733,7 +734,7 @@
 | [Panaginip](https://open.spotify.com/track/6wcjLOGIdmw8BUaRho4c9L) | [nicole](https://open.spotify.com/artist/64c6qxJIkcvJP3glpCkWHp) | [Panaginip](https://open.spotify.com/album/0LQNdoYar00bkYYmKZxwQI) | 5:17 | 2025-11-23 |  |
 | [Panalo \(Trap Cariñosa\)](https://open.spotify.com/track/5J0obeHgIFKkPiGBPTOqLw) | [Ez Mil](https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4) | [Act 1](https://open.spotify.com/album/0Ol4rGwMRYkGguZXHlBscR) | 3:37 | 2021-03-27\* | 2021-03-31 |
 | [PANG!](https://open.spotify.com/track/1ZpiUfzl9P0pMkA03xqmUy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 2:58 | 2021-10-23 | 2021-10-24 |
-| [Pangarap Lang Kita](https://open.spotify.com/track/09WPbmLdcBhJPcJwEJc1Yv) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4), [Happee Sy](https://open.spotify.com/artist/4OxMtvmCYCgJHjueLFwJHr) | [Middle\-Aged Juvenile Novelty Pop Rockers](https://open.spotify.com/album/0EAM9ux5yMNKsdjcAV5Lg0) | 3:14 | 2025-06-13 |  |
+| [Pangarap Lang Kita](https://open.spotify.com/track/09WPbmLdcBhJPcJwEJc1Yv) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4), [Happee Sy](https://open.spotify.com/artist/4OxMtvmCYCgJHjueLFwJHr) | [Middle\-Aged Juvenile Novelty Pop Rockers](https://open.spotify.com/album/0EAM9ux5yMNKsdjcAV5Lg0) | 3:14 | 2025-06-13 | 2025-12-12 |
 | [Paninindigan Kita](https://open.spotify.com/track/5d9Rka4T0szdC1MobhtXrV) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Paninindigan Kita](https://open.spotify.com/album/1hz1zGc3c7U5G7mIazQ2vW) | 5:12 | 2022-05-02 | 2023-05-10 |
 | [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 | 2021-12-11 | 2023-09-10 |
 | [Pantropiko](https://open.spotify.com/track/6Csrqur3IfnVp0EtHskjMw) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Pantropiko](https://open.spotify.com/album/3NYOeU6Uwj2FP1Zz1rWVz8) | 3:45 | 2024-03-07 | 2025-01-03 |

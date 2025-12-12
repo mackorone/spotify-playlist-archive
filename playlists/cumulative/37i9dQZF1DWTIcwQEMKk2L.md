@@ -4,7 +4,7 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-212 songs - 10 hr 7 min
+213 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Ambre](https://open.spotify.com/track/25zykbJGBYXYjnq5VyhO3N) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Wintermusik](https://open.spotify.com/album/7wkQV8xvauPFBG2xC3pawK) | 3:47 | 2023-11-20 | 2024-04-19 |
 | [Amorous Rebound](https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Amorous Rebound](https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE) | 1:49 | 2023-11-20 | 2024-12-15 |
 | [Amorzinho \- Piano Version](https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp) | [Tip Ferreira](https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw) | [Amorzinho \(Piano Version\)](https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ) | 3:36 | 2023-11-20 | 2025-12-09 |
-| [Anya](https://open.spotify.com/track/7wJFntvhETfYAvg5r4lOzX) | [Ray Love](https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy) | [Anya](https://open.spotify.com/album/24ovooxolcP6FKYdb3d33f) | 3:43 | 2025-03-11 |  |
+| [Anya](https://open.spotify.com/track/7wJFntvhETfYAvg5r4lOzX) | [Ray Love](https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy) | [Anya](https://open.spotify.com/album/24ovooxolcP6FKYdb3d33f) | 3:43 | 2025-03-11 | 2025-12-12 |
 | [Apples And Bananas](https://open.spotify.com/track/0jBP56KjBoH04nUqazspFb) | [Carolina Laurel](https://open.spotify.com/artist/4KQIvd8xhteThiwnEhjO7p) | [Apples And Bananas](https://open.spotify.com/album/4AYW0ItGoV4ClM939MhDkE) | 1:31 | 2023-11-20 | 2024-01-30 |
 | [Astral](https://open.spotify.com/track/3whBmm64jwAGt4fv17qVvX) | [Elsa Gifford](https://open.spotify.com/artist/2WkJQ6rsCVeyNuVidqTaoW) | [Astral](https://open.spotify.com/album/6UETlcLAo8G9vKza6h2FEv) | 2:59 | 2025-03-24 |  |
 | [At Least Give Me My Dreams Back, You Negligent Whore!](https://open.spotify.com/track/5YiZqG8WWYLjbhL5v9vbWw) | [Adept](https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu) | [Another Year of Disaster](https://open.spotify.com/album/58DOLz3FgFoOmZixPc5Ju6) | 5:11 | 2023-11-20 | 2024-04-19 |
@@ -204,6 +204,7 @@
 | [Unchained Melody](https://open.spotify.com/track/7xTL15EmsXWM0E4SoHXNGD) | [Sonya O'Malley](https://open.spotify.com/artist/2zHAzPVrmoidT7wKGNkifE) | [Fall Pieces](https://open.spotify.com/album/5LqzeMY8gUH0jvcQBYLTjp) | 3:51 | 2025-11-10 |  |
 | [Up Above](https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4) | [Dorothy Baughman](https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL) | [Up Above](https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg) | 2:03 | 2023-11-20 | 2025-09-09 |
 | [Valerian](https://open.spotify.com/track/1Hwlo5bLrQ4Xppr7UuSL4I) | [Francesca Caroléo](https://open.spotify.com/artist/2odGPzJOIq98kgGB8N93Ke) | [Lunaria](https://open.spotify.com/album/7DU0LoKUQb14uqooXRxLPn) | 2:49 | 2023-11-20 | 2025-01-23 |
+| [Valse De Beaufort](https://open.spotify.com/track/57cnKa2QfwxhWRY7ZiabvW) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Valse De Beaufort](https://open.spotify.com/album/71ywywv3R4nZ4HzUeaokZQ) | 2:43 | 2025-12-09 |  |
 | [Variante Alta](https://open.spotify.com/track/3sq3gjQNigyTGlkwkFrZ3S) | [Flavio Apicella](https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v) | [Variante Alta](https://open.spotify.com/album/5qUvWqRfwxFdyKN5B0iS0K) | 3:52 | 2024-05-27 |  |
 | [Vladimir's Blues](https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 1:18 | 2023-11-20 | 2024-04-19 |
 | [Wake Me Up](https://open.spotify.com/track/7LolyL6dtp84jYZQuVuACw) | [Purple Tulips](https://open.spotify.com/artist/5gNnXsGugIjsS6LRHidc0h) | [Piano Songs](https://open.spotify.com/album/7BPsCNneS3eOFr3TUWJqkW) | 3:45 | 2023-11-20 |  |

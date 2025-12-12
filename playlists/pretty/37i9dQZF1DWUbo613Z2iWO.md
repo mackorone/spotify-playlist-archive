@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  Karri
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,672 likes - 203 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,676 likes - 203 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 65 | [5th Floor \(10pm\)](https://open.spotify.com/track/5Nf83SalLU851KZtTC0P6S) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [5th Floor \(10pm\)](https://open.spotify.com/album/2bnJPXUQBTIObI5yD1yyZv) | 2:56 |
 | 66 | [Act of God / Force Majeure](https://open.spotify.com/track/3mGGgCB6VwLoA4WvI5X0xs) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Is There Anybody Home? \(Part 2\)](https://open.spotify.com/album/2Oz6kdTU95cJ6hm39moLER) | 2:44 |
 | 67 | [POSSESSED](https://open.spotify.com/track/2vQvq4W6IFWqe3UN9iwn4W) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV) | [MOOD CONTROL](https://open.spotify.com/album/1kWD76hBVHdACbWMNgwqRX) | 2:55 |
-| 68 | [awake](https://open.spotify.com/track/54khAg8INVTBMSWOUcETdB) | [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [noise \(meaning\)](https://open.spotify.com/album/1Nf0sJqlnFFlUOYDMJR8LJ) | 2:07 |
+| 68 | [awake](https://open.spotify.com/track/54khAg8INVTBMSWOUcETdB) | [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [noise \( meaning \)](https://open.spotify.com/album/1Nf0sJqlnFFlUOYDMJR8LJ) | 2:07 |
 | 69 | [hella jealous](https://open.spotify.com/track/0l45fHynGyWPiSrJ1szQZj) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [hella jealous](https://open.spotify.com/album/0Q0DLgcmAFmehAKjNGx2mz) | 3:09 |
 | 70 | [Looking for Trouble](https://open.spotify.com/track/7x2ILyNOw4bofJSL7IKAyy) | [Dean Brady](https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN) | [Dean's Home](https://open.spotify.com/album/6PlMdUOo0eMq6u4ZNSOoBr) | 3:03 |
 | 71 | [Can't Leave Alone \(feat\. Avenoir & Maz B\)](https://open.spotify.com/track/3bGfuGWywg85koHG8nturm) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu), [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb), [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH), [86](https://open.spotify.com/artist/2o89WDAOoTqUO7AA9hvh1Q) | ['02](https://open.spotify.com/album/4G1Bike7xA2biArlI5WNzO) | 3:33 |

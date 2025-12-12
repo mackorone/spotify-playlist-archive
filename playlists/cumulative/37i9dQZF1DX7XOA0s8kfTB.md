@@ -4,7 +4,7 @@
 
 > Music from “Girls Band Cry” ©東映アニメーション
 
-60 songs - 2 hr 45 min
+61 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [空の箱 \- 井芹仁菜、河原木桃香](https://open.spotify.com/track/7EdVl2gW1Vg6koQ23AFPnU) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [空の箱 \(井芹仁菜、河原木桃香\)](https://open.spotify.com/album/3Afh6DsCXR4ZPZ2O2ITEml) | 3:04 | 2024-04-12 |  |
 | [空白とカタルシス](https://open.spotify.com/track/4z8FBzJ2vYi390cYmMD7Yf) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [空白とカタルシス](https://open.spotify.com/album/3igNo52F3h0N9TKxGmQCwW) | 3:10 | 2024-06-14 |  |
 | [臆病な白夜](https://open.spotify.com/track/4dAxANmOiVWFGPALtBmZ4N) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [臆病な白夜](https://open.spotify.com/album/5glubOs1d77MpEUboXNzrl) | 3:34 | 2025-11-06 |  |
+| [荊の薔薇](https://open.spotify.com/track/3PTB2wnTdrtfnSs4Qd8gA5) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [全部をさらして生きてやる](https://open.spotify.com/album/1ijc0nonPV0mR09PROC5ge) | 3:36 | 2025-12-11 |  |
 | [薄采ディスプレイ](https://open.spotify.com/track/5JwzDohzOAaz4ybdjc7p2Z) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [薄采ディスプレイ](https://open.spotify.com/album/7KAvTv1lGGFLGwXiYpYf6V) | 3:07 | 2025-06-23 |  |
 | [蜃気楼ニ問フ](https://open.spotify.com/track/0NbuhWCqo1JO1NhpuIJBIv) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [蜃気楼ニ問フ](https://open.spotify.com/album/0vFY5rEEBYBKDcMsLUq3yF) | 2:39 | 2025-10-02 |  |
 | [蝶に結いた赤い糸](https://open.spotify.com/track/2FIuKRBk8ypEKUnrstY34j) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [棘ナシ](https://open.spotify.com/album/1UXJbRMzjtwyw4HKIASREU) | 3:29 | 2024-08-27 |  |

@@ -1,15 +1,211 @@
 {
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : St Graal",
-  "num_followers": 51865,
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Of\u00e9",
+  "num_followers": 51871,
   "original_name": "Courant Alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPa1V85/lqvMrA0pp9CwR/AVe/rc",
+  "snapshot_id": "AAAAAKT9VvJbm0xj7+HpnS3gjrQwN+zZ",
   "tracks": [
     {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
+      "album": {
+        "name": "La d\u00e9licatesse",
+        "url": "https://open.spotify.com/album/3qjCkRSt0YOz4mqELWcnum"
+      },
+      "artists": [
+        {
+          "name": "Of\u00e9",
+          "url": "https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0"
+        }
+      ],
+      "duration_ms": 189893,
+      "name": "La d\u00e9licatesse",
+      "url": "https://open.spotify.com/track/56n9Iuw4IMSWk4SCMUYMFF"
+    },
+    {
+      "added_at": "2025-12-11 23:00:08",
+      "album": {
+        "name": "Plus fort que toi",
+        "url": "https://open.spotify.com/album/7fkxpUqnPNTSnNiUJvI2Hx"
+      },
+      "artists": [
+        {
+          "name": "Marlon Magn\u00e9e",
+          "url": "https://open.spotify.com/artist/0NscG1sENWBbNcF8Wj5yLs"
+        },
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "duration_ms": 151213,
+      "name": "Plus fort que toi",
+      "url": "https://open.spotify.com/track/3SbwOjvnZXWnSuadX52xc6"
+    },
+    {
+      "added_at": "2025-12-11 23:00:08",
+      "album": {
+        "name": "DOULA (hypercouleurs)",
+        "url": "https://open.spotify.com/album/5MQ0mnvWM2yRD84eKzUCZv"
+      },
+      "artists": [
+        {
+          "name": "Odezenne",
+          "url": "https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp"
+        }
+      ],
+      "duration_ms": 273653,
+      "name": "Pause Play",
+      "url": "https://open.spotify.com/track/4yNgAVEPDXv5RmxOHMxKHM"
+    },
+    {
+      "added_at": "2025-12-11 23:00:08",
+      "album": {
+        "name": "Je Ne T'Aime Plus",
+        "url": "https://open.spotify.com/album/31othSVbJmYGw12cF2fPxg"
+      },
+      "artists": [
+        {
+          "name": "Sam Sauvage",
+          "url": "https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL"
+        }
+      ],
+      "duration_ms": 211413,
+      "name": "Je Ne T'Aime Plus",
+      "url": "https://open.spotify.com/track/0L4EzEIPK3SEcz0PKXURlp"
+    },
+    {
+      "added_at": "2025-12-11 23:00:08",
+      "album": {
+        "name": "Na\u00eff de Coeur",
+        "url": "https://open.spotify.com/album/1jUbkwlkekzGLC0FOefl6r"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien Tellier",
+          "url": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
+        }
+      ],
+      "duration_ms": 287650,
+      "name": "Na\u00eff de Coeur",
+      "url": "https://open.spotify.com/track/3trEKMbjxk1uzYxNYCXDRA"
+    },
+    {
+      "added_at": "2025-12-11 23:00:08",
+      "album": {
+        "name": "Presque Punk",
+        "url": "https://open.spotify.com/album/2tLSulOAVaq89ILmVaFE71"
+      },
+      "artists": [
+        {
+          "name": "P.R2B",
+          "url": "https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Buzz",
+      "url": "https://open.spotify.com/track/5mysBYvFfQpZobu9bCRJ6e"
+    },
+    {
+      "added_at": "2025-12-11 23:00:08",
+      "album": {
+        "name": "La Fable",
+        "url": "https://open.spotify.com/album/61giTMofDEougdMZ1vPnME"
+      },
+      "artists": [
+        {
+          "name": "Cabadzi",
+          "url": "https://open.spotify.com/artist/6SOfR3vMDf9otrCMyzrdDn"
+        }
+      ],
+      "duration_ms": 170389,
+      "name": "La Fable",
+      "url": "https://open.spotify.com/track/2jq53C6bIzTpqvgnFZZUNa"
+    },
+    {
+      "added_at": "2025-12-11 23:00:08",
+      "album": {
+        "name": "Labyrinthe",
+        "url": "https://open.spotify.com/album/6Dlr1OhxAWl5JIE7bUwS6X"
+      },
+      "artists": [
+        {
+          "name": "Feu! Chatterton",
+          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
+        }
+      ],
+      "duration_ms": 262706,
+      "name": "Le Labyrinthe",
+      "url": "https://open.spotify.com/track/45hOGbJg68LAc6plyrSXru"
+    },
+    {
+      "added_at": "2025-12-11 23:00:08",
+      "album": {
+        "name": "Paris Bruxelles",
+        "url": "https://open.spotify.com/album/6qR7ykO4LyNbaFZpThlERw"
+      },
+      "artists": [
+        {
+          "name": "Exsonvaldes",
+          "url": "https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb"
+        }
+      ],
+      "duration_ms": 249336,
+      "name": "Paris Bruxelles",
+      "url": "https://open.spotify.com/track/3PDJkJiZiqQm3wYeRGUej7"
+    },
+    {
+      "added_at": "2025-12-11 23:00:08",
+      "album": {
+        "name": "le rem\u00e8de",
+        "url": "https://open.spotify.com/album/4FWg7jBdMPHOEWpJm7TXKD"
+      },
+      "artists": [
+        {
+          "name": "Moy\u00e0",
+          "url": "https://open.spotify.com/artist/1Xvap7Au9MqLcUJUCPcJp1"
+        }
+      ],
+      "duration_ms": 141150,
+      "name": "le rem\u00e8de",
+      "url": "https://open.spotify.com/track/5EH33ROUwuT0KgCKBJmMAc"
+    },
+    {
+      "added_at": "2025-12-11 23:00:08",
+      "album": {
+        "name": "JE NE SERAI JAMAIS.",
+        "url": "https://open.spotify.com/album/7jhFTnyEI0HlSu1cztxbW5"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lie",
+          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
+        }
+      ],
+      "duration_ms": 246186,
+      "name": "JE NE SERAI JAMAIS.",
+      "url": "https://open.spotify.com/track/7vdBAYpq0yZlntJ3zcWWHK"
+    },
+    {
+      "added_at": "2025-12-11 23:00:08",
+      "album": {
+        "name": "crever toute la nuit",
+        "url": "https://open.spotify.com/album/49PTTEem5m1njsHXx9QijX"
+      },
+      "artists": [
+        {
+          "name": "L'enfant",
+          "url": "https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso"
+        }
+      ],
+      "duration_ms": 121133,
+      "name": "crever toute la nuit",
+      "url": "https://open.spotify.com/track/70JwcaOgUCOqZfZ9jMaKjm"
+    },
+    {
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "Techno boom boom",
         "url": "https://open.spotify.com/album/1vEKjUDnxmdOGRVtmHthP4"
@@ -25,23 +221,7 @@
       "url": "https://open.spotify.com/track/2wANJq48Tuxs3KUn4Qe7Pg"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
-      "album": {
-        "name": "LA PROPH\u00c9TIE",
-        "url": "https://open.spotify.com/album/7DLrEAvsjFjg1JhbqCXuIL"
-      },
-      "artists": [
-        {
-          "name": "Lpee",
-          "url": "https://open.spotify.com/artist/79oE8fUBhUxb5rDnlUObQz"
-        }
-      ],
-      "duration_ms": 216216,
-      "name": "LA PROPH\u00c9TIE",
-      "url": "https://open.spotify.com/track/4IFAlgbuEgGbzYoSUCUgQ3"
-    },
-    {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "Appel de d\u00e9tresse",
         "url": "https://open.spotify.com/album/6HqJN4WwVxjeSdML6pNBUT"
@@ -61,7 +241,71 @@
       "url": "https://open.spotify.com/track/0SlVqq3nMSf6ItkaOMPXfg"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
+      "album": {
+        "name": "mais le ciel est sublime",
+        "url": "https://open.spotify.com/album/6wlaGZBe38vEnajOPYzAOl"
+      },
+      "artists": [
+        {
+          "name": "nous \u00e9tions une arm\u00e9e",
+          "url": "https://open.spotify.com/artist/2GT9RRFupyQile63whfk0t"
+        }
+      ],
+      "duration_ms": 224630,
+      "name": "mais le ciel est sublime",
+      "url": "https://open.spotify.com/track/5cfD8I77n0o74lx5I6kdjt"
+    },
+    {
+      "added_at": "2025-12-11 23:00:08",
+      "album": {
+        "name": "Bal de fin d'ann\u00e9e",
+        "url": "https://open.spotify.com/album/7Cj6DYtezHa2YFV7egsXU7"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Bonjour",
+          "url": "https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "Bal de fin d'ann\u00e9e",
+      "url": "https://open.spotify.com/track/4tOehJCrjHFakWKIt2yuHd"
+    },
+    {
+      "added_at": "2025-12-11 23:00:08",
+      "album": {
+        "name": "A moiti\u00e9 dans la f\u00eate",
+        "url": "https://open.spotify.com/album/5gmLS69GBaMZ4IhK7Wvybb"
+      },
+      "artists": [
+        {
+          "name": "Barbet",
+          "url": "https://open.spotify.com/artist/7rN8I3x8rAW7gGFYLCK03E"
+        }
+      ],
+      "duration_ms": 185184,
+      "name": "A moiti\u00e9 dans la f\u00eate",
+      "url": "https://open.spotify.com/track/2mVsxBYV36Vkr6iRtyWUos"
+    },
+    {
+      "added_at": "2025-12-11 23:00:08",
+      "album": {
+        "name": "LA PROPH\u00c9TIE",
+        "url": "https://open.spotify.com/album/7DLrEAvsjFjg1JhbqCXuIL"
+      },
+      "artists": [
+        {
+          "name": "Lpee",
+          "url": "https://open.spotify.com/artist/79oE8fUBhUxb5rDnlUObQz"
+        }
+      ],
+      "duration_ms": 216216,
+      "name": "LA PROPH\u00c9TIE",
+      "url": "https://open.spotify.com/track/4IFAlgbuEgGbzYoSUCUgQ3"
+    },
+    {
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "In\u00e9dit 2",
         "url": "https://open.spotify.com/album/1TMnUhDskOPu2NZMlnv0KN"
@@ -77,23 +321,7 @@
       "url": "https://open.spotify.com/track/4MTBDFWh50Sk1q9u6B9GBU"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
-      "album": {
-        "name": "Pas le temps",
-        "url": "https://open.spotify.com/album/3woAumoPTvkkzSGxDsfLqM"
-      },
-      "artists": [
-        {
-          "name": "Bandit Bandit",
-          "url": "https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h"
-        }
-      ],
-      "duration_ms": 182794,
-      "name": "Pas le temps",
-      "url": "https://open.spotify.com/track/1fH3GLZtWqNTxDUoknAMwO"
-    },
-    {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "Les Ailes",
         "url": "https://open.spotify.com/album/4AenevqGlEU6uDhZTzAErQ"
@@ -113,55 +341,23 @@
       "url": "https://open.spotify.com/track/62nYa9kuN26ukVARAPiszd"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
-        "name": "Labyrinthe",
-        "url": "https://open.spotify.com/album/6Dlr1OhxAWl5JIE7bUwS6X"
+        "name": "Pas le temps",
+        "url": "https://open.spotify.com/album/3woAumoPTvkkzSGxDsfLqM"
       },
       "artists": [
         {
-          "name": "Feu! Chatterton",
-          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
+          "name": "Bandit Bandit",
+          "url": "https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h"
         }
       ],
-      "duration_ms": 262706,
-      "name": "Le Labyrinthe",
-      "url": "https://open.spotify.com/track/45hOGbJg68LAc6plyrSXru"
+      "duration_ms": 182794,
+      "name": "Pas le temps",
+      "url": "https://open.spotify.com/track/1fH3GLZtWqNTxDUoknAMwO"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
-      "album": {
-        "name": "Presque Punk",
-        "url": "https://open.spotify.com/album/2tLSulOAVaq89ILmVaFE71"
-      },
-      "artists": [
-        {
-          "name": "P.R2B",
-          "url": "https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Buzz",
-      "url": "https://open.spotify.com/track/5mysBYvFfQpZobu9bCRJ6e"
-    },
-    {
-      "added_at": "2025-12-04 23:00:01",
-      "album": {
-        "name": "mais le ciel est sublime",
-        "url": "https://open.spotify.com/album/6wlaGZBe38vEnajOPYzAOl"
-      },
-      "artists": [
-        {
-          "name": "nous \u00e9tions une arm\u00e9e",
-          "url": "https://open.spotify.com/artist/2GT9RRFupyQile63whfk0t"
-        }
-      ],
-      "duration_ms": 224630,
-      "name": "mais le ciel est sublime",
-      "url": "https://open.spotify.com/track/5cfD8I77n0o74lx5I6kdjt"
-    },
-    {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "FLEMME",
         "url": "https://open.spotify.com/album/179KOwuoogAJN7nKByOBha"
@@ -177,7 +373,7 @@
       "url": "https://open.spotify.com/track/1aWfRPTSnvfgn0p5niDMr1"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "La v\u00e9rit\u00e9 des baisers",
         "url": "https://open.spotify.com/album/5ZoBThw0ygoWQ5qw5KK3nl"
@@ -193,39 +389,7 @@
       "url": "https://open.spotify.com/track/1Xd6H1K9Lq1Owqux3UDsZg"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
-      "album": {
-        "name": "DOULA (hypercouleurs)",
-        "url": "https://open.spotify.com/album/5MQ0mnvWM2yRD84eKzUCZv"
-      },
-      "artists": [
-        {
-          "name": "Odezenne",
-          "url": "https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp"
-        }
-      ],
-      "duration_ms": 273653,
-      "name": "Pause Play",
-      "url": "https://open.spotify.com/track/4yNgAVEPDXv5RmxOHMxKHM"
-    },
-    {
-      "added_at": "2025-12-04 23:00:01",
-      "album": {
-        "name": "A moiti\u00e9 dans la f\u00eate",
-        "url": "https://open.spotify.com/album/5gmLS69GBaMZ4IhK7Wvybb"
-      },
-      "artists": [
-        {
-          "name": "Barbet",
-          "url": "https://open.spotify.com/artist/7rN8I3x8rAW7gGFYLCK03E"
-        }
-      ],
-      "duration_ms": 185184,
-      "name": "A moiti\u00e9 dans la f\u00eate",
-      "url": "https://open.spotify.com/track/2mVsxBYV36Vkr6iRtyWUos"
-    },
-    {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "Prol\u00e9taire",
         "url": "https://open.spotify.com/album/2e3J4pEJnEvgMGBsJO6CJV"
@@ -241,7 +405,7 @@
       "url": "https://open.spotify.com/track/14diKmKKPZS0PI24p8HOKM"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "Pornstar",
         "url": "https://open.spotify.com/album/10i2f4W4eRzNUHvudx6Qyc"
@@ -257,55 +421,7 @@
       "url": "https://open.spotify.com/track/3R7fcy9r7uIj6dl6VL6eAT"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
-      "album": {
-        "name": "JE NE SERAI JAMAIS.",
-        "url": "https://open.spotify.com/album/7jhFTnyEI0HlSu1cztxbW5"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9lie",
-          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
-        }
-      ],
-      "duration_ms": 246186,
-      "name": "JE NE SERAI JAMAIS.",
-      "url": "https://open.spotify.com/track/7vdBAYpq0yZlntJ3zcWWHK"
-    },
-    {
-      "added_at": "2025-12-04 23:00:01",
-      "album": {
-        "name": "BREAK",
-        "url": "https://open.spotify.com/album/0BompZU9zoS3yZTtEdINTK"
-      },
-      "artists": [
-        {
-          "name": "Max Baby",
-          "url": "https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA"
-        }
-      ],
-      "duration_ms": 222853,
-      "name": "Playground",
-      "url": "https://open.spotify.com/track/6YCDCzRIeVYzcSNvFQ5es5"
-    },
-    {
-      "added_at": "2025-12-04 23:00:01",
-      "album": {
-        "name": "La d\u00e9licatesse",
-        "url": "https://open.spotify.com/album/3qjCkRSt0YOz4mqELWcnum"
-      },
-      "artists": [
-        {
-          "name": "Of\u00e9",
-          "url": "https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0"
-        }
-      ],
-      "duration_ms": 189893,
-      "name": "La d\u00e9licatesse",
-      "url": "https://open.spotify.com/track/56n9Iuw4IMSWk4SCMUYMFF"
-    },
-    {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "T\u00c9L\u00c9PHONE!",
         "url": "https://open.spotify.com/album/1q72NUONJTQRhQalQFUNWc"
@@ -325,23 +441,23 @@
       "url": "https://open.spotify.com/track/4X8VOk1uN2KmGTXqBlqn7r"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
-        "name": "Na\u00eff de Coeur",
-        "url": "https://open.spotify.com/album/1jUbkwlkekzGLC0FOefl6r"
+        "name": "BREAK",
+        "url": "https://open.spotify.com/album/0BompZU9zoS3yZTtEdINTK"
       },
       "artists": [
         {
-          "name": "S\u00e9bastien Tellier",
-          "url": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
+          "name": "Max Baby",
+          "url": "https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA"
         }
       ],
-      "duration_ms": 287650,
-      "name": "Na\u00eff de Coeur",
-      "url": "https://open.spotify.com/track/3trEKMbjxk1uzYxNYCXDRA"
+      "duration_ms": 222853,
+      "name": "Playground",
+      "url": "https://open.spotify.com/track/6YCDCzRIeVYzcSNvFQ5es5"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "Nuage Gris",
         "url": "https://open.spotify.com/album/4azWvnmyKImqcEkbZPnKCC"
@@ -361,23 +477,7 @@
       "url": "https://open.spotify.com/track/2x02xV4vO3Ph7ndHQa4vVF"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
-      "album": {
-        "name": "Pick Up : Face B (in\u00e9dits & remixes)",
-        "url": "https://open.spotify.com/album/533ORxyazdy6tHNB7gI5DK"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Fontaine",
-          "url": "https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1"
-        }
-      ],
-      "duration_ms": 243756,
-      "name": "Cheveux d'ange",
-      "url": "https://open.spotify.com/track/0MRJUAOzhj6NyrDyVazBqQ"
-    },
-    {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "Tango Montrouge",
         "url": "https://open.spotify.com/album/5AXn24BfwO7rlfQlLnPjKc"
@@ -393,39 +493,7 @@
       "url": "https://open.spotify.com/track/4ALUui623wOZZhsJ1h3M2V"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
-      "album": {
-        "name": "T\u00c7P\u00c7!",
-        "url": "https://open.spotify.com/album/2deUjrM2eyy0UQuImPJJlq"
-      },
-      "artists": [
-        {
-          "name": "Simia",
-          "url": "https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev"
-        }
-      ],
-      "duration_ms": 160546,
-      "name": "LES FRAMBOISES",
-      "url": "https://open.spotify.com/track/4WL4dfBOxheHyOcgPtyaZF"
-    },
-    {
-      "added_at": "2025-12-04 23:00:01",
-      "album": {
-        "name": "le rem\u00e8de",
-        "url": "https://open.spotify.com/album/4FWg7jBdMPHOEWpJm7TXKD"
-      },
-      "artists": [
-        {
-          "name": "Moy\u00e0",
-          "url": "https://open.spotify.com/artist/1Xvap7Au9MqLcUJUCPcJp1"
-        }
-      ],
-      "duration_ms": 141150,
-      "name": "le rem\u00e8de",
-      "url": "https://open.spotify.com/track/5EH33ROUwuT0KgCKBJmMAc"
-    },
-    {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "Parachute",
         "url": "https://open.spotify.com/album/54hqrNqycVKChEW44Sv5Dp"
@@ -441,7 +509,55 @@
       "url": "https://open.spotify.com/track/1QEN3ujV5VZUBMv1WDnCAA"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
+      "album": {
+        "name": "WE ARE GOOD",
+        "url": "https://open.spotify.com/album/0ASszD6NmNloTOIgM9JDCp"
+      },
+      "artists": [
+        {
+          "name": "Skip the Use",
+          "url": "https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB"
+        }
+      ],
+      "duration_ms": 136080,
+      "name": "WE ARE GOOD",
+      "url": "https://open.spotify.com/track/4tCJiYWzupzmbDqBcpsk3j"
+    },
+    {
+      "added_at": "2025-12-11 23:00:08",
+      "album": {
+        "name": "Pick Up : Face B (in\u00e9dits & remixes)",
+        "url": "https://open.spotify.com/album/533ORxyazdy6tHNB7gI5DK"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Fontaine",
+          "url": "https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1"
+        }
+      ],
+      "duration_ms": 243756,
+      "name": "Cheveux d'ange",
+      "url": "https://open.spotify.com/track/0MRJUAOzhj6NyrDyVazBqQ"
+    },
+    {
+      "added_at": "2025-12-11 23:00:08",
+      "album": {
+        "name": "T\u00c7P\u00c7!",
+        "url": "https://open.spotify.com/album/2deUjrM2eyy0UQuImPJJlq"
+      },
+      "artists": [
+        {
+          "name": "Simia",
+          "url": "https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev"
+        }
+      ],
+      "duration_ms": 160546,
+      "name": "LES FRAMBOISES",
+      "url": "https://open.spotify.com/track/4WL4dfBOxheHyOcgPtyaZF"
+    },
+    {
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "ULTRAVIOLENT",
         "url": "https://open.spotify.com/album/5hBCK5YfYcwNN7kFECULiA"
@@ -461,7 +577,7 @@
       "url": "https://open.spotify.com/track/2WNZc9WarkNEsdj5r5KZzj"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "Xanax mon amour",
         "url": "https://open.spotify.com/album/46OTJBJw8pyI1SRtTjePOt"
@@ -477,23 +593,7 @@
       "url": "https://open.spotify.com/track/6FvzF6lcbZw1W3L0Tn4dD3"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
-      "album": {
-        "name": "WE ARE GOOD",
-        "url": "https://open.spotify.com/album/0ASszD6NmNloTOIgM9JDCp"
-      },
-      "artists": [
-        {
-          "name": "Skip the Use",
-          "url": "https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB"
-        }
-      ],
-      "duration_ms": 136080,
-      "name": "WE ARE GOOD",
-      "url": "https://open.spotify.com/track/4tCJiYWzupzmbDqBcpsk3j"
-    },
-    {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "invisible",
         "url": "https://open.spotify.com/album/0MDwD4UQN2pBZtPrcB1wdr"
@@ -509,7 +609,7 @@
       "url": "https://open.spotify.com/track/0FC9BRYWbLzJTliCxcPZYA"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "Distraction",
         "url": "https://open.spotify.com/album/6TM06ZS2PtNj6XB6g3LAdO"
@@ -525,7 +625,7 @@
       "url": "https://open.spotify.com/track/7atWzGuz6MT8vaGQX5kdwp"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "A priori",
         "url": "https://open.spotify.com/album/72i912k2lzdq3Mluq6SYR2"
@@ -541,23 +641,7 @@
       "url": "https://open.spotify.com/track/1ox8o1j0gYJL98H9fG3cP6"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
-      "album": {
-        "name": "PIERROT LE FOU",
-        "url": "https://open.spotify.com/album/1gUOdwnfqdL8f97BS0j5kY"
-      },
-      "artists": [
-        {
-          "name": "Marguerite Thiam",
-          "url": "https://open.spotify.com/artist/0q8xRKBXrsCAzK5Ynq4U8B"
-        }
-      ],
-      "duration_ms": 168813,
-      "name": "PIERROT LE FOU",
-      "url": "https://open.spotify.com/track/7AkXjA1YDOG4YwXoJ4ZuXh"
-    },
-    {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "Ne T'En Fais Pas Pour Elle",
         "url": "https://open.spotify.com/album/6Nfy2yDPAVkyMBRNaXRRcH"
@@ -573,7 +657,7 @@
       "url": "https://open.spotify.com/track/339AZu1ohdLOfABPMevryC"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "Hardcore",
         "url": "https://open.spotify.com/album/2zuRI4MJgvQulgZUkdnwBJ"
@@ -589,7 +673,7 @@
       "url": "https://open.spotify.com/track/6yY37qebXqwV4IsgNn0ARw"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "BANLIEUE",
         "url": "https://open.spotify.com/album/09GZqx46tQBWyqGAZSXr62"
@@ -605,7 +689,7 @@
       "url": "https://open.spotify.com/track/1eejmAqY4t0itxQVImRSqb"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "Mon c\u0153ur kiff\u00e9",
         "url": "https://open.spotify.com/album/0mjd6eD8Y2Yl1eHq5nYQz6"
@@ -621,7 +705,7 @@
       "url": "https://open.spotify.com/track/6oKiuFOlrQ4rqS085TmCxC"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "C'est comme \u00e7a",
         "url": "https://open.spotify.com/album/44OwQ3T3Iz5gROLNULcBH4"
@@ -637,7 +721,7 @@
       "url": "https://open.spotify.com/track/0omnj8vNCpnBtoFMMQISiL"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "SANG D'ENCRE",
         "url": "https://open.spotify.com/album/2BJ32JFsa2gkkoMYFuFo3R"
@@ -653,7 +737,7 @@
       "url": "https://open.spotify.com/track/57VBmGojxzW7mOWe7IUX6s"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "c'est toi qui me dis",
         "url": "https://open.spotify.com/album/6g3UezgW6sV2Qa6Uj0LuBH"
@@ -673,7 +757,7 @@
       "url": "https://open.spotify.com/track/2q6lAeFiPnzkRIbmYI0Xzl"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "Celui qui fait tout pour les autres",
         "url": "https://open.spotify.com/album/2ebymbeuRfo5wl6j5y8CjQ"
@@ -689,23 +773,7 @@
       "url": "https://open.spotify.com/track/1lRMPEt5awlduYQwRXy5Kw"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
-      "album": {
-        "name": "RAGE",
-        "url": "https://open.spotify.com/album/3NcvHIonSqFpWdgPvWDem2"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/0NCfVJ4NDxaKUW8yV4lUlQ"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "RAGE",
-      "url": "https://open.spotify.com/track/5NlCOpIwwKXz2nTu3JSaZA"
-    },
-    {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "Pavillons r\u00e9sidentiels",
         "url": "https://open.spotify.com/album/3I6cKDIXLEYPuhOyXKbS9N"
@@ -721,7 +789,7 @@
       "url": "https://open.spotify.com/track/15z178WCmCpGL5FaSDQokZ"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "Les gar\u00e7ons et les filles",
         "url": "https://open.spotify.com/album/7rSK2XjJX1ShoiaBhhbNlk"
@@ -737,7 +805,7 @@
       "url": "https://open.spotify.com/track/2QeDqkNlNlT3pVd8nAVyrE"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "ATTITUDE",
         "url": "https://open.spotify.com/album/0J1vKaqrAHhMUGk7euACSy"
@@ -753,7 +821,7 @@
       "url": "https://open.spotify.com/track/09u87tRFWJH0hlgeEH4Tgu"
     },
     {
-      "added_at": "2025-12-04 23:00:01",
+      "added_at": "2025-12-11 23:00:08",
       "album": {
         "name": "ZERO CONCESSIONS",
         "url": "https://open.spotify.com/album/1zwxAZ1Arsiw91tx8akaC9"
@@ -771,70 +839,6 @@
       "duration_ms": 150000,
       "name": "ZERO CONCESSIONS",
       "url": "https://open.spotify.com/track/43M9GigJSWVshPOKXpUkAZ"
-    },
-    {
-      "added_at": "2025-12-04 23:00:01",
-      "album": {
-        "name": "j'aimerais que tout s'arr\u00eate",
-        "url": "https://open.spotify.com/album/6bLSMoJsFHkaYw1NwwQ7Oh"
-      },
-      "artists": [
-        {
-          "name": "nous \u00e9tions une arm\u00e9e",
-          "url": "https://open.spotify.com/artist/2GT9RRFupyQile63whfk0t"
-        }
-      ],
-      "duration_ms": 220164,
-      "name": "j'aimerais que tout s'arr\u00eate",
-      "url": "https://open.spotify.com/track/5waQwkBRFAzndEEf09b3Hx"
-    },
-    {
-      "added_at": "2025-12-04 23:00:01",
-      "album": {
-        "name": "Val Synth",
-        "url": "https://open.spotify.com/album/044XJPSvbfIgaI5q4SHnvx"
-      },
-      "artists": [
-        {
-          "name": "Flora Fishbach",
-          "url": "https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb"
-        }
-      ],
-      "duration_ms": 246746,
-      "name": "Rends-moi ma vie",
-      "url": "https://open.spotify.com/track/4Y0pXVg7ayEhsE450GnPi2"
-    },
-    {
-      "added_at": "2025-12-04 23:00:01",
-      "album": {
-        "name": "Cigarette \u00e0 la bouche",
-        "url": "https://open.spotify.com/album/4TFXhd63WzwRhaVw7qcHtp"
-      },
-      "artists": [
-        {
-          "name": "D'accord Simon",
-          "url": "https://open.spotify.com/artist/6HBlOvzTZVt7yd5AUZxygo"
-        }
-      ],
-      "duration_ms": 120988,
-      "name": "Cigarette \u00e0 la bouche",
-      "url": "https://open.spotify.com/track/1XUDuhvC5y8B2PkB71C6ci"
-    },
-    {
-      "added_at": "2025-12-04 23:00:01",
-      "album": {
-        "name": "Romy Rose, Pt. 1",
-        "url": "https://open.spotify.com/album/4ROaxMuLciRc5l3ywr0EUr"
-      },
-      "artists": [
-        {
-          "name": "James Baker",
-          "url": "https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl"
-        }
-      ],
-      "duration_ms": 182440,
-      "name": "Jtm un peu",
-      "url": "https://open.spotify.com/track/5HBwZoRSwMjoyA07xZTUlR"
     }
   ],
   "unique_name": "Courant Alternatif",

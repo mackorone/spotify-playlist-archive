@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,079 songs - 20 day 12 hr 57 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,081 songs - 20 day 13 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8087,5 +8087,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8077 | [悔やむと書いてミライ](https://open.spotify.com/track/6n5L13FFZyCmZuj6C9Hyqf) | [宵崎奏](https://open.spotify.com/artist/1PbOXi3QIPB8AxbJ8byCl6) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 3:49 |
 | 8078 | [アイディスマイル](https://open.spotify.com/track/1eDJWiEF2BbCKDGPOqIWZo) | [朝比奈まふゆ](https://open.spotify.com/artist/31upiK8FORhx0Nm5tVxmtB) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 3:00 |
 | 8079 | [「１」](https://open.spotify.com/track/3kGShum3K7s4I5ASiO3gnI) | [星乃一歌](https://open.spotify.com/artist/0gIbpvrqmPtHQ8zyQpBDFt) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク　アナザーボーカルアルバム　Leo/need](https://open.spotify.com/album/7xlXLAD6g3OD5bX1hpk7xa) | 3:24 |
+| 8080 | [ビターチョコデコレーション](https://open.spotify.com/track/4uy2VPS6prqLqRUBtbvs7G) | [朝比奈まふゆ](https://open.spotify.com/artist/31upiK8FORhx0Nm5tVxmtB) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 3:17 |
+| 8081 | [再生](https://open.spotify.com/track/271QLLXvcPOzTHC4MQu8c0) | [朝比奈まふゆ](https://open.spotify.com/artist/31upiK8FORhx0Nm5tVxmtB) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 4:26 |
 
-Snapshot ID: `AAAKBRmStVTcPl7kWT7zDMj4M16fNI4p`
+Snapshot ID: `AAAKB41poulbbyhXw/Lo6P0fDR/ZJXAJ`

@@ -2831,6 +2831,28 @@
     },
     {
       "album": {
+        "name": "Sweet Caroline (from Song Sung Blue)",
+        "url": "https://open.spotify.com/album/2YKIrodWFLjeC8EG8TEPBD"
+      },
+      "artists": [
+        {
+          "name": "Hugh Jackman",
+          "url": "https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2"
+        },
+        {
+          "name": "Kate Hudson",
+          "url": "https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME"
+        }
+      ],
+      "date_added": "2025-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215085,
+      "name": "Sweet Caroline (from Song Sung Blue)",
+      "url": "https://open.spotify.com/track/5MA9H4ZShK2dsbt551hH5q"
+    },
+    {
+      "album": {
         "name": "Sweet Morning Heat (from the Netflix Film \"Unfrosted\")",
         "url": "https://open.spotify.com/album/45NbXQTQehu3aWZXQdI1vN"
       },

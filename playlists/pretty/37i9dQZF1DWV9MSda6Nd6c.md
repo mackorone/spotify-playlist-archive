@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9MSda6Nd6c.md) - [plain]
 
 > Vuoden 2025 suomalaiset läpimurtoartistit \- uusia nimiä ja tuttuja tekijöitä, jotka nousivat tänä vuonna valokeilaan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 172 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9MSda6Nd6c.md) - [plain]
 | 49 | [Tee musta selvää](https://open.spotify.com/track/2hOnCESlVX6AYvyyfouHP5) | [Nenerchy](https://open.spotify.com/artist/1qQ61UfUcWzv32i0XfTfZy) | [Yandere](https://open.spotify.com/album/6fh33FKJG5K5StyY6DbtCC) | 2:59 |
 | 50 | [PLAY](https://open.spotify.com/track/5Pxbw1DWiigFraaQtwnfhj) | [LIA KIN](https://open.spotify.com/artist/7vQriBlZ4qkhUcRkz8aqiT) | [PLAY](https://open.spotify.com/album/2BSmBEt7hvoKF2bEAm1T9Y) | 2:53 |
 
-Snapshot ID: `AAAAAGKAGsHFSY5Ajj/YFphQ4hlKCxHn`
+Snapshot ID: `AAAAAH4BFsq/nhG9U4a8plkJA3GA63nG`

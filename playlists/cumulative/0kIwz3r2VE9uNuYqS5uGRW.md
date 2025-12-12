@@ -4,7 +4,7 @@
 
 > 
 
-119 songs - 6 hr 15 min
+123 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [11:11](https://open.spotify.com/track/0F3hlueYuGVWk4rzu8aRpY) | [Thtboirico](https://open.spotify.com/artist/0vkzkwjAVgRtAMNw9yN4xO) | [11:11](https://open.spotify.com/album/5BLNZhfIEbVxM7ZZfVZ46V) | 2:47 | 2025-08-22 |  |
 | [2 cute 4 that](https://open.spotify.com/track/31FUeWlf3btTudRfGfo7qv) | [dyl\~](https://open.spotify.com/artist/7vPyQ69WeMZbApbgjWAWcX) | [2 cute 4 that](https://open.spotify.com/album/0ROWzFZNDzqYCHcR2xtu2g) | 1:33 | 2025-08-19 |  |
 | [3:33](https://open.spotify.com/track/4xNJwjT3OKzE7E5IB1rZw9) | [Jey Master](https://open.spotify.com/artist/3JXF0zmgQriGDuch8M800V) | [3:33](https://open.spotify.com/album/2uqbgfJVIuMKLq7ie558kC) | 3:33 | 2025-08-26 |  |
+| [4:44AM](https://open.spotify.com/track/4M03RhnysxttvTKqQKE8it) | [SCRAZ](https://open.spotify.com/artist/6hQQsPJ3df9XVj8CMBy5Yk), [MPC Smoke](https://open.spotify.com/artist/7Dbyx5Qw8XaH8qX86Kh2fQ) | [4:44AM](https://open.spotify.com/album/4TEX17jd6bREevtW8c8LG1) | 3:00 | 2025-12-11 |  |
 | [512](https://open.spotify.com/track/2CdquEDCaFau9PMHF8eFcW) | [Morales](https://open.spotify.com/artist/1ZzjFl9TaQcLtzxOhStXg7), [Vivih](https://open.spotify.com/artist/0igUZhKUbwqknOURErylJL) | [512](https://open.spotify.com/album/7ij81xOTfo61L1FuYwKwTH) | 2:42 | 2025-09-09 |  |
 | [Aloha Vibes](https://open.spotify.com/track/5iner6pw593QANnZP3Abgr) | [Faith Rivera](https://open.spotify.com/artist/0OJl9lZP81ON2jhv7QpVYt), [Brittni Paiva](https://open.spotify.com/artist/030ma4QtsnydUwd4M2qXWt) | [Aloha Vibes](https://open.spotify.com/album/3jWHak3tyL2LF3tdozpmrF) | 3:35 | 2025-07-03 |  |
 | [alone](https://open.spotify.com/track/7iuvjLWfCeuXUjCL5ux3Yd) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO), [Foreign](https://open.spotify.com/artist/3D3yyi7c5AiQulhArfwbib) | [Melodic Desire](https://open.spotify.com/album/301s5ttpCmABTQMpqaf292) | 4:37 | 2025-04-10 |  |
@@ -20,6 +21,7 @@
 | [AZOTARTE](https://open.spotify.com/track/4eG6YirA72uHlDKmzYmlud) | [El HA](https://open.spotify.com/artist/4aOhbiEACFgXO6CzfZiPGL), [Adal Palacios](https://open.spotify.com/artist/19x873JrC5NE60vCN4KPZp), [Dj Sixten](https://open.spotify.com/artist/6gMq2c8MQmHgDTeOSxDUKw), [Dj Full Mx](https://open.spotify.com/artist/3gBDVCX4mV5qVxbR0eyT06), [Brayan Vr](https://open.spotify.com/artist/6VbJpJjFWYLbCKKxbIeQlE) | [AZOTARTE](https://open.spotify.com/album/4f85e5tYKqheOGA1p7t0E7) | 2:11 | 2025-09-09 |  |
 | [Baila](https://open.spotify.com/track/1lLoW8BPXr9EK4s2L1Qwid) | [MG'](https://open.spotify.com/artist/24NUzfEiDv7O3XmfUWy8DH) | [Baila](https://open.spotify.com/album/0iWdERMMhVmphw8ioaIdtR) | 3:01 | 2025-08-26 |  |
 | [BDE](https://open.spotify.com/track/6fdVOh7MmC69eCrX0XxO5M) | [Galaxy Sweat](https://open.spotify.com/artist/0PCn3ztGLidBzzK3FT4ezo) | [Galaxy Sweat](https://open.spotify.com/album/1JLWiiHlNzBpyAHeBv7Ugz) | 2:53 | 2025-09-22 |  |
+| [Better Just Relax](https://open.spotify.com/track/3IVYIsdtWlJ55ikYEZvDYa) | [Max King](https://open.spotify.com/artist/2pRzdE3d9WKYHEQFLsGXYR) | [Better Just Relax](https://open.spotify.com/album/27vTQbtzfTvs2LHSow67pY) | 1:44 | 2025-12-11 |  |
 | [Bittersweet](https://open.spotify.com/track/5jwi6uej7cKEXRKl5T5NJe) | [Raphaela](https://open.spotify.com/artist/4fpakQ8unqqBifmsszha5F) | [Bittersweet](https://open.spotify.com/album/5PpYInSPwb0qYYMFyCN0FL) | 2:31 | 2025-09-11 |  |
 | [Can't Stop Loving You](https://open.spotify.com/track/2IxP7XlBTr1ytzNunInCHa) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Can’t Stop Loving You](https://open.spotify.com/album/1YrnwVbQVVEFcwwVC6CYD0) | 4:37 | 2025-08-14 |  |
 | [Childhood Dreams](https://open.spotify.com/track/2HeYiygBNdlYDOYGgtAS53) | [Mert Bays](https://open.spotify.com/artist/5O0EyfPKefwCPzKsE3S8pe) | [Another Day](https://open.spotify.com/album/3FwelO7DnW62pR886TxsVo) | 3:03 | 2025-04-10 |  |
@@ -45,6 +47,7 @@
 | [Evil Middle](https://open.spotify.com/track/0WsHKHzrgEMeISc5ydXyXg) | [Marcos Crunk](https://open.spotify.com/artist/7GNeQ6y9JFQ6deOJfrtHjD), [BR3NX](https://open.spotify.com/artist/0YNWnKCEelU5896FKYUVl6) | [Evil Middle](https://open.spotify.com/album/3DkC03tKYGw7OCPZPIPxPH) | 2:37 | 2025-08-20 |  |
 | [Evitandome](https://open.spotify.com/track/39RIAIenvbjRqw2iAWWoPV) | [Draxess](https://open.spotify.com/artist/31eiTFPa3SmEug6EbLH3d3), [dodo\_wav](https://open.spotify.com/artist/6351jyBEW00GePNPjRCsj1), [Wvy Laosean](https://open.spotify.com/artist/604Lg9hn3moDuuSRJlTXmh) | [Evitandome](https://open.spotify.com/album/7DIzgZs3139vMTCDNz668P) | 3:17 | 2025-09-05 |  |
 | [Fade Away](https://open.spotify.com/track/74dhq9EPFe5EvBDIoWBIq7) | [Nicole Gi](https://open.spotify.com/artist/0tgBoKNlruzIxaE0CwNhhr), [1depth](https://open.spotify.com/artist/6WCG6NUWO7AegpQN8asWwq) | [Fade Away](https://open.spotify.com/album/4sbRBZ7vQ2LSOegya4HPyA) | 2:55 | 2025-04-08 |  |
+| [Falling Apart](https://open.spotify.com/track/38O5OYX7gXD2YAamTcW72t) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Falling Apart](https://open.spotify.com/album/78h0okzrA3Z9rhln7vShrC) | 2:50 | 2025-12-11 |  |
 | [Fastlife](https://open.spotify.com/track/37X0LVMpjlxIeiW7mpre4I) | [Ovthex](https://open.spotify.com/artist/5GitDiJdtHyC7aHejcDn7s) | [Fastlife](https://open.spotify.com/album/17qINZKWn4KsLPIpiyZqV8) | 2:58 | 2025-04-06 |  |
 | [Genuine](https://open.spotify.com/track/51mLBSASbfih09HkTViS8M) | [Pixiewolf](https://open.spotify.com/artist/2MjyIcU2BRGLYXtpW9aVa7) | [Genuine](https://open.spotify.com/album/1yhCbT665XRK4sbp19WRCQ) | 2:43 | 2025-04-07 |  |
 | [Gimme Someone I Can Hold on to \(Instrumental\)](https://open.spotify.com/track/5LcrOJjKRQ8opafD72lCm6) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Gimme Someone I Can Hold on to \(Instrumental\)](https://open.spotify.com/album/4WIZ3Cf2dJTEKeGLdhKLmZ) | 3:26 | 2025-03-12 |  |
@@ -55,6 +58,7 @@
 | [Hold On](https://open.spotify.com/track/1xunQYI4Bfk0dDgIdoQokK) | [Veauxgue](https://open.spotify.com/artist/0ZEvbB2ViUVH9JGLOBLvrM) | [10,000 Days](https://open.spotify.com/album/0YPjipQDNl5DXQo2Xwr4kE) | 3:07 | 2025-11-22 |  |
 | [Homewrecker](https://open.spotify.com/track/5cnLneiOGZQjsoFeOwTewc) | [Enhance](https://open.spotify.com/artist/0WczWSXykA8L6DAN24qPQW) | [Homewrecker](https://open.spotify.com/album/2W32nOm3iiFnrhHLZfQhI0) | 2:36 | 2025-11-20 |  |
 | [Hope](https://open.spotify.com/track/1GeeMhsnDt7E15N24m6rAp) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Delicate](https://open.spotify.com/album/3JYJmRhi9SR7yX6AjfJpi1) | 6:37 | 2025-04-06 |  |
+| [HYPER OTTER \- 222% Hydration](https://open.spotify.com/track/1NlHdX7ILmSic0TJxkCCv7) | [Eqlixir](https://open.spotify.com/artist/1aIQXugv2VozVzzVWbz7H5) | [hyper otter water](https://open.spotify.com/album/2jMVefOONMLVq22a2zN6X5) | 1:06 | 2025-12-11 |  |
 | [I Don't Give a Fuck Anymore](https://open.spotify.com/track/0X6ISOtlMhQR7ttKJJfwey) | [Jerome Jerome! Stevenson](https://open.spotify.com/artist/1YS6beQi0cakwprURnYjJk) | [All of Me](https://open.spotify.com/album/6AZmLDoxmEoK3mzrwAhY6a) | 2:51 | 2025-03-12 |  |
 | [I Don't Know](https://open.spotify.com/track/1Nj7VD921R98sjuMK3jMWM) | [Zerener](https://open.spotify.com/artist/2NPVYQkv6uPyD6QsFlbZH5) | [I Don't Know](https://open.spotify.com/album/4JwIlUXBAfiajBuobasvFl) | 3:42 | 2025-04-07 |  |
 | [I DON´T WANNA WORK](https://open.spotify.com/track/3L3BwVldv7DV7Htk4BHHMd) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [I DON´T WANNA WORK](https://open.spotify.com/album/0l4EpsXzxsBtbf85eQFaX3) | 2:59 | 2025-10-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 
 > This is Chris Stapleton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,716 likes - 49 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 706,872 likes - 49 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Vjk40.md) - [plain]
 | 48 | [On The Road Again \- Live](https://open.spotify.com/track/0vcJzE2LuNY9aoq2hdMjHZ) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q), [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Dave Matthews](https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV), [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Micah Nelson](https://open.spotify.com/artist/0J1uiTdcz2yFtYwfQVXYHg), [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [The Little Willies](https://open.spotify.com/artist/4MWopTgyvixq0tNiFrVg0l) | [On The Road Again \(Live\)](https://open.spotify.com/album/6Cs43kWsaHLDRUcYMYqcc0) | 2:36 |
 | 49 | [Small Town Hypocrite](https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Small Town Hypocrite](https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT) | 4:01 |
 
-Snapshot ID: `aTdmgAAAAACrCBuEfd9K/xrW2+3IIX12`
+Snapshot ID: `aTi4AAAAAACvyJO92NJmqRglv/zB93zn`

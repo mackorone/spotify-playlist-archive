@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : d\u00f8pelym",
+  "description": "Le meilleur du rap africain francophone. Photo : Didi B",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -374,7 +374,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 151034,
       "name": "Aversion",
       "url": "https://open.spotify.com/track/06qvfp18LjtYnzvSL48OEA"
@@ -724,7 +724,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 164475,
       "name": "C'est tch\u00f4",
       "url": "https://open.spotify.com/track/3o7GChDqepk1swchrVCv4E"
@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 198239,
       "name": "Drogba en 2010",
       "url": "https://open.spotify.com/track/0KSTn75tH0qiTZ3EedTUhi"
@@ -1559,6 +1559,28 @@
     },
     {
       "album": {
+        "name": "Elimin\u00e9",
+        "url": "https://open.spotify.com/album/4H8jp47Allzo8anDKynAeM"
+      },
+      "artists": [
+        {
+          "name": "Diesel Gucci",
+          "url": "https://open.spotify.com/artist/3ZTd2WDHj0fn67xpiQ9DEi"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238098,
+      "name": "Elimin\u00e9",
+      "url": "https://open.spotify.com/track/7wbtGmNYsHRH0nWqRLje0X"
+    },
+    {
+      "album": {
         "name": "Juventus Nueva Era",
         "url": "https://open.spotify.com/album/40IUUa2awdvlwpkChxGNCw"
       },
@@ -1592,7 +1614,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 120000,
       "name": "En tas",
       "url": "https://open.spotify.com/track/6VmswO0xO4iWADlcx5JdMZ"
@@ -1676,10 +1698,32 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 142797,
       "name": "FAKE",
       "url": "https://open.spotify.com/track/3cAq7nnb7dlVUW8GFkDAkL"
+    },
+    {
+      "album": {
+        "name": "10sTracks",
+        "url": "https://open.spotify.com/album/6a6HlmDsfFzNxRrmzhRuCg"
+      },
+      "artists": [
+        {
+          "name": "Shado Chris",
+          "url": "https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg"
+        },
+        {
+          "name": "Faroch",
+          "url": "https://open.spotify.com/artist/1V81pFbiuSJCKEsRcLvXeK"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190774,
+      "name": "Farotement",
+      "url": "https://open.spotify.com/track/4Eh9KjiUbkdgGAvKk9Bp4Z"
     },
     {
       "album": {
@@ -2105,6 +2149,24 @@
     },
     {
       "album": {
+        "name": "NNPP - PRELUDE",
+        "url": "https://open.spotify.com/album/6FSMaKXZfN1VHwdz8FPtJr"
+      },
+      "artists": [
+        {
+          "name": "LiFkA",
+          "url": "https://open.spotify.com/artist/11ASLEHxfoDIC9s2rVDFAf"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159863,
+      "name": "J COMMANDE",
+      "url": "https://open.spotify.com/track/1y6TvjEXs7ks2A13CkkjWN"
+    },
+    {
+      "album": {
         "name": "JAMAIS CHERLA (feat. D\u00f8pelym & Himra)",
         "url": "https://open.spotify.com/album/3mtkFgDdHkrNd58yC3KPGv"
       },
@@ -2301,6 +2363,28 @@
     },
     {
       "album": {
+        "name": "La Tcham Biama",
+        "url": "https://open.spotify.com/album/0Kxwp6QPEBhoYYdfSzUkQL"
+      },
+      "artists": [
+        {
+          "name": "Kadirov Mania",
+          "url": "https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK"
+        },
+        {
+          "name": "L'Oiseau Rare",
+          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155447,
+      "name": "La Tcham Biama",
+      "url": "https://open.spotify.com/track/2nnKJmZcVzqiLiAy0LNsyp"
+    },
+    {
+      "album": {
         "name": "La vie des gens",
         "url": "https://open.spotify.com/album/2Pvtyteh6Phny6SIRJrwoa"
       },
@@ -2478,7 +2562,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 183785,
       "name": "LUNDI AU LUNDI",
       "url": "https://open.spotify.com/track/4nzg48IvzD7gopb1eyK4Cb"
@@ -3059,6 +3143,24 @@
     },
     {
       "album": {
+        "name": "Okplononko 1",
+        "url": "https://open.spotify.com/album/6oqYBitAWeBEG4vMBjsXjo"
+      },
+      "artists": [
+        {
+          "name": "Sethlo",
+          "url": "https://open.spotify.com/artist/2PTCG1mxDKcnGzHIiCuVON"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215080,
+      "name": "Okplononko 1",
+      "url": "https://open.spotify.com/track/24N5q8Jeh1MZGDVDXCJFHX"
+    },
+    {
+      "album": {
         "name": "OM O'CLOCK",
         "url": "https://open.spotify.com/album/36t1oNKMKQKKUCHJ6Mwfwy"
       },
@@ -3445,6 +3547,24 @@
     },
     {
       "album": {
+        "name": "Redressement",
+        "url": "https://open.spotify.com/album/7do7o9AEZPddbpVJN4mtqZ"
+      },
+      "artists": [
+        {
+          "name": "Iba One",
+          "url": "https://open.spotify.com/artist/3f63uWQYi2tLKaONH44oSv"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156145,
+      "name": "Redressement",
+      "url": "https://open.spotify.com/track/0k0xQgr4MOwsY8OzrgnIsn"
+    },
+    {
+      "album": {
         "name": "RKM (CRY ME A RIVER)",
         "url": "https://open.spotify.com/album/3Ob6dQaITXodM1s7CAun2j"
       },
@@ -3521,7 +3641,7 @@
         },
         {
           "name": "bel canto",
-          "url": "https://open.spotify.com/artist/5Bz8k8phXRsAtBB6xrIR83"
+          "url": "https://open.spotify.com/artist/2PI3gO1kONdc4q7YYCs5ph"
         }
       ],
       "date_added": "2025-12-04",
@@ -3636,7 +3756,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 130639,
       "name": "Shogun & Djinze",
       "url": "https://open.spotify.com/track/6r51OeQqNi9boKeEw0RuYh"
@@ -3880,6 +4000,36 @@
       "duration_ms": 216172,
       "name": "Taper le Tchapa",
       "url": "https://open.spotify.com/track/5MnXdNc3rDzcwVnmCRuaQy"
+    },
+    {
+      "album": {
+        "name": "Togolaise",
+        "url": "https://open.spotify.com/album/1nLJS31612GXmQYvAn2m6e"
+      },
+      "artists": [
+        {
+          "name": "Sethlo",
+          "url": "https://open.spotify.com/artist/2PTCG1mxDKcnGzHIiCuVON"
+        },
+        {
+          "name": "Koffi Wisen",
+          "url": "https://open.spotify.com/artist/1RzFrvguubg04gDrndgpSg"
+        },
+        {
+          "name": "Pheno Ambro",
+          "url": "https://open.spotify.com/artist/72KH9oRyJeqqRydsiSXKCD"
+        },
+        {
+          "name": "Lolkat",
+          "url": "https://open.spotify.com/artist/4ZhEfPzSafn6X11JUHPSJ7"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Togolaise",
+      "url": "https://open.spotify.com/track/1FvzQz9oH9WD7M4YzXDR3w"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [The Sound of Formosa](https://open.spotify.com/playlist/37i9dQZF1DXbploA264Kx0)
 
-> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Whyte
+> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: JUD \(陳泳希\)
 
-580 songs - 1 day 11 hr 24 min
+581 songs - 1 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,7 +393,7 @@
 | [Toyota Spaceship](https://open.spotify.com/track/2OCu6qR1jNXxcRjmDanycv) | [令晴 Lynn](https://open.spotify.com/artist/6HOJVenVuukRx2b6jTZtQk) | [Toyota Spaceship](https://open.spotify.com/album/752iQMzjNevW0ZoFXPcybz) | 3:52 | 2025-09-14 | 2025-09-26 |
 | [Truffle Fries](https://open.spotify.com/track/7d2kJL5bRwgfEQU2soFUdX) | [June Pan](https://open.spotify.com/artist/0p5LfbnKvdqRqZ9u5Nk0S3) | [Truffle Fries](https://open.spotify.com/album/3dfdeVC6jw2RwevOfunlPk) | 3:42 | 2024-07-25 | 2024-08-23 |
 | [trust me](https://open.spotify.com/track/6riw7EvS6amwDkv7RXsQAG) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [trust me](https://open.spotify.com/album/0JmIdIzZcTUgyu0AbF5O45) | 2:48 | 2024-02-29 | 2024-03-15 |
-| [Tunes for Suly](https://open.spotify.com/track/4IRNgiLaOrg0RvEWNBjveK) | [野巢 Nosu](https://open.spotify.com/artist/30pJXiYdUEUSVVbizHKjTs) | [Turntable in the Lift](https://open.spotify.com/album/7c4niJGLB25XRgVNlDH1Lk) | 7:06 | 2025-10-23 |  |
+| [Tunes for Suly](https://open.spotify.com/track/4IRNgiLaOrg0RvEWNBjveK) | [野巢 Nosu](https://open.spotify.com/artist/30pJXiYdUEUSVVbizHKjTs) | [Turntable in the Lift](https://open.spotify.com/album/7c4niJGLB25XRgVNlDH1Lk) | 7:06 | 2025-10-23 | 2025-12-12 |
 | [Twisted Game](https://open.spotify.com/track/57VBEAAou12D7EedFDxZcY) | [CED](https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC), [LEO37](https://open.spotify.com/artist/1K4p8nRSSUoO6e3Npn77U6), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Twisted Game](https://open.spotify.com/album/4DFtnQthhszMknevVxEAEE) | 3:14 | 2024-11-14 | 2024-12-06 |
 | [UMAMI](https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [whoosh](https://open.spotify.com/artist/75SZZT7Gh4mjvmAbuKdzLA) | [UMAMI](https://open.spotify.com/album/1Ja6sE2nTmSFRUWJKuo48g) | 3:22 | 2024-01-25 | 2024-03-29 |
 | [Un Good Trip Sous La Pluie](https://open.spotify.com/track/4GO7n4qz2UXu973QshEA16) | [草本藥師](https://open.spotify.com/artist/1BnXVFPXRJPKOf2qIWMFvI) | [草本藥師](https://open.spotify.com/album/2A8vmOwQbH5yFH5nWPC6Vj) | 3:37 | 2025-09-04 | 2025-09-26 |
@@ -467,6 +467,7 @@
 | [囤物症](https://open.spotify.com/track/7HqeaLcibKwlzxUzozQ8TI) | [尋人啟事The Wanted](https://open.spotify.com/artist/7FNSvrE4X5hb2C6pYN0skP) | [減肥計劃](https://open.spotify.com/album/5X8BhE0aDFoqWuesFfihM6) | 3:00 | 2024-06-13 | 2024-07-01 |
 | [夏夕夏景](https://open.spotify.com/track/5kwmL31ZEZBu4stW6WKG6W) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [夏夕夏景](https://open.spotify.com/album/3OpwHtAUbWjZuyjO4lZ0HQ) | 2:30 | 2024-06-13 | 2024-07-01 |
 | [失控邊緣](https://open.spotify.com/track/0WHhOBEs4U3xmuEkqf8KO7) | [Haezee](https://open.spotify.com/artist/0LestIkVCbetqsJ3o72Yzn) | [LOVE MAZE](https://open.spotify.com/album/67Qjx5KtM3e2NRyzzt3old) | 2:35 | 2024-06-13 | 2024-07-01 |
+| [失望](https://open.spotify.com/track/3cUREh7XUvZ62mRVEjIsn7) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [都是自己拿來的](https://open.spotify.com/album/52p2QaT9aJ0ozKRbZkkB4k) | 3:51 | 2025-12-11 |  |
 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 | 2025-07-24 | 2025-08-15 |
 | [她](https://open.spotify.com/track/4LkFQhhjWWzu2RaOTMxlhq) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [shhh, it's under my bed](https://open.spotify.com/album/58L0TIIk2t14KKVSxgjyB2) | 3:42 | 2025-09-04 | 2025-09-26 |
 | [如果你也想起來 \- 《第一次遇見花香的那刻》第二季主題曲](https://open.spotify.com/track/2cT6hUQUwttIb3DZ9LzIoO) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [如果你也想起來 \(《第一次遇見花香的那刻》第二季主題曲\)](https://open.spotify.com/album/5Wm8NrIzl2BYnPpX9BbGuf) | 4:09 | 2025-02-27 | 2025-03-29 |

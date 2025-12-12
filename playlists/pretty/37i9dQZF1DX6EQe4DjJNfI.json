@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Budah, Wycleff Jean",
-  "num_followers": 184482,
+  "num_followers": 184478,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2025-11-30 18:11:18",
       "album": {
+        "name": "Mas Que Porra",
+        "url": "https://open.spotify.com/album/3nvA63FjzbjPBuXwK8M1tv"
+      },
+      "artists": [
+        {
+          "name": "idontcare",
+          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
+        }
+      ],
+      "duration_ms": 121874,
+      "name": "Mas Que Porra",
+      "url": "https://open.spotify.com/track/3Yo2jWdQEjar8IayTy6B7Z"
+    },
+    {
+      "added_at": "2025-11-30 18:11:18",
+      "album": {
         "name": "Mais uma Vez",
         "url": "https://open.spotify.com/album/0jhBAoUYv0xYxhXRg1MsE2"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 129896,
       "name": "Mais uma Vez",
       "url": "https://open.spotify.com/track/5z1ilt9ZerSnXCuclChbHt"
-    },
-    {
-      "added_at": "2025-11-30 18:11:18",
-      "album": {
-        "name": "Mas Que Porra",
-        "url": "https://open.spotify.com/album/3nvA63FjzbjPBuXwK8M1tv"
-      },
-      "artists": [
-        {
-          "name": "idontcare",
-          "url": "https://open.spotify.com/artist/3miLSvJd1ht6aRHwBtMc1e"
-        }
-      ],
-      "duration_ms": 121874,
-      "name": "Mas Que Porra",
-      "url": "https://open.spotify.com/track/3Yo2jWdQEjar8IayTy6B7Z"
     },
     {
       "added_at": "2025-11-30 18:11:18",

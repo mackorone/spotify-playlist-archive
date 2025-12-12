@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. A Carson Com\u00e1val k\u00f6z\u00f6sen \u00f6ssze\u00e1ll\u00edtott lej\u00e1tsz\u00e1si lista.",
-  "num_followers": 15978,
+  "num_followers": 16007,
   "original_name": "Nemazapop takeover by Carson Coma",
   "owner": {
     "name": "Spotify",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-12-04 23:00:15",
       "album": {
-        "name": "Elsz\u00e1lln\u00e9k",
-        "url": "https://open.spotify.com/album/4k5jW5VJ4LyfFjo4QWYagM"
-      },
-      "artists": [
-        {
-          "name": "imago mundi",
-          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Elsz\u00e1lln\u00e9k",
-      "url": "https://open.spotify.com/track/6AeHaBOwRw4IbdV8Rxc4iq"
-    },
-    {
-      "added_at": "2025-12-04 23:00:15",
-      "album": {
         "name": "T\u00e9lbe \u00e1t",
         "url": "https://open.spotify.com/album/1zXzbm4fRPft8o8rJBruSQ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 161280,
       "name": "T\u00e9lbe \u00e1t",
       "url": "https://open.spotify.com/track/2yhLSp2tSxQsKdaYBJ1vNl"
+    },
+    {
+      "added_at": "2025-12-04 23:00:15",
+      "album": {
+        "name": "Elsz\u00e1lln\u00e9k",
+        "url": "https://open.spotify.com/album/4k5jW5VJ4LyfFjo4QWYagM"
+      },
+      "artists": [
+        {
+          "name": "imago mundi",
+          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Elsz\u00e1lln\u00e9k",
+      "url": "https://open.spotify.com/track/6AeHaBOwRw4IbdV8Rxc4iq"
     },
     {
       "added_at": "2025-12-04 23:00:15",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-12-04 23:00:15",
       "album": {
-        "name": "Boh\u00e9m Himnusz",
-        "url": "https://open.spotify.com/album/1XOL9ld2JEiXfuMp9oKtn6"
-      },
-      "artists": [
-        {
-          "name": "ajsa luna",
-          "url": "https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "Boh\u00e9m Himnusz",
-      "url": "https://open.spotify.com/track/1efQhXRuD8NvlWjGrBl1X7"
-    },
-    {
-      "added_at": "2025-12-04 23:00:15",
-      "album": {
         "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
         "url": "https://open.spotify.com/album/3g6kFvFJ0eJdymybxhynlr"
       },
@@ -1323,26 +1307,6 @@
       "duration_ms": 259624,
       "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
       "url": "https://open.spotify.com/track/7hA3VR2GHMbddFVTw2QJ5K"
-    },
-    {
-      "added_at": "2025-12-04 23:00:15",
-      "album": {
-        "name": "Nekedval\u00f3s\u00e1g",
-        "url": "https://open.spotify.com/album/6LnlDFhGowcmBR0t2xaPjS"
-      },
-      "artists": [
-        {
-          "name": "New Level Empire",
-          "url": "https://open.spotify.com/artist/36qy5nRn7h7rrHuphonJ6y"
-        },
-        {
-          "name": "D\u00e9r Heni",
-          "url": "https://open.spotify.com/artist/295TDfZZwfEJHEjtKQpOhP"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Nekedval\u00f3s\u00e1g",
-      "url": "https://open.spotify.com/track/7Imx5CtDuBNwGsE0Hdxuyi"
     },
     {
       "added_at": "2025-12-04 23:00:15",
@@ -1363,6 +1327,42 @@
       "duration_ms": 176500,
       "name": "\u00c9LEK \u00c9S VIRULOK",
       "url": "https://open.spotify.com/track/7EknOyrrRIVBQNWrwOkuSl"
+    },
+    {
+      "added_at": "2025-12-04 23:00:15",
+      "album": {
+        "name": "Boh\u00e9m Himnusz",
+        "url": "https://open.spotify.com/album/1XOL9ld2JEiXfuMp9oKtn6"
+      },
+      "artists": [
+        {
+          "name": "ajsa luna",
+          "url": "https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "Boh\u00e9m Himnusz",
+      "url": "https://open.spotify.com/track/1efQhXRuD8NvlWjGrBl1X7"
+    },
+    {
+      "added_at": "2025-12-04 23:00:15",
+      "album": {
+        "name": "Nekedval\u00f3s\u00e1g",
+        "url": "https://open.spotify.com/album/6LnlDFhGowcmBR0t2xaPjS"
+      },
+      "artists": [
+        {
+          "name": "New Level Empire",
+          "url": "https://open.spotify.com/artist/36qy5nRn7h7rrHuphonJ6y"
+        },
+        {
+          "name": "D\u00e9r Heni",
+          "url": "https://open.spotify.com/artist/295TDfZZwfEJHEjtKQpOhP"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Nekedval\u00f3s\u00e1g",
+      "url": "https://open.spotify.com/track/7Imx5CtDuBNwGsE0Hdxuyi"
     },
     {
       "added_at": "2025-12-04 23:00:15",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2025-12-04 23:00:15",
       "album": {
+        "name": "IM\u00c1G\u00d3",
+        "url": "https://open.spotify.com/album/6a7Dw3UNp2o57zyLn2vFeQ"
+      },
+      "artists": [
+        {
+          "name": "H\u0171v\u00f6s",
+          "url": "https://open.spotify.com/artist/3xUvGJC2dqdwZ63D801tmA"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "\u00dcDV A KLUBBAN",
+      "url": "https://open.spotify.com/track/6lqGo3OzCYhPGIX4IRZYDT"
+    },
+    {
+      "added_at": "2025-12-04 23:00:15",
+      "album": {
         "name": "SZ\u00d3LNI KELL",
         "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
       },
@@ -1411,26 +1427,6 @@
       "duration_ms": 223386,
       "name": "KICSIKE F\u00c9NY",
       "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
-    },
-    {
-      "added_at": "2025-12-04 23:00:15",
-      "album": {
-        "name": "Avar",
-        "url": "https://open.spotify.com/album/3IIniqQIPnxvogMPs3qLek"
-      },
-      "artists": [
-        {
-          "name": "\u0414eva",
-          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
-        },
-        {
-          "name": "Balint Boldizsar",
-          "url": "https://open.spotify.com/artist/5xFU79pSKrEpSiTVysdTY3"
-        }
-      ],
-      "duration_ms": 285999,
-      "name": "Kis Kece",
-      "url": "https://open.spotify.com/track/62MujMMhnGOJB1gGTYbCAC"
     }
   ],
   "unique_name": "Nemazapop takeover by Carson Coma",

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,723 songs - 8 day 5 hr 23 min
+3,725 songs - 8 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1644,7 +1644,7 @@
 | [Intermezzo](https://open.spotify.com/track/5iQTcyPpa3RyhYWTihDanv) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Grandi Bugie Legalizzate](https://open.spotify.com/album/5plR5qER6ZLx0CRmLaegEW) | 1:05 | 2025-04-04 |  |
 | [Internet Fame](https://open.spotify.com/track/6QTRBjyLjIjw3QX7mpulLt) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Vir ALL](https://open.spotify.com/album/2KcPJlhVJvY61tJtdKUsjh) | 2:39 | 2025-09-17 |  |
 | [Internet Fame \(another\)](https://open.spotify.com/track/0xyumy7Hk3JBxMZh39o16S) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Vir ALL](https://open.spotify.com/album/2KcPJlhVJvY61tJtdKUsjh) | 3:20 | 2025-09-17 |  |
-| [inthej](https://open.spotify.com/track/2kvANa2pnrrPxOUEjczuUx) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [inthej](https://open.spotify.com/album/2QUpX5PFxU2pCmW88hoPZL) | 1:49 | 2025-07-28 |  |
+| [inthej](https://open.spotify.com/track/2kvANa2pnrrPxOUEjczuUx) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc), [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [inthej](https://open.spotify.com/album/2QUpX5PFxU2pCmW88hoPZL) | 1:49 | 2025-07-28 |  |
 | [Into The Blue](https://open.spotify.com/track/04kVji4fpgDPUwrw841PP8) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Sunrise EP](https://open.spotify.com/album/7JDicUKhX8bbuQxM0xxW2J) | 3:09 | 2025-10-09 |  |
 | [Into the Light](https://open.spotify.com/track/2uSrnTz814j3j0Xya0cCyl) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [New Age Relax](https://open.spotify.com/album/5RiMWmGi4npP6fcQJkVk8t) | 3:56 | 2025-09-19 |  |
 | [Into the Light \(another\)](https://open.spotify.com/track/1h9JCstjzdJRZ1Qvr8ntpk) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [New Age Relax](https://open.spotify.com/album/5RiMWmGi4npP6fcQJkVk8t) | 2:29 | 2025-09-19 |  |
@@ -1963,7 +1963,7 @@
 | [Mama Wa Kambo](https://open.spotify.com/track/1gab7HxCYuNIZ7rh9oo7Zk) | [Nyakstar](https://open.spotify.com/artist/4sIGvBMOHQSdtFKsE8JAIT), [Clizzoh Kheed](https://open.spotify.com/artist/03XiEfRCt8pG6GqCcz47jh) | [Mama Wa Kambo](https://open.spotify.com/album/4sN0SsLW3Utb9OR3dlp18Z) | 3:16 | 2025-03-05 |  |
 | [mamma](https://open.spotify.com/track/5pG1uNhhrWeLpgiqonGLb8) | [Die](https://open.spotify.com/artist/7CXRmSDpHDeasaFFj6xG9Y) | [mamma](https://open.spotify.com/album/0Kla7rUP2FxoERszAPT3U1) | 1:24 | 2025-06-22 |  |
 | [MAN Hunt](https://open.spotify.com/track/6mlOgnL1AcYUXOX2P4jWFZ) | [Ace\_Relevant](https://open.spotify.com/artist/01TENR8djYPZL8oeh4DrBO) | [Ace\_Relevant](https://open.spotify.com/album/7j3awrP8NcOkL4VIVjwZ78) | 2:27 | 2025-09-08 |  |
-| [Man Of The Year](https://open.spotify.com/track/3QEJ2bZW0SQtjWGdIOHHxt) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb), [5STAR](https://open.spotify.com/artist/0DVETtFrZ1gvd4OfNNH99F) | [Man Of The Year](https://open.spotify.com/album/1tAjSpqbX77bOVVkF7pRIT) | 1:41 | 2025-07-28 |  |
+| [Man Of The Year](https://open.spotify.com/track/3QEJ2bZW0SQtjWGdIOHHxt) | [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb), [5STAR](https://open.spotify.com/artist/0DVETtFrZ1gvd4OfNNH99F) | [Man Of The Year](https://open.spotify.com/album/1tAjSpqbX77bOVVkF7pRIT) | 1:41 | 2025-07-28 |  |
 | [MAPS](https://open.spotify.com/track/6cInTWiLuUzfegInu4IyAt) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [404 Love Not Found](https://open.spotify.com/album/6W1kWmXKLg6sKQPvzfjfLK) | 2:49 | 2025-08-28 |  |
 | [Marble Floors](https://open.spotify.com/track/30S82dxldXsPbuj4ShyVBK) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Marble Floors](https://open.spotify.com/album/4XkbqXgTN2KeJRixyLKm4o) | 3:28 | 2025-07-28 |  |
 | [Marea](https://open.spotify.com/track/6pupcYuNdojFc5W4o26BdJ) | [MadEleine](https://open.spotify.com/artist/0qecsDJMNlyALgNFKoTtpi) | [Marea](https://open.spotify.com/album/3j9RYKrmygjLkdZNKDX1Sl) | 2:49 | 2025-06-08 |  |
@@ -2360,6 +2360,7 @@
 | [One More Time](https://open.spotify.com/track/3BAVKeHXjW1IvxyZkyTdVh) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Lifelines](https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ) | 3:13 | 2025-04-09 |  |
 | [One Of Those Things](https://open.spotify.com/track/4nNgCSV5edJeQWjjbYN4in) | [Beija Flo](https://open.spotify.com/artist/4GaPbBHKMH1cxz6DG22fJl) | [One Of Those Things](https://open.spotify.com/album/3QL9C2iVYHeZg1J28LqtSs) | 3:01 | 2025-11-05 |  |
 | [ONE SECOND \(feat\. Yung Lean\)](https://open.spotify.com/track/2TGwmgjl7qszphP6hfe6Df) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Cold Visions](https://open.spotify.com/album/2cEL04tddUszYFy6tEM1rI) | 1:51 | 2025-07-28 |  |
+| [One Step Closer to You](https://open.spotify.com/track/4fuaqQTVuQOr7vTNdfXGax) | [Vincent Projects](https://open.spotify.com/artist/6P8kClrXTKESI4G5bwW6gJ) | [Five Horizons](https://open.spotify.com/album/4JBYAkVluXXDBSLuD3MTg2) | 3:12 | 2025-12-11 |  |
 | [One Way! 2](https://open.spotify.com/track/3Jl77VcjXq1xAYctuzFMHz) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [One Way! 2](https://open.spotify.com/album/1BIHuR5QMyGqhTqy9Ldtvf) | 3:45 | 2025-07-28 |  |
 | [Only Dreamer is Real](https://open.spotify.com/track/52yMT5xCwSivgSHXuohwXl) | [Binaural Beats Ascension](https://open.spotify.com/artist/1pZSqxQu4oj7bUxjBZKyD0) | [Only Dreamer is Real](https://open.spotify.com/album/1YkKOsvGuRpYMzWgqN5W8f) | 9:31 | 2025-06-04 |  |
 | [Only love matters](https://open.spotify.com/track/7kl0acdjYhuxJgF4w7muMd) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [Only love matters](https://open.spotify.com/album/7nCc9JShXPUm0N3WysAMO6) | 3:11 | 2025-09-02 |  |
@@ -2464,7 +2465,7 @@
 | [Pieces](https://open.spotify.com/track/68JRmfTYNVdH0r8jYxWZEm) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Pieces \(Single EP\)](https://open.spotify.com/album/5GNh01tq9qJCOoCBN6BMAl) | 4:27 | 2025-06-02 |  |
 | [PIECES](https://open.spotify.com/track/1rbBa1K2ey2p70ulgsNDLh) | [Nova](https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF) | [PIECES](https://open.spotify.com/album/1WM8fSWUKte00wxu0XIv4M) | 2:03 | 2025-05-16 |  |
 | [Pilpala](https://open.spotify.com/track/20v5YZRwxbgvr704NlPXuv) | [Presidenttikuningas](https://open.spotify.com/artist/09CvbZF0xb31mQGO44VOSo) | [Pilpala](https://open.spotify.com/album/5aka3R5nmtqb1qVfAw80CY) | 5:12 | 2025-11-05 |  |
-| [pink dreads](https://open.spotify.com/track/5sHRrp6kmVEgYGQFMu11yR) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [blame the chat](https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY) | 2:00 | 2025-07-28 |  |
+| [pink dreads](https://open.spotify.com/track/5sHRrp6kmVEgYGQFMu11yR) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [blame the chat](https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY) | 2:00 | 2025-07-28 |  |
 | [Pink Leather Apocalypse](https://open.spotify.com/track/60HGAuSY9SOooFS8YQgkLO) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard rock trash/heavy metal with pop taste](https://open.spotify.com/album/6LigdV5RX2AosQ7xMbbn11) | 3:12 | 2025-09-19 |  |
 | [pioggia ad agosto](https://open.spotify.com/track/3WT4rBFU8AuSWVkg9A4Peb) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [1825 \(Deluxe Edition\)](https://open.spotify.com/album/4cshacNZvF004rK5D2n4wI) | 2:22 | 2025-08-10 |  |
 | [PIOVE SOTTO AL MIO OMBRELLO](https://open.spotify.com/track/3e1PxsUQvDztAyyhdf2ysb) | [SAMEBLUD](https://open.spotify.com/artist/7fVYJLnYP4msJvPRzqycyn) | [OUCH!](https://open.spotify.com/album/3OaLDXBtg87CSRxlLTOtn0) | 3:02 | 2025-05-28 |  |
@@ -2500,6 +2501,7 @@
 | [POS](https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [POS](https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5) | 2:13 | 2025-04-09 |  |
 | [Pose For The Pic](https://open.spotify.com/track/7mpY8KmX0mUCJV49dstMA3) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Pose For The Pic](https://open.spotify.com/album/45rfnyjY7gWPETzgnU3j4a) | 2:44 | 2025-07-28 |  |
 | [Post Blue](https://open.spotify.com/track/6DqR8FPtd3uPT9GLbly6Ok) | [Floor Zero](https://open.spotify.com/artist/28ChXBrWARNsOLTJNKdliE) | [Post Blue](https://open.spotify.com/album/1j2o4B7NPh4AwQmbqAt3oK) | 4:14 | 2025-06-15 |  |
+| [Poveri Noi](https://open.spotify.com/track/5adhTQAbIkuN2bHcvYqDLb) | [VARTA74](https://open.spotify.com/artist/1WLPGXeBf0LMnggYMRVaJQ) | [Veleno](https://open.spotify.com/album/0O841AhpGlbaNL3zmfwCvZ) | 3:51 | 2025-12-11 |  |
 | [Power](https://open.spotify.com/track/0laZWY3EU8RYnJf4YnB2Fl) | [Sons of Legion](https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW) | [Power](https://open.spotify.com/album/6ln8iXcLmyu9wJIUq5J7IS) | 2:43 | 2024-11-07 |  |
 | [Power in Balance](https://open.spotify.com/track/1SSf6zVdpSTdqVxwZux1jo) | [EmRysRa](https://open.spotify.com/artist/0Nankvxle3GVZIrXrhbV1m) | [Power in Balance](https://open.spotify.com/album/56TclUUl47Mtvb3QAL81L2) | 5:04 | 2025-06-04 |  |
 | [Power Seduction](https://open.spotify.com/track/6jBFjlQcdnLdUIsWamK3AJ) | [EmRysRa](https://open.spotify.com/artist/0Nankvxle3GVZIrXrhbV1m) | [Power Seduction](https://open.spotify.com/album/2zfCSd7SauTyEde13splcU) | 3:44 | 2025-06-04 |  |

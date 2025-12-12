@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Celebriamo il 2025 delle artiste italiane 💚 Cover: Marta Del Grandi
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,318 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,322 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 59 | [Quante Lacrime](https://open.spotify.com/track/1QsG1bTnygLpg0S4d9Fnrg) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Quante Lacrime](https://open.spotify.com/album/30wIZa2jzdIwvcXcnkrm59) | 3:13 |
 | 60 | [17](https://open.spotify.com/track/4Qorwsh4sJd3ZcUSkBmTi4) | [Sara Baroni](https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq) | [Dead End](https://open.spotify.com/album/3tMqWsevN8DlWHsofi1Joo) | 3:23 |
 
-Snapshot ID: `AAAAALY9aGas1AG1+eWZrdhcpV6wfgFs`
+Snapshot ID: `AAAAABRzHEhfT4KIq2vQoCHhMu5JwEvR`

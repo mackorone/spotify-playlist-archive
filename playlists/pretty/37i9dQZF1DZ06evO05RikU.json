@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43359,
+  "num_followers": 43364,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAAC1Q2B3/wWWcEE/a9NlZ+II",
+  "snapshot_id": "aTi4AAAAAAAtMfIFQgbapRyv9Mhy5XVV",
   "tracks": [
     {
       "added_at": null,
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "idgaf era",
-        "url": "https://open.spotify.com/album/3tGoaKWZxgQ1BuGQNi6Ryz"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 164747,
-      "name": "idgaf era",
-      "url": "https://open.spotify.com/track/1QkeDzrWGwDJd8mjQrUeBD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Louder!.",
         "url": "https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 198384,
       "name": "Conmigo (Rest of Your Life)",
       "url": "https://open.spotify.com/track/5B8qZ2uzB58fj4kAPdMDqv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "idgaf era",
+        "url": "https://open.spotify.com/album/3tGoaKWZxgQ1BuGQNi6Ryz"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 164747,
+      "name": "idgaf era",
+      "url": "https://open.spotify.com/track/1QkeDzrWGwDJd8mjQrUeBD"
     },
     {
       "added_at": null,
@@ -947,6 +947,26 @@
       "duration_ms": 221320,
       "name": "Highway",
       "url": "https://open.spotify.com/track/4rhdtzBmrrDxYi35yQDpzF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Louder!.",
+        "url": "https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Solo Yo",
+      "url": "https://open.spotify.com/track/4DWTVpNexbmJIVc2AmNEZc"
     },
     {
       "added_at": null,
@@ -999,26 +1019,6 @@
       "duration_ms": 235603,
       "name": "Pa' La Cultura",
       "url": "https://open.spotify.com/track/3MR5Lnhd6uCIgLXSK7nmyX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Louder!.",
-        "url": "https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Solo Yo",
-      "url": "https://open.spotify.com/track/4DWTVpNexbmJIVc2AmNEZc"
     },
     {
       "added_at": null,

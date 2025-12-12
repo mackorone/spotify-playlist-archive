@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Dove Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,294,446 likes - 170 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,294,369 likes - 170 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 106 | [nail polish](https://open.spotify.com/track/7qTTQpGiy31t0zjsctXmYN) | [Khatumu](https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu) | [nail polish](https://open.spotify.com/album/2RwnPnlXIbLB4h2Dwcbzz5) | 3:46 |
 | 107 | [Layla](https://open.spotify.com/track/6VN3BKyXPSRmsNsWF7vwwB) | [Janelane](https://open.spotify.com/artist/35N63pLgKzB0ZknLTrFVSA) | [Layla](https://open.spotify.com/album/2I5YF2KVWXGzcmcajYe7DR) | 3:18 |
 | 108 | [bends](https://open.spotify.com/track/4TcFca33MCawvupKcnNZVF) | [emory](https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE) | [bends](https://open.spotify.com/album/4mhpowGp35okwQsenHy36F) | 2:35 |
-| 109 | [DRUG OF CHOICE](https://open.spotify.com/track/2bNgeZGJXIAM0XOL5Qx0O9) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [Drug of Choice](https://open.spotify.com/album/2huVnFx4dVVzrmETKDI1wc) | 3:25 |
+| 109 | [DRUG OF CHOICE](https://open.spotify.com/track/2bNgeZGJXIAM0XOL5Qx0O9) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [DRUG OF CHOICE](https://open.spotify.com/album/2huVnFx4dVVzrmETKDI1wc) | 3:25 |
 | 110 | [Got It In Tha Mix](https://open.spotify.com/track/1ryz4LWb2VKPECrK1tFzJE) | [Ms\* Gloom](https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu) | [Got It In Tha Mix](https://open.spotify.com/album/3sWl9eqr9XF0E18eFLeJz8) | 3:15 |
 | 111 | [on our own](https://open.spotify.com/track/3hc9nQIUe6w1fXuhN7IBwi) | [mou](https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt) | [on our own](https://open.spotify.com/album/0zz6Mh7WEvdtU6dnzIxEwj) | 2:06 |
 | 112 | [Gallowine](https://open.spotify.com/track/2YHbbGCtiiwo2rEP1FupL0) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Gallowine](https://open.spotify.com/album/0hsKCAq5BVL0VEUe85jH4V) | 4:09 |

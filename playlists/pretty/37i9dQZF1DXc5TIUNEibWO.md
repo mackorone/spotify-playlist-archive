@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 
 > Ghanaian Highlife Classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,877 likes - 80 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,891 likes - 80 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,12 +53,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 43 | [Onyame Ehu Wo](https://open.spotify.com/track/6aE85LSDkZkJ8h0WDDoMhI) | [K\. K\. Kabobo](https://open.spotify.com/artist/3F6YqDrWOs7y5rhLhfh0eq) | [My Sweetheart](https://open.spotify.com/album/7iL0RAeJ5oGgkThuw1I7AJ) | 5:22 |
 | 44 | [Sherry](https://open.spotify.com/track/0Lal2wxOG7u95l7hz6TYxO) | [Kofi B](https://open.spotify.com/artist/0aaLDXAqIRn6IjdUTDZC3O), [Yoggi Doggi](https://open.spotify.com/artist/40hJgIb4amRIThJR0nAc6s) | [Twa Me Ke Ke](https://open.spotify.com/album/18lUsdGaHx5lUeYsZ99snM) | 5:31 |
 | 45 | [All for You](https://open.spotify.com/track/1BV8PaVQg6M49hlDMs5tA4) | [E.T\. Mensah](https://open.spotify.com/artist/4iT5xSPkGz0b9xj528RKvH), [The Tempos](https://open.spotify.com/artist/6vWc4bf4L0lLPEzkXPE2vm) | [All For You, Classic Highlife Recordings From The 1950s](https://open.spotify.com/album/0Yo9mXSl3r5r6EtlEsJVRN) | 2:43 |
-| 46 | [Alomo Ketewa](https://open.spotify.com/track/2oyUbRmfq7fVTxZVa1ZgJu) | [Naa Agyeman](https://open.spotify.com/artist/0ISqwjoEAGZoZHuYFYBqAJ) | [Alomo Ketewa](https://open.spotify.com/album/2WW00lWxkXUj8oi9Tge9Yp) | 5:33 |
-| 47 | [Veranda](https://open.spotify.com/track/661VXHANy2wLEQftFosxuH) | [Samuel Owusu](https://open.spotify.com/artist/722O5pQlnI9WNQEx3iO8am) | [Veranda](https://open.spotify.com/album/5NlpTtYLQea0k9Sk4j6vg5) | 6:00 |
+| 46 | [Veranda](https://open.spotify.com/track/661VXHANy2wLEQftFosxuH) | [Samuel Owusu](https://open.spotify.com/artist/722O5pQlnI9WNQEx3iO8am) | [Veranda](https://open.spotify.com/album/5NlpTtYLQea0k9Sk4j6vg5) | 6:00 |
+| 47 | [Alomo Ketewa](https://open.spotify.com/track/2oyUbRmfq7fVTxZVa1ZgJu) | [Naa Agyeman](https://open.spotify.com/artist/0ISqwjoEAGZoZHuYFYBqAJ) | [Alomo Ketewa](https://open.spotify.com/album/2WW00lWxkXUj8oi9Tge9Yp) | 5:33 |
 | 48 | [Medo Hemaa](https://open.spotify.com/track/2K2wEAw5sjiTAeB5slHbPX) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [Medo Hemaa](https://open.spotify.com/album/3iR2k41ydYQa2Jtchiy2sr) | 5:37 |
 | 49 | [Meridian](https://open.spotify.com/track/71x2VPLAGpTUQ8Md9t8An6) | [Wulomei](https://open.spotify.com/artist/6WzfiML2Juo5YqGItmsRAH) | [Wulomei Returns](https://open.spotify.com/album/6m86XGQrgOFLYKRdriilyx) | 4:35 |
-| 50 | [Adwoa Yankey, Pt\. 1](https://open.spotify.com/track/0BsfJgIRCYqxuYNQk0vG87) | [C\. K\. Mann](https://open.spotify.com/artist/76ZoX4PUlQFIXHxCyIOcKi) | [Best of C\. K\. Mann](https://open.spotify.com/album/2qHEqGNhRUZVxiMrAz4Oaa) | 8:47 |
-| 51 | [Abena](https://open.spotify.com/track/1gl5CQSfwBvDOQ6i2oZfmt) | [Jewel Ackah](https://open.spotify.com/artist/4hlbgeuEnNUQobir5m32N4) | [Dig The Hilife Bump](https://open.spotify.com/album/102zAbr1IfMh6R8BKSOmuR) | 7:10 |
+| 50 | [Abena](https://open.spotify.com/track/1gl5CQSfwBvDOQ6i2oZfmt) | [Jewel Ackah](https://open.spotify.com/artist/4hlbgeuEnNUQobir5m32N4) | [Dig The Hilife Bump](https://open.spotify.com/album/102zAbr1IfMh6R8BKSOmuR) | 7:10 |
+| 51 | [Adwoa Yankey, Pt\. 1](https://open.spotify.com/track/0BsfJgIRCYqxuYNQk0vG87) | [C\. K\. Mann](https://open.spotify.com/artist/76ZoX4PUlQFIXHxCyIOcKi) | [Best of C\. K\. Mann](https://open.spotify.com/album/2qHEqGNhRUZVxiMrAz4Oaa) | 8:47 |
 | 52 | [Twa Me Ke Ke](https://open.spotify.com/track/6KR9tI5jt7esj40ca2pC0B) | [Kofi B](https://open.spotify.com/artist/0aaLDXAqIRn6IjdUTDZC3O) | [Twa Me Ke Ke](https://open.spotify.com/album/18lUsdGaHx5lUeYsZ99snM) | 5:35 |
 | 53 | [Fa Odo Bodum](https://open.spotify.com/track/4RS82IcbqvPB8RqBWPZAJO) | [Tommy Wiredu & Frank Mensa](https://open.spotify.com/artist/6sq9gJEKndPlGG3uHdDdy7) | [Fa Idi Bidim](https://open.spotify.com/album/0MKTh5bBvdiUexxG8o4ilW) | 5:30 |
 | 54 | [Odo Handkerchief](https://open.spotify.com/track/519FtZ3naaHROhiSTYoz0H) | [2LOCK](https://open.spotify.com/artist/6MVtDnspjgV35FvthrP9Gn) | [The Best of Nana Fynn \(2LOCK\) Volume One](https://open.spotify.com/album/3dfvPdfSku0X2slgY2FDwv) | 4:55 |

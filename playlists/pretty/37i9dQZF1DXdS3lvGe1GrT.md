@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > The 75 best folk songs from new, independent artists in 2025, as chosen by our editors\. Cover: Folk Bitch Trio
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,123 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,146 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 74 | [KISMET](https://open.spotify.com/track/21KT7YAGDTuxYXb23Sn8r6) | [Kellan Christopher Cragg](https://open.spotify.com/artist/31ukhOt5qC5evJZZgopJuq) | [WRONG BALLOON](https://open.spotify.com/album/15x3ySOZ2wxq5WsnlqPUZn) | 2:34 |
 | 75 | [little red, little blue](https://open.spotify.com/track/6NVOLj0lnSuzj8I05ITs5X) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [sweet dreams, see you tomorrow](https://open.spotify.com/album/70dHr0NR18d9wDcts9cCT7) | 2:48 |
 
-Snapshot ID: `AAAAAF25YXagX+qcZNT6ihFrdAXIruP0`
+Snapshot ID: `AAAAANnS+lTtEIoNX35bLWkdykVE04JW`

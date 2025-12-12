@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Hamza au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "L2B x La Fouine au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -2722,7 +2722,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 152049,
       "name": "French Riviera",
       "url": "https://open.spotify.com/track/3geOCQaZHm3GRUolmeZpqv"
@@ -6857,6 +6857,24 @@
     },
     {
       "album": {
+        "name": "SIERRA LEONE",
+        "url": "https://open.spotify.com/album/0mcjtEfEYFI0YR0xQg8VIK"
+      },
+      "artists": [
+        {
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172258,
+      "name": "SIERRA LEONE",
+      "url": "https://open.spotify.com/track/6cGkG0fTz1Kgle6PHj7Rnh"
+    },
+    {
+      "album": {
         "name": "Sign\u00e9",
         "url": "https://open.spotify.com/album/0LQj4X4tGaXE4PwtZGQDuh"
       },
@@ -7417,6 +7435,24 @@
     },
     {
       "album": {
+        "name": "TP sur TP",
+        "url": "https://open.spotify.com/album/0QVdVUGfsa967bG0cU6Xfo"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "TP sur TP",
+      "url": "https://open.spotify.com/track/5pEftKLE1dyuOLTewNQZeX"
+    },
+    {
+      "album": {
         "name": "Diamant Noir",
         "url": "https://open.spotify.com/album/7LNFnwCFOuBNmlLwywpT3q"
       },
@@ -7520,7 +7556,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 158573,
       "name": "Tu Sais",
       "url": "https://open.spotify.com/track/1R1deVa4LzVxzgFIpvS2O3"

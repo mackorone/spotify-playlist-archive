@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 428869,
+  "num_followers": 428875,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -879,26 +879,6 @@
     {
       "added_at": "2025-11-07 03:00:09",
       "album": {
-        "name": "Lo Primero",
-        "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
-      },
-      "artists": [
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        },
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 188928,
-      "name": "De Haber Sabido",
-      "url": "https://open.spotify.com/track/1Z88J2aTfSa1JzYUq7HoFu"
-    },
-    {
-      "added_at": "2025-11-07 03:00:09",
-      "album": {
         "name": "Gal\u00e1ctica",
         "url": "https://open.spotify.com/album/7fDeOG3SJLd8kVMwp9J81m"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 207000,
       "name": "Gal\u00e1ctica",
       "url": "https://open.spotify.com/track/3lARK85Nl9QAjH9uqY1XdL"
+    },
+    {
+      "added_at": "2025-11-07 03:00:09",
+      "album": {
+        "name": "Lo Primero",
+        "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
+      },
+      "artists": [
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        },
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 188928,
+      "name": "De Haber Sabido",
+      "url": "https://open.spotify.com/track/1Z88J2aTfSa1JzYUq7HoFu"
     },
     {
       "added_at": "2025-11-07 03:00:09",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2025-11-07 03:00:09",
       "album": {
+        "name": "Diecinueve",
+        "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
+      },
+      "artists": [
+        {
+          "name": "Manu Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
+        }
+      ],
+      "duration_ms": 213105,
+      "name": "Fuimos",
+      "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
+    },
+    {
+      "added_at": "2025-11-07 03:00:09",
+      "album": {
         "name": "Vos",
         "url": "https://open.spotify.com/album/0H5BnWQZyob5gORyrods7t"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 198157,
       "name": "Vos",
       "url": "https://open.spotify.com/track/2d7QcFbqo7AfLLnHRmbqrn"
-    },
-    {
-      "added_at": "2025-11-07 03:00:09",
-      "album": {
-        "name": "Diecinueve",
-        "url": "https://open.spotify.com/album/2X7QgOXDviisukXhIrVt1k"
-      },
-      "artists": [
-        {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
-        }
-      ],
-      "duration_ms": 213105,
-      "name": "Fuimos",
-      "url": "https://open.spotify.com/track/6iaDLPWGJk8CIKMLkZU3HO"
     },
     {
       "added_at": "2025-11-07 03:00:09",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2025-11-07 03:00:09",
       "album": {
-        "name": "La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/1BllJboePDL5uY0fORETQO"
+        "name": "AWCH (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
       },
       "artists": [
         {
-          "name": "Spaghetti Western",
-          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 245968,
-      "name": "La Monta\u00f1a",
-      "url": "https://open.spotify.com/track/0LmjT7nW1n4Du0x3pqlMfM"
+      "duration_ms": 196004,
+      "name": "AWCH - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
     }
   ],
   "unique_name": "T\u00e9 Para Tres",

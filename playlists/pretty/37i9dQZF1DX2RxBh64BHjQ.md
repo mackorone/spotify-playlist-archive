@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:4nqQTosM2Mbg7iRjvJU0N0">Samara Cyn</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,754,794 likes - 100 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,754,588 likes - 100 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 4 | [Tree On The Hill \(Lunch Break Freestyle\)](https://open.spotify.com/track/6FPZlhHqrtCi3C4IBCHAy6) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Tree On The Hill \(Lunch Break Freestyle\)](https://open.spotify.com/album/52xvSVWdjkBlJbctNBiH5q) | 1:40 |
 | 5 | [vitamins n minerals](https://open.spotify.com/track/67Z4kW9iuiiSIl5UnodaKr) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [vitamins n minerals](https://open.spotify.com/album/5cg0UpSJLtYi9Ehy49tzy0) | 2:30 |
 | 6 | [Wonder](https://open.spotify.com/track/3WaeUGDzzQvMPjUEDIb4UN) | [Kaygo Gotti](https://open.spotify.com/artist/2TukjrSJITQqMa92O3UihS) | [Wonder](https://open.spotify.com/album/34jzVvaR27I1TpIIlENfs2) | 2:07 |
-| 7 | [TURN UP](https://open.spotify.com/track/5ogwhGSfeA3c82k4P6zriQ) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Rakai](https://open.spotify.com/artist/4SQN7zH1QNPFm2AFAz5qks), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [TURN UP](https://open.spotify.com/album/2Tfya2lpVhvpHDd3MTTyFP) | 2:33 |
+| 7 | [TURN UP](https://open.spotify.com/track/5ogwhGSfeA3c82k4P6zriQ) | [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Rakai](https://open.spotify.com/artist/4SQN7zH1QNPFm2AFAz5qks), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [TURN UP](https://open.spotify.com/album/2Tfya2lpVhvpHDd3MTTyFP) | 2:33 |
 | 8 | [Blow My High](https://open.spotify.com/track/65wJpouyr3pA2Bua9c6WJ7) | [Dee Mula](https://open.spotify.com/artist/3vMbThcZsIGHUmGb5YtFoY) | [Focus More On Me \(Deluxe\)](https://open.spotify.com/album/3gZnlSztK59g5CpK308bfg) | 2:29 |
 | 9 | [Basketball \(Roll Call\)](https://open.spotify.com/track/2sw7CUhGI0TBNrFcHGQ8Xq) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [Basketball \(Roll Call\)](https://open.spotify.com/album/3vci1G4jxx8INZ97kLb3ds) | 2:33 |
 | 10 | [MVP](https://open.spotify.com/track/6VPIV7F40XKePGCWjay6gk) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4) | [Migo In America](https://open.spotify.com/album/4M8Vzy9SLbY9KP4flAM1Yw) | 1:43 |

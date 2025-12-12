@@ -2,7 +2,7 @@
 
 ### [Afro House Pulse](https://open.spotify.com/playlist/37i9dQZF1DX5wO3czN5dc1)
 
-> The heartbeat of Afro House from Africa and around the globe\. Cover: Nkosazana Daughter
+> The heartbeat of Afro House from Africa and around the globe\. Cover: Musa Keys
 
 248 songs - 21 hr 21 min
 

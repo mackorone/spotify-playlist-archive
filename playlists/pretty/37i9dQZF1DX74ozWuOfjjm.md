@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Highlights from 2025, listen to women at full volume\. Cover: Ninajirachi
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,538 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,540 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 49 | [need u worse](https://open.spotify.com/track/38bwOFfc73jd1iZAUqvdCM) | [Gloria Laing](https://open.spotify.com/artist/3aO4DL5c2uBGD8EUuP7sxi) | [need u worse](https://open.spotify.com/album/1HeFAsrSjmpTd5FBSCAYwM) | 3:45 |
 | 50 | [Matisses Garden](https://open.spotify.com/track/0UrGBqyFGWd02fkVLfoJDJ) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Heavenly Hell of Mine](https://open.spotify.com/album/5wSbwauDyRLmuha5YxLuNR) | 2:55 |
 
-Snapshot ID: `AAAAAEPcZ2igTYcaIKiaAnXsKX6m5dY9`
+Snapshot ID: `AAAAAPCVQj0+IybIaVkX9RQhDuprqfcL`

@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-441 songs - 1 day 1 hr 49 min
+443 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [只要有你和我](https://open.spotify.com/track/3A6Famc5gdexD6jS9urHUR) | [陳緗妮](https://open.spotify.com/artist/6vv6vBtAsN2RRq1VylRupl), [R\-chord](https://open.spotify.com/artist/5XkrVVn0lQIVPkH55nbTgZ) | [只要有你和我](https://open.spotify.com/album/4nFJUo8MEQ8E1tAPRClxve) | 3:19 | 2024-03-18 | 2024-04-20 |
 | [告白氣球](https://open.spotify.com/track/1ivCIgrYZyE0BvItL4Z8lk) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [周杰倫的床邊故事](https://open.spotify.com/album/5clrYp291Dg0XL6rgvOgoB) | 3:35 | 2022-07-11 | 2024-01-09 |
 | [告白氣球](https://open.spotify.com/track/2tqF9MPNdYdJU70U0ULO23) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [周杰倫的床邊故事](https://open.spotify.com/album/7sydOexyOcfIdE9Pt4WR1H) | 3:35 | 2024-01-08 | 2024-04-19 |
+| [和你一起的風景](https://open.spotify.com/track/5sXgC20W4HQKyJEp46qUqv) | [Astro Bunny](https://open.spotify.com/artist/3PTsVPijj4pjIol9yML0rK) | [和你一起的風景未完待續](https://open.spotify.com/album/0tFoZb3tdwfNnjNIwG4mnO) | 3:25 | 2025-12-12 |  |
 | [和你的天气总是那么好 \(新传媒电视剧《遇见你,真香!》插曲\)](https://open.spotify.com/track/45c6g3bSGtCTmVzZkwc4s9) | [Xu Bin](https://open.spotify.com/artist/3FFFFJDwvzCq6gcHa9WkLs), [Chantalle Ng](https://open.spotify.com/artist/0XRTIDpqja8U3RNVM7CxEK) | [新传媒电视剧《遇见你,真香!》电视剧原声带](https://open.spotify.com/album/1K8czXXHMQeE57rqeifxPE) | 3:08 | 2022-12-19 | 2023-01-29 |
 | [哆唻咪](https://open.spotify.com/track/57RA8RHw9BlzKPkSDET63E) | [賀敬軒](https://open.spotify.com/artist/78AtbJzyfj3N9MTtfByW85) | [哆唻咪](https://open.spotify.com/album/5Ue3zLUZw5MqLh7WqBUYSd) | 4:02 | 2022-07-04 | 2022-07-08 |
 | [哈尼](https://open.spotify.com/track/1JzrHJEqu1966vRx8vAaoP) | [U:NUS](https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ) | [哈尼](https://open.spotify.com/album/40VT86rXZCTHUPXukA467i) | 3:42 | 2024-04-15 | 2025-05-16 |
@@ -375,7 +376,7 @@
 | [相見不恨晚](https://open.spotify.com/track/7agabtgHkr04VODN2mPQv1) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 3:28 | 2023-05-22 | 2025-06-12 |
 | [祝你生日快樂](https://open.spotify.com/track/0swDTbKkAtlG3FanC6jUct) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [祝你生日快樂](https://open.spotify.com/album/2AsrBsR18di75bRFTWArvC) | 4:06 | 2025-10-16 |  |
 | [突然想見你（《鬼之執行長》電視劇插曲）](https://open.spotify.com/track/0GEoPuKjsC0L0fgCcFPhOh) | [劉奕兒](https://open.spotify.com/artist/1NUGlzcnxDPj8nl9iCuh42), [Marcus Chang](https://open.spotify.com/artist/5GTkwiuc6ayldeGjQVAN4n) | [突然想見你（《鬼之執行長》電視劇插曲）](https://open.spotify.com/album/7EFy9C9dPS2f360H56SX4J) | 3:50 | 2023-07-31 | 2023-09-03 |
-| [第一封情書](https://open.spotify.com/track/5tjog7gO3dqoQe7qOsxNUx) | [bertandlulu](https://open.spotify.com/artist/5NnArmUJlGPHOtOQmTEdjJ) | [第一封情書](https://open.spotify.com/album/1tDN1Y6T5UJur79ahhvMiX) | 4:01 | 2025-08-07 |  |
+| [第一封情書](https://open.spotify.com/track/5tjog7gO3dqoQe7qOsxNUx) | [bertandlulu](https://open.spotify.com/artist/5NnArmUJlGPHOtOQmTEdjJ) | [第一封情書](https://open.spotify.com/album/1tDN1Y6T5UJur79ahhvMiX) | 4:01 | 2025-08-07 | 2025-12-12 |
 | [第一默契 \(电视剧 《你微笑时很美》 片尾曲\)](https://open.spotify.com/track/4Y7gVsky7KNr4P8Bjbtlcy) | [Kai Xu](https://open.spotify.com/artist/5aL82Rnbtx5DQp5cAcCUdI), [Xiao Cheng](https://open.spotify.com/artist/1o4C8yeeDMUpc2Hq4jRTwT) | [电视剧《你微笑时很美》影视原声带](https://open.spotify.com/album/3chqJvgxqZfXOhISPnJCNs) | 3:28 | 2022-09-26 | 2024-04-19 |
 | [第一默契 Soulmate](https://open.spotify.com/track/3GFdYLcROugyYHy9rcXulD) | [Xu Kai](https://open.spotify.com/artist/00m70qHTo1jHHxLgAXbkXA), [程瀟 \(Cheng Xiao\)](https://open.spotify.com/artist/6eY9LT0jokuZ4iwGoAW9nt) | [你微笑時很美 Falling Into Your Smile OST](https://open.spotify.com/album/7GcUs9FQMCUatmstpSeDZZ) | 3:28 | 2022-06-13 | 2022-09-30 |
 | [等你下課](https://open.spotify.com/track/0TMGJMQJWHhuNY60MEr5jR) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [最偉大的作品](https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT) | 4:30 | 2024-01-08 | 2024-04-19 |
@@ -441,6 +442,7 @@
 | [静悄悄](https://open.spotify.com/track/5PVNTW0LaOF2uino8FV0m2) | [大泫](https://open.spotify.com/artist/3mpbX209GwoScDJLVLRHk9) | [静悄悄](https://open.spotify.com/album/2HPDOJb3fpTL7AwiRLfw5L) | 3:05 | 2022-07-25 | 2023-02-01 |
 | [静悄悄](https://open.spotify.com/track/751bgbxEOI9bjbTO88EKIb) | [大泫](https://open.spotify.com/artist/3mpbX209GwoScDJLVLRHk9) | [静悄悄](https://open.spotify.com/album/1v452JuJ1JzALw0tBlIlGC) | 3:05 | 2023-01-30 | 2024-04-19 |
 | [非酋](https://open.spotify.com/track/6PPqL3Oj5qzpTN8xG19W2z) | [薛明媛](https://open.spotify.com/artist/7j15ACuH4YxdpLiuBHvFAv), [朱贺](https://open.spotify.com/artist/40So5hAPxfVdbVhafEMgA8) | [非酋](https://open.spotify.com/album/3wXVp7uFmElrmsm65zAhzG) | 2:52 | 2022-07-25 | 2024-08-16 |
+| [靠很近](https://open.spotify.com/track/5LgXO99ckCKgnGrxpMluIR) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [](https://open.spotify.com/album/null) | 3:37 | 2025-12-12 |  |
 | [靠近](https://open.spotify.com/track/7hoxzbKYr2T8EmbyWlowfu) | [一口甜](https://open.spotify.com/artist/3xyeMXp6JQR1J2tZKk0HIL), [二辰](https://open.spotify.com/artist/0aDQTS1mVAknIdfq1iYqaQ) | [靠近](https://open.spotify.com/album/0BoJn9SgzgcNQ93kGrov1J) | 2:58 | 2022-06-13 | 2022-06-17 |
 | [靠近一点！](https://open.spotify.com/track/4hHWrmEHvE1eRpwCvcumdC) | [HOW1E](https://open.spotify.com/artist/0w3DHXnJ10bERq7Z78jpeB) | [靠近一点！](https://open.spotify.com/album/0EAYFu1kD503xowhb2BIi4) | 2:45 | 2025-08-28 | 2025-11-28 |
 | [靠近一點點](https://open.spotify.com/track/01cO3ZfjGwlY7nMDDr5tDZ) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [惡作劇之吻](https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe) | 3:33 | 2022-07-25 | 2024-04-19 |

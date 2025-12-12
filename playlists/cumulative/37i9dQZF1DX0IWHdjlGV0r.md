@@ -4,7 +4,7 @@
 
 > Alcuni amori bruciano più di altri\. Cover: Emis Killa
 
-240 songs - 12 hr 13 min
+241 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [La Notte di San Lorenzo](https://open.spotify.com/track/79Fh7hxRa2QDiLN3VMrFjL) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [La Notte di San Lorenzo](https://open.spotify.com/album/2GdSyJJhZiVTauVviRoycI) | 3:08 | 2022-07-28 | 2025-03-19 |
 | [La tua canzone](https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy) | 3:12 | 2022-05-03 | 2025-05-27 |
 | [Lacrime](https://open.spotify.com/track/58Z81LreWvl772tymig5fd) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [UFORIA](https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB) | 2:24 | 2025-11-20 |  |
+| [Lame \(feat\. CLARA, Tedua\)](https://open.spotify.com/track/5sHB0BW7azchwsEINurkIM) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [GLORIA](https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf) | 2:28 | 2025-12-12 |  |
 | [LEI](https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:43 | 2024-12-13 |  |
 | [LEI \(feat\. Rondodasosa\)](https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Giù](https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3) | 3:22 | 2022-07-05 |  |
 | [Lei È...](https://open.spotify.com/track/6VJCsvAbFi0webNvv8zzWZ) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Habitat Cielo](https://open.spotify.com/album/7sBtYYq0pLiMncQC7NxlKc) | 2:44 | 2023-03-30 | 2023-07-01 |
@@ -138,7 +139,7 @@
 | [Male](https://open.spotify.com/track/2mb8gG8kOMCJDzBmCNm7El) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Gaming Hip Hop Hits](https://open.spotify.com/album/7fPtjzJR9bfAf7Wv0v9Xp2) | 2:41 | 2022-11-07 | 2022-11-14 |
 | [Male](https://open.spotify.com/track/3PBBak16foXdHh0trdc8Hd) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Famoso](https://open.spotify.com/album/27EhxNeyTwvnuo0TcWMDZf) | 2:41 | 2022-05-03 | 2025-07-14 |
 | [Mamacita \(feat\. Vins\)](https://open.spotify.com/track/6avNpKZk1xxyRD0Gv14RFS) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Boss Doms](https://open.spotify.com/artist/57aMHpsX2SXTbLatmeEd6j), [Vins](https://open.spotify.com/artist/0gU09DXqjhggdfhLZVvhRc) | [Pour l'amour](https://open.spotify.com/album/7248m1lfoXH1fmy61NujXg) | 3:25 | 2022-05-03 | 2022-07-06 |
-| [MEZZE VERITÀ \(feat\. Kid Yugi\)](https://open.spotify.com/track/0zrcO7oLJv5hF5nodDbMkw) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:23 | 2024-09-19 |  |
+| [MEZZE VERITÀ \(feat\. Kid Yugi\)](https://open.spotify.com/track/0zrcO7oLJv5hF5nodDbMkw) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:23 | 2024-09-19 | 2025-12-12 |
 | [MI AMI O NO \(feat\. Capo Plaza\)](https://open.spotify.com/track/2UsAeEA2JH7kKSOflP23zY) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [MI AMI O NO \(feat\. Capo Plaza\)](https://open.spotify.com/album/2x3iZoksgMVakMIH5KI20H) | 2:25 | 2022-05-03 | 2023-11-29 |
 | [MILANO 3AM](https://open.spotify.com/track/3ytJd1HfiP249QcPg7rvQP) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [ANGELO BALACLAVA](https://open.spotify.com/album/1n7HkZhfeIrfMaTJJldfEO) | 3:03 | 2025-07-13 |  |
 | [MONDAY \(feat\. Shiva & Michelangelo\)](https://open.spotify.com/track/3gMPES6pOosBWxkXAakOxq) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:45 | 2023-01-05 |  |

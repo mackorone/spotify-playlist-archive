@@ -4,7 +4,7 @@
 
 > Xіти та проривні новинки незалежної місцевої музики\. Обкладинка: Околиця
 
-549 songs - 1 day 4 hr 51 min
+550 songs - 1 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -434,6 +434,7 @@
 | [сон](https://open.spotify.com/track/3ok1m9sRQbIFzNRmjsTSmj) | [світанок блакитний](https://open.spotify.com/artist/75pYLuwO3SMvlFkLQwOvJN) | [сон](https://open.spotify.com/album/2n99kt5LUbfB3ZoY8cIMqz) | 3:54 | 2025-04-11 | 2025-06-23 |
 | [сонце](https://open.spotify.com/track/4qO2JGY16Psvn6eYSkP67C) | [макс пташник](https://open.spotify.com/artist/1jT1y7O8NtdUwGfCTZM4JE), [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [такі як ми](https://open.spotify.com/album/7wdy8JNB5YETxf3UE8fR0r) | 3:11 | 2025-01-02 | 2025-03-18 |
 | [Соня](https://open.spotify.com/track/5cNeKQ02zQ3H4lrtHKohXh) | [анастимоза](https://open.spotify.com/artist/387gWxnXhGdDQFO7Ld3mLZ) | [Соня](https://open.spotify.com/album/7CpkR3HYyFu49gGUaSkdyd) | 4:10 | 2025-03-03 | 2025-10-24 |
+| [Спокій і віра](https://open.spotify.com/track/1ySceEcpbHHTjUI4PJVmO5) | [Luna Rozza](https://open.spotify.com/artist/4w2yzPw0xWs7HtZIKLTDok) | [Спокій і віра](https://open.spotify.com/album/63Vp8ttaNipprhsTqYFEIn) | 1:53 | 2025-12-09 |  |
 | [Спокійно так](https://open.spotify.com/track/6v1RD5haDZQ0bX7S4uKeTp) | [DENOMA](https://open.spotify.com/artist/1CIgr3yWzcyRxtmhuzaqSd), [drumkid](https://open.spotify.com/artist/7jzPNwEtRJWiN9gXjDZZ4O) | [Спокійно так](https://open.spotify.com/album/3Fj1QogKrwKkAgJM2OJb7f) | 2:53 | 2024-10-04 | 2024-10-19 |
 | [Спочатку було Слово](https://open.spotify.com/track/5OeWN69Qzwd3pzpy6802Ot) | [МУР](https://open.spotify.com/artist/3NYo9EP6S3ReZ3ep86lsg3) | [Ти \[Романтика\]](https://open.spotify.com/album/5iPSAtJk05Zfa8Mpitd0Af) | 4:01 | 2024-06-27 | 2025-05-17 |
 | [Спрага не в справі](https://open.spotify.com/track/4KxkFBJqXHoNOb7yvSC48F) | [YUVI](https://open.spotify.com/artist/6l6Oqj9SmzFR81eaVmyhB9) | [Спрага не в справі](https://open.spotify.com/album/0QJHq7aGOWBjm5t3DDrmli) | 2:58 | 2024-08-23 | 2024-09-14 |
@@ -504,7 +505,7 @@
 | [Усі ми прагнемо любові](https://open.spotify.com/track/7oiIq24JR3715PeHFndzxm) | [Крихітка](https://open.spotify.com/artist/3GvCDEg7s8LxI3FNS1CWRK), [ULIA LORD](https://open.spotify.com/artist/5SSvKZ0783cGZgR0yYC6i9), [Qarpa](https://open.spotify.com/artist/6E1zNg2zYhqKErKzkrb9em) | [Усі ми прагнемо любові](https://open.spotify.com/album/7uq7GMPRLgSIM7Hz5qndQe) | 3:48 | 2025-05-30 | 2025-10-24 |
 | [Фантазія](https://open.spotify.com/track/0LTBEDJsr3Ki4jsK2l22lv) | [Гошуля](https://open.spotify.com/artist/7JBcQmTIHmYq0fwJHYPDiQ) | [Фантазія](https://open.spotify.com/album/0wDlj0BBaTfYVsWF3OdWtZ) | 2:01 | 2025-08-08 | 2025-09-17 |
 | [Фантастично](https://open.spotify.com/track/7AkXsFfltmtYnBtAXqklq5) | [TESLENKO](https://open.spotify.com/artist/4Kfhe0aTNpLAd7DVpVx3sF) | [Фантастично](https://open.spotify.com/album/0v5xjYkTaTr3MorJw0TjFt) | 2:10 | 2024-06-27 | 2024-10-19 |
-| [фарби](https://open.spotify.com/track/7vYCdjVFJtUFv8zuFghOpP) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [фарби забуття](https://open.spotify.com/album/2sy9aeifFkZIrmK2MyzpcX) | 2:58 | 2025-03-17 |  |
+| [фарби](https://open.spotify.com/track/7vYCdjVFJtUFv8zuFghOpP) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [фарби забуття](https://open.spotify.com/album/2sy9aeifFkZIrmK2MyzpcX) | 2:58 | 2025-03-17 | 2025-12-12 |
 | [флешбеки](https://open.spotify.com/track/3AwkjFh9bFRzcxLlizDh7B) | [adm:t](https://open.spotify.com/artist/2twME3jNUXdJCcaJ7dqHsJ) | [в кубі](https://open.spotify.com/album/3XtXR2uOtyX1etSiTTEYnb) | 3:35 | 2024-09-13 | 2024-10-05 |
 | [Фобія](https://open.spotify.com/track/4arApaMVfqhVRLMe48QMaB) | [Dianic](https://open.spotify.com/artist/77GSVYMHWoZydSugWAN4BN) | [Фобія](https://open.spotify.com/album/0Jg524nX1bfz61qGoUgsIU) | 3:13 | 2025-10-23 | 2025-11-06 |
 | [Фіолетово](https://open.spotify.com/track/3PUmvSbiSJQ7vluhyWDCGu) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [ПУРПУР](https://open.spotify.com/album/6rmhLB25m7Nf141fa9EKP0) | 2:37 | 2025-05-16 | 2025-12-10 |

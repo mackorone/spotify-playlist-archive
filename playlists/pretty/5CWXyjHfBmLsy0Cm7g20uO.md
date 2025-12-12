@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5CWXyjHfBmLsy0Cm7g20uO.md) - [plain]
 
 > Dive into the heart of indie and alternative rock with our handpicked playlist\. Discover raw energy, powerful riffs, and the soulful essence of independent rock music\. Rock on!
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 769 likes - 135 songs - 8 hr 24 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 770 likes - 140 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,5 +143,10 @@ pretty - [cumulative](/playlists/cumulative/5CWXyjHfBmLsy0Cm7g20uO.md) - [plain]
 | 133 | [Marionettes](https://open.spotify.com/track/2xGSnhB3VhyfMtHD7JlgqS) | [Bunar LifT](https://open.spotify.com/artist/7hMuXhNZMfLVRrnbsvhdbg) | [Marionettes](https://open.spotify.com/album/3eWKIo5H9ekwM7fk79V005) | 4:34 |
 | 134 | [Un Rato Más](https://open.spotify.com/track/13Uh63MZHQSGbAIqYisQoS) | [Ruiz de Lope](https://open.spotify.com/artist/3UxGJoUiyIIIu3LYMBelzR) | [Un Rato Más](https://open.spotify.com/album/60Nv8JoGyzxDKKiv28i5mC) | 3:08 |
 | 135 | [Spent / Burnt](https://open.spotify.com/track/1k97Pr8uDb3hL8Ugelecfy) | [Future Mondays](https://open.spotify.com/artist/3VMpqGkVVuW4nTUJw9v2rt) | [Future Mondays](https://open.spotify.com/album/448haKOKsOWNr4OIG7ao3W) | 3:30 |
+| 136 | [SLOW DOWN](https://open.spotify.com/track/4rpe04c0h4Kw13uGn0XEiD) | [Ghostshaft](https://open.spotify.com/artist/5wxd8HLXD387D9PedWRLw8) | [SLOW DOWN](https://open.spotify.com/album/3TEYxk5CLucLCzVmGaiVry) | 4:19 |
+| 137 | [Liverpool Jla](https://open.spotify.com/track/73qjfHYCQo5TA5vt5c8sg7) | [The How](https://open.spotify.com/artist/09hG1ZJdYeCJo1nB66BJzW) | [In the Void](https://open.spotify.com/album/6pHa8DXD04qHeAXZVFwOE0) | 3:58 |
+| 138 | [TE COGERÁN](https://open.spotify.com/track/3ERcXr3B7jmTw6xQaEbxBU) | [Tygers of Wrath](https://open.spotify.com/artist/6vGbDm4f3JsCq7ftXq5Xba) | [Get Ready!](https://open.spotify.com/album/1lDzx28rHjWtLB6oI3RpCI) | 2:39 |
+| 139 | [Refugees in the ghetto](https://open.spotify.com/track/29mupryc4x4a8bRJDYg9J0) | [Smiling Crybabies](https://open.spotify.com/artist/1tbsh8mDWvLldgsLKErW9U) | [Refugees in the ghetto](https://open.spotify.com/album/2xV9IM4Y8Jrxbx2eJ2Vidl) | 5:30 |
+| 140 | [Endless Summer](https://open.spotify.com/track/2fD5AmEMA6QoLj8A7VjvGb) | [The Petras](https://open.spotify.com/artist/5EsMB9WP4y0FCE5UIY5QQk) | [Endless Summer](https://open.spotify.com/album/2waBuPsEcjrjZjlRHE7N01) | 3:09 |
 
-Snapshot ID: `AAAF1M5/KVclPwMJJ+mMjsnTx2AHC/tB`
+Snapshot ID: `AAAF2TPaVleQYTujPezyr3SOylDXd5JB`

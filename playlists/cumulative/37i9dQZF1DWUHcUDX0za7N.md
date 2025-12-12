@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: TML Vibes
 
-678 songs - 1 day 7 hr 55 min
+679 songs - 1 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [Letter To My Guys \- LTMG](https://open.spotify.com/track/6An0TGYYlArC43uqHovXEx) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Letter To My Guys \(LTMG\)](https://open.spotify.com/album/54efy29szB8cdafO7Yi9ce) | 2:51 | 2025-07-18 |  |
 | [Life](https://open.spotify.com/track/42K8Irooh4QNXZz2J3E31S) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Life](https://open.spotify.com/album/2bBzvdr3Ne9hdYgXifNXPb) | 2:47 | 2025-07-18 |  |
 | [Lifestyle](https://open.spotify.com/track/0KOKyqR6sW9CporoouYTJV) | [88 Shades](https://open.spotify.com/artist/1OFgO1xhsc0JBIKXmcn6KZ), [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU) | [Lifestyle](https://open.spotify.com/album/4Zg6fQKeY8NZfPa27af2hq) | 3:08 | 2024-09-20 | 2024-11-16 |
+| [Lifestyle](https://open.spotify.com/track/1iCRehvlN08yk0BWYWUVrD) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Lifestyle](https://open.spotify.com/album/5LvvzviQcK4CawRlmPpOxq) | 2:45 | 2025-12-12 |  |
 | [Lifestyle \(feat\. Pheelz\)](https://open.spotify.com/track/7dcr2Uhxl9UvFpc1LgMVdt) | [DJ Shawn](https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Lifestyle \(feat\. Pheelz\)](https://open.spotify.com/album/0Z0XLLoN98NG1YgG15n4uX) | 2:55 | 2024-08-09 | 2025-04-12 |
 | [LIKE](https://open.spotify.com/track/68te6KLnaeYkrAsAlzGGlD) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Andre Vibez](https://open.spotify.com/artist/1MVv46raia2Yqm8yHoDeUp), [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK) | [LIKE](https://open.spotify.com/album/11qoPfHNEcoTnyEUNBfvFr) | 3:47 | 2024-10-04 | 2025-04-15 |
 | [LIKE ICE SPICE](https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Like Ice Spice / Bezos](https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA) | 2:03 | 2023-07-07 | 2024-07-19 |
@@ -611,7 +612,7 @@
 | [The UCHE’s Story \- Ep1](https://open.spotify.com/track/3R5oOpk6Jnjl23sum2l7rL) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won) | [The UCHE’s Story](https://open.spotify.com/album/545ba0hFSxR2ccjKYz3IJf) | 2:15 | 2025-10-10 | 2025-10-17 |
 | [THERAPY SESSION](https://open.spotify.com/track/6V25a6msBFeOLjIynVhWgx) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [G.O.A.T](https://open.spotify.com/album/6vNtI8WqFszCyAQhGlShtF) | 2:43 | 2025-03-28 |  |
 | [This is Nigeria](https://open.spotify.com/track/1HmPO8ao2uu6opMJDW24DA) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [This Is Nigeria](https://open.spotify.com/album/6ewbR4ceFzG5PFAK1ckPSu) | 3:28 | 2024-09-13 | 2024-09-20 |
-| [This Moment](https://open.spotify.com/track/4S6xAYsypFj1DYvxxP1gmN) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [This Moment](https://open.spotify.com/album/4Zzi6dj2yNaPE9w5UG2HA4) | 2:43 | 2025-09-05 |  |
+| [This Moment](https://open.spotify.com/track/4S6xAYsypFj1DYvxxP1gmN) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [This Moment](https://open.spotify.com/album/4Zzi6dj2yNaPE9w5UG2HA4) | 2:43 | 2025-09-05 | 2025-12-12 |
 | [Time Of My life](https://open.spotify.com/track/0GVWa6o5Kfai286WCKB1d0) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Time Of My Life](https://open.spotify.com/album/68LmZVzRuCex2vfwAYar5J) | 2:35 | 2024-09-27 | 2025-06-14 |
 | [To the Max](https://open.spotify.com/track/36Sml2B1lkLGDbiU5tZ63o) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Odunsi The Engine](https://open.spotify.com/artist/6JIIBiPRVuu8JUv0BWqCS1) | [To the Max](https://open.spotify.com/album/34kBsbz1eruAwZcuETkmUF) | 3:24 | 2022-10-14 | 2022-10-29 |
 | [Toe Touch](https://open.spotify.com/track/7BIKaYBqQw4JeR1oixpPSc) | [SixSaidIt](https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb) | [Outside II](https://open.spotify.com/album/1yE4tyZV5U53xd8eSRMbA1) | 2:57 | 2022-10-07 | 2022-11-29 |

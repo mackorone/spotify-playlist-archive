@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "ELSEWHERE",
+        "url": "https://open.spotify.com/album/6TodyJESCEXJ67eXpUse0I"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209215,
+      "name": "Apatia",
+      "url": "https://open.spotify.com/track/5FKMhyyrQT3gbDh9KcjFIF"
+    },
+    {
+      "album": {
         "name": "Articuno",
         "url": "https://open.spotify.com/album/5PoZ4iwuanehqnO2BZlPKM"
       },
@@ -9952,7 +9970,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 205612,
       "name": "The Edge",
       "url": "https://open.spotify.com/track/2butVcEEHRKf3GMgFsxJ1W"

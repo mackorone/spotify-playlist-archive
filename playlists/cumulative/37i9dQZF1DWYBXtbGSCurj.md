@@ -4,7 +4,7 @@
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Brandão85, Matuê
 
-1,814 songs - 3 day 16 hr 50 min
+1,815 songs - 3 day 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1615,6 +1615,7 @@
 | [Tapa Na Cara Da Mídia](https://open.spotify.com/track/67OEc08o7H6lVK6e3Bv5nH) | [Trunks](https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch), [Vitinho RB](https://open.spotify.com/artist/0C6ppWo7aVuSv0YJREtvkj) | [Tapa Na Cara Da Mídia](https://open.spotify.com/album/3BJRLcUKaTpDfyCrGnxV2v) | 3:21 | 2023-11-13 | 2023-11-18 |
 | [Tapete Vermelho](https://open.spotify.com/track/0nr0bxDP8RG04TTDcmFgio) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS) | [Tapete Vermelho](https://open.spotify.com/album/3d9YibWa9L09T1NXETH0YV) | 2:26 | 2024-03-29 | 2024-05-18 |
 | [Tarde](https://open.spotify.com/track/7JJQkS2stqTej0g0oJbXeP) | [Braão](https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd), [LIT UP](https://open.spotify.com/artist/048eLqPGxqWk7PblwFmXgE), [ABDALLAH](https://open.spotify.com/artist/2ORUsEvpYD5NY45zWpVSIy), [Beip](https://open.spotify.com/artist/33vxbUobQ73PpEW9nMx5aW) | [Tarde](https://open.spotify.com/album/7K7zxwc70pZpSn71YfeNNO) | 1:52 | 2024-03-08 | 2024-04-06 |
+| [TaTaTa \- Spotify Sessions](https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [KayBlack & Burna Boy \- Spotify Sessions](https://open.spotify.com/album/72I7qkTVZYZZX3WaRkXB1Z) | 2:45 | 2025-12-11 |  |
 | [Taurus](https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [TAURUS/ ÚNICA](https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3) | 2:06 | 2023-06-02 | 2023-07-08 |
 | [Tava Bom](https://open.spotify.com/track/78vcgnlsXbztZDZC9R5FUp) | [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Mateca x Teto](https://open.spotify.com/album/6UxAHRNJAQpp9Rd1aGrQd7) | 3:46 | 2022-06-10 | 2023-01-21 |
 | [Taylor](https://open.spotify.com/track/5nLbkYr8XYVT915bd02NQm) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Taylor](https://open.spotify.com/album/6q72fGs82aYlWkqJUNddTp) | 2:03 | 2025-05-05 | 2025-07-12 |

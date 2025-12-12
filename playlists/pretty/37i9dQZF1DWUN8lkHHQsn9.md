@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Najlepsze utwory GLOW Polska w 2025 według naszej redakcji\. Cover: god.wifi
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,547 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,538 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 49 | [L.O.K\. Me](https://open.spotify.com/track/4hZ99dvzmC89HvF2uVWq3k) | [Mona Lizak](https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb) | [L.O.K\. Me](https://open.spotify.com/album/1y0hDdMurikWP3NdOjz2GD) | 2:47 |
 | 50 | [MOJE SNY](https://open.spotify.com/track/6jF1DPYvvSBNCM5UwC4cKO) | [RAF](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [MOJE SNY](https://open.spotify.com/album/6a1PCoXU35eqzESIuzfTpR) | 2:55 |
 
-Snapshot ID: `AAAAAIAauUSI5rnDieMWwTGFRtbp/Eq8`
+Snapshot ID: `AAAAADpj7uP++e+dGt/+K76hEwT2OiCW`

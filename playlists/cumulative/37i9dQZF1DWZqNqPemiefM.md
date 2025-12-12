@@ -2,9 +2,9 @@
 
 ### [Sora Ambient](https://open.spotify.com/playlist/37i9dQZF1DWZqNqPemiefM)
 
-> The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック
+> The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: aus
 
-860 songs - 2 day 18 hr 1 min
+862 songs - 2 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Bright Belief](https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Bright Belief](https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD) | 4:42 | 2025-05-27 | 2025-07-12 |
 | [Bright Belief](https://open.spotify.com/track/6ica8z0Rz5wzzy98kruFru) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Once Was Ours Forever](https://open.spotify.com/album/3AKV4GvMir978FCAoiwdna) | 4:42 | 2025-07-11 | 2025-12-10 |
 | [Brood Board SHROOM](https://open.spotify.com/track/78P7wPE8GqJkZECMu3kUjx) | [SML](https://open.spotify.com/artist/5k8cbLF5EZnAhwDvHN6Toj) | [How You Been](https://open.spotify.com/album/6xSZb8hXuY3sTCLYhb1kcs) | 1:53 | 2025-12-02 |  |
-| [Brunnengasse](https://open.spotify.com/track/0oD7OVBE47bShwY5kqaVeL) | [Felbm](https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7) | [Tape 4](https://open.spotify.com/album/2wTtlS3y73FcYMkyFrJx0u) | 2:46 | 2025-08-29 |  |
+| [Brunnengasse](https://open.spotify.com/track/0oD7OVBE47bShwY5kqaVeL) | [Felbm](https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7) | [Tape 4](https://open.spotify.com/album/2wTtlS3y73FcYMkyFrJx0u) | 2:46 | 2025-08-29 | 2025-12-12 |
 | [Brush](https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 1:20 | 2024-02-08 |  |
 | [Bury it Deep Inside Yourself](https://open.spotify.com/track/6qZmqWAs0sbLKOpcV4i2fR) | [NEXCYIA](https://open.spotify.com/artist/40wAy6PBtoaw0dJB0JtkNZ) | [Endless Path of Memory](https://open.spotify.com/album/06SMLc0USCxMg0EZm8ZwVu) | 4:47 | 2024-12-10 | 2025-02-03 |
 | [By The Window](https://open.spotify.com/track/3JWwz9vA04xErfWcZQuccm) | [Midori Hirano](https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj) | [Minor Planet](https://open.spotify.com/album/2w9oe23evWlt31fPXYjkHa) | 4:46 | 2022-03-30 | 2022-07-01 |
@@ -170,6 +170,7 @@
 | [Continuum 3](https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 4:07 | 2024-09-06 |  |
 | [Contrast](https://open.spotify.com/track/7F5kSxc7LxDdvq0XA9YYid) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Contrast](https://open.spotify.com/album/1Vm8ygfXCkpWTVX8accHWU) | 3:23 | 2023-07-20 | 2023-11-24 |
 | [Corridors of Time](https://open.spotify.com/track/1kl6jzl9h38pjzALrPYvq3) | [Yasunori Mitsuda](https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK) | [CHRONO TRIGGER Original Soundtrack【DS Edition】](https://open.spotify.com/album/2kOD9QzcUkeT57RJkNvQpH) | 3:03 | 2024-02-08 | 2024-04-19 |
+| [Cosmology](https://open.spotify.com/track/5PezNVuaf9gjU1BHqLaU5x) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Cosmology](https://open.spotify.com/album/6Gk5jF93sKQxUu955R1Ktb) | 4:12 | 2025-12-11 |  |
 | [Country Living\(flute\)](https://open.spotify.com/track/4kMLA8TNe4zjL9VPkpY9su) | [SUBLIMINAL CALM](https://open.spotify.com/artist/0uc6sbUAp570r1iYr2ckTv) | [Hiroshi Fujiwara Best](https://open.spotify.com/album/1RPBrnkifhQLHBI1JCAmgF) | 4:21 | 2022-03-30 | 2022-07-02 |
 | [craftsman](https://open.spotify.com/track/0SSSXaBAxQaJV6RwXVggo0) | [Katsuhiro Chiba](https://open.spotify.com/artist/6U77Tsq69Bwi4ua36Y6NKx) | [Kicoel](https://open.spotify.com/album/1UBcGGIwDAuDmFdNBRHlT3) | 4:55 | 2022-04-07 | 2022-05-21 |
 | [Crystal Dub](https://open.spotify.com/track/0fTb6kDRyOe2dMK8HlexfB) | [Hiroshi Fujiwara](https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt) | [Hiroshi Fujiwara Best](https://open.spotify.com/album/1RPBrnkifhQLHBI1JCAmgF) | 4:32 | 2024-06-15 | 2024-09-07 |
@@ -777,6 +778,7 @@
 | [Valve](https://open.spotify.com/track/3EQxtiR2Dc2lCN7eEY6ZCW) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Miyako Koda](https://open.spotify.com/artist/77lGdUDzfWYkQ8kbzcvGDY) | [Valve / Valve \(Revisited\)](https://open.spotify.com/album/2uMuTzWgDW1sdOs29usuUi) | 3:23 | 2024-02-08 | 2024-02-28 |
 | [Vanished Garden](https://open.spotify.com/track/3iScMPhH2AjZ0YwFpyUx3z) | [Midori Hirano](https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj) | [Invisible Island](https://open.spotify.com/album/2AoNiTLj9aTVAn7FU0VQ8P) | 3:13 | 2022-04-07 | 2022-06-28 |
 | [Vapors](https://open.spotify.com/track/36IKYrCq4bWJAI2NHbQRlI) | [MIZU](https://open.spotify.com/artist/1ocXUwcqDsN6p6zRpAXOl6) | [4 \| 2 \| 3](https://open.spotify.com/album/3eqCTYlnPPoRVtq9039lkT) | 2:29 | 2024-11-15 | 2024-12-10 |
+| [Variation I](https://open.spotify.com/track/03DhSqOpC0WShbijAAmdYZ) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [](https://open.spotify.com/album/null) | 5:54 | 2025-12-11 |  |
 | [Variation・III](https://open.spotify.com/track/0dDeU6XmLrWgqsLqZU3lpZ) | [Masashi Kitamura + Phonogenix](https://open.spotify.com/artist/55aj1GWBgBPNoVICgtbl7s) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:35 | 2022-04-16 | 2022-04-18 |
 | [vein](https://open.spotify.com/track/49G3HACR0IyFpJRAoqGEJo) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [vein](https://open.spotify.com/album/2plekO82mLrp2VYp8MhfZV) | 2:08 | 2025-08-01 | 2025-12-03 |
 | [vi \(almost equal to\) ix](https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [vi \(almost equal to\) ix](https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf) | 3:44 | 2022-04-28 | 2024-02-09 |
@@ -848,7 +850,7 @@
 | [栞日](https://open.spotify.com/track/0c565bGLHUE9pqUDvuT0Eq) | [Ironomi](https://open.spotify.com/artist/62tSwHM7qLhiSDtVSf51Y5) | [琹の葉](https://open.spotify.com/album/0ab2TfwsIFt9RPG9uCMSSa) | 7:05 | 2022-03-31 | 2022-07-28 |
 | [森のはじまり](https://open.spotify.com/track/1S80fWjY48rEwHaw8RGHOr) | [TINORKS](https://open.spotify.com/artist/0GqDoFU7YhplsXNDl7yVaM) | [MORINO HAJIMARI](https://open.spotify.com/album/6mB50FK0PrJYJ9XXbt6BSf) | 4:39 | 2022-04-07 | 2022-07-22 |
 | [波 \(D.C.\)](https://open.spotify.com/track/4JBr6jBswx8zpGXJLsirBt) | [Non\-Shaped Pencil](https://open.spotify.com/artist/3EP85Sr5gYaH85ResMlc8c) | [new age / aufheben](https://open.spotify.com/album/485oKPOneabAi6ryfxcJya) | 4:54 | 2022-04-07 | 2022-04-18 |
-| [生き神](https://open.spotify.com/track/58ukcEr7H33hdjy4a6WMED) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm) | [鹿の国オリジナルサウンドトラック](https://open.spotify.com/album/46XuuEnSzH2DtKOPaYWYZM) | 2:43 | 2025-12-02 |  |
+| [生き神](https://open.spotify.com/track/58ukcEr7H33hdjy4a6WMED) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm) | [鹿の国オリジナルサウンドトラック](https://open.spotify.com/album/46XuuEnSzH2DtKOPaYWYZM) | 2:43 | 2025-12-02 | 2025-12-12 |
 | [画室](https://open.spotify.com/track/0HRs4PCNlgRxWZuCkwqXor) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [「モリのいる場所」オリジナル・サウンドトラック](https://open.spotify.com/album/285bvz9Z5jF95NHZUUmBS8) | 1:29 | 2022-03-31 | 2022-05-20 |
 | [神様のメロディ](https://open.spotify.com/track/565p6EISKgCjN66vmqs0H5) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [神様のメロディ](https://open.spotify.com/album/1xtbw2HzyWubGlsgO2gEGe) | 6:40 | 2025-01-24 | 2025-11-08 |
 | [私たちが会った後](https://open.spotify.com/track/4JFTx4eVHpIrJ10LSQtiLZ) | [STILLZ](https://open.spotify.com/artist/5U2OgD5Qd1SgfCP7swmDnI), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [separated at birth](https://open.spotify.com/album/5N1rxL68D9q48lPfiseq0Q) | 2:18 | 2025-06-27 | 2025-07-12 |

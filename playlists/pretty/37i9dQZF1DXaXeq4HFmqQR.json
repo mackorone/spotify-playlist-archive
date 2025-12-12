@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen, con Rosario Alfonso en portada. ",
-  "num_followers": 14855,
+  "num_followers": 14854,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-11-05 20:09:30",
       "album": {
+        "name": "A Cambio",
+        "url": "https://open.spotify.com/album/1XbfJW8GOflbRmMkuCYp9S"
+      },
+      "artists": [
+        {
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+        }
+      ],
+      "duration_ms": 205406,
+      "name": "A Cambio",
+      "url": "https://open.spotify.com/track/12TROHXanz03JmgRDBkZhD"
+    },
+    {
+      "added_at": "2025-11-05 20:09:30",
+      "album": {
         "name": "Lo Que So\u00f1amos Vivir",
         "url": "https://open.spotify.com/album/4zJuDHVRGKhdympQfTqBK9"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 210480,
       "name": "Lo Que So\u00f1amos Vivir",
       "url": "https://open.spotify.com/track/2Q7qDmYdMxGqWWfJON4XlF"
-    },
-    {
-      "added_at": "2025-11-05 20:09:30",
-      "album": {
-        "name": "A Cambio",
-        "url": "https://open.spotify.com/album/1XbfJW8GOflbRmMkuCYp9S"
-      },
-      "artists": [
-        {
-          "name": "Olivia Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
-        }
-      ],
-      "duration_ms": 205406,
-      "name": "A Cambio",
-      "url": "https://open.spotify.com/track/12TROHXanz03JmgRDBkZhD"
     },
     {
       "added_at": "2025-11-05 20:09:30",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-11-05 20:09:30",
       "album": {
-        "name": "Trafun",
-        "url": "https://open.spotify.com/album/5pUXmmtKYOb0kPNXqB9HE0"
-      },
-      "artists": [
-        {
-          "name": "Daniela Millaleo",
-          "url": "https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "Me Fu\u00ed a Caminar",
-      "url": "https://open.spotify.com/track/1y4rKHGVBQ13OVFkjkH5Zp"
-    },
-    {
-      "added_at": "2025-11-05 20:09:30",
-      "album": {
         "name": "Canci\u00f3n por Palestina",
         "url": "https://open.spotify.com/album/2KvvlWa9WaabIbhN6kybuY"
       },
@@ -451,18 +435,34 @@
     {
       "added_at": "2025-11-05 20:09:30",
       "album": {
-        "name": "Detr\u00e1s de las Palabras",
-        "url": "https://open.spotify.com/album/17NRUslS9nOR0EF99DLaQW"
+        "name": "Trafun",
+        "url": "https://open.spotify.com/album/5pUXmmtKYOb0kPNXqB9HE0"
       },
       "artists": [
         {
-          "name": "Alfilera",
-          "url": "https://open.spotify.com/artist/5dmpPz4WTOw7MHA52BUCyW"
+          "name": "Daniela Millaleo",
+          "url": "https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Indeleble",
-      "url": "https://open.spotify.com/track/5aAzw4nkpfLbPYOfuyisTB"
+      "duration_ms": 239960,
+      "name": "Me Fu\u00ed a Caminar",
+      "url": "https://open.spotify.com/track/1y4rKHGVBQ13OVFkjkH5Zp"
+    },
+    {
+      "added_at": "2025-11-05 20:09:30",
+      "album": {
+        "name": "10 D\u00cdAS",
+        "url": "https://open.spotify.com/album/4ZZhbCgb0uC3Ro5m4t9Zrt"
+      },
+      "artists": [
+        {
+          "name": "Masquemusica",
+          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
+        }
+      ],
+      "duration_ms": 201394,
+      "name": "10 D\u00cdAS",
+      "url": "https://open.spotify.com/track/4jQIka89UCTFBueFA0kK0U"
     },
     {
       "added_at": "2025-11-05 20:09:30",
@@ -483,18 +483,18 @@
     {
       "added_at": "2025-11-05 20:09:30",
       "album": {
-        "name": "10 D\u00cdAS",
-        "url": "https://open.spotify.com/album/4ZZhbCgb0uC3Ro5m4t9Zrt"
+        "name": "Detr\u00e1s de las Palabras",
+        "url": "https://open.spotify.com/album/17NRUslS9nOR0EF99DLaQW"
       },
       "artists": [
         {
-          "name": "Masquemusica",
-          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
+          "name": "Alfilera",
+          "url": "https://open.spotify.com/artist/5dmpPz4WTOw7MHA52BUCyW"
         }
       ],
-      "duration_ms": 201394,
-      "name": "10 D\u00cdAS",
-      "url": "https://open.spotify.com/track/4jQIka89UCTFBueFA0kK0U"
+      "duration_ms": 214000,
+      "name": "Indeleble",
+      "url": "https://open.spotify.com/track/5aAzw4nkpfLbPYOfuyisTB"
     },
     {
       "added_at": "2025-11-05 20:09:30",
@@ -679,18 +679,18 @@
     {
       "added_at": "2025-11-05 20:09:30",
       "album": {
-        "name": "Parajes On\u00edricos",
-        "url": "https://open.spotify.com/album/4BDxBaFeURDdwnvyCbrxbd"
+        "name": "Todo Es Circular",
+        "url": "https://open.spotify.com/album/0tXaJ5PMJLlCVtbasU3WbT"
       },
       "artists": [
         {
-          "name": "PASKURANA",
-          "url": "https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ"
+          "name": "Amanitas",
+          "url": "https://open.spotify.com/artist/5Rer4pgrnkfYkuHcXaayqR"
         }
       ],
-      "duration_ms": 185142,
-      "name": "Jard\u00edn Ps\u00edquico",
-      "url": "https://open.spotify.com/track/65Egxnzf4PkvUdAdr541bn"
+      "duration_ms": 221184,
+      "name": "Me Derret\u00ed",
+      "url": "https://open.spotify.com/track/5tIj66UBfX28higolWDBWS"
     },
     {
       "added_at": "2025-11-05 20:09:30",
@@ -751,18 +751,18 @@
     {
       "added_at": "2025-11-05 20:09:30",
       "album": {
-        "name": "Todo Es Circular",
-        "url": "https://open.spotify.com/album/0tXaJ5PMJLlCVtbasU3WbT"
+        "name": "Parajes On\u00edricos",
+        "url": "https://open.spotify.com/album/4BDxBaFeURDdwnvyCbrxbd"
       },
       "artists": [
         {
-          "name": "Amanitas",
-          "url": "https://open.spotify.com/artist/5Rer4pgrnkfYkuHcXaayqR"
+          "name": "PASKURANA",
+          "url": "https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ"
         }
       ],
-      "duration_ms": 221184,
-      "name": "Me Derret\u00ed",
-      "url": "https://open.spotify.com/track/5tIj66UBfX28higolWDBWS"
+      "duration_ms": 185142,
+      "name": "Jard\u00edn Ps\u00edquico",
+      "url": "https://open.spotify.com/track/65Egxnzf4PkvUdAdr541bn"
     },
     {
       "added_at": "2025-11-05 20:09:30",
@@ -799,18 +799,18 @@
     {
       "added_at": "2025-11-05 20:09:30",
       "album": {
-        "name": "CASA",
-        "url": "https://open.spotify.com/album/4oAtJazNpohAbJDRTZAmyp"
+        "name": "Cuando Respiro En Tu Boca",
+        "url": "https://open.spotify.com/album/5l7jehPGfl7bJUkkqV7YhQ"
       },
       "artists": [
         {
-          "name": "Paz Court",
-          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
         }
       ],
-      "duration_ms": 178739,
-      "name": "Encuentro Fortuna",
-      "url": "https://open.spotify.com/track/22QHmYbAsDk1JxfsKA1PYd"
+      "duration_ms": 203885,
+      "name": "Cuando Respiro En Tu Boca",
+      "url": "https://open.spotify.com/track/2loTFFg99twE6KFekbvNlr"
     },
     {
       "added_at": "2025-11-05 20:09:30",
@@ -831,18 +831,18 @@
     {
       "added_at": "2025-11-05 20:09:30",
       "album": {
-        "name": "Cuando Respiro En Tu Boca",
-        "url": "https://open.spotify.com/album/5l7jehPGfl7bJUkkqV7YhQ"
+        "name": "CASA",
+        "url": "https://open.spotify.com/album/4oAtJazNpohAbJDRTZAmyp"
       },
       "artists": [
         {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+          "name": "Paz Court",
+          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
         }
       ],
-      "duration_ms": 203885,
-      "name": "Cuando Respiro En Tu Boca",
-      "url": "https://open.spotify.com/track/2loTFFg99twE6KFekbvNlr"
+      "duration_ms": 178739,
+      "name": "Encuentro Fortuna",
+      "url": "https://open.spotify.com/track/22QHmYbAsDk1JxfsKA1PYd"
     },
     {
       "added_at": "2025-11-05 20:09:30",

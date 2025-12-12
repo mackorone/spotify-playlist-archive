@@ -713,6 +713,24 @@
     },
     {
       "album": {
+        "name": "BACKSEAT",
+        "url": "https://open.spotify.com/album/6Vwx2zG2OqdfP4Hx5aZB43"
+      },
+      "artists": [
+        {
+          "name": "Thomas Asselman",
+          "url": "https://open.spotify.com/artist/7vHr6L8xUxkObnyHhjqfzU"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173442,
+      "name": "BACKSEAT",
+      "url": "https://open.spotify.com/track/6vH2KwSd69qHLxiWD4CAHU"
+    },
+    {
+      "album": {
         "name": "Basement Party",
         "url": "https://open.spotify.com/album/1NiUXeZA7qJoy3Yc0Q4NbU"
       },
@@ -2324,7 +2342,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 200453,
       "name": "Echo In The Chamber",
       "url": "https://open.spotify.com/track/7mamMoh4j7RUpYrT7IvRov"
@@ -4252,7 +4270,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 179504,
       "name": "Keep Your Head Up",
       "url": "https://open.spotify.com/track/2kHVK2I4FpaI48ZRAlmNTc"
@@ -7050,7 +7068,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 177873,
       "name": "Say Wow",
       "url": "https://open.spotify.com/track/27BXc7zVWqSTiWHSdOlJch"

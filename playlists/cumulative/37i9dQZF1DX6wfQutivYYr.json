@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "RAYE sulla cover della playlist pi\u00f9 grande in Italia \ud83d\udd25",
+  "description": "Annalisa sulla cover della playlist pi\u00f9 grande in Italia \ud83d\udd25",
   "name": "Hot Hits Italia",
   "tracks": [
     {
@@ -356,6 +356,28 @@
       "duration_ms": 183777,
       "name": "Amarcord",
       "url": "https://open.spotify.com/track/2WiYCsnOxE29r8Y8gV9aVA"
+    },
+    {
+      "album": {
+        "name": "Musica Triste",
+        "url": "https://open.spotify.com/album/0WkQEbjeD5IfLgpbHYb7aN"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185960,
+      "name": "AMBRA (feat. Tedua)",
+      "url": "https://open.spotify.com/track/2bzsS7p3b4s6eeZu0ZGQyj"
     },
     {
       "album": {
@@ -1068,7 +1090,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 158972,
       "name": "Capo Horn (feat. Tedua)",
       "url": "https://open.spotify.com/track/7nl18LJP7p5c6NTQtcdusF"
@@ -2699,6 +2721,24 @@
     },
     {
       "album": {
+        "name": "Schiena",
+        "url": "https://open.spotify.com/album/1CSskxZMvTHis0a3YwBOHR"
+      },
+      "artists": [
+        {
+          "name": "Emma",
+          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211453,
+      "name": "L'Amore Non Mi Basta",
+      "url": "https://open.spotify.com/track/1YaSQXYPqhwtw35Wf3Z0nI"
+    },
+    {
+      "album": {
         "name": "Del Mio Meglio",
         "url": "https://open.spotify.com/album/6zP8t0J8Ue5YpWl4vAEEYm"
       },
@@ -3716,7 +3756,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 168240,
       "name": "Oh Mamma Mia (feat. Rose Villain)",
       "url": "https://open.spotify.com/track/4GkgNC3bpLqXyuxWvlNfKI"

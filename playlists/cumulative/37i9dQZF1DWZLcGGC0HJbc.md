@@ -4,7 +4,7 @@
 
 > als het woud een playlist zou zijn
 
-274 songs - 16 hr 27 min
+275 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Antichrist](https://open.spotify.com/track/1R8LeKeHLFjAXDOR4JHkJx) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 3:20 | 2025-07-03 | 2025-09-20 |
 | [Anymore](https://open.spotify.com/track/2pM5npvsX6AHv5ah50HHBU) | [Maida Rose](https://open.spotify.com/artist/1XNEYqJZDKq9lEqe61sF1k) | [Anymore](https://open.spotify.com/album/7pYeXUlXPmFE26I5bKPkwB) | 4:08 | 2024-07-18 | 2025-01-24 |
 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 | 2025-07-03 | 2025-11-21 |
-| [April May July](https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [April May July](https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc) | 3:53 | 2024-06-27 |  |
+| [April May July](https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [April May July](https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc) | 3:53 | 2024-06-27 | 2025-12-12 |
 | [Ashes](https://open.spotify.com/track/0uoJUir7zZJCGxwfh9ekKD) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Ashes](https://open.spotify.com/album/62lXmNrNMjNLBO0d7YkJRJ) | 4:42 | 2025-06-05 |  |
 | [At The Doorstep](https://open.spotify.com/track/3evxjPveHGuE03icXo1iQu) | [Ato Pérez](https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc), [Robin Wander Smit](https://open.spotify.com/artist/64xvDazGTL9SE8nc7BVWJp) | [At The Doorstep](https://open.spotify.com/album/6OQOHKIJt0CZ7KB90i3or7) | 3:15 | 2024-06-27 | 2024-10-04 |
 | [Autopilot](https://open.spotify.com/track/6NeKTunrQMG4nPNjlNxYCm) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Paradise Pop\. 10](https://open.spotify.com/album/5sPpipywlIIJXeEU4SWDbU) | 3:24 | 2025-01-23 | 2025-02-24 |
@@ -214,6 +214,7 @@
 | [She Says](https://open.spotify.com/track/5EJYO3Oa6qFUVcOOKB15w3) | [Eve Owen](https://open.spotify.com/artist/5K9H52DBfvfMzrskJkU4An) | [Don't Let The Ink Dry](https://open.spotify.com/album/7J1PTpRtEdcaUAlSFo4t7k) | 4:10 | 2025-07-03 | 2025-09-20 |
 | [Shoulders](https://open.spotify.com/track/25YhlblobWyjLS07Y1fMuj) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [Shoulders](https://open.spotify.com/album/0ZihHAPgNbyZdiW4SzIoET) | 3:24 | 2025-11-20 |  |
 | [Shoulders Knees](https://open.spotify.com/track/7z8SS9zjHCO0R87ZpWmsoz) | [Rosa Butsi](https://open.spotify.com/artist/2tcIUL0ZNEo2gnrBzNBz3L) | [Shoulders Knees](https://open.spotify.com/album/2oiusrsL6SM0BHoLXJY28O) | 4:41 | 2024-06-27 | 2024-12-21 |
+| [Small Hours \(feat\. Isabel Pless\)](https://open.spotify.com/track/4pGpa879o8xiiHSJyhiMMZ) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Small Hours \(feat\. Isabel Pless\)](https://open.spotify.com/album/1HmFzWDqZsky5phafS74qD) | 3:18 | 2025-12-11 |  |
 | [so i let you \(15th of june \- evening\)](https://open.spotify.com/track/5nzBuGyaWp25j5Ioy82PHL) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [so i let you \(15th of june \- evening\)](https://open.spotify.com/album/6H7NrgGon7JOhxetGKAf4h) | 3:19 | 2025-07-03 | 2025-09-20 |
 | [Sober](https://open.spotify.com/track/3WKFCNvNqQNlyqrjGdZGRe) | [Norah Hendriks](https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC) | [Every Single Thing](https://open.spotify.com/album/38DNTfhFTj6PYFzLrZiRX5) | 3:42 | 2025-07-03 | 2025-09-20 |
 | [Soft Currents](https://open.spotify.com/track/6Lq6haqwKOJ2OiqsFwhnIE) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [The Archer](https://open.spotify.com/album/3QHdGQFzgpIvvSFA83bqyh) | 3:11 | 2025-07-03 | 2025-09-20 |

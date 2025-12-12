@@ -4,7 +4,7 @@
 
 > 
 
-8,215 songs - 20 day 21 hr 0 min
+8,217 songs - 20 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7444,6 +7444,7 @@
 | [ヒトリゴト](https://open.spotify.com/track/5cZoupMHyi9H9NDGSZnPtU) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Party](https://open.spotify.com/album/79UgEZdQY1mcCM44BAGAB4) | 3:52 | 2024-12-14 |  |
 | [ヒバナ \-Reloaded\-](https://open.spotify.com/track/3o3tjRMCS3xoQ4d3xcsQsc) | [星乃一歌](https://open.spotify.com/artist/0gIbpvrqmPtHQ8zyQpBDFt) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク　アナザーボーカルアルバム　Leo/need](https://open.spotify.com/album/7xlXLAD6g3OD5bX1hpk7xa) | 3:25 | 2025-10-03 |  |
 | [ヒロイン](https://open.spotify.com/track/3hBAYbAECEix9raaTq8S3H) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [シャンデリア](https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT) | 4:29 | 2024-12-10 |  |
+| [ビターチョコデコレーション](https://open.spotify.com/track/4uy2VPS6prqLqRUBtbvs7G) | [朝比奈まふゆ](https://open.spotify.com/artist/31upiK8FORhx0Nm5tVxmtB) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 3:17 | 2025-12-11 |  |
 | [ピンクレモネード](https://open.spotify.com/track/1h5IF4wqelNWeT5GsyetpK) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [ガールズブルー・ハッピーサッド](https://open.spotify.com/album/2ubHtsAAGJ0fYRZOSVM7Rh) | 4:36 | 2025-01-15 |  |
 | [ピースサイン \- Peace Sign](https://open.spotify.com/track/364JzOajs76bJymjHm3sVY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 3:58 | 2025-01-03 |  |
 | [フィジーSunburst](https://open.spotify.com/track/6Qtnklk7TKPocYhzhIbnzY) | [Webinar™](https://open.spotify.com/artist/547QlFQE681w86yaLjDOoi) | [w w w \. d e e p d i v e \. c o m](https://open.spotify.com/album/54u3ulel2d5GUFv296P7fx) | 4:59 | 2025-05-17 |  |
@@ -7548,6 +7549,7 @@
 | [八月の夜](https://open.spotify.com/track/5QwlVc1dX1CA2RZEx7qkTQ) | [SILENT SIREN](https://open.spotify.com/artist/11FVEsg4m3QWzNfaK7vykQ) | [Silent Siren Selection](https://open.spotify.com/album/5VguY79HKEmjk7vllN0li5) | 4:23 | 2025-01-15 |  |
 | [六等星の夜](https://open.spotify.com/track/04K2brFrPGggc1EMHxOwOb) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Best Selection Blanc](https://open.spotify.com/album/1ls4Al4Eqzpocfe9Xb9kgJ) | 5:37 | 2024-12-05 |  |
 | [再生](https://open.spotify.com/track/24KYyk6mx7QhNBJKIDSkSr) | [宵崎奏](https://open.spotify.com/artist/1PbOXi3QIPB8AxbJ8byCl6) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 4:26 | 2025-11-27 |  |
+| [再生](https://open.spotify.com/track/271QLLXvcPOzTHC4MQu8c0) | [朝比奈まふゆ](https://open.spotify.com/artist/31upiK8FORhx0Nm5tVxmtB) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 4:26 | 2025-12-11 |  |
 | [冬の影は哀しみ](https://open.spotify.com/track/3KEh7kUTfPQ7oceOyadDFZ) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 3:12 | 2025-01-03 |  |
 | [冬眠](https://open.spotify.com/track/28QP3jpaBPGgKKH4x3y5Dg) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 5:01 | 2025-01-15 |  |
 | [処女航海](https://open.spotify.com/track/2sgeR4J7gQwSZwfgtvVbQj) | [SHIGEO SEKITO](https://open.spotify.com/artist/4fP5zCJRf168wiWHG9tR9m) | [華麗なるエレクトーン \-サマータイム\-](https://open.spotify.com/album/5STN9WkizILrlz9TmpNJkI) | 6:58 | 2025-01-15 |  |

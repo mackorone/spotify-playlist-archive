@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Unmissable emerging pop feat. Tom Cooper",
+  "description": "Unmissable emerging pop feat. Aidan Jones",
   "name": "New Pop UK",
   "tracks": [
     {
@@ -1804,6 +1804,24 @@
       "duration_ms": 241487,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/7fhJE5Ho4MAt38aqRQiDlj"
+    },
+    {
+      "album": {
+        "name": "Blame Game",
+        "url": "https://open.spotify.com/album/3n7Vjwe7Jm5PiEdYYpgrih"
+      },
+      "artists": [
+        {
+          "name": "Amma",
+          "url": "https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212044,
+      "name": "Blame Game",
+      "url": "https://open.spotify.com/track/4qd83UB48FdKq1jcozeLXI"
     },
     {
       "album": {
@@ -5454,7 +5472,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 191595,
       "name": "Fault Line",
       "url": "https://open.spotify.com/track/16hJb6Q1lb22hVc4IsJoCo"
@@ -6304,7 +6322,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 201786,
       "name": "Girl I Know",
       "url": "https://open.spotify.com/track/5CZbwaRgOVee57y0RCH7F6"
@@ -9132,7 +9150,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 165998,
       "name": "Laundrette",
       "url": "https://open.spotify.com/track/2H1Qd4cD55TFavBJuzyreF"
@@ -9168,7 +9186,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 187439,
       "name": "left out",
       "url": "https://open.spotify.com/track/4aNmIOp8k6d84ses6EEUXE"
@@ -9679,6 +9697,24 @@
     },
     {
       "album": {
+        "name": "LYING",
+        "url": "https://open.spotify.com/album/3KIwOtyAr8L0UPMvba7uC1"
+      },
+      "artists": [
+        {
+          "name": "Alfie Sharp",
+          "url": "https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183157,
+      "name": "LYING",
+      "url": "https://open.spotify.com/track/2qbohFSDPNG92x2stESnOD"
+    },
+    {
+      "album": {
         "name": "MACHINE GHOST",
         "url": "https://open.spotify.com/album/3TkmekJyEsvoyiKLWjNfz6"
       },
@@ -10054,7 +10090,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 124913,
       "name": "Mean To Me",
       "url": "https://open.spotify.com/track/1WuAlAbeVDmMF8nmSUMGuD"
@@ -10774,7 +10810,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 222261,
       "name": "Never Like The First Time",
       "url": "https://open.spotify.com/track/6sQVmncu5nAraPCcgrjP7c"
@@ -11444,6 +11480,24 @@
       "duration_ms": 161398,
       "name": "Out Out",
       "url": "https://open.spotify.com/track/6w0Hwp8B3HNmzhKiMzeWOf"
+    },
+    {
+      "album": {
+        "name": "Overkill",
+        "url": "https://open.spotify.com/album/3UAhzKyLSrVek7nUGN7bnO"
+      },
+      "artists": [
+        {
+          "name": "Aidan Jones",
+          "url": "https://open.spotify.com/artist/2A68p8T4eDrXJyKZ2LyhfK"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240229,
+      "name": "Overkill",
+      "url": "https://open.spotify.com/track/1PQdDXskvuR7wvPmotXC1d"
     },
     {
       "album": {
@@ -13682,7 +13736,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 119885,
       "name": "Sick Of It",
       "url": "https://open.spotify.com/track/367AQlJCgsxSJv0MYRQXCh"
@@ -13736,7 +13790,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 171378,
       "name": "Sing One I Know",
       "url": "https://open.spotify.com/track/0QDGjeTBKQoZsj9uc7TL7q"
@@ -14575,6 +14629,24 @@
     },
     {
       "album": {
+        "name": "Sunburn",
+        "url": "https://open.spotify.com/album/6WjajemZc16YRS6C5gKfQs"
+      },
+      "artists": [
+        {
+          "name": "Lucy Deakin",
+          "url": "https://open.spotify.com/artist/76vO0RjFam5iW8mbtVsc4h"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149862,
+      "name": "Sunburn",
+      "url": "https://open.spotify.com/track/4ZYmPloP9kvJRJ5d1JBUyt"
+    },
+    {
+      "album": {
         "name": "sunny side up",
         "url": "https://open.spotify.com/album/4rHc20KVLV00z8i0xVDCpp"
       },
@@ -14676,7 +14748,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 165792,
       "name": "SUPERGLUE!",
       "url": "https://open.spotify.com/track/3lsgHEVj7LgeCgyu4bqTte"
@@ -14932,6 +15004,24 @@
       "duration_ms": 175807,
       "name": "TALES OF A TWENTY SOMETHING",
       "url": "https://open.spotify.com/track/1NTTLmNKj9FZSL40Ouwudu"
+    },
+    {
+      "album": {
+        "name": "Talk About It",
+        "url": "https://open.spotify.com/album/3invOOhMmOVJF5lyAbJiUa"
+      },
+      "artists": [
+        {
+          "name": "Elle Coves",
+          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201400,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/1wrVX3ztn5FejxBlOUDclK"
     },
     {
       "album": {
@@ -15490,7 +15580,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 162509,
       "name": "Things I Really Mean",
       "url": "https://open.spotify.com/track/1ifdycBCHgcbRSMskdpSRB"
@@ -15825,6 +15915,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Nadia Loren",
+          "url": "https://open.spotify.com/artist/7JjDgRpOWRxMdqijlOoNU1"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/2A1jDOtaOI54y1L11kXE8j"
+    },
+    {
+      "album": {
         "name": "trespass coat",
         "url": "https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1"
       },
@@ -15984,7 +16092,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 159069,
       "name": "U",
       "url": "https://open.spotify.com/track/1lK5rEc7L3iEsrzw1zyQ6v"

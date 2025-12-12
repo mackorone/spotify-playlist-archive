@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > New stunning releases in modern soul\. Cover: Latanya Alberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,707 likes - 82 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,702 likes - 82 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

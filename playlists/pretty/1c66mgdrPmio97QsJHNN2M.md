@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,533 likes - 325 songs - 18 hr 22 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,538 likes - 330 songs - 18 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -333,5 +333,10 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 323 | [Would You Stay?](https://open.spotify.com/track/5RB7iOLkedOW98OTgbzB01) | [Jenèriq](https://open.spotify.com/artist/19EuZYCQ44lQipUXiRKd2v) | [Would You Stay?](https://open.spotify.com/album/4cvGJ6CKXc6fo1zh9YlgzG) | 2:52 |
 | 324 | [Endless Light](https://open.spotify.com/track/5ZbZMRRIBYWa0y6JBULlnN) | [LUMI/R](https://open.spotify.com/artist/71rjnnqJoJF8ahTm3fipsL) | [AURORA](https://open.spotify.com/album/49dj3JVYm6DV31oYba26Kh) | 2:44 |
 | 325 | [Poison \- Radio Mix](https://open.spotify.com/track/72WWXdYxRgULcrEzG1V9ku) | [Matt Osuna](https://open.spotify.com/artist/1YpjecMAo0UrWeiTAvelHJ), [RED & TED](https://open.spotify.com/artist/6QO6YTX46ve4PNhIi92qyg) | [Poison](https://open.spotify.com/album/5lSMIfxBlAMfWcRJTAdrpn) | 3:51 |
+| 326 | [Until It's Time](https://open.spotify.com/track/77v6TueXjlHHOOBsFOrNGl) | [Cut Flowers](https://open.spotify.com/artist/5qRls3Usdh6jOe0ek8ZCXS) | [Until It's Time](https://open.spotify.com/album/6Ulxw0G7DRwcWy6FG0Yq0Z) | 2:48 |
+| 327 | [It's You](https://open.spotify.com/track/4OSreDxciehHjXiDIecQav) | [McKayla Michelle](https://open.spotify.com/artist/14RIpvHLel1ghkovrPsu6h) | [It's You](https://open.spotify.com/album/6eMmuyv2I41OrR0M7E7qe8) | 2:38 |
+| 328 | [The First Christmas Day](https://open.spotify.com/track/0fK8bKXd6Es4xesqIIXBOJ) | [Jodi DiPiazza](https://open.spotify.com/artist/6p1xGLc2dyQL1Beu8zfHja) | [The First Christmas Day](https://open.spotify.com/album/3X9e7bulAtrFAVqpH50IYL) | 5:34 |
+| 329 | [Japanese Onsen](https://open.spotify.com/track/28WXWbhioXPcw3v4cvzjv9) | [Monster Taxi](https://open.spotify.com/artist/27o7oSOG3aEzsNaAnm2hgZ) | [Japanese Onsen](https://open.spotify.com/album/6xOQMZu1tkEGHPyd5Gnxtc) | 3:56 |
+| 330 | [LUV STRUCK](https://open.spotify.com/track/27lMGJ24Ry90rS18akyYnT) | [Hxtra](https://open.spotify.com/artist/5UWCbi9dD4BzERjl7b3Neb) | [9 2 5](https://open.spotify.com/album/3trknleJinlGnyzjZRTi40) | 2:24 |
 
-Snapshot ID: `AAAyaYfytnAzPck3wTM+z+RqPapwPoSM`
+Snapshot ID: `AAAybn+k1WrbxPqqIU3XbFnk1fzdQSu6`

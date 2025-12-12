@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 243034,
       "name": "BDE Bonus",
       "url": "https://open.spotify.com/track/4Pafh2Ndd9O4NgO53rqJxI"
@@ -910,6 +910,24 @@
     {
       "album": {
         "name": "Blue Slide Park",
+        "url": "https://open.spotify.com/album/5lQuQV1SyJPbD5fIlEPrgV"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178902,
+      "name": "Missed Calls",
+      "url": "https://open.spotify.com/track/2kT8LyskbN051qAEHp2tqA"
+    },
+    {
+      "album": {
+        "name": "Blue Slide Park",
         "url": "https://open.spotify.com/album/17mAoDs7T8EA9zzlj6QPBv"
       },
       "artists": [
@@ -920,7 +938,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 178902,
       "name": "Missed Calls",
       "url": "https://open.spotify.com/track/2ySc7XpO3sdt01UG986MwE"
@@ -1527,6 +1545,28 @@
     },
     {
       "album": {
+        "name": "K.I.D.S.",
+        "url": "https://open.spotify.com/album/1T0BEcI9veLLRnbvHFJdru"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195873,
+      "name": "The Spins",
+      "url": "https://open.spotify.com/track/2QGVKiAGTa1YcDqPMhAzF7"
+    },
+    {
+      "album": {
         "name": "K.I.D.S. (Deluxe)",
         "url": "https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R"
       },
@@ -1542,7 +1582,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 195873,
       "name": "The Spins",
       "url": "https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh"
@@ -1626,7 +1666,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 185779,
       "name": "Thoughts from a Balcony",
       "url": "https://open.spotify.com/track/1DWDoxqAXqMJ4B8QUMaQUw"

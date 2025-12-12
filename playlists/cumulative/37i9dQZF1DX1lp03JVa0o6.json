@@ -2533,6 +2533,32 @@
     },
     {
       "album": {
+        "name": "BODY",
+        "url": "https://open.spotify.com/album/2WHwElx1vZ4a6XtoHiQ7lc"
+      },
+      "artists": [
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC"
+        },
+        {
+          "name": "Future Cartel",
+          "url": "https://open.spotify.com/artist/4uLV7GS9THc28BQaBjmFSY"
+        },
+        {
+          "name": "MVRIN",
+          "url": "https://open.spotify.com/artist/6Wue4fFXUszJFB4lpFv5fo"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249523,
+      "name": "BODY",
+      "url": "https://open.spotify.com/track/46XA0l0oLY3jvVtdoJmZmn"
+    },
+    {
+      "album": {
         "name": "Body Moving",
         "url": "https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K"
       },
@@ -4457,6 +4483,28 @@
     },
     {
       "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288159,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/3hpuSKYKfjDPopXtU0OnWI"
+    },
+    {
+      "album": {
         "name": "Delilah (pull me out of this)",
         "url": "https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW"
       },
@@ -5724,7 +5772,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 209002,
       "name": "Eraser",
       "url": "https://open.spotify.com/track/2CXpZvW1IKuBJ9MeHeFz1T"
@@ -6502,6 +6550,28 @@
       "duration_ms": 198483,
       "name": "Forever Baby",
       "url": "https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo"
+    },
+    {
+      "album": {
+        "name": "Forever In My Room",
+        "url": "https://open.spotify.com/album/2vdgCzFGdAg8F27POdhjwY"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "BROODS",
+          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205002,
+      "name": "Forever In My Room",
+      "url": "https://open.spotify.com/track/2tcgn3gjLlXKhrNqu62oAK"
     },
     {
       "album": {
@@ -12640,7 +12710,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 248578,
       "name": "one2three (feat. Leven Kali)",
       "url": "https://open.spotify.com/track/6dQxsPVLqXnJgiLLWJRE5x"
@@ -14316,7 +14386,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 297943,
       "name": "Run",
       "url": "https://open.spotify.com/track/179sUkLRDlrfmRAITyK456"
@@ -14958,7 +15028,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 147428,
       "name": "Set Fire To The Rain (with YuB)",
       "url": "https://open.spotify.com/track/2QOyUgsnNp17GPQeq55vrC"
@@ -19060,6 +19130,24 @@
       "duration_ms": 208550,
       "name": "Whole Lotta Drugs",
       "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"
+    },
+    {
+      "album": {
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/3tljDywU5DOVRM3J9bZWoO"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231498,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/1nTIzrBPl6PLG6SokJ89lP"
     },
     {
       "album": {

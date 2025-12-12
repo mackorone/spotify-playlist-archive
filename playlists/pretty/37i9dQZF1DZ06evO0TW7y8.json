@@ -1,12 +1,12 @@
 {
   "description": "This is Jorja Smith. The essential tracks, all in one playlist.",
-  "num_followers": 322928,
+  "num_followers": 322934,
   "original_name": "This Is Jorja Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAAB5mYqCE3U1GauNE3wx0TTV",
+  "snapshot_id": "aTi4AAAAAADZ0acNWERaPBQpYdCUsLzZ",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 190429,
+      "name": "Don't Watch Me Cry",
+      "url": "https://open.spotify.com/track/202lm9YX5WmAac83tOGlVn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Can't Steal My Joy",
         "url": "https://open.spotify.com/album/1eY0OQek6FHZWiPgJaXAzl"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 221933,
       "name": "Reason in Disguise",
       "url": "https://open.spotify.com/track/0ebJuVgQ6VoS1mc7b713J2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 190429,
-      "name": "Don't Watch Me Cry",
-      "url": "https://open.spotify.com/track/202lm9YX5WmAac83tOGlVn"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 232630,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/14qLa09blyCJdkRJRQ8lpV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Little Things",
         "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
       },
@@ -655,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
+        "name": "falling or flying",
+        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
       "artists": [
         {
@@ -664,9 +680,9 @@
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 232630,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/14qLa09blyCJdkRJRQ8lpV"
+      "duration_ms": 224098,
+      "name": "Backwards",
+      "url": "https://open.spotify.com/track/7uRIdAhzWjQPSIgkZaMn73"
     },
     {
       "added_at": null,
@@ -691,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "falling or flying",
-        "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
+        "name": "Be Right Back",
+        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
       },
       "artists": [
         {
@@ -700,9 +716,9 @@
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 224098,
-      "name": "Backwards",
-      "url": "https://open.spotify.com/track/7uRIdAhzWjQPSIgkZaMn73"
+      "duration_ms": 166424,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0F2sfIqC4Csaiow6WBbAbC"
     },
     {
       "added_at": null,
@@ -719,22 +735,6 @@
       "duration_ms": 196975,
       "name": "High",
       "url": "https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Be Right Back",
-        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 166424,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0F2sfIqC4Csaiow6WBbAbC"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On My Mind (acoustic)",
-        "url": "https://open.spotify.com/album/2Ux9Grnth3hkFGnMnfOwau"
-      },
-      "artists": [
-        {
-          "name": "Preditah",
-          "url": "https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 176919,
-      "name": "On My Mind (acoustic)",
-      "url": "https://open.spotify.com/track/4ktAIutrCjL3oD9rR1aEWU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Killing Me",
         "url": "https://open.spotify.com/album/7FTJjjKgVJhOHiGJ66tpbk"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 205784,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/35KBVb0GWD9u0IGMRSNMEL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On My Mind (acoustic)",
+        "url": "https://open.spotify.com/album/2Ux9Grnth3hkFGnMnfOwau"
+      },
+      "artists": [
+        {
+          "name": "Preditah",
+          "url": "https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 176919,
+      "name": "On My Mind (acoustic)",
+      "url": "https://open.spotify.com/track/4ktAIutrCjL3oD9rR1aEWU"
     },
     {
       "added_at": null,

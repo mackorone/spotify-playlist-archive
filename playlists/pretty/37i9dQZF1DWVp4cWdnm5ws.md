@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Featuring our Top RADAR Philippines Artist of 2025, Dilaw, and editor’s picks of the best songs from each of our RADAR artists this year!
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,769 likes - 30 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,776 likes - 30 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 | 29 | [Good Girl](https://open.spotify.com/track/4HhkjGy7mCPVxi0xPkKLO1) | [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU) | [Good Girl](https://open.spotify.com/album/5Yzi6WqN4GluDudObDGAap) | 2:57 |
 | 30 | [Oops I did it again](https://open.spotify.com/track/2j4bnH1sr6vMo8oy0EkdJr) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD) | [Oops I did it again](https://open.spotify.com/album/34xlWUHuizltDK5JEzCdlq) | 1:40 |
 
-Snapshot ID: `AAAAAL3iLE9t0Dyspx8dAB1Ux0lmNfW/`
+Snapshot ID: `AAAAAPD4qYi4K1HTat9V9hEBbevBUlV0`

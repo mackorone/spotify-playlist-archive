@@ -4,7 +4,7 @@
 
 > Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia\. Emma Nolde in cover.
 
-207 songs - 9 hr 48 min
+208 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Avec moi](https://open.spotify.com/track/4b3d5gAAIUUhbzhRjQAZ97) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Numeri primi](https://open.spotify.com/album/72dqKyvNBKYp2LT4KC38vH) | 3:14 | 2022-08-31 | 2023-04-12 |
 | [Baby Don't Cry](https://open.spotify.com/track/1FH5kQE84G1aY17BO5U2Ei) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Baby Don't Cry](https://open.spotify.com/album/7zPSn1s2DdZVLTLCRi9zFz) | 3:04 | 2024-01-16 | 2024-04-24 |
 | [Bambina](https://open.spotify.com/track/3ConKv3XVOlkcQp0SfaHA3) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Bambina](https://open.spotify.com/album/4RVpMxTNK77CJp8ddQbJjL) | 2:19 | 2022-12-08 | 2023-04-12 |
+| [Believe](https://open.spotify.com/track/0P4m0R5msH9E5I2CfQx7Dg) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Believe](https://open.spotify.com/album/5UML5yybgZrFpHIMD3w7zY) | 3:42 | 2025-12-11 |  |
 | [Berlino](https://open.spotify.com/track/7sTbOThXJLTs9Mrt1Ur7qA) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Toccaterra](https://open.spotify.com/album/0W83qgyknBAvYem477t6Ti) | 2:49 | 2025-05-13 |  |
 | [Bistrot](https://open.spotify.com/track/6BVYZ55BxhxYxOH4Tfid77) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Bistrot](https://open.spotify.com/album/67PCJjaYPG1cUjD9KXpQVm) | 3:17 | 2022-08-31 | 2023-04-12 |
 | [Bnb life](https://open.spotify.com/track/4h2ZxFz4acPlkoom2BuBeC) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:20 | 2024-12-12 | 2025-05-14 |

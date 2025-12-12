@@ -60,7 +60,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 246893,
       "name": "1.9.82.",
       "url": "https://open.spotify.com/track/22xYHv2QEdKYKQO7jSAPM1"
@@ -6525,6 +6525,24 @@
     },
     {
       "album": {
+        "name": "La estaci\u00f3n",
+        "url": "https://open.spotify.com/album/06NexD0q5IT5pEuozV5KOy"
+      },
+      "artists": [
+        {
+          "name": "Linze",
+          "url": "https://open.spotify.com/artist/1tTfoCV93H1A7jvq1PpRJq"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238353,
+      "name": "La estaci\u00f3n",
+      "url": "https://open.spotify.com/track/0UlMQ9DkbAYqd68OAyTFFj"
+    },
+    {
+      "album": {
         "name": "La Flaca",
         "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
       },
@@ -7546,7 +7564,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 256821,
       "name": "Llorar\u00e9",
       "url": "https://open.spotify.com/track/0T74LiMmqOu1rUlpEhEdzp"
@@ -9874,7 +9892,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 236160,
       "name": "Pacto Entre Caballeros",
       "url": "https://open.spotify.com/track/2pD9O35trzPh9yqqNCIuL5"
@@ -11882,7 +11900,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 221440,
       "name": "Solitud y Soledad",
       "url": "https://open.spotify.com/track/1lF94W1pOncBrFED3Id1on"
@@ -12990,6 +13008,24 @@
       "duration_ms": 270333,
       "name": "T\u00fa ya lo sabes",
       "url": "https://open.spotify.com/track/40u2FUHUMV8oX1lifP6w49"
+    },
+    {
+      "album": {
+        "name": "Un Brindis al Sol",
+        "url": "https://open.spotify.com/album/26QYbeCgkfuz4FWnY75C6j"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251408,
+      "name": "Un Brindis al Sol",
+      "url": "https://open.spotify.com/track/6rHxTLofABDjMt4qFg8TaF"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "'t\u00e1 na rua? traz salsinha?' (eternamente)",
-  "num_followers": 137599,
+  "num_followers": 137616,
   "original_name": "Cozinhando a Ceia",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
+        "name": "amores v\u00eam e v\u00e3o",
+        "url": "https://open.spotify.com/album/2XF4xVFMqUIkz0bAtmrhBf"
+      },
+      "artists": [
+        {
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+        }
+      ],
+      "duration_ms": 236640,
+      "name": "amores v\u00eam e v\u00e3o",
+      "url": "https://open.spotify.com/track/6EJT6JMDqVAlxBkCsMhBFi"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
         "name": "O Velho Fusca",
         "url": "https://open.spotify.com/album/21HGedzOEu60ECMttwUimn"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 159018,
       "name": "Chinelo de Dedo",
       "url": "https://open.spotify.com/track/5LCckzANfQNAcGvpGI8oUI"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
-        "name": "amores v\u00eam e v\u00e3o",
-        "url": "https://open.spotify.com/album/2XF4xVFMqUIkz0bAtmrhBf"
-      },
-      "artists": [
-        {
-          "name": "Amanda Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
-        }
-      ],
-      "duration_ms": 236640,
-      "name": "amores v\u00eam e v\u00e3o",
-      "url": "https://open.spotify.com/track/6EJT6JMDqVAlxBkCsMhBFi"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Viver (Mais leve que o ar)",
-        "url": "https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 259453,
-      "name": "Gold Coast",
-      "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "Vem Doce",
         "url": "https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 226720,
       "name": "Vem Doce",
       "url": "https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Viver (Mais leve que o ar)",
+        "url": "https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 259453,
+      "name": "Gold Coast",
+      "url": "https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Mar\u00e9",
-        "url": "https://open.spotify.com/album/5LAUGOnMeoWsGEVic4go6l"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 203493,
-      "name": "Seu Pensamento",
-      "url": "https://open.spotify.com/track/5E9FgjQiyEckt2KUxb94vv"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "T\u00c1 FELIZ?!",
         "url": "https://open.spotify.com/album/6DIrxGW8DPl58CSIpygxjg"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 191093,
       "name": "SAMBA DE CRIA",
       "url": "https://open.spotify.com/track/7sXea0Z2jwhTGlRXWe2znZ"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Mar\u00e9",
+        "url": "https://open.spotify.com/album/5LAUGOnMeoWsGEVic4go6l"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 203493,
+      "name": "Seu Pensamento",
+      "url": "https://open.spotify.com/track/5E9FgjQiyEckt2KUxb94vv"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -719,42 +719,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Dia Branco",
-        "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
-      },
-      "artists": [
-        {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
-        },
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 147899,
-      "name": "Dia Branco",
-      "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
-        "name": "Parafuso",
-        "url": "https://open.spotify.com/album/76F6NYWGJgkqU3WbR9Mo3F"
-      },
-      "artists": [
-        {
-          "name": "Qinhones",
-          "url": "https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU"
-        }
-      ],
-      "duration_ms": 279003,
-      "name": "Parafuso",
-      "url": "https://open.spotify.com/track/6EEglMg2h3npZVTQQzIOeX"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "Sambabook Beth Carvalho",
         "url": "https://open.spotify.com/album/6n2DZ90JnfaXLij3cqfLye"
       },
@@ -779,6 +743,42 @@
       "duration_ms": 256888,
       "name": "Ainda \u00c9 Tempo pra Ser Feliz",
       "url": "https://open.spotify.com/track/08hIFSxQLvmSCwgECBLLBv"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Parafuso",
+        "url": "https://open.spotify.com/album/76F6NYWGJgkqU3WbR9Mo3F"
+      },
+      "artists": [
+        {
+          "name": "Qinhones",
+          "url": "https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU"
+        }
+      ],
+      "duration_ms": 279003,
+      "name": "Parafuso",
+      "url": "https://open.spotify.com/track/6EEglMg2h3npZVTQQzIOeX"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Dia Branco",
+        "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
+      },
+      "artists": [
+        {
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 147899,
+      "name": "Dia Branco",
+      "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
+        "name": "A Pele do Futuro",
+        "url": "https://open.spotify.com/album/1K9kdxE8GhOHuOnFYxoBco"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 283137,
+      "name": "Sublime",
+      "url": "https://open.spotify.com/track/4eSjkLKo82UM5sQEwA72jw"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
         "name": "Baile \u00e0 la Baiana",
         "url": "https://open.spotify.com/album/2RtkCFArLtUmwbDNJSS9Dg"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 205315,
       "name": "Gente Boa se Atrai",
       "url": "https://open.spotify.com/track/13nBh1bUK3kAn2zHvA2lIX"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
-        "name": "A Pele do Futuro",
-        "url": "https://open.spotify.com/album/1K9kdxE8GhOHuOnFYxoBco"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 283137,
-      "name": "Sublime",
-      "url": "https://open.spotify.com/track/4eSjkLKo82UM5sQEwA72jw"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Apesar de Voc\u00ea",
-        "url": "https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79"
-      },
-      "artists": [
-        {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
-        }
-      ],
-      "duration_ms": 275333,
-      "name": "Apesar de Voc\u00ea",
-      "url": "https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "SalDoce",
         "url": "https://open.spotify.com/album/3L72Mzaf9rUIFgRXlQiCF3"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 181992,
       "name": "Bem ou Mal",
       "url": "https://open.spotify.com/track/5WjWfsNUTjiPbxubTL3UPz"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Apesar de Voc\u00ea",
+        "url": "https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        }
+      ],
+      "duration_ms": 275333,
+      "name": "Apesar de Voc\u00ea",
+      "url": "https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Baby 95",
-        "url": "https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 318237,
-      "name": "Baby 95",
-      "url": "https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "Tem Dend\u00ea/Figa de Guin\u00e9 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3H0004T9awMzk0XS06xJwp"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 212540,
       "name": "Tem Dend\u00ea/Figa de Guin\u00e9 - Ao Vivo",
       "url": "https://open.spotify.com/track/0XY6vrxCXXroSVw6W2A1ii"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Baby 95",
+        "url": "https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 318237,
+      "name": "Baby 95",
+      "url": "https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -1115,22 +1115,18 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "raiz",
-        "url": "https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5"
+        "name": "Melhor Que Ontem",
+        "url": "https://open.spotify.com/album/64ux9afJoLaafAYumSppUl"
       },
       "artists": [
         {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
         }
       ],
-      "duration_ms": 246666,
-      "name": "afro futurista",
-      "url": "https://open.spotify.com/track/707zgXxO0fchdraumiV1R9"
+      "duration_ms": 159250,
+      "name": "Quem Me Conhece Sabe",
+      "url": "https://open.spotify.com/track/6ZtmpgXAicKBwYXnSmFfkW"
     }
   ],
   "unique_name": "Cozinhando a Ceia",

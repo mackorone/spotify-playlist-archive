@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,311 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,318 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 42 | [Pussur Pussur](https://open.spotify.com/track/4Z75gf4OJbcvIActA0F2vG) | [Anand Yankaran](https://open.spotify.com/artist/4gYBhFoqhQl4FJrfnNAFoy) | [Elements of Chutney](https://open.spotify.com/album/4AcRATTPdmUgLptdLfouO8) | 5:43 |
 | 43 | [Loota La](https://open.spotify.com/track/1eVCGigGerjHtN7AWquWWV) | [Sonny Man](https://open.spotify.com/artist/2SbrAYu0L4qMgLntFj5oE6) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:02 |
 | 44 | [Bhalay Ki \- Sohar](https://open.spotify.com/track/5Nf9dZNAXTBZsEegeIfnxE) | [Drupatee Ramgoonai](https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs) | [Explosive Moods](https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag) | 3:54 |
-| 45 | [Balama](https://open.spotify.com/track/3Zw2VFaqvZAkn1uMKX9jKe) | [Drupatee](https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd) | [Dekho Lawa](https://open.spotify.com/album/0NhPsvgyL8J66KKggFU2KR) | 4:21 |
+| 45 | [Mor Tor \(feat\. Rikki Jai\)](https://open.spotify.com/track/3bmJVnAl031qUqToopD8xg) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Rikki Jai](https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd) | [The Xtatik Experience](https://open.spotify.com/album/1A16ile1jSMMEhMvoRH0WN) | 4:34 |
 | 46 | [Naina Bandh](https://open.spotify.com/track/42oKkHNgUzqyTPR4yGwOrg) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Sundar Popo Greatest Hits, Vol\. 2](https://open.spotify.com/album/4YnZLTUgthWyb5kxVHMNdH) | 5:23 |
-| 47 | [Mor Tor \(feat\. Rikki Jai\)](https://open.spotify.com/track/3bmJVnAl031qUqToopD8xg) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Rikki Jai](https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd) | [The Xtatik Experience](https://open.spotify.com/album/1A16ile1jSMMEhMvoRH0WN) | 4:34 |
+| 47 | [Balama](https://open.spotify.com/track/3Zw2VFaqvZAkn1uMKX9jKe) | [Drupatee](https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd) | [Dekho Lawa](https://open.spotify.com/album/0NhPsvgyL8J66KKggFU2KR) | 4:21 |
 | 48 | [Radica](https://open.spotify.com/track/2IiLuq9XbkC2JzbZM4QO22) | [Kenneth Salick](https://open.spotify.com/artist/6SmabcvkBcB2lpaQn3EdN6) | [Soca Gold 2009](https://open.spotify.com/album/7cuPfx45vZRitCnf6mIpra) | 4:21 |
 | 49 | [Mohan Bina Gowna](https://open.spotify.com/track/03qQAIUvSjPUzeonHQvjgY) | [Drupatee Ramgoonai](https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs) | [Explosive Moods](https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag) | 5:00 |
 | 50 | [Balkissoon](https://open.spotify.com/track/2tx8gLbf1Iy7GbgV6vFl57) | [Omardath Maharaj](https://open.spotify.com/artist/2ucwlWOsuVNoYQbVswk9Sz), [Raymond Ramnarine](https://open.spotify.com/artist/4Mn7PxD4YaodFxdDokVveI) | [Balkissoon](https://open.spotify.com/album/0CpGJQDsla57RlmVUMahfy) | 3:44 |

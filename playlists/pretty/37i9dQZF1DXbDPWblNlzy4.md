@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,644 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,650 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDPWblNlzy4.md) - [plain]
 | 6 | [Por Toda la Vida \(feat\. Jhonathan Chavez, Alejandro Torres, Kenny y Kiara, Raúl Aparicio & Anarkelys Arias\) \- Versión Tipiquero](https://open.spotify.com/track/6BVwjfkHaq3oxomEvu1kET) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Jhonathan Chavez](https://open.spotify.com/artist/6gCY0XIwk511IezQOER1yI), [Alejandro Torres](https://open.spotify.com/artist/2tZQPPO8wMmZXZCcAciMla), [Kenny y Kiara](https://open.spotify.com/artist/02UcRPddRYQDqU44x3Vhcq), [Raúl Aparicio](https://open.spotify.com/artist/75PGDKvW32YSiTcSHcJmzL), [Anarkelys Arias](https://open.spotify.com/artist/6ZvrytRw1D6iDdKG4fOWyV) | [Por Toda la Vida \(feat\. Jhonathan Chavez, Alejandro Torres, Kenny y Kiara, Raúl Aparicio & Anarkelys Arias\) \[Versión Tipiquero\]](https://open.spotify.com/album/0BilFXP1xS9EaZRH6C9DBl) | 3:41 |
 | 7 | [Disco Rayado](https://open.spotify.com/track/6sJwso8oxE6L49gnyKDRJ7) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Disco Rayado](https://open.spotify.com/album/4GPtLXLaE56QWFcd2tRECu) | 2:31 |
 | 8 | [Milagros](https://open.spotify.com/track/1B1maIpcMpPDZ8GT0WHT0V) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Milagros](https://open.spotify.com/album/3k0FgbH2hF3R59J1Fwzd66) | 3:55 |
-| 9 | [Viernes](https://open.spotify.com/track/5ydIprMt8QT0XSdapQ4BKt) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [](https://open.spotify.com/album/null) | 2:38 |
+| 9 | [Viernes](https://open.spotify.com/track/5ydIprMt8QT0XSdapQ4BKt) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [TQ+](https://open.spotify.com/album/136gXSHLFKP4WwV9QbRuK1) | 2:38 |
 | 10 | [Vuelvo A Ti](https://open.spotify.com/track/2WgzOFCUFCQbpINnhOAFjF) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Ya Es Mañana](https://open.spotify.com/album/3ImR4LsUQPbMKCa8FCuFYO) | 3:06 |
 | 11 | [Me Está Doliendo](https://open.spotify.com/track/0if2KuMjKXCdBKM2Shdpf6) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Me Está Doliendo](https://open.spotify.com/album/5JnNUibrxRMHmyIp6ZjrSr) | 3:22 |
 | 12 | [Lejos de la Ciudad \- con Camilo](https://open.spotify.com/track/3iDMvP8BZxE2Olorh2pWg9) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Lejos de la Ciudad \(con Camilo\)](https://open.spotify.com/album/77bk6nc9OGUllHsYJh0Icu) | 3:07 |

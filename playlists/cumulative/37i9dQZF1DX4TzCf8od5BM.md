@@ -4,7 +4,7 @@
 
 > Sing\-along to your favorite songs from Disney Jr\. shows including music from Mickey Mouse Clubhouse+
 
-230 songs - 6 hr 3 min
+231 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/58uXn37TC1iZuRuEV9FWiT) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Me & Mickey](https://open.spotify.com/album/0nQdS5tHGoSQzv0qdWdgMd) | 1:40 | 2023-03-01 |  |
 | [Her Name Is Keia](https://open.spotify.com/track/55ffAqdRtmKsm8msJhNTmn) | ["Puppy Dog Pals" Cast](https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63) | [Disney Junior Music: Puppy Dog Pals \- Pup\-tastic Party](https://open.spotify.com/album/3veVX6rvkJ01H7UcpyOIp7) | 1:07 | 2022-03-18 |  |
 | [Here Comes the Lion Guard](https://open.spotify.com/track/00JwpdGOIcUwFsDKfQCciK) | [Beau Black](https://open.spotify.com/artist/1awJjjL5ucGBcu48LZCeco) | [The Lion Guard \(Music from the TV Series\)](https://open.spotify.com/album/1gcdxovxYoZ9xJtIT72FF0) | 2:28 | 2022-03-18 |  |
+| [Hey AJ! Theme Song \- From "Disney Jr\. Music: Hey AJ!"](https://open.spotify.com/track/6SCNUfVfrd8xkgYMNUyVYQ) | [Hey AJ! \- Cast](https://open.spotify.com/artist/1o43YlyRvflhyqyHP05s6c), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Hey AJ! Theme Song \(From "Disney Jr\. Music: Hey AJ!"\)](https://open.spotify.com/album/2DJpFvGW5PbcaZl269pgCZ) | 0:49 | 2025-12-11 |  |
 | [Home in My Heart](https://open.spotify.com/track/2Ts9sDlYOfDDlnwstan8AT) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: SuperKitties Su\-Purr Charged](https://open.spotify.com/album/3maWWI3K5sZu9UW8yMKNaB) | 1:34 | 2024-04-12 |  |
 | [Hot Dog!](https://open.spotify.com/track/2sXnv5xjNtX35mrFgHgzZy) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: Mickey Mouse Clubhouse+](https://open.spotify.com/album/76GMnErWY4su3GrICeqntA) | 2:28 | 2025-07-25 |  |
 | [Hot Dog! \- From "Mickey Mouse Clubhouse"](https://open.spotify.com/track/7HbVnCiUwE9Web7ZL9xHbv) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music Dance Party! The Album](https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK) | 2:28 | 2022-03-18 | 2025-07-26 |

@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "24hrs \u00e9 pouco",
+        "url": "https://open.spotify.com/album/1FiY45EL8LBlrXtf7i1BoM"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173582,
+      "name": "24hrs \u00e9 pouco",
+      "url": "https://open.spotify.com/track/1nETWyUnqPjEhwC8Mo2LQB"
+    },
+    {
+      "album": {
         "name": "442",
         "url": "https://open.spotify.com/album/6Mu1OvykDP0nf1wtG77xpG"
       },
@@ -1202,7 +1220,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 198281,
       "name": "Arquivo da Noite 33",
       "url": "https://open.spotify.com/track/6JDfkudE9EMkVJRakbedzg"
@@ -16710,6 +16728,28 @@
       "duration_ms": 213333,
       "name": "T\u00f3xica",
       "url": "https://open.spotify.com/track/4IuFdk5Hk90iUPPi98gWpN"
+    },
+    {
+      "album": {
+        "name": "HASOS",
+        "url": "https://open.spotify.com/album/0T6NLOJMmjD6xyvzNswmnn"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Um Pouco",
+      "url": "https://open.spotify.com/track/0MXuN923Y0DfRsPx2vFdzO"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,156 songs - 2 day 20 hr 8 min
+1,157 songs - 2 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Crush](https://open.spotify.com/track/4e63OHfw9CGC6WLXMvNHWJ) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Precipice](https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x) | 2:31 | 2025-07-30 | 2025-08-14 |
 | [Crush You](https://open.spotify.com/track/3AFxrPHW0222y3t4dmHAJI) | [Shafiq Husayn](https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Crush You](https://open.spotify.com/album/5tNrzUgxUXtlEmPPPmmbl3) | 4:16 | 2023-06-01 | 2023-06-07 |
 | [Cubism](https://open.spotify.com/track/2vQi0AbpCSO0YRSmH44Jzl) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Cubism](https://open.spotify.com/album/7kZYHnhPHOqT4T0KRaUYVx) | 3:13 | 2024-04-02 | 2024-06-05 |
-| [Cumulus / Memory](https://open.spotify.com/track/6rKXHdjhXExjyvfarhcmwb) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Cumulus / Memory](https://open.spotify.com/album/6VemCtS9MYpT9CJ1YgfZeN) | 6:47 | 2025-10-24 |  |
+| [Cumulus / Memory](https://open.spotify.com/track/6rKXHdjhXExjyvfarhcmwb) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Cumulus / Memory](https://open.spotify.com/album/6VemCtS9MYpT9CJ1YgfZeN) | 6:47 | 2025-10-24 | 2025-12-12 |
 | [Curious \(feat\. Fabolous\)](https://open.spotify.com/track/3ED40EjXiD4plW6UMteKGx) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [1\(800\)HIT\-EAZY: Line 2](https://open.spotify.com/album/6KIxdiACBAewmOLM1YBPYJ) | 3:45 | 2023-02-23 | 2023-06-02 |
 | [CURIOUS \(feat\. Toro y Moi\)](https://open.spotify.com/track/1iX4H6DTyg7xrmt8EzJbzB) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [CURIOUS \(feat\. Toro y Moi\)](https://open.spotify.com/album/7uwhe6VCJXSpA5kEYK2BL2) | 3:50 | 2025-09-18 | 2025-11-20 |
 | [CYM](https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [CYM](https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA) | 4:09 | 2025-03-26 | 2025-05-14 |
@@ -276,6 +276,7 @@
 | [Far Side of the Moon](https://open.spotify.com/track/5S7Jok7NAJks2akNJPSoWt) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Far Side of the Moon](https://open.spotify.com/album/1AAUSquFaEbVPlazWqvKMJ) | 3:33 | 2025-07-23 | 2025-08-19 |
 | [Favorite](https://open.spotify.com/track/1lTzaT129glHTIpSNg6rUW) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [MUSIC, DANCE & LOVE](https://open.spotify.com/album/4KAOXSADegSXNIkGkHoQJq) | 5:06 | 2022-11-15 | 2022-11-30 |
 | [Favorite \(feat\. Anderson .Paak\)](https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Trouble In Paradise](https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw) | 2:32 | 2024-08-14 | 2024-09-19 |
+| [favors](https://open.spotify.com/track/7a0auf1LJkhoIlDmjVEXii) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [favors](https://open.spotify.com/album/2JLwUEQIkgSwdC3ieZf5G0) | 3:48 | 2025-12-10 |  |
 | [Favourite Girl \(with Rema\)](https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Favourite Girl \(with Rema\)](https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU) | 3:04 | 2024-08-14 | 2025-01-09 |
 | [Fear \(Single Version\)](https://open.spotify.com/track/5l8xSMTnEhOXOO3Y4CWD9M) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Fear](https://open.spotify.com/album/7qcq8FLWNCIB4OVRwYi7ju) | 3:33 | 2024-02-01 | 2024-02-23 |
 | [Feather](https://open.spotify.com/track/0N3Vauee5r2AnqwscyK1Ot) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [World](https://open.spotify.com/album/75pDhSjbAaNzRkCPpHDKB1) | 3:52 | 2023-12-14 | 2024-01-10 |

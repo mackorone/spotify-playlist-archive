@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,721 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,763 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,15 +39,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 29 | [Sexy doll](https://open.spotify.com/track/50jUZjVyBoAZFBGgb5UvdV) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Obywatelka K.L.](https://open.spotify.com/album/6vMKCngJxJVE6rPYjt5h9g) | 4:05 |
 | 30 | [Death Wish](https://open.spotify.com/track/3tX3O0C3n8RB9knm9QRFsc) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Death Wish](https://open.spotify.com/album/2uDeSxmbT8XFv0uxQyz3hA) | 3:25 |
 | 31 | [I OWE IT TO YOU](https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [I OWE IT TO YOU](https://open.spotify.com/album/6O622GKMA9zpqTLxQ7vyZt) | 3:10 |
-| 32 | [silver and gold](https://open.spotify.com/track/1IuNjcvA7heWSCoqJChPhn) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [silver and gold](https://open.spotify.com/album/2LRK334hpyu7XBdc9Ho5Y5) | 2:17 |
+| 32 | [When You Tie Your Hair Up](https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 4:28 |
 | 33 | [teeth](https://open.spotify.com/track/7sPPN3NNDLhQY1Eu6Ot0Da) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [\(my world is an\) oyster](https://open.spotify.com/album/5KmSOOkB1iNgd3ZBhMgmB2) | 2:58 |
 | 34 | [Beznamiętnie](https://open.spotify.com/track/5QJfW0S7fUJQUcKOZGtrth) | [Natalia Muianga](https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4) | [Beznamiętnie](https://open.spotify.com/album/2jPRaXK8k8v9QqCoGuO42l) | 2:44 |
-| 35 | [When You Tie Your Hair Up](https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 4:28 |
+| 35 | [silver and gold](https://open.spotify.com/track/1IuNjcvA7heWSCoqJChPhn) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [silver and gold](https://open.spotify.com/album/2LRK334hpyu7XBdc9Ho5Y5) | 2:17 |
 | 36 | [warszawska fantazja](https://open.spotify.com/track/3kmiK0nFMkIRBpU9tQdd32) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [warszawska fantazja](https://open.spotify.com/album/638cXSDmgC9JSmxev4heIT) | 3:23 |
 | 37 | [Wczorajszy tlen](https://open.spotify.com/track/6hDAg8JGPWcdryzQJm1CuO) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Wczorajszy tlen](https://open.spotify.com/album/3q0HA6dlmep1lommlVGyql) | 3:00 |
 | 38 | [Ramen](https://open.spotify.com/track/1fWiLeqoyGNpm1IiMv4sMt) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F), [Zagorski](https://open.spotify.com/artist/1HeMjOGamilY6kKP2vohac), [Wa$kiewicH](https://open.spotify.com/artist/4FJ4FKoryndsLF8rCJ1qDI) | [Ramen](https://open.spotify.com/album/6HSD328wfB8GSsIOGoSrcC) | 3:57 |
-| 39 | [Miasto](https://open.spotify.com/track/2knk9eGNdMPy4kgJC3olvv) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Miasto](https://open.spotify.com/album/6MD6VMlJ1Rd70BdCkbHr5m) | 2:36 |
-| 40 | [Odpłyń](https://open.spotify.com/track/74rztz1PxcP0GWS6HjV4ep) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Nie chcę być tu sama](https://open.spotify.com/album/62iR9FAdWP5sG9LWO7AiMn) | 4:09 |
+| 39 | [Odpłyń](https://open.spotify.com/track/74rztz1PxcP0GWS6HjV4ep) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Nie chcę być tu sama](https://open.spotify.com/album/62iR9FAdWP5sG9LWO7AiMn) | 4:09 |
+| 40 | [Miasto](https://open.spotify.com/track/2knk9eGNdMPy4kgJC3olvv) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Miasto](https://open.spotify.com/album/6MD6VMlJ1Rd70BdCkbHr5m) | 2:36 |
 | 41 | [Będę twoją Sylvią Plath](https://open.spotify.com/track/0Bfe03aAJYC2avYUkyljxs) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Będę twoją Sylvią Plath](https://open.spotify.com/album/3mPq4OEZQGcqtDe6lYHX3y) | 3:10 |
 | 42 | [TV](https://open.spotify.com/track/2BzZWVP6UJF5eKl9T8fSvL) | [ALZZY](https://open.spotify.com/artist/7AO0PhHfvJgyp71cMqusc7) | [TV](https://open.spotify.com/album/26ngT168TbWrmMyiumtu3R) | 2:43 |
 | 43 | [Czemu pozwoliłeś kochać?](https://open.spotify.com/track/00ITfmQnKbU69YUMimdI1U) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Czemu pozwoliłeś kochać?](https://open.spotify.com/album/4iz3J2ypdRCNHmF406gHOx) | 2:30 |

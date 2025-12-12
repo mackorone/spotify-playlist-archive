@@ -1,13 +1,45 @@
 {
   "description": "The best  indie rock tracks. | Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc.  Submit on IG @reinhardzwisler Cover: Lord Huron",
-  "num_followers": 4750,
+  "num_followers": 4752,
   "original_name": "Indie Rock",
   "owner": {
     "name": "Reinhard Zwisler",
     "url": "https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi"
   },
-  "snapshot_id": "AAAOIrTSJbxXTOR4fE9hcRG3ZfWoFh69",
+  "snapshot_id": "AAAOJoyck/RtqTmKRqqPxpLPYWOhb9wN",
   "tracks": [
+    {
+      "added_at": "2025-12-11 23:54:01",
+      "album": {
+        "name": "A Million and A Half Ways",
+        "url": "https://open.spotify.com/album/0gq5UclcmePaaUgy0n6sMc"
+      },
+      "artists": [
+        {
+          "name": "Nick Coleman",
+          "url": "https://open.spotify.com/artist/6snVGC7vB9QsHcGoUxaSou"
+        }
+      ],
+      "duration_ms": 175058,
+      "name": "Out The Zip",
+      "url": "https://open.spotify.com/track/4wrbHQzr3hAkwFhG9lYM8R"
+    },
+    {
+      "added_at": "2025-12-11 08:46:41",
+      "album": {
+        "name": "Haze",
+        "url": "https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn"
+      },
+      "artists": [
+        {
+          "name": "The Marica Frequency",
+          "url": "https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0"
+        }
+      ],
+      "duration_ms": 217206,
+      "name": "Candor",
+      "url": "https://open.spotify.com/track/2BZQf1SaFOQvgcEru7euV2"
+    },
     {
       "added_at": "2025-11-02 19:58:22",
       "album": {
@@ -831,6 +863,38 @@
       "duration_ms": 222705,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/1aac1kuHZNKvUCPbNkPrjd"
+    },
+    {
+      "added_at": "2025-12-11 07:40:50",
+      "album": {
+        "name": "Storm",
+        "url": "https://open.spotify.com/album/3VpAsksWzfNm6r7cHL8w6t"
+      },
+      "artists": [
+        {
+          "name": "Under The Pendulum",
+          "url": "https://open.spotify.com/artist/2lQOBQMkqxOvrVdphflRKP"
+        }
+      ],
+      "duration_ms": 232392,
+      "name": "Storm",
+      "url": "https://open.spotify.com/track/4zco59LEN14IqrtaKHVIQq"
+    },
+    {
+      "added_at": "2025-12-11 07:41:01",
+      "album": {
+        "name": "Lady",
+        "url": "https://open.spotify.com/album/2OTHb14DYzCrHkP9tZWHex"
+      },
+      "artists": [
+        {
+          "name": "Decade",
+          "url": "https://open.spotify.com/artist/4gX6GMBVlHl2O27Cq0awyi"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/7f1zenijQQBqbdMnP7K3Sf"
     }
   ],
   "unique_name": "Indie Rock",

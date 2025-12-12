@@ -2,9 +2,9 @@
 
 ### [ТОП ПОП 2025](https://open.spotify.com/playlist/37i9dQZF1DX5Wynp5mlXCZ)
 
-> Топові новинки української та світової поп\-музики\. Обкладинка: ONUKA & The Maneken
+> Топові новинки української та світової поп\-музики\. Обкладинка: Irina Rimes & Jerry Heil
 
-464 songs - 23 hr 25 min
+466 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [Бардак](https://open.spotify.com/track/4DHJmX6trGBpy8MLy2LK5J) | [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Мистецтво](https://open.spotify.com/album/49QoM3KSVabOZUrdz8Uhej) | 2:48 | 2025-06-05 | 2025-06-20 |
 | [Без тебе](https://open.spotify.com/track/5e8CxJdVcbjaFNqHUUwgFA) | [MAYOROVA](https://open.spotify.com/artist/3C25DyRTXI62MvfFYBMP7Y) | [19](https://open.spotify.com/album/3SjMRTptUNIozqMhKnH0uH) | 2:14 | 2024-11-14 | 2024-11-22 |
 | [бреши мені](https://open.spotify.com/track/2fdfulGJzLu33pqUpTkNFM) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [сьогодні або ніколи](https://open.spotify.com/album/6VJLcdcWIHWNGtnUbuzuvY) | 2:42 | 2024-12-19 | 2025-01-17 |
-| [Бувай](https://open.spotify.com/track/5TZ9sclFWADZJGqPCqfvlj) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Сад Закоханих Лілій](https://open.spotify.com/album/0ehui3qhR0asT3RwQeM8ig) | 3:06 | 2025-12-04 |  |
+| [Бувай](https://open.spotify.com/track/5TZ9sclFWADZJGqPCqfvlj) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z), [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Сад Закоханих Лілій](https://open.spotify.com/album/0ehui3qhR0asT3RwQeM8ig) | 3:06 | 2025-12-04 | 2025-12-12 |
 | [Біла стрічка](https://open.spotify.com/track/6WeJt26qtv3HejArxV5w1O) | [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [Краля](https://open.spotify.com/album/0xt9rzSIuNqd0dbBdQkTdd) | 2:14 | 2025-04-04 | 2025-04-25 |
 | [Білі ночі](https://open.spotify.com/track/2A24AcV0HFyZXLvjkRaGJs) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm), [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0) | [Білі ночі](https://open.spotify.com/album/73pqM9OoETFQTbbioQpCas) | 2:50 | 2024-07-04 | 2025-03-21 |
 | [В Моїм Серці](https://open.spotify.com/track/1M1NqnPJSvFxWfw9dUVHLl) | [The Maneken](https://open.spotify.com/artist/21XreEXwXo1TNn2QMkwPzm) | [В Моїм Серці](https://open.spotify.com/album/5yPt6ZL5P7Xnt9AmuE5X3j) | 2:51 | 2025-05-08 | 2025-05-23 |
@@ -286,7 +286,7 @@
 | [Відчиняю](https://open.spotify.com/track/7MkVeS2Vv6TlmWw8FPvTNH) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [Відчиняю](https://open.spotify.com/album/1wtRGbp8RKqBkAWIhI6Rk0) | 3:19 | 2024-08-30 | 2024-09-28 |
 | [Він Поруч](https://open.spotify.com/track/24kl8wME24Jc5WrfhV3cvk) | [Quest Pistols](https://open.spotify.com/artist/18XhbB07IBOH5ZNPn97tf0) | [Він Поруч](https://open.spotify.com/album/47Jy5YX0ApJ4wRYwpsavXm) | 2:55 | 2025-01-02 | 2025-01-17 |
 | [Вітер](https://open.spotify.com/track/44Luf8j9ZAKiA0d3QCI0OD) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Вітер](https://open.spotify.com/album/1gCA755TURpXarpFjfalr4) | 2:47 | 2024-09-13 | 2024-09-21 |
-| [Галіція](https://open.spotify.com/track/4yNvkYzXH9Sn3a5mvz4Elr) | [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa) | [Галіція](https://open.spotify.com/album/7e4CpwI6XNosDUS6bpYz6r) | 3:22 | 2025-09-25 |  |
+| [Галіція](https://open.spotify.com/track/4yNvkYzXH9Sn3a5mvz4Elr) | [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa) | [Галіція](https://open.spotify.com/album/7e4CpwI6XNosDUS6bpYz6r) | 3:22 | 2025-09-25 | 2025-12-12 |
 | [Говорили](https://open.spotify.com/track/36CrigOJBiD1PPsfWYMWxq) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Говорили](https://open.spotify.com/album/56m2oahXxWbrwzsZWLSfWX) | 2:29 | 2025-06-26 | 2025-07-04 |
 | [Голими](https://open.spotify.com/track/13cuFULTHz4oKU2pc9A8cQ) | [EL Kravchuk](https://open.spotify.com/artist/0R8YFxigLWgcwbYFvHA4Nh) | [Голими](https://open.spotify.com/album/6SJFj1TswSCEE16q7x8WNp) | 2:47 | 2024-07-12 | 2024-07-20 |
 | [Гра в бісер](https://open.spotify.com/track/2q3eKvb9SfULxe9eUDBU8k) | [Схожа](https://open.spotify.com/artist/70MEj6TnbVEjYdKgE8ZRGC) | [Гра в бісер](https://open.spotify.com/album/5sZHYIZUjc8OCyfLptB3v5) | 3:46 | 2025-10-16 | 2025-10-24 |
@@ -351,6 +351,7 @@
 | [Мила не плач](https://open.spotify.com/track/26a03jbLXKK0HZJFR7GCjQ) | [TUMAZAR](https://open.spotify.com/artist/0sxk44sG1eS4XAnbGd3fjK), [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [Мила не плач](https://open.spotify.com/album/1Tg0s1XiaFD35alwbja7Y8) | 2:21 | 2024-10-10 | 2024-11-01 |
 | [Мистецтво](https://open.spotify.com/track/5GSJAsIL7KLtGh4PK9jw1A) | [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Мистецтво](https://open.spotify.com/album/0GmCo64twAspf4ebGkYygD) | 2:22 | 2024-10-31 | 2025-05-02 |
 | [Многая літа](https://open.spotify.com/track/2CRlbBTI2Zk8WaosWWboGT) | [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM), [BADWOR7H](https://open.spotify.com/artist/4ZKMKmBEUvsbivCpxQhRgD) | [Многая літа](https://open.spotify.com/album/32BE4EaSBfk5McC9Z9SKAE) | 2:37 | 2025-10-03 | 2025-10-10 |
+| [мультивсесвіт](https://open.spotify.com/track/0i5arZ6f0zuS2M6K1NgOPO) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [мультивсесвіт](https://open.spotify.com/album/6oMmhKjvV4gI1yGHic6Zkk) | 3:13 | 2025-12-11 |  |
 | [Муракамі \- До фільму «Песики»](https://open.spotify.com/track/6QPyoHmJcI0Ynt7Ql1CDZ2) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Муракамі \(До фільму «Песики»\)](https://open.spotify.com/album/0MG4csXfGCUIuBi82SLy58) | 2:17 | 2025-02-13 | 2025-02-21 |
 | [Мухи](https://open.spotify.com/track/0O8tdlDY8XVmKSr7IkGwjU) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm) | [Мухи](https://open.spotify.com/album/2w5yz0Xudppe472tRT3hAy) | 3:01 | 2025-08-07 | 2025-08-29 |
 | [Мушлі](https://open.spotify.com/track/1MT7KlBpObJuNOR0ALsuh0) | [KAZKA](https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw) | [Мушлі](https://open.spotify.com/album/3PvqKzs0AmRYYST6OzvSbx) | 2:44 | 2024-08-30 | 2024-09-21 |
@@ -383,6 +384,7 @@
 | [Невже](https://open.spotify.com/track/1dRwGgYCwrpVX9qJMMfEvw) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Невже](https://open.spotify.com/album/5mUBIsjrd0LoeeVidf6JeI) | 3:01 | 2025-02-13 | 2025-10-31 |
 | [Нелюбов](https://open.spotify.com/track/7JDV04QvvqeufuidNtrPxW) | [Liza Bibikova](https://open.spotify.com/artist/5QCvdC4Oxl2Uzzcehr1Knz), [MOISHE](https://open.spotify.com/artist/6pcvAwBZmKzwCFYeCSo3eh) | [Нелюбов](https://open.spotify.com/album/7CYPmTT27avT4QG3BhwX6f) | 2:41 | 2025-09-18 | 2025-10-17 |
 | [Нижча зростом](https://open.spotify.com/track/4OqDuY8Yj8Qr0BEMRnmXEK) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Під гітару](https://open.spotify.com/album/1GHEI18cT74G1gtwvEkI8J) | 2:59 | 2024-12-19 | 2025-03-21 |
+| [Номерок](https://open.spotify.com/track/1StmVOI2Wv2WIQRTiIsV8n) | [Gunna Chorna](https://open.spotify.com/artist/6svqgn8444V7khZxeHQ0c1), [The Budchuk](https://open.spotify.com/artist/0uGzb9yQNvlHef5jl7JDZ9) | [Номерок](https://open.spotify.com/album/1xu6Y5d7CEpajxB3aFNv40) | 2:00 | 2025-12-11 |  |
 | [Обиратиму себе](https://open.spotify.com/track/5MR4WYVpjpvjjpsjRwdwxJ) | [MÉLOVIN](https://open.spotify.com/artist/4nym9MDEPnWmPfuWwsyKeL), [iSKra](https://open.spotify.com/artist/2eaguEJBVEQVZhim3JryHD) | [Обиратиму себе](https://open.spotify.com/album/12QG9ZiJbsT0kHEsks4Ylm) | 3:12 | 2024-09-30 | 2024-12-20 |
 | [одна на мільйон](https://open.spotify.com/track/5VKJufULN74JETARDItgue) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [одна на мільйон](https://open.spotify.com/album/0PMBM2qi2ViFot9MlMBTjx) | 2:04 | 2025-02-20 | 2025-03-14 |
 | [Одіссея](https://open.spotify.com/track/2vj3T8bFc0YGgv4Sut9eSS) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5), [The Maneken](https://open.spotify.com/artist/21XreEXwXo1TNn2QMkwPzm) | [Одіссея](https://open.spotify.com/album/6Z1HGWBLIJaE5EluFv7rcd) | 3:53 | 2025-08-14 | 2025-09-26 |

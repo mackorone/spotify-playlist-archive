@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: EsDeeKid
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,222 likes - 70 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,212 likes - 70 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 11 | [night in tokyo!](https://open.spotify.com/track/0enPdppIOTmn6gZGJbeJzS) | [TH3 KXD](https://open.spotify.com/artist/5KjxDm3rAhy7nSkSKyv0LQ) | [night in tokyo!](https://open.spotify.com/album/442902zOScm1H2tAWsNz3x) | 1:55 |
 | 12 | [Dot Dot \(feat\. Interplanetary Criminal & Flowdan\)](https://open.spotify.com/track/7vePS1uTLA4iENtOldQVLt) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Dot Dot \(feat\. Interplanetary Criminal & Flowdan\)](https://open.spotify.com/album/38XV0JAqCJk6RRyrB1JIU0) | 3:01 |
 | 13 | [Thootie \(feat\. Tokischa\)](https://open.spotify.com/track/6mHIYI9coRzaIlqE6rPNN5) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Thootie \(feat\. Tokischa\)](https://open.spotify.com/album/0TodY9XIuBX1k3DUhigXuG) | 2:31 |
-| 14 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 |
+| 14 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 |
 | 15 | [Trouble](https://open.spotify.com/track/1kvHfHpoqF3zm3bGgjUoYh) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Mazza\_l20](https://open.spotify.com/artist/00IiVt687EdR9JnSoJN7IA) | [Trouble](https://open.spotify.com/album/013oyxu6GZfmFsjsDGIlNO) | 3:07 |
 | 16 | [Luxford](https://open.spotify.com/track/7asYmLWx9FqYTBqfkOxRsv) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Luxford](https://open.spotify.com/album/14RtB2BufGODTUgDlsvjfx) | 3:27 |
 | 17 | [ART \(feat\. Latto\)](https://open.spotify.com/track/24fWOmkqeWMdAxiOiuXt0k) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [ART \(feat\. Latto\)](https://open.spotify.com/album/7L9Eju0apmugn3ThyzNiNc) | 1:48 |

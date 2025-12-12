@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > all the best instrumentals & sounds from the internet  ∼ 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,664 likes - 114 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,795 likes - 114 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 | 113 | [The Theme from "A Summer Place"](https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [16 Most Requested Songs](https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi) | 2:22 |
 | 114 | [Obituary](https://open.spotify.com/track/4Fv5HOJjnzisDpIZBmTaH3) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The French Dispatch \(Original Score\)](https://open.spotify.com/album/5c7wx5wrravz5c8JcRp0G6) | 3:30 |
 
-Snapshot ID: `AAAAAPr1EY6EkJoqMwuJ+tscSWmRKsU1`
+Snapshot ID: `AAAAAEhVrPkZyqnuUOkEonzIaHth78o3`

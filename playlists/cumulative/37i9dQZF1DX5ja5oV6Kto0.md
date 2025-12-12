@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: BOJ
 
-990 songs - 2 day 0 hr 4 min
+991 songs - 2 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [All My Days](https://open.spotify.com/track/052blcya1EJNErdYq2HHbA) | [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [All My Days](https://open.spotify.com/album/45px3I5ighDQfdY7seZnwP) | 3:06 | 2022-11-18 | 2023-05-05 |
 | [All My Fault](https://open.spotify.com/track/7cG83GowP42UW1FOecUOe3) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Cxnrvd](https://open.spotify.com/artist/2hgk9A3fWriCu0wZQkUuwQ) | [All My Fault](https://open.spotify.com/album/4MVfWM1J9jPkg8dSExd4hB) | 3:06 | 2022-03-24 | 2022-05-13 |
 | [All Night](https://open.spotify.com/track/25uJVYALP00tDoPMUzquV7) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [All Night](https://open.spotify.com/album/2B6i1KEFu7lM0zkOB8eMX9) | 2:41 | 2024-03-29 | 2024-10-04 |
+| [Almost Famous](https://open.spotify.com/track/4h58Iqv6QvNAasM5ePA2or) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx), [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB) | [Almost Famous](https://open.spotify.com/album/1SOSnWv762jANFBAXNtiSG) | 2:46 | 2025-12-12 |  |
 | [alright, ok](https://open.spotify.com/track/4Bp14ZatP44ZXsCjZ0iTjL) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [alright, ok](https://open.spotify.com/album/26biEQILFteBPAUgAeYxP7) | 2:53 | 2022-05-05 | 2023-04-15 |
 | [ALTé GIRLS XOXO](https://open.spotify.com/track/54E9z0hKFzsMfvyW8vO4fw) | [BLAKBOYKAY](https://open.spotify.com/artist/0bf9exCyt4DiZQ3vszlc0b) | [Things We Do For Love](https://open.spotify.com/album/7n0A8zB1plk7HQcXKtzYvP) | 2:50 | 2025-07-04 | 2025-07-11 |
 | [AMINA](https://open.spotify.com/track/71nnieDlMZ21AhPQ8ySK5x) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [AMINA](https://open.spotify.com/album/3Yj8pwMeifcSfO9ezAh4i5) | 2:52 | 2023-09-09 | 2023-11-24 |
@@ -508,7 +509,7 @@
 | [Lie to Me \(feat\. Loyce\)](https://open.spotify.com/track/18u3kmdgJPVWGuVF4C5xXR) | [Summit Boahen](https://open.spotify.com/artist/5C7WgwClUDG17aFZnAw3kU), [Loyce](https://open.spotify.com/artist/4N65Lgra8mZF22JBr9YP7i) | [Lie to Me \(feat\. Loyce\)](https://open.spotify.com/album/0h9gmISOKBEDFdBq4bX5Qx) | 3:22 | 2022-04-28 | 2022-05-06 |
 | [Lie/Idle](https://open.spotify.com/track/3RkdAeulXA3SWvX4yXwMrg) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Lie/Idle](https://open.spotify.com/album/691wG47mH7bj6zFtNe9qjS) | 2:00 | 2023-01-19 | 2023-02-17 |
 | [Life of the Party](https://open.spotify.com/track/6IXtDuGeMBFnIhGmpG6rgG) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si) | [Life of the Party](https://open.spotify.com/album/787uiWY99Ok0uopmJLFLX6) | 2:10 | 2024-06-21 | 2024-11-29 |
-| [Life Was Never Like This](https://open.spotify.com/track/3tAkD5F61C0ChhUVS6mCG6) | [Deewave](https://open.spotify.com/artist/3gOMLQ5G6tzooqOiT1qaBJ) | [Tired Music 2.0](https://open.spotify.com/album/7MoaQf1LoJp4386pIuS5jp) | 2:13 | 2025-05-09 |  |
+| [Life Was Never Like This](https://open.spotify.com/track/3tAkD5F61C0ChhUVS6mCG6) | [Deewave](https://open.spotify.com/artist/3gOMLQ5G6tzooqOiT1qaBJ) | [Tired Music 2.0](https://open.spotify.com/album/7MoaQf1LoJp4386pIuS5jp) | 2:13 | 2025-05-09 | 2025-12-12 |
 | [Lifeline](https://open.spotify.com/track/7cE3h9KJvSM1GUBAdms8Hy) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r), [3kene](https://open.spotify.com/artist/17OB2zVYkeBD5fX4PG1eZv), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Lifeline](https://open.spotify.com/album/4fMsahuiYmcQrooQMouiY3) | 2:53 | 2023-06-30 | 2023-11-10 |
 | [Lifestyle](https://open.spotify.com/track/0KOKyqR6sW9CporoouYTJV) | [88 Shades](https://open.spotify.com/artist/1OFgO1xhsc0JBIKXmcn6KZ), [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU) | [Lifestyle](https://open.spotify.com/album/4Zg6fQKeY8NZfPa27af2hq) | 3:08 | 2024-09-20 | 2025-07-18 |
 | [Lights go dim](https://open.spotify.com/track/5CT7AVKD7ZucJYt8sGLbgu) | [Paapa Versa](https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41), [KooKusi](https://open.spotify.com/artist/1qRBRlrxzn5JgCwLGKWz8p) | [Lights go dim](https://open.spotify.com/album/3JaAWfoVqtMrC8AvYVSzNH) | 3:39 | 2023-01-27 | 2023-02-04 |

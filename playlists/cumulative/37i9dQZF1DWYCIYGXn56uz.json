@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u26a1\ufe0f qui un sacco di musica giovane \u26a1\ufe0f Cover: Valentina Pesaresi",
+  "description": "\u26a1\ufe0f qui un sacco di musica giovane \u26a1\ufe0f Cover: Jacopo Sol",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -4237,6 +4237,28 @@
     },
     {
       "album": {
+        "name": "GLORIA",
+        "url": "https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Dentro Lo Store (feat. Rose Villain)",
+      "url": "https://open.spotify.com/track/3UsRu2Mcr28wcHrsHypBWM"
+    },
+    {
+      "album": {
         "name": "Depresso fortunato",
         "url": "https://open.spotify.com/album/4O33rZCN4BI8kTcGeGKjWD"
       },
@@ -4415,6 +4437,24 @@
     },
     {
       "album": {
+        "name": "LUCE.",
+        "url": "https://open.spotify.com/album/61nQxrBaRmmfm1fbMiZ1uc"
+      },
+      "artists": [
+        {
+          "name": "sir prodige",
+          "url": "https://open.spotify.com/artist/5wXOwi8XUn74iwMInSldYp"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174642,
+      "name": "DIMMI",
+      "url": "https://open.spotify.com/track/4CIixeX5jUMTn45NGylsnx"
+    },
+    {
+      "album": {
         "name": "DIMMI CHE NON \u00c8 UN ADDIO",
         "url": "https://open.spotify.com/album/6U5GyoLm2UlkuMFAWMQ0s7"
       },
@@ -4462,7 +4502,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 117142,
       "name": "Dipendente da te",
       "url": "https://open.spotify.com/track/5j5hvpZ5YCmYdNGFNnWbPz"
@@ -4995,6 +5035,28 @@
     },
     {
       "album": {
+        "name": "Eii",
+        "url": "https://open.spotify.com/album/2DIUrFaBndxT7h1k8tfPAw"
+      },
+      "artists": [
+        {
+          "name": "Fasma",
+          "url": "https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk"
+        },
+        {
+          "name": "GG",
+          "url": "https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140281,
+      "name": "Eii",
+      "url": "https://open.spotify.com/track/4WiXdkbsYfeGZKF7pnqken"
+    },
+    {
+      "album": {
         "name": "EMIGRATO",
         "url": "https://open.spotify.com/album/3juO1KPJpxTDFGxaTJy8tG"
       },
@@ -5384,7 +5446,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 168428,
       "name": "FENOMENALE",
       "url": "https://open.spotify.com/track/7Lyp3UJHMJ6w7FP6bRa9Rj"
@@ -6408,6 +6470,24 @@
       "duration_ms": 162997,
       "name": "Gran Finale",
       "url": "https://open.spotify.com/track/5elZw9mtjjPsXc4ukn3XeH"
+    },
+    {
+      "album": {
+        "name": "GRAN FINALE",
+        "url": "https://open.spotify.com/album/0RjtZJZPOf5j4fFDkoe0AZ"
+      },
+      "artists": [
+        {
+          "name": "Jacopo Sol",
+          "url": "https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185588,
+      "name": "GRAN FINALE",
+      "url": "https://open.spotify.com/track/4tfmQ54e6Fw4jWe4KwNmWE"
     },
     {
       "album": {
@@ -8611,6 +8691,24 @@
     },
     {
       "album": {
+        "name": "RGB",
+        "url": "https://open.spotify.com/album/1aMfwAQYzhtsn4m0uRkmTk"
+      },
+      "artists": [
+        {
+          "name": "Glauco",
+          "url": "https://open.spotify.com/artist/6zRPngg8Akh7YyNy18Pkm4"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177586,
+      "name": "Made In Italy",
+      "url": "https://open.spotify.com/track/10Iylq9yuPMOIiUhRRnBnl"
+    },
+    {
+      "album": {
         "name": "MADE IN ITALY",
         "url": "https://open.spotify.com/album/0miArJPcQRJwlfZ6OGs2WJ"
       },
@@ -9562,7 +9660,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 139319,
       "name": "Mi Stresso (feat. Wemme Flow)",
       "url": "https://open.spotify.com/track/5beLgSQ1MQHKnaufnhD9Bg"
@@ -10046,7 +10144,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 139122,
       "name": "NEI MIEI BAGGY",
       "url": "https://open.spotify.com/track/0Z05qanrc8NlgmdSz3m6yY"
@@ -10603,6 +10701,24 @@
     },
     {
       "album": {
+        "name": "Non sono un mostro",
+        "url": "https://open.spotify.com/album/71ZroElxDkZ91ZW6i9hrZc"
+      },
+      "artists": [
+        {
+          "name": "Cannella",
+          "url": "https://open.spotify.com/artist/5HQFV3Vy1NN4Zfdot7PiG1"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159100,
+      "name": "Non sono un mostro",
+      "url": "https://open.spotify.com/track/2hW2Vj3q1zY4jxFWL4iIb6"
+    },
+    {
+      "album": {
         "name": "Non te l'ho detto mai",
         "url": "https://open.spotify.com/album/7j1KaDAKd9qTMaqubJq7kS"
       },
@@ -11054,7 +11170,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 134656,
       "name": "OBIETTIVO",
       "url": "https://open.spotify.com/track/5YkdsdRoT1ARl7BM2IMSdm"
@@ -12632,7 +12748,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 212142,
       "name": "primo caff\u00e8",
       "url": "https://open.spotify.com/track/7wTrLE2ltUPkSYJjCGSsQ4"
@@ -12816,6 +12932,28 @@
       "duration_ms": 166371,
       "name": "quando realizzi che non ti aveva capito",
       "url": "https://open.spotify.com/track/0dv8XKmRsUY86EKBDiiqRI"
+    },
+    {
+      "album": {
+        "name": "Quando si aprono le porte",
+        "url": "https://open.spotify.com/album/09MRJteGW6Um2wW1nRP3cl"
+      },
+      "artists": [
+        {
+          "name": "SKA",
+          "url": "https://open.spotify.com/artist/39pgwDIoXEdNJQMkjW8STa"
+        },
+        {
+          "name": "TNRG",
+          "url": "https://open.spotify.com/artist/6vD5lToi3AioelHmErea92"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173797,
+      "name": "Quando si aprono le porte",
+      "url": "https://open.spotify.com/track/0AO7FTJQ10UdJikrYJsHqH"
     },
     {
       "album": {
@@ -13734,7 +13872,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 122129,
       "name": "SAPONE",
       "url": "https://open.spotify.com/track/7GfDT77TQ1HW220mzJ1get"
@@ -14385,6 +14523,24 @@
     },
     {
       "album": {
+        "name": "SLALOM",
+        "url": "https://open.spotify.com/album/79zraUALZhF0Y3mbfHTOli"
+      },
+      "artists": [
+        {
+          "name": "Luk3",
+          "url": "https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162179,
+      "name": "SLALOM",
+      "url": "https://open.spotify.com/track/0REvVOiJOWCZZjRsg4aiBk"
+    },
+    {
+      "album": {
         "name": "SLOWMO",
         "url": "https://open.spotify.com/album/2epcYFPYHrcOcYZuiKMFSN"
       },
@@ -14695,6 +14851,24 @@
     },
     {
       "album": {
+        "name": "Solo tu",
+        "url": "https://open.spotify.com/album/2NHV71NuYYN11XOIRIG1yV"
+      },
+      "artists": [
+        {
+          "name": "Yoseba",
+          "url": "https://open.spotify.com/artist/09wR8DODGr8W0rGghlkVli"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161979,
+      "name": "Solo tu",
+      "url": "https://open.spotify.com/track/5zSrFCj8rSimcPwdtqNg28"
+    },
+    {
+      "album": {
         "name": "Sommelier",
         "url": "https://open.spotify.com/album/6Cu85Jo2FLqvDQFaZ5NKXQ"
       },
@@ -14724,7 +14898,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 158116,
       "name": "SONO IO",
       "url": "https://open.spotify.com/track/7IGY8vi1QYTg8DHAF3UHVK"
@@ -16640,7 +16814,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 181437,
       "name": "Una volta in pi\u00f9",
       "url": "https://open.spotify.com/track/5dqkc7ZnOfMiZezdh8i9ij"
@@ -16764,7 +16938,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 154284,
       "name": "UP&DOWN (feat. BNKR44)",
       "url": "https://open.spotify.com/track/11C3GZQwGuGG5UT3FzyhXn"

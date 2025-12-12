@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T?si=88g02L2xR7GJtLwkX6P7Lw"> Elsy Wameyo</a>
 
-452 songs - 1 day 0 hr 26 min
+453 songs - 1 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bang](https://open.spotify.com/track/3F0T9sEt8GU6Y3e4X6ohy2) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Bang](https://open.spotify.com/album/7y2QTGCGqRZxGDXDTJPOlA) | 4:36 | 2024-03-28 | 2025-06-06 |
 | [Bank Otuch](https://open.spotify.com/track/5RVqvT0e8XnCIQQ06KtKT8) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o), [Vicmass Luodollar](https://open.spotify.com/artist/1nlehKOSekTvNr5st7uEoi) | [Bank Otuch](https://open.spotify.com/album/6ASwCOOyMbU3S2ExMDg2lw) | 4:21 | 2025-08-07 | 2025-08-15 |
 | [basic \- bass boosted](https://open.spotify.com/track/49Y9vFlnZvL9kC8tHprxMp) | [Trill Hunnid Ke](https://open.spotify.com/artist/060e8JfWsQ4SemQo5iB8h4) | [basic \(bass boosted\)](https://open.spotify.com/album/1WwGCU051HFxDbdnXTbzsU) | 1:48 | 2024-01-11 | 2024-03-29 |
+| [Beautiful Disaster](https://open.spotify.com/track/1GWmWZxXC2rAoOBgioW0C8) | [MAD G](https://open.spotify.com/artist/3i55n15iAnDbfy60FX053E) | [Beautiful Disaster](https://open.spotify.com/album/3lEwYfGV36dasBTeGw50ft) | 2:41 | 2025-12-11 |  |
 | [Between Us](https://open.spotify.com/track/2zXgGlV2o8hhhD16IXoWzh) | [Xavier Xander](https://open.spotify.com/artist/71j1401qfvGqlUYS5l3axQ) | [Between Us](https://open.spotify.com/album/2fUu7vEj0ATcDq8M2R5v5C) | 3:41 | 2024-01-19 | 2024-05-24 |
 | [Big Makamasi](https://open.spotify.com/track/1vIsMO3ZjadxOWvo93UyKS) | [Swahili Papi](https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di) | [Big Makamasi & Co.](https://open.spotify.com/album/4HljX1IzyMREWoPJSCAALZ) | 2:03 | 2023-08-17 | 2024-04-12 |
 | [Bite It](https://open.spotify.com/track/0EZQBAOtK2gQg1YYp1uEcD) | [Musa Kiama](https://open.spotify.com/artist/2HaOR22reVpfXDk5N4sYVw), [HR the Messenger](https://open.spotify.com/artist/13R6yXww8KUSQEx97JGkQc) | [Bite It](https://open.spotify.com/album/26YiUFEdEVY198gp6wdYBE) | 2:43 | 2024-04-25 | 2024-10-26 |
@@ -111,7 +112,7 @@
 | [Dream](https://open.spotify.com/track/467ctHllRGbSRoAGrVVxtN) | [4Mr Frank White](https://open.spotify.com/artist/7dSC3dZMaGQPFNG4ABAzL6), [BigMan](https://open.spotify.com/artist/0RUZcsYqLfJvpy8OPVrkJp), [Sabi Wu](https://open.spotify.com/artist/0Lb6QZKrLMSzlcljXexbtB) | [MZIZA KWA DIMANGA](https://open.spotify.com/album/5CsOKEM6jMlGIlLcfz2iBh) | 2:55 | 2024-04-11 | 2024-08-16 |
 | [Dungu](https://open.spotify.com/track/2eD5jjLL7LMYz1XJuQwIx8) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o), [Idd Aziz](https://open.spotify.com/artist/6ET0pJRorrnNVMuxW67hei) | [JUNGLE FEVER](https://open.spotify.com/album/5LwR69ojZA8im52dB4cBtp) | 3:31 | 2025-08-07 | 2025-08-15 |
 | [EASTSIDE GVNNA](https://open.spotify.com/track/7jPCujGKU8RWRyDh60Iull) | [Na$EER](https://open.spotify.com/artist/1zLpeIIskZiOUjHUtUi13r) | [THIS YEAR NEXT YEAR](https://open.spotify.com/album/4yDcMSzMAHd5H5hXDAaCnM) | 2:35 | 2023-11-10 | 2024-01-27 |
-| [Effects Of Hard Drugz](https://open.spotify.com/track/1oSFdllPihYn6EkKyj8ZDv) | [Bountty Blockah](https://open.spotify.com/artist/4eV7TwtZDTYI8wB5wyOPDN), [Mbogi Genje](https://open.spotify.com/artist/4vGP504C4n2tHcSPbXmbt3), [, Mableh](https://open.spotify.com/artist/2qUHKed63B8deg91gv48N5), [Aleba](https://open.spotify.com/artist/191CfyOXsX1ByHtKdG5gkT) | [Effects Of Hard Drugz](https://open.spotify.com/album/5mfg438TMWCpc7DX0x11oX) | 5:13 | 2025-07-25 |  |
+| [Effects Of Hard Drugz](https://open.spotify.com/track/1oSFdllPihYn6EkKyj8ZDv) | [Bountty Blockah](https://open.spotify.com/artist/4eV7TwtZDTYI8wB5wyOPDN), [Mbogi Genje](https://open.spotify.com/artist/4vGP504C4n2tHcSPbXmbt3), [, Mableh](https://open.spotify.com/artist/2qUHKed63B8deg91gv48N5), [Aleba](https://open.spotify.com/artist/191CfyOXsX1ByHtKdG5gkT) | [Effects Of Hard Drugz](https://open.spotify.com/album/5mfg438TMWCpc7DX0x11oX) | 5:13 | 2025-07-25 | 2025-12-12 |
 | [Euphoria](https://open.spotify.com/track/1XNworIWOEdh27aI8mSpDp) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Euphoria](https://open.spotify.com/album/4LpF3xAqErYDmbiOiYSmFv) | 2:08 | 2025-10-09 |  |
 | [Expensive Tears](https://open.spotify.com/track/6Z7waaGZ4vlQmQsKkj14ED) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [LilSccrt](https://open.spotify.com/artist/48hL35FnwaSzrOwxeAXHhZ) | [MIXTAPE V1](https://open.spotify.com/album/2A4OTvqtkdJoiGXILlfw2m) | 3:25 | 2025-10-30 |  |
 | [F Tz Rappers 1](https://open.spotify.com/track/3mQcfTWi1Y19wLLgYnW5EU) | [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy) | [F Tz Rappers 1](https://open.spotify.com/album/6iX9AgvygO9yt0WzQMBbUF) | 2:55 | 2023-09-07 | 2024-03-16 |

@@ -4,7 +4,7 @@
 
 > De grootste hits uit de kroeg in één playlist.
 
-138 songs - 6 hr 42 min
+139 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Waarom Kan Het Leven Zo Gemeen Zijn](https://open.spotify.com/track/74U65fkMdtaTUaj8tLn8fP) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW) | [Waarom Kan Het Leven Zo Gemeen Zijn](https://open.spotify.com/album/32D5fvlYvBAI2Carsbacqe) | 2:55 | 2025-10-16 | 2025-11-07 |
 | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/track/6FqOih5ok2Hwn8EkrEIY5X) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/album/44thAf5VLWaQSYiEKpEZeA) | 2:49 | 2025-07-14 |  |
 | [Wat Een Plezier](https://open.spotify.com/track/2EQADDlKBRcITByxWX5upT) | [Danny De Munk](https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn) | [Wat Een Plezier](https://open.spotify.com/album/67R5Zi52SgiuyIJ2xbDS1K) | 2:36 | 2025-07-14 | 2025-08-09 |
+| [Wat Heb Je Gedaan ?](https://open.spotify.com/track/0IljWFpIc75avph7Bk93Oa) | [Rinus Werrens](https://open.spotify.com/artist/7wJCnEGuQhs6vvj9vLn4KU) | [Wat Heb Je Gedaan ?](https://open.spotify.com/album/7fBipyDft5KH60MPo34sxl) | 2:32 | 2025-12-11 |  |
 | [Wat Is Dan Liefde \- Hazes Is De Basis](https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2) | [Silver Metz](https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt) | [Wat Is Dan Liefde](https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl) | 2:36 | 2025-07-14 |  |
 | [Wat Zou Ik Daarvoor Moeten Doen](https://open.spotify.com/track/4Thwkrx5Qf6sCskcEy4ucF) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Wat Zou Ik Daarvoor Moeten Doen](https://open.spotify.com/album/1f4OPOd7un2KA8WPLccIXe) | 3:09 | 2025-07-14 | 2025-09-05 |
 | [We Gaan Vanavond Naar De Kroeg](https://open.spotify.com/track/6S3eaVWKuKmsNyvF1dw5op) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2), [Nelis Leeman](https://open.spotify.com/artist/4A3IBBCIWvHw5LowCbFVbE) | [We Gaan Vanavond Naar De Kroeg](https://open.spotify.com/album/2pZijjTGEG1GWxMfiV9EgN) | 2:51 | 2025-07-14 |  |

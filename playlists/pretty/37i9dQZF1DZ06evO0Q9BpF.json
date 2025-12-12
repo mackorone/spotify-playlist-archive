@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 49570,
+  "num_followers": 49583,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAABycX/i7JKUIW5BPEWHIAlC",
+  "snapshot_id": "aTi4AAAAAAC0rZ1aizVd3yRtX2vn006d",
   "tracks": [
     {
       "added_at": null,
@@ -99,6 +99,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "duration_ms": 97747,
+      "name": "Cu\u00e1n Grande Es \u00c9l",
+      "url": "https://open.spotify.com/track/539s79Pt9Ax6LUiANayZPy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seamos Luz",
         "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
       },
@@ -119,26 +139,6 @@
       "duration_ms": 424546,
       "name": "Hay Poder",
       "url": "https://open.spotify.com/track/3BYSqC25f995dg4Uqwzi9s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        }
-      ],
-      "duration_ms": 97747,
-      "name": "Cu\u00e1n Grande Es \u00c9l",
-      "url": "https://open.spotify.com/track/539s79Pt9Ax6LUiANayZPy"
     },
     {
       "added_at": null,
@@ -463,22 +463,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esto Es un Avivamiento",
-        "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
         }
       ],
-      "duration_ms": 256305,
-      "name": "Unidos Somos M\u00e1s Fuertes - Bonus Track",
-      "url": "https://open.spotify.com/track/2HjmrOJk6nLhPld5LdAPUm"
+      "duration_ms": 250973,
+      "name": "Nunca Me Avergonzar\u00e9",
+      "url": "https://open.spotify.com/track/3RHcgn1rUBLbyOpVjouGra"
     },
     {
       "added_at": null,
@@ -511,18 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
+        "name": "Esto Es un Avivamiento",
+        "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
         }
       ],
-      "duration_ms": 250973,
-      "name": "Nunca Me Avergonzar\u00e9",
-      "url": "https://open.spotify.com/track/3RHcgn1rUBLbyOpVjouGra"
+      "duration_ms": 256305,
+      "name": "Unidos Somos M\u00e1s Fuertes - Bonus Track",
+      "url": "https://open.spotify.com/track/2HjmrOJk6nLhPld5LdAPUm"
     },
     {
       "added_at": null,
@@ -543,26 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         }
       ],
-      "duration_ms": 433080,
-      "name": "Baut\u00edzame",
-      "url": "https://open.spotify.com/track/5YDpjsYWuromv6xxN7ybwr"
+      "duration_ms": 376840,
+      "name": "Cuanto M\u00e1s Me Rindo",
+      "url": "https://open.spotify.com/track/0pFfRrm4fBCrOy5S6cQNc6"
     },
     {
       "added_at": null,
@@ -591,18 +583,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         }
       ],
-      "duration_ms": 376840,
-      "name": "Cuanto M\u00e1s Me Rindo",
-      "url": "https://open.spotify.com/track/0pFfRrm4fBCrOy5S6cQNc6"
+      "duration_ms": 433080,
+      "name": "Baut\u00edzame",
+      "url": "https://open.spotify.com/track/5YDpjsYWuromv6xxN7ybwr"
     },
     {
       "added_at": null,
@@ -995,26 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        }
-      ],
-      "duration_ms": 258640,
-      "name": "Permanecer\u00e9 En T\u00ed",
-      "url": "https://open.spotify.com/track/3iQlUC6yKzocYAvFNtKTI9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Luz del Mundo",
         "url": "https://open.spotify.com/album/0FKlwPwfguK6k4zMFcBSDz"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 285040,
       "name": "Luz del Mundo",
       "url": "https://open.spotify.com/track/4N10bpkWzctkXPdTrTfe5H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "duration_ms": 258640,
+      "name": "Permanecer\u00e9 En T\u00ed",
+      "url": "https://open.spotify.com/track/3iQlUC6yKzocYAvFNtKTI9"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Punchline, storytelling, rap italiano. Cover: Nitro",
+  "description": "Punchline, storytelling, rap italiano. Sotto il cappuccio: Gemitaiz",
   "name": "Liricisti",
   "tracks": [
     {
@@ -42,7 +42,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 191280,
       "name": "1 ora d'aria, 1 ora d'ansia (feat. Tony Boy)",
       "url": "https://open.spotify.com/track/1Cx82FHMvNMoug9qldg8yb"
@@ -108,7 +108,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 181333,
       "name": "24/7 (feat. Ensi & Gemitaiz)",
       "url": "https://open.spotify.com/track/0az7apM48e0VbhrYbjU2BD"
@@ -328,6 +328,24 @@
       "duration_ms": 231920,
       "name": "90MIN",
       "url": "https://open.spotify.com/track/3Ls9yKzshQye18Tx2AvOb6"
+    },
+    {
+      "album": {
+        "name": "ACQUA SANTA",
+        "url": "https://open.spotify.com/album/6CkrcmTGWOGAzvSq8hp9Xj"
+      },
+      "artists": [
+        {
+          "name": "LeeZo",
+          "url": "https://open.spotify.com/artist/6hifLfYY0cuT5LXjnV3xkj"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "ACQUA SANTA",
+      "url": "https://open.spotify.com/track/2C8HQw9ErvSMTNe5WtTras"
     },
     {
       "album": {
@@ -610,7 +628,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 197027,
       "name": "Angeli",
       "url": "https://open.spotify.com/track/4smsamhRCgETpkyegvYtBe"
@@ -1056,7 +1074,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 129103,
       "name": "BRONX Freestyle",
       "url": "https://open.spotify.com/track/31P3inEdRQT4FDTnDDevwf"
@@ -2010,7 +2028,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 185168,
       "name": "C\u2019era Una Volta In Italia",
       "url": "https://open.spotify.com/track/6qECCt8d4AQt0cEv307MLa"
@@ -2036,6 +2054,32 @@
       "duration_ms": 189545,
       "name": "DA DENUNCIA (feat. Marracash)",
       "url": "https://open.spotify.com/track/1Mv57QiDL2gohIlONsIXBk"
+    },
+    {
+      "album": {
+        "name": "ELSEWHERE",
+        "url": "https://open.spotify.com/album/6TodyJESCEXJ67eXpUse0I"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186040,
+      "name": "Dancing With The Devil Pt.2",
+      "url": "https://open.spotify.com/track/0C4xnuVf0ovtfGV90Ynjld"
     },
     {
       "album": {
@@ -2110,6 +2154,24 @@
       "duration_ms": 157050,
       "name": "Dentro di me",
       "url": "https://open.spotify.com/track/7yLuwRipesZLX1xAqY3cjz"
+    },
+    {
+      "album": {
+        "name": "GLORIA",
+        "url": "https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171370,
+      "name": "Dio Non C'\u00e8",
+      "url": "https://open.spotify.com/track/6zWGONZ4N03Yknef4scWZa"
     },
     {
       "album": {
@@ -2365,6 +2427,24 @@
     },
     {
       "album": {
+        "name": "ELSEWHERE",
+        "url": "https://open.spotify.com/album/6TodyJESCEXJ67eXpUse0I"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237849,
+      "name": "Elsewhere",
+      "url": "https://open.spotify.com/track/0UgI0R8adx5NSfn7eF1HOC"
+    },
+    {
+      "album": {
         "name": "I Nomi del Diavolo",
         "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
       },
@@ -2556,6 +2636,28 @@
       "duration_ms": 165548,
       "name": "FELLINI (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/0rjVRGqVuNwnGCxwBkBZXd"
+    },
+    {
+      "album": {
+        "name": "ELSEWHERE",
+        "url": "https://open.spotify.com/album/6TodyJESCEXJ67eXpUse0I"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        },
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167045,
+      "name": "Flowman",
+      "url": "https://open.spotify.com/track/23eB9swQaIITGMUyPP9pnc"
     },
     {
       "album": {
@@ -2942,6 +3044,28 @@
       "duration_ms": 163800,
       "name": "Hyundai (feat. Nitro & Vegas Jones)",
       "url": "https://open.spotify.com/track/3T7gz5HBmHlkAWcUJqbMAS"
+    },
+    {
+      "album": {
+        "name": "GLORIA",
+        "url": "https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "I Soldi Parlano (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/4PSDLLgC4A1eZ5Wf340oh0"
     },
     {
       "album": {
@@ -3634,7 +3758,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 256000,
       "name": "La mia vittoria (feat. Giorgia, Marracash)",
       "url": "https://open.spotify.com/track/3KNZJB6GW71aBtfeeknoVq"
@@ -4100,7 +4224,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 203489,
       "name": "Lo-fi For U",
       "url": "https://open.spotify.com/track/7GtexZT8gVCDExYIeUWnl9"
@@ -4202,6 +4326,24 @@
       "duration_ms": 205266,
       "name": "LUNEDI'",
       "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
+    },
+    {
+      "album": {
+        "name": "RGB",
+        "url": "https://open.spotify.com/album/1aMfwAQYzhtsn4m0uRkmTk"
+      },
+      "artists": [
+        {
+          "name": "Glauco",
+          "url": "https://open.spotify.com/artist/6zRPngg8Akh7YyNy18Pkm4"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177586,
+      "name": "Made In Italy",
+      "url": "https://open.spotify.com/track/10Iylq9yuPMOIiUhRRnBnl"
     },
     {
       "album": {
@@ -4558,7 +4700,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 237757,
       "name": "MVP RMX (feat. Kuremino, Flaco G, Don Pero, Helmi & Young Hash)",
       "url": "https://open.spotify.com/track/6JLK8nTVYPclaoQpGAoMAz"
@@ -5524,7 +5666,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 140357,
       "name": "Provincia Policy (feat. 22simba & Speranza)",
       "url": "https://open.spotify.com/track/4RD86kiLai8DvPUg0Z5Hqz"
@@ -5652,7 +5794,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 161333,
       "name": "Quintale",
       "url": "https://open.spotify.com/track/6IJx78vXpBYSwiTlJm4iJt"
@@ -5828,7 +5970,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 191365,
       "name": "RITRATTI",
       "url": "https://open.spotify.com/track/7BqLuvKFXttJNDp7ErJXtn"
@@ -6842,7 +6984,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 182769,
       "name": "vent\u2019anni. (con Tedua)",
       "url": "https://open.spotify.com/track/0GQN8VJrRYodCLW3Abu6yZ"
@@ -7026,7 +7168,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 142588,
       "name": "We Shine",
       "url": "https://open.spotify.com/track/5ZK6qPtcnSOMIzpbuotWd8"

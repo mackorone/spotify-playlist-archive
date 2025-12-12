@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 437472,
+  "num_followers": 437458,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
         "name": "Cada loco con su tema",
         "url": "https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 220761,
       "name": "Cada loco con su tema",
       "url": "https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -791,26 +791,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Latin Jazz, Vol. 3",
-        "url": "https://open.spotify.com/album/3Frf4Pj6JoecGG62EG8Z8h"
-      },
-      "artists": [
-        {
-          "name": "Mongo Santamaria",
-          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
-        },
-        {
-          "name": "Mongo Santamarias Men",
-          "url": "https://open.spotify.com/artist/67UM2a5uJvuVpPLz0oanEM"
-        }
-      ],
-      "duration_ms": 185786,
-      "name": "Linda Guajira",
-      "url": "https://open.spotify.com/track/6LgpmOednaE46TjVgeSFJm"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 227736,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "Latin Jazz, Vol. 3",
+        "url": "https://open.spotify.com/album/3Frf4Pj6JoecGG62EG8Z8h"
+      },
+      "artists": [
+        {
+          "name": "Mongo Santamaria",
+          "url": "https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0"
+        },
+        {
+          "name": "Mongo Santamarias Men",
+          "url": "https://open.spotify.com/artist/67UM2a5uJvuVpPLz0oanEM"
+        }
+      ],
+      "duration_ms": 185786,
+      "name": "Linda Guajira",
+      "url": "https://open.spotify.com/track/6LgpmOednaE46TjVgeSFJm"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
+        "name": "Todo Cambi\u00f3",
+        "url": "https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        },
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "duration_ms": 218909,
+      "name": "Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
         "name": "A fuego lento (feat. Vicente Garcia)",
         "url": "https://open.spotify.com/album/1Lp0BSFnmEGJtcNDd3iHxa"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 230877,
       "name": "Somos Hermanas",
       "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
-        "name": "Todo Cambi\u00f3",
-        "url": "https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb"
-      },
-      "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        },
-        {
-          "name": "Mariangela",
-          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
-        }
-      ],
-      "duration_ms": 218909,
-      "name": "Todo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "The Music of Brazil / Elizeth Cardoso, Vol. 1 / Recordings 1955 - 1957",
-        "url": "https://open.spotify.com/album/2jtHEWxRT5QVF2p872riFt"
-      },
-      "artists": [
-        {
-          "name": "Elizeth Cardoso",
-          "url": "https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW"
-        }
-      ],
-      "duration_ms": 115266,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/2Ci1wKycW15sG9tYFadSqa"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "M\u00fasica para verse bien",
         "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 249170,
       "name": "Dancin' Days",
       "url": "https://open.spotify.com/track/1Nni53RQ8FI8yBYEuZ3jLR"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "The Music of Brazil / Elizeth Cardoso, Vol. 1 / Recordings 1955 - 1957",
+        "url": "https://open.spotify.com/album/2jtHEWxRT5QVF2p872riFt"
+      },
+      "artists": [
+        {
+          "name": "Elizeth Cardoso",
+          "url": "https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW"
+        }
+      ],
+      "duration_ms": 115266,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/2Ci1wKycW15sG9tYFadSqa"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Las Flores",
-        "url": "https://open.spotify.com/album/0gweUoGXGMkvgnVljTr0tu"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        },
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 355019,
-      "name": "Las Flores",
-      "url": "https://open.spotify.com/track/7J0y2DmQmiHKuDxiu3xKk3"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "Cerca de ti (feat. Georgina)",
         "url": "https://open.spotify.com/album/2aaxxiwKt6qDtMnw9awlXi"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 208013,
       "name": "Cerca de ti (feat. Georgina)",
       "url": "https://open.spotify.com/track/10oji60Sz18msn5AgTQI58"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "Las Flores",
+        "url": "https://open.spotify.com/album/0gweUoGXGMkvgnVljTr0tu"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 355019,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/7J0y2DmQmiHKuDxiu3xKk3"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Estrella Matutina",
-        "url": "https://open.spotify.com/album/7inj0XsCPS3tH9sxf8oRNt"
-      },
-      "artists": [
-        {
-          "name": "Marina Tuset",
-          "url": "https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc"
-        }
-      ],
-      "duration_ms": 200184,
-      "name": "Estrella Matutina",
-      "url": "https://open.spotify.com/track/7M9GHPT1iP0Wxc1et2rNf1"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/7hTHvqkEYoVfxDKbRMOfVo"
       },
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
+        "name": "Estrella Matutina",
+        "url": "https://open.spotify.com/album/7inj0XsCPS3tH9sxf8oRNt"
+      },
+      "artists": [
+        {
+          "name": "Marina Tuset",
+          "url": "https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc"
+        }
+      ],
+      "duration_ms": 200184,
+      "name": "Estrella Matutina",
+      "url": "https://open.spotify.com/track/7M9GHPT1iP0Wxc1et2rNf1"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
         "name": "30 Horas",
         "url": "https://open.spotify.com/album/1cuAp4nFmm9IHlcFtLHyw8"
       },
@@ -1547,6 +1547,22 @@
       "duration_ms": 219268,
       "name": "30 Horas",
       "url": "https://open.spotify.com/track/0v1fyQIaCG4e3TwCO3F0VZ"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "Today Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/0jiYxu7xEHUUYXkGNtrO9M"
+      },
+      "artists": [
+        {
+          "name": "Hunters of the Alps",
+          "url": "https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/0a5bGlvKZbcWWx3EE4lLOP"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1583,22 +1599,6 @@
       "duration_ms": 138151,
       "name": "sweet nothings",
       "url": "https://open.spotify.com/track/3IrZ4zPw4M4jgD0GHsetH1"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
-        "name": "Today Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/0jiYxu7xEHUUYXkGNtrO9M"
-      },
-      "artists": [
-        {
-          "name": "Hunters of the Alps",
-          "url": "https://open.spotify.com/artist/7Gl1t0pZGk6YDx42OB8vDG"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/0a5bGlvKZbcWWx3EE4lLOP"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
+        "name": "Lady Mandona",
+        "url": "https://open.spotify.com/album/2C7VLNRVVX3XXtKeyiFqsd"
+      },
+      "artists": [
+        {
+          "name": "Literal",
+          "url": "https://open.spotify.com/artist/0Ec1MqHP5MENR7rK3DtO3G"
+        }
+      ],
+      "duration_ms": 155122,
+      "name": "Lady Mandona",
+      "url": "https://open.spotify.com/track/52CoeeSJDTxzZGMKaCzqz0"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
         "name": "Morena m\u00eda",
         "url": "https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 188543,
       "name": "Morena m\u00eda",
       "url": "https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
-        "name": "Lady Mandona",
-        "url": "https://open.spotify.com/album/2C7VLNRVVX3XXtKeyiFqsd"
-      },
-      "artists": [
-        {
-          "name": "Literal",
-          "url": "https://open.spotify.com/artist/0Ec1MqHP5MENR7rK3DtO3G"
-        }
-      ],
-      "duration_ms": 155122,
-      "name": "Lady Mandona",
-      "url": "https://open.spotify.com/track/52CoeeSJDTxzZGMKaCzqz0"
     },
     {
       "added_at": "2025-10-10 04:00:26",

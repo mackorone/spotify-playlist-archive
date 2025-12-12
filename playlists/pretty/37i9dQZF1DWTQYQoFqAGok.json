@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 64487,
+  "num_followers": 64493,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Raz\u00f3n de Vivir (Desde Casa)",
-        "url": "https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz"
+        "name": "Retazos",
+        "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
       },
       "artists": [
         {
-          "name": "Magos Herrera",
-          "url": "https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh"
-        },
-        {
-          "name": "Chano Dominguez",
-          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
+          "name": "Donna Pierrot",
+          "url": "https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj"
         }
       ],
-      "duration_ms": 254269,
-      "name": "Raz\u00f3n de Vivir - Desde Casa",
-      "url": "https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg"
+      "duration_ms": 269080,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -343,18 +339,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Retazos",
-        "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
+        "name": "Raz\u00f3n de Vivir (Desde Casa)",
+        "url": "https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz"
       },
       "artists": [
         {
-          "name": "Donna Pierrot",
-          "url": "https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj"
+          "name": "Magos Herrera",
+          "url": "https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh"
+        },
+        {
+          "name": "Chano Dominguez",
+          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
         }
       ],
-      "duration_ms": 269080,
-      "name": "M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
+      "duration_ms": 254269,
+      "name": "Raz\u00f3n de Vivir - Desde Casa",
+      "url": "https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -445,22 +445,6 @@
       "url": "https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
-        "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
-      },
-      "artists": [
-        {
-          "name": "Luis Arcaraz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
-        }
-      ],
-      "duration_ms": 148786,
-      "name": "Charleston",
-      "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
-    },
-    {
       "added_at": "2022-08-16 16:23:25",
       "album": {
         "name": "Cronolog\u00edas",
@@ -479,6 +463,22 @@
       "duration_ms": 403365,
       "name": "Era La Luz De Abril",
       "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
+        "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
+      },
+      "artists": [
+        {
+          "name": "Luis Arcaraz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
+        }
+      ],
+      "duration_ms": 148786,
+      "name": "Charleston",
+      "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -531,6 +531,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Mi Sentimiento Guerrerense",
+        "url": "https://open.spotify.com/album/6035edQMGEkEvpgomvasDC"
+      },
+      "artists": [
+        {
+          "name": "Guerrero Jazz",
+          "url": "https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6"
+        }
+      ],
+      "duration_ms": 339280,
+      "name": "Por los Caminos del Sur",
+      "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox"
       },
@@ -551,18 +567,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Mi Sentimiento Guerrerense",
-        "url": "https://open.spotify.com/album/6035edQMGEkEvpgomvasDC"
+        "name": "Electratoaster - EP",
+        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
       },
       "artists": [
         {
-          "name": "Guerrero Jazz",
-          "url": "https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6"
+          "name": "Gigio Romero",
+          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
         }
       ],
-      "duration_ms": 339280,
-      "name": "Por los Caminos del Sur",
-      "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
+      "duration_ms": 257004,
+      "name": "Dana (Cha-Cha-Shag)",
+      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -579,22 +595,6 @@
       "duration_ms": 214000,
       "name": "Chorinho Blanco",
       "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Electratoaster - EP",
-        "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
-      },
-      "artists": [
-        {
-          "name": "Gigio Romero",
-          "url": "https://open.spotify.com/artist/6MRKA97PCXQyjehXTNJmbn"
-        }
-      ],
-      "duration_ms": 257004,
-      "name": "Dana (Cha-Cha-Shag)",
-      "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
     },
     {
       "added_at": "2023-04-13 19:45:15",
@@ -723,6 +723,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "What's The Rush? (Remastered)",
+        "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
+      },
+      "artists": [
+        {
+          "name": "Joe d'Etienne Big Band",
+          "url": "https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M"
+        }
+      ],
+      "duration_ms": 403946,
+      "name": "Temporary Insanity",
+      "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Bienvenidos",
         "url": "https://open.spotify.com/album/0o32WHvVW7dEI8R2VT2K2K"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 343187,
       "name": "5:PM",
       "url": "https://open.spotify.com/track/76Q411FGiMRHoi3NoFhIGf"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "What's The Rush? (Remastered)",
-        "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
-      },
-      "artists": [
-        {
-          "name": "Joe d'Etienne Big Band",
-          "url": "https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M"
-        }
-      ],
-      "duration_ms": 403946,
-      "name": "Temporary Insanity",
-      "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
     },
     {
       "added_at": "2021-07-28 16:44:28",

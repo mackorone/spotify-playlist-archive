@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 529 likes - 119 songs - 6 hr 15 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 529 likes - 123 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,5 +127,9 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 117 | [LATELY](https://open.spotify.com/track/4ajoLXkoZzkCIxeWAjqS3V) | [KvN](https://open.spotify.com/artist/2JNr329RMdieI5JCYwUnIh) | [LATELY](https://open.spotify.com/album/6ot5Qbgd08hzUmvtiFhDLv) | 2:52 |
 | 118 | [Copper](https://open.spotify.com/track/5WKo5MJKoepRrmXYN5pzGY) | [John Pronto](https://open.spotify.com/artist/5QtUYAAvpQfIFojICPFZuq) | [For the Birds](https://open.spotify.com/album/03ME7K35Ti1du3NWt02j5t) | 3:56 |
 | 119 | [TU FAIS LA MORTE](https://open.spotify.com/track/3MM9zNGAgckkNknPsp2OVR) | [Doctor Ly](https://open.spotify.com/artist/28dgxNbA7czFkjfUMJN3RA) | [TU FAIS LA MORTE](https://open.spotify.com/album/3Ye99MmmiPKSJex4cxZzHO) | 3:16 |
+| 120 | [HYPER OTTER \- 222% Hydration](https://open.spotify.com/track/1NlHdX7ILmSic0TJxkCCv7) | [Eqlixir](https://open.spotify.com/artist/1aIQXugv2VozVzzVWbz7H5) | [hyper otter water](https://open.spotify.com/album/2jMVefOONMLVq22a2zN6X5) | 1:06 |
+| 121 | [Falling Apart](https://open.spotify.com/track/38O5OYX7gXD2YAamTcW72t) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Falling Apart](https://open.spotify.com/album/78h0okzrA3Z9rhln7vShrC) | 2:50 |
+| 122 | [4:44AM](https://open.spotify.com/track/4M03RhnysxttvTKqQKE8it) | [SCRAZ](https://open.spotify.com/artist/6hQQsPJ3df9XVj8CMBy5Yk), [MPC Smoke](https://open.spotify.com/artist/7Dbyx5Qw8XaH8qX86Kh2fQ) | [4:44AM](https://open.spotify.com/album/4TEX17jd6bREevtW8c8LG1) | 3:00 |
+| 123 | [Better Just Relax](https://open.spotify.com/track/3IVYIsdtWlJ55ikYEZvDYa) | [Max King](https://open.spotify.com/artist/2pRzdE3d9WKYHEQFLsGXYR) | [Better Just Relax](https://open.spotify.com/album/27vTQbtzfTvs2LHSow67pY) | 1:44 |
 
-Snapshot ID: `AAAVfY+EphxKZ074sDZ0zFTgi5J2Knux`
+Snapshot ID: `AAAVgYYGrADi0yHKYEiaCLlFxWPG8s28`

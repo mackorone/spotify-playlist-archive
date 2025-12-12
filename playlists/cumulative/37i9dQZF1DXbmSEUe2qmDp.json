@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Matheus Vargas",
+  "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Gabriel Borges, Luiza Martins",
   "name": "Gera\u00e7\u00e3o Sertaneja",
   "tracks": [
     {
@@ -556,6 +556,28 @@
       "duration_ms": 193891,
       "name": "Atitude - Ao Vivo",
       "url": "https://open.spotify.com/track/0TwG7f7nOry9EVTHdPwhqc"
+    },
+    {
+      "album": {
+        "name": "Baila Que Baila (Ao Vivo)",
+        "url": "https://open.spotify.com/album/43e22aPTIdUwT9dwj2YDLP"
+      },
+      "artists": [
+        {
+          "name": "William & Bidiko",
+          "url": "https://open.spotify.com/artist/12kiggyMtZvgZjQuhmp6Xy"
+        },
+        {
+          "name": "Bruno Mulato e Leandro",
+          "url": "https://open.spotify.com/artist/6XdovN8SP0rflhboapBCWn"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169386,
+      "name": "Baila Que Baila - Ao Vivo",
+      "url": "https://open.spotify.com/track/40B5UrgWuCIVFHr4t2NMbv"
     },
     {
       "album": {
@@ -1134,7 +1156,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 159017,
       "name": "Choro Involunt\u00e1rio - Ao Vivo",
       "url": "https://open.spotify.com/track/14l14AeA5AZk9Cdyat09xp"
@@ -1301,6 +1323,24 @@
     },
     {
       "album": {
+        "name": "Como Foi Que Eu Te Perdi (Que Que \u00c9 Isso?, Ao Vivo)",
+        "url": "https://open.spotify.com/album/2aYcn6Wz3ARzACblcxenDF"
+      },
+      "artists": [
+        {
+          "name": "Murilo e Romario",
+          "url": "https://open.spotify.com/artist/0hgLPlvTIfFVTT9SxP3n4T"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146613,
+      "name": "Como Foi Que Eu Te Perdi - Que Que \u00c9 Isso?, Ao Vivo",
+      "url": "https://open.spotify.com/track/5QYRjlFVwQqbOgliJehTV3"
+    },
+    {
+      "album": {
         "name": "Confus\u00e3o (Na Bebura, Ao Vivo)",
         "url": "https://open.spotify.com/album/4546X7nU7qqGNxlRICKMAJ"
       },
@@ -1374,6 +1414,28 @@
       "duration_ms": 185493,
       "name": "Cora\u00e7\u00e3o Barulhento - Ao Vivo",
       "url": "https://open.spotify.com/track/4OfNfvDOtmdVGOxWEp3qFW"
+    },
+    {
+      "album": {
+        "name": "Cora\u00e7\u00e3o do Bruto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2sHIiUvzJf4QYCZl2BR22I"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e9o e Thiago",
+          "url": "https://open.spotify.com/artist/5ZyTNQsXtSTaBOdPZMkGIT"
+        },
+        {
+          "name": "Pedro Sanchez e Thiago",
+          "url": "https://open.spotify.com/artist/6VBTBqiHqTgZuWflGadSW5"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182570,
+      "name": "Cora\u00e7\u00e3o do Bruto - Ao Vivo",
+      "url": "https://open.spotify.com/track/7tXRESqmBQk9kd5NeLWDuP"
     },
     {
       "album": {
@@ -2238,7 +2300,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 155179,
       "name": "Estat\u00edstica - Ao Vivo",
       "url": "https://open.spotify.com/track/0mNUOT5kFPui5ghdqy0mAE"
@@ -2606,7 +2668,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 166283,
       "name": "Ficou no Quase",
       "url": "https://open.spotify.com/track/5nm6X8YJ4il0KZvyeXeKRV"
@@ -2650,6 +2712,28 @@
       "duration_ms": 178645,
       "name": "Fim De Carreira",
       "url": "https://open.spotify.com/track/4bsEJ0hpKgqyGUth2Dh4IB"
+    },
+    {
+      "album": {
+        "name": "Final Feliz",
+        "url": "https://open.spotify.com/album/4CW6F2tRlAfSk4Mn1YTYyc"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Borges",
+          "url": "https://open.spotify.com/artist/1P563pfPArSHwY4LEUBdDw"
+        },
+        {
+          "name": "Luiza Martins",
+          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149516,
+      "name": "Final Feliz",
+      "url": "https://open.spotify.com/track/2mYRDVDkV5fL6N1CDUR6Bc"
     },
     {
       "album": {
@@ -3558,7 +3642,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 166157,
       "name": "Mesa na Cal\u00e7ada - Ao Vivo",
       "url": "https://open.spotify.com/track/0Br5Tsa1B5nDEUOXwHTlbJ"
@@ -4121,6 +4205,24 @@
     },
     {
       "album": {
+        "name": "Modo Bizay (Amor pra Recordar) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/0y7UlTtgeCOdzRyXWMvzd9"
+      },
+      "artists": [
+        {
+          "name": "Bizay",
+          "url": "https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168833,
+      "name": "N\u00e3o Compensa (Deus Me Livre) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4FPhA46Sk698HaP1QP5mER"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Prometi (Ao Vivo)",
         "url": "https://open.spotify.com/album/4Rzr4LTFJzDZv37ZaQs3B8"
       },
@@ -4368,7 +4470,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 152894,
       "name": "Orgulho N\u00e3o Deixa",
       "url": "https://open.spotify.com/track/3CCAKD89JsyQBMePyZXuye"
@@ -5448,7 +5550,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 180563,
       "name": "Rua\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/3VEOuinyuT4dOO7TD9UlLb"
@@ -5738,7 +5840,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 151483,
       "name": "Sentimento In\u00e9dito",
       "url": "https://open.spotify.com/track/40d7jfb6zHKq74dG2KRYrR"
@@ -5882,6 +5984,32 @@
       "duration_ms": 170189,
       "name": "Sinais e Evid\u00eancias",
       "url": "https://open.spotify.com/track/4PQtj1qGiZVCCYMsULGaMO"
+    },
+    {
+      "album": {
+        "name": "Sinal De Saudade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1THDmWZtr9NR2CB199hLkx"
+      },
+      "artists": [
+        {
+          "name": "Vitor e Diogo",
+          "url": "https://open.spotify.com/artist/4oc7nvQf2ARkeRRoqzFjJC"
+        },
+        {
+          "name": "Luccas & Rodrigo",
+          "url": "https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh"
+        },
+        {
+          "name": "Matheus Kennedy",
+          "url": "https://open.spotify.com/artist/5B4betFiqzVyxKPfXGlgOD"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132307,
+      "name": "Sinal De Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/56x2ACF7tligu8QhveJRbE"
     },
     {
       "album": {

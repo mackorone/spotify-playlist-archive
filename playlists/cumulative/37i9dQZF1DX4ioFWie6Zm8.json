@@ -397,6 +397,36 @@
     },
     {
       "album": {
+        "name": "Ayaye",
+        "url": "https://open.spotify.com/album/6NuWQ7ufbJr5blrk5lcpeP"
+      },
+      "artists": [
+        {
+          "name": "Labdi",
+          "url": "https://open.spotify.com/artist/310NKKgwvfe3k3nf9ug5TZ"
+        },
+        {
+          "name": "Muhamago",
+          "url": "https://open.spotify.com/artist/2FL6QKPB10NHx7Mz3984a1"
+        },
+        {
+          "name": "Neil Darmon",
+          "url": "https://open.spotify.com/artist/5fRLbonokHsHrJ4QYAEPmy"
+        },
+        {
+          "name": "Marcia Buwa",
+          "url": "https://open.spotify.com/artist/3ylkymU6NJUnfJlE4TDzU8"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203478,
+      "name": "Ayaye",
+      "url": "https://open.spotify.com/track/59ArIIBJ8oCy7LnoA8DqYS"
+    },
+    {
+      "album": {
         "name": "The Tel Aviv Session",
         "url": "https://open.spotify.com/album/0GIm6JcC0la7IZ7SAU8XjH"
       },
@@ -1092,7 +1122,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 253986,
       "name": "En\u00e9 y\u00e8w\u00e8d\u00e8dkwat",
       "url": "https://open.spotify.com/track/5wgAKC4awJYizs0IbOsU2o"
@@ -1324,7 +1354,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 289973,
       "name": "Hagerien Atinquat",
       "url": "https://open.spotify.com/track/7DVUgXzrVb0rXl1tZRRdd9"
@@ -3258,7 +3288,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 380133,
       "name": "Otai Ma na",
       "url": "https://open.spotify.com/track/3GWLm2CwrchB6npaEGbcvX"
@@ -3692,7 +3722,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 347960,
       "name": "Seydou",
       "url": "https://open.spotify.com/track/6sBdxZ5BBI8DWMF5uTAlW5"
@@ -3870,7 +3900,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 307100,
       "name": "Soni Lene",
       "url": "https://open.spotify.com/track/2y9EC2nMGKwIqohE2eDFW0"
@@ -4112,7 +4142,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 321800,
       "name": "Tezeta",
       "url": "https://open.spotify.com/track/6JH7xEakUl6eqOpPzsEUGS"

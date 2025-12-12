@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-390 songs - 22 hr 41 min
+391 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Good King Wenceslas](https://open.spotify.com/track/4WM0DbMzh0oph7NMEYHgkg) | [Menna](https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM) | [Good King Wenceslas](https://open.spotify.com/album/2O90tt21lbxx341mb2VnDy) | 3:43 | 2021-12-24 |  |
 | [Good News](https://open.spotify.com/track/1jrqrFaziGLwRPq5Uitmut) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Good News](https://open.spotify.com/album/2QFblPWEWkYk7EpwlE8nh7) | 3:49 | 2024-07-29 | 2024-10-27 |
 | [Good News](https://open.spotify.com/track/78AJvJd1805nh1PhaQZJ4V) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Good News](https://open.spotify.com/album/09xc06CHXpz6dBFRQtGg2g) | 3:52 | 2021-12-24 | 2024-04-19 |
+| [Good News \- A Christmas Medley](https://open.spotify.com/track/66jMlKAjm4Qmz6g00RdtMN) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Good News \- A Christmas Medley](https://open.spotify.com/album/6cYiUlYiosStuxoQNJq7sT) | 3:22 | 2025-12-07 |  |
 | [Gozo Y Paz \(God Rest Ye Merry Gentlemen\)](https://open.spotify.com/track/6wmSHZlQxSHATFQuhpMuQo) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Gozo Y Paz \(God Rest Ye Merry Gentlemen\)](https://open.spotify.com/album/09Dcvjvlim92Kj8fyV1SVQ) | 3:25 | 2023-12-15 |  |
 | [Great Christmas](https://open.spotify.com/track/6pt8hwewlxOm7UZfEsx9t4) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Great Christmas](https://open.spotify.com/album/1BBSnDN7zRzoBf4bQncMGw) | 2:47 | 2022-12-11 | 2025-05-17 |
 | [Hallelujah \- Acoustic](https://open.spotify.com/track/7CVYW9e440Ffa8kyu6cC3Q) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Hallelujah \(Acoustic\)](https://open.spotify.com/album/620sEzmHRuOfXiY2HhRZyN) | 2:53 | 2023-12-02 |  |
@@ -287,7 +288,7 @@
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2yxTGxTDbgcbMN0Ae102bn) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Rockin' Around The Christmas Tree/The Decca Christmas Recordings](https://open.spotify.com/album/1gAceSZFd4irbzRRHLof8U) | 2:06 | 2022-12-11 | 2023-11-16 |
 | [Rockin' Around the Christmas Tree](https://open.spotify.com/track/6rCdJDoe9gCKDtf2J5ms9A) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Rockin' Around the Christmas Tree](https://open.spotify.com/album/2r0s6DBklPX2xf4tTPenEQ) | 3:20 | 2022-11-26 | 2024-11-29 |
 | [Rockin' Around the Christmas Tree](https://open.spotify.com/track/6t3jMxR1TXxuVs9ShdIbVV) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/2sdWORvqe8loUtcEvj11f7) | 3:20 | 2022-12-11 | 2023-11-04 |
-| [Roses in December](https://open.spotify.com/track/3QZYZWP9qErMlBfyeRXiCU) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [Roses in December](https://open.spotify.com/album/2lPVyX24o1lDMysxnaXUmJ) | 3:18 | 2024-11-29 |  |
+| [Roses in December](https://open.spotify.com/track/3QZYZWP9qErMlBfyeRXiCU) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [Roses in December](https://open.spotify.com/album/2lPVyX24o1lDMysxnaXUmJ) | 3:18 | 2024-11-29 | 2025-12-12 |
 | [Run Rudolph Run](https://open.spotify.com/track/30WHma5z5Sty54jbtoxYEy) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rockin' Little Christmas](https://open.spotify.com/album/5hZivEHAxRLhYfsaNdPzkU) | 2:44 | 2024-07-29 | 2025-07-16 |
 | [Run Rudolph Run](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 | 2021-12-24 | 2024-04-19 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 2:24 | 2021-12-24 |  |

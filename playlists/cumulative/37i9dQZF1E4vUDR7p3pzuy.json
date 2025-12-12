@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Synthetik Blonde, JUST LIZZY, Amulet and more",
+  "description": "With Amulet, JUST LIZZY, Synthetik Blonde and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 227258,
       "name": "#1 Crush",
       "url": "https://open.spotify.com/track/7nI32tjGZmL54z1CUfAXj0"
@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 172075,
       "name": "1000 Years Too Deep (Silence Mix)",
       "url": "https://open.spotify.com/track/2mxnJ5qna5oZ7yFYo6nAZK"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 205500,
       "name": "A Heart Cries",
       "url": "https://open.spotify.com/track/5RsvOuAAaoEzABnhi2dLcl"
@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Blood in the Disco",
+        "url": "https://open.spotify.com/album/0dR0UOsjmCPbAUKyvVLfnk"
+      },
+      "artists": [
+        {
+          "name": "Corlyx",
+          "url": "https://open.spotify.com/artist/2K8LJm6DxnMVU6fQklN5Z5"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229166,
+      "name": "Atrophy",
+      "url": "https://open.spotify.com/track/4SYWYYqNFaGAhmFVuBrnqX"
+    },
+    {
+      "album": {
         "name": "Baby Zombies",
         "url": "https://open.spotify.com/album/66fpG6W5UxFx3N7CqH8dtc"
       },
@@ -328,7 +346,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 255489,
       "name": "Broken",
       "url": "https://open.spotify.com/track/1rnD9JroIvpYq8eLYoN2kC"
@@ -386,7 +404,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 310000,
       "name": "Can You See",
       "url": "https://open.spotify.com/track/0821u62C5YiW4Z2beHjvGf"
@@ -422,7 +440,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 148239,
       "name": "Chasing Crows",
       "url": "https://open.spotify.com/track/1IBcjm6bxYn0SX8gzfiMmW"
@@ -462,7 +480,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 219500,
       "name": "Closing the Dark",
       "url": "https://open.spotify.com/track/7IAoMCaOE9ad5qcjo8Z7vu"
@@ -802,7 +820,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 212571,
       "name": "Erase Me",
       "url": "https://open.spotify.com/track/4XTMK3LWgc1fzNshTg1B4Z"
@@ -878,7 +896,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
@@ -950,7 +968,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 298514,
       "name": "For Dead",
       "url": "https://open.spotify.com/track/4Fq84rkGebbqwZoTJxn2OC"
@@ -1037,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "Going Down",
+        "url": "https://open.spotify.com/album/6jjXS29r3Y0VbYMBhyDq0O"
+      },
+      "artists": [
+        {
+          "name": "Raven Numan",
+          "url": "https://open.spotify.com/artist/5q0maXiCoZPaoULNxL8gDI"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263862,
+      "name": "Going Down",
+      "url": "https://open.spotify.com/track/79U3vQSqh7ONz2kunmB6Ri"
+    },
+    {
+      "album": {
         "name": "HAD ENOUGH",
         "url": "https://open.spotify.com/album/6gpoowg6ATbXzhwkd0EvrD"
       },
@@ -1074,7 +1110,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 216038,
       "name": "Haunt Me",
       "url": "https://open.spotify.com/track/1EGa9YXufVXVVQWhcUVxa4"
@@ -1272,10 +1308,28 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 218428,
       "name": "In This Twilight",
       "url": "https://open.spotify.com/track/2H7nItOVCGqhJmDfXoGtlm"
+    },
+    {
+      "album": {
+        "name": "The Healing Volume",
+        "url": "https://open.spotify.com/album/5Od5xea5g1vp2WYA3q1OzB"
+      },
+      "artists": [
+        {
+          "name": "Gong Wah",
+          "url": "https://open.spotify.com/artist/3jsiPDOBtRJDPWbRzb4fiO"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Innocent Smile",
+      "url": "https://open.spotify.com/track/3Zyxr5jVP7wYUMumD5S4uy"
     },
     {
       "album": {
@@ -1290,7 +1344,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 180800,
       "name": "Innocent Smile - Radio Edit",
       "url": "https://open.spotify.com/track/44hsPYYhQgZY16sXACbQgZ"
@@ -1768,7 +1822,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 375000,
       "name": "MTHRFCKRS",
       "url": "https://open.spotify.com/track/76zqr2VewgO6cx5Pk5scph"
@@ -1844,7 +1898,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 173651,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/0IZoDrAaRaBqZWu8f7MVbb"
@@ -1880,7 +1934,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 263706,
       "name": "Paradise Lost - Heavy Emotion Version",
       "url": "https://open.spotify.com/track/3w89E12aKXTSrIBgpvZMI4"
@@ -2022,7 +2076,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 238560,
       "name": "Queen of Codependency",
       "url": "https://open.spotify.com/track/53VjOVF0jUG3ueScsJ75AO"
@@ -2388,7 +2442,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 132250,
       "name": "Sour Times",
       "url": "https://open.spotify.com/track/6SXjoWDfkalvQiCMzBnXEp"
@@ -2606,7 +2660,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 206435,
       "name": "The Internet",
       "url": "https://open.spotify.com/track/3JjQpezBYZXEb6KVNJfmS1"
@@ -2624,7 +2678,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 201104,
       "name": "The Passengers",
       "url": "https://open.spotify.com/track/68rIFfMmZCP75TXUPbZe5B"
@@ -2754,7 +2808,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 266646,
       "name": "Under My Skin",
       "url": "https://open.spotify.com/track/5KYBf6L4mpJQkvSlAhUKsj"
@@ -2968,7 +3022,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 219840,
       "name": "Where The Bubbles Rise",
       "url": "https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU"
@@ -2986,7 +3040,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 223992,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/42Nfq6w92eSBp9CGJa75k6"

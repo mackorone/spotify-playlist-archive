@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "The best voices in R&B. Cover: Elmiene",
+  "description": "The best voices in R&B. Cover: FLO",
   "name": "Riffs & Runs",
   "tracks": [
     {
@@ -640,7 +640,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 144250,
       "name": "Alright",
       "url": "https://open.spotify.com/track/2IBeAHumOwj6gN0Ws3QyN6"
@@ -2468,7 +2468,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 147326,
       "name": "Easy",
       "url": "https://open.spotify.com/track/0y97dz8upW8GtUMzRACY5o"
@@ -4552,6 +4552,32 @@
       "duration_ms": 182906,
       "name": "Is It A Crime? - Unplugged",
       "url": "https://open.spotify.com/track/3DIJ3pP9lUSsYvZTGcdKK0"
+    },
+    {
+      "album": {
+        "name": "Is It Alright?",
+        "url": "https://open.spotify.com/album/11yXUNSZaMGeg7HVH4Qfor"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "3ee",
+          "url": "https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h"
+        },
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196548,
+      "name": "Is It Alright?",
+      "url": "https://open.spotify.com/track/0A9JjK85okDiAue5YhYlEc"
     },
     {
       "album": {
@@ -6662,7 +6688,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 185084,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/7dP5I6ZtpV7f6CkIbVJisX"
@@ -7620,6 +7646,24 @@
       "duration_ms": 195368,
       "name": "Real Thing (feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk"
+    },
+    {
+      "album": {
+        "name": "Access All Areas: Unlocked",
+        "url": "https://open.spotify.com/album/4AKsvZI1VnaaykmssL74UQ"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223275,
+      "name": "Recently Deleted",
+      "url": "https://open.spotify.com/track/49uWjZ0INI41gLJVi8DxIf"
     },
     {
       "album": {
@@ -9068,6 +9112,24 @@
       "duration_ms": 180226,
       "name": "Taboo",
       "url": "https://open.spotify.com/track/5TayUSHcEJnNc4DR2KQiBo"
+    },
+    {
+      "album": {
+        "name": "TAI CHI",
+        "url": "https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194895,
+      "name": "TAI CHI",
+      "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Nothing but beautiful country love songs. ",
-  "num_followers": 1755058,
+  "num_followers": 1755020,
   "original_name": "Country Kind of Love",
   "owner": {
     "name": "Spotify",
@@ -355,18 +355,22 @@
     {
       "added_at": "2025-12-05 05:00:20",
       "album": {
-        "name": "Tangled Up",
-        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
+        "name": "Dolly",
+        "url": "https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
         }
       ],
-      "duration_ms": 227426,
-      "name": "Die A Happy Man",
-      "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
+      "duration_ms": 249360,
+      "name": "Islands in the Stream",
+      "url": "https://open.spotify.com/track/4mnOVRRXsaqg9Nb041xR8u"
     },
     {
       "added_at": "2025-12-05 05:00:20",
@@ -391,22 +395,18 @@
     {
       "added_at": "2025-12-05 05:00:20",
       "album": {
-        "name": "Dolly",
-        "url": "https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P"
+        "name": "Tangled Up",
+        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 249360,
-      "name": "Islands in the Stream",
-      "url": "https://open.spotify.com/track/4mnOVRRXsaqg9Nb041xR8u"
+      "duration_ms": 227426,
+      "name": "Die A Happy Man",
+      "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
     },
     {
       "added_at": "2025-12-05 05:00:20",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2025-12-05 05:00:20",
       "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "duration_ms": 224981,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/5UaJtNAZJcN9pWpIuVMnN2"
+    },
+    {
+      "added_at": "2025-12-05 05:00:20",
+      "album": {
         "name": "The Rest of Our Life",
         "url": "https://open.spotify.com/album/4VKhC1dO9LPiKc1N7TJHRx"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 224531,
       "name": "The Rest of Our Life",
       "url": "https://open.spotify.com/track/19P6cJstaoQJHtHW3HOGcg"
-    },
-    {
-      "added_at": "2025-12-05 05:00:20",
-      "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        }
-      ],
-      "duration_ms": 224981,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/5UaJtNAZJcN9pWpIuVMnN2"
     },
     {
       "added_at": "2025-12-05 05:00:20",

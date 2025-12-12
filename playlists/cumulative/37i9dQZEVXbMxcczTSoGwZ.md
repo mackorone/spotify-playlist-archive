@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-2,960 songs - 6 day 11 hr 25 min
+2,961 songs - 6 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -946,7 +946,7 @@
 | [Je me casse](https://open.spotify.com/track/559RWsQqSe4fNUffI9P7mW) | [Destiny](https://open.spotify.com/artist/1D6ueetjwqW491iboMI3NT) | [Je me casse](https://open.spotify.com/album/6Ltrg0NAj6GqIyO2bjPgYI) | 2:58 | 2021-05-24 | 2021-06-02 |
 | [jeesus](https://open.spotify.com/track/5BqTedQR0QEN7UkyvEKNeS) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [thank you for all the support](https://open.spotify.com/album/0Lul2mtI4sUKfAEFXWJMSd) | 2:07 | 2024-09-14 | 2024-11-17 |
 | [Jeesus](https://open.spotify.com/track/3p7O1Dazd4PEcZsDl8EN0R) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Jeesus](https://open.spotify.com/album/0wjev3WWKrBs0ZxhxqnVZe) | 1:50 | 2024-12-26 | 2025-02-02 |
-| [Jehu \- Unitas Sigma](https://open.spotify.com/track/4txsSyyK9jNpseCSwtNcxH) | [Lukas Leon](https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n), [Cheek](https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO) | [Jehu \(Unitas Sigma\)](https://open.spotify.com/album/2fV02MdUcCMYirifb88Ck4) | 2:38 | 2025-12-06 |  |
+| [Jehu \- Unitas Sigma](https://open.spotify.com/track/4txsSyyK9jNpseCSwtNcxH) | [Lukas Leon](https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n), [Cheek](https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO) | [Jehu \(Unitas Sigma\)](https://open.spotify.com/album/2fV02MdUcCMYirifb88Ck4) | 2:38 | 2025-12-06 | 2025-12-12 |
 | [Jenny \(I Wanna Ruin Our Friendship\)](https://open.spotify.com/track/4JLBDUYSaOMPYND0iWeSWQ) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Jenny \(I Wanna Ruin Our Friendship\)](https://open.spotify.com/album/0PTGY2rz75YFy0H1jvibuD) | 3:35 | 2023-06-24 | 2023-06-26 |
 | [Jenny \(I Wanna Ruin Our Friendship\)](https://open.spotify.com/track/7lgA34nFXxjqQgyLkPUcLv) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Studio Killers](https://open.spotify.com/album/5eaoWhBweqqjErHzhebjgL) | 3:35 | 2021-03-27\* | 2023-01-03 |
 | [Jesus Lord](https://open.spotify.com/track/56JwgcQcxo08w7YXrBzrA5) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 8:58 | 2021-09-01 | 2021-09-02 |
@@ -1591,6 +1591,7 @@
 | [MiTä Sä SääDäT](https://open.spotify.com/track/0SFZyfuQCuIJmoCPF52skS) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [Fage](https://open.spotify.com/artist/7vAiwqlIhKiBwe4jYgRrwq) | [TÄYTYY YMMÄRTÄÄ](https://open.spotify.com/album/0z7fO2qk3chpSwcktMZ1Ba) | 3:33 | 2022-09-17 | 2022-09-19 |
 | [Mitä sä teet tääl \(feat\. Robin Packalen\)](https://open.spotify.com/track/5VLUjLOcWeZqDiSjmv1j7y) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Mitä sä teet tääl \(feat\. Robin Packalen\)](https://open.spotify.com/album/63adNZXS3hvhNbJmBJRIcB) | 2:48 | 2025-06-07 | 2025-06-12 |
 | [mitä sä teet viel tääl](https://open.spotify.com/track/6XHUrCd4Q38h83jbWxStF9) | [EBBE](https://open.spotify.com/artist/4nhVCGCpzFhYDfAqCHxbp7) | [mitä sä teet viel tääl](https://open.spotify.com/album/4X1iJHZz045rduZqtNPl19) | 2:56 | 2023-11-25 | 2023-12-02 |
+| [Mitä tänne jää](https://open.spotify.com/track/7JggREE5FDV96NUkGpyz8Y) | [Cheek](https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO) | [Jare Henrik Tiihonen](https://open.spotify.com/album/4URPDzspMOMYpX1Dc7ZQ3d) | 3:53 | 2025-12-11 |  |
 | [Mitä tänne jää \- Unitas Sigma](https://open.spotify.com/track/75dWqDgep17BGqjc4ZeRsn) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Cheek](https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO) | [Unitas Sigma](https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt) | 2:54 | 2025-12-05 | 2025-12-07 |
 | [Mitä tänne jää \- Unitas Sigma](https://open.spotify.com/track/7oBoElL2dULKJF81Mz5rWq) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Cheek](https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO) | [Mitä tänne jää \(Unitas Sigma\)](https://open.spotify.com/album/4NPViSMTewjVNbfXqfLQAb) | 2:54 | 2025-12-06 |  |
 | [Mitä vaan](https://open.spotify.com/track/2ygbM2P7Fjtdy50ErK9Vw9) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Mitä vaan / Syytä tätä iltaa](https://open.spotify.com/album/1lvWVaWvgdRpcmShilPptD) | 2:27 | 2025-09-20 | 2025-10-19 |

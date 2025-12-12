@@ -2,15 +2,15 @@
 
 ### [Wire](https://open.spotify.com/playlist/37i9dQZF1DX3SHrJsyCVuc)
 
-> A new world of alternative noise\. Cover: Radio Free Alice
+> A new world of alternative noise\. Cover: EXEK
 
-95 songs - 5 hr 3 min
+97 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3AM](https://open.spotify.com/track/4luxOEfutsNhpklD0kox93) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [3AM](https://open.spotify.com/album/3oDLqXsWNKfA6zeqz3wMKA) | 4:10 | 2025-10-23 | 2025-11-28 |
 | [Advent](https://open.spotify.com/track/4wwIHkbzhbFldUz420aDDY) | [G.U.N](https://open.spotify.com/artist/1isYB1JfzwRLNg0SkXHH1U), [Megan Joy](https://open.spotify.com/artist/1kwj0sY4n6bPlKcHTm39Cj) | [To Heaven, From Hollywood](https://open.spotify.com/album/4D2S3rrJFLT47lJjUHEzdc) | 3:05 | 2025-10-23 |  |
-| [Anti\-Lonely](https://open.spotify.com/track/24MrGCTAZR9QfGwoXIZtRW) | [Retail Drugs](https://open.spotify.com/artist/20E1xPsDShhr1qcVPStW3v) | [Anti\-Lonely](https://open.spotify.com/album/43535djalxNGf70jDm6NNY) | 2:07 | 2025-10-23 |  |
+| [Anti\-Lonely](https://open.spotify.com/track/24MrGCTAZR9QfGwoXIZtRW) | [Retail Drugs](https://open.spotify.com/artist/20E1xPsDShhr1qcVPStW3v) | [Anti\-Lonely](https://open.spotify.com/album/43535djalxNGf70jDm6NNY) | 2:07 | 2025-10-23 | 2025-12-12 |
 | [Automate Me](https://open.spotify.com/track/42VOxxXnw23ir7nNRDPL8J) | [Speed Week](https://open.spotify.com/artist/1YqOI80mYoot4jWj39VlMn) | [Automate Me](https://open.spotify.com/album/0TCRkaqYIeodw6bJ7B8OqR) | 3:43 | 2025-10-23 |  |
 | [Beat To Beat](https://open.spotify.com/track/4UFcCjyoEA6mGXDsur7UOD) | [Gut Health](https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU) | [Beat To Beat](https://open.spotify.com/album/2xzitXIQ7x8HqVfNvnzfLi) | 4:16 | 2025-10-23 |  |
 | [Black & Blue](https://open.spotify.com/track/69L556M1aoKnPLoI3LcmaD) | [The Lonesomes](https://open.spotify.com/artist/2WuHTgLaodw4synbCPjn3c) | [Black & Blue](https://open.spotify.com/album/5TFe3QVQa0BEaHBKK21Pa9) | 3:19 | 2025-11-20 |  |
@@ -49,7 +49,7 @@
 | [Hit My Head All Day](https://open.spotify.com/track/0JIKmYZmtDKqXAU37ZqwbN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Hit My Head All Day](https://open.spotify.com/album/1x5dErbtLuyMUZrnmkM4CI) | 6:03 | 2025-10-23 |  |
 | [How I'm Feeling](https://open.spotify.com/track/1RDdXBaANrNnJX17Lqh9hv) | [Public Figures](https://open.spotify.com/artist/3A93doBF2yINkhxYRxaw5b) | [How I'm Feeling](https://open.spotify.com/album/5UFejVMGISqKdcE8jikgyd) | 2:56 | 2025-11-06 |  |
 | [i'm still here \(feat\. sweet93\)](https://open.spotify.com/track/4syMA65QPHgPFbAhKF1cy1) | [Sweet Boy](https://open.spotify.com/artist/5KAGcWjCXvGM8lA3TY205r), [sweet93](https://open.spotify.com/artist/1bZAIpozrb4BckaTTRm52y) | [the machinist](https://open.spotify.com/album/57jLijUQHlKtIy06BfuyIa) | 4:02 | 2025-10-23 |  |
-| [James Bay's Hat](https://open.spotify.com/track/7pBHLxLuo0epUw53Wij0Pq) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Primordial Slot Machine](https://open.spotify.com/album/0SfAfwswZrrbQuSBNHfMgU) | 2:06 | 2025-10-23 |  |
+| [James Bay's Hat](https://open.spotify.com/track/7pBHLxLuo0epUw53Wij0Pq) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Primordial Slot Machine](https://open.spotify.com/album/0SfAfwswZrrbQuSBNHfMgU) | 2:06 | 2025-10-23 | 2025-12-12 |
 | [Jetplane](https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Jetplane](https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc) | 2:36 | 2025-10-23 |  |
 | [Landed In A Trap](https://open.spotify.com/track/2McVnlCfJVaRFNeSwIAUgU) | [Public Figures](https://open.spotify.com/artist/3A93doBF2yINkhxYRxaw5b) | [Landed In A Trap](https://open.spotify.com/album/2w1VfJ8bKHbPwfXM09yiNE) | 1:24 | 2025-10-23 |  |
 | [Landslide](https://open.spotify.com/track/3YGUjZ9giUQTnseoUqf0By) | [Death Bells](https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg), [Sans Merit](https://open.spotify.com/artist/6ArU4k8PS1STHehmWH770a) | [Landslide](https://open.spotify.com/album/0xlFiNYXN3cF666OLUxRlz) | 3:21 | 2025-10-23 |  |
@@ -82,7 +82,9 @@
 | [SCREWDRIVA](https://open.spotify.com/track/0zxrrou9Dq47FyRZhPNR51) | [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [TREK](https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ) | 3:02 | 2025-10-23 |  |
 | [Shiver](https://open.spotify.com/track/4QMNfomTyuHSNStuWlxsIP) | [Death Bells](https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg) | [Shiver](https://open.spotify.com/album/2YzSbPtiRvuUf6CogAbNcE) | 3:56 | 2025-11-27 |  |
 | [Sick Sad World](https://open.spotify.com/track/1u4WAUZGIgV4MpxUlWYHJ9) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Sick Sad World](https://open.spotify.com/album/56QBpPc2pFCRaM0KhSOrw9) | 2:53 | 2025-10-23 |  |
+| [Sidestepping](https://open.spotify.com/track/1oImQjepMT3mT3QrmbEswR) | [EXEK](https://open.spotify.com/artist/7ldGIajEfZUsa38eyvJ04V) | [Sidestepping](https://open.spotify.com/album/6008QvWhbj9WnLdGyBlHSu) | 4:13 | 2025-12-11 |  |
 | [Smart Enough](https://open.spotify.com/track/5VFyaFiyWTZZEGQU3iWaMu) | [Mini Skirt](https://open.spotify.com/artist/5wKtvUJOtdIcDgIc68WpOv) | [All That We Know](https://open.spotify.com/album/2IEKZcBQyuVhHxiDfvUvfb) | 3:11 | 2025-11-13 |  |
+| [Smoking](https://open.spotify.com/track/7gjFBjHdCeaWcguXSvYSsW) | [Full Flower Moon Band](https://open.spotify.com/artist/29YPQKsmJN2L0YVz7HaOi4), [Drunk Mums](https://open.spotify.com/artist/1vd7OHxzKOJeFKjN1M7VTb) | [Megaflower \(Deluxe\)](https://open.spotify.com/album/4jom42cmqbh61M5KPtH1KO) | 2:31 | 2025-12-11 |  |
 | [Sony Ericsson](https://open.spotify.com/track/4mw4weFq7yJMmS40MtWf40) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Sony Ericsson](https://open.spotify.com/album/1HwEyt9fQ53aNtkxGM9XA9) | 3:37 | 2025-10-23 |  |
 | [Sooner](https://open.spotify.com/track/38dPK19fxdAvEDOICBRdEq) | [Soft Bait](https://open.spotify.com/artist/2GdDNUCO7QLHKxHvWOkl2J) | [Life Advice](https://open.spotify.com/album/4rLGhG2wJkZQ1bAP4QhrCl) | 4:37 | 2025-10-23 |  |
 | [Squeeze Down](https://open.spotify.com/track/2PduPaP3h1NEvZoI0LcIHP) | [Mini Skirt](https://open.spotify.com/artist/5wKtvUJOtdIcDgIc68WpOv) | [Squeeze Down](https://open.spotify.com/album/31tSVDf3il4MdNbNT3hDws) | 3:03 | 2025-10-23 |  |

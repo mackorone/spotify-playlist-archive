@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-1,876 songs - 4 day 14 hr 1 min
+1,880 songs - 4 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [2K Rock N Roll](https://open.spotify.com/track/66y1niQ50Ti5ifAT0CGpVk) | [Quaintest Show On Earth](https://open.spotify.com/artist/1ZCYsLDNK5G2MLQVj5mzEh), [Joe Astley](https://open.spotify.com/artist/7zsGafyu9s3ieKlnOMYBvu) | [2K Rock N Roll](https://open.spotify.com/album/0RKjrY5ylugsNjOHmdyfs2) | 2:27 | 2025-07-08 |  |
 | [3.32](https://open.spotify.com/track/59mnJcXOSvRZ9ac99Ans7r) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [3.32](https://open.spotify.com/album/472ZMnbtlayJCQWlopwf5i) | 2:32 | 2025-09-22 |  |
 | [32 Bridge](https://open.spotify.com/track/3YgrOIHF8CpWMvyRKctiGv) | [Ian Humphreys\-graham](https://open.spotify.com/artist/0rFTdiKjelXhmGDfPDrrF6) | [32 Bridge](https://open.spotify.com/album/5xaOXZJrXG083YBT2CJJnE) | 3:38 | 2025-06-17 |  |
+| [3d Printer \(Vagina Version\)](https://open.spotify.com/track/7knYaA196GplJ5GMviUAdp) | [The Dream Eaters](https://open.spotify.com/artist/58EGECKV4drTQ3m7SFJNYf) | [Year End Report](https://open.spotify.com/album/3wjEIHofWgy2IEv7iflfUc) | 2:43 | 2025-12-11 |  |
 | [44 Ghosts](https://open.spotify.com/track/7fvQDdQzJPKjgh4hHh9jPz) | [Joe Scorza](https://open.spotify.com/artist/6b5cTvps5wIFbHnFWAFixd) | [44 Ghosts](https://open.spotify.com/album/30wvNM7wYCyxIT9xIlq5lD) | 4:52 | 2025-05-15 |  |
 | [8AM](https://open.spotify.com/track/58VrqOofNxk9nYNXj7yY3T) | [Munboi](https://open.spotify.com/artist/4YerMzE6tHRZpLHEbfBX3v), [Tarun Puri](https://open.spotify.com/artist/5KB05NrNS3ns9mDIfPj65D), [Bethia](https://open.spotify.com/artist/6AUQWic2E5IdlRPbEg0mYD) | [8AM](https://open.spotify.com/album/7z32sTxaohcElNRjY5COha) | 2:44 | 2025-04-25 |  |
 | [A Blind Dog In A Meat House](https://open.spotify.com/track/1tU47sqpdbtR0MhcWnhdr2) | [Landerson Charms](https://open.spotify.com/artist/3XBzVvUQqgzHdFhNVnZwwF) | [A Blind Dog In A Meat House](https://open.spotify.com/album/5iILlVdf5G5fuJPe2Kdbju) | 3:54 | 2025-07-17 |  |
@@ -31,6 +32,7 @@
 | [A Higher Power](https://open.spotify.com/track/3JeQhHq6TjO85jyUKtYayG) | [Mick Overmere](https://open.spotify.com/artist/6XqFmDwHlTAPK2cn5Z69Jk) | [A Higher Power](https://open.spotify.com/album/4kIRrQW3KOIDkzExdbDKVK) | 2:36 | 2024-07-09 |  |
 | [A journey of grace \- 2025 Remaster](https://open.spotify.com/track/2vvG6WXdcdHRjRIqRdqka2) | [Robert80z](https://open.spotify.com/artist/3N0C6tFumt18qCNENY5WHB) | [A journey of grace \(2025 Remaster\)](https://open.spotify.com/album/60bVoMgeufqJBf9iSqnlrw) | 3:48 | 2025-09-04 |  |
 | [A La Mar](https://open.spotify.com/track/23fWBat9EOZPmbKS4kNHcF) | [Lucid Garden](https://open.spotify.com/artist/2pmyfTNRWpTkssxymb857L) | [Al Amar a La Deriva](https://open.spotify.com/album/2DsVsKBL3WyKAukyKBFb8g) | 4:01 | 2025-03-21 |  |
+| [A la playa](https://open.spotify.com/track/3QcNBAgOxBvbfLgspDcMTx) | [Chulengos](https://open.spotify.com/artist/0yQnTg2ffha0IqbTWTvwsd) | [A la playa](https://open.spotify.com/album/6POR0VEkDQJ9klsVbVm4dJ) | 3:01 | 2025-12-11 |  |
 | [A Million Lives](https://open.spotify.com/track/4djpHr9ZkzQ3WWOtwQ5m6W) | [Marios Papalexis](https://open.spotify.com/artist/4LVxkX59xWHTrIhwI78A6K) | [Like the Wind, Like the Fire \(New Edition 1\)](https://open.spotify.com/album/7qvnA6Jh4SU9HEuVLV9l6i) | 4:27 | 2025-07-08 |  |
 | [A New Start](https://open.spotify.com/track/0POrdlvaCWTkBU35uIHoUb) | [Rexlambo](https://open.spotify.com/artist/0I83Jj4OE4Y102cx1R5mjV) | [A New Start](https://open.spotify.com/album/5O7CIXlNUk2TOgHFeeNnph) | 2:22 | 2025-12-01 |  |
 | [A Perfect Day](https://open.spotify.com/track/5uH0gf8dBxKLUKhjj3JEBd) | [BEIBEI](https://open.spotify.com/artist/0DbTkXEMSQ0EYOEj2E8h2u) | [A Perfect Day](https://open.spotify.com/album/4nHsqQm0yKqRzvpQT7lo70) | 4:22 | 2025-07-29 |  |
@@ -190,6 +192,7 @@
 | [Bourbon Blues](https://open.spotify.com/track/1w2wqkz6hOTxuqZEKiP0bQ) | [Jon of the Shred](https://open.spotify.com/artist/71DNYAAx3fE6kGTRHcenBC) | [The Row \(Original Video Game Soundtrack\)](https://open.spotify.com/album/4JpJ7qnzb1D8I27o9i0RB2) | 6:07 | 2025-03-19 |  |
 | [Box Full of Memories](https://open.spotify.com/track/4GfLunOwAufjkFPS6vufJR) | [Brett Gadbois](https://open.spotify.com/artist/0Gi7exuLQeqjQvm7N6rhfJ) | [Box Full of Memories](https://open.spotify.com/album/0PQCWmXsSBwctZx6r8JOR7) | 3:29 | 2024-05-03 |  |
 | [Break Up Bangs](https://open.spotify.com/track/4kVAjnV2duer0Sa81i6sX4) | [Lucia Dostal](https://open.spotify.com/artist/2Y5Zd5cSEdZ57lCr4lkGVr) | [Break Up Bangs](https://open.spotify.com/album/4NxSKL2Xd1unpYhN3ElgEQ) | 2:36 | 2025-08-01 |  |
+| [Breaker](https://open.spotify.com/track/05UdJgtVRV1wOu28HOiOSY) | [The Riptide Rats](https://open.spotify.com/artist/1H4GD3RldeXXGmkiayJrGm) | [Waves Of Steel \(The Album\)](https://open.spotify.com/album/4qwOctwC9etKAkhIpx00jr) | 2:23 | 2025-12-11 |  |
 | [Breaking the Silence](https://open.spotify.com/track/2e3tbGEZwn3lpQfGydppwZ) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Delicate](https://open.spotify.com/album/3JYJmRhi9SR7yX6AjfJpi1) | 3:32 | 2025-06-16 |  |
 | [Breathing](https://open.spotify.com/track/6D8T3fYfGoHxla2hAFZiKT) | [The Scree Fall](https://open.spotify.com/artist/34Sey5DRlJEnCm3TEEk7cE) | [Breathing](https://open.spotify.com/album/0lt3iLnq9O9aLuapaK50CY) | 5:29 | 2025-05-29 |  |
 | [breathing, just fine](https://open.spotify.com/track/7B624w4xurrqjerVLU7flg) | [carlixe](https://open.spotify.com/artist/2QPm4y6rPTKDW2cFCzeu9P), [Luck chua](https://open.spotify.com/artist/6Yykd9A07URVYaes3f8x5R) | [breathing, just fine](https://open.spotify.com/album/4DrygYDis1BO1qxeCZLqWG) | 3:12 | 2025-09-17 |  |
@@ -972,6 +975,7 @@
 | [Lost Souls](https://open.spotify.com/track/6buKHCU89gkrRGRTWT36Nz) | [Wreckless Strangers](https://open.spotify.com/artist/3niRRJFTVQEmQAVtrCHMu5) | [Blue Sky Fantasy](https://open.spotify.com/album/01N5nyfp2QlZuDzVxmBif3) | 4:38 | 2024-10-22 |  |
 | [LOUD](https://open.spotify.com/track/2JIDyukpTge0EGfUaRlzh6) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH), [XNK](https://open.spotify.com/artist/7opUU7bwmoMoQUFnhVvpsR) | [LOUD](https://open.spotify.com/album/1qPe1ecfC1VyY1qqbAN0Hp) | 3:40 | 2025-03-13 |  |
 | [Love](https://open.spotify.com/track/1rwTGrj5GEeNoDZ5cUtJ3u) | [Don Bidie](https://open.spotify.com/artist/0U9q7BDC2ChSXyN1LSzPAD) | [Capable](https://open.spotify.com/album/6HyQzerNjdV5xwPmqjb5Zk) | 2:44 | 2025-09-29 |  |
+| [Love](https://open.spotify.com/track/36HR7SMs8bgvdNIH04wnna) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [Jesse Lake](https://open.spotify.com/artist/7w8ouyXeYHjPipvYK4DpbV) | [Open Strum 2](https://open.spotify.com/album/1jIdsJW3n2lfxaP7IQnwko) | 2:38 | 2025-12-11 |  |
 | [love holds](https://open.spotify.com/track/6X95rBknmYbAyjMZVv1GL9) | [dhover](https://open.spotify.com/artist/3MUtkbL4PfuWmJjIE6Ff3H) | [well\-tempered](https://open.spotify.com/album/7nDValKTrA9TSS4fdeekqP) | 2:48 | 2025-01-20 |  |
 | [Love is Alive](https://open.spotify.com/track/37cN267Fk7TmCieQb9ew9U) | [Hoss Carl](https://open.spotify.com/artist/5OTamahcB1uXMerWExIRol) | [Love is Alive](https://open.spotify.com/album/6i1jTWMfDp49yt9uRBCAQf) | 4:05 | 2025-09-24 |  |
 | [Love Me Love Me Love Me](https://open.spotify.com/track/05T8YD1teUj4Fnn3zCjX4e) | [Aaron Topfer Music](https://open.spotify.com/artist/5w3z7KmGsQ0NACUneDfph7) | [Love Me Love Me Love Me](https://open.spotify.com/album/3uPcT17QJ8U4Wlb0PwiDgj) | 3:14 | 2024-10-18 |  |

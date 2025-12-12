@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: TEED
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,917 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,884 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [In My Place \- Edit](https://open.spotify.com/track/0AaeFlBxNLeaQelNSP9CTb) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [In My Place](https://open.spotify.com/album/1yfIjadWoA8WtcmoXICYNk) | 3:28 |
 | 75 | [Obsession](https://open.spotify.com/track/61B6R29gn6rEbhHzLv9ess) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Obsession](https://open.spotify.com/album/4kHuF73sN0gORKFX9k11la) | 2:44 |
 
-Snapshot ID: `AAAAAO5+Bll4zhHbiXvGHODoocogNijK`
+Snapshot ID: `AAAAAIiLNO1jn7sgf9kLiHfRPfyMdoqb`

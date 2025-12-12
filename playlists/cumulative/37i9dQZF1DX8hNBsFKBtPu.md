@@ -4,7 +4,7 @@
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-744 songs - 1 day 14 hr 7 min
+747 songs - 1 day 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [For Mig Selv](https://open.spotify.com/track/0jPslebKwQgZ9cC0sTqyyA) | [Skinz](https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx), [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [For Mig Selv](https://open.spotify.com/album/7exUIsUZ0oyAbeAEMokcpy) | 2:19 | 2025-02-20 | 2025-03-28 |
 | [For The Love Of You](https://open.spotify.com/track/3hBJzRjC7HLxJOXEg8PEiN) | [Hush](https://open.spotify.com/artist/6F5xUbHE5eHGoGBS4IMWPj) | [For The Love Of You](https://open.spotify.com/album/0AUwUepLLK2EoZBAcE5K5U) | 3:35 | 2024-07-05 | 2024-08-30 |
 | [For The Show](https://open.spotify.com/track/5nq49A7NUjar8G7tiVfWnc) | [SOL](https://open.spotify.com/artist/7FZzDJqjzhkZi4V4SJnQWj) | [For The Show](https://open.spotify.com/album/5mzVQJPAL75eUyIFT4TEjb) | 3:04 | 2024-06-27 | 2024-08-30 |
+| [Forelsket i København](https://open.spotify.com/track/2lRQ3aDVvQU31t1hfQHmkW) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Forelsket i København](https://open.spotify.com/album/663WD8sBimoLuVEY2jT3rd) | 2:28 | 2025-12-11 |  |
 | [Forever With Savannah](https://open.spotify.com/track/2LFaDGWpg9S6rYyDL4qWKH) | [Emely](https://open.spotify.com/artist/1DjkK0PiDGeOslM18k1HmE) | [Forever With Savannah](https://open.spotify.com/album/0FC4ogurRNrDJ9KXgJd8lj) | 3:18 | 2024-08-15 | 2024-10-04 |
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-06-27 | 2024-07-30 |
 | [fossy energi <3](https://open.spotify.com/track/2wpVSLhEj4oCfcWK6Rr11p) | [Lisa Fosmark](https://open.spotify.com/artist/3GunZjrBeuApvoV5udcC91), [Ericka Jane](https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL) | [fossy energi <3](https://open.spotify.com/album/1ufRGrJ3q1USdDaYEoIvu6) | 2:17 | 2025-10-30 | 2025-11-14 |
@@ -367,6 +368,7 @@
 | [Kan Man Ikke Bare Leve?](https://open.spotify.com/track/7az8SlStHKTcEH65ad4Jhn) | [Micky Skeel](https://open.spotify.com/artist/3ml6MvdCLzBBhK2zT9AhOl) | [Kan Man Ikke Bare Leve?](https://open.spotify.com/album/78MB3eIFb35SkohnoFrsGk) | 3:16 | 2025-03-27 | 2025-04-11 |
 | [Keep Møving](https://open.spotify.com/track/01P4zWU44Rsk4XIME4hsTd) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Keep Møving](https://open.spotify.com/album/72kPRMbCSy6mcaz88F2Vzm) | 3:22 | 2025-03-20 | 2025-03-28 |
 | [kendt mig en uge](https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [kendt mig en uge](https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd) | 3:06 | 2025-03-20 |  |
+| [KISS ME](https://open.spotify.com/track/67zPoqrv7I49qHaMs0eYgz) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [KISS ME](https://open.spotify.com/album/17kOTawNON2BERiDHgPKjQ) | 3:08 | 2025-12-11 |  |
 | [Knappenål](https://open.spotify.com/track/2IkoAk3xTcdQARiz9nx5GG) | [Katinka](https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ) | [Knappenål](https://open.spotify.com/album/1fA0mMY3s4zCBSYR51qf8B) | 3:08 | 2025-02-20 | 2025-04-18 |
 | [Knowing You](https://open.spotify.com/track/2PvIzI9u9DoLbVg10ob2Re) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [JUPITER](https://open.spotify.com/album/0lK6twbytC2htwFs5eVTa8) | 3:06 | 2025-11-13 |  |
 | [Knuser Hjerter](https://open.spotify.com/track/57PD4mbFuszcolNv3xDd44) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Knuser Hjerter](https://open.spotify.com/album/5XmVWR5o42BWlXZ9o6fhvg) | 3:27 | 2024-06-27 | 2024-07-30 |
@@ -401,6 +403,7 @@
 | [Lige så fucked som mig](https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lige så fucked som mig](https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk) | 2:30 | 2024-09-19 | 2024-10-04 |
 | [Likeable](https://open.spotify.com/track/6FZDnWB0T4D8it98dfhOkO) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Papaya](https://open.spotify.com/album/5J83TBJ13dS8FXyvqOlWTi) | 3:43 | 2025-04-24 | 2025-07-04 |
 | [LIMBO](https://open.spotify.com/track/0LEqNH9R8kQxI094YhHBpe) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [: \(:](https://open.spotify.com/album/4HN7xWLgsSVl6CdpbNPGRa) | 2:32 | 2025-09-11 | 2025-09-26 |
+| [LIttle Boy](https://open.spotify.com/track/6IOlDaveXdZW81OtCRcBGq) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [LIttle Boy](https://open.spotify.com/album/5jYy4pARrnvDg2MXd8Rjz2) | 2:39 | 2025-12-11 |  |
 | [Little House](https://open.spotify.com/track/0YaTSLfaoaJescHqbfDYv5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/1UBK4dwl1aw1Cprg6WQ1oV) | 2:30 | 2025-11-27 |  |
 | [little things](https://open.spotify.com/track/0fLLC7cewptHpWjbhLoMQD) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [little things](https://open.spotify.com/album/6qbtBvOlFkr3CSdDwIvr9u) | 3:33 | 2025-11-06 | 2025-11-28 |
 | [Live Again](https://open.spotify.com/track/3VuEgYNwHDWB9Q9cdjtvQi) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Live Again](https://open.spotify.com/album/7HvwMFz2rJAU9ftzX9oMGf) | 2:56 | 2024-06-27 | 2024-07-30 |
@@ -570,7 +573,7 @@
 | [Shine](https://open.spotify.com/track/1Rt3wxfKg2dn8vjh2A7S7V) | [Donel](https://open.spotify.com/artist/6nboHpRsZBI6pPX9lSBvgT), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Shine](https://open.spotify.com/album/4o3AHAl1dknsQGp7NbJeQD) | 2:45 | 2025-08-07 | 2025-08-29 |
 | [Shine](https://open.spotify.com/track/3AG1SWCQLutTkbo2VA3gox) | [Toko](https://open.spotify.com/artist/2orDgazBVzvwOVZa0QQUvI) | [Shine](https://open.spotify.com/album/60hETkzwZwmoxjUWX9jxiA) | 2:17 | 2024-06-27 | 2024-07-30 |
 | [Siren sounds \(bonus\)](https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 3:03 | 2025-02-27 | 2025-04-25 |
-| [Skabt Til At Være To](https://open.spotify.com/track/2wilyl40E4klJdChkOcMNu) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Skabt Til At Være To](https://open.spotify.com/album/31iCNzDfpH8dlBBLWaDetq) | 3:23 | 2025-11-06 |  |
+| [Skabt til at være to](https://open.spotify.com/track/2wilyl40E4klJdChkOcMNu) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Skabt til at være to](https://open.spotify.com/album/31iCNzDfpH8dlBBLWaDetq) | 3:23 | 2025-11-06 |  |
 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:41 | 2025-11-27 |  |
 | [Skriv Det På Min Gravsten](https://open.spotify.com/track/6cYscV4nNqZ1r8bxEMATme) | [KRYD](https://open.spotify.com/artist/3goYa2gnDqTLI7JESwEmHb) | [Skriv Det På Min Gravsten](https://open.spotify.com/album/4KQFfLnLK2WQD0VSh4mCgF) | 3:02 | 2025-01-09 | 2025-04-25 |
 | [sleepless in seattle](https://open.spotify.com/track/2CIgddPlxflW2J0WSZgIwf) | [Luke Alvin](https://open.spotify.com/artist/484n5top8RJk6NL3mGasDc), [Anders Hede](https://open.spotify.com/artist/1fcG5a7tqhtaX5aquJ2Ll6) | [sleepless in seattle](https://open.spotify.com/album/5WjB9svGjxYhAB4Yrt481q) | 2:50 | 2025-11-21 |  |

@@ -4,7 +4,7 @@
 
 > Celebrating LGBTQIA+ artists with highlights from 2025 Cover: kwn
 
-1,662 songs - 3 day 18 hr 4 min
+1,663 songs - 3 day 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,7 +537,7 @@
 | [GIO5](https://open.spotify.com/track/3agm0QTaqOPXWeZ75Jm4vY) | [VOJTIK](https://open.spotify.com/artist/1rlNlRenBPGW3YXTt9cRSB) | [GIO5](https://open.spotify.com/album/1CpTOeoIxFRPITL32X7V20) | 3:42 | 2025-08-12 | 2025-09-10 |
 | [Girl From The Internet](https://open.spotify.com/track/2mKCMCSH5bNulbg8mU4E2c) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Girl From The Internet](https://open.spotify.com/album/3LjOdj3EPCm6UdyIwzXRnm) | 3:06 | 2021-12-17 | 2022-01-29 |
 | [Girl of Your Dreams](https://open.spotify.com/track/7AVZ2T5nku3TKyZlPPXLEd) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Girl of Your Dreams](https://open.spotify.com/album/7lH9AcAtACrcYMKC6aLoGA) | 3:09 | 2025-06-27 | 2025-10-15 |
-| [GIRLFRIEND](https://open.spotify.com/track/3f0xr2Q1nb2Doss9q8MF1j) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [A SWAN FROM GATORLAND](https://open.spotify.com/album/3MtjlQZORr4832STyNMX4e) | 3:24 | 2025-12-03 |  |
+| [GIRLFRIEND](https://open.spotify.com/track/3f0xr2Q1nb2Doss9q8MF1j) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [A SWAN FROM GATORLAND](https://open.spotify.com/album/3MtjlQZORr4832STyNMX4e) | 3:24 | 2025-12-03 | 2025-12-12 |
 | [Girlfriend](https://open.spotify.com/track/2mii3Q0tuCBI5DNyt0pBqW) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Girlfriend](https://open.spotify.com/album/1QZMCyEf9XZB52oKGhkqZa) | 3:31 | 2025-12-03 |  |
 | [GIRLS](https://open.spotify.com/track/4qXXw4xhTLGS7UR5l9Lbnr) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [GIRLS](https://open.spotify.com/album/4PGTZhtRo9xokQYxGmBNue) | 3:24 | 2021-12-17 | 2022-01-29 |
 | [Girls](https://open.spotify.com/track/0zZcMcF9JQ6OXuT9BVG4lC) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Unthinkable](https://open.spotify.com/album/1Nvd2bGAy6ofku8h1kOt16) | 2:31 | 2022-05-20 | 2022-07-22 |
@@ -1135,6 +1135,7 @@
 | [Pintas de punki](https://open.spotify.com/track/3pYacQzqMUP25Tz1UuJzFL) | [mis amigas fuman todas](https://open.spotify.com/artist/7KdIqg2BmTqrSTJm19a8me) | [Pintas de punki](https://open.spotify.com/album/7f6EA73EsumyisyCgmjHyS) | 3:06 | 2023-03-07 | 2023-04-01 |
 | [Piosenka niskich lotów](https://open.spotify.com/track/708V5hRLQwfDpweGD9ekyS) | [Pan Mariuszek](https://open.spotify.com/artist/3aIzQGnu1l0eCZSNTsl3W9) | [Piosenka niskich lotów](https://open.spotify.com/album/5Vkr55SsWkIgTXrrZJds3r) | 3:08 | 2025-08-12 | 2025-09-10 |
 | [PiRi PiRi](https://open.spotify.com/track/6Tg8Me8XR4e45JBM4olQIJ) | [Lua de Santana](https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam) | [GINGA](https://open.spotify.com/album/57iM0Ss6kTZ1SxAzPR1K8Z) | 3:51 | 2024-08-13 | 2024-10-09 |
+| [Pity Party](https://open.spotify.com/track/5dt3P1BESu104KhUtVMIV4) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Parody Of Pleasure](https://open.spotify.com/album/7k2AzBz7mFQAnKPYSzRwV7) | 3:17 | 2025-12-03 |  |
 | [Plastic People](https://open.spotify.com/track/0Y3rJvEOjqON6l68XrKK7D) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Plastic People](https://open.spotify.com/album/4ptM6VWQoOBIaoC4SvlLBy) | 3:13 | 2024-08-13 | 2024-09-10 |
 | [Play God](https://open.spotify.com/track/1JeNe2MbM5ho0WpCXOCbJ8) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Play God](https://open.spotify.com/album/7E9KWeTboK20nXJ5bzMElQ) | 3:47 | 2023-11-14 | 2023-11-30 |
 | [Play It Cool](https://open.spotify.com/track/1pkX9NtzyU9fkmEPdYxDt3) | [Miss Sxvage](https://open.spotify.com/artist/1UvegJsquodsZbxdHPjRzo) | [Play It Cool](https://open.spotify.com/album/3j1vdXv8b0C1JNbpdHGUSa) | 2:43 | 2023-05-16 | 2023-06-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2ZMfoURN2ZwapN17Yb5d1k.md) - [plain]
 
 > 
 
-[franke!](https://open.spotify.com/user/franke!) - 11 likes - 937 songs - 2 day 13 hr 58 min
+[franke!](https://open.spotify.com/user/franke!) - 10 likes - 937 songs - 2 day 13 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "musica per un inverno non proprio felice (chiello in cover)",
+  "description": "musica per un inverno non proprio felice (rob in cover)",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -4356,7 +4356,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 181008,
       "name": "Calore",
       "url": "https://open.spotify.com/track/0Pqf9vCxWD79znPmw5WKDw"
@@ -4450,7 +4450,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 165977,
       "name": "Caos",
       "url": "https://open.spotify.com/track/3QiMcjKCX7CKU5ytj4UfAQ"
@@ -4718,7 +4718,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 172075,
       "name": "charlie fai presto",
       "url": "https://open.spotify.com/track/7F387F44JC52lUxCanW0nm"
@@ -4962,7 +4962,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 149769,
       "name": "Chemmifai",
       "url": "https://open.spotify.com/track/6Zh2mpvoiMSCg5HDfSplyl"
@@ -8522,7 +8522,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 152727,
       "name": "dove ti nascondi ???",
       "url": "https://open.spotify.com/track/2Z0aE2FteocEuxalX3e94s"
@@ -8930,6 +8930,28 @@
       "duration_ms": 185328,
       "name": "effetto vuoto",
       "url": "https://open.spotify.com/track/2vX89NuNGOB4jPgstw3TJb"
+    },
+    {
+      "album": {
+        "name": "Eii",
+        "url": "https://open.spotify.com/album/2DIUrFaBndxT7h1k8tfPAw"
+      },
+      "artists": [
+        {
+          "name": "Fasma",
+          "url": "https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk"
+        },
+        {
+          "name": "GG",
+          "url": "https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140281,
+      "name": "Eii",
+      "url": "https://open.spotify.com/track/4WiXdkbsYfeGZKF7pnqken"
     },
     {
       "album": {
@@ -10215,6 +10237,24 @@
     },
     {
       "album": {
+        "name": "Kalimera",
+        "url": "https://open.spotify.com/album/1AtSqGiMAB2C2MaZHtfSuF"
+      },
+      "artists": [
+        {
+          "name": "Emili Kasa",
+          "url": "https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184069,
+      "name": "Finch\u00e8 non mi addormento",
+      "url": "https://open.spotify.com/track/0w9Rll2MNFeLssLrZHX4Nc"
+    },
+    {
+      "album": {
         "name": "Blu Celeste",
         "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
       },
@@ -10734,7 +10774,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 207830,
       "name": "FRedDo CiNIcO",
       "url": "https://open.spotify.com/track/2BE3WlW9IK0foSVLnBM5ub"
@@ -17198,7 +17238,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 203187,
       "name": "miss sunshine",
       "url": "https://open.spotify.com/track/0aSVSMCkmecr0Npq8AeZuE"
@@ -17938,7 +17978,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 208000,
       "name": "nebbia",
       "url": "https://open.spotify.com/track/4BF8jS6NcLGHSMVxkCF5wS"
@@ -18318,6 +18358,24 @@
       "duration_ms": 141071,
       "name": "Non ci credo che ti penso ancora",
       "url": "https://open.spotify.com/track/2Kig57HRtfKRcBvCm8So4B"
+    },
+    {
+      "album": {
+        "name": "Non Ci Resta Che Piangere",
+        "url": "https://open.spotify.com/album/0wbbTv1668TDwxbasr7oeT"
+      },
+      "artists": [
+        {
+          "name": "Nil",
+          "url": "https://open.spotify.com/artist/6By1HwIaVS27ieWWKPMFB2"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165923,
+      "name": "Non Ci Resta Che Piangere",
+      "url": "https://open.spotify.com/track/2MitF7fQCeixbfhwa7zhjL"
     },
     {
       "album": {
@@ -18992,6 +19050,28 @@
       "duration_ms": 144285,
       "name": "Non voglio guai",
       "url": "https://open.spotify.com/track/2quAWiyJVoeV3Ots9gg2WZ"
+    },
+    {
+      "album": {
+        "name": "NON \u00c8 COLPA MIA SE NON MI AMI PI\u00da",
+        "url": "https://open.spotify.com/album/0g1FQwYszghmBORdwg74jv"
+      },
+      "artists": [
+        {
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        },
+        {
+          "name": "Kr1",
+          "url": "https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154177,
+      "name": "NON \u00c8 COLPA MIA SE NON MI AMI PI\u00da",
+      "url": "https://open.spotify.com/track/6MQ7m5g6LAsTdtmAX1mR5Y"
     },
     {
       "album": {
@@ -24525,6 +24605,24 @@
     },
     {
       "album": {
+        "name": "serotonina",
+        "url": "https://open.spotify.com/album/54kmJN7bKdChDRFRPSxlJq"
+      },
+      "artists": [
+        {
+          "name": "nicotina",
+          "url": "https://open.spotify.com/artist/2nU09GjOfh4WVzCi57Fy5z"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144523,
+      "name": "serotonina",
+      "url": "https://open.spotify.com/track/1cjFUmSySY0dmXxN7JcmaX"
+    },
+    {
+      "album": {
         "name": "Serramanico Farfalla",
         "url": "https://open.spotify.com/album/10ggwPJhklVqNIl9ef9Qcp"
       },
@@ -27454,7 +27552,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 108883,
       "name": "TAGLIOCOMEVOGLIOQUESTECAZZODICHITARRE",
       "url": "https://open.spotify.com/track/3nP3HjbhaDkDBoABuWxASf"
@@ -29002,7 +29100,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 157718,
       "name": "TUTTO SBAGLIATO",
       "url": "https://open.spotify.com/track/13la8Lw7JmlnjlQGpSdC5Z"
@@ -29710,7 +29808,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 164579,
       "name": "URUGUAY",
       "url": "https://open.spotify.com/track/2cQ0al9jnTlHgwIqMUUHJm"
@@ -29736,7 +29834,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 148314,
       "name": "VA BENE COS\u00cc",
       "url": "https://open.spotify.com/track/24jESvU2XwmDCBuKFbgiCb"
@@ -31074,6 +31172,24 @@
       "duration_ms": 173538,
       "name": "XK SIAMO TRUZZY",
       "url": "https://open.spotify.com/track/0Ms7TqYTpAgymZ2OPYgrow"
+    },
+    {
+      "album": {
+        "name": "you and i could never be friends",
+        "url": "https://open.spotify.com/album/2sd7j0t9ceZAMZkXjgoPKM"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128295,
+      "name": "you and i could never be friends",
+      "url": "https://open.spotify.com/track/0zmlGJY8nOfRrTBYFhtewN"
     },
     {
       "album": {

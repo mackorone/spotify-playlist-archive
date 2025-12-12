@@ -1,13 +1,49 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Naomi Ivo",
-  "num_followers": 13670,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Nabila Ellisa, Bianura",
+  "num_followers": 13676,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALI6T6Lc4+kaodqGdQdfRQEC1QbW",
+  "snapshot_id": "AAAAAEfCk8Ak3Spo5WJJs58jfV7onjwm",
   "tracks": [
+    {
+      "added_at": "2025-12-11 18:00:19",
+      "album": {
+        "name": "Capek Banget",
+        "url": "https://open.spotify.com/album/3Kimas3OtK9RTpFnQnTspL"
+      },
+      "artists": [
+        {
+          "name": "Nabila Ellisa",
+          "url": "https://open.spotify.com/artist/7MwrsCIC6ViKMHiVFNJw5Q"
+        },
+        {
+          "name": "Bianura",
+          "url": "https://open.spotify.com/artist/0KXKIxr1NN8aICdaA183Xc"
+        }
+      ],
+      "duration_ms": 196916,
+      "name": "Capek Banget",
+      "url": "https://open.spotify.com/track/2llpJaxtJREV6VxDeG9SBz"
+    },
+    {
+      "added_at": "2025-12-11 18:00:19",
+      "album": {
+        "name": "Lagi Lagi Kamu",
+        "url": "https://open.spotify.com/album/4hKgQmeauO0tKOapTtyOv2"
+      },
+      "artists": [
+        {
+          "name": "Amanda Caesa",
+          "url": "https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1"
+        }
+      ],
+      "duration_ms": 171774,
+      "name": "Lagi Lagi Kamu",
+      "url": "https://open.spotify.com/track/3rxEIopqXo7oAfgszpHfRc"
+    },
     {
       "added_at": "2025-12-04 20:00:25",
       "album": {
@@ -43,6 +79,42 @@
       "duration_ms": 193465,
       "name": "(NO)STALGIA",
       "url": "https://open.spotify.com/track/75FuKBIZqdI5FiMFKWSUZF"
+    },
+    {
+      "added_at": "2025-12-11 18:00:19",
+      "album": {
+        "name": "365 DAYS",
+        "url": "https://open.spotify.com/album/7lTvQtcfljJVbfZD4VI4Zf"
+      },
+      "artists": [
+        {
+          "name": "Dessy klement",
+          "url": "https://open.spotify.com/artist/5zubx31uKUv1nDKRA86cOe"
+        }
+      ],
+      "duration_ms": 128424,
+      "name": "365 DAYS",
+      "url": "https://open.spotify.com/track/2q3O7bZgTUuh0Qm3krTiuO"
+    },
+    {
+      "added_at": "2025-12-11 18:00:19",
+      "album": {
+        "name": "THE WATCHMEN",
+        "url": "https://open.spotify.com/album/0n0Y0Cjc261lUEGj01Imki"
+      },
+      "artists": [
+        {
+          "name": "Kay Sebastene",
+          "url": "https://open.spotify.com/artist/5ZMoHmgsrp02niBm1sihBP"
+        },
+        {
+          "name": "PB GLAS",
+          "url": "https://open.spotify.com/artist/3jgxJaKJW7CFghZna5DUHG"
+        }
+      ],
+      "duration_ms": 202971,
+      "name": "THE WATCHMEN",
+      "url": "https://open.spotify.com/track/2EZe2ScR7UHZ0SgAH1JkiX"
     },
     {
       "added_at": "2025-11-27 17:30:01",

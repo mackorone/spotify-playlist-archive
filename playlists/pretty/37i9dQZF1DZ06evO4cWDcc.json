@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 323855,
+  "num_followers": 323885,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAACNVccK/+mKjXE6KuZPDg4M",
+  "snapshot_id": "aTi4AAAAAADh/DdoiUDiwrIMNjDjhlqE",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cry of Love",
-        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 249920,
-      "name": "Ezy Ryder",
-      "url": "https://open.spotify.com/track/11t59LqOhOEG40yqALXZon"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "West Coast Seattle Boy: The Jimi Hendrix Anthology",
         "url": "https://open.spotify.com/album/6c0U1VcL3Bom0g6HTpUa1i"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 35906,
       "name": "Play That Riff - Anthology Version",
       "url": "https://open.spotify.com/track/3tnvuCPlnWJ1g2gtzwB1y4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Cry of Love",
+        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 249920,
+      "name": "Ezy Ryder",
+      "url": "https://open.spotify.com/track/11t59LqOhOEG40yqALXZon"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Lady Studios: A Jimi Hendrix Vision",
-        "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 225800,
-      "name": "Valleys of Neptune",
-      "url": "https://open.spotify.com/track/78FgaL6lR2VMWGjqAHT4S2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 469600,
       "name": "Once I Had a Woman",
       "url": "https://open.spotify.com/track/2AtnrJEq48pGhlpgS59akM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Lady Studios: A Jimi Hendrix Vision",
+        "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "Valleys of Neptune",
+      "url": "https://open.spotify.com/track/78FgaL6lR2VMWGjqAHT4S2"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Lady Studios: A Jimi Hendrix Vision",
-        "url": "https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4"
+        "name": "Live At Monterey",
+        "url": "https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 372560,
-      "name": "Straight Ahead - Takes 1 & 2",
-      "url": "https://open.spotify.com/track/0NNtvGMVxeZtU9jRgNXhjg"
+      "duration_ms": 194653,
+      "name": "Killing Floor - Live At Monterey",
+      "url": "https://open.spotify.com/track/2v1DwZai9QYkcq8iuDzeDB"
     }
   ],
   "unique_name": "This Is Jimi Hendrix",

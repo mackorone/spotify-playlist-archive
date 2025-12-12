@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > Doja Cat \[Ma Vie World Tour\] 2025.12.13 @ 킨텍스 제2전시장 10홀
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,070 likes - 26 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,145 likes - 26 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

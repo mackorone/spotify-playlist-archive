@@ -1,12 +1,12 @@
 {
   "description": "This is Esteban Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 22695,
+  "num_followers": 22697,
   "original_name": "This Is Esteban Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAADV/boxAN0QFWMeczzU3Iht",
+  "snapshot_id": "aTi4AAAAAADfAVfFqlUl+DNT/UdvBNBc",
   "tracks": [
     {
       "added_at": null,
@@ -199,18 +199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don Esteban",
-        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+        "name": "Corridos Tumbados Vol. 2",
+        "url": "https://open.spotify.com/album/1tpjN0LOyoLBT2WEhB2EUW"
       },
       "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
         {
           "name": "Esteban Gabriel",
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 231378,
-      "name": "Que Tiene de Malo",
-      "url": "https://open.spotify.com/track/3uUvQGiUZMj8WzG5Vo1MCz"
+      "duration_ms": 156661,
+      "name": "Tirando La H",
+      "url": "https://open.spotify.com/track/1CSPS0XfIYL6O1sB3veINs"
     },
     {
       "added_at": null,
@@ -231,22 +235,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Tumbados Vol. 2",
-        "url": "https://open.spotify.com/album/1tpjN0LOyoLBT2WEhB2EUW"
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
       },
       "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
         {
           "name": "Esteban Gabriel",
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 156661,
-      "name": "Tirando La H",
-      "url": "https://open.spotify.com/track/1CSPS0XfIYL6O1sB3veINs"
+      "duration_ms": 231378,
+      "name": "Que Tiene de Malo",
+      "url": "https://open.spotify.com/track/3uUvQGiUZMj8WzG5Vo1MCz"
     },
     {
       "added_at": null,
@@ -299,22 +299,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don Esteban",
-        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+        "name": "Cuentas",
+        "url": "https://open.spotify.com/album/3XAOrLINutXAkXdcyStfv0"
       },
       "artists": [
         {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+          "name": "Obzesion",
+          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
         },
         {
-          "name": "Nietos Del Viejo",
-          "url": "https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH"
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 203104,
-      "name": "Zumbando Terrenos",
-      "url": "https://open.spotify.com/track/3cydPWRwnndcp2C2lIlUt1"
+      "duration_ms": 168958,
+      "name": "Cuentas",
+      "url": "https://open.spotify.com/track/3xh8cHnjy5JJneaF46jCag"
     },
     {
       "added_at": null,
@@ -367,22 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuentas",
-        "url": "https://open.spotify.com/album/3XAOrLINutXAkXdcyStfv0"
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
       },
       "artists": [
         {
-          "name": "Obzesion",
-          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
-        },
-        {
           "name": "Esteban Gabriel",
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        },
+        {
+          "name": "Nietos Del Viejo",
+          "url": "https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH"
         }
       ],
-      "duration_ms": 168958,
-      "name": "Cuentas",
-      "url": "https://open.spotify.com/track/3xh8cHnjy5JJneaF46jCag"
+      "duration_ms": 203104,
+      "name": "Zumbando Terrenos",
+      "url": "https://open.spotify.com/track/3cydPWRwnndcp2C2lIlUt1"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
       "duration_ms": 169080,
       "name": "Mil Horas - En Vivo",
       "url": "https://open.spotify.com/track/7MaFVQ1ZYwXk0K5ehUU9dX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don Esteban",
-        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Mi Reyna",
-      "url": "https://open.spotify.com/track/4iynrE7kJRxQgpQ9XTr9Wy"
     },
     {
       "added_at": null,
@@ -451,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Mi Reyna",
+      "url": "https://open.spotify.com/track/4iynrE7kJRxQgpQ9XTr9Wy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cumbias Light, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
       },
@@ -463,22 +463,6 @@
       "duration_ms": 185834,
       "name": "Todos los Dias - En Vivo",
       "url": "https://open.spotify.com/track/18REsWSePDsWv0X04omJqu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don Esteban",
-        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 155588,
-      "name": "454",
-      "url": "https://open.spotify.com/track/4snEKax2xxjTGvalpdNslr"
     },
     {
       "added_at": null,
@@ -515,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 155588,
+      "name": "454",
+      "url": "https://open.spotify.com/track/4snEKax2xxjTGvalpdNslr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cumbias Light, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT"
       },
@@ -527,30 +527,6 @@
       "duration_ms": 141781,
       "name": "Otra Noche Mas - En Vivo",
       "url": "https://open.spotify.com/track/39QQtDOT5fy2sEudXonn7J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morro Loco",
-        "url": "https://open.spotify.com/album/5SqZnMWQE3La3QJSeeOX0c"
-      },
-      "artists": [
-        {
-          "name": "Los Bravos De La H",
-          "url": "https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr"
-        },
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        },
-        {
-          "name": "Nietos Del Viejo",
-          "url": "https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH"
-        }
-      ],
-      "duration_ms": 191944,
-      "name": "Morro Loco",
-      "url": "https://open.spotify.com/track/13jmfAORh7hAITtCvzVJ9i"
     },
     {
       "added_at": null,
@@ -587,6 +563,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Morro Loco",
+        "url": "https://open.spotify.com/album/5SqZnMWQE3La3QJSeeOX0c"
+      },
+      "artists": [
+        {
+          "name": "Los Bravos De La H",
+          "url": "https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr"
+        },
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        },
+        {
+          "name": "Nietos Del Viejo",
+          "url": "https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH"
+        }
+      ],
+      "duration_ms": 191944,
+      "name": "Morro Loco",
+      "url": "https://open.spotify.com/track/13jmfAORh7hAITtCvzVJ9i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don Esteban",
         "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Substancias",
-        "url": "https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "Substancias",
-      "url": "https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cumbias Light, Vol. 3",
         "url": "https://open.spotify.com/album/2ywvd22NBzHPTWdSvpji0m"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 180961,
       "name": "Pasan Los Dias",
       "url": "https://open.spotify.com/track/18QZ9gVts0qXiITtUcBf9S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Substancias",
+        "url": "https://open.spotify.com/album/7A0S7gIKQDXGMPuSqC3oKb"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "Substancias",
+      "url": "https://open.spotify.com/track/6djaJe3bY5R2FAqjPmnK4X"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cumbias Light, Vol. 3",
+        "url": "https://open.spotify.com/album/2ywvd22NBzHPTWdSvpji0m"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 149921,
+      "name": "Mujercita",
+      "url": "https://open.spotify.com/track/1gvpZMj4ERbAEOezbE0NrD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Traguitos De Mezcal",
         "url": "https://open.spotify.com/album/1CQEb9gIBeUq7qQ0y9UcUI"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 159900,
       "name": "Traguitos De Mezcal",
       "url": "https://open.spotify.com/track/0vE5RlP0vbOVTV11EvhjT0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cumbias Light, Vol. 3",
-        "url": "https://open.spotify.com/album/2ywvd22NBzHPTWdSvpji0m"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 149921,
-      "name": "Mujercita",
-      "url": "https://open.spotify.com/track/1gvpZMj4ERbAEOezbE0NrD"
     },
     {
       "added_at": null,

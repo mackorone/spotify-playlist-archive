@@ -5759,6 +5759,24 @@
     },
     {
       "album": {
+        "name": "Te Quiero Borrachita",
+        "url": "https://open.spotify.com/album/2YjroleWztuI4qa4DidUJz"
+      },
+      "artists": [
+        {
+          "name": "La Borrachita",
+          "url": "https://open.spotify.com/artist/3CNISjj35cUY3r6JENpity"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214040,
+      "name": "Carla",
+      "url": "https://open.spotify.com/track/0SBQbxNiOWzGhIsU1L752T"
+    },
+    {
+      "album": {
         "name": "BAR SCORPIOS",
         "url": "https://open.spotify.com/album/6Rtfa37o0kuhuso3RwimZQ"
       },
@@ -15268,7 +15286,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
@@ -18666,7 +18684,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 258613,
       "name": "La Yugular",
       "url": "https://open.spotify.com/track/7JKpS5rKsKWeVPZ0ojBqv9"
@@ -25402,7 +25420,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "no son dos f son clones",
       "url": "https://open.spotify.com/track/1RcouNaMz2IuEcms1DDM2n"

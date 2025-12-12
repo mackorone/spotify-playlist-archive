@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! &lt;3
 
-454 songs - 23 hr 22 min
+455 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Gradient](https://open.spotify.com/track/3lyF43hdw1AULXQyvrfRpa) | [Starya](https://open.spotify.com/artist/0vbBnL6lV4Gn3PA11vmKjX) | [Gradient](https://open.spotify.com/album/3WJrVYaL23cnjReefwIBWs) | 3:40 | 2023-10-30 | 2024-03-14 |
 | [Hands On Me](https://open.spotify.com/track/28U1yepoE6kr24dhqw38Ud) | [Ronnie Pacitti](https://open.spotify.com/artist/2iBVVqkMHQEUvUkSr7HHoh), [MOYA](https://open.spotify.com/artist/7EyM0gQyMeaeQzslOFZaCq), [All Cane](https://open.spotify.com/artist/2UpaFH42coV1qhfMKaDiL9) | [Hands On Me](https://open.spotify.com/album/41eUxjvUsVteNG4PzXyHjF) | 2:36 | 2024-11-22 | 2025-10-15 |
 | [Hangin' On](https://open.spotify.com/track/2QBYwDbhKUjOPNylueh8ti) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Hangin' On](https://open.spotify.com/album/1QFag1soFAXSOXGoRQHp5G) | 3:15 | 2024-07-26 | 2025-10-15 |
+| [Happy New Year \(feat\. Love Harder\) \- Takis Remix](https://open.spotify.com/track/4WASHXk0rOyvyJwRXLRxDH) | [ricky retro](https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8), [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb), [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4) | [Happy New Year \(feat\. Love Harder\) \[Takis Remix\]](https://open.spotify.com/album/6Nwo5ElKMCkMwhoeDVrNYZ) | 3:05 | 2025-12-11 |  |
 | [He's So Good \- Radio Edit](https://open.spotify.com/track/2lUe2rasBNZMicZPxZRyl8) | [Gruvee](https://open.spotify.com/artist/43OYTebbV6R14NZCWsf30N) | [He's So Good](https://open.spotify.com/album/3SLE0wzDo2wUlckDzVT7zH) | 3:17 | 2023-04-14 | 2024-03-14 |
 | [Historia De Un Amor](https://open.spotify.com/track/0Ftna4jjTEiXBgN7TydtqK) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Historia De Un Amor](https://open.spotify.com/album/7xDHGRg5PuEyiD38LrcVzN) | 4:20 | 2024-01-19 | 2024-03-14 |
 | [Hit My Heart \- TR3NACRIA Remix](https://open.spotify.com/track/3vA9oqlBuVvrzdy2PoSmpR) | [Benassi Bros.](https://open.spotify.com/artist/0yrjYlutW9HgmJlnX479Mx), [Dhany](https://open.spotify.com/artist/7HiP69UJp8p2pKxnRaPqYF), [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH) | [Hit My Heart \(TR3NACRIA Remix\)](https://open.spotify.com/album/3LrdwAZoEyzBDxEnbGyj8w) | 3:54 | 2025-05-26 |  |

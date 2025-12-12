@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najlepsze utwory Fresh Finds Polska w 2025 według naszej redakcji\. Cover: Fida
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,662 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,659 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Pies](https://open.spotify.com/track/7ghDRAf0mkC2BQ0czTQyqv) | [HELA ME RY](https://open.spotify.com/artist/0xoFZYnEQDOeZDcs9PGYPO) | [Pies](https://open.spotify.com/album/4S2mleiak0Bc2rGhYcJAVS) | 3:41 |
 | 100 | [Katarakta](https://open.spotify.com/track/0qgIJGvDPg3w8pKm2sgKDJ) | [Jucha](https://open.spotify.com/artist/7grFJvqwCclBqOR4GQA3cz) | [Katarakta](https://open.spotify.com/album/1OEGWyJ0yAYxUawZyohTga) | 3:51 |
 
-Snapshot ID: `AAAAAKliIX+5tOEMU/LGAFzqEwAAAgyr`
+Snapshot ID: `AAAAAOss+cBwhFDAAgovHvvSChv3DqKF`

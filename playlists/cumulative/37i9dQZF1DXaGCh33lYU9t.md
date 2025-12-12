@@ -2,7 +2,7 @@
 
 ### [Christmas Crackers](https://open.spotify.com/playlist/37i9dQZF1DXaGCh33lYU9t)
 
-> The biggest festive anthems ❄️ Cover: Wham!
+> The biggest festive anthems ❄️ Cover: Kelly Clarkson
 
 98 songs - 5 hr 26 min
 

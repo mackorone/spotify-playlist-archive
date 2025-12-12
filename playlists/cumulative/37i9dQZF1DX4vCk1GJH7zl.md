@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Samuel Rosa, DUDA BEAT
 
-218 songs - 13 hr 0 min
+219 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Não Somos Mais](https://open.spotify.com/track/5JroLyVYe3GIijBdxgwPBt) | [Matheus Torres](https://open.spotify.com/artist/6Pl1aDQurlKn3p8SenTiAy) | [Não Somos Mais](https://open.spotify.com/album/04zr2V5S16hd7v2uFJQMmZ) | 4:10 | 2025-02-14 |  |
 | [Não sou tão jovem](https://open.spotify.com/track/4jjy0e2hsffcMCdmx06xbv) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [Não sou tão jovem](https://open.spotify.com/album/2TgjrqJ9p9MdyCQ8ijbirB) | 2:32 | 2025-09-12 |  |
 | [Não Vou Me Adaptar \- Ao Vivo](https://open.spotify.com/track/4EXzmoiU4KAggC3UbBueCl) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5) | [Não Vou Me Adaptar \(Ao Vivo\)](https://open.spotify.com/album/4EdfAeoDFDnsoh1xey5M30) | 4:36 | 2023-07-21 |  |
-| [NÓS2 \- Acústico](https://open.spotify.com/track/4QizJWDKw1lb0ILUoOAKgT) | [BAD LUV](https://open.spotify.com/artist/3gnMduwfXqTAcuOHxtpkq8) | [NÓS2 \(Acústico\)](https://open.spotify.com/album/5VN9wGmKipvpQ1EKhXy1JZ) | 3:07 | 2025-10-10 |  |
+| [NÓS2 \- Acústico](https://open.spotify.com/track/4QizJWDKw1lb0ILUoOAKgT) | [BAD LUV](https://open.spotify.com/artist/3gnMduwfXqTAcuOHxtpkq8) | [NÓS2 \(Acústico\)](https://open.spotify.com/album/5VN9wGmKipvpQ1EKhXy1JZ) | 3:07 | 2025-10-10 | 2025-12-12 |
 | [O](https://open.spotify.com/track/3znyY1uJaVlB8DBypreIhP) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [WRLD](https://open.spotify.com/album/3TCF95qK3XaMBjmEuXwQHQ) | 4:42 | 2025-05-30 |  |
 | [o mundo já ta bom sem mim](https://open.spotify.com/track/35B6qiqKdPIta9IOYI4Z7H) | [Stéfano Loscalzo](https://open.spotify.com/artist/02TeEVQrjOZddjmYRQUEs7) | [o mundo já ta bom sem mim](https://open.spotify.com/album/0H5jXYPHwDnaeTxQPICpZC) | 2:04 | 2023-07-21 | 2023-12-02 |
 | [O Verso](https://open.spotify.com/track/7pXTeKmUbEpZoIDDyW1nVm) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk), [Rogerio Flausino](https://open.spotify.com/artist/5kRbLxZb1mTjdi1xEHynwZ) | [O Verso](https://open.spotify.com/album/57B7GM6qlCkWpAKrreOFN7) | 3:29 | 2025-01-10 | 2025-03-25 |
@@ -211,6 +211,7 @@
 | [Tudo Fica Bem \- Acústico](https://open.spotify.com/track/5IQiul9hH6sL4WNm8QS397) | [Tianastacia](https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u) | [Tudo Fica Bem \(Acústico\)](https://open.spotify.com/album/3ELasphaer4uFY996px5iC) | 2:45 | 2024-09-13 |  |
 | [um bar, um shot, um começo](https://open.spotify.com/track/41TEbGzlsA7vm01I7egF7I) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw) | [um bar, um shot, um começo](https://open.spotify.com/album/4sdSxG6ySgmn4vtessDHUH) | 3:29 | 2024-05-03 | 2024-06-15 |
 | [Um Sonhador](https://open.spotify.com/track/7fb8DZxvDLSmymtO2aizdL) | [Detonautas](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Um Sonhador](https://open.spotify.com/album/4dsHFCDLAPaqCPjNCrs1Xo) | 4:17 | 2025-07-19 |  |
+| [vale nada](https://open.spotify.com/track/7qZpO1kTmzl2NfOHf6FORY) | [Tupi & Os Crocodilos de Marte](https://open.spotify.com/artist/7FjKCOgWeJVYiCnDJAkYet), [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf) | [vale nada](https://open.spotify.com/album/04CCQjIuuirv55khPHFD8B) | 3:02 | 2025-12-12 |  |
 | [VALENTINE](https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:36 | 2023-11-10 | 2025-01-11 |
 | [Vamos Correr Pro Mar](https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35) | [Seu Cuca](https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b) | [Vamos Correr Pro Mar](https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ) | 3:26 | 2024-09-02 |  |
 | [Vamos de Viagem](https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Vamos de Viagem](https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM) | 3:58 | 2024-09-27 |  |

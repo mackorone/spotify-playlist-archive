@@ -4,7 +4,7 @@
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-139 songs - 8 hr 7 min
+141 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Rapapa Papam](https://open.spotify.com/track/31eiGVDcWVncSpj5cAkpFF) | [Glad](https://open.spotify.com/artist/02JizfSPTHzoiZUJDRXjIf) | [Rapapa Papam](https://open.spotify.com/album/2rdM5JfJHkeGI6rNHr17ah) | 2:36 | 2025-11-24 |  |
 | [Reach](https://open.spotify.com/track/2qejaiHMMcfwiFl4jLuHnG) | [The Mantra Discord](https://open.spotify.com/artist/7qGUciCek4iIXfo65Gl7zA) | [Reach](https://open.spotify.com/album/1h0HCwONvT8BZVA8LSg0YD) | 3:15 | 2025-09-26 |  |
 | [Reset Your Timer](https://open.spotify.com/track/71KLcewl8GMQ4ujK4edqAR) | [Closer To The Ocean](https://open.spotify.com/artist/2e5jnw0SFtu36T1XJZqKfK) | [Sure Shots](https://open.spotify.com/album/075jtCsaPqq2nvW4vjOJpa) | 3:00 | 2025-09-10 |  |
+| [Rosemary Gold](https://open.spotify.com/track/0KRNkNKm0l88HTP56Xfso7) | [FXCELESS](https://open.spotify.com/artist/20PXVmxGDqANBC2SSezzSl) | [Rosemary Gold](https://open.spotify.com/album/4e0XQZiKL95mxpnpDFjDAg) | 2:10 | 2025-12-11 |  |
 | [Rule Breakers](https://open.spotify.com/track/6sdx6g2pj2YDMvqQBD3wu4) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [Rule Breakers](https://open.spotify.com/album/5S6EUNPDwuZPWOttwz3ZAa) | 3:12 | 2025-09-11 |  |
 | [Runaway with Me](https://open.spotify.com/track/7e78LAtq1CIxZ4v4lmIG9E) | [Hors Circuit](https://open.spotify.com/artist/3C4ovOK8GdFfvE8pbKrmkt), [Davy Anders](https://open.spotify.com/artist/6TYbweUT5KJD0UecqFxts7), [Jeremy Fox\-Revett](https://open.spotify.com/artist/5yWCtUdj85GegKg8a3OcW8) | [Instinct](https://open.spotify.com/album/7f8mgLxY3iYHa7Swe6DWge) | 2:55 | 2025-09-05 |  |
 | [Safe Rock](https://open.spotify.com/track/1d1Gfo7uhoz0sajShO0N27) | [Richard Dobeson](https://open.spotify.com/artist/28KWLvWlBhBq9vp1HwGfTH) | [Safe Rock](https://open.spotify.com/album/7z7tji9C6xhdQB4dccfhXu) | 3:07 | 2025-03-21 |  |
@@ -127,6 +128,7 @@
 | [The Ending](https://open.spotify.com/track/5DrBMJKB8t24QQtCGwaGDw) | [Clone](https://open.spotify.com/artist/6T85YbQ0phuSY1uw4Q4FyG) | [The Ending](https://open.spotify.com/album/1hSEioHb7AhPeLVRLwURKk) | 3:10 | 2025-09-05 |  |
 | [The Fall](https://open.spotify.com/track/2v5stDWEv5ZQDVP6NdGBjA) | [Venior](https://open.spotify.com/artist/2lpGnpxGqS2rOJRFnLFuT6) | [The Fall](https://open.spotify.com/album/4Ysqg0gATdjkY1IxIWKjz1) | 6:09 | 2025-11-06 |  |
 | [The Future Is in Our Hands \(And That Should Terrify You\)](https://open.spotify.com/track/2mYqiVEs5qW44JEJNvrBGy) | [D\. Majestic and the Spectral Band](https://open.spotify.com/artist/17YBPIdTtr17ZC1sYfWUZ8) | [The Future Is in Our Hands \(And That Should Terrify You\)](https://open.spotify.com/album/1mz5IZoZl3AVcWF8SL5Pka) | 2:41 | 2025-10-16 |  |
+| [The Hummingbird](https://open.spotify.com/track/4efXbrQXTZmXPZCIBKhfBa) | [Sia Vaiz](https://open.spotify.com/artist/3KXDHgGTsVxS9tVl3bVX64) | [The Hummingbird](https://open.spotify.com/album/3abO1C1HoLQxF79SIoqMOg) | 3:05 | 2025-12-11 |  |
 | [The Open Door](https://open.spotify.com/track/6iXp9NrHztBXAkQ2EfKUAJ) | [Richard Dobeson](https://open.spotify.com/artist/28KWLvWlBhBq9vp1HwGfTH) | [The Open Door](https://open.spotify.com/album/69DTawT7CmrTXphOhgdcFa) | 1:29 | 2024-04-04 |  |
 | [The same old café](https://open.spotify.com/track/6iy0PiiR9SXohvgxYftqVN) | [no\-ne](https://open.spotify.com/artist/45s6knTSGIU7M3kaHSdLiy), [Pupille](https://open.spotify.com/artist/0Dn2cJkN3xEZT0m5QP6MCI) | [L'ambiguïté](https://open.spotify.com/album/6EgZJxDdJwYfEBdRYA9v2h) | 4:55 | 2025-11-25 |  |
 | [The Search](https://open.spotify.com/track/4BIgOVHz6nQKs3znCQIG4A) | [One Flux](https://open.spotify.com/artist/5BjPshI3N7zqfZ3E67ZVlF) | [Altered Ignition](https://open.spotify.com/album/6VeFPHBE2zzAdDtHAblght) | 3:47 | 2025-09-10 |  |

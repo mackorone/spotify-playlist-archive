@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > Le meilleur de la scène musicale montréalaise en 2025\. Photo: Blynk
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,459 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,456 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 49 | [I.W.Y.B.](https://open.spotify.com/track/67C2lngm6JPNsKTprUz3KO) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Dogue](https://open.spotify.com/album/749uCoBXgdFaC9VJZtA1oL) | 3:14 |
 | 50 | [Léo \(rentre à la maison\)](https://open.spotify.com/track/3CUfyFs6PpLeeKz76wvGEo) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Léo \(rentre à la maison\)](https://open.spotify.com/album/07eJGV18HqMisQqbzFcaYR) | 2:52 |
 
-Snapshot ID: `AAAAABpPu7p1MbCIBm5y12WNQc7bC0iM`
+Snapshot ID: `AAAAAJVWY67Kj9SmpYN8Sd8oinzCajVW`

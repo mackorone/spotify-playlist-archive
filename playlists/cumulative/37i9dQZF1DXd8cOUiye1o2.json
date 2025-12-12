@@ -131,6 +131,32 @@
     },
     {
       "album": {
+        "name": "Aaja Hulchal Karenge (From the Movie \"Kis Kisko Pyaar Karoon 2\")",
+        "url": "https://open.spotify.com/album/0aR5jUCi4MUVNb673B9VIC"
+      },
+      "artists": [
+        {
+          "name": "Yug Bhusal",
+          "url": "https://open.spotify.com/artist/3G7JLxtHuIRwlGsNTiHwro"
+        },
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        },
+        {
+          "name": "Ajay Kumar",
+          "url": "https://open.spotify.com/artist/0c7iqy5nSM7E0nirwP2aOD"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248500,
+      "name": "Aaja Hulchal Karenge - From the Movie \"Kis Kisko Pyaar Karoon 2\"",
+      "url": "https://open.spotify.com/track/5gmtkBNelF4e0MrSi8oVx4"
+    },
+    {
+      "album": {
         "name": "Aakhir Kaar",
         "url": "https://open.spotify.com/album/1S6XwGuWKqXVfIRWGecpFx"
       },
@@ -1063,6 +1089,28 @@
     },
     {
       "album": {
+        "name": "Bairagiya",
+        "url": "https://open.spotify.com/album/23uqf0NSfdqg5VIYGx9qeh"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Singh",
+          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
+        },
+        {
+          "name": "Shilpa Surroch",
+          "url": "https://open.spotify.com/artist/1ZYCMyQKFPRWYyvVnIh10b"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164875,
+      "name": "Bairagiya",
+      "url": "https://open.spotify.com/track/0Vxjhsy57fD4YcBMwNp9SQ"
+    },
+    {
+      "album": {
         "name": "Pankh",
         "url": "https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3"
       },
@@ -1392,7 +1440,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 291956,
       "name": "Bekhudi Ishq Ki",
       "url": "https://open.spotify.com/track/24BHj41vxRhHfxo5Zfa7Rq"
@@ -3059,6 +3107,24 @@
     },
     {
       "album": {
+        "name": "Farak Nahi Padta",
+        "url": "https://open.spotify.com/album/2SsLNVEZfLuZz0ZgC3EtrZ"
+      },
+      "artists": [
+        {
+          "name": "KhoslaRaghu",
+          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139312,
+      "name": "Farak Nahi Padta",
+      "url": "https://open.spotify.com/track/1J9c9T2OJr84swGCXu1TEH"
+    },
+    {
+      "album": {
         "name": "I-Popstar: Vol. 1 | Episodes 9, 10 & 11",
         "url": "https://open.spotify.com/album/2C3TVRfr23hPmTklWrvY35"
       },
@@ -3716,6 +3782,40 @@
       "duration_ms": 210416,
       "name": "Heer",
       "url": "https://open.spotify.com/track/35HWtZ1GN6ZAaJYxfCJuE6"
+    },
+    {
+      "album": {
+        "name": "Haal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2TCgcD0kzPASO874pZU9q0"
+      },
+      "artists": [
+        {
+          "name": "Nandhagopan V",
+          "url": "https://open.spotify.com/artist/1IwTb8dG4dLNCd6yfHW25y"
+        },
+        {
+          "name": "Ankit Tiwari",
+          "url": "https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB"
+        },
+        {
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+        },
+        {
+          "name": "Neeraj Kumar",
+          "url": "https://open.spotify.com/artist/1XAmRcTkMFP9QvgjgAtvHf"
+        },
+        {
+          "name": "Meer Mridul",
+          "url": "https://open.spotify.com/artist/1XbsMPykkb9vjPgfJCbdhX"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238435,
+      "name": "Hijr",
+      "url": "https://open.spotify.com/track/74pr1jpsPnJyQ59AudpBEl"
     },
     {
       "album": {
@@ -7258,7 +7358,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 212500,
       "name": "Peeche Mudke",
       "url": "https://open.spotify.com/track/6qmZjOeze6tcdt8RyI3hlG"
@@ -8702,7 +8802,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 333617,
       "name": "Shehar Tere - From \"Gustaakh Ishq\"",
       "url": "https://open.spotify.com/track/6JPnowhh8lzIOWQtQxkIJp"
@@ -9662,7 +9762,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 75093,
       "name": "They Call Him KING - King Theme (From \"King\")",
       "url": "https://open.spotify.com/track/7KKXCjrcxlLf69F3p9theL"

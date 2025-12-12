@@ -3670,7 +3670,7 @@
       ],
       "date_added": "2021-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 186400,
       "name": "Apollo",
       "url": "https://open.spotify.com/track/2S13g8BhBuFzkGpwDw1ONM"
@@ -3970,7 +3970,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 156051,
       "name": "AUTOBANA",
       "url": "https://open.spotify.com/track/6UqIhWc59MH1uegSzBmDIZ"
@@ -8816,7 +8816,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 148187,
       "name": "CA\u0141E LATO",
       "url": "https://open.spotify.com/track/51cTY5CXYRwZdAyWFzWsxt"
@@ -15240,7 +15240,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -23280,7 +23280,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 188750,
       "name": "Kalinka",
       "url": "https://open.spotify.com/track/3P2qFkM8UwAXSzvylWQuXn"
@@ -27810,7 +27810,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 157575,
       "name": "Luty",
       "url": "https://open.spotify.com/track/7ubcimU18HA4wojQd51M7a"
@@ -30976,7 +30976,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 179571,
       "name": "Multisport",
       "url": "https://open.spotify.com/track/1ZIscVoYHftgA5STle5cPo"
@@ -31494,6 +31494,24 @@
       "duration_ms": 169656,
       "name": "M\u00f3j przykry lajf (Jakub On Stage)",
       "url": "https://open.spotify.com/track/70XsD6rvdkiozbS82mAl7k"
+    },
+    {
+      "album": {
+        "name": "2011",
+        "url": "https://open.spotify.com/album/7qubt1XrEMxEghCQPsWXaU"
+      },
+      "artists": [
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "M\u00f3w",
+      "url": "https://open.spotify.com/track/26OiDlblMSlklgBR7oE8RS"
     },
     {
       "album": {
@@ -51454,7 +51472,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 229638,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
@@ -51472,7 +51490,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 229638,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"

@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-795 songs - 1 day 13 hr 40 min
+796 songs - 1 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,7 +349,7 @@
 | [HIGH STAR](https://open.spotify.com/track/0lDF1W7GchI8tKq6GCfdUE) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [HIGH STAR](https://open.spotify.com/album/1UE4Fy6qYCLqbM4Lz1Kf95) | 2:19 | 2025-07-18 | 2025-09-19 |
 | [High Tension](https://open.spotify.com/track/7AaxIXNXvS7hqTLaQlXmgm) | [Gdzilla](https://open.spotify.com/artist/2GYi94SMYCdXqsvYjer68K) | [High Tension](https://open.spotify.com/album/2QGfvvvbYyk5ZU3WVBIXem) | 2:24 | 2023-12-01 | 2024-01-13 |
 | [Higher](https://open.spotify.com/track/1JK4yUEI1kLQKw424MYoSD) | [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU) | [Higher](https://open.spotify.com/album/1RRZz91gJ2St8d7EhXl8q4) | 3:18 | 2023-06-16 | 2023-08-11 |
-| [Hildabaci \- Remix](https://open.spotify.com/track/2vrlur3WOjV0ojYV2Rh9CH) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Hildabaci \(Remix\)](https://open.spotify.com/album/0EuLcCP0rot7eazQQy3J7Z) | 3:12 | 2025-05-09 |  |
+| [Hildabaci \- Remix](https://open.spotify.com/track/2vrlur3WOjV0ojYV2Rh9CH) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB), [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Hildabaci \(Remix\)](https://open.spotify.com/album/0EuLcCP0rot7eazQQy3J7Z) | 3:12 | 2025-05-09 | 2025-12-12 |
 | [Hillary](https://open.spotify.com/track/6I1oMY6NrE8Iqx7bx0gIw2) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [Hillary](https://open.spotify.com/album/3KUbmSvjvHH5Qxf1A9lS09) | 2:51 | 2023-03-24 | 2023-04-15 |
 | [Hmmm \(feat\. Davido\)](https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:56 | 2024-04-19 | 2025-02-25 |
 | [Holiday](https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 2:39 | 2023-02-16 | 2023-05-01 |
@@ -682,6 +682,7 @@
 | [Small Money](https://open.spotify.com/track/5jYCb3QsnXxS2Qh5HzwT7J) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb) | [Small Money](https://open.spotify.com/album/3wxXvsPsPxi0ZDrbPGmiB4) | 2:25 | 2024-04-26 | 2024-10-01 |
 | [SMH](https://open.spotify.com/track/0DVj9NqROYmSFoaa4MUyE4) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [SMH](https://open.spotify.com/album/0MMuMrHpnuJMVJ90ZhMdmQ) | 2:28 | 2025-02-12 | 2025-04-01 |
 | [Snapchat](https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave](https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD) | 3:26 | 2022-06-09 | 2023-11-01 |
+| [SNOKONOKO](https://open.spotify.com/track/1F6HMPZd1izYjwGoFsh7Ny) | [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y), [Benzoo](https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft) | [SNOKONOKO](https://open.spotify.com/album/2ZoXRaK0N0KUTGH6L23CBp) | 6:39 | 2025-12-12 |  |
 | [Sober](https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE) | [Yung Alpha](https://open.spotify.com/artist/0lL3q4F7F3Zv6TdwefmcR6), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Sober](https://open.spotify.com/album/7GWGllaCoQInhrOadZ79LQ) | 3:05 | 2025-02-12 | 2025-07-13 |
 | [Some Kind Things \(feat\. PsychoYP & Minz\)](https://open.spotify.com/track/5NSR2CDIcWkV8aXTDjF4ur) | [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Some Kind Things \(feat\. PsychoYP & Minz\)](https://open.spotify.com/album/1ybxzzMBGSlfigEsfuXtsF) | 2:46 | 2024-03-29 | 2024-04-12 |
 | [Somebody](https://open.spotify.com/track/31YsaUKopejb1gATzVxH5R) | [Luckydchampion](https://open.spotify.com/artist/5z4Lt1d7cy9Gds5VjmB2w3), [Martinsfeelz](https://open.spotify.com/artist/6yDnSctLP418ktCtL1xmgS) | [Somebody](https://open.spotify.com/album/3IBpv3DOoGhbfLK8xFE5td) | 2:50 | 2025-06-20 | 2025-06-28 |

@@ -4,7 +4,7 @@
 
 > All of it
 
-1,072 songs - 2 day 17 hr 54 min
+1,073 songs - 2 day 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [Had I Not Seen the Sun](https://open.spotify.com/track/59oOaUav2cqt9zkhpQgmru) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg), [Robin](https://open.spotify.com/artist/55NononxYKjAdaLpphQ4JD), [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [Had I Not Seen the Sun](https://open.spotify.com/album/2ffyKF0sGtbOTUsoEm7opF) | 2:25 | 2025-06-02 |  |
 | [Hanford Street](https://open.spotify.com/track/3pKT9oiKZAY4MNNP5qvlHp) | [The Brudi Brothers](https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K) | [See You Soon](https://open.spotify.com/album/5Px7Ap7BUM4FMIMXuIV0uv) | 4:33 | 2025-10-13 |  |
 | [Hangar 18](https://open.spotify.com/track/0KAaslGdPc5I6WxmKe3whe) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 5:14 | 2025-06-02 |  |
+| [Happy Nightmare \- Mescaline](https://open.spotify.com/track/5wNkgpr8qA3viiIWdJif7T) | [Focus](https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR) | [In And Out Of Focus](https://open.spotify.com/album/5AteSiIZMyjzqApnZw2xCb) | 3:59 | 2025-12-11 |  |
 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 | 2025-06-02 |  |
 | [hardy boys 2](https://open.spotify.com/track/3TR3EDvLPIYRWU8A6plN8U) | [mikeeysmind](https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN), [prodbysky](https://open.spotify.com/artist/4dkg1q2DJECBqjrSMs8ULh) | [hardy boys 2](https://open.spotify.com/album/3Gaj309gOfa1jjpACfPolC) | 2:42 | 2025-06-02 |  |
 | [Haunted](https://open.spotify.com/track/1bx9j48IeWnDnPqcTTqT8Q) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:20 | 2025-06-02 |  |

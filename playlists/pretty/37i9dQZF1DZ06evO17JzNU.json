@@ -1,12 +1,12 @@
 {
   "description": "This is Los Gemelos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 29876,
+  "num_followers": 29884,
   "original_name": "This Is Los Gemelos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAABh92Jf+OVpWcjtYPb+crqr",
+  "snapshot_id": "aTi4AAAAAACvtYCJD2wFJ03FBdJBuFyl",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Me Ven",
-        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 174432,
-      "name": "Si Me Ven",
-      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Nada Te Cambio",
         "url": "https://open.spotify.com/album/7hWuy8jFQVmigUrWWH9z9X"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 205482,
       "name": "Por Nada Te Cambio",
       "url": "https://open.spotify.com/track/4chVeYSaaPLrvjkgHoK6sT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Me Ven",
+        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 174432,
+      "name": "Si Me Ven",
+      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Son 4 Rifando",
-        "url": "https://open.spotify.com/album/0lfEm5fZhzsktOWiFwfuZh"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 139050,
-      "name": "Son 4 Rifando",
-      "url": "https://open.spotify.com/track/6k16Wgr53yjWjOvigK2eP2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Conexi\u00f3n",
         "url": "https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 227808,
       "name": "El Michoacano",
       "url": "https://open.spotify.com/track/1ltZxfoujP63Bp8RYFhgd5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Son 4 Rifando",
+        "url": "https://open.spotify.com/album/0lfEm5fZhzsktOWiFwfuZh"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 139050,
+      "name": "Son 4 Rifando",
+      "url": "https://open.spotify.com/track/6k16Wgr53yjWjOvigK2eP2"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sapo 777",
-        "url": "https://open.spotify.com/album/6aoXCPH5lCF8lsFeaeEzYo"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Justin Morales",
-          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
-        }
-      ],
-      "duration_ms": 196979,
-      "name": "Sapo 777",
-      "url": "https://open.spotify.com/track/1Sf2GwXADfcc6Bug0cqx0R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bola De Corrientes",
         "url": "https://open.spotify.com/album/2tNhLu2M1RbCYkmeNA9hCm"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 219697,
       "name": "Bola De Corrientes",
       "url": "https://open.spotify.com/track/08HwbgBTGQ59H1ppLn4AxW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sapo 777",
+        "url": "https://open.spotify.com/album/6aoXCPH5lCF8lsFeaeEzYo"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Justin Morales",
+          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
+        }
+      ],
+      "duration_ms": 196979,
+      "name": "Sapo 777",
+      "url": "https://open.spotify.com/track/1Sf2GwXADfcc6Bug0cqx0R"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agradecido",
-        "url": "https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 131589,
-      "name": "En El Este",
-      "url": "https://open.spotify.com/track/3fHKkTEd8wulH6BtyjQ5DS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Me Quedan Viendo Raro",
         "url": "https://open.spotify.com/album/0QvRkRdnUEL2reNTuDzzoR"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 197000,
       "name": "Se Me Quedan Viendo Raro",
       "url": "https://open.spotify.com/track/3QidmATponJrOJIcDkCtWT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Agradecido",
+        "url": "https://open.spotify.com/album/3MKAMCVlSIMDWnnBihi6JH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 131589,
+      "name": "En El Este",
+      "url": "https://open.spotify.com/track/3fHKkTEd8wulH6BtyjQ5DS"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bulgari",
-        "url": "https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L"
+        "name": "Hay Que Prender",
+        "url": "https://open.spotify.com/album/3WXxHr2o8XZeZuL8CrdlEH"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 164115,
-      "name": "Bulgari",
-      "url": "https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj"
+      "duration_ms": 129875,
+      "name": "Polvo Feria Y Mas Lana",
+      "url": "https://open.spotify.com/track/4IP9oom9cqcfzKRcxJQNSj"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hay Que Prender",
-        "url": "https://open.spotify.com/album/3WXxHr2o8XZeZuL8CrdlEH"
+        "name": "Bulgari",
+        "url": "https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 129875,
-      "name": "Polvo Feria Y Mas Lana",
-      "url": "https://open.spotify.com/track/4IP9oom9cqcfzKRcxJQNSj"
+      "duration_ms": 164115,
+      "name": "Bulgari",
+      "url": "https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj"
     },
     {
       "added_at": null,

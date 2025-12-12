@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 522 likes - 443 songs - 21 hr 26 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 528 likes - 446 songs - 21 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -451,5 +451,8 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 441 | [Tralandia](https://open.spotify.com/track/3uNmUUM3dmgQmTjxkUcgTw) | [ARTIN & ROMAN DJ](https://open.spotify.com/artist/3CgomiE7lP85mKvgn66knC) | [Tralandia](https://open.spotify.com/album/0xNYINEGK0TD7Ggw30syAu) | 3:28 |
 | 442 | [Bam Bam](https://open.spotify.com/track/3tVJg0d42IEEfGLT6Sre7k) | [Sweet Strings](https://open.spotify.com/artist/7EjtlZUiHcqkeGSrolQABK) | [Bam Bam](https://open.spotify.com/album/7eP4kNqiMv83qNMEo1iJGq) | 3:45 |
 | 443 | [Everything](https://open.spotify.com/track/5CGpPbUiTBtjVm5dCRvZbH) | [Blakestyle](https://open.spotify.com/artist/0YxbMKrZgTOUWYeOdBgdoy) | [Everything](https://open.spotify.com/album/17Nicg9iwMRlxA3Ovl1bAS) | 2:42 |
+| 444 | [Sagrado, Santo Y Bendito Tabu De Dios \- Remix](https://open.spotify.com/track/1uJN92qRjrstzPAtNZFgFl) | [Adam Ashrei](https://open.spotify.com/artist/3YYTIWbnarG9IperSoNsfT) | [La Misma Fe, Nuevo Sonido, Vol\. 1 \(Remix\)](https://open.spotify.com/album/2WV9gd4TaKoM1DuPo0YLl7) | 5:54 |
+| 445 | [Feelin' Alright](https://open.spotify.com/track/3yxAOYOlP7XN5WyeJuSLqG) | [Lil'Draino.](https://open.spotify.com/artist/6ulNvT6jl51P2lzHuhI9MV) | [Feelin' Alright](https://open.spotify.com/album/2GxBmMhjNd5zy9cCeoHSRu) | 3:18 |
+| 446 | [Mtmc](https://open.spotify.com/track/2RvhNQHQZpPUeGHMlra49Z) | [WM Neto](https://open.spotify.com/artist/7F6oqDJ8jQybip3xgfaIgp) | [Mtmc](https://open.spotify.com/album/02r1vO3J2UBenqXkdvJFRc) | 2:09 |
 
-Snapshot ID: `AAABW1UOWBfQU/vg/jbF5EqVUWMdwnCJ`
+Snapshot ID: `AAABXmsJsUWlsmQHHfz2HC6wEnYUqVyP`

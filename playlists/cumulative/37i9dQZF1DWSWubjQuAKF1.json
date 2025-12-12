@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: metro",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Piotr Odoszewski",
   "name": "up next",
   "tracks": [
     {
@@ -996,7 +996,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 178741,
       "name": "Bez siebie",
       "url": "https://open.spotify.com/track/7gHumEFAIMYc1VvkxfHLCW"
@@ -1348,6 +1348,24 @@
       "duration_ms": 185165,
       "name": "bravo girl",
       "url": "https://open.spotify.com/track/6scotc51WCWORRDKDjUL2B"
+    },
+    {
+      "album": {
+        "name": "Brightest Light",
+        "url": "https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h"
+      },
+      "artists": [
+        {
+          "name": "Marianna K\u0142os",
+          "url": "https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180691,
+      "name": "Brightest Light",
+      "url": "https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp"
     },
     {
       "album": {
@@ -2835,6 +2853,24 @@
     },
     {
       "album": {
+        "name": "My Name Is Pozna\u0144 4.0",
+        "url": "https://open.spotify.com/album/40qT9MT0EfkLT7k6Na1Ev3"
+      },
+      "artists": [
+        {
+          "name": "Kachus",
+          "url": "https://open.spotify.com/artist/3Ya5NT5vLex3mCIt2DTmkJ"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180920,
+      "name": "Duma",
+      "url": "https://open.spotify.com/track/7x9Y4840DOkLn8vqQBA6DC"
+    },
+    {
+      "album": {
         "name": "Instalacja I",
         "url": "https://open.spotify.com/album/3HB7pBioWew0y3VogkkUVw"
       },
@@ -3096,6 +3132,28 @@
       "duration_ms": 231821,
       "name": "Everything Changes (But I Won't)",
       "url": "https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB"
+    },
+    {
+      "album": {
+        "name": "Blue music",
+        "url": "https://open.spotify.com/album/4xuNNfpH4La2sigSZA0aYW"
+      },
+      "artists": [
+        {
+          "name": "SHD\u00d8W",
+          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
+        },
+        {
+          "name": "Pola",
+          "url": "https://open.spotify.com/artist/35TNTrLhxCXmfO4wL4IWUa"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "Eyes wide open",
+      "url": "https://open.spotify.com/track/1OM5jb3rUGHM1GqTSkX6Jc"
     },
     {
       "album": {
@@ -4584,7 +4642,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 160417,
       "name": "kill for me?",
       "url": "https://open.spotify.com/track/3CllWqGpp4lInHfu5B7OSJ"
@@ -5783,6 +5841,28 @@
     },
     {
       "album": {
+        "name": "Mieszany Mieszany",
+        "url": "https://open.spotify.com/album/6Cic49CJali2zQeye8L3Lp"
+      },
+      "artists": [
+        {
+          "name": "Faustyna Maciejczuk",
+          "url": "https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj"
+        },
+        {
+          "name": "Domin",
+          "url": "https://open.spotify.com/artist/5BrYU5AWfh1TfOPGOEVQkn"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129687,
+      "name": "Mieszany Mieszany",
+      "url": "https://open.spotify.com/track/1pcQvECPomjRFKe2dzqRSa"
+    },
+    {
+      "album": {
         "name": "milan",
         "url": "https://open.spotify.com/album/6rgLkElW01eehLuLRBmyXw"
       },
@@ -6466,6 +6546,28 @@
       "duration_ms": 273000,
       "name": "NAD RANEM",
       "url": "https://open.spotify.com/track/3WOdMYBgZJBKKqMVzU3ndj"
+    },
+    {
+      "album": {
+        "name": "KR\u00d3TKI METRA\u017b",
+        "url": "https://open.spotify.com/album/3opMMjlqIRq3CKBISGyRha"
+      },
+      "artists": [
+        {
+          "name": "Piotr Odoszewski",
+          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
+        },
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306892,
+      "name": "nad ranem (kr\u00f3tki metra\u017c)",
+      "url": "https://open.spotify.com/track/4bT7K59EKjtBBn4RtGxvN1"
     },
     {
       "album": {
@@ -7722,7 +7824,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 153744,
       "name": "on & on",
       "url": "https://open.spotify.com/track/6YTpqvzWrdu1D261APWl9z"
@@ -8056,7 +8158,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 114187,
       "name": "PANI DOMU",
       "url": "https://open.spotify.com/track/2M1P4LUMHfuLlntE7HCsfO"
@@ -10050,7 +10152,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "sza\u0142 uniesie\u0144",
       "url": "https://open.spotify.com/track/2UbP0gxYrkA4CURZjhUlDo"
@@ -10850,7 +10952,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 202344,
       "name": "Ton\u0119 (w skateparku)",
       "url": "https://open.spotify.com/track/7Dr0N7ABvgd89mSuAjcBSB"
@@ -11110,7 +11212,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 176128,
       "name": "T\u0119skni\u0119",
       "url": "https://open.spotify.com/track/6ZIExaf8SeE2WYDazQtrdZ"
@@ -12104,7 +12206,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 217070,
       "name": "Za d\u0142ugo",
       "url": "https://open.spotify.com/track/7At9ZJ0GOf2yuOp5HUOU4q"
@@ -12216,7 +12318,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 123364,
       "name": "ZABIJE J\u0104",
       "url": "https://open.spotify.com/track/2o49vdLmbUvqWtGGsjRa8o"

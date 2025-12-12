@@ -527,6 +527,22 @@
     {
       "added_at": "2025-03-28 20:00:03",
       "album": {
+        "name": "Namet Nenna",
+        "url": "https://open.spotify.com/album/1pWX63oQEUEctHaDU4som3"
+      },
+      "artists": [
+        {
+          "name": "Ruby",
+          "url": "https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814"
+        }
+      ],
+      "duration_ms": 201463,
+      "name": "Namet Nenna",
+      "url": "https://open.spotify.com/track/7pu5c7XiIjyxnbohUJQ0b0"
+    },
+    {
+      "added_at": "2025-03-28 20:00:03",
+      "album": {
         "name": "\u0623\u0641\u0636\u0644 \u0623\u063a\u0627\u0646\u0649 2024",
         "url": "https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 170769,
       "name": "KEBDA",
       "url": "https://open.spotify.com/track/2Cs1t49qL52fPt6ikx15wp"
-    },
-    {
-      "added_at": "2025-03-28 20:00:03",
-      "album": {
-        "name": "Namet Nenna",
-        "url": "https://open.spotify.com/album/1pWX63oQEUEctHaDU4som3"
-      },
-      "artists": [
-        {
-          "name": "Ruby",
-          "url": "https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814"
-        }
-      ],
-      "duration_ms": 201463,
-      "name": "Namet Nenna",
-      "url": "https://open.spotify.com/track/7pu5c7XiIjyxnbohUJQ0b0"
     },
     {
       "added_at": "2025-03-28 20:00:03",

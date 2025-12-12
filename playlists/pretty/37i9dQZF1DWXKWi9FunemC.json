@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 391668,
+  "num_followers": 391718,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-10-19 01:12:39",
       "album": {
+        "name": "Cold Of The Night",
+        "url": "https://open.spotify.com/album/118XTpb5m0rG05GIh2tXhV"
+      },
+      "artists": [
+        {
+          "name": "Ivan Castro",
+          "url": "https://open.spotify.com/artist/4HElG82P9GRSfQhqs1mt14"
+        }
+      ],
+      "duration_ms": 223858,
+      "name": "Cold Of The Night",
+      "url": "https://open.spotify.com/track/1hVu0KC031qLlIn8UPsDe7"
+    },
+    {
+      "added_at": "2025-10-19 01:12:39",
+      "album": {
         "name": "At The Table",
         "url": "https://open.spotify.com/album/4V1Evh0o7deYLAKbKbuWn3"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 268400,
       "name": "Humbled Heart - Acoustic",
       "url": "https://open.spotify.com/track/6jhF7v0Un40091J17aLKeL"
-    },
-    {
-      "added_at": "2025-10-19 01:12:39",
-      "album": {
-        "name": "Cold Of The Night",
-        "url": "https://open.spotify.com/album/118XTpb5m0rG05GIh2tXhV"
-      },
-      "artists": [
-        {
-          "name": "Ivan Castro",
-          "url": "https://open.spotify.com/artist/4HElG82P9GRSfQhqs1mt14"
-        }
-      ],
-      "duration_ms": 223858,
-      "name": "Cold Of The Night",
-      "url": "https://open.spotify.com/track/1hVu0KC031qLlIn8UPsDe7"
     },
     {
       "added_at": "2025-10-19 01:12:39",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-10-19 01:12:39",
       "album": {
-        "name": "His World",
-        "url": "https://open.spotify.com/album/0uenSlwqsbQEN4QqDN4qvq"
-      },
-      "artists": [
-        {
-          "name": "Allie Paige",
-          "url": "https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl"
-        }
-      ],
-      "duration_ms": 267282,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/0pNTmhJMiheKKVjaOTwxbC"
-    },
-    {
-      "added_at": "2025-10-19 01:12:39",
-      "album": {
         "name": "EVERY DAY",
         "url": "https://open.spotify.com/album/1pYohVyJ0mDkI4O6ZO8qh9"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 224100,
       "name": "EVERY DAY",
       "url": "https://open.spotify.com/track/6RUJTGKm7wEnkydR7EKcsW"
+    },
+    {
+      "added_at": "2025-10-19 01:12:39",
+      "album": {
+        "name": "His World",
+        "url": "https://open.spotify.com/album/0uenSlwqsbQEN4QqDN4qvq"
+      },
+      "artists": [
+        {
+          "name": "Allie Paige",
+          "url": "https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl"
+        }
+      ],
+      "duration_ms": 267282,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/0pNTmhJMiheKKVjaOTwxbC"
     },
     {
       "added_at": "2025-10-19 01:12:39",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-10-19 01:12:39",
       "album": {
-        "name": "Sweet By and By Goodbye",
-        "url": "https://open.spotify.com/album/06pncKDqZNMavL2ioZnUvD"
-      },
-      "artists": [
-        {
-          "name": "Hunter Plake",
-          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
-        }
-      ],
-      "duration_ms": 219955,
-      "name": "Sweet By and By Goodbye",
-      "url": "https://open.spotify.com/track/0irrlnGXcPM3waVKaX1jI1"
-    },
-    {
-      "added_at": "2025-10-19 01:12:39",
-      "album": {
         "name": "Still There's Something",
         "url": "https://open.spotify.com/album/4d4EkrXfLUpuQMviLTdNXV"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 218382,
       "name": "Still There's Something",
       "url": "https://open.spotify.com/track/7J7EFGoV9XA0LDni9IDSPP"
+    },
+    {
+      "added_at": "2025-10-19 01:12:39",
+      "album": {
+        "name": "Sweet By and By Goodbye",
+        "url": "https://open.spotify.com/album/06pncKDqZNMavL2ioZnUvD"
+      },
+      "artists": [
+        {
+          "name": "Hunter Plake",
+          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
+        }
+      ],
+      "duration_ms": 219955,
+      "name": "Sweet By and By Goodbye",
+      "url": "https://open.spotify.com/track/0irrlnGXcPM3waVKaX1jI1"
     },
     {
       "added_at": "2025-10-19 01:12:39",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2025-10-19 01:12:39",
       "album": {
-        "name": "This Holy Moment",
-        "url": "https://open.spotify.com/album/3topP3w3C25at3bUbkvglb"
-      },
-      "artists": [
-        {
-          "name": "Neal Carpenter",
-          "url": "https://open.spotify.com/artist/2hdb7np5QuW5y5fPG7Dnp8"
-        },
-        {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
-        }
-      ],
-      "duration_ms": 212192,
-      "name": "This Holy Moment",
-      "url": "https://open.spotify.com/track/09V8Qp51fzuGHX5SSHfAQi"
-    },
-    {
-      "added_at": "2025-10-19 01:12:39",
-      "album": {
         "name": "HONEY FROM THE ROCK",
         "url": "https://open.spotify.com/album/1PfgghMzB0dGoB1IKpfCZN"
       },
@@ -1447,22 +1427,6 @@
       "duration_ms": 180843,
       "name": "STEADY",
       "url": "https://open.spotify.com/track/6pBnwzuBSzIN9AaOaop5aa"
-    },
-    {
-      "added_at": "2025-10-19 01:12:39",
-      "album": {
-        "name": "SURVEY: Part 1",
-        "url": "https://open.spotify.com/album/4uZlAuQbVCZr4LN8ZOzyg0"
-      },
-      "artists": [
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        }
-      ],
-      "duration_ms": 350783,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/68JEeLG2HrM2jNakDd6YlK"
     },
     {
       "added_at": "2025-10-19 01:12:39",
@@ -1487,18 +1451,38 @@
     {
       "added_at": "2025-10-19 01:12:39",
       "album": {
-        "name": "Come Thou Fount",
-        "url": "https://open.spotify.com/album/4k0MBOOQG8C58m8YHi2cEU"
+        "name": "This Holy Moment",
+        "url": "https://open.spotify.com/album/3topP3w3C25at3bUbkvglb"
       },
       "artists": [
         {
-          "name": "In the Wild",
-          "url": "https://open.spotify.com/artist/7EkC95lGft8CHbl4zk2hEi"
+          "name": "Neal Carpenter",
+          "url": "https://open.spotify.com/artist/2hdb7np5QuW5y5fPG7Dnp8"
+        },
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
         }
       ],
-      "duration_ms": 284545,
-      "name": "Come Thou Fount",
-      "url": "https://open.spotify.com/track/5Ye14RD5Bk93iQLf2nvSk4"
+      "duration_ms": 212192,
+      "name": "This Holy Moment",
+      "url": "https://open.spotify.com/track/09V8Qp51fzuGHX5SSHfAQi"
+    },
+    {
+      "added_at": "2025-10-19 01:12:39",
+      "album": {
+        "name": "SURVEY: Part 1",
+        "url": "https://open.spotify.com/album/4uZlAuQbVCZr4LN8ZOzyg0"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "duration_ms": 350783,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/68JEeLG2HrM2jNakDd6YlK"
     },
     {
       "added_at": "2025-10-19 01:12:39",
@@ -1515,6 +1499,22 @@
       "duration_ms": 257260,
       "name": "I Trust You",
       "url": "https://open.spotify.com/track/1FAKkyhwJUiKbCQTAn9y9r"
+    },
+    {
+      "added_at": "2025-10-19 01:12:39",
+      "album": {
+        "name": "Come Thou Fount",
+        "url": "https://open.spotify.com/album/4k0MBOOQG8C58m8YHi2cEU"
+      },
+      "artists": [
+        {
+          "name": "In the Wild",
+          "url": "https://open.spotify.com/artist/7EkC95lGft8CHbl4zk2hEi"
+        }
+      ],
+      "duration_ms": 284545,
+      "name": "Come Thou Fount",
+      "url": "https://open.spotify.com/track/5Ye14RD5Bk93iQLf2nvSk4"
     },
     {
       "added_at": "2025-10-19 01:12:39",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-10-19 01:12:39",
       "album": {
-        "name": "It Is Well",
-        "url": "https://open.spotify.com/album/5CaGxfKaxVMznpN5qILHLY"
-      },
-      "artists": [
-        {
-          "name": "Love & The Outcome",
-          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
-        }
-      ],
-      "duration_ms": 200200,
-      "name": "It Is Well",
-      "url": "https://open.spotify.com/track/02YMjQJ2BrKiQT6C0wW11l"
-    },
-    {
-      "added_at": "2025-10-19 01:12:39",
-      "album": {
         "name": "SOMETHING TOLD ME",
         "url": "https://open.spotify.com/album/6ExqkdaKtq0NRU1JSh9gRt"
       },
@@ -1619,6 +1603,22 @@
     {
       "added_at": "2025-10-19 01:12:39",
       "album": {
+        "name": "It Is Well",
+        "url": "https://open.spotify.com/album/5CaGxfKaxVMznpN5qILHLY"
+      },
+      "artists": [
+        {
+          "name": "Love & The Outcome",
+          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
+        }
+      ],
+      "duration_ms": 200200,
+      "name": "It Is Well",
+      "url": "https://open.spotify.com/track/02YMjQJ2BrKiQT6C0wW11l"
+    },
+    {
+      "added_at": "2025-10-19 01:12:39",
+      "album": {
         "name": "The Antidote",
         "url": "https://open.spotify.com/album/1t8xLME4vn0Ev7PtLJ4bL3"
       },
@@ -1631,6 +1631,22 @@
       "duration_ms": 231773,
       "name": "Open My Eyes",
       "url": "https://open.spotify.com/track/6OtT5Foz3yt1uipoxLYuHo"
+    },
+    {
+      "added_at": "2025-10-19 01:12:39",
+      "album": {
+        "name": "Jesus the Vine",
+        "url": "https://open.spotify.com/album/2Hq4Kz9rt7p1UGSPU4lvwR"
+      },
+      "artists": [
+        {
+          "name": "Michael Gabriel Monroe",
+          "url": "https://open.spotify.com/artist/63ox6qPSxB4PsktUu1Qu75"
+        }
+      ],
+      "duration_ms": 270740,
+      "name": "Jesus the Vine",
+      "url": "https://open.spotify.com/track/43iJlRfGPVZrFEahCuw0GR"
     },
     {
       "added_at": "2025-10-19 01:12:39",
@@ -1663,22 +1679,6 @@
       "duration_ms": 201200,
       "name": "Time's Never Wasted on You",
       "url": "https://open.spotify.com/track/4hJO0SG03kyipeeFX6mbRz"
-    },
-    {
-      "added_at": "2025-10-19 01:12:39",
-      "album": {
-        "name": "Jesus the Vine",
-        "url": "https://open.spotify.com/album/2Hq4Kz9rt7p1UGSPU4lvwR"
-      },
-      "artists": [
-        {
-          "name": "Michael Gabriel Monroe",
-          "url": "https://open.spotify.com/artist/63ox6qPSxB4PsktUu1Qu75"
-        }
-      ],
-      "duration_ms": 270740,
-      "name": "Jesus the Vine",
-      "url": "https://open.spotify.com/track/43iJlRfGPVZrFEahCuw0GR"
     },
     {
       "added_at": "2025-10-19 01:12:39",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2025-10-19 01:12:39",
       "album": {
-        "name": "Worth Mine",
-        "url": "https://open.spotify.com/album/4Xq0fqEZGhns3H5MwIMeHk"
-      },
-      "artists": [
-        {
-          "name": "Lydia Bricker",
-          "url": "https://open.spotify.com/artist/77SyO2m1cq9Nua1UuNZzvR"
-        },
-        {
-          "name": "Daniel Robinson",
-          "url": "https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa"
-        }
-      ],
-      "duration_ms": 280054,
-      "name": "Worth Mine",
-      "url": "https://open.spotify.com/track/31Zcf0CbOcZy4Y2LX5pBsU"
-    },
-    {
-      "added_at": "2025-10-19 01:12:39",
-      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/6Vpp6LsUPvDZ1ltewfdijO"
       },
@@ -1787,6 +1767,26 @@
       "duration_ms": 192168,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/5mRoQMgnniTmh9IITXZnwn"
+    },
+    {
+      "added_at": "2025-10-19 01:12:39",
+      "album": {
+        "name": "Worth Mine",
+        "url": "https://open.spotify.com/album/4Xq0fqEZGhns3H5MwIMeHk"
+      },
+      "artists": [
+        {
+          "name": "Lydia Bricker",
+          "url": "https://open.spotify.com/artist/77SyO2m1cq9Nua1UuNZzvR"
+        },
+        {
+          "name": "Daniel Robinson",
+          "url": "https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa"
+        }
+      ],
+      "duration_ms": 280054,
+      "name": "Worth Mine",
+      "url": "https://open.spotify.com/track/31Zcf0CbOcZy4Y2LX5pBsU"
     }
   ],
   "unique_name": "Christian Coffeehouse",

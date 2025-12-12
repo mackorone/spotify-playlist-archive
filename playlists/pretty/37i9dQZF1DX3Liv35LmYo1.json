@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 1834,
+  "num_followers": 1837,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/5DSIVfyY6Ju3uoUJ68Jcck"
-      },
-      "artists": [
-        {
-          "name": "Nice Girl",
-          "url": "https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB"
-        }
-      ],
-      "duration_ms": 270271,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Jewels from the Sun EP",
         "url": "https://open.spotify.com/album/7riixwal2DhHUE4Nt8vkLW"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 290847,
       "name": "The Antidote",
       "url": "https://open.spotify.com/track/4RqeaT3zXAVf6cLAau6O9B"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/5DSIVfyY6Ju3uoUJ68Jcck"
+      },
+      "artists": [
+        {
+          "name": "Nice Girl",
+          "url": "https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB"
+        }
+      ],
+      "duration_ms": 270271,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Basic Instinct",
-        "url": "https://open.spotify.com/album/22xLqkwE6w0lHo7wERFM8q"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 284477,
-      "name": "SFC - Hommage Mix",
-      "url": "https://open.spotify.com/track/7tKPryPVYvvkFFG1T88XXt"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Halcyon (30 Something) [Remixes]",
         "url": "https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 292987,
       "name": "Halcyon & On - Logic1000 Mix",
       "url": "https://open.spotify.com/track/7aXyBkjhsB5sitA3kEINo9"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Basic Instinct",
+        "url": "https://open.spotify.com/album/22xLqkwE6w0lHo7wERFM8q"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 284477,
+      "name": "SFC - Hommage Mix",
+      "url": "https://open.spotify.com/track/7tKPryPVYvvkFFG1T88XXt"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -743,18 +743,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Push Power ( a 1 )",
-        "url": "https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ"
+        "name": "Mercury Remixes",
+        "url": "https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ"
       },
       "artists": [
         {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+          "name": "The Range",
+          "url": "https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD"
+        },
+        {
+          "name": "DJ Python",
+          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
         }
       ],
-      "duration_ms": 249261,
-      "name": "Push Power ( a 1 )",
-      "url": "https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq"
+      "duration_ms": 207304,
+      "name": "Violet - DJ Python Remix",
+      "url": "https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -771,6 +775,22 @@
       "duration_ms": 203493,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/4UKJbtE1rC2LaWm5CFTnfA"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Push Power ( a 1 )",
+        "url": "https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "duration_ms": 249261,
+      "name": "Push Power ( a 1 )",
+      "url": "https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -803,26 +823,6 @@
       "duration_ms": 343384,
       "name": "Corundrum",
       "url": "https://open.spotify.com/track/3RbD9sf6y6QxA4BGMvtXRr"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Mercury Remixes",
-        "url": "https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ"
-      },
-      "artists": [
-        {
-          "name": "The Range",
-          "url": "https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD"
-        },
-        {
-          "name": "DJ Python",
-          "url": "https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl"
-        }
-      ],
-      "duration_ms": 207304,
-      "name": "Violet - DJ Python Remix",
-      "url": "https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI"
     },
     {
       "added_at": "2023-08-31 14:00:00",

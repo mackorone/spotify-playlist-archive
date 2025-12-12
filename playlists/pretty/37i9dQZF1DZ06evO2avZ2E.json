@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAAACZwIQa5oDdP1U+x0AFDCi",
+  "snapshot_id": "aTi4AAAAAACk5anhcc0RYHumXCJYxYB0",
   "tracks": [
     {
       "added_at": null,
@@ -163,26 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tornaluna",
-        "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "DAMALEONA",
-          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
-        }
-      ],
-      "duration_ms": 274653,
-      "name": "Colores",
-      "url": "https://open.spotify.com/track/1cXxVEx9k0qQABuYA0MmAU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DUALIDAD",
         "url": "https://open.spotify.com/album/1vR1AMrmkMaD9oDzflWAGl"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 201499,
       "name": "DUALIDAD - feat. Esteman",
       "url": "https://open.spotify.com/track/7xo6WF4Q2eY3qZ542FfsKg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tornaluna",
+        "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "DAMALEONA",
+          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
+        }
+      ],
+      "duration_ms": 274653,
+      "name": "Colores",
+      "url": "https://open.spotify.com/track/1cXxVEx9k0qQABuYA0MmAU"
     },
     {
       "added_at": null,
@@ -243,26 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tornaluna",
-        "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "DAMALEONA",
-          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Solegrande",
-      "url": "https://open.spotify.com/track/1ucbZ6xHcfJEpZXecucLfx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DAMALEONA",
         "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 158249,
       "name": "OPUESTOS",
       "url": "https://open.spotify.com/track/1JrMzp8dK5VhGpfuQboqnh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tornaluna",
+        "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "DAMALEONA",
+          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Solegrande",
+      "url": "https://open.spotify.com/track/1ucbZ6xHcfJEpZXecucLfx"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Eterno",
-        "url": "https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 328018,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JUAN PABLO VEGA",
         "url": "https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 222598,
       "name": "Dejarnos Ir",
       "url": "https://open.spotify.com/track/1RtxRTF1LfRphqcH0UDvZt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 328018,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/2HWjTmWTuBP7UNbM4xEifo"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
         }
       ],
-      "duration_ms": 205576,
-      "name": "CONTRACORRIENTE",
-      "url": "https://open.spotify.com/track/1hxyGrsOZYyJM2NvwtDDIE"
+      "duration_ms": 158492,
+      "name": "SUBCONSCIENTE",
+      "url": "https://open.spotify.com/track/19RUZ3VZgMmWDi3JGz8PlZ"
     },
     {
       "added_at": null,
@@ -495,6 +495,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Muchacho De Los Ojos Tristes",
+        "url": "https://open.spotify.com/album/3P2c9Akr55Z2L6BBKN5zZ8"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 265017,
+      "name": "El Muchacho De Los Ojos Tristes",
+      "url": "https://open.spotify.com/track/2xylHY11vfS4dxGmQC7J3i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAMALEONA",
+        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        },
+        {
+          "name": "DAMALEONA",
+          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
+        }
+      ],
+      "duration_ms": 228367,
+      "name": "NADA",
+      "url": "https://open.spotify.com/track/0zK5RRApYNkOtNqkVohwEu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GRAVEDAD",
         "url": "https://open.spotify.com/album/2yV4CHrPLbeYTB9U0jbrOB"
       },
@@ -515,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAMALEONA",
-        "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
+        "name": "OPTEMOS",
+        "url": "https://open.spotify.com/album/4lx2E70Ba3zqrWgNph9FbR"
       },
       "artists": [
         {
@@ -524,29 +560,13 @@
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         },
         {
-          "name": "DAMALEONA",
-          "url": "https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 158492,
-      "name": "SUBCONSCIENTE",
-      "url": "https://open.spotify.com/track/19RUZ3VZgMmWDi3JGz8PlZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Muchacho De Los Ojos Tristes",
-        "url": "https://open.spotify.com/album/3P2c9Akr55Z2L6BBKN5zZ8"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 265017,
-      "name": "El Muchacho De Los Ojos Tristes",
-      "url": "https://open.spotify.com/track/2xylHY11vfS4dxGmQC7J3i"
+      "duration_ms": 178500,
+      "name": "OPTEMOS",
+      "url": "https://open.spotify.com/track/1HIYdD0rhwRZUKMY93BzlR"
     },
     {
       "added_at": null,
@@ -567,26 +587,6 @@
       "duration_ms": 219449,
       "name": "Hbls Mucho",
       "url": "https://open.spotify.com/track/5bR2TZ4Umy1W5ItjCT0GYf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OPTEMOS",
-        "url": "https://open.spotify.com/album/4lx2E70Ba3zqrWgNph9FbR"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "OPTEMOS",
-      "url": "https://open.spotify.com/track/1HIYdD0rhwRZUKMY93BzlR"
     },
     {
       "added_at": null,
@@ -620,9 +620,25 @@
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 94000,
-      "name": "lilia",
-      "url": "https://open.spotify.com/track/4kJYQdHsUomKEXFuT0Vyfj"
+      "duration_ms": 230921,
+      "name": "beso",
+      "url": "https://open.spotify.com/track/2yfPXsp4mdT8C92n1v60sA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mundo Puede Esperar",
+        "url": "https://open.spotify.com/album/099chjJsmLQM4YqTNuaE9Y"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "El Mundo Puede Esperar",
+      "url": "https://open.spotify.com/track/6uzI8rhOIY8Aifbmq5WyZI"
     },
     {
       "added_at": null,
@@ -643,22 +659,6 @@
       "duration_ms": 233656,
       "name": "Al Fondo de M\u00ed",
       "url": "https://open.spotify.com/track/2t22iahk3SWvR3GU9oquRI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mundo Puede Esperar",
-        "url": "https://open.spotify.com/album/099chjJsmLQM4YqTNuaE9Y"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 161142,
-      "name": "El Mundo Puede Esperar",
-      "url": "https://open.spotify.com/track/6uzI8rhOIY8Aifbmq5WyZI"
     },
     {
       "added_at": null,
@@ -704,25 +704,9 @@
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 90875,
-      "name": "caballos",
-      "url": "https://open.spotify.com/track/4nB5jUpHTAsUb3JTQWffTx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live At Claustro de Sor Juana \u2014 Mexico City (Live Acoustic)",
-        "url": "https://open.spotify.com/album/7x4dshpPcTtYuEPJF2iRLN"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 239082,
-      "name": "Nada Se Perdi\u00f3 - Live Acoustic",
-      "url": "https://open.spotify.com/track/2INVWQtIkJ2099o9qJOMgU"
+      "duration_ms": 94000,
+      "name": "lilia",
+      "url": "https://open.spotify.com/track/4kJYQdHsUomKEXFuT0Vyfj"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
       "duration_ms": 205320,
       "name": "Este Final",
       "url": "https://open.spotify.com/track/2jGPNQE4SHfJN4hS9U06g4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live At Claustro de Sor Juana \u2014 Mexico City (Live Acoustic)",
+        "url": "https://open.spotify.com/album/7x4dshpPcTtYuEPJF2iRLN"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 239082,
+      "name": "Nada Se Perdi\u00f3 - Live Acoustic",
+      "url": "https://open.spotify.com/track/2INVWQtIkJ2099o9qJOMgU"
     },
     {
       "added_at": null,
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 230921,
-      "name": "beso",
-      "url": "https://open.spotify.com/track/2yfPXsp4mdT8C92n1v60sA"
+      "duration_ms": 90875,
+      "name": "caballos",
+      "url": "https://open.spotify.com/track/4nB5jUpHTAsUb3JTQWffTx"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta la Fantas\u00eda",
-        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 188687,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/6PGLPvCkSt4RIFVPd4HZ61"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Volver a Comenzar",
         "url": "https://open.spotify.com/album/03RbdxiAdZEVBelOjPKZJp"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hasta la Fantas\u00eda",
+        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 188687,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/6PGLPvCkSt4RIFVPd4HZ61"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "m\u00fasica para una pel\u00edcula que no existe",
         "url": "https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd"
       },
@@ -851,26 +851,6 @@
       "duration_ms": 94000,
       "name": "presente",
       "url": "https://open.spotify.com/track/619ZqPO66ar2Eqfuo5Sy8F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memento",
-        "url": "https://open.spotify.com/album/1cPTdgytERhvbR8eQYyjUT"
-      },
-      "artists": [
-        {
-          "name": "Jona Camacho",
-          "url": "https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 130021,
-      "name": "Te Choca Te Checa",
-      "url": "https://open.spotify.com/track/2GaivpfWlIkneFGII8xwXA"
     },
     {
       "added_at": null,
@@ -891,6 +871,26 @@
       "duration_ms": 269601,
       "name": "Fluir",
       "url": "https://open.spotify.com/track/5ukDCQhC0fruXukPKRiXJm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memento",
+        "url": "https://open.spotify.com/album/1cPTdgytERhvbR8eQYyjUT"
+      },
+      "artists": [
+        {
+          "name": "Jona Camacho",
+          "url": "https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 130021,
+      "name": "Te Choca Te Checa",
+      "url": "https://open.spotify.com/track/2GaivpfWlIkneFGII8xwXA"
     }
   ],
   "unique_name": "This Is Vanessa Zamora",

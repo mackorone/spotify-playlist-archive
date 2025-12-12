@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXarsGtGJHPf.md) - [plain]
 
 > Enjoy the iconic K\-OSTs with the music videos! \(Cover: Dynamite Kiss\(키스는 괜히 해서\)\) \(K\-OST를 뮤직비디오와 함께 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,036 likes - 29 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,056 likes - 29 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

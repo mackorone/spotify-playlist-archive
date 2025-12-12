@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 10 Dec 19:05 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 12 Dec 04:05 UTC.
 
-5,921 songs - 13 day 17 hr 7 min
+5,923 songs - 13 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,7 +576,7 @@
 | [Big Black X](https://open.spotify.com/track/3RsXpoUjM75M2tsiunmqMQ) | [X](https://open.spotify.com/artist/54NqjhP2rT524Mi2GicG4K) | [Big Black X](https://open.spotify.com/album/7gD1uFkXuGufNdq34F5Pa0) | 3:34 | 2024-06-25 | 2024-06-27 |
 | [Big Cat Tattoos](https://open.spotify.com/track/4bra2iYM2um2eYNZUHXFiV) | [Hamish Hawk](https://open.spotify.com/artist/3t3q007skKvwNaodwZx8W8) | [Big Cat Tattoos](https://open.spotify.com/album/14jGpYUFZ5lNXoJKVdhbOU) | 3:11 | 2024-05-01 | 2024-05-03 |
 | [big change](https://open.spotify.com/track/0s4xPjltG2hQhNMqNwRUlx) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [neil young and the chrome hearts](https://open.spotify.com/artist/35S7T09aV4E9CC0R2RgTXK) | [big change](https://open.spotify.com/album/486zPFFGXeujkL6xSZxyCW) | 2:54 | 2025-01-18 | 2025-01-29 |
-| [BIG DAWG](https://open.spotify.com/track/3APjki9rRNZylV6BVS6eFW) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [BIG DAWG](https://open.spotify.com/album/14sACuYrMkEA5TkVzywadZ) | 2:06 | 2025-11-23 |  |
+| [BIG DAWG](https://open.spotify.com/track/3APjki9rRNZylV6BVS6eFW) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [BIG DAWG](https://open.spotify.com/album/14sACuYrMkEA5TkVzywadZ) | 2:06 | 2025-11-23 | 2025-12-12 |
 | [BIG DICK RANDY RETURNS](https://open.spotify.com/track/1rZyPfonHPZRqUnrqtNZQd) | [DigBar](https://open.spotify.com/artist/3Kb7e8b1tSd7TLa3cy7HUV) | [BIG DICK RANDY RETURNS](https://open.spotify.com/album/6JPNGYQ33Mp0WHGmcyhS1S) | 3:19 | 2024-10-19 | 2024-10-22 |
 | [Big Dipper](https://open.spotify.com/track/5w1j6wa1DfBxfirOe4Lk0G) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [Big Dipper](https://open.spotify.com/album/1dq3GRvrZHKFFqAtKRhsQK) | 4:07 | 2024-05-06 | 2024-05-09 |
 | [Big Dreams](https://open.spotify.com/track/38DrpIqI2cHZCHSYFlJvCX) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Big Dreams](https://open.spotify.com/album/3HkT9SYWloaCuTJ9QRPrj5) | 3:11 | 2024-09-25 | 2024-09-28 |
@@ -2248,6 +2248,7 @@
 | [Heatstroke](https://open.spotify.com/track/1Bs8WpjQ8s2QE9jgh27fUB) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Heatstroke](https://open.spotify.com/album/0K1FyZLvPpqJPofQukKbhL) | 3:54 | 2024-08-01 | 2024-08-03 |
 | [Heaven](https://open.spotify.com/track/5JcTFymotnR2xQUe4nZuQn) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [First December with You](https://open.spotify.com/album/0D6qtfGRCa4IrVhmXDG4WP) | 2:35 | 2024-12-03 | 2024-12-06 |
 | [Heaven Feels Like](https://open.spotify.com/track/0nSxiyRH74IpDiVdYLVjsv) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Heaven Feels Like](https://open.spotify.com/album/6b9FZARXpkujci1C3uzozn) | 3:23 | 2024-11-08 | 2024-11-13 |
+| [Heaven Has No Wings](https://open.spotify.com/track/3hhotiMXyPZRyTGmJ5X403) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Heaven Has No Wings](https://open.spotify.com/album/0uxbyR5DZkpOTSHqgq6p7C) | 2:50 | 2025-12-11 |  |
 | [Heaven Has To Happen](https://open.spotify.com/track/4yYLuj2ePdDTkCvmXB6E8y) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Heaven Has To Happen / The Opener](https://open.spotify.com/album/3F0abiQJAThM8Y6csoOMrC) | 3:29 | 2024-08-21 | 2024-08-24 |
 | [Heaven II](https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Heaven II](https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ) | 2:27 | 2024-11-08 | 2024-11-14 |
 | [Heaven In Your Arms](https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Heaven In Your Arms](https://open.spotify.com/album/6fKXXD48aSKEBID5hwaQ8n) | 4:08 | 2024-11-11 | 2024-11-26 |
@@ -2943,6 +2944,7 @@
 | [Lesbians <3](https://open.spotify.com/track/6qNarhsEYw4h8GKvtU33lY) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Lesbians <3](https://open.spotify.com/album/4Q0AyfIv7BZjnGt2unFeY9) | 2:06 | 2024-06-07 | 2024-06-11 |
 | [Let Go](https://open.spotify.com/track/4UibdhxqKDVdz2p0PBb3a8) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Let Go](https://open.spotify.com/album/3pDByXRSkFfZGmMDsvnRPV) | 3:52 | 2025-01-28 | 2025-02-03 |
 | [Let It Rain](https://open.spotify.com/track/11zgphiq5vlwjis2uFi271) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Let It Rain](https://open.spotify.com/album/274sh16x8L1VQQZvTeTJzC) | 3:29 | 2024-08-22 | 2024-08-24 |
+| [Let Me Grow and You'll See the Fruit](https://open.spotify.com/track/5SsRe29Ua89yh6vVJHJC6x) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Let Me Grow and You'll See the Fruit](https://open.spotify.com/album/24Ux2vjaotkgNhZvpn29Kk) | 3:09 | 2025-12-12 |  |
 | [LET ME IN](https://open.spotify.com/track/3BH1bCV8rKSRLRtXr7B7CT) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [LET ME IN](https://open.spotify.com/album/1K5HbKJKASHAqunUFc8A2J) | 1:47 | 2024-09-27 | 2024-10-02 |
 | [Let Me Love You](https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Let Me Love You](https://open.spotify.com/album/64iyyuuiiPT2DtwRo4mNG8) | 3:32 | 2025-08-23 | 2025-09-05 |
 | [Let Me Sleep](https://open.spotify.com/track/5kBPE6xOdCQ3QkPUIzKGlT) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Let Me Sleep](https://open.spotify.com/album/5l00NBOKGWZAghjNDq1MVF) | 2:39 | 2025-10-24 | 2025-11-01 |
@@ -4354,7 +4356,7 @@
 | [Save Me](https://open.spotify.com/track/0Rt3LyjjLDpq4nDSG6OTje) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Save Me](https://open.spotify.com/album/3yCGRA8IuVkeH0JcMIUdQa) | 1:57 | 2024-12-20 | 2024-12-22 |
 | [Save me](https://open.spotify.com/track/42i24oTxRFR53ezroofUtx) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Open ♭eta v6.3](https://open.spotify.com/album/1B3ay1aC4cfdeGWM7gtRmq) | 3:40 | 2024-08-05 | 2024-08-08 |
 | [Save me now](https://open.spotify.com/track/2LmbUvytNsuPZLG0clEcah) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Save me now](https://open.spotify.com/album/7GaqxJpgadYFnuUFpqBPr6) | 3:01 | 2025-06-06 | 2025-06-18 |
-| [SAVE MY SOUL](https://open.spotify.com/track/0gF5UuEPNvpdDAY0BItOzv) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [SAVE MY SOUL](https://open.spotify.com/album/1tSRIsR2Y8dQ63QNFQnCSU) | 3:57 | 2025-11-22 |  |
+| [SAVE MY SOUL](https://open.spotify.com/track/0gF5UuEPNvpdDAY0BItOzv) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [SAVE MY SOUL](https://open.spotify.com/album/1tSRIsR2Y8dQ63QNFQnCSU) | 3:57 | 2025-11-22 | 2025-12-12 |
 | [Save The Cat](https://open.spotify.com/track/0L0DVRuUZ0lJIyq8oNQtF9) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Save The Cat](https://open.spotify.com/album/3lF11dYBA2aml6FwhXBh5k) | 2:52 | 2025-05-27 | 2025-06-05 |
 | [Save Us](https://open.spotify.com/track/5oM4P7PDvNQgJZYTni9b3B) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Save Us](https://open.spotify.com/album/4Bu1lKK7gpHfQJcTQnqXCc) | 3:12 | 2024-10-18 | 2024-10-21 |
 | [Save Yourself](https://open.spotify.com/track/37pvFua1WWa0a8eLHLgWKj) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Save Yourself](https://open.spotify.com/album/63Gr3hrE9VPcWJa7lRaUrT) | 3:14 | 2024-06-11 | 2024-06-13 |

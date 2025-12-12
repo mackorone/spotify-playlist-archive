@@ -2,9 +2,9 @@
 
 ### [Rock The World](https://open.spotify.com/playlist/37i9dQZF1DWYXBm3qy96SP)
 
-> 世界中のロックシーンを彩る話題曲をチェック。Cover:Thomas Raggi
+> 世界中のロックシーンを彩る話題曲をチェック。Cover: Silica Gel
 
-1,771 songs - 4 day 6 hr 24 min
+1,772 songs - 4 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 | 2023-08-03 | 2023-08-18 |
 | [Big Pink Bubble](https://open.spotify.com/track/4I43vEkyuNfH2pNKGOjM8i) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Big Pink Bubble](https://open.spotify.com/album/3b1GcZJ9SCyzJY5sU26ABW) | 1:57 | 2025-03-20 | 2025-04-04 |
 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-04-25 | 2024-06-21 |
+| [BIG VOID](https://open.spotify.com/track/1TpkuGrFjVAooL2fbCJ0i8) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [BIG VOID](https://open.spotify.com/album/1C9Woc2ay1qbA316hZgwjL) | 3:41 | 2025-12-11 |  |
 | [Big Youth \(feat\. El\-P\)](https://open.spotify.com/track/7FssY58XwtD4CRhOT9N8Md) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl) | [Goodnight, God Bless, I Love U, Delete.](https://open.spotify.com/album/3omXFuNbc0B6MlCm5Nf5Xn) | 3:03 | 2023-10-12 | 2023-10-20 |
 | [BIGLOVE](https://open.spotify.com/track/5q5DpwaeE6qAv1TyF0D5D8) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [BIGLOVE](https://open.spotify.com/album/30vJnOO8ywQhgOUyTjX5GJ) | 2:50 | 2023-11-02 | 2023-11-10 |
 | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/album/7FwHGe6SjBkHNiYjBIhD9q) | 4:05 | 2025-02-06 | 2025-06-13 |
@@ -994,7 +995,7 @@
 | [Monsters \(feat\. Aaron Gillespie of Underoath\)](https://open.spotify.com/track/26bgULl57xDw3Pska642zL) | [Magic Whatever](https://open.spotify.com/artist/1m02BQX2BPiqVzbaxBueXT), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Monsters \(feat\. Aaron Gillespie of Underoath\)](https://open.spotify.com/album/6U38G1MIHJteOtidVTLSJ2) | 3:18 | 2023-07-06 | 2023-07-14 |
 | [Mood Ring](https://open.spotify.com/track/4ZwV2vVR5vUEOKHQwFJe8T) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Mood Ring](https://open.spotify.com/album/3BGIgBfPKUzYD1eIY4qpPS) | 2:57 | 2024-02-01 | 2024-02-09 |
 | [Mood Swings \- Spotify Singles](https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Spotify Singles](https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn) | 2:33 | 2024-06-20 | 2024-07-27 |
-| [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 | 2025-05-08 |  |
+| [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 | 2025-05-08 | 2025-12-12 |
 | [Moon Chasers](https://open.spotify.com/track/5FQSHEXB1gJj1CAjHlbC28) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Melanin Punk](https://open.spotify.com/album/0l0pfg7fOxU9YHQkHhXTTD) | 3:23 | 2023-10-19 | 2023-10-27 |
 | [More the Victim](https://open.spotify.com/track/50jyxHSIHAz7N5jIzODvs4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 2:41 | 2023-04-06 | 2024-02-09 |
 | [Motel Way of Life](https://open.spotify.com/track/3hqNVh2HrQyX0j9FsjSQX9) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Motel Way of Life](https://open.spotify.com/album/4TqCIDinCXhpoDuDKI5ENg) | 2:51 | 2023-12-14 | 2023-12-22 |

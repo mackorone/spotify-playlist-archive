@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Pressa
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,312 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,325 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 40 | [On One](https://open.spotify.com/track/1QoFBYLoqYvz8bi0RH0gPJ) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [On One](https://open.spotify.com/album/6Blk2k6gSEvDeO7FsJTbdU) | 3:32 |
 | 41 | [Runnin](https://open.spotify.com/track/5nOnkyjbiIfAyUvBSJv6LG) | [THE Chmst](https://open.spotify.com/artist/7H1HgfrNn9jIqKJUGgQukG), [Tamir](https://open.spotify.com/artist/6IiMfiwSN3v4x3lVuxC6kH), [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Runnin](https://open.spotify.com/album/5vHnvp5Gb7nnk5fBOxyFTE) | 3:24 |
 | 42 | [Jungle](https://open.spotify.com/track/4BoQRBPflZB5WhzYWE6SpJ) | [Bijaan](https://open.spotify.com/artist/3jntXP4RXJ0mHrFW3AC3KY), [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl) | [Jungle](https://open.spotify.com/album/7L7fa1tIVgrGC0kqnNkZrb) | 2:27 |
-| 43 | [Stuck](https://open.spotify.com/track/15LTmymmcVAMfCyDxlrO4R) | [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO), [Eliezer](https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y), [Treybans](https://open.spotify.com/artist/25FxFkc9APQ61pv0d8TvK5), [2kMajik](https://open.spotify.com/artist/6rTnWu0H9lUJcxxjZFhZ7v), [TAALiB](https://open.spotify.com/artist/2zafgbU0TJjrwiOWmoQztd) | [Stuck](https://open.spotify.com/album/2RoV3dJJZzYgEPpXCqqr3U) | 3:27 |
+| 43 | [Stuck](https://open.spotify.com/track/15LTmymmcVAMfCyDxlrO4R) | [Jon Kabongo](https://open.spotify.com/artist/5TV0Pt6R4nYsaPhlbgLJeO), [2kMajik](https://open.spotify.com/artist/6rTnWu0H9lUJcxxjZFhZ7v), [Eliezer](https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y), [Treybans](https://open.spotify.com/artist/25FxFkc9APQ61pv0d8TvK5), [TAALiB](https://open.spotify.com/artist/2zafgbU0TJjrwiOWmoQztd) | [Stuck](https://open.spotify.com/album/2RoV3dJJZzYgEPpXCqqr3U) | 3:27 |
 | 44 | [CHESS](https://open.spotify.com/track/0CYab6dZ24lO4fNgcBK6W1) | [APB](https://open.spotify.com/artist/3vUy9wmklGDZ5r2sEPk7N8) | [None of This Is Real, Vol\. 1](https://open.spotify.com/album/7E7ml2je8z5EaKOFnzlkid) | 2:22 |
 | 45 | [Catering](https://open.spotify.com/track/6rDmv654fvfvBK10sUmla8) | [Kwazii](https://open.spotify.com/artist/6pL2YwV6bUmB8wxbfkvUoa) | [Catering](https://open.spotify.com/album/75NufLWILVEQk7IzQmnA8i) | 2:11 |
 | 46 | [BAD NEWS](https://open.spotify.com/track/244kRH5kkHzpd2Z0jm7BqU) | [Daniel Son](https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF), [MANZU BEATZ](https://open.spotify.com/artist/76HpKeRda5JouOqgIkmjSz), [New Villain](https://open.spotify.com/artist/40besloKy8FwnTH3jR039K) | [BAD NEWS](https://open.spotify.com/album/5rFGxobkRkfpQiIAEy7ES1) | 3:03 |

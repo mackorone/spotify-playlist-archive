@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-18",
-  "description": "Keep your finger on the pulse of pop. Cover: Jack Gray",
+  "description": "Keep your finger on the pulse of pop. Cover: Holly Hebe, Chloe Parch\u00e9",
   "name": "Pop n' Fresh",
   "tracks": [
     {
@@ -1777,6 +1777,24 @@
     },
     {
       "album": {
+        "name": "Always Been You",
+        "url": "https://open.spotify.com/album/1Z0aEovLpQHjeDUovtw0li"
+      },
+      "artists": [
+        {
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181022,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/4ilbhTOfIZfNmjRg8zkODW"
+    },
+    {
+      "album": {
         "name": "Always you",
         "url": "https://open.spotify.com/album/0emFx6RlmlWILRP3RoI1Hi"
       },
@@ -2164,7 +2182,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 167183,
       "name": "APPETITE",
       "url": "https://open.spotify.com/track/4003cQbVoKzBuMgfUFXVsH"
@@ -4152,10 +4170,28 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 202795,
       "name": "bittersweet",
       "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
+    },
+    {
+      "album": {
+        "name": "Bittersweet Dreams",
+        "url": "https://open.spotify.com/album/5N9MpRWyNpeUixAVZZomYd"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167440,
+      "name": "Bittersweet Dreams",
+      "url": "https://open.spotify.com/track/6ipw1z69D9e5QZqx6zeKlz"
     },
     {
       "album": {
@@ -7331,6 +7367,24 @@
     },
     {
       "album": {
+        "name": "COMPASS",
+        "url": "https://open.spotify.com/album/1lJt7C7eHagAriSFVvZMGH"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166461,
+      "name": "COMPASS",
+      "url": "https://open.spotify.com/track/6PtvYwIwjxzdiGp75CpSEq"
+    },
+    {
+      "album": {
         "name": "Sore Loser",
         "url": "https://open.spotify.com/album/7LZ0oHPjqp0X572T49ArR6"
       },
@@ -8584,7 +8638,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 262533,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/5Z5ZclhsY2GxlaWbBMPkbP"
@@ -17827,6 +17881,28 @@
     },
     {
       "album": {
+        "name": "Hot!",
+        "url": "https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0"
+      },
+      "artists": [
+        {
+          "name": "Chloe Parch\u00e9",
+          "url": "https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov"
+        },
+        {
+          "name": "Holly Hebe",
+          "url": "https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165230,
+      "name": "Hot!",
+      "url": "https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh"
+    },
+    {
+      "album": {
         "name": "HOTBOX",
         "url": "https://open.spotify.com/album/3dXTiG15LrfpSmQUP0au5g"
       },
@@ -18310,7 +18386,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 164303,
       "name": "Hush Baby, Hurry Slowly",
       "url": "https://open.spotify.com/track/20fkA1ahV9WxHTt03calHi"
@@ -18638,7 +18714,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 178131,
       "name": "I Don't Speak French",
       "url": "https://open.spotify.com/track/42LMd0m0zj6DPaKFramUMS"
@@ -20074,7 +20150,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 179310,
       "name": "In The Dark (with Stray Kids)",
       "url": "https://open.spotify.com/track/3JOQqT93lt9TXfhbqAjA7c"
@@ -21541,6 +21617,24 @@
     },
     {
       "album": {
+        "name": "KISS ME",
+        "url": "https://open.spotify.com/album/17kOTawNON2BERiDHgPKjQ"
+      },
+      "artists": [
+        {
+          "name": "Eddie Benjamin",
+          "url": "https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188828,
+      "name": "KISS ME",
+      "url": "https://open.spotify.com/track/67zPoqrv7I49qHaMs0eYgz"
+    },
+    {
+      "album": {
         "name": "Kiss Me Like You're Leaving",
         "url": "https://open.spotify.com/album/4kStSM0UKjniVUclhDnieM"
       },
@@ -21758,6 +21852,24 @@
       "duration_ms": 182224,
       "name": "LALALALA",
       "url": "https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84"
+    },
+    {
+      "album": {
+        "name": "Landline",
+        "url": "https://open.spotify.com/album/1aQLV1BGKv2ON3PhvKNnCR"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184174,
+      "name": "Landline",
+      "url": "https://open.spotify.com/track/6ZYd325kD9ACM0gUyZnbvL"
     },
     {
       "album": {
@@ -22310,7 +22422,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 183247,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/7uT7mlYS0R3Ujk5UB5ll0O"
@@ -23358,7 +23470,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 176544,
       "name": "LOVE AGAIN",
       "url": "https://open.spotify.com/track/2VLwPqWsKHp28IVV6DubgY"
@@ -23380,6 +23492,24 @@
       "duration_ms": 192078,
       "name": "Love At First Fight",
       "url": "https://open.spotify.com/track/4mSrpsvyDlfDOLjmDX71VE"
+    },
+    {
+      "album": {
+        "name": "Love Can Grow",
+        "url": "https://open.spotify.com/album/5iVTqjz6O8WR33Xe9MkXWk"
+      },
+      "artists": [
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193889,
+      "name": "Love Can Grow",
+      "url": "https://open.spotify.com/track/6uXE1eYTnvxngLUfmuRNsu"
     },
     {
       "album": {
@@ -28991,6 +29121,24 @@
     },
     {
       "album": {
+        "name": "paris",
+        "url": "https://open.spotify.com/album/44TRf5BwzIT1ikeOJ1EeU2"
+      },
+      "artists": [
+        {
+          "name": "Frankie Venter",
+          "url": "https://open.spotify.com/artist/4OpEtCxKCkuq7XqJ18zVYn"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170102,
+      "name": "paris",
+      "url": "https://open.spotify.com/track/04ank3wbTXUYiSvZnvG6ez"
+    },
+    {
+      "album": {
         "name": "paris (to get you out my head)",
         "url": "https://open.spotify.com/album/6iZupBE68Jqu7notlxehVg"
       },
@@ -32079,6 +32227,24 @@
     },
     {
       "album": {
+        "name": "Seaside Wishes",
+        "url": "https://open.spotify.com/album/0r5rLJUXTS9eqUVC7zLDRP"
+      },
+      "artists": [
+        {
+          "name": "MACEY",
+          "url": "https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250942,
+      "name": "Seaside Wishes",
+      "url": "https://open.spotify.com/track/4ZHCusRKnhc9LpON8xegES"
+    },
+    {
+      "album": {
         "name": "The Garden",
         "url": "https://open.spotify.com/album/3PGsOrW90ABHRIuv4zG9la"
       },
@@ -32300,7 +32466,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 144503,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/1o9SqqngbzFtUS9Mf372D2"
@@ -35978,7 +36144,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 182019,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/4Qa8mbZYA24jNGI5vkjob5"
@@ -38038,7 +38204,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 196733,
       "name": "the villain (feat. Wells*)",
       "url": "https://open.spotify.com/track/4NhRjtSyuTO0yTiVhkaB6z"
@@ -40414,7 +40580,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 165866,
       "name": "Unlucky In Love",
       "url": "https://open.spotify.com/track/112ENQResiqkaMTLspSGeB"
@@ -41551,6 +41717,24 @@
     },
     {
       "album": {
+        "name": "We Made It",
+        "url": "https://open.spotify.com/album/3Ij9b0skXn9qYoKweWJPqG"
+      },
+      "artists": [
+        {
+          "name": "SIX60",
+          "url": "https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164070,
+      "name": "We Made It",
+      "url": "https://open.spotify.com/track/1ljnuLllU6fI3aGFUPG6TJ"
+    },
+    {
+      "album": {
         "name": "WE PRAY",
         "url": "https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK"
       },
@@ -42050,7 +42234,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 203818,
       "name": "what's good",
       "url": "https://open.spotify.com/track/2Och0jgZ6Q3z8ocCP0PC6P"
@@ -42152,6 +42336,24 @@
       "duration_ms": 148140,
       "name": "WHATEVERWHATEVER",
       "url": "https://open.spotify.com/track/5HiyqL9aXOxGn0ORd6ua13"
+    },
+    {
+      "album": {
+        "name": "When I Can't Speak",
+        "url": "https://open.spotify.com/album/22JW8GYG7uW8ok1W3L8Q0f"
+      },
+      "artists": [
+        {
+          "name": "Jess Josie Lee",
+          "url": "https://open.spotify.com/artist/7yyRoG7q9ljvxCMy7CScuz"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "When I Can't Speak",
+      "url": "https://open.spotify.com/track/0N8VA9KCl48txU1kHNGtKv"
     },
     {
       "album": {
@@ -42362,6 +42564,24 @@
       "duration_ms": 181498,
       "name": "Where Did The Time Go",
       "url": "https://open.spotify.com/track/0fRBkgTHiTqWc195ynPBTI"
+    },
+    {
+      "album": {
+        "name": "where do we go",
+        "url": "https://open.spotify.com/album/6Sy9p80ekgV79Cqx6Sd6EK"
+      },
+      "artists": [
+        {
+          "name": "kenzie",
+          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184440,
+      "name": "where do we go",
+      "url": "https://open.spotify.com/track/7zLQyh6BZNFqyDs1yoC1Iw"
     },
     {
       "album": {

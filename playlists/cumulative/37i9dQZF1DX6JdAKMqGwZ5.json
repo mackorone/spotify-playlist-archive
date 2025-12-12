@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Maria Arnal.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Hofe.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -644,7 +644,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 165000,
       "name": "AMA",
       "url": "https://open.spotify.com/track/4XLmxYf9CBl9ErHFwClASQ"
@@ -1236,6 +1236,24 @@
       "duration_ms": 203314,
       "name": "Bienestares Malestares",
       "url": "https://open.spotify.com/track/29FmBh8j5mWNIFc8NJVwTK"
+    },
+    {
+      "album": {
+        "name": "Big, Big Love",
+        "url": "https://open.spotify.com/album/0BrIDbdgrRCdG60BSDjgU2"
+      },
+      "artists": [
+        {
+          "name": "mori",
+          "url": "https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183226,
+      "name": "Big, Big Love",
+      "url": "https://open.spotify.com/track/63Ggi4XZrlY02rFSMAHS0N"
     },
     {
       "album": {
@@ -2832,7 +2850,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 179277,
       "name": "DOS PATITOS",
       "url": "https://open.spotify.com/track/7bKMiHQGh6W7LirRFKczTz"
@@ -3585,6 +3603,24 @@
     },
     {
       "album": {
+        "name": "En la oscuridad",
+        "url": "https://open.spotify.com/album/7gv9PWoc61YLQOi2HbLUxy"
+      },
+      "artists": [
+        {
+          "name": "Flavio",
+          "url": "https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203793,
+      "name": "En la oscuridad",
+      "url": "https://open.spotify.com/track/0XQX6llWiz7O3Yre6Nw5W1"
+    },
+    {
+      "album": {
         "name": "En memoria de las cicatrices",
         "url": "https://open.spotify.com/album/6yELhK7UiNQWI4oKrCclva"
       },
@@ -3640,6 +3676,28 @@
       "duration_ms": 242168,
       "name": "Enamorado de tu reverb",
       "url": "https://open.spotify.com/track/5vL5TRZdmuP7OGY93zaFRs"
+    },
+    {
+      "album": {
+        "name": "enamorau",
+        "url": "https://open.spotify.com/album/6EJU1I7IMLE6IWLkoWuXCK"
+      },
+      "artists": [
+        {
+          "name": "Clutchill",
+          "url": "https://open.spotify.com/artist/0ONc371uQqOdKkCwsrcp9Z"
+        },
+        {
+          "name": "\u00bf\u00bf\u00bf",
+          "url": "https://open.spotify.com/artist/4NGbyLLnXiqhCUBaB2zP2t"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125607,
+      "name": "enamorau",
+      "url": "https://open.spotify.com/track/5jS8ucQuG6zjl6iXRn3mrF"
     },
     {
       "album": {
@@ -3876,7 +3934,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 170895,
       "name": "ESPIRAL",
       "url": "https://open.spotify.com/track/295LsLvXV3kUrgRPRGjIxT"
@@ -4605,6 +4663,24 @@
     },
     {
       "album": {
+        "name": "Harto de paredes",
+        "url": "https://open.spotify.com/album/2AZWZqWNq4R8hrMqfOauqh"
+      },
+      "artists": [
+        {
+          "name": "Anabel Lee",
+          "url": "https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211920,
+      "name": "Harto de paredes",
+      "url": "https://open.spotify.com/track/3tQ15rcOMSdjxyQJWUnfXe"
+    },
+    {
+      "album": {
         "name": "izaro Gabonetan",
         "url": "https://open.spotify.com/album/3SyXBIytJ1RqrfN0X12phy"
       },
@@ -4652,7 +4728,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 306920,
       "name": "He ido m\u00e1s all\u00e1",
       "url": "https://open.spotify.com/track/5kiROZugRspoz3k4EwF75e"
@@ -4772,7 +4848,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 177986,
       "name": "HEY HO",
       "url": "https://open.spotify.com/track/1ve7FRFbWAfH4qSt1hYzTf"
@@ -5755,6 +5831,24 @@
     },
     {
       "album": {
+        "name": "La Vera (Ghost)",
+        "url": "https://open.spotify.com/album/3SEHTSoIE4RkIVsDCNNDJ3"
+      },
+      "artists": [
+        {
+          "name": "Emilia, Pardo y Baz\u00e1n",
+          "url": "https://open.spotify.com/artist/3Wu21kxlNyuHhyGbCndp7j"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196787,
+      "name": "La Vera (Ghost)",
+      "url": "https://open.spotify.com/track/5HUjjW05dRDZhIg9Wdhryl"
+    },
+    {
+      "album": {
         "name": "Alcal\u00e1 Norte",
         "url": "https://open.spotify.com/album/7C2RrxAFNTX0qklJnrHXTj"
       },
@@ -6086,6 +6180,24 @@
       "duration_ms": 190398,
       "name": "Lo Contrario",
       "url": "https://open.spotify.com/track/13MoMVQoTxw3EKZnCsvrvs"
+    },
+    {
+      "album": {
+        "name": "Lo fugaz",
+        "url": "https://open.spotify.com/album/45e4M3OP4iCHgg9q4S9CqA"
+      },
+      "artists": [
+        {
+          "name": "Blanca Paloma",
+          "url": "https://open.spotify.com/artist/4wm4mhiGnYPzCerFg3venQ"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203500,
+      "name": "Lo fugaz",
+      "url": "https://open.spotify.com/track/61kxYFG4Dm2yXaKvWabjup"
     },
     {
       "album": {
@@ -10058,7 +10170,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 191000,
       "name": "Si Me Rezas (Cap\u00edtulo IX: Muerte)",
       "url": "https://open.spotify.com/track/1A2Prk6a12q9wjTwTw6lWh"
@@ -10416,7 +10528,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 184213,
       "name": "Solo T\u00fa",
       "url": "https://open.spotify.com/track/0OO6GzKsFo2qm67dKcr376"
@@ -11188,6 +11300,24 @@
       "duration_ms": 160124,
       "name": "TRABAJAR EN VERANO",
       "url": "https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Los Telep\u00e1ticos",
+          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 9",
+      "url": "https://open.spotify.com/track/09mJBhJoLEvCSYq3J1xX4a"
     },
     {
       "album": {
@@ -12115,6 +12245,24 @@
     },
     {
       "album": {
+        "name": "voy a pedirte a ti (esta navidad)",
+        "url": "https://open.spotify.com/album/6908QdGAaGa7S4qMDHwXVG"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162709,
+      "name": "voy a pedirte a ti (esta navidad)",
+      "url": "https://open.spotify.com/track/7dziPQ5f3Qek1rHouGzsrM"
+    },
+    {
+      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/68wPgpFpa1NpJvSBUnBI9E"
       },
@@ -12130,7 +12278,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 196506,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/7uD9jf0smjoapsHkxEmlEg"

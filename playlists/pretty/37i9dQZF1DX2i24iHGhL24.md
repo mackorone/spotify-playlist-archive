@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,954 likes - 95 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,055 likes - 95 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

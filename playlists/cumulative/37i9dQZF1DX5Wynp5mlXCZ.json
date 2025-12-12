@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: ONUKA & The Maneken",
+  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Irina Rimes & Jerry Heil",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2025",
   "tracks": [
     {
@@ -5048,7 +5048,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 186666,
       "name": "\u0411\u0443\u0432\u0430\u0439",
       "url": "https://open.spotify.com/track/5TZ9sclFWADZJGqPCqfvlj"
@@ -5348,7 +5348,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 202590,
       "name": "\u0413\u0430\u043b\u0456\u0446\u0456\u044f",
       "url": "https://open.spotify.com/track/4yNvkYzXH9Sn3a5mvz4Elr"
@@ -6579,6 +6579,24 @@
     },
     {
       "album": {
+        "name": "\u043c\u0443\u043b\u044c\u0442\u0438\u0432\u0441\u0435\u0441\u0432\u0456\u0442",
+        "url": "https://open.spotify.com/album/6oMmhKjvV4gI1yGHic6Zkk"
+      },
+      "artists": [
+        {
+          "name": "Nikow",
+          "url": "https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193513,
+      "name": "\u043c\u0443\u043b\u044c\u0442\u0438\u0432\u0441\u0435\u0441\u0432\u0456\u0442",
+      "url": "https://open.spotify.com/track/0i5arZ6f0zuS2M6K1NgOPO"
+    },
+    {
+      "album": {
         "name": "\u041c\u0443\u0440\u0430\u043a\u0430\u043c\u0456 (\u0414\u043e \u0444\u0456\u043b\u044c\u043c\u0443 \u00ab\u041f\u0435\u0441\u0438\u043a\u0438\u00bb)",
         "url": "https://open.spotify.com/album/0MG4csXfGCUIuBi82SLy58"
       },
@@ -7180,6 +7198,28 @@
       "duration_ms": 179579,
       "name": "\u041d\u0438\u0436\u0447\u0430 \u0437\u0440\u043e\u0441\u0442\u043e\u043c",
       "url": "https://open.spotify.com/track/4OqDuY8Yj8Qr0BEMRnmXEK"
+    },
+    {
+      "album": {
+        "name": "\u041d\u043e\u043c\u0435\u0440\u043e\u043a",
+        "url": "https://open.spotify.com/album/1xu6Y5d7CEpajxB3aFNv40"
+      },
+      "artists": [
+        {
+          "name": "Gunna Chorna",
+          "url": "https://open.spotify.com/artist/6svqgn8444V7khZxeHQ0c1"
+        },
+        {
+          "name": "The Budchuk",
+          "url": "https://open.spotify.com/artist/0uGzb9yQNvlHef5jl7JDZ9"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120960,
+      "name": "\u041d\u043e\u043c\u0435\u0440\u043e\u043a",
+      "url": "https://open.spotify.com/track/1StmVOI2Wv2WIQRTiIsV8n"
     },
     {
       "album": {

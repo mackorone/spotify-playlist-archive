@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: Charlotte de Witte
 
-598 songs - 1 day 19 hr 29 min
+602 songs - 1 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Contagion](https://open.spotify.com/track/6FohMf7tim4EKslVqCB4y1) | [quest?onmarq](https://open.spotify.com/artist/6wc03P0FC3KCKciiZVZ6H9) | [Contagion / Spinout](https://open.spotify.com/album/73P8UugCrvjQIFPz4zP7BZ) | 3:57 | 2022-04-15 | 2022-07-15 |
 | [Contrarian](https://open.spotify.com/track/3K3JJJT20PwS4JkftkUiOk) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [Contrarian](https://open.spotify.com/album/46rtrHkcEUOKVZI630WQGf) | 5:37 | 2024-10-24 |  |
 | [Control](https://open.spotify.com/track/0A0CZzjON3WXZvEyPoA6GQ) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Control](https://open.spotify.com/album/6sD3U3E72UvI8Od8I6QoiA) | 2:55 | 2024-02-02 | 2024-08-09 |
+| [CONTROL YOUR BODY](https://open.spotify.com/track/3xTwHPwWKMWrWgyN22Qk2h) | [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF), [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [CONTROL YOUR BODY](https://open.spotify.com/album/61k2pkPgF5ky2mjy7ZrBBa) | 3:36 | 2025-12-12 |  |
 | [Convergence](https://open.spotify.com/track/2tp8nAI5xgMgWq51GZZ8tW) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Opal](https://open.spotify.com/album/44XBWRiDn05a4ECHyTQWPl) | 4:23 | 2023-01-20 | 2023-09-22 |
 | [Convergence](https://open.spotify.com/track/43yGlgA7sSLMHyXeu6suv9) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Convergence](https://open.spotify.com/album/02Pkx2GKuvKuPs4wOKq2Zk) | 4:23 | 2022-04-15 | 2023-01-27 |
 | [Craving](https://open.spotify.com/track/77qHXGqHbJFh0dWLRHkWTq) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Craving](https://open.spotify.com/album/48cvKSyiJ8Ev1xon0FXUKJ) | 4:01 | 2024-04-12 | 2025-03-19 |
@@ -439,6 +440,7 @@
 | [Reflections](https://open.spotify.com/track/3iGqK1cxsegZS0r34kYLDm) | [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB) | [Reflections](https://open.spotify.com/album/5dbxq2t69Uw9V2kKOEtqCu) | 4:47 | 2024-11-08 |  |
 | [Remedy](https://open.spotify.com/track/1j611ghQfHnBMnqSZCoxc8) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Remedy](https://open.spotify.com/album/0q5uRkPKHeKcNoco1IuZ8R) | 2:43 | 2024-07-26 | 2025-05-09 |
 | [Remember the Music](https://open.spotify.com/track/0jRG2wGKs5kMdbb5P4Pj9U) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Remember the Music](https://open.spotify.com/album/1UEdfYuTCdoBabXAOkyWsy) | 4:04 | 2024-06-28 | 2025-06-21 |
+| [Report to the Dancefloor](https://open.spotify.com/track/7y6yEpOl7wrB9JNuFdYydw) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [ZLATA](https://open.spotify.com/artist/0B6R0UMfrEDsiS5ee5VGVl) | [Report to the Dancefloor](https://open.spotify.com/album/2JBg1BwQvwPs8mPMYjEQy6) | 3:35 | 2025-12-12 |  |
 | [Resonate](https://open.spotify.com/track/0mXFXApXwB0dlP1Adh9ne7) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Resonate](https://open.spotify.com/album/2rvovGXmXLiwIbX4i2lTKn) | 3:41 | 2022-11-11 | 2023-04-05 |
 | [Restore My Soul \- Remix](https://open.spotify.com/track/2Po3vOi0P5KxVmlR1vjzgf) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [DJ Rush](https://open.spotify.com/artist/6gBmUpKvNYtnQTSLK5vwS5), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [Restore My Soul \(Remix\)](https://open.spotify.com/album/7bfdsv9IXDHvBwIYrDDCDs) | 4:32 | 2022-05-26 | 2023-04-05 |
 | [Reverie](https://open.spotify.com/track/1U1dYvTNiWKjDcFwVVfyb9) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [Reverie / Forest Fire](https://open.spotify.com/album/27QvQxz2lZfrKjqdS7qV3b) | 6:00 | 2024-09-06 | 2025-10-03 |
@@ -509,6 +511,7 @@
 | [Sunglasses At Night](https://open.spotify.com/track/7FCDbs2FteSElQELSiQemi) | [HUMAN404](https://open.spotify.com/artist/1I0I7n9gKqj3W7lQCka883) | [Sunglasses At Night](https://open.spotify.com/album/65BcHR18LfEWQXUTwmsPIP) | 3:43 | 2024-06-07 | 2025-05-09 |
 | [Sweat Sonic](https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2) | [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [Sweat Sonic](https://open.spotify.com/album/5mY0769AayndoWAuTG0LWY) | 6:22 | 2022-04-15 | 2022-10-14 |
 | [Sweet & Juicy](https://open.spotify.com/track/3OUUKk3xjM8vQf9CUm1fff) | [AISHA \(Sco\)](https://open.spotify.com/artist/3mFGWOyRFTCLKBQe2THZgr) | [Sweet & Juicy](https://open.spotify.com/album/1FM98XL6utzj2kBOAlRhbe) | 5:02 | 2023-10-27 | 2024-04-12 |
+| [Sweet Dreams](https://open.spotify.com/track/6FKUG7rgIc4Z9IhvHgSUHy) | [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig) | [Sweet Dreams](https://open.spotify.com/album/0xX95sQpGQfOk1dZAIzHHe) | 3:33 | 2025-12-12 |  |
 | [Syren](https://open.spotify.com/track/3hGXZKj3lYKKRQtKE8XN55) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:17 | 2023-08-10 | 2024-04-05 |
 | [Syren](https://open.spotify.com/track/7nj50KCxnSOUGNOvLP0gEn) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Syren](https://open.spotify.com/album/5A7NPffONvtKvxAg91iuEP) | 3:17 | 2023-08-10 | 2023-08-14 |
 | [Take Control](https://open.spotify.com/track/3YOSwjnnS0uIeJnyIVUpsA) | [Jay Lumen](https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV) | [Take Control](https://open.spotify.com/album/7lazIxkavlLcdngPxDVcLh) | 4:25 | 2025-09-04 |  |
@@ -605,6 +608,7 @@
 | [Young Forever](https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Young Forever](https://open.spotify.com/album/4BOWZWwm6WVWmco0HKt80s) | 3:47 | 2025-10-17 |  |
 | [Your Future Looks Different In The Light](https://open.spotify.com/track/5uf5vCbAH9YeO2HfJKdlVo) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Your Future Looks Different In The Light](https://open.spotify.com/album/5JinQowlojrjadrsJP9SeZ) | 5:59 | 2022-08-05 | 2023-10-29 |
 | [Your Mind](https://open.spotify.com/track/4zDG66t4CS5gD2WLq4K9JK) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Josh Gigante](https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH) | [Your Mind](https://open.spotify.com/album/25fUzY5qFM0Fm6ESlFOJFu) | 5:54 | 2023-05-12 | 2024-03-22 |
+| [Your Mind \- HNTR Remix](https://open.spotify.com/track/2HC3zCi2hZffYhY7UBKBWa) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Your Mind \(HNTR Remix\)](https://open.spotify.com/album/02YQrPMD5VcaisSzijQyuD) | 3:41 | 2025-12-12 |  |
 | [Zip it \- Radio Edit](https://open.spotify.com/track/2yp9tslinu0RiDySUJp0N7) | [Van Damn](https://open.spotify.com/artist/3saUCw9rxdrL4Bn7pGolNO) | [Zip It](https://open.spotify.com/album/3dgd5qWAA7nJ0RCXe8ewdZ) | 3:00 | 2024-05-17 | 2025-03-19 |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

@@ -2,9 +2,9 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: BILLKIN
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: SEA.
 
-209 songs - 13 hr 30 min
+210 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Bad Shawty](https://open.spotify.com/track/4O3J4WqPNqZP9Fib5ztyvj) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [Bad Shawty](https://open.spotify.com/album/3OXNYJD05Ze2PBHOnUS1zA) | 3:30 | 2025-04-16 | 2025-04-29 |
 | [BADLY](https://open.spotify.com/track/4BDW3yQgmhQDLHLvaxzZtd) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz), [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [BADLY](https://open.spotify.com/album/3L7hKLf8saWSccgsuExpqt) | 3:30 | 2025-08-14 | 2025-08-31 |
 | [Because of You, I Shine](https://open.spotify.com/track/4Apva8F7YKYyqwOCGfCnK6) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [Because of You, I Shine](https://open.spotify.com/album/6P3OmaQZLb1uJ052ol2424) | 3:48 | 2024-01-26 | 2024-02-01 |
+| [Benz ดำ](https://open.spotify.com/track/3RPiQqgZbe4jFNMIZtGoaU) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 2:50 | 2025-12-11 |  |
 | [BF](https://open.spotify.com/track/25K1tGmiprhsC8LXgOrNjM) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [BF](https://open.spotify.com/album/7p0YVbItQH3RE6jqZ5ug4u) | 3:36 | 2024-08-04 | 2024-12-17 |
 | [BU](https://open.spotify.com/track/3X5Kco6l9HuvtO9CLCtzzq) | [SURIYA MQT](https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P), [P6ICK](https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY) | [BU](https://open.spotify.com/album/6KVDybfylX2lE1NUrpC70s) | 2:46 | 2025-09-11 |  |
 | [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/track/77rZWogLvZ2NOf248oMd6N) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [CURSE \(รักใครไม่เป็น\)](https://open.spotify.com/album/5gck47MGPzpchPNcTAlfIl) | 4:13 | 2025-01-30 | 2025-10-13 |
@@ -48,7 +49,7 @@
 | [Proud](https://open.spotify.com/track/2MuJCv3nCgHYlgOrAvCAT6) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [Proud](https://open.spotify.com/album/59iNGzAD15hYShkp2ZNmNv) | 3:45 | 2024-07-12 | 2025-11-10 |
 | [See You Somewhere \- From ซองแดงแต่งผี](https://open.spotify.com/track/3iTOd09b4Dsz1QucpGMivX) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ซองแดงแต่งผี \(OST\. The Red Envelope Album\)](https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2) | 3:39 | 2025-04-02 | 2025-08-08 |
 | [Shall We](https://open.spotify.com/track/42TLIkJ2kFSY0WlCBjqzhB) | [Percy](https://open.spotify.com/artist/1YDIuX4Pe5XwZmInJ4GYGr), [4ourYou](https://open.spotify.com/artist/6cEEa8xu47O2bYkQedFkUK), [GENA DESOUZA](https://open.spotify.com/artist/7jyl0OsOio6yzfWZUSCbip) | [Shall We](https://open.spotify.com/album/3KyVvNvqo1Rp14e1lR0z6i) | 3:17 | 2024-01-26 | 2024-02-26 |
-| [SHE IS TOTALLY OUT OF MY LEAGUE \(feat\. Z9\)](https://open.spotify.com/track/2UzdM3S5SrnjLCwQsleGrM) | [P6ICK](https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [LAST SUPPER \- SIDE B](https://open.spotify.com/album/7Cwg28QVPHraLvr0Z4mn3h) | 2:37 | 2025-08-07 |  |
+| [SHE IS TOTALLY OUT OF MY LEAGUE \(feat\. Z9\)](https://open.spotify.com/track/2UzdM3S5SrnjLCwQsleGrM) | [P6ICK](https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [LAST SUPPER \- SIDE B](https://open.spotify.com/album/7Cwg28QVPHraLvr0Z4mn3h) | 2:37 | 2025-08-07 | 2025-12-12 |
 | [Situationship](https://open.spotify.com/track/7veRW1AYR9d5AWM7mN4h0M) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Situationship](https://open.spotify.com/album/4K2bmXaiYJESGL3hiIAEnd) | 3:10 | 2024-06-27 | 2024-08-20 |
 | [SORRY](https://open.spotify.com/track/2ayGJpuQFrTlIYVQ8iNPY8) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr), [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [DREAMGALS](https://open.spotify.com/album/1wO0DoelfsTdP5v858tgEB) | 3:17 | 2024-07-02 | 2024-11-09 |
 | [The Trouble is..ปัญหาของฉัน \- From "หนึ่งในร้อย"](https://open.spotify.com/track/2OULHL0yM3KbaHC1vlTffC) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [The Trouble is..ปัญหาของฉัน \(From "หนึ่งในร้อย"\)](https://open.spotify.com/album/335bL8LroVIpabaucNBXxf) | 3:10 | 2024-11-08 | 2025-07-21 |

@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 159428,
       "name": "Cana",
       "url": "https://open.spotify.com/track/7A07lS4vDCUUvuHzorS1ZW"
@@ -3090,7 +3090,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 195997,
       "name": "Fuji Fusion",
       "url": "https://open.spotify.com/track/5KenjWAk3sGXR2yMThHGFZ"
@@ -3188,7 +3188,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 134237,
       "name": "Gbadun",
       "url": "https://open.spotify.com/track/5UAccC7HziB1MxaXpte7h8"
@@ -3738,7 +3738,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 137631,
       "name": "Higher",
       "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
@@ -4902,6 +4902,28 @@
       "duration_ms": 136137,
       "name": "Life",
       "url": "https://open.spotify.com/track/5sYYFdeRxteDdFpyeJD7jW"
+    },
+    {
+      "album": {
+        "name": "Lifestyle",
+        "url": "https://open.spotify.com/album/5LvvzviQcK4CawRlmPpOxq"
+      },
+      "artists": [
+        {
+          "name": "PaBrymo",
+          "url": "https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Lifestyle",
+      "url": "https://open.spotify.com/track/1iCRehvlN08yk0BWYWUVrD"
     },
     {
       "album": {
@@ -8804,7 +8826,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 208788,
       "name": "Zuckerberg",
       "url": "https://open.spotify.com/track/64dSBPStmr9UUeEqWq4uJD"

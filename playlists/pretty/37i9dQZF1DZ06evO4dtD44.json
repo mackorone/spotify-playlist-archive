@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 62202,
+  "num_followers": 62211,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAAAKGs0jM9ZHWE3oDWnf6HRh",
+  "snapshot_id": "aTi4AAAAAACu7SIncpQFB0xMxTbL25NQ",
   "tracks": [
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chega de Saudade",
-        "url": "https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 119200,
-      "name": "\u00c9 Luxo S\u00f3 - Ultimate Mix",
-      "url": "https://open.spotify.com/track/2IBsRo06SVWC28SDm3belO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do the Bossa Nova",
         "url": "https://open.spotify.com/album/5ixHJ7BYhydHcI6QyOkipX"
       },
@@ -752,9 +736,25 @@
           "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 201839,
-      "name": "One Note Samba",
-      "url": "https://open.spotify.com/track/5xTt7WCmlfdSa9aP3MV56A"
+      "duration_ms": 258733,
+      "name": "Deve Ser Amor (It Must Be Love)",
+      "url": "https://open.spotify.com/track/69QK0UBbAX20uVhjXMX5t4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chega de Saudade",
+        "url": "https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 119200,
+      "name": "\u00c9 Luxo S\u00f3 - Ultimate Mix",
+      "url": "https://open.spotify.com/track/2IBsRo06SVWC28SDm3belO"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corcovado",
-        "url": "https://open.spotify.com/album/3VaF3JOXtiv2nGFTMydLza"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 118661,
-      "name": "Corcovado",
-      "url": "https://open.spotify.com/track/3fYeqensiAoHgs645ttWnK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do the Bossa Nova",
         "url": "https://open.spotify.com/album/5ixHJ7BYhydHcI6QyOkipX"
       },
@@ -828,9 +812,25 @@
           "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 258733,
-      "name": "Deve Ser Amor (It Must Be Love)",
-      "url": "https://open.spotify.com/track/69QK0UBbAX20uVhjXMX5t4"
+      "duration_ms": 201839,
+      "name": "One Note Samba",
+      "url": "https://open.spotify.com/track/5xTt7WCmlfdSa9aP3MV56A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corcovado",
+        "url": "https://open.spotify.com/album/3VaF3JOXtiv2nGFTMydLza"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 118661,
+      "name": "Corcovado",
+      "url": "https://open.spotify.com/track/3fYeqensiAoHgs645ttWnK"
     },
     {
       "added_at": null,

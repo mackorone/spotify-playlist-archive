@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 ### [Best Of Global Hip\-Hop 2025](https://open.spotify.com/playlist/37i9dQZF1DX2sQHbtx0sdt)
 
-> Our picks for the best global hip\-hop songs this year\. Cover: EsDeeKid 🇬🇧
+> Our picks for the best global hip\-hop songs this year\. Cover: Awich 🇯🇵
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,186 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,355 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 49 | [Today is a good day](https://open.spotify.com/track/2IOiEhA8VTT4gwel9HgJuu) | [Brotherkupa](https://open.spotify.com/artist/2SRkMY6LxkfTMqktaFn32r) | [BEFORE THE WORST](https://open.spotify.com/album/5ZZSx6ZZkhqHGLM1U87ize) | 2:30 |
 | 50 | [Creole](https://open.spotify.com/track/756wXdrf4NC0uPaV8lxX8A) | [Tre Mission](https://open.spotify.com/artist/0A1RqQ9c8SDENYZPp3XcPg) | [Creole](https://open.spotify.com/album/4VP9WTf9O90gf0Re4vbuNt) | 2:29 |
 
-Snapshot ID: `AAAAAB2EJ7o9BX4ydMX66ifqulHuMBgv`
+Snapshot ID: `AAAAAAJWqhYHOi5Mq+/dZprpPKUQZRWM`

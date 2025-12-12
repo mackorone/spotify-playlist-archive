@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Ratboys
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,051 likes - 168 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,009 likes - 168 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > e don cast
 
-267 songs - 13 hr 47 min
+268 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Aso](https://open.spotify.com/track/5n6tCeNsXe52pr1AEaM0LE) | [Kwabena Kwabena](https://open.spotify.com/artist/4rvlBk4SuYD4jThTXZwnCI) | [Aso](https://open.spotify.com/album/2b2dDXkKR8Y5Nf7FfEfTQQ) | 5:50 | 2022-02-11 | 2022-08-06 |
 | [Baby Gone](https://open.spotify.com/track/3DMPL9ZVNpXhxTsT8BsBoI) | [Aṣa](https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc) | [Beautiful Imperfection](https://open.spotify.com/album/5OOcKzuUJRezoERazEmvhv) | 4:33 | 2022-02-11 | 2022-07-29 |
 | [Baby I'm Jealous](https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [One Day You Will Understand](https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC) | 2:30 | 2022-02-11 | 2024-06-21 |
-| [Back To You](https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Back To You](https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89) | 3:30 | 2024-10-25 |  |
+| [Back To You](https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Back To You](https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89) | 3:30 | 2024-10-25 | 2025-12-12 |
 | [Bad Influence](https://open.spotify.com/track/2c00DlvpzthGKcyXpe5GHa) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Bad Influence](https://open.spotify.com/album/6rgGPAYSh9ViRtQG2zSJLy) | 2:18 | 2024-03-05 | 2024-04-19 |
 | [Bad Influence](https://open.spotify.com/track/6DFM9BKkKDGHoGoavIPV3c) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Get Layd](https://open.spotify.com/album/1WtsIAJMX3vtk7Gjpftyyu) | 2:18 | 2024-04-19 | 2024-06-07 |
 | [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 | 2022-09-19 | 2025-03-29 |
@@ -36,6 +36,7 @@
 | [Blues](https://open.spotify.com/track/6uoyzoymKumUx2oQwHvVd6) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [Kold Szn](https://open.spotify.com/album/5wpQuIHSrmQR5OkFSuDf9D) | 3:01 | 2022-12-08 | 2023-06-10 |
 | [Blueticks](https://open.spotify.com/track/2DjvVMu9pVKAzmCt7AG5MY) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Blueticks](https://open.spotify.com/album/40HMYigmG31B8hCXDeGaC5) | 3:23 | 2025-11-28 |  |
 | [Boulevard](https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Freestyle EP](https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO) | 1:52 | 2022-02-11 |  |
+| [Bounce](https://open.spotify.com/track/5oaz3L4Ytz4UZpsH613uL8) | [Oiza x Meyi](https://open.spotify.com/artist/06HXi3s2lqAmgpEeOstUTQ) | [Bounce](https://open.spotify.com/album/0WMD6V0S9gLpqZIutA8hL1) | 2:27 | 2025-12-12 |  |
 | [Breakfast \(Remix\)](https://open.spotify.com/track/3JzwAZrhBQpIhkhOPnGg0F) | [Jaydreamz](https://open.spotify.com/artist/5XWnXTiwleRI0pgiLRxJUW), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Breakfast \(Remix\)](https://open.spotify.com/album/6qSE7SgHNU6Bw1G4pK0qD8) | 2:33 | 2022-07-14 | 2022-07-30 |
 | [Breaking The Yoke Of Love](https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Breaking The Yoke Of Love](https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6) | 3:18 | 2023-02-03 | 2025-04-01 |
 | [Broken](https://open.spotify.com/track/6ZhNv7bMonkadLlDfFGKYT) | [Tiphe](https://open.spotify.com/artist/42qOy9uBsoFpQQgawI8dIZ), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Broken](https://open.spotify.com/album/2ufNBHYADGeBl0FYZP07fB) | 2:35 | 2025-08-29 | 2025-10-19 |

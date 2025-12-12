@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Best tracks from EQUAL India in 2025\. Cover \- Jonita Gandhi
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,952 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,967 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 49 | [Bailamos](https://open.spotify.com/track/5esNqE5Xsg87T9VC7lgc81) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs) | [Bailamos](https://open.spotify.com/album/2PA0VItmq0Rn7Igd7uh6qd) | 2:46 |
 | 50 | [Saiyyan Na Maane](https://open.spotify.com/track/1k2YAgMhCzveYZkNcloocK) | [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [Amritanshu Dutta](https://open.spotify.com/artist/5cHoOoSamSybu8lGD4yfB1) | [Saiyyan Na Maane](https://open.spotify.com/album/1vL10WzZmWzUi2Ez5QfpEn) | 2:47 |
 
-Snapshot ID: `AAAAAO/gVZkGQcSQAT6I090EgoAy2aOD`
+Snapshot ID: `AAAAALXrZSFzmCV3uM636NoXU3xGhTV6`

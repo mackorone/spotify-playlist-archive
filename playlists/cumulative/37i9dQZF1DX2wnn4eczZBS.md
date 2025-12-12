@@ -4,7 +4,7 @@
 
 > indie & indiepop in het Nederlands\. Cover: Elmer
 
-271 songs - 14 hr 8 min
+272 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Mijn Naam is Niemand](https://open.spotify.com/track/5I4AagJIE3YslYmASx2QRb) | [SKINC](https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6) | [Mijn Naam Is Niemand](https://open.spotify.com/album/7h0ye8wK1DjHi1KeDhC7sw) | 3:22 | 2024-06-26 | 2024-10-25 |
 | [Misschien](https://open.spotify.com/track/6jUQSSH5nisDUcVFFBFZIn) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Frok en Stien](https://open.spotify.com/album/7gNXQXUyuylGHvns5yJSeZ) | 3:02 | 2025-10-21 |  |
 | [Misschien \(Kwijt\)](https://open.spotify.com/track/3YtCnJtiIGkoP5kXEGJWIg) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [HIGH SOCIETY SWAGGERBOY](https://open.spotify.com/album/3CqCzAHqRdcUWje8yLip2v) | 3:02 | 2024-06-26 | 2025-02-14 |
+| [Moe Van Jezelf](https://open.spotify.com/track/3gsHFY5eFCkanac1hMUjOo) | [nonchelange](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n), [Mathieu Terryn](https://open.spotify.com/artist/49lHyCtrgMgmijZw2FqPHK) | [Moe Van Jezelf](https://open.spotify.com/album/7DZIfMTGxzRN9nkcIxCDfo) | 2:40 | 2025-12-11 |  |
 | [MooiMooiMooi](https://open.spotify.com/track/0zSQBDv2MqScJt49tXfRKZ) | [SKINC](https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6) | [MooiMooiMooi](https://open.spotify.com/album/7Eq2mxj3nCQnUyQlYL1Z2T) | 2:25 | 2024-11-14 | 2025-01-12 |
 | [Naakt Op Het Plein](https://open.spotify.com/track/1L7FnIPHrVXjt49m7Dr36Z) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Samen Tegen Elkaar](https://open.spotify.com/album/0SICrWXEeAB0feHy4iyTbH) | 3:24 | 2024-06-26 | 2024-11-15 |
 | [Naar de Stad](https://open.spotify.com/track/6FCgiuKSCNEL0OByqSyaHV) | [puntjudith](https://open.spotify.com/artist/2TY5EKL27G5c9deuWQIj8d) | [Naar de Stad](https://open.spotify.com/album/1UK8ZH7gSxr6qEPH0HMh9O) | 2:59 | 2025-02-03 | 2025-04-01 |
@@ -258,7 +259,7 @@
 | [Weekenden](https://open.spotify.com/track/4oEvC47XYKLzUbcTnSMmcN) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Weekenden](https://open.spotify.com/album/5wedLTydN0F4SW2Q26wlqX) | 3:44 | 2024-08-01 | 2025-02-28 |
 | [Weer Verliefd](https://open.spotify.com/track/11xGbQB9tJX9qtM9HHCDMf) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Weer Verliefd](https://open.spotify.com/album/6Ip4bbABf0n2qieViUxktD) | 3:21 | 2025-02-26 | 2025-06-27 |
 | [Wie Ben Ik](https://open.spotify.com/track/0QxgUIFrbSj8lafbpZ3boa) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Wie Ben Ik](https://open.spotify.com/album/6MruR6SwhHc3q3nlxu4hDR) | 2:49 | 2024-06-26 | 2024-07-19 |
-| [WijTwee](https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [De Lucht](https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi) | 2:46 | 2025-04-03 |  |
+| [WijTwee](https://open.spotify.com/track/2hqlsv11YK6cJqt7jJn6vQ) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [De Lucht](https://open.spotify.com/album/1kA1PK4ls833pRy3G41ALi) | 2:46 | 2025-04-03 | 2025-12-12 |
 | [Wildernis](https://open.spotify.com/track/4XnKHxkNz9myioLIPM7NnQ) | [Johannes Is Zijn Naam](https://open.spotify.com/artist/2RBFRe2zOvWfzMotCRr7D0) | [Wildernis](https://open.spotify.com/album/0XcPUzHYP68CtnXoxBm1YJ) | 3:31 | 2025-03-28 | 2025-10-09 |
 | [Wind In De Zeilen](https://open.spotify.com/track/1CuunQxTRe5jL13ikuQ67Y) | [Tienson](https://open.spotify.com/artist/6NuwXIFcHEYmeu6Tf9BGt8) | [Wind In De Zeilen](https://open.spotify.com/album/1Vcc1C8T9ktEhGmmlx8A0D) | 3:35 | 2025-02-03 | 2025-10-22 |
 | [wist je niet](https://open.spotify.com/track/77Wz0wvJNr55xrQWfbQdeH) | [Rijnbaart](https://open.spotify.com/artist/5Ce0Qxr0GqePcWjwx7VZPd), [Jeroen Antoine](https://open.spotify.com/artist/7u1t7bEnCzS3tWMNNu7QgO) | [wist je niet](https://open.spotify.com/album/0Vcj7qiQeCSuWXmLnhvJZO) | 2:43 | 2024-06-26 | 2024-08-02 |

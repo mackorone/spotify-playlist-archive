@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1134840,
+  "num_followers": 1134924,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAAA6X8pgyv0RBkQmFyNa0t8m",
+  "snapshot_id": "aTi4AAAAAAD/Hk3PrnSqwLuesPRDMQxg",
   "tracks": [
     {
       "added_at": null,
@@ -683,18 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "21st Century Breakdown",
-        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
+        "name": "No Fun Mondays",
+        "url": "https://open.spotify.com/album/6pjuzPdAkJPdNBiKzcloXL"
       },
       "artists": [
+        {
+          "name": "Billie Joe Armstrong",
+          "url": "https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG"
+        },
         {
           "name": "Green Day",
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 309106,
-      "name": "21st Century Breakdown",
-      "url": "https://open.spotify.com/track/0RT1qESYHlNcUJI0Yo5Hzl"
+      "duration_ms": 134671,
+      "name": "I Think We're Alone Now",
+      "url": "https://open.spotify.com/track/4gZYdWV1sVNmYkkAr2rRgW"
     },
     {
       "added_at": null,
@@ -715,22 +719,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Fun Mondays",
-        "url": "https://open.spotify.com/album/6pjuzPdAkJPdNBiKzcloXL"
+        "name": "21st Century Breakdown",
+        "url": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79"
       },
       "artists": [
-        {
-          "name": "Billie Joe Armstrong",
-          "url": "https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG"
-        },
         {
           "name": "Green Day",
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 134671,
-      "name": "I Think We're Alone Now",
-      "url": "https://open.spotify.com/track/4gZYdWV1sVNmYkkAr2rRgW"
+      "duration_ms": 309106,
+      "name": "21st Century Breakdown",
+      "url": "https://open.spotify.com/track/0RT1qESYHlNcUJI0Yo5Hzl"
     },
     {
       "added_at": null,

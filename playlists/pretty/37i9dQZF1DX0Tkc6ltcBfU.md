@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: NBA YoungBoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,264,474 likes - 101 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,264,579 likes - 101 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 73 | [If Only \(feat\. 21 Savage\)](https://open.spotify.com/track/2dwqjMo4L4UtPPZ8DzI50N) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [For Her 2](https://open.spotify.com/album/6nniLiblGIJoAo5FHTQ1US) | 2:27 |
 | 74 | [Gyatt](https://open.spotify.com/track/6cpRVsxxwB04HEnOGddGCc) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Gyatt](https://open.spotify.com/album/49uUL66idnoxmSuv2l6mRs) | 2:17 |
 | 75 | [Successful](https://open.spotify.com/track/4a4TQY1JEu1TLRCIM2cpsh) | [PCF Jaey](https://open.spotify.com/artist/3SQyoWBxZH35NqaGtKDplP), [Lil Tony Official](https://open.spotify.com/artist/4ix2z6eBWQ6MeihaX04mB6) | [Successful](https://open.spotify.com/album/1rshOvPIwne7xx6WUSVAle) | 1:55 |
-| 76 | [GO](https://open.spotify.com/track/0f1Jn1Zen8o6TUz83KFFt6) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b), [Dc2trill](https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI), [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L) | [fivestarcrete](https://open.spotify.com/album/7jHEaEVSGIfMyZUdl6RLUZ) | 2:32 |
+| 76 | [GO](https://open.spotify.com/track/0f1Jn1Zen8o6TUz83KFFt6) | [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b), [Dc2trill](https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI), [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L) | [fivestarcrete](https://open.spotify.com/album/7jHEaEVSGIfMyZUdl6RLUZ) | 2:32 |
 | 77 | [Don’t hide](https://open.spotify.com/track/6yJIO8264hq1hCbBLU0C0X) | [So Supa](https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP) | [Supa vs Sligga](https://open.spotify.com/album/3GdWSIpfD42ZQMiNVg6Eu7) | 1:50 |
 | 78 | [Fucking Told U](https://open.spotify.com/track/4NUUOQDq0W89tJCGYwXaW0) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [UY SCUTI](https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD) | 2:54 |
 | 79 | [Best Bye](https://open.spotify.com/track/2Vf5njpQC93NgVOzEAahwJ) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Best Bye](https://open.spotify.com/album/0rb6kmWVhkMqVbasqTlZjz) | 3:04 |

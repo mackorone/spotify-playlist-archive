@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124683,
+  "num_followers": 124680,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAU6dcyZRV5RTNUARcWN+b6IOCb3UJS",
+  "snapshot_id": "AAAU6m3EgQf6gjS9ls311jnHa5rhdDVn",
   "tracks": [
+    {
+      "added_at": "2025-12-11 15:20:15",
+      "album": {
+        "name": "Disco Kissing",
+        "url": "https://open.spotify.com/album/1lmSOfKZKwFR996kNlaEyQ"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        },
+        {
+          "name": "MORGXN",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        }
+      ],
+      "duration_ms": 185220,
+      "name": "Disco Kissing",
+      "url": "https://open.spotify.com/track/6MECIOnMn0h1mdJfey9BOx"
+    },
     {
       "added_at": "2025-12-10 14:52:50",
       "album": {

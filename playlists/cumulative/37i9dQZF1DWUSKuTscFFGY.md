@@ -2,7 +2,7 @@
 
 ### [Nouveautés Pop](https://open.spotify.com/playlist/37i9dQZF1DWUSKuTscFFGY)
 
-> Découvrez les meilleures nouveautés pop\. Photo : Tate McRae
+> Découvrez les meilleures nouveautés pop\. Photo : Ed Sheeran
 
 770 songs - 1 day 15 hr 39 min
 
@@ -737,7 +737,7 @@
 | [When We Kiss](https://open.spotify.com/track/2OlFA7WMfBtr1JvONddJaI) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [When We Kiss](https://open.spotify.com/album/1GPY2MwnSFIT0zVyKaeO0L) | 3:32 | 2025-01-09 | 2025-04-25 |
 | [Where Do I Go](https://open.spotify.com/track/1FNNYBfbDppq7NKGtQsMkF) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Where Do I Go](https://open.spotify.com/album/2Cb1UV6Opqvv9r52TY0zNb) | 2:48 | 2024-11-07 | 2025-01-03 |
 | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/track/0jeRoIMD1LHhUkQEbjkXQv) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Where Do We Go Now? \(Music from Lil Nas X: Long Live Montero\)](https://open.spotify.com/album/3xYwyMzauc6ENKu2HhpuiP) | 3:15 | 2024-01-25 | 2024-04-12 |
-| [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 | 2025-09-18 |  |
+| [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 | 2025-09-18 | 2025-12-12 |
 | [Where We Are](https://open.spotify.com/track/2rZ7c57535FWSMpwkZJ5Tq) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [This Life](https://open.spotify.com/album/4uWcWrnFw0c0cl6Z8Q0lPN) | 4:29 | 2023-11-23 | 2023-12-08 |
 | [Whisper](https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Whisper](https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku) | 3:14 | 2024-10-03 | 2025-01-17 |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-08-29 | 2024-10-18 |

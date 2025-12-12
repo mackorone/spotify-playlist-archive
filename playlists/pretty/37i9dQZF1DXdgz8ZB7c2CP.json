@@ -1,6 +1,6 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>! Featuring Alison Wonderland",
-  "num_followers": 842187,
+  "num_followers": 842186,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
@@ -776,7 +776,7 @@
           "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         },
         {
-          "name": "PlaqueBoyMax",
+          "name": "Plaqueboymax",
           "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
         }
       ],
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2025-12-08 01:18:34",
       "album": {
+        "name": "we stayed up all night",
+        "url": "https://open.spotify.com/album/0Z53ZcNgOKfvbrhfkuet5x"
+      },
+      "artists": [
+        {
+          "name": "Conrad.",
+          "url": "https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC"
+        }
+      ],
+      "duration_ms": 213238,
+      "name": "we stayed up all night",
+      "url": "https://open.spotify.com/track/7bsV0uvwhPVE40kHlkglpB"
+    },
+    {
+      "added_at": "2025-12-08 01:18:34",
+      "album": {
         "name": "the time",
         "url": "https://open.spotify.com/album/6tG3LSQaSE9hBKylnA5Gr8"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 122386,
       "name": "the time",
       "url": "https://open.spotify.com/track/7DECteJjqNfryTmWFgG1Q9"
-    },
-    {
-      "added_at": "2025-12-08 01:18:34",
-      "album": {
-        "name": "we stayed up all night",
-        "url": "https://open.spotify.com/album/0Z53ZcNgOKfvbrhfkuet5x"
-      },
-      "artists": [
-        {
-          "name": "Conrad.",
-          "url": "https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC"
-        }
-      ],
-      "duration_ms": 213238,
-      "name": "we stayed up all night",
-      "url": "https://open.spotify.com/track/7bsV0uvwhPVE40kHlkglpB"
     },
     {
       "added_at": "2025-12-08 01:18:34",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2025-12-08 01:18:34",
       "album": {
-        "name": "s.o.s",
-        "url": "https://open.spotify.com/album/4E0rIBD3vyXDoaynnfT5Av"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        },
-        {
-          "name": "Tabi",
-          "url": "https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn"
-        }
-      ],
-      "duration_ms": 129320,
-      "name": "s.o.s",
-      "url": "https://open.spotify.com/track/2gRcRlKTI8WSQhufYPlO1Z"
-    },
-    {
-      "added_at": "2025-12-08 01:18:34",
-      "album": {
         "name": "Waiting 4 U (Feat. Natalie Jane)",
         "url": "https://open.spotify.com/album/1QfoSaZBlsQl3J76OyATZc"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 173582,
       "name": "Waiting 4 U (Feat. Natalie Jane)",
       "url": "https://open.spotify.com/track/5Vojou9RHWw8neHwu9opT2"
+    },
+    {
+      "added_at": "2025-12-08 01:18:34",
+      "album": {
+        "name": "s.o.s",
+        "url": "https://open.spotify.com/album/4E0rIBD3vyXDoaynnfT5Av"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Tabi",
+          "url": "https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn"
+        }
+      ],
+      "duration_ms": 129320,
+      "name": "s.o.s",
+      "url": "https://open.spotify.com/track/2gRcRlKTI8WSQhufYPlO1Z"
     },
     {
       "added_at": "2025-12-08 01:18:34",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2025-12-08 01:18:34",
       "album": {
-        "name": "all my exes live in brooklyn",
-        "url": "https://open.spotify.com/album/7ogj05xh3Hjh5A6cwtQXK9"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        }
-      ],
-      "duration_ms": 161586,
-      "name": "pressure",
-      "url": "https://open.spotify.com/track/6QWqy98sVOhrj00laLuhGb"
-    },
-    {
-      "added_at": "2025-12-08 01:18:34",
-      "album": {
         "name": "u & i",
         "url": "https://open.spotify.com/album/6ej3V6vE3Xd6hWQbHzQjiM"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 181818,
       "name": "u & i",
       "url": "https://open.spotify.com/track/4UrvsThnqGTyuqSKnxw0kK"
+    },
+    {
+      "added_at": "2025-12-08 01:18:34",
+      "album": {
+        "name": "all my exes live in brooklyn",
+        "url": "https://open.spotify.com/album/7ogj05xh3Hjh5A6cwtQXK9"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        }
+      ],
+      "duration_ms": 161586,
+      "name": "pressure",
+      "url": "https://open.spotify.com/track/6QWqy98sVOhrj00laLuhGb"
     },
     {
       "added_at": "2025-12-08 01:18:34",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2025-12-08 01:18:34",
       "album": {
+        "name": "Again? Fuck.",
+        "url": "https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 172901,
+      "name": "Again? Fuck.",
+      "url": "https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X"
+    },
+    {
+      "added_at": "2025-12-08 01:18:34",
+      "album": {
         "name": "Dancing In The Leaves",
         "url": "https://open.spotify.com/album/7H7TH8noObN6xLd7Oy34Sj"
       },
@@ -1663,58 +1679,6 @@
     {
       "added_at": "2025-12-08 01:18:34",
       "album": {
-        "name": "Again? Fuck.",
-        "url": "https://open.spotify.com/album/1K54uyGq1b2vDilMxXfSsU"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 172901,
-      "name": "Again? Fuck.",
-      "url": "https://open.spotify.com/track/2iHtOWx257QVfwWcp8ZF7X"
-    },
-    {
-      "added_at": "2025-12-08 01:18:34",
-      "album": {
-        "name": "BELIEVE ME",
-        "url": "https://open.spotify.com/album/46UxJpx6rHeqaKczZc4iNY"
-      },
-      "artists": [
-        {
-          "name": "BSEARL",
-          "url": "https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi"
-        },
-        {
-          "name": "CA$PAR",
-          "url": "https://open.spotify.com/artist/5QlHGPrtXeYq5YtSCpxy87"
-        }
-      ],
-      "duration_ms": 277714,
-      "name": "BELIEVE ME",
-      "url": "https://open.spotify.com/track/6qRzSv0mqhhGXzRETbe6wO"
-    },
-    {
-      "added_at": "2025-12-08 01:18:34",
-      "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/4yl8kZmMw50wpomsA7kbrP"
-      },
-      "artists": [
-        {
-          "name": "Jkyl & Hyde",
-          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
-        }
-      ],
-      "duration_ms": 254571,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/50LgA55Oq94rxOSbPzMnwD"
-    },
-    {
-      "added_at": "2025-12-08 01:18:34",
-      "album": {
         "name": "Something More",
         "url": "https://open.spotify.com/album/2YRte9je2KhE4Qvuzt00ht"
       },
@@ -1731,6 +1695,22 @@
       "duration_ms": 161739,
       "name": "Something More",
       "url": "https://open.spotify.com/track/7uvy5O6RwchnhIr8B8L07y"
+    },
+    {
+      "added_at": "2025-12-08 01:18:34",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/4yl8kZmMw50wpomsA7kbrP"
+      },
+      "artists": [
+        {
+          "name": "Jkyl & Hyde",
+          "url": "https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206"
+        }
+      ],
+      "duration_ms": 254571,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/50LgA55Oq94rxOSbPzMnwD"
     },
     {
       "added_at": "2025-12-08 01:18:34",
@@ -1763,6 +1743,26 @@
     {
       "added_at": "2025-12-08 01:18:34",
       "album": {
+        "name": "BELIEVE ME",
+        "url": "https://open.spotify.com/album/46UxJpx6rHeqaKczZc4iNY"
+      },
+      "artists": [
+        {
+          "name": "BSEARL",
+          "url": "https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi"
+        },
+        {
+          "name": "CA$PAR",
+          "url": "https://open.spotify.com/artist/5QlHGPrtXeYq5YtSCpxy87"
+        }
+      ],
+      "duration_ms": 277714,
+      "name": "BELIEVE ME",
+      "url": "https://open.spotify.com/track/6qRzSv0mqhhGXzRETbe6wO"
+    },
+    {
+      "added_at": "2025-12-08 01:18:34",
+      "album": {
         "name": "Threads",
         "url": "https://open.spotify.com/album/0LuBjsCiqVt78rn6ICD9wS"
       },
@@ -1783,6 +1783,26 @@
       "duration_ms": 294404,
       "name": "Threads",
       "url": "https://open.spotify.com/track/6VQCmKT5jFdHJVGMbAnxoO"
+    },
+    {
+      "added_at": "2025-12-08 01:18:34",
+      "album": {
+        "name": "GHOST WORLD",
+        "url": "https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
+        }
+      ],
+      "duration_ms": 154853,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/3suAPiTVSB2NVqWMW7H8KX"
     },
     {
       "added_at": "2025-12-08 01:18:34",
@@ -1911,26 +1931,6 @@
       "duration_ms": 312307,
       "name": "CHROMA 008 TANGZ",
       "url": "https://open.spotify.com/track/5CQ8kbCeDFZmASjXzp2I6b"
-    },
-    {
-      "added_at": "2025-12-08 01:18:34",
-      "album": {
-        "name": "i feel ALIVE",
-        "url": "https://open.spotify.com/album/1AGpNxNX4Hn2531TwiN14L"
-      },
-      "artists": [
-        {
-          "name": "KLAXX",
-          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
-        },
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "i feel ALIVE",
-      "url": "https://open.spotify.com/track/4rqaLU3Lr8a1MBjD5sfi7g"
     }
   ],
   "unique_name": "creamy",

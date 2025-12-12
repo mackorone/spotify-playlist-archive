@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 스포티파이 뮤직 에디터가 선정한 2025 베스트 트랙입니다\. \(Cover: can’t be blue\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,120 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,133 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [OMW](https://open.spotify.com/track/5IVqC7yn1Q0cMXAvwwFsmE) | [RYUL](https://open.spotify.com/artist/6NA2UPZOjtjgrd4aCEiscq) | [OMW](https://open.spotify.com/album/3tzIgE0Lpie6rNgrFHDFha) | 2:18 |
 | 50 | [take me for granted](https://open.spotify.com/track/46712M20Ndt8S2s53bm5p5) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [corny plots](https://open.spotify.com/album/0zfLg9e00dK71hQxYzsmUO) | 4:00 |
 
-Snapshot ID: `AAAAAOh1Rfa+yqOlBfzhTo7DvUznzC1F`
+Snapshot ID: `AAAAAF6VCATdb7Vk8cQ1xpc1D4B/ov88`

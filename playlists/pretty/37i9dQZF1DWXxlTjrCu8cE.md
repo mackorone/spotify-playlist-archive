@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 
 > Pagodeira apresenta..\. O Melhor do Pagode 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,815 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,106 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 | 49 | [Vagabundo de Sorte](https://open.spotify.com/track/2zoR8bSz5zEvJvfbNxqtTf) | [Gabrielzinho](https://open.spotify.com/artist/0fqfWVF68BfV7RFPemHhDs), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Vagabundo de Sorte](https://open.spotify.com/album/4vzFgH9GJ8lEbkHneEhIBu) | 3:06 |
 | 50 | [O Mundo Girou \- Ao Vivo](https://open.spotify.com/track/7iirmwNm5ZryOSXxw6Jj0r) | [Robinho](https://open.spotify.com/artist/0FKMbv813ULLLmjFPZ19wp) | [O Mundo Girou \(Ao Vivo\)](https://open.spotify.com/album/2KOVeWjd9LxDRLtroqf1Yp) | 2:43 |
 
-Snapshot ID: `AAAAAPAM+5NEXqIzlwYOk8hPwXlK2/GZ`
+Snapshot ID: `AAAAADBaJYBYqmrvA0b3IOPuXFGcISHn`

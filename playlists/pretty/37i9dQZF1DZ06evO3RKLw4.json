@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 49898,
+  "num_followers": 49904,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAACx8Xp7jnUeAtjCic/HXdo6",
+  "snapshot_id": "aTi4AAAAAACgN/tWwtabmpiT3QwC+041",
   "tracks": [
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomorrow Never Comes",
-        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
+        "name": "Rancid",
+        "url": "https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 145367,
-      "name": "Tomorrow Never Comes",
-      "url": "https://open.spotify.com/track/7jm8Fq5juL6aYdQC3aHj83"
+      "duration_ms": 174760,
+      "name": "Hyena",
+      "url": "https://open.spotify.com/track/20GxyDLGDLr4zgb5587Oue"
     },
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancid",
-        "url": "https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr"
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 174760,
-      "name": "Hyena",
-      "url": "https://open.spotify.com/track/20GxyDLGDLr4zgb5587Oue"
+      "duration_ms": 145367,
+      "name": "Tomorrow Never Comes",
+      "url": "https://open.spotify.com/track/7jm8Fq5juL6aYdQC3aHj83"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 35572,
-      "name": "Don Giovanni",
-      "url": "https://open.spotify.com/track/5B00fJjWmpmDwTN68ppL8e"
+      "duration_ms": 78733,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5Yljkq4TrBgDpwPRZcMgh4"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 78733,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/5Yljkq4TrBgDpwPRZcMgh4"
+      "duration_ms": 35572,
+      "name": "Don Giovanni",
+      "url": "https://open.spotify.com/track/5B00fJjWmpmDwTN68ppL8e"
     },
     {
       "added_at": null,

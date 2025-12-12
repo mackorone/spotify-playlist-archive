@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 18870,
+  "num_followers": 18872,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAAA8qgpcHJfma6R9JV/2ttcs",
+  "snapshot_id": "aTi4AAAAAADGgufyCWJdNqtduCkUURAC",
   "tracks": [
     {
       "added_at": null,
@@ -279,30 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Money (feat. G Herbo)",
-        "url": "https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Bktherula",
-          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 164586,
-      "name": "Pink Money (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blick Blick",
         "url": "https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf"
       },
@@ -339,6 +315,30 @@
       "duration_ms": 208822,
       "name": "Slide (with Gunna)",
       "url": "https://open.spotify.com/track/5zYmGeAGeqM4pA4jb64NHI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Money (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/24mo9s4QMG2lWNVbANYdaC"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Bktherula",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 164586,
+      "name": "Pink Money (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6B1EaN6xYGvAVaWZXVxQoW"
     },
     {
       "added_at": null,
@@ -519,34 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Funk Wav Bounces Vol. 2",
-        "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        },
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 206135,
-      "name": "Woman Of The Year (with Stefflon Don, Chl\u00f6e & Coi Leray)",
-      "url": "https://open.spotify.com/track/2Tg6UGiplOTWZalFj1eY6y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TWINNEM (Remix)",
         "url": "https://open.spotify.com/album/6nyv0dtJ2Om5xkkCsIvCZd"
       },
@@ -579,6 +551,34 @@
       "duration_ms": 186133,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Funk Wav Bounces Vol. 2",
+        "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 206135,
+      "name": "Woman Of The Year (with Stefflon Don, Chl\u00f6e & Coi Leray)",
+      "url": "https://open.spotify.com/track/2Tg6UGiplOTWZalFj1eY6y"
     },
     {
       "added_at": null,
@@ -991,26 +991,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slime Language 2",
-        "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
+        "name": "Trendsetter",
+        "url": "https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx"
       },
       "artists": [
         {
-          "name": "Young Stoner Life",
-          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
-        },
-        {
-          "name": "Karlae",
-          "url": "https://open.spotify.com/artist/6RY7kT6PGGzAA3TG3s4Qmp"
-        },
-        {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 189813,
-      "name": "I Like (feat. Karlae & Coi Leray)",
-      "url": "https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn"
+      "duration_ms": 190560,
+      "name": "Overthinking (with H.E.R.)",
+      "url": "https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9"
     }
   ],
   "unique_name": "This Is Coi Leray",

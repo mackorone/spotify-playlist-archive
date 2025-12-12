@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more to get summer bod ready!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,441 likes - 82 songs - 4 hr 19 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,440 likes - 82 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 81 | [Forever \(with Kid Cudi\)](https://open.spotify.com/track/6azIJHmmNtLgGfAjFV7Aug) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Forever \(with Kid Cudi\)](https://open.spotify.com/album/0f4VUKiz0MYliNxKqwCoME) | 4:11 |
 | 82 | [It's Not Right But It's Okay](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [It's Not Right But It's Okay](https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO) | 2:32 |
 
-Snapshot ID: `AAAQEQfPxXcGf1Nt7lP6nC48Ed1sMqf8`
+Snapshot ID: `AAAQE8inec85yPOD3S73F+KkCr9kSwVR`

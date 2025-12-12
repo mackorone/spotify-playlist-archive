@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 
 > This is Sinéad O'Connor\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,301 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,307 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 21 | [Empire](https://open.spotify.com/track/7rU9Lk1rF17EeQnr4clnm6) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1), [Benjamin Zephaniah](https://open.spotify.com/artist/43Y2qDsaehzl7U9s2RtFX6) | [Clear](https://open.spotify.com/album/43znyD1XdGyB02qwhUpfEV) | 5:51 |
 | 22 | [I Want Your \(Hands on Me\)](https://open.spotify.com/track/3FwJ6vxxKhhvet3DM042p9) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 4:38 |
 | 23 | [Feel so Different](https://open.spotify.com/track/0oH9dKhwNOVLbJ9zoe6jIW) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 6:46 |
-| 24 | [In This Heart](https://open.spotify.com/track/4o92jEL52ww0OAPYgWWwW5) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 3:10 |
+| 24 | [Thank You for Hearing Me](https://open.spotify.com/track/1rMZzXfD89RtfwhuRRNnqx) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 6:25 |
 | 25 | [The Foggy Dew \(with Sinéad O'Connor\)](https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3) | [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Essential Chieftains](https://open.spotify.com/album/5Wmh21wtNNPzv7ZxB9Vi8G) | 5:20 |
 | 26 | [This Is a Rebel Song](https://open.spotify.com/track/6LE2Q4VMEK2tXppDUQcWbP) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Gospel Oak](https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ) | 3:02 |
 | 27 | [I Believe In You](https://open.spotify.com/track/3eTQUsyIrJpJBefEZOLdSy) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 5:38 |
-| 28 | [Thank You for Hearing Me](https://open.spotify.com/track/1rMZzXfD89RtfwhuRRNnqx) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 6:25 |
+| 28 | [In This Heart](https://open.spotify.com/track/4o92jEL52ww0OAPYgWWwW5) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 3:10 |
 | 29 | [Harbour \(feat\. Sinéad O'Connor\)](https://open.spotify.com/track/5R5cPSgvNPmGv3YmlWfhds) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [18](https://open.spotify.com/album/200xhXQBPc2OWPsZ3koxTc) | 6:27 |
 | 30 | [This Is to Mother You](https://open.spotify.com/track/60zhgcBTpV7FIxh12ieS8g) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Gospel Oak](https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ) | 3:12 |
 | 31 | [House of the Rising Sun](https://open.spotify.com/track/6SrPnpNVEBtA29I6sYyEtQ) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Thank You for Hearing Me](https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG) | 5:06 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 44 | [Famine](https://open.spotify.com/track/361298vj6RdofeKjHCiD7I) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 4:56 |
 | 45 | [Heroine](https://open.spotify.com/track/4i0bvDu2J8KOOxTzPs5qpc) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1), [The Edge](https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP), [Steve Lillywhite](https://open.spotify.com/artist/7fGW0xHsS8qa4W9KeHOQqN) | [Captive Original Soundtrack](https://open.spotify.com/album/1QOrpKGCLYMPfXT2mTaEeT) | 4:27 |
 | 46 | [Daddy I'm Fine](https://open.spotify.com/track/2pXbqQOVaI70hfUtflWf7c) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Faith and Courage](https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d) | 2:59 |
-| 47 | [Success Has Made a Failure of Our Home](https://open.spotify.com/track/62iX2QkIqloxz2ottFUq9u) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 4:27 |
+| 47 | [Outlander \- The Skye Boat Song \(Revolutionary Version\)](https://open.spotify.com/track/4SJAXVw4aJN4oXVc9ASZh0) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Outlander: Season 7 \(Highlights from the Original Television Soundtrack\)](https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn) | 3:35 |
 | 48 | [Scorn Not His Simplicity](https://open.spotify.com/track/3t9k5C5AO49ca0IqBWj26y) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 4:26 |
-| 49 | [Outlander \- The Skye Boat Song \(Revolutionary Version\)](https://open.spotify.com/track/4SJAXVw4aJN4oXVc9ASZh0) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Outlander: Season 7 \(Highlights from the Original Television Soundtrack\)](https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn) | 3:35 |
-| 50 | [I Defeat](https://open.spotify.com/track/1n81f2txtdOuZA8PtwFuBr) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Nothing But Love \- The Definitive Best Of](https://open.spotify.com/album/61YNdIhnhERWIAtuFbdxGR) | 2:56 |
+| 49 | [Success Has Made a Failure of Our Home](https://open.spotify.com/track/62iX2QkIqloxz2ottFUq9u) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 4:27 |
+| 50 | [Hold Back the Night](https://open.spotify.com/track/68zWa6LL9JDkj7erokMETN) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Faith and Courage](https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d) | 4:10 |
 
-Snapshot ID: `aTdmgAAAAAAJGR8d13ME04tCz7QZAfE7`
+Snapshot ID: `aTi4AAAAAACUdbLjKQw4YLj1s5IIHfea`

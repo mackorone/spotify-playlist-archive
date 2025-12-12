@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 302557,
+  "num_followers": 302697,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAAAxdQzAjxjMr2uhptAKrIG/",
+  "snapshot_id": "aTi4AAAAAAAljAlYOkCRpAwdlz67wxMm",
   "tracks": [
     {
       "added_at": null,
@@ -759,22 +759,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Santos Grifos, Vol. 1",
-        "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
+        "name": "Ilegal",
+        "url": "https://open.spotify.com/album/7zyXMZhsIIts324w7hEGBC"
       },
       "artists": [
         {
           "name": "La Santa Grifa",
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "GH",
-          "url": "https://open.spotify.com/artist/6Jd5jcAPjhgYNQFCcZmK5M"
         }
       ],
-      "duration_ms": 293900,
-      "name": "Cagapalos",
-      "url": "https://open.spotify.com/track/45baYHBlvniOn4TTm9tIkZ"
+      "duration_ms": 245562,
+      "name": "Ilegal",
+      "url": "https://open.spotify.com/track/6i75UApaUiIwbHKNjeZpZi"
     },
     {
       "added_at": null,
@@ -795,18 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ilegal",
-        "url": "https://open.spotify.com/album/7zyXMZhsIIts324w7hEGBC"
+        "name": "Santos Grifos, Vol. 1",
+        "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
       },
       "artists": [
         {
           "name": "La Santa Grifa",
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "GH",
+          "url": "https://open.spotify.com/artist/6Jd5jcAPjhgYNQFCcZmK5M"
         }
       ],
-      "duration_ms": 245562,
-      "name": "Ilegal",
-      "url": "https://open.spotify.com/track/6i75UApaUiIwbHKNjeZpZi"
+      "duration_ms": 293900,
+      "name": "Cagapalos",
+      "url": "https://open.spotify.com/track/45baYHBlvniOn4TTm9tIkZ"
     },
     {
       "added_at": null,

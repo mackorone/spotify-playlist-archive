@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Από τους συντάκτες μας, τα καλύτερα του EQUAL Greece 2025\. Οι φωνές των γυναικών στο διαπασών! Εξώφυλλο: Eleni Foureira
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,081 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,092 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Siga To Onoma](https://open.spotify.com/track/30HofaEMIC4o2YC1i42i8H) | [Malu](https://open.spotify.com/artist/7yRdQVDlefMJhDk3vbhjah) | [Siga To Onoma](https://open.spotify.com/album/0Z0Spa06Phvt8f85PvJ0jC) | 2:39 |
 | 50 | [Eho Psychologika](https://open.spotify.com/track/4E8GG14RgHvqpgOwyIxGZt) | [Crystallia](https://open.spotify.com/artist/7EGpmVdibkfXUVtOW3bWPu) | [Eho Psychologika](https://open.spotify.com/album/2bu9dEB1mGrtYER9oA9R80) | 2:50 |
 
-Snapshot ID: `AAAAAMNgLx7WsKGZh3J4dmFJB0GYSr8+`
+Snapshot ID: `AAAAAMGEiH8w950fAo0u5fGL43K9U0w4`

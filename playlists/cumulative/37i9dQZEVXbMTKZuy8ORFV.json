@@ -2118,7 +2118,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-26",
+      "date_removed": null,
       "duration_ms": 200583,
       "name": "Amor A\u00f1ejo",
       "url": "https://open.spotify.com/track/6BlQL6XVZeluRBAPgcML3Z"
@@ -9360,7 +9360,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-17",
+      "date_removed": null,
       "duration_ms": 197869,
       "name": "Dame Otro Motivo",
       "url": "https://open.spotify.com/track/40iaOidXr2AwfjXFqlWqcg"
@@ -10438,6 +10438,24 @@
     {
       "album": {
         "name": "DO IT",
+        "url": "https://open.spotify.com/album/4lkJ6i3LDK8HvcU2tPWX9k"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "DIVINE",
+      "url": "https://open.spotify.com/track/15nElWknZsgnSIfVihVCQf"
+    },
+    {
+      "album": {
+        "name": "DO IT",
         "url": "https://open.spotify.com/album/1Cw6UG5nVm6967rVKe0ciw"
       },
       "artists": [
@@ -10448,7 +10466,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 187000,
       "name": "DIVINE",
       "url": "https://open.spotify.com/track/7tvHcZM7GcXJQ1rKWuwRgp"
@@ -12330,7 +12348,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -14070,7 +14088,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 217059,
       "name": "Flaka",
       "url": "https://open.spotify.com/track/12iY3g6aGopgjMoDo0hb8H"
@@ -14580,6 +14598,36 @@
       "duration_ms": 78620,
       "name": "From The Start - Funk",
       "url": "https://open.spotify.com/track/7H8xaRDAVclwH48u2xyjPH"
+    },
+    {
+      "album": {
+        "name": "From The Start (Funk)",
+        "url": "https://open.spotify.com/album/6rW7rx47xhyaZHKLF7ociU"
+      },
+      "artists": [
+        {
+          "name": "-Prey",
+          "url": "https://open.spotify.com/artist/3uA4unR7LBOcqjpbOeCs0Y"
+        },
+        {
+          "name": "ZMAJOR",
+          "url": "https://open.spotify.com/artist/4nzcYFR90Ep4i3P6mlZSkP"
+        },
+        {
+          "name": "zxnc",
+          "url": "https://open.spotify.com/artist/5rxkaSGyLjU9IMtHY91Hqk"
+        },
+        {
+          "name": "Emrld!",
+          "url": "https://open.spotify.com/artist/2zzveUXTGULrNxwNo0jrss"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78620,
+      "name": "From The Start - Funk",
+      "url": "https://open.spotify.com/track/7tdfK0bCm65bz3gJL0A1cx"
     },
     {
       "album": {
@@ -15264,7 +15312,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 233653,
       "name": "Gil",
       "url": "https://open.spotify.com/track/5jgmQkVypORb3enASCxjYs"
@@ -16216,7 +16264,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
@@ -23548,7 +23596,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 105437,
       "name": "mirrors demo",
       "url": "https://open.spotify.com/track/5Jh7Gc5aF6leolD64pNRD5"
@@ -25072,7 +25120,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 135659,
       "name": "MUEVELOU",
       "url": "https://open.spotify.com/track/5S1gXR7mkUHiucrXUPGbDb"
@@ -30132,7 +30180,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 186084,
       "name": "Predador de Perereca",
       "url": "https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v"
@@ -30194,7 +30242,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 150857,
       "name": "Princesa",
       "url": "https://open.spotify.com/track/2RRAKQRyKRbPEIAjoHvgDY"
@@ -30810,7 +30858,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 246950,
       "name": "Quisiera Irme",
       "url": "https://open.spotify.com/track/261NKbS4BMStkxUZUZ3B14"
@@ -40590,7 +40638,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 143298,
       "name": "VOY A FLECHARTE EL <3",
       "url": "https://open.spotify.com/track/6WnpwzMMxyd0nSpUMMGYpQ"
@@ -42786,7 +42834,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"

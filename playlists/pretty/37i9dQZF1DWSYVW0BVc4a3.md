@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > Anna\-My & Harrison First with the sound of the Scandi underground
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,108 likes - 255 songs - 16 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,102 likes - 255 songs - 16 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

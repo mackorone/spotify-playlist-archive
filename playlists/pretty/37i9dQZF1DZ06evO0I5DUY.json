@@ -1,12 +1,12 @@
 {
   "description": "This is Los Cadetes De Linares. The essential tracks, all in one playlist.",
-  "num_followers": 234824,
+  "num_followers": 234885,
   "original_name": "This Is Los Cadetes De Linares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAAAzZSae9x2ydaiOVHc6McfV",
+  "snapshot_id": "aTi4AAAAAABBlohRg4Pde6JZt0xLTv02",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dos Coronas a Mi Madre",
-        "url": "https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 196120,
-      "name": "El Pata de Palo",
-      "url": "https://open.spotify.com/track/65YDntJ69acRqx3ANaMrZL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4 Decadas 20 Corridos",
         "url": "https://open.spotify.com/album/3zmF2n8AJ7gTBpUDiGrJMD"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 164520,
       "name": "Polvo Maldito",
       "url": "https://open.spotify.com/track/35jrPAi7haQ0bz4HbVyyUg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dos Coronas a Mi Madre",
+        "url": "https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 196120,
+      "name": "El Pata de Palo",
+      "url": "https://open.spotify.com/track/65YDntJ69acRqx3ANaMrZL"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 156880,
-      "name": "Rezando Por Ella",
-      "url": "https://open.spotify.com/track/3oKs3ZVmz4vZykuoPp84u0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pueblito",
         "url": "https://open.spotify.com/album/3gwXs9usmAvXTMZYbvOZOh"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 201880,
       "name": "El Regio Traficante",
       "url": "https://open.spotify.com/track/55bUQmbL9KBOfjpwqb19nK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 156880,
+      "name": "Rezando Por Ella",
+      "url": "https://open.spotify.com/track/3oKs3ZVmz4vZykuoPp84u0"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Tres Tumbas",
-        "url": "https://open.spotify.com/album/7Idee2mC9hCshncpBlyD1q"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 185306,
-      "name": "Eran Cuatro de a Caballo",
-      "url": "https://open.spotify.com/track/2upInlVu7yMSnUv5ls8Qjg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dos Coronas a Mi Madre",
         "url": "https://open.spotify.com/album/6bx0zhTzXsfqaekhnf09fl"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 193773,
       "name": "El Muchacho y el Potro",
       "url": "https://open.spotify.com/track/37Hgr4vvw6VMeNTCQRUimH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Tres Tumbas",
+        "url": "https://open.spotify.com/album/7Idee2mC9hCshncpBlyD1q"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 185306,
+      "name": "Eran Cuatro de a Caballo",
+      "url": "https://open.spotify.com/track/2upInlVu7yMSnUv5ls8Qjg"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inspiraci\u00f3n Norte\u00f1a",
+        "url": "https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 183280,
+      "name": "Las Tres Mujeres",
+      "url": "https://open.spotify.com/track/15sNlEfS7ahhExOHsdhqh6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homenaje A Las Madres",
         "url": "https://open.spotify.com/album/5wMmOWgWRTOyexSe2LvAEl"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 146040,
       "name": "Llor\u00e9 a Mi Madre",
       "url": "https://open.spotify.com/track/1eIrOHoP5HJv1ecm4WCvkl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inspiraci\u00f3n Norte\u00f1a",
-        "url": "https://open.spotify.com/album/7suonQgrLzPDq6xLOZ9nTR"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 183280,
-      "name": "Las Tres Mujeres",
-      "url": "https://open.spotify.com/track/15sNlEfS7ahhExOHsdhqh6"
     },
     {
       "added_at": null,

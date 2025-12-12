@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Pretty Sick
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,042 likes - 150 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,040 likes - 150 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 27 | [nyras](https://open.spotify.com/track/4X1zD8N3ZlSw7JDTpN1tni) | [bunii](https://open.spotify.com/artist/6mx3Y8XNLPaS2pjJbQFq3W) | [8:30 is too early](https://open.spotify.com/album/7l89dP0Z0Q3GykEbcLwCXW) | 2:07 |
 | 28 | [Hard To Love](https://open.spotify.com/track/7elCWnWDEjtKqM8iaa3daw) | [Mini Trees](https://open.spotify.com/artist/5gmk49M0KriLVEWOqAoqjH) | [Slow It Down](https://open.spotify.com/album/0r5fbvh1kX0pJ4AFmRxiwd) | 3:41 |
 | 29 | [Rush Hour Traffic](https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Rush Hour Traffic](https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y) | 4:24 |
-| 30 | [DRUG OF CHOICE](https://open.spotify.com/track/2bNgeZGJXIAM0XOL5Qx0O9) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [Drug of Choice](https://open.spotify.com/album/2huVnFx4dVVzrmETKDI1wc) | 3:25 |
+| 30 | [DRUG OF CHOICE](https://open.spotify.com/track/2bNgeZGJXIAM0XOL5Qx0O9) | [Clothesline From Hell](https://open.spotify.com/artist/06DLdmvJIJm0yd6G9XfPMS) | [DRUG OF CHOICE](https://open.spotify.com/album/2huVnFx4dVVzrmETKDI1wc) | 3:25 |
 | 31 | [Favorite](https://open.spotify.com/track/4HIECLcoDOlU0yFloXutMi) | [Joyer](https://open.spotify.com/artist/6h4r9Vtm0iLRTFyJrj6zcF) | [On the Other End of the Line...](https://open.spotify.com/album/605yTUmMmmUdKCjaUKRGAT) | 2:45 |
 | 32 | [Love Is](https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Pale Song / Love Is](https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ) | 3:08 |
 | 33 | [Name the Band](https://open.spotify.com/track/4Lw1vRz87nTpJ3Pb9RpQvN) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Name the Band](https://open.spotify.com/album/4bkmysvsFtwNJ77tsuKAdQ) | 1:32 |

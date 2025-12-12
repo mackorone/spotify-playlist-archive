@@ -1,12 +1,12 @@
 {
   "description": "This is Chet Baker. The essential tracks, all in one playlist.",
-  "num_followers": 122863,
+  "num_followers": 122891,
   "original_name": "This Is Chet Baker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAACeiCLe0q+XownvpRPYuF4I",
+  "snapshot_id": "aTi4AAAAAAAqc+w3T6k4qbGeXBnhrFcK",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Funny Valentine: The Best Of Chet Baker",
-        "url": "https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 423573,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/2iUrcZcAuVIahQD0dg9HLe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Trumpet Artistry Of Chet Baker",
         "url": "https://open.spotify.com/album/7HFvgWxtZA8orDNNTO6WHM"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 195960,
       "name": "Moon Love",
       "url": "https://open.spotify.com/track/3Tl1ZkXpawreFbQLeLSPXT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Funny Valentine: The Best Of Chet Baker",
+        "url": "https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 423573,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/2iUrcZcAuVIahQD0dg9HLe"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 174040,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
+      "duration_ms": 179573,
+      "name": "You're My Thrill",
+      "url": "https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 412256,
-      "name": "Alone Together - Mono",
-      "url": "https://open.spotify.com/track/1F4FRutCMOnvypcDa4JGiW"
+      "duration_ms": 276827,
+      "name": "You'd Be So Nice To Come Home To - Mono",
+      "url": "https://open.spotify.com/track/2oCnRryJfTMOV1gs0oA3Sv"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 179573,
-      "name": "You're My Thrill",
-      "url": "https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi"
+      "duration_ms": 174040,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 276827,
-      "name": "You'd Be So Nice To Come Home To - Mono",
-      "url": "https://open.spotify.com/track/2oCnRryJfTMOV1gs0oA3Sv"
+      "duration_ms": 412256,
+      "name": "Alone Together - Mono",
+      "url": "https://open.spotify.com/track/1F4FRutCMOnvypcDa4JGiW"
     },
     {
       "added_at": null,

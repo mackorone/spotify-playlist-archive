@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-410 songs - 23 hr 19 min
+411 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [Police](https://open.spotify.com/track/34TZ4X0J2RSFKL4oocpIu8) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [J5 Slap](https://open.spotify.com/artist/4UxMwyiu2JpqRyNa2CWzH0), [A1 Yolaman](https://open.spotify.com/artist/4WyKPazxbqOYXaNhpZKkX1), [Jiggie June](https://open.spotify.com/artist/55thP7PNySlkQFzaDdfkbf) | [Police](https://open.spotify.com/album/6trzY0QXeydfFxDM8Ch7B6) | 3:55 | 2022-01-28 | 2022-02-19 |
 | [Pop Music \(feat\. Moneybagg Yo & Beatking\)](https://open.spotify.com/track/7562OP1Zx84xqrO5ECYour) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4) | [Pop Music](https://open.spotify.com/album/0vKrIJGelC0Rz6R4zI7lsS) | 2:05 | 2022-01-21 | 2022-11-13 |
 | [Poppin' Them Thangs](https://open.spotify.com/track/1OKPQF7iS8TVxY4gwvBZ3n) | [G\-Unit](https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY) | [Beg For Mercy \(Explicit Version\)](https://open.spotify.com/album/41Ow8QFVL1VL8RIXLoXH9O) | 4:00 | 2022-01-14 | 2022-06-24 |
-| [Quicksand](https://open.spotify.com/track/33HO2V42Tc6xE0SbCg6vBj) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Quicksand](https://open.spotify.com/album/3VB5ViVn5PK58UmJaCdopk) | 3:43 | 2022-01-14 |  |
+| [Quicksand](https://open.spotify.com/track/33HO2V42Tc6xE0SbCg6vBj) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Quicksand](https://open.spotify.com/album/3VB5ViVn5PK58UmJaCdopk) | 3:43 | 2022-01-14 | 2025-12-12 |
 | [Quicksand](https://open.spotify.com/track/4iCZ6Cr76For1TuHUQ90r8) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Street Sermons](https://open.spotify.com/album/2GEF3N9pOsKD9jLnZj07HN) | 3:44 | 2022-07-08 | 2024-04-19 |
 | [Raindrops \(feat\. Flo Milli\)](https://open.spotify.com/track/29M1mAkW4VlxJ4noKN0RxY) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Raindrops \(feat\. Flo Milli\)](https://open.spotify.com/album/52IKnS2cBXHstdyJjQGVkv) | 2:35 | 2022-01-14 | 2022-07-29 |
 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 | 2022-01-14 | 2022-07-09 |
@@ -360,6 +360,7 @@
 | [SUVs \(Black on Black\)](https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [SUVs \(Black on Black\)](https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw) | 2:37 | 2022-01-14 | 2023-03-03 |
 | [SWAT](https://open.spotify.com/track/43Dg2fjTT2i4eSHbeGmh98) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [J\. Rawls](https://open.spotify.com/artist/3M5miYDu8lWrm0A3Q0OTag), [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [The Confidence Of Knowing](https://open.spotify.com/album/0ikGG2Y7zJslRuQNtOK4Bf) | 5:24 | 2024-09-13 | 2024-11-08 |
 | [Symphony 2000](https://open.spotify.com/track/3WXNzlFDSfjEmNFUOSccf7) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Lady Luck](https://open.spotify.com/artist/0oXoYDEPhGhN14JD4JRL5L) | [Out Of Business \(Deluxe Edition\)](https://open.spotify.com/album/4TdiCmBKujkiyMeJ1guJJa) | 4:03 | 2022-01-14 | 2022-03-07 |
+| [TaTaTa \- Spotify Sessions](https://open.spotify.com/track/06sFcSZXIEGVgebMjnRwXr) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [KayBlack & Burna Boy \- Spotify Sessions](https://open.spotify.com/album/72I7qkTVZYZZX3WaRkXB1Z) | 2:45 | 2025-12-11 |  |
 | [Tell The Vision \(feat\. Kanye West & Pusha T\)](https://open.spotify.com/track/2UwALqx6yOsXTFt7zRxnts) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:35 | 2022-01-14 |  |
 | [Tempt Me](https://open.spotify.com/track/3CAws2VaEfaIvOeTcXVpGi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Tempt Me](https://open.spotify.com/album/7ehRZk4A4DfCtxrg7Omgvk) | 2:10 | 2024-08-02 | 2025-06-14 |
 | [Tequila Shots](https://open.spotify.com/track/30KctD1WsHKTIYczXjip5a) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 3:13 | 2022-01-14 | 2023-03-03 |

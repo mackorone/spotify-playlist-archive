@@ -10458,7 +10458,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 162000,
       "name": "Dagegen",
       "url": "https://open.spotify.com/track/5AOQ9qzgZ3uHmg5zNVVpWb"
@@ -15336,7 +15336,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -17110,7 +17110,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 141000,
       "name": "Gar nichts",
       "url": "https://open.spotify.com/track/2YkxFSMwunJ7V5tzpctFRR"
@@ -19648,7 +19648,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
@@ -22308,7 +22308,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 169959,
       "name": "I'm Not What Happened To Me",
       "url": "https://open.spotify.com/track/4WoXZHKkobhjGboBGItvgU"
@@ -23086,7 +23086,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 124553,
       "name": "Im Puff Frische Ware",
       "url": "https://open.spotify.com/track/0poDViHJs7BLK7bISQktt4"
@@ -26256,7 +26256,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 164250,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/0UktmIxizq7Y4K0y98aVxo"
@@ -26358,7 +26358,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 141453,
       "name": "leicht",
       "url": "https://open.spotify.com/track/11reqIzoHjabDRgj1oMXTB"
@@ -45652,7 +45652,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 173480,
       "name": "Tirol",
       "url": "https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP"
@@ -45670,7 +45670,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 173373,
       "name": "Tirol - Remastered 2019",
       "url": "https://open.spotify.com/track/1ztXLrHOxpIF7mBJ3oTakZ"
@@ -52346,10 +52346,28 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 96000,
       "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
       "url": "https://open.spotify.com/track/6glptAOL1GSNQ1kZdWEVjj"
+    },
+    {
+      "album": {
+        "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
+        "url": "https://open.spotify.com/album/1NX1KF6EB1zsSxEcd4zopL"
+      },
+      "artists": [
+        {
+          "name": "NEXTIME",
+          "url": "https://open.spotify.com/artist/0KaA8HctO3Rt7xjMSu3YUk"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96001,
+      "name": "\u0421\u0412\u0415\u0422\u041b\u0410\u041d\u0410!",
+      "url": "https://open.spotify.com/track/35B1ToJcs6voXEoBls0PA3"
     },
     {
       "album": {

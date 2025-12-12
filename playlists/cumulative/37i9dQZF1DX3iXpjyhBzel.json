@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Isadora Pompeo",
+  "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Eli Soares, Midian Lima",
   "name": "Louvor & Adora\u00e7\u00e3o",
   "tracks": [
     {
@@ -648,6 +648,28 @@
       "duration_ms": 338218,
       "name": "Believe For It (Eu Creio)",
       "url": "https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys"
+    },
+    {
+      "album": {
+        "name": "Betel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/36GKPZfDGWd6GWWWbWZjz0"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303309,
+      "name": "Betel - Ao Vivo",
+      "url": "https://open.spotify.com/track/3e023EoYu68V1IHJdo18GO"
     },
     {
       "album": {
@@ -3044,7 +3066,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 225492,
       "name": "F\u00e9 - Ao Vivo",
       "url": "https://open.spotify.com/track/14w0mFHPb1h8SwySsiXetL"

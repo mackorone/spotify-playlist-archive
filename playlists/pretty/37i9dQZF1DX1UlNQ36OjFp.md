@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UlNQ36OjFp.md) - [plain]
 
 > <a href="spotify:artist:2Yz9F5lQVc0p6SDxkw2BvF">ZULAN</a>'s favorite tracks\. Updated regularly\. Curated by ZULAN\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,261 likes - 22 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,288 likes - 22 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UlNQ36OjFp.md) - [plain]
 | 3 | [LONG DISTANCE](https://open.spotify.com/track/5vG7iwUFxDI8xSDfya1Ist) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Escapism](https://open.spotify.com/album/2IY7M0PuMq7TltqtwFAzh8) | 3:39 |
 | 4 | [Sorry I Am Late \- Summer 2016 Version](https://open.spotify.com/track/4HubaPJdFWVTWzgHCeeW2f) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [Sorry I Am Late \(Summer 2016 Version\)](https://open.spotify.com/album/3FNgytTRQYnb8dAeDcVP00) | 3:44 |
 | 5 | [Wild for the Night \(feat\. Skrillex & Birdy Nam Nam\)](https://open.spotify.com/track/2rzBvHM9h36Tpdj7Jdajka) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Birdy Nam Nam](https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT), [Lord Flacko](https://open.spotify.com/artist/5XJdV8h0NLbf3CZdfwX3lg) | [LONG.LIVE.A$AP \(Deluxe Version\)](https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J) | 3:32 |
-| 6 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 |
+| 6 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 |
 | 7 | [Campeón](https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Campeón](https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy) | 2:53 |
 | 8 | [X\-Rated](https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [X\-Rated](https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo) | 3:04 |
 | 9 | [Hiphouse Return](https://open.spotify.com/track/6hx24YkILOfEmUL9FIg6tz) | [FeR BR](https://open.spotify.com/artist/78fAtGKcAeu68c4mPLo9Q9) | [Hiphouse Return](https://open.spotify.com/album/32s5j77kz8iD3VXQauDiF7) | 5:57 |

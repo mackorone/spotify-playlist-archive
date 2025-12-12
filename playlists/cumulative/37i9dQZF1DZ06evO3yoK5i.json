@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "UNA HISTORIA IMPORTANTE",
+        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220217,
+      "name": "Est\u00fapidas palabras rom\u00e1nticas",
+      "url": "https://open.spotify.com/track/70ilmzIKuBgB4Xb8hP1YUZ"
+    },
+    {
+      "album": {
         "name": "Eros (Spanish Version)",
         "url": "https://open.spotify.com/album/66PLBQY9K6Ehb6QYAqjYYA"
       },
@@ -910,7 +928,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 222240,
       "name": "No Estamos Solos",
       "url": "https://open.spotify.com/track/7KSsr9xwY7C8wPFq4BzOjn"

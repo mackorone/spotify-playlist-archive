@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next and now\. Cover: <a href="spotify:artist:79NDEw5QWlDC9KaIbogNhS">PlaqueBoyMax</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,490 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,525 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [TURN UP](https://open.spotify.com/track/5ogwhGSfeA3c82k4P6zriQ) | [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Rakai](https://open.spotify.com/artist/4SQN7zH1QNPFm2AFAz5qks), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [TURN UP](https://open.spotify.com/album/2Tfya2lpVhvpHDd3MTTyFP) | 2:33 |
+| 1 | [TURN UP](https://open.spotify.com/track/5ogwhGSfeA3c82k4P6zriQ) | [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Rakai](https://open.spotify.com/artist/4SQN7zH1QNPFm2AFAz5qks), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [TURN UP](https://open.spotify.com/album/2Tfya2lpVhvpHDd3MTTyFP) | 2:33 |
 | 2 | [Doot Doot \(6 7\)](https://open.spotify.com/track/18DEvCPCmzVpo2en9DeylA) | [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U) | [Doot Doot \(6 7\)](https://open.spotify.com/album/6vEolrjPbJvLzK4kKO2vSN) | 2:29 |
 | 3 | [BOAT](https://open.spotify.com/track/3saKLLmgDVjgojwm3HB45i) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9) | [BOAT](https://open.spotify.com/album/3pGNWXpCt2g48Wfs791E2E) | 3:27 |
 | 4 | [NOW OR NEVER](https://open.spotify.com/track/3GGr8LqNNe0pntDKrwsqjh) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [CXSPER](https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL) | [NOW OR NEVER](https://open.spotify.com/album/2Smy8IE9CwdKgKgZjmodE4) | 2:03 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best in new rock. Cover: MAY-A",
+  "description": "The best in new rock. Cover: Foo Fighters",
   "name": "Rock Out.",
   "tracks": [
     {
@@ -870,7 +870,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 167746,
       "name": "Beat A B!tch Up",
       "url": "https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k"
@@ -2817,6 +2817,24 @@
     },
     {
       "album": {
+        "name": "Grillin' Jams, Vol. 2",
+        "url": "https://open.spotify.com/album/0HD3da6RjD7fMyvZucjSRZ"
+      },
+      "artists": [
+        {
+          "name": "The Beefs",
+          "url": "https://open.spotify.com/artist/05Q0d2MnKH75xfeXzGDPnX"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/22yzFzFoICiGnFjgdl0JAk"
+    },
+    {
+      "album": {
         "name": "Idols",
         "url": "https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE"
       },
@@ -2930,6 +2948,24 @@
       "duration_ms": 172613,
       "name": "Good Faith",
       "url": "https://open.spotify.com/track/3QtBcoUHLb4t2nbpbGVrTN"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Stewart",
+          "url": "https://open.spotify.com/artist/4HxybppEuBP6KDY0DDmnub"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252693,
+      "name": "Goodbye My Valentine",
+      "url": "https://open.spotify.com/track/3NPwaceUBOfE0viH93lYWA"
     },
     {
       "album": {
@@ -3194,6 +3230,24 @@
       "duration_ms": 219457,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/7kPB1hXYtfc0uNt6L5bc7v"
+    },
+    {
+      "album": {
+        "name": "Everything You Gave Me",
+        "url": "https://open.spotify.com/album/2lyOXcBQzfQ7KyqgJP0Y2J"
+      },
+      "artists": [
+        {
+          "name": "Sunscreen",
+          "url": "https://open.spotify.com/artist/2NLF91sIHrRaNdoGQFmh2F"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187903,
+      "name": "Heating Up",
+      "url": "https://open.spotify.com/track/3q0Lsq7In9pv7Yds2JcH81"
     },
     {
       "album": {
@@ -4106,7 +4160,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 187716,
       "name": "Kickin' Stones",
       "url": "https://open.spotify.com/track/3WPvPjDakz0hoE4VASyr6z"
@@ -5220,7 +5274,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 160960,
       "name": "N.O.V.A",
       "url": "https://open.spotify.com/track/7u2yyIyLLMGyAuFrAHRbm6"
@@ -5404,6 +5458,24 @@
       "duration_ms": 148946,
       "name": "NO",
       "url": "https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv"
+    },
+    {
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/5COnjlxIEbPiRMnoxFc94e"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181098,
+      "name": "No Control",
+      "url": "https://open.spotify.com/track/6iYEtpQ84Vs2K5CReYfr6Y"
     },
     {
       "album": {
@@ -5876,7 +5948,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 302897,
       "name": "outlaw overture",
       "url": "https://open.spotify.com/track/3EuCkgHpzLixcDH2OtNFA3"

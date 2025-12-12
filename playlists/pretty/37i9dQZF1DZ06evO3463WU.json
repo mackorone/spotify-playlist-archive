@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 157338,
+  "num_followers": 157362,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAAC1ynG+wNrYPm8mPYGVkwCH",
+  "snapshot_id": "aTi4AAAAAABgZ/V9Q4vba+7DDLhdQWrZ",
   "tracks": [
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hombre Enamorado",
-        "url": "https://open.spotify.com/album/58kU4NbuZF48yK24YoT1Ff"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 211417,
-      "name": "Nuestro Amor",
-      "url": "https://open.spotify.com/track/5B2WmeLQzXIiMPB7yeiGpJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuenta Conmigo",
         "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 171409,
       "name": "Mi Amor Y Mi Agon\u00eda",
       "url": "https://open.spotify.com/track/2LpDaTcq9mHmhIr43phoDd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hombre Enamorado",
+        "url": "https://open.spotify.com/album/58kU4NbuZF48yK24YoT1Ff"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 211417,
+      "name": "Nuestro Amor",
+      "url": "https://open.spotify.com/track/5B2WmeLQzXIiMPB7yeiGpJ"
     },
     {
       "added_at": null,
@@ -811,6 +811,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ignoraste mis L\u00e1grimas",
+        "url": "https://open.spotify.com/album/6lOgMbZ0srl0VxkBAf7Rvy"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Lizarraga",
+          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 178527,
+      "name": "Ignoraste mis L\u00e1grimas",
+      "url": "https://open.spotify.com/track/6b0CVkwv2COK0Xd7wyWy77"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) [Banda]",
         "url": "https://open.spotify.com/album/6HFyobtjc5a3X80wLUjLu1"
       },
@@ -851,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve Por Favor",
-        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 157605,
-      "name": "Arr\u00e1ncame La Vida",
-      "url": "https://open.spotify.com/track/6xxPw0GEudMMCUKqmvdTCW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inv\u00e9ntame Un Amor",
         "url": "https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J"
       },
@@ -887,22 +891,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ignoraste mis L\u00e1grimas",
-        "url": "https://open.spotify.com/album/6lOgMbZ0srl0VxkBAf7Rvy"
+        "name": "Vuelve Por Favor",
+        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
       },
       "artists": [
-        {
-          "name": "To\u00f1o Lizarraga",
-          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
-        },
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 178527,
-      "name": "Ignoraste mis L\u00e1grimas",
-      "url": "https://open.spotify.com/track/6b0CVkwv2COK0Xd7wyWy77"
+      "duration_ms": 157605,
+      "name": "Arr\u00e1ncame La Vida",
+      "url": "https://open.spotify.com/track/6xxPw0GEudMMCUKqmvdTCW"
     }
   ],
   "unique_name": "This Is Pancho Barraza",

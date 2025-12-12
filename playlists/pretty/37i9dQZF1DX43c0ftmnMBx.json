@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 264578,
+  "num_followers": 264608,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Sentimiento",
-        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
-      },
-      "artists": [
-        {
-          "name": "Teodoro Reyes",
-          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "Los Pobres Tambien LLoran",
-      "url": "https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 308000,
       "name": "Hoja En Blanco",
       "url": "https://open.spotify.com/track/4U8sOYJreJ7D00VlyvIk2v"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Sentimiento",
+        "url": "https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo"
+      },
+      "artists": [
+        {
+          "name": "Teodoro Reyes",
+          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "Los Pobres Tambien LLoran",
+      "url": "https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA"
+      },
+      "artists": [
+        {
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "No Es una Novela",
+      "url": "https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "LAS BURBUJAS DEL JACUZZI",
         "url": "https://open.spotify.com/album/5XrAHXh8BA2Ncvltge5YPk"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 156917,
       "name": "LAS BURBUJAS DEL JACUZZI",
       "url": "https://open.spotify.com/track/1u7m5t7YwN5neo0RtL3oRB"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA"
-      },
-      "artists": [
-        {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "No Es una Novela",
-      "url": "https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Morir Solo",
-        "url": "https://open.spotify.com/album/6knKxseycCjKl3KVZizjbb"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 242342,
-      "name": "Morir Solo",
-      "url": "https://open.spotify.com/track/18hnXK4HWm3BxT8QijiJVO"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Sangre De Mis Venas",
         "url": "https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 249034,
       "name": "Sangre De Mis Venas",
       "url": "https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Morir Solo",
+        "url": "https://open.spotify.com/album/6knKxseycCjKl3KVZizjbb"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 242342,
+      "name": "Morir Solo",
+      "url": "https://open.spotify.com/track/18hnXK4HWm3BxT8QijiJVO"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "Devu\u00e9lveme Mi Libertad",
+        "url": "https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07"
+      },
+      "artists": [
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        }
+      ],
+      "duration_ms": 204564,
+      "name": "Mujer de las Mil Batallas",
+      "url": "https://open.spotify.com/track/4CKNP0H3WEWQBSNGeOvjFU"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "LLAMADA PERDIDA",
         "url": "https://open.spotify.com/album/14ZGI8bUlOfVKT8SBLFjjT"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 229536,
       "name": "Anestesiada (feat. Luis Miguel Del Amargue)",
       "url": "https://open.spotify.com/track/0E4h8zC9FLEAFia0XzRL1e"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Devu\u00e9lveme Mi Libertad",
-        "url": "https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07"
-      },
-      "artists": [
-        {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
-        }
-      ],
-      "duration_ms": 204564,
-      "name": "Mujer de las Mil Batallas",
-      "url": "https://open.spotify.com/track/4CKNP0H3WEWQBSNGeOvjFU"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "atravesao",
-        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 200510,
-      "name": "atravesao",
-      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Decid\u00ed",
         "url": "https://open.spotify.com/album/4D36ldGdxrsKprFudusBbs"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 194481,
       "name": "Decid\u00ed",
       "url": "https://open.spotify.com/track/3njDbyJILSgFmUkvztIw4h"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "atravesao",
+        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 200510,
+      "name": "atravesao",
+      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "2.0",
-        "url": "https://open.spotify.com/album/4tuxS7kkwSZ3IGqJpuc2Kd"
-      },
-      "artists": [
-        {
-          "name": "Henry Santos",
-          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
-        }
-      ],
-      "duration_ms": 250500,
-      "name": "Qu\u00edteme La Inocencia",
-      "url": "https://open.spotify.com/track/6w7Ku2mTaB2NKg59Gx2lxA"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Aqui Esta La Bachata, Vol. 2: Con Sus Interpretes Originales",
         "url": "https://open.spotify.com/album/5k70ucpuyCsNdA32zviCZ9"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 361093,
       "name": "Coraz\u00f3n Culpable",
       "url": "https://open.spotify.com/track/198HWHhymECcoWD5udzWzH"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/4tuxS7kkwSZ3IGqJpuc2Kd"
+      },
+      "artists": [
+        {
+          "name": "Henry Santos",
+          "url": "https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF"
+        }
+      ],
+      "duration_ms": 250500,
+      "name": "Qu\u00edteme La Inocencia",
+      "url": "https://open.spotify.com/track/6w7Ku2mTaB2NKg59Gx2lxA"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "Aqui Esta La Bachata, Vol. 2: Con Sus Interpretes Originales",
+        "url": "https://open.spotify.com/album/5k70ucpuyCsNdA32zviCZ9"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 282626,
+      "name": "Por Mi Timidez",
+      "url": "https://open.spotify.com/track/1sg7s8xWr14UJ1vqIilqot"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/5CpHJgQXcBXROlsDnlRY4b"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 228000,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/2xSQ05tzoYMBIuJQUWUe56"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Aqui Esta La Bachata, Vol. 2: Con Sus Interpretes Originales",
-        "url": "https://open.spotify.com/album/5k70ucpuyCsNdA32zviCZ9"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 282626,
-      "name": "Por Mi Timidez",
-      "url": "https://open.spotify.com/track/1sg7s8xWr14UJ1vqIilqot"
     },
     {
       "added_at": "2024-08-23 04:59:00",

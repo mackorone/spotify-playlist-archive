@@ -4,7 +4,7 @@
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-484 songs - 1 day 8 hr 59 min
+485 songs - 1 day 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Así Soy](https://open.spotify.com/track/5Wvw29RKTFSK0IuCd2qs4m) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Así Soy](https://open.spotify.com/album/7HoGZ5WQZ8PNQVVOEmwIAY) | 3:56 | 2021-11-16 | 2024-04-19 |
 | [Autonomo](https://open.spotify.com/track/2fLiWIH8nhWH9BBdF0WnRH) | [Bocafloja](https://open.spotify.com/artist/2bj9MQez88g09q4NSr2xjS) | [El manual de la otredad](https://open.spotify.com/album/7z3yIRNWjZGM5cdNVGXSkB) | 3:41 | 2021-11-16 | 2022-07-27 |
 | [Ayer](https://open.spotify.com/track/75NEFG5zWivLe5ZDu1brlM) | [Mike Diaz](https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz) | [Ayer](https://open.spotify.com/album/1qypB0G1Y4pPysoxK9S9Me) | 3:05 | 2021-11-16 | 2022-06-29 |
-| [Ayer Y Hoy](https://open.spotify.com/track/5qNk2QaoikQUp4Xoo5LAeo) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Mejor Que El Silencio](https://open.spotify.com/album/2Sp85NL3kFL3paJQcWg529) | 4:05 | 2021-11-16 |  |
+| [Ayer Y Hoy](https://open.spotify.com/track/5qNk2QaoikQUp4Xoo5LAeo) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Mejor Que El Silencio](https://open.spotify.com/album/2Sp85NL3kFL3paJQcWg529) | 4:05 | 2021-11-16 | 2025-12-12 |
 | [Babilonia](https://open.spotify.com/track/5gOwPlc6xJCmr3G2xUWWKQ) | [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn), [Souchi](https://open.spotify.com/artist/21MQrtr5N5sHLPKK47awzG) | [Ozmlstayl](https://open.spotify.com/album/6rZzYYP7YaJcILlPQUltCc) | 4:08 | 2021-11-16 | 2023-02-08 |
 | [Babilonia](https://open.spotify.com/track/6A3zrZTU4pe9oqDZgwajA0) | [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn), [Souchi](https://open.spotify.com/artist/21MQrtr5N5sHLPKK47awzG) | [Ozmlstayl](https://open.spotify.com/album/2gCfdIhyW4Sr2TYWUy2Rkc) | 4:08 | 2021-11-16 | 2024-04-19 |
 | [Bacdafucup](https://open.spotify.com/track/6hySnmmv0Z9bOvHKnNonbp) | [Akela](https://open.spotify.com/artist/5ksW33WNXglodrh0ZQBUD8), [Dj Deportado](https://open.spotify.com/artist/1mQKVFOK2SnXWTouBSs9Ul) | [Síncope](https://open.spotify.com/album/3Aq6BNgOu1nxgXKHw5SWXn) | 3:36 | 2021-11-16 | 2022-03-07 |
@@ -175,6 +175,7 @@
 | [Estoy En El Piso](https://open.spotify.com/track/5nkyKUWSKvFdCkhYHjUo2s) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [La Sangre Nunca Muere](https://open.spotify.com/album/2K0WaWHHDVv7o6x6ZpokCZ) | 4:43 | 2021-11-16 | 2022-03-23 |
 | [Estoy Piola](https://open.spotify.com/track/1eKfhIDcBWJ4uNNW5kzarI) | [Rapper School](https://open.spotify.com/artist/5iGxZSbSLhdLoqTg9KZtlt) | [We Don't Play](https://open.spotify.com/album/0weJOpKvaXLOmqd2cQK9Ik) | 3:45 | 2021-11-16 | 2022-07-28 |
 | [Excitación](https://open.spotify.com/track/0Usu1Czn4GN2yVFq0nKiLp) | [Pepente](https://open.spotify.com/artist/2EyucCR11vhsmDFq3oqiMy) | [Excitación](https://open.spotify.com/album/7bZXkzsc2AGN020IyEFWCb) | 3:21 | 2021-11-16 | 2022-01-25 |
+| [Expedición Al Klama Hama](https://open.spotify.com/track/0iLy9clhTrnBVYkLntoh5p) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Versus](https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g) | 5:13 | 2024-07-12 |  |
 | [Falsedades](https://open.spotify.com/track/6pck8FLAH6JMdf62b739KF) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe) | [Mixtape Remix](https://open.spotify.com/album/1tNK99WiqFYnOf86u5amUy) | 4:40 | 2021-11-16 | 2022-07-28 |
 | [Fe de Errata](https://open.spotify.com/track/5ABJNOBKeE7tNn5aOGXQ1R) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Claro](https://open.spotify.com/album/2AzFsL7ANckjBWqVIO8sn1) | 3:06 | 2021-11-16 | 2022-07-24 |
 | [Fe de Errata](https://open.spotify.com/track/7lj2BqZyPehFyu3y6N1qqw) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Claro](https://open.spotify.com/album/5AmcGezfEa27mu3Mx6bPas) | 3:06 | 2021-11-16 | 2024-04-19 |

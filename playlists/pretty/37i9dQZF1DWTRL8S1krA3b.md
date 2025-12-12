@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 
 > This year's new country holiday songs! Cover: Little Big Town
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,346 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,534 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 | 25 | [Winter Wonderland](https://open.spotify.com/track/2EnJ3Gz9iVOG4zhiacvVep) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Evergreen Christmas Sessions](https://open.spotify.com/album/2dzDF0iqTeIxbYIY4mY6O8) | 2:50 |
 | 26 | [Merry Christmas, Valentine](https://open.spotify.com/track/7sTZA6F0aJDXfQpCSnQ792) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j), [Garth Brooks](https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7) | [Merry Christmas, Valentine](https://open.spotify.com/album/7KQOlFUWcwgrUvm1JuloPA) | 3:15 |
 | 27 | [Leave The Christmas Lights On For Me](https://open.spotify.com/track/3lSGhsUHrGDavaq1veyNyB) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Leave The Christmas Lights On For Me](https://open.spotify.com/album/6mArcDIknHsPMtmWpuyQny) | 4:09 |
-| 28 | [What Christmas Means To Me](https://open.spotify.com/track/0thsJwcoQqbJZjrB9tgn6j) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [EJ Jones](https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC) | [A QC Christmas](https://open.spotify.com/album/02t9inWwAGovhOYDzMctaN) | 2:53 |
+| 28 | [What Christmas Means To Me](https://open.spotify.com/track/0thsJwcoQqbJZjrB9tgn6j) | [EJ Jones](https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC) | [A QC Christmas](https://open.spotify.com/album/02t9inWwAGovhOYDzMctaN) | 2:53 |
 | 29 | ['57 Chevy Bel Air](https://open.spotify.com/track/1MWLO6IEynncfjAlmMhiOC) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [A Very Merry Christmas From Alex Hall](https://open.spotify.com/album/0DiaXSP4rfwkyhsqaYmRNj) | 3:36 |
 | 30 | [Christmas Time Machine](https://open.spotify.com/track/13Fpya0n5xVeV2qpixL71p) | [Melanie Dyer](https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL) | [Christmas Time Machine](https://open.spotify.com/album/0MVEfX1uNhXxhAk1TWgOzS) | 3:17 |
 | 31 | [Call It Christmas](https://open.spotify.com/track/6U07SuRy9956tEyO0JxgYn) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Call It Christmas](https://open.spotify.com/album/4QtiBMfr2QcutH7GJRgGwS) | 2:47 |

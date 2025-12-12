@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > A escolha de nossos editores do Melhor de EQUAL Brasil 2025\. Cover: Gaby Amarantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,808 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,816 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Banquete](https://open.spotify.com/track/1P7QTMEiCKIqs8Wzd4w35q) | [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [Vivi](https://open.spotify.com/album/51pNtto5OEDHobez6PoXTI) | 2:34 |
 | 50 | [Acesa](https://open.spotify.com/track/4p5iCqbJpcDeGw4BzQdZte) | [LEOA](https://open.spotify.com/artist/7CsVgmYd9DmB7PiCm93Ccb) | [Original Malokera](https://open.spotify.com/album/7DbMfDyobV6VHroeOMZjU8) | 3:09 |
 
-Snapshot ID: `AAAAAEm8aIXNT/ZtzqA5muI/muaaaAsI`
+Snapshot ID: `AAAAALlRGq/tFrNdFEC3idPd3BJttMqo`

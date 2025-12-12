@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 
 > Let these calm Jazz tracks lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,561,604 likes - 135 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,561,743 likes - 135 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 134 | [Jupiter](https://open.spotify.com/track/4hjTtZqxYQpCkSKuVqLooh) | [John Dex](https://open.spotify.com/artist/06o4m4w6dY2vZ0dQteGlub) | [Jupiter](https://open.spotify.com/album/06C9y2qAK0pW7y0HoB9MLF) | 2:16 |
 | 135 | [The Way It's Supposed To Be](https://open.spotify.com/track/0f1olNUWqtcYBuUv141TBG) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [The Way It's Supposed To Be](https://open.spotify.com/album/0U5RLGTDGtSgj3Pn3p5eAk) | 3:20 |
 
-Snapshot ID: `AAAAAMxG/KM8yxbbt8SPyNmL5A95lDF8`
+Snapshot ID: `AAAAAKylQMLIY4n4rUQYh4SyBoZ4HolA`

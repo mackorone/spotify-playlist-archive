@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-31",
-  "description": "The artisanal ambient and alternative sounds make you float in the air. / \u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+  "description": "The artisanal ambient and alternative sounds make you float in the air. / \u4e0a\u8cea\u306a\u30a2\u30f3\u30d3\u30a8\u30f3\u30c8\u3068\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30df\u30e5\u30fc\u30b8\u30c3\u30af cover: aus",
   "name": "Sora Ambient",
   "tracks": [
     {
@@ -2188,7 +2188,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 166005,
       "name": "Brunnengasse",
       "url": "https://open.spotify.com/track/0oD7OVBE47bShwY5kqaVeL"
@@ -3034,6 +3034,24 @@
       "duration_ms": 183266,
       "name": "Corridors of Time",
       "url": "https://open.spotify.com/track/1kl6jzl9h38pjzALrPYvq3"
+    },
+    {
+      "album": {
+        "name": "Cosmology",
+        "url": "https://open.spotify.com/album/6Gk5jF93sKQxUu955R1Ktb"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252300,
+      "name": "Cosmology",
+      "url": "https://open.spotify.com/track/5PezNVuaf9gjU1BHqLaU5x"
     },
     {
       "album": {
@@ -14655,6 +14673,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "aus",
+          "url": "https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354000,
+      "name": "Variation I",
+      "url": "https://open.spotify.com/track/03DhSqOpC0WShbijAAmdYZ"
+    },
+    {
+      "album": {
         "name": "Kanky\u014d Ongaku: Japanese Ambient, Environmental & New Age Music 1980-1990",
         "url": "https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr"
       },
@@ -15968,7 +16004,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 163506,
       "name": "\u751f\u304d\u795e",
       "url": "https://open.spotify.com/track/58ukcEr7H33hdjy4a6WMED"

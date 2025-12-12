@@ -2,9 +2,9 @@
 
 ### [Gengetone Fire](https://open.spotify.com/playlist/37i9dQZF1DX80fLED6RkGS)
 
-> Only the hottest Gengetone coming out of Kenya\. Cover: Mad G
+> Only the hottest Gengetone coming out of Kenya\. Cover: Sailors 254
 
-472 songs - 1 day 1 hr 16 min
+473 songs - 1 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Kitawaramba](https://open.spotify.com/track/0NG3W6lJsBLz7ipN3KQtAP) | [Gwaash](https://open.spotify.com/artist/1F6HFgzRxozLXpqb188uD7), [queen b 254](https://open.spotify.com/artist/2fE54T1REZAjSnJ9j1Se9l) | [Kitawaramba](https://open.spotify.com/album/22NjO8LsBSof8uFtoENhe6) | 2:11 | 2023-06-29 | 2024-01-19 |
 | [Kitendawili](https://open.spotify.com/track/6p9AHIYBeCgxJPKj4h1ew1) | [Dezian](https://open.spotify.com/artist/6KZLhiDHLqE2NMAitthV5H), [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl), [Wakali Wao](https://open.spotify.com/artist/41Tl0dALvNay52riHG4M1b) | [Kitendawili](https://open.spotify.com/album/1BFacBiVjaDMO0FsTNiDLv) | 3:23 | 2022-02-04 | 2022-10-14 |
 | [Kitu Mature](https://open.spotify.com/track/0FR0LXiwgRGn65ELqU81HX) | [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX), [Swat Matire](https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV) | [Kitu Mature](https://open.spotify.com/album/4vkjyzZYQK8mlqu7l5wSNx) | 2:57 | 2024-02-23 | 2024-09-20 |
-| [Kong'o\. \- Remastered.](https://open.spotify.com/track/5DWb39NUiRks4meumWS06A) | [HITMAN KAHT](https://open.spotify.com/artist/6kPTEaWcNadrTgbT89FmNi) | [Kong'o\. \(Remastered.\)](https://open.spotify.com/album/0PTRAJDq8IEK7mlsEFL09K) | 3:44 | 2025-01-23 |  |
+| [Kong'o\. \- Remastered.](https://open.spotify.com/track/5DWb39NUiRks4meumWS06A) | [HITMAN KAHT](https://open.spotify.com/artist/6kPTEaWcNadrTgbT89FmNi) | [Kong'o\. \(Remastered.\)](https://open.spotify.com/album/0PTRAJDq8IEK7mlsEFL09K) | 3:44 | 2025-01-23 | 2025-12-12 |
 | [Kudade \- Fancy Fingers Refix](https://open.spotify.com/track/1R74ifptJ17EjVxpoqhBTP) | [Fancy Fingers](https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y), [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv), [Harry Craze](https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Johnny Johnny](https://open.spotify.com/artist/6zcJl0I5G3JX8Z3qzLfW1K) | [Kudade \(Fancy Fingers Refix\)](https://open.spotify.com/album/5K9DKeLWrpVl5W0GzUA5ju) | 3:17 | 2024-05-02 |  |
 | [Kudonjo Kudunda](https://open.spotify.com/track/4aJyHRdr4OyjVlkIalyG2T) | [Gadafee](https://open.spotify.com/artist/6zkAPf3HxH08uGsPYXJNhA), [Zzero Sufuri](https://open.spotify.com/artist/0uSb41cfaaEXtKDd9ZR4uO), [Tipsy Gee](https://open.spotify.com/artist/2gZ9Qtzq8vrqLkR5EUSJy5), [Breeder LW](https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy), [Kushman](https://open.spotify.com/artist/6Lx5bYAVSVhCdwnCEgdadB) | [Kudonjo Kudunda](https://open.spotify.com/album/37hIKRBLIM3k4PIHPXrSZ9) | 3:20 | 2024-04-18 |  |
 | [Kuja Ivo](https://open.spotify.com/track/3nh0ogd4RKZBYYP2plSKA7) | [Gody Tennor](https://open.spotify.com/artist/0zDvYiEj0OwqizX4YYVsbB), [YBW Smith](https://open.spotify.com/artist/68U6AVEqnL3frYT7udHvYo), [SEAN MMG](https://open.spotify.com/artist/3XNm5VibIYc1xUEDURP1kw), [Tipsy Gee](https://open.spotify.com/artist/2gZ9Qtzq8vrqLkR5EUSJy5) | [Kuja Ivo](https://open.spotify.com/album/6hLexLcCQzcYfT5qdpgTPF) | 2:47 | 2024-01-11 | 2025-04-18 |
@@ -316,6 +316,7 @@
 | [Omwana Wabandi](https://open.spotify.com/track/3xgEcMXTbj5c1wTikyMDUd) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Omwana Wabandi](https://open.spotify.com/album/3ukqDmBiPAU9TnM5XwlyKf) | 2:50 | 2022-01-20 | 2022-01-28 |
 | [One Minute Man](https://open.spotify.com/track/6mJvJwZyU1sfvWgh2KDccF) | [Petrooz](https://open.spotify.com/artist/4HLTPLigcbloihqAWILZ7C), [Kushman](https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB), [Benzema](https://open.spotify.com/artist/4d1VrBTFkryAiW9l43GSgK) | [One Minute Man](https://open.spotify.com/album/2OX90iLSjJbdlIFkt9DLDd) | 2:58 | 2024-07-11 | 2025-02-14 |
 | [Overseas](https://open.spotify.com/track/1yjqZSp6GZUh4CNW4w5ATO) | [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H), [Trigga Youngboy](https://open.spotify.com/artist/2X6J78Zg69QUp60vnAgl7q) | [Overseas](https://open.spotify.com/album/3pinsBjovPydcwYY8HGMXK) | 2:53 | 2023-08-17 | 2023-12-15 |
+| [Pambana](https://open.spotify.com/track/2k0RL7Mp7CcsnbvULRle1w) | [Sailors 254](https://open.spotify.com/artist/0tMrNU3RSWhGj80Nq1fO8a) | [Pambana](https://open.spotify.com/album/0eyrOhxbWkgMJd3IEbm9kp) | 2:50 | 2025-12-12 |  |
 | [Pande Ile](https://open.spotify.com/track/3UPbsBz5rTewK0bfWLy6Wy) | [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW) | [Pande Ile](https://open.spotify.com/album/7jAzig22ZqxAJzgncviWhz) | 2:47 | 2024-01-18 | 2024-08-09 |
 | [Pandemik](https://open.spotify.com/track/4brFh0GOyGxdh6qfUDOpGK) | [Ochungulo Family](https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b) | [Pandemik](https://open.spotify.com/album/686UwrTXLaD6lSndiKXqil) | 2:49 | 2021-08-27 | 2022-02-05 |
 | [Parapanda](https://open.spotify.com/track/7bdXLS6siHEqbFG5krd6oI) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap), [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA) | [Parapanda](https://open.spotify.com/album/5KfKwpJ5q5NkZoCzPiESJq) | 3:36 | 2024-02-08 |  |

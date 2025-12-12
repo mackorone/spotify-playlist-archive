@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Daria ze \u015al\u0105ska",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Wiktoria Zwoli\u0144ska",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -780,7 +780,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 154139,
       "name": "Autostrada",
       "url": "https://open.spotify.com/track/2n0trjUfqbAMysNNsjnEhe"
@@ -2274,6 +2274,28 @@
       "duration_ms": 256026,
       "name": "California",
       "url": "https://open.spotify.com/track/3g57wXRDOAzYnLzIuhrTHt"
+    },
+    {
+      "album": {
+        "name": "CEL PAL",
+        "url": "https://open.spotify.com/album/0u2nRnh3MDdHX5FrVBRaKb"
+      },
+      "artists": [
+        {
+          "name": "SIEKIRKA",
+          "url": "https://open.spotify.com/artist/53253rq8NWY9jwM3qlYKaM"
+        },
+        {
+          "name": "Shaiba",
+          "url": "https://open.spotify.com/artist/1kcUSDHhizNeLXLD1WaoO9"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "CEL PAL",
+      "url": "https://open.spotify.com/track/5FvF9KhgEqRLU4PUm0DGUV"
     },
     {
       "album": {
@@ -4590,7 +4612,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 244571,
       "name": "Droga",
       "url": "https://open.spotify.com/track/7JNSx5oxYEBE34VSSSnfIW"
@@ -4688,6 +4710,24 @@
       "duration_ms": 180000,
       "name": "Duch",
       "url": "https://open.spotify.com/track/6rWIDZ3kqUuGYPvR68wuER"
+    },
+    {
+      "album": {
+        "name": "My Name Is Pozna\u0144 4.0",
+        "url": "https://open.spotify.com/album/40qT9MT0EfkLT7k6Na1Ev3"
+      },
+      "artists": [
+        {
+          "name": "Kachus",
+          "url": "https://open.spotify.com/artist/3Ya5NT5vLex3mCIt2DTmkJ"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180920,
+      "name": "Duma",
+      "url": "https://open.spotify.com/track/7x9Y4840DOkLn8vqQBA6DC"
     },
     {
       "album": {
@@ -5353,6 +5393,28 @@
     },
     {
       "album": {
+        "name": "Blue music",
+        "url": "https://open.spotify.com/album/4xuNNfpH4La2sigSZA0aYW"
+      },
+      "artists": [
+        {
+          "name": "SHD\u00d8W",
+          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
+        },
+        {
+          "name": "Pola",
+          "url": "https://open.spotify.com/artist/35TNTrLhxCXmfO4wL4IWUa"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182068,
+      "name": "Eyes wide open",
+      "url": "https://open.spotify.com/track/1OM5jb3rUGHM1GqTSkX6Jc"
+    },
+    {
+      "album": {
         "name": "Fake ID",
         "url": "https://open.spotify.com/album/5QGGbcVRxSnDuRdQXJsKq2"
       },
@@ -5492,6 +5554,24 @@
       "duration_ms": 150167,
       "name": "femina",
       "url": "https://open.spotify.com/track/2S03NaZY5eMfceCGb3XliD"
+    },
+    {
+      "album": {
+        "name": "Ta druga na Bis",
+        "url": "https://open.spotify.com/album/0ZamkmjSSNdMdrBiKznbV1"
+      },
+      "artists": [
+        {
+          "name": "Ka\u015bka Sochacka",
+          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209896,
+      "name": "Femme Fatale na Bis",
+      "url": "https://open.spotify.com/track/0yMhXokJmhkGzcE6ujCesZ"
     },
     {
       "album": {
@@ -6026,6 +6106,24 @@
       "duration_ms": 193051,
       "name": "Go\u0144",
       "url": "https://open.spotify.com/track/5omh3aRPMa7AVk9wzpiO9S"
+    },
+    {
+      "album": {
+        "name": "grudzie\u0144",
+        "url": "https://open.spotify.com/album/2IEZYZnUxlIfIIizQzq8HE"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria Zwoli\u0144ska",
+          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142479,
+      "name": "grudzie\u0144",
+      "url": "https://open.spotify.com/track/0HFAnKwahoPraQZdVv0nXk"
     },
     {
       "album": {
@@ -6715,6 +6813,24 @@
     },
     {
       "album": {
+        "name": "Idzie zima (LIVE PRZESILENIE)",
+        "url": "https://open.spotify.com/album/5dqEolKKPgUvyYVYrroDnq"
+      },
+      "artists": [
+        {
+          "name": "Kwiat Jab\u0142oni",
+          "url": "https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299097,
+      "name": "Idzie zima - LIVE PRZESILENIE",
+      "url": "https://open.spotify.com/track/269qiwMs9TJOD951C5ZYXq"
+    },
+    {
+      "album": {
         "name": "Idziesz",
         "url": "https://open.spotify.com/album/0R2YrqhG7KKTpdjHqqsVL2"
       },
@@ -6912,7 +7028,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 168837,
       "name": "innym razem",
       "url": "https://open.spotify.com/track/3MUb0NoCMcg8yr2DUp9krH"
@@ -7042,7 +7158,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 179540,
       "name": "JAK CHCESZ.",
       "url": "https://open.spotify.com/track/2nyNh7qjbClve5QSapF5c2"
@@ -7342,6 +7458,24 @@
       "duration_ms": 243582,
       "name": "Jenga",
       "url": "https://open.spotify.com/track/4vIK2tyE73DXgvpJzdcMfI"
+    },
+    {
+      "album": {
+        "name": "jesie\u0144",
+        "url": "https://open.spotify.com/album/3g1MRVh10PgNqUJQq9MtT2"
+      },
+      "artists": [
+        {
+          "name": "oswojeni",
+          "url": "https://open.spotify.com/artist/6HSaeoRmLRRCdymdtKFsfh"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198664,
+      "name": "jesie\u0144",
+      "url": "https://open.spotify.com/track/091Zr4scQZwahNqgIdEDkZ"
     },
     {
       "album": {
@@ -7790,7 +7924,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 90000,
       "name": "ju\u017c wychodz\u0119",
       "url": "https://open.spotify.com/track/6plmaFaaTC1wXJBokbLBEX"
@@ -8306,6 +8440,42 @@
       "duration_ms": 207140,
       "name": "KOI",
       "url": "https://open.spotify.com/track/5EzBwodBNd3LX4a9mxnBvE"
+    },
+    {
+      "album": {
+        "name": "Kolejny raz",
+        "url": "https://open.spotify.com/album/7rKks61icFHGn4GtkUuZRn"
+      },
+      "artists": [
+        {
+          "name": "Lucas Flint",
+          "url": "https://open.spotify.com/artist/6hDQK58Mp46BJ8mCVR8ToK"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199977,
+      "name": "Kolejny raz",
+      "url": "https://open.spotify.com/track/6B8XJifTbpMQePoTs5UEHB"
+    },
+    {
+      "album": {
+        "name": "Kolejny taki dzie\u0144",
+        "url": "https://open.spotify.com/album/1DH4MV3qYRCs7QaZ8uyvLh"
+      },
+      "artists": [
+        {
+          "name": "Andy Birds",
+          "url": "https://open.spotify.com/artist/7iWZRPwpiKyAL5PLXEhAeg"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211992,
+      "name": "Kolejny taki dzie\u0144",
+      "url": "https://open.spotify.com/track/3A9CEwgKmbbVQYgRaFKj75"
     },
     {
       "album": {
@@ -8876,7 +9046,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 250434,
       "name": "Ksi\u0119\u017cyc nad Warszaw\u0105",
       "url": "https://open.spotify.com/track/6Tb2qvtbfKkVvHHfdiyrfk"
@@ -10567,6 +10737,28 @@
     },
     {
       "album": {
+        "name": "Mieszany Mieszany",
+        "url": "https://open.spotify.com/album/6Cic49CJali2zQeye8L3Lp"
+      },
+      "artists": [
+        {
+          "name": "Faustyna Maciejczuk",
+          "url": "https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj"
+        },
+        {
+          "name": "Domin",
+          "url": "https://open.spotify.com/artist/5BrYU5AWfh1TfOPGOEVQkn"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129687,
+      "name": "Mieszany Mieszany",
+      "url": "https://open.spotify.com/track/1pcQvECPomjRFKe2dzqRSa"
+    },
+    {
+      "album": {
         "name": "Mikroplastik",
         "url": "https://open.spotify.com/album/4hbje4m5Ygdp6qgqViDko7"
       },
@@ -11952,6 +12144,28 @@
       "duration_ms": 273000,
       "name": "NAD RANEM",
       "url": "https://open.spotify.com/track/3WOdMYBgZJBKKqMVzU3ndj"
+    },
+    {
+      "album": {
+        "name": "KR\u00d3TKI METRA\u017b",
+        "url": "https://open.spotify.com/album/3opMMjlqIRq3CKBISGyRha"
+      },
+      "artists": [
+        {
+          "name": "Piotr Odoszewski",
+          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
+        },
+        {
+          "name": "Wiktor Walig\u00f3ra",
+          "url": "https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306892,
+      "name": "nad ranem (kr\u00f3tki metra\u017c)",
+      "url": "https://open.spotify.com/track/4bT7K59EKjtBBn4RtGxvN1"
     },
     {
       "album": {
@@ -14938,7 +15152,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 114187,
       "name": "PANI DOMU",
       "url": "https://open.spotify.com/track/2M1P4LUMHfuLlntE7HCsfO"
@@ -14956,7 +15170,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 233564,
       "name": "Papierki po Bajecznych / Niebo",
       "url": "https://open.spotify.com/track/0RxmF64yKRtUcTAK9LGHNk"
@@ -16248,7 +16462,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 186000,
       "name": "Po\u017car",
       "url": "https://open.spotify.com/track/7APaheLGSXt4h0fm9zs7S2"
@@ -19327,6 +19541,24 @@
     },
     {
       "album": {
+        "name": "S\u0105 domy, do kt\u00f3rych nie da si\u0119 wr\u00f3ci\u0107",
+        "url": "https://open.spotify.com/album/187Rzrr6xreWkAMRLMZhWK"
+      },
+      "artists": [
+        {
+          "name": "Ganczarska",
+          "url": "https://open.spotify.com/artist/3q26cqbn7bDj4LfrDHg5xo"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252655,
+      "name": "S\u0105 domy, do kt\u00f3rych nie da si\u0119 wr\u00f3ci\u0107",
+      "url": "https://open.spotify.com/track/3EVixrZa0pAGaADt0NJy5T"
+    },
+    {
+      "album": {
         "name": "D\u017cungla",
         "url": "https://open.spotify.com/album/41Szw6etRyeAXE6xi8HVS3"
       },
@@ -19918,7 +20150,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 205687,
       "name": "The Place",
       "url": "https://open.spotify.com/track/3LYqEvqaCFKmPkJNloPCUT"
@@ -22011,6 +22243,24 @@
     },
     {
       "album": {
+        "name": "Wielkie \u017carcie",
+        "url": "https://open.spotify.com/album/1kE8TqLvDsfzjGq91t9Ciu"
+      },
+      "artists": [
+        {
+          "name": "ta Ukrainka",
+          "url": "https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214800,
+      "name": "Wielkie \u017carcie",
+      "url": "https://open.spotify.com/track/3f0vZkxnsgfuYnMBnyjLZS"
+    },
+    {
+      "album": {
         "name": "Wieloryby",
         "url": "https://open.spotify.com/album/6F0D5wnpUNaAe55NFiU4V0"
       },
@@ -22134,7 +22384,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 150000,
       "name": "Wi\u0119cej",
       "url": "https://open.spotify.com/track/6BCYjfFgZ79iVKgzHVDUYG"
@@ -22462,7 +22712,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 183587,
       "name": "Wspomnienia zmy\u015blonego ch\u0142opaka",
       "url": "https://open.spotify.com/track/6YgkVyo2DROk8lZIdGp9UH"
@@ -24168,7 +24418,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 158336,
       "name": "Znowu to samo",
       "url": "https://open.spotify.com/track/3jmPAEpTizfFmAYHKZoq5M"

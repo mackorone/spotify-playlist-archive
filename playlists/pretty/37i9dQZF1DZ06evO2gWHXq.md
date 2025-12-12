@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 
 > This is MC Davo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,710 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,715 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 22 | [Te Acostumbraste](https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Te Acostumbraste](https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U) | 3:02 |
 | 23 | [Le Pido a la Noche](https://open.spotify.com/track/1qb2uXjDs1Oms1RLJkJP4q) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Le Pido a la Noche](https://open.spotify.com/album/5A2O82embthnUakFLo7US1) | 4:01 |
 | 24 | [Todo menso](https://open.spotify.com/track/5jTyfDxDgdCFLmqzT1UM1e) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Canciones Mamalonas 3](https://open.spotify.com/album/2sLUDN7rY8R4groR12KFbL) | 3:11 |
-| 25 | [Tumbao](https://open.spotify.com/track/6ztcwuxPlPOXoo9PG5ZhWE) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Estilo Fino](https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh) | 3:18 |
-| 26 | [La Que Decía Que No](https://open.spotify.com/track/3eK1cGd1tYOV64neq82IKu) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 2:28 |
+| 25 | [La Que Decía Que No](https://open.spotify.com/track/3eK1cGd1tYOV64neq82IKu) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Canciones Mamalonas 2](https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX) | 2:28 |
+| 26 | [Tumbao](https://open.spotify.com/track/6ztcwuxPlPOXoo9PG5ZhWE) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Estilo Fino](https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh) | 3:18 |
 | 27 | [Marybel \- Remix](https://open.spotify.com/track/7dMzc5RCPKKRLnMN98U2Tg) | [Dj Aza](https://open.spotify.com/artist/2qsETcaDdvTRTaL3nU4zNK), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP), [Gaelo](https://open.spotify.com/artist/7r76FpQEWB31MAmrO9qjPt), [Alan Dazmel](https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm) | [Marybel \(Remix\)](https://open.spotify.com/album/17cVR6PmWZBTbiIV3NH3yU) | 3:38 |
 | 28 | [Round 1](https://open.spotify.com/track/7tD4XEfccqvsG7iUuDt0BB) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Round 1 \(feat\. MC Davo\) \- Single](https://open.spotify.com/album/3d29hQi3BhkXTNQrXhBbxQ) | 3:54 |
 | 29 | [Round 7](https://open.spotify.com/track/32IndMzD07SrdRxWQ7G7Fd) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Round 7](https://open.spotify.com/album/5ynjByApIoTlaO6Hszz59N) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 49 | [Lo Que Antes Eramos](https://open.spotify.com/track/0W9CE8nRywgykCOnz8mVvE) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Jr López](https://open.spotify.com/artist/1oXMq3RQFNAuWRmDZJZjRO) | [Canciones Mamalonas 4](https://open.spotify.com/album/3M7owdK0xbVIlEvUcKn0QF) | 3:36 |
 | 50 | [Aparentan \(feat\. Adán Zapata\)](https://open.spotify.com/track/1ZBJsZZkxVuTI1fCnk3MsU) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Adán Zapata](https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl) | [Psicosis 2](https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO) | 3:10 |
 
-Snapshot ID: `aTdmgAAAAADftdsaTF9JbFvcp3c6sfyx`
+Snapshot ID: `aTi4AAAAAADecgk+9h6mnVd0SlzzHVMH`

@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-164 songs - 9 hr 48 min
+165 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Blame](https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA) | 2:50 | 2025-07-18 |  |
 | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk) | 2:59 | 2025-07-18 |  |
 | [BLOOM](https://open.spotify.com/track/7FR31W0Gpfs7s4fLoBV2Go) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [BLOOM](https://open.spotify.com/album/0AduTuWnko3IDC0Oua18qQ) | 2:47 | 2025-07-25 | 2025-08-13 |
+| [Bluffin'](https://open.spotify.com/track/3vPg0XDAZTY8Ns93Lpph8Z) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Bluffin'](https://open.spotify.com/album/6XvRFqyw6XKRzNErVUoe89) | 2:19 | 2025-12-04 |  |
 | [Blushing](https://open.spotify.com/track/33djYn9meJOgHBFWHa75M6) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Blushing](https://open.spotify.com/album/50AvsVRJ1md7XzO8rLVPus) | 4:07 | 2025-08-21 | 2025-10-11 |
 | [Boa Sorte / Good Luck \(feat\. Ben Harper\)](https://open.spotify.com/track/1LR5KBD64oRzGEjQhAMNdj) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Sim](https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC) | 3:55 | 2025-07-18 |  |
 | [Call Me](https://open.spotify.com/track/4VuQDgGCITUEMT5NWKvWFK) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Call Me](https://open.spotify.com/album/1MQRxIVZfu0T2UM5Z5x8Sz) | 3:48 | 2025-11-06 |  |
@@ -43,7 +44,7 @@
 | [De Cara a la Pared](https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI) | [La Llorona](https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP) | 4:15 | 2025-07-18 |  |
 | [Delay](https://open.spotify.com/track/4S8ClIfm6X0ddX7YaDjx1o) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Delay](https://open.spotify.com/album/4u5PEdBoOdNSQo1KhlYSWw) | 2:43 | 2025-11-06 |  |
 | [Didn't Mean To](https://open.spotify.com/track/0R2F8Y0exgly8whypDattk) | [Saint Stacy](https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G) | [Beginner Again](https://open.spotify.com/album/7BYYX0vfbrwK90dpIlwQKI) | 2:36 | 2025-11-06 | 2025-12-07 |
-| [Driving on the Highway](https://open.spotify.com/track/1BctvielVTwcdifVKIYT1N) | [Anwar](https://open.spotify.com/artist/0NXESLEJPcyXznlxQGxiud) | [Beautiful Sunrise](https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV) | 3:29 | 2025-11-06 |  |
+| [Driving on the Highway](https://open.spotify.com/track/1BctvielVTwcdifVKIYT1N) | [Anwar](https://open.spotify.com/artist/0NXESLEJPcyXznlxQGxiud) | [Beautiful Sunrise](https://open.spotify.com/album/582V2xU2XzvbL1nNuB6SQV) | 3:29 | 2025-11-06 | 2025-12-12 |
 | [Eden](https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Eden](https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca) | 4:07 | 2025-11-14 |  |
 | [Edge of the Earth](https://open.spotify.com/track/3GzhyEkF7m89mVv3BUJh8N) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Edge of the Earth](https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN) | 3:40 | 2025-11-14 |  |
 | [El camino negro](https://open.spotify.com/track/46TKHBSVXIOYjfi3pp6X7F) | [Tommy Guerrero](https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7) | [Road to Knowhere](https://open.spotify.com/album/5XNcBTBDka0LqtQ7FYJlVh) | 5:08 | 2025-07-18 | 2025-08-22 |

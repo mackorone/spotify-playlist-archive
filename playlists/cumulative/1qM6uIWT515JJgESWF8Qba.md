@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-79 songs - 4 hr 48 min
+80 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Reveal](https://open.spotify.com/track/66VkLOO259SrOeyGRMoD0n) | [Nempty](https://open.spotify.com/artist/6Fnh4iRaxlyEQdASmWpCSl) | [Reveal](https://open.spotify.com/album/21O7YHeOghdgNHX1E76AeC) | 3:54 | 2025-11-13 |  |
 | [Saville](https://open.spotify.com/track/5g40gn5av9sdygG0LL2Jww) | [Vagabond](https://open.spotify.com/artist/7MSoa7Tp2JrGo6Ej5144YK) | [No Future](https://open.spotify.com/album/5Jh9tuFoyJ2WECWDFcpm4g) | 3:12 | 2025-09-08 |  |
 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 | 2025-10-21 |  |
+| [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2025-12-11 |  |
 | [Sugar Husk](https://open.spotify.com/track/5z1wdXc7CubJyvWkSqT8g6) | [Novelistme](https://open.spotify.com/artist/1x8JnJjZPlFO4UciBRXMQb) | [Sugar Husk](https://open.spotify.com/album/6FlVAZQscsAXMcXhtrNETh) | 2:13 | 2025-10-31 |  |
 | [Symptoms](https://open.spotify.com/track/5hc8GGmxu3BgKXSniNkrSP) | [Ms\. Black](https://open.spotify.com/artist/1mBBTF4wjXjlIDbXN77rxi) | [Symptoms](https://open.spotify.com/album/3irfLhqD8GeOS4rExK08EI) | 2:51 | 2025-10-28 |  |
 | [Take Me to the Top](https://open.spotify.com/track/3iikl4YLJHy3JyegB6FzAE) | [ARMAGELION](https://open.spotify.com/artist/4SbqNuXLiu8IFt1RdIDtia) | [Take Me to the Top](https://open.spotify.com/album/0W2FAqh9grkIdrF21bhTTe) | 4:05 | 2025-12-06 |  |

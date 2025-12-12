@@ -502,7 +502,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 160509,
       "name": "AMAZIN",
       "url": "https://open.spotify.com/track/04KZEpLfPcqFLFoNM0U3Fj"
@@ -3289,6 +3289,24 @@
     },
     {
       "album": {
+        "name": "Head Over Heels",
+        "url": "https://open.spotify.com/album/6h3wZMS53G5yxRB2ZcZWx6"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194399,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/0uyv1zBBUQolBPzKlslzKh"
+    },
+    {
+      "album": {
         "name": "Headbanger",
         "url": "https://open.spotify.com/album/0OcIRYsHa2lbMMu6qB9niK"
       },
@@ -5906,7 +5924,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 170231,
       "name": "Pity Party Princess",
       "url": "https://open.spotify.com/track/1Sk1xlCDUwUplLatU0MWRa"
@@ -7084,6 +7102,28 @@
       "duration_ms": 160321,
       "name": "S\u00fc\u00dfe Tr\u00e4ume",
       "url": "https://open.spotify.com/track/4c8LnzyBlBW1crRcbDXKoW"
+    },
+    {
+      "album": {
+        "name": "take a minute",
+        "url": "https://open.spotify.com/album/3iqvT2WGWwgM0ksgV21yc3"
+      },
+      "artists": [
+        {
+          "name": "LUKAS OSCAR",
+          "url": "https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH"
+        },
+        {
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188764,
+      "name": "take a minute",
+      "url": "https://open.spotify.com/track/1eenXCseEdOy5uid5p8n7G"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Our editors' picks for the best indie songs of the year\. Cover: Balu Brigada
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,341 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,303 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 49 | [Hurricane](https://open.spotify.com/track/4VmUjQemFIPObiloQu0xgQ) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [I’m Sorry, Now Say It Back](https://open.spotify.com/album/5zdn7NF3UcpwC9SUsvvGaf) | 3:10 |
 | 50 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 |
 
-Snapshot ID: `AAAAAKZvrMowK+Kyy1ZoDtvQANS5OO21`
+Snapshot ID: `AAAAAKMh+qj5KqGHdxR2U/iYUelQv0Yu`

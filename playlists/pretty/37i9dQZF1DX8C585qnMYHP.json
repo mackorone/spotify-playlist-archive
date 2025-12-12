@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:2gSV6FsMxBBH01LLNgx6HU\">Babau</a> on cover. Artwork by Thami Nabil, photo by Stefania Zanetti",
-  "num_followers": 192009,
+  "num_followers": 192019,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -399,18 +399,22 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Twin Color (Extended Play No. 2)",
-        "url": "https://open.spotify.com/album/3IA7WQ7LazMLrQO9RNvgtW"
+        "name": "If I Had a Boat",
+        "url": "https://open.spotify.com/album/5kzZHox2H0kcWMo9l8AgEd"
       },
       "artists": [
         {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+          "name": "Kieran Hebden",
+          "url": "https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E"
+        },
+        {
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
         }
       ],
-      "duration_ms": 268163,
-      "name": "Cosmic Drifter - Edit",
-      "url": "https://open.spotify.com/track/3PrqXierQJ2hw20B4JIk3Q"
+      "duration_ms": 678676,
+      "name": "If I Had a Boat",
+      "url": "https://open.spotify.com/track/2jzIgL4FzE2whuIdMEjOAO"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -435,22 +439,18 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "If I Had a Boat",
-        "url": "https://open.spotify.com/album/5kzZHox2H0kcWMo9l8AgEd"
+        "name": "Twin Color (Extended Play No. 2)",
+        "url": "https://open.spotify.com/album/3IA7WQ7LazMLrQO9RNvgtW"
       },
       "artists": [
         {
-          "name": "Kieran Hebden",
-          "url": "https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E"
-        },
-        {
-          "name": "William Tyler",
-          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
         }
       ],
-      "duration_ms": 678676,
-      "name": "If I Had a Boat",
-      "url": "https://open.spotify.com/track/2jzIgL4FzE2whuIdMEjOAO"
+      "duration_ms": 268163,
+      "name": "Cosmic Drifter - Edit",
+      "url": "https://open.spotify.com/track/3PrqXierQJ2hw20B4JIk3Q"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "O, Dark Mother",
-        "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
-      },
-      "artists": [
-        {
-          "name": "Masma Dream World",
-          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
-        }
-      ],
-      "duration_ms": 331774,
-      "name": "O, Dark Mother",
-      "url": "https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Clandestine",
         "url": "https://open.spotify.com/album/5rIausjHvphykBRA3h1aMF"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 156000,
       "name": "new links",
       "url": "https://open.spotify.com/track/2MFXIYR10k8fUumqanMSLI"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "O, Dark Mother",
+        "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
+      },
+      "artists": [
+        {
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+        }
+      ],
+      "duration_ms": 331774,
+      "name": "O, Dark Mother",
+      "url": "https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
+        "name": "Blue Veil",
+        "url": "https://open.spotify.com/album/63DNAWFmg6nfeAPghfyhu0"
+      },
+      "artists": [
+        {
+          "name": "Lucy Railton",
+          "url": "https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9"
+        }
+      ],
+      "duration_ms": 259402,
+      "name": "Phase I",
+      "url": "https://open.spotify.com/track/7IF1ZThmxTNO14g0omrkdM"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
         "name": "Pulse",
         "url": "https://open.spotify.com/album/4oJhQh8Qgh0aEfGn4vdpQn"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 271701,
       "name": "Summer Rain - Keep on Dancing Rework",
       "url": "https://open.spotify.com/track/6RlCY03rdTbNWon5HNCBkq"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
-        "name": "Blue Veil",
-        "url": "https://open.spotify.com/album/63DNAWFmg6nfeAPghfyhu0"
-      },
-      "artists": [
-        {
-          "name": "Lucy Railton",
-          "url": "https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9"
-        }
-      ],
-      "duration_ms": 259402,
-      "name": "Phase I",
-      "url": "https://open.spotify.com/track/7IF1ZThmxTNO14g0omrkdM"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Windows",
-        "url": "https://open.spotify.com/album/0sMeW7EWTcCKtrbHmTdeFn"
-      },
-      "artists": [
-        {
-          "name": "Scratching",
-          "url": "https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn"
-        }
-      ],
-      "duration_ms": 221960,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/2dlInC7fYSDzTXKOVMlmLD"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Pythagoras",
         "url": "https://open.spotify.com/album/2FPcePdkU5QkMJG2NbU0gk"
       },
@@ -1035,22 +1019,6 @@
       "duration_ms": 314500,
       "name": "Pretty Pigs",
       "url": "https://open.spotify.com/track/0a90WjCTgyJ28YzHvzhO9l"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
-        "name": "Rememberer",
-        "url": "https://open.spotify.com/album/3upV2lrm2jUWJUkEr0kKzd"
-      },
-      "artists": [
-        {
-          "name": "Radio Anorak",
-          "url": "https://open.spotify.com/artist/7DI8lla9rOD2GxmKprt2yl"
-        }
-      ],
-      "duration_ms": 208917,
-      "name": "King of England",
-      "url": "https://open.spotify.com/track/6g7p4fERQRnAPHtfDfqbWL"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1071,6 +1039,22 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
+        "name": "Rememberer",
+        "url": "https://open.spotify.com/album/3upV2lrm2jUWJUkEr0kKzd"
+      },
+      "artists": [
+        {
+          "name": "Radio Anorak",
+          "url": "https://open.spotify.com/artist/7DI8lla9rOD2GxmKprt2yl"
+        }
+      ],
+      "duration_ms": 208917,
+      "name": "King of England",
+      "url": "https://open.spotify.com/track/6g7p4fERQRnAPHtfDfqbWL"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
         "name": "BOH\u00c8ME",
         "url": "https://open.spotify.com/album/75myWFnHRo0c6hhaRmdf0K"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Rene",
-        "url": "https://open.spotify.com/album/2dWdK38RNNPb0Vw6kYI6Dl"
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/0sMeW7EWTcCKtrbHmTdeFn"
       },
       "artists": [
         {
-          "name": "LOTUS FROM JAKARTA",
-          "url": "https://open.spotify.com/artist/41J5awaMlB8Jr9O3eLbrtG"
+          "name": "Scratching",
+          "url": "https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn"
         }
       ],
-      "duration_ms": 239999,
-      "name": "Voy_Edit",
-      "url": "https://open.spotify.com/track/21gAmR7GvfXSu3jg7kJ3ua"
+      "duration_ms": 221960,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/2dlInC7fYSDzTXKOVMlmLD"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1115,6 +1099,22 @@
       "duration_ms": 126267,
       "name": "Ghost Ryder",
       "url": "https://open.spotify.com/track/1fd3A5zfvQFtbQR46wa9P3"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Rene",
+        "url": "https://open.spotify.com/album/2dWdK38RNNPb0Vw6kYI6Dl"
+      },
+      "artists": [
+        {
+          "name": "LOTUS FROM JAKARTA",
+          "url": "https://open.spotify.com/artist/41J5awaMlB8Jr9O3eLbrtG"
+        }
+      ],
+      "duration_ms": 239999,
+      "name": "Voy_Edit",
+      "url": "https://open.spotify.com/track/21gAmR7GvfXSu3jg7kJ3ua"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
+        "name": "Iti Eta No",
+        "url": "https://open.spotify.com/album/2FWWgnlsClYz9KprV5aJBm"
+      },
+      "artists": [
+        {
+          "name": "Heimat",
+          "url": "https://open.spotify.com/artist/49xj8qANPTjAOLUjoHGaK2"
+        }
+      ],
+      "duration_ms": 251164,
+      "name": "Iti Eta No",
+      "url": "https://open.spotify.com/track/1w6G2Jl7OB9LtY5rrxqdfl"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
         "name": "In Space",
         "url": "https://open.spotify.com/album/32Akdj56jKKGz6bHsGGjZl"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 651303,
       "name": "In Space",
       "url": "https://open.spotify.com/track/159PzHyX3tZQ5p3GWcKnZJ"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
-        "name": "Iti Eta No",
-        "url": "https://open.spotify.com/album/2FWWgnlsClYz9KprV5aJBm"
-      },
-      "artists": [
-        {
-          "name": "Heimat",
-          "url": "https://open.spotify.com/artist/49xj8qANPTjAOLUjoHGaK2"
-        }
-      ],
-      "duration_ms": 251164,
-      "name": "Iti Eta No",
-      "url": "https://open.spotify.com/track/1w6G2Jl7OB9LtY5rrxqdfl"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Spaces In Between",
-        "url": "https://open.spotify.com/album/7B3xJoQ8nbAXpPJHXkCfW4"
-      },
-      "artists": [
-        {
-          "name": "Michael J. Blood",
-          "url": "https://open.spotify.com/artist/7qshvEatYqNxZt2b52eRDT"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "AKNEW",
-      "url": "https://open.spotify.com/track/33Sf1mQui2Wv521o3RtEST"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Thinking about you",
         "url": "https://open.spotify.com/album/72gqbn4daD7B6rCmT3U6mG"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 196340,
       "name": "Thinking about you",
       "url": "https://open.spotify.com/track/1I0uK1t1GX7a8H8zbqKRma"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Spaces In Between",
+        "url": "https://open.spotify.com/album/7B3xJoQ8nbAXpPJHXkCfW4"
+      },
+      "artists": [
+        {
+          "name": "Michael J. Blood",
+          "url": "https://open.spotify.com/artist/7qshvEatYqNxZt2b52eRDT"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "AKNEW",
+      "url": "https://open.spotify.com/track/33Sf1mQui2Wv521o3RtEST"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Altar",
-        "url": "https://open.spotify.com/album/2n4hkKpBjThYOsTp2RnZ9a"
-      },
-      "artists": [
-        {
-          "name": "Zutzut",
-          "url": "https://open.spotify.com/artist/0UGj9ZE04f5PZoP0ukud33"
-        }
-      ],
-      "duration_ms": 216287,
-      "name": "Altar",
-      "url": "https://open.spotify.com/track/3GFF6qIBsyzl6GJRM6irnj"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Wanted To Show You",
         "url": "https://open.spotify.com/album/7auwpvWqguoC2QAlebNpka"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 190738,
       "name": "Feeling Why Do You Follow",
       "url": "https://open.spotify.com/track/5MGeZ5lMzPlgdfcwVmVCzr"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/2n4hkKpBjThYOsTp2RnZ9a"
+      },
+      "artists": [
+        {
+          "name": "Zutzut",
+          "url": "https://open.spotify.com/artist/0UGj9ZE04f5PZoP0ukud33"
+        }
+      ],
+      "duration_ms": 216287,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/3GFF6qIBsyzl6GJRM6irnj"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Manast\u0131r",
-        "url": "https://open.spotify.com/album/2qjpmeQBHMGDLpQ0vL4A1G"
-      },
-      "artists": [
-        {
-          "name": "Ahmet Ali Arslan",
-          "url": "https://open.spotify.com/artist/2fyKy2t7OhlAGDzFSBTxC9"
-        },
-        {
-          "name": "Volkan \u0130nc\u00fcvez",
-          "url": "https://open.spotify.com/artist/0XKSYLqJTg6qcWsak8A4Ja"
-        }
-      ],
-      "duration_ms": 195876,
-      "name": "Demircidere",
-      "url": "https://open.spotify.com/track/5MeOMMwWOkhDHUCFFJBtHF"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Scintille",
         "url": "https://open.spotify.com/album/32TzqEeSbMwM3QhrYtnmfz"
       },
@@ -1543,34 +1523,22 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Vevey",
-        "url": "https://open.spotify.com/album/6ErQO53PyIeEvbIk4D1iaJ"
+        "name": "Manast\u0131r",
+        "url": "https://open.spotify.com/album/2qjpmeQBHMGDLpQ0vL4A1G"
       },
       "artists": [
         {
-          "name": "Clay Kin",
-          "url": "https://open.spotify.com/artist/1LVrDV9Es1LZIA6KCMqAqD"
-        }
-      ],
-      "duration_ms": 195668,
-      "name": "45\u00b055'41.1\"N 7\u00b005'46.4\"E",
-      "url": "https://open.spotify.com/track/0nPSkMFuNCS5lwwk0vmyoN"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
-        "name": "TIDE/TIED",
-        "url": "https://open.spotify.com/album/0E1b7Ob71SBCqDNq8QzKMO"
-      },
-      "artists": [
+          "name": "Ahmet Ali Arslan",
+          "url": "https://open.spotify.com/artist/2fyKy2t7OhlAGDzFSBTxC9"
+        },
         {
-          "name": "Thanya Iyer",
-          "url": "https://open.spotify.com/artist/5t5C8BHZ8ch5p0wvbcWh6P"
+          "name": "Volkan \u0130nc\u00fcvez",
+          "url": "https://open.spotify.com/artist/0XKSYLqJTg6qcWsak8A4Ja"
         }
       ],
-      "duration_ms": 440269,
-      "name": "Waves/Hold/Tied",
-      "url": "https://open.spotify.com/track/4eKAKVci8MLFTLkuIJUja6"
+      "duration_ms": 195876,
+      "name": "Demircidere",
+      "url": "https://open.spotify.com/track/5MeOMMwWOkhDHUCFFJBtHF"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1591,6 +1559,54 @@
       "duration_ms": 237093,
       "name": "I Think I Just Died a Lil Bit",
       "url": "https://open.spotify.com/track/16DhEPGbwJb08lHjupIhXF"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "TIDE/TIED",
+        "url": "https://open.spotify.com/album/0E1b7Ob71SBCqDNq8QzKMO"
+      },
+      "artists": [
+        {
+          "name": "Thanya Iyer",
+          "url": "https://open.spotify.com/artist/5t5C8BHZ8ch5p0wvbcWh6P"
+        }
+      ],
+      "duration_ms": 440269,
+      "name": "Waves/Hold/Tied",
+      "url": "https://open.spotify.com/track/4eKAKVci8MLFTLkuIJUja6"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Vevey",
+        "url": "https://open.spotify.com/album/6ErQO53PyIeEvbIk4D1iaJ"
+      },
+      "artists": [
+        {
+          "name": "Clay Kin",
+          "url": "https://open.spotify.com/artist/1LVrDV9Es1LZIA6KCMqAqD"
+        }
+      ],
+      "duration_ms": 195668,
+      "name": "45\u00b055'41.1\"N 7\u00b005'46.4\"E",
+      "url": "https://open.spotify.com/track/0nPSkMFuNCS5lwwk0vmyoN"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/2TpixP6RhxoNA0LtKm0p2z"
+      },
+      "artists": [
+        {
+          "name": "JASSS",
+          "url": "https://open.spotify.com/artist/4reMrexillTAvq1AQr6MzV"
+        }
+      ],
+      "duration_ms": 294250,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/4rhaL2Iy5N60QVkdRfBill"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1627,22 +1643,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Hollow",
-        "url": "https://open.spotify.com/album/2TpixP6RhxoNA0LtKm0p2z"
-      },
-      "artists": [
-        {
-          "name": "JASSS",
-          "url": "https://open.spotify.com/artist/4reMrexillTAvq1AQr6MzV"
-        }
-      ],
-      "duration_ms": 294250,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/4rhaL2Iy5N60QVkdRfBill"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Hold the Edges",
         "url": "https://open.spotify.com/album/6DLJ126k5YfhEzHp3uLM3c"
       },
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Interlude of Life",
-        "url": "https://open.spotify.com/album/7AQiGdIUkuhu45xYuW54D1"
-      },
-      "artists": [
-        {
-          "name": "Opaline",
-          "url": "https://open.spotify.com/artist/46wsrG0EdHQbAl8zbfYkog"
-        }
-      ],
-      "duration_ms": 199756,
-      "name": "Interlude of Life",
-      "url": "https://open.spotify.com/track/7gFXUAMdj7HchJy2HTR9g7"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Tem",
         "url": "https://open.spotify.com/album/6zuy2pmy5JqamvOJNlGe66"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 184226,
       "name": "Tem",
       "url": "https://open.spotify.com/track/1dCG1tEzjPzCQx0ij0dRh5"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Interlude of Life",
+        "url": "https://open.spotify.com/album/7AQiGdIUkuhu45xYuW54D1"
+      },
+      "artists": [
+        {
+          "name": "Opaline",
+          "url": "https://open.spotify.com/artist/46wsrG0EdHQbAl8zbfYkog"
+        }
+      ],
+      "duration_ms": 199756,
+      "name": "Interlude of Life",
+      "url": "https://open.spotify.com/track/7gFXUAMdj7HchJy2HTR9g7"
     },
     {
       "added_at": "2025-11-19 10:21:55",

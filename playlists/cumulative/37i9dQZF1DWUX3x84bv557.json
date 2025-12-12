@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: FLEMMING & Metejoor",
+  "description": "Frisse Nederlandse pop. Cover: Samuel Welten",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 209387,
       "name": "Alles Wat Ik Weet",
       "url": "https://open.spotify.com/track/7iBDJR0DF3y3FNY5w1lMtP"
@@ -2164,7 +2164,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 169000,
       "name": "Amour",
       "url": "https://open.spotify.com/track/5Ay67p6mGlkOyw7oFOYeYw"
@@ -5554,7 +5554,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 142588,
       "name": "Down",
       "url": "https://open.spotify.com/track/65y6Ak4YaKtfua7gemQaff"
@@ -5826,6 +5826,42 @@
       "duration_ms": 173176,
       "name": "Echt Verliefd Zijn",
       "url": "https://open.spotify.com/track/13FOKNJGRyqZljne7ejBa2"
+    },
+    {
+      "album": {
+        "name": "Echte Liefde Is Te Koop - Spotify Singles",
+        "url": "https://open.spotify.com/album/64rWacyCKAYaSne3DqIUS9"
+      },
+      "artists": [
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178477,
+      "name": "Echte Liefde Is Te Koop - Spotify Singles",
+      "url": "https://open.spotify.com/track/5lTy97S8T5KglpeEKpCuKE"
+    },
+    {
+      "album": {
+        "name": "Ecstasy",
+        "url": "https://open.spotify.com/album/2B8ksxdvjvcVMbxUxhj9Md"
+      },
+      "artists": [
+        {
+          "name": "De Nachtwacht",
+          "url": "https://open.spotify.com/artist/3Sd7vfg45nJIesPsjvyFgp"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/4FARPRtNwy8VO794jKwrmp"
     },
     {
       "album": {
@@ -8198,7 +8234,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 191487,
       "name": "Hier Ben Ik Dan",
       "url": "https://open.spotify.com/track/4Q82BzcEpFettefU7VGpJ0"
@@ -8394,7 +8430,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 163925,
       "name": "Hoe Je Naar Me Keek",
       "url": "https://open.spotify.com/track/64QB4SM5uV6FvUTQXoqTdE"
@@ -9042,6 +9078,24 @@
       "duration_ms": 147518,
       "name": "Huilen In De Bioscoop",
       "url": "https://open.spotify.com/track/0dYQzM1CKG4OVZmdm08rv8"
+    },
+    {
+      "album": {
+        "name": "Huis Van Een Vreemde (live)",
+        "url": "https://open.spotify.com/album/1h7dc9m6aAZDFOA7TD7NXc"
+      },
+      "artists": [
+        {
+          "name": "Nielson",
+          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157592,
+      "name": "Huis Van Een Vreemde - live",
+      "url": "https://open.spotify.com/track/4rKnLgR1a8MjPOwKAyHIns"
     },
     {
       "album": {
@@ -10094,6 +10148,24 @@
       "duration_ms": 153831,
       "name": "Je Geeft Me Niets",
       "url": "https://open.spotify.com/track/0KKYgORHSuLfmKENVaA53y"
+    },
+    {
+      "album": {
+        "name": "Je Hart Schreeuwt",
+        "url": "https://open.spotify.com/album/5UeOpYMPhQF1wZ4yna5EKO"
+      },
+      "artists": [
+        {
+          "name": "Big2",
+          "url": "https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Je Hart Schreeuwt",
+      "url": "https://open.spotify.com/track/7x6ZePcUaNscVjqrN76Uww"
     },
     {
       "album": {
@@ -12358,7 +12430,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 135638,
       "name": "Lovin Lovin",
       "url": "https://open.spotify.com/track/6jUijp6Ic3AyRBSV2CaWOt"
@@ -13214,7 +13286,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 178764,
       "name": "Mijn Meisje",
       "url": "https://open.spotify.com/track/1nQLXiDKoITyTuMYpRQXcu"
@@ -13410,7 +13482,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 160678,
       "name": "Moe Van Jezelf",
       "url": "https://open.spotify.com/track/3gsHFY5eFCkanac1hMUjOo"
@@ -14510,7 +14582,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 231829,
       "name": "Nooduitgang",
       "url": "https://open.spotify.com/track/1ZSDaIEJm2tiYGrkSiKDMn"
@@ -14658,10 +14730,28 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 194454,
       "name": "Normaal Toen",
       "url": "https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1"
+    },
+    {
+      "album": {
+        "name": "Waar Ik Nog Niet Ben",
+        "url": "https://open.spotify.com/album/4wTfd0bhz4kJ6Vxp9JibSb"
+      },
+      "artists": [
+        {
+          "name": "Tomson",
+          "url": "https://open.spotify.com/artist/4OcAOYzLAiGREe0stWTGXp"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148548,
+      "name": "Nostalgie",
+      "url": "https://open.spotify.com/track/1UYrBpgrHje29LfNhSv2MY"
     },
     {
       "album": {
@@ -15172,6 +15262,28 @@
       "duration_ms": 174545,
       "name": "Onweer In M'n Hoofd",
       "url": "https://open.spotify.com/track/7GyjwvMINxtagvYJN33O0p"
+    },
+    {
+      "album": {
+        "name": "Oog van de Orkaan",
+        "url": "https://open.spotify.com/album/7cSCqm3G9fVViBjTEh3YAT"
+      },
+      "artists": [
+        {
+          "name": "Bart Voncken",
+          "url": "https://open.spotify.com/artist/313iy3CDtL0MAqtm6ObDTa"
+        },
+        {
+          "name": "Dwight Dissels",
+          "url": "https://open.spotify.com/artist/6mJqqz8Dra13cr75NGhC7f"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178837,
+      "name": "Oog van de Orkaan",
+      "url": "https://open.spotify.com/track/4Q2nXiRdHJotWpLrtYQhlw"
     },
     {
       "album": {
@@ -19517,6 +19629,24 @@
     },
     {
       "album": {
+        "name": "Vlinders",
+        "url": "https://open.spotify.com/album/4Fw7xpm2uD4FQptlimaU9a"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187840,
+      "name": "Vlinders",
+      "url": "https://open.spotify.com/track/21lJmoF9ZKKCYVcu8ilKwp"
+    },
+    {
+      "album": {
         "name": "Voel Jij Dat Ook",
         "url": "https://open.spotify.com/album/2KHhOp8mQfdJRdvtr3953D"
       },
@@ -20818,7 +20948,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 216003,
       "name": "Wilde Haren",
       "url": "https://open.spotify.com/track/43dR27JJXlHXChYAn1GzCU"
@@ -20944,7 +21074,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 186545,
       "name": "Wonderbaarlijk",
       "url": "https://open.spotify.com/track/74taNj89bwFHW4Xk8HyKrC"

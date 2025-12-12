@@ -4,7 +4,7 @@
 
 > The perfect frequency for sleep or study – science tested, listener approved.
 
-598 songs - 1 day 6 hr 51 min
+599 songs - 1 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Pink Aqua](https://open.spotify.com/track/716Vtwut0hU4zs4TM6hxF7) | [Serene Oasis](https://open.spotify.com/artist/4M9CfKWvkCQVl92BcWf26h) | [Pink Aqua](https://open.spotify.com/album/0OkNLQ7tU9nNRm4wJPicIR) | 2:52 | 2023-02-09 | 2023-03-18 |
 | [Pink Atmosphere](https://open.spotify.com/track/1hWxKCrr7xGRcIKcgMiMCB) | [Casper White](https://open.spotify.com/artist/4weaxjLzThghACmvjNt9JT) | [Pink Atmosphere](https://open.spotify.com/album/5qgEcp6C7PPTayUCDjL6wb) | 3:16 | 2023-03-16 |  |
 | [Pink Atoms](https://open.spotify.com/track/5y5L0fBVfqi0PClERKJMep) | [Sleeping Voyage](https://open.spotify.com/artist/7v3zY7R3YebusTme8ScaaX) | [Pink Atoms](https://open.spotify.com/album/64KvfDrtdvtL7K6PLBoFap) | 3:05 | 2022-12-16 | 2023-03-18 |
+| [Pink Aura of Calm](https://open.spotify.com/track/3OzoK27KV6oj7SE7ABx8fo) | [Audioable Noise](https://open.spotify.com/artist/6GSMXtegoAGXg4CvixzInT) | [Pink Aura of Calm](https://open.spotify.com/album/44qAzPkIBxOIeCnZA0B2oP) | 2:47 | 2025-12-09 |  |
 | [Pink Background Noise](https://open.spotify.com/track/0jruFQoRdRsgc94PkIqtVb) | [Daily Calm](https://open.spotify.com/artist/1RFbFQgjNdi8M4qM5gzgfj) | [Soft Pink Noise](https://open.spotify.com/album/26s1Hy0MO8kUBINOfESt7z) | 3:42 | 2021-12-01 | 2022-06-28 |
 | [Pink Balance](https://open.spotify.com/track/131x8wpmyVT6u81i2nB1Wl) | [Sky Travis](https://open.spotify.com/artist/5IkHDfUNRiqyATjgbDHuGy) | [Pink Balance](https://open.spotify.com/album/74r8EpKq7FldV3tc0cF7fJ) | 2:42 | 2025-12-09 |  |
 | [Pink Bliss](https://open.spotify.com/track/64RiV3NxNP0PmQmWab43gj) | [Trapture](https://open.spotify.com/artist/57566QTg37Kl2Qx9kppxks) | [Pink Bliss](https://open.spotify.com/album/25UT1S5bbBeVvBDbYbsEkT) | 2:51 | 2022-12-16 | 2023-03-18 |

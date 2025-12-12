@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtbUVymJmYH.md) - [plain]
 
 > Editors’ Picks: Die besten Deutschrap Tracks des Jahres\. Cover: Ceren & Pashanim
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,855 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,940 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtbUVymJmYH.md) - [plain]
 | 79 | [QUALITÄT](https://open.spotify.com/track/3od4M5sqkjk2igUiuciUQC) | [Sonus030](https://open.spotify.com/artist/78wZzI7u1cOjXKuYzqZI6l), [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw) | [QUALITÄT](https://open.spotify.com/album/5EsEwb1HCOs7KGrvIhwRry) | 2:33 |
 | 80 | [Geister](https://open.spotify.com/track/0xNIAFbDIco16rDzxrw4qI) | [beslik](https://open.spotify.com/artist/0zw17mk0oEnrv4STjNgxsr) | [Norderney / Geister](https://open.spotify.com/album/1PXm7yS2vZqHurUpKeUl4i) | 2:43 |
 
-Snapshot ID: `AAAAAEorJRC/TeFHqiDIJUDVQrL8eY8R`
+Snapshot ID: `AAAAAO4PpRl8Gyhx7JFfstFZjGqJCI0M`

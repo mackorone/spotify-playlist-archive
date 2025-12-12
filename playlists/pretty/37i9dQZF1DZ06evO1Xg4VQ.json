@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 72626,
+  "num_followers": 72625,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAABELCLsK4BbzmBIayqy4fjo",
+  "snapshot_id": "aTi4AAAAAAB1GOzmD5NwT+XdMs4Jn1R7",
   "tracks": [
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frida (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Mariachi Juvenil de Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/6cA9ikC3OTYlqwOIufwgM1"
-        }
-      ],
-      "duration_ms": 140493,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/1W88VFG7s2ufqQWW0b1xA8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mexicana (feat. Lila Downs)",
         "url": "https://open.spotify.com/album/6GXrUyjqYJr6b8W4IOwHLU"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 214986,
       "name": "El List\u00f3n de Tu Pelo",
       "url": "https://open.spotify.com/track/1TCjQdcUcBPl7YXHCYh8WP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frida (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1VU7NezUvswRnFjNM0M5li"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Mariachi Juvenil de Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/6cA9ikC3OTYlqwOIufwgM1"
+        }
+      ],
+      "duration_ms": 140493,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/1W88VFG7s2ufqQWW0b1xA8"
     },
     {
       "added_at": null,
@@ -679,18 +679,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Border",
-        "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
+        "name": "Ra\u00edz",
+        "url": "https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6"
       },
       "artists": [
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Ni\u00f1a Pastori",
+          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
         }
       ],
-      "duration_ms": 285466,
-      "name": "Perhaps, Perhaps, Perhaps",
-      "url": "https://open.spotify.com/track/4WRdLh6kc09oE1wt28gepF"
+      "duration_ms": 252600,
+      "name": "La Ra\u00edz de Mi Tierra",
+      "url": "https://open.spotify.com/track/7CsUgxSO2391NavjAJN8HD"
     },
     {
       "added_at": null,
@@ -731,30 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ra\u00edz",
-        "url": "https://open.spotify.com/album/45lcPME8vZyDkZcAC3qfA6"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Ni\u00f1a Pastori",
-          "url": "https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "La Ra\u00edz de Mi Tierra",
-      "url": "https://open.spotify.com/track/7CsUgxSO2391NavjAJN8HD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Border",
         "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
       },
@@ -762,15 +746,27 @@
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Ken Basman",
-          "url": "https://open.spotify.com/artist/3Qn101vbL0qNKzG18WsPuo"
         }
       ],
-      "duration_ms": 207026,
-      "name": "El Feo",
-      "url": "https://open.spotify.com/track/5WKJ5R7jFZi9wz0hQHYpLB"
+      "duration_ms": 285466,
+      "name": "Perhaps, Perhaps, Perhaps",
+      "url": "https://open.spotify.com/track/4WRdLh6kc09oE1wt28gepF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Sandunga",
+        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 260013,
+      "name": "Sabor a Mi",
+      "url": "https://open.spotify.com/track/6hxEETYZvysyLVfCFjitUJ"
     },
     {
       "added_at": null,
@@ -811,54 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Sandunga",
-        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
+        "name": "Border",
+        "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
       },
       "artists": [
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 260013,
-      "name": "Sabor a Mi",
-      "url": "https://open.spotify.com/track/6hxEETYZvysyLVfCFjitUJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 2",
-        "url": "https://open.spotify.com/album/226ubQdY0eN9zVVDvlFj0D"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         },
         {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "Ken Basman",
+          "url": "https://open.spotify.com/artist/3Qn101vbL0qNKzG18WsPuo"
         }
       ],
-      "duration_ms": 231506,
-      "name": "La Barca (with Lila Downs)",
-      "url": "https://open.spotify.com/track/4OFCPtgZ2ousHVuGMEzwrK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Balas y Chocolate",
-        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Balas y Chocolate",
-      "url": "https://open.spotify.com/track/4uBUbb8FO5PSXBEcGy9TTG"
+      "duration_ms": 207026,
+      "name": "El Feo",
+      "url": "https://open.spotify.com/track/5WKJ5R7jFZi9wz0hQHYpLB"
     },
     {
       "added_at": null,
@@ -879,6 +843,42 @@
       "duration_ms": 275026,
       "name": "L\u00e1grimas Negras (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/02DvKHO0xe6MukjF4Hr2Wk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Balas y Chocolate",
+        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Balas y Chocolate",
+      "url": "https://open.spotify.com/track/4uBUbb8FO5PSXBEcGy9TTG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 2",
+        "url": "https://open.spotify.com/album/226ubQdY0eN9zVVDvlFj0D"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 231506,
+      "name": "La Barca (with Lila Downs)",
+      "url": "https://open.spotify.com/track/4OFCPtgZ2ousHVuGMEzwrK"
     },
     {
       "added_at": null,

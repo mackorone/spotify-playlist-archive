@@ -915,6 +915,28 @@
     },
     {
       "album": {
+        "name": "A Firma Segue Lucrando",
+        "url": "https://open.spotify.com/album/3pjPowvYPuiLn08hNRWwpw"
+      },
+      "artists": [
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Fepache",
+          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
+        }
+      ],
+      "date_added": "2025-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "A Firma Segue Lucrando",
+      "url": "https://open.spotify.com/track/2KINhc9Jf5Z6IxdJ3xM07Z"
+    },
+    {
+      "album": {
         "name": "Evolu\u00e7\u00e3o, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0nmRvEIs98F8Uk48z7vRCT"
       },
@@ -6238,7 +6260,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 154097,
       "name": "Caos De Algu\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/6zxthXT7GUBX83vRmQiN3x"
@@ -15436,7 +15458,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 179215,
       "name": "Ignora (Ao Vivo)",
       "url": "https://open.spotify.com/track/0dI5yI0wplyuwBMEGKXeJC"
@@ -21472,7 +21494,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 230400,
       "name": "M\u00e1quina do Tempo",
       "url": "https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8"
@@ -27340,7 +27362,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 468953,
       "name": "Quem \u00c9 Esse? - Ao Vivo",
       "url": "https://open.spotify.com/track/035Q417M83JnP3wvSlyFEK"
@@ -27768,7 +27790,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 145177,
       "name": "Resumindo - Ao Vivo",
       "url": "https://open.spotify.com/track/6vGZfODFI1FxMImSUbdJhz"
@@ -28764,7 +28786,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 160634,
       "name": "Saudade Proibida - Ao Vivo",
       "url": "https://open.spotify.com/track/40WZQRA3T6WZFIgskIAAz7"
@@ -35044,7 +35066,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 157033,
       "name": "Valentino",
       "url": "https://open.spotify.com/track/6OPfBo0J6yqzSY9WxNlbA5"

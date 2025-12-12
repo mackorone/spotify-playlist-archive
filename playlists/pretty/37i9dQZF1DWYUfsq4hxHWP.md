@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > The best country songs from new, independent artists in 2025, as chosen by our editors\. <br/>Cover:  Solon Holt, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,666 likes - 95 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,667 likes - 95 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 94 | [Wildflower](https://open.spotify.com/track/0thwHk4m5RrwZF8q7yhltf) | [Sydney Mack](https://open.spotify.com/artist/6jdb2NPAY3uHHAomUSOCwO) | [Wildflower](https://open.spotify.com/album/1q1G3chwe4bVWGo3ViiCXm) | 3:09 |
 | 95 | [Breakfast](https://open.spotify.com/track/24f2ZPtQx6AbRNb9Q5CSaO) | [Randall Fowler](https://open.spotify.com/artist/3vwAMZ5P3yBifpoq371QB0) | [Breakfast](https://open.spotify.com/album/7s0jDFO9LfLSsGhDk1piMz) | 3:39 |
 
-Snapshot ID: `AAAAANsJQ7dGUnW+zU8LKD9UaAfiI2r8`
+Snapshot ID: `AAAAABHVDSxTdfepeI39k1ESlwfZ1dZy`

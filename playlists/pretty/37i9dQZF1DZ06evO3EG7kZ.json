@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 50299,
+  "num_followers": 50324,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aTdmgAAAAAAcdztLD+493OtOIP9vyi+9",
+  "snapshot_id": "aTi4AAAAAAAhNVP2ET+9lDD27z6Z4qce",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onesies",
-        "url": "https://open.spotify.com/album/5rRBAxyqUZcnBR9RW9NBS3"
+        "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
+        "url": "https://open.spotify.com/album/2skjS457RIBNEkIaaL7yQi"
       },
       "artists": [
         {
           "name": "Bluey",
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
-        },
-        {
-          "name": "Joff Bush",
-          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 204373,
-      "name": "Onesies",
-      "url": "https://open.spotify.com/track/3DSHjBGuO3jEjbmI87TFKv"
+      "duration_ms": 64311,
+      "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
+      "url": "https://open.spotify.com/track/3P3vNQ95AdWgnr5YGmYdhk"
     },
     {
       "added_at": null,
@@ -523,18 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
-        "url": "https://open.spotify.com/album/2skjS457RIBNEkIaaL7yQi"
+        "name": "Onesies",
+        "url": "https://open.spotify.com/album/5rRBAxyqUZcnBR9RW9NBS3"
       },
       "artists": [
         {
           "name": "Bluey",
           "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
         }
       ],
-      "duration_ms": 64311,
-      "name": "Le g\u00e9n\u00e9rique de Bluey (French Version)",
-      "url": "https://open.spotify.com/track/3P3vNQ95AdWgnr5YGmYdhk"
+      "duration_ms": 204373,
+      "name": "Onesies",
+      "url": "https://open.spotify.com/track/3DSHjBGuO3jEjbmI87TFKv"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Pozer, Kasst 8",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: J Hus, Skepta",
   "name": "Rap UK",
   "tracks": [
     {
@@ -3415,6 +3415,24 @@
     },
     {
       "album": {
+        "name": "askeladd",
+        "url": "https://open.spotify.com/album/4qkITEJJsPI2goRAmui95r"
+      },
+      "artists": [
+        {
+          "name": "Kw\u00e1kz",
+          "url": "https://open.spotify.com/artist/2ZNbtfRwBDKN2k8drx3BrX"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123380,
+      "name": "askeladd",
+      "url": "https://open.spotify.com/track/5RvUqHb8YrOvy4V5MWDbX8"
+    },
+    {
+      "album": {
         "name": "Com Amor Brazil (Original Soundtracks from Traveling Man)",
         "url": "https://open.spotify.com/album/3yRsbgoIZ4Fi8937LMnvDy"
       },
@@ -5801,6 +5819,28 @@
     },
     {
       "album": {
+        "name": "Black Jeep",
+        "url": "https://open.spotify.com/album/0GapUYcDxeItfst1KafpmB"
+      },
+      "artists": [
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        },
+        {
+          "name": "Fimiguerrero",
+          "url": "https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108750,
+      "name": "Black Jeep",
+      "url": "https://open.spotify.com/track/3JadDlLa2L3vrGs8DXsWao"
+    },
+    {
+      "album": {
         "name": "Black Joy",
         "url": "https://open.spotify.com/album/5yEOjQ0C0lpam1A2aDzCCh"
       },
@@ -7530,7 +7570,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 256000,
       "name": "BUSY",
       "url": "https://open.spotify.com/track/1peSW56EXaVDkzbHeU6TBZ"
@@ -7646,7 +7686,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 168208,
       "name": "Cabin Feva",
       "url": "https://open.spotify.com/track/6vxEPL0Z4WD18kcW2uCvQd"
@@ -8408,6 +8448,28 @@
       "duration_ms": 160000,
       "name": "Cautionary Tales",
       "url": "https://open.spotify.com/track/5sx0Pp7jnHnQhejHvaho5J"
+    },
+    {
+      "album": {
+        "name": "Yesterday Was Once Tomorrow",
+        "url": "https://open.spotify.com/album/4bEaQ9dDZqvsLm2PjYKSrT"
+      },
+      "artists": [
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+        },
+        {
+          "name": "Chy Cartier",
+          "url": "https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176274,
+      "name": "CC Walk",
+      "url": "https://open.spotify.com/track/19awCIIk23cmyvUk2MjCrt"
     },
     {
       "album": {
@@ -10420,7 +10482,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 135583,
       "name": "CUT KNUCKLES",
       "url": "https://open.spotify.com/track/3o53Nz7ReyvVXSfwOStWQB"
@@ -15563,6 +15625,24 @@
     },
     {
       "album": {
+        "name": "Forgive Me",
+        "url": "https://open.spotify.com/album/4wQn5DNiwo8CiHV3i5eCC9"
+      },
+      "artists": [
+        {
+          "name": "Kidwild",
+          "url": "https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182937,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/4MNeg5dveUDYCZH9XaDqY2"
+    },
+    {
+      "album": {
         "name": "Forty",
         "url": "https://open.spotify.com/album/1YK7v1NkVfX6awxuoxNjFl"
       },
@@ -16812,7 +16892,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 173465,
       "name": "GIRLS",
       "url": "https://open.spotify.com/track/4HKk0rmGoDBKqCpvvqaFdK"
@@ -26138,7 +26218,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 169849,
       "name": "Miu Miu",
       "url": "https://open.spotify.com/track/5RN0MPqEIhzjZBXibaE8YZ"
@@ -30286,6 +30366,28 @@
       "duration_ms": 139636,
       "name": "Outside",
       "url": "https://open.spotify.com/track/4T6e6kmXWZor5vuviPDrR8"
+    },
+    {
+      "album": {
+        "name": "Half Clip",
+        "url": "https://open.spotify.com/album/6Cuez4Hqqqxm3uZC0DnTor"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167011,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/5g4iF0EyHKtuduFzbnDqyV"
     },
     {
       "album": {
@@ -36109,6 +36211,24 @@
     },
     {
       "album": {
+        "name": "Shochu",
+        "url": "https://open.spotify.com/album/5bEh2DescvLWpFnfRMGYc2"
+      },
+      "artists": [
+        {
+          "name": "Ashbeck",
+          "url": "https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142236,
+      "name": "Shochu",
+      "url": "https://open.spotify.com/track/1WWDat9pSmqoVvBBzdF1iR"
+    },
+    {
+      "album": {
         "name": "Shoot Like Curry",
         "url": "https://open.spotify.com/album/6Hs1CRMHKI4rdLIqCALdu1"
       },
@@ -41401,6 +41521,24 @@
     },
     {
       "album": {
+        "name": "Where's The Wizard?",
+        "url": "https://open.spotify.com/album/5vJ03f6VupR2ykhy9Uq1Hq"
+      },
+      "artists": [
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148694,
+      "name": "Triple Double",
+      "url": "https://open.spotify.com/track/2IjZIOg7b2t6abMmkWiMWp"
+    },
+    {
+      "album": {
         "name": "Uno Uno",
         "url": "https://open.spotify.com/album/092WYc5urW9jjCM3tZfy2D"
       },
@@ -41942,7 +42080,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 154736,
       "name": "twoblaccbois",
       "url": "https://open.spotify.com/track/3A6z7lhMM5popptpx3G5Wm"
@@ -42414,7 +42552,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 152112,
       "name": "Uptown (feat. Chy Cartier)",
       "url": "https://open.spotify.com/track/76Pu3WalpqCdQDvO0VWbas"
@@ -42816,7 +42954,7 @@
           "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         },
         {
-          "name": "PlaqueBoyMax",
+          "name": "Plaqueboymax",
           "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
         }
       ],
@@ -43706,7 +43844,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-12",
       "duration_ms": 229479,
       "name": "West Life",
       "url": "https://open.spotify.com/track/7c1VOpvkdr5aPqlv7huLlB"

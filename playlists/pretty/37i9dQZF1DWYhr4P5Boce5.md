@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,029 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,038 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 43 | [Love In the Time of Madness](https://open.spotify.com/track/1lOn7QVLKuNtPQOOjq9Qo6) | [Josh Gauton](https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M) | [Slow Renaissance](https://open.spotify.com/album/2z2kb5sdhNp9lBnnzGxhi1) | 4:03 |
 | 44 | [Just Too Good](https://open.spotify.com/track/23hRAQiS0XqnGIz1Oyb1gR) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Just Too Good](https://open.spotify.com/album/6ZbkWzwtQiNTCWNu7uTTbd) | 3:23 |
 | 45 | [Look At Love](https://open.spotify.com/track/6LyEFiIuByViEKcbZBAebw) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD) | 3:21 |
-| 46 | [My Type](https://open.spotify.com/track/6vX2IUh9nqJuKYxqxAfZYr) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP), [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [My Type](https://open.spotify.com/album/7bbkvh7hnBKO3eyXZnD7xb) | 2:25 |
-| 47 | [Can't Help Falling In Love \- LIGHT](https://open.spotify.com/track/07vX2XhvGzxkHTaQ141AbB) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [brooke](https://open.spotify.com/artist/7FUnhnuowTICdtK0KzH7Ng) | [Can't Help Falling In Love](https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y) | 2:51 |
+| 46 | [Can't Help Falling In Love \- LIGHT](https://open.spotify.com/track/07vX2XhvGzxkHTaQ141AbB) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [brooke](https://open.spotify.com/artist/7FUnhnuowTICdtK0KzH7Ng) | [Can't Help Falling In Love](https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y) | 2:51 |
+| 47 | [My Type](https://open.spotify.com/track/6vX2IUh9nqJuKYxqxAfZYr) | [Yung Kriss](https://open.spotify.com/artist/3JCk8XWIBcpA10QeM5tkbP), [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [My Type](https://open.spotify.com/album/7bbkvh7hnBKO3eyXZnD7xb) | 2:25 |
 | 48 | [i do](https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J) | [i do](https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA) | 2:31 |
 | 49 | [Cortado](https://open.spotify.com/track/7CN1TLlARavoQZLUBm42xF) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Cortado](https://open.spotify.com/album/5cO0gKE8gcyAypB1fH7iaq) | 2:40 |
 | 50 | [Somewhere In Her Dreams](https://open.spotify.com/track/31UptnBzWkmr0NGpMzKwdv) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Somewhere In Her Dreams](https://open.spotify.com/album/32B2j9yBBPTYZbPTsvdZ3G) | 4:16 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 54 | [Crazy Kinda Love](https://open.spotify.com/track/3iFbRKq1x2SrPqAUX7QGsp) | [Serayah](https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod), [Ahjah Walls](https://open.spotify.com/artist/6bMYwgJuOOGMEXr9L7UZoM), [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Kingdom Business: Season 1](https://open.spotify.com/album/3BHQ2gvtr6npNexUhaGKJ1) | 4:08 |
 | 55 | [Can't Quit You](https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Colton Dixon](https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B) | 3:20 |
 | 56 | [Higher Love](https://open.spotify.com/track/0rzJtYsSkHiYWWn5QUjVL3) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Higher Love](https://open.spotify.com/album/6qVOZPXvCgvhFKasGiDTAO) | 4:06 |
-| 57 | [The Magic](https://open.spotify.com/track/7oEJPqNQeua9kk37UXQ74c) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [The Magic](https://open.spotify.com/album/3KUvXGaYgZqlFzGlq3Y4os) | 3:09 |
-| 58 | [Easy](https://open.spotify.com/track/2CrAx85yam4L1C45LImiHv) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Easy](https://open.spotify.com/album/063TozOtRM8T8I7fGpLNsG) | 2:58 |
+| 57 | [Easy](https://open.spotify.com/track/2CrAx85yam4L1C45LImiHv) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Easy](https://open.spotify.com/album/063TozOtRM8T8I7fGpLNsG) | 2:58 |
+| 58 | [The Magic](https://open.spotify.com/track/7oEJPqNQeua9kk37UXQ74c) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [The Magic](https://open.spotify.com/album/3KUvXGaYgZqlFzGlq3Y4os) | 3:09 |
 | 59 | [This Is Love](https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [This Is Love](https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY) | 3:11 |
 | 60 | [Dear Future Husband](https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Dear Future Husband](https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9) | 4:28 |
 | 61 | [You Are My Love](https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [You Are My Love](https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx) | 3:23 |

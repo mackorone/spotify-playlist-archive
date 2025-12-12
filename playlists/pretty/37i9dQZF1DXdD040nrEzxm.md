@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdD040nrEzxm.md) - [plain]
 
 > Our editor’s picks for best African songs of 2025.<br/> Cover: <a href="https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh?si=\_2t2Q3XnSt\-HMj4xs90UsQ">Davido</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,709 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,913 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdD040nrEzxm.md) - [plain]
 | 49 | [It Is Finished](https://open.spotify.com/track/6vmcwvjJHvAdlWurRHC96N) | [Kofi Kinaata](https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm) | [It Is Finished](https://open.spotify.com/album/1lYbe3Gt2yDLeBgR1rhEls) | 3:00 |
 | 50 | [Mexico](https://open.spotify.com/track/0aw1BqWexQItJeSH7xFxKl) | [BigBaller\_Ceo](https://open.spotify.com/artist/4lQGYXmayFYVFeZYEU8zla), [Beekay da deejay](https://open.spotify.com/artist/0s3XvcqWP6ABda54UeAkYS), [Sia\_TheBee](https://open.spotify.com/artist/67251zPa3CwjUPl7tZAmtB) | [BigBaller Ke Moruti](https://open.spotify.com/album/1fik5m7UozKDOGJCQIaQml) | 4:46 |
 
-Snapshot ID: `AAAAAOAJpY2LCHc6baTmYWOZlXVMiGDr`
+Snapshot ID: `AAAAACdt9LrnviPorqKqlZo2xIgttYVm`

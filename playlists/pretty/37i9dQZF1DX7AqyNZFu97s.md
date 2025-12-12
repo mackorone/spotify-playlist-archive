@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > Presenting the biggest tracks from the class of 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,960 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,962 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 99 | [I Like](https://open.spotify.com/track/4e3NnwgoLWJEUNUN4CQD18) | [71A](https://open.spotify.com/artist/3HshTPA3jQdG7FVhv2M0eb) | [I Like](https://open.spotify.com/album/1gvrBqE655G1egUE1qemWD) | 3:38 |
 | 100 | [Slick](https://open.spotify.com/track/3LfGdDaUSCZMTctM6AZNJM) | [Kacie](https://open.spotify.com/artist/5XALQ8snjwdJ6HeOPo3TRY) | [Slick](https://open.spotify.com/album/16znsiNLAmkYcW8Ny1Js6t) | 1:52 |
 
-Snapshot ID: `AAAAAAWEJDtOWxXeDloLJFd5os6TKgy9`
+Snapshot ID: `AAAAAMFhDnGKKA7rRANGUIMXigd4PBBk`

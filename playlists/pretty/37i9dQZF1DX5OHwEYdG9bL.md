@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OHwEYdG9bL.md) - [plain]
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: NCT DREAM\) \(Enjoy a playlist of songs that support music video features!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,483 likes - 128 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,480 likes - 128 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OHwEYdG9bL.md) - [plain]
 | 127 | [Burnin’ Tires \(Changbin & I.N\)](https://open.spotify.com/track/7rDFxohNf6gwCe80dplCWt) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Burnin’ Tires \(Changbin & I.N\)](https://open.spotify.com/album/7bfjfcnBeCXsHXJcPr8q4o) | 3:27 |
 | 128 | [BTG](https://open.spotify.com/track/65R0GRTYAygptqXHwQMDQG) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [BTG](https://open.spotify.com/album/27P5shDmd4RpYH7UgWJYSk) | 3:14 |
 
-Snapshot ID: `AAAAAI4c5WIe+I1clHVB23yL8KwKYOw6`
+Snapshot ID: `AAAAAJdBwxF1rSGVeViEBi4/lcu9suZS`
